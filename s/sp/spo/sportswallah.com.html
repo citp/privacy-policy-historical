@@ -1,82 +1,110 @@
-<!--The following is the downloaded HTML source of the sportswallah.com privacy policy that was archived on 2017-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119051351id_/https%3A//www.sportswallah.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportswallah.com privacy policy that was archived on 2018-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630172324id_/https%3A//www.sportswallah.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <meta charset="utf-8">
+     <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WHRHM3F"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1757485774527061&amp;version=v2.7"></script><script>
+ var deferredPrompt=null;
+      window.addEventListener('load', function() {
+  var useragent = navigator.userAgent;
+
+$(".default-btn span").on("click",function(){
+ $(".addtohome-popup").hide();
+})
+        var outputElement = document.getElementById('output');
+        var btnSave = document.getElementsByClassName("add-icon-item")[0];
+		 var btnGotit = document.getElementsByClassName("readmore-btn")[0];
+       
+  
+				   if ('serviceWorker' in navigator) {
+			navigator.serviceWorker.register('/sw.js').then(function(reg) {
+				console.log('Successfully registered service worker', reg);
+			}).catch(function(err) {
+				console.warn('Error whilst registering service worker', err);
+			});
+			}
+        
+        window.addEventListener('beforeinstallprompt', function(e) {
+          console.log('beforeinstallprompt Event fired');
+          e.preventDefault();
+          
+          // Enable the button.
+          btnSave.removeAttribute('disabled');
+          
+          // Stash the event so it can be triggered later.
+          deferredPrompt = e;
+          
+          return false;
+        });
+        
+
+        btnSave.addEventListener('click', function() {	
+		var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+		
+  if(deferredPrompt !== undefined) {
+    // The user has had a positive interaction with our app and Chrome
+    // has tried to prompt previously, so let's show the prompt.
+if(deferredPrompt==null){
+ if (/android/i.test(userAgent)) {
+       $("#android-add-icon .addtohome-popup").show()
+    }
+
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+       $("#ios-add-icon .addtohome-popup").show()
+    }
+
+}else{
+   deferredPrompt.prompt();
+
+    // Follow what the user has done with the prompt.
+    deferredPrompt.userChoice.then(function(choiceResult) {
+
+      console.log(choiceResult.outcome);
+
+      if(choiceResult.outcome == 'dismissed') {
+        console.log('User cancelled home screen install');
+      }
+      else {
+        console.log('User added to home screen');
+      }
+
+      // We no longer need the prompt.  Clear it up.
+      deferredPrompt = null;
+    });
+}
+ if(gtag){
+gtag('event', 'Button_  PlusMobile ', { event_category: 'PlusMobile ', event_action: 'Click'});
+}
+  }
+});
+
+ 
+
+      });
+    </script>
+    <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="robots" content="index,follow">
-<meta name="google-site-verification" content="owrvBzXrxRV1XpBIvJIAqKQRgjVfjPt7XYLcdy_dVLQ">
-<meta name="google-site-verification" content="ktr1qXGcYkDssGj52PslBB1PyDw15ddTaRS3bhTYxiE">
-<!--if (m.Success)
-        {
-            var urlParts = Regex.Match(pageAlias, "(hi\/)?([^\/]*)\/teams\/([^\/]*)\/?([^\/]*)?");
-            if (!string.IsNullOrEmpty(urlParts.Value))
-            {
-                if (!string.IsNullOrEmpty(urlParts.Groups[4].Value))
-                {
-                    switch (urlParts.Groups[4].Value.ToLower())
-                    {
-                        case "news":
-                            {
-                                page_title = urlParts.Groups[3].Value + " News, Latest Breaking News - SportsWallah $v_pagemeta$";
-                                page_desc = "Get the latest " + urlParts.Groups[3].Value + " news and updates on Sportswallah.com ";
-                                page_keywords = urlParts.Groups[3].Value + " news and updates, sportswallah";
-
-                                break;
-                            }
-
-                        case "photos":
-                            {
-                                page_title = urlParts.Groups[3].Value + " Photos, Pictures - SportsWallah $v_pagemeta$";
-                                page_desc = "See the " + urlParts.Groups[3].Value + " photo, pictures and wallpapers on Sportswallah.com";
-                                page_keywords = urlParts.Groups[3].Value + " photos, pictures, wallpapers, sportswallah";
-
-                                break;
-                            }
-
-                        case "videos":
-                            {
-                                page_title = urlParts.Groups[3].Value + " Videos - SportsWallah $v_pagemeta$";
-                                page_desc = "Watch the latest " + urlParts.Groups[3].Value + " Videos on Sportswallah.com";
-                                page_keywords = urlParts.Groups[3].Value + " photos, pictures, wallpapers, sportswallah";
-
-                                break;
-                            }
-
-                        case "lifestyle":
-                            {
-                                page_title = urlParts.Groups[3].Value + " Lifestyle News, Photos, Videos - SportsWallah $v_pagemeta$";
-                                page_desc = "Latest " + urlParts.Groups[3].Value + " lifestyle news, photo and videos on Sportswallah.com";
-                                page_keywords = urlParts.Groups[3].Value + " Lifestyle News, Photos, Videos - SportsWallah";
-
-                                break;
-                            }
-                        default:
-                            break;
-                    }
-
-                    <meta class="mymeta" name="keywords" content="page_keywords"/>
-                    <meta class="mymeta" name="description" content="page_desc"/>
-                }
-                else
-                {
-                    page_title = urlParts.Groups[3].Value + " " + urlParts.Groups[2].Value + " Team, News, Schedule, Live Stats, Squad, Videos and Photos | Sportswallah";
-                    page_desc = urlParts.Groups[3].Value + " Get the latest news, player information, squad, ranking, schedule on Sportswallah";
-                    page_keywords = urlParts.Groups[3].Value + " profile, complete statistics, news, photos, videos, lifestyle";
-                }
-            }
-        }
-        else
-        {
-            <meta class="mymeta" name="keywords" content="Model.items[0].keywords">
-            <meta class="mymeta" name="description" content="Model.items[0].meta_info.meta_desc">
-        }-->
+    <meta name="msvalidate.01" content="1F1D45B824128B4F6ABE1A4A8C7E7DD5">
+    <meta name="google-site-verification" content="owrvBzXrxRV1XpBIvJIAqKQRgjVfjPt7XYLcdy_dVLQ">
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!--
+		-->
         <meta class="mymeta" name="keywords">
-        <meta class="mymeta" name="description">
-            <title>Privacy Policy - Sportswallah </title>   
-        <link class="mymeta" rel="canonical" href="https://www.sportswallah.com/privacy-policy">
+            <meta class="mymeta" name="description">
+            <title>Privacy Policy - Sportswallah </title>            <link class="mymeta" rel="canonical" href="https://www.sportswallah.com/privacy-policy">
                 <link rel="alternate" hreflang="en-in" href="https://www.sportswallah.com/privacy-policy">
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1757485774527061&amp;version=v2.7"></script><script>
+<link href="https://plus.google.com/+SportsWallah" rel="publisher"> 
+<link rel="stylesheet" type="text/css" href="/static-assets/website/css/main.css?v=1.71">
+<link rel="stylesheet" type="text/css" href="/static-assets/website/css/fonts.css?v=1.69">
+<link rel="manifest" href="/manifest.json">
+    <script>
         var SI_SWA = SI_SWA || {};
         var SI_SWA_FUN = new Array();
         var googletag = googletag || {};
@@ -84,7 +112,7 @@
     </script>
     <script type="text/javascript">
         var require = {
-            urlArgs: "v=00.29",
+            urlArgs: "v=00.89",
             paths: {
                 "jquery": "/static-assets/website/scripts/jquery-1.10.2.min",
                 "swiper": "/static-assets/website/scripts/vendors/swiper/js/swiper.min",
@@ -93,21 +121,37 @@
                 "lazy-load": "/static-assets/website/scripts/vendors/lazyload/jquery.lazy.min",
                 "waterwheel": "/static-assets/website/scripts/vendors/waterwheel/waterwheel",
                 "jsonp": "/static-assets/website/scripts/jsonp.min",
-                "datepicker": "//cdnjs.cloudflare.com/ajax/libs/datepicker/0.5.0/datepicker.min",
+                "datepicker": "/static-assets/website/scripts/datepicker.min",
                 "search": "/static-assets/website/scripts/search",
                 "sportswallahsiwidget": "https://www.sportswallah.com/static-assets/multisport/js/mwl-init",
                 "sipoll": "/static-assets/website/scripts/si_poll",
-                "jscookie": "https://cdnjs.cloudflare.com/ajax/libs/js-cookie/latest/js.cookie.min",
-                "handlebars": "/static-assets/website/scripts/handlebars-v4.0.5"
+                "jscookie": "/static-assets/website/scripts/js.cookie.min",
+                "handlebars": "/static-assets/website/scripts/handlebars-v4.0.5",
+				"watermark": "/static-assets/website/scripts/vendors/watermark/watermark.min",
+ "stickey":"/static-assets/website/scripts/vendors/sticky/sticky-sidebar.min",
+				"resize":"/static-assets/website/scripts/vendors/sticky/resize",
+				 "chartjs": "/static-assets/website/scripts/vendors/chartjs/chart.min",
             }
         };
     </script>
-    <script src="/static-assets/website/scripts/jquery-1.10.2.min.js"></script>
+    <script async="async" src="/static-assets/website/scripts/jquery-1.10.2.min.js"></script>
     <script async="async" data-main="/static-assets/website/scripts/swa_main" src="/static-assets/website/scripts/require.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+	google_ad_client: "ca-pub-8450756220478534",
+	enable_page_level_ads: true
+	});
+	</script>
     <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-    <link rel="stylesheet" type="text/css" href="/static-assets/website/css/main.css?v=1.13">
+    <script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"> 
+    <!--<link rel="stylesheet" type="text/css" href="/static-assets/website/css/quickfix.css?v=3.56">-->
+	<style>
+        [v-cloak] {
+        display: none;
+        }
+    </style>
     <script>
         window.fbAsyncInit = function () {
             FB.init({
@@ -118,8 +162,12 @@
             FB.AppEvents.logPageView();
         };
 
-    </script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="swa_main" src="/static-assets/website/scripts/swa_main.js?v=00.29"></script>
- <script type="text/javascript">
+    </script>
+<script type="text/javascript">
+	if (self !== top){
+    top.location.replace(self.location.href)}
+	</script>
+    <script type="text/javascript">
         (function (d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
             if (d.getElementById(id)) return;
@@ -128,22 +176,33 @@
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
     </script>
-    <!--Ga Code-->
-    <script>
-            (function (i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+<meta property="fb:pages" content="607735339418310">
+        <meta name="robots" content="index,follow">
+        <!--Ga Code
+        <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-            ga('create', 'UA-80835635-1', 'auto');
-            ga('require', 'displayfeatures');
-            ga('set', 'page', window.location.pathname);
-            ga('send', 'pageview');
+                ga('create', 'UA-80835635-1', 'auto');
+                ga('require', 'displayfeatures');
+                ga('set', 'page', window.location.pathname);
+                ga('send', 'pageview');
+            </script> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80835635-1"></script>
+        <script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-80835635-1');
         </script>
     <!-- Begin comScore Tag -->
-    <script>
+        <script>
         var _comscore = _comscore || [];
         _comscore.push({ c1: "2", c2: "24938208" });
         (function () {
@@ -151,7 +210,7 @@
             s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
             el.parentNode.insertBefore(s, el);
         })();
-    </script>
+        </script>
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=24938208&cv=2.0&cj=1">
     </noscript>
@@ -174,26 +233,95 @@
 
             return t;
         }(document, "script", "twitter-wjs"));</script>
+        <!-- Google Tag Manager -->
+        <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHRHM3F');</script>
+        <!-- End Google Tag Manager -->
+ <!--Add Google site search box code-->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.sportswallah.com/",
+            "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.sportswallah.com/search?q={q}",
+            "query-input": "required name=q"
+        }
+        }
+    </script>
 
 
-</head>
-<body class="privacy-policy-page " style="">
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="swa_main" src="/static-assets/website/scripts/swa_main.js?v=00.89"></script></head>
+
+<body class=" privacy-policy-page " style="">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHRHM3F" height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <div class="mod mod-login">
+            <div class="popup login-popup">             
+                <div class="popup-wrapper">
+                    <div class="content-box">
+                        <div class="popup-close">
+                           <span class="close">x</span>
+                        </div>
+                        <div class="popup-body">
+                            <div class="content-box">
+                                <div class="social-login">
+                                    <ul class="d-flex">
+                                        <li class="popup-item facebook">
+                                            <span class="icon bg-color"></span>
+                                            <span class="txt bg-color">Login With Facebook</span>
+                                        </li>
+                                        <li class="popup-item gplus">
+                                            <span class="icon bg-color"></span>
+                                            <span class="txt bg-color">Login With Google Plus</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
     <div class="site">
+    <section id="fd72a4bf-0873-404a-8012-6e73a2e557c1" data-component="SI-Custom" data-template="widget_layout_1"> <div class="top-banner " onclick="gtag('event', 'Button_   SWFifawc  ', { event_category: '  SWFifawc ', event_action: 'Click'});">
+				<div class="content-box">
+					<a href="https://www.sportswallah.com/football/fifa">
+						
+                                           <img class="hidden-xs img-responsive" src="/static-assets/website/images/fifa-desktop-banner.jpg">
+                                           <img class="visible-xs img-responsive" src="/static-assets/website/images/fifa-mobile-banner.jpg">
+					</a>
+					<span class="close">X</span>
+				</div>
+			</div>
+    
+</section>
         <div class="site-userbar">
             <div class="container-fluid">
                 <div class="content-box clearfix">
                     <div class="left-block">
                         <div class="quick-links item hidden-xs">
-                            <section id="7bd50aa5-d87b-40b8-8188-1c01da01d0b1" data-component="SI-menu" data-template="widget_layout_4">                    <div class="quick-links item visible-lg">
-                        <ul>
-                                <li><a href="/cricket/india-vs-sri-lanka"><span>India vs Sri Lanka </span></a></li>
-                                <li><a href="/football/premier-league"><span>Premier League</span></a></li>
-                                <li><a href="/football/uefa-champions-league"><span>UEFA Champions League</span></a></li>
-                        </ul>
-                    </div>
+                            <section id="7bd50aa5-d87b-40b8-8188-1c01da01d0b1" data-component="SI-menu" data-template="widget_layout_4">	<div class="quick-links item visible-lg">
+		<ul>
+				<li><a href="https://www.sportswallah.com/football/premier-league"><span>Premier League</span></a></li>
+				<li><a href="https://www.sportswallah.com/football/fifa"><span>Football World Cup 2018</span></a></li>
+				<li><a href="https://www.sportswallah.com/wwe"><span>WWE</span></a></li>
+				<li><a href="https://www.sportswallah.com/nba"><span>NBA</span></a></li>
+		</ul>
+	</div>
 </section>
                             <!-- Hindi Menu Left -->
-                            <section id="15375a65-6ff5-4ba3-8930-8b1f0e70aa86" data-component="SI-menu" data-template="widget_layout_4" data-mobile="widget_layout_4"></section>
+                            <section id="15375a65-6ff5-4ba3-8930-8b1f0e70aa86" data-component="SI-menu" data-template="widget_layout_4" data-mobile="widget_layout_4">
+                            </section>
                         </div>
                     </div>
                     <div class="right-block">
@@ -219,57 +347,49 @@
         <header class="site-header">
             <div class="primary-nav">
                 <div class="container">
-                    <div class="content-box clearfix">
-                        <div class="pull-left">
+                    <div class="content-box clearfix nav-container d-flex">
+                        <div class="first-block">
                             <span class="menu-toggle">
                                 <span class="line-1 line"></span>
                                 <span class="line-2 line"></span>
                                 <span class="line-3 line"></span>
                             </span>
                             <div class="site-logo">
-
-                                <a href="https://www.sportswallah.com"><h2 class="logo">SportsWallah</h2></a>
-
+                                <a href="https://www.sportswallah.com">
+                                    <h2 class="logo">SportsWallah</h2>
+                                </a>
                             </div>
                         </div>
-                        <div class="pull-left">
-                            <section id="443298d8-f67d-4a09-8fbd-bc3d4791dd6d" data-component="SI-menu" data-template="widget_layout_1">                    <div class="site-nav">
-                        <nav class="swiper-container headerNavData">
-                            <ul>
-                                        <li class="cricket"><a href="/cricket"><span>Cricket</span></a></li>
-                                        <li class="football"><a href="/football"><span>Football</span></a></li>
-                                        <li class="tennis"><a href="/tennis"><span>Tennis</span></a></li>
-                                        <li class="badminton"><a href="/badminton"><span>Badminton</span></a></li>
-                                        <li class="other-sports"><a href="/other-sports"><span>Other Sports</span></a></li>
-                                        <li class="stats"><a href="/stats"><span>Stats</span></a></li>
-                                        <li class="schedule submenu">
-                                            <a href="#"><span>Schedule</span></a>
-                                            <ul>
-                                                    <li><a href="/kabaddi-schedule"><span>Kabaddi</span></a></li>
-                                                    <li><a href="/cricket-schedule"><span>Cricket</span></a></li>
-                                            </ul>
-                                        </li>
-                            </ul>
-                        </nav>
-                        <!-- <div class="user-lang item"> -->
-                            <!-- <div class="lang-toggle"> -->
-                                <!-- <span class="txt">EN</span> -->
-                                <!-- <span class="toggle-btn"> -->
-                                    <!-- <input type="checkbox" name="toggle-lang"> -->
-                                    <!-- <em class="toggle-switch"></em> -->
-                                <!-- </span> -->
-                                <!-- <span class="txt">हिंदी</span> -->
-                            <!-- </div> -->
-                        <!-- </div> -->
-                    </div>
+                        <div class="second-block">
+                            <section id="443298d8-f67d-4a09-8fbd-bc3d4791dd6d" data-component="SI-menu" data-template="widget_layout_1"><div class="site-nav">
+	<nav class="swiper-container headerNavData">
+		<ul>
+					<li class="cricket"><a href="https://www.sportswallah.com/cricket"><span>Cricket</span></a></li>
+					<li class="football"><a href="https://www.sportswallah.com/football"><span>Football</span></a></li>
+					<li class="tennis"><a href="https://www.sportswallah.com/tennis"><span>Tennis</span></a></li>
+					<li class="badminton"><a href="https://www.sportswallah.com/badminton"><span>Badminton</span></a></li>
+					<li class="other-sports"><a href="https://www.sportswallah.com/other-sports"><span>Other Sports</span></a></li>
+					<li class="stats"><a href="https://www.sportswallah.com/stats"><span>Stats</span></a></li>
+					<li class="schedule submenu">
+						<a href="#"><span>Schedule</span></a>
+						<ul>
+								<li><a href="https://www.sportswallah.com/cricket-schedule" data-name="Cricket">Cricket</a></li>
+						</ul>
+					</li>
+		</ul>
+	</nav>
+</div>
 </section>
                             <!-- Hindi Menu Top -->
-                            <section id="792b140d-a004-430c-acdd-3024cfeb2f77" data-component="SI-menu" data-template="widget_layout_1"></section>
+                            <section id="792b140d-a004-430c-acdd-3024cfeb2f77" data-component="SI-menu" data-template="widget_layout_1">
+                            </section>
                         </div>
-                        <div class="site-search visible-xs">
+
+                        <div class="site-search clearfix">
                             <span class="search-ico"></span>
                             <div class="search-screen" style="display: none;">
-                                <div class="popup-overlay"></div>
+                                <div class="popup-overlay">
+                                </div>
                                 <div class="search-wrap">
                                     <span class="popup-close">x</span>
                                     <div class="container">
@@ -281,13 +401,13 @@
                                             <section id="443298d8-f67d-4a09-8fbd-bc3d4788dd6b" data-component="SI-menu" data-template="widget_layout_8">    <span class="title">Most Popular:</span>
     <div class="popular-tags">
         <ul>
-					<li><a href="/cricket/india-vs-sri-lanka">India vs Sri Lanka </a></li>
-					<li><a href="/cricket/india-vs-newzealand">New Zealand Tour of India</a></li>
+					<li><a href="https://www.sportswallah.com/cricket/india-vs-sri-lanka">India vs Sri Lanka </a></li>
+					<li><a href="https://www.sportswallah.com/cricket/india-vs-newzealand">New Zealand Tour of India</a></li>
         </ul>
     </div>
 </section>
-                                          
-                                            <section id="792b140d-a004-430c-acdd-3024cfea4h6i" data-component="SI-menu" data-template="widget_layout_8"></section>
+                                            <section id="792b140d-a004-430c-acdd-3024cfea4h6i" data-component="SI-menu" data-template="widget_layout_8">
+                                            </section>
                                         </div>
                                         <div class="search-suggestions">
                                             <div class="row">
@@ -299,32 +419,58 @@
                         </div>
 
 
-                        <div class="mobile-nav">
-                            <div class="nav-wrap clearfix">
-                                <span class="mobile-nav-close">x</span>
-                                <div class="nav-links">
+                        <div class="user-lang item visible-xs">
+                            <div class="lang-toggle">
+                                <span class="txt">EN</span>
+                                <span class="toggle-btn">
+                                    <input type="checkbox" name="toggle-lang">
+                                    <em class="toggle-switch"></em>
+                                </span>
+                                <span class="txt">हि</span>
+                            </div>
+                        </div>
 
+                        <div class="mobile-nav">
+							
+                        
+                            <div class="nav-wrap clearfix">
+                               
+								<span class="mobile-nav-close">x</span>
+                                <div class="nav-links">
+								
                                     <!-- English mobile Menu  -->
+									<section id="7e240d39-61c7-4d57-8b38-ea4f6ee7f02a" data-component="SI-menu" data-template="widget_layout_17">    <div class="nav-block mobile-leagues-listing">
+        <div class="nav-block-head">
+            <span>series</span>
+        </div>
+        <nav class="nav-block-body">
+            <ul>
+                        <li class="football-fifa"><a href="https://www.sportswallah.com/football/fifa"><span>Fifa World Cup 2018</span></a></li>
+                        <li class="football-premier-league"><a href="https://www.sportswallah.com/football/premier-league"><span>Premier League</span></a></li>
+                        <li class="wwe"><a href="https://www.sportswallah.com/wwe"><span>WWE</span></a></li>
+                        <li class="nba"><a href="https://www.sportswallah.com/nba"><span>NBA</span></a></li>
+            </ul>
+        </nav>
+    </div>
+</section>
                                     <section id="88ef447e-2db3-40b5-8e2c-a0f21249292d" data-component="SI-menu" data-template="widget_layout_6">    <div class="nav-block primary-mobile-nav">
         <div class="nav-block-head">
             <span>Sports</span>
         </div>
         <nav class="nav-block-body sports-listing">
             <ul>
-
-                        <li class="cricket" title="cricket"><a href="/cricket"><span>Cricket</span></a></li>
-                        <li class="football" title="football"><a href="/football"><span>Football</span></a></li>
-                        <li class="tennis" title="tennis"><a href="/tennis"><span>Tennis</span></a></li>
-                        <li class="badminton" title="badminton"><a href="/badminton"><span>Badminton</span></a></li>
-                        <li class="other-sports" title="other-sports"><a href="/other-sports"><span>Other Sports</span></a></li>
-                        <li class="stats" title="stats"><a href="/stats"><span>Stats</span></a></li>
+						<li class="cricket" title="cricket"><a href="https://www.sportswallah.com/cricket"><span>Cricket</span></a></li>
+						<li class="football" title="football"><a href="https://www.sportswallah.com/football"><span>Football</span></a></li>
+						<li class="tennis" title="tennis"><a href="https://www.sportswallah.com/tennis"><span>Tennis</span></a></li>
+						<li class="badminton" title="badminton"><a href="https://www.sportswallah.com/badminton"><span>Badminton</span></a></li>
                         <li class="schedule submenu">
                             <a href="#"><span>Schedule</span></a>
                             <ul>
-                                    <li class="kabaddi" title="kabaddi-schedule"><a href="/kabaddi-schedule"><span>Kabaddi</span></a></li>
-                                    <li class="cricket" title="cricket-schedule"><a href="/cricket-schedule"><span>Cricket</span></a></li>
+									<li class="cricket" title="cricket-schedule"><a href="https://www.sportswallah.com/cricket-schedule"><span>Cricket</span></a></li>
                             </ul>
                         </li>
+						<li class="other-sports" title="other-sports"><a href="https://www.sportswallah.com/other-sports"><span>Other Sports</span></a></li>
+						<li class="stats" title="stats"><a href="https://www.sportswallah.com/stats"><span>Stats</span></a></li>
             </ul>
         </nav>
     </div>
@@ -335,35 +481,82 @@
     </div>
     <nav class="nav-block-body">
         <ul>
-
-                <li><a href="/news"><span>News</span></a></li>
-                <li><a href="/lifestyle"><span>Lifestyle</span></a></li>
-                <li><a href="/nostalgia"><span>Nostalgia</span></a></li>
-                <li><a href="/photos"><span>Photos</span></a></li>
-                <li><a href="/videos"><span>Videos</span></a></li>
-                <li><a href="/trending"><span>Trending</span></a></li>
-                <li><a href="/features"><span>Features</span></a></li>
+				<li class="news"><a href="https://www.sportswallah.com/news"><span>News</span></a></li>
+				<li class="lifestyle"><a href="https://www.sportswallah.com/lifestyle"><span>Lifestyle</span></a></li>
+				<li class="nostalgia"><a href="https://www.sportswallah.com/nostalgia"><span>Nostalgia</span></a></li>
+				<li class="photos"><a href="https://www.sportswallah.com/photos"><span>Photos</span></a></li>
+				<li class="videos"><a href="https://www.sportswallah.com/videos"><span>Videos</span></a></li>
+				<li class="trending"><a href="https://www.sportswallah.com/trending"><span>Trending</span></a></li>
+				<li class="features"><a href="https://www.sportswallah.com/features"><span>Features</span></a></li>
         </ul>
     </nav>
 </div>
 </section>
-
+									
+									<!--<section id="d6885b79-aa9d-4de3-9d51-adf88ad5fb08" data-component="SI-menu" data-template="widget_layout_10">
+                                    </section>-->
+									
                                     <!-- Hindi mobile Menu  -->
-                                    <section id="88ef447e-2db3-40b5-8e2c-a0f212492pq4" data-component="SI-menu" data-template="widget_layout_6"></section>
-                                    <section id="88ef447e-2db3-40b5-8e2c-a0f21249279h" data-component="SI-menu" data-template="widget_layout_7"></section>
-
+									<section id="a92cffc7-cb54-4440-81d4-1c3dee508aff" data-component="SI-menu" data-template="widget_layout_17">
+									</section>
+                                    <section id="88ef447e-2db3-40b5-8e2c-a0f212492pq4" data-component="SI-menu" data-template="widget_layout_6">
+                                    </section>
+                                    <section id="88ef447e-2db3-40b5-8e2c-a0f21249279h" data-component="SI-menu" data-template="widget_layout_7">
+									</section>
+									
+									
+									
+									<!--<section id="011a98c2-598b-4c2c-8252-3be0774054ab" data-component="SI-menu" data-template="widget_layout_10">
+                                    </section> -->
+									
+                                    
                                 </div>
                                 <div class="social-links social">
                                     <ul>
-                                        <li class="facebook"><a class="socialLinks" href="https://www.facebook.com/sportswallah/" target="_blank"><span>Follow us on Facebook</span></a></li>
-                                        <li class="twitter"><a class="socialLinks" href="https://twitter.com/thesportswallah" target="_blank"><span>Follow us on Twitter</span></a></li>
-                                        <li class="instagram"><a class="socialLinks" href="https://www.instagram.com/thesportswallah/"><span>Follow us on Instagram</span></a></li>
-                                        <li class="youtube"><a class="socialLinks" href="https://www.youtube.com/channel/UCjJLAcBc3JDsf85sTkGpudQ" target="_blank"><span>Follow us on Youtube</span></a></li>
+                                        <li class="facebook">
+                                            <a class="socialLinks" href="https://www.facebook.com/sportswallah/" target="_blank">
+<span>Follow us on Facebook</span>
+</a>
+                                        </li>
+                                        <li class="twitter">
+                                            <a class="socialLinks" href="https://twitter.com/thesportswallah" target="_blank">
+<span>Follow us on Twitter</span>
+</a>
+                                        </li>
+                                        <li class="instagram">
+                                            <a class="socialLinks" href="https://www.instagram.com/thesportswallah/">
+<span>Follow us on Instagram</span>
+</a>
+                                        </li>
+                                        <li class="youtube">
+                                            <a class="socialLinks" href="https://www.youtube.com/channel/UCjJLAcBc3JDsf85sTkGpudQ" target="_blank">
+<span>Follow us on Youtube</span>
+</a>
+                                        </li>
+                                        <li class="gplus">
+                                            <a class="socialLinks" href="https://plus.google.com/110120158378420204560" target="_blank">
+<span>Follow us on Google+</span>
+</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <!-- <div>
+                        <ul>
+                            <li class="google">
+                                <a href="/socialapi/auth/login/social/google">
+                            <span>Sign In with Google Plus</span>
+                            </a>
+                            </li>
+                            <li class="facebook">
+                                <a href="/socialapi/auth/login/social/fb">
+                            <span>Sign In with Facebook</span>
+                            </a>
+                            </li>
+                        </ul>
+                    </div> -->
                 </div>
             </div>
             <div class="secondary-nav web">
@@ -371,70 +564,39 @@
                     <div class="content-box clearfix">
                         <div class="quick-links-nav">
                             <div class="right-block">
-                                <section id="182e4650-0a83-42a0-8cff-6f136ed3e74b" data-component="SI-menu" data-template="widget_layout_5">                    <div class="right-block">
-                        <nav>
-                            <ul>
-                                    <li><a href="/news"><span>News</span></a></li>
-                                    <li><a href="/lifestyle"><span>Lifestyle</span></a></li>
-                                    <li><a href="/nostalgia"><span>Nostalgia</span></a></li>
-                                    <li><a href="/photos"><span>Photos</span></a></li>
-                                    <li><a href="/videos"><span>Videos</span></a></li>
-                                    <li><a href="/trending"><span>Trending</span></a></li>
-                                    <li><a href="/features"><span>Features</span></a></li>
+                                <section id="182e4650-0a83-42a0-8cff-6f136ed3e74b" data-component="SI-menu" data-template="widget_layout_5"><div class="right-block">
+	<nav>
+		<ul>
+				<li class="news"><a href="https://www.sportswallah.com/news"><span>News</span></a></li>
+				<li class="lifestyle"><a href="https://www.sportswallah.com/lifestyle"><span>Lifestyle</span></a></li>
+				<li class="nostalgia"><a href="https://www.sportswallah.com/nostalgia"><span>Nostalgia</span></a></li>
+				<li class="photos"><a href="https://www.sportswallah.com/photos"><span>Photos</span></a></li>
+				<li class="videos"><a href="https://www.sportswallah.com/videos"><span>Videos</span></a></li>
+				<li class="trending"><a href="https://www.sportswallah.com/trending"><span>Trending</span></a></li>
+				<li class="features"><a href="https://www.sportswallah.com/features"><span>Features</span></a></li>
+				<li class="football-fifa"><a href="https://www.sportswallah.com/football/fifa"><span>Football World Cup 2018</span></a></li>
 
-                            </ul>
-                        </nav>
-						  
-						  <!-- <div class="site-search"> -->
-							<!-- <span class="search-ico"></span> -->
-							<!-- <div class="search-screen" style="display: none;"> -->
-								<!-- <div class="popup-overlay"></div> -->
-									<!-- <div class="search-wrap"> -->
-										<!-- <span class="popup-close">x</span> -->
-										<!-- <div class="container"> -->
-											<!-- <div class="search-field"> -->
-												<!-- <input type="text" name="search-field" placeholder="search"> -->
-												<!-- <a class="allresult-btn" style="display: none">All Results</a> -->
-											<!-- </div> -->
-											<!-- <div class="popular-search"> -->
-												<!-- <span class="title">Most Popular:</span> -->
-												<!-- <div class="popular-tags"> -->
-													<!-- <ul> -->
-														<!-- <li><a href="/cricket/icc-champions-trophy-2017">Champions Trophy</a></li> -->
-														<!-- <li><a href="/cricket/india-vs-australia">Ind vs Aus</a></li> -->
-														<!-- <li><a href="/cricket/ipl">Indian Premier League</a></li> -->
-														<!-- <li><a href="/cricket/players/4721/virat-kohli">Virat Kohli</a></li> -->
-														<!-- <li><a href="/nostalgia">Nostalgia</a></li> -->
+		</ul>
+	</nav>
+	  
+	</div>
+<script>
+	SI_SWA_FUN.push(function(){
+		requirejs(["search"],function(){})
+	})
 
-													<!-- </ul> -->
-												<!-- </div> -->
-											<!-- </div> -->
-											<!-- <div class="search-suggestions"> -->
-												<!-- <div class="row"> -->
-
-												<!-- </div> -->
-											<!-- </div> -->
-										<!-- </div> -->
-									<!-- </div> -->
-								<!-- </div> -->
-							<!-- </div> -->
-							
-						</div>
-                    <script>
-                        SI_SWA_FUN.push(function(){
-                            requirejs(["search"],function(){})
-                        })
-
-                    </script>
+</script>
 </section>
                                 <!-- Hindi Menu Right -->
-                                <section id="53282029-4544-420b-9c46-adce1945b21f" data-component="SI-menu" data-template="widget_layout_5" data-mobile="widget_layout_5"></section>
+                                <section id="53282029-4544-420b-9c46-adce1945b21f" data-component="SI-menu" data-template="widget_layout_5" data-mobile="widget_layout_5">
+                                </section>
                             </div>
                         </div>
-                        <div class="site-search">
+                        <!--<div class="site-search">
                             <span class="search-ico"></span>
                             <div class="search-screen" style="display: none;">
-                                <div class="popup-overlay"></div>
+                                <div class="popup-overlay">
+                                </div>
                                 <div class="search-wrap">
                                     <span class="popup-close">x</span>
                                     <div class="container">
@@ -443,29 +605,24 @@
                                             <a href="#" class="allresult-btn">All Results</a>
                                         </div>
                                         <div class="popular-search">
-                                            <section id="443298d8-f67d-4a09-8fbd-bc3d4788cc5a" data-component="SI-menu" data-template="widget_layout_8">    <span class="title">Most Popular:</span>
-    <div class="popular-tags">
-        <ul>
-					<li><a href="/cricket/india-vs-sri-lanka">India vs Sri Lanka </a></li>
-					<li><a href="/cricket/india-vs-newzealand">New Zealand Tour of India</a></li>
-        </ul>
-    </div>
-</section>
-
-                                            <section id="792b140d-a004-430c-acdd-3024cfea3g95" data-component="SI-menu" data-template="widget_layout_8"></section>
+                                            <section id="443298d8-f67d-4a09-8fbd-bc3d4788cc5a" data-component="SI-menu" data-template="widget_layout_8">
+                                            </section>
+                                            <section id="792b140d-a004-430c-acdd-3024cfea3g95" data-component="SI-menu" data-template="widget_layout_8">
+                                            </section>
                                         </div>
                                         <div class="search-suggestions">
                                             <div class="row">
-
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
-                    <span class="nav-left slider-nav"></span>
-                    <span class="nav-right slider-nav"></span>
+                    <span class="nav-left slider-nav">
+</span>
+                    <span class="nav-right slider-nav">
+</span>
                 </div>
             </div>
             <div>
@@ -477,11 +634,16 @@
         (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
     </component>
-    <!--Changed on 9-sept-2017-->
+ 
 </section>
-                <section id="88fc2e9c-d707-4acd-bba6-7d95f3672fq1" data-component="SI-ads" data-template="widget_layout_1"></section>
+				
+				 <!-- Hindi ladherboerd add -->
+				<section id="6ac12e7d-a81c-4790-a982-63d128b1e82c" data-component="SI-ads" data-template="widget_layout_1"></section>
+				<!-- Hindi ladherboerd add -->
+                <section id="88fc2e9c-d707-4acd-bba6-7d95f3672fq1" data-component="SI-ads" data-template="widget_layout_1">
+                </section>
+				
             </div>
-
             <section class="waf-row">
                 <div class="waf-view">
                     <div class="container">
@@ -489,16 +651,19 @@
                             <div class="col-md-12">
                                 <section id="b2af91c8-401b-47fd-b052-6cf6f00fcf00" data-component="SI-breadcrumb" data-template="widget_layout_1">    <component class="mod mod-breadcrumb">
         <div class="content-box">
-            <ul>
-                <li>
-                        <a href="/">
-                            <span>Home</span>
+            <ul itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="https://www.sportswallah.com/">
+                            <span itemprop="name">Home</span>
+							<meta itemprop="position" content="1">
                         </a>
                 </li>
-                <li>
-                        <span>Privacy Policy</span>
+                <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <span itemprop="name">Privacy Policy</span>
+						<meta itemprop="position" content="2">
                 </li>
-            </ul>
+            </ul>		
+			
         </div>
     </component>
 
@@ -508,7 +673,6 @@
                     </div>
                 </div>
             </section>
-
         </header>
         <section class="site-content">
             <myapp><section class="waf-row">    <div class="waf-view"> <div class="container"> <div class="row"> <div class="col-md-12"><section class="site-content" data-mobile="widget_layout_3" data-template="widget_layout_3" data-component="SI-social" id="fcd5afcd-7db9-47d2-b152-a39df22ffa9a"><component class="mod mod-static-page mod-privacy">
@@ -599,105 +763,114 @@
 </section></div></div></div></div></section></myapp>
         </section>
         <footer class="site-footer">
-            <section id="9c699d13-51b1-4f12-b2a6-84f3731a0a36" data-component="SI-menu" data-template="widget_layout_2"><footer class="site-footer">
-    <div class="footer-links">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 footer-about">
-                    <div class="content-box">
-                        <div class="brand-logo">
-                            <img src="/static-assets/website/images/sportswallah-logo.png">
-                        </div>
-                        <div class="links">
-                            <a href="/contact-us" data-name="Contact us">Contact Us</a>
-                            <a href="/privacy-policy" data-name="Privacy Policy">Privacy Policy</a>
-                            <a href="/terms-of-use" data-name="Terms of use">Terms of Use</a>
-							 <a href="/about-us" data-name="Terms of use">About Us</a>
-                        </div>
-                        <div class="social-links social">
-                            <ul>
-                                <li class="facebook"><a class="socialLinks" href="https://www.facebook.com/sportswallah/" target="_blank"><span>Follow us on Facebook</span></a></li>
-                                <li class="twitter"><a class="socialLinks" href="https://twitter.com/thesportswallah" target="_blank"><span>Follow us on Twitter</span></a></li>
-                                <li class="instagram"><a class="socialLinks" href="https://www.instagram.com/thesportswallah/"><span>Follow us on Instagram</span></a></li>
-                                <li class="youtube"><a class="socialLinks" href="https://www.youtube.com/channel/UCjJLAcBc3JDsf85sTkGpudQ" target="_blank"><span>Follow us on Youtube</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
+             <!--<section id="9c699d13-51b1-4f12-b2a6-84f3731a0a36" data-component="SI-menu" data-template="widget_layout_2">
+            </section>
+            Hindi Menu Footer 
+            <section id="e4f47495-4674-4b3c-a74b-3edb137554c1" data-component="SI-menu" data-template="widget_layout_2" data-mobile="widget_layout_2">
+            </section> -->
+			
+			<section id="9e079ca5-cb65-411b-903d-daaf57ae547d" data-component="SI-Custom" data-template="widget_layout_1"><div class="footer-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 footer-txt">
+                <div class="d-flex footer-title">
+                    <h6 class="title">About Sportswallah</h6>
+                    <span class="fade-effect visible-xs">+</span>
                 </div>
-                <div class="col-md-8 footer-quick-links">
-                    <div class="quick-links clearfix">
-                        <div class="links-col col-1">
-                            <div class="content-box">
-                                <h3 data-name="Cricket" class="title">Cricket</h3>
-                                <ul>
-											<li><a href="/cricket/news" data-name="News">News</a></li>
-											<li><a href="/cricket/nostalgia" data-name="Nostalgia">Nostalgia</a></li>
-											<li><a href="/cricket/photos" data-name="Photos">Photos</a></li>
-											<li><a href="/cricket/videos" data-name="Videos">Videos</a></li>
-											<li><a href="/cricket/lifestyle" data-name="Lifestyle">Lifestyle</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="links-col col-2">
-                            <div class="content-box">
-                                <h3 data-name="Football" class="title">Football</h3>
-                                <ul>
-                                        <li><a href="/football/news" data-name="News">News</a></li>
-                                        <li><a href="/football/nostalgia" data-name="Nostalgia">Nostalgia</a></li>
-                                        <li><a href="/football/photos" data-name="Photos">Photos</a></li>
-                                        <li><a href="/football/videos" data-name="Videos">Videos</a></li>
-                                        <li><a href="/football/lifestyle" data-name="Lifestyle">Lifestyle</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="links-col col-3">
-                            <div class="content-box">
-                                <h3 data-name="Other Sports" class="title">Other Sports</h3>
-                                <ul>
-                                        <li><a href="/kabaddi" data-name="Kabaddi">Kabaddi</a></li>
-                                        <li><a href="/formula-1" data-name="Formula 1">Formula 1</a></li>
-                                        <li><a href="/golf" data-name="Golf">Golf</a></li>
-                                        <li><a href="/hockey" data-name="Hockey">Hockey</a></li>
-                                        <li><a href="/badminton" data-name="Badminton">Badminton</a></li>
-                                        <li><a href="/tennis" data-name="Tennis">Tennis</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="links-col col-4">
-                            <div class="content-box">
-                                <h3 data-name="Trending" class="title">Trending</h3>
-                                <ul>
-                                        <li><a href="/football/fifa-u-17-world-cup" data-name="FIFA Under 17 World Cup 2017">FIFA Under 17 World Cup 2017</a></li>
-                                        <li><a href="/cricket/tnpl" data-name="TNPL">TNPL</a></li>
-                                        <li><a href="/kabaddi/pro-kabaddi-league" data-name="Pro Kabaddi League">Pro Kabaddi League</a></li>
-										<li><a href="https://70goldenmoments.sportswallah.com" data-name="#70GoldenMoments" target="_blank">#70GoldenMoments</a></li>
-                                </ul>
-                            </div>
-                        </div>
-						
+                <div class="about-swa">
+                    <p>Sportswallah is India’s first sports-lifestyle website which aims to strike the right balance between
+                        editorials &amp; lifestyle, coupled with live scores and real-time social media trends, sports updates,
+                        suiting to an individual’s needs.</p>
+                    <p>Sportswallah is a one-stop shop for everything that is there in sports. We cover Cricket, Football, Kabaddi,
+                        Tennis, Hockey, Badminton, Formula 1 (F1), World Wrestling Entertainment (WWE) - erstwhile World
+                        Wrestling Federation WWF, National Basketball Association (NBA), Cycling and all major Sports in
+                        form of News, Images &amp; Videos. We also feature Sports Memes, Humour, Interviews with Athletes and
+                        their Lifestyle.</p>
+                    <p>We also aim to provide our viewers with the real-time updates of what’s hot in the sporting world. So,
+                        if there is anything hot trending in the world of sports, like Cricket Twenty20 (T20), One Day International
+                        (ODIs), Test cricket, Football Clubs, English Premier League (EPL), La Liga, FIFA, Pro Kabaddi League,
+                        Wimbledon, US Open, Australia Open, French Open, All England Championship, World Championship,World
+                        Cups, League Matches, Olympics, Asian Games, Commonwealth Game, Tour De France and much more you
+                        will get that on Sportswallah and that's not all, we also cover Women in Sports!</p>
+                    <p>We are a bunch of sports editors, statisticians, enthusiasts, maniacs who work at Sportswallah. Sportswallah
+                        is mentored by one of the most renowned and reputed journalists, Mr. Ayaz Memon. He comes with an
+                        elaborated experience of sports journalism across reputed establishments.</p>
+                    <p>Not being a regular news website, we love to relive most famous sporting memories, thus bringing out
+                        the nostalgia in you. Also, we are available in Hindi.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-links">
+    <div class="container">
+        <div class="row">
+            <div class="footer-about col-sm-8 col-sm-offset-2">
+                <div class="content-box">
+                    <div class="links">
+                        <a href="https://www.sportswallah.com/contact-us">Contact us</a>
+                        <a href="https://www.sportswallah.com/privacy-policy" rel="nofollow">Privacy Policy</a>
+                        <a href="https://www.sportswallah.com/terms-of-use" rel="nofollow">Terms of use</a>
+                        <a href="https://www.sportswallah.com/about-us">About Us</a>
+                        <a href="https://www.sportswallah.com/rss">RSS</a>
+                        <a href="https://www.sportswallah.com/sitemap">Sitemap</a>
+                    </div>
+                    <div class="social-links social">
+                        <ul>
+                            <li class="facebook">
+                                <a href="https://www.facebook.com/sportswallah/" rel="nofollow">
+                                    <span>Follow us on Facebook</span>
+                                </a>
+                            </li>
+                            <li class="twitter">
+                                <a href="https://twitter.com/thesportswallah" rel="nofollow">
+                                    <span>Follow us on Twitter</span>
+                                </a>
+                            </li>
+                            <li class="gplus">
+                                <a href="https://plus.google.com/+SportsWallah" rel="publisher">
+                                    <span>Follow us on Google Plus</span>
+                                </a>
+                            </li>
+                            <li class="instagram">
+                                <a href="https://www.instagram.com/thesportswallah/" rel="nofollow">
+                                    <span>Follow us on Instagram</span>
+                                </a>
+                            </li>
+                            <li class="youtube">
+                                <a href="https://www.youtube.com/channel/UCjJLAcBc3JDsf85sTkGpudQ" rel="nofollow">
+                                    <span>Follow us on Youtube</span>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="footer-credits">
-        <div class="container">
-            <div class="content-box clearfix">
-                <div class="pull-left">
-                    <p>Copyright © 2017 Sportswallah.com All Rights Reserved.</p>
-                </div>
-                <div class="pull-right">
-                    <p class="poweredby"><span>Powered by</span><a rel="nofollow" class="socialLinks" target="_blank"><span class="powered-logo">Sportz Interactive</span></a></p>
-                </div>
+</div>
+<div class="footer-credits">
+    <div class="container">
+        <div class="content-box clearfix">
+            <div class="pull-left">
+                <p>Copyright © 2017 SportsWallah. All Rights Reserved.</p>
+            </div>
+            <div class="pull-right">
+                <p class="poweredby">
+                    <span>Powered by</span>
+                    <span class="powered-logo">Sportz Interactive</span>
+                </p>
             </div>
         </div>
     </div>
-</footer>
+</div>
 </section>
-            <!-- Hindi Menu Footer -->
-            <section id="e4f47495-4674-4b3c-a74b-3edb137554c1" data-component="SI-menu" data-template="widget_layout_2" data-mobile="widget_layout_2"></section>
+			<section id="a8d905b8-8778-412b-ae0a-e2d0bd4a0174" data-component="SI-Custom" data-template="widget_layout_1">
+            </section>
+			
         </footer>
     </div>
+
 
 
 
