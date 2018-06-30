@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzta.govt.nz privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220145716id_/http%3A//www.nzta.govt.nz/about-us/about-this-site%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzta.govt.nz privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630235405id_/https%3A//www.nzta.govt.nz/about-us/about-this-site%23privacy) for the most accurate reproduction.*
 
 # About this site | NZ Transport Agency
 
@@ -25,9 +25,9 @@ The permission to reproduce material protected by NZ Transport Agency copyright 
 
 
 
-[Read the full website terms of use](http://nzta.govt.nz/about-us/about-this-site/website-terms-of-use/)
+[Read the full website terms of use](https://www.nzta.govt.nz/about-us/about-this-site/website-terms-of-use/)
 
-## [](http://nzta.govt.nz/about-us/about-this-site/website-terms-of-use/)Privacy
+## [](https://www.nzta.govt.nz/about-us/about-this-site/website-terms-of-use/)Privacy
 
 You may browse and access the vast majority of information contained in this website without providing any personal information.
 
@@ -59,16 +59,26 @@ You have the right to request access to and correction of that information.
 
  **Note:  **change of address information is used to update registers that legislation says must be publicly available. Submissions are publicly available too.
 
-If you have any concerns about personal information that we hold, please write to:   
+If you have any concerns about personal information that we hold, please write to: 
+
 Privacy Officer  
 NZ Transport Agency   
 Private Bag 6995   
-Wellington 6141   
-or send an email to [privacy@nzta.govt.nz](mailto:privacy@nzta.govt.nz).
+Wellington 6141 
+
+Alternatively you can send an email to [privacy@nzta.govt.nz](mailto:privacy@nzta.govt.nz).
+
+### Call recording privacy statement
+
+The Transport Agency handles thousands of calls every day on a varied range of topics that include driver licensing, road tolling, motor vehicle registration, and the State highway network.  Call recording is an important activity that helps us to ensure that our customer service meets your expectations and identify service improvements.
+
+[Find out more information about call recording privacy](https://www.nzta.govt.nz/about-us/about-this-site/call-recording-privacy-statement/)
 
 ### Deceased drivers
 
-To assist the NZ Transport Agency with keeping the national driver licence register up-to-date, the Registrar-General of Births, Deaths and Marriages may notify us when a driver is deceased. For more information, see our [deceased drivers and the driver licence register](http://nzta.govt.nz/driver-licences/renewing-replacing-and-updating/deceased-licence-holders/ "Deceased drivers and the driver licence register") page.
+To assist the NZ Transport Agency with keeping the national driver licence register up-to-date, the Registrar-General of Births, Deaths and Marriages may notify us when a driver is deceased.
+
+[Find out more information about deceased drivers and the driver licence register](https://www.nzta.govt.nz/driver-licences/renewing-replacing-and-updating/deceased-licence-holders/ "Deceased drivers and the driver licence register")
 
 ## Accessibility
 
