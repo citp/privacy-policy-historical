@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchwrestling24.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202194411id_/http%3A//watchwrestling24.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchwrestling24.net privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630212713id_/http%3A//watchwrestling24.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WatchWrestling24
 
