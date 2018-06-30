@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modasta.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217235744id_/https%3A//www.modasta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modasta.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630073352id_/https%3A//www.modasta.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Modasta
 
