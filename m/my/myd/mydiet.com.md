@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydiet.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225112028id_/http%3A//www.mydiet.com/mydiet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydiet.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630140633id_/http%3A//www.mydiet.com/mydiet-privacy-policy) for the most accurate reproduction.*
 
 # MyDiet.com Privacy Policy - MyDiet
 
