@@ -1,143 +1,147 @@
-> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910053739id_/https%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630030411id_/https%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - loveholidays
+# loveholidays privacy policy
 
-#### loveholidays takes your privacy seriously
+loveholidays understands and respects the importance of your privacy and we are committed to doing everything we can to safeguard personal information.
 
-loveholidays understands and respects the importance of your privacy and we are committed to safeguarding your personal information. 
+Please read this Privacy Policy to see how we use and protect your personal information. We also have a [Cookie Policy](https://web.archive.org/cookie-policy.html) which explains how we use cookies and other similar technologies. From time to time, we may make changes to these policies, so please re-visit these pages regularly if you want to keep up to date with any changes we’ve made 
 
-Any personal information you provide to us including and similar to your name, address, telephone number and email address will not be released, sold, or rented to any entities or individuals outside of loveholidays except where required by us to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements. Our representatives may sometimes follow up, either by e-mail, phone, fax or mail, to people who have registered their details and we may periodically send promotional e-mail about new products, special offers or other information which we think you may find interesting using the e-mail address which you have provided. 
+Our Privacy Policy covers all the platforms through which you choose to interact with us, including our mobile-enabled and social media sites. By giving us your personal information, you agree to the transfer, storing or processing of your data in accordance with this policy. 
 
-We take full responsibility for ensuring that proper security measures are in place to protect your information. We must pass the information on to the relevant suppliers of your travel arrangements such as your tour operator, airlines, hotels, transport companies etc. The information may also be provided to security or credit checking companies, public authorities such as customs/immigration if required by them, or as required by law. We may need to disclose our customer list including any personal information relating to you to a third party who acquires or attempts to acquire all or substantially all of the asset/ stock in our company or our website. 
+By making a booking or submitting any personal information via our channels, you are agreeing to us handling your personal information as set out below. If you do not agree to us using your personal information in these ways, unfortunately we can’t process your booking and you shouldn’t use our sites. 
 
-Where your holiday is outside the European Economic Area (EEA), controls on data protection in your destination may not be as strong as the legal requirements in this country. We will not however, pass any information onto any person not responsible for part of your travel arrangements. This applies to any sensitive information that you give to us such as details of any disabilities, or dietary/religious requirements. (If we cannot pass this information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking. In making this booking, you consent to this information being passed on to the relevant persons.)
+**What kind of personal information do we collect?**
 
-Usually your tour operator or other principal will pass this information onto their suppliers once we have provided it to them. The tour operator or other principal's use of your information is subject to their policy, both in respect of your booking and any future marketing, and is their responsibility. Please ask either us or them for a copy of this if you would like to see it. 
+When you book through us, you need to provide certain information such as your name, address, e-mail, phone number and payment information. If you happen to fill in the booking pages but for some reason don’t actually complete the booking, you will still be considered to have provided us with your information.
 
-#### CREDIT & DEBIT CARD DETAILS
+If you contact us, whether by phone, e-mail or another method, you’ll be asked to provide certain information. This is likely to include your name, address, e-mail address and phone number so we can respond to you appropriately.
 
-All credit card information and personal information is encrypted as it is passed between your browser and our website. When you make a booking your initial payment is cleared using the information you provide. Your credit card number is not held in our database. All encryption is performed using at least 128 bits making it virtually impossible to decrypt without the necessary decryption key. 
+There are also other instances when you’ll provide us with information, for example if you register to manage your booking via our website, leave a review, enter one of our competitions or complete a survey.
 
-#### MONITORING
+**Information you give to us about others in your party**
 
-To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; (2) customer activities using CCTV recording equipment in and around our premises; and (3) customer transactions and activities on our website. All recordings are and shall remain our sole property. 
+If you’re booking with others or for someone else, you will have to give us their information as well, for example their name and date of birth. It’s your responsibility to ensure that they are aware that you have done so, and also accept how we use and process their information as well as yours.
 
-#### OTHER WEBSITES
+**What information do we collect automatically?**
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy Statement. You should exercise caution and look at the Privacy Statement applicable to the website in question. 
+When you visit our sites we automatically collect certain information such as the device IP address, the date and time you visited, the hardware, software or particular browser used and information about your visit, including any pages you viewed and interacted with. We do this automatically, even when you don’t actually make a booking.
 
-#### WHAT CAN I DO?
+If you’re using a mobile device to reach us, we keep data that identifies your device, location details and any specific settings. For more information on this, please see our [Cookies Policy](https://web.archive.org/cookie-policy.html). 
 
-You are entitled to a copy of your information held by us. If you would like to see this please ask us. [We may make a small charge for providing this to you]. 
+**Information we get from others**
 
-If you do not agree to our use of the information as set out above, you should inform us as soon as possible by writing to us at loveholidays, The Triangle, 4th Floor South Side, 5-17 Hammersmith Grove, London, W6 0LG. 
+We might also get information about you from other sources, such as your Service Providers, affiliates and other third-parties like credit reference agencies, payment processors, search engines or social media sites. We may use this information with other information you provide in order to complete or process your booking. We will notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
-In accordance with the Data Protection Act 1998, you may ask us in writing for a copy of the information we hold about you (for which we may charge an administration fee) and to correct any inaccuracies in your information. We aim to respond to you within 21 days from the date of request. 
+**What exactly do we do with your personal information?**
 
-You can also choose not to provide us with some of the information we request, however as a result we may not be able to complete your booking. 
+Your personal information could be used in the following ways: 
 
-#### OPT-OUT POLICY
+**Processing your bookings:** Put simply, we have to use your personal information to ensure the services you’ve selected, which may include flights, hotels, transport, insurance and other ancillary products, are provided to you. We need certain information about you and your party so we can fulfil the contractual obligations when you make a booking.
 
-Subscribers can opt out of receiving further information from us at any time. You will also be given a fast and easy option of opting out on all communications. 
+**User Accounts:** The information that you provide when you set up an account allows us to provide you with additional services including the ability to manage your bookings, personal settings and access to special offers. 
 
-#### COOKIES
+**To communicate with you about your booking:** We’ll need to contact you using the email or telephone number you provided to give you information relevant to your arrangements. For example, to confirm your booking, notification of any changes, security alerts, administrative messages about your arrangements and reminders.
 
-Please note that in order for us to provide you with optimum service, we use ‘Cookies’ on our website. 
+**Customer Services:** You can contact us at any time, whether this is a general query, a question about your booking or to report an issue. You can do this through [Manage My Booking](https://web.archive.org/manage/login.html) on our website, by telephone or via social media. We’ll use the information that you’ve given us to answer any questions and respond to your query or other queries you might have in the future. If you do contact us by telephone, your call may be recorded and reviewed for quality and training purposes. Recordings are only kept for a limited period and then automatically deleted, unless we’ve got a legitimate interest in keeping them for a longer period. 
 
-**What are cookies?**
+**Personalisation of your experience:** We sometimes use your data to enable us to show you the most relevant products and services we think you’ll be interested in, such as the best deals and special offers for destinations you like or have been to previously.
 
-A "cookie" is a small data text file that is placed in your browser and allows loveholidays to recognise you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and loveholidays does not use cookies to collect personal information. Cookies may also be used to pass information between websites owned by loveholidays. Cookies will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
+**Marketing:** Where you make a booking and haven’t specifically opted-out (or in any other case, if you have opted-in), we may contact you with information about other products and services that we offer that are similar to those that you have already purchased or enquired about and we think may interest you based on your personal information. Don’t worry, you can opt-out of these emails at any time.
 
-Two types of cookies are used on this web site - session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
+**Promotional Activities:** If you take part in any of our promotions (such as surveys or competitions) we will need to use the information you provide to run these promotions. 
 
-Cookies allow us to obtain information regarding users of our site which essentially helps us to provide you with a better user experience and tailor our services to your individual needs. We may collect information such as your IP address, online activity, web browser details and online activity. We will not however collect or store any of your passwords or other highly sensitive data. 
+**Improving our services:** Sometimes we might use your data to help us improve the quality and functionality of our services. This could include eliminating bugs in our system, data analysis, testing, and for statistical and survey purposes, all of which helps us improve the service we offer. 
 
-**By using our website with your browser settings adjusted to accept all cookies, we will take this to mean that you want to use our products and services, and that you consent to our use of cookies and other technologies as described in this Policy.**
+**Security:** We may use your data as part of the efforts to keep our sites (and the information you provide to us) safe and secure, and to prevent fraud or unauthorised access/use of our sites.
 
-**Browser settings:** Most browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent. You may elect to reject cookies by adjusting your browser's settings, but doing so will limit the range of features available to the visitor on our site and most other major websites that use cookies.   
+**Fraudulent Claims:** We may use your personal information in order to prevent, detect or defend any claims/actions we believe to be potentially fraudulent or detrimental to our legitimate interests.
 
+**Legal and regulatory compliance:** We might need to use your information in relation to any legal disputes, regulatory, compliance or criminal investigations, or if necessary to enforce our rights.
 
-We use the following types of cookies on our website:  
+When we process your information as described above, we will be relying on one or more of the following legal rights:
 
+**Performance of a contract:** We need to use your information to carry out the contract that you have with us and your Service Providers. We’ll use the information that you provide us when making a booking to conclude and process the reservations with the relevant third-party Service Providers. 
 
-#### Category 1: strictly necessary cookies 
+**Consent:** You may be asked to consent to us sending you marketing and promotional material. If you do kindly give us this consent, we’ll rely on this consent when contacting you. You can always withdraw your consent at any time by simply unsubscribing – just follow the unsubscribe link in the email and it’s done. Alternatively you can also email [unsubscribe@loveholidays.com](mailto:unsubscribe@loveholidays.com) and it will be done for you.
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided. 
+**Legitimate interest:** We may use your information for our own legitimate interest, for example to provide you with the most relevant content on our site or to promote new services and for certain administrative and legal purposes.
 
-#### Category 2: performance cookies 
+**Business transaction:** We may use your data in connection with a business transaction such as the sale of a part or the whole of our business. 
 
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. 
+**How do we store your data?**
 
-#### Category 3: Functionality Cookies 
+Any information that you provide is stored on secure servers and all payment transactions are encrypted. Only authorised personnel are permitted to access your information in the course of their work with us. Whilst we do our best to protect your information, no information transferred over the internet or stored electronically can be guaranteed to be completely secure and you provide your information to us at your own risk.
 
-These cookies are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region). 
+We’ll only retain your information for a reasonable period of time, or for so long as either you or the law allows.
 
-#### Category 4: Targeting or Advertising Cookies 
+When you pay for your holiday, we don’t store your card details – instead we use an encrypted authorisation ‘token’ issued by your payment provider to collect the payment, or remaining payments if you chose to pay by instalments. 
 
-These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
+**When do we share your data with third parties?**
 
-**By using our website, you agree that we can place these types of cookies on your device.**  
-**Further information:** to find out more information about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+In certain circumstances we may share the information you provide to us with organisations outside of loveholidays. The third parties who we might share your data with include: 
 
-#### UPDATES & CHANGES 
+**Service Providers:** If you make a booking, we’ll have to share your booking data with the third parties, such as hoteliers, airlines, insurers and transfer providers, to complete your booking contract. The data shared may include your name and the names and ages of any guests travelling with you, any preferences or special requests you told us about when you made your booking and your contact details. If you contact us with a query about your booking, we may pass this on to our providers if they are needed to answer you.
 
-As our privacy statement may change due to developments in the law we encourage you to re read this from time to time so you are aware of any changes in how we gather and use your personal information. Any changes to this Policy will be either posted on our website, brochure and/or made available on request. 
+Due to the nature of our business and the arrangements you have chosen, it may be necessary for your data to be transferred to, and stored at, a destination outside the European Economic Area ("EEA") and may not be subject to the same level of data protection controls as within the EEA. We will take all reasonable steps to ensure that your data is handled securely.
 
-Last Updated: March 2015 
+**Third party support services:** These includes anyone who provides support services or functions on our behalf, including payment card processing, business analytics, review agencies, advertising and customer support services. This may be to send you marketing material on our behalf or to collate information that can be analysed to improve our service. They have access to and may collect information only as required to perform their agreed functions and are not permitted to share or use information for any other purpose.
 
-#### WEBSITE TERMS OF USE
+**Payment Processors and other financial institutions:** When you make a payment on your booking, we use a third-party payment processor to take your payment. If you request a chargeback on your booking, it may be necessary for us to share certain details with the payment processor and the relevant financial institution, so they can manage the chargeback. This may include a copy of your booking confirmation, financial details and the IP address that was used to make your booking. 
 
-This website is owned and operated by loveholidays (“the Company”). Access to and use of any information on this website is conditional on your acceptance of these website terms and conditions (“the Conditions”). We recommend you read them carefully and print out and keep a copy of them for your future reference. If you do not wish to accept any part of these Conditions then you may not use our website. 
+**Referring websites:** If you were referred to our site via another webpage, we may share some information about you with that referring website so that they can contact you about their products and services, which may include Google Analytics. 
 
-Please Note:  
-When you visit our website or send e-mails to us, you are communicating electronically. We will also communicate with you by e-mail. You agree that all notices, agreements, disclosures and other communications that we provide to you electronically satisfy any requirement that such communications be in writing. 
+**Business Affiliates:** We may share your data with our business affiliates with whom we offer relevant joint services. This may include other agencies and advertising networks. We do this in order to maximise the services that we provide you and so they may contact you directly about their relevant products and services that may interest you. You can unsubscribe from these emails at any time. 
 
-By using this website, you warrant to us that: 
+**Law enforcement authorities:** We will disclose personal information insofar as it is required by law or where we believe it is necessary for the prevention, detection or prosecution of potentially criminal acts, including for fraud, immigration, customs, security or anti-terrorism purposes. 
 
-  1. You will not use this website or any material or information on it for any purpose that is unlawful or prohibited by these Conditions; 
-  2. You are at least 18 years old and have the legal authority to use this website in accordance with these Conditions; 
-  3. You agree to be financially responsible for all charges, fees and other sums of whatever nature which arise out of your use of this website; 
-  4. All information that you provide about yourself and about anyone else shall be true and accurate. 
+Please note that whilst we have procedures and security features to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage, we don’t control the privacy practices of any of these third-parties or your Service Providers and we would encourage you to review their own privacy policies where appropriate.
 
+Furthermore, any information that you provide directly to your Service Providers or other suppliers is not covered under this Privacy Policy and we would urge to check their own privacy policies before handing over any personal information. 
 
+**What rights do you have in relation to your personal information?**
 
-You must not link (including deep linking) to our website or access, monitor or copy any content or information of this website using any robot, spider, scraper or other automated means or any manual process for any purpose without our prior written agreement. 
+You have the following rights in relation to the personal information that we hold about you: 
 
-Copyright Notice  
-All content of this website (such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations and software) is our exclusive property or that of our content suppliers (if applicable) and is, unless specifically stated otherwise, protected by copyright or similar ownership rights. It is published by us and may not be reproduced other than by downloading and viewing on a single computer and/or printing a single hard copy, for private purposes only. It is not to be otherwise reproduced, transmitted, made available on a network or used to create derivative works without our prior written consent. All rights are reserved.
+You may request a copy of the personal information we are keeping about you by submitting a Data Subject Access Request to us at the below address. 
 
-The trade marks, logos and service marks shown on our website, unless otherwise specified, are our intellectual property. No rights are granted to use any of them without our prior written consent. 
+You may ask that we correct any inaccuracies in the data, ask us to transfer it to another party or provide it to you for transfer it to another party yourself. 
 
-Booking Conditions   
-All bookings made on this website are subject to our booking conditions in addition to these Conditions. We recommend that you read our booking conditions carefully and print out and keep a copy of them for your future reference. 
+You can ask us not to process your personal information for marketing purposes at any time by sending a request to the below address or clicking ‘unsubscribe’ on any of the emails that we send to you. Alternatively you can also email [unsubscribe@loveholidays.com](mailto:unsubscribe@loveholidays.com) and it will be done for you. We will let you know if we intend to use your data for marketing purposes. 
 
-Website Content  
-We are an English registered Company. Our business and the services we offer are governed by the applicable laws of England and Wales except where otherwise stated in our booking conditions. No warranties, promises and/or representations of any kind, express or implied, are given as to the accuracy or completeness of any of the material or information contained on this website (in accordance with English law or with any laws of any other country) or as to the nature, standard, suitability or otherwise of any services offered by us or on our behalf.
+You have the right to request that we delete all personal information that we hold about you. If there is no other reason beside you providing your consent for us to hold your data, we will delete it upon receiving your request. 
 
-We shall not be liable for any loss or damage or other sum or claim of any nature whatsoever (direct, indirect, consequential or other) which arises, directly or indirectly, in connection with this website.
+If you would like to exercise any of your above rights please contact us at [privacy@loveholidays.com](mailto:privacy@loveholidays.com), writing ‘Data Subject Access Request’ in the subject line. We will deal with any requests we receive in accordance with the relevant UK Data Protection laws. 
 
-The information contained on this website may contain technical inaccuracies and typographical and other errors. The information on these pages may be updated from time to time and may at times be out of date. If any price or other information is obviously incorrect, we will not be bound by it. You must ensure you check all details of the chosen arrangements (including the price) with us at the time of booking.
+If you feel we haven’t handled your personal data correctly, you have the right to complain to your local data protection authority. If you’re resident in the UK, The Information Commissioner's Office is the relevant data protection authority.
 
-Occasionally, we may upload traveller reviews, blogs and recommendations on to our website. Such reviews and blogs are the personal opinions of the author of said content and not that of the Company. We take no responsibility and accept no liability in relation to these reviews, blogs, recommendations or other similar content on the website, or any resulting acts, omissions or losses incurred.
+**What about data that is collected through a mobile device?**
 
-This website may contain links to other websites. Except where they belong to us, such other websites are not under our control or maintained by us. We are not responsible for the content of such websites. We provide these links for your convenience only but do not monitor or endorse the material on them. We cannot accept any liability in relation to any such other websites or in relation to any material or information appearing on them or which you may otherwise come across after leaving our site by way of a hypertext link or any other means.
+Mobile devices can be used to access our services, as well as versions of our regular website that have been optimised for mobile and tablet browsing. These mobile sites work in a similar way to our main website. Sometimes we make use of something known as cross-device tracking, which allows us to track user behaviour across different devices. We use this to optimise the service that we provide you and for marketing activities, so advertisements shown to you on other websites may be offered based on your activities on linked devices (please see our [Cookie Policy](https://web.archive.org/cookie-policy.html) for further information on this). 
 
-This website or any part of it (or any websites that are linked to this website) may not be compatible with your browser or computer configuration and we make no warranty that it is. We make no warranty that your access to our website will be uninterrupted, timely or error free. It is your responsibility to ensure you carry out sufficient checks (including virus checks) to satisfy your particular requirements. 
+**How do we treat personal information of children?**
 
-User Reviews  
-Occasionally, we may allow users to upload comments, videos, photographs, reviews, blog entries and other material in relation to travel or other holiday services. Where you upload such materials, you disclaim any proprietary or other rights you may have in the materials, and agree that such materials can be freely used by the Company for any reason whatsoever, without your permission.
+You are only allowed to book through our site if you are over 18 years of age. We only process information about children with the consent of the parents or legal guardians. 
 
-You agree that, at the date of posting, the material submitted by you is appropriate and accurate. You warrant that the material is not misleading, defamatory, untrue, malicious, offensive or abusive. You agree that you will not post any information or material that is owned by another third party without their express authority to do so.
+**Who exactly is responsible for processing personal information that is collected under the policy?**
 
-You agree to indemnify the Company for the full amount of all damages, losses, costs and expenses in (including legal costs) in relation to claims brought by any third party against the Company arising out of or in connection with breach of these Conditions in relation to the materials.
+We Love Holidays Limited controls the processing of data over its sites – in legal terms, this means that We Love Holidays Limited is the Data Controller for the purposes of UK Data Protection laws.
 
-The Company reserves the right to refuse to post or remove (without notice) any materials for any reason at its sole discretion. 
+**How can you contact us?**
 
-Law and Jurisdiction  
-Access to this website is conditional on your agreement that all information contained in it and all matters which arise between you and us will be governed by English law. Access is further conditional on your agreement that any dispute or matter which arises between you and us will be dealt with by the Courts of England and Wales only to the exclusion of the Courts of any other country.
+If you have any questions about this Privacy Policy or wish to exercise any of your rights under it, please contact us at: 
 
-If any exclusion(s) or limitation(s) contained in these Conditions is found, in whole or part, to be unlawful, void or for any other reason unenforceable for any purpose(s), that exclusion(s) or limitation(s) or the part(s) in question shall be deemed severable and omitted from these Conditions for that purpose / those purposes. Such omission shall not affect the validity, effectiveness or enforceability of the other provisions of these Conditions.
+Email: [privacy@loveholidays.com](mailto:privacy@loveholidays.com)
 
-We may alter these terms and conditions at any time. If we do so, all subsequent use of our website will be governed by the newer version. You must check these terms and conditions regularly.
+Post: Should be sent for the attention of the Legal & Compliance Department to: 
 
-Updated: March 2015 
+4th Floor The Triangle
+
+5-17 Hammersmith Grove
+
+Hammersmith
+
+London
+
+W6 0LG 
+
+This page was updated 09 May 2018 
