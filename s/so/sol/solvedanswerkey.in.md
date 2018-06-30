@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solvedanswerkey.in privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202102509id_/http%3A//solvedanswerkey.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvedanswerkey.in privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630231840id_/http%3A//solvedanswerkey.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All Exam Solved Question Paper
+# Privacy Policy | Previous Year Solved Question Paper
 
 All the information collected by the **solvedanswerkey.in**  from different users is being governed by the privacy policy. The privacy policy doesn’t allow the users to copy and paste the information of **solvedanswerkey.in** in some other website.
 
