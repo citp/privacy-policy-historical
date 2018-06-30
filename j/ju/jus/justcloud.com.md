@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justcloud.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220302id_/http%3A//www.justcloud.com/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justcloud.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630213738id_/https%3A//www.justcloud.com/terms%23privacy) for the most accurate reproduction.*
 
 # JustCloud :: Terms & Conditions
 
@@ -337,9 +337,9 @@ CA \- 1-888-778-6107
 
 JDI Backup Limited. Company Number 7488961
 
-Last modified on 27-12-2017
+Last modified on 30-06-2018
 
-Updated and Effective as of May 16, 2016
+Modified: January 24, 2018
 
 **JustCloud Privacy Policy**
 
@@ -396,7 +396,9 @@ _Personal Information._ **** This Privacy Policy applies to the personal data of
 _  
 Data you back-up using our services._ **** We hold any personal data you voluntarily choose to back up or store using the Just Cloud Services (“Backup Data”) as a data processor and we store this data solely in order to provide the Services. The terms relating to our storage of Backup Data are set out in the Use of your Back-Up Data section of our [Terms and Conditions](https://web.archive.org/terms).
 
-_Changes to this Privacy Policy._ JustCloud may modify this Privacy Policy, from time to time to reflect changes in or requirements of the law or modifications or updates to the Services made in accordance with our [Terms and Conditions](https://web.archive.org/terms) . JustCloud will notify you if such change materially affects your rights under this Privacy Policy. Changes will not apply retrospectively and, unless the change is required immediately for legal reasons, notice of the modified terms will be provided a reasonable period prior to the changes taking effect. **If you do not accept and agree to this Privacy Policy, then you must not access or use the Services** (see [Cancellation and Termination](https://web.archive.org/web/20171227220302id_/http%3A//www.justcloud.com/cancellation)).
+_Changes to this Privacy Policy._ JustCloud may modify this Privacy Policy, from time to time to reflect changes in or requirements of the law or modifications or updates to the Services made in accordance with our [Terms and Conditions](https://web.archive.org/terms). JustCloud will notify you if such change materially affects your rights under this Privacy Policy. Changes will not apply retrospectively and, unless the change is required immediately for legal reasons, notice of the modified terms will be provided a reasonable period prior to the changes taking effect. **If you do not accept and agree to this Privacy Policy, then you must not access or use the Services** (see [Cancellation and Termination](https://web.archive.org/web/20180630213738id_/https%3A//www.justcloud.com/cancellation)).
+
+The information that JustCloud collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided. By using the Services, you freely and expressly give JustCloud your consent to export your information and data to the U.S. 
 
 **What Personal Information Do We Collect**
 
