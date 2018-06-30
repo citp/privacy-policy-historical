@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apologeticspress.org privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229064733id_/http%3A//www.apologeticspress.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apologeticspress.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630032727id_/http%3A//apologeticspress.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
   
 Your Privacy on ApologeticsPress.org
 
-Effective January 10, 2010
+Effective March 14,2018
 
 **Information Collection and Use**
 
@@ -18,15 +18,13 @@ Apologetics Press, Inc. (“AP”) is the sole owner of the information collecte
 
 We request information from the user on our order form. Here a user must provide contact information (such as name and shipping address) and financial information (such as credit card number). This information is used for billing purposes and to fill customers’ orders. If we have trouble processing an order, this information may be used to contact the user.
 
-If a user wishes to receive a free copy of  _Reason & Revelation_ or  _Discovery_ , we ask for name, mailing address, and e-mail address on our sample request form. We use this information to provide the requested sample, or to contact the user should a problem arise in sending the sample issue.
-
 **Log Files**
 
-When users visit our site, we automatically collect certain information that is not connected to an identified individual. This may include the type of computer operating system (e.g., Windows or Mac OS), browser (e.g., Internet Explorer, Firefox, Safari, Google Chrome etc.), Internet Protocol (“IP”) address, and pages visited. We use this information only in the aggregate to analyze site usage, and to improve the design and content of our site.
+When users visit our site, we automatically collect certain information that is not connected to an identified individual. This may include the type of computer operating system (e.g., Windows or Mac OS), browser (e.g., Internet Explorer, Firefox, Safari, Google Chrome etc.), Internet Protocol (“IP”) address, and pages visited. We use this information only in the aggregate to analyze site usage and to improve the design and content of our site.
 
 An IP address is the unique electronic address of a computer attached to the Internet. However, AP does not link such addresses to personally identifiable information that can be used to recognize, contact, or locate the person to whom such information pertains.
 
-However, placing and order through the WebStore will place information such as billing and shipping addresses into a repository database for shopping convenience. Credit card information is not stored on our server for your protection.
+However, placing an order through the WebStore will place information such as billing and shipping addresses into a repository database for shopping convenience. Credit card information is not stored on our server for your protection.
 
 **Registration**
 
@@ -49,13 +47,9 @@ AP does not make offers to the  _Reason & Revelation_ or  _Discovery_  subsc
 
 _Reason & Revelation_ or  _Discovery_  givers occasionally will receive information on other products and services of AP. These “givers” are customers who have bought a subscription to either journal for another person, and who also wish to receive future renewal notices related to that subscription. Givers can elect to have their information excluded from such promotional offers.
 
-We do not use contact information provided on our sample request form, other than to mail the requested sample or to contact the user should a problem arise in meeting that request.
-
 **Sharing of Information**
 
 We do not share any contact information from our  _Discovery_  subscriber list.
-
-On rare occasions, we may exchange the names and addresses of  _Reason & Revelation_ and  _Discovery_  givers and/or  _Reason & Revelation_ subscribers with like-minded organizations. Givers and subscribers can elect to have such information excluded from such sharing arrangements.
 
 We use a credit card processing company to bill users for goods and services, and we use other companies to ship orders. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes.
 
@@ -71,7 +65,7 @@ Our site contains links to external sites not associated with AP. Please be awar
 
 This Web site takes every precaution to protect our users’ information. When you submit sensitive information via our site, that information is protected both on-line and off-line.
 
-When our sample request and order forms ask users to enter sensitive information (such as credit card numbers), that information is protected by Secure Sockets Layer (“SSL”)—the industry-standard method for protecting Web communications. You know you have a secure connection on these browsers when the padlock icon is closed, or the key icon is complete (depending on the browser client and version you are using).
+When our Web site asks users to enter sensitive information (such as credit card numbers), that information is protected by Secure Sockets Layer (“SSL”)—the industry-standard method for protecting Web communications. You know you have a secure connection on these browsers when the padlock icon is closed, or the key icon is complete (depending on the browser client and version you are using).
 
 To protect sensitive information off-line, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect on-line.
 
@@ -105,4 +99,4 @@ Customers may request that our publication,  _Discovery_ , be sent in the name 
 
 **Notification of Changes**
 
-We will use information in accordance with the privacy policy under which the information was collected. If we decide to change our privacy policy, we will put a notice to that effect on our Web Site's home page. If at any point we decide to use the personally identifiable information of our customers in a manner different from that stated at the time it was collected, we will notify our customers by mail. Customers will have a choice as to whether or not we use their information in this different manner.
+We will use information in accordance with the privacy policy under which the information was collected. If at any point we decide to use the personally identifiable information of our customers in a manner different from that stated at the time it was collected, we will notify our customers by mail. Customers will have a choice as to whether or not we use their information in this different manner.
