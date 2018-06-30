@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dxc.technology privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218231755id_/https%3A//www.dxc.technology/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxc.technology privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630200207id_/http%3A//www.dxc.technology/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DXC Technology
 
 ## Enterprise Online Privacy Statement
 
 ### PRIVACY AND DATA PROTECTION AT DXC
+
+This policy has been updated to protect personal data in accordance with requirements set forth in the General Data Protection Regulation (GDPR), which took effect on May 25, 2018. 
 
 At DXC our commitment to privacy goes beyond the minimum legal and regulatory requirements. We strive for best-in-class data protection and privacy management, which requires a sound data privacy governance structure and an effective data privacy compliance and best practices program to ensure DXC meets ever-changing and increasingly-complex regulatory standards and all contractually agreed privacy obligations. 
 
@@ -95,9 +97,9 @@ We may use your personal information to support DXC products or services you hav
 
 Marketing 
 
-The information you provide to DXC, as well as the information we have lawfully collected about you indirectly, may be used by DXC for marketing purposes. Before we do so, however, we will offer you the opportunity to opt-out from using your information in this way. You may at any time choose not to receive marketing materials from us by following the unsubscribe instructions included in each e-mail you may receive, or by contacting DXC directly at [privacy@dxc.com](mailto:privacy@dxc.com). 
+The information you provide to DXC, as well as the information we have lawfully collected about you indirectly, may be used by DXC for marketing purposes. We will offer you the opportunity to opt-in to DXC using your information in this way. You may at any time choose not to receive marketing materials from us by following the unsubscribe instructions included in each e-mail you may receive, or by contacting DXC directly at [privacy@dxc.com](mailto:privacy@dxc.com), or by visiting the [DXC Preference Center](https://connect.dxc.com/PreferenceCenter). 
 
-Some of our offerings may be co-branded, that is sponsored by both DXC and third parties, such as DXC Alliance Partners. If you sign up for these offerings, be aware that your information may also be collected by and shared with those third parties. We encourage you to familiarize yourself with their privacy policies to gain an understanding of the manner in which they will handle information about you. 
+Some of our offerings may be co-branded, that is sponsored by both DXC and third parties, such as DXC Alliance Partners. If you sign up for these offerings, be aware that your information may also be collected by and shared with those third parties. We encourage you to familiarize yourself with their privacy policies to gain an understanding of the manner in which they will handle information about you. If you would like to review, rectify or request deletion of any Personal Information we have about you, you can submit a request by emailing DXC’s privacy office at [privacy@dxc.com](mailto:privacy@dxc.com). 
 
 Recruitment 
 
@@ -133,7 +135,7 @@ Registration is not required to gain access to DXC websites. However, if you cho
 
 In this regard, DXC may collect personal information from you including your name, phone number, email address, or other information you choose to provide at various times, for example, when you complete an online form or request or participate in an online community. 
 
-You can make or change your choices about receiving either subscription or general communications at the data collection point, within your account preference settings or by using other methods, which are listed in this Privacy Statement. 
+You can make or change your choices about receiving either subscription or general communications at the data collection point, within your account preference settings or by using other methods, which are listed in this Privacy Statement. You may opt-out at any time using the links at the bottom of any email or via the [DXC Preference Center](https://connect.dxc.com/PreferenceCenter). 
 
 Please note, this option does not apply to communications primarily for the purpose of administering business relationships, including contracts, support, or other administrative and transactional notices where the primary purpose of these communications is not promotional in nature. 
 
@@ -209,9 +211,9 @@ EU/Swiss individuals may also reach out their national privacy authorities and a
 
 This site is intended for adult use only. DXC does not knowingly collect information from children as defined by local law, and does not target its websites, social computer tools or mobile applications to children under these ages. We encourage parents and guardians to take an active role in their children’s online and mobile activities and interests and ask that minors should not submit any personal information. 
 
-A cookie is a string of information that a web site saves on a visitor’s computer and then the visitor’s browser provides to the web site operator each time the visitor returns to the information collecting web site. When DXC collects cookies or makes use of a browser's local storage capabilities, they help DXC identify visitors, their usage of the site, and their Web site access preferences. DXC may also use information derived from cookies or local storage to direct the visitor to information similar to what they visited and thereby market DXC products and services by personalizing the experience on the visitor’s web page on DXC’s site. Visitors who do not wish to have any cookies placed on their computers should set their browsers to refuse cookies before using DXC’s web site, with the drawback that certain features of the web site may not function properly without the aid of cookies. Visitors that want to limit third party advertising cookies can enable their browser’s “Do Not Track” functionality. 
+A cookie is a string of information that a web site saves on a visitor’s computer and then the visitor’s browser provides to the web site operator each time the visitor returns to the information collecting web site. When DXC collects cookies or makes use of a browser's local storage capabilities, they help DXC identify visitors, their usage of the site, and their Web site access preferences. DXC may also use information derived from cookies or local storage to direct the visitor to information similar to what they visited and thereby market DXC products and services by personalizing the experience on the visitor’s web page on DXC’s site. Visitors will be offered the opportunity to control cookie placement. Visitors who do not wish to have any cookies placed on their computers should set their browsers to refuse cookies before using DXC’s web site, with the drawback that certain features of the web site may not function properly without the aid of cookies. Visitors that want to limit third party advertising cookies can enable their browser’s “Do Not Track” functionality. 
 
-Additionally, pages on DXC’s web site will occasionally embed content from third party sites, such as YouTube for videos and Taleo for jobs. DXC’s web site also allows for content to be shared through social networks but only at your request. Embedding and sharing content may result in as cookies being set by those third party sites. DXC does not control the dissemination of those cookies. Please visit these third party sites if you wish to learn more about their use of cookies and similar tools. 
+It must be noted, pages on DXC’s web site will occasionally embed content from third party sites, such as YouTube for videos and Taleo for jobs. DXC’s web site also allows for content to be shared through social networks but only at your request. Embedding and sharing content may result in as cookies being set by those third party sites. DXC does not control the dissemination of those cookies. Please visit these third party sites if you wish to learn more about their use of cookies and similar tools. 
 
 Please note that the web site is constantly being updated and this list will change over time. If you have any additional questions about the use of a particular cookie please do not hesitate to email [privacy@dxc.com](mailto:privacy@dxc.com). 
 
@@ -225,12 +227,6 @@ We will post a notice for 30 days at the top of this page notifying users when t
 
 We value your opinion, if you have any comments or question about this Privacy Statement, DXC's handling of your personal information, or a possible breach of your privacy you can send an email to the DXC Global Privacy and Data Protection Office at [privacy@dxc.com](mailto:privacy@dxc.com). 
 
-Individuals living inside the EU and Switzerland seeking further information, guidance and advice may contact their local privacy authorities, DXC’s global privacy and data protection officer via email (mentioned above) or via postal mail at: 
-
-**CSC Deutschland GmbH**  
-Data Protection Officer  
-Unter den Linden 16  
-10117 Berlin  
-GERMANY 
+Individuals living inside the EU and Switzerland seeking further information, guidance and advice may also contact their local privacy authorities. 
 
 We will treat your requests or complaints confidentially.  Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved.  We will aim to ensure that your complaint is resolved in timely and appropriate manner. 
