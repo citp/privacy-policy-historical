@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradespoon.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209230118id_/http%3A//www.tradespoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradespoon.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630121002id_/http%3A//www.tradespoon.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Tradespoon
 
@@ -20,8 +20,22 @@ The Site may send emails that contain links to third-party websites and and appl
 
 To comply to the legislation of CASL, we only add users to our mailing list that checked a checkbox on our opt-in pages giving us express consent to receive further communications from Tradespoon.
 
+**YOUR DATA PROTECTION RIGHTS UNDER THE GENERAL DATA PROTECTION REGULATION (GDPR)**
+
+If you are a resident of the EEA, you have the following data protection rights:
+
+If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
+
 **OPT-OUT FROM MAIL LIST**
 
 At any time you may request to be removed from our mailing list by clicking the unsubscribe link provided in each newsletter.
 
-If you have any questions or concerns, we invite you to contact us [info@tradespoon.com](mailto:info@tradespoon.com)
+If you have any questions or concerns, we invite you to contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#523b3c343d12262033363721223d3d3c7c313d3f)
