@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the studysolutions.pk privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223022918id_/http%3A//www.studysolutions.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studysolutions.pk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630025441id_/http%3A//www.studysolutions.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STUDY SOLUTIONS FOR ALL
 
-[](http://del.icio.us/post?url=http://www.studysolutions.pk/privacy-policy&title=Privacy%20Policy) [](http://www.digg.com/submit?phase=2&url=http://www.studysolutions.pk/privacy-policy&title=Privacy%20Policy) [](http://www.reddit.com/submit?url=http://www.studysolutions.pk/privacy-policy&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://www.studysolutions.pk/privacy-policy&title=Privacy%20Policy) [](http://www.squidoo.com/lensmaster/bookmark?http://www.studysolutions.pk/privacy-policy) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Privacy%20Policy&u=http://www.studysolutions.pk/privacy-policy) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.studysolutions.pk/privacy-policy&title=Privacy%20Policy) [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http://www.studysolutions.pk/privacy-policy&Title=Privacy%20Policy) [](http://www.technorati.com/faves?add=http://www.studysolutions.pk/privacy-policy) [](http://www.furl.net/storeIt.jsp?t=Privacy%20Policy&u=http://www.studysolutions.pk/privacy-policy) [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://www.studysolutions.pk/privacy-policy&new_comment=Privacy%20Policy) [](http://www.sphinn.com/submit.php?url=http://www.studysolutions.pk/privacy-policy&title=Privacy%20Policy)
-
 This Privacy Policy governs the manner in which studysolutions.pk collects, uses, maintains and discloses information collected from users (each, a “User”) of the studysolutions.pk website (“Site”). This privacy policy applies to the Site and all products and services offered by studysolutions.pk.
+
+**New Changes in Privacy Policy of Studysolutions.pk as Per GDPR Requirements**  
+Now we are collecting no personal date from our visitors as we have turn off comments on our website until the next notice from us. Now we do not collect even name, or email of our valued visitors. We have also selected non-personalized ads of Google adsense. Now google adsense will also not show you personalized ads.
 
 Personal identification information
 
@@ -22,15 +23,15 @@ How we use collected information
 
 studysolutions.pk may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 How we protect your information
