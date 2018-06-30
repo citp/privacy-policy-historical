@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214234639id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630155518id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,24 +6,82 @@ The privacy of our visitors to PowerPyx.com is important to us.
 
 At PowerPyx.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit PowerPyx.com, and how we safeguard your information.  We never sell your personal information to third parties.
 
-Log Files  
+**Log Files**  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-Cookies and Web Beacons  
+**Cookies and Web Beacons**  
 We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features.
 
-Leaving Comments  
-When leaving a comment below a post your IP (internet protocol) address will be stored on our server. Furthermore, you must enter an email address to leave a comment. A log file with the email address you entered will be stored on our server and can only be seen by the admin and moderation team. This is done strictly for spam prevention purposes. If you would like one of your comments removed please contact mail [at] powerpyx.com with the email address you used for submitting your comment.
+**Leaving Comments & Requesting Removal of your Comments**  
+When leaving a comment below a post your IP (internet protocol) address will be stored on our server. Furthermore, you must enter an email address to leave a comment. A log file with the email address you entered will be stored on our server and can only be seen by the admin and moderation team. This is done strictly for spam prevention purposes and to process comment removals as per your request (because this site doesn’t offer user signups it’s the only way for us to verify you are the comment author). If you would like one of your comments removed please contact  with the email address you used for submitting your comment. We will never give your email address to third parties and you will never receive emails about replies to your comments.
 
-Contact Form Submissions  
-When submitting a message through our contact form you must enter a valid email address. We will use this info to reply to you. A log file with your IP (internet protocol) address will also be created automatically.
+**Contact Form Submissions**  
+When submitting a message through our contact form (e.g. on the “Contact” page) you must enter a valid email address. We will use this info to reply to you. A log file with your IP (internet protocol) address will also be created automatically.
 
-We use third party advertisements on PowerPyx.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**Our Cookie Policy**  
+In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into accounts.
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
+
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called [aboutcookies.org](https://www.aboutcookies.org/) has been setup to help you with instructions how you can do that on various browsers.
+
+**We use cookies to:**  
+1) Identify you as a returning user and to count your visits in our traffic statistics analysis;  
+2) remember your custom display preferences;  
+3) Suggest any recent searches you’ve made on our site  
+4) Other usability features including tracking whether you’ve already given your consent to cookies or saving your comment settings so you don’t have to re-enter them every time
+
+Enabling cookies from our website is not strictly necessary for the website to work but it will provide you with a better browsing experience.
+
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
+
+There may also be other types of cookies created after you’ve visited our website. We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyse how users use the site. The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
+
+**Third Party Advertising**
+
+We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
+
+These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
+
+For more information on our advertising partner Google AdSense see the [official Google AdSense privacy FAQ](https://www.google.com/policies/technologies/ads/).
 
 Furthermore, we are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  **mail [at] powerpyx.com**.
+Criteo is also among our advertisers. See [official Criteo privacy policy](http://www.criteo.com/us/privacy-policy) (the purpose of the Criteo cookies is to re/target users of our website to display personalized advertisements in their future navigation.
 
-_Last update: October 21, 2017._
+**Information Gathered by Third Party Advertisers**  
+Cookies enable advertisers to learn about what ads you see, what ads you click, and other actions you take on our site and other sites. This allows advertisers to provide you with more useful and relevant ads. For example, if they know what ads you are shown while visiting our site, they can be careful not to show you the same ones repeatedly. They do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
+
+We do not provide any personal information to advertisers or to third party sites. Advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content are part of the group that the ad or content is directed towards (for example, readers in the Pacific Northwest who read certain types of articles). Also, some third-party cookies may provide them with information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that they may use to provide you more relevant and useful advertising.
+
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://optout.networkadvertising.org/).
+
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
+
+**Type and Purpose of Collection**  
+We collect information at various points in the Website to facilitate its use by our customers. Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected, such as your IP address, location data (which is anonymous) and the referring website (“Non-Personal Information”). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use “cookies”, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.  
+—————————————–  
+**Sharing Information**  
+We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
+
+(a) Affiliated Service Providers: We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+
+(b) Where required by law: We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+
+(c) Statistical Analysis: We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+
+(d) Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.  
+—————————————–  
+**Choices and How To Opt Out Of Interest-Based Advertising**
+
+(a) Opting Out of Interest-Based Advertising Services  
+This website is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/). As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
+
+(b) Opting Out of Interest-Based Advertising by Third Parties  
+This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on the this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/).
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
+
+_Last update: May 25, 2018._
