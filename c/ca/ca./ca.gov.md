@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ca.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627163433id_/http%3A//ca.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca.gov privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630222901id_/http%3A//ca.gov/Privacy) for the most accurate reproduction.*
 
-# CA.Gov : Privacy Policy
-
-**Effective 5/23/17**
+# CA.Gov : CA.gov Privacy Policy
 
 The California Department of Technology, which runs CA.gov, is committed to promoting and protecting the privacy rights of individuals, as enumerated in Article 1 of the California Constitution, the Information Practices Act of 1977, and other state and federal laws.
 
 It is the policy of the Department of Technology to limit the collection and safeguard the privacy of personal information collected or maintained by the Department. The Department of Technology’s information management practices conform to the requirements of the Information Practices Act (Civil Code Section 1798 et seq.), the Public Records Act (Government Code Section 6250 et seq.), Government Code Sections 11015.5 and 11019.9, and other applicable laws pertaining to information privacy. This Privacy Policy only applies to the CA.gov web site run by the Department of Technology.
 
-**“Personal information”** is information about a natural person that identifies or describes an individual, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history, readily identifiable to that specific individual. A domain name or Internet Protocol address is not considered personal information; however, it is considered “electronically collected personal information.”
+ **“Personal information”** is information about a natural person that identifies or describes an individual, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history, readily identifiable to that specific individual. A domain name or Internet Protocol address is not considered personal information; however, it is considered “electronically collected personal information.”
 
 According to Government Code § 11015.5, **“electronically collected personal information”** means any information that is maintained by an agency that identifies or describes an individual user, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, medical or employment history, password, electronic mail address, and information that reveals any network location or identity, but excludes any information manually submitted to a State agency by a user, whether electronically or in written form, and information on or relating to individuals who are users, serving in a business capacity, including, but not limited to, business owners, officers, or principals of that business.
 
@@ -16,7 +14,7 @@ According to Government Code § 11015.5, **“electronically collected personal 
 
 If any type of personal information is requested on the web site or volunteered by the users, it is governed by state law, including California Civil Code section 1798 et seq., Government Code 11015.5, the California Public Records Act, and the Federal Privacy Act. This information may become a public record once it is provided and except for electronically collected information, it may be subject to public inspection and copying if not otherwise protected by federal or state law.
 
-**The Department of Technology adheres to the following principles in connection with the collection and management of personal information:**
+ **The Department of Technology adheres to the following principles in connection with the collection and management of personal information:**
 
   1. **The Department of Technology collects personal information on individuals only as allowed by law**. The Department limits the collection of personal information to what is relevant and necessary to accomplish its lawful purpose. For example, the Department may need to know an individual’s e-mail address or telephone number in order to answer the individual’s questions or in order to provide requested assistance.
 
@@ -74,7 +72,7 @@ California Department of Technology
 
 Sacramento, CA 95814
 
-********The CA.gov privacy policy prior to 5/23/17 was as follows:****
+ **** ** **The CA.gov privacy policy prior to 5/23/17 was as follows:****
 
 For details regarding CA.gov Privacy Policy, please see our Conditions of Use. The text below reflects general requirements for State departments.
 
