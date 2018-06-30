@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostability.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219163837id_/https%3A//www.boostability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostability.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630082125id_/https%3A//www.boostability.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Boostability
 
@@ -50,4 +50,4 @@ This Privacy Policy is intended to cover collection of information on our websit
 
 We may make changes and updates to our Privacy Policy. We will post all changes on www.Boostability. We encourage you to review this policy frequently so that you are aware of any changes in how we collect and use the information you provide us. This policy was last updated November 2015.
 
-Copyright 2009-2016
+Copyright 2009-2018
