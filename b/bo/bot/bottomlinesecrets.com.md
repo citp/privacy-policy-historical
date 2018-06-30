@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810163259id_/https%3A//bottomlineinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630104417id_/https%3A//bottomlineinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bottom Line Inc
 
-Updated As of July 2016.
+Updated As of May 23, 2018.
 
-Boardroom, Inc. d/b/a Bottom Line Inc. (“ _BLI_ “) provides this privacy policy (this “ _Policy_ “) to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with BLI operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our stores and other BLI controlled digital properties that link to this Policy. For purposes of this Policy, our websites:  [www.bottomlineinc.com](http://www.bottomlineinc.com/), [www.bottomlinestore.com](http://www.bottomlinestore.com/), test.bottomlineinc.com, and www.blmoneymasters.com, our mobile/tablet sites, our social media presence, our applications, and our other digital properties are referred to collectively as, our “ _Websites._ ” Emails, social media, marketing campaigns and online advertising are referred to collectively as, our “ _Internet Marketing Channels._ ”
+Boardroom, Inc. d/b/a Bottom Line Inc. (“ _BLI_ “) provides this privacy policy (this “ _Policy_ “) to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with BLI operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our stores and other BLI controlled digital properties that link to this Policy. For purposes of this Policy, our websites:  <https://www.bottomlineinc.com/>, <https://www.bottomlinestore.com/>, and www.blmoneymasters.com, our mobile/tablet sites, our social media presence, our applications, and our other digital properties are referred to collectively as, our “ _Websites._ ” Emails, social media, marketing campaigns and online advertising are referred to collectively as, our “ _Internet Marketing Channels._ ”
 
 Please read this Policy carefully. By visiting and using the Websites, you agree that your use of our Websites, and any dispute over privacy, is governed by this Policy. Because the Web is an evolving medium, we may need to change our Policy at some point in the future, in which case we’ll post the changes to this Policy on this website and update the Effective Date of the Policy to reflect the date of the changes. By continuing to use the Websites after we post any such changes, you accept the Policy as modified.
 
-This Policy does not create a contractual obligation between you and BLI, and it is subject to our [ **Terms of Use**](http://bottomlineinc.com/Terms-And-Conditions). If you have questions about this Policy, please contact us by using the “Contact Customer Service” link below or email customerservice [at]bottomlineinc [dot]com.
+This Policy does not create a contractual obligation between you and BLI, and it is subject to our [ **Terms of Use**](https://bottomlineinc.com/Terms-And-Conditions). If you have questions about this Policy, please contact us by using the “Contact Customer Service” link below or email customerservice [at]bottomlineinc [dot]com.
 
 **_Information Collected_**
 
@@ -126,9 +126,19 @@ We abide by Facebook’s Data Use Restrictions.
   * Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on our behalf, such as our service provider. We are responsible for ensuring that our service providers protect any Facebook advertising data or any other information obtained from us, limit our use of all of that information, and keep it confidential and secure.
   * We do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of our Facebook advertising campaigns.
   * We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.
-  * We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service. ** **
+  * We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.
 
 
+
+**General Data Privacy Regulation (GDPR)**
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens.
+
+As a company that markets its site, content, products and/or services online we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site, content, products and/or services is governed by GDPR, we will abide by the relevant portions of the Regulation.
+
+If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at [gdpr@bottomlineinc.com](mailto:gdpr@bottomlineinc.com)
 
 **Children’s Privacy Statement**
 
