@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourchildlearns.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226150501id_/http%3A//www.yourchildlearns.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourchildlearns.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630221810id_/http%3A//www.yourchildlearns.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Owl & Mouse Educational Software
 
@@ -39,7 +39,7 @@ We welcome all comments on your and your children's experience with our maps and
 
 E-Mail us at: [Owl and Mouse](mailto:owlmouse@yourchildlearns.com)
 
-[Privacy Policy](https://web.archive.org/web/20171226150501id_/http%3A//www.yourchildlearns.com/privacy-policy.html)   -   [Terms of Service](https://web.archive.org/web/20171226150501id_/http%3A//www.yourchildlearns.com/terms-of-service.html)
+[Privacy Policy](https://web.archive.org/web/20180630221810id_/http%3A//www.yourchildlearns.com/privacy-policy.html)   -   [Terms of Service](https://web.archive.org/web/20180630221810id_/http%3A//www.yourchildlearns.com/terms-of-service.html)
 
 All Material Copyright 1998-2011 Owl and Mouse Educational Software
 
