@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231222818id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630220818id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
