@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the students3k.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227121734id_/http%3A//projects.students3k.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the students3k.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630220320id_/http%3A//projects.students3k.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
