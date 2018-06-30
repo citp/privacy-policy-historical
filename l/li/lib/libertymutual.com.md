@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509044843id_/https%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630220628id_/https%3A//www.libertymutualgroup.com/about-lm/our-company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,7 @@ The level of information gathered by Liberty Mutual varies depending upon your r
   * Liberty Mutual Rewards - Name, Mailing Address, Email Address, Gender, Customer Status.  
 eBilling - Name, Address, Phone Number, Email address, Banking information, Credit Card number if provided.
   * Social networking websites - You may choose to utilize your social media profile from select social networking sites such as Facebook, Twitter, Google+ and other like-type social media sites to access content on our websites. By doing so, you specifically grant permission and authorize us to collect, store and use authorized personal information from these sites as indicated during the use and authorization process.
+  * Tuition Insurance Quoting Application – Student’s Information (Name, Email Address, Address, College / University, On/Off Campus Housing, Class Standing), Parent / Guardian / Tuition Payer (Name, Email Address, Mailing Address, Phone Number, Payment Information), Coverage information, Discount eligibility information, and Consumer Reporting information.
 
 
 
@@ -90,10 +91,9 @@ Liberty Mutual Personal Insurance Company
 Liberty Personal Insurance Company,   
 LM General Insurance Company,   
 American States Preferred Insurance Company,  
-Consolidated Insurance Company  
+Consolidated Insurance Company,  
+Montgomery Mutual Insurance Company
 
-
-  
  **Contact Information**  
 Communications Department  
 175 Berkeley Street  
@@ -101,4 +101,4 @@ Boston, MA 02116
 e-mail: [corporateinfo@libertymutual.com](mailto:corporateinfo@libertymutual.com)
 
   
-Last modified on: July 27, 2016.
+Last modified on: September 25, 2017.
