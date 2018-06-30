@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the retailonlineintegration.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230140849id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailonlineintegration.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630221413id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
 ## Privacy Policy
 
-## North American Publishing Co. d/b/a NAPCO Media
-
-Effective Date: July 15, 2016
-
-  1. ### **You and Us**
-
-
-
+## **You and Us**
 
 Welcome to NAPCO Media! Formally, we are North American Publishing Co. d/b/a NAPCO Media (“NAPCO Media”, “we”, “us” and “our”). We are a premier business-to-business media company serving a variety of markets, including the consumer technology, marketing, retail, non-profit, printing and packaging, publishing and promotional products industries. We provide our services in hard copy and online (collectively, the “Services”), including but not limited to:
 
@@ -33,8 +26,7 @@ By using our Services you understand and agree that we are providing a platform 
 
 When using our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information, including your personal information, as described in this Privacy Statement.
 
-  2. **Information You Provide Us Directly**
-
+## Information You Provide Us Directly
 
   * **Registration information.** When you create or modify an account, or subscribe to any of our Services, or provide us with content, you provide personal information to us, such as your user name, password, postal address and email address. Some of this personal information, for example, your user name, may be listed publicly on our Services, including on your profile page and in search results (if applicable). We may share your email address with others, including our partners and other users, Providers and Subscribers.
 
@@ -51,8 +43,8 @@ When using our Services you consent to the collection, transfer, manipulation, s
   * **Communications between you and NAPCO Media:** We may send you emails (e.g., account verification, changes/updates to features of the Services, technical and security notices), and we may collect and store these communications.
 
 
-  3. **Information We Gather From Your Use of Our Services**
 
+## Information We Gather From Your Use of Our Services
 
   * **  Emails. **We collect and may save private emails sent to us by users, and we may share your emails with any third parties or other users. Any public posts on the NAPCO Media Services may be viewed by any user and is public to anyone who visits the Services. You may elect to disclose certain personal information and information that is not personal information (“non-personal information”). The information you submit in any public forums, including in providing content for use as part of the Services is not confidential or private, and NAPCO Media does not protect it. All information you choose to provide publicly, including information that identifies you or others, can be read, collected, or used by other users and by other third parties, and could be used to send you unsolicited messages and for other purposes.
 
@@ -78,8 +70,8 @@ When using our Services you consent to the collection, transfer, manipulation, s
   * **Log Data.** Our servers automatically record information (“log data”) created by your use of the Services. Log Data may include information such as your Internet Protocol (“IP”) address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive log data when you interact with our Services, for example, when you visit our website, sign into our Services or interact with our email notifications. NAPCO Media uses log data to review how we provide our Services and to measure, customize, and improve the Services.
 
 
-  4. **How We Store Your Information**
 
+## How We Store Your Information
 
   * We provide the Services from within the United States, and we store all personal information that we currently collect and retain on servers inside the United States. In the future, we may store personal information on servers located outside the United States.
 
@@ -90,9 +82,8 @@ When using our Services you consent to the collection, transfer, manipulation, s
   * By using our Services, or by submitting your personal Information to us, you consent to the collection, storage, processing and onward transfer of your personal Information as stated in the current version of this Privacy Statement and the current version of the _Terms of Use_.
 
 
-  5. **How We Use Your Information**
 
-
+## How We Use Your Information
 
 We share and use your personal information in the following circumstances:
 
@@ -136,27 +127,20 @@ We share and use your personal information in the following circumstances:
     * diagnose or fix technology problems.
 
 
-  6. **Privacy Settings**
 
-
+## Privacy Settings
 
 Some of the privacy settings for the use of your personal information may be set at each Service. Once you have shared your personal information or your content, or otherwise made it public, that personal information and your content may be re-shared by others.
 
-  7. **Children**
-
-
+## Children
 
 Our Services are not directed to persons under age 18. If you are the parent or guardian of a young person under 18, and you become aware that your young person has provided us with personal information or content without your express consent, please contact us at _customerservice@napco.com_ and we will remove such information or content, and we will terminate the young person’s account and any subscriptions.
 
-  8. **Changes to this Privacy Statement**
-
-
+## Changes to this Privacy Statement
 
 We may modify our Privacy Statement from time to time on thirty days prior notice sent to the email address we have for you. For any user who has not provided us with an email address, the revised Privacy Statement will become effective no less than thirty (30) days after posting on the NAPCO Media website at [http:// _www.napco.com/privacypolicy_](http://www.napco.com/privacypolicy).
 
-  9. **Your California Privacy Rights**
-
-
+## Your California Privacy Rights
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by NAPCO Media to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to _customerservice@napco.com_ , or send us postal mail at:
 
@@ -170,9 +154,7 @@ Pursuant to California Civil Code Section 1798.83(c)(2), NAPCO Media does not sh
 
 If you are a California resident under the age of 18, and a Subscriber, Provider or user of any our Services, including any website where this Privacy Statement is posted, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an email with a detailed description of the specific content or information to _customerservice@napco.com_. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal, even if requested.
 
-  10. **Use of Email Addresses and Other Contact Information**
-
-
+## Use of Email Addresses and Other Contact Information
 
 We collect the email addresses of those who voluntarily provide them to us, including users, Providers and Subscribers. You may receive relevant email and postal offers for publications, web seminars, white papers, events, and other services.  You may receceive subscription, editorial and other messages and emails from any of the NAPCO Media Services. If you do not want to receive messages from us in the future, please let us know at [http://remove.napco.com](http://remove.napco.com/) or customerservice@napco.com.
 
@@ -180,9 +162,7 @@ The email addresses we collect may also be made available to third-parties who o
 
 If you do not want to receive business-related third party email offers from NAPCO Media, please visit [http://remove.napco.com](http://remove.napco.com/) or  _customerservice@napco.com._  You may stop receiving business-related third party email offers each time an offer is sent to you. Full instructions will appear at the bottom of each email. If you do not receive an email within ten business days of an opt-out request confirming your request you can send an email to us at customerservice@napco.com.
 
-  11. **Contact Us**
-
-
+## Contact Us
 
 If you have questions or concerns about this Privacy Statement, please contact us online at _customerservice@napco.com,_ or by postal mail addressed to:
 
