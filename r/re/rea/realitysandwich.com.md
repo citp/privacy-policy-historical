@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitysandwich.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122182923id_/http%3A//realitysandwich.com/community/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitysandwich.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630183927id_/http%3A//realitysandwich.com/community/privacy) for the most accurate reproduction.*
 
 # Privacy - Reality Sandwich
 
