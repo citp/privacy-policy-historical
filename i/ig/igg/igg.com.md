@@ -1,148 +1,195 @@
-> *The following text is extracted and transformed from the igg.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222093513id_/https%3A//www.igg.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igg.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630195636id_/https%3A//www.igg.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # IGG Privacy Policy
 
-**PRIVACY POLICY**
+**Privacy Policy**
 
-**1.  Introduction**
+**INTRODUCTION**
 
-We recognise that persons who access and/or use (“you” or “Users”) IGG online games (“IGG Games”) and other related services (collectively, the “Services”) value their privacy.
+We recognize that persons who access and/or use (“you” or “Users”) our games, whether played on our website, on mobile devices, PCs or on other platforms, (“IGG Games”) and other related services, including but not limited to customer supporting, marketing and advertising, (collectively, the “Services”) value their privacy.
 
-This Privacy Policy provides important information regarding our use and disclosure of User information collected on or otherwise through the Web Site or otherwise during your access and use of the Services. Unless stated otherwise, this Privacy Policy applies to all information that we have about you and your Account. We therefore provide this Privacy Policy to help you make an informed choice about whether to use or continue using our Services.
+This Privacy Policy provides important information regarding:
+
+i) the data collected from you and the ways we collect your data,
+
+ii) the reasons why we collect your data,
+
+iii) to whom we disclose your data, and
+
+iv) the options you have about your personal data.
+
+Unless stated otherwise, this Privacy Policy applies to the Services and all data that we collect from you. We therefore provide this Privacy Policy to help you make an informed choice about whether to use or continue using our Services. We may periodically update this Privacy Policy by posting a new version on our website. Your continued use of the Services after the effective date will be subject to the new version of Privacy Policy.
 
 This Privacy Policy is incorporated into, forms part of and is subject to the Terms of Service. Your use of the Services and any personal information you provide on the Site is subject to the terms of this Privacy Policy and the Agreement.
 
 Any terms not defined herein but defined in the Terms of Service shall have the meaning ascribed thereto in the Terms of Service.
 
-Please note that any graphics, designs, images, information, data, communications and other Content in any media or format communicated by Users on or through the Serviceswill not be regarded as information that is subject to this Privacy Policy.
+**I. THE DATA** **COLLECTED** **FROM YOU** **AND THE WAYS** **WE** **COLLECT YOUR DATA**
 
-**2.  Information Collected**
+####  1\. Data provided by you
 
-**(a)  User Provided Information**
+To use the Services, you may directly provide certain personally identifiable information to us, such as:
 
-**i. Registration Information**
+  * Contact information (e.g. your name, personal identification number, postal or e-mail address, telephone numbers)
+  * Registered user name and password
+  * Character Information (e.g. Account ID, character name, profile picture. Please be reminded that such information may be disclosed to other users in connection with the use of the Services and may also be made available to your connections or the public on third party services)
+  * Personal content preferences
+  * Profile information (e.g. profile photo)
+  * Messages to the Services (e.g. chat logs, your support tickets)
+  * Billing and financial information (Please be reminded that the use of any merchant service provider and/or third party platforms for the payment of the Admission Fee is subject to the privacy policy of the relevant merchant service providers and/or third party platforms)
+  * Other data that you voluntarily provide (e.g. data to identify a lost account)
 
-You directly provide certain personally identifiable information (such asyour name, personal identification number, postal or e-mail address and telephone numbers) and personal content preferences to us when you register for an Account.
 
-**ii. Your Information on Third Party Services and Mobile Devices**
 
-When you access our Services through any third party services such as social networking sites or from any mobile devices, you indirectly allow us access to certain information stored on these third party services or mobile devices. The access to such information may be restricted by privacy settings established at these third party services or mobile devices. Use of third party services is subject to the privacy policy ofsuch third party services.
+####  2\. Data collected automatically
 
-In particular, when you access the Services using any mobile device, we may assign to your mobile device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type and other technological information, telephone number, country, contacts and any other information you choose to provide. 
+When you access our Website or use the Services, we may use cookies  and/or other similar technologies. Cookies are small text files stored by browser(s) on your desktop computer or mobile device. Most web browsers automatically accept cookies, but you can usually modify browser setting to decline cookies. If you choose to decline cookies, you may not be able to access certain Services and may experience technical problems receiving current information from the cookie-disabled services. The use of cookies and/or other similar technologies is to identify your browsers and to collect data from your device such as:
 
-  
-**iii. Billing and Financial Information**
+  * Data about your Account
+  * Internet Protocol (IP) address, web request, domain name, URLs, referring/exit pages, platform type and mobile device identifiers (e.g. your device ID, advertising ID, MAC address, IMEI)
+  * Data about your device (e.g. device name, operating system, browser type and language)
+  * Data we collect with cookies and similar technologies
+  * Monitoring of aggregate metrics (e.g. total number of visitors, pages viewed, usage of the Services)
+  * General location data
+  * Precise geo-location data (i.e. GPS)
+  * Data about your use of the Services (e.g. number of clicks, landing pages, pages viewed and order of those pages, the amount of time spent on particular pages, the date and time of your request, your game play and activity, your game progress, your interactions with other players inside the Services)
+  * Other pieces of information in connection with your various activities within or through the Services or otherwise that are sent by your browser, device or computer system when you access the Services, which are automatically tracked and recorded by our servers
 
-You may also disclose billing and financial information to us, the relevant merchant service provider and/or third party platformwhen you pay the Admission Fee using any payment instruments and channels. Use of any merchant service provider and/or third party platformis subject to the privacy policy of the relevant merchant service provider and third party platform.
 
-**iv. Character Information**
 
-The information relating to your character in IGG Games (such as your Account ID(whether your Account is established with the IGGplatform or with any third party service through which you access the Services), profile picture and character name) may also be disclosed to other Users in connection with your use of the Services. Information related to your character in IGG Games may also be made available to your connections or the public on third party services.
+####  3\. Data collected from our partners
 
-**v. Others**
+When you access the Services through any third party services such as social networking sites (e.g. Facebook, WeChat, Google) or from any mobile devices, you allow us access to certain information stored on these third party services or mobile devices such as:
 
-We may require access to other additional information from time to time and shall seek your specific permission at such time.
+  * Demographic data (e.g. determination of your IP address)
+  * Data to fight against fraud (e.g. refund abuse in games or click fraud in advertising)
+  * Data from platforms that the games run on (e.g. verification of  payment)
+  * Data associated with your device (e.g. device type, technological information, telephone number, country, contacts)
+  * Data to do advertising, marketing and analysis
 
-**(b)  Cookies, Log File, Clear GIFs, Web Beaconsand Other Tracking technologies**
 
-When you access our Web Site or use our Services, we may send one or more cookies (which is a small text file) that uniquely identifies your browser. We use these cookies to help learn more about your preferences and therefore make the most of your experience on our Services by providing personalised content and information the next time you visit. Our cookies may be used for holding login information and will expire when all instances of the browser are closed. Some features of our Servicesmay not function properly if the ability to accept cookies is disabled.
 
-Our servers automatically tracks and records certain information in connection with your various activities within or through the Services or otherwise that are sent by your browser, device or computer system when you access the Services. These server logs may include without limitation information such as your web request, Internet Protocol ("IP") address, MAC addresses, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages and the date and time of your request and your game play and activity on the Services and technical information about your device or computer.
+**II. THE REASON WHY WE COLLECT** **YOUR DATA**
 
-Electronic images may be contained within the Services known as web beacons – also referred to as single-pixel gifs – that permit us to count Users who have visited those pages and for other related statistics, e.g. recording the popularity of certain Content and verifying system and server integrity. Web beacons are not used to access your personal information through our Services; they are solely used to compile aggregate statistics concerning the use of our Services. Web beacons collect only a limited set of information including a cookie number, the time and date of a page view, and a description of the page on which the web beacon resides.
+####  1\. To provide the Services
 
-During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+To provider the Services, we process data necessary to
 
-  
-**3.  Uses of Collected Information**
+  * Create Accounts
+  * Allow you to play IGG Games and use the Services
+  * Operate the Services
+  * Verify and confirm payments
+  * Provide and deliver products and services that you request
+  * Send service-related communications to you
 
- (a) If you submit personally identifiable information to us (in particular in completing our registration form to set up an Account or by accessing our Services through your Account with a third party service), you agree to us using your personal information in connection with the operation, maintenance, improvement and/or advertisement of the Servicesand will enable us to identify the Services that are most relevant to your needs. For Users who are not in Singapore and in countries where we work with third party agent partners, we may share your information with our agent partners in order to provide local customer service.
 
-   (b) Any and all information that you communicate to or share with other Users on, within or through the Services becomes publicly available and can be collected and used by others. Any and all information that you submit or discloseas such may be redistributed through the internet and other media channels, and may be viewed by the general public.
 
- (c) We use both your personally identifiable information and certain non-personally-identifiable information (such asanonymous User usage data, cookies, IP addresses, browser type, clickstream data, transaction history) to improve the quality, use and design of our Services and to create new features, promotions and functionalityby storing, tracking, and analysing User preferences and trends and otherwise for the operation, maintenance, improvement and/or advertisement of the Services or to assist or facilitate any of the foregoing.
+####  2\. To improve and optimize the Services
 
-   (d) By disclosing any information to us or to any other User by reason of or in connection with any Services, you are hereby consenting to the communication of the information by us on or through our Services to any User specified by you, and the storage, retention and retrieval by us of the information in or from any database maintained by us in connection with the operation, maintenance and/or use of the Services.
+To provide better Services to you, we have a legitimate interest to collect and process necessary data to
 
-(e) We use cookies, clear GIFs, log file information, web beacons and other software to:
+  * Update and develop the Services
+  * Manage and update your Account
+  * Develop and improve your experience
+  * Manage the relationship with you
+  * Provide social features to you
+  * Customize your service experience
+  * Respond to your comments and questions and provide support to you
+  * Provide offers in the Services as well as in other websites and services
+  * Send related information (e.g. updates, security alerts, support messages) to you
+  * Enable you to communicate with other users
 
-  remember information so that you will not have to re-enter it the next time you access the Services;
 
-provide custom, personalised content and information (such as identifying and suggesting connections with other Users and generate leader and achievement boards);
 
-manage advertising and to advertise more efficiently;
+####  3\. To carry out activities related to advertisements and marketing
 
-monitor aggregate metrics (such astotal number of visitors, pages viewed and, usage of the Services);
+To send you personalized advertising and marketing materials, we may use the information collected from you such as ad identifiers, age, country, region, gender, language, games played by you, information related to the interaction of you with the Services and with other users, and so forth.
 
-monitor interaction between Users; and
+We may also use various third party advertising and marketing partners to assist us on our behalf and may share information collected from you with such third parties for this purpose.
 
-otherwise facilitate or assist in the operation, maintenance, improvement and/or advertisement of the Services.
+Hence, we have a legitimate interest to process necessary data to
 
-Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies, you may also choose to be logged into your Account for access to the Services automatically. If you choose to decline cookies, you may not be able to access certain Services and you may experience technical problems receiving current information from the cookie-disabled Services. 
+  * Track the content you access in connection with the Services and your online behavior
+  * Deliver, target and improve our advertising and marketing materials
+  * Pass the information collected from you to third party advertising and marketing partners
 
-  **4.  Disclosure of Collected Information**
 
- (a) We may provide personally identifiable information and non-personally-identifiable information to our related or affiliated companies for our legitimate business purposes. We may also provide personally identifiable information and non-personally-identifiable information to other businesses or persons for the purpose of processing such information or otherwise assist us in performing any services on our behalf including in any marketing activities. We require that these parties agree to process such information in compliance with our Privacy Policy contained herein, and we will use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
-   (b) We do not sell your personally identifiable information to other third-party companies for their commercial or marketing use without your consent.
+By accepting this Privacy Policy and downloading or continuing to use the Services, you consent to us and our advertising and marketing partners collecting and using information about you to personalize advertising and marketing materials and to improve your experience unless you opt out of receiving this service.
 
-   (c) We may share non-personally-identifiable information with interested third-parties to assist them in understanding the usage patterns for certain Content, Services, advertisements, promotions, and/or functionality on our Web Site.
+We encourage you to review the privacy policies of our third party advertising and marketing partners so that you can understand how these third parties collect, use and share your information. We are not responsible for the privacy policies of any third party whether accessed through the Services or otherwise.  
 
-   (d) We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good faith belief that such action is necessary to comply with all and any applicable laws, or where it is pursuant to or we are required to respond to a governmental, regulatory, administrative or court order or directive, a subpoena or a search warrant.
+For information on how to opt-out from receiving personalized advertising and marketing materials, see section 'The options you have about your personal data” below.
 
-   (e) We also reserve the right to disclose personally identifiable information and/or non-personally-identifiable information that we believe, in good faith, is appropriate or necessary to enforce the Agreement, take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government authorities and enforcement agencies, to protect the security or integrity of the Services, and to protect the rights, property, or personal safety of ourselves, our Users or others.
+####  4\. To secure the Services
 
- (f) Any User which receives any information including personally identifiable information, from another User shall not disclose or use such information, save where expressly permitted by that User or save where such information has ceased to be of a confidential nature. In any event, we shall not be liable for any unauthorised disclosure or use by another User or other person of any Content.
+Ensuring the security in the course of performing the Services is a top priority for us. We take appropriate security and technical measures to protect your information from unauthorized access, loss and misuse. To achieve this purpose, we also request our suppliers who process personal information on our behalf to take appropriate security measures.
 
-**5.  Communication Facilities **
+In order to keep the Service and its social features safe and fair, to fight fraud and to ensure acceptable use otherwise, we have a legitimate interest to process necessary data to
 
- (a) We cannot ensure the security of any of the communication facilities provided by us. We recommend that all Users exercise caution when disclosing any information through our Services. In particular, please note that any personally identifiable information or personally sensitive data that you communicate or disclose to any User in connection with our Services may be collected and used by others.
+  * Analyze and monitor use of the Services and its social features
+  * Moderate and monitor chats
+  * Prevent cheating, crime or fraud
+  * Take action against fraudulent or misbehaving users 
+  * Pass your information to agencies or organizations in charge of crime and fraud prevention and repression
 
-   (b) We may record and store archives ofany communications to monitor interactions between our Users and the use of our Services.
 
-   (c) We encourage you to review the privacy policies of websites or other third party services you choose to visit via hyper-links posted on or withinthe Services so that you can understand how these third parties collect, use and share your information. We are not responsible for the privacy policies of any third party whether accessed through our Services or otherwise.  
 
-**6.  User Access to and Control of Information**
+Despite our efforts, we cannot guarantee the absolute security of your personal data, nor can we ensure the security of any of the communication facilities provided by us. We recommend that you exercise caution when disclosing any information through the Services. In particular, please note that any personally identifiable information or personally sensitive data that you communicate or disclose to any user in connection with the Services may be collected and used by others. As such, you should take care of the information shared online. Please also be reminded that any questions answers, comments, submissions that you post in the forum will be publicly available.
 
-   (a) You can access some of the information that we collect and process about you. For example, you can access information registered under your Account (including name, e-mail, password and communications preferences); e-mail notification settings; and transaction history.
+####  5\. To analyze, research and test
 
-   (b) You have the right to refrain from providing any information to us or to another User. You understand that this may, however, have an impact on your use of the Services and on the ease of User interactions (such as engaging in trades with other Users).
+In all of the above cases and purposes, we may use analytic tools, which may include third party’s analytic tools, to carry out research, surveys and analysis, to create reports for use, to track potential problems of the Services or to test out new game features and content.
 
-   (c) Youhereby agree to us communicating with you via email and any similar technology for any purposes relating to the Services, the Web Site, and any other services or software which may in the future be provided by us or on our behalf.
+####  6\. To obtain your consent
 
-   (d) Occasionally, we will send out e-mails concerning website disruptions, new features and other news about or in connection with our Services including without limitation notifications about in-game activity. These e-mails are sent to all Account holders and are not subscription-based. Such e-mails are considered a part of our Services to Users. You should therefore update us whenever your email-address has changed. You may do so by accessing your Account with the IGG platform and updating the notification e-mail address under your Account settings page with the IGG platform or submitting the request at service.igg.com.
+With your consent, we may process personal data for additional purposes.
 
-   (e) With respect to your communication preferences, you can either unsubscribe from newsletters by following the instructions indicated in the newsletter you receive, or adjust your Account settings regarding email contact preferences. If your e-mail address has changed and you would like to continue to receive newsletters, you have to sign-up again for the newsletter after you have accessed your Account and updated your e-mail address information in your Account settings page with the IGG platform or by submittingthe request to update your e-mail address at service.igg.com.
+**III. TO WHOM WE DISCLOSE YOUR DATA**
 
-   (f) Limited aspects of the Services may be accessed anonymously, or without the use of cookies. Please refer to the Web Site for content that may be accessed anonymously.
+**1.** **Our personnel, related or affiliated companies**
 
-   (g) If you are given access to any other User’s information, you must not collect or harvest any of these information, nor use the communication facilities or any part of our Services for any commercial solicitation purposes.
+We may provide your personally identifiable information and non-personally-identifiable information to our personnel, our related or affiliated companies for our legitimate business purposes. We may also provide your personally identifiable information and non-personally-identifiable information to other businesses or persons for the purpose of processing such information or otherwise assist us in performing any services on our behalf including in any advertising and marketing activities. We require that these parties agree to process such information in compliance with our Privacy Policy contained herein, and we will use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
-   (h) If you do not agree to the collection, use and disclosure of information as set out herein, you maysubmityour request at service.igg.com for the termination of your Account and/or access of the Services through your Account. However, please note that this does not delete information you have disclosed to any other User, and some of your information might possibly be retained in our archived records after your Account has been deleted and/or you have ceased accessing the Services. 
+**2\. Other users**
 
-  **7.  Third-party Advertisers**
+As social features are a core element of our games, other users may see your profile data, in-game activities and read the messages you have posted.
 
- (a) We may allow third-party ad servers or ad networks to publish advertisements on or within our Services. These third-party ad servers or ad networks may use technology to send, directly to your browser, the advertisements and links that appear on or within our Services. They may thereby collect information including but without limitation via cookies or clear GIFS to measure the effectiveness of their advertisements and to personalise the advertising content you see.
+Any user who receives any information including personally identifiable information, from another user shall not disclose or use such information, save where expressly permitted by that user or save where such information has ceased to be of a confidential nature. In any event, we shall not be liable for any unauthorized disclosure or use by another user or other person of any content.
 
-   (b) You should therefore always consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices.
+**3\. Partners working for us**
 
-   (c) Our Privacy Policy as contained herein does not apply to, and we cannot control the activities of, such other advertisers or web sites or of any other third party.
+We have partners (including but not limited to advertising, marketing and social media partners) to perform services for us. These partners may access your data and operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices.
 
-**8.  Data Security**
+####  4\. Other companies and public authorities
 
- (a) We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you discloseon, through or within the Services and you do so entirely at your own risk. Please note that we cannot guarantee that such informationmay not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+We may release personally identifiable information and/or non-personally-identifiable information to, exchange such information with companies and organizations or provide such information to public authorities if required to do so by law, or in the good faith belief that such action is necessary to comply with all and any applicable laws, or where it is pursuant to we are required to respond to a governmental, regulatory, administrative or court order or directive, a subpoena or a search warrant, or to combat fraud and illegal activity.
 
- (b) If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice on the WebSite if a security breach occurs.
+We also reserve the right to disclose personally identifiable information and/or non-personally-identifiable information that we believe, in good faith, is appropriate or necessary to enforce the Agreement, take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government authorities and enforcement agencies, to protect the security or integrity of the Services, and to protect the rights, property, or personal safety of ourselves, our users or others.
 
-   (c) If you create an Account with the IGG Platform, you will be required to select a password that can be changed at any time after you first log into the Account by using your current password. You are solely responsible for maintaining the confidentiality of your password and are fully responsible for all activities that occur under your Account and password or your account with any other third party service. You agree to (i) notify us immediately if you are aware or reasonably suspect of any unauthorised use of your Account or password or of any unauthorised access of the Services through your Account, and (ii) ensure that you exit from your Account at the end of each session.
+**IV. THE OPTIONS YOU HAVE ABOUT YOUR PERSONAL DATA**
 
-**9.  Our Policies Concerning Children**
+####  1\. Opt out of advertising and/or marketing materials
 
-Accounts are established by persons who are at least 18 years of age. Further, our IGG Games are not intended to be accessed by persons under 13 years of age. We do not intentionally collect any personally identifiable information from persons under 13 years of age. In the event that we learn that we have inadvertently gathered personally identifiable information from children under 13 years of age, we will take commercially reasonable measures to ensure that such information is removed from our records.
+You may opt out of receiving advertising and/or marketing communications by following the instructions in such communications or by using options provided in the game settings.
 
-**10.  Special Note to International Users**
+####  2\. Access and correct the personal data we hold about you
 
-Our Web Site is hosted in the Republic of Singapore and the use of the Web Site and Services and this Agreement is governed by and shall be construed and enforced under the laws of Singapore, without applying any conflicts of law principles that would require application of the law of any other jurisdiction. You agree to submit to the personal non-exclusive jurisdiction in Singapore and any other court of competent jurisdiction chosen by us.
+You have the right to access and correct your personal data.
+
+####  3\. Other rights
+
+You also have the right to have your personal data deleted, object how we use or share your personal data, and restrict how we use or share your personal data. You can always withdraw your consent.
+
+If you have questions about data protection, or any requests for resolving issues with your personal data, we encourage you to primarily contact us through the game so we can reply to you more quickly. We will respond to all requests within a reasonable time frame.
+
+**V.  INTERNATIONAL DATA TRANSFERS**
+
+By accepting this Privacy Policy, Users understand and agree that your data may be collected, stored, used in any country and/or transferred to any country in the world. Because different countries may have different data protection laws than Users’ own country, we will try to ensure that adequate safeguards are in place to protect Users’ data.
+
+**VI. SPECIAL NOTE TO INTERNATIONAL USERS**
+
+The use of the Website and Services and this Agreement is governed by and shall be construed and enforced under the laws of Singapore, without applying any conflicts of law principles that would require application of the law of any other jurisdiction. You agree to submit to the personal non-exclusive jurisdiction in Singapore and any other court of competent jurisdiction chosen by us.
 
 In the event of any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, (a “Dispute”), we strongly encourage that a resolution first be sought through our Customer Support service.
 
@@ -152,17 +199,39 @@ Notwithstanding any of the foregoing, you agree that we are entitled to submit s
 
 You irrevocably waive all rights to seek any injunctive or other equitable relief or to enjoin or restrain the operation or exploitation of the Services or any part thereof. You further irrevocably waive all rights to a class or representative action or as a named or unnamed member in a class, consolidated, representative or private attorney general action.
 
-  
-**11.  Merger, Acquisition, Sale, or Insolvency**
+**VII** **.  O** **UR POLICIES CONCERNING CHILDREN**
 
- (a) In the event that we are acquired by or merged with another entity, we reserve the right, in any of these circumstances, to transfer the information or assign our rights to the information that we have collected from our Users as part of such merger, acquisition, sale, or other change of control.
+The Services are not intended to be accessed by persons under the age of 13, nor do we knowingly collect or solicit personal data therefrom. In the event that we learn that we have inadvertently gathered personally identifiable information from persons under the ages set out below, we will take commercially reasonable measures to ensure that such information is removed from our records.
 
- (b) In the event of our insolvency, reorganisation, receivership, winding-up or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+**VIII. DATA SECURITY**
 
-  
-**12.  Changes and updates to this Privacy Policy**
+We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you disclose on, through or within the Services and you do so entirely at your own risk. Please note that we cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
- (a) This Privacy Policy may be revised, amended or modified periodically. Please re-visit this page to stay in touch with any changes. Your access of the Services signifies your acceptance and agreement to this Privacy Policy (as may be amended or revised from time to time).
+If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice on the Website if a security breach occurs.
 
- (b) For questions about our privacy policy, please submit your questions at service.igg.com. If you would like to change, modify or update your personal information which you have provided in relation to your Account which you registered with us or pursuant to your access of the Services through your account with any third party service, please submit the request at service.igg.com.  
- 
+If you create an Account with the IGG Platform, you will be required to select a password that can be changed at any time after you first log into the Account by using your current password. You are solely responsible for maintaining the confidentiality of your password and are fully responsible for all activities that occur under your Account and password or your account with any other third party service. Users agree to (i) notify us immediately if you are aware or reasonably suspect of any unauthorized use of your Account or password or of any unauthorized access of the Services through your Account, and (ii) ensure that you exit from your Account at the end of each session.
+
+**IX. MERGER, ACQUISITION, SALE OR INSOLVENCY**
+
+1\. In the event that we are acquired by or merged with another entity, we reserve the right, in any of these circumstances, to transfer the information or assign our rights to the information that we have collected from our Users as part of such merger, acquisition, sale, or other change of control.
+
+2. In the event of our insolvency, reorganization, receivership, winding-up or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+**X.**   **CHANGES AND UPDATES TO THIS PRIVACY POLICY**
+
+1\. This Privacy Policy may be revised, amended or modified periodically. Please re-visit this page to stay in touch with any changes. Your access of the Services signifies your acceptance and agreement to this Privacy Policy (as may be amended or revised from time to time).
+
+2\. For questions about our privacy policy, please submit your questions at [_service.igg.com_](http://service.igg.com/). If you would like to change, modify or update your personal information which you have provided in relation to your Account which you registered with us or pursuant to your access of the Services through your account with any third party service, please submit the request at [_service.igg.com_](http://service.igg.com/).
+
+**XI. CONTACT US**
+
+If you have any questions or concerns about any of the matters in relation to this Privacy Policy, including to exercise any of your rights, then there are several ways of contacting us:
+
+  1. via our customer services page at [http://service.igg.com](http://service.igg.com/); or
+  2. via email to [support@igg.com](mailto:support@igg.com); or
+  3. to our European representative at [igg@activemind.legal](mailto:igg@activemind.legal); or
+  4. to our Data Protection Officer at [dpo@igg.com](mailto:dpo@igg.com)
+
+
+
+**Effective Date:** May 25, 2018
