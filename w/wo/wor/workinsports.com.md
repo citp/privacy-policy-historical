@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331234936id_/http%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630134545id_/https%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
 
 # WorkInSports.com - Privacy Policy
 
 **Work In Sports, LLC  
-Last Updated: 3/2/2015  
+Last Updated: 05/25/2018  
 **
 
-[](https://privacy.truste.com/privacy-seal/Work-In-Sports--LLC/validation?rid=ccf8f67b-1c8e-4957-8cea-cce99d2b8b34 "TRUSTe online privacy certification")
-
 This privacy policy applies to http://www.workinsports.com/ owned and operated by Work In Sports, LLC. This privacy policy describes how Work In Sports, LLC collects and uses the personal information you provide on our web site http://www.workinsports.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
-
-Work In Sports, LLC ("WorkInSports.com") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.workinsports.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@WorkInSports.com](mailto:privacy@WorkInSports.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 **Dedicated to your privacy**
 
@@ -24,6 +18,8 @@ Your privacy is important to us. Our goal is to earn and keep your trust, accord
 
 
 
+If you do not want us to share your personal information with these companies, [contact us here](https://web.archive.org/wiscontactus.asp).
+
 When this Privacy Policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as your target job category, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. 
 
 Please read this Privacy Policy to learn more about the ways in which we use and protect your personal information. 
@@ -33,7 +29,7 @@ Please read this Privacy Policy to learn more about the ways in which we use and
 Registration  
 Our basic registration forms require users to provide contact information, including name, mailing address and email address. We use this information to contact you about the services on our site in which you have expressed interest. Should you choose to purchase services, your credit card information will be stored. We use this information for billing purposes only. If we have trouble processing your order, we will use your information to contact you. 
 
-We will use your Personal Information for internal purposes only and will never sell or share your personal information with any third parties except as described in this privacy policy (see “Business Transitions”). Sensitive information such as your credit card information will be kept completely private and encrypted during collection and transmission to our credit card processors (see “Security”). 
+We will use your Personal Information for internal purposes only and will never sell or share your personal information with any third parties except as described in this privacy policy (see ï¿½Business Transitionsï¿½). Sensitive information such as your credit card information will be kept completely private and encrypted during collection and transmission to our credit card processors (see ï¿½Securityï¿½). 
 
 Resume  
 Should you post your resume, the amount of information you choose to keep confidential is entirely up to your discretion. You may enter as much or as little information as you choose. If you do not wish to reveal your contact information to hiring authorities, you may still post your resume as Confidential. All information posted will only be visible to recruiters and companies seeking employees. All recruiters are screened and have been determined by WorkInSports.com to be legitimately seeking applicants for open positions. 
@@ -41,7 +37,7 @@ Should you post your resume, the amount of information you choose to keep confid
 Refer-A-Friend  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friends name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. WorkInSports.com stores this information for the sole purpose of sending this one-time email. 
 
-Your friend may contact [Customer Support](https://web.archive.org/web/20160331234936id_/http%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
+Your friend may contact [Customer Support](https://web.archive.org/web/20180630134545id_/https%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
 
 Target Job Information  
 We also use Personal Information to provide you with targeted job information. For example, your email job alert will contain job information based on the job locations and categories you choose. 
@@ -59,35 +55,25 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 As a registered user of WorkInSports.com, you will automatically receive our service announcements (e.g., email address confirmation, signup confirmation, administrative messages, etc.) at your email address. Service announcements are required as they may contain information vital to your account; you may not unsubscribe from service announcements unless you deactivate your account. 
 
-Job Alerts, Career Event Notification and Promotional are permission-based emails that will only be sent to you if you either opt-in at time of registration or turn them on in your account. You can update your email preferences by logging onto your “Account Settings” page. In addition, each permission-based email communication from us contains an unsubscribe link in the footer you can click to be instantly removed from that program. 
+Job Alerts, Career Event Notification and Promotional are permission-based emails that will only be sent to you if you either opt-in at time of registration or turn them on in your account. You can update your email preferences by logging onto your ï¿½Account Settingsï¿½ page. In addition, each permission-based email communication from us contains an unsubscribe link in the footer you can click to be instantly removed from that program. 
 
 **Choice/Opt-out**
 
-You can update your email preferences by logging onto your “Account Settings” page on the Site. In addition, each subscription-based email communication from us contains an unsubscribe link in the footer you can click to instantly remove yourself from the mailing list for that specific email subscription program. 
+You can update your email preferences by logging onto your ï¿½Account Settingsï¿½ page on the Site. In addition, each subscription-based email communication from us contains an unsubscribe link in the footer you can click to instantly remove yourself from the mailing list for that specific email subscription program. 
 
 As a registered user of WorkInSports.com, you will automatically receive our service announcements (e.g., email address confirmation, signup confirmation, administrative messages, etc.) at your email address. Transactional communication is required as they may contain information vital to your account; you may not unsubscribe from service announcements unless you deactivate your account. 
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20160331234936id_/http%3A//www.workinsports.com/wiscontactus.asp). 
+**Tracking Technologies**
 
-**Cookies**
-
-Technologies such as: cookies, beacons, tags and scripts are used by WorkInSports.com and our [specify type e.g. marketing partners] partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
-
-We use cookies for [our shopping cart, to remember users’ settings (e.g. language preference), for authentication]. Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, our Web site may not function properly. 
+Work In Sports, LLC and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
 The use of cookies by our partners, affiliates, and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, and service providers use session ID cookies to enhance your web browsing experience. 
 
 **Log Files**
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We [do / do not] link this automatically collected data to other information we collect about you. 
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you. 
 
-**Local Storage Objects (Flash/HTML5)**
-
-We use Local Storage Objects (LSOs) such as HTML5 or Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. 
-
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
-
-**Behavioral Targeting / Re – Targeting**
+**Behavioral Targeting / Re ï¿½ Targeting**
 
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
@@ -111,9 +97,11 @@ In the event WorkinSports.com goes through a business transition, such as a merg
 
 **Access to Personal Information**
 
-If your personal information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20160331234936id_/http%3A//www.workinsports.com/wiscontactus.asp). 
+Upon request Work In Sports, LLC will provide you with information about whether we hold any of your personal information. If your personal information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your ï¿½Account Settingsï¿½ page or by contacting [Customer Support](https://web.archive.org/web/20180630134545id_/https%3A//www.workinsports.com/wiscontactus.asp). We will respond to your request to access within a reasonable timeframe. 
 
 **Legal Disclaimer**
+
+In certain situations, Work In Sports, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
 We may disclose your Personal Information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on WorkInSports.com. 
 
