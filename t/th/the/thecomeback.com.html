@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecomeback.com privacy policy that was archived on 2017-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171211050419id_/http%3A//thecomeback.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecomeback.com privacy policy that was archived on 2018-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630073811id_/http%3A//thecomeback.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 	<meta charset="UTF-8">
@@ -9,7 +9,7 @@
 
 	<title>Privacy Policy</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v7.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://thecomeback.com/privacy-policy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -23,7 +23,6 @@
 <meta name="twitter:title" content="Privacy Policy">
 <meta name="twitter:site" content="@thecomeback">
 <meta name="twitter:creator" content="@bloguin">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="http://thecomeback.com/wp-content/themes/comebackmedia/assets/scripts/prebid_v20_20170404_ABCDPRS.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/thecomeback.com\/","name":"The Comeback","potentialAction":{"@type":"SearchAction","target":"http:\/\/thecomeback.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//use.typekit.net">
@@ -32,9 +31,12 @@
 <link rel="alternate" type="application/rss+xml" title="The Comeback » Feed" href="http://thecomeback.com/feed">
 <link rel="alternate" type="application/rss+xml" title="The Comeback » Comments Feed" href="http://thecomeback.com/comments/feed">
 <link rel="alternate" type="application/rss+xml" title="The Comeback » Privacy Policy Comments Feed" href="http://thecomeback.com/privacy-policy/feed">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-<script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-70751480-1';
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.8 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="http://thecomeback.com/wp-content/themes/comebackmedia/assets/scripts/prebid_v20_20170404_ABCDPRS.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag/smb5j20ig.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" data-cfasync="false">
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-70751480-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -51,20 +53,66 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-70751480-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-70751480-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thecomeback.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.4"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://thecomeback.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.4" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thecomeback.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://thecomeback.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -80,6 +128,12 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="comeback-style-css" href="http://thecomeback.com/wp-content/themes/comebackmedia/style.min.css?ver=1.0.6" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/thecomeback.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.8"></script>
 <script type="text/javascript" src="http://cdn1.thecomeback.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://cdn1.thecomeback.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/plugins/wp-hide-post/public/js/wp-hide-post-public.js?ver=2.0.10"></script>
@@ -90,7 +144,7 @@ try{Typekit.load({ async: true });}catch(e){}
 <link rel="https://api.w.org/" href="http://thecomeback.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thecomeback.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thecomeback.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.4">
+<meta name="generator" content="WordPress 4.9.6">
 <link rel="shortlink" href="http://thecomeback.com/?p=685">
 <link rel="alternate" type="application/json+oembed" href="http://thecomeback.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthecomeback.com%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="http://thecomeback.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthecomeback.com%2Fprivacy-policy&amp;format=xml">
@@ -171,6 +225,20 @@ try{Typekit.load({ async: true });}catch(e){}
 </noscript>
 <!-- End comScore Tag -->
 
+
+<!-- BEGIN Krux ControlTag for ""The Comeback"" -->
+<script class="" kxct""="" data-id="" smb5j20ig""="" data-timing="" async""="" data-version="" 3.0""="" type="" text="" javascript""="">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/smb5j20ig.js';
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+</script>
+<!-- END Krux ControlTag -->
+
+
+<!--BEGIN DFP HEADER-->
 <script>
         function detectWidth(){
             var w = window;
@@ -180,7 +248,7 @@ try{Typekit.load({ async: true });}catch(e){}
             return clientWidth;
         }
 
-var EXCHANGE_RATE = 3.5;
+var EXCHANGE_RATE = 1;
 var PREBID_TIMEOUT = 1000;
 
 if(detectWidth() < 768) PREBID_TIMEOUT = 1200;
@@ -196,7 +264,17 @@ function initAdserver() {
 setTimeout(initAdserver, PREBID_TIMEOUT);
 var pbjs = pbjs || {};
 pbjs.que = pbjs.que || [];
+
+
+
 loadScript('http://thecomeback.com/wp-content/themes/comebackmedia/assets/scripts/prebid_v20_20170404_ABCDPRS.js'); // PUT THE PREBID.JS FILE LOCATION HERE
+
+
+   pbjs.que.push(function() {
+       pbjs.setConfig({
+           enableSendAllBids: true
+       });
+   });
 
     var refreshVariable = 0;
     function refreshSlot(slot) {
@@ -217,6 +295,7 @@ loadScript('http://thecomeback.com/wp-content/themes/comebackmedia/assets/script
     }});});}
 
 
+	
 function loadScript(scriptSrc) {
   var script = document.createElement('script');
   script.async=true;
@@ -227,93 +306,171 @@ function loadScript(scriptSrc) {
  }
 
 pbjs.que.push(function() {
-        var adUnits = [{
+       
+	   var adUnits = [
+	   
+	   {
+	   
         code: 'div-gpt-ad-1488702900515-1',
-        sizes: (detectWidth() <= 768) ? [300, 250] : [728,90],
-        bids: [{ bidder: 'defymedia', params: { placementId: (detectWidth() <= 768) ? '12483165' : '12483161'}},
+		mediaTypes: {
+        banner: {
+                    sizes:(detectWidth() <= 768) ? [300, 250] : [728,90]
+		      }
+		    },
+        bids: [
            { bidder: 'rhythmone', params: { placementId: '64598' }},
-           { bidder: 'sovrn', params: { tagid: (detectWidth() <= 768) ? '455869' : '455870' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
+		   { bidder: 'oftmedia', params: { placementId: (detectWidth() <= 768) ? '13396233' : '13396235' }},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
     },{
         code: 'div-gpt-ad-1488702900515-2',
-        sizes: (detectWidth() <= 768) ? [300, 250] : [728,90],
-        bids: [{ bidder: 'defymedia', params: { placementId: (detectWidth() <= 768) ? '12483165' : '12483161'}},
+		mediaTypes: {
+        banner: {
+                    sizes:(detectWidth() <= 768) ? [300, 250] : [728,90]
+		      }
+		    },
+        bids: [
            { bidder: 'rhythmone', params: { placementId: '64598' }},
-           { bidder: 'sovrn', params: { tagid:  (detectWidth() <= 768) ? '455869' : '455870' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
+		   { bidder: 'oftmedia', params: { placementId: (detectWidth() <= 768) ? '13396233' : '13396235' }},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
     },{
         code: 'div-gpt-ad-1488702900515-4',
-        sizes: (detectWidth() <= 1020) ? [300, 250] : [300, 600],
-        bids: [{ bidder: 'defymedia', params: { placementId: (detectWidth() <= 1020) ? '12483163' : '12483162'}},
+		mediaTypes: {
+        banner: {
+                    sizes:(detectWidth() <= 1020) ? [300, 250] : [300, 600]
+		      }
+		    },
+        bids: [
            { bidder: 'rhythmone', params: { placementId: '64598' }},
-           { bidder: 'sovrn', params: { tagid:  (detectWidth() <= 768) ? '455869' : '455871' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
+		   { bidder: 'oftmedia', params: { placementId: (detectWidth() <= 768) ? '13396233' : '13396234' }},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
     },{
         code: 'div-gpt-ad-1488702900515-6',
-        sizes: (detectWidth() <= 768) ? [300, 250] : [728,90],
-        bids: [{ bidder: 'defymedia', params: { placementId: (detectWidth() <= 768) ? '12483163' : '12483161'}},
-           { bidder: 'sovrn', params: { tagid:  (detectWidth() <= 768) ? '455869' : '455870' }},
+		mediaTypes: {
+        banner: {
+                    sizes:(detectWidth() <= 768) ? [300, 250] : [728,90]
+		      }
+		    },
+        bids: [
+		   { bidder: 'oftmedia', params: { placementId: (detectWidth() <= 768) ? '13396233' : '13396235' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
            { bidder: 'rhythmone', params: { placementId: '64598' }},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
     },{
         code: 'div-gpt-ad-1485207732782-0',
-        sizes: (detectWidth() <= 768) ? [1, 1] : (detectWidth() <= 980 ) ? [728, 90] : [[970, 90,], [970, 250]],
-        bids: [{ bidder: 'defymedia', params: { placementId: (detectWidth() <= 768) ? '12483161' : (detectWidth() <= 980) ? '12483161' : '12483164'}},
+		mediaTypes: {
+        banner: {
+                    sizes:(detectWidth() <= 768) ? [1, 1] : (detectWidth() <= 980 ) ? [728, 90] : [[970, 90,], [970, 250]]
+		      }
+		    },
+        bids: [
            { bidder: 'rhythmone', params: { placementId: '64598' }},
-           { bidder: 'sovrn', params: { tagid:  (detectWidth() <= 768) ? '455869' : (detectWidth() <= 980 ) ? '455870' : '507041' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
+		   { bidder: 'oftmedia', params: { placementId: (detectWidth() <= 768) ? '13396235' : (detectWidth() <= 980) ? '13396237' : '13396236'}},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
-    },{
+    },
+	
+	{
         code: 'div-gpt-ad-1485207806582-0',
-        sizes: (detectWidth() <= 768) ? [320, 50] : [1, 1],
-	bids: [{ bidder: 'defymedia', params: { placementId: '12483167' }},
-           { bidder: 'sovrn', params: { tagid:  (detectWidth() <= 768) ? '507040' : '455869' }},
+		mediaTypes: {
+        banner: {
+                    sizes:(detectWidth() <= 768) ? [320, 50] : [1, 1]
+		      }
+		    },
+	bids: [
            { bidder: 'rhythmone', params: { placementId: '64598' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
     },{
-        code: 'div-gpt-ad-1485207686819-0',
-        sizes: [300, 250],
-        bids: [{ bidder: 'defymedia', params: { placementId: '12483165' }},
+            code: 'div-gpt-ad-1524040951222-0',
+			mediaTypes: {
+        banner: {
+                    sizes: [300, 250]
+		      }
+		    },
+        
+	bids: [
            { bidder: 'rhythmone', params: { placementId: '64598' }},
-           { bidder: 'sovrn', params: { tagid:  '455869' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
+		   { bidder: 'oftmedia', params: { placementId:'13396233'}},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
+           ]
+    },{
+        code: 'div-gpt-ad-1524040951222-1',
+		mediaTypes: {
+        banner: {
+                    sizes: [300, 250]
+		      }
+		    },
+	bids: [
+           { bidder: 'rhythmone', params: { placementId: '64598' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
+		   { bidder: 'oftmedia', params: { placementId:'13396233'}},
+           { bidder: 'brealtime', params: { placementId: '11078267' }},
+           { bidder: 'conversant', params: { site_id: '109971' }},
+           { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
+           { bidder: 'districtm', params: { placementId: '10985788' }}
+           ]
+    },{
+    	code: 'div-gpt-ad-1485207686819-0',
+		mediaTypes: {
+        banner: {
+                   sizes:[300, 250]
+		      }
+		    },
+	bids: [
+           { bidder: 'rhythmone', params: { placementId: '64598' }},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
+		   { bidder: 'oftmedia', params: { placementId:'13396233'}},
+           { bidder: 'brealtime', params: { placementId: '11078267' }},
+           { bidder: 'conversant', params: { site_id: '109971' }},
+           { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
     },{
         code: 'div-gpt-ad-1485207623793-0',
-        sizes: [300, 600],
-        bids: [{ bidder: 'defymedia', params: { placementId: '12483162' }},
-           { bidder: 'sovrn', params: { tagid:  '455871' }},
+		mediaTypes: {
+        banner: {
+                   sizes:[300, 600]
+		      }
+		    },
+	bids: [
+		   { bidder: 'oftmedia', params: { placementId:'13396234'}},
+		   { bidder: 'openx',params: { unit: '540139473', delDomain: 'adnimation-d.openx.net'}},
            { bidder: 'rhythmone', params: { placementId: '64598' }},
            { bidder: 'brealtime', params: { placementId: '11078267' }},
            { bidder: 'conversant', params: { site_id: '109971' }},
            { bidder: 'sonobi', params: { placement_id: 'd9d59e7b0659942f917d' }},
-           { bidder: 'districtmDMX', params: { id: '145554' }}
+           { bidder: 'districtm', params: { placementId: '10985788' }}
            ]
     }];
   pbjs.addAdUnits(adUnits);
@@ -340,27 +497,20 @@ pbjs.bidderSettings = {
       }, {
         key: "hb_pb",
         val: function(bidResponse) {
-        if(bidResponse.cpm >= 80) return '80.00';
+        if(bidResponse.cpm >= 20) return '20.00';
         return (Math.floor(bidResponse.cpm * 20) / 20).toFixed(2);
       }
       }]
     },
     
-    districtmDMX: {
+    districtm: {
       bidCpmAdjustment: function(bidCpm) { 
        return bidCpm * EXCHANGE_RATE * .85; 
      },
       alwaysUseBid: true
     },
-    
-    defymedia: {
-      bidCpmAdjustment: function(bidCpm) { 
-       return bidCpm * EXCHANGE_RATE* .85; 
-     },
-      alwaysUseBid: true
-    },   
-    
-    sovrn: {
+ 
+    oftmedia: {
       bidCpmAdjustment: function(bidCpm) { 
        return bidCpm * EXCHANGE_RATE * .85; 
      },
@@ -380,6 +530,12 @@ pbjs.bidderSettings = {
      },
       alwaysUseBid: true
     },
+     sonobi: {
+      bidCpmAdjustment: function(bidCpm) { 
+       return bidCpm * EXCHANGE_RATE ; 
+     },
+      alwaysUseBid: true
+    },
        
     brealtime: {
       bidCpmAdjustment: function(bidCpm) {  
@@ -389,6 +545,94 @@ pbjs.bidderSettings = {
     }
    };
 });  //end push command
+
+// Wrapper for Adnimation, generated on 2018-06-10T08:09:23-04:00, version 2018.04.02
+pbjs.que.push(function() {
+    
+    var confiantWrap = function confiantWrap(a,b,c,d,e){function f(a){return(m(a)||"")[s]("/","_")[s]("+","-")}function g(b,c,d){var e=w+n(b)+"&d="+c,f="err__"+1*new Date;k[f]=d;var g="<"+q+" on"+t+'="void('+f+'())" '+r+'="'+e+'" type="text/java'+q+'" ></'+q+">";a[v](g)}function h(){var c=f(d+"/"+x.k.hb_bidder[0]+":"+x.k.hb_size[0]),h={wh:c,wd:l.parse(l[u](x)),wr:0};g(c,f(l[u](h)),function(){a[v](b.ad)});var i={prebid:{adId:b.adId,cpm:b.cpm}},j={d:h,t:b.ad,cb:e,id:i};k[d]={},k[d][c]=j}var i=b.bidder,j=b.size,k=a.parentWindow||a.defaultView,l=k.JSON,m=k.btoa,n=k.encodeURIComponent;if(!l||!m)return!1;var o="t",p="i",q="script",r="src",s="replace",t="error",u="stringify",v="wr"+p+o+"e",w="https://"+c+"/?wrapper="+n(d)+"&tpid=",x={k:{hb_bidder:[i],hb_size:[j]}};return h(),a.close(),!0};
+
+    // keep a reference to original renderAd function
+    var w = window;
+    w.clrm = w.clrm || {};
+    w.clrm.renderAd = w.clrm.renderAd || pbjs.renderAd;
+    // override renderAd
+    pbjs.renderAd = function(doc, id) {
+        if (doc && id) {
+            try {
+
+                // get pbjs bids
+                var bids;
+                if (pbjs._bidsReceived) {       // prebid < 1.0
+                    bids = pbjs._bidsReceived;
+                } else {                        // prebid >= 1.0
+                    bids = pbjs.getHighestCpmBids();
+                }
+                
+                // lookup ad by ad Id (avoid ES6 array functions)
+                var bid, i;
+                for (i=0; i<bids.length; i++) {
+                    if (bids[i].adId === id) {
+                        bid = bids[i];
+                        break;
+                    }
+                }
+
+                // Optional: list of bidders that don't need wrapping, array of strings, e.g.: ["bidder1", "bidder2"]
+                var confiantExcludeBidders = [];
+
+                // check bidder exclusion (avoid ES6 array functions)
+                var excludeBidder = false;
+                for (i=0; i<confiantExcludeBidders.length; i++) {
+                    if (bid.bidder === confiantExcludeBidders[i]) {
+                        excludeBidder = true;
+                        break;
+                    }
+                }
+
+                if (bid && bid.ad && !excludeBidder) {
+                    // Neutralize document
+                    var docwrite = doc.write;
+                    var docclose = doc.close;
+                    doc.write = doc.close = function() {};
+                    // call renderAd with our neutralized doc.write
+                    window.clrm.renderAd(doc, id);
+                    // Restore document
+                    doc.write = docwrite;
+                    doc.close = docclose;
+
+                    var callback = function(blockingType, blockingId, isBlocked, wrapperId, tagId, impressionData) {
+                        console.log("w00t one more bad ad nixed.", arguments);
+                    };
+
+                    // do the actual ad serving and fall back on document.write if failure
+                    if (!confiantWrap(doc, bid, 'clarium.global.ssl.fastly.net', 'd2ehZtyVAa1kXxOtMxFp7XciXcU', callback)) {
+                        doc.write(bid.ad);
+                        doc.close();
+                    }
+
+                    return;
+                }
+            } catch (e) {
+                console.log(e);
+            }
+        }
+
+        // if bid.ad is not defined or if any error occurs, call renderAd to serve the creative
+        window.clrm.renderAd(doc, id);
+    };
+
+});
+
+pbjs.que.push(function() {
+    pbjs.enableAnalytics({
+        provider: 'ga',
+        options: {
+            global: 'ga',
+            enableDistribution: false,
+            sampling: 0.10
+        }
+    });
+});
 </script>
 
 <script>
@@ -428,25 +672,28 @@ pbjs.bidderSettings = {
     googletag.defineSlot('/30438525/Thecomeback/Thecomeback_970X90_Top', [[728, 90], [970, 66], [970, 250], [970, 90]], 'div-gpt-ad-1485207732782-0').defineSizeMapping(TopBannerMapping).addService(googletag.pubads()); // Desktop Only ad unit
     googletag.defineSlot('/30438525/Thecomeback/Thecomeback_320X50_Top',  [[320, 50], [320, 100]], 'div-gpt-ad-1485207806582-0').defineSizeMapping(Mobile320BannerMapping).addService(googletag.pubads()); // Mobile Only ad unit
 
-    dfpSlots[0] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_728X90_Middle', [[728, 90], [300, 250]], 'div-gpt-ad-1488702900515-1').
+	dfpSlots[0] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_Sidebar_Box_1', [300, 250], 'div-gpt-ad-1524040951222-0').addService(googletag.pubads());
+    dfpSlots[1] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_Sidebar_Box_2', [300, 250], 'div-gpt-ad-1524040951222-1').addService(googletag.pubads());
+
+    dfpSlots[2] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_728X90_Middle', [[728, 90], [300, 250]], 'div-gpt-ad-1488702900515-1').
         defineSizeMapping(MiddleBannerMapping).
     addService(googletag.pubads());
 
-    dfpSlots[1] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_728X90_Middle1', [[728, 90], [300, 250]], 'div-gpt-ad-1488702900515-2').
+    dfpSlots[3] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_728X90_Middle1', [[728, 90], [300, 250]], 'div-gpt-ad-1488702900515-2').
         defineSizeMapping(MiddleBannerMapping).
     addService(googletag.pubads());
 
 
-    dfpSlots[2] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_300x600_Middle_Right', [[160, 600], [300, 250], [300, 600]], 'div-gpt-ad-1488702900515-4').
+    dfpSlots[4] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_300x600_Middle_Right', [[160, 600], [300, 250], [300, 600]], 'div-gpt-ad-1488702900515-4').
         defineSizeMapping(SideBar300x600Mapping).
     addService(googletag.pubads());
 
-    dfpSlots[3] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_970X250_Bottom', [[970, 250], [300, 250], [728, 90], [970, 90]], 'div-gpt-ad-1488702900515-6').
+    dfpSlots[5] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_970X250_Bottom', [[970, 250], [300, 250], [728, 90], [970, 90]], 'div-gpt-ad-1488702900515-6').
         defineSizeMapping(BottomBannerMapping).
     addService(googletag.pubads());
 
-    dfpSlots[4] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_300x250_BottomSidebar', [300, 250], 'div-gpt-ad-1485207686819-0').addService(googletag.pubads());
-    dfpSlots[5] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_300x600_Top', [[300, 600], [160, 600]], 'div-gpt-ad-1485207623793-0').addService(googletag.pubads());
+    dfpSlots[6] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_300x250_BottomSidebar', [300, 250], 'div-gpt-ad-1485207686819-0').addService(googletag.pubads());
+    dfpSlots[7] = googletag.defineSlot('/30438525/Thecomeback/Thecomeback_300x600_Top', [[300, 600], [160, 600]], 'div-gpt-ad-1485207623793-0').addService(googletag.pubads());
 
 
   // EyePopper DFP CODE
@@ -468,13 +715,13 @@ pbjs.bidderSettings = {
 
   });
 </script>
+<!--END DFP HEADER-->
 
 
 <!--NATIVO-->
 <script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
 
-	<link rel="shortcut icon" href="http://cdn1.thecomeback.com/wp-content/plugins/white-label/favicon.ico">
-	</head>
+</head>
 
 <body class="page-template-default page page-id-685 wp-custom-logo page-privacy-policy group-blog no-js">
 <div id="page" class="site">
@@ -487,7 +734,7 @@ pbjs.bidderSettings = {
 <script>
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485207732782-0'); });
 </script>
-</div></aside><aside class="widget ad-widget"><script async="true" src="//a.teads.tv/page/62290/tag"></script></aside>			</div>
+</div></aside>			</div>
 		</section>
 	
 	<header class="site-header">
@@ -520,7 +767,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485207732782-0');
 <li id="menu-item-211875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-211875"><a href="#">More</a>
 <ul class="sub-menu">
 	<li id="menu-item-224686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-224686"><a href="http://thecomeback.com/category/soccer">Soccer</a></li>
-	<li id="menu-item-20086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20086"><a href="http://thecomeback.com/category/general">General</a></li>
+	<li id="menu-item-378656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-378656"><a href="http://thecomeback.com/category/racing">Racing</a></li>
 	<li id="menu-item-20010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20010"><a href="http://thecomeback.com/about-tcb">About Us/Contact</a></li>
 </ul>
 </li>
@@ -540,7 +787,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485207732782-0');
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-211875"><a href="#"><span>More</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-224686"><a href="http://thecomeback.com/category/soccer"><span>Soccer</span></a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20086"><a href="http://thecomeback.com/category/general"><span>General</span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-378656"><a href="http://thecomeback.com/category/racing"><span>Racing</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20010"><a href="http://thecomeback.com/about-tcb"><span>About Us/Contact</span></a></li>
 </ul>
 </li>
@@ -612,9 +859,7 @@ Many companies offer programs that help you to visit websites anonymously. While
 
 	</article><!-- #post-## -->
 
-<div id="disqus_thread">
-    </div>
-
+<div id="disqus_thread"></div>
 
 			</main><!-- #main -->
 		</div><!-- .primary -->
@@ -622,51 +867,43 @@ Many companies offer programs that help you to visit websites anonymously. While
 		
 <aside class="secondary widget-area" role="complementary">
 	<h2 class="screen-reader-text">Sidebar</h2>
-	<aside class="widget ad-widget hide-in-mobile"><center><script type="text/javascript"><!--
-google_ad_client = "ca-pub-1956856209985681";
-/* MMPlus_TheComeback_MPU */
-google_ad_slot = "2342816594/3128916248";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
+	<aside class="widget ad-widget hide-in-mobile"><center><!-- /30438525/Thecomeback/Thecomeback_Sidebar_Box_1 -->
+<div id="div-gpt-ad-1524040951222-0">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1524040951222-0'); });
 </script>
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><center></center></center></aside><aside class="widget clone-widget"><h3 class="widget-title">Popular Posts</h3><div class="featuredsidebar"><a href="http://thecomeback.com/nfl/4-13-nfl-games-week-ended-single-digit-margin-victory.html" class="image-as-background" style="background-image: url( http://cdn1.thecomeback.com/wp-content/uploads/2017/11/488074642-1-600x400.jpg )"><h4>Why is the NFL regular season so much less enjoyable?</h4></a><a href="http://thecomeback.com/soccer/open-letter-don-garber-major-league-soccer.html" class="image-as-background" style="background-image: url( http://cdn1.thecomeback.com/wp-content/uploads/2017/11/ColumbusCrew_102617-2-600x400.jpg )"><h4>An open letter to Don Garber and Major League Soccer</h4></a><a href="http://thecomeback.com/ncaa/rutgers-stadium-portable-toilets.html" class="image-as-background" style="background-image: url( http://cdn1.thecomeback.com/wp-content/uploads/2017/11/Rutgers-stadium-1-600x400.jpg )"><h4>Rutgers asks fans to leave stadium to use portable toilets thanks to "water pressure issue"</h4></a><a href="http://awfulannouncing.com/ncaa/media-figures-tennessee-backlash-greg-schiano.html" class="image-as-background" style="background-image: url( http://cdn1.thecomeback.com/wp-content/uploads/2017/11/457498023-e1511817759854-600x400.jpg )"><h4>Media figures call leaders of backlash against Tennessee hiring Greg Schiano "hypocrites," "idiot protesters" and more</h4></a></div></aside><aside class="widget ad-widget hide-in-mobile"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-1956856209985681";
-/* MMPlus_TheComeback_MPU_2 */
-google_ad_slot = "2342816594/8189669339";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
+</div></center></aside><aside class="widget clone-widget"><h3 class="widget-title">Popular Posts</h3><div class="featuredsidebar"><a href="http://thecomeback.com/films/han-solos-top-5-moments-in-the-star-wars-saga.html" class="image-as-background" style="background-image: url( http://awfulannouncing.com/wp-content/uploads/2018/05/000-1-600x400.png )"><h4>Han Solo's top 5 moments in the Star Wars saga</h4></a><a href="http://awfulannouncing.com/espn/mike-francesas-wfan-return-should-cause-espn-to-consider-a-mike-mike-reunion.html" class="image-as-background" style="background-image: url( http://awfulannouncing.com/wp-content/uploads/2018/05/IMG_1821-600x400.jpg )"><h4>Mike Francesa’s WFAN return should cause ESPN to consider a Mike &amp; Mike reunion</h4></a><a href="http://awfulannouncing.com/nfl/predictions-expansion-betting-broadcasting.html" class="image-as-background" style="background-image: url( http://awfulannouncing.com/wp-content/uploads/2018/05/SVP-bad-beats-1-600x400.jpg )"><h4>Five predictions for how the expansion of legalized sports betting might affect sports broadcasting</h4></a><a href="http://awfulannouncing.com/espn/espn-6pm-sportscenter-ratings-further-liberal-narrative.html" class="image-as-background" style="background-image: url( http://awfulannouncing.com/wp-content/uploads/2018/05/sc6-1-600x400.jpeg )"><h4>ESPN promoting 6 p.m. SportsCenter ratings lift was self-inflicted PR wound that furthers 'ESPN is too liberal' narrative</h4></a></div></aside><aside class="widget ad-widget hide-in-mobile"><!-- /30438525/Thecomeback/Thecomeback_Sidebar_Box_1 -->
+<div id="div-gpt-ad-1524040951222-1">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1524040951222-1'); });
 </script>
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></aside><aside class="widget widget_bloguin_link_box_widget hide-in-mobile">			<div class="link-box link-box-full none" itemscope="" itemtype="http://schema.org/ItemList">
+</div></aside><aside class="widget widget_bloguin_link_box_widget hide-in-mobile">			<div class="link-box link-box-full none" itemscope="" itemtype="http://schema.org/ItemList">
 				<h3 class="widget-title link-box-title" itemprop="name">The Good Stuff</h3>
 				<section class="link-box-content">
 					
-		<div class="link-box-thumb image-as-background" style="background-image: url('http://cdn1.thecomeback.com/wp-content/uploads/2017/10/523310124-e1490316220265-600x400.jpg')">
+		<div class="link-box-thumb image-as-background" style="background-image: url('http://cdn1.thecomeback.com/wp-content/uploads/2018/04/hulk_american-600x400.png')">
 		</div>
 
 							<meta itemprop="itemListOrder" content="http://schema.org/ItemListOrderDescending">
 					<meta itemprop="numberOfItems" content="6">
 					<ul class="link-box-list">
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://awfulannouncing.com/pop-culture/10-targets-donald-trumps-next-sports-media-feud.html" title="Permalink to: 10 targets for Donald Trump’s next sports media feud">10 targets for Donald Trump’s next sports media feud</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/wwe/the-34-greatest-wwe-theme-songs-of-all-time.html" title="Permalink to: The 34 greatest WWE theme songs of all time">The 34 greatest WWE theme songs of all time</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/soccer/three-reasons-why-u-s-not-2018-world-cup.html" title="Permalink to: Three reasons why the U.S. is not going to the 2018 World Cup">Three reasons why the U.S. is not going to the 2018 World Cup</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/nfl/top-nfl-impending-free-agents-for-2019.html" title="Permalink to: Who are the top 10  impending NFL free agents for 2019?">Who are the top 10  impending NFL free agents for 2019?</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/tonights-jeopardy-contestants-whiffed-four-sports-questions-brutal-fashion.html" title="Permalink to: Tonight’s Jeopardy contestants missed four sports questions in brutal fashion">Tonight’s Jeopardy contestants missed four sports questions in brutal fashion</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/ncaa/loyola-chicago-8-mid-majors-next-final-four.html" title="Permalink to: 8 mid-major basketball teams who could be next season’s Loyola-Chicago">8 mid-major basketball teams who could be next season’s Loyola-Chicago</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/soccer/can-mls-continue-selling-sport-future.html" title="Permalink to: How long can MLS continue selling itself as the sport of the future?">How long can MLS continue selling itself as the sport of the future?</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/nfl/which-nfl-qb-will-have-success-with-new-team.html" title="Permalink to: Which NFL quarterback will have the most success with his new team in 2018?">Which NFL quarterback will have the most success with his new team in 2018?</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/ncaa/8-team-playoff.html" title="Permalink to: Conference championship games are historically duds and should be replaced by an 8-team playoff">Conference championship games are historically duds and should be replaced by an 8-team playoff</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/wwe/10-daniel-bryan-matches-wwe-watch-again.html" title="Permalink to: 10 Daniel Bryan WWE matches you should watch again">10 Daniel Bryan WWE matches you should watch again</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/wwe/5-surprising-wwe-champions-history.html" title="Permalink to: The 5 most surprising WWE champions in history">The 5 most surprising WWE champions in history</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/wwe/ranking-wwe-monday-night-raws-25-greatest-moments.html" title="Permalink to: Ranking WWE Monday Night Raw’s 25 greatest moments">Ranking WWE Monday Night Raw’s 25 greatest moments</a>
 							</li>
 											</ul>
 				</section>
@@ -680,29 +917,26 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485207623793-0');
 				<h3 class="widget-title link-box-title" itemprop="name">Pop Culture</h3>
 				<section class="link-box-content">
 					
-		<div class="link-box-thumb image-as-background" style="background-image: url('http://cdn1.thecomeback.com/wp-content/uploads/2017/10/StrangerThings2-1-600x400.png')">
+		<div class="link-box-thumb image-as-background" style="background-image: url('http://cdn1.thecomeback.com/wp-content/uploads/2018/05/MadMen-1-600x400.png')">
 		</div>
 
 							<meta itemprop="itemListOrder" content="http://schema.org/ItemListOrderDescending">
-					<meta itemprop="numberOfItems" content="6">
+					<meta itemprop="numberOfItems" content="5">
 					<ul class="link-box-list">
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/what-can-we-expect-to-see-in-stranger-things-season-three.html" title="Permalink to: What can we expect to see in Stranger Things season three?">What can we expect to see in Stranger Things season three?</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/5-times-mad-men-reduced-me-to-tears.html" title="Permalink to: 5 times Mad Men reduced me to tears">5 times Mad Men reduced me to tears</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/just-tell-us-how-jack-pearson-died-already-this-us.html" title="Permalink to: Just tell us how Jack Pearson died already on This is Us">Just tell us how Jack Pearson died already on This is Us</a>
+								<a itemprop="url" class="link-box-link" href="http://awfulannouncing.com/pop-culture/our-favorite-sports-centric-scripted-tv-shows.html" title="Permalink to: Our favorite sports-centric scripted TV shows">Our favorite sports-centric scripted TV shows</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/owners-breaking-bad-house-problem-fans-throwing-pizzas-roof.html" title="Permalink to: The owners of the “Breaking Bad” house have a problem with fans throwing pizzas on their roof">The owners of the “Breaking Bad” house have a problem with fans throwing pizzas on their roof</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/culture/the-truman-show-remains-an-underrated-classic-20-years-after-its-release.html" title="Permalink to: The Truman Show remains an underrated classic 20 years after its release">The Truman Show remains an underrated classic 20 years after its release</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/25-years-school-ties-anniversary.html" title="Permalink to: 25 years ago, School Ties gave Jewish kids a story to rally behind">25 years ago, School Ties gave Jewish kids a story to rally behind</a>
+								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/5-crime-dramas-detectives-legitimately-terrible-job-dexter-thirteen-law-order.html" title="Permalink to: 5 TV crime dramas with detectives who are legitimately terrible at their job">5 TV crime dramas with detectives who are legitimately terrible at their job</a>
 							</li>
 													<li class="link-box-item" itemprop="itemListElement">
 								<a itemprop="url" class="link-box-link" href="http://thecomeback.com/pop-culture/list-things-millennials-killing.html" title="Permalink to: Here is a list of things that millennials are killing">Here is a list of things that millennials are killing</a>
-							</li>
-													<li class="link-box-item" itemprop="itemListElement">
-								<a itemprop="url" class="link-box-link" href="http://awfulannouncing.com/general/10-tv-hyped-one-off-special-disappointments.html" title="Permalink to: 10 of TV’s most-hyped one-off special disappointments">10 of TV’s most-hyped one-off special disappointments</a>
 							</li>
 											</ul>
 				</section>
@@ -783,7 +1017,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488702900515-6');
 
 		<div class="footer-bottom">
 			<div class="wrap">
-				<aside class="widget ad-widget"><!-- /30438525/Thecomeback/Thecomeback_1x1_1 -->
+				<aside class="widget ad-widget"><!-- /317673431/TheComeback_ROS_Skin -->
+<div id="div-gpt-ad-1488312712147-0" style="height:1px; width:1px;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488312712147-0'); });
+</script>
+</div></aside><aside class="widget ad-widget"><!-- /30438525/Thecomeback/Thecomeback_1x1_1 -->
 <div id="div-gpt-ad-1488702900515-7" style="height:1px; width:1px;">
 <script>
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488702900515-7'); });
@@ -849,23 +1088,23 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488702900515-9');
 		});
 	});
 	</script>
-	<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/themes/comebackmedia/assets/scripts/project.min.js?ver=1.0.6"></script>
-<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-includes/js/comment-reply.min.js?ver=4.8.4"></script>
-<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/themes/comebackmedia/assets/scripts/mobile-nav-menu.min.js?ver=1.0.6"></script>
-<script type="text/javascript" src="//load.sumome.com/" data-sumo-site-id="f4e47fd60977fa5f93ff6914f609fa210fd746e9da658e9007b2611067d61ffb" async=""></script>
-<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-includes/js/wp-embed.min.js?ver=4.8.4"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var embedVars = {"disqusConfig":{"platform":"wordpress@4.8.4","language":""},"disqusIdentifier":"685 http:\/\/thecomeback.com\/?page_id=685","disqusShortname":"thecomeback-com","disqusTitle":"Privacy Policy","disqusUrl":"http:\/\/thecomeback.com\/privacy-policy","options":{"manualSync":false},"postId":"685"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=4.8.4"></script>
-<script type="text/javascript">
+	<script type="text/javascript">
 /* <![CDATA[ */
 var countVars = {"disqusShortname":"thecomeback-com"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.8.4"></script>
+<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"685 http:\/\/thecomeback.com\/?page_id=685","disqusShortname":"thecomeback-com","disqusTitle":"Privacy Policy","disqusUrl":"http:\/\/thecomeback.com\/privacy-policy","postId":"685"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.16"></script>
+<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/themes/comebackmedia/assets/scripts/project.min.js?ver=1.0.6"></script>
+<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-includes/js/comment-reply.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-content/themes/comebackmedia/assets/scripts/mobile-nav-menu.min.js?ver=1.0.6"></script>
+<script type="text/javascript" src="//load.sumome.com/" data-sumo-site-id="f4e47fd60977fa5f93ff6914f609fa210fd746e9da658e9007b2611067d61ffb" async=""></script>
+<script type="text/javascript" src="http://cdn1.thecomeback.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
 <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
