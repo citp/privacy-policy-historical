@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the always-review.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201141020id_/http%3A//always-review.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the always-review.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630063716id_/http%3A//always-review.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,12 +73,12 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.AlwaysReview.com
+**Company:  **RMG Ltd, Found Studios
 
-Porcelænshaven 26
+**Address:  **1 Lindsey Street
 
-Frederiksberg, Copenhagen 2000
+**City:  **London
 
-Denmark
+**Postcode:  **EC1A9HP
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Country:  **UK
