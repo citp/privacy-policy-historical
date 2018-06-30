@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tjx.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229064118id_/http%3A//www.tjx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjx.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630135127id_/http%3A//www.tjx.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice | TJX.com
+# Privacy | TJX.com
 
 Welcome to the TJX Corporate Website, the website for The TJX Companies, Inc. ("TJX"). TJX, T.J. Maxx, Marshalls, HomeGoods, Sierra Trading Post, and other affiliates are the "TJX Businesses." This Privacy Statement describes the type of personal information we collect on the website, how we may use that information, with whom we share that information, how we protect that information and how you can access and update your employment profile.
 
