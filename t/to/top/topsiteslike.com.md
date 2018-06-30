@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the topsiteslike.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826145752id_/http%3A//www.topsiteslike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsiteslike.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630232922id_/https%3A//www.topsiteslike.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Top Sites Like
+# Privacy Policy – Top Sites Like
 
 ## What is this Privacy Policy for?
 
-This privacy policy is for this website  http://www.topsiteslike.com and served by[ Topsiteslike.com](http://www.topsiteslike.com/) and governs the privacy of its users who choose to use it.
+This privacy policy is for this website  https://www.topsiteslike.com and served by[ Topsiteslike.com](https://www.topsiteslike.com/) and governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
