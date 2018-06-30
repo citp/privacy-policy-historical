@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecrochetcrowd.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207071145id_/http%3A//thecrochetcrowd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrochetcrowd.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630052822id_/http%3A//thecrochetcrowd.com/privacy-policy) for the most accurate reproduction.*
 
 # The Crochet Crowd Privacy Policy
 
-This site contains links to other websites. We are not responsible for the privacy practices or the content of other websites that are not part of The Crochet Crowd.
+This site contains links to other websites. We are not responsible for the privacy practices or the content of other websites that are not part of [The Crochet Crowd](http://bit.ly/1HKrUpR "The Crochet Crowd").
 
-The collection of data consists of free membership through email registrations. We use the contact data provided by our members to send newsletters through email about new updates within The Crochet Crowd®, patterns and inspiration.
+The collection of data consists of free membership through email registrations. We use the contact data provided by our members to send newsletters through email about new updates within [The Crochet Crowd](http://bit.ly/1HKrUpR "The Crochet Crowd")®, patterns and inspiration.
 
 The privacy of visitors to TheCrochetCrowd.com is important to us.
 
