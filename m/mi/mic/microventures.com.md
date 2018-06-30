@@ -1,95 +1,176 @@
-> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426220342id_/https%3A//microventures.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630031419id_/https%3A//microventures.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Microventures
 
-### Your Privacy
+## Privacy Policy
 
-The website MicroVentures.com and the services available on it (collectively, we'll refer to these as the MicroVentures services) are provided to you by MicroVenture Marketplace, Inc.. As we provide you (or the organization for which you are acting) with the MicroVentures services, we collect some personal information. This Privacy Policy tells you how MicroVentures uses and works to protect your information.
+#### _Effective May 24, 2018_
 
-By using MicroVentures, you agree to the terms and conditions of the User Agreement, including this Privacy Policy, and you consent to our privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States, as described below.
+MicroVentures, Inc. owns and hosts a full service online platform at microventures.com (“Platform” or “the Platform”) through which MicroVenture Marketplace, Inc. and First Democracy VC, each a subsidiary of MicroVentures, Inc., offer various investment opportunities.
 
-### Collection
+MicroVenture Marketplace is a registered broker/dealer and a member of the Financial Industry Regulatory Authority (“FINRA”) and Securities Investor Protection Corporation (“SIPC”).  MicroVenture Marketplace offers the sale of private placements in early and late stage companies in various industries on a “best-efforts” basis and also facilitates secondary transactions in private companies acting as a broker between buyers and sellers.
 
-When you register for the MicroVentures services and apply for an account, we may collect information about you, including:
+First Democracy is a registered funding portal with FINRA pursuant to Title III of the JOBS Act and SEC Regulation CF. First Democracy serves as a crowdfunding intermediary that connects individual investors with private companies offering investment opportunities in accordance with Regulation CF.
 
-  * Information that you provide to us to set up a user account for you and identify you on the site, including user name, password, and secret questions and answers.
-  * Contact information, including first and last name, phone number, fax number, email address and mailing address.
-  * Payment information, including email address, bank account and routing number.
-  * Profile information, including your investment preferences and other information you may provide us that allows us to customize your MicroVentures experience.
-  * Other information we are required by law to collect from you, or from consumer reporting agencies, to process securities-related transactions, to assess the suitability of various investments, and to comply with tax laws and anti-money laundering laws. This includes Social Security number, date of birth, gender, country of citizenship, liquid assets, net worth, education, occupation, employment status, employer contact information, annual income, investment objectives and suitability profile.
+As you (or the organization for which you are acting) access the Platform and its associated and/or affiliated services (collectively, “MicroVentures Services” or “Services”), we collect certain personal information. We understand that the confidentiality and security of this information is important, and we are committed to protecting the privacy of your personal information. This Privacy Policy is intended to summarize our data protection practices and to advise our registered users, investors, issuers, employees, website visitors, and other third parties about our privacy policies that may be applicable to them. It is specifically addressed to those who provide personal information to MicroVentures, Inc. and its associated and/or affiliated Services, or who visit or use our website, Platform, and social media sites.
 
+By using the Platform, you agree to the terms and conditions of the User Agreement, including this Privacy Policy, and you consent to our privacy practices. We encourage you to read this Privacy Policy carefully.
 
+### What does MicroVentures, Inc. do with your personal information?
 
-We may obtain information about you when you interact with MicroVentures, for example, your transaction history, information about your contacts with Customer Service, and your responses to promotions or special offers.
+**Financial companies choose how they collect, process, and potentially share your personal information. Consumers may limit some, but not all, sharing. Please read this notice carefully to understand how we collect, process, share, and protect your personal information.**
 
-We may collect some information automatically from your computer while you browse our website, such as where you go on the site and what you do there. We collect your Internet Protocol (IP) address, computer and connection information, browser type and version, operating system, Internet Service Provider (ISP), time stamps, banner ads you click, the URLs you come from and go to next, and a cookie number.
+We may use your personal information for the following purposes:
 
-We may also obtain information about you through other sources such as credit agencies, affiliates and business partners.
-
-### Use
-
-We use the information we collect to:
-
-  * Operate the MicroVentures site.
-  * Verify your identity and contact information.
-  * Provide you with information and services you request.
-  * Set up your trading account, issue an account number and a secure password, maintain your portfolio and trading activity, and contact you with account information.
-  * Customize your experience on the MicroVentures site.
-  * Communicate with you about your transactions, service updates and other administrative issues.
-  * Send you targeted marketing and promotional offers, based on your communications preferences.
-  * Measure and improve our site and services.
-  * Resolve disputes, address complaints and troubleshoot technical problems.
-  * Analyze site and user behavior and prepare aggregated reports.
-  * Comply with applicable laws and regulations.
+  * To facilitate investments as directed by you if you are or become a customer and/or to respond to requests or inquiries you may have;
+  * To pursue legitimate interests, including to carry out, monitor, and analyze our business or operations;
+  * To contact you regarding features and functionality that may be of interest to you;
+  * To enter into or carry out contracts of various kinds;
+  * To conduct monitoring by us or any other person on our behalf using various methods, including: (i) the use of automated monitoring tools; (ii) through random monitoring of systems; (iii) specific monitoring of systems for example in relation to investigations, regulatory requests, subject access requests, litigation, arbitration, or mediation; (iv) data tracking, aggregation and analysis tools that pull data to draw linkages and/or detect behavioral patterns, interactions or preferences for analysis (including predictive analysis); and/or (v) using other similar monitoring technology that may become available from time to time;
+  * To comply with applicable laws or regulations in any country; or
+  * For any other purpose for which your personal information was provided to us.
 
 
 
-### Sharing and Disclosure
+We may process your personal information for the following purposes after obtaining your express consent where legally required:
 
-The cornerstone of this Privacy Policy is our commitment to keep your personal information confidential. MicroVentures Marketplace does not sell, license, lease or otherwise disclose your personal information to any third party for purposes of marketing by the third party or for any reason, except as described below. To provide our products and services, we may disclose your information to the following parties:
+  * To communicate with you through the channels you have approved to keep you up to date on the latest developments, announcements and other information about our Services, products and technologies;
+  * To conduct customer surveys, marketing campaigns, market analysis, or promotional activities;
+  * To collect information about your preferences to create a user profile to personalize and foster the quality of our communication and interaction with you.
 
-_Issuers._ We may share your information with our participating issuers. They will use the information only as necessary to complete your transactions and to include collect the information needed to register you as a shareholder of the issuer and issue the shares that you have purchased.
 
-_MicroVentures.com Affiliates._ We may share information with present or future affiliates, including our subsidiaries, joint ventures or other companies under common control, where it may be used to provide joint services or for such purposes as internal statistics, strategic decision-making, customer reviews, identifying customer trends, customer verification, fraud prevention and security. You may limit our affiliates from marketing their products or services to you based on personal information that we collect about you and share with them. This information may include your name, email address, mailing address, age, employment status, general account and demographic information and account history with us. Your choice to limit marketing offers from our affiliates will apply until you tell us to change your choice. You can opt back in at any time. To limit affiliate marketing offers, contact us by e-mail at [help@microventures.com](mailto:%20help@microventures.com) , change your account preferences in My Account or contact us at Customer Service.
 
-_Service Providers._ We may share information with service providers under contract who help with our business operations and internal functions, for example, verifying our users, processing accounts, order fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business, maintaining the MicroVentures site, and providing related services, such as electronic funds transfers and wires. Our service providers are required to protect personal information in a manner similar to the way we protect personal information and to use it only for the services they provide to us.
+With regard to marketing-related communication, we will - where legally required - only provide you with such information after you have opted in. We also provide you with the opportunity to opt out at any time if you do not wish to receive further marketing-related communication from us.
 
-_Legal and Other Disclosures._ We may disclose information when permitted by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served on MicroVentures; to protect the property or interests of MicroVentures, its agents and employees; or to protect personal safety or the public.
+Depending on the above permitted purposes, we may process your personal information on one or more of the following legal grounds:
 
-_Assets._ As our business evolves, MicroVentures may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, personal information may be one of the assets transferred.
+  * Because processing is necessary for the execution of a client instruction or other contract with you;
+  * To comply with our regulatory recordkeeping obligations; or
+  * Because processing is necessary for the purposes of our legitimate interest or those of any third-party recipients that receive your personal information, provided that such interests are not overridden by your interests or fundamental rights.
 
-If we propose to share information in a manner not covered in this Privacy Policy, we will notify you of this change by posting an addendum on our site, a notice in the "Announcements" or "What's New" section of the site, and if appropriate, provide you an opportunity to opt out of such use.
 
-### Email Communications
 
-Choice/Opt-Out. Because we do not share your personal information with non-affiliated third parties for marketing purposes, there is no need for you to opt out of such uses. At any time, you have the ability to opt out of receiving marketing communications from MicroVentures, but you may not opt out of administrative emails (for example, electronic delivery of financial information, or emails about your transactions or our policy changes) while you are a registered MicroVentures user. In such cases, you can opt out by changing your email preferences in My Account or by using the link provided at the bottom of each marketing email.
+In addition, the processing may be based on your consent where you have expressly given that to us.
 
-Email Tools. If you send emails to a recipient through our site, they will receive your email address and any personal message you include. We use the email addresses you provide to send your requested communication and for no other purpose. We may be required by law to retain these emails; they are not private communications. You may not use our email tools to send spam or content that violates the User Agreement.
+**The types of personal information we collect and share depends on to what extent you use our Platform. This can include information:**
 
-Anti-Spam Policy. MicroVentures does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact Customer Service and we will investigate.
+  * Provided during the user registration or investment process, for example, your name, email address, telephone number, birth date, tax or other identification number, investment objectives, etc.;
+  * Acquired as a result of investments you made through our Platform, such as banking information;
+  * Received from consumer-reporting agencies; and
+  * Collected through internet cookies.
+
+
+
+As a general principle, you will provide us with your personal information entirely voluntarily. There are circumstances in which we cannot take action without certain of your personal information, for example, because it is required to process your instructions or provide you with access to our Services. In these cases, it will be impossible for us to act on your request without the relevant personal information, and we will notify you accordingly.
+
+If you provide personal information to us about someone else (such as an account co-owner or authorized individual), you must ensure that you are entitled to disclose that personal information to us and that, without our taking any further steps, we may collect, use and disclose that personal information as described in this privacy policy. In particular, you must ensure that the individual concerned is aware of the various matters detailed in this Privacy Policy, as those matters relate to that individual, including our identity, how to contact us, our purposes of collection, our personal information disclosure practices, any right the individual may have to obtain access to the personal information, make complaints about the handling of the personal information, and the consequences if the personal information is not provided (such as our inability to provide services).
+
+**All financial companies need to share customers' personal information to run their everyday business. In the sections below, we list the reasons financial companies can share their customers' personal information and whether you can limit this sharing.**
+
+We may share your personal information in the following circumstances:
+
+  * We may share your personal information between MicroVentures affiliates on a confidential basis as allowed by applicable law, where required for the purpose of providing products or services, and for administrative, billing and other business purposes;
+  * We may instruct service providers within or outside of MicroVentures to process personal information on our behalf and in accordance with our instructions. MicroVentures generally either requires these service providers to enter into confidentiality agreements that limit their use of the information they receive or utilizes software as a service (SaaS) providers with whom confidentiality is delineated and verifiable. Such limitations prohibit the service provider from using MicroVentures customer information other than to carry out the purposes for which the information was disclosed.
+  * We may share your personal information with companies providing services in the areas of fraud and crime prevention and with companies providing similar services, including financial institutions such as credit reference agencies and regulatory bodies;
+  * Consistent with applicable law, we may share your personal information with courts, law enforcement authorities, regulators or attorneys or other parties for the establishment, exercise or defense of a legal or equitable claim or for the purposes of a confidential alternative dispute resolution process;
+  * We may also use aggregated personal information and statistics for the purpose of monitoring website usage in order to help us develop our website and our Services.
+
+
+
+Otherwise, we will only disclose your personal information when you direct us or give us permission to do so, when we are allowed or required by applicable law or regulations or judicial or official request to do so, or as required to investigate actual or suspected fraudulent or criminal activities.
+
+### To limit our sharing
+
+  * Call us at 800.283.9903
+  * Email us at help@microventures.com
+  * Visit us online at <https://microventures.com/about/contact>
+
+
+
+### Questions?
+
+  * 800.283.9903
+  * help@microventures.com
+  * <https://microventures.com/about/contact>
+
+
+
+### Who is providing this notice?
+
+MicroVentures, Inc. and its affiliated financial companies.
+
+### How does MicroVentures retain and protect my personal information?
+
+We retain your personal information in an identifiable form in accordance with our internal policies which establish general standards and procedures regarding the retention, handling and disposition of your information. Personal information is retained for as long as necessary to meet legal, regulatory, and business requirements. Retention periods may be extended if we are required to preserve your personal information in connection with litigation, investigations, or proceedings.
+
+To protect your personal information from unauthorized access and use, we will take appropriate technical and organizational measures to keep your information confidential and secure in accordance with our internal procedures regarding the storage, disclosure of, access to, and eventual disposal of, personal information. Personal information may be kept on our information technology systems as well as those of certain third-party firms with whom we contract to facilitate normal business operations.
+
+### How does MicroVentures collect my personal information?
+
+**We collect your personal information, for example, when you:**
+
+  * Browse our website;
+  * Register for MicroVentures Services and apply for an account; and
+  * Interact with MicroVentures online, via email, or telephone.
+
+
+
+### Why can’t I limit all sharing?
+
+U.S. law gives you the right to limit only:
+
+  * Sharing for affiliates’ everyday business purposes—information about your creditworthiness;
+  * Affiliates from using your information to market to you; and
+  * Sharing for non-affiliates to market to you.
+
+
+
+State laws and laws or regulations applicable to the country in which you live may give you additional rights to limit sharing.
+
+### What happens when I limit sharing for an account I hold jointly with someone else?
+
+Your choices will apply to everyone on your account.
+
+### Definitions
+
+_Affiliates_ : Companies related by common ownership or control. They can be  financial and non-financial companies. Affiliates of MicroVentures, Inc. include financial companies such as MicroVentures Marketplace, Inc., First Democracy VC, MicroAngel Partners, LLC, and MV Investor Services.
+
+_Non-affiliates_ : Companies not related by common ownership or control. They can be  financial and non-financial companies. Nonaffiliates we share with can include participating issuers, service providers (data processors), and governmental or regulatory agencies as required by law.
+
+### State Specific Privacy Laws
+
+  * CA and VT Residents: We will not share your information with non-affiliated companies, except for our everyday business purposes, for marketing our products and Services to you, or with your consent.
+  * VT Residents only: We will not disclose credit information about you either internally or with non-affiliated companies except as required or permitted by law.
+  * NV Residents: Notice provided pursuant to state law. To be placed on our internal Do Not Call List, call 800.283.9903. For more on this Nevada law, contact Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; Phone number: 1-702-486-3132; e-mail: BCPINFO@ag.state.nv.us.
+
+
+
+### European Economic Area & the General Data Protection Regulation (“EEA” & “GDPR”)
+
+If you are an individual located in the EEA, you have a number of legal rights under GDPR in relation to the personal information that we hold about you. These rights include:
+
+  * Obtaining information regarding the processing of your personal information and access to the personal information that we hold about you. Please note that there may be circumstances in which we are entitled to refuse requests for access to copies of personal information. In particular, information that is subject to legal professional privilege;
+  * Requesting that we correct your personal information if it is inaccurate or incomplete;
+  * Requesting that we erase your personal information in certain circumstances. Please note that there may be circumstances in which you ask us to erase your personal information, but we are legally entitled or required to retain it;
+  * Objecting to, and requesting that we restrict, our processing of your personal information in certain circumstances. Again, there may be circumstances where you object to, or ask us to restrict, our processing of your personal information, but we are legally entitled to refuse that request;
+  * Withdrawing your consent, although in certain circumstances it may be lawful for us to continue processing without your consent if we have another legitimate reason (other than consent) for doing so.
+
+
+
+If you wish to do any of the above please call us at 800.283.9903, email us at help@microventures.com, or visit us online at <https://microventures.com/about/contact>.
+
+We may request that you prove your identity by providing us with a copy of a valid means of identification in order for us to comply with our security obligations and to prevent unauthorized disclosure of data. We reserve the right to charge you a reasonable administrative fee for any manifestly unfounded or excessive requests concerning your access to your data and for any additional copies of the personal information you request from us.
+
+We will consider any requests or complaints that we receive and provide you with a response in a timely manner. If you are not satisfied with our response, you may take your complaint to the relevant privacy regulator. We will provide you with details of your relevant regulator upon request.
 
 ### Cookies and Web Beacons
 
-MicroVentures, our service providers, and other members of our corporate family who provide us with joint services, will sometimes place anonymous cookies or web beacons on your computer when you visit the site. We use these cookies and web beacons to recognize returning users, provide relevant content, measure traffic and activity on the site, monitor and improve our services and protect against fraud. You can block cookies by changing the settings on your browser (consult your browser help menu to find out how), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access MicroVentures as a registered user.
+Your browser must be set to accept cookies in order to access MicroVentures as a registered user. Please see our Cookie Policy for additional information concerning our policies concerning cookies and other related technologies.
 
 ### Accessing, Reviewing and Changing Your Personal Information
 
-We urge you to review your information regularly to ensure that it is correct and complete. As a registered user, you can review and change your personal information by accessing My Account. You may not be able to change some account information online. If you are unable to make your desired change in My Account, please contact Customer Service for assistance. Although we will require you to revalidate your personal information periodically, you should promptly update your personal information if it changes or becomes inaccurate.
+We urge you to review your information regularly to ensure that it is correct and complete. As a registered user, you can review and change your personal information via <https://app.microventures.com/account>. You may not be able to change some account information online. If you are unable to make your desired changes, please contact us for assistance. Although we will require you to revalidate your personal information periodically, you should promptly update your personal information if it changes or becomes inaccurate.
 
-You can request that we close your MicroVentures account by e-mailing Customer Service at [help@microventures.com](mailto:%20help@microventures.com). After we close your account, we may retain some information to comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement and take actions otherwise permitted by law. If your account or membership is terminated or suspended, we may retain some information to prevent re-registration.
+We retain certain information after account closure to comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement, and take actions otherwise permitted by law. If your account or membership is terminated or suspended, we may retain some information to prevent re-registration.
 
-### Security
-
-We view protection of your privacy as a very important principle. We store and process your information on computers located in the United States that are protected by physical as well as technological security devices. We have implemented physical, electronic and procedural safeguards that are designed to protect the security of your information in compliance with applicable U.S. federal and state regulations. These include advanced firewall and password protection for our databases, physical access controls to our buildings and files, and restricted access to your personal information to employees that need to know that information to operate, develop or improve our services.
-
-We have invested in leading-edge security software, systems and procedures to offer you a safe and secure investing platform and protect your personal, financial and investment information. While no security system is absolutely impenetrable, we will continually monitor the effectiveness of our security system and refine and upgrade our security technology as new tools become available.
-
-### Links to Other Sites
-
-The MicroVentures site may contain links to other websites. We are not responsible for the privacy practices or the content of these sites. If you have concerns about how another website collects and uses information about you, make sure to read that site's own privacy policy.
-
-### General
-
-We may change this policy from time to time, and we will post the amended terms on the MicroVentures site and notify you by email of major changes. Amended terms will take effect immediately for new users, and 30 days after they are posted for existing users. You should review this Privacy Policy periodically to remain informed of any changes. You agree to accept posting of a revised Privacy Policy electronically on this site as actual notice to you.
-
-We are strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have any questions, complaints or comments, please e-mail us at [help@microventures.com](mailto:%20help@microventures.com) or contact us at Customer Service.
+We will not be responsible for any losses, material or otherwise, arising from any unauthorized, inaccurate, inauthentic, deficient or incomplete personal information that you provide to us.
