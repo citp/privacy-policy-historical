@@ -1,308 +1,348 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031075541id_/https%3A//help.adverts.ie/hc/en-us/articles/201323532-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630033145id_/https%3A//help.adverts.ie/hc/en-us/articles/201323532-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy – Adverts.ie
+# Privacy & Cookie Policies – Adverts.ie
 
-**Update 17/07/2017  **Added the following cookies to our list:
+Last updated on 17th May, 2018
 
-srview  
-last_online  
-peek_used_once
+### Contents
 
-Removed the following cookies from our list as they are no longer in use:
+  1. Privacy Policy
+  2. Cookie Policy
 
-adverts_show_signup  
-adverts_show_fb_invite  
-adverts_show_fb_invite_munster  
-iePinning_www.adverts.ie  
-ajs_cid  
-app_notice_off  
-user_token
 
-**Update**   **13/10/2006**    
-Added the "Sale of Company" policy to bring Adverts in line with other Distilled SCH companies.
 
-You should carefully read our full Privacy Policy before deciding to become a member of Adverts.ie ("the Site") or using the Site. This Privacy Policy sets out how we collect, use and protect any information you give us when you use the Site. If you give us any information by which you can be identified when using the Site then we will use it only in accordance with this Privacy Policy.
+## Privacy Policy
 
-#### What our Privacy Policy Covers
+**Introduction**
 
-This Privacy Policy covers any personal information the Site obtains from you when you use our service. This policy does not cover the practices of companies that the Site does not own or control, or the actions of people that the Site does not employ or manage.
+Your privacy is important to us.
 
-#### Changes to the Privacy Policy
+This privacy policy has been created to explain how and why we collect and use information about our users, and how we manage your privacy protection. We recommend that you read this statement in full, so that you understand how we will use your personal data. You can also read about specific issues by clicking on one of the topics below.
 
-We may change this Privacy Policy from time to time. When we do we will notify you of the changes by adding an "updated" icon next to the Privacy Policy link on the front page of the Site for two weeks from the date of the change. By continuing to use the Site you agree to these changes.
+**Table of Contents**
 
-#### Children under the age of 13
+  1. What personal data do we collect?
+  2. Legal basis for processing.
+  3. How do we use your personal data?
+  4. How do we share your information?
+  5. Your rights and choices.
+  6. Other important information.
 
-The Site is not directed at children younger than 13 years of age and is offered only to users who are 13 or older. Children below 13 may not register with the Site. We do not knowingly collect information from or about children below the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us at [hello@adverts.ie](mailto:hello@adverts.ie).
 
-#### Persons aged 13 to 17
 
-We recommend that young people aged 13 to 17 ask their parents or legal guardians for permission before using the Site or sending any information about themselves to anyone over the Internet.
+**What personal data do we collect?**
 
-#### Your personal information:
+Adverts collects personal data to operate our business and to provide you with the product and services that we offer. You provide some of this data to us directly, for example when you open an account with us, contact an advertiser on the site, or send a query to our support team. Other data is collected when you interact with our products, by using cookies and other technologies.
 
-We fully respect your right to privacy. If you give us any information when using the Site by which you can be identified then we will use it only in accordance with this Privacy Policy.
+When using our site, you have choices about what data we collect, and when you are asked to provide personal data you may decline. If you decline to provide data that is necessary to provide you with a particular product or feature, you may not be able to use this product or feature.
 
-#### What Information do we collect?
+We collect personal data in the following ways:
 
-We collect the following information:
+  * Through information you provide to us
 
-  * Information which you supply on registration or as part of your profile (including your name, email address, phone number).
-  * Information which you provide in relation to any payment (including your phone number and/or credit card details).
-  * Information contained in applications for employment positions that you make using the Site.
-  * Information contained in resumes or curricula vitae which you make available on the Site for third parties to browse in connection with employment, consultant or contractor positions.
-  * Information which you post on the Site.
-  * Information which you otherwise provide to us (for example by email or private message).
-  * Information relating to your use of the Site generally. This may include, for example search history.
 
 
+When you register with us as a user, you provide us with some personal data such as your name and email address, which we will store in order to create your account. We will also store information relating to any further use of our service, when you contact another user of the site through our platform, the contents of the emails you send to them and any other information that you may upload to the Sites. Finally, we may also collect information from any correspondence that you have with us.
 
-#### What we do with the information we collect
+  * Through your use of our services
 
-We require this information for the operation of the Site and to understand your needs and provide you with a better service. In particular, we may use or disclose your information for the following reasons:
 
-  * We may use this information for our administration, record keeping and in connection with any payment.
-  * We may forward any information you submit in response to a job advert to the customer that posted the job advert.
-  * We may use this information, with your permission only, to contact you for marketing purposes.
-  * We may transfer this information to any sister site of the Site where necessary for the operation of that site.
-  * We may disclose this information where required by law to do so.
-  * We may disclose this information to law enforcement, government officials or courts where we believe that disclosure is necessary and proportionate.
-  * We may disclose this information where we believe that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party
 
+When you use our services, we collect information about what types of services you use and how you use them. For example, which parts of our websites you visit, and what advertisements you view. The information that we collect while you use our services can be grouped into the following categories
 
+  * Information about your device and internet connection
 
-We will not otherwise disclose, sell or distribute your personal information to any third party without your permission.
 
-#### Collection and use of technical information
 
-Technical details in connection with visits to the Site are logged by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors.   
-The technical details logged are confined to the following items:
+Using technical logs and other tools, we register information about the device you use, such as the device manufacturer, operating systems and browser version. We also collect information about the connection to our services, such as IP address, network ID, cookies and unique ID files. This information can help us to adapt the way content is displayed to you, based on your device and user profile.
 
-  * The IP address of the visitor's web server the top-level domain name used (for example .i.e., .com, .org, .net).
-  * "Clickstream" data which shows the traffic of visitors around the Site(for example pages accessed and documents downloaded).
-  * The type of web browser used by the website visitor.
-  * The previous website address from which the visitor reached us, including any search terms used.
+  * Information about how our services are used
 
 
 
-We also use outside providers for web-site statistics. Please note that to provide statistics these use visitors’ IP addresses but do not have access to users’ usernames or email addresses. The primary provider we use is Google Analytics. You can find further information on the information which it collects at http://www.google.com/analytics/.
+We also register information about how you use our services. For example, which pages of the site you visit, the searches that you have performed, the times and dates that you visited our site, how long a page is displayed on your screen, how you navigate around the page, which websites you have visited before visiting our site, what functions you have carried out on a page, and if you have completed a transaction.
 
-In addition to Google analytics we also stores full web log for analysis purposes.
+  * Cookies and other locally stored content
 
-We promise to only use your data in complete accordance with the following conditions:
 
-  * We will not rent or sell any data which may personally identify you to any third party except in accordance with this Privacy Policy.
-  * We may aggregate your data for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the percentage age groups of our members but in such an event we undertake to ensure that no such data could be used to personally identify you.
-  * We may access your account for technical processing and to address technical problems or service complaints.
-  * We may transfer this information to enable an external auditor to verify our traffic figures.
 
+When you use our services, cookies and other data are stored locally on your device. These cookies provide us with information that we can then read. You can find more information about cookies, how and why we use them, and how to manage them in our cookie policy.
 
+  * Information about user location
 
-We will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual.
 
-It is our policy to never disclose such technical information in respect of individual website visitors to any third party, unless obliged to disclose such information by a rule of law.
 
-You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts 1988 -2003.
+We register your geographical location based on your IP address and mobile network code.
 
-#### Information you post
+  * Messages
 
-**Do not post any information you are not happy to leave up indefinitely. We recommend you do not post your name, address, telephone number, email address or anything else that may lead someone to identify you if this is something you are uncomfortable with.**
 
-We do not delete posts on request, except in special circumstances. We advise against the posting of personal details or information that may identify you on thread. However, you are free to do so at your own risk.
 
-Please note that certain information, statements, data and content (such as photographs) which you may choose to provide might and are likely to reveal your gender, ethnic origin, nationality, religion and/or sexual orientation. You accept that you are providing all such information, statements, data and content in full acknowledgment thereof and under your sole responsibility.
+We collect information about when you send or receive messages from other users of our site.
 
-It is important to note that we do not remove user accounts and do not change user names. Please choose a username that will not personally identify you. **However please be aware that we cannot guarantee that others will not be able to determine your identity even where your username does not reflect your real name.**
+  * Through other sources.
 
-If someone has posted your personal details on the Site with, or without your permission and you would like it removed, please contact us at [hello@adverts.ie.](mailto:hello@adverts.ie)
 
-#### Adult Boutique category
 
-When a registered user is logged in, the account will be anonymous and the avatar is invisible. It will not be possible to view profiles or link into the users that have commented on the Site in this category.
+We receive information from third parties where you use their services to log into our site, for example, if you log in using Facebook or Twitter.
 
-Feedback will be available for the shop account after a purchase but the private user will not be able to receive feedback from the shop. Any feedback left by a registered user will also be anonymous.
+**Legal Basis for Processing**
 
-Your username will however be visible to the registered Adult Boutique shop so they can contact potential customers.
+We process your Personal Data in order to ensure the necessary performance of your contract with us. In certain circumstances, we may also process your Personal Data for the purposes of our legitimate interests, such as to inform you of changes to our services, to provide you with information about other services we offer, or in order to comply with any legal obligations to which we are subject.
 
-Please view the individual shops terms of sale and shipping policy for further information.
-
-#### Jobs Category
-
-Customers post information about employment, consultant or contractor vacancies on the Site, whether on their own behalf or, if a recruitment or consultancy, on behalf of third parties. These job adverts can then be accessed and read by other users of the Site. You can search for featured employers on the Site in addition to searching by individual job type. We do not vet or monitor the job ads in terms of their terms and conditions applicable to the use of your personal information.
-
-We may collect and process the following data about you:
-
-  * details of applications for employment positions that you make using the Site.
-  * details of resumes or curricula vitae which you make available on the Site for third parties to browse in connection with employment, consultant or contractor positions.
-
-
-
-We use information held about you to provide registered customers of the Site with the information that you submit to the Site in response to a job advert. By submitting information in response to a job advert on the Site you hereby agree to us forwarding that information to the customer or customers that have posted that job advert.
-
-We do not request (nor encourage you) to submit sensitive data in a CV to the Site (i.e. data relating to racial or ethnic origin, political or religious opinions, membership of a trade union, physical or mental health or condition or sexual life, the commission of any offence or related documentation). If, however, you choose to do so then you consent to our processing this data in the manner set out in this Privacy Policy.
-
-You should be aware that when you disclose personally identifiable information and agree to make that information available to our Customers on the Site (e.g. by submitting a CV in response to a job advert) that the information disclosed in your communication may be used by the Customer. Such third parties may use your information (for example they may contact you, arrange an interview with you, review your suitability for a particular position) and such third activities are beyond our control.
-
-If you have submitted information using the Site to a customer in respect of a particular job advert then you understand that we process that information as an agent of the customer. We may hold a back-up copy of the information that you submit, but only as an agent of the customer. If you wish to modify or deal with your personal information submitted in respect of a particular job advert then you should contact the customer directly, as they have responsibility for that personal information. As an agent of the customer, we will comply with the customer’s instructions in respect of that personal information. If you wish to understand the customer’s data protection or privacy policy with regards to the dealings it has with your personal information then you should contact the customer to establish such terms.
-
-#### Your password
-
-Certain data such as your password will never be disclosed. You are responsible for keeping your password confidential and for all activities that occur under your password or account. Please let us know immeadiately of any unauthorised use of your password, or any other breach of security.
-
-#### Disclosure Of Information To Third Parties
-
-We may provide non-personal data to third parties, where such information is combined with similar information of other users of the Site.
-
-For example, we might inform third parties regarding the number of unique users who visit the Site, or the activities that visitors to the Site engage in while using the Site.
-
-The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
-
-We may also share your personal information with:
-
-  * Law enforcement agencies, other governmental agencies or third parties in response to a request for information relating to a criminal investigation, alleged illegal activity or any other activity that may expose us, you or any other user of the Site to legal liability. The personal information we disclose may include your username and id, your account history, name, city, county, telephone number, email address, content of private messages and comments or anything else that we deem relevant.
-
-
-
-#### External Providers
-
-From time to time we may partner with an external provider to provide other services, for example we may ask an external company to carry out a survey or to run a competition. If any personal information is required you will be advised beforehand.
-
-#### Your rights regarding data supplied via the Site
-
-You may request details of personal information which we hold about you or rectify any personal information which is incorrect or incomplete under the Data Protection Acts 1988-2003.
-
-If you would like a copy of the information held on you please email us at [hello@adverts.ie](mailto:hello@adverts.ie). If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity. There is a fee of €6.00 to process your request. Once you have paid the fee, you will be given the information within 40 days.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [hello@adverts.ie](mailto:hello@adverts.ie). We will promptly correct any information found to be incorrect.
-
-#### Nuisance posters
-
-Our first line of defense against nuisance posts is to delete them and to ban the user. Nuisance posts include potentially defamatory and/or infringing material, surreptitious advertising, spam, any other posts which breach the posting guidelines and any form of messages, posts or emails deemed offensive by the administrators or moderators.
-
-Where a nuisance poster persists, we reserve the right to use email addresses and IP addresses to identify the user and halt the nuisance. For example, on a very few occasions, we have reported to organisations that it appeared that one of their employees or other users of their computer equipment was repeatedly making nuisance posts on the Site and asked them to take steps to stop it.
-
-Where a poster recommends the products or services of their employer, they should state their conflict of interest. Where they do not do so, we reserve the right to point out that the poster appears to have a conflict of interest.
-
-In common with many sites we use Google Analytics for web-site statistics. Some people have raised concerns about the privacy aspects of this service, as Google have access to your IP address (but not your Adverts.ie username or email address).
-
-#### Security, storage and transfer of information
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place certain physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access. If we are working with third parties we will require them to have in place similar measures to protect your information.
-
-#### Cookies and tracking
-
-Like many websites, we use "cookies" to enable us to personalise your visits to this Site, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website.
-
-Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites.
-
-Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on the Site. We use log files to build pictures of how our Site is used that help us to monitor and improve the service. We cannot identify you from your log files.
-
-If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to <http://www.youronlinechoices.com/ie/>.
-
-Here is a list of all the cookies that we set and how we use them:
-
-Cookie Name | Typical Value | Purpose | Expires  
----|---|---|---  
-advertsid | Randomly generated hexadecimal string | Used to identify user session | On browser exit  
-adverts_uid | Randomly generated number | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
-adverts_uid_hash | Randomly generated hexadecimal string | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
-touch_off | "1" | Disables the touch site and forces the use of the full site | On browser exit  
-strap_*_* | "1" | Ensure a strapline won't be seen after being dismissed | 3 years  
-fb_login | "1" | Indicates that the user logged in via Facebook | On user logout or browser exit  
-fbsr_116958691666039 | Alphanumeric string | The user's Facebook session information, if the user is logged in via Facebook | On user logout or browser exit  
   
-cookie_notice
+We may also rely upon your consent as a relevant legal basis for processing your Personal Data. In the event you wish to withdraw your consent to the collection and processing of your Personal Data in this manner, please follow the link below:
 
-| 1 | Whether the user has seen the sitewide notice regarding the use of cookies on Adverts.ie | 1 year  
+  1. [Dashboard](https://www.adverts.ie/dashboard)
+
+
+
+**How We Use Your Personal Data**
+
+We use the data that we collect to provide you with the products and services that we offer. This allows us to improve the products that we offer you and to personalise your experience on our site. We may also use the data to communicate with you, to inform you about your account and to provide you with security updates. Where you have consented for us to do so, we may also use your data to contact you in relation to updates about our own products, products provided by third parties, and to help to show you more relevant adverts on the site.
+
+Your data will be used by us to authenticate your account and to enable you to interact with other users of our site.
+
+  * Contacting advertisers
+
+
+
+When you contact an advertiser though our site, we will use the personal data that you have provided as part of this contact to connect you to the advertiser. The advertiser will receive a copy of any data that you have entered as part of your message to them.
+
+  * Communications
+
+
+
+We will contact you via email and messages posted on our website or apps. These messages will communicate about service related issues and security updates. Where you have consented for us to do you, we will also contact you with promotional marketing materials from us and from our partners. You can update your marketing preferences at any time within your account. Please note that it will not be possible to opt out of receiving service messages from us. This includes messages relating to security and legal notices.
+
+  * Advertising
+
+
+
+Banner advertising on our site is targeted to visitors of the site through a variety of ad networks and exchanges. We also use this data to measure the performance of these adverts. We use the data that you provide to us, through your cookie preferences, either separately or combined to achieve this.
+
+  * Research and Developing Our Services
+
+
+
+We use data that we collect through your use of our site and through public feedback, to conduct research and develop our services based on our findings. This allows us to provide you with a better experience when using our site.
+
+  * Customer Support
+
+
+
+We use the data that you provide to us, including your communications, to investigate and respond to service issues and complaints.
+
+  * Insights
+
+
+
+We use your data to generate statistics about our site that do not identify you. These statistics provide us information about how our site is used, the number of ad impressions served or clicked on, and the demographic distribution of visitors to our site.
+
+  * Security Monitoring and Investigations
+
+
+
+We will use your data when necessary to investigate and identify possible fraudulent behaviour on the site and possible attempts to harm other members or visitors to the site. We will also use your data to investigate violations of our Terms of Use or this Privacy Policy.
+
+**How we Share Your Information**
+
+We retain access to all personal information that we have collected from you. If you have consented on signup or on the appropriate email form, we may provide any of the information we collect to carefully screened third parties to contact you regarding products or services that we think may be of interest to you. If Adverts enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
+
+  * Our Services
+
+
+
+Our service allows you to engage with other members of our site. If you send a message to another member of our site, your message will be shared with that site member. If you comment on an advert, or leave feedback on the account of another person, these will be publicly visible on our site.
+
+  * Service Providers
+
+
+
+We engage other service providers to help us to provide our service to you. For example, to process payments, site maintenance and fraud detection. These service providers will have access to your information as much as is reasonably necessary for them to perform these tasks on our behalf. They are obligated not to disclose or use your data for any other purpose.
+
+  * Legal Disclosures
+
+
+
+When required to by law, we may disclose information about you. This may be as the result of a subpoena or other legal process. Your personal information will also be shared if we believe that the disclosure is necessary to
+
+  1. Be used by government enforcement agencies investigate, prevent or take action against any suspected or actual illegal activities.
+  2. To enforce the agreements that we have with you.
+  3. To investigate and defend Adverts against any allegations made by third parties.
+  4. To protect the integrity and security of our services.
+  5. To exercise the rights and safety of Adverts, our employees and other users of our service.
+
+
+  * Change of Ownership
+
+
+
+If Adverts enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners in preparation for, or as a result of, any of these events. Any other entity which buys Adverts or any part of our business, will have the right to continue to use your data in the way described by this privacy policy, unless you consent otherwise.
+
+  * Your Rights and Choices
+
+
+
+The General Data Protection Regulations offer you a number of rights in relation to your data. This includes the right to access a copy of your data, a right to receive a copy of your data that can be transferred to another organisation, a right to data deletion, a right to withdraw your consent to data processing, a right to restrict the processing of your data, and information on any automated decision making processes.
+
+  * Data Retention
+
+
+
+The amount of time that we retain data for, depends on the type of data being retained, and how that is used. In some cases, there will be a legal requirement for us to hold data for a specified amount of time. In other cases, we will not retain the data for any longer than necessary for the purpose that it was collected and processed.
+
+When you register an account with us, we will retain the information that you provide to us for as long as you hold this account. Once an account has been closed, we will continue to retain this data for a period of seven years. This timeframe is in line with the Irish statutory limitation periods. If you don’t actively close your account with us, it automatically become inactive after 3 months of you not accessing it. After this, the data you have provided us will be retained for seven years.
+
+If you have provided data to us without registering an account, this data will be retained for 7 years after your last date of activity with us.
+
+  * Right to Access Your Personal Data
+
+
+
+Non- registered and registered users of the Sites can request we provide them with a copy of the personally identifiable information we hold by using our data request feature.
+
+  * Right to Control Your Personal Data
+
+
+
+Registered users of our site can update their information by using our data request feature or contacting our Customer Support Team directly. You can also edit and make changes to the personal information by logging into your account and editing it directly from there. You can change your marketing and contact preferences at any time in your account dashboard by opting out receiving of these communications. You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date.
+
+  * Right to Data Deletion
+
+
+
+Non- registered and registered users of our sites can request we delete any personally identifiable information we hold by using our data request feature. In some instances we may be unable to delete your data if we are required to retain it to comply with our legal obligations (including requests from law enforcement agencies).
+
+  * Right to Data Portability
+
+
+
+Registered users of our site have the right to data portability. This means that you can request that a copy of your data is made available in a structured, commonly used and machine readable form that can be transferred to you or to another organisation. You may request a portable copy of your data by using our data request feature.
+
+**Other Important Information**
+
+  * Special Category Personal Data
+
+
+
+Adverts does not collect any special categories of personal data. However, if you enter this information into any free text section of our site, such as the ad description, or on our forums, this information will be held and processed in the same manner as all other data that you have provided to us.
+
+  * Security
+
+
+
+The security of your data is important to us. We perform regular monitoring of our systems to identify possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send to us. No guarantee is given that the data will not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+  * Direct marketing
+
+
+
+We will only send you marketing information where you have opted in to receive these communications. You can change your marketing preferences at any time, by logging into your account and changing this on your account dashboard. You can also opt out of receiving marketing at any time using the unsubscribe link that can be found at the end of each email that we send.
+
+  * Changes to this Statement
+
+
+
+This statement will be updated when necessary to reflect changes that we make to our products. When this statement is updated, the “last updated” dated at the top of this statement will be changed. We will notify you of any changes to our privacy statement either by directly sending you a notification, or by posting a notification of the change on our site. We encourage you to review our Privacy Policy regularly so that you can stay informed about our use of your data.
+
   
-pool.distilled.ie
+**Contact information**  
+If you have any questions in relation to this Policy, please email our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0367736c43626775667177702d6a66). You can also write to:
 
-|  pool.distilled.ie |  Used for communicating between distilled media sites such as boards.ie and Adverts.ie |  1 year   
-  
-location_search         
+Data Protection Officer  
+Distilled SCH  
+Latin Hall  
+Golden Lane   
+Dublin 8.
 
-| 
+If this does not resolve your complaint/question, you have the right to contact your local Data Protection Commissioner. In Ireland, they can be contacted via their website [here.](https://www.dataprotection.ie/docs/Home/4.htm)
 
-JSON
+Back to top ^
 
-containing
+## Cookie Policy
 
-last
+**What are cookies and how are they used?**
 
-latitude,
+A cookie is a small amount of data, which often includes a unique identifier, that is sent to your device’s web browser from a website's computer and is stored on your *device's hard drive. Each website can send its own cookies to your web browser. Your browser will have the option to prevent websites using cookies (your browser's help screen will tell you how to do this), but please note that this may reduce the functionality of our website and other websites. You can also change your targeted advertising cookie settings by visiting [Google's Ad Personalisation](https://adssettings.google.com/) and/or [Your Online Choices](http://www.youronlinechoices.com/ie/).
 
-longitude
+Adverts.ie (the website) uses cookies to enable us to personalise your visits to our website, simplify the sign-in processes, remember your preferences, track the website’s performance, deliver targeted advertising relevant to your interests and give you a better overall experience.
 
-and range
+*PCs, tablets, mobile phones and any other internet accessible hardware, respectively.
 
-| 
+**What types of cookies we use:**
 
-Keeps location data for the
+**Essential Cookies**
 
-last location on map refine
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
 
-| 1 year  
----|---|---|---  
-  
-srview
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
 
-| 
+**Functional Cookies**
 
-"grid" or "list" 
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. These cookies do not store any personally identifiable information.
 
-| Remembers the preferred search result view type. | 1 year  
- last_online |  Timestamp | Last time the user was online.  | 1 year  
- peek_used_once |  1 or 0 | Whether the user has been shown the quick peek help tooltip. |  1 year  
-  
-In addition to the above cookies set by Adverts.ie, cookies may also be set by a number of our site partners:
+**Analytics Cookies**
 
-Delivery.FlashpointMedia.com (Ad serving)  
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. These cookies do not store any personally identifiable information.
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+**Our Cookies**  
 ---  
-OAID | Alphanumeric string | Online advertising user tracking | 1 year  
-DoubleClick.net (Ad serving)  
-id | Hexadecimal||t=numerical|et=numerical|cs=hexadecimal | User id | 2 years  
-_drt_ | "NO DATA" | DART data. | 1 day  
-Google Analytics (Audience Measurement)  
-__utma | Randomly generated number | Usage stats | 2 years  
-__utmb | Randomly generated number | Usage stats | 30 minutes  
-__utmc | Randomly generated number | Usage stats | On browser exit  
-__utmz | Randomly generated number | Usage stats | 6 months  
-ie-stat.bmmetrix.com (Audience Measurement)  
-Bm_map | string | Identify location of user | 01/01/2030  
-Cid | Alphanumeric string:numerical string | Client id | 01/01/2030  
-Sid | Alphanumeric string:numerical string | Session id | On browser exit  
+**Name** | **Category** | **Description**  
+ cookie_notice |  Essential | This cookie is used to determine whether the cookie notice should be shown to a user or not. it expires after 1 year.  
+ advertsid |  Essential | This session cookie is a unique identifier used to maintain a user's status on our site for improved user experience.  
+ adverts_uid |  Essential | This cookie is set to maintain a user's status on our site. It expires after 1 year.  
+ adverts_uid_hash |  Essential | This cookie is set to maintain a user's status on our site. It expires after 1 year.  
+ last_online |  Essential | This cookie is set to tell us when the user was last online. It expires after 1 year.  
+ NPS_55d3c3d1_last_seen |  Essential | This cookie is used to register when the NPS was last seen. It expires after 3 months.  
   
-We also use third party advertisements to support our Site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our Site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our Site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing location-based advertisements) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**Targeting Cookies**
 
-We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting<http://www.doubleclick.com/privacy/dart_adserving.aspx>
+These cookies may be set through our site by our advertising partners, e.g. DoubleClick by Google. They may be used to build a profile of your interests and show you relevant adverts on other sites.
 
-Use of Intercom Services: We use third party analytics services to help understand your use of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and we use Intercom to collect data for analytics purposes when you visit our Site or use or product. Intercom analyzes your use of our Site and/or product and our relationship with you, so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). Also as part of their service to us, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, so that we can continue to improve our relationship with you. For more information on the privacy practices of Intercom, please check <http://docs.intercom.io/privacy>. Intercom's services are governed by Intercom’s terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
+If you do not allow these cookies, you will still see the same number of advertisements, however they may be less relevant to you. These cookies will be on by default but can managed directly by visiting [Google's Ads Personalisation](https://adssettings.google.com/) and/or [Your Online Choices](http://www.youronlinechoices.com/ie).
 
-#### Sale of Company
+**Third Party Cookies**
 
-Adverts Marketplace Limited reserves the right to transfer information including personal data to a third party in the event of its sale, merger, liquidation, receivership or transfer of all or substantially all of its assets provided that the third party agrees to adhere to the terms of this Privacy Statement and provided that the third party only uses your Personal Data for the purpose that you have provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt out.
+These cookies are set by entities other than the owner of the website you’re visiting. 
 
-#### Terms of Use
+Some Adverts web pages may contain content from other sites (e.g. playable files from a video sharing website), which may set their own cookies. Also, if you share a link to an Adverts page, the service you share it on (e.g. social networks) may set a cookie on your browser.
 
-Your use of the Site is subject to this Privacy Policy as well as our Terms and Conditions and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+Adverts has no control over third party cookies.
 
-#### Contacting Us
+You can find more information about the third party cookies on Adverts.ie in the table below:
 
-You can contact us in the following ways:
-
-  * Using our contact page: <http://adverts.ie/contact/>
-  * Email: support[@adverts.ie](mailto:hello@adverts.ie)
-  * Postal: Adverts.ie - Latin Hall, Golden Lane, Dublin 8.
-
-
-
-We welcome your feedback on this document and thank you for using the Site!
-
-#### Glossary of technical terms used
-
-  * **Web browser** \- The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera.
-  * **IP address** \- The identifying details for your computer (or your internet company's computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
-
-
+**  Third Party Cookies**  
+---  
+**  Name** | **Category** | **Description**  
+**  Amplitude**  
+ amplitude_cookie_test |  Analytics | This cookie is a session cookie and allows us to count visits and traffic sources so we can measure and improve the performance of our site.  
+ amplitude_idadverts.ie |  Analytics | This cookie is an ID that is used to track unique users so we can measure and improve the performance of our site. It expires after 10 years.  
+ amplitude_testadverts.ie |  Analytics | This cookie is an ID that is used to track unique users so we can measure and improve the performance of our site. It expires after 10 years.  
+**  ATInternet**  
+ atidvisitor |  Analytics | This cookie is set by ATInternet and is used to monitor the performance of pages visited by users. It expires after 6 months.  
+ idrxvr |  Analytics | This cookie is set by ATInternet and collects anonymous information when you visit our site to enable the analysis of browsing behavior on the site for optimization. It expires after 1 year.  
+**CloudFlare**  
+ __cfduid |  Functional | This cookie is set by CloudFlare, a company that provides internet security services. It is used to apply security settings to protect users. It expires after 1 year.  
+**  Google**  
+ __gads |  Targeting | This cookie is associated with the DoubleClick for Publishers service from Google. It is used to register what ads have been shown to the user.   
+ GoogleAdServingTest |  Targeting | This session cookie is set by Google's DoubleClick and may collect user information to provide relevant ads to the user.  
+**  Google Analytics**  
+ _ga |  Analytics | This cookie is associated with Google Universal Analytics. This cookie is used to distinguish unique users by assigning a randomly-generated number as a client identifier. It is used to calculate visitor, session and campaign data for our analytical reports. It expires after 2 years.  
+ _gat |  Analytics | This cookie name is associated with Google Universal Analytics, according to documentation it is used to throttle the request rate - limiting the collection of data on high traffic sites. It expires after 10 minutes.  
+ _gid |  Analytics | This cookie name is associated with Google Universal Analytics. It may store and update a unique value for each page visited. It expires after 1 day.  
+**  PageFair** |   |    
+ bm_daily_unique |  Analytics | This cookie is used to count the number of visitors to the website who use adblocking software. It expires at the end of the day.  
+ bm_last_load_status |  Analytics | This cookie is used to detect visitors who enable or disable their adblocking software.  
+ bm_monthly_unique |  Analytics | This cookie is used to count the number of visitors to the website who use adblocking software. It expires at the end of the month.  
+ bm_sample_frequency |  Analytics | This cookie is used to throttle requests to PageFair servers. It expires at the end of the day.  
+ m_uniq |  Analytics | This cookie is used to count the number of unique visitors per month. It expires at the end of the month.  
+**  Zendesk** |   |    
+ _zendesk_session |  Functional | This session cookie is set by Zendesk. We use Zendesk for our Customer Support services. The cookie allows us remember relevant information when our Customer Support agents or users return to the Customer Support center to understand their preferences and improve their user experience.  
+ _help_center_session |  Functional | Adverts uses Zendesk to provide our Customer Support Service interface and ticketing system.  
+This is a Zendesk session cookie which is needed to allow the Zendesk Guide part to function. Zendesk Guide is a knowledge base which enables our Customer Support Team to deal with queries as quickly as possible.  
+ _zendesk_shared_session |  Functional | This session cookie is set by Zendesk. We use Zendesk for our Customer Support center. The cookie allows us remember relevant information when our customer care agents or customers return to the support center, to understand their preferences and improve their user experience. It holds session information for sharing across Zendesk applications.  
+  
+Back to top ^
