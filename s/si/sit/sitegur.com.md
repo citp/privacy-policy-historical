@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitegur.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221050431id_/http%3A//sitegur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitegur.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630044650id_/http%3A//sitegur.com/privacy) for the most accurate reproduction.*
 
 # Sitegur.com
 
