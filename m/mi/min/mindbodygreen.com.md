@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211626id_/https%3A//www.mindbodygreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630154423id_/https%3A//www.mindbodygreen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - mindbodygreen - mindbodygreen
 
@@ -39,6 +39,32 @@ We participate in affiliate marketing and allow affiliate links to be encoded on
 If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting <http://www.networkadvertising.org/optout_nonppii.asp>.
 
 If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
+
+## Users Outside the United States
+
+For residents of the European Economic Area (EEA), we advise that your personal information will be transferred to and processed in the United States, which has data protection laws that are different than those in your country and may not be as protective. The United States has not sought nor received a finding of “adequacy” from the European Union under Article 45 of the GDPR. Our legal basis for collecting and using your personal information or information is to do so with your consent; where we need the personal information for performance of a contract, or where the collection and use is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect the personal information in question. If we collected your Personal Information with your consent, you may withdraw your consent at any time.
+
+Residents of the EEA have the right to: 
+
+  * Access your personal information;
+  * Delete, or request deletion of, your personal information;
+  * Object to or restrict processing of your Personal information;
+  * Request portability of your Personal information;
+  * Complain to your local data protection authority at any time;
+  * Object to automated decision making; and
+  * Update your personal Information.
+
+
+
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal information conducted in reliance on lawful processing grounds other than consent.
+
+If we ask you to provide Personal information to us to comply with a legal requirement or enter into a contract, we will inform you of this and let you know whether providing us with your Personal information is required and if not, the consequences of not sharing your personal data with us.
+
+Similarly, if we collect and use your Personal information in reliance on our or a third party's legitimate interests and those interests are not already described above, we will let you know what those legitimate interests are.
+
+We endeavor to apply suitable safeguards to protect the privacy and security of your Personal information and to use it only consistent with your relationship with us and the practices described in this Privacy Policy. We also take steps to minimize the risk to your rights and freedoms by not collecting or storing sensitive or special categories of Personal information about you.
+
+To withdraw consent or exercise these rights, please contact us via email at [support@mindbodygreen.com](mailto:support@mindbodygreen.com).
 
 ## Kids and Parents
 
