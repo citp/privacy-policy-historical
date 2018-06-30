@@ -1,133 +1,196 @@
-> *The following text is extracted and transformed from the celebrityinsider.org privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217183200id_/http%3A//celebrityinsider.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityinsider.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630122915id_/http%3A//celebrityinsider.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Insider
 
-YOUR PRIVACY IS VERY IMPORTANT TO US! THIS PRIVACY POLICY HAS BEEN COMPILED TO EXPLAIN IN DETAIL HOW WE COLLECT, USE, MANAGE, PROCESS, HANDLE, SECURE, AND STORE YOUR PERSONALLY IDENTIFIABLE INFORMATION (“PII”) ONLINE. PII, IS INFORMATION THAT CAN BE USED ON ITS OWN OR WITH OTHER INFORMATION TO IDENTIFY, CONTACT, OR LOCATE A SINGLE PERSON, OR TO IDENTIFY AN INDIVIDUAL IN CONTEXT. PLEASE CAREFULLY READ AND GET CLEAR UNDERSTANDING OF THIS WEBSITE (“SITE”) PRIVACY POLICY.
+Welcome, and thank you for your interest in the Celebrity Insider website at celebrityinsider.org (the “Website”).  Our commitment at Celebrity Insider (“Celebrity Insider,” “we,” or “us”) to privacy is important to us. This Privacy Policy (the “Policy”) applies to your use of the Website, services provided by us and all other communications with individuals through written or oral means, such as email or phone (collectively, our “Service”).  This Policy describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. This Policy is incorporated into, and is subject to, the Celebrity Insider Terms of Service located at <http://celebrityinsider.org/terms-of-use/>. Capitalized terms used but not defined in this Policy have the meaning given to them in the Celebrity Insider Terms of Service.
 
-**WHAT PERSONALLY IDENTIFIABLE INFORMATION DO WE COLLECT**  
-When registering on this Site, subscribing to a newsletter, responding to a survey, as appropriate, you may be asked to enter your name, email address or any other personal information details to help you with your experience on this Site.
+**1.   Definitions**
 
-**WHEN DO WE COLLECT THIS INFORMATION**  
-We collect this information from you when you register on this Site, subscribe to a newsletter, respond to a survey, fill out a form or enter any other information.
+**“Personal Data”**  means any information relating to an identified or identifiable natural person.
 
-**HOW DO WE USE THIS INFORMATION**  
-We may use this information we collect from you when you register, sign up for our newsletter, respond to a survey or marketing communication, browse the Site, or use certain other Site features in the following ways:
+**“Public Area”**  means the area of the Website that can be accessed both by Users and Visitors, without needing to log in.
 
-  1. To personalize your experience and to allow us to deliver the type of content and other offerings in which you are most interested.
-  2. To improve our Site in order to better serve you.
-  3. To ask for ratings and reviews of services or other offerings.
+**“Restricted Area”**  means the area of the Website that can be accessed only by Users, and where access requires logging in.
+
+**“User”**  means a user who registers on this Website, subscribes to a newsletter, responds to a survey, fills out a form or enters any other information.
+
+**“Visitor”**  means an individual other than a User, who uses the public area, but has no access to the restricted areas of the Website or Service.
+
+**2\. The Information We Collect on the Service:**
+
+We collect different types of information from or through the Service. The legal bases for Celebrity Insider’s processing of personal data are primarily that the processing is necessary for providing the Service in accordance with Celebrity Insider’s Terms of Service and that the processing is carried out in Celebrity Insider’s legitimate interests, which are further explained in the “How We Use the Information We Collect” section of this Policy. We may also process data upon your consent, asking for it as appropriate.
+
+**2.1 User-provided Information**. When you use the Service, as a User or as a Visitor, you may provide, and we may collect Personal Data. Examples of Personal Data include name, email address, mailing address, mobile phone number, and credit card or other billing information. Personal Data also includes other information, such as geographic area or preferences, when any such information is linked to information that identifies a specific individual. You may provide us with Personal Data in various ways on the Service. For example, when you register for an Account, use the Service, interact with other users of the Service through communication or messaging capabilities, or send us customer service -related requests.
+
+**2.2 “Automatically Collected” Information**. When a User or Visitor uses the Service, we may automatically record certain information from the User’s or Visitor’s device by using various types of technology, including cookies, “clear gifs” or “web beacons.” This “automatically collected” information may include IP address or other device address or ID, web browser and/or device type, the web pages or sites visited just before or just after using the Service, the pages or other content the User or Visitor views or interacts with on the Service, and the dates and times of the visit, access, or use of the Service. We also may use these technologies to collect information regarding a Visitor or User’s interaction with email messages, such as whether the Visitor or User opens, clicks on, or forwards a message. This information is gathered from all Users and Visitors.
+
+**2.3 Integrated Services**. You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each, an “Integrated Service”), such as through the use of your Google or Facebook accounts, or otherwise have the option to authorize an Integrated Service to provide Personal Data or other information to us. By authorizing us to connect with an Integrated Service, you authorize us to access and store your name, email address(es), date of birth, gender, current city, profile picture URL, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. You should check your privacy settings on each Integrated Service to understand what information that Integrated Service makes available to us, and make changes as appropriate. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service.
+
+**2.4 Information from Other Sources**. We may obtain information, including Personal Data, from third parties and sources other than the Service, such as our partners, advertisers, credit rating agencies, and Integrated Services. If we combine or associate information from other sources with Personal Data that we collect through the Service, we will treat the combined information as Personal Data in accordance with this Policy.
+
+**3\. How We Use the Information We Collect**
+
+We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
+
+**3.1 Operations**
+
+We use the information to operate, maintain, enhance and provide all features of the Service, to provide the services and information that you request, to respond to comments and questions and to provide support to users of the Service.
+
+**3.2 Improvements**
+
+We use the information to understand and analyze the usage trends and preferences of our Visitors and Users, to improve the Service, and to develop new products, services, features, and functionality.
+
+**3.3 Communications**
+
+We may use a Visitor’s or User’s email address or other information to contact that Visitor or User (i) for administrative purposes such as customer service, to address intellectual property infringement, right of privacy violations or defamation issues related to the Personal Data posted on the Service (ii) with a business transaction purpose; or (iii) updates on products, services, new licensing opportunities, materials, promotions and events, relating to products and services offered by us and by third parties we work with. You have the ability to opt-out of receiving any promotional communications as described below under  **“Your Choices.”**
+
+**3.4 Cookies and Tracking Technologies**
+
+We use automatically collected information and other information collected on the Service through cookies and similar technologies to: (i) personalize our Service, such as remembering a User’s or Visitor’s information so that the User or Visitor will not have to re-enter it during a visit or on subsequent visits; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of Service and third-party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service. You can obtain more information about cookies by visiting [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+**3.5 Analytics**
+
+We use Google Analytics to measure and evaluate access to and traffic on the Public Area of the Website, and create user navigation reports for our Website administrators. Google operates independently from us and has its own privacy policy, which we strongly suggest you review. Google may use the information collected through Google Analytics to evaluate Users’ and Visitors’ activity on our Website. For more information, see [Google Analytics Privacy and Data Sharing](https://support.google.com/analytics/answer/6004245).
+
+We take measures to protect the technical information collected by our use of Google Analytics. The data collected will only be used on a need to know basis to resolve technical issues, administer the Website and identify visitor preferences; but in this case, the data will be in non-identifiable form. We do not use any of this information to identify Visitors or Users.
+
+**4\. To Whom We Disclose Information**
+
+Except as described in this Policy, we will not intentionally disclose the Personal Data that we collect or store on the Service to third parties without the consent of the applicable Visitor or User. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
+
+**4.1 Unrestricted Information**
+
+Any information that you voluntarily choose to include in a Public Area of the Service, such as a public profile page, will be available to any Visitor or User who has access to that content.
+
+**4.2 Service Providers**
+
+We work with third party service providers who provide website, application development, hosting, maintenance, and other services for us. These third parties may have access to, or process Personal Data as part of providing those services for us. We limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and our contracts with them require them to maintain the confidentiality of such information.
+
+**4.3 Non Personally Identifiable Information**
+
+We may make certain automatically-collected, aggregated, or otherwise non-personally-identifiable information available to third parties for various purposes, including (i) compliance with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our Users’ and Visitors’ interests, habits, and usage patterns for certain programs, content, services, and/or functionality available through the Service.
+
+**4.4 Law Enforcement, Legal Process and Compliance**
+
+We may disclose Personal Data or other information if required to do so by law or in the good-faith belief that such action is necessary to comply with applicable laws, in response to a facially valid court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies.
+
+We also reserve the right to disclose Personal Data or other information that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Service and any facilities or equipment used to make the Service available, or (v) protect our property or other legal rights, enforce our contracts, or protect the rights, property, or safety of others.
+
+**4.5 Change of Ownership**
+
+Information about Users and Visitors, including Personal Data, may be disclosed and otherwise transferred to an acquirer, successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets and only if the recipient of the User or Visitor Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy.
+
+**5\. Your Choices**
+
+**5.1 Access, Correction, Deletion**
+
+We respect your privacy rights and provide you with reasonable access to the Personal Data that you may have provided through your use of the Services. If you wish to access or amend any other Personal Data we hold about you, or to request that we delete or transfer any information about you that we have obtained from an Integrated Service, you may contact us as set forth in the “How to Contact Us” section. At your request, we will have any reference to you deleted or blocked in our database.
+
+You may update, correct, or delete your Account information and preferences at any time by accessing your Account settings page on the Service. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+
+You may decline to share certain Personal Data with us, in which case we may not be able to provide to you some of the features and functionality of the Service.
+
+At any time, you may object to the processing of your Personal Data, on legitimate grounds, except if otherwise permitted by applicable law. If you believe your right to privacy granted by applicable data protection laws has been infringed upon, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You also have a right to lodge a complaint with data protection authorities.
+
+**5.2 Navigation Information**
+
+You may opt out from the collection of navigation information about your visit to the Website by Google Analytics by using the [Google Analytics Opt-out feature](https://tools.google.com/dlpage/gaoptout).
+
+**5.3 Opting out from Commercial Communications**
+
+If you receive commercial emails from us, you may unsubscribe at any time by following the instructions contained within the email or by sending an email to the address provided in the “How to Contact Us” section.
+
+Users are able to view and modify settings relating to the nature and frequency of promotional communications that they receive from us by accessing the “Account functionality” tab on the Service.
+
+Please be aware that if you opt-out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten (10) business days for us to process your request. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service.
+
+**6\. Third-Party Services**
+
+The Service may contain features or links to web sites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Service. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
+
+**7\. Your California Privacy Rights**
+
+We will not share any Personal Data with third-parties for their direct marketing purposes to the extent prohibited by California law. If our practices change, we will do so in accordance with applicable laws and will notify you in advance.
+
+**8\. Interest Based Advertising**
+
+Interest based advertising is the collection of data from different sources and across different platforms in order to predict an individual’s preferences or interest and to deliver to that individual, or his/her computer, smart phone or tablet, advertising based on his/her assumed preference or interest inferred from the collection of data pertaining to that individual or others who may have a similar profile or similar interests.
+
+We work with a variety of third parties to attempt to understand the profiles of the individuals who are most likely to be interested in the Celebrity Insider products or services so that we can send them promotional emails, or serve our advertisements to them on the websites and mobile apps of other entities.
+
+These third parties include: (a) advertising networks, which collect information about a person’s interests when that person views or interacts with one of their advertisements; (2) attribution partners, which measure the effectiveness of certain advertisements; and (3) business partners, which collect information when a person views or interacts with one of their advertisements.
+
+In collaboration with these third parties, we collect information about our customers, prospects and other individuals over time and across different platforms when they use these platforms or interact with them. Individuals may submit information directly on our Websites or on platforms run by third parties, or by interacting with us, our advertisements, or emails they receive from us or from third parties. We may use special tools that are commonly used for this purpose, such as cookies, beacons, pixels, tags, mobile advertising IDs, flash cookies, and similar technologies. We may have access to databases of information collected by our business partners.
+
+The information we or third party collect enables us to learn what purchases the person made, what ads or content the person sees, on which ads or links the person clicks, and other actions that the person takes on our Websites, or in response to our emails, or when visiting or using third parties’ platforms.
+
+We, or the third parties with which we work, use the information collected as described above to understand the various activities and behaviors of our customers, Website visitors and others. We, or these third parties, do this for many reasons, including: to recognize new or past visitors to our Websites; to present more personalized content; to provide more useful and relevant ads – for example, if we know what ads you are shown we can try not to show you the same ones repeatedly; to identify visitors across devices, sales channels, third party websites and Websites, or to display or send personalized or targeted ads and other custom content that is more focused on a person’s perceived interest in products or services similar to those that we offer.
+
+Our interest-based ads may be served to you in emails or on third-party platforms. We may serve these ads about our products or services or send commercial communications directly ourselves or through these third parties.
+
+Visitors may opt out of receiving interest based advertising by advertising networks that may be delivered to them on our platform and other websites by visiting the following websites: <http://www.aboutads.info/consumers>; and [http://www.networkadvertising.org](http://www.networkadvertising.org/). These features will opt a Visitor out of many – but not all – of the interest-based advertising activities in which we or third parties engage.
+
+**9\. Do Not Track Policy**
+
+Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, we do not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals.
+
+In the meantime, you may opt out of receiving interest based advertising from advertising networks that may be delivered on our platform and other websites by visiting the following websites. If you want to opt out of this online behavioral advertising, visit the following sites: <http://www.aboutads.info/consumers> and [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+
+This will opt you out of many – but not all – of the interest-based advertising activities in which we or third parties engage. Choices you make may be browser and device specific. If you delete your cookies or use a different browser or a different computer or device, you may need to update your opt-out choices. Other third-party Websites provide visitors with the ability to opt-out of receiving interest-based ads on their Websites that you need to control through your settings on that Website. For example, to opt out of Google’s use of your online behavior for advertising purposes, visit Google’s Ad Settings page.
+
+**10\. Third Party Cookies**
+
+We allow third parties with which we have a separate agreement to use cookies and other technologies to collect information about your use of the Website. These third parties include (1) business partners, which collect information when you view or interact with one of their advertisements on the Website; and (2) advertising networks, which collect information about your interests when you view or interact with one of their advertisements.
+
+The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements or promotional material on this Website and on other sites across the Internet tailored to your apparent interests.
+
+The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisements that are tailored to your apparent interests. It is possible that they may reuse this small amount of information on other sites or services.
+
+We do not share with these third parties any information that would readily identify you (such as email address); however, these third parties may have access to information about your device (such as IP or MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Notice. Other than as discussed in this document, we have no control over these third parties.
+
+**10.1 The Following Types of Cookies Are Used in the Website:**
+
+  * strictly necessary/essential cookies – These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don’t collect information that identifies a visitor.
+  * performance cookies – These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and, therefore, anonymous. It is only used to improve how a website works.
+  * functionality cookies – These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * behaviorally targeted advertising cookies – These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
 
-**HOW DO WE PROTECT THIS INFORMATION**
+**11\. Minors and Children’s Privacy**
 
-We provide physical and electronic safeguards to protect your information. Although we attempt to provide reasonable security for information we collect, use, manage, process, handle, secure and store, we do not provide any warranties, express or implied, from any potential security breaches that may occur.
+Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 18, and we do not knowingly collect Personal Data from children under the age of 18 without obtaining parental consent. If you are under 18 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Data has been collected on the Service from persons under 18 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 18 years of age has obtained an Account on the Service, then you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and request that we delete that child’s Personal Data from our systems.
 
-We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers directly on this Site.
+The Service is not intended to be used by minors and is not intended to be used to post content to share publicly or with friends. To the extent that a minor has posted such content on the Service, the minor has the right to have this content deleted or removed using the deletion or removal options detailed in this Privacy Policy. If you have any question regarding this topic, please contact us as indicated in the “How to Contact Us” section. Please be aware that, although we offer this deletion capability, the removal of content may not ensure complete or comprehensive removal of that content or information.
 
-We use regular Malware Scanning. We do not use an SSL certificate for all features of this Site. We only provide articles and information.
+**12\. Data Security**
 
-**HOW DO WE USE ‘COOKIES’**
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We maintain appropriate administrative, technical and physical safeguards to protect Personal Data against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Data in our possession. This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet, and we also employ application-layer security features to further anonymize Personal Data.
 
-‘Cookies’ are small files that a website or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the website’s or service provider’s systems to recognize your browser and capture and remember certain information. We use ‘cookies’ to help us understand your preferences based on previous or current Site activity, which enables us to provide you with improved services or other offerings.
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you believe your Personal Data has been compromised, please contact us as set forth in the “How to Contact Us” section.
 
-We use cookies to:
+If we learn of a security systems breach, we will inform you and the authorities of the occurrence of the breach in accordance with applicable law.
 
-  1. Keep track of advertisements.
-  2. Compile aggregate data about Site traffic and Site interactions in order to offer better Site experience in the future. We may also use trusted third-party services that track this information on our behalf.
+**13\. Data Retention**
 
+We only retain the Personal Data collected from a User for as long as the User’s account is active or otherwise as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements as long as needed and in accordance with applicable laws.
 
+**14\. Settings**
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+Although we may allow you to adjust your privacy settings to limit access to certain Personal Data, please be aware that no security measures are perfect or impenetrable. We are not responsible for circumvention of any privacy settings or security measures on the Service. Additionally, we cannot control the actions of other users with whom you may choose to share your information. Further, even after information posted on the Service is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Service. We cannot and do not guarantee that information you post on or transmit to the Service will not be viewed by unauthorized persons.
 
-If you turn cookies off, some Site features will be disabled. It might affect your Site experience and some features of the Site may not function properly.
+**15\. Data Transfer**
 
-**THIRD-PARTY DISCLOSURE**  
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include Site hosting partners and other parties who assist us in operating our Site or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce this Site policies, or protect ours or others’ rights, property or safety.
+We may transfer, process and store Personal Data we collect through the Services in centralized databases and with service providers located in the U.S. The U.S. may not have the same data protection framework as the country from which you may be using the Services. When we transfer Personal Data to the U.S., we will protect it as described in this Privacy Policy.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+The Service is hosted in the United States. If you choose to use the Service from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you may be transferring your Personal Data outside of those regions to the United States for storage and processing by our service providers listed in the Celebrity Insider Terms of Service. We will comply with GDPR requirements providing adequate protection for the transfer of personal information from Europe to the U.S. Also, we may transfer your data to the EEA, or other countries or regions deemed by the European Commission to provide adequate protection of personal data in connection with storage and processing of data, fulfilling your requests, and operating the Service.
 
-**THIRD-PARTY LINKS**  
-Occasionally, at our discretion, we may include or offer third-party links to products or services on this Site. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and/or activities of these linked sites. Nonetheless, we seek to protect the integrity of this Site and welcome any feedback from you.
+**16\. Changes and Updates to this Policy**
 
-**GOOGLE**
+Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify the Policy, we will make it available through the Service, and indicate the date of the latest revision, and will comply with applicable law. Your continued use of the Service after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of the Policy.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>[  
-](https://support.google.com/adwordspolicy/answer/1316548?hl=en)We use Google AdSense Advertising on this Site.
+**17\. How to Contact Us**
 
-Google, as a third-party vendor, uses cookies to serve ads on this Site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to this Site and other websites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, your consent choices, or any concerns or complaints about this Policy or your Personal Data by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-We have implemented, but not limited to, the following tools:
-
-  * Google Display Network Impression Reporting
-  * Demographics and Interests Reporting
-  * Remarketing with Google AdSense
-  * DoubleClick Platform Integration
-
-
-
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to this Site.
-
-**OPTING OUT**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
-
-**CALIFORNIA ONLINE PRIVACY PROTECTION ACT**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. You can see more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
-
-According to CalOPPA, we agree to the following:
-
-  * Users can visit this Site anonymously.
-  * Once this privacy policy is created, we will add a link to it on this Site home page or as a minimum, on the first significant page after entering this Site.
-  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the first significant page after entering this Site.
-
-
-
-You will be notified of any Privacy Policy changes:
-
-  * On our Privacy Policy Page
-
-
-
-Can change your personal information:
-
-  * By logging in to your account
-
-
-
-**HOW DO WE HANDLE DO NOT TRACK SIGNALS?**  
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-**HOW DO WE ALLOW THIRD-PARTY BEHAVIORAL TRACKING?**  
-It’s also important to note that we allow third-party behavioral tracking
-
-**COPPA (CHILDREN ONLINE PRIVACY PROTECTION ACT)**
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old. If we learn that we have collected personal information from a person under age of 13, such information will be deleted.
-
-**CAN SPAM ACT**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out penalties for violations.
-
-We collect your email address in order to:
-
-  * Send information, respond to inquiries, and/or other requests or questions
-
-
-
-We agree to the following provisions:
-
-  * Not use false or misleading subjects or email addresses.
-  * Identify the message as an advertisement in some reasonable way.
-  * Monitor third-party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests.
-  * Allow users to unsubscribe by using the link at the bottom of each email.
-
-
-
-If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from all correspondence.
-
-**UPDATES TO OUR PRIVACY POLICY  
-**We may revise this Privacy Policy at any time without notice to reflect any changes in the law or technology, or changes in our practices regarding information collection and use.  If we make modifications to the way we collect or use your personal identifiable information or sharing data with third parties that you have not consented to, we will provide you with notice of those changes by announcing the change on the home page of this Site.
+_Last update: May 25, 2018_
