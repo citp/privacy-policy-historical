@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the gofundme.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231192542id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofundme.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630210559id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.*
 
 # GoFundMe Privacy Policy
 
-**Date of Last Revision: December 15, 2017.**
+**Date of Last Revision: May 18, 2018.**
 
 Welcome to the web site or mobile application (as the case may be) (collectively, the "Platform") of [GoFundMe, Inc.](https://www.gofundme.com/) (including its subsidiaries, affiliates, agents, and service providers, collectively, "GoFundMe," "we," "us," and/or "our"). This Platform is operated by GoFundMe and has been created to provide information about our company, our online platform designed to permit users to post a fundraising campaign to accept monetary donations, and our related services (together with the Platform, the "Services") to our Services users and visitors ("you," and/or "your"). Except as provided below, this Privacy Policy describes and governs how we collect, use, share and protect data collected from users of or visitors to the Platform.
 
 Before you use or submit any information through or in connection with the Services, please carefully review this Privacy Policy. By using any part of the Services, you consent to the collection, use, and disclosure of your information as further outlined in this Privacy Policy.
+
+If you are in Europe:
+
+  * for the purposes of the EU General Data Protection Regulation 2016/679 (the "GDPR"), the data controller is GoFundMe, Inc. and can be reached at the address set out at "Contacting GoFundMe" below; 
+  * "information" covers all personal data processed by us which means information that (either in isolation or in combination with other information) enables you to be identified directly or indirectly; and
+  * you will not need to consent to this Privacy Policy, but do acknowledge you have read and understood its terms. 
+
+
 
 Information We Collect
 
@@ -17,6 +25,8 @@ As further described below, when you use or otherwise access the Services, we ma
 We collect information from you (including, but not limited to, your name, email address, and location) when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, provide us with feedback, register for access to the Services, or use certain Services.
 
 You may also provide us with information relating to third parties—including information stored in your email and mobile device address books—such as, without limitation, names, email addresses, and phone numbers of your contacts (collectively, “Third-Party Data”). The Services may request your permission to access such Third-Party Data.
+
+You may also provide us with special categories of personal data under the GDPR (also known as sensitive data) about yourself and/or third parties, such as health information. When you provide such information, we will seek your explicit consent unless it is being published in relation to your campaign.
 
 We collect this information for the purposes described below in the section entitled, Our Use of Information Collected. While you are under no obligation to directly provide us with such information, should you choose to withhold such information, we may not be able to provide you with some or all of the Services.
 
@@ -65,13 +75,13 @@ Please visit the privacy policy of the relevant Social Networking Service to fin
 
 Our Use of Information Collected
 
-GoFundMe uses the information collected from the Services in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. Also, if you provide information about yourself, or have provided (or otherwise permitted the Services to access) any Third-Party Data, we will use your information and any such Third-Party Data to provide you with access to such services and to monitor your use of such services. 
+GoFundMe uses the information collected from the Services in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. Also, if you provide information about yourself, or have provided (or otherwise permitted the Services to access) any Third-Party Data, we will use your information and any such Third-Party Data to provide you with access to such services and to monitor your use of such services. For the purposes of the GDPR, we may use your information in the above ways as this is necessary for us to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract. 
 
-GoFundMe may also use the information we collect through the Services to help us in providing the Services and support services, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analyzing data and research aimed at improving the accuracy, effectiveness, usability or popularity of the Services, to personalize the content and advertising that you see on Services and to understand how users interact with and user our advertisement and Services, to associate your activities, customize content or tailor advertising across different device and browsers that you use to access the Services (for instance, computers, tablets, mobile devices, applications and websites), to comply with state, local, federal or international laws, to enforce our [Terms of Service](https://web.archive.org/terms) and this Privacy Policy, as otherwise described in this Privacy Policy, or in assisting with other tasks from time to time. Please note that we may combine information that we collect from you and about you (including automatically-collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties, and use such combined information in accordance with this Privacy Policy. 
+GoFundMe may also use the information we collect through the Services to help us in providing the Services and support services, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analyzing data and research aimed at improving the accuracy, effectiveness, usability or popularity of the Services, to personalize the content and advertising that you see on Services and to understand how users interact with and user our advertisement and Services, to associate your activities, customize content or tailor advertising across different device and browsers that you use to access the Services (for instance, computers, tablets, mobile devices, applications and websites), to comply with state, local, federal or international laws, to enforce our [Terms of Service](https://web.archive.org/terms) and this Privacy Policy, as otherwise described in this Privacy Policy, or in assisting with other tasks from time to time. Please note that we may combine information that we collect from you and about you (including automatically-collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties, and use such combined information in accordance with this Privacy Policy. For the purposes of the GDPR, we may use your information in the above ways as this is necessary: (i) to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract; (ii) for our legitimate interest to maintain our relationship with you or protect you and us against fraud; or (iv) to comply with legal obligations. 
 
-We may also use the information collected from the “Information We Collect” section, such as device identifiers and MAC addresses, to associate users’ activities, customize content, or tailor advertising to those users across different devices and browsers (for instance, tablets, mobile devices and applications, and websites). 
+We may also use the information collected from the “Information We Collect” section, such as device identifiers and MAC addresses, to associate users’ activities, customize content, or tailor advertising to those users across different devices and browsers (for instance, tablets, mobile devices and applications, and websites). For the purposes of the GDPR, we may use your information in the above ways as this is necessary: (i) to fulfil our obligations under our contract with you or in order to take steps at your request prior to entering into a contract; (ii) for our legitimate interest to maintain our relationship with you or protect you and us against fraud; or (iv) to comply with legal obligations. 
 
-GoFundMe may use the information collected through the Services to contact you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. If you opt out of receiving marketing communications or other information we think may interest you, as discussed below, we may still send you emails about your account or any Services you have requested or received from us. 
+GoFundMe may use the information collected through the Services to contact you about services we believe will be of interest to you. In some cases, we will seek your permission. In each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. If you opt out of receiving marketing communications or other information we think may interest you, as discussed below, we may still send you emails about your account or any Services you have requested or received from us. 
 
 We may also use data collected through the Services to send communications relating to the Services, in accordance with applicable laws. For example, we may send periodic emails to registered users of the Services relating to their recent interactions with the Services, such as donating to a campaign or "hearting" a campaign. Also, if you use any feature of the Services permitting you to communicate with third parties (such as to refer a third party to the Services or to communicate with them regarding a campaign or a donation), either by submitting Third-Party Data to the Services or otherwise permitting the Services to automatically access Third-Party Data in your possession, you acknowledge and agree that you have the authority of the relevant third party for us to access and use the relevant Third-Party Data and that you have notified these third parties and informed them how their information is collected and used by GoFundMe to provide the Services. We reserve the right to identify you as the person who has made the referral in any messages that are sent to them. We may use Third-Party Data to (1) contact such third party using the Third-Party Data provided, and/or (2) provide you with an editable template message designed to facilitate communication between you and such third party through the Services. In addition to sending the foregoing communications, we may also send reminders or related messages to you and to third parties on your behalf from time to time where permitted by applicable law. In each case, any such communications sent to third parties using Third-Party Data will provide a means to "opt-out" of receiving further communication of the same nature. 
 
@@ -93,15 +103,19 @@ GoFundMe, like many businesses, sometimes hires other companies to perform certa
 
 GoFundMe may access, disclose, transfer and preserve your information when we have a good faith belief that doing so is necessary to: (i) comply with the law including with subpoenas, search warrants, court orders, and other legal process; and respond to inquiries or requests from government, regulatory, law enforcement, public authorities, or content protection organizations; (ii) protect and defend the legal rights, privacy, safety or property of GoFundMe, its affiliates, subsidiaries, employees, agents, contractors, or its users; (iii) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages we may sustain; or (iv) enforce this Privacy Policy or any applicable Terms of Service.
 
-  4. **Your consent**
+  4. **Campaign Organizers**
+
+If you donate to a fundraising campaign, we may share your name, email address and other information you’ve provided in connection with your donation with the campaign organizer, who may contact you.
+
+  5. **Your consent**
 
 We may share your information in the event that you consent to the sharing of your information.
 
-  5. **Aggregate and/or De-Identified Information**
+  6. **Aggregate and/or De-Identified Information**
 
 We may aggregate and/or de-identify your information so that the information no longer relates to you individually. Our use and disclosures of such aggregated or de-identified information is not subject to this Privacy Policy, and may be disclosed to others without limitation and for any purpose.
 
-  6. **Analytics**
+  7. **Analytics**
 
 We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology previously described in the “Cookies and other electronic technologies” section to help us analyze how users use the Services, including by noting the third-party website from which you arrive, and provide certain features to you. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. This information may be used to place interest-based advertisements on the Platform. This may result in you seeing advertisements for our Platform when you visit other websites. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [here](http://tools.google.com/dlpage/gaoptout).
 
@@ -126,7 +140,7 @@ Please be advised that some information you provide may be publicly accessible, 
 
 Children
 
-Our Services are not designed for use by individuals under the age of 13. If you are under the age of 13, please do not use the Services and/or submit any information through the Services. If you have reason to believe that a child under the age of 13 has provided personal information to GoFundMe through the Services, please contact us [support@gofundme.com](mailto:support@gofundme.com), and we will delete that information from our databases to the extent required by law.
+Our Services are not designed for use by individuals under the age of 13(or 16 in Europe). If you are under the age of 13(or 16 in Europe), please do not use the Services and/or submit any information through the Services. If you have reason to believe that a child under the age of 13(or 16 in Europe) has provided personal information to GoFundMe through the Services, please contact us [support@gofundme.com](mailto:support@gofundme.com), and we will delete that information from our databases to the extent required by law.
 
 Links to Other Web Sites
 
@@ -134,15 +148,19 @@ This Privacy Policy applies only to the Services. The Services may contain links
 
 Security
 
-GoFundMe takes steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any information to GoFundMe via the Internet.
+GoFundMe has implemented technical and organizational security measures to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. For example, limiting access to information only to employees and authorized service providers who need to know such information for the purposes of this Privacy Notice. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any information to GoFundMe via the Internet.
 
 Do-Not-Track Signals
 
 Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. To learn more about Do Not Track, you can do so [here](http://allaboutdnt.com/).
 
+Retention of your information 
+
+We will only retain the information for as long as necessary for the purpose for which that information was collected and to the extent permitted or required by applicable laws. When we no longer need to use your information, we will remove it from our systems and records and/or take step to anonymize it so that you can no longer be identified from it in accordance with our internal document retention policies.
+
 Access to Information
 
-You may access and correct certain information about you by visiting the “Account Settings” portion of our Platform. You may also request in writing copies of personal information about you held by us. If that information is inaccurate, please let us know and we will endeavor to make the necessary amendments, erase, or block the relevant information as you request.
+You may access and correct certain information about you by visiting the “Account Settings” portion of our Platform. You may also request in writing copies of personal information about you held by us. If that information is inaccurate, please let us know and we will endeavor to make the necessary amendments, erase, or block the relevant information as you request. For more information on your rights if you are in Europe, please see the "Users in Europe” section below.
 
 Privacy Shield
 
@@ -152,11 +170,25 @@ As required under the principles, when GoFundMe receives information under the P
 
 If you have any questions or complaints about GoFundMe’s privacy practices, including questions related to the Privacy Shield, you may contact us at the email address or mailing address set forth under “Contacting GoFundMe.” We will work with you to resolve your issue.
 
-If you are a resident of the European Union and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance, at no cost to you, from our designated Privacy Shield independent recourse mechanism, which you can learn more about by visiting <http://go.adr.org/privacyshield.html>.
+If you are a resident of the European Union or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance, at no cost to you, from our designated Privacy Shield independent recourse mechanism, the JAMS Privacy Shield Program, which you can learn more about by visiting <https://www.jamsadr.com/eu-us-privacy-shield>.
 
-Residents of the European Union may elect to arbitrate unresolved complaints but prior to initiating such arbitration, you must: (1) contact GoFundMe and afford us the opportunity to resolve the issue; (2) seek assistance from GoFundMe’s designated independent recourse mechanism above; and (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue. Each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the individual. GoFundMe is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+Residents of the European Union or Switzerland may elect to arbitrate unresolved complaints but prior to initiating such arbitration, you must: (1) contact GoFundMe and afford us the opportunity to resolve the issue; (2) seek assistance from GoFundMe’s designated independent recourse mechanism above; and (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue. Each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the individual. GoFundMe is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-In addition to the rights granted under the section above entitled, “Access to Information,” some international users (including those whose information we collect under the Privacy Shield) have certain legal rights to access certain information we hold about them and to obtain its deletion. To exercise those rights, these users may contact us at [support@gofundme.com](mailto:support@gofundme.com) with their request.
+Users in Europe
+
+  * Access. You have the right to request a copy of the information we are processing about you. 
+  * Rectification. You have the right to have incomplete or inaccurate information that we process about you rectified. 
+  * Deletion. You have the right to request that we delete information that we process about you, except we are not obliged to do so if we need to retain such data in order to comply with a legal obligation or to establish, exercise or defend legal claims. 
+  * Restriction. You have the right to restrict our processing of your information where you believe such data to be inaccurate; our processing is unlawful; or that we no longer need to process such data for a particular purpose unless we are not able to delete the data due to a legal or other obligation or because you do not wish for us to delete it.
+  * Portability. You have the right to obtain information we hold about you in a structured, electronic format, and to transmit such data to another data controller, where this is (a) information that you have provided to us, and (b) if we are processing that data solely on the basis of your consent or to perform a contract with you.
+  * Objection. Where the legal basis for processing your information is our legitimate interest, you have the right to object to such processing on grounds relating to your particular situation. We will abide by your request unless we have compelling legitimate grounds for the processing which override your interests, or if we need to continue to process the data for the establishment, exercise or defence of a legal claim.
+  * Withdrawing consent. If you have consented to our processing of your information, you have the right to withdraw your consent at any time, free of charge. This includes where you wish to opt out from marketing messages.
+
+
+
+You can make a request to exercise any of these rights in relation to your information by sending the request to us at the email address or mailing address set forth under "Contacting GoFundMe". For your own privacy and security, at our discretion, we may require you to provide your identity before providing the requested information. Please note that GoFundMe may take up to 30 days to fulfill such requests.
+
+You also have the right to lodge a complaint with the local data protection authority if you believe that we have not complied with applicable data protection laws. A list of local data protection authorities in European countries is available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
 Other Terms and Conditions
 
@@ -165,6 +197,8 @@ Your access to and use of the Services is subject to the Terms of Service at <ht
 Changes to GoFundMe's Privacy Policy
 
 The Services and our business may change from time to time. As a result, at times it may be necessary for GoFundMe to make changes to this Privacy Policy. GoFundMe reserves the right to update or modify this Privacy Policy at any time and from time to time. If you disagree with our revisions to the Privacy Policy, you may de-activate your account or discontinue the use of our Services. Please review this policy periodically, and especially before you provide us with any information through the Services. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+If you are in Europe, you will not be required to agree to changes to this Privacy Policy, unless we specifically seek your consent. 
 
 Contacting GoFundMe
 
@@ -178,6 +212,8 @@ P.O. Box 1329
 Redwood City, CA 94063 
 
 [support@gofundme.com](mailto:support@gofundme.com)
+
+For the purposes of the GDPR, you may contact our Data Protection Officer [here](mailto:legal@gofundme.com).
 
 #### Common Questions
 
