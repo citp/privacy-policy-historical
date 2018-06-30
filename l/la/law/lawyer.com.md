@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930014143id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630053131id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
 
 # Lawyer.com Privacy Policy
 
-Lawyer.com LLC ("Company") manages the Lawer.com website ("Website") and provides this Privacy Policy because we value your right to privacy.
+Lawyer.com INC. ("Company") manages the Lawyer.com website ("Website") and provides this Privacy Policy because we value your right to privacy.
 
 This Policy is effective as of December 22, 2009 and governs the collection of personal information through our Website on or after this date. This Policy describes the types of information we may collect from visitors and how that information is used.
 
@@ -64,6 +64,23 @@ We may share some of your personally identifiable information with our parent co
 We must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We may turn over information about you if we believe we must in order to prevent a violation of the law.
 
 You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights.
+
+  
+
+
+## DATA CONTROLLER AND CONTRACTING PARTIES
+
+For the purposes of the General Data Protection Regulation 2016/679 (the "GDPR"), the Data Controller is Lawyer.com,INC registered in the State of Delaware, United States of America with a registered address at 25 Mountainview Blvd, Suite 204 Basking Ridge, NJ 07920
+
+You can contact our Data Protection Officer by sending an email to privacy@corp.lawyer.com or by writing to:
+
+Lawyer.com, INC
+
+Attn: Legal Department
+
+25 Mountainview Blvd. Ste 204
+
+Basking Ridge, NJ 07920 
 
   
 
