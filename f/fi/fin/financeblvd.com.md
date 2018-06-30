@@ -1,108 +1,138 @@
-> *The following text is extracted and transformed from the financeblvd.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222002641id_/http%3A//financeblvd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeblvd.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630153348id_/http%3A//www.financeblvd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Finance Blvd
 
-_**Introduction**_
+Last updated: May,2018
 
-FinanceBlvd.com (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
+FinanceBlvd LTD (“us”, “we”, or “our”) operates the [http://www.FinanceBlvd.com](http://www.omgstudios.com/) website (the “Service”).  
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
+We will not use or share your information with anyone except as described in this Privacy Policy.  
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).FinanceBlvd.com
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website you linked from or financeblvd.com (collectively the “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+**Information Collection And Use**
 
-This policy applies to information we collect:  
-• On this Website.  
-• In e­mail, text and other electronic messages between you and this Website.  
-• When you interact with our advertising and applications on third­party websites and services, if those applications or advertising include links to this policy.  
-• When you post comments on our Website through social websites, such as, but not limited to, Facebook.
+  * While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.
 
-It does not apply to information collected by:  
-• Us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or  
-• Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-_**Children Under the Age of 13**_
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at the email address in the last paragraph below.
+**Log Data**
 
-_**Information We Collect About You and How We Collect It**_
+  * We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.  
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-_We collect several types of information from and about users of our Website, including information:_  
-• by which you may be personally identified, such as your name and e­mail address, (“personal information”);  
-• that is about you but individually does not identify you; and/or  
-• about your internet connection, the equipment you use to access our Website and usage details.
 
-_We collect this information:_  
-• Directly from you when you provide it to us.  
-• Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.  
-• From third parties, for example, our business partners.
 
-_Information You Provide to Us_
 
-The information we collect on or through our Website may include:  
-• Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our email list, posting comments or content, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.  
-• Records and copies of your correspondence (including e­mail addresses), if you contact us.
+**Cookies**
 
-You also may provide information or comments to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk.
+  * Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.  
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-_Information We Collect through Automatic Data Collection Technologies_  
-As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:  
-• Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.  
-• Information about your computer and internet connection, including your IP address, operating system and browser type.
 
-We also may use these technologies to collect information about your online activities over time and across third­party websites or other online services (behavioral tracking). We do not respond to “Do Not Track” signals or frameworks requesting an alteration to our online tracking of individual users who visit our Website.
 
-The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:  
-• Estimate our audience size and usage patterns.  
-• Store information about your preferences, allowing us to customize our Website according to your individual interests.  
-• Speed up your searches.  
-• Recognize you when you return to our Website.
 
-_**The technologies we use for this automatic data collection may include:**_
+**DoubleClick Cookie**
 
-•  _Cookies (or browser cookies)_. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.  
-•  _Flash Cookies_. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.  
-•  _Web Beacons_. Pages of our the Website and our e­mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single­pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e­mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+  * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
-We do not collect personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-_**Third­party Use of Cookies and Other Tracking Technologies**_
 
-Some content or applications, including advertisements, on the Website are served by third­parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services . They may use this information to provide you with interest­based (behavioral) advertising or other targeted content.
+  * **Behavioral Remarketing**  
+FinanceBlvd uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see How We Use and Disclose Your Information.
 
-We have contracted with Google to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement ‘click-throughs,’ and/or other activities on our website. No personally identifiable data is transferred to Google by us. Where authorized by us, Google may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt out from Google’s collection of such information outside of the Google distribution network, by clicking on the following link: [https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en)
 
-_**How We Use And Disclose Your Information**_
 
-We only disclose or share your non-public personal information with third parties when we believe doing so is permitted by you and/or authorized by this Privacy Policy. In addition, we may share such information with our parent, subsidiary or affiliate companies without restriction. Any information that we collect or receive about you may be used, shared, or supplemented for the following purposes:
+**Facebook**
 
-• To provide and monetize our Website. In order to provide and monetize our Website, we may use and share with third parties the information we collect from and receive about you in order to provide you with customer support and respond to inquiries; to deliver content or advertising; to perform market research or measure Website usage; and to analyze traffic counts, your interests and Website performance. We may also use and share aggregated, anonymous data about the use of our Website and related activity, and such data is not subject to this Privacy Policy.
+  * Facebook remarketing service is provided by Facebook Inc.  
+You can learn more about interest-based advertising from Facebook by visiting this page: [https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950)  
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: [https://www.facebook.com/about/ads/#568137493302217](https://www.facebook.com/about/ads/#568137493302217)  
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca/](http://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.  
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
 
-• To provide relevant content and advertising. We may use and share the information you provide to us, and information we collect about your use of our Website through tracking and other technologies, to deliver relevant advertisements, offers and content when using our Website. We may work with third party advertising networks and advertisers who help deliver these ads to you. As noted above, these third party advertising networks and advertisers may also use cookies and other technologies to collect and track user data such as demographic information, location, interests, affiliations, website usage, e-commerce, and other online activity to assist them in delivering advertising and content that is more relevant to your interests. They may also supplement data from other sources to help deliver more relevant ads.
 
-• To allow third party service providers to assist us. We may share the information we collect from and receive about you with certain third party service providers, such as business partners, vendors, contractors, agents or sponsors, who help us manage the our Website, or provide Website content, advertisements and other services. These services may include advertising and marketing; developing or supporting products and features; processing data or statistics; and supplementing or organizing information or data. These outside service providers are required to protect non-public personal information and not use or disclose it for unauthorized purposes.
 
-• To contact you. We may periodically send promotional materials or notifications related to our Website to any email address you may have provided to us. If you want to stop receiving promotional materials, follow the unsubscribe instructions at the bottom of each promotional email or other method of notification.
 
-• To protect our rights and the rights of our users. We may disclose your information in order to: (i) protect or defend our legal rights or property or the legal rights or property of any of our vendors, partners or affiliates, or any of their employees, agents and contractors (including enforcement of agreements); (ii) protect the safety and security of individuals; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law, subpoena or other legal process or requirement.
+**AppNexus**
 
-• To complete a merger or sale of assets. If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
+  * AppNexus remarketing service is provided by AppNexus Inc.  
+You can opt-out of AppNexus remarketing by visiting the Privacy & the AppNexus Platform web page: [http://www.appnexus.com/platform-policy#choices](http://www.appnexus.com/platform-policy#choices)  
+For more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: [http://www.appnexus.com/platform-policy](http://www.appnexus.com/platform-policy)
 
-We do not control third parties’ collection or use of your information to serve interest based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website  _<http://www.networkadvertising.org/choices/>_. You may go to the Digital Advertising Alliance site to set advertising preferences for participating companies here:  _<http://www.aboutads.info/choices/>_. If you are outside of the United States, you may set advertising choices for participating companies here:  _<http://youronlinechoices.eu/>_.
 
-_**Location of Collected Data**_
 
-Your information and data may be transferred to servers located in the United States and other countries around the world. If you are a user located outside of the United States, you understand and consent to having any personal information you provide transferred to, processed, and stored in the United States and other countries where data protection and other privacy laws may not offer the same level of protection as in your jurisdiction, such as the European Union. This includes the use of cookies and other tracking technologies as described above.
 
-_**Data Security**_
+**Service Providers**
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+  * We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.  
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-_**Third Party Content and Data Collection**_
 
-We do not control any third party content that may be displayed to you when you use our Website. We are neither affiliated with nor responsible for the privacy practices of any partners or third parties who advertise or link to any websites, products, services or offers through the our Website, or who otherwise provide third party content. Once you view or click on anadvertisement or link, you should carefully review the applicable privacy policy of such third party service or site. Even if a third party is affiliated with us, we do not control its content or websites, each of which may have a separate privacy policy. We encourage you to read the privacy policies of each site you visit.
 
-_**Changes to Our Privacy Policy**_
 
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e­mail to the e­mail address you provided to us or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up ­to ­date active and deliverable e­mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+**Opt-Out**
+
+We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/#!/). To serve and display advertising relevant to your location, the Services may also track your device’s precise geolocation by responding to beacons or inaudible signals sent to your device’s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
+
+**Compliance With Laws**
+
+  * We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+
+
+
+**Business Transaction**
+
+  * In case FinanceBlvd LTD is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+
+
+
+
+**Security**
+
+  * The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+
+
+
+**International Transfer**
+
+  * Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.  
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+
+
+
+**Links To Other Sites**
+
+  * Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+
+
+
+**Children’s Privacy**
+
+  * Our Service does not address anyone under the age of 13 (“Children”).  
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+
+
+
+**Changes To This Privacy Policy**
+
+  * We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.  
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+
+
+
+**Contact Us**
+
+  * If you have any questions about this Privacy Policy, please contact us: [info@FinanceBlvd.com](mailto:info@omgstudios.com)
+
+
+
