@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172846id_/http%3A//www.metropolismag.com/about-metropolis/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630165803id_/http%3A//www.metropolismag.com/about-metropolis/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Metropolis
 
-This is the privacy policy (“Privacy Policy”) for the metropolismag.com website (the “Site”). The Site is made available by Bellerophon Publications, Inc.(the “Site Proprietor” or “we” or “us”). This Privacy Policy sets forth our policies regarding the collection, use, and disclosure of certain information relating to you and your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
+This is the privacy policy (“Privacy Policy”) for the metropolismag.com website (the “Site”). The Site is made available by Bellerophon Publications, Inc. (the “Site Proprietor” or “we” or “us”).
+
+This Privacy Policy sets forth our policies regarding the collection, use, and disclosure of certain information relating to you and your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
 
 This Privacy Policy is incorporated into, and part of, the [Terms of Use](http://www.metropolismag.com/terms-of-use/), which govern your use of the Site in general.
 
@@ -16,13 +18,13 @@ This Privacy Policy does not apply to information that you may provide to us, or
 
 **Personally Identifiable Information**
 
-This Site may request and collect certain personally identifiable information (”Personal Information”) from our users. “Personal Information” includes, for example, your name, mailing address, email address, telephone, wireless and/or fax number, other wireless device address, credit/debit card and other payment information, and other contact information and medical information through various means such as Site registration, magazine subscriptions, subscription renewals and account maintenance, e-newsletter subscriptions, product orders, medicine tracking tools, sweepstakes and contest entries (if any), surveys and other online forms, questions, comments and communications to the Site, including but not limited to a “contact us” or similar feature on our Site, as well as through our blog(s), and through contributions to a chat room, bulletin board, or other open forum area of the Site. We may also obtain Personal Information about you from other sources, such as third parties.
+This Site may request and collect certain personally identifiable information (”Personal Information”) from our users. “Personal Information” includes, for example, your name, mailing address, email address, telephone, wireless and/or fax number, other wireless device address, credit/debit card and other payment information, and other contact information through various means such as Site registration, magazine subscriptions, subscription renewals and account maintenance, e-newsletter subscriptions, product orders, sweepstakes and contest entries (if any), surveys and other online forms, questions, comments and communications to the Site, including but not limited to a “contact us” or similar feature on our Site, as well as through our blog(s), and through contributions to a chat room, bulletin board, or other open forum area of the Site.
 
 **Non-Personally Identifiable Information**
 
-We may also collect certain non-personally identifiable information via the Site, such as Site usage activity and preferences, as well as demographic or profile data.
+We may also collect certain non-personally identifiable information via the Site, such as Site usage activity and preferences, as well as demographic or profile data. We may also obtain Personal Information about you from other sources, such as third parties.
 
-**Site Technology and website Usage Information**
+## **Site Technology and website Usage Information:**
 
 **Cookies**
 
@@ -42,9 +44,11 @@ Any or all of these activities with regard to website Usage Information may be p
 
 Third parties (including, but not limited to, software vendors, advertisers, content providers, and fulfillment companies) may also use certain “tracking” technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection, or other activities of such third parties.
 
-## Usage and Sharing:
+**Usage and Sharing**
 
-We may use Personal Information collected on and through this Site for a variety of purposes in the course of our business and as otherwise set forth herein. For example, such information may be used to process your requests and orders, respond to your requests and inquiries, or to send you information about our and our business partners’ products and services and other information and materials that may be of interest to you. This information may also be used for internal record keeping, or to evaluate what portions of the Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page or the Site in general. We may match information collected from you through different means or at different times, including both Personal Information and website Usage Information, and use such information along with information obtained from other sources, including third parties.
+We may use Personal Information collected on and through this Site for a variety of purposes in the course of our business and as otherwise set forth herein.
+
+For example, such information may be used to process your requests and orders, respond to your requests and inquiries, or to send you information about our and our business partners’ products and services and other information and materials that may be of interest to you. This information may also be used for internal record keeping, or to evaluate what portions of the Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page or the Site in general. We may match information collected from you through different means or at different times, including both Personal Information and website Usage Information, and use such information along with information obtained from other sources, including third parties.
 
 We may analyze user behavior as a measure of interest in, and use of, our Site and emails, both on an individual basis and in the aggregate. We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Site and emails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
 
@@ -54,29 +58,23 @@ We may share this information with others, such as our affiliates, advertisers, 
 
 We may transfer, sell, or assign such information to third parties as a result of a sale, merger, consolidation, change in control, transfer of assets, reorganization, or liquidation. We also reserve the right to disclose any information concerning you to government authorities, and to other third parties when compelled to do so by government authorities, if required by law, including but not limited to in response to court orders and subpoenas, or to protect or defend our rights or the rights or well-being of our users or if you are involved (or are reasonably suspected to be involved) in any illegal activity, even without a subpoena, warrant, or court order.
 
-We may provide visitors an opportunity to receive offers from other entities (aside from the Site Proprietor) who have services, products, and offers that we think might be of interest to you. Unless you elect not to receive such offers by following the instructions in the Right to Opt Out section below, we may from time to time provide your Personal Information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your Personal Information with these types of third parties, follow the instructions to opt-out in the Right to Opt Out section below.
+We may provide visitors an opportunity to receive offers from other entities (aside from the Site Proprietor) who have services, products, and offers that we think might be of interest to you. Unless you elect not to receive such offers by following the unsubscribe link in the email communication, we may from time to time provide your Personal Information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your Personal Information with these types of third parties, follow the unsubscribe link in the email communication.
 
-Some of our contests, sweepstakes, and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes, or offering may be shared with our co-sponsor, unless you instruct us not to by following the instructions in the Right to Opt Out section below. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
+Some of our contests, sweepstakes, and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes, or offering may be shared with our co-sponsor, unless you instruct us not to by following the unsubscribe link in the email communication. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
 
-We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear gifs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or email message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer website at [http://www.networkadvertising.org/consumer/](http://www.networkadvertising.org/consumer/).
+We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear gifs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or email message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer website at <http://www.networkadvertising.org/consumer/>.
 
-## Wireless Addresses:
+**Wireless Addresses**
 
 If the email address you provide to us is a wireless email address, you may not receive the correspondence you signed up for. If you find this to have occurred, please try to sign up again with a non-wireless email address.
 
-## Right to Opt-Out:
-
-You have the right to “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to: (1) receive promotional or marketing material from us in the future, or (2) have your Personal Information disclosed to or shared with third parties in the future. You may also make these requests by clicking here. (If you use more than one email address, please fill out the form separately for each address. You will need to re-enter the other required information as well.) You may also opt-out of our promotional emails by clicking on an opt-out link within the email you receive.
-
-However, please understand that your option not to receive promotional and marketing material: (a) shall not preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us (e.g., your magazine subscription, the status of your orders, or our responses to questions or inquiries you pose to us), and (b) shall not preclude us, including our employees, contractors, agents, and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
-
-## Posting Information on or Through the Site:
+**Posting Information On Or Through Our Site**
 
 You are solely responsible for the information and other content you submit to, or post on or through, the Site, including without limitation to our blog(s). You understand that personal and other information (e.g., user name, email address, phone number) that you post on or through the Site (e.g., blog[s], chat rooms, bulletin boards) as well as your general communications with the Site are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the Site are encouraged to exercise caution when providing personal information about themselves.
 
 You may be able to send information about our products and services to your friends and family members through our Site, by clicking on a “Refer a Friend” or similar button on the Site, or in an email that we have sent you, or otherwise. In some of these cases (unless you simply forward our email on your own), you may provide the name and email address of your friend or family member to us. In the event that you do submit personal information regarding a friend or family member to us, such information will be treated in accordance with this Privacy Policy and applicable law. You hereby warrant and represent that such third party has consented to your doing so, for use in accordance with this Privacy Policy and applicable law.
 
-## Security:
+**Security**
 
 Due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access or intrusion by others, such as hackers. By using the Site, you acknowledge that you understand and agree to assume these risks.
 
@@ -86,26 +84,22 @@ You may be able to create an account on our Site with a username and password. I
 
 We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. **You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at**[ **webmaster@metropolismag.com**](mailto:webmaster@metropolismag.com) **with the alternative contact information you wish to be used.**
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at [postmaster@metropolismag.com](mailto:postmaster@metropolismag.com) with the alternative contact information you wish to be used.
 
-## Phishing:
+**Phishing**
 
 With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send email messages to consumers, purporting to represent a legitimate company such as a bank or online merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the email address from which the email appears to have been sent, and the domain name of the website requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”
 
-If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a website that does not seem to be affiliated with our Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at webmaster@diabetesselfmanagement.com.
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a website that does not seem to be affiliated with our Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [postmaster@metropolismag.com](mailto:postmaster@metropolismag.com).
 
-## Consent to Processing:
-
-By providing any personal information to this Site, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in, the United States and other countries or territories.
-
-## Links:
+**Links**
 
 This Site may contain links or references to other websites outside of our control. Please be aware that we have no control over these sites, that these sites may collect Personal Information about you, and that our Privacy Policy does not apply to these sites.
 
-## Your Acceptance of this Policy:
+**Your Acceptance Of This Policy**
 
 By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time so visitors are encouraged to review this policy from time to time. We will notify users of this Site of such changes by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Site or sending you an email. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
 
 ## Contact Us
 
-If you have any questions or comments regarding our privacy practices, you may contact us at [webmaster@metropolismag.com](mailto:webmaster@metropolismag.com). 
+If you have any questions or comments regarding our privacy practices, you may contact us at [postmaster@metropolismag.com](mailto:postmaster@metropolismag.com). 
