@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229100622id_/http%3A//okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630092218id_/http%3A//okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
 
 # Okinawa bookoo - Buy and sell with your neighbors!
 
