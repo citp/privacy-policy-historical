@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121211038id_/http%3A//www.epi.org/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630051404id_/https%3A//www.epi.org/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Economic Policy Institute
 
@@ -32,7 +32,7 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 
 Cookies are used by our shopping cart (on EPI’s online bookstore). If users reject the cookie, they may still use our site. The only drawback to this is that the user will not be able to complete a purchase using our online bookstore (we do, however, also accept orders by phone and mail).
 
-To find more information about cookies, if you are using Microsoft Internet Explorer as your browser, visit the Microsoft Web site at  <http://www.microsoft.com/info/cookies.mspx>; users of Mozilla browsers (including Firefox) should visit <http://kb.mozillazine.org/Cookies>.
+To find more information about cookies, if you are using Microsoft Internet Explorer as your browser, visit the Microsoft Web site at  [http://www.microsoft.com/info/cookies.mspx](https://www.microsoft.com/info/cookies.mspx); users of Mozilla browsers (including Firefox) should visit <http://kb.mozillazine.org/Cookies>.
 
 ****Log Files****  
 Like most standard website servers, we use log files. This includes Internet Protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We use this information to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -67,20 +67,15 @@ If a user elects to use our referral service for informing a friend about our si
 
 ## Security
 
-****This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, their information is protected both online and off-line.
+This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, their information is protected both online and off-line.
 
 When our shopping cart (i.e., bookstore order form) asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry — SSL. While on a secure page, such as our Contribute page or Bookstore/shopping cart checkout page, the padlock icon on the bottom of Web browsers such as Mozilla and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when users are just “surfing.”
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are housed in a secure environment.
 
-**
-
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
-**
-
-****  
-If a user’s personally identifiable information changes (such as zip code, phone, email, or postal address), or if a user no longer desires our service, we provide a way to correct, update, or delete/deactivate users’ personally identifiable information. This can usually be done by emailing us at[webmaster@epi.org](mailto:webmaster@epi.org), or by contacting us via telephone or postal mail using the contact information listed below.
+If a user’s personally identifiable information changes (such as zip code, phone, email, or postal address), or if a user no longer desires our service, we provide a way to correct, update, or delete/deactivate users’ personally identifiable information. This can usually be done by emailing us at [webmaster@epi.org](mailto:webmaster@epi.org), or by contacting us via telephone or postal mail using the contact information listed below.
 
 ## Notification of Changes
 
@@ -94,6 +89,5 @@ If users have questions or concerns regarding this document, they should contact
 
 Economic Policy Institute  
 Web Manager  
-1333 H Street, NW  
-Suite 300, East Tower  
+1225 I St. NW, Suite 600  
 Washington, DC 20005
