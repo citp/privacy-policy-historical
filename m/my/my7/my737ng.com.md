@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my737ng.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215022728id_/http%3A//www.my737ng.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my737ng.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630033446id_/http%3A//www.my737ng.com/about/privacy) for the most accurate reproduction.*
 
 # PRIVACY • my737NG
 
