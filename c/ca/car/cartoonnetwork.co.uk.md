@@ -1,87 +1,151 @@
-> *The following text is extracted and transformed from the cartoonnetwork.co.uk privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127173336id_/http%3A//www.cartoonnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.co.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630231735id_/http%3A//www.cartoonnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Cartoon Network
 
-Thank you for visiting [www.CartoonNetwork.co.uk](http://www.cartoonnetwork.co.uk/ "Link: http://www.CartoonNetwork.co.uk") \- a site operated by Turner Broadcasting System Europe Limited (“TBSEL”, “we” or “us”). This Privacy Policy explains how we use information we collect about you and the choices you can make about the way your information is collected and used. Please take the time to read the full Privacy Policy. By using this site, including when you access any content, subscribe to any service or otherwise contact us for any reason, you consent to the data collection, use and disclosure practices described in this Privacy Policy. This Privacy Policy may be subject to separate or additional data protection notices presented at the point of data collection.   
+Thank you for visiting this site, a digital service operated by Turner Broadcasting System Europe Limited (“Turner”, “we” or “us”). This privacy policy (“Privacy Policy”) explains our online information practices and the choices you can make about the way your information is collected and used by this digital service (the "Service") We refer to your personal data as "Information".
 
-For purposes of this Privacy Policy, any reference to “parent” shall include legal guardian.
+**1\. WHO IS RESPONSIBLE FOR YOUR INFORMATION**
 
-INFORMATION WE COLLECT 
+Turner Broadcasting System Europe Limited is the data controller with relation to the any Information collected by the Service and through your interaction with the Service (including through mobile devices). 
 
-At some of our web pages, you can order products, enter competitions, upload and communicate information, such as comments, ideas, photos, drawings, images, videos, artwork, sound recordings or other materials (“End User Content”), vote in polls or otherwise express an opinion,  contact us if you have any query,  subscribe to one of our services such as our online newsletters, or participate in one of our online forums, or  communities. 
+**2\. THE INFORMATION WE COLLECT**
 
-The types of information that may be collected at these pages include: your name, screen name, password, e-mail address, postal address, telephone/mobile number, your gender, country of residence and date of birth. We request these details in order to provide the service or product to you (i.e. despatch prizes, send goodies via email or post), to respond to any queries you may have, and to ensure we request and receive the correct consent from you or your parents.
+We receive both Information that is directly provided to us, such as personal information you provide when you visit or participate in an activity on the Service, and information that is passively or automatically collected from you, such as usage information collected from your browser or device.
 
-We may ask you for other information, including, but not limited to, your interests, opinions and the way you use our services to assist us in our initiatives and to improve our understanding of user trends and patterns.
+**Information You Provide To Us.** In order to participate in an activity on the Service such as a competition, or other similar activity, you may be required to provide some contact information such as name and email address and other Information such as a photograph or a video, depending on the specific activity. Additional details the collecting and processing will be provided at the point of collection and by the specific terms for participating in that activity. 
 
-If you are under sixteen and participate in an activity that requires the collection and retention of your personal information to allow for continued recognition or registration for a particular functionality , we will also ask for your parent’s e-mail address so that we can obtain your parent’s permission to process your personal information. We do not knowingly collect names and e-mail addresses from anyone under sixteen for these types of activities without notifying their parents via e-mail and giving that parent the option to consent to their child’s personal details being included in the applicable database for that activity. During the period when parental consent is being requested, your account will be held in our database on a temporary basis. If we do not receive your parent’s consent we will delete the information provided by you within a reasonable period of time in accordance with the Data Protection Act 1998.
+**Information That is Passively or Automatically Collected.** We also receive Information when you visit the Service that is automatically collected from your browser or device such as page views, clicks, IP address, device ID (or equivalent), the name of your Internet service provider, and the type of browser you are using.  
 
-If we collect your personal information to allow you to enter a competition, or other similar one-time activities the specific terms for participating in that activity will provide you with additional information about the collecting and processing of this information.
 
-At some of our web pages, you may be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift on-line and want it sent directly to the recipient, you might submit the recipient's name and home address. The types of information that may be collected about other people at these pages include: recipient's name, address, and e-mail address. We will only use this information to provide the product or service as requested.  We ask that you ensure that you obtain any person’s consent before providing their personal details and that you do not provide information regarding anyone under the age of eighteen unless you are their parent.  
+**3\. HOW WE USE YOUR INFORMATION**
 
-USE OF INFORMATION
+We use your Information for the following purposes:
 
-For specific one-time requests we receive from visitors, e-mail addresses are collected and used only in connection with the specific one-time request.
+3.1. To fulfil a contract, or take steps linked to a contract pursuant to Article 6(1)(b) of Regulation (EU) 2016/679 (“GDPR”):
 
-We use visitors' personal information collected in connection with our activities for internal purposes only, such as reporting, enabling visitors to enter our online competitions, submit their End User Content or subscribe to our online newsletter, providing the service or product requested, providing  customer service and/or for the specific purpose for which the information was provided. 
+(a) to provide the Service and to communicate with you about your account with us where we offer registration;
 
-We may also use the information for other purposes disclosed to visitors at the time their information is collected.
+(b) to send you information about changes to our terms or policies; 
 
-We use parents' e-mail addresses provided by children to notify them when we have received personal information such as e-mail addresses from their children and to give parents the option to remove their child's name from our lists. 
+(c) to allow you to take part in any competitions that we run from time to time, administer the competition, notify you if you have won, verify your identity, residency and other eligibility requirements, as applicable, deliver the prize and respond to any query you may have around the competition;
 
-We keep any personal information we obtain through a competition for the time necessary to successfully select winners, award the prizes, and administer the competition. 
+(d) to allow you to submit End User Content (as defined in the Terms of Use),and allow us to use the End User Content you submit in accordance with the Terms of Use or other more specific terms which may apply from time to time;
 
-APPS
+3.2. Where this is necessary for purposes which are in our, or third parties', legitimate interests pursuant to Article 6(1)(f) of GDPR:
 
-We may offer games and other downloadable applications (commonly referred to as "Apps") through various third party platforms (such as Apple's iTunes App Store, Google Play, etc.). Our Apps generally include features, functionality and content such as games, videos, and activities. TBSEL does not knowingly collect personal  information from children under the age of 16 through our Apps. The data collected in an App may vary by App but will include any information a user provides once the user downloads and uses the App. For example, some of our Apps may require you to first register and create an account with us (e.g. user name, password, or email address) before you can use it. Other Apps may require additional information from you, such as transaction-related information (e.g. when you make purchases, respond to any offers). We may also use information you provide us to reach you when you contact us for help. If you interact with third-party social media sites and applications, we may have access to certain information from your social media account such as your user name, profile picture, information about friends and followers, and content posted or viewed through the social media. When you use social media networking platforms and plugins, you share your information with them and their use of the information will be subject to that social media site’s privacy practices. To help improve the design, functionality, performance, and content of our Apps, we usually collect certain information when you use the App on your mobile device, such as usage, viewing and technical data including the type of mobile device you use, your unique device ID, your device’s IP address, your mobile operator and operating system, the type of mobile Internet browsers you use, and information about the way you use the App. Our Apps usually do not collect precise information about the location of your mobile device, and only would do so if you are specifically prompted to provide your consent to do so. You can always manage your location preferences at any time by adjusting the settings on your device. If a parent or guardian becomes aware that his or her child has provided us with any personally identifiable information through an App without consent, please contact us at [apps.emea@turner.com](mailto:apps.emea@turner.com) so we can delete such information.
+These interests are: 
 
- COOKIES
+(a) to fulfil your requests and inquiries regarding the Service;
 
-When you visit this site we send "cookies" to your computer primarily to enhance your on-line experience. "Cookies" are small files which can identify your terminal equipment and store your personal preferences as well as technical information. 
+(b) (b) to provide technical support (including testing, quality assurance, troubleshooting and security) for the Service;
 
-We use cookies and technical information to personalise your visit to our site (e.g., to recognise you by name when you return to our site) and understand your trends. This helps us improve the design and content of our site for visitors and assists us in our marketing initiatives.
+(c) to analyse how the Service is used including search queries, frequency of viewing and length of viewing time, page views and clicks to help us manage and improve the Service and to develop new services; 
 
-Certain areas of our site use cookies for a specific reason, for example, to help an online game work effectively. Most web browsers allow you to control how cookies are put on your computer  and you can set them at any time to refuse all cookies or indicate when a cookie is being sent. However, please note that some parts of this site may not function properly if you refuse cookies. For more information on cookies and how to disable them you can consult our [Cookies Policy](http://www.cartoonnetwork.co.uk/cookies-policy). 
+(d) to manage the delivery of advertising, including the number of times the same advertisement is served and viewed 
 
-DISCLOSURE OF INFORMATION
+(e) to enforce our policies and terms of use, to check for potential illegal activity (such as copyright infringement or fraud);
 
-We may share information about visitors to this site in aggregate with third parties including advertisers, business partners, and sponsors, to understand user trends and patterns and manage and improve our business relationships. Please be assured that such information will be anonymised so that your identity is protected.
+(f) to run a survey or market research on the Service to understand our audience; and 
 
-We may disclose your personal data to affiliates, third party providers, contractors and partners for the purposes listed in this Privacy Policy. In particular, we may share personal information with third parties to administer and process your requests (e.g., when you order a product or service we may share your details with third party financial institutions to process payment for your order). We may also share your details with third parties (such as auditors or legal advisors) to obtain professional advice.
+(g) protecting the safety of our users.
 
-Agents and contractors who have access to personal information are required to protect this information in a manner that is consistent with this Privacy Policy by, in particular, not using the information for any purpose other than to carry out the services they are performing.
+3.3. Where you give us consent pursuant to Article 6(1)(a) of GDPR:
 
-We may disclose personal information we hold in response to legal proceedings, for example, in response to a court order or a subpoena. We may also disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our terms of use or as otherwise required by law. In addition, we may transfer personally identifiable information about you if we or one of our business units are acquired by, sold to, or merged with another entity.
+(a) to send you newsletters about our products and services and third party products and services and to use technologies to check if these have been received and opened, in accordance with the additional information provided at the point of collecting your consent; 
 
-LIMITATION OF LIABILITY
+(b) if you are under sixteen and participate in an activity that requires consent, we will also make reasonable efforts to obtain your parents’ permission to process your Information pursuant to Article 8 of GDPR. We do not knowingly collect Information from anyone under sixteen for these types of activities without giving parents the option to consent to their child’s personal details being included in the applicable database for that activity. During the period when parental consent is being requested, the Information provided will be held on a temporary basis. If we do not receive your parent’s consent we will delete the information provided by you within a reasonable period in accordance with the specific terms which will be provided with relation to that activity. For purposes of this Privacy Policy, any reference to “parent” shall include legal guardian.
 
-Some of our sites contain links to other sites where information practices may be different to ours. For example, if you "click" on a banner advertisement, the "click" may take you off this web site. This includes links from advertisers, channel sponsors and partners that may use our logos as part of a co-branding agreement. Visitors should consult the other sites' privacy notices as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
+3.4. For purposes which are required by law pursuant to Article 6(1)(c) of GDPR;
 
-We sometimes may offer content (e.g., competitions, prize draws, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personal information that you voluntarily submit to participate in the site activity. We are not responsible for and have no control over these third parties' use of this information. However, we will notify you at the time of requesting personal information if these third parties will obtain such information.
+(a) in response to requests by government or law enforcement authorities conducting an investigation.
 
-We may use a reputable third party to present or serve the advertisements that you may see at this site (please refer to our Cookies Policy [hyperlink] for more details). This Privacy Policy does not cover any use of information that a third-party ad server may have collected from you. 
+(b) to comply with our legal obligations.
 
-CONTACT AND NOTICES 
+**4\. INFORMATION WE RECEIVE FROM THIRD PARTIES**
 
-Although absolute security cannot be guaranteed on the Internet, please be assured that we have in place security measures to protect the confidentiality of your personal information. We will continue to maintain and improve these measures over time in line with legal and technological developments.
+When you engage with our content through social media, or other non-Turner, sites or applications, you may allow those sites to share Information with us such as content you have viewed or interacted with and about adverts within the content which you have been shown or clicked on.
 
-You can contact us at any time at [privacy.uk@turner.com](mailto:privacy.uk@turner.com) to see the personal information we have collected through this site which relates to you, and in some cases, your children, and to ask us to make any necessary changes to correct or update your information. To protect your privacy and security we will take reasonable steps to verify your identity before granting access.
+The privacy policies for these sites and applications will contain more detail about this and how to change your privacy settings on those sites and applications. 
 
-If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose personal information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
+**5\. INFORMATION SHARING AND DISCLOSURE**
 
-If you have any questions or comments about this Privacy Policy please feel free to contact us at [privacy.uk@turner.com](mailto:privacy.uk@turner.com).
+We share your Information:
 
-PARENTAL GUIDANCE
+(a) With service providers we have engaged to perform business-related functions on our behalf. For example, to: (i) conduct research and analytics; (ii) create content; (iii) provide customer support services; (iv) conduct or support marketing; (v) fulfil orders; (vi) host Services; (vii) provide technical or operational support; (viii) administer competitions or other user activity; (ix) maintain databases; and (x) otherwise support the Service;
 
-It is important to us that children can enjoy our sites in a responsible fashion. We, therefore, encourage children to consult with their parents before providing personal information. We also encourage parents to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission.
+(b) In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request;
 
-Cartoon Network Online   
-Turner Broadcasting System Europe Limited   
-16 Great Marlborough Street   
-London   
-W1F 7HS   
-England   
-(registered office: Turner House, 16 Great Marlborough Street, London, W1F 7HS) 
+(c) With third parties if this will help us to enforce our policies and terms of use, to investigate, prevent take action regarding potential illegal activity (such as copyright infringement or fraud) or to protect the safety of other users of the Services; or
 
-3 July 2015
+(d) If we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets.
+
+**6\. COOKIES AND SIMILARTECHNOLOGIES.**
+
+We use cookies and other similar technologies to help provide Service and to analyse how you and authorised users use our Service. We also allow third parties to use these technologies for similar purposes. Please see our [Cookie Policy](http://www.cartoonnetwork.co.uk/cookies-policy "Link: http://www.cartoonnetwork.co.uk/cookies-policy") for more information. 
+
+**7\. OTHER IMPORTANT INFORMATION ABOUT YOUR PRIVACY**
+
+7.1. International Transfer
+
+From time to time we may need to allow our service providers or assistance providers, who may be located outside the EEA, access to your Information. We may also make other disclosures of your personal data overseas, for example if we receive a legal or regulatory request from a foreign law enforcement body.
+
+We will always take steps to ensure that any international transfer of information is carefully managed to protect your rights and interests:
+
+(a) we will only transfer your personal data to countries which are recognised as providing an adequate level of legal protection such as Argentina, from where our affiliate Imagen Satelital S.A. provides support, security, infrastructure and maintenance services for our websites, or where we can be satisfied that alternative arrangements are in place to protect your privacy rights;
+
+(b) transfers to our service providers and other third parties will always be protected by contractual commitments and where appropriate further assurances, such as standard data protection clauses, certification schemes, provider’s Processor Binding Corporate Rules. and the EU - U.S. Privacy Shield for the protection of personal data transferred from within the EU to the United States of America. We have entered into standard data protection clauses with our US affiliate Turner Broadcasting System, Inc, which provides support, security, infrastructure, maintenance services for our websites.
+
+(c) any requests for information we receive from law enforcement or regulators will be carefully checked before personal data is disclosed.
+
+You have the right to ask us for more information about the safeguards we have put in place as mentioned above. Contact us as set out below if you would like further information.
+
+**7.2. Retention of Your Information**
+
+We will retain your personal data for as long as is reasonably necessary for the purposes listed in Section 3 of this Privacy Policy. In some circumstances we may retain your personal data for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax or accounting requirements.
+
+Where we offer registration, we keep details of users who have registered with us for as long as you use the Service and your user account details for up to 18 months afterwards. We delete user profile information provided to us for the Service automatically when the registration for the Service is cancelled.
+
+If you contact us with support queries, we keep the data for between 3 and 18 months, depending on the nature of the query and whether you have registered with us.
+
+Where we process Information for marketing purposes, we process the Information while you remain interested in the marketing (for example, where you open and read our offers) and for three years after that point. If you ask us to stop sending marketing we will keep your Information for a short period after this (to allow us to implement your requests).
+
+Where we process Information for a competition, we keep the data for 12 months form the day the competition ends unless a longer period is required by law.
+
+Where we process Information with relation to the submission of End User Content, we will keep the data for as long as necessary in accordance with the specific terms of the activity.
+
+**8\. YOUR RIGHTS**
+
+You have a number of rights in relation to your personal data. More information about each of these rights is set out below.
+
+You have the right to ask us for a copy of your Information (Article 15 GDPR), to correct (Art. 16 of GDPR), delete (art. 17 of GDPR) or restrict (stop any active) processing of (Article 18 GDPR), your Information; and to obtain the Information you provide to us for a contract or with your consent in a structured, machine readable format, and to ask us to share this Information with another controller (Article 20 of GDPR).
+
+In addition, as far as the processing of your Information is based on our, or third parties', legitimate interest, you have the right to object to the processing in accordance with Article 21 of GDPR.
+
+These rights may be limited, for example if fulfilling your request would reveal Information about another person, or if you ask us to delete Information which we are required by law to keep or have compelling legitimate interests in keeping.
+
+You can withdraw your consent in respect of any processing of personal data which is based upon a consent which you have previously provided. You can also opt out of receiving email newsletters and other marketing communications by following the opt-out instructions provided to you in those emails.
+
+To exercise any of these rights, you can get in touch with our Privacy Office using the details set out below in Section 9. Please include your registration information, where we offer registration, such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes.
+
+You also have a right to complain to a supervisory authority for data protection in the country where you live, where you work, or where you consider that a breach of data protection has occurred, although we hope that we can assist with any queries or concerns you may have about our use of your Information.
+
+**9\. HOW TO CONTACT US**
+
+The primary point of contact for all issues arising from this Privacy Policy, including requests to exercise data subject rights, is our privacy office.  The privacy office can be contacted in the following ways:
+
+[EMEA.privacy@turner.com](mailto:EMEA.privacy@turner.com)
+
+Privacy Office  
+Turner Broadcasting System Europe Limited  
+Turner House  
+16 Great Marlborough Street  
+London, W1F 7HS  
+United Kingdom
+
+If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. 
+
+**10\. UPDATES & EFFECTIVE DATE**
+
+From time to time, we may update this policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you know what Information we collect, how we use it, and with whom we share it.
+
+The policy posted on this Service was updated on 06 May 2018.
