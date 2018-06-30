@@ -1,40 +1,39 @@
-> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108024456id_/https%3A//xhamster.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630020107id_/https%3A//xhamster.com/info/privacy) for the most accurate reproduction.*
 
-# Política de privacidad
+# Privacybeleid
 
-_for Hammy Media, Ltd. d/b/a[www.xhamster.com](https://www.xhamster.com/), [www.xhamstercams.xxx](http://www.xhamstercams.xxx/)  
-Effective Date: November 08, 2017  
-Last Modified: September 27, 2011_
+for Hammy Media, Ltd. d/b/a [www.xhamster.com](https://www.xhamster.com/), [www.xhamsterlive.com](https://www.xhamsterlive.com/)
 
-  1. General 
+Effective Date: June 30, 2018 
+
+Last Modified: May 24, 2018
+
+  * ## I. General
+
     1. The operative parties referred to in this policy are Company and You, the User of this site. 
       1. Hammy Media, Ltd. is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, Hammy Media, Ltd. shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy.
       2. **You, the User** – As the User of this Site, this Policy will refer to the User as “You” or through any applicable second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
-    2. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
-  
+    2. This Privacy Policy explains what Personal Data we collect and how we collect it, how we use Personal Data, who we share Personal Data with, the choices we offer, including how to access, update, and remove Personal Data when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
+  * ## II. Revisions to this Policy
 
-  2. Revisions to this Policy 
     1. We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
-  
+  * ## III. Personal Information that We Collect
 
-  3. Personal Information that We Collect 
-    1. Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows: 
-      1. **Members** \- Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address in the process of registering a username.
+    1. We know that xHamster users expect their personal information to remain secure and private. Data protection and privacy have always been of enormous importance to us and we want to be open and transparent about the personal data we collect, the way it is used and with whom it is shared. We have never sold, never sell and never will be selling your personal data. We comply with all the processing operations in line with the [EU General Data Protection Regulation (hereinafter “GDPR”)](https://www.eugdpr.org/), as well as the Laws of Cyprus, where xHamster has been incorporated. Recently we have updated our Privacy Policy to account for GDPR provisions. We have added clear explanations of what type of personal data we collect and how we use the data and who we share the data with, including your choices, rights, and controls of your personal information.
+    2. Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows: 
+      1. **Members** \- Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address and password in the process of registering a username. If You want to take full advantage of the verified user We offer, We might also ask You to create a publicly visible introduction, which may include Your photo or video with You. 
       2. **Browsers** \- Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
-  
+  * ## IV. How We Collect Information from You
 
-  4. How We Collect Information from You 
-    1. **Passive Collection** – We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected in Our cookies includes, but is not limited to, Your User IP address, geographic location and other session data.
-    2. **Active Collection** – We collect information from You, such as Your name, e-mail address and credit card information, if applicable, when You complete registration forms to sign up for Your membership on Our Site. Locations for such collection are registration or personal profile pages, but We reserve the right to add additional information collection portals.
-  
+    1. **Passive Collection** – We use cookies to collect information about You in order to enhance Your experience on the Site. The information that we collect includes, but is not limited to, Your User IP address, geographic location and other session data (device and browser type, language, operating system, the pages or features of our Website or Service to which a user browsed, the time spent on those pages or features, the frequency with which the Service is used by a user, search terms used by a user, the links on the Service that a user clicked on or used, and other statistics). 
+    2. **Active Collection** – We collect information from You, such as Your username, e-mail address and password, when You complete registration forms to sign up for Your membership on Our Site. Locations for such collection are registration or personal profile pages, but We reserve the right to add additional information collection portals.
+  * ## V. How We Use Your Information
 
-  5. How We Use Your Information 
-    1. The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features or third-party upgrades as requested by the Member. We are not responsible for how third parties use your information, and You should become familiar with such third parties’ privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We additionally may use the personal information of Users whose membership has expired or has been cancelled in order to market Our services to these individuals in the future.  
-We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription services, if applicable. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.  
+    1. The primary use for Your information is to provide You with services You have requested. We use the information We collect from You to maintain, protect and improve xHamster, to develop new services on the website, and to protect xHamster and our users. We also use this information to offer You tailored content – like giving you more relevant search results, customized content and ads. Member login information and e-mail addresses may be disclosed to our partner projects, which include but not limited to [xhamsterlive.com](https://xhamsterlive.com/) & [xhamsterpremium.com](https://xhamsterpremium.com/) for the purpose of providing certain features. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features or third-party upgrades as requested by the Member. We are not responsible for how third parties use your information, and You should become familiar with such third parties’ privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We additionally may use the personal information of Users whose membership has expired or has been cancelled in order to market Our services to these individuals in the future.   
+We generally will use Your information for the purposes for which You specifically provide it. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.  
 We also use Your information for the obvious purpose of providing Your User profile to all of Our other Members and Browsers. When You create a profile, You should consider all of the information on the profile to be public information, accessible by anyone, unless otherwise stated. Even if You choose to not make public Your personally identifying information, You should understand that there is a possibility that You may be identified through information You provide on Your profile. For example, You may be visually recognized by someone who sees Your picture or Your description may be adequately detailed that someone browsing the Site would be able to tell that the person is You. Accordingly, You understand that using this Site places You in control of all of the information displayed on Your profile, and You are fully responsible for any consequences arising out of such information You choose to publish. 
-  
+  * ## VI. Special Cases
 
-  6. Special Cases. 
     1. It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Browsers or Members, or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: 
       1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
       2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other User policies;
@@ -42,26 +41,26 @@ We also use Your information for the obvious purpose of providing Your User prof
       4. To protect ourselves, Our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
       5. If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder. We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility. However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information.
       6. Anyone who violates Our Anti-Spam Policy, if applicable, shall have their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop.
-  
+  * ## VII. Transmittals from Us
 
-  7. Transmittals from Us 
-    1. We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by clicking <https://es.xhamster.com/my/edit/account> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account.
+    1. We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by clicking <https://nl.xhamster.com/my/edit/profile?activeTab=privacy> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account.
     2. If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
-  
+  * ## VIII. Public Areas
 
-  8. Public Areas 
     1. Any information provided in a User profile, blog, profile post, Member directory, chat room, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium.
-  
+  * ## IX. Our Commitment to Data Security
 
-  9. Our Commitment to Data Security 
     1. We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
-  
+  * ## X. How to Access or Modify Your Information
 
-  10. How to Access or Modify Your Information 
-    1. We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page.
-  
+    1. We respect your privacy and data security while using xHamster and we acknowledge the fact the people may have various privacy concerns. We remain dedicated to the protection of our users’ data and we want to be clear about the type of information collected, helping you make choices about your privacy. You can: 
+      1. Access/modify the information provided during registration – please refer to the profile editing page <https://nl.xhamster.com/my/edit/profile>
+      2. Choose whether your profile / uploaded content is visible for everyone, or for registered users or for friends only <https://nl.xhamster.com/my/edit/profile?activeTab=privacy>
+      3. Control who you disclose the information to through social networks, comments or PMs on xHamster
+      4. Review videos you’ve watched or paused watch history <https://nl.xhamster.com/my/watch-history>
+      5. You may also block cookies (including cookies associated with our services or indicate when a cookies is set by us) by activating the related settings on your browser. However, please remember that if you use your browser settings to disable all cookies (including essential cookies) you may not be able to access all or part of our site (for example, your language preferences won’t be remembered).
+  * ## XI. Where to Direct Questions About Our Privacy Policy
 
-  11. Where to Direct Questions About Our Privacy Policy 
     1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [help@xhamster.com](mailto:help@xhamster.com).
 
 
