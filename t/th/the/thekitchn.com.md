@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekitchn.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000048id_/http%3A//www.thekitchn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekitchn.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630200626id_/https%3A//www.thekitchn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kitchn
 
@@ -76,7 +76,7 @@ We may offer sweepstakes, contests and other promotions through our Website that
 
 **5\. Third-Party Email Promotions:**
 
-Occasionally we will send you an advertorial email from one of our advertisers/sponsors. These advertorial features are clearly marked as such by the emails "From" line and the title at the top of the article itself. The content is paid for by our advertisers/sponsors and does not reflect the opinions of our editorial staff. When you sign up for our emails, you are agreeing not only to receive our content delivered to you, but also to receive these occasional advertorial emails from our advertisers/sponsors. If you would prefer not to receive these emails, you can unsubscribe by [requesting to be unsubscribed here](https://www.apartmenttherapy.com/settings/subscriptions) and we will not send you any additional content or advertorial emails. 
+Occasionally we will send you an advertorial email from one of our advertisers/sponsors. These advertorial features are clearly marked as such by the emails "From" line and the title at the top of the article itself. The content is paid for by our advertisers/sponsors and does not reflect the opinions of our editorial staff. When you sign up for our emails, you are agreeing not only to receive our content delivered to you, but also to receive these occasional advertorial emails from our advertisers/sponsors. If you would prefer not to receive these emails, you can unsubscribe by [requesting to be unsubscribed here](https://www.thekitchn.com/tech-help) and we will not send you any additional content or advertorial emails. 
 
 **6\. Your California Privacy Rights:**
 
@@ -128,4 +128,4 @@ You may contact us as at legal@apartmenttherapy.com if: (i) you have questions o
 
 This Privacy Policy as posted on our Website is the sole statement of our privacy policy with respect to our Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy on our Website. 
 
-© 2017, Apartment Therapy, LLC. All Rights Reserved. 
+© 2018, Apartment Therapy, LLC. All Rights Reserved. 
