@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingcouch-x.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119084638id_/https%3A//castingcouch-x.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcouch-x.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630075604id_/https%3A//castingcouch-x.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -44,3 +44,7 @@ Service Provider takes reasonable efforts to ensure that sensitive or personally
 
 a. Emails from Service Provider. When you sign up for one or more of the Sites, you provide Service Provider with an accurate email address. Service Provider maintains a member directory so that it may email you from time-to-time. These emails may concern matters Service Provider thinks you may find interesting, including but not limited to new Sites, programs, and services. Emails from Service Provider and its affiliates are not SPAM, as you have a business relationship with Service Provider as soon as you join one or more of the Sites, and you agree they should not otherwise be deemed as unsolicited.  
 b. Emails to Service Provider. If you contact Service Provider via email or via any link on one of the Sites, you should be aware that the information you transmit should not be considered private or secure. Please do not transmit any information you would not want to become public.
+
+### 7\. CONTACT US, QUESTIONS, UPDATING YOUR INFO, OPTING OUT
+
+If you would like to update your information, please e-mail us. From time to time, we may email you with special offers with your consent; you may opt-out of those offers through the email or by contacting us as noted below. If you otherwise would like to contact us for a privacy-related matter, please use the following e-mail address: [cvv@cvvhelp.net](mailto:cvv@cvvhelp.net)
