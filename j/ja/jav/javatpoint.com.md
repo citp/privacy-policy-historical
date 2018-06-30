@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javatpoint.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223062606id_/http%3A//www.javatpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javatpoint.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630022114id_/https%3A//www.javatpoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - javatpoint
 
@@ -120,8 +120,10 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us [Click to Contact Us](https://web.archive.org/web/20161223062606id_/http%3A//www.javatpoint.com/contact-us). 
+If there are any questions regarding this privacy policy you may contact us [Click to Contact Us](https://web.archive.org/web/20180630022114id_/https%3A//www.javatpoint.com/contact-us). 
 
-* * *
+## Please Share
 
-* * *
+[](https://www.facebook.com/sharer.php?u=https://www.javatpoint.com/privacy-policy "Facebook") [](https://twitter.com/share?url=https://www.javatpoint.com/privacy-policy "Twitter") [](https://plusone.google.com/_/+1/confirm?hl=en&url=https://www.javatpoint.com/privacy-policy "Google+") [](https://www.pinterest.com/pin/create/button/?url=https://www.javatpoint.com/privacy-policy "Pinterest") [](https://www.tumblr.com/share/link?url=https://www.javatpoint.com/privacy-policy "Tumblr")
+
+## Learn Latest Tutorials
