@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serifwebresources.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115130932id_/http%3A//www.serifwebresources.com/help/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serifwebresources.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630153312id_/http%3A//www.serifwebresources.com/help/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Intl. - +44 115 914 2000.
 Our VAT registration number is GB 779 8920 50.  
 This Privacy Policy and any documents it references, inform you how we collect and use the personal information ("Personal Data") you provide in doing business with WebPlus.net including use of the webplus.net website and its services (the "Web Site"). WebPlus.net knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in compliance with the Data Protection Act 1998. We appreciate the trust you place in us.
 
-Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that have been made available via the Web Site or its services. The use of this information is detailed in our [Terms and Conditions.](https://web.archive.org/web/20171115130932id_/http%3A//www.serifwebresources.com/help/en/tc.html)
+Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that have been made available via the Web Site or its services. The use of this information is detailed in our [Terms and Conditions.](https://web.archive.org/web/20180630153312id_/http%3A//www.serifwebresources.com/help/en/tc.html)
 
 We may modify this Privacy Policy from time to time without notice. When we do we will update the "Last Updated" date and for material changes we will notify you by placing a notice on the home page of our Web Site for a minimum of seven days. It is therefore important that you regularly review this privacy policy to ensure you are updated as to any changes.
 
