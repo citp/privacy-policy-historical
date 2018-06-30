@@ -1,116 +1,163 @@
-> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928094824id_/https%3A//appradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630173450id_/https%3A//appradar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Our company appers gmbh (henceforth referred to as appers) treats your personal data very responsibly. We keep your personal information confidential and adhere to the data protection laws (such as § 96 paragraph 3 law of telecommunication 2003 and § 8 paragraph 4 law on data protection 2000), as well as this data protection policy. By using this website your agree to the following:
+### Our Commitment to Data Privacy
 
-#### 1\. Scope of Application
+At App Radar we are committed to protecting and respecting your data privacy.
 
-1.1. This policy describes how appers will use the personal information collected when you visit our websites and mobile applications that contain a link to this privacy policy. A Service may supplement this privacy policy with additional privacy terms or with additional privacy notices in connection with certain features of that Service.
+We make no compromises regarding your privacy. We strive to be transparent in the way we are processing your data. We are in compliance with the EU’s General Data Protection Regulation (“GDPR”) and Austria’s data protection regulation. Our data protection officer is happy to respond to any questions regarding the GDPR at [privacy@appradar.com](mailto:privacy@appradar.com)
 
-1.2. This privacy policy does not apply to websites, applications or mobile platforms that are not linked to this privacy policy or to those operated by third parties. We encourage you to review the privacy policies posted on those websites, applications and mobile platforms.
+### Privacy Policy
 
-#### 2\. Collection of information
+We want to make our privacy policy as simple and understandable as possible. We will explain the information we collect, why we collect, it how it is used and what are your choices regarding your data privacy.
 
-2.1. We collect information from you in two ways: directly from your input and automatically through the Website and Services offered by us.
+### Scope of Application
 
-2.2. The types of information we collect directly from you may include the following as well as any other information type that we expressly ask you to enter and submit to the service:
+This policy describes how App Radar will use the personal information collected when you visit our websites and mobile applications that contain a link to this privacy policy, as well as information exchanged in in person conversations between you and App Radar members. A Service may supplement this privacy policy with additional privacy terms or with additional privacy notices in connection with certain features of that Service.
 
-a.) Contact information, such as your name, email address, mailing address and telephone number
+This privacy policy does not apply to websites, applications or mobile platforms that are not linked to this privacy policy or to those operated by third parties. We encourage you to review the privacy policies posted on those websites, applications and mobile platforms.
 
-b.) Usernames and passwords
+### Why We Collect Information
 
-c.) Comments and feedback
+Our purpose is to make the App Radar experience as great as possible for you. To improve your experience and gain insights we need to collect data. Based on this data we can improve our services and increase our efficiency as a company.
 
-d.) Interests and communication preferences;
+### Information We Collect
 
-e.) Information given by you voluntarily such as position, department, company registry number, webpage, customer number and tax registry number
+We collect information from you in two ways. Directly from your input and automatically through the website and services offered by us.
 
-f.) Information on services purchased by you
+The types of information we collect directly from you may include the following as well as any other information type that we expressly ask you to enter and submit:
 
-g.) Information on billing and mode of payment
+  * Contact information, such as your name, email address, mailing address and telephone number.
+  * Usernames and passwords.
+  * Comments and feedback.
+  * Interests and communication preferences.
+  * Information given by you voluntarily such as position, department, company registry number, webpage, customer number and tax registry number.
+  * Information on services purchased by you.
+  * Information on billing and mode of payment.
+  * Security question and security answer.
+  * If you contact our support, we collect the information you give us during the interaction.
 
-h.) Security question and security answer
 
-2.3. Automatically collected information We automatically collect certain information regarding your use of the Service to improve security and user-friendliness. Examples of information collected automatically include:
 
-a.) Internet Protocol (“IP”) address used to connect your computer to the Internet;
+#### Information Collected When You Use Our Services
 
-b.) Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier (“UDID”) and other technical identifiers;
+We collect the information to improve our service and its user friendliness. Examples of the information collected are:
 
-c.) Uniform Resource Locator (“URL”) click stream data, including date and time, and content you viewed or searched for on a Service.
+  * Internet Protocol (“IP”) address used to connect your computer to the Internet.
+  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier (“UDID”) and other technical identifiers.
+  * Uniform Resource Locator (“URL”) click stream data, including date and time, and content you viewed or searched for on a Service.
+  * Time spent in our Webapp.
+  * Date and time you logged into our webapp.
+  * Features you have been using.
 
-2.4. Cookies and Web Beacons appers uses so called “session“ cookies, „persistent“ cookies and Web Beacons. Cookies are small text files that a website sends to the browser on your computer or mobile device when you first visit a web page so that the website can recognise your device the next time you visit. Additionally, cookies are used to effect certain usage functions. appers does not collect personal data via cookies or web beacons. Partially, the usage of our services is possible without cookies. We inform you that in this case it is possible that not all functions of our service can be used fully.
 
-a.) “Session” cookies which are temporary and deleted when you close your browser
 
-b.) “Persistent” cookies, which remain until you delete them or they expire;
+### Cookies and Web Beacons
 
-c.) which are electronic images also known as single-pixel gifs
+App Radar uses so-called cookies and web beacons at certain points on the website and in the webapp. They act as a means for us to make our service more user-friendly, effective and secure.
 
-2.5. Cookies Used In this list (cookie-list) you find the cookies and web-beacons used by us. As regards so called “third party cookies” such as that of Google Inc you will find a link to the latest data privacy policy known to us.
+Cookies are small text files that are saved by your browser on your computer or mobile device when you first visit a website that the website can recognize your device the next time you visit. Cookies do not cause any harm to your computer and they do not contain Viruses. App Radar does not collect personal data via cookies or web beacons. Partially, the usage of our services is possible without cookies. We inform you that in this case it is possible that not all functions of our service can be used fully.
 
-Our newsletter and HTML e-mails may contain web beacons. That can establish if emails were opened and if links therein were clicked. We use this information to improve our email service and to find out, which information is read or clicked the most. By deleting the email the web beacon is deleted automatically as well. Our text-only emails contain no web beacons.
+#### Different Cookies
 
-By using this website you agree to the reading, proceeding, transferral and saving of information gathered via cookies and web beacons.
+In general there are two different forms of cookies:
 
-2.6. Disable Cookies There are a number of ways to manage cookies. The “help” portion of the toolbar on most browsers will tell you how to stop accepting cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies. However, if you block cookies, you may not be able to register, login or make full use of the Service. You can also use your mobile device’s settings to manage the available privacy options.
+  * “Session” cookies which are temporary and deleted when you close your browser.
+  * “Persistent” cookies, which remain until you delete them or they expire. Persistent cookies usually are used for analytical purposes.
 
-2.7. Web Analytics This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyse how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-This website uses retargeting technology. This enables us to contact internet users with specific advertisement, who have showed interest in our service and products before. Studies have shown that the display of personalized advertisement with a connection to the users’ interest is more interesting to the user than general advertisement. The display is based on an analysis of the users’ behaviour via cookies. No personal data is stored and the usage takes place with regard to the laws for data protection. We cooperate with Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). If you are not willing to have interest-focused advertisement provided to your by Google inc, you can disable this function here. Please note. An opt-out will be made via cookie. If you delete all cookies, also the opt-out cookie will be deleted in which case you need to activate the cookie again. The opt-out cookie is active for a single computer and browser.
 
-2.8. The usage of these tools helps us to improve our tools and services continuously. Only non-personal data is collected for analysis and reporting. Such data is not connected with personal data.
+There are first-party and third-party cookies. First-party cookies are used by us whereas third-party cookies are used by tools (third-parties) such as Google Analytics and Hotjar.
 
-2.9. By using this website your agree to the proceeding of the data collected on your behaviour according to the provisions above.
+#### Disable Cookies
 
-#### 3\. Usage of your personal information
+There are a number of ways to manage and disable cookies. The “help” portion of the toolbar on most browsers will tell you how to stop accepting cookies, how to be notified when you receive a new browser cookie and how to disable existing browser cookies. However, if you block cookies, you may not be able to register, login or make full use of the Service. You can also use your mobile device’s settings to manage the available privacy options.
 
-According to § 24 law on data protection (DSG 2000) we inform you that we will use your personal information with your consent according to § 8 para 3 No 4 DSG 2000 for the following purposes:
+#### Web Beacons and Tracking URLs
 
-a.) to fulfill and administer our contracts b.) to provide and improve our service and support, c.) to get in contact with you d.) to personalize our service e.) to invite you to polls and other marketing activities f.) for data analysis; g.) for internal control; h.) to develop new products; i.) to establish usage trends; j.) determining the effectiveness of our promotional campaigns k.) to prevent and detect security threats, fraud or other malicious activity l.) to protect online access; m.) to create calculations and statistics on access behaviour (e.g number of accesses to a source, accesses of a costumer in total and per source, changes in access frequency); n.) to assist you in completing and to fulfill a transaction or order.
+A web beacon is a graphic image that is placed on a website or in an email that is used to monitor the behavior of the user visiting the website or sending the email. Tracking URLs work similar to Web Beacons. Tracking URLs are custom generated links to help us understand traffic sources and track email opening rates.
 
-We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
+### Google Analytics
 
-#### 4\. Sharing or disclosing your personal information
+App Radar uses Google Analytics on its website and webapp, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
 
-4.1. The above-mentioned data will – in general – not be shared or disclosed to third parties not already mentioned.
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser or following the steps provided below. However please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-4.2. We may share your personal information for the following reasons:
+This website uses retargeting technology. This enables us to contact internet users with specific advertisement, who have shown interest in our service and products before. The display is based on an analysis of the user’s behaviour via cookies.
 
-a.) to comply with authorities, laws or executions; b.) prevent security threats, fraud or other malicious activity to protect or enforce the rights and property of appers c.) protect the rights or personal safety of our employees and third parties
+No personal data is stored and the usage takes place with regard to the laws for data protection. We cooperate with Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA).
 
-4.3. The Service also may provide access to social media features, message boards, chat, forums, blogs, profile pages and other services to which you are able to post personal information and materials. Any information you post or disclose through these services is public. Please be careful when disclosing personal information in these public areas.
+You can opt out of Google Analytics by visiting <https://www.google.com/settings/ads> or by downloading the Google Analytics opt-out browser add-on at <https://tools.google.com/dlpage/gaoptout>.
 
-#### 5\. Privacy Policy in view of children
+Please note that App Radar initializes Google Analytics with the setting “anonymizeIp”. This guarantees anonymized data collection by masking the last part of your IP address.
 
-We do not knowingly collect information from children under the age of 14 and do not target our websites to children under 14. Users under the age of 14 are asked to obtain the permission of a parent or legal guardian before sharing personal information.
+We have an ongoing Data-Processing-Agreement (DPA) with Google. The DPA is a contract that legally binds Google to keep our users data save, process our data in regards to our data protection regulations and don’t disclose our data to third parties.
 
-#### 6\. Access to and accuracy of your personal information
+### Mailchimp
 
-You may request access to the personal information we hold about you. You may also request to review and correct any of that personal information. We inform you that possible the usage of our services is impossible for you partially or wholly. You can ask for a check and correction of your personal information. To this end, get in contact with us.
+We use Mailchimp to send out our newsletter. Mailchimp is a service provided by The Rocket Science Group, LLC, 512 Means Street, Ste 404 Atlanta, GA 30318. If you sign-up for our newsletter your newsletter sign-up data will be transferred to Mailchimp. Mailchimp will also save that data.
 
-#### 7\. Data Security
+After you sign-up for the App Radar newsletter you will receive an email from Mailchimp to confirm your registration. This behaviour is called a “double opt-in” to make sure you have given us your contact information on purpose.
 
-We use a variety of data security measures intended to ensure the confidentiality, and integrity of your personal information. Please be advised that unencrypted emails may be accessible for others.
+We have an ongoing Data-Processing-Agreement (DPA) with Mailchimp. The DPA is a contract that legally binds Mailchimp to keep our users data save, process our data in regards to our data protection regulations and don’t disclose our data to third parties.
 
-#### 8\. Changes to our privacy policy
+Mailchimps privacy policy can be found here: <https://mailchimp.com/legal/privacy/>
+
+### Hotjar
+
+To improve our service we sometimes use Hotjar to measure and record user behaviour on our website and webapp. Hotjar is provided by Hotjar, 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe. Hotjar allows us to measure user behaviour like mouse-movement and mouse-clicks and so on.
+
+To achieve this Hotjar uses cookies on the users device. This cookie collects browser information, operating system, duration and more. For a detailed information how Hotjar process data please visit: www.hotjar.com/privacy
+
+You can opt-out from Hotjar by using this link:  
+<https://www.hotjar.com/legal/compliance/opt-out>  
+This will stop Hotjar from recording your user behaviour.
+
+### Facebook Visitor Action Pixel
+
+We use the Facebook Visitor Action Pixel to track user behaviour after they have been redirected to our website by clicking on a Facebook Ad. This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes.The data collected in this way is anonymous to us, i.e. we do not see the personal data of individual users. However, this data is stored and processed by Facebook, which is why we are informing you, based on our knowledge of the situation. Facebook may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with Facebook’s Data Usage Policy <https://www.facebook.com/about/privacy/>. You can allow Facebook and its partners to place ads on and off Facebook. A cookie may also be stored on your computer for these purposes.
+
+Facebook Visitor Action Pixel is provided by Facebook Inc (1 Hacker Way, Menlo Park, CA 94025, USA, or, if you are based in the EU, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland). Facebook is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation [https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active)](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active\)).
+
+You can tell stop the collection of your data by Facebook pixel by visiting the following address: <https://www.facebook.com/settings?tab=ads>.
+
+### Payment Provider
+
+App Radar uses PayPal and Braintree (Paypal Group) as payment providers. For the use of these payment providers their Terms of Service and Privacy Policy apply. The ToS and Privacy Policy for PayPal and Braintree are different depending on the country you are in. Make sure to select the right country:
+
+<https://www.paypal.com/us/webapps/mpp/ua/useragreement-full> <https://www.paypal.com/us/webapps/mpp/ua/privacy-full> <https://www.braintreepayments.com/en-at/legal/payment-services-agreement-eu> <https://www.braintreepayments.com/legal/braintree-privacy-policy>
+
+### Your Rights to Your Data
+
+Adhering to the GDPR we rely on your consent to process your data. We fully acknowledge and enforce the following rights to your data:
+
+  * You may withdraw that consent to store your data at any time without providing a reason.
+  * You may request access to your personal information and receive copies of it.
+  * You may have inaccurate or incomplete data corrected or updated.
+  * You can limit or restrict our use of your data and you can stop us using all of your personal information.
+  * You have a right to be forgotten, in other words you can request that we delete your personal information. We will honour these requests unless we have to retain information to comply with any legal obligations or have an overriding interest to retain it.
+  * You have the right to submit a complaint about the rights to your data to your local data protection authorities.
+
+
+
+If you want to exercise any of these rights you can reach our data protection officer via email at: [privacy@appradar.com](mailto:privacy@appradar.com). For your protection, we may ask you to provide proof of identity before we can answer the above requests.
+
+### Data Transfer to the United States (Privacy Shield)
+
+Before we initiate data transfer to third party service providers in the United States our data protection officer reviews if these third party service provider are certified under the Privacy Shield Program. The Privacy Shield Program provides assistance to companies from the United States to comply with European data protection requirements.
+
+### Changes to Our Privacy Policy
 
 If we modify this privacy policy, we will post the revised version here, with an updated revision date.
 
-#### 9\. Cross-border transfer of personal information
+The language applicable to this Privacy Policy is English and is offered for the convenience of the User and to facilitate its understanding. However, this Privacy Policy will always be governed by its version in English. In case of contradiction between our Privacy Policy in another language and its English version, the English version will prevail.
 
-9.1. Your personal information may be transferred to other countries for processing.
+#### Contact
 
-9.2. By using our services you agree to the transferral of your data to countries other than your seat of residence, which may have different data protection laws.
-
-#### 10\. Contact
-
-If you have comments or questions about this privacy policy or our processing of your information, please contact:
-
-**appers gmbh**  
+ **App Radar Software GmbH**  
 Kärntner Straße 391/7  
 8054 Graz  
 AUSTRIA  
-Email: [hello@appradar.com](mailto:hello@appradar.com)  
+Email: [privacy@appradar.com](mailto:privacy@appradar.com)  
 
