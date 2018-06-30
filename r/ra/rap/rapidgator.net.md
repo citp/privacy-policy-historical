@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidgator.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231210155id_/https%3A//rapidgator.net/article/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidgator.net privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630164750id_/https%3A//rapidgator.net/article/privacyPolicy) for the most accurate reproduction.*
 
-# Rapidgator.net: Fast, safe and secure file hosting
+# Rapidgator.net: 高速、安全、セキュアなファイルホスティング
 
 **Privacy Policy** This privacy policy ("Policy") explains how personally identifiable information is collected, used and disclosed by Rapidgator.net , Ltd. ("we" or "us") with respect to your access and use of Rapidgator.net 's online file storage and sharing service located at www.Rapidgator.net , (the "Service"), so you can make an informed decision about using the Service. 
 
