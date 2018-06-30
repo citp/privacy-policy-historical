@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breitbart.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621103922id_/http%3A//www.breitbart.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breitbart.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630230554id_/http%3A//www.breitbart.com/privacy-policy) for the most accurate reproduction.*
 
 # Breitbart.com Privacy Policy - Breitbart
 
