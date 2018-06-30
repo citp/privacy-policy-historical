@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphop-n-more.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201035550id_/http%3A//hiphop-n-more.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphop-n-more.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630030446id_/http%3A//hiphop-n-more.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HipHop-N-More
 
