@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorlines.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219214801id_/http%3A//www.colorlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlines.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630080414id_/https%3A//www.colorlines.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Colorlines
 
@@ -16,7 +16,9 @@ Cookies: We use “cookies” to help deliver advertisements and to identify uni
 
 #### Information Use and Sharing
 
-In order to better serve our readers, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website. If you choose to subscribe to Colorlines Direct, our free weekly electronic newsletter, we collect your email address, and, if you choose to provide it, additional information such as your zip code. Race Forward will never sell or share your information. We reserve the right to send out emails for events and new releases on behalf of partner organizations but we never share your information.
+In order to better serve our readers, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics (including Google Analytics Demographic and Interest Reporting). This helps us understand traffic patterns and know if there are problems with our website. For more information about how Google collects and uses this information, please see [Google’s privacy policy](https://policies.google.com/privacy). You can opt out of Google’s Analytics Demographic and Interest Reporting by changing the [ad settings](https://www.google.com/settings/ads) associated with your Google account.
+
+If you choose to subscribe to Colorlines Direct, our free weekly electronic newsletter, we collect your email address, and, if you choose to provide it, additional information such as your zip code. Race Forward will never sell or share your information. We reserve the right to send out emails for events and new releases on behalf of partner organizations but we never share your information.
 
 #### Links
 
