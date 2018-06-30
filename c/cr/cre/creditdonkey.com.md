@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118141120id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630204507id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
 
@@ -20,7 +20,7 @@ With respect to cookies: We use cookies to record session information, such as i
 
 This website may use the service of third party advertising serving companies, including ad networks such as [Google AdSense](https://www.google.com/policies/privacy/) and [Yahoo! Bing Network Contextual Ads](http://www.media.net/privacy-policy), to display ads on this website. These services may use information collected about you, including your activities on or off this website, to display advertisements that are tailored to you.
 
-This website may use the services of third party analytics providers, such as [Google Analytics](https://www.google.com/policies/privacy/partners/) and [Inspectlet](https://www.inspectlet.com/legal#privacy), to help us analyze and track how visitors use this website. These services may use cookies and other tracking technologies to collect personal information of visitors to this website, including IP addresses.
+This website may use the services of third party analytics providers, such as [Google Analytics](https://www.google.com/policies/privacy/partners/), to help us analyze and track how visitors use this website. These services may use cookies and other tracking technologies to collect personal information of visitors to this website, including IP addresses.
 
 This website may use the service of third party advertisers, including ad networks such as Google, to show ads on sites across the Internet. This website may use remarketing or similar audiences to advertise to people who previously visited this website. Third party vendors, including Google, use cookies to serve ads based on a visitor's prior visit to this site. Users may opt out of a third party vendor's use of cookies by visiting the [Networking Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
