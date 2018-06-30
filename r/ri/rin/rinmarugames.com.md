@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinmarugames.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229063242id_/http%3A//www.rinmarugames.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinmarugames.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630085031id_/http%3A//www.rinmarugames.com/pp.php) for the most accurate reproduction.*
 
 # Rinmaru Games - Privacy Policy
 
@@ -55,13 +55,13 @@ RinmaruGames has the discretion to update this privacy policy at any time. When 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20171229063242id_/http%3A//www.rinmarugames.com/www.rinmarugames.com/tos.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20180630085031id_/http%3A//www.rinmarugames.com/www.rinmarugames.com/tos.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [RinmaruGames](http://www.rinmarugames.com/)  
 [http://www.rinmarugames.com](http://www.rinmarugames.com/)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@rinmarugames.com
 
 This document was last updated on January 29, 2013
