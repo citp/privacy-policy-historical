@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnwboces.org privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229171553id_/http%3A//www.pnwboces.org/site/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnwboces.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630225325id_/http%3A//pnwboces.org/site/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # PNW BOCES
 
