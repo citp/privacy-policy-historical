@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the litmus.com privacy policy that was archived on 2017-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222012330id_/https%3A//litmus.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the litmus.com privacy policy that was archived on 2018-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630165553id_/https%3A//litmus.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -13,13 +13,13 @@
   <title>Privacy Policy</title>
 
   <link rel="canonical" href="https://litmus.com/privacy">
-  <link href="https://img.litmuscdn.com/favicon.png?1513883118" rel="icon" type="image/png">
-  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1513883118" rel="stylesheet">
+  <link href="https://img.litmuscdn.com/favicon.png?1530299303" rel="icon" type="image/png">
+  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1530299303" rel="stylesheet">
 
   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K58SQL"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/e3b1q380gi/analytics.min.js"></script><script type="text/javascript" src="//use.typekit.net/zqt8qdp.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1513883118"></script><![endif]-->
+  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1530299303"></script><![endif]-->
 
   <!--[if lt IE 9]>
     <div id="old-browser-message" class="old-hidden">
@@ -45,9 +45,7 @@
 
 
 
-// Since we share a configuration with the Litmus application, and the app needs
-// to conditionally show the chat widget, we have to hide the widget by default
-// and selectively enable it. Since we always want to see it on the marketing
+// Since we always want to see the chat widget on the marketing
 // site, we add this integration data to the segment.io call.
 
 var context = {};
@@ -57,57 +55,10 @@ if (window.campaignData) {
 
 analytics.page(null, {}, {
   integrations: {
-    Intercom: { hideDefaultLauncher: hideIntercom() }
+    Intercom: { hideDefaultLauncher: false }
   },
   context: context
 });
-
-function hideIntercom() {
-  var today = new Date().setHours(0, 0, 0, 0); // midnight, returns getTime()
-  var offlineDates = [
-    new Date("December 20, 2016").getTime(),
-    new Date("December 21, 2016").getTime(),
-    new Date("December 22, 2016").getTime(),
-    new Date("December 23, 2016").getTime(),
-    new Date("December 24, 2016").getTime(),
-    new Date("December 25, 2016").getTime(),
-    new Date("December 26, 2016").getTime(),
-    new Date("December 27, 2016").getTime(),
-    new Date("December 28, 2016").getTime(),
-    new Date("December 29, 2016").getTime(),
-    new Date("December 30, 2016").getTime(),
-    new Date("December 31, 2016").getTime(),
-    new Date("January 01, 2017").getTime(),
-    new Date("January 02, 2017").getTime(),
-
-    new Date("March 03, 2017").getTime(),
-    new Date("March 04, 2017").getTime(),
-    new Date("March 05, 2017").getTime(),
-    new Date("March 06, 2017").getTime(),
-    new Date("March 07, 2017").getTime(),
-    new Date("March 08, 2017").getTime(),
-    new Date("March 09, 2017").getTime(),
-    new Date("March 10, 2017").getTime(),
-    new Date("March 11, 2017").getTime(),
-    new Date("March 12, 2017").getTime(),
-
-    new Date("March 21, 2017").getTime(),
-    new Date("March 22, 2017").getTime(),
-    new Date("March 23, 2017").getTime(),
-    new Date("March 24, 2017").getTime(),
-    new Date("March 25, 2017").getTime(),
-    new Date("March 26, 2017").getTime(),
-    new Date("March 27, 2017").getTime(),
-
-    new Date("April 13, 2017").getTime(),
-    new Date("April 14, 2017").getTime(),
-    new Date("April 15, 2017").getTime(),
-    new Date("April 16, 2017").getTime(),
-    new Date("April 17, 2017").getTime(),
-    new Date("April 18, 2017").getTime()
-  ];
-  return offlineDates.indexOf(today) >= 0;
-};
 
 }}();
 </script>
@@ -133,7 +84,20 @@ function hideIntercom() {
 
 
 
-    <script src="//cdn.optimizely.com/js/27307290.js"></script>
+    <script src="//s3.amazonaws.com/vwo-integrations/demand-base.min.js"></script>
+  
+
+  <!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=348067,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=348067&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180630165553id_%2Fhttps%253A%2F%2Flitmus.com%2Fprivacy&amp;r=0.5478287593824724" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
 
 </head>
 <body class="legal">
@@ -148,7 +112,7 @@ function hideIntercom() {
   <header class="cd-header menu-is-open">
   <div class="container">
     <a class="navbar-brand" href="/">
-      <img src="https://assets.litmuscdn.com/images/next/logos/litmus-logo.svg?1513883118" alt="Litmus logo" data-no-retina="true">
+      <img src="https://assets.litmuscdn.com/images/next/logos/litmus-logo.svg?1530299303" alt="Litmus logo" data-no-retina="true">
     </a>
     <nav>
       <ul class="nav navbar-nav">
@@ -164,7 +128,9 @@ function hideIntercom() {
             <a href="/email-checklist">Checklist</a>
             <a href="/spam-filter-tests">Spam Testing</a>
             <a href="/email-analytics">Email Analytics</a>
+            <a href="/email-proof">Proof</a>
             <a href="/extension">Litmus Extension</a>
+            <a href="/email-advanced-security">Advanced Security</a>
           </div>
         </li>
         <li class="nav-item">
@@ -240,78 +206,332 @@ function hideIntercom() {
 <section class="module legal">
   <div class="container">
 
-    <p>This Privacy Policy was last updated on March 15, 2017.</p>
+    <p><strong>Effective Date: May 25, 2018</strong></p>
 
-    <p>We at Litmus Software, Inc. (“Litmus,” “We,” “Us,” “Our”) know that Our users (“You,” “Your”) care about how Your personally identifiable information (“Personal Information”) is used and shared, and We take your privacy seriously.</p>
+    <p>Your privacy is very important to us.  This Privacy Policy explains our information privacy practices and the choices you can make about the way your information is collected and used.  When you access and use our website and the Litmus services, features and information available on our website (collectively, the “Services”), you are consenting to the collection, use, storage and disclosure of your information as described in this Privacy Policy.</p>
 
-    <p>Please read the following to learn more about Our Privacy Policy. By visiting or using the Website or other Services in any manner, You acknowledge that You accept the practices and policies outlined in this Privacy Policy, and You hereby consent that We will collect, use, and share Your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in Our Terms of Service.</p>
+    <p><strong>1. Key Privacy Points:</strong></p>
 
-    <p><strong>I. What Does This Privacy Policy Cover?</strong><br>
-    This Privacy Policy covers Our treatment of Personal Information that We gather when You are accessing or using Our Website or other Services. &nbsp;This policy does not apply to the practices of companies that We do not own or control, or to individuals that We do not employ or manage.</p>
+    <section class="indented">
+    <p>
+      <strong>Email Submissions.</strong> Email submissions (“Email Submissions”) uploaded by a customer to our Services belong to that customer.  We don’t use a customer’s Email Submissions, including any resulting email previews generated via the Services (“Email Previews”), for purposes unrelated to that customer or the use of our Services, except in limited circumstances (e.g., we are compelled by subpoena, or the customer has given us permission to do so).  Email Submissions
+      <strong><i>should never contain personal data</i></strong>.
+    </p>
 
-    <p>We do not knowingly collect or solicit Personal Information directly from anyone under the age of 13 or knowingly allow such persons to register for the Services. If You are under 13, please do not attempt to register for the Services or send any information about Yourself to Us, including Your name, address, telephone number, or email address. No one under age 13 may provide any Personal Information on their own behalf to Us or on the Services. In the event that We learn that We have collected Personal Information from a child under age 13 (and not from a Parent on that child’s behalf), We will delete that information as quickly as possible. If You believe that We might have any information from or about a child under 13 that was not supplied by that child’s Parent, please contact Us at <a href="mailto:hello@litmus.com">hello@litmus.com</a>.</p>
+    <p>
+      <strong>Email Analytics.</strong> All data collected by Litmus on behalf of a customer that elects to use our email analytics Services (“Email Analytics”) belongs to that customer.  We don’t use Email Analytics data for purposes unrelated to that customer or the use of our Services, except in aggregated, de-identified form as permitted under our Terms of Service (or such other service agreement between Litmus and the customer) or other limited circumstances (e.g., we are compelled by subpoena, or the customer has given us permission to do so).
+    </p>
 
-    <p><strong>II. What Information&nbsp;Does Litmus&nbsp;Collect?</strong><br>
-    We gather various types of information from Our users, as explained more fully below. &nbsp;We may use this information to personalize and improve Our services, to allow Our users to set up a user account and profile, to contact users, to fulfill Your requests for certain products and services, to analyze how users utilize the Website or other Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (described in this Section and in Section III below). &nbsp;We collect the following types of information:</p>
+    <p>
+      While we strongly prefer that our customers do <strong><i>not</i></strong> provide us with or collect any personal data in connection with their use of Email Analytics Services, if a customer does elect to provide or collect that information we don’t use it for any other purpose.  Litmus is merely a custodian of that data.
+    </p>
 
-    <p><strong>A. Information You Provide to Us:</strong><br>
-    We receive and store any information You provide to Us. &nbsp;For example, We may collect Personal Information such as Your name, address, telephone number, email address, payment card information, browser information, and user name. &nbsp;You can choose not to provide Us with certain information, but then You may not be able to register with Us or take advantage of some features of Our Website or other Services.</p>
+    <p>
+      If you use Email Analytics Services, you agree to comply with applicable privacy laws, including requirements to inform the recipients of your emails about the specific uses and disclosures of their data described herein, and to directly address any concerns they may have about your privacy policies and/or use of their information for this purpose.
+    </p>
 
-    <p><strong>B. Information Collected Automatically:</strong><br>
-    Whenever You interact with Our Website, We automatically receive and record information on Our server logs from Your browser including Your IP address, “cookie” information, and the page You requested. “Cookies” are identifiers We transfer to Your computer or mobile device that allow Us to recognize Your browser or mobile device and tell Us how and when pages in Our Website are visited and by how many people. &nbsp;You may be able to change the preferences on Your browser or mobile device to prevent or limit Your computer or device’s acceptance of cookies, but this may prevent You from taking advantage of some of Our Website’s features. &nbsp;If You click on a link to a third party website, such third party may also transmit cookies to You. &nbsp;This Privacy Policy does not cover the use of cookies by any third parties.</p>
+    <p>
+      <strong>User Data.</strong> Personal data provided by customers to set up user accounts is used by Litmus only as authorized by the individual user (“User”) or as otherwise permitted by law.
+    </p>
 
-    <p>When We collect usage information (such as the numbers and frequency of visitors to the Website), We only use this data in aggregate form, and not in a manner that would identify You personally. &nbsp;For example, this aggregate data tells Us how often users use parts of the Website, so that We can make the Website appealing to as many users as possible. &nbsp;We may also provide this aggregate information to Our partners; Our partners may use such information to understand how often and in what ways people use Our Website, so that they, too, can provide You with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify You personally.</p>
+    <p>
+      <strong>Sharing.</strong> We only share your information in limited circumstances in accordance with applicable law.
+    </p>
 
-    <p><strong>C. E-mail and Other Communications:</strong><br>
-    We may contact You, by email or other means; for example, We may send You promotional offers on behalf of other businesses, or communicate with You about Your use of the Website or other Services. &nbsp;Also, We may receive a confirmation and/or other information when You open an email from Us. This confirmation and/or other information helps Us make emails more interesting and improve Our service. If You do not want to receive email or other mail from Us, please indicate Your preference through Your account settings at&nbsp;www.litmus.com/identity/edit&nbsp;. Please note that if You do not want to receive legal notices from Us by email, those legal notices will still govern Your use of the Website or other Services, and You are responsible for reviewing such legal notices for changes.</p>
-
-    <p><strong>D. Email Analytics:</strong><br>
-    We offer an email tracking service (“Email Analytics”) that, if available through Your subscription, may allow Us to collect data on Your behalf about the emails that You send. We provide You with a tracking code that You may enter into the body of Your email that will enable Us to collect certain data (as specified by You through Your Services account) on Your behalf about the email recipient. &nbsp;Such data may include, if specified by You, the recipients’ email and IP address, the browser and email client they use, the city that they are located in, and details about how the recipients engage in the email (e.g., whether or not the email was read, forwarded, or printed). You acknowledge and agree that it is in Your discretion as to what data is collected in connection with the Email Analytics, and therefore, You are solely responsible for the collection and use of any such data, including, without limitation, ensuring that such collection and use is in accordance with Your privacy policies and all applicable laws and regulations, including without limitation any applicable EU data protection laws or regulations.</p>
-
-    <p><strong>III. Will Litmus Share Any of the Information it Receives?</strong><br>
-    We share Your Personal Information in personally identifiable form with third parties as described below.</p>
-
-    <p><strong>A. Affiliated Businesses and Third Party Websites We Do Not Control:</strong>&nbsp;In certain situations, businesses or third party websites We are affiliated with may sell items or provide services to You through the Website or other Services (either alone or jointly with Us). &nbsp;You can recognize when an affiliated business is associated with such a transaction or service, and We will share Your Personal Information with that affiliated business only to the extent that it is related to such transaction or service.&nbsp;&nbsp;We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if You choose to take part in any transaction or service relating to an affiliated website or business, please review all such policies of these affiliated websites or businesses.</p>
-
-    <p><strong>B. Agents:</strong>&nbsp;We employ other companies and people to perform tasks on Our behalf and need to share Your information with them to provide products or services to You, for example, processing credit card payments. &nbsp;Unless We tell You differently, Our agents do not have any right to use the Personal Information We share with them beyond what is necessary to assist Us.</p>
-
-    <p><strong>C. User Profiles and Submissions:</strong>&nbsp;Certain user profile information, including without limitation a user’s name and location, and any email, video, image or other content that such user has uploaded to the Website, may be displayed to other users to facilitate user interaction within the Website (for example, to provide examples on the Website blog or to encourage interaction through a Website forum) or address Your request for Litmus’ services. &nbsp;Your account privacy settings allow You to limit the other users who can see the Personal Information in Your user profile and/or what information in Your user profile is visible to others. &nbsp;Any content You upload to Your public user profile, along with any Personal Information or content that You voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by others. &nbsp;Your user name may also be displayed to other users if and when You send messages or comments or upload images or videos through the Website and other users can contact You through messages and comments.</p>
-
-    <p><strong>D. Business Transfers:</strong>&nbsp;We may choose to buy or sell assets. &nbsp;In these types of transactions, customer information is typically one of the business assets that would be transferred. &nbsp;Also, if We (or substantially all of Our assets) are acquired, or if We go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party.</p>
-
-    <p><strong>E. Protection of Litmus and Others:</strong>&nbsp;We reserve the right to access, read, preserve, and disclose any information that We reasonably believe is necessary to comply with law or court order; enforce or apply Our Terms of Service and other agreements; or protect the rights, property, or safety of Litmus, Our employees, Our users, or others. &nbsp;This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+    <p>
+      <strong>Security and Storage.</strong> We hold customer data securely on servers located in the United States.  We leverage Amazon’s AWS infrastructure and built-in security controls, which incorporate several modern security standards and best practices.  Please see our <a target+"_blank"="" href="https://litmus.com/trust">Trust Center</a> for more information on our security practices.
+    </p>
+  </section>
 
 
-    <p><strong>F. &nbsp;When We collect usage information:</strong> (such as the numbers and frequency of visitors to the Website through cookies or otherwise) and/or data in connection with Our Email Analytics Services, We may use this information and/or data in aggregate form (as combined with information and/or data that We receive from Our other users), and not in a manner that would identify You or Your email recipients personally, for marketing or other business-related purposes. &nbsp;For example, the usage information tells Us how often users use parts of the Website, and therefore can be used to make the Website appealing to as many users as possible. &nbsp;We may also provide this information and/or data in aggregate form (as combined with information and/or data that We receive from Our other users), and not in a manner that would identify You or Your email recipients personally, for marketing or other business-related purposes.</p>
+    <p><strong>2. What Does This Privacy Policy Cover?</strong></p>
 
-    <p><strong>G. &nbsp;With Your Consent:</strong>&nbsp;Except as set forth above, You will be notified when Your Personal Information may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information.</p>
+    <p>
+      This Privacy Policy applies to information gathered by Litmus Software, Inc., including our wholly-owned subsidiary, Litmus Software Ltd. (collectively, “Litmus,” “we,” “us” or “our”), through your use of our Services.
+    </p>
 
-    <p><strong>IV. Is Personal Information About Me Secure?</strong><br>
-    Your account is protected by a password for Your privacy and security. &nbsp;You must prevent unauthorized access to Your account and Personal Information by selecting and protecting Your password and/or other sign-on mechanism appropriately and limiting access to Your computer or device and browser by signing off after You have finished accessing Your account.</p>
+    <p>
+      This policy does not apply to the practices of other businesses that we do not own or control, including third-party websites, services and applications (“Third-Party Services”) that you may access through our Services, or to individuals that we do not employ or manage.  While we attempt to partner with only Third-Party Services that share our respect for your privacy, we are not responsible for the content or privacy policies of those third parties.  You are responsible to review the privacy policies of any Third-Party Services you access.
+    </p>
 
-    <p>We endeavor to protect the privacy of Your account and other Personal Information We hold in Our records, but We cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Please remember that You control the information that You input, upload or otherwise provide to Our Services and the data that is collected in connection with Your subscription to Our Email Analytics Services.</p>
+    <p><strong>3. What Information&nbsp;Does Litmus&nbsp;Collect?</strong></p>
 
-    <p>The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site You should read that site’s privacy policy.</p>
+    <p>
+      We gather various types of information from our Users, as explained more fully below. &nbsp;We may use that information to facilitate the setup of User accounts and profiles, contact Users, fulfill requests for Services, personalize and improve our Services, analyze how Users engage with our Services, and as otherwise set forth in this Privacy Policy.  We may share certain types of personal data with third parties as described in this Privacy Policy.  We may also use cookies and similar tools, including third-party analytics providers and technologies, in collecting this information.
+    </p>
 
-    <p><strong>V. What Information Can I Access?</strong><br>
-    Through Your account settings, You may access, and, in some cases, edit or delete the following information You have provided to
-    </p><ul>Us: &nbsp;
-      <li>username and password</li>
-      <li>name</li>
-      <li>email address</li>
-      <li>user profile information</li>
-      <li>other content You have uploaded to the site</li>
+  <section class="indented">
+    <p>
+      <strong>Information You Provide to Us</strong>
+    </p>
+  </section>
+
+    <ul>
+      <li>
+        <strong>Account Registration Information.</strong> You need a Litmus User account before you can use our Services.  When you set up a User account, we collect personal data, such as your name, address, telephone number, email address, browser information, and username.   You can choose not to provide us with certain information, but then you may not be able to register with us or take advantage of some features of our Services.
+      </li>
+      <li>
+        <strong>Billing Information.</strong> If you sign up for our Services and/or to attend a paid event, we require you to provide billing details, such as a name, address, email address and financial information corresponding to your applicable method of payment (e.g., payment card information).  If you provide a billing address, we will regard that as the location of the customer.
+      </li>
+      <li>
+        <strong>Account Settings.</strong> You can set various preferences and personal details on your account preferences page, such as your username and communication preferences (e.g.  opting in or out of receiving marketing emails from Litmus).
+      </li>
+      <li>
+        <strong>Event Registration Information.</strong> If you elect to attend an event hosted by Litmus (e.g., Litmus Live or a webinar), we may collect personal data, such as your name, address, telephone number, email address and other information.  You can choose not to provide us with certain information, but then you may not be able to register with us or take advantage of some features (e.g., receipt of emails regarding event details, electronic copies of event materials, etc.).
+      </li>
+      <li>
+        <strong>Survey Data.</strong> If you elect to participate in a Litmus survey, we may collect, store and process your survey responses.
+      </li>
+      <li>
+        <strong>Other Data.</strong> We may collect your personal information or data if you submit it to us in other contexts (e.g., sales inquiries, customer support requests, etc.).
+      </li>
     </ul>
 
-    <p>The information You can view, update, and delete may change as the Website changes. &nbsp;If You have any questions about viewing or updating information We have on file about You, please contact Us at&nbsp;<a href="mailto:hello@litmus.com">hello@litmus.com</a>&nbsp;. We will respond to all such requests within 30 days after receipt thereof. If You request that any of Your Personal Information be deleted from Our records, there may be a brief delay in Our processing that request, while We verify that the request is valid and originates from You as opposed to an unauthorized third party. If You request that any of Your Personal Information be deleted, We reserve the right to terminate and/or limit Your access to the Websites or other Services. &nbsp;While You may request that We delete certain Personal Information, We may continue to utilize and disclose such information in aggregate, non-personally identifiable form as provided above.</p>
+  <section class="indented">
+    <p>
+      <strong>Information Collected Indirectly or Passively when You Interact with Us.</strong>
+    </p>
+  </section>
 
-    <p>Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask Us for a notice identifying the categories of Personal Information which We share with Our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. &nbsp;If You are a California resident and would like a copy of this notice, please submit a written request to <a href="mailto:hello@litmus.com">hello@litmus.com</a>.</p>
+    <ul>
+      <li>
+        <strong>Usage Data.</strong> We collect usage data about you whenever you interact with our Services. This may include which webpages you visit, what you click on, when you performed those actions and other related information. Additionally, like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses, internet service providers, the files viewed on our website (e.g., HTML pages, graphics, etc.), operating system versions and timestamps.
+      </li>
+      <li>
+        <strong>Device Data.</strong> We collect data from the devices and applications you use to access our Services, such as IP address, operating system version, device type, system and performance information and browser type.  We may also infer your geographic location based on your IP address.
+      </li>
+      <li>
+        <strong>Information from Cookies.</strong> We employ cookies and similar tools, including through the use of third party analytics and tracking services, to collect data about individuals who access and use our website.  This data includes usage and user statistics.  For example, this data tells us how often individuals use parts of our websites, so that we can make our websites appealing and easy to use, and our content as relevant as possible.
+      </li>
+      <li>
+        <strong>Information from Third Parties. </strong> We may collect your personal data from third parties if you give permissions to those third parties to share your information with us or where you have made that information publicly available
+      </li>
+    </ul>
 
-    <p><strong>VI. What Choices Do I Have?</strong><br>
-    As explained above, You can always opt not to disclose information to Us, but keep in mind some information may be needed to register with Us or to take advantage of some of the features of Our Website or other Services.</p>
+  <section class="indented">
+    <p>
+      <strong>Data Collected Through Use of Email Analytics Services</strong>
+    </p>
 
-    <p>You may be able to add, update, or delete information as explained in Section V above. &nbsp;When You update information, however, We may maintain a copy of the unrevised information in Our records. &nbsp;You may request deletion of Your account by writing to&nbsp;<a href="mailto:hello@litmus.com">hello@litmus.com</a>&nbsp;. &nbsp;Please note that some information may remain in Our records after Your deletion of such information from Your account. We may use any aggregated data derived from or incorporating Your Personal Information after You update or delete it, but not in a manner that would identify You personally. &nbsp;In the event that Your account is deleted by You or Litmus or Your subscription to the Services terminates or expires, following such deletion, termination, or expiration, You will no longer be able to access any of Your account information, the information that You upload or receive through Your use of the Services or other Personal Information that We hold in Our records.</p>
+    <p>
+      We offer Email Analytics Services that, if available through a customer’s subscription, may allow us to collect data on the customer’s behalf about the emails that the customer sends. We provide a pixel that the customer may include in the body of the emails the customer sends that enables us to collect certain data on the customer’s behalf about its email recipients. &nbsp;Email Analytics Services are intended to allow the email sender to measure the performance of the email message and to learn how to improve email delivery and open rates.  Such data may include, as determined by our customer via its configuration of the Services, the email recipients’ IP addresses, email addresses, the browser and email clients used, geolocation information inferred from IP addresses and details about how their recipients engage with the email (e.g., whether or not the email was read,
+      forwarded or printed). <a target="_blank" href="https://litmus.com/help/analytics/csv-export-data-fields">Click here</a> for more information about the data elements processed in connection with Email Analytics Services.
+    </p>
 
+    <p>
+      It is in our customers’ discretion as to what data is collected in connection with Email Analytics Services and, therefore, each customer is solely responsible for the collection and use of any such data, including, without limitation, ensuring that such collection and use is in accordance with the customer’s privacy policies and all applicable laws.
+    </p>
+
+  </section>
+
+    <p>
+      <strong>4. How Does Litmus Use the Information We Collect?</strong>
+    </p>
+
+    <p>
+      We use the information we collect from you, on your behalf or related to you in connection with providing our Services to you, including as follows:
+    </p>
+
+    <ul>
+      <li>
+        <u>Account Setup and Access to Services.</u> You must have an account to use our Services.  Litmus uses the information we collect for the creation of User accounts so that you can access our Services.
+      </li>
+      <li>
+        <u>Customer Support.</u>  We must access and use your information to provide customer support services, including trouble-shooting, managing account usage, responding to billing inquiries, etc.
+      </li>
+      <li>
+        <u>Service Delivery.</u>  We perform internal evaluations and statistical analysis on the information we collect to, among other things, monitor the performance of our Services, analyze and measure visitor and User behavior and trends, to understand how our Services are used, to help us improve our Services, for market research and to develop new features and functionalities.
+      </li>
+      <li>
+        <u>Enforcement of our Terms of Service.</u>  We monitor Services to ensure that use is in accordance with our Terms of Service (or other service agreement between you and Litmus), including to prevent fraud, as well as illegal, abusive or undesirable activities.
+      </li>
+      <li>
+        <u>Transactional Communications.</u>  We may send you transactional communications (e.g., service-related announcements, billing-related matters, updates to our Terms of Service or other policies, changes to our Services, welcome emails when you register for Services, etc.).  You can’t opt out of receiving these communications since they are required to provide our Services to you.
+      </li>
+      <li>
+        <u>Marketing Purposes.</u>  We will only send marketing-related communications if you have consented to receive such communications.  We may combine information about you from third party sources with information we hold about you to create a user profile, which helps us to make our marketing and sales efforts more relevant to you and to personalize and improve your experience.
+      </li>
+      <li>
+        <u>Security.</u>  We use your information to maintain the security of our systems and Services (e.g., controlling abuse, spam and DDOS attacks), including the security of your User account.
+      </li>
+      <li>
+        <u>Legal Requests.</u>  We may need inspect information we hold to determine how to respond to a subpoena or other legal request.  We may also contact you, to the extent permitted, regarding such matters.
+      </li>
+    </ul>
+
+    <p>
+      <strong>5. Will Litmus Share Any of the Information we Receive?</strong>
+    </p>
+
+    <p>
+      We may share your personal data with third parties as follows:
+    </p>
+
+    <ul>
+      <li>
+        <strong>Service Providers.</strong> We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide Services to you (e.g., payment processors, hosting services, email service providers and web traffic analytics tools). &nbsp;Unless we tell you differently, our service providers do not have any right to use the personal data we share with them beyond what is necessary to assist us.  We also implement reasonable contractual and technical protections to ensure the confidentiality of your personal data is maintained, used only for the provision of their services to us and handled in accordance with this Privacy Policy.
+      </li>
+      <li>
+        <strong>With Your Organization; Billing Contacts.</strong> If the email address under which you have registered your User account belongs to or is controlled by an organization (e.g., your employer), we may disclose that email address and other pertinent account information to that organization in order to help it understand who associated with that organization uses Litmus, and to assist the organization with its enterprise accounts.  In addition, if your User account details are different from the billing contact listed for your account, we may disclose your identity and the account details to the billing contact upon their request.
+      </li>
+      <li>
+        <strong>User Profiles and Submissions.</strong> Certain User profile information, including without limitation a User’s name and location, and any email, video, image or other content that such User has uploaded to the Services, may be displayed to other Users to facilitate User interaction within the Services (e.g., to provide examples on our blog or to encourage interaction through a forum hosted on our website) or to address your request for Services and support. &nbsp;Your account privacy settings allow you to limit the other Users who can see the personal data in your User profile and/or what information in your User profile is visible to others. &nbsp;Any information you upload to your public User profile, along with any personal data or content that you voluntarily disclose online in a manner other individuals can view (e.g., on discussion boards, in forums, messages and chat areas, etc.) becomes publicly available, and can be collected and used by others. &nbsp;Your username may also be displayed to other Users if and when you send messages or comments or upload images or videos through public portions of our websites and other individuals can contact you through messages and comments.
+      </li>
+      <li>
+        <strong>Affiliated Businesses and Third-Party Services We Do Not Control.</strong> In certain situations, businesses or Third-Party Services we are affiliated with may sell items or provide services to you through the our Services (either alone or jointly with us). &nbsp;You can recognize when an affiliated business is associated with such a transaction or service, and we will share your personal data with that affiliated business only to the extent that it is related to such transaction or service.&nbsp;&nbsp;We have no control over the policies and practices of Third-Party Services as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated Third-Party Service, please review all such policies that may apply.
+      </li>
+      <li>
+        <strong>Business Transfers.</strong> We may choose to buy or sell assets. &nbsp;In these types of transactions, customer information is typically one of the business assets that would be transferred. &nbsp;Also, if we (or substantially all of our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, personal data would be one of the assets transferred to or acquired by a third party.
+      </li>
+      <li>
+        <strong>Protection of Litmus and Others.</strong> We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our Terms of Service and other agreements; or to protect the rights, property, or safety of Litmus, our employees, our Users, or others. &nbsp;This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+      </li>
+      <li>
+        <strong>Usage Information.</strong> We may collect usage information,&nbsp;such as the numbers and frequency of visitors to our websites through cookies or otherwise.  We may use this information and/or data in aggregate form (as combined with information and/or data that we receive from our other Users and service providers) for our marketing or other business-related purposes. For example, usage information tells us how often visitors and Users use parts of our websites and, therefore, can be used to help us make our websites appealing as possible and our content relevant. &nbsp;
+      </li>
+      <li>
+        <strong>With Your Consent.</strong> Except as set forth above, you will be notified when your personal data may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information.
+      </li>
+    </ul>
+
+    <p>
+      <strong>6. Is Personal Information About Me Secure? </strong>
+    </p>
+
+    <ul>
+      <li>
+        <strong>Security.</strong> Details regarding our security practices are available at our <a target="_blank" href="https://litmus.com/trust">Trust Center</a>.  We endeavor to protect the privacy of your account and other personal data we hold in our records, but we cannot guarantee complete security.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Please remember that you control the information that you input, upload or otherwise provide in connection with your use of the Services, including Email Submissions, as well as the data that is collected in connection with your subscription to our Email Analytics Services.
+      </li>
+      <li>
+        <strong>User Accounts.</strong> Your User account is protected by a username and password for your privacy and security. &nbsp;You must prevent unauthorized access to your account and personal data by selecting and protecting your username and password, using other sign-on mechanisms appropriately and limiting access to your device and browser by signing off after you have finished accessing your account.
+      </li>
+      <li>
+        <strong>Forums; Blogs; Discussion Boards.</strong> We may offer publicly accessible community forums, blogs, discussion boards and other similar public chat areas.  Please be aware that any information you provide in these areas may be read, collected and used by others who access them.  We are not responsible for any personal data that you choose to submit in these areas.  If a commenting system is managed by a Third-Party Service, you may be required to register with that third party to post a comment.  Please review that third party’s privacy policy to learn how it uses your information.
+      </li>
+      <li>
+        <strong>Data Location.</strong> Our Services are based in the United States, so your personal data will be hosted and processed by us in the United States.  Your personal data may also be processed in countries in which Litmus offices and personnel are located, and in which our service providers are located or have servers.  By using our Services, you consent to the processing of your data in these locations.
+      </li>
+      <li>
+        <strong>Third-Party Services.</strong> The Services may contain links to other Third-Party Services. We are not responsible for the privacy policies and/or practices of Third-Party Services. When following a link to another website, you should read that website’s privacy policy.
+      </li>
+    </ul>
+
+    <p>
+      <strong>7. What Choices Do I Have?</strong>
+    </p>
+
+      <ul>
+         <li>
+         <u>Access, Edit and Delete Personal Data.</u>  You may access, and, in some cases, edit or delete certain personal data that Litmus holds about you via your <a target="_blank" href="https://litmus.com/sessions/new">User account</a>.  Please note, however, that some information may remain in our records after deletion of such information from your account.  In addition, we may use any aggregated, de-identified data derived from or incorporating your personal data after you update or delete it.  If you request that any of your personal data be deleted, we reserve the right to terminate and/or limit your access to the Services to the extent Services cannot be reasonably provided without that information.
+         </li>
+         <ul>
+           <li>
+              <u>General (non-EU) Data Privacy Requests.</u>  If you have any questions about updating information we have on file about you, please complete this <a href="https://app.onetrust.com/app/#/webform/02c90d56-5ab1-46e8-8b5b-337ed1687567" target="_blank">form</a> or contact us at <a href="mailto:privacy@litmus.com">privacy@litmus.com</a>.
+            </li>
+            <li>
+              <u>EU Data Privacy Requests.</u>  Some individuals, including those whose information is subject to European Union (EU) data privacy laws, have certain legal rights to obtain information of whether we hold personal data about them, to access personal data we hold about them, and to obtain the correction, update, amendment or deletion of such data in appropriate circumstances.  For some personal data, these rights may be exercised through your
+              <a target="_blank" href="https://litmus.com/sessions/new">User account</a> settings, and in all cases, requests to exercise these rights may be submitted by completing this <a target="_blank" href="https://app.onetrust.com/app/#/webform/5d6d6f61-0b89-40e5-a42b-6fcc9edf8b57">form</a>.
+            </li>
+        </ul>
+      <li>
+        <u>Cancel Your Account.</u>  You may cancel your account via your <a target="_blank" href="https://litmus.com/sessions/new">User account</a> at any time.  In the event that your account is cancelled by you or Litmus, or your subscription to the Services terminates or expires, following such cancellation, termination, or expiration, you will no longer be able to access any of your account information, the information that you upload or receive through your use of the Services or other personal data that we hold in our records (except as otherwise provided by applicable law).
+      </li>
+      <li>
+        <u>California Civil Code Sections 1798.83-1798.84.</u>  Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal data that we share with our affiliates and/or third parties for marketing purposes, and to provide contact information for such affiliates and/or third parties. &nbsp;If you are a California resident and would like a copy of this notice, please submit a written request by completing this
+        <a target="_blank" href="https://app.onetrust.com/app/#/webform/5d6d6f61-0b89-40e5-a42b-6fcc9edf8b57">form</a> or by sending an email to <a href="mailto:privacy@litmus.com">privacy@litmus.com</a>.
+      </li>
+      <li>
+        <u>Decline to Provide.</u>  You may always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of the features of our Services.
+      </li>
+      <li>
+        <u>Marketing Communications.</u>  You may opt out of receiving marketing communications at any time by clicking the “unsubscribe” link located in the footer of any marketing email you have received from Litmus, or by sending an email to <a href="mailto:hello@litmus.com">hello@litmus.com</a>..
+      </li>
+      <li>
+        <u>Cookies.</u> Many browsers automatically accept cookies and similar technologies.  You can update your cookie preferences at any time by clicking the “Cookie Settings” button via our Cookie Policy.”
+      </li>
+    </ul>
+
+    <p>
+      <strong>8. Cookies</strong>
+    </p>
+
+    <p>
+      We use cookies and similar tools on our websites.  For more information, please see our <a target="_blank" href="https://litmus.com/cookies">Cookie Policy</a>.
+    </p>
+
+    <p>
+      <strong>9. For How Long Does Litmus Retain Data?</strong>
+    </p>
+
+    <p>
+      We generally retain data for as long as you have an account with us, or to comply with our legal obligations, resolve disputes or enforce our agreements.
+    </p>
+
+    <p>
+      <strong>10. Safety of Children and Children’s Online Privacy Protection Act (COPPA)</strong>
+    </p>
+
+    <p>
+      Our Services are not intended for, and may not be permissibly used by, individuals under the age of 13.  Litmus does not knowingly collect personal data from persons under 13 or allow them to register for Services.  If it comes to our attention that we have collected personal data from such person, we may delete this information without notice.  In addition, if you utilize our Email Analytics Services, then you may not provide information that pertains to any persons under the age of 13 (unless you have received such information from a parent on that child’s behalf and have authorization to provide to such information to Litmus in connection with your use of the Services).  If you have reason to believe that we might have any information from or about a child under 13 that was not supplied by that child’s parent, please contact us by completing this <a target="_blank" href="https://app.onetrust.com/app/#/webform/5d6d6f61-0b89-40e5-a42b-6fcc9edf8b57">form</a>.
+    </p>
+
+    <p>
+      <strong>11. EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</strong>
+    </p>
+
+    <ul>
+      <li>
+        <strong>Compliance and Certification.</strong>  Litmus complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively, the “Privacy Shield Frameworks”) as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union (EU) and Switzerland to the United States.  Litmus has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://privacyshield.gov" target="_blank">https://privacyshield.gov</a>.
+      </li>
+      <li>
+        <strong>Onward Transfers.</strong> Litmus complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+      </li>
+      <li>
+        <strong>Enforcement.</strong> Litmus is subject to the jurisdiction of the U.S. Federal Trade Commission regarding our compliance with the Privacy Shield Frameworks.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or legal enforcement requirements.
+      </li>
+      <li>
+        <strong>Resolution Mechanisms.</strong>
+        <ul>
+          <li>
+            In compliance with Privacy Shield Principles, Litmus commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Litmus electronically through this <a target="_blank" href="https://app.onetrust.com/app/#/webform/5d6d6f61-0b89-40e5-a42b-6fcc9edf8b57">form</a>.
+          </li>
+          <li>
+            Litmus has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States.  If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact or visit JAMS for more information or to file a complaint at <a href="https://www.jamsadr.com/eu-us-privacy-shield" target="_blank">https://www.jamsadr.com/eu-us-privacy-shield</a>.  The services of JAMS are provided at no cost to you.
+          </li>
+          <li>
+            You may also have the right to invoke binding arbitration under certain conditions for complaints regarding Privacy Shield compliance that is not resolved by any other Privacy Shield mechanisms.  For more information, please reference <a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction" target="_blank">https://www.privacyshield.gov/article?id=ANNEX-I-introduction</a>.
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>Data Controller.</strong> Litmus Software, Inc. is the data controller for registration, billing and other account information that we collect from Users in the EU.  The data controller for any data submitted (e.g., Email Submissions), or directed to be collected (e.g., Email Analytics data), by or on behalf of a customer in connection with the use of our Services is the customer.  Litmus only processes such information or data in accordance with the instructions and permissions (including those given under this Privacy Policy) provided by the customer.
+      </li>
+      <li>
+        <strong>Intra-company Data Transfer Agreement.</strong> There is an intra-company data transfer agreement in place between Litmus Software, Inc. and Litmus Software Ltd. to ensure that any exchange of personal data between these two entities will be adequately protected in accordance with applicable law.
+      </li>
+      <li>
+        <strong>Questions?</strong> For questions regarding our Privacy Policy or practices, contact us at privacy@litmus.com.
+      </li>
+    </ul>
+
+    <p>
+      <strong>12. Changes to this Privacy Policy</strong>
+    </p>
+
+    <p>
+      We reserve the right to update this Privacy Policy from time to time to reflect, among other things, changes in the law, our data collection and use practices, our Services, or advances in technology, by posting revised terms on our website and/or by posting notice of such changes within the application.  Unless you terminate your account within ten (10) days after the new terms are made available, the new Privacy Policy will take effect immediately and apply to any continued or new use of the Services.
+    </p>
+
+    <p>
+      <strong>13. If you have questions regarding our Privacy Policy or practices, please contact us at privacy@litmus.com or by mail at:</strong>
+    </p>
+
+    <p>
+      Litmus Software, Inc. <br>
+      Attn: Privacy <br>
+      675 Massachusetts Ave., 10th Floor <br>
+      Cambridge, MA 02139
+    </p>
   </div>
 
 </section> <!-- legal content -->
@@ -333,7 +553,7 @@ function hideIntercom() {
     <div class="row">
       <div class="logo col-lg-2">
         <a href="/">
-          <img src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1513883118" alt="Litmus logo" data-no-retina="true">
+          <img src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1530299303" alt="Litmus logo" data-no-retina="true">
         </a>
       </div>
 
@@ -346,6 +566,7 @@ function hideIntercom() {
             <li><a href="/customers">Customers</a></li>
             <li><a href="/careers">Careers</a></li>
             <li><a href="/contact">Contact</a></li>
+            <li><a href="/brand">Brand</a></li>
           </ul>
 
           <ul class="footer-links col-xs-6 col-md-6">
@@ -371,6 +592,7 @@ function hideIntercom() {
             <li><a href="/help/">Knowledgebase</a></li>
             <li><a href="https://status.litmus.com/">Status</a></li>
             <li><a href="/community">Community</a></li>
+            <li><a href="/trust">Trust</a></li>
           </ul>
         </div>
 
@@ -398,7 +620,7 @@ function hideIntercom() {
 
     <div class="row">
       <div class="copyright col-xs-12 col-md-9">
-        Copyright © Litmus Software, Inc. 2005-2017. 675 Massachusetts Ave., 11th Floor, Cambridge, MA 02139. <a href="/terms">View our Terms of Service</a> or <a href="/privacy">Privacy Policy</a>. Send us a note to <a href="mailto:hello@litmus.com">hello@litmus.com</a> or give us a call at +1 (866) 787-7030
+        Copyright © Litmus Software, Inc. 2005-2018. 675 Massachusetts Ave., 10th Floor, Cambridge, MA 02139. <a href="/terms">View our Terms of Service</a> or <a href="/privacy">Privacy Policy</a>. Send us a note to <a href="mailto:hello@litmus.com">hello@litmus.com</a> or give us a call at +1 (866) 787-7030
       </div>
       <ul class="social col-xs-12 col-md-3">
         <li><a class="litmuswww-facebook-with-circle" href="https://www.facebook.com/litmusapp" target="_blank"></a></li>
@@ -426,7 +648,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <!-- End Google Tag Manager -->
 
 
-  <script src="https://js.litmuscdn.com/javascripts/next.js?1513883118"></script>
+  <script src="https://js.litmuscdn.com/javascripts/next.js?1530299303"></script>
     <script>
     // Conversion script invocation.
     if (typeof springBoard=='object' && typeof springBoard.main=='function') {
