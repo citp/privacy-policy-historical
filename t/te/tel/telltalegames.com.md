@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902072339id_/https%3A//telltale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630054144id_/https%3A//telltale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telltale
 
@@ -32,7 +32,7 @@ You can opt-out of receiving targeted ads served by third party advertising comp
 
 #### Data Transfer to the United States
 
-Telltale operates its Sites within the United States. The personal information that you may provide or that we otherwise collect may be stored on (or transferred to) servers located in the United States or other countries where we may engage in business. Information collected within the European Economic Area and Switzerland may be transferred to the United States, and you agree to any such international transfers of your personal information.
+Telltale operates its Sites within the United States. The personal information that you may provide or that we otherwise collect may be stored on (or transferred to) servers located in the United States or other countries where we may engage in business. Information collected within the European Economic Area may be transferred to the United States, and you agree to any such international transfers of your personal information.
 
 #### Electronic Newsletter and Subscription to other Updates about Telltale
 
@@ -130,7 +130,7 @@ Some of our users may set a Do Not Track (“DNT”) privacy preference in their
 
 #### Privacy Shield
 
-Telltale complies with the EU-U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries and Switzerland to the United States. Telltale has certified to the Department of Commerce that it adheres to the Safe Harbor Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Safe HarborPrivacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. If Telltale transfers personal information received under the Privacy Shield to a third party (as discussed in the second paragraph of this Privacy Policy), the third party's access, use, and disclosure of the personal data must also be in compliance with Telltale’s Privacy Shield obligations, and Telltale will remain liable under the Privacy Shield for any failure to do so by the third party unless Telltale proves it is not responsible for the event giving rise to the damage. The Federal Trade Commission has jurisdiction over Telltale’s compliance with the Privacy Shield.
+Telltale complies with the EU-U.S. Privacy Shield Framework Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Telltale has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/.](https://www.privacyshield.gov/welcome) Telltale is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Please note that Telltale tries to minimize disclosures of personal data as reasonably practical because of its responsibility and potential liability in cases of onward transfers to third parties.
 
 #### Arbitration of Disputes
 
@@ -138,8 +138,10 @@ Subject to any legal restrictions that may be applicable to residents located ou
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
 #### Translations
 
 If this Privacy Policy is translated to a language other than English, and there is any difference between a translated version and the English-language version, the terms of the English-language version will be considered controlling in order to resolve or clarify any differences.
 
-(Revised September 29, 2016)
+(Revised March 1, 2018)
