@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230231451id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630051930id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -Cracked.com - America's Only Humor Site | Cracked.com
 
