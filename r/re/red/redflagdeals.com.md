@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221000344id_/https%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630063759id_/https%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RedFlagDeals.com
 
@@ -89,7 +89,7 @@ The Companies collect certain information in electronic files, such as: name, st
 
 Where practicable, the Companies ensure that the information they possess about you is not identifiable. This is accomplished by storing the information that clearly identifies you, such as your surname, on a separate database from the one that contains the information that is not personally identifiable, such as your age or sex. Moreover, the information contained on the server which contains personally identifiable information is only accessible to a limited number of employees. 
 
-### Third Pary Websites
+### Third Party Websites
 
 If links are provided from our Websites to Websites of third parties, the Companies take no responsibility for these third party Websites and the manner in which these sites collect, use and disclose your personal information. The Companies do not endorse, in any manner whatsoever, or accept any responsibility for the information, content or other material which may be contained on third party Websites. We therefore encourage you to review the privacy policies of these Websites before disclosing your information to any third party Website. 
 
@@ -148,7 +148,7 @@ Toll Free: 1-888-878-4044
 Email: [generalinfo@oipc.ab.ca](mailto:generalinfo@oipc.ab.ca)  
 Website: [http://www.oipc.ab.ca](http://www.oipc.ab.ca/)
 
-**British Colombia**
+**British Columbia**
 
 Information and Privacy Commissioner of British Columbia   
 756, Fort Road, 3rd Floor  
@@ -226,7 +226,7 @@ P.O. Box 2000
 Charlottetown, Prince Edward Island C1A 7N8  
 Telephone: (902) 368-4099  
 Email: [mlsmith@gov.pe.ca](mailto:mlsmith@gov.pe.ca)  
-Website: [www.oipc.pe.ca](https://web.archive.org/web/20171221000344id_/https://www.redflagdeals.com/info/privacy/www.oipc.pe.ca)
+Website: [www.oipc.pe.ca](https://web.archive.org/web/20180630063759id_/https://www.redflagdeals.com/info/privacy/www.oipc.pe.ca)
 
 **Québec**
 
