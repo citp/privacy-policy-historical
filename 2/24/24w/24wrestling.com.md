@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 24wrestling.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221163808id_/http%3A//www.24wrestling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24wrestling.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630150840id_/http%3A//www.24wrestling.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 24Wrestling
+# Privacy Policy | 24Wrestling
 
 24wrestling.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
@@ -27,7 +27,7 @@ This site contains links to other sites. 24Wretling.com is not responsible for t
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Data Quality/Access**  
-This site gives users the following options for changing and modifying information previously provided: You can send email to [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#d3a0b6a0b0bcbca3a093b4beb2babffdb0bcbe).
+This site gives users the following options for changing and modifying information previously provided: You can send email to [**SEScoops@gmail.com**](mailto:sescoops@gmail.com).
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact email [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#cebdabbdada1a1bebd8ea9a3afa7a2e0ada1a3).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact email [**SEScoops@gmail.com**](mailto:sescoops@gmail.com).
