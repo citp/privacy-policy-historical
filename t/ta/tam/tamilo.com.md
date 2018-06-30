@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilo.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212091739id_/http%3A//tamilo.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilo.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630141725id_/http%3A//tamilo.com/Privacy.html) for the most accurate reproduction.*
 
 # Tamilo.com Privacy Policy
 
@@ -44,6 +44,10 @@ We (or our partners) may use or support cookies for purposes including the follo
   * For more information on nRelate and opting out of browser history tracking 
 
 
+
+##  Legitimate Interest 
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy ](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com. 
 
 ## With whom we share your information: 
 
