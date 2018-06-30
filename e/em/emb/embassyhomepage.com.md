@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embassyhomepage.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227004001id_/http%3A//www.embassyhomepage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embassyhomepage.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630184913id_/http%3A//embassyhomepage.com/privacy.php) for the most accurate reproduction.*
 
 # High Commission in London
 
@@ -176,7 +176,7 @@ To make a request to the Embassyhomepage.com for any personal information we may
 
 If you agree, we will try to deal with your request informally, for example by providing you with the specific information you need over the telephone. 
 
-If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the [Information Governance department](https://web.archive.org/web/20171227004001id_/http%3A//contact_us). 
+If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the [Information Governance department](https://web.archive.org/web/20180630184913id_/http%3A//contact_us). 
 
 Disclosure of personal information  
 In many circumstances we will not disclose personal data without consent. However when we investigate a complaint, for example, we will need to share personal information with the organisation concerned and with other relevant bodies. Further information is available in our Information Charter about the factors we shall consider when deciding whether information should be disclosed. 
