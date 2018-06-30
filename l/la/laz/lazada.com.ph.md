@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226145533id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630234324id_/https%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Lazada Philippines | Lazada.com.ph
 
@@ -12,8 +12,6 @@ We will only keep your information for as long as we are either required to by l
 You can visit the Platform (as defined in the Terms of Use) and browse without having to provide personal details. During your visit to the Platform you remain anonymous and at no time can we identify you unless you have an account on the Platform and log on with your user name and password. 
 
 Lazada is committed to complying with Republic Act 10173 or the Data Privacy Act of 2012, and its implementing rules and regulations. 
-
-If you have any comments, suggestions or complaints, you may contact us (and our Data Protection Officer) by e-mail at [dataprivacy@lazada.com.ph.](http://www.lazada.com.ph/contact/)
 
 ### Collection of Personal Information
 
