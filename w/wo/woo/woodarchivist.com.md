@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodarchivist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074535id_/http%3A//woodarchivist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodarchivist.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630054537id_/http%3A//woodarchivist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • WoodArchivist
 
