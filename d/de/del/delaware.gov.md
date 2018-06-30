@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delaware.gov privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228140842id_/https%3A//delaware.gov/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delaware.gov privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630161834id_/https%3A//delaware.gov/help/privacy) for the most accurate reproduction.*
 
 # State of Delaware - Help - Privacy Policy
 
