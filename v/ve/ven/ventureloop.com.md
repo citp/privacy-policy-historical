@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ventureloop.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128022109id_/http%3A//www.ventureloop.com/ventureloop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventureloop.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630231830id_/http%3A//ventureloop.com/ventureloop/privacy.php) for the most accurate reproduction.*
 
 # Startup Jobs - Search Jobs by Venture Capital Companies | VentureLoop
 
