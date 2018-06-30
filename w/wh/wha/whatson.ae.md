@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120165343id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630153023id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - What's On Dubai
 
@@ -61,7 +61,6 @@ Dubai Media City
 PO Box 2331  
 Dubai, UAE  
 Tel: +971 4 427 3000  
-Fax: +971 4 428 2274  
 digital@motivate.ae
 
-This document was last updated on January 1st 2013
+This document was last updated on May 1st 2018
