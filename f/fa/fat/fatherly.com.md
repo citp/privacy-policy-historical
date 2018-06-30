@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910164024id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630053648id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fatherly
 
 ### Personal Information
 
-In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you.
+In order to supply you with Fatherly’s emails, we need your email address.
 
 ### Other Information
 
@@ -24,7 +24,7 @@ You can unsubscribe from receiving Fatherly emails at any time. You can unsubscr
 
 ### Third-Party Advertising
 
-The ads appearing on this Web site are delivered to you by Doubleclick our Web advertising partner. Occasionally, you’ll get an email marked “Dedicated Email” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors, and allow us to provide you with the FREE content you love.
+We use Google DFP to deliver ads on our Web site. Information on how Google manages data in its ad products can be found [here](https://www.google.com/policies/technologies/partner-sites/). Occasionally, you’ll get an email marked “Dedicated Email” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors, and allow us to provide you with the FREE content you love.
 
 ### Tracking
 
@@ -40,7 +40,7 @@ As a curator of the best possible information, Fatherly often links out to other
 
 ### Security
 
-All of the information described above is recorded restricted database servers.
+All of the information described above is recorded on restricted database servers.
 
 ### Modifications
 
@@ -48,4 +48,4 @@ Fatherly may make changes to this policy at any point. If and when we do, we’l
 
 ### Contact Us
 
-If you have questions about this policy, or about the site, please contact us or you could also review our About page.
+If you have questions about this policy, or about the site, please contact us or you could also review our [About](https://www.fatherly.com/about-us/) page.
