@@ -1,250 +1,43 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217050908id_/http%3A//www.ingenio.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
-
-# Ingenio Privacy Policy
-
-  | 
-
-BY USING OR ACCESSING OUR WEBSITE OR MOBILE APPLICATION BY PROVIDING PERSONAL INFORMATION TO US ON OR THROUGH THIS WEBSITE OR MOBILE APPLICATION, YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF THAT INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY. 
-
-**SUMMARY**
-
-This privacy policy ("Privacy Policy") describes how Ingenio, LLC ("Ingenio"), which owns and operates keen.com, ingenio.com, ether.com, liveadvice.com, other websites associated with the KEEN® and INGENIO® brands, and any mobile or foreign-language versions associated with these websites ( "Website" or "Websites"), collects, uses, shares, and secures information on our owned and operated Websites, mobile applications, and other properties. Please read this privacy policy for answers and information regarding the following questions and topics: 
-
-**WHAT INFORMATION DO WE COLLECT?**  
-Information you give to us  
-Information we collect when you use our Websites and mobile applications  
-Information we collect from other sources
-
-**HOW DO WE COLLECT INFORMATION FROM YOU?**
-
-**HOW DO WE USE INFORMATION WE COLLECT?**  
-Financial Information
-
-**WHO DO WE SHARE INFORMATION WITH?**  
-Third Party Partners/Networks  
-Affiliates  
-Blogs, Forums, Online Postings, and Testimonials  
-Business Transition  
-On-line Applications & Tools  
-Law Enforcement  
-Legal Processes  
-Service Providers  
-Other Third Parties (without your consent)  
-Other Third Parties (with your consent)
-
-**HOW DO WE SECURE INFORMATION?**
-
-**WHAT PRIVACY CHOICES DO YOU HAVE?**  
-Revising Your Information  
-Email Communication from Ingenio  
-Telephone Marketing from Ingenio  
-Text Marketing from Ingenio  
-Opting-Out of Third Party Marketing and Cookies
-
-**ADDITIONAL INFORMATION**  
-Data Retention  
-Do Not Track Disclosure  
-Other Websites  
-Other Contractual Relationships  
-Referral Services  
-You Consent to Receive Calls from Us  
-Using Our Websites and Mobile Applications Outside the United States  
-Your California Privacy Rights  
-Children  
-Changes to the Privacy Policy  
-Governing Law  
-Communicating with Us
-
-**WHAT INFORMATION DO WE COLLECT?**
-
- _Information you give to us_
-
-. To use our services or to provide customer support, we may ask you for the following information, not all of which is necessary to register as a member or to use our services: 
-
-  * Name and payment addresses;
-  * Email address and telephone number;
-  * Credit or debit card or PayPal;
-  * Login, PIN and password;
-  * Account preferences;
-  * Time zone;
-  * Date of birth; and
-  * Friends' names or email address if you choose to refer them to us.
-
-
-
-In addition, in certain circumstances, or if you provide services as an advisor, we may ask you for information to confirm your identification and administer your account, including: 
-
-  * Your financial account number;
-  * Your Driver's License number (and/or a copy of your Driver's License);
-  * Current and previous addresses;
-  * Your date of birth; and
-  * Your social security number or tax identification number.
-
-_Information we collect when you use our Websites and mobile applications_
-
-. We may collect information about the way you interact with our Website, mobile applications, content and advertising. This may include, but is not limited to, device ID, device type, machine ID, geo-location information, computer and connection information, statistics on page views, traffic to and from our Websites, IP address, ad data, and standard web log information, and any telephone number you provide us or from which you may call or otherwise contact us. 
-
-_Information we collect from other sources_
-
-. We may also obtain information from or about you in other ways. For example, we may verify user information with a service provider or combine your information with additional information we collect from our affiliates and other third parties or sources, as authorized and permitted by law. Also, we collect the information you send to us such as correspondence, customer satisfaction surveys or customer service communications, and user content posted in on-line reviews, comments, forums, or blogs. 
-
-**HOW DO WE COLLECT INFORMATION FROM YOU?**
-
-We collect information that you voluntarily submit to us, including by registering as a member, altering your account information, and using our services. In addition, our Websites and mobile applications include the ability for you and other users to post information via on-line reviews, comments, forums, or blogs. As a result, we will also receive information about you: (i) when you choose to post or otherwise share this information on our Websites or mobile applications, or (ii) when other users post or otherwise share information about you on our Websites or mobile applications. 
-
-We may also collect information from you automatically using the following technologies: 
-
-  * "Cookies" are small data files placed on your computer by the websites you visit and the emails you read and can be used to help recognize you when you return to a website, or when you visit other websites. We, or third party service providers, may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to, among other things, measure activity, personalize your experience, remember your viewing preferences, or track your status or progress when accessing our Websites. For some of these purposes our cookies may be tied to personal information. If you choose, you can set your browser to reject cookies or you can manually delete cookies on your computer by following your browser's help file directions. If your browser is set to reject cookies or you manually delete cookies, you may have trouble accessing and using some of the pages and features that are currently on our Websites, or that we may put on our Websites in the future. We do not operate the cookies or tracking technology used by our third party service providers.
-  * "Unique Identifiers" are unique strings of characters that are used to identify you, your computer, or your mobile device. Such identifiers may be preset on your computer or mobile device. We may use unique identifiers to recognize you when you visit our Websites or use our mobile applications.
-  * "Telephone Caller ID" refers to information automatically transmitted about you when you place a call using our Websites. If you call an advisor's or another member's telephone number that we have provided to you, your caller ID will be recorded by us, but not by the person you are calling. If you call a telephone number not provided by Ingenio, your number may in that instance be recorded by the person called and the use of your phone number by that person will not be controlled by Ingenio or this privacy policy.
-  * "Web beacons" or "clear pixels" are small graphic images on a webpage or in an email that can be used for such things as recording the pages and advertisements clicked on by users, or tracking the performance of email marketing campaigns.
-  * A "web server log" is a record of activity created by the computer that delivers the webpages you request to your browser. For example, a web server log may record the search term you entered or the link you clicked to bring you the webpage. The web server log also may record information about your browser, such as your IP address and the cookies set on your browser by the server.
-  * A "widget" is a small program or application that can be embedded in a web page. Widgets can provide real-time information, such as stock quotes or weather reports, or other functionality, such as an availability button, buy now, or call now button. Widgets are often provided by a third party, and may allow that third party to collect data about users viewing that page. We may also use social media features such as the Facebook Like button. These features may collect your IP address and the page you are visiting on our site and may also set a cookie to enable the feature to function properly.
-  * You can log in to our site using "sign-in services" which we may have now or offer in the future, such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us, such as your name and email address to pre-populate our sign-up form, or to post information to your account.
-  * "Geo-location technologies" refers to technologies that permit us to determine your location. We may ask you to manually provide precise location information on our Websites or to enable your mobile device to send us precise location information. We may also automatically use information from your web server or computer to determine general location information, such as the city in which you live.
-
-
-
-In addition to information that we collect from you, we may collect information about you from third parties for purposes such as personalization, ad/listing targeting, optimization and reporting. 
-
-**HOW DO WE USE INFORMATION WE COLLECT?**
-
-Our primary purpose in collecting information about you is to provide you or connect you with products, services, information, members and advisors that match your interests and preferences. For example, we may use this information to fulfill your request to speak to an advisor or member, fulfill an order, respond to your inquiries, administer your account, contact you regarding customer service and customer surveys, send or communicate marketing and promotional information (including by text or phone), assess your needs and interests in order to better tailor offers and/or advertising, improve our Websites and marketing, conduct research, display content based upon your interests, allow you to search information on our site, list you in our search and directory services, and/or confirm your identification. 
-
-_Financial Information_
-
-. We use financial or payment method information to (i) process payment for any purchases made on our Websites or mobile applications, (ii) enroll you in any discount, promotion, or other program in which you elect to participate, (iii) to protect against or identify possible fraudulent transactions and (iv) otherwise as needed to manage our business. 
-
-**WHO DO WE SHARE INFORMATION WITH?**
-
-We may share information about you with third parties in the following situations. 
-
-_Third Party Partners/Networks_
-
-. A third party may use technology (for example, a cookie) to collect information about your use of our Websites or mobile applications so that they can provide advertising about products and services tailored to your interests. If you would like to opt-out of having third party networks use information that Ingenio has shared with them to target advertising to you please see the instructions in the section titled "What Privacy Choices Do I Have" below. 
-
-_Affiliates_
-
-. We may share all types of information with the Ingenio family of companies, including but not limited to companies doing business under the KEEN® brand, INGENIO® brand, LIVEADVICE™ brand, ETHER™brand or other Ingenio products or services for the purpose of fulfilling the services that we provide to our customers and to customize your experience. 
-
-_Blogs, Forums, Online Postings, Testimonials, and Advisor Listings_
-
-. For advertising and other purposes, we may share with the public, or re-publish on a third-party website, any information that you publish (i) if you are an advisor, in an advisor listing, and/or (ii) if you are a non-advisor member, in conjunction with an on-line review, comment, forum, or blog posting regarding our Websites and services. This may include information that identifies you. 
-
-_Business Transition_
-
-. We may share or transfer all types of information about you in connection with a merger, acquisition or other sale or transfer of part or all of Ingenio's assets or business. You will be notified via email and/or a notice on our Website of any change in ownership and related uses of your information, as well as any choices you may have regarding your information. 
-
-_On-line Applications & Tools_
-
-. We may offer applications, tools, or widgets on our Websites or in our mobile applications that indicate that they are "powered by" a third party. If you use those applications and tools we may share information you provide as part of that use with that third party. The third party's use of that information is subject to their privacy policy. 
-
-_Law Enforcement_
-
-. We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we believe may aid a law enforcement investigation. In addition, we reserve the right to release all types of information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of information about you may protect the rights, property, or safety of us or another person. 
-
-_Legal Processes_
-
-. We may share all types of information with others as required by, or permitted by, law. This may include sharing all types of information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us. 
-
-_Service Providers_
-
-. We share all types of information with people and companies that provide us with services. These services may include, among other things, helping us provide products or services that you request, create or maintain our databases, research or analyze the people who use our Websites, and/or process payment information. Unless you consent, we do not permit our service providers to market their own products or services to you directly. We also require our service providers to agree to take reasonable steps to keep the personal information that we provide to them secure. In some instances, we may maintain the look and feel of our site while you are on our service provider's site. You should look for the "privacy policy" link of any page on which you are submitting information to determine if this privacy policy, or another company's privacy policy, governs. 
-
-_Other Third Parties (without your consent)_
-
-. We may share information with other third parties that are not described above. When we do so we endeavor to either aggregate or de-identify the information so that a third party would not be likely to link data to you, your computer, or your device. Aggregation means that we combine the information of numerous people together so that the data does not relate to any one person. De-identify means that we remove or change certain pieces of information that might be used to link data to a particular person. 
-
-_Other Third Parties (with your consent)_
-
-. We may share any information with other third parties that are not described above if you give us consent to do so. 
-
-**HOW DO WE SECURE INFORMATION?**
-
-We take our commitment to securing personal information in our possession seriously. When you provide your credit card number or, as an advisor, your financial account number and social security number or tax identification number, we protect your information during transmission and storage through the use of encryption. For other types of information, we use reasonable measures to help prevent the information from becoming disclosed to individuals who are not described in this policy. 
-
-It is important for you to protect against unauthorized access to your password and to your computer or mobile device. No security measures are perfect and we cannot promise that the information about you will remain secure in all circumstances. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on our Websites and mobile applications. 
-
-**WHAT PRIVACY CHOICES DO YOU HAVE?**
-
-We provide you with the following information and communication management options: 
-
-_Revising Your Information_
-
-. If your personal information changes, or if you no longer desire our services, you may correct, update, or delete information about you, or ask that it be removed from public forums such as directories, blogs, or testimonials by logging in and viewing your user profile via the "My Account" link on our Website or mobile application or by contacting us at the email address, telephone number, or mailing address indicated below. We attempt to respond to your requests within 30 days. In some cases, we may not be able to remove your personal information, in which case we will let you know that we are unable to do so and why. 
-
-_Email Communication from Ingenio_
-
-. We may communicate with you by email at various times about your account and transactions, customer service matters, customer surveys, and promotions including special offers and updates about new products and services. You can choose to stop receiving promotional emails at any time simply by changing your account preferences on our Website or by following the "Unsubscribe" or "Manage Email Preferences" link at the bottom of any promotional email. You may not opt out of receiving administrative and customer service messages. 
-
-_Telephone Marketing from Ingenio_
-
-. By agreeing to the terms of this Privacy Policy, you expressly consent to telephone marketing by Ingenio. If you do not want to receive telephone calls about products or services that we offer, you can opt out from receiving most telephone marketing calls by visiting the national do not call registry at <https://www.donotcall.gov/>. 
-
-_Text Marketing from Ingenio_
-
-. By agreeing to the terms of this Privacy Policy, you expressly consent to text marketing by Ingenio. If you do not want to receive text messages from us about products or services that we offer, you can opt out from receiving such texts by text messaging the word **STOP** in response to a text from Ingenio containing the language "Reply **STOP** to cancel.". Please note that text messaging charges by your carrier may apply to these types of communications. 
-
-_Opting-Out of Third Party Marketing and Cookies_
-
-. We may allow third parties to use cookies and other technologies to provide targeted marketing services on our behalf. You can opt out of such third party information collection and marketing by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed) and/or the [Digital Advertising Alliance opt-out page](http://www.aboutads.info/choices/). Cookies are unique to each device, so you must opt out separately on each device you use. To opt out of tracking and cookies on your device, please follow the instructions provided by your device maker. 
-
-**ADDITIONAL INFORMATION.**
-
- _Data Retention_
-
-. We will retain your personal information for the period necessary to fulfill the purposes outlined in this privacy policy unless a longer retention period is permitted by law. 
-
-_Do Not Track Disclosure_
-
-. Do Not Track is a privacy preference that users can set in their web browsers. Do Not Track is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We do not recognize website browser Do Not Track signals. 
-
-_Other Websites_
-
-. This privacy policy does not apply to websites or mobile applications offered by other companies or individuals, including products or websites that may be displayed or linked to on our Websites and mobile applications. We encourage you to read the privacy policies of any third party website before transmitting personal information. 
-
-_Other Contractual Relationships_
-
-. If you enter into a separate contractual relationship with us that requires, or contemplates, collecting, using, sharing, or securing information about you in a manner that is different than that which is described in this policy, the terms of that contract will apply. 
-
-_Referral Services_
-
-. If you choose our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. 
-
-_You Consent to Receive Calls from Us_
-
-. If you provide us with a telephone number, you expressly agree that we, our affiliates or authorized agents, can use that telephone number to contact you regarding your account, customer service matters, and customer surveys. 
-
-_Using Our Websites and Mobile Applications Outside the United States_
-
-. If you are using our Websites and mobile applications outside the United States, please be aware that your information will be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our Websites and mobile applications, you understand that your information will be transferred to our facilities and those affiliates and third parties with whom we share it as described in this privacy policy. 
-
-_Your California Privacy Rights_
-
-. California Civil Code Section section 1798.83 permits users of our Websites that are California residents to request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send a written request to the mailing address provided below. 
-
-_Children_
-
-. Although our Websites are general audience Websites, we restrict the use of our services to individuals age 18 and above. We do not knowingly collect personal information from anyone under the age of 18. 
-
-_Changes to the Privacy Policy_
-
-. We may update this privacy policy to reflect changes to our information practices. If we make any material changes to our policy, those changes will apply to information collected after the effective date listed, and we will notify you by placing a notice on our Websites. We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-_Governing Law_
-
-. By choosing to use our Websites and mobile applications or provide information to us, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of California and will be subject to the terms and limitations of the Member Agreement or any other agreement we may have with you. 
-
-_Communicating with Us_
-
-. If you have any questions or concerns regarding our privacy policy please contact us at: 
-
-Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#49393b203f282a300920272e2c272026672a2624)  
-Telephone number: 877.529.1193  
-Mailing address:
-
-Ingenio—Privacy Policy  
-182 Howard Street #826  
-San Francisco, CA 94105 
-
-|  
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630223402id_/https%3A//www.keen.com/help/privacypolicy) for the most accurate reproduction.*
+
+# Keen: Privacy Policy
+
+Last updated: May 23, 2018  This Privacy Policy applies to all websites, mobile applications, and other digital platforms linking to or posting this Privacy Policy (each a "Platform") and operated by Ingenio, LLC or any of our affiliates (collectively, "Ingenio", "we", "our", or "us"). This Privacy Policy describes how we use, store, disclose, and process information that we obtain about you through any of our Platforms, including information that we obtain through any offering or other service that we provide, in whole or in part, through any of our Platforms.  For purposes of the EU's General Data Protection Regulation 2016 (the "GDPR") the data controller is Ingenio LLC, with an office at 182 Howard Street #826, San Francisco, California 94105 USA. Please see Section 12 below for additional disclosures applicable only to users based in the European Union (the "EU").  PLEASE NOTE THAT BY USING OR ACCESSING ANY PLATFORM TO WHICH THIS PRIVACY POLICY IS POSTED OR LINKED, YOU CONSENT TO THE TERMS OF THIS PRIVACY POLICY.  1\. WHAT TYPES OF INFORMATION DO WE COLLECT AND HOW DO WE COLLECT IT?  When you use or access any of our Platforms, we may collect a variety of information about you and others, as described below. Such information includes, but is not limited to, information about you which is in a form that permits us to identify you (your "personal data").  A. Personal Data About You That You Provide. When you use or access any of our Platforms, we may ask you to provide us with certain personal data, including but not limited to some or all of the following: your name, username, email address, telephone number, current and previous mailing addresses, credit or debit card or PayPal account information, payment address, other financial account number, social security number or tax identification number, driver's license number or other government issued identification number (or a copy of your driver's license or other government issued identification card), date of birth, time of birth, birth location, login, PIN, password, account preferences, and time zone. You may be asked for this information at various times when interacting with our Platforms, such as when registering to be a user of any of our services, when making a purchase through any of our Platforms, or when filling out a form or survey or participating in a promotion through our Platforms.  B. Personal Data About You That We Collect Via Technology. When you use or access any of our Platforms, we may also collect certain personal data through automated means, including but not limited to some or all of the following: your mobile phone number, unique device ID, device type, machine ID, geolocation information, computer and connection information, browser type, Internet Protocol ("IP") address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and date and time stamps for your visits. We also may collect any telephone number from which you contact us, or from which you place a call to another user through our calling feature on any of our Platforms. (If you call any user or other person directly—that is, not through the calling feature on any of our Platforms—your telephone number may be obtained by the person called.)  C. Information About You That We Collect From Others. When you use or access any of our Platforms, we may also collect your name and email address from your friends who suggest to us that you may wish use one of our Platforms. If we receive this personal data about you in this way, we will contact you to let you know that you have been recommended to us. If you do not respond to our outreach or you ask us to delete your personal data, we will do so.  When you use or access certain of our Platforms, we may also collect your name, address, phone number, and geolocation information from other third parties, such as identity verification vendors which we engage.  D. Information About Others That We Collect From You. When you use or access any of our Platforms, you may decide to provide us with information about a third party, such as your friends' names and email addresses in connection with our "tell a friend" features.  E. Information Provided to Social Networking Sites. Some of our Platforms may include the ability for you and other users to connect your profile on our Platform with Facebook or other social networking sites (each, a "SNS"), such as via the "Connect to Facebook" functionality, whether you initially connect from our Platform to the SNS or in the other direction from the SNS to our Platform. We may receive or access information about you through the SNS when you choose to connect your Platform profile to any SNS, or to post or otherwise share information on any SNS to which you have connected your Platform profile. Note that any information that you or others post to an SNS will be accessible by any users of such SNS, subject to its terms of service and privacy policy.  F. Information Collected By Third-Party Integrated Technologies. As with many operators of websites and mobile applications, we may incorporate third-party ads, offerings, and other technologies (such as plugins, pixels, and cookies) into our Platforms, enabling the third parties operating such ads, offerings, and other technologies to collect usage, demographic, and other information (including personal data) about you and your online activities through your use of our Platforms and across other websites and applications. Any information collected through such integrated ads, offerings, or other technologies on our Platforms is collected directly by those third parties for use and disclosure subject only to any applicable privacy policies of such third parties. For more information about our practices in this area for a particular Platform, please see our Cookies Policy linked in the footer of such Platform.  G. Other Information That We Collect Via Technology. When you use or access our Platforms, we also may collect certain information through automated means associated with your activities on our Platforms, including information about the way you interact with any of our Platforms or any content or advertising thereon, statistics regarding your page views and traffic to and from our Platforms, and the number of bytes transferred, hyperlinks clicked, and other actions you take on our Platforms. Each of our Platforms may also track information such as the URL that you visited before you come to the Platform and the URL to which you next go. As with most websites and other digital platforms, we also employ cookies, pixel tags, web beacons, and similar technologies on our Platforms to collect and store certain information about visitors to our Platforms, to improve our services and advertising, and to help us remember you and your preferences when you revisit our Platforms. For more information about our practices in this area for a particular Platform, please see our Cookies Policy linked in the footer of such Platform.  H. Information in Your Inquiries and Posts. We also collect any information you send to us or other users through any of our Platforms, including information about you in correspondence, mail, and chats conducted through a Platform, and responses to our customer satisfaction surveys or customer service communications. We also collect information from content you post in online reviews, comments, forums, or blogs on our Platforms.  2\. HOW DO WE USE INFORMATION COLLECTED ABOUT YOU?  Our primary purpose in collecting information about you in connection with your use of our Platforms is to provide you or connect you with products, services, information, and users that match your interests and preferences. However, we may use such information collected about you for a variety of commercial purposes. Without limitation, we may use such information to: 
+
+  * enable your participation in activities on our Platforms;
+  * provide our offerings and services to you;
+  * confirm your identity;
+  * enforce our Platform policies and terms of service, and investigate potential violations of such policies or terms;
+  * fulfill an order that you place through any of our Platforms, including to process payment for any purchase made through any of our Platforms;
+  * respond to inquiries that you may have about any of our Platforms or services;
+  * administer your account on any of our Platforms;
+  * display content based upon your interests;
+  * enable you to search information on our Platforms;
+  * list in our search and directory services any users who provide services through one of our Platforms;
+  * contact you regarding customer service and customer surveys;
+  * assess your needs and interests in order to better tailor offers and/or advertising;
+  * improve our Platforms;
+  * inform you of changes made to our Platforms;
+  * organize or carry out promotional activities, games or promotional events;
+  * inform you of products, services, promotions, offers, and competitions which you may find interesting, provided you have not opted out of receiving such information or, where required, we have your express consent;
+  * conduct research;
+  * understand general customer trends and patterns so we can develop and support existing and ongoing marketing strategies for our products and services; and
+  * conduct other marketing and commercial activities.
+
+We may also use information about you that we collect in connection with your use of our Platforms for security, administrative, and legal purposes (including to detect, prevent, or otherwise address fraud, security or technical issues).  Also, we may combine information about you that we collect in connection with your use of our Platforms with other records (such as those obtained from third parties) to develop a customer profile relating to you.  3\. HOW LONG DO WE MAINTAIN YOUR PERSONAL DATA?  We will store your personal data for no longer than is necessary for the purpose for which such personal data is processed. Please note, however, that we may retain and use your personal data as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements and rights, or if it is not technically and reasonably feasible to remove such information from our databases, which means that we may retain and use your personal data as necessary after you stop using our Platforms. Subject to the foregoing, we will endeavor to delete your personal data promptly upon your written request.  4\. TO WHOM DO WE DISCLOSE INFORMATION COLLECTED ABOUT YOU?  We may share or disclose information about you to third parties in the following situations:  A. Other Users. In connection with making the Platforms available to our users, we may disclose certain information about you (including your name, username, and date of birth) to other users of the Platforms, solely as directed by you or as authorized under our terms of service for the applicable Platform.  B. Our Affiliates. We may disclose information collected about you to our affiliates—that is, to any entity that controls, or is controlled by, or is under common control with Ingenio, LLC, including, but not limited to, companies doing business under any of the following brands: Ingenio, Keen, Ether, Horoscope.com, Horoscopo.com, Astrocenter.com, Astrology.com, LiveAdvice.com, and PsychicCenter.com. However, personal data collected about you by one entity in our corporate family will not be disclosed to any affiliate (i.e., to any other entity in our corporate family) for their direct marketing purposes, without your consent.  C. Third-Party Service Providers. We also disclose information collected about you to our third-party service providers and other partners who perform services on our behalf in connection with any of the Platforms. The services provided by such third parties and partners include services in the following categories: 
+
+  * processing payments on our behalf;
+  * helping us to provide products or services that you request;
+  * sending marketing communications on our behalf;
+  * authenticating identities on our behalf;
+  * helping us to create or maintain our databases
+  * helping us to research or analyze the people who use our Platforms; and
+  * testing our Platforms.
+
+Unless you consent, we do not permit our service providers to use such information in order to market their own products or services to you directly. When we transfer any of your personally identifiable information to such a service provider or partner, that entity will be contractually required, among other things, (a) to use such information only to carry out those services that we have requested, (b) to abide by this Privacy Policy, and (c) to provide adequate protection for such information (as required by applicable legal requirements).  D. Third-Party Operators of Integrated Technologies. As noted above, information about you collected via third-party ads, offerings, and other technologies integrated with any of our Platforms will be collected directly by (and thus disclosed to) the third parties providing or operating such ads, offerings, or other technologies. Any such information may be used and further disclosed subject only to any applicable privacy policies of such third parties. For more information about our practices in this area for a particular Platform, please see our Cookies Policy linked in the footer of such Platform.  E. Social Networking Sites. As noted above, some of our Platforms may enable you to connect with and/or post content to SNSs. And our Platforms also integrate technologies facilitated by various SNSs, such as Facebook pixels. You acknowledge and agree that you are solely responsible for your use of any SNS, and that it is your responsibility to review the terms of use and privacy policy of the third-party provider of such SNS. We are not responsible or liable for: (i) the availability or accuracy of any SNS; (ii) the content, products or services on or availability of any SNS; or (iii) your use of any SNS.  F. Co-Branded Service Providers. We may enter into agreements with certain third-party businesses pursuant to which we provide such third party with a URL and a customer registration page co-branded with, or private labeled by, the third party, which distributes and promotes the URL to its customers. If you register on a website with a third party with which we have such a co-branded arrangement, we may provide information we have collected about you through our Platforms to such third party.  G. General Public. We may share with the general public via our Platforms, or re-publish on a third-party website, any information that you post as a user of one of our Platforms, such as information in a listing, online review, comment, forum, or blog posting on any of our Platforms. This may include information that identifies you (by username or otherwise).  H. Third Parties Involved in Business Transition. We may share information about you collected through the Platforms to one or more third parties in connection with or during negotiation of any merger, financing, acquisition or dissolution, transition, or proceeding involving the sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy or receivership, such information may also be transferred as a business asset. If another company acquires any of our companies, businesses or assets, that acquiring company may acquire the information about you collected by us through our Platforms. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all of the terms of this Privacy Policy following such transaction.  I. Our Advisors. We may also share information collected about you with our auditors, legal advisors, and similar third parties in connection with our receiving their professional services, subject to standard confidentiality obligations.  J. Law Enforcement. We may disclose information about you to the government or to third parties under certain circumstances when legally obligated to do so, such as in connection with suspected illegal activity in connection with the Platforms, or to respond to a subpoena, court order or other legal process, or that we believe may aid a law enforcement investigation. We reserve the right to release information collected through the Platforms to law enforcement or other government officials, as we, in our sole discretion, deem necessary or appropriate.  K. Legal Processes. We may share all types of information with others as required by, or permitted by, law. This may include sharing all types of information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.  L. Other Third Parties. We may share information with other third parties that are not described above. When we do so we will endeavor to either aggregate or de-identify the information so that a third party would not be likely to link data to you, your computer, or your device. Aggregation means that we combine the information of numerous people together so that the data does not relate to any one person. De-identify means that we remove or change certain pieces of information that might be used to link data to a particular person.  We may also share any information with other third parties that are not described above if you give us consent to do so.  5\. WHAT ARE OUR POLICIES FOR COOKIES AND SIMILAR TECHNOLOGIES?  Please see our Cookies Policy linked in the footer of the applicable Platform.  6\. HOW DO WE SECURE INFORMATION COLLECTED ABOUT YOU?  We have implemented and follow reasonable industry standard technical and procedural measures (including encryption of certain information) intended to protect against unauthorized access and use of information collected in connection the use of our Platforms. HOWEVER, PLEASE NOTE WE CANNOT FULLY ELIMINATE THESE RISKS AS, DESPITE OUR BEST INTENTIONS, NO TECHNOLOGY IS COMPLETELY SECURE. OUR PLATFORMS ARE OPERATED ON SOFTWARE, HARDWARE, AND NETWORKS, ANY COMPONENT OF WHICH MAY, FROM TIME TO TIME, EXPERIENCE BREACHES OF SECURITY OR OTHER ISSUES BEYOND OUR CONTROL.  Accordingly we cannot guarantee that any information collected about you, whether during transmission or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others who do not have your authorization. Any such transmission or sharing of that information is done at your own risk.  You also play a role in protecting your personal information. Please do not share your user name or password with others.  7\. DO OUR PLATFORMS SUPPORT "DO NOT TRACK" SIGNALS?  At this time, our websites do not support "Do Not Track" preferences that may be available in your browser for letting websites know that you do not want them collecting certain kinds of information. If you turn on the "Do Not Track" setting on your browser, our websites are not currently capable of following whatever Do Not Track preferences you set. For more information about Do Not Track, visit [donottrack.us](http://donottrack.us/).  8\. DO WE SHARE INFORMATION ABOUT YOU WITH THIRD PARTIES FOR THEIR OWN DIRECT MARKETING PURPOSES?  No. We do not disclose your personal data to third parties for their own direct marketing purposes without your consent.  9\. WHAT ARE THE POLICIES OF LINKED WEBSITES AND OTHER THIRD PARTIES?  Our Platforms may contain links to other websites that are not covered by this Privacy Policy and where information practices may be different from ours. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our Platform and go to another website. During this process, another entity may collect information from you. We have no control over, do not review, and are not responsible for the privacy practices or the content of such other websites. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.  10\. WHAT IS OUR POLICY ON USE OF OUR PLATFORMS BY CHILDREN?  Although some of our Platforms are restricted to individuals age 18 and above, others are accessible to children under the age of 18. However, none of our Platforms are designed or intended to be attractive to use by children under the age of 13, and we do not knowingly collect personally identifiable information from children under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE ANY OF OUR PLATFORMS AT ANY TIME OR IN ANY MANNER.  If you learn that your child under 13 has provided us with personal information without your consent, please contact us. We will delete that data from our systems.  11\. HOW CAN YOU CORRECT, UPDATE OR MAKE CHOICES ABOUT THE INFORMATION COLLECTED ABOUT YOU THAT WE ARE STORING?  A. General. If any of your personal data that we are storing changes, or if you no longer desire our services, you may correct, update, or delete information about you, or ask that it be removed from public forums (such as directories, blogs, or testimonials) on our Platforms, by calling us at (877) 533-6435 or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a0a08130c1b19033a13141d1f14131554191517), or (for some information) by logging into your profile on the applicable Platform and making changes in your account settings. We will attempt to respond to your request within 30 days. In some cases, we may not be able to remove your personal data, in which case we will endeavor to let you know that we are unable to do so and why. For example, we may be required (by law or otherwise) to keep certain information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.  B. Disconnecting a SNS. If you decide at any time that you no longer wish to have your Facebook, Twitter, or other SNS account linked to your Platform account, you must de-link the SNS from the applicable Platform by logging into your profile for such SNS and changing your preferences. You may also manage the sharing of certain personal information with us when you connect with us through an SNS, such as through Facebook Connect. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between our Platforms and your social media account.  C. Stopping Certain Communications From Us. 1. Emails. We may communicate with you by email at various times about your account and transactions, as well as regarding various customer service matters, customer surveys, and promotions, including special offers and updates about new products and services. You can choose to stop receiving promotional emails from us at any time simply by following the "Unsubscribe" or "Manage Email Preferences" link at the bottom of any promotional email, or by logging into your profile on the applicable Platform and changing your account preferences. Please note that you may not opt out of receiving non-promotional emails regarding your account or your transactions with us.  2. Service-Only Telephone Calls or Text Messages. If you voluntarily provide your telephone number to us, you will be agreeing that we (including our affiliates and agents) can call or text you at that number (including via an automated dialing system or prerecorded message) to respond to your request for our services and to communicate with you regarding your account or a transaction with us. Please note that standard message and data rates may apply. If you wish to stop receiving such service-only calls or texts at any time, you may do so by logging into your account and clicking the "Personal Information" link under the menu icon, and changing your account preferences; by calling us at (877) 533-6435; by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e9999b809f888a90a980878e8c878086c78a8684); or (for texts only) by responding "STOP" to any such text message.  3. Telephone Marketing Calls. If we have provided you the option to consent to receive telephone marketing calls from us (including via an automated dialing system or prerecorded messages), please note that your decision to consent to receive such promotional calls or messages is voluntary and is not required to purchase or use any of our products or services. If you have provided consent to receive telephone marketing calls from us, but you wish to revoke such consent, you may do so by any reasonable means, including by calling us at (877) 533-6435 or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e090928996818399a0898e87858e898fce838f8d) and stating that you wish to revoke such consent.  4. Text Message Marketing. If we have provided you the option to consent to receive promotional text messages from us (including via an automated dialing system), please note that your decision to consent to receive such promotional text messages is voluntary and is not required to purchase or use any of our products or services, and that standard message and data rates may apply. If you have provided consent to receive promotional text messages from us, but you wish to revoke such consent, you may do so by any reasonable means, including by calling us at (877) 533-6435 or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7d7d5ced1c6c4dee7cec9c0c2c9cec889c4c8ca) and stating that you wish to revoke such consent, or by responding "STOP" to any such message.  12\. ADDITIONAL DISCLOSURES FOR USERS BASED IN THE EUROPEAN UNION.  A. General. We are headquartered in the United States. By using any of our Platforms from outside the United States, you acknowledge that your personal data may be accessed by us or transferred to us in the United States and to our affiliates, partners, and service providers who are located around the world; and that your personal data will be transferred to, and stored and processed in, the United States or elsewhere in the world where our servers are located.  If you are based in the EU, we will only process your personal data for a purpose described in this Privacy Policy if (1) you have provided your consent (which can be withdrawn at any time), (2) the processing is necessary for the performance of a contract we are about to enter into or have entered into with you, (3) we are required by law, (4) processing is required to protect your vital interests or those of another person, or (5) the processing is necessary for the purposes of our legitimate commercial interests (except where such interests are overridden by your rights and interests).  B. Rights Under the GDPR. If you are based in the EU, in certain circumstances you have rights under data protection laws in relation to your personal data that we hold about you—specifically:  1. Request access to your personal data. You may have the right to request access to any personal data we hold about you as well as related information, including the purposes for processing the personal data, the recipients or categories of recipients with whom the personal data has been shared, where possible, the period for which the personal data will be stored, the source of the personal data, and the existence of any automated decision making.  2. Request correction of your personal data. You may have the right to obtain without undue delay the rectification of any inaccurate personal data we hold about you.  3. Request erasure of your personal data. You may have the right to request that personal data held about you be deleted.  4. Request restriction of processing your personal data. You may have the right to prevent or restrict processing of your personal data.  5. Request transfer of your personal data. You may have the right to request transfer of your personal data directly to a third party where this is technically feasible.  Also, where you believe that we have not complied with our obligation under this Privacy Policy or European data protection law, you have the right to make a complaint to an EU Data Protection Authority.  You can exercise any of these rights by calling us at (877) 533-6435 or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3747455e4156544e775e595052595e581954585a).  C. Restrictions on Use of Your Personal Data to Promote Third-Party Products and Services. If you are based in the EU, we will only send you direct marketing communications related to third party products and services, if you have given your consent to receiving such marketing. We will generally ask for your consent to receive such marketing when you first provide your personal data.  You can choose to stop receiving any direct marketing communications from us at any time simply by following the "Unsubscribe" or "Manage Email Preferences" link at the bottom of any promotional email, or by logging into your profile on the applicable Platform and making changes in your account settings. Please note that you may not opt out of receiving non-promotional emails regarding your account or your transactions with us.  13\. WHAT ARE THE TERMS REGARDING ANY FUTURE CHANGES TO THIS PRIVACY POLICY?  We reserve the right to update or modify this Privacy Policy from time to time, with any such changes to be effective prospectively. Please visit this web page periodically so that you will be apprised of any such changes. Your continued use of any of our Platforms after any modification to this Privacy Policy will constitute your acceptance of such modification.  14\. WHAT LAW GOVERNS ANY DISPUTES REGARDING THIS PRIVACY POLICY?  You agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the State of California, without reference to the choice of law or conflicts of law principles thereof, and will be subject to the terms and limitations of the User Agreement or any other agreement we may have with you.  If any provision of this Privacy Policy is judged to be illegal, void or unenforceable due to applicable law or by order of a court of competent jurisdiction it shall be deemed deleted and the continuation in full force and effect of the remainder of the provisions will not be prejudiced.  If you enter into a contract with us that requires, or contemplates, collecting, using, sharing, or securing information about you in a manner that is different than that which is described in this Privacy Policy, the terms of that contract will apply.  15\. HOW CAN YOU CONTACT US?  If you have any questions or concerns regarding this Privacy Policy, please contact us at: 
+
+  * Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e191938897808298a1888f86848f888ecf828e8c)
+  * Telephone number: (877) 533-6435
+  * Mailing address: Ingenio—Privacy Policy, 182 Howard Street #826, San Francisco, CA 94105
+
+© 2018 Ingenio, LLC. All rights reserved. 
