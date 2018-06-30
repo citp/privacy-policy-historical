@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329112917id_/https%3A//www.kingice.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630071009id_/https%3A//www.kingice.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – KingIce
 
