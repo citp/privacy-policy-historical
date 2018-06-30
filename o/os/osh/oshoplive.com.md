@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the oshoplive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211534id_/https%3A//www.oshoplive.com/pages/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshoplive.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630031445id_/https%3A//www.oshoplive.com/pages/privacy-security) for the most accurate reproduction.*
 
 # Privacy&Terms – oshoplive
 
-For users logging on to the site to be personally identifiable, the following information is collected and stored.  
+For users logging on to the site to be personally identifiable, the following information is collected and stored.
+
 When you register on our website or through other companies' products or services, or visit the company website, the site will collect your personal information,including name, phone number, zip code, and address.
 
 The Bank will automatically receive and record your browser and the server log information, including but not limited to your IP address, cookie information in this site, and your web history requirements.
 
 The use and protection of information
 
-The company will collect the contents of the information mentioned above.  
+The company will collect the contents of the information mentioned above.
+
 The company might use some of the pictures you will uploads on oshoplive.com and share them on our various social media accounts.
 
 Customer information held by the company is confidential,except:
@@ -35,6 +37,8 @@ By registering for and/or using the Services in any manner, including but not li
 Certain of the Services may be subject to additional terms and conditions specified by us from time to time; your use of such Services is subject to those additional terms and conditions, which are incorporated into these Terms of Service by this reference.
 
 These Terms of Service apply to all users of the Services, including, without limitation, registered and unregistered users.
+
+The Terms shall be governed by the laws of United Kingdom without regard to its conflict of law provisions. The parties to the Terms hereby submit to the exclusive jurisdiction of the courts of United Kingdom.
 
 ****ELIGIBILITY****
 
