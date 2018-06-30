@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702073845id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630055809id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanadaHelps - Donate to any charity in Canada
 
-**Effective Date** : August 22, 2014
+**Effective Date** : July 30, 2017
 
 ## CANADAHELPS Respects Your Right to Privacy
 
@@ -12,9 +12,11 @@ Your privacy and security are important to us. CANADAHELPS respects your right t
 
 CANADAHELPS works carefully to ensure that your personal information is kept safe and secure throughout the transaction process and otherwise while in our custody or under our control. CANADAHELPS is committed to protecting and safeguarding the privacy and security of the personal information provided to us by our donors and registered charities in compliance with the Personal Information Protection and Electronic Documents Act (Canada) (PIPEDA). By making a donation, requesting information, or registering for an account on our website, you are giving CANADAHELPS permission to collect some of your personal information and to contact you by way of the information provided for the purposes outlined in this Privacy Policy. This Privacy Policy explains what information we collect and why we collect it, how we use that information, how the confidentiality of this information is protected, and how you can find out what personal information is recorded.
 
+CanadaHelps offers customizable donation tools to charities to assist with their fundraising efforts. This Privacy Policy also applies as set out below to personal information collected by CanadaHelps for charities using these customized donation tools. 
+
 ## General Privacy Practices
 
-CANADAHELPS observes the following privacy practices:
+CanadaHelps observes the following privacy practices from its direct-to-donor site where visitors can donate or fundraise for any Canadian Registered Charity:
 
   * CANADAHELPS collects information only for specified purposes.
   * We only require that you provide the necessary amount of personal information to provide any service, as required by law or by the Canada Revenue Agency (CRA).
@@ -24,9 +26,18 @@ CANADAHELPS observes the following privacy practices:
 
 
 
+CanadaHelps’ makes the following accommodations to the above for charities using its customizable fundraising tools:
+
+  * In using CanadaHelps’ customizable fundraising tools, charities may require you to provide additional information in order to make a donation, obtain an event ticket, or fundraise for the charity 
+  * Where the fundraising tool implemented by a charity does not include an Anonymity option permitting you to elect what information is shared with the charity, CanadaHelps will provide all information that is collected to the charity
+
+
+
+Charities using CanadaHelps’ customizable fundraising tools are required to agree to this Privacy Policy in its entirety. 
+
 ## What is Personal Information?
 
-Personal information is defined as any information about an identifiable individual including information that can be used to recognize, identify or contact a specific individual, whether it concerns an email address, where an individual lives, or which interests, causes and organizations he or she supports. Personal information does not include most business contact information such as the name, title, business address, or business telephone or fax number of an employee of an organization, and certain publicly available information.
+Personal information is defined as any information about an identifiable individual including information that can be used to recognize, identify or contact a specific individual, whether it concerns an email address, where an individual lives, or which interests, causes and organizations he or she supports. Personal information does not include most business contact information such as the name, title, business address, or business telephone or fax number or business email address of an employee of an organization, and certain publicly available information.
 
 ## Changes to this Privacy Policy
 
@@ -55,10 +66,11 @@ CANADAHELPS collects and uses personal information for the following purposes:
     * To generate statistics and aggregate reports for internal and external use.
     * To communicate directly with users, including through CANADAHELPS service news and updates, charitable promotions, charitable stories we think will be of interest to you, or other forms of communications.
     * To provide client support and help.
+    * For charities using CanadaHelps’ customized fundraising tools.
   3. ### Consent to use your personal information
 
     * CANADAHELPS collects personal information about you only when you voluntarily provide it or otherwise only with your consent as required by PIPEDA or by other applicable law.
-    * By visiting and using this website, the visitor agrees to the Privacy Policy and the terms of use linked to in this Privacy Policy. [Terms and Conditions](https://www.canadahelps.org/InfoPages/AboutUsTermsOfUse.aspx). If you do not agree to the Privacy Policy, do not use this Website or provide personal information to CANADAHELPS.
+    * By visiting and using this website, the visitor agrees to the Privacy Policy and the terms of use linked to [here](https://www.canadahelps.org/en/terms-of-use/). If you do not agree to the Privacy Policy, do not use this Website or provide personal information to CANADAHELPS.
     * We will not, as a condition of the supply of our service, require you to consent to the collection, use or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes for which the information is being provided.
     * A user may withdraw his or her consent to use his or her personal information at any time, subject to any legal or contractual restrictions. If you wish to withdraw your consent, please contact the Privacy Official of CANADAHELPS as described below. We will inform you of the implications of withdrawing consent.
     * If you do not wish to receive marketing communications from us or participate in more personalized information and services, you may unsubscribe by following the directions provided with the communication.
