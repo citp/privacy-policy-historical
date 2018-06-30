@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229222055id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630134838id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Photo of the day:
 
-[ ](http://www.motorstown.com/2-audi-a1.html)
+[ ](http://www.motorstown.com/39-chevrolet-aveo.html)
 
 | 
 
