@@ -1,39 +1,85 @@
-> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225041643id_/http%3A//www.wri.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630193739id_/http%3A//www.wri.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Resources Institute
 
-World Resources Institute (WRI) respects the privacy rights of our visitors and donors and recognizes the importance of protecting the information we collect about you. This policy statement tells you how we collect information from you and how we use it.
+World Resources Institute respects the privacy of our visitors and users and recognizes the importance of protecting the information we collect about you.
 
-WRI only collects personal information from our donors, customers and visitors on a voluntary basis and only when:
+This Privacy Policy tells you how World Resources Institute ("WRI," "we," or "us") handles information collected about you through our websites and applications (collectively, the “Services”). By using our  websites or by providing information to us through the Services, you agree to the collection and use of such information as described in this Privacy Policy.
 
-  * contributing information for site registration and future updates;
-  * submitting feedback and comments;
-  * completing surveys;
-  * placing orders for materials;
-  * donating through our websites or mail.
+WRI is a global research organization that spans more than 50 countries, with offices in the United States, China, India, Brazil, Indonesia and more.  As a result, information that we collect through the Services, including personal information, may be transferred to our U.S. offices to permit us to comply with our legal and contractual obligations, to provide information and services, and to perform related business activities. In addition, we may work with third-party service providers in the United States. and in other countries to support our business activities. Thus, personal information may be transferred to, stored on servers in, and accessed from the United States and countries other than the country in which the information was initially collected. In all such instances, we use, transfer, and disclose personal information solely for the purposes described in this Privacy Policy.
+
+### Information We Collect
+
+By using the Services, we may collect personally identifiable information ("Personal Information") about you, such as your name, email address, username, phone number, title, employer, and the content you or other people provide through the Services.
+
+We may also collect the following categories of information through your use of the Services (“Usage Information”): browser information, hardware model, operating system, IP address, the time you access the Services, and type of content you view or engage with while using the Services.
+
+Collectively, Usage Information and Personal Information are referred to as "information."
+
+### Why We Collect This Information
+
+We collect information about you to help make the Services more useful to you. This includes:
+
+  * Administering and improving the Services
+  * Personalizing your experience with the Services
+  * Promoting safety and security of the Services
+  * Contacting you about the Services
 
 
 
-  
-Personal information collected may include your name, your organization, email address, phone number, address. We also collect specific information about how you found our site and how you might use our materials. We do not generally require personal information to obtain access to any of our sites. In most cases, we will also ask if you would like to receive emails from us and give you the option of designating “yes” or “no”.
+### Who We Share Your Information With
 
-World Resources may also collect demographic information from visitors and donors, such as age, gender, geographic location, interests. This information helps us to improve our offerings and allows us to tailor information to your preferences.
+We may share your information as follows:
 
-## Data collection and sharing
+  * **Third Party Service Providers.**  We may share your information with third party service providers and contractors working on behalf of WRI who assist us in providing the Services. These service providers are only authorized to use your Personal Information to help us provide the Services to you. We do not sell or otherwise share your Personal Information with such third parties for their direct marketing purposes.
+  * **As Required or Permitted by Law.**  We may share your information with courts, government agencies and other third parties as required or permitted by applicable law, to comply with a subpoena or similar legal request, to enforce our policies, or to protect our or others' rights, property, or safety.
+  * **Performance Reporting.  **We may share aggregated, anonymized Usage Information with our donors and partners to report on the utility and performance of the Services.
 
-WRI does not sell, rent, or distribute our customer, donor, or visitor lists. We may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) WRI’s rights or property, other WRI users or anyone else that could be harmed by such activities. At any time you can correct, update or remove your personal data by contacting [Devan Tucker](mailto:dtucker@wri.org) (please include a copy of the most recent correspondence from WRI).
 
-## Security
 
-Security is of the upmost importance and concern to us. Credit card information is transmitted via SSL (secure socket layer) encryption. SSL encryption is a method by which information is encrypted while being transmitted over the Internet. It is the industry standard in e-commerce at this time. Credit card information is kept on file in an encrypted format for a maximum period of 30 days, after which it is automatically deleted and no longer retrievable by WRI’s customer service.
+### Security of Your Information
 
-To review personal information collected or request corrections you may login to community.wri.org or contact:
+We have implemented commercially-reasonable, technical, administrative and physical safeguards to protect your information. Unfortunately, no data transmission over the internet or data storage system can be guaranteed to be 100% secure. However, if you have reason to believe that your use of the Services is no longer secure (e.g., username and password have been compromised), please contact us immediately at [privacy@wri.org](mailto:privacy@wri.org).
 
-Devan Tucker  
-CRM Manager  
-[DTucker@wri.org](mailto:DTucker@wri.org)  
-+1(202)729-7658
+### Use of Online Tracking Technologies
 
-## Your Acceptance of These Terms
+When you use the Services, we along with our third party service providers may use Usage Information to more effectively understand how the Services are used and improve the usability of our Services.
 
-By using this site, you signify your assent to the WRI’s Privacy Policy. Your continued use of the sites following the posting of changes to these terms will mean you accept those changes.
+We use Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google uses cookies to help us analyze how visitors use our Services. The information generated by the cookie about your use of our Services is generally transmitted to and stored on a Google server in the United States. Google will use this information for evaluating your use of the Services, compiling reports on website activity, and providing us with other analytic services relating to our Services. Google will not associate your IP address with any other data held by Google.
+
+You may manage and opt out of Google’s use of cookies by visiting Google’s Ads settings and selecting the appropriate settings in your browser. Please note that if you do so, you may not be able to use the full functionality of our Services. Alternatively, you can prevent Google’s collection and use of data by downloading and installing the browser plugin available at: <http://tools.google.com/dlpage/gaoptout>  and/or opt out by visiting [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) or [www.youronlinechoices.com](http://www.youronlinechoices.com/). For further information on Google’s terms of use and data protection/privacy, please see <https://www.google.com/policies/privacy/>, <http://www.google.com/analytics/terms/us.html>, and <http://www.google.com/analytics/learn/index.html>.
+
+### Use of Cookies
+
+When you use the Services, we may place a text file (“Cookie”) in the browser of your computer. Cookies collect information such as the type of search engine used, the sections of the Website(s) visited, and other Website usage information. Cookies allow the Services to function by tracking the application state and authenticating You on each page on the services. You can refuse Cookies by disabling them in your Internet browser settings, typically under the sections "Help" or "Internet Options" or to [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) or [www.youronlinechoices.com](http://www.youronlinechoices.com/). However, the Services may not function properly if Cookies are disabled.
+
+### Choices
+
+We encourage you to promptly update your Personal Information if it changes. You may correct, update, amend, remove, or ask to have your Personal Information removed by making the change on your user account settings page, if applicable, or by contacting us as detailed below.
+
+In addition, you exercise any of the following actions at any time:
+
+  * You may opt out of receiving WRI communications by using the unsubscribe link within each email. 
+  * You may request information about, and access to, the personal data that we collect from you.
+  * You may ask questions or make complaints about our privacy and data security practices with regard to your personal data.
+  * You may request that we delete information that we have collected about you.
+  * You may ask us for a copy of the information that we collected from you.
+
+
+
+To exercise any of these options or for additional information about our privacy practices, contact us at [privacy@wri.org](mailto:privacy@wri.org).
+
+We will retain your information for as long as needed to provide you the Services. We will try to comply with requests under this section as soon as reasonably practicable as required by applicable law. However, we may need to retain and use certain information for recordkeeping purposes, to complete any prior request, as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, or for other purposes as required or permitted by applicable law.
+
+### Updates to our Privacy Policy
+
+From time to time, we may revise the Privacy Policy to reflect changes in the law, our information collection and use practices or to detail new features provided through the Services. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice through the Services.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
+
+[privacy@wri.org](mailto:privacy@wri.org)  
+World Resources Institute  
+10 G Street NE, Suite 800  
+Washington, DC 20002
