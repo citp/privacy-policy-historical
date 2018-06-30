@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119141438id_/https%3A//www.lashowroom.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630155122id_/https%3A//www.lashowroom.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy − LAShowroom.com
 
-## LAShowroom.com PRIVACY STATEMENT
+## PRIVACY STATEMENT
 
 This privacy statement covers the site LAShowroom.com. This policy statement strives to explain the following issues:
 
@@ -17,7 +17,7 @@ This privacy statement covers the site LAShowroom.com. This policy statement str
 
 
 
-If users have questions or concerns regarding this statement, they should first contact us by email at privacy@lashowroom.com and then by phone at 213-627-0339.
+If users have questions or concerns regarding this statement, they should first contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and then by phone at 213-627-0339.
 
 ## Information Collection and Use
 
@@ -110,7 +110,7 @@ This website takes every precaution to protect our users' information. When user
 
 We do everything in our power to protect our users' information. All of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job function (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desks to prevent unauthorized access. When they return, they must re-enter their password to re-gain access to their workstation, and in turn user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they must do to ensure our users' information is protected. 
 
-If users have any questions about the security at our website, users can send an email to privacy@lashowroom.com.
+If users have any questions about the security at our website, users can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Correcting/Updating/Deleting/Deactivating Personal Information
 
