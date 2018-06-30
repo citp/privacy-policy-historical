@@ -1,126 +1,227 @@
-> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101112832id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630051214id_/https%3A//www.dowjones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - Financial News
+# Privacy Policy - Dow Jones
 
-## The Financial News Privacy and Cookies Policy
-
-### Effective February 21, 2012
+**Effective Date: October 19, 2017**
 
 ### 1\. INTRODUCTION
 
-eFinancial News Ltd. ("Financial News", "us" or "we") is the data controller for the Financial News website, home page at efinancialnews.com, including when this website is accessed via the Internet, mobile or other device, and applications and sites affiliated with this website, including (but not limited to) the Financial News iPad application (collectively, the "Financial News Services"). eFinancial News Ltd. is owned by Dow Jones International, Ltd., ("Dow Jones"), and is part of the United States based operations of News Corporation.
+Dow Jones & Company, Inc., and its subsidiaries ("Dow Jones") want you to be familiar with how we collect, use and disclose information from and about you because we respect your concerns about privacy, and we want to maintain your trust.
 
-This Privacy and Cookies Policy applies to all users of the Financial News Services and users of any related services, applications, or sites that link to this Privacy and Cookies Policy. By using our Financial News Services, you agree to the terms and conditions of this Privacy and Cookies Policy.
+This Privacy Policy applies to information we collect from all sources, including in connection with our websites, mobile sites, applications ("apps"), widgets, conferences, events, and electronic newsletters or communications (collectively the "Dow Jones Services") that link to this Privacy Policy. If there is a conflict between this Policy and a Dow Jones Services corporate subscription agreement, the Dow Jones Services corporate subscription agreement will take precedence.
 
-This Privacy and Cookies Policy does not govern the collection, use or disclosure of information in connection with any other Dow Jones products or services, or other methods for delivering any Dow Jones product or service, other than through the Financial News Services.
+This Policy describes the types of Personal Data we collect, how we use it, and with whom we share it. It also describes generally Dow Jones' practices for handling Other Information (e.g., interests, demographics and services usage) collected through our Dow Jones Services or from a third party to the extent such information is associated with a particular device, user or user account. We also describe the measures we take to protect the information, your options for choice and access, and how you can contact us about privacy practices. As described more fully below, we share information with our subsidiaries, and affiliated companies ("Dow Jones Affiliates"), for the purposes described in this Privacy Policy. A list of Dow Jones subsidiaries and Affiliates is available in annual reports accessible [here](http://investors.newscorp.com/sec-filings). By using the Dow Jones Services, you acknowledge you have read and accept this Privacy Policy.
 
-### 2\. INFORMATION WE COLLECT
+Your decision to use the Dow Jones Services and provide your Personal Data is voluntary. We indicate on our online, mobile, and other registration forms what types of Personal Data are requested. You may choose not to submit requested information online, or may choose to restrict the use of cookies (see Other Information below, or our [Cookie Policy](https://web.archive.org/web/20180630051214id_/https://www.dowjones.com/privacy-policy/cookies-policy/), for more information), but that may limit the services Dow Jones is able to provide to you.
 
-**Personal Information You Submit.** We collect all of the personal information that you submit to us, e.g., when you register for or subscribe to certain products or services, create a profile, participate in a sweepstakes or contest, take a survey, or use an interactive feature (such as Email-to-a-Friend). This may include your name and contact details, or any other information you submit, including your, occupation, interests, and feedback comments.
+The Dow Jones Services are a network of general audience sites, and are not targeted to, and do not knowingly collect Personal Data from, minors under 16 years of age. We request that these individuals do not provide Personal Data through the Dow Jones Services.
 
-**Information We Receive from Third Parties.** We may receive certain information from selected third parties. Market research institutes such as Nielsen may provide aggregated demographic data or statistics on preferences and interests. Analytics service providers such as Chartbeat may provide aggregated information about user activities on our Financial News Services. Advertising service providers such as Audience Science may provide general information about user activities on other websites.
+* * *
 
-**Information We Collect When You are Online.** When you access our Financial News Services, we automatically collect certain information. For this process, we may use cookies and other tracking technologies (see the Use of Cookies and Other Tracking Devices for more details). Information collected when you are using the Financial News Services may include information about your computer and browser, potentially including your IP address, operating system, browser type, URL of the linking page if you arrive at Financial News Services via a link from another website, and other software and hardware information. We may also collect information on your region, continent, country, city, zip code, postcode, time zone, and other data to display relevant and personalised content.
+### 2\. WHAT WE COLLECT
 
-We may further use these technologies to collect and store information about online activity, preference, and your usage of our Financial News Services, such as the pages you have visited, search queries you have run, and advertisements you have seen.
+Dow Jones and our service providers collect Personal Data to offer services you have requested or that we have a legitimate interest to believe are of interest to our customers, to manage the relationships we have with our customers and partners, and to perform activities based on your consent. Dow Jones and our service providers may collect the following information from and about you:
 
-**Information Collected by Third Parties.** Information on site usage and other similar information, Internet activity, demographic information, and aggregated information may be collected by third parties that support our Financial News Services by serving advertisements or providing services, such as allowing users to share content, or tracking aggregate site usage statistics. Financial News may not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising on our Financial News Services, see the section on delivering advertising below.
+2.1 Personal Data
 
-### 3\. HOW WE USE YOUR INFORMATION
+"Personal Data" for purposes of this Privacy Policy is the information that identifies you as an individual or relates to an identifiable person.
 
-We use the information we collect from and about you for the purposes set forth below.
+2.1.1 Personal Data You Submit
 
-**To Provide and Manage our Services.** We use the information we collect from and about you to provide our products, services, and features to you. We use your information to process and fulfill your subscription, to send you information about your relationship or transactions with us, to allow for transition between the different websites, including access via the Internet, mobile or other device, and applications and sites affiliated with those products, to measure and improve those services and features, to conduct market research, to allow you to provide feedback on content, participate in online contests, promotions or rewards programs, to provide you with customer support, and to respond to your inquiries.
+We collect Personal Data when you submit it to us, such as when you register for or subscribe to certain products or services; create a profile; participate in a sweepstakes, contest or game; take a survey; visit our Dow Jones Services; use an interactive feature (such as chat or article sharing options); participate in a community forum; or contact customer service. The Personal Data you submit may include your name, postal address (including billing and shipping addresses), credit or debit card number, telephone number, mobile number, email address, gender, username, or profile picture.
 
-**To Deliver Relevant Content and Recommendations.** To make your experience more interesting and personalised, we may use any information we collect to assist us in delivering content on our Financial News Services.
+2.1.2 Personal Data We Receive From Third Parties
 
-**To Deliver Relevant Online Advertising.** We may use any of the information we collect from and about you to assist us in delivering relevant ads to you when you visit our Financial News Services. In particular, information on Internet activity, demographic information, and aggregated information may be used to limit the online ads you encounter to those we believe are consistent with your interests. For more information on how we use third party providers, cookies and other tracking technologies to assist with our online advertising please see below
+To the extent permitted by applicable law, we may receive Personal Data about you from third parties, such as social media services, commercially available sources, Dow Jones Affiliates, business partners, and, if applicable to you, the third party provider of your subscription. The Personal Data we receive from third parties may include your name, contact information, information about your transactions, purchase history, or relationships with various product and service providers, and your use of certain applications. For example, if you access a Dow Jones Service through a social media service or connect a Dow Jones Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content the social media service will share with us, such as your profile picture, or email address. The information we obtain depends on your privacy settings on the applicable social media service. When you access the Dow Jones Services through social media services or when you connect a Dow Jones Service to social media services, you are authorizing Dow Jones to collect, store, and use such information and content in accordance with this Privacy Policy.
 
-We may work with third party online advertising companies and advertisers who help deliver online ads to you. We will not sell, rent, or share personal information with these third parties for such parties’ own marketing purposes, unless you choose in advance to have your personal information shared for this purpose.
+2.2 Other Information
 
-**To Contact You and Send you Promotional Materials.** We may use your email address to respond to inquiries or requests you make to us, including sending you email news alerts. Subject to your approval, Financial News may also periodically send promotional materials or notifications related to our products and services to the email address you provided to us at registration or to your account. To help make these promotional materials more relevant to you, we may use information we collect to assist us in sending you promotional materials. If you would like to stop receiving promotional materials from us, you can change your settings by logging in and visiting the "My Profile" section of our website or following the unsubscribe instructions at the bottom of any of our promotional emails.
+"Other Information" is any information that is not intended to reveal your specific identity to us, such as browser information, usage data, information collected through cookies and other technologies, demographic information, geolocation data obtained with your consent where required by applicable law, and aggregated information.
 
-Note that there are certain service notification emails that you may not opt out of as long as you are registered with or subscribed to our products and services, such as renewal notices and notifications of changes to our products, services, or policies.
+2.2.1 Other Information You Submit
 
-### 4\. USE OF COOKIES AND OTHER TRACKING DEVICES
+We collect Other Information when you submit it to us. This may include your password, birthday, education, occupation, financial information (such as your income, investments, portfolio transactions and value, and other information), and interests.
 
-We use cookies and other tracking technologies (including pixels, beacons, and Adobe Flash technology) to improve and personalise the Financial News Services and for the other purposes explained in this Privacy and Cookies Policy. A cookie is comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site.
+2.2.2 Other Information We Receive From Third Parties
 
-We may use cookies to
+We may receive Other Information about you from third parties, including, for example, demographic data, social media account number, information about your interests, and information about your activities on other websites.
 
-  * facilitate our login processes;
-  * identify returning users, registrants, and subscribers and to allow them to be presented with a personalised version of the Financial News Services; 
-  * enable you to move more easily around our sites, and to display relevant content, products, services and advertising, as described further below;
-  * track your use of our sites to better develop our sites in accordance with your requirements; 
-  * collect and store information about your usage of our Financial News Services and your browsing pattern across sites, such as pages you have visited, search queries you have run, and advertisements you have seen, in order to make advertisements available to you that are more relevant to your interests.
+2.2.3 Other Information Collected Automatically
 
+Our services use cookies and other tracking technologies to function effectively and deliver certain features. For more information about how we use cookies and tracking technologies, please refer to our [Cookie Policy](https://web.archive.org/web/20180630051214id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
 
+The Dow Jones Services may also be linked to sites or apps operated by third parties, and may carry advertisements or offer content, special offers, functionality, games or applications developed and maintained by third parties, using iframes, tools, or plug-ins (“Linked Services”). These third party Linked Services may use automated means to collect information about you and your use of these features. Some of these third party sites may be co-branded with a Dow Jones logo, even though they are not operated or maintained by us.
 
-We may also use cookies and similar tools to relate your use of our Financial News Services to personal information obtained from you or a reputable third party. For example, if you have asked us to provide you with information about our upcoming products or promotions, cookie and/or clickstream data about your activities on our Financial News Services may allow us to limit the materials we provide to you to items we think you will find interesting based on your prior online activities and preferences. You can delete cookies from your hard drive at any time, however this will mean that any settings such as your stored username and password will have to be reset. You can set your internet browser so that it will not allow cookies to be stored on your computer. This may reduce functionality of the site, prevent access to registration/subscription-only areas of the site and mean that certain features or content will not be available to you. Further information on how to prevent cookies from being stored on your computer can be found on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) under the "manage cookies" section. Alternatively go to the help menu within your internet browser.
+Dow Jones is not responsible for the privacy practices of such third parties, and once you leave the Dow Jones Services or click an advertisement, or sign up for a special offer, you should check the applicable third party privacy policy.
 
-Users can manage the use of Flash technologies, including cookies, with the Flash management tools available on Adobe’s website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. Please note that by blocking any or all cookies you may not have access to certain features or personalisation available through our Financial News Services.
+* * *
 
-From time to time we may permit third party companies to set cookies on our sites for purposes which may include market research, serving advertisements, revenue tracking, to improve functionality of the site or monitoring compliance with our subscription agreement.
+### 3\. HOW WE USE YOUR PERSONAL DATA AND OTHER INFORMATION
 
-Financial News Services employs analytics services supported by third party companies such as Google, Adobe Omniture, and AudienceScience Inc. These third parties generate cookies for statistical purposes on our behalf, for example, for tracking how many unique users have seen a particular feature or advertisement, and how many times they have seen it. We do not have access to these cookies, although we may use statistical information arising from the cookies provided by these third parties for the purpose of evaluating your use of the Financial News Services, compiling reports on website activity and providing other services relating to website activity and browsing patterns across the Financial News Services and third party websites. These third parties have their own privacy policies and the information generated by the cookie about your use of our sites may be transmitted to and stored on servers in Ireland and the United States. They may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf.
+We may use the Personal Data we collect from and about you for the purposes set forth below. We may use and disclose Other Information for any purpose, except if it is considered Personal Data under applicable law. If we combine Other Information with your Personal Data, we treat the combined information as Personal Data.
 
-If you wish to refuse the use of cookies by Google, please visit <http://tools.google.com/dlpage/gaoptout>.
+To improve the quality of our products and services and to personalize your experience by presenting content, products and offers tailored to you, we may also combine the Personal and Other Information we collect with information relating to your use of other Dow Jones products, services and websites. In addition, we may supplement the Personal Data and Other Information we collect with information from other sources, such as publicly available information from social media services, commercially available sources, and information from Dow Jones Affiliates or business partners. 
 
-If you wish to refuse the use of cookies by Adobe Omniture, please visit <http://www.omniture.com/privacy/2o7>.
+Through third party analytics providers, ad networks, and advertisers, we can track your online activities over time and across third party websites, apps and devices, by obtaining information through automated means.
 
-If you wish to refuse the use of cookies by AudienceScience, please visit <http://www.audiencescience.com/privacy>.
+This information, along with information we gather when you log in, can be used to understand use across sites and devices to help improve our products, remember your preferences, provide content recommendations, and show you advertisements on the Dow Jones Services or other third party websites and apps that may be tailored to your individual interests. For more information, including how to manage cookies, please refer to our [Cookie Policy](https://web.archive.org/web/20180630051214id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
 
-Some of the advertisements you see on Financial News Services are generated by third party service providers and advertisers. Some of these third parties generate cookies for statistical purposes on our behalf, for example, for tracking how many unique users have seen a particular advertisement, and how many times they have seen it, and for providing advertisements that are more relevant to users. They do not contain identifying information such as your name or email address. This profile enables us to deliver more relevant advertising on our Financial News Services. For example if on a previous visit you went to our personal finance pages, we might find this out from your cookie, and we may then target personal finance advertisements on your subsequent visits to our websites which we think may be of interest to you.
+3.1 To Provide, Measure And Improve Our Products And Services
 
-To find out more about third party online advertising and to opt out of this type of advertising, visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) or [www.aboutads.info](http://www.aboutads.info/). Please remember that if you opt out of this type of advertising, you will still receive advertising when you are using the website, however, that advertising will not be tailored for you.
+We use the information we collect from and about you to provide our products, services and features to you, including: to process and fulfill your subscription, to create and manage your accounts, to send you information about your relationship or transactions with us, to measure and improve services and features, to allow you to engage with us (e.g., to comment on content and participate in online games, contests, promotions, special events, rewards programs, surveys or market research), to use collaboration tools to share content and collaborate with other users, to provide you with customer support, including online chats, and to respond to inquiries. If you choose to use the collaboration tools, some of your Personal Data may be included in a directory that can be viewed and used by other users of these collaboration tools. In addition, if you have multiple product subscriptions, we may use your information to allow you to sign in to several Dow Jones websites with the same user ID. 
 
-Financial News Services may use pixels, or transparent GIF files, to help manage online advertising. These GIF files may be provided by one of our Ad Management Partners, namely DoubleClick, Pointroll, Atlas, or MediaMind/Eyeblaster. These files enable our Ad Management Partners to recognise a unique cookie on your browser which in turn enables us to determine general geographic location, track how many unique users have seen a particular advertisement, and to re-target ads. For more information about Google DoubleClick, including information about their Dart for Advertisers (DFA) technology and how to opt-out, go to <http://www.google.com/doubleclick>. For information about Pointroll, and if you wish to refuse the use of cookies, go to <http://www.pointroll.com/privacy.php>. Information on Atlas Solutions is available at [http://atlassolutions.com](http://atlassolutions.com/); opt-out is offered via <https://choice.live.com/AdvertisementChoice/Default.aspx>. More information about Mediamind/Eyeblaster, including how to opt-out of cookies, is accessible via <http://www.mediamind.com/Content.aspx?page=privacy_policy>.
+3.2 To Deliver Relevant Content And Recommendations
 
-### 5\. HOW WE SHARE YOUR INFORMATION
+To make your experience more interesting and personalized, we may use any of the Personal Data and Other Information we collect to assist us in delivering content on any of our Dow Jones Services. For example, if you use WSJ.com and Factiva.com, we may use your WSJ.com reading history to personalize the content delivered to you on Factiva.com.
 
-Our Disclosure of Information
+3.3 To Deliver Advertising And Interest-Based Advertising 
 
-We only share your personal information with nonaffiliated third parties when sharing is permitted by you or authorised by this Privacy and Cookies Policy. In addition, we may share your personal information with our [Affiliated Companies](http://www.newscorp.com/). eFinancialNews Ltd is the party responsible for the management of your information.
+The Dow Jones Services and our service providers may use any of the information we collect from and about you (in certain cases, such as with respect to financial information, only with your express permission) to assist us in delivering ads about products and services tailored to your individual interests to you when you use the Dow Jones Services or another service provided by Dow Jones, Dow Jones Affiliates, or unaffiliated third parties. (See What We Collect, above, for details on the types of information we may use.) We may work with third party online advertising companies, advertisers and ad networks who help deliver these ads to you. These third parties may collect and use information about your activities on our Dow Jones Services and on other websites, and Other Information about you, to limit the online ads you encounter to those we believe are consistent with your interests.
 
-We also share your personal information:
+To the extent required by applicable law, we will obtain your consent before using your information for interest-based advertising. To learn how to opt out of online interest-based advertising, please follow the instructions in the Your Rights and Choices section below. 
 
-**To Manage Corporate and Third-Party Subscriptions.** If your subscription is provided in whole or in part by your employer or another third party, we may notify the provider when you access or use your subscription. When providing these notices, we may reveal limited amounts of your personal information such as your name or email address.
+If you provide your mobile phone number to us, we may ask for your consent to receive text message alerts from us containing product, event, or promotional information in a text or SMS message (“Text Messages”). Your consent to receive Text Messages is not required to purchase goods or services from us. 
 
-**To Allow Third-Party Service Providers to Assist us in Providing and Managing Our Services.** We may make your personal information available to certain third-party service providers, such as contractors, agents, or sponsors, who help us manage or provide our products and services by, for example, developing or supporting products and features; storing customer subscription information; sending email messages on our behalf; processing payments; fulfilling orders; delivering subscriptions; auditing; processing data or statistics; or serving, customising or delivering marketing or ads. These outside service providers are required to protect personal information entrusted to them and not use it for any other purpose than the specific service they are providing to us.
+3.4 To Allow Social Sharing Functionality 
 
-**To Permit Third Parties to Send You Promotional Materials.** If you subscribe to Financial News Services, we will not sell, rent, or share your personal information with or to third parties for such parties’ own marketing purposes, unless you choose in advance to have your personal information shared for this purpose. We may, however, use the services of email delivery service providers, namely StrongMail. See <http://www.strongmail.com/site/privacy-policy> for more details on StrongMail’s privacy practices.
+If you log in with or connect a social media service account with a Dow Jones Service, we may use Personal Data and Other Information to facilitate your sharing of information between the Dow Jones Services and your social media service.
 
-**To Protect the Rights of Financial News and Our Users.** There may be instances when Financial News may disclose information, including situations where we have a good faith belief that such disclosure is necessary in order to (i) protect or defend the legal rights or property of Financial News, our Affiliated Companies or their employees, agents, and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of our products and services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process, including laws outside your country of residence; or (v) respond to requests from public and government authorities including authorities outside your country of residence.
+3.5 To Contact You 
 
-**To Complete a Merger or Sale of Assets.** If Financial News sells all or part of its business, makes a sale or transfer of its assets, or is otherwise involved in a merger or transfer of all or a material part of its business, Financial News may transfer your information to the party or parties involved in the transaction as part of that transaction.
+Dow Jones and Dow Jones Affiliates may periodically send promotional materials, with your permission where required, surveys, market research, contest or promotional awards, or notifications related to our products and services. To help make these materials more relevant to you, we may use and combine any of the Personal Data and Other Information we collect to assist us in sending you these materials. We may also use your information (including a telephone or mobile number you may have provided for this purpose) to contact you, including to respond to your comments, inquiries or requests. If you want to stop receiving these materials, please follow the instructions in the Your Rights and Choices section below. 
 
-### 6\. NOTICE
+3.6 To Protect The Rights Of Dow Jones And Others 
 
-**Means of Notice and Choice.** This Privacy and Cookies Policy summarises our collection and use of your information. If we ask for specific personal information that will be used in a manner different from what is described in this Privacy and Cookies Policy, we will inform you at the time of collection.
+Dow Jones may use your Personal Data as we believe to be necessary or appropriate in order to: protect, enforce, or defend the legal rights, privacy, safety, or property of Dow Jones, our Dow Jones Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); protect the safety, privacy, and security of users of our products and services or members of the public; protect against fraud and other unlawful activity or for risk management purposes; comply with and enforce the law or legal process, including laws outside your country of residence, contractual obligations, and our policies; or respond to requests from public and government authorities, including public and government authorities outside your country of residence, to the extent permitted by applicable law.
 
-**Cross-Border Transfer.** The information collected through the Financial News Services may be stored and processed in the United States and other countries where we have facilities or in which we engage service providers, and you consent to the transfer of information to the United States and other countries which may have different data protection rules than the country of your residence.
+* * *
 
-**Data Retention.** We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy and Cookies Policy unless a longer retention period is required or allowed by law.
+### 4\. HOW WE SHARE YOUR PERSONAL DATA AND OTHER INFORMATION
 
-**Linked Websites.** Our Financial News Services may also be linked to sites operated by Financial News affiliates (i.e., that are part of Dow Jones & Company, Inc. and the News America Group, collectively, "Affiliated Companies") or third parties, and may carry advertisements or offer content, functionality, games, or applications developed and maintained by third parties.
+4.1 Our Disclosure of Personal Data and Other Information
 
-Some of these third party sites may be co-branded with a Financial News logo, even though they are not operated or maintained by us. Financial News is not responsible for the privacy practices of any such third parties, and once you leave our Financial News Services via a link, enable a third party service, or click on an advertisement, you should then check the applicable privacy policy of the third-party site. Additionally, although all Affiliated Companies adhere to the News Corporation corporate [Privacy Principles](http://www.newscorp.com/privacy.html), users who visit an Affiliated Company site should still refer to its separate privacy policy, which may differ in some respects from this Privacy and Cookies Policy.
+Dow Jones & Company, Inc. and its subsidiaries may share your Personal Data with one another, as well as with Dow Jones Affiliates for the purposes described in this Privacy Policy, including for each company's marketing purposes if you have consented to such use. Users who visit Dow Jones Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. Dow Jones is the party responsible for the management of the jointly-used Personal Data.
 
-### 7\. SECURITY
+In addition, we may share your Personal Data with non-affiliated third parties when sharing is permitted by you or authorized by this Privacy Policy, including:
 
-In accordance with applicable law, Financial News uses commercially reasonable administrative, technical, personnel, and physical measures to safeguard personal information in its possession against loss, theft or unauthorised use, disclosure, or modification.
+4.1.1 To Manage Corporate, Third Party, and School Subscriptions
 
-### 8\. HOW TO ACCESS, CORRECT, OR UPDATE YOUR INFORMATION
+If your subscription is provided in whole or in part by your employer, school or other third party, we may share with them information about your access to and use of your subscription. If you have a subscription associated with a professor or school, we may also contact your professor or school to confirm your subscription. When providing this information, we may reveal limited amounts of your Personal Data such as your name or email address.
 
-You can access or modify personal information, or modify your preferences by contacting Customer Service for Financial News at [customerservices@efinancialnews.com](mailto:customerservices@efinancialnews.com). Subscribers can also update personal data online and marketing preferences by signing in to their account and visiting the "My Profile" section of efinancialnews.com.
+4.1.2 To Allow Third-Party Service Providers To Assist Us In Providing and Managing Our Services 
 
-### 9\. CONTACT US
+We may make your Personal Data available to third party service providers, such as contractors, agents or sponsors, or Dow Jones Affiliates, who help us manage or provide our products and services by, for example: developing or supporting products and features; sending email messages on our behalf; processing payments; fulfilling orders; delivering subscriptions; auditing; processing data or statistics; and serving, customizing or delivering marketing. These third party service providers are required to protect Personal Data entrusted to them and not use it for any other purpose than the specific service they are providing on our behalf.
 
-If you have any comments or questions about this Privacy and Cookies Policy, please contact us at [customerservices@efinancialnews.com](mailto:customerservices@efinancialnews.com) or:
+4.1.3 To Provide Co-Branded Services And Features 
 
-eFinancial News Limited  
-Dow Jones International Ltd.  
-The News Building,  
-1 London Bridge Street,  
-London,  
-SE1 9GF 
+We may offer co-branded services or features, such as conferences, events, contests, sweepstakes or other promotions together with a third party ("Co-Branded Services"). These Co-Branded Services may be hosted by the Dow Jones Services or on the third party's service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party's use of your information will be governed by the third party's privacy policy.
+
+4.1.4 To Permit Unaffiliated Third Parties To Send Promotional Materials To U.S. Print Subscribers 
+
+If you subscribe to the U.S. edition of The Wall Street Journal or Barron’s print publications, we may share your print mailing address with unaffiliated third party companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please contact Customer Service as described below in Your Rights and Choices. 
+
+4.1.5 To Allow Social Sharing Functionality
+
+If you log in with or connect a social media service account with a Dow Jones Service, you are authorizing us to share information we collect from and about you with the social media service provider and other Dow Jones Services, and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your Personal Data shared in this way, please do not connect your social media service account with your Dow Jones Services account, and do not participate in social sharing on the Dow Jones Services.
+
+4.1.6 To Protect The Rights Of Dow Jones And Others 
+
+There may be instances when Dow Jones may disclose your Personal Data, including situations where we have a good faith belief that such disclosure is necessary in order to: protect, enforce, or defend the legal rights, privacy, safety, or property of Dow Jones, our Dow Jones Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); protect the safety, privacy, and security of users of our products and services or members of the public; protect against fraud and other unlawful activity or for risk management purposes; comply with and enforce the law or legal process, including laws outside your country of residence, contractual obligations, and our policies; or respond to requests from public and government authorities, including public and government authorities outside your country of residence, to the extent permitted by applicable law.
+
+4.1.7 To Complete A Merger, Sale Of Assets, Or Bankruptcy
+
+If Dow Jones sells all or part of its business or assets, or is otherwise involved in a merger, reorganization, dissolution, liquidation, or transfer of all or part of its business, as part of that transaction Dow Jones may transfer your information to the party or parties and their advisors involved in the transaction.
+
+4.2 Information Made Public Through Use of Our Services and User Privacy Settings
+
+Certain features on the Dow Jones Services give you an opportunity to interact with us and others. These may include the collaboration tools, community forums, chats, submitting a letter to the editor, creating community profiles, and rating, tagging, and commenting on articles. When you use these features, you should be aware that any information you choose to submit, including your name, user name, location, email address, profile information, picture or image, likes, status, and comments, including any political or religious or other beliefs you express, may be publicly available to anyone, including other users, search engines, advertisers, third party application developers, and anyone else with access to the Dow Jones Services. We are not responsible for any information you choose to submit and make public through these interactive features.
+
+* * *
+
+### 5\. HOW WE PROTECT AND RETAIN PERSONAL DATA
+
+Dow Jones uses a combination of administrative, technical, personnel and physical measures to safeguard Personal Data in its possession against accidental, unlawful or unauthorized loss, use, access, disclosure or modification. We make reasonable efforts to ensure a level of security appropriate to the risk of the processing, taking into account the costs of implementation and nature of the processing of Personal Data. However, no one can guarantee the complete safety of your information. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting Customer Service in accordance with the instructions below.
+
+We will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+* * *
+
+### 6\. YOUR RIGHTS AND CHOICES
+
+6.1 Your Choices Regarding Our Use and Disclosure of Your Personal Data
+
+We give you many choices regarding our use and disclosure of your Personal Data for marketing purposes. 
+
+6.1.1 To Opt Out Of Direct Marketing From Dow Jones And Dow Jones Affiliates 
+
+You may opt out of receiving electronic communications from us (including surveys, notifications, or promotions from us on behalf of third parties), or our sharing of your Personal Data with Dow Jones Affiliates for their direct marketing purposes, by changing your account settings through the appropriate link on the website account services page or following the unsubscribe instructions at the bottom of each email. You can opt out of direct marketing from Dow Jones Affiliates by using the unsubscribe links they provide or following the steps in their applicable policies. 
+
+Please note that there are certain service notifications that you may not opt out of, such as renewal notices and notifications of changes to Dow Jones products and services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+
+6.1.2 To Opt Out Of Direct Marketing From Unaffiliated Third Parties 
+
+You may also opt out from our sharing of your contact information with unaffiliated third parties for their marketing (which only applies if you are a WSJ U.S. edition or Barron’s print subscriber) by contacting Customer Service.
+
+6.1.3 To Opt Out Of Online Interest-Based Or Text Advertising
+
+You may also opt out of online interest-based advertising by taking the steps detailed in our [Cookie Policy](https://web.archive.org/web/20180630051214id_/https://www.dowjones.com/privacy-policy/cookies-policy/).
+
+If you consented to receiving promotions or advertising via Text Message, you can unsubscribe from receiving Text Messages at any time by replying “STOP” to one of our Text Messages.
+
+6.1.4 To Change Mobile App Privacy Settings 
+
+You may change the privacy settings for Dow Jones apps by accessing and updating privacy settings and permissions within the mobile app or on your mobile device.
+
+6.2 How To Access, Correct or Update Your Personal Data
+
+You can access, review, correct, update, delete or modify your registration or subscription profile information and modify your marketing preferences by contacting Customer Service, as indicated below. Most subscribers and registered users can also update their Personal Data online by signing on to their accounts and visiting the appropriate account management sections of our websites. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you may need to update your information for each separately. You can also object to or restrict the processing of your Personal Data. If you are in the European Economic Area (“EEA”), you can also exercise your right to data portability.
+
+Here are links to pages where subscribers and registered users may update their personal profile information, marketing and newsletter preferences, or find local contact information for Dow Jones Services:
+
+Where you have provided your consent for our use of your Personal Data, you have the right to withdraw your consent and we will apply your preferences going forward. 
+
+For your protection, we may only implement requests with respect to the Personal Data associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Data provided until after the completion of such purchase or promotion).
+
+6.3 California Privacy Rights
+
+Subject to certain limitations, California Law permits our customers who are California residents to request certain information regarding our disclosure of Personal Data during the preceding calendar year to third parties for their own direct marketing purposes. To make such a request, California residents can write to us at [privacypolicy@dowjones.com](mailto:privacypolicy@dowjones.com), Attn: DM Disclosure Manager, and include your name and the address to which you would like us to respond.
+
+* * *
+
+### 7\. OTHER IMPORTANT INFORMATION
+
+7.1 Updates to Privacy Policy
+
+Dow Jones may periodically update this Privacy Policy without prior notice to reflect changes in our practices. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Dow Jones Services. We will notify you by posting a prominent notice on the Dow Jones Services indicating we have updated this Privacy Policy. Your use of the Dow Jones Services or your provision of Personal Data to us following these changes means you acknowledge you have read and accept the revised Privacy Policy.
+
+7.2 Do Not Track Disclosure 
+
+Some browsers or other tools include “Do Not Track” (DNT) features which, when turned on, send a signal to websites you visit indicating you do not wish to be tracked across websites over time. However, since no technology standard for DNT signals has been developed or adopted to date, Dow Jones does not currently respond to DNT signals. 
+
+7.3 Transfers
+
+Your Personal Data may be stored, transferred to, and processed in any country where we have facilities or in which we engage service providers. These countries may be outside your country of residence, including the United States, and may have different data protection laws than in your country.
+
+If you are located in the EEA, we will implement appropriate safeguards to protect your Personal Data as required if we transfer it outside the EEA.
+
+7.4 Collection of Personal Financial Information by a Payment Service 
+
+In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment in such a case, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service.
+
+* * *
+
+### 8\. CONTACT US
+
+If you have questions about this Privacy Policy or how we or our service providers handle your Personal Data, please contact our Chief Privacy Officer and Data Protection Officers at [privacypolicy@dowjones.com](mailto:privacypolicy@dowjones.com).
+
+Or you may write to:  
+Attention: Privacy  
+Dow Jones & Company, Inc.  
+4300 U.S. Route 1 North  
+Monmouth Junction, NJ 08852
+
+If you are located in the EEA, the entity responsible for the collection and processing of Personal Data in connection with the Dow Jones Services is Dow Jones & Company, Inc. (U.S.) (contact information provided above). If you have a corporate or group subscription agreement, the entity responsible for the collection and processing of your Personal Data is the entity with whom your company, professor or school has a direct relationship.
+
+We will respond to your questions and complaints about our processing of your Personal Data. If you are not satisfied with our response, you can contact a supervisory authority. Please do not disclose any sensitive Personal Data (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, or trade union membership), social security numbers, or criminal background information when contacting us. 
