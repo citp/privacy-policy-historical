@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richinwriters.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229175953id_/https%3A//richinwriters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richinwriters.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630140259id_/http%3A//richinwriters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
