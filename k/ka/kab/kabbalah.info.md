@@ -1,17 +1,32 @@
-> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219003125id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630165158id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kabbalah.info
 
-Last Modified June 7, 2010.
+Last Modified May 24, 2018.
 
-Bnei Baruch Association is a not-for-profit, non commercial organization (collectively, "[Kabbalah](http://www.kabbalah.info/)[.info](http://www.kabbalah.info/)", all websites linked from "[Kabbalah International](http://www.kab.info/ "Kabbalah International")," "We", or "Us") believe that your personal information belongs to you. This Website Policy ("Privacy Policy") shall apply solely to your access to, and use of, the Bnei Baruch's websites located at [www.kabbalah.info](http://www.kabbalah.info/), [www.kabbalahlearningcenter.info](http://www.kabbalahlearningcenter.info/) as well as any other Bnei Baruch controlled sites, e.g. [The Kabbalah Channel,](http://tv.kabbalah.info/) [Kab TV](http://www.kab.tv/ "Kabbalah TV"), [Kabbalah International](http://www.kab.info/ "Kabbalah International"),[Kabbalah Publication](http://www.kabtoday.com/ "Kabbalah Publication"), [Kabbalah Blog](http://www.kabbalahblog.info/ "Kabbalah Blog") and [Kabbalah Books](http://www.kabbalahbooks.info/ "Kabbalah Books"), regardless of domain name or IP address (collectively "Site" or "Sites") and the features and applications accessible through the Sites (collectively the "Services"). We collect this type of information to serve you better when you provide it to us, but we do not rent or sell your information to third parties. We do not affiliate ourselves with any third party program and/or organization. We do not partner with or have special relationships with any ad server companies. From time to time, we may ask if you are interested in receiving information from third parties whose services or information we think would be of value to you. In those instances, we will only disclose your email address or other personal information to third parties  **if you expressly consent to such disclosure**.
+Bnei Baruch Association is a not-for-profit, non commercial organization (collectively, "[Kabbalah](http://www.kabbalah.info/)[.info](http://www.kabbalah.info/)", all websites linked from "[Kabbalah International](http://www.kab.info/ "Kabbalah International")," "We", or "Us") believe that your personal information belongs to you. This Website Policy ("Privacy Policy") shall apply solely to your access to, and use of, the Bnei Baruch's websites located at [www.kabbalah.info](http://www.kabbalah.info/), [edu.kabbalah.info](http://edu.kabbalah.info/) as well as any other Bnei Baruch controlled sites, e.g. [The Kabbalah Channel,](http://tv.kabbalah.info/) [Kab TV](http://www.kab.tv/ "Kabbalah TV"), [Kabbalah International](http://www.kab.info/ "Kabbalah International"),[Kabbalah Publication](http://www.kabtoday.com/ "Kabbalah Publication"), [Kabbalah Blog](http://www.kabbalahblog.info/ "Kabbalah Blog") and [Kabbalah Books](http://www.kabbalahbooks.info/ "Kabbalah Books"), regardless of domain name or IP address (collectively "Site" or "Sites") and the features and applications accessible through the Sites (collectively the "Services"). We collect this type of information to serve you better when you provide it to us, but we do not rent or sell your information to third parties. We do not affiliate ourselves with any third party program and/or organization. We do not partner with or have special relationships with any ad server companies. From time to time, we may ask if you are interested in receiving information from third parties whose services or information we think would be of value to you. In those instances, we will only disclose your email address or other personal information to third parties  **if you expressly consent to such disclosure**.
 
-  
+**About This Policy**
+
+This Policy sets out the essential details relating to your personal data relationship with Bnei Baruch. The Policy applies to all Bnei Baruch services and any associated services (referred to collectively as the ‘Services). The terms governing your use of the Services are defined in our [Terms and Conditions of Use](http://www.kabbalah.info/engkab/homepage/terms).
+
+From time to time, we may develop new or offer additional services. If the introduction of these new or additional services results in any change to the way we collect or process your personal data we will provide you with more information and additional terms or policies. Unless stated otherwise when we introduce these new or additional services, they will be subject to this Policy.
+
+The aim of this Policy is to:
+
+\- Ensure that you understand what personal data we collect about you, the reasons why we collect and use it, and who we share it with;
+
+\- Explain the way we use the personal data that you share with us in order to give you a great experience when you are using the Services; and
+
+\- Explain your rights and choices in relation to the personal data we collect and process about you and how we will protect your privacy.
+
+We hope this helps you understand our privacy commitments to you. For information on how to contact us if you ever have any questions or concerns, please see the ‘How to Contact Us’ section below. Alternatively, if you do not agree with the content of this Policy, then please remember it is your choice whether you want to use Bnei Baruch’s Services.
+
 **Our Collection of Information**
 
 **Information Collected Directly From You**
 
-You can visit this Website, without entering any personal information. However, in order to access certain information or to take advantage of special programs or features that may be contained on the Website, we may require you to provide certain personal information. For example, we will collect certain personal information if you choose to join our mailing list, or if you subscribe to any of our email or mobile content delivery programs, or if you choose to write and/or rate reviews of various products.
+You can visit this Website, without entering any personal information. However, in order to access certain information or to take advantage of special programs or features that may be contained on the Website, we may require you to provide certain personal information. For example, we will collect certain personal information such as your email address and name if you choose to join our mailing list, or your email address, name, city and country if you subscribe to our learning environment [edu.kabbalah.info](http://edu.kabbalah.info/), any of our email or mobile content delivery programs, or if you choose to write and/or rate reviews of various products
 
 In certain instances, other demographic data may be collected. Kabbalah.info uses this information to provide benefits and/or services associated with its various programs or features and Kabbalah.info uses such information to further improve user experience.
 
@@ -37,8 +52,8 @@ E-mail: maillist@kbb1.com
 
 In Canada please write to:  
 Bnei Baruch Canada  
-3701 Chesswood Drive, Suite 216,  
-Toronto, Ontario M3J 2P6  
+4630 Dufferin street, Suite 301,  
+Toronto, ON, M3H 5S4 Canada  
 E-mail: maillist@kbb1.com
 
 We reserve the right to send you certain communications relating to the Website, or any of our email subscription or mobile content delivery programs, such as service announcements or similar administrative or transactional messages, without offering you the opportunity to opt-out of receiving them.
@@ -63,7 +78,7 @@ You may unsubscribe at any time from our email programs by clicking on the unsub
 
 **User Submitted Content**
 
-All user communications made to or through Kabbalah.info or kabalah.info controlled sites are referred to as "User-Submitted Content." To comment on any portion of Kabbalah.info, we encourage you to first register with Kabbalah.info and agree to our Privacy Policy and Terms and Conditions. However, submitting requests for contact do not require registering with Kabbalah.info. By submitting content, you agree that:
+All user communications made to or through Kabbalah.info or kabbalah.info controlled sites are referred to as "User-Submitted Content." To comment on any portion of Kabbalah.info, we encourage you to first register with Kabbalah.info and agree to our Privacy Policy and Terms and Conditions. However, submitting requests for contact do not require registering with Kabbalah.info. By submitting content, you agree that:
 
   * Your submitted content is not illegal, indecent, profane, threatening, or defamatory; and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings or any form of "spam."  
 
@@ -103,13 +118,31 @@ Kabbalah.info is committed to protecting your privacy. Kabbalah.info does not se
 
 This Privacy Policy and the privacy practices of Kabbalah.info will be subject exclusively to the laws of the State of New York within the United States of America, without regard to its conflict of law principles. Kabbalah.info makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Website and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using our Website, you consent to the transfer and use of your information outside your country. Without limiting the foregoing, by providing any personal information to Kabbalah.info, all Website visitors, including, without limitation, Website visitors in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States of America.
 
+**GDPR Disclaimer**
+
+As of May 25, 2018, the Bnei Baruch Services are fully compliant with GDPR.
+
+GDPR extends the data privacy rights of all European individuals and gives them the power to better control their data. Companies that provide services, and process personal data of these European individuals, must comply with all GDPR set of regulations. There are specific and clear requirements that these companies must meet, and basic rights that European individuals can exercise with these companies. More information about GDPR can be found in the official GDPR European Union’s website:
+
+<https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en>
+
+**Data Protection Officer:**
+
+We appointed a Data Protection Officer to manage and supervise the fulfillment of all GDPR requirements, and assist any inquiries from individuals. The DPO can be reached at [info@kabbalah.info](mailto:info@kabbalah.info).
+
+Functions to support GDPR requirements:
+
+Bnei Baruch is committed to assist all customers managing their archived data.
+
+You may also choose to permanently delete all your data by sending such a request to [info@kabbalah.info.](mailto:info@kabbalah.info)
+
 **Updates to this Policy**
 
 We reserve the right to update our Privacy Policy from time to time. When we do, we will post a notice on the Websites for a reasonable period of time after such changes are made that this Privacy Policy has been updated and we will revise the "Last Modified" date at the top of this Privacy Policy. We encourage you to check this page periodically for any updates. Your continued use of the Websites following the posting of updates to this Privacy Policy will mean you accept those updates.
 
 **Contact Us**
 
-Any questions you may have regarding our Privacy Policy should be directed via email to info@kabbalah.info. You can also write us at:
+Any questions you may have regarding our Privacy Policy should be directed via email to [info@kabbalah.info](mailto:info@kabbalah.info). You can also write us at:
 
 In Unites States of America please write to:  
 Bnei Baruch USA  
@@ -118,5 +151,5 @@ Brooklyn, NY 11214
 
 In Canada please write to:  
 Bnei Baruch (Toronto) Inc.  
-3701 Chesswood Drive, Suite 216,  
-Toronto, Ontario M3J 2P6
+4630 Dufferin street, Suite 301,  
+Toronto, ON, M3H 5S4 Canada
