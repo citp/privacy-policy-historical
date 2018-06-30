@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the packersnews.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112161533id_/http%3A//static.packersnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packersnews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630144218id_/http%3A//static.packersnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Packers News
+# Privacy Notice | Packers News
 
-Last Updated: February 3, 2016
+Last Updated: May 14, 2018
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
-This Privacy Notice discloses the privacy practices of our Websites, whether accessed through a computer, tablet, smartphone or other device (individually or collectively, “Device” or “Devices”), and our Apps. Specifically, it outlines the types of information that we gather about you while you are using our Websites or Apps (collectively, “Services”) or other websites, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Notice does not apply to our non-digital products and services. Please read this Privacy Notice carefully. By using the Services, you agree that your use of our Services, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms/) . Because the web and apps are evolving media, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on our Websites or Apps. If we make a significant change in the way we collect, use or share your information, the change will be posted on this page thirty (30) days before the change takes effect. We will also update the "Last Updated" date to reflect the date of the changes. By continuing to use the Services after we post any such changes, you accept the Privacy Notice as modified. Your access of the Services for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Privacy Notice unless you make any further use or access of our Services. 
+This Privacy Notice discloses the privacy practices of our Websites, whether accessed through a computer, tablet, smartphone or other device (individually or collectively, “Device” or “Devices”), and our Apps. Specifically, it outlines the types of information that we gather about you while you are using our Websites or Apps (collectively, “Services”) or other websites, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Notice does not apply to our non-digital products and services. Please read this Privacy Notice carefully. By using the Services, you agree that your use of our Services, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms/) . Because the web and apps are evolving media, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on our Websites or Apps. If we make a significant change in the way we collect, use or share your information, the change will be posted on this page thirty (30) days before the change takes effect. We will also update the "Last Updated" date to reflect the date of the changes. By continuing to use the Services after we post any such changes, you accept the Privacy Notice as modified. Your access of the Services for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Privacy Notice unless you make any further use or access of our Services.
 
-**Your California Privacy Rights**
+  
+
+
+### Your California Privacy Rights
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
@@ -18,7 +21,10 @@ Gannett Law Department
 7950 Jones Branch Drive  
 McLean, VA 22107
 
-**SUMMARY**
+  
+
+
+### SUMMARY
 
 Collection. We collect information that you give us and information that is automatically collected.   
 Use. We use the information for the purpose you gave it to us (for example, to register or make a purchase); to provide content and advertising; to contact you; and for other purposes.   
@@ -26,17 +32,18 @@ Share. We share the information with our service providers and affiliates to adm
 **  
 **
 
-**Please read the rest of this notice for complete details.**  
-**  
-**
+**Please read the rest of this notice for complete details.**
 
-**How We Collect Information  **
+  
 
-The information that we collect about you while you are using our Services falls into two general categories: information you provide to us, and information that is automatically collected. All of the information we collect may be collected directly by us, or it may be collected by a vendor providing contractual services to us, such as a service provider. 
 
-1\. _Information You Provide to Us_. 
+### How We Collect Information
 
-We may collect and store information that you voluntarily supply to us while using our Services, including information you send to us by email or other platforms in connection with a feature provided through the Services. This may include information that can be used to contact or identify you, such as your name, email address, postal address, telephone numbers, birthdate and gender. Some examples of this type of information include: 
+The information that we collect about you while you are using our Services falls into two general categories: information you provide to us, and information that is automatically collected. All of the information we collect may be collected directly by us, or it may be collected by a vendor providing contractual services to us, such as a service provider.
+
+1\. _Information You Provide to Us_.
+
+We may collect and store information that you voluntarily supply to us while using our Services, including information you send to us by email or other platforms in connection with a feature provided through the Services. This may include information that can be used to contact or identify you, such as your name, email address, postal address, telephone numbers, birthdate and gender. Some examples of this type of information include:
 
   * information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes;   
 
@@ -66,7 +73,9 @@ We also collect and store information that is generated automatically as you use
 
   * your Device’s connection to the Internet;   
 
-  * your browser or operating system; •which pages you visit through our Services and how often;   
+  * your browser or operating system;   
+
+  * which pages you visit through our Services and how often;   
 
   * which features of our Services you interact with and how often;   
 
@@ -87,7 +96,7 @@ We, along with third parties, may use other kinds of technologies, such as local
 
 When we request information from you through our Services, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using our Services, you may not be able to use or participate in some or all of the features offered through our Services. 
 
-If you want to limit the information that is automatically collected while you use our Services or other websites, most web browsers allow you to disable certain functionality or set certain privacy settings. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Services. 
+If you want to limit the information that is automatically collected while you use our Services or other websites, most web browsers allow you to disable certain functionality or set certain privacy settings. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Services. Our Site does not collect personally identifiable information or persistent identifiers from, deliver a personalized experience to, or otherwise track or monitor, persons reasonably identified as visiting our Site from the European Union.
 
 You can stop all future collection of information by the Apps by uninstalling the Apps according to the procedures outlined in the Apps or on your Device. 
 
