@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourisa.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111214303id_/http%3A//www.ourisa.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourisa.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630022417id_/http%3A//www.ourisa.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale Lingerie,Sexy Clothes,Dresses,Jewelry,China Lingerie Supplier
 
