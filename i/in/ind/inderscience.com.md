@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inderscience.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124204307id_/http%3A//www.inderscience.com/info/ingeneral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inderscience.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630221811id_/http%3A//www.inderscience.com/info/ingeneral/privacy.php) for the most accurate reproduction.*
 
 # Inderscience Publishers: publishers of distinguished academic, scientific and professional journals
 
@@ -66,7 +66,7 @@ Username and userid (expires two hours after login)
   
  | 
 
-  * Forms - This cookie is stores data entered into forms' fields so there is no need to re-enter it if an error occurs   
+  * Forms - This cookie stores data entered into form fields so there is no need to re-enter it if an error occurs   
 Web form (expires one day after fields are completed)
 
   
