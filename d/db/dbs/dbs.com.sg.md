@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dbs.com.sg privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704063858id_/http%3A//www.dbs.com/privacy/default.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbs.com.sg privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630104327id_/http%3A//www.dbs.com/privacy/default.page) for the most accurate reproduction.*
 
 # DBS Bank Privacy Policy | DBS Group
 
-_Last updated:  31 March 2015_
+_Last updated:  25 May 2018_
 
 ### Your Privacy is Important to Us
 
@@ -32,9 +32,11 @@ In the event of any inconsistency between different versions of this policy, the
 
 (g) information about your risk profile, investments, investment objectives, knowledge and experience and/or business interests and assets;
 
-(h) banking information (e.g. account numbers and banking transactions); and/or
+(h) banking information (e.g. account numbers and banking transactions);
 
-(i) personal opinions made known to us (e.g. feedback or responses to surveys);
+(i) personal opinions made known to us (e.g. feedback or responses to surveys); and/or
+
+(j) Information obtained from mobile device with your consent (e.g. device location and information).
 
 ### Usage of Your Personal Data
 
@@ -82,7 +84,7 @@ We may also use personal data for purposes set out in the terms and conditions t
 
 ### Use of Personal Data for Marketing Purposes
 
-We may use your personal data to offer you products or services, including special offers, promotions, contests or entitlements that may be of interest to you or for which you may be eligible. Such marketing messages may be sent to you in various modes including but not limited to electronic mail, direct mailers, short message service, telephone calls, facsimile and other mobile messaging services. In doing so, we will comply with the Personal Data Protection Act of Singapore (PDPA) and other applicable data protection and privacy laws.
+We may use your personal data to offer you products or services, including special offers, promotions, contests or entitlements that may be of interest to you or for which you may be eligible. Such marketing messages may be sent to you in various modes including but not limited to electronic mail, direct mailers, short message service, telephone calls, facsimile and other mobile messaging services. In doing so, we will comply with the Personal Data Protection Act of Singapore (PDPA) and other applicable data protection and privacy laws, such as the European Union General Data Protection Regulation (GDPR).
 
 In respect of sending telemarketing messages to your Singapore telephone number via short message service, telephone calls, facsimile and other mobile messaging services, please be assured that we shall only do so if we have your clear and unambiguous consent in writing or other recorded form to do so or if you have not otherwise made the appropriate registration of that number with the Do Not Call Registry. If we have an ongoing relationship with you and you have not indicated to us that you do not wish to receive telemarketing messages sent to your Singapore telephone number, we may send you telemarketing messages to that number related to the subject of our ongoing relationship via short message service, facsimile and other mobile messaging services (other than a voice or video call).
 
@@ -90,7 +92,7 @@ You may at any time request that we stop contacting you for marketing purposes v
 
 To find out more on how you can change the way we use your personal data for marketing purposes, please contact us (please see the “How to contact us” section below).
 
-Nothing in this section shall vary or supercede the terms and conditions that govern our relationship with you.
+Nothing in this section shall vary or supersede the terms and conditions that govern our relationship with you.
 
 ### Disclosure and Sharing of Personal Data
 
@@ -100,7 +102,7 @@ For more information about the third parties with whom we share your personal da
 
 We wish to emphasise that DBS does not sell personal data to any third parties and we shall remain fully compliant of any duty or obligation of confidentiality imposed on us under the applicable agreement(s) and/or terms and conditions that govern our relationship with you or our customer or any applicable law.
 
-We may transfer, store, process and/or deal with your personal data outside Singapore. In doing so, we will comply with the PDPA and other applicable data protection and privacy laws.
+We may transfer, store, process and/or deal with your personal data outside Singapore. In doing so, we will comply with the PDPA and other applicable data protection and privacy laws, such as the GDPR.
 
 ### Cookies and Related Technologies
 
@@ -122,7 +124,9 @@ Your personal data is retained as long as the purpose for which it was collected
 
 You may request access or make corrections to your personal data held by DBS. DBS may charge a fee for processing your request for access. Such a fee depends on the nature and complexity of your access request. Information on the processing fee will be made available to you.
 
-Please contact us (please see the “How to contact us” section below) for details on how you may request such access or corrections.
+The GDPR also provides relevant individuals with additional rights including the right to obtain information on how DBS process your personal data, receive certain information provided in an electronic format and/or request that these be transmitted to a third party, request for your information to be erased, object or restrict the use or processing of your information in some circumstances. These will be subject to ongoing obligations imposed on the Bank pursuant to any applicable law or regulation, and/or the bank’s legitimate reason or entitlement to continue processing your information, and/or to refuse that request.
+
+Please contact us (please see the “How to contact us” section below) for details on how you may request access or correction to, or exercise your rights with respect to the processing of your personal data.
 
 ### How to Contact Us
 
