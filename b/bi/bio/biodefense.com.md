@@ -1,100 +1,172 @@
-> *The following text is extracted and transformed from the biodefense.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biodefense.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630025229id_/http%3A//www.naturalnews.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - NaturalNews.com
 
-**Go Daddy Respects Your Privacy**
+**Effective Date: 5/25/18**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy statement is made by the Natural News Network ("NaturalNews", "we", "us" or "our") and is effective as of 25th May 2018. Here at NaturalNews.com, we are committed to you and to protecting your privacy rights. We are committed to fulfilling our responsibilities under the European Union's General Data Protection Regulation ("GDPR") in relation to the collection, retention, use, and other processing of personal data that is obtained when EU data subjects visit and interact with the Site. We may use it to periodically inform you about changes on our Web Site and new products and services. We do not sell, trade or rent your personal information to any person or entity not authorized by or associated with us.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### NaturalNews's Privacy Commitment
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+NaturalNews ask for only the least amount of information necessary, gathering only what we believe is essential for doing business, or for the specific transaction at hand. We let customers know the information we have on them and allow them to opt out of specific engagements. 
 
-**Information Collection and Use**
+The goal of this policy is to make explicit the information we gather on our customers and users, how we will use it, and how we will not. This policy is unfortunately longer than we would like, but we must unambiguously address all the relevant cases. We will try and keep the language simple and direct as much as possible.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### Scope of this Privacy Policy
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+This Privacy Policy applies to the products and services provided by NaturalNews through these websites, our mobile applications, and applications posted by NaturalNews on NaturalNews' websites. This Privacy Policy does not apply to any of our websites, products or services that have a separate privacy policy.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+This Privacy Policy is divided into two parts:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Part I – Information NaturalNews.com collects and controls 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+This part deals with how NaturalNews collects and uses information about website visitors, potential customers, users of NaturalNews's products and services, and others who contact NaturalNews through forms or email addresses published on or linked to our websites.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Part II – General 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+This part deals with topics that are relevant to other general topics such as NaturalNews's security commitments and how we will inform you when we change this Privacy Policy.
 
-**Security**
+## Part I – Information NaturalNews collects and controls
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### What information NaturalNews collects
 
-**Updating Your Information**
+We collect information about you only if we need the information for some legitimate purpose. NaturalNews will have information about you only if (a) you have provided the information yourself or (b) NaturalNews has automatically collected the information. Below we describe the various scenarios that fall under each of those three categories and the information collected in each one. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+_Information that you provide us_
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  1. _Account signup_ : When you sign up for an account to access one or more of our services, we ask for information such as your name and email address to complete the account signup process. You may also be required to choose a unique username and a password for accessing the created account. 
+  2. _Summit_ _registrations and other form submissions:_ We record information that you submit when you (i) register for any event such as webinars or seminars, (ii) subscribe to our newsletter or any other mailing list, (iii) submit a form in order to download ebooks, whitepaper, or other materials, (iv) participate in contests or respond to surveys, or (v) submit a form to request customer support or to contact NaturalNews for any other purpose. 
+  3. _Payment processing_ : When you buy something from us, we ask you to provide your name, contact information, and credit card information or other payment account information. When you submit your card information, we store the name and address of the cardholder, the expiry date and the last four digits of the credit card number. We do not store the actual credit card number. For quick processing of future payments, if you have given us your approval, we may store your credit card information or other payment information in an encrypted format in the secured servers of our Payment Gateway Service Providers. 
+  4. _Testimonials_ : When you authorize us to post testimonials about our products and services on websites, we may include your name and other personal information in the testimonial. You will be given an opportunity to review and approve the testimonial before we post it. If you wish to update or delete your testimonial, you can contact us at [privacy@NaturalNews.com ](mailto:privacy@naturalnews.com)
+  5. _Interactions with NaturalNews_ : We may record, analyze and use your interactions with us, including email, telephone, and chat conversations with our sales and customer support professionals, for improving our interactions with you and other customers. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+_Information that we collect automatically_
 
-**Sending Emails**
+  1. _Log files_ : Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to other personally identifiable information. 
+  2. _Cookies and Other Similar Technologies_ __: Technologies such as cookies or similar technologies are used by NaturalNews. These technologies are used in analyzing trends, administering the site, and to gather demographic information about our user base as a whole.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+_How We Use Cookies and Other Similar Technologies_
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+To improve the user experience of our Site, NaturalNews may use the following "cookies".
 
-**Third Party Service Providers**
+**_Provider_** | **_Purpose_**  
+---|---  
+Disqus | To enable comment and discussion features on our website.  
+Vimeo | To enable functionality with video features.  
+Facebook Connect | To enable functionality with social media features.  
+Pinterest | To enable functionality with social media features.  
+Twitter Button | To enable functionality with social media features.  
+SteemIt | To enable functionality with social media  
+Mewe | To enable functionality with social media  
+Gab.ai | To enable functionality with social media  
+  
+### Purposes for using information
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+In addition to the purposes mentioned above, we may use your information for the following purposes:
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * To communicate with you (such as through email) about products that you have downloaded and services that you have signed up for, changes to this Privacy Policy, changes to the Terms of Service, or important notices; 
+  * To keep you posted on new products and services, upcoming events, offers, promotions and other information that we think will be of interest to you; 
+  * To ask you to participate in surveys, or to solicit feedback on our products and services; 
+  * To set up and maintain your account, and to do all other things required for providing our services, such as enabling collaboration, providing website and mail hosting, and backing up and restoring your data; 
+  * To understand how users use our products and services, to monitor and prevent problems, and to improve our products and services; 
+  * To provide customer support, and to analyze and improve our interactions with customers; 
+  * To detect and prevent fraudulent transactions and other illegal activities, to report spam, and to protect the rights and interests of NaturalNews, NaturalNews's users, third parties and the public; 
+  * To update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you; 
+  * To analyze trends, administer our websites, and track visitor navigations on our websites to understand what visitors are looking for and to better help them; 
+  * To monitor and improve marketing campaigns and make suggestions relevant to the user. 
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+### Your choice in information use
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+_Opt out of non-essential electronic communications_ : You may opt out of receiving newsletters and other non-essential messages by using the 'unsubscribe' function included in all such messages. However, you will continue to receive notices and essential transactional emails. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+_Disable cookies_ : You can disable browser cookies before visiting our websites. However, if you do so, you may not be able to use certain features of the websites properly. 
 
-**Tell-A-Friend**
+_Optional information_ : You can always choose not to fill in non-mandatory fields when you submit any form linked to our websites.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### Who we share your information with
 
-**What Happens to my Personal Information if I Opt Out?**
+We do not sell any personal information. We share your information only in the ways that are described in this Privacy Policy, and only with parties who adopt appropriate confidentiality and security measures. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+_Employees and independent contractors_ : Employees and independent contractors of all NaturalNews group entities have access to the information covered in Part I on a need-to-know basis. We require all employees and independent contractors of NaturalNews group entities to follow this Privacy Policy for personal information that we share with them. 
 
-**Transfer of Data Abroad**
+_Third-party service providers_ : We may need to share your personal information and aggregated or de-identified information with third-party service providers that we engage, such as marketing and advertising partners, event organizers, web analytics providers and payment processors. These service providers are authorized to use your personal information only as necessary to provide these services to us.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+### Your rights with respect to information we hold about you as a controller
 
-**Changes in Our Practices**
+If you are in the European Economic Area (EEA), you have the following rights with respect to information that NaturalNews holds about you. NaturalNews undertakes to provide you the same rights no matter where you choose to live. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+_Right to access_ : You have the right to access (and obtain a copy of, if required) the categories of personal information that we hold about you, including the information's source, purpose and period of processing, and the persons to whom the information is shared 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+_Right to rectification_ : You have the right to update the information we hold about you or to rectify any inaccuracies. Based on the purpose for which we use your information, you can instruct us to add supplemental information about you in our database. 
 
-**Contacting Our Site**
+_Right to erasure_ : You have the right to request that we delete your personal information in certain circumstances, such as when it is no longer necessary for the purpose for which it was originally collected. 
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+_Right to restriction of processing_ : You may also have the right to request to restrict the use of your information in certain circumstances, such as when you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
 
-* * *
+_Right to data portability_ : You have the right to transfer your information to a third party in a structured, commonly used and machine-readable format, in circumstances where the information is processed with your consent or by automated means. 
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+_Right to object_ : You have the right to object to the use of your information in certain circumstances, such as the use of your personal information for direct marketing. 
+
+_Right to complain_ : You have the right to complain to the appropriate supervisory authority if you have any grievance against the way we collect, use or share your information. This right may not be available to you if there is no supervisory authority dealing with data protection in your country.
+
+### Retention of information
+
+We retain your personal information for as long as it is required for the purposes stated in this Privacy Policy. Sometimes, we may retain your information for longer periods as permitted or required by law, such as to maintain suppression lists, prevent abuse, if required in connection with a legal claim or proceeding, to enforce our agreements, for tax, accounting, or to comply with other legal obligations. When we no longer have a legitimate need to process your information, we will delete or anonymize your information from our active databases. We will also securely store the information and isolate it from further processing on backup discs until deletion is possible.
+
+## Part II – General
+
+### Children's personal information
+
+Our products and services are not directed to individuals under 13. NaturalNews does not knowingly collect personal information from children who are under 13 years of age. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you believe that a child under 13 years has provided personal information to us, please write to [privacy@NaturalNews.com ](mailto:privacy@naturalnews.com)with the details, and we will take the necessary steps to delete the information we hold about that child.
+
+### How secure is your information
+
+At NaturalNews, we take data security very seriously. We have taken steps to implement appropriate administrative, technical & physical safeguards to prevent unauthorized access, use, modification, disclosure or destruction of the information you entrust to us. If you have any concerns regarding the security of your data, we encourage you to write to us at [reply@NaturalNews.com](mailto:reply@naturalnews.com) with any questions.
+
+### Locations and international transfers
+
+By accessing or using our products and services or otherwise providing personal information or service data to us, you consent to the processing, transfer, and storage of your personal information or Service Data within the United States of America, the European Economic Area (EEA) and other countries where NaturalNews operates. Such transfer is subject to a group company agreement that is based on EU Commission's Model Contractual Clauses.
+
+### External links on our websites
+
+Some pages of our websites may contain links to websites that are not linked to this Privacy Policy. If you submit your personal information to any of these third-party sites, your personal information is governed by their privacy policies. As a safety measure, we recommend that you not share any personal information with these third parties unless you've checked their privacy policies and assured yourself of their privacy practices.
+
+### Blogs and forums
+
+We offer publicly accessible blogs and forums on our websites. Please be aware that any information you provide on these blogs and forums may be used to contact you with unsolicited messages. We urge you to be cautious in disclosing personal information in our blogs and forums. NaturalNews is not responsible for the personal information you elect to disclose publicly. Your posts and certain profile information may remain even after you terminate your account with NaturalNews. To request the removal of your information from our blogs and forums, you can contact us at [privacy@NaturalNews.com ](mailto:privacy@naturalnews.com)
+
+### Social media widgets
+
+Our websites include social media widgets such as Twitter "tweet" buttons that let you share articles and other information. These widgets may collect information such as your IP address and the pages you navigate in the website, and may set a cookie to enable the widgets to function properly. Your interactions with these widgets are governed by the privacy policies of the companies providing them.
+
+### Disclosures in compliance with legal obligations
+
+We may be required by law to preserve or disclose your personal information and service data to comply with any applicable law, regulation, legal process or governmental request, including to meet national security requirements.
+
+### Enforcement of our rights
+
+We may disclose personal information and service data to a third party if we believe that such disclosure is necessary for preventing fraud, investigating any suspected illegal activity, enforcing our agreements or policies, or protecting the safety of our users.
+
+### Compliance with this Privacy Policy
+
+We make every effort, including periodic reviews, to ensure that personal information you provide is used in conformity with this Privacy Policy. If you have any concerns about our adherence to this Privacy Policy or the manner in which your personal information is used, kindly write to us [privacy@NaturalNews.com ](mailto:privacy@naturalnews.com)We'll contact you, and if required, coordinate with the appropriate regulatory authorities to effectively address your concerns.
+
+### Your consent
+
+By using our Web Site, you consent to the collection and use of information by us as set forth in this privacy statement. We reserve the right to modify, alter or otherwise update our privacy policy, and we will post those changes on this page so that you will always be aware of what information we collect, how we use it, and under what limited circumstances we disclose it. Continued access or use of the Web Site shall constitute your express acceptance of any modifications, alterations or updates to this privacy statement. However, please note that unless we obtain your express consent, any revised Privacy Policy will apply only to information collected after such time as the revised Privacy Policy takes effect. If at any point we decide to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we will notify you by way of email and you will then have a choice whether or not we can use such information in this different manner. If you are concerned about how your personal information is used, you should check back at [https://www.NaturalNews.com/PrivacyPolicy.html](https://www.naturalnews.com/PrivacyPolicy.html) periodically. 
+
+###  Contact Information
+
+If you have any questions regarding our privacy policy, please contact us at [privacy@NaturalNews.com](mailto:privacy@naturalnews.com).
+
+You may also contact us at:
+
+Truth Publishing International Ltd.  
+19F. #629, Sec. 1, Chongde Rd.  
+Taichung City 40452, Taiwan 
