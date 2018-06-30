@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ata.pw privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229084835id_/http%3A//ata.pw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ata.pw privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630121008id_/http%3A//ata.pw/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ATA Electric
 
 ##### **Introduction**
 
-##### This privacy policy applies to the personal data of consumers that is collected or used by ATA Group its affiliates or subsidiaries (ATA). ATA appreciates the interest you have shown in our company, products and services by visiting our websites, www.ata.pw or related communication channels, including, but not limited to, our social media pages and/or channels and blogs (together "ATA Group pages"). This privacy notice applies to all the personal data that ATA collects when you interact with ATA, such as when you visit our websites, when you use the products or services offered by ATA, when you purchase ATA products or services, when you subscribe to newsletters, when you contact customer care, and when you interact with ATA as a business customer, supplier or business partner, etc.  
+##### This privacy policy applies to the personal data of consumers that is collected or used by ATA Group its affiliates or subsidiaries (ATA). ATA appreciates the interest you have shown in our company, products and services by visiting our websites, www.ata.pw or related communication channels, including, but not limited to, our social media pages and/or channels and blogs (together “ATA Group pages”). This privacy notice applies to all the personal data that ATA collects when you interact with ATA, such as when you visit our websites, when you use the products or services offered by ATA, when you purchase ATA products or services, when you subscribe to newsletters, when you contact customer care, and when you interact with ATA as a business customer, supplier or business partner, etc.  
    
 This includes, without limitation, all online and offline collections of all types of personal data. However, some ATA pages collections involve with types of data with special requirements (for example, medical data) and which require a different privacy policy. Whenever and wherever that is the case, ATA will make it clear that the privacy notice concerned is different from this general privacy notice.  
    
@@ -39,7 +39,7 @@ We generally process your personal data only for those purposes that we have com
  **Type of Personal Data we may collect**
 
 #####   
-When you interact with ATA, for instance by registering at ATA, purchasing a product or interacting with ATA via our ATA pages, e.g. "like us on Facebook", we may ask for or receive certain data, such as:  
+When you interact with ATA, for instance by registering at ATA, purchasing a product or interacting with ATA via our ATA pages, e.g. “like us on Facebook”, we may ask for or receive certain data, such as:  
    
 • Your name;  
 • Your email address;  
@@ -61,7 +61,7 @@ In addition, we may collect personal data via cookies or similar techniques, inc
 • Your web browser;  
 • Your location;  
 • The web pages you visit on our websites;  
-• The advertisements you've viewed or clicked through;  
+• The advertisements you’ve viewed or clicked through;  
 • etc.  
    
 When you interact with ATA on behalf of a business customer, supplier or business partner of ATA, we may collect:  
@@ -83,7 +83,7 @@ When you interact with ATA on behalf of a business customer, supplier or busines
 • Communicating with one of our ATA Customer Care representatives by email, phone or in writing;  
 • Ordering a product or service;  
 • Participating in a promotion, game or competition;  
-• Participating in a social media activity related to a ATA promotion, e.g. clicking "like" or "share";  
+• Participating in a social media activity related to a ATA promotion, e.g. clicking “like” or “share”;  
 • Asking to receive messages on your mobile phone/device;  
 • Subscribing to a ATA newsletter;  
 • Sending us a completed reply card, included with your ATA product;  
@@ -123,7 +123,7 @@ From time to time, ATA may sell a business or a part of a business to another co
 
 ##### Once you have provided us with your personal data, you have reasonable access to that information so that you can update, modify or, if legally possible, delete it. For this purpose, we refer you to the ATA privacy website (www.ata.pw) where you can exercise your rights. On this website you can also pose other privacy questions or file your privacy complaints.  
    
-You can also delete or change the privacy settings of your My ATA account by logging in to your account and accessing your "personal settings".  
+You can also delete or change the privacy settings of your My ATA account by logging in to your account and accessing your “personal settings”.  
    
 You will also be provided with an opt-out opportunity in our commercial messages to you.  
    
@@ -135,17 +135,17 @@ We encourage you to keep your personal settings and personal data complete and c
    
 Your personal data may be transferred from your home country to other ATA companies in different locations around the world, which may communicate with you about ATA products, services or special offers that you may be interested in. If local law requires it, we will ask for prior consent to transfer your personal data outside of your geographic region.  
    
-If you do not want us to send you personalised offers or information, you can let us know by ticking the appropriate box on the registration form or reply card, or by selecting "opt-out" on emails you receive.  
+If you do not want us to send you personalised offers or information, you can let us know by ticking the appropriate box on the registration form or reply card, or by selecting “opt-out” on emails you receive.  
    
-Where local law requires it, we will ask you to "opt-in" or affirmatively consent to the processing of your personal data. For example, where local law so requires, we will only send you newsletters if you have subscribed to them. Similarly, where local law so requires, we will ask you to "opt-in" before using sophisticated profiling techniques.  
+Where local law requires it, we will ask you to “opt-in” or affirmatively consent to the processing of your personal data. For example, where local law so requires, we will only send you newsletters if you have subscribed to them. Similarly, where local law so requires, we will ask you to “opt-in” before using sophisticated profiling techniques.  
    
-Because ATA sells thousands of products and services in hundreds of countries, you may have previously provided us with your personal data through reply cards, via our call centres or in some other manner. Your decision not to register now will not affect the personal data you have already provided to ATA. Of course, you will always have the option to unsubscribe from any targeted communication from ATA or change your personal profile information as described under "Your Rights".  
+Because ATA sells thousands of products and services in hundreds of countries, you may have previously provided us with your personal data through reply cards, via our call centres or in some other manner. Your decision not to register now will not affect the personal data you have already provided to ATA. Of course, you will always have the option to unsubscribe from any targeted communication from ATA or change your personal profile information as described under “Your Rights”.  
    
  **Do Not Track Signals**
 
 ##### ATA takes privacy and security very seriously, and strives to put our website users first in all aspects of our business. ATA utilises cookies to help you to get the most out of the ATA pages.  
    
-Please be aware that ATA currently does not make use of a technical solution that would enable us to respond to your browser's Do Not Track signals. In order to manage your cookie preferences, however, you may alter the cookie settings in your browser settings at any time. You may accept all, or certain, cookies. If you do disable our cookies in your browser settings, you may find that certain sections of our website(s) will not work. For example, you may have difficulties logging in or making online purchases.  
+Please be aware that ATA currently does not make use of a technical solution that would enable us to respond to your browser’s Do Not Track signals. In order to manage your cookie preferences, however, you may alter the cookie settings in your browser settings at any time. You may accept all, or certain, cookies. If you do disable our cookies in your browser settings, you may find that certain sections of our website(s) will not work. For example, you may have difficulties logging in or making online purchases.  
    
 You can find further information on how to alter your cookie settings for the browser that you use from the following list:  
    
@@ -178,7 +178,7 @@ Also, depending on the choices you have made regarding your settings on various 
    
  **Special information for parents**
 
-##### While ATA websites are not generally targeted at children under the age of 16, it is ATA policy to comply with the law when it requires parent or guardian permission before children's information is collected, used or disclosed.  
+##### While ATA websites are not generally targeted at children under the age of 16, it is ATA policy to comply with the law when it requires parent or guardian permission before children’s information is collected, used or disclosed.  
    
 ATA strongly recommends that parents take an active role in supervising the online activities of their children. If you believe we have collected personal data from a person who is under the age of 16, please contact us at the ATA privacy website (www.ata.pw/privacy).  
    
