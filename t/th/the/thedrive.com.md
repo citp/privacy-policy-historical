@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedrive.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrive.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
 
 # The Drive Privacy Policy for the US
 
@@ -21,13 +21,13 @@
 
 
 
-[European Union Privacy Information](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_eu.html?dnp-source=E)  
+(NEW)[European Union Privacy Information](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_eu.html?dnp-source=E)  
 For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
 
-[Canada Privacy Information](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_caneu.html?dnp-source=E)  
-This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_caneu.html?dnp-source=E).
+[Canada Privacy Information](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_caneu.html?dnp-source=E)  
+This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/generic_privacy_new_caneu.html?dnp-source=E).
 
-This Privacy Policy discloses the privacy practices for The Drive, the Time Inc . owned and operated websites and mobile apps on which it appears, including those websites listed here, our email newsletters and other applications owned and operated by Time Inc ., including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc . and its subsidiaries. 
+This Privacy Policy discloses the privacy practices for The Drive, the Time Inc . owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by Time Inc ., including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc . and its subsidiaries. 
 
 #### The Information We Collect
 
@@ -62,9 +62,9 @@ We may use the information collected under this Privacy Policy in the following 
 
 #### Privacy Options
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc . property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_offline.html?dnp-source=E).
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc . property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_offline.html?dnp-source=E).
 
-If you prefer not to receive e-mail marketing from this or any other Time Inc . property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_online.html?dnp-source=E).
+If you prefer not to receive e-mail marketing from this or any other Time Inc . property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_online.html?dnp-source=E).
 
 We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -72,7 +72,7 @@ back to top
 
 #### Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc . sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20170911051520id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc . sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20180630133551id_/https%3A//subscription.timeinc.com/storefront/privacy/thedrive/new_generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
 #### Collection of Information by Third Parties
 
@@ -85,6 +85,8 @@ We may use third parties to present or serve advertisements, including online be
 For more information on advertisements and your behavioral advertising options, visit our [About Ads page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
 
 Note regarding Market Research/Ratings: Our Services may also feature Nielsen's proprietary measurement software which may contribute to market research, like Nielsen's TV Ratings. To learn more about this information, please click [here](http://www.nielsen.com/digitalprivacy). Nielsen's software may collect your choices with regards to it.
+
+We also may use certain recognition services by our partner LiveRamp. To opt out of such services by LiveRamp, please visit <https://liveramp.com/opt_out/>.
 
 #### Cookies and other Tracking Technologies
 
@@ -140,4 +142,4 @@ Tampa, Florida 33612-6408
 
 back to top
 
-This Privacy Policy was revised July 13, 2017.
+This Privacy Policy was revised September 29, 2017.
