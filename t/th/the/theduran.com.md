@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theduran.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830214845id_/https%3A//theduran.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theduran.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630174734id_/https%3A//theduran.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Duran
 
@@ -6,14 +6,14 @@ Please note, this privacy policy applies to this website or our mobile applicati
 
 About **DRN MEDIA PLC**.
 
-DRN Media PLC owns and operates www.theduran.wpengine.com, a media service that offers daily news, comments, video, and audio content about relevant topic around the world.
+DRN Media PLC owns and operates www.theduran.com, a media service that offers daily news, comments, video, and audio content about relevant topic around the world.
 
 **PRIVACY NOTICE**  
 Information Collection and Use by DRN Media PLC.  
 • Information you have provided to us, including our websites  
 • Information provided by other companies who have obtained your permission to share information about you  
 • Information about your interaction with adverts and services such as registration, comments  
-• Information we collect using cookies stored on your device (for example, this may be a PC, phone or tablet) about your use of www.theduran.wpengine.com and/or selected third party websites. For more information on cookies and how to manage them, please see our cookies notice below.  
+• Information we collect using cookies stored on your device (for example, this may be a PC, phone or tablet) about your use of www.theduran.com and/or selected third party websites. For more information on cookies and how to manage them, please see our cookies notice below.  
 • Your IP address, this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites  
 • Technical information from your device relating to the service you receive  
 • Information relating to the location of the device you use to access our Site.  
@@ -34,7 +34,7 @@ Ads appearing on this Web site may be delivered to users by The Duran or one of 
 **Security**  
 The Duran member accounts are secured by member-created passwords. The Duran takes precautions to ensure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on The Duran, please contact us at. CONTACT@THEDURAN.COM
 
-**Sharing and Disclosure of Information www.theduran.wpengine.com Collects**  
+**Sharing and Disclosure of Information www.theduran.com Collects**  
 Except as otherwise described in this privacy statement, The Duran will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by The Duran, whether or not a response is required by applicable law; (2) to enforce the The Duran Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. The Duran reserves the right to transfer personal information to a successor in page that acquires rights to that information as a result of the sale of The Duran or substantially all of its assets to that successor in interest. For more information see the ‘Changes in Our Privacy Policy’ section below.
 
 **Changes in Our Privacy Policy**  
