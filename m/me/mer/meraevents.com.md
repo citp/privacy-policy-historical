@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meraevents.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902174840id_/https%3A//www.meraevents.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meraevents.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630120539id_/https%3A//www.meraevents.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,6 +56,6 @@ We review our policies from time to time and make necessary changes whenever req
 
 ### Contact
 
-We always invite your comments and questions about MeraEvents website, its services and user interface. Please [Contact Us](http://www.meraevents.com/support) for any queries, feedback and issues.
+We always invite your comments and questions about MeraEvents website, its services and user interface. Please [Contact Us](https://www.meraevents.com/support) for any queries, feedback and issues.
 
 If at any time you believe that we have not adhered to this Privacy Policy, please write to us. MeraEvents will put reasonable efforts to promptly investigate and resolve disputes.
