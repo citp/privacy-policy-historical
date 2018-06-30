@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231135624id_/http%3A//abc6onyourside.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630144515id_/http%3A//abc6onyourside.com/station/privacy) for the most accurate reproduction.*
 
 # Columbus Privacy | News, Weather, Sports, Breaking News | WSYX
 
