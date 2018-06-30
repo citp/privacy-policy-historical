@@ -1,127 +1,170 @@
-> *The following text is extracted and transformed from the spiraxsarco.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128024503id_/http%3A//www.spiraxsarco.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiraxsarco.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630032016id_/http%3A//www.spiraxsarco.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spirax Sarco
 
-## **Spirax-Sarco Privacy Policy**
+This policy describes how and why we collect, store, process and manage the personal data we hold from our data subjects. The term “Personal Data” refers to any data relating to an identifiable individual or his or her personal identity, including (for example) name, email address, home address, telephone number, debit/credit card data or date of birth.
 
-There are many different ways for you to use our Service. As you use our Service, we want you to be clear how we are using information and the ways in which you can protect your privacy. By using our website services you acknowledge that you have read the terms of this Privacy Policy and that you agree to Spirax-Sarco's use of the data for the purposes set out in this policy.
+This policy outlines how your data will be processed lawfully, fairly and in a transparent manner. 
 
-The terms we us in this privacy policy have the meaning defined in our Terms of Use.
+Spirax Sarco will never sell or rent your Personal Data to third parties for marketing purposes. 
 
-Our Privacy Policy explains: 
+We will ensure that the Personal Data we process is accurate, adequate, relevant and not excessive, given the purpose for which it was obtained. We will not process Personal Data obtained for one purpose for any unconnected purpose unless the person has agreed to this or would otherwise reasonably expect this.
 
-  * What information we collect and why we collect it. 
-  * How we use that information. 
-  * The choices we offer, including how to access and update information.
+Spirax Sarco collects your Personal Data in order to manage your relationship with us and to communicate with our shareholders. We also collect your data so that we can send you marketing information regarding our products, promotions and services for which you have provided your consent by specifying your choice of medium for receiving the communication.
 
+Spirax Sarco has appointed a Data Protection Office ( **DPO** ) which is responsible for ensuring that Personal Data is managed responsibly throughout the company. You can contact the DPO using the details listed at the end of this policy. 
 
+You have the right to see the data we hold on you, rectify that data and also request us to delete that data at any time.
 
-## **Information that we collect**
+#### 1.         Introduction
 
-We collect information to provide a better Service to all of our users – from basics, such as which language you speak to more complex things, such as which ads you’ll find most useful or the people who matter most to you online. 
+1.1    Spirax Sarco __ is defined as the data controller with regard to all of the information contained within this document.
 
-We collect information in two ways: 
+1.2    This Privacy Policy sets out the way in which Spirax Sarco (“we”, “our”, “us” or “Spirax Sarco”), collects and processes Personal Data of its data subjects. Spirax Sarco is registered for the purposes of data protection with the Information Commissioner’s Office in the UK (registration reference: Z8234137). 
 
-  * Information that you give us. For example, our Service requires you to sign up for a Spirax-Sarco account. When you do, we’ll ask for personal information such as your name, email address, telephone number or credit card number. 
-  * Information that we get from your use of our Service. We may collect information about the services that you use and how you use them, such as when you visit a website that uses our advertising Services or you view and interact with our ads and content. 
+1.3    By using our services and / or registering your consent, you acknowledge that you have read, and agree to the terms of this Privacy Policy in relation to processing under legitimate interests.
 
+#### 2.         The data we collect
 
+2.1    We collect your Personal Data when you register your interest through the use of online forms and when you e-mail your details to us. We also hold data about the transactions you undertake with us. 
 
-This information includes: 
+2.2     In addition, we may collect Personal Data through surveys which we undertake. Such surveys are voluntary and are anonymous where possible.
 
-  * Device information 
+#### 3.         Your rights as a “data subject”
 
+3.1    Under data protection law you retain the following rights over your personal data:
 
+·    the right to access the data we hold about you;
 
-> We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers and mobile network information, including phone number). 
+·    the right to rectification of any data that is inaccurate or incomplete;
 
-  * Unique application numbers 
+·    the right to erasure of your data (also known as “the right to be forgotten”);
 
+·    the right to restrict processing of your data;
 
+·    the right to data portability;
 
-> The Service includes a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Spirax-Sarco when you install or uninstall the Service or when the Service periodically contacts our servers, such as for automatic updates.
+·    the right to object to the processing of your data; and
 
-  * Local storage 
+·    rights in relation to automated decision making and profiling.
 
+3.2    If you exercise your right to be forgotten, this would result in a termination of your relationship with Spirax Sarco. 
 
+#### 4.         Our basis for processing Personal Data
 
-> We may collect and store information (including personal information) locally on your device, using mechanisms such as browser web storage (including HTML 5) and application data caches. 
+4.1    For the purpose of managing our business, it is important for us to maintain your Personal Data. ****
 
-  * Cookies and anonymous identifiers 
+4.2    It is a requirement of our Terms and Conditions that any person who wishes to attend or benefit from the services offered by us should provide the necessary Personal Data. ****
 
+4.3    Data collected and processed for the purposes of your engagement with us is done so under the basis of a legitimate interest. The justification for this is outlined in paragraph 4.1 above. ****
 
+####  5.         How we use your Personal Data
 
-> We use various technologies to collect and store information when you visit our Service, which may include one or more cookies or anonymous identifiers sent to your device. We also use cookies and anonymous identifiers when you interact with the Service.
+Your Personal Data is processed by us to provide you with the products and services relating to our business. In particular, we collect your Personal Data in order to enable us to:
 
-## **How we use information that we collect**
+·    set-up, administer and manage your relationship, associated accounts and records; 
 
-We use the information that we collect from all of our Service to provide, maintain, protect and improve it, to develop new services and to protect Spirax-Sarco and our users. 
+·    receive and respond to your communications and requests;
 
-When you contact Spirax-Sarco, we may keep a record of your communication to help resolve any issues that you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+·    notify you about promotional offers and general marketing;
 
-We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we will be able to provide you our Service in your preferred language. 
+·    ensure that we are able to fulfil our regulatory obligations regarding your account, including by verifying the accuracy of any information you give us;
 
-We will ask for your consent before using information for a purpose other than those set out in this Privacy Policy. 
+·    comply with our obligations under applicable laws;
 
-Spirax-Sarco processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.  
+·    investigate, and assist with the investigation of, suspected unlawful, fraudulent or other improper activity connected with the services (including, where appropriate, dealing with requests from regulatory bodies for the sharing of information);
 
-## **Transparency and choice**
+·    carry out market research campaigns; or
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used.  ** **
+·    in the event that we sell or buy any business, assets or shares in part or whole we may disclose your personal details to such relevant third parties involved.
 
-## **Information that you share**
+#### 6.         Disclosure of your Personal Data
 
-Our Service lets you share information with others. Remember that when you share information publicly, it may be indexable by search engines. 
+We may disclose your Personal Data to any of the following recipients:
 
-## **Accessing and updating your personal information**
+·    any company within our Group (including to its employees and sub-contractors) that assists us in providing the services or that otherwise has a need to know such information;
 
-Whenever you use our Service, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+·    any contractors or other advisers auditing any of our business processes or who have the need to access such information for the purpose of advising us;
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+·    any data processor that enables us to manage our systems or processes as part of any service or promotion offered to you.  However, we will take reasonable steps to ensure that these data processors are compliant with requirements of the Data Protection Act 1998 and the General Data Protection Regulations;
 
-Where we can provide information access and correction, we will do so free of charge, except where it would require a disproportionate effort. We aim to maintain our Service in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our Service, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+·    any law enforcement or regulatory body which may have any reasonable requirement to access your Personal Data; or
 
-## **Information that we share**
+·    in the event that we sell or buy any business, assets or shares in part or whole we may disclose your personal details to such relevant third parties involved.
 
-We do not share personal information with companies, organisations and individuals outside Spirax-Sarco unless one of the following circumstances applies: 
+#### 7.         Marketing preferences
 
-  * With your consent 
+7.1    We will not send you unsolicited information regarding any third party’s products or services.
 
+7.2    You will have the opportunity to choose whether or not to receive information on our offers and promotions. This consent is subject to the data retention periods defined within this policy.
 
+7.3    We will assume legitimate business purpose in sending marketing communication whilst including the option to opt out every time such communications are sent out to you. The product, service or ideals we are marketing to you are the same or similar to those that you originally consented to receive marketing for at time of enrolment, and therefore it is reasonable for you to receive marketing material from us.
 
-> We will share personal information with companies, organisations or individuals outside of Spirax-Sarco when we have your consent to do so. 
+7.4    Our local marketing policies contain further information relating to marketing preferences, a copy of which is available on request. 
 
-  * For external processing 
+#### 8.         Accessing and updating your Personal Data
 
+8.1     You may update your Personal Data at any time by contacting the Data Protection Office using the details below.
 
+8.2       You may obtain a copy of your Personal Personal Data held by us by contacting The Data Protection Office, Spirax-Sarco Engineering plc. Charlton House, Cheltenham, Gloucestershire, GL53 8ER, United Kingdom, telephone +44 (0)1242 521361, email: gdpr.sars@uk.spiraxsarco.com. We  will process your request within the timeframes as prescribed by the relevant regulations but may need to contact you to obtain further information. 
 
-> We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+8.3       Requests for access to your personal data are free of charge.
 
-  * For legal reasons 
+#### 9.         How long do we keep your data for?
 
+9.1     We retain your data for no longer than is necessary. This length of time is different for each type of personal data that we hold. These retention periods are subject to change only where deemed necessary by the Data Protection Office where there is a defined vital interest under data protection law. ****
 
+9.2      Our  Retention Policies relating to the data in question contain further information on retention periods, a copy of which are available on request. ****
 
-> We will share personal information with companies, organisations or individuals outside Spirax-Sarco if we have a belief in good faith that access, use, preservation or disclosure of the information is reasonably necessary to: 
-> 
->   * meet any applicable law, regulation, legal process or enforceable governmental request. 
->   * enforce applicable Terms of Use, including investigation of potential violations. 
->   * detect, prevent or otherwise address fraud, security or technical issues. 
->   * protect against harm to the rights, property or safety of Spirax-Sarco, our users or the public, as required or permitted by law.
-> 
+####  10.       Advertising and use of Cookies
 
+10.1    We may collect anonymous information about your use of the Website (“the website” refers to any website of any direct or indirect subsidiary or affiliate of Spirax Sarco) using “cookies”, pixel tags and similar functionality. We use cookies for the operation of the Website. We also use cookies for our own analytical purposes so that we can improve our visitors’ experience.
 
-If you object to the use by Spirax-Sarco of your User Data in the manner described above, please inform us by email at [WebEnquiries@SpiraxSarco.com.](mailto:WebEnquiries@SpiraxSarco.com.)
+10.2    If you object to cookies or want to delete any cookies that are already stored on your computer, you should follow the instructions for deleting existing cookies and disabling future cookies on your web browser or equivalent software. Further information is available at www.aboutcookies.org.
 
-## **Information security**
+10.3    As part of the Website’s operation, and for our own statistical analysis of site traffic, our Website automatically logs internet IP addresses. 
 
-We work hard to protect Spirax-Sarco and our users from unauthorised access to or unauthorised alteration, disclosure or destruction of information that we hold. In particular: 
+#### 11.       Security
 
-  * We may encrypt our Service. 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorised access to systems. 
-  * We restrict access to personal information to our employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. They may be disciplined or their contract terminated if they fail to meet these obligations.
+We use a number of methods to ensure that all customer information remains confidential. We have developed a comprehensive policy for data protection management that is reviewed and updated as necessary.
 
+#### 12.       Complaints
 
+12.1    Spirax takes the protection of the Personal Data we hold very seriously and is happy to receive any queries or concerns you may have. If you believe that we have not adhered to this policy or that your data has been handled in a way that you feel is not in accordance with your wishes then you may complain to the Data Protection Office using the contact details below.
 
-## **Changes**
+The Data Protection Office   
+Spirax-Sarco Engineering plc  
+Charlton House  
+Cheltenham  
+Gloucestershire  
+GL53 8ER  
+United Kingdom  
+Tel: +44 (0) 1242 521361  
+Email: [gdpr.breach@uk.spiraxsarco.com](mailto:gdpr.breach@uk.spiraxsarco.com)
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+12.2    Alternatively, you may contact the Information Commissioners Officer (ICO) directly who are the body responsible for managing data protection compliance in the UK. You can contact the ICO at the following address:
+
+Information Commissioner's Office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
+
+Tel: +44 (0)303 123 1113
+
+Email: casework@ico.org.uk
+
+#### 13.       Contact information
+
+Please contact us via the contact form on our website or in writing at:
+
+The Data Protection Office   
+Spirax-Sarco Engineering plc  
+Charlton House  
+Cheltenham  
+Gloucestershire  
+GL53 8ER  
+United Kingdom  
+Tel: +44 (0) 1242 521361  
+Email: [gdpr.breach@uk.spiraxsarco.com](mailto:gdpr.breach@uk.spiraxsarco.com)
