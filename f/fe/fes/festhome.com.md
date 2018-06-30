@@ -1,9 +1,20 @@
-> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911065004id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630105031id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy details how we will treat your personal information.
+We are committed to safeguarding the privacy of our website visitors; this policy details how we will treat your personal information under GDPR compliance for all users, based in the EU or anywhere else.
 
+* ### Quick summary:
+
+We recommend reading the entire privacy policy, but here is a quick summary of what we do with your data:
+
+Data Controller: FESTHOME LTD  
+---  
+All information collected about you on this website is always presently available and may be modified at any time by you within your account. Information created based on your actions (such as submitting to a film festival or watching a film) is also present and clearly shown. You may request that we delete information that we have about you.  
+We do not share personal information with third parties for any marketing purposes but we do use third party services to make our services work. These services are GDPR compliant and allow us to make simple functionality such as hosting materials or sending e-mails, or help with support tasks such as the Chat or Support Ticket system.  
+We use the collected data for a variety of purposes all within the requested services of our website, such as contacting you, delivering the information to the film festivals you decide to submit to, protecting our service and all clients from frauds, applying filters to your films and settings so that you do not submit a film to a festival where it does not apply, making payments and sending you our newsletters.  
+We track you through our website in order to have reliable use data to know what services on our website are being used and how to improve them, or to help our support team when you have a problem.  
+We request your consent to do all of this when you create an account, without this account and consent, it is impossible for us to deliver our services. Since we have been GDPR compliant way before it became compulsory, we will not bother you with re-requesting consent.  
 * ### What information do we collect?
 
 We may collect, store and use the following kinds of personal information ;
@@ -26,7 +37,11 @@ Session cookies will be deleted from your computer when you close your browser. 
 
 We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, that are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
-Our advertisers/payment services providers may also send you cookies.
+We may at times or when a support request is created a session replay tool. This tool allows our support team to help view problems and errors the user may be experiencing to guide them to a solution more effectively. All data obtained with this system is solely what is shown on the website and not outside of it, and is only used for support and to enhance the design of the website.
+
+We use third party tools to provide chat and support functionality on the website and may share some PII information, such as e-mail, IP and User ID with them to properly identify you while using these tools.
+
+Our payment services providers may also send you cookies.
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of this and many other websites.
 
@@ -43,7 +58,7 @@ We may use your personal information to:
   5. send statements and invoices to you, and collect payments from you;
   6. send you general (non-marketing) commercial communications;
   7. send you email notifications which you have specifically requested;
-  8. send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+  8. send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by email, where you have specifically agreed to this, or similar technology (you can inform us at any time if you no longer require marketing communications);
   9. provide third parties with statistical information about our users: this information will not be used to identify any individual user;
   10. deal with enquiries and complaints made by or about you relating to the website;
 
@@ -53,7 +68,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, PayPal and Skrill. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+All our website financial transactions are handled through our payment services provider, PayPal, Stripe and Skrill. We will share information with them only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
 * ### Disclosures
 
@@ -61,11 +76,12 @@ We may disclose information about you to any of our employees, officers, agents,
 
 In addition, we may disclose your personal information:
 
-  1. to the extent that we are required to do so by law;
-  2. in connection with any legal proceedings or prospective legal proceedings;
-  3. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-  4. to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling;
-  5. to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+  1. to the film festivals or other content recipients that you choose to submit your films to, which will become responsible in protecting your data;
+  2. to the extent that we are required to do so by law;
+  3. in connection with any legal proceedings or prospective legal proceedings;
+  4. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+  5. to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling;
+  6. to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
 
 
@@ -75,7 +91,7 @@ Except as provided in this privacy policy, we will not provide your information 
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-Information which you provide may be transferred to countries (including the United States, Japan, Brasil, Argentina, Mexico, Honduras) which do not have data protection laws equivalent to those in force in the European Economic Area.
+Information which you provide may be transferred to countries (including the United States) which do not have data protection laws equivalent to those in force in the European Economic Area.
 
 In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
@@ -101,8 +117,7 @@ We may also notify you of changes to our privacy policy by email.
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
-  1. the payment of a fee (currently fixed at 10.00€); and
-  2. the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+  1. the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
 
 
 
@@ -120,7 +135,7 @@ Please let us know if the personal information that we hold about you is in need
 
 * ### Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@festhome.com or by post to 1-3 Floor, 124 Baker Street, W1U 6TY, London, United Kingdom.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@festhome.com
 
 * ### Data controller
 
