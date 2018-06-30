@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222042033id_/http%3A//www.radio-electronics.com/rec-information/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630223703id_/http%3A//www.radio-electronics.com/rec-information/privacy-policy.php) for the most accurate reproduction.*
 
 # Radio-Electronics.Com :: Privacy Policy
 
@@ -37,25 +37,38 @@ Should any user contact Adrio Communications Ltd, the email address will only be
   
 
 
+## Newsletter
+
+Radio-Electronics.com runs a newsletter. We have not bought in any contacts externally - all contacts have undergone a double opt-in sign-up process where the applicant fills in a form, and then an email is sent. Only when a link in the email has been clicked to confirm the acceptance, does the name enter the newsletter database.
+
+we do not rent the list, nor do we pass on details of contacts.
+
+The newsletter is sent weekly, although we do reserve the right to send additional occasions emails - this only occurs very rarely.
+
+  
+
+
 ## External Websites
 
-While Adrio Communications Ltd aims to offer a service that is fair and free from the risk of infringements of individual rights, no guarantees can be made for any site into which Radio-Electronics.Com links either by way in links, advertising or affiliate relationships. When linking out of the site, no guarantees can be made about the privacy policies of these sites.
+While Adrio Communications Ltd as the owner of Radio-Electronics.com aims to offer a service that is fair and free from the risk of infringements of individual rights, no guarantees can be made for any site into which Radio-Electronics.Com links either by way in links, advertising or affiliate relationships. When linking out of the site, no guarantees can be made about the privacy policies of these sites.
+
+## Amazon
+
+We belong to some Amazon affiliate schemes. As an Amazon Affiliate we earn a commission on qualifying purchases. We currently belong to the affiliate programmes from Amazon.com, Amazon.ca, and Amazon.co.uk.
 
   
 
 
 ## Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Further information is provided in the links below.
-
-  
-
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Further information is provided in the links below.
 
 ## Privacy polies of external organisations
 
   * [Google ](http://www.google.com/policies/privacy/) (Analytics, AdSense, DFP Small Business, etc..
   * [Amazon.co.uk ](http://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=502584)
   * [Amazon.com ](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
-  * [Globalspec ](http://beta.globalspec.com/Help/Privacy)
+  * [Amazon.ca ](https://www.amazon.ca/gp/help/customer/display.html/ref=ap_footer_privacy_notice?ie=UTF8&nodeId=918814)
+  * [AddThis ](http://www.addthis.com/privacy/privacy-policy/) \- for social media buttons below the content 
 
 
