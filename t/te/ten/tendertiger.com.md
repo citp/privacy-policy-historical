@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tendertiger.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122181706id_/http%3A//tendertiger.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendertiger.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630152018id_/http%3A//tendertiger.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : www.TenderTiger.com
 
-**E-Procurement Technologies Limited (ETPL),** the owner of this website, has created this privacy statement in order to demonstrate our deep commitment to the privacy of our site, visitors and customers. As a company, we strictly adhere to all industry guidelines and we continually review our policy and procedures to ensure the safety and protection of our visitor and customer information. We request all the users of our website to go through this policy to understand how their personal & business information will be treated as they make full use of our services to their benefit.
+**E-Procurement Technologies Limited (ETL),** the owner of this website, has created this privacy statement in order to demonstrate our deep commitment to the privacy of our site, visitors and customers. As a company, we strictly adhere to all industry guidelines and we continually review our policy and procedures to ensure the safety and protection of our visitor and customer information. We request all the users of our website to go through this policy to understand how their personal & business information will be treated as they make full use of our services to their benefit.
 
-The visitors are requested to note that this policy is applicable to the market-place operated by ETPL only and any link which is provided to re-direct the visitor to any other application outside ETPL but which could prove beneficial to the visitor, but the information for which we are not accountable.
+The visitors are requested to note that this policy is applicable to the market-place operated by ETL only and any link which is provided to re-direct the visitor to any other application outside ETL but which could prove beneficial to the visitor, but the information for which we are not accountable.
 
 Following is an explanation of our commitment to protecting the privacy of Internet Users of our application
 
