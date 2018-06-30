@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226013518id_/http%3A//www.sweepstakesalerts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630204403id_/http%3A//sweepstakesalerts.com/privacy) for the most accurate reproduction.*
 
 # SweepstakesAlerts.com - Privacy Policy
 
