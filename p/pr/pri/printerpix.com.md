@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printerpix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082021id_/http%3A//www.printerpix.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerpix.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630234948id_/http%3A//www.printerpix.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -23,12 +23,12 @@ The type of information we will collect about you includes:
 We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting our "Accounts Settings" page once you login or by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information which we hold will be held securely in accordance with our internal security policy and the law and the Safebuy Code of Practice.   
 
 
-We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way cannot be used to identify you. If you have any questions/comments about privacy, you should e-mail us at [contactus@printerpix.com](mailto:contactus@printerpix.com).   
+We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way cannot be used to identify you. If you have any questions/comments about privacy, you should e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5a6aaabb1a4a6b1b0b685b5b7acabb1a0b7b5acbdeba6aaa8).   
 
 
 **UNSOLICITED COMMERCIAL EMAIL / SPAM**
 
-We will not send any unsolicited commercial email (also known as spam) to personal email addresses and all marketing emails will include details of how to opt-out / unsubscribe. You may also send e-mails to contactus@printerpix.com with a request to be removed.   
+We will not send any unsolicited commercial email (also known as spam) to personal email addresses and all marketing emails will include details of how to opt-out / unsubscribe. You may also send e-mails to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with a request to be removed.   
 
 
 **SECURITY**
@@ -48,7 +48,7 @@ All PrinterPix servers, including web servers and database servers, are housed a
 All employees are kept up-to-date on our security and privacy practices. Every quarter, in addition to any time a new policy is added, PrinterPix employees are notified and/or reminded about the importance of privacy and what they can do to ensure that customers' information remains protected at all times.   
 
 
-If you have any questions or concerns about PrinterPix's security practices, you can send us an email at contactus@printerpix.com.   
+If you have any questions or concerns about PrinterPix's security practices, you can send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)   
 
 
 **LAST UPDATE**
@@ -62,12 +62,8 @@ Address
 PrinterPix  
 
 
-Suite 121,  
-635 Century Point  
-
-
 Lake Mary  
 Florida 
 
-32746   
+32746-6206   
 USA 
