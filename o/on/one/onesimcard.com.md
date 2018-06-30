@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226172521id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630104925id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
 
@@ -14,6 +14,7 @@ At OneSimCard®, the privacy and security of your personal information is extrem
   6. In the event that a customer files a complaint against OneSimCard regarding SMS received by the customer, we may, with prior consent from the customer, give other telecommunications companies personal information related to such filing. In addition, in the event that a line contractor with a telecommunications carrier other than Belmont Telecom, Inc. who received SMS sent by a customer files a complaint against such telecommunications carrier regarding the SMS sent by the customer, we may, in accordance with the terms of contracts, receive personal information on the customer from such telecommunications carrier. 
   7. In addition to the above, we may provide personal information held by Belmont Telecom, Inc to third parties in a form where personal identification cannot be discerned.
   8. We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+  9. In order to improve our customers’ product satisfaction we may use 3rd party review/survey management providers for surveys. In this case, your email address may be shared with that provider with the purpose of sending you a survey about your experience with OneSimCard products and services.
 
 
 
@@ -61,6 +62,7 @@ Company news, service updates and special offers are sent out to those who opted
 
   * **From a promotional email:**  Click on the unsubscribe link which is included in every promotional email.
   * **From your OneSimCard web account:**  Uncheck "Email me updates about OneSimCard" box from My Info page in your web account.
+  * **Send an email** to [unsubscribe@onesimcard.com](mailto:unsubscribe@onesimcard.com)  asking to be unsubscribed.
 
   
 
