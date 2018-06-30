@@ -1,30 +1,23 @@
-> *The following text is extracted and transformed from the rubratings.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215000232id_/http%3A//rubratings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubratings.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630050937id_/http%3A//rubratings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Hottest Site for Body Rubs and Massage Providers
 
-_updated 5/6/2016_
+_updated 5/6/2018_
 
 This privacy policy discloses the privacy practices for (https://rubratings.com). This privacy policy applies solely to information collected by this website. It will notify you of the following:
 
-  1. Where we get our listings.
-  2. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  3. What choices are available to you regarding the use of your data.
-  4. The security procedures in place to protect the misuse of your information.
-  5. How you can correct any inaccuracies in the information.
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
 
-
-### Where Do We Get Our Listings?
-
-The listings on RubRatings are a combination of user submitted data and listing data acquired through public RSS feeds accessible by anyone with an internet connection. Any data provided on this website including email addresses, names, payment information, phone numbers, or any other personal data is not shared or sold with any other website or party.
-
-The listings are intended to be of consenting adults over the age of 18 that are providing massage services in their area. It is not our wish to display photos or listing data of any person against their will. If you would like your listing removed, please use the ad removal form in the footer of the city listing site.
 
 ### User Submitted Information
 
-When you enter information into this website, we may use your information to respond to you regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request
+When you enter information into this website, we may use your information to respond to you regarding the reason you contacted us. We do not share or sell your information to any third party outside of our organization. 
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+We may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy unless you ask us not to. 
 
 Any reviews provided by our users are monitored by admin staff. Personal information, harassing or derogatory language, or any expletive content is removed and not published. The reviews are meant to entertain and inform other users about body rub and massage providers in their area. The reviews are not shared, sold, or sent to any other party including law enforcement or other websites.
 
