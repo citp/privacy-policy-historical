@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controlyourcash.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043622id_/http%3A//www.controlyourcash.com/privacy-policy-demanded-by-facebook) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controlyourcash.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630072801id_/http%3A//www.controlyourcash.com/privacy-policy-demanded-by-facebook) for the most accurate reproduction.*
 
 # Privacy Policy, demanded by Facebook
 
