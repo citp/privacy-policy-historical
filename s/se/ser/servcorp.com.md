@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the servcorp.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210224247id_/http%3A//www.servcorp.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servcorp.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630135751id_/http%3A//www.servcorp.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-\- Updated July 2016 -
+\- Updated May 2018 -
 
-This page sets forth the Privacy Policy for the Servcorp website, www.servcorp.com.
+This page sets forth the Privacy Policy for Servcorp and its web properties ( **including VirtualOffice.com** ) .
 
 Servcorp is committed to helping you maintain control over your personal information on the Internet. 
 
-Servcorp follows the relevant privacy legislation in the territories in which it operates.    
-If you have any questions, please email: [WebStrategy.HeadOffice@servcorp.net](mailto:WebStrategy.HeadOffice@servcorp.net)
+Servcorp follows the relevant privacy legislation in the territories in which it operates.    
+If you have any questions, please email: [WebStrategy.HeadOffice@servcorp.net](mailto:WebStrategy.HeadOffice@servcorp.net)
+
+Servcorp is authorised by the Information Commissioner’s Office to act as a Data Controller in line with the General Data Protection Regulation and the Data Protection Act 2018 
 
 Servcorp is also subject to the National Privacy Principles (NPPs) as outlined in the Privacy Act 1988 (Cth).
 
 ### Collection of personal information
 
-In any area of our website where Servcorp asks you to provide personal information that will enable us to enhance your site visit or to follow up with you after your visit.
+In any area of our website where Servcorp asks you to provide personal information, that will enable us to enhance your site visit or to follow up with you after your visit.
 
 It is completely optional for you to participate and to give this information. For example, we request information from you when you:
 
@@ -27,7 +29,7 @@ It is completely optional for you to participate and to give this information. F
 
 
 
-In each of the instances above, Servcorp may ask for your name, e-mail address, phone number, address and type of business, as well as other similar information that is needed to register or subscribe you to services or offers. If we ever ask for significantly different information we will inform you. In the case of newsletters or mailing lists, you will be able to "unsubscribe" from these mailing lists at any time.
+In each of the instances above, Servcorp may ask for your name, e-mail address, phone number, address and type of business, as well as other similar information that is needed to register or subscribe you to services or offers. If we ever ask for significantly different information we will inform you. Servcorp may contact you with promotional offers or newsletters in the future. Contact Servcorp at any time to unsubscribe and have your contact details removed.
 
 ### Sharing of your personal information
 
@@ -35,7 +37,7 @@ We may occasionally hire other companies to provide services on our behalf. Ser
 
 ### Use of Personal Information
 
-We collect non-personally identifiable information, including but not limited to browser type, version, language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is solely used internally for the purposes of gauging visitor traffic and trends. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
+We collect non-personally identifiable information, including but not limited to browser type, version, language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is solely used internally for the purposes of gauging visitor traffic and trends. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
 
 The personal information you provide will be kept confidential unless otherwise stated, and used to support your customer relationship with Servcorp. Among other things, we want to help you quickly find information on this site and alert you to product upgrades, new documentation, updated web information and other new products, services and special offers from Servcorp.
 
@@ -50,6 +52,7 @@ You have a right to access your personal information, subject to exceptions allo
 ### Who does this Privacy Policy apply to?
 
   * prospective employees
+  * prospective clients
   * clients
   * individuals who are customers of Servcorp clients
   * business partners
@@ -66,7 +69,7 @@ Servcorp is not bound by the NPPs in relation to its treatment of employee recor
 
 Servcorp welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us by any of the following means during business hours Monday to Friday.
 
-Call: +61 1300 678 375
+Call: +61 2 9231 7500
 
 Post: Attn: Privacy Policy
 
@@ -78,4 +81,4 @@ Sydney, NSW 2000
 
 AUSTRALIA
 
-Email: marketing.oceania@servcorp.com.au
+Email: [privacy@servcorp.com](mailto:privacy@servcorp.com)
