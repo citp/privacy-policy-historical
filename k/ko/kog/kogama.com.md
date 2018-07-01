@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kogama.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611092338id_/http%3A//www.kogama.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogama.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701031013id_/https%3A//www.kogama.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KoGaMa - Play, Create And Share Multiplayer Games
 
