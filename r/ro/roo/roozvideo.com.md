@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roozvideo.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501144956id_/http%3A//www.roozvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roozvideo.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701134459id_/http%3A//www.roozvideo.com/privacy) for the most accurate reproduction.*
 
 # Rooz Video Privacy Policy - Rooz Video
 
