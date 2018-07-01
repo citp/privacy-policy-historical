@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430213154id_/http%3A//www.gazettextra.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701113216id_/https%3A//www.gazettextra.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | gazettextra.com
 
@@ -50,21 +50,19 @@ The Gazette, Bliss Communications, Inc., and Bliss New Media are affiliated with
 
 The Internet is an ever-changing medium. We reserve the right to alter or amend this policy as required by changes in business strategy or developments in technology. If changes are required, we will post the changes to the Terms of Use and/or Privacy Policy.
 
-[](http://www.gazettextra.com/multimedia/user-submitted_galleries/springtime-photos/collection_362b81c8-4c82-11e8-bf7e-936888964456.html)
-
-Now that spring has sprung, do you have flowers blooming in your yard or garden? Are you overrun with hungry birds? If so, we'd like to see your photos.
+####  Readers' Choice 2018 Awards 
 
 We're always interested in hearing about news in our community. Let us know what's going on!
 
-  * Apr 30
+  * Jul 1
 
-  * Apr 30
+  * Jul 1
 
-  * Apr 30
+  * Jul 1
 
-  * Apr 30
+  * Jul 1
 
-  * Apr 30
+  * Jul 1
 
 
 
