@@ -1,161 +1,169 @@
-> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520042827id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701065830id_/https%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
 
 # ReviverSoft Privacy Policy
 
-Review Corel's/ReviverSoft's legal and privacy notices for details on how we collect, use and protect your personal information on the website.
+Corel Corporation and its affiliated entities (collectively, “ **Corel** ”, “ **us** ,” or “ **we** “) are committed to protecting your privacy. This Privacy Statement describes Corel’s information practices and the choices available to you regarding Corel’s use of information that can be used to identify you (“ **Personal Data** ”). If you are in the European Union (“ **EU** ”), please pay particular attention to the information for EU users in Section 5 below.
 
-Your use of and access to any website or software application (Corel/ReviverSoft Property') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it. 
+This Privacy Statement addresses Corel’s use of information collected through any of our web properties (collectively, the “ **Sites** ”) or our software or maintenance products (collectively, “ **Products** ”). We will only collect and use information from you as described in this Privacy Statement. We will not sell your data to any third parties.
 
-We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [privacy@corel.com](mailto:privacy@corel.com).
+If you have any questions about our Privacy Statement, you can contact our Data Privacy Officer at [privacy@corel.com](mailto:privacy@corel.com).
 
-#### Contents
+**1\. The Data We Process; Purposes of Processing**
 
-About us  
-Your information  
-Tracking and Cookies  
-Email  
-Which organizations collect the information  
-Advertising  
-Security  
-Children  
-Changing your preferences  
-Other disclosures  
-Overseas transfers  
-Your consent  
-Your rights  
+Depending on how you interact with us, we process different kinds of data and in different ways. Some data is automatically processed if you visit our Sites or use our Products. Other data is only processed if you actively submit it to us (like using our web forms to get in touch with us or uploading content to our Sites).
 
+Data we process if you visit our Sites:
 
-**_ABOUT US AND THIS POLICY_**
+Even if you are only a visitor on one of our Sites, your computer or device automatically sends technical information to our web servers that we store in log files, including the following “ **Website Usage Data** ”:
 
-All references to "we", "us" or "our" refer to (1) Corel Corporation and/or one or more of its corporate affiliates. 
+  * Date and time of the visit and the duration of use of the Site;
+  * The IP address of your device as well as your internet service provider (ISP);
+  * The referral/exit URL;
+  * The visited subsites of the Site;
+  * Clickstream data; and
+  * Information about your device (type of device, browser type and version, as well as settings, installed plug-ins, operating system).
 
-This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use Corel/ReviverSoft Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information.
 
-This policy may be amended from time to time without notice and it is your responsibility to read it carefully and review any changes that may have been made. Since changes will be posted on this page, we encourage you to check this page regularly. 
 
-For all users in locations other than in Europe, this policy, the processing of your online account data and any other data we collect shall be governed by the laws of the State of California and shall be subject to the exclusive jurisdiction of the courts in Santa Clara, California. For all users located in Europe, this policy, the processing of your online account data and any other data we collect is subject to any mandatory laws in the country in which the user resides.
+We process Website Usage Data to allow you to surf the Site and to ensure its functionality. We also process Website Usage Data to perform analyses on the performance of the Site, to continuously improve the Site and correct errors, to ensure IT security and operation of our systems, as well as to prevent or uncover abuse. We further process this data in aggregated or pseudonymized form to analyze trends, administer the Sites, track users’ movements around the Sites, and to gather demographic information about our user base as a whole or to improve marketing (including serving you personalized, interest-based ads) as well as the user experience on our Site and guaranteeing the safety of our IT systems.
 
-Back to top
+To process Website Usage Data, we use cookies and similar technologies. Click [here](https://web.archive.org/company/cookies/) to review our Cookie Notice.
 
-**_YOUR INFORMATION: WHAT WE COLLECT, HOW WE COLLECT IT, AND HOW IT IS USED_**
+Data we process if you use our Products:
 
-In common with most other websites and on-line services, we collect certain data about your visit to the Corel/ReviverSoft Properties. Any data we gather through your use of Corel/ReviverSoft Property falls into three categories: (1) personal information that you supply to us, such as information you provide when you register (including your e-mail address), create an account, create a user name, complete a survey, enter a contest, or purchase products or services; (2) information that is collected as you use Corel/ReviverSoft Property that becomes identified with your personal information; and (3) information that does not directly identify you and is collected as you use Corel/ReviverSoft Property, including your IP address, and information gathered with the use of a "cookie" (cookies are discussed further below), and information related to searches or recommendations on Corel/ReviverSoft Property. Such information collected includes, without limitation, which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. We use this information to better provide products and services, including, without limitation, to better target advertising and content, and to generate statistics and reports.
+Corel processes Personal Data when you install and register one of our Products. Some of this information will be processed automatically when installing our Products. This includes the following “ **Product Installation Data** ”:
 
-You may use certain Corel/ReviverSoft Property without registering or creating an account. We may nonetheless build a history of your interactions with the Corel/ReviverSoft Property even though we don't know who you are.In respect of certain Corel/ReviverSoft Properties which are products, Corel/ReviverSoft may also employ update management software to collect installation and registry information from your computer, including product, version, build, language and original equipment manufacturer. Where you use multiple Corel/ReviverSoft Properties, Corel/ReviverSoft may combine or link information collected from various Corel/ReviverSoft Properties and use it for the purposes outlined in this privacy policy.
+  * your browser type
+  * operating system
+  * device hardware
+  * other software on your system
+  * IP address
+  * product version
 
-**Personal information**  
-As is common across websites, to use certain features of Corel/ReviverSoft Property we ask you to register, create an account, provide your full name and email address and create a password. Once you have created an account, you will have the option to fill out a form (all or portions of which may be included in your profile).  When you create your profile, we collect personal information about you, such as name, address, location, e-mail address, favourite actors, music, etc. which will be stored in order to provide services to you and to conduct activities including, without limitation, using it to process your registration, maintain a profile about you, process your request to receive newsletters and email announcements, or to voluntarily participate in surveys or contests and/or to communicate with you about services and products we think may be of interest to you. 
 
-Corel/ReviverSoft may allow you to set up profiles that may be viewed by other users of the Corel/ReviverSoft Properties. To enrich your profile you may chose to include some personal information in your public profile so that other users can identify you. You should only include information in your public profile that you do not mind making publicly available without restriction. 
 
-To process your purchase orders we require your name, billing address, phone number, email address, shipping address, credit card information and credit card security codes. We use this information to process your order and, if any questions arise, to contact you about your order. We may also use it to contact you about other products and services we feel may be of interest to you. In general Corel/ReviverSoft will try to email you first but may phone or send an electronic message to you if you have provided these details and you consent to our so doing. 
+We request certain “ **Product Registration Data** ” during installation of our Products. Although only email address is mandatory for registration, we may ask you to submit other information, including:
 
-In respect of 'ReviverSoft' branded Corel/ReviverSoft Property, registering your product indicates that you have informed us of your interest in receiving offers and information from us and from third parties and we will contact you after registration unless you specify that you do not wish to receive such contact by notifying us at [privacy@corel.com](mailto:privacy@corel.com). For those who elect to receive such materials from third parties, Corel/ReviverSoft may release personal information to those third parties. Information released may include your name, email address and other information supplied in the Corel/ReviverSoft registration process.
+  * your name
+  * postal address, including country
+  * telephone number
 
-Personal information is also used to provide personalised services to you, such as show tracking and recommendations.
 
-Back to top
 
-**_TRACKING INFORMATION - COOKIES, FLASH COOKIES , CLEAR GIFS, AND IP ADDRESSES_**
+We use Product Installation Data and Product Registration Data to keep a record of your product license (that is, authenticating and periodically verifying your licensing rights in the product for anti- piracy purposes) and to enable the provision of maintenance or support services to you. We will also use this information to provide in-product messaging with information about products, features, or services offered by Corel.
 
-We store and track user information by using "cookies" and clear GIFs, which are also sometimes called web bugs or web beacons. Cookies alone do not tell us your e-mail address or other personal information. However, information provided through cookies may be associated with personal information if you provide this information to us by, for example, registering to use certain Corel/ReviverSoft Properties. A cookie is data sent to your browser from a web server. It is stored on your computer and contains a unique identifier that allows our sites to recognize your computer. If you have an account with Corel/ReviverSoft , a cookie on your computer lets us remember your user name and password so you don't have to re-enter that information each time you visit the site. Another cookie is a Flash cookie that is embedded in the Adobe Flash Player, which is a web tool that allows rapid development of dynamic content. Adobe Flash cookies may be used in certain situations where we use Flash to provide some content such as video clips or animation and to remember settings, preferences and usage. They are similar to 'browser' cookies (as described above) but are managed through a different interface than the one provided by your web browser.
+We collect information about the way you use our Products after you have installed and registered them. The specific “ **Product Usage Data** ” varies depending upon which Product you are using, but may include:
 
-The use of cookies is standard on the Internet and you will find they are currently used by many major websites. You can set your web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. We do not require you to use cookies, but please keep in mind that certain features and services will not function properly if you set your browser to refuse cookies.
+  * Launch data
+  * Hardware fingerprint
+  * Feature usage
+  * Page clicks
+  * Sign-in information
 
-"Clear GIFs" are very small image files that we sometimes place on web pages and within web-based email newsletters or other communication we send. Clear GIFs let us accurately count the number of users who have visited specific pages and the number of times those pages are accessed. Clear GIFs also let us know how many people opened an email. 
 
-We may use cookies, clear GIFs and related tracking technology to collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. 
 
-We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business partners), but we will use reasonable efforts to provide it in a form that does not directly identify you.
+We process Product Usage Data so that we can facilitate, evaluate, and verify your use of our products and services. We will also use the Product Usage Data for our own internal statistical and analytical purposes, and to evaluate and enhance users' experience of the Products by identifying customer preferences and analyzing crash data.
 
-Find out how to disable/enable browser cookies by clicking on the "Manage Cookies" section of the Interactive Advertising Bureau website on the following link <http://www.allaboutcookies.org/>. You may access and manage Flash management tools such as flash cookies from Adobe's web site directly at [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html).
+In addition, certain of our products may allow you to store, send, receive, edit, sync, share, or otherwise organize or manage files and folders (including any information or data stored in those folders) (“ **User Files** ”). We will record and store information regarding the size and name of all User Files that you make available via these Products.
 
-Back to top
+Data we process only if you submit it to us:
 
-**_EMAIL_**
+When you interact with us on our Sites or using our Products, you can submit Personal Data to us in various situations, including:
 
-Email addresses are used for identification, inviting new friends to Corel/ReviverSoft Properties, searching for and finding friends, general communication, order processing and to send notifications to you. To facilitate searching for and finding friends on the Corel/ReviverSoft Properties, Corel/ReviverSoft allows users to search for other members using text searches, first and last name, email address, and by using other attributes. Users can invite friends to join certain Corel/ReviverSoft Properties by sending invitation emails via our automated invitation system. Where permitted by applicable law, Corel/ReviverSoft stores these email addresses so that the respondents may be added to the friend list of the member sending the invitations and to establish relationships between users. 
+**Account Data:** On some of our Sites (“Interactive Sites”), you can register for an account with your e-mail address and a password you create. If you register one of our Products, you will automatically create an account you can use to manage your licensed Products and communication settings, including making updates to your Personal Data. On Interactive Sites, you can create a profile, which may include your Personal Data. We will store your account data for you to be able to communicate with others on our interactive Sites. Some of our Interactive Sites offer publicly accessible blogs or forums. Any information you provide in these areas may be read, collected, and used by others who access them with a registered account as well as anyone surfing the community pages as an unregistered user.
 
-Back to top
+**Transaction Data:** In relation to purchases you may make online or over the telephone, we will process your contact and billing information, such as your name, address, and credit card information. You can view the exact information required in the form provided at point of purchase. We will only use this data to complete your order, for billing purposes, and for internal accounting.
 
-**_WHICH ORGANIZATIONS ARE COLLECTING THE INFORMATION?_**
+**Customer Support Data:** You can communicate with us through the different web-forms and chat functionalities on our Sites. For example, you can use the contact forms to request technical assistance, request information on the status of your order, or otherwise reach out to our customer support team. In order to respond to your request, we will process your IP address and contact data as well as the contents of your request. We will delete this data as soon as we have complied with your request.
 
-When you provide information to Corel/ReviverSoft , that information is collected and maintained either by Corel/ReviverSoft or by an authorized agent or contractor of Corel/ReviverSoft such as web hosting companies, customer care service providers, and transaction processing service providers, unless specifically stated otherwise at the point of collection.
+**Survey Data:** From time to time we may conduct surveys in respect of our products and services. Participation in our surveys is optional. However, if you respond to one of our surveys, you may provide us with personal information about you. Unless you otherwise consent, we will only use this information to determine the types of Products that may be of interest to you and to operate and improve our Product offerings.
 
-Back to top
+**Email/Direct Mail Campaign Data:** From time to time, we may contact our customers directly by mail, email, or telephone to inform you about upgrades, new products, promotions, or special offers that you told us you were interested in receiving (including our newsletters). However, we will not contact you with any commercial communications that are unrelated to the Products that you have purchased from us unless you have given us your prior consent to receiving such information. When responding to one of these campaigns, you may have the option to provide us with personal information, which we will use for the purpose indicated. See Section 5 below for information on how to change your account’s communication preferences.
 
-**_ADVERTISING_**
+**Special Collaborative Programs:** We may collaborate with another company to provide you with a unique product or service (a “ **Collaborative Program** ”). Our use of your Personal Data is limited to the specific Collaborative Program that you have joined or elected to use and we will disclose to you the specific Personal Data we will share and for what purpose before sharing with our collaboration partner.
 
-We may use your personal information and non-personal information to serve ads to you via Corel/ReviverSoft Property as well as to provide you with promotions, products and services. We may also use third-party advertising companies and other business partners to serve ads on Corel/ReviverSoft Property and provide you with promotions, products and services. These third-party advertising companies and our business partners may be located throughout the world. 
+**Applicant Data:** If you would like to apply for employment with Corel, you can apply online at [www.corel.com](http://www.corel.com/), on our Careers page. We will process your application data solely for the purpose of responding to your application. Your data will be deleted within two years after finalizing your application unless you give us your explicit consent to keep your application on file to contact you with further job offers in the future.
 
-These third-party advertising companies and business partners may receive information relating to the advertisements that they serve you including, without limitation, date and time of ad shown, the banner ad that was shown and your IP address and your interactions with such advertisements. These third-party advertising companies and business partners may use cookies, clear GIFs and anonymous information about your visits to Corel/ReviverSoft Property and other websites to measure and improve the effectiveness of their ads, promotions, products and services. This information may also be used for online preference and other targeted marketing purposes. The information received by these third-party advertising companies and business partners is subject to the privacy policies of these third-party advertising companies and business partners. We may be given access to this information by these third-party advertising companies and business partners which we may use for purposes including, without limitation, to better target advertising and content to you and to generate statistics and reports that help us develop our products and services.
+**Business Contact or Sales Prospect Data:** If you are a business contact or sales prospect that has provided us your Personal Data, we will store your data in our database so that we can follow up on previous business conversations we’ve had with you, provide you additional information about our Products, or assist you in purchasing our Products. We may also share your Personal Data with sales representatives employed with our local affiliates or resellers so that they can work with you to complete any requested purchase of our Products.
 
-With your consent (as indicated when you set up your account) we may make certain information about you (including personal information, where you consent) available to third-party advertising companies and other business partners under agreements between us and those third-party advertising companies and business partners. The third-party advertising companies and business partners will use that information to target advertising to you or provide and market promotions, products and services to you. You may withdraw your consent to our providing your personal information to advertising companies and business partners at any time by adjusting your preferences in the preference page of the relevant Corel/ReviverSoft Property. If you do so we will not provide your personal information from the relevant Corel/ReviverSoft Property to third party advertisers or business partners from the time you opt out. However where permitted by applicable law, we may still provide them with information that does not directly identify you from which they may send you targeted advertisements.
+**2\. Sharing Personal Data with Third Parties**
 
-Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioural advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks: <http://www.networkadvertising.org/managing/opt_out.asp>
+We treat your Personal Data with care and confidentially and will only pass it on to third parties to the extent described below and not beyond. We do not share, sell, rent, or trade Personal Data with third parties for any promotional purposes. Where our affiliates, resellers, or service providers process Personal Data, they will do so solely on our instructions and have undertaken to comply with strict contractual requirements for the security of your data (including, but not limited to, complying with this Privacy Statement).
 
-Opting out of Flash Cookies is described above in the Advertising section.
+**Affiliated Companies:** Corel is a global company, with subsidiaries worldwide, including in the USA, Germany, the UK, Japan, China, and Taiwan. We share data with our subsidiaries in the ordinary course of our business. For example, if one of our resellers makes contact with you on our behalf, this data will be shared with the relevant Corel subsidiary, such as Corel GmbH in Germany. For an overview of our affiliates, you can refer to the Contact Us page at <https://www.corel.com/en/contact-us/> to view the mailing addresses of our local affiliates.
 
-Back to top
+**Service Providers:** Corel transmits data to service providers that enable us to provide our Site and market, sell, and deliver our Products. This includes the parties providing our third-party cookies and tracking tools, as well as parties providing us with services to assist us in processing transactions, including credit card transactions, handling shipping and processing of orders, providing customer support, managing customer relationships (like Saleforce.com), hosting the Sites (like Amazon Web Services), collecting, storing, or removing your information, or performing statistical analysis of our Sites (such as Google). We occasionally also share Personal Data with independent auditors acting on our behalf, for anti-piracy or revenue accounting purposes in connection with the internal operations of our business. We sometimes need to share your information with these companies in order for them to provide the applicable services.
 
-**_SECURITY_**
+**Business Transactions:** In the event Corel goes through a business transaction such as a merger, an acquisition by another company, or a sale of all or a portion of its assets to which this Privacy Statement relates, your information will likely be among the assets transferred and, in such case, you will be notified in advance via email and/or a prominent notice on our Sites of such change in ownership or a change in the use of your Personal Data, as well as any choices you may have regarding your Personal Data (including, if applicable, your right to object to such transfer).
 
-We use commercially reasonable efforts to safeguard the confidentiality of your personal information. However, due to the design of the Internet, ever-changing technology and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. We will have no liability for disclosure of personal information due to errors in transmission or unauthorized or unlawful acts of third parties. 
+Public Authorities: Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law, such as when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or litigation or other legal process or action (whether or not initiated by Corel) to protect Corel's, our users' or third parties' rights, property or safety. We will transmit data to public authorities such as law enforcement or tax authorities only in the case of a legal obligation to do so based on a request for information from the respective authority.
 
-You are responsible for the security of your Corel/ReviverSoft user name, ID and password. Please take care when using and storing them.
+**Promotional Offers:** As a registered Corel customer, you have the opportunity to receive news and special offers from Corel regarding our Products or the products of third parties who we think may offer products or services that would be of interest to you.
 
-Back to top
+**3\. Timeframe for Keeping Data**
 
-**_COMMITMENT TO CHILDRENS' PRIVACY_**
+We process and store your Personal Data as long as necessary for the fulfillment of our contractual or legal obligations. Thus, we store the data as long as our contractual relationship with you as our customer obliges us to do so. After termination of our contract, we will store Personal Data only to the extent and for as long as applicable law requires. All other data will be deleted immediately when you, as a customer, unsubscribe from our Products or other services. If the remaining data is no longer required for the fulfillment of legal obligations, it will be regularly deleted, unless its further processing is necessary for the preservation of evidence or the prevention of legal claims from becoming time-barred.
 
-Protecting the privacy of children is important to us. For that reason, none of our Corel/ReviverSoft Properties are directed at anyone under 13 and they are not structured specifically to attract anyone under 13.  We also do not collect or maintain personal information from those users who we actually know are under 13. Should we learn or be notified that we have collected information from users under the age of 13, we will immediately delete such personal information.
+**4\. Reviewing and Requesting Changes to Your Information**
 
-Back to top
+EU users: please refer to Section 6 below for your statutory rights under the GDPR
 
-**_CHANGING YOUR PERSONAL INFORMATION & PREFERENCES_**
+Upon request, Corel will make a reasonable effort to inform you regarding whether we hold any of your personal information. Customers may update, delete, access, or change their account information by editing their user, group, or team records. To update a customer profile, login to your account at <https://www.corel.com/> and click on “My Account”, or email us at [privacy@corel.com](mailto:privacy@corel.com). We will respond to any requests for access to personal information within 30 days after receipt of such request.
 
-**Your Right to Choose**  
-When you register to access certain Corel/ReviverSoft Properties, you can let us know that you do not wish to receive announcements from us by opting out at the time you give us your personal information. You may also later opt out of providing us personal identifiable information by changing your preferences in the set up areas of the Corel/ReviverSoft Properties or changing the necessary settings in your profile. For certain Corel/ReviverSoft Properties opting out may only be possible if you delete your account for that Corel/ReviverSoft Property. If you opt out or do not provide your personal information then some services and features (such as personal information services, recommendations and tracking of ratings and likes and dislikes) may not be available to you or may be deleted. All newsletters and email announcements from us will contain an unsubscribe link that also allows you to opt out at any time from these messages.
+To update customer billing information, contact Accounts Receivable [corelar@iqbackoffice.com](mailto:corelar@iqbackoffice.com) for assistance.
 
-**Review and Correction**  
-You may review and update the personal information that you have provided us by visiting the relevant set up page of the Corel/ReviverSoft Property and updating your account profile.
+If you have signed up to receive marketing emails from Corel, you can opt-out of receiving future marketing emails by following the foregoing process. Customers cannot opt-out of receiving all transactional emails related to their Corel account, but may change their account settings (as described above) to reduce the frequency or eliminate certain Corel notification emails.
 
-Back to top
+**5\. Information for EU Residents:**
 
-**_OTHER DISCLOSURE OF PERSONAL INFORMATION_**
+The data controller is Corel Corporation, 1600 Carling Avenue Ottawa ON K1Z 8R7, Canada. Our representative in the EU is Corel GmbH, Erika-Mann-Str. 53/Haus Nr. 7, 80636 Munich, Germany. Privacy-related questions can be directed to privacy@corel.com.
 
-We will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, (ii) as required by court order or other government or law enforcement authorities in order to comply with legal process or law, (iii) in the event of a merger where another company has acquired the relevant Corel/ReviverSoft Property, (iv) in order to protect against the misuse or unauthorized use of Corel/ReviverSoft Property, (v) in order to protect and defend our rights and property, or (vi) in order to protect the personal safety or property of our users or the public.
+You are not legally required to provide Corel with the Personal Data described in this Privacy Statement. Further, the contractual relationship that you might have entered into with us by purchasing our Products does not imply any obligation to provide your Personal Data. However, you might not be able to use our Service to the full extent if you do not provide us with certain data or object to the use of these data.
 
-If Corel/ReviverSoft sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if Corel/ReviverSoft (or a division or subsidiary) is acquired by, or merged with, another entity, Corel/ReviverSoft may provide to such entity user information (both anonymised and/or aggregate and personal information) that is related to that part of the business that was sold to or merged with the other entity.
+Our Legal Basis for Processing
 
-**Links to Third Party Websites**  
-Corel/ReviverSoft Properties may display links to websites operated by third parties. If you click on a link, the relevant third party operator or others may collect data about you when you visit the linked website. They are responsible for the collection and further processing of such data and we have no control over it. We advise you to check the terms of use and privacy policies of any linked websites you visit to find out what data they are collecting and the purposes for which they process your personal data.
+When processing your Personal Data, we rely on the General Data Protection Regulation (" **GDPR** ”), an EU-wide legal framework for the standardization of data protection. Corel primarily processes data as a controller, for the purposes explained above under Sections 1 and 2 of this Privacy Statement. These purposes represent our legitimate interests for the purposes of Article 6 (1) f) GDPR. At the same time, some of the Personal Data we process is necessary for us to perform a contract with you or in order to take steps at your request prior to entering into a contract with you. For example, if you express your interest in purchasing one of our Products, such as by filling out a webform, we will process the Personal Data submitted to comply with your request. This may include sharing your Personal Data with one of our authorized resellers, who will then use your Personal Data to complete the purchase transaction. In addition, we are legally obliged to provide certain information to criminal prosecution or tax authorities in individual cases upon request. In these cases, the legal basis for the processing is either legal requirements (Article 6 (1) c) GDPR) or reasons of public interest (Article 6 (1) e) GDPR).
 
-Back to top
+Transferring your Data outside the EU or the EEA
 
-**_OVERSEAS TRANSFERS AND PROCESSING OF YOUR INFORMATION_**
+Corel’s principal place of business is in Canada, which is a “ **Third Country** ” under the GDPR. Third Countries are generally not considered to afford the same level of protection that you enjoy in the EU, but Corel still provides an adequate level of protection for your Personal Data - decision 2002/2/EC of the EU Commission states that Canada is deemed to provide an adequate level of data protection regarding commercial organizations such as Corel.
 
-Your personal information may be used by us and our affiliates, subsidiaries and our suppliers who may be located in countries outside the country where you are located or the purposes outlined in this policy to manage Corel/ReviverSoft 's global business. The data protection laws in these countries may not offer the same level of protection as those in the country where you are located. By providing your personal information to us you understand and expressly consent to us and our suppliers processing your data in any jurisdiction, including without limitation the United States of America, in accordance with this privacy policy.
+We have ensured that our service providers and affiliates have either certified under the EU-U.S. Privacy Shield Framework and will process all Personal Data received from EU member states in reliance on the Privacy Shield Framework or that they have been subjected to strict contractual provisions in their contract with us to guarantee that an adequate level of data protection for your data is guaranteed.
 
-Back to top
+User Profiles
 
-**_YOUR CONSENT_**
+We use your data for " **Profiling** ". This means that we use your data to make tailored offers based on your previous behavior as well as to serve you personalized ads. However, we will never process and analyze your Personal Data in the context of Profiling in a way would lead to an automated decision that has a legal effect on you or significantly impairs you in a similar way.
 
-**BY USING ANY COREL/ReviverSoft PROPERTIES, YOU ARE CONSENTING TO THE COLLECTION AND USE OF YOUR INFORMATION DESCRIBED IN THIS PRIVACY POLICY AND YOU ACCEPT AND AGREE TO THIS PRIVACY POLICY.**
+Your rights regarding the processing of your Personal Data
 
-Back to top
+As a natural person, you have certain rights as “ **Data Subject** ”. You can assert the following rights against us under the GDPR:
 
-**_YOUR RIGHTS_**
+Your right to information and access under Article 15 GDPR,   
+Your right to correction under Article 16 GDPR,   
+Your right to erasure under Article 17 GDPR,   
+Your right to restriction of processing under Article 18 GDPR, and   
+Your right to data transferability under Article 20 GDPR.
 
-Your European Privacy Rights. If you are located in Europe, some of the data that we process may be protected by data protection laws such as, in the United Kingdom, the Data Protection Act 1998 (the "Act"). Under the Act, you have certain rights to request information about, get access to or request the amendment of any such personal data. If you wish to exercise these rights, please contact us at [privacy@corel.com](mailto:privacy@corel.com). Please see the UK Information Commissioner's Office website at: <http://www.ico.gov.uk/> for further details.
+In addition, you have a right of objection to the competent data protection supervisory authority under Article 77 GDPR, but only with respect to the data processing we conduct on our own behalf, as a controller. In the event Corel acts as a processor of your data for a third party, you must refer to the entity acting as controller to assert this right.
 
-Your California Privacy Rights. If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+**Information about your Right of Objection under Article 21 GDPR**
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@corel.com](mailto:privacy@corel.com). All requests must be labelled "Your California Privacy Rights" in the email subject line. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
+_1\. Right of objection in individual cases_
 
-Back to top
+In addition to the rights already mentioned, you have the right, for reasons arising from your particular situation, to object at any time to the processing of Personal Data relating to you, which is processed on the basis of Article 6 (1) e) GDPR (data processing in the public interest) and Article 6 (1) f) GDPR (data processing on the basis of a balance of interests); this also applies to profiling based on this provision within the meaning of Article 4 (4) GDPR. If you file an objection, we will no longer process your Personal Data unless we can prove compelling grounds for the processing that outweigh your interests, rights and freedoms or the processing serves to assert, exercise, or defend legal claims. Please also note that, if we terminate the processing due to your objection, the Sites or Products may no longer be available to you or only to a limited extent.
 
-**Inquiries**  
-If you have any concern about privacy at Corel/ReviverSoft , please send us a thorough description of your concern to [privacy@corel.com](mailto:privacy@corel.com) or the address above, and we will try to resolve it.
+_2\. The right to object to the processing of data for advertising purposes_
 
-This privacy policy was last updated on: February 2012.
+You also have the right to object at any time to the processing of your Personal Data for the purpose of direct marketing, including any subscription to our newsletters or personalized ads; this also applies to Profiling, insofar as it is associated with such direct marketing. If you object, we will no longer process your Personal Data in the future.
+
+The objections can be made form-free and should be addressed to: privacy@corel.com
+
+**6\. Collecting Information from Children**
+
+Corel’s Sites are _not_ intended for use by children under the age of 18 and we do not intentionally collect any information from users under the age of 18. If a parent or guardian becomes aware that their child has provided Corel with Personal Data or that we have otherwise inadvertently collected this information, contact us at [privacy@corel.com](mailto:privacy@corel.com), so that we may immediately delete the information from our servers.
+
+**7\. Changes**
+
+Corel reserves the right to change this Privacy Statement. We will provide notification of the material changes to this Privacy Statement through our Sites at least 30 days prior to the change taking effect.
+
+Last updated: May 2018
