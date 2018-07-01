@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpressoffice.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223114053id_/http%3A//www.prnewswire.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpressoffice.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701155728id_/http%3A//www.prnewswire.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cision - U.S. Privacy Policy
 
