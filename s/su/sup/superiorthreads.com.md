@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502043029id_/http%3A//www.superiorthreads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701213307id_/https%3A//www.superiorthreads.com/privacy-policy) for the most accurate reproduction.*
 
 # Superior's Privacy Policy
 
 **Privacy Policy** | [Terms of Service](https://web.archive.org/terms-of-service) | [Shipping Information](https://web.archive.org/shipping-info) | [Wholesale Accounts T&C](https://web.archive.org/wholesale-terms-and-conditions) | [Guarantee and Return Policy](https://web.archive.org/guarantee-and-return-policy)  
-_Most Recent Update: December 8, 2017  
+_Most Recent Update: May 24, 2018  
 _
 
 Thank you for visiting and accessing the SuperiorThreads.com Website (“website”) operated by Superior Threads. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the website directly or through another site, you accept the practices described in this policy.
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the website directly or through another site, you accept the practices described in this policy. We require our customers and visitors to the website, where applicable, to undertake to respect the European Union General Data Protection Regulation.
 
 This privacy policy applies to the website. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.
 
