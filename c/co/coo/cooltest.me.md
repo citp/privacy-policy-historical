@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooltest.me privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531023855id_/http%3A//www.cooltest.me/privacy-and-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltest.me privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701150541id_/http%3A//www.cooltest.me/privacy-and-policy.html) for the most accurate reproduction.*
 
 # 
 
