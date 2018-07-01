@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprintbar.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501132939id_/http%3A//www.theprintbar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprintbar.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701175040id_/https%3A//www.theprintbar.com/privacy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - The Print Bar
 
