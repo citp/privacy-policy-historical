@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603054626id_/http%3A//masslottery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701063558id_/https%3A//www.masslottery.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy| MA State Lottery
 
