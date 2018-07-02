@@ -1,87 +1,41 @@
-> *The following text is extracted and transformed from the instagrid.me privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524190132id_/http%3A//www.socialprintstudio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instagrid.me privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702041932id_/http%3A//instagrid.me/privacy-policy) for the most accurate reproduction.*
 
-# Social Print Studio
+# Privacy Policy - Celebrity News
 
-Here at Social Print Studio we are committed to protecting your privacy and data as far as we legally can. We have seen Citizenfour and we care. Most privacy policies scare the bejesus out of us, so we've tried to put this in human terms. Let's do this!
+## Privacy Policy:
 
-  
+Instagrid Inc (" **Instagrid** ") operates instagrid.me and may operate other websites. It is Instagrid's policy to respect your privacy regarding any information we may collect while operating our websites.
 
+### Website Visitors
 
-##### What information do we collect? 👀
+Like most website operators, Instagrid collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Instagrid's purpose in collecting non-personally identifying information is to better understand how Instagrid's visitors use its website. From time to time, Instagrid may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-When you make an order with Social Print Studio there is certain information you provide us with to complete your order. This is:
+Instagrid also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on instagrid.me blogs/sites. Instagrid only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-• The name, address, and telephone number in your shipping details.  
-• The photos you have ordered for printing.  
-• Your email address and any emails you may have sent to us with product questions.
+### Gathering of Personally-Identifying Information
 
-Additionally when you make an order we can access certain information which we may use to make our services better:
+Certain visitors to Instagrid's websites choose to interact with Instagrid in ways that require Instagrid to gather personally-identifying information. The amount and type of information that Instagrid gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [instagrid.me](http://instagrid.me/) to provide a username and email address. Those who engage in transactions with Instagrid are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Instagrid collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Instagrid. Instagrid does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-• Your IP address and anonymized Google analytics information about how you navigate our site.  
-• If you order from our app Print Studio we can see what device and operating system you used to order. eg. iPhone 5, iOS 8.  
-• If you connect your Instagram to our site, we can access data related to your Instagram account which you have made public.
+### Aggregated Statistics
 
-  
+Instagrid may collect statistics about the behavior of visitors to its websites. Instagrid may display this information publicly or provide it to others. However, Instagrid does not disclose personally-identifying information other than as described below.
 
+### Protection of Certain Personally-Identifying Information
 
-##### What information do we NOT collect? 👤
+Instagrid discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Instagrid's behalf or to provide services available at Instagrid's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Instagrid's websites, you consent to the transfer of such information to them. Instagrid will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Instagrid discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Instagrid believes in good faith that disclosure is reasonably necessary to protect the property or rights of Instagrid, third parties or the public at large. If you are a registered user of an Instagrid website and have supplied your email address, Instagrid may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Instagrid and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Instagrid takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-• Your payment information is handled by our credit card processor Stripe. We never see your full card details. Stripe is an industry-leading online payment processor and you can read about them and their comprehensive security measures [here](https://stripe.com/about).
+### Cookies
 
-• We do not collect any photos that you do not select for printing. When you connect your Instagram account to our site, we only store the images you select for printing in your final order and when you order from our app we only store the photos you send us for printing. We cannot see any images you have sent via Instagram messages or otherwise have on your device. Have no fear!
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Instagrid uses cookies to help Instagrid identify and track visitors, their usage of Instagrid website, and their website access preferences. Instagrid visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Instagrid's websites, with the drawback that certain features of Instagrid's websites may not function properly without the aid of cookies.
 
-• We cannot see the file names of any images you upload to our site, they are converted into numerical values by our system. If you've saved a picture as "futurelover.jpg" or "archnemesis.jpg" and order it for printing, we cannot see this file name - phew!
+### Business Transfers
 
-• We do not knowingly solicit or collect information from those under 13, in accordance with the Children’s Online Privacy Protection Act. Our site is intended for use by those over 13.
+If Instagrid, or substantially all of its assets, were acquired, or in the unlikely event that Instagrid goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Instagrid may continue to use your personal information as set forth in this policy.
 
-##### How do we store your information? 🔐
+### Ads
 
-The photos you order for printing and any information you supply us with will be saved in our secure servers. We use Amazon Simple Storage Service (Amazon S3) to store this information. This is a widely used and highly regarded storage service with clients like Netflix, Pinterest, and WeTransfer. It uses SSL encryption to secure your data during transmit and stores it on servers that require cutting edge biometric authentication to access. Only a handful of trusted employees of Social Print Studio can access this data and we have never had any security breaches in our four years as a company. 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Instagrid and does not cover the use of cookies by any advertisers.
 
-  
+### Privacy Policy Changes
 
-
-##### Why do we store your information? 🔍
-
-We store your information so we can complete your order and so we can reprint your order at a future date should you request this service or should your initial order be lost or damaged. Additionally, in the crazy world that we live in, it is cheaper to store data than to delete it. Therefore we do not currently offer an easy method for you to delete your information from our secure servers once you have placed an order. 
-
-  
-
-
-##### Photo Content and Copyright 🙈
-
-• With regard to photo content, we will print what you send us for printing. You are responsible for ensuring that the content of your photos does not violate copyright or transgress laws in your country. Nudity is fine by us.
-
-• In terms of copyright, when you order photos for printing, this does not affect your ownership of these photos. You still own the copyright to your images and you do not give up any rights over them. Your photos are still your photos, printed or not.
-
-  
-
-
-##### Opting Out 🙅
-
-There a few things you can opt out of when you order from us:
-
-• You do not have to create an account to order, this is only if you want to save your address and payment information for future orders.   
-• You are always free to opt out from following us on Instagram should this opportunity present itself.  
-• You are always free to unsubscribe from our email newsletters. We don't want to spam you!
-
-  
-
-
-##### Third Parties 👪🎉
-
-• We never share your information with third parties beyond those required to complete your order, eg. our trusted printers, payment processor, and shipping providers. 
-
-• We never rent or sell your information and photos to any other third parties (e.g. advertisers, data brokers, journalists, external businesses, deities, your disapproving relatives) and we will never otherwise share your data unless required to by law or subpoena. 
-
-• We are not a subsidiary or cog in some larger corporate machine that can access your information. We are fiercely independent, always and forever!
-
-  
-
-
-##### 🙋 Contact
-
-If you have any questions about this, please feel free to email us at [hello@sps.io](mailto:hello@sps.io). We've got your back! 
-
-  
-
+Although most changes are likely to be minor, Instagrid may change its Privacy Policy from time to time, and in Instagrid's sole discretion. Instagrid encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a instagrid.me account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
