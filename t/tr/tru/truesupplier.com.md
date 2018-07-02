@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923182826id_/http%3A//www.truesupplier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702135930id_/https%3A//www.truesupplier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,9 @@ Cookies
 
 We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our store but will be unable to use the shopping cart to buy merchandise. The TrueSupplier shopping cart cannot function without cookies enabled so that the necessary information to process your order is retained. If you disable cookies, TrueSupplier will be unable to accept your online order. We will not share any personally identifiable information provided by this cookie with any third party. We will, however, link data stored in cookies to the personally identifiable information you submitted while on our site. This allows us to personalize your shopping experience and discern user preferences to evoke subconscious feelings of familiarity and assurance.
 
-• Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+•Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
-• This privacy statement covers the use of cookies by TrueSupplier only and does not cover the use of cookies by any advertisers.
+•This privacy statement covers the use of cookies by TrueSupplier only and does not cover the use of cookies by any advertisers.
 
 Log Files
 
