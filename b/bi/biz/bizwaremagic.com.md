@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402212355id_/http%3A//bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702212923id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,13 +14,17 @@ BizwareMagic does not tolerate or practice any form of spam. We do not give your
 
 BizwareMagic only collects information (first name, email and IP address/signup time) for its newsletters and is not used for any other purposes. Removal from these newsletters can be done from the removal links placed in each and all emails.
 
-We don't knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, it will be deleted from our systems. This site is of little interest to children and this issue should not be a problem. However, if any parent or guardian has any concerns they may contact this site to get any such details removed immediately. contact (at) bizwaremagic.com
+We don't knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, it will be deleted from our system. This site is of little interest to children and this issue should not be a problem. However, if any parent or guardian has any concerns they may contact this site to get any such details removed immediately. contact (at) bizwaremagic.com
 
 **Cookies**
 
-BizwareMagic does not use any cookies to track customer habits or behavior. The only exception is that Google Adsense does use the DoubleClick DART cookie:
+BizwareMagic does not use any cookies to track customer habits or behavior. Third party affiliate ventors may use tracking cookies for sales data and to personlize the shopping experience.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go here: http://www.doubleclick.com/privacy/faq.aspx
+Also note Google Adsense does use the DoubleClick DART cookie: 
+
+"We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go here: <https://www.doubleclickbygoogle.com/>"
+
+For more information on Cookies - Please view our [Affiliate Disclaimer](http://www.bizwaremagic.com/Disclaimer.htm). 
 
 **Opt-In**
 
