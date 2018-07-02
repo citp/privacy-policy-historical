@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarc.edu.my privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628023907id_/http%3A//www.tarc.edu.my/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarc.edu.my privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702160613id_/https%3A//tarc.edu.my/privacy-policy.jsp) for the most accurate reproduction.*
 
 # TAR University College
 
