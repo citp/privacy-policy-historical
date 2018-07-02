@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsdrivingdirections.org privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130204055id_/http%3A//mapsdrivingdirections.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsdrivingdirections.org privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702153252id_/http%3A//mapsdrivingdirections.org/privacy.php) for the most accurate reproduction.*
 
 # Car Driving Directions - Simple to use Driving Directions complete with MindSpark App!
 
