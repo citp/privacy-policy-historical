@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginnow.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609041535id_/http%3A//loginnow.net/Legal/Privacy%3Fsource%3D-lp0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginnow.net privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703072759id_/http%3A//legal.loginnow.net/Home/Privacy%3Fsource%3D-lp0) for the most accurate reproduction.*
 
 # 
 
@@ -74,7 +74,7 @@ We will not share the personal information we collect about you with any third p
 
   4. **How Do We Use Cookies and Tracking Technology?**
 
-We use cookies, pixel tags, web beacons, and similar files or technologies to collect and store the information we automatically collect about your computer, device, and product usage. We use the term "cookies" in this policy to refer to cookies and all such similar technologies that collect information automatically when you are using the Polarity Services, where this policy is posted. You can find out more about cookies our cookie policy [here](http://legal.loginnow.net/home/CookiePolicy?source=-lp0). 
+We use cookies, pixel tags, web beacons, and similar files or technologies to collect and store the information we automatically collect about your computer, device, and product usage. We use the term "cookies" in this policy to refer to cookies and all such similar technologies that collect information automatically when you are using Polarity’s Services. You can find out more about the cookies we use at our cookie policy [here](http://legal.loginnow.net/home/CookiePolicy). 
 
 
 
@@ -86,7 +86,7 @@ We retain the information we collect about and from you for as long as necessary
 
   6. **How Do We Protect Your Personal data?**
 
-We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your personal data against loss, misuse, unauthorized access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls. While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s) and Account/profile registration information and verifying that the personal data we maintain about you is accurate and current. We are not responsible for protecting any personal data that we share with a third-party based on an account connection that you have authorized. 
+We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your personal data against loss, misuse, unauthorized access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls. While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s). 
 
 
 
@@ -101,7 +101,7 @@ Polarity may transfer your personal data to countries other than the one in whic
 
   9. **Your Rights**
 
-Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to personal data, as well as to seek to update, delete or correct this Information. If you wish to exercise any of these rights, please contact gdprcontact@polarity.com.cy. To the extent that Polarity’s processing of your personal data is subject to the General Data Protection Regulation, Polarity relies on its legitimate interests 
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to personal data, as well as to seek to update, delete or correct this Information. If you wish to exercise any of these rights, please contact gdprcontact@polarity.com.cy. To the extent that Polarity’s processing of your personal data is subject to the General Data Protection Regulation, Polarity relies on your consent. If we have collected and process your personal data with your consent, then you can withdraw your consent at any time. 
 
 
 
