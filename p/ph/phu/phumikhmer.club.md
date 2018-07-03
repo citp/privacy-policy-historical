@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phumikhmer.club privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105120457id_/http%3A//www.phumikhmer.club/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phumikhmer.club privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703180307id_/http%3A//phumikhmer.club/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy () PhumiKhmer ភូមិខ្មែរ
+# Privacy Policy – ភូមិខ្មែរ – Phumi Khmer
 
 **Privacy Policy**  
 This Privacy Policy governs the manner in which [P](http://www.filmloy.com/)humiKhmer collects, uses, maintains and discloses information collected from users (each, a “User”) of the  [http://www.Ph-Kh.com/](http://www.ph-kh.com/)  website (“Site”). This privacy policy applies to the Site and all products and services offered by PhumiKhmer.
@@ -15,8 +15,8 @@ We may collect non-personal identification information about Users whenever they
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  
 How we use collected information  
 [PhumiKhmer](http://www.ph-kh.com/) may collect and use Users personal information for the following purposes:  
-    •    \- To improve our Site We may use feedback you provide to improve our products and services.  
-    •    \- To send periodic emails We may use the email address to send them information and updates pertaining to their order.
+    •    – To improve our Site We may use feedback you provide to improve our products and services.  
+    •    – To send periodic emails We may use the email address to send them information and updates pertaining to their order.
 
  **How we protect your information**  
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
