@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626043751id_/http%3A//coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703065904id_/https%3A//www.coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
 
 # Privacy Statement for coacht.com :: CoachT.com Tennessee High School Sports
 
@@ -34,7 +34,7 @@ This site gives users the following options for removing their information from 
 
   
 
-  1. You can send email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f5969a94969d81b5969a94969d81db969a98)
+  1. You can send email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#197a76787a716d597a76787a716d377a7674)
 
   
 
@@ -45,7 +45,7 @@ This site gives users the following options for changing and modifying informati
 
   
 
-  1. email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d3dfd1d3d8c4f0d3dfd1d3d8c49ed3dfdd)  
+  1. email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#12717d73717a6652717d73717a663c717d7f)  
 
   2. online form [Edit User Info](http://tennessee.coacht.com/boards/index.php?act=UserCP&CODE=00)  
 
