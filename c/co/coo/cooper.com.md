@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooper.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530174759id_/https%3A//www.cooper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooper.com privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704011031id_/https%3A//www.cooper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cooper
 
