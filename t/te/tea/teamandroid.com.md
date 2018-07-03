@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamandroid.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623173619id_/http%3A//www.teamandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamandroid.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703070046id_/https%3A//www.teamandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Team Android
 
