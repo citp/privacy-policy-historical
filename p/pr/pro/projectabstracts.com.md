@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectabstracts.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602222949id_/http%3A//projectabstracts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectabstracts.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703155036id_/https%3A//projectabstracts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ProjectAbstracts.com – Projects Ideas and Downloads
 
