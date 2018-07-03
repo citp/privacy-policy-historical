@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafonelive.com.eg privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623170523id_/http%3A//www.vodafone.com.eg/vodafoneportalWeb/en/P5800133251299055610945) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafonelive.com.eg privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703120543id_/http%3A//www.vodafone.com.eg/vodafoneportalWeb/en/P5800133251299055610945) for the most accurate reproduction.*
 
 # Privacy Policy of Vodafone Egypt
 
