@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the winmeen.com privacy policy that was archived on 2018-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180603031619id_/https%3A//www.winmeen.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winmeen.com privacy policy that was archived on 2018-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180703085308id_/https%3A//www.winmeen.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://www.winmeen.com/privacy-policy/">
 <meta property="og:site_name" content="WINMEEN">
 
-<!-- This site is optimized with the Yoast SEO plugin v7.5.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v7.7.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Privacy Policy page of winmeen, Privacy Policy page of winmeen, Privacy Policy page of winmeen, Privacy Policy page of winmeen">
 <link rel="canonical" href="https://www.winmeen.com/privacy-policy/">
 <meta property="og:locale" content="en_GB">
@@ -26,6 +26,7 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Privacy Policy page of winmeen, Privacy Policy page of winmeen, Privacy Policy page of winmeen, Privacy Policy page of winmeen">
 <meta name="twitter:title" content="Privacy Policy - WINMEEN">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.winmeen.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.winmeen.com\/privacy-policy\/","name":"Privacy Policy"}}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s0.wp.com">
@@ -74,6 +75,90 @@ img.emoji {
 <link rel="shortlink" href="https://wp.me/P7JanY-K">
 <link rel="alternate" type="application/json+oembed" href="https://www.winmeen.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.winmeen.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.winmeen.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.winmeen.com%2Fprivacy-policy%2F&amp;format=xml">
+<script id="wpcp_disable_selection" type="text/javascript">
+//<![CDATA[
+var image_save_msg='You Can Not Save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "Content is protected !!";
+
+function disableEnterKey(e)
+{
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43)
+     {
+          show_wpcp_message('You are not allowed to copy content or view source');
+          return false;
+     }else
+     	return true;
+     }
+}
+
+function disable_copy(e)
+{	
+	var elemtype = e.target.nodeName;
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	elemtype = elemtype.toUpperCase();
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wpcp_message(smessage);
+		
+		if (isSafari)
+			return true;
+		else
+			return false;
+	}	
+}
+function disable_copy_ie()
+{
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		//alert(navigator.userAgent.indexOf('MSIE'));
+			//if (smessage !== "") show_wpcp_message(smessage);
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+//]]>
+</script>
 	<script id="wpcp_disable_Right_Click" type="text/javascript">
 	//<![CDATA[
 	document.ondragstart = function() { return false;}
@@ -349,7 +434,7 @@ oneSignal_options['notifyButton']['offset'] = {};
 <link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/www.winmeen.com/wp-content/uploads/2016/01/cropped-star.jpg?fit=180%2C180&amp;ssl=1">
 <meta name="msapplication-TileImage" content="https://i0.wp.com/www.winmeen.com/wp-content/uploads/2016/01/cropped-star.jpg?fit=270%2C270&amp;ssl=1">
 </head>
-<body id="top" class="page-template-default page page-id-46 unselectable lazy-enabled">
+<body id="top" class="page-template-default page page-id-46 unselectable lazy-enabled" style="cursor: default;">
 
 <div class="wrapper-outer">
 
@@ -379,7 +464,7 @@ oneSignal_options['notifyButton']['offset'] = {};
 						<div id="top-nav" class="top-nav">
 				<div class="container">
 
-							<span class="today-date">Sunday , June 3 2018</span>
+							<span class="today-date">Tuesday , July 3 2018</span>
 				<div class="top-menu"><ul id="menu-home-up-page" class="menu"><li id="menu-item-13754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13754"><a href="https://www.winmeen.com/about-me/">About Us</a></li>
 <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://www.winmeen.com/contact-us/">Contact Us</a></li>
 <li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-46 current_page_item menu-item-49"><a href="https://www.winmeen.com/privacy-policy/">Privacy Policy</a></li>
@@ -471,16 +556,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 		<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span>Breaking News</span></span>
 		
 					<ul>
-					<li><a href="https://www.winmeen.com/tnpsc-group-2-notification-will-be-released-before-june-15th-2018-by-tnpsc-officials/" title="Tnpsc Group 2 Notification Will be Released Before June 15th 2018 By Tnpsc Officials">Tnpsc Group 2 Notification Will be Released Before June 15th 2018 By Tnpsc Officials</a></li>
-					<li><a href="https://www.winmeen.com/tnau-recruitment-2018-179-teaching-faculty-posts/" title="TNAU Recruitment 2018 179 Teaching Faculty Posts">TNAU Recruitment 2018 179 Teaching Faculty Posts</a></li>
-					<li><a href="https://www.winmeen.com/nie-chennai-recruitment-2018-46-deo-mts-posts/" title="NIE Chennai Recruitment 2018 46 DEO, MTS posts">NIE Chennai Recruitment 2018 46 DEO, MTS posts</a></li>
-					<li><a href="https://www.winmeen.com/icds-tamil-nadu-recruitment-2018-149-project-assistants-posts/" title="ICDS Tamil Nadu Recruitment 2018 149 Project Assistants Posts">ICDS Tamil Nadu Recruitment 2018 149 Project Assistants Posts</a></li>
-					<li><a href="https://www.winmeen.com/aavin-thanjavur-recruitment-2018-07-driver-technician-posts/" title="Aavin Thanjavur Recruitment 2018 07 Driver Technician Posts">Aavin Thanjavur Recruitment 2018 07 Driver Technician Posts</a></li>
-					<li><a href="https://www.winmeen.com/tnpsc-recruitment-2018-805-aho-posts/" title="TNPSC Recruitment 2018 805 AHO Posts">TNPSC Recruitment 2018 805 AHO Posts</a></li>
-					<li><a href="https://www.winmeen.com/msu-tirunelveli-recruitment-2018-207-assistant-professors-post/" title="MSU Tirunelveli Recruitment 2018 207 Assistant Professors Post">MSU Tirunelveli Recruitment 2018 207 Assistant Professors Post</a></li>
-					<li><a href="https://www.winmeen.com/tamilnadu-12th-answer-sheet-xerox-download/" title="Tamilnadu 12th Answer Sheet Xerox Download Scan Copy from scan.tndge.in">Tamilnadu 12th Answer Sheet Xerox Download Scan Copy from scan.tndge.in</a></li>
-					<li><a href="https://www.winmeen.com/tnpsc-group-1-age-limit-is-increased-by-cm/" title="Tnpsc Group 1 Age Limit is Increased By CM : 01.06.2018">Tnpsc Group 1 Age Limit is Increased By CM : 01.06.2018</a></li>
-					<li><a href="https://www.winmeen.com/6th-std-science-book-back-questions-with-answers-in-english/" title="6th Std Science Book Back Questions With Answers In English">6th Std Science Book Back Questions With Answers In English</a></li>
+					<li><a href="https://www.winmeen.com/winmeen-tnpsc-group-1-2-self-preparation-course/" title="Winmeen Tnpsc Group 1 &amp; 2 Self Preparation Course">Winmeen Tnpsc Group 1 &amp; 2 Self Preparation Course</a></li>
+					<li><a href="https://www.winmeen.com/tnpsc-one-time-registration-mistakes-correction/" title="Tnpsc One Time Registration – Mistakes Correction">Tnpsc One Time Registration – Mistakes Correction</a></li>
+					<li><a href="https://www.winmeen.com/tamil-tnpsc-current-affairs-july/" title="Tamil Tnpsc Current Affairs July Pdf Download Quiz Format">Tamil Tnpsc Current Affairs July Pdf Download Quiz Format</a></li>
+					<li><a href="https://www.winmeen.com/how-to-prepare-for-tnpsc-examinations/" title="How to prepare for Tnpsc examinations? | Group 1 2 2A VAO">How to prepare for Tnpsc examinations? | Group 1 2 2A VAO</a></li>
+					<li><a href="https://www.winmeen.com/std-wise-study-materials-notes-pdf-download/" title="Std Wise Study materials Notes Pdf Download All Standard 6th to 12th">Std Wise Study materials Notes Pdf Download All Standard 6th to 12th</a></li>
+					<li><a href="https://www.winmeen.com/new-samacheer-kalvi-books-pdf-download-online/" title="New Samacheer Kalvi Books Pdf Download Online">New Samacheer Kalvi Books Pdf Download Online</a></li>
+					<li><a href="https://www.winmeen.com/daily-timetable-for-tnpsc-preparation-study-plan/" title="Daily Timetable for Tnpsc preparation | Study plan">Daily Timetable for Tnpsc preparation | Study plan</a></li>
+					<li><a href="https://www.winmeen.com/tamilnadu-6th-new-books-free-download-samacheer-kalvi-term-1-2-3/" title="Tamilnadu 6th New Books Free Download Samacheer Kalvi Term 1 2 3">Tamilnadu 6th New Books Free Download Samacheer Kalvi Term 1 2 3</a></li>
+					<li><a href="https://www.winmeen.com/9th-std-new-samacheer-kalvi-text-books-download-pdf/" title="9th Std New Samacheer Kalvi Text Books Download Pdf | Old Books Download">9th Std New Samacheer Kalvi Text Books Download Pdf | Old Books Download</a></li>
+					<li><a href="https://www.winmeen.com/tnpsc-current-affairs-june-month/" title="Tnpsc Current Affairs June Month 2018 in Tamil Pdf">Tnpsc Current Affairs June Month 2018 in Tamil Pdf</a></li>
 					</ul>
 					
 		
@@ -504,60 +589,47 @@ oneSignal_options['notifyButton']['offset'] = {};
 		
 		
 
-		<div class="e3lan e3lan-post">			<div dir="ltr" style="text-align: left;" trbidi="on">
+		<div class="e3lan e3lan-post">			<div dir="ltr" style="text-align: left;">
 <div dir="ltr" style="text-align: left;">
 <div style="text-align: center;">
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse: collapse; height: 94px; margin-left: auto; margin-right: auto; width: 332px;">
+<table class="MsoNormalTable" style="border-collapse: collapse; height: 94px; margin-left: auto; margin-right: auto; width: 332px;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 23.25pt; mso-yfti-irow: 2; mso-yfti-lastrow: yes;">
-<td nowrap="nowrap" style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom"><div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;">
-<span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://chat.whatsapp.com/35tI5jNYxfZ5lLjTf9A8IN" rel="noopener" target="_blank"><span style="color: blue; mso-bidi-font-size: 11.0pt;">Join Our Whatsapp Group</span></a></span></u></strong></span></div>
-</td>
-</tr>
-<tr style="height: 23.25pt; mso-yfti-irow: 1;">
-<td nowrap="nowrap" style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom"><div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;">
-<span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://play.google.com/store/apps/details?id=in.billiontags.winmeen" rel="noopener" target="_blank"><span style="color: blue; mso-bidi-font-size: 11.0pt;">&nbsp;Winmeen Tnpsc Mobile App</span></a></span></u></strong></span></div>
-</td>
-</tr>
-</tbody>
-</table>
-<div>
-</div>
+<td style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom" nowrap="nowrap">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;" align="center"><a href="https://chat.whatsapp.com/invite/0tiDCvguKRuA69oozNCPES" target="_blank" rel="noopener"><span style="font-size: 14pt;"><strong><u><span style="color: blue;"><span style="color: blue; mso-bidi-font-size: 11.0pt;">Join Our Whatsapp Group</span></span></u></strong></span></a></div>
+<div></div>
 <div dir="ltr" style="text-align: left;">
 <div style="text-align: center;">
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse: collapse; height: 94px; margin-left: auto; margin-right: auto; width: 332px;">
+<table class="MsoNormalTable" style="border-collapse: collapse; height: 94px; margin-left: auto; margin-right: auto; width: 332px;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 23.25pt; mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
-<td nowrap="nowrap" style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom"><div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">
-<span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/tnpsc-group-2-exam/" rel="noopener" target="_blank"><span style="color: blue; mso-bidi-font-size: 11.0pt;">Tnpsc Group 2 2018 1547 Posts</span></a></span></u></strong></span></div>
-</td>
+<td style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom" nowrap="nowrap">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;" align="center"><span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/tnpsc-group-2-exam/" target="_blank" rel="noopener"><span style="color: blue; mso-bidi-font-size: 11.0pt;">Tnpsc Group 2 2018 1547 Posts</span></a></span></u></strong></span></div></td>
 </tr>
 <tr style="height: 23.25pt; mso-yfti-irow: 1;">
-<td nowrap="nowrap" style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom"><div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;">
-<span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/tnpsc-model-question-papers-with-answers/" rel="noopener" target="_blank"><span style="color: blue; mso-bidi-font-size: 11.0pt;">&nbsp;Tnpsc Model Question Papers</span></a></span></u></strong></span></div>
-</td>
+<td style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom" nowrap="nowrap">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/tnpsc-model-question-papers-with-answers/" target="_blank" rel="noopener"><span style="color: blue; mso-bidi-font-size: 11.0pt;">&nbsp;Tnpsc Model Question Papers</span></a></span></u></strong></span></div></td>
 </tr>
 <tr style="height: 23.25pt; mso-yfti-irow: 2; mso-yfti-lastrow: yes;">
-<td nowrap="nowrap" style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom"><div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;">
-<span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/tnpsc-group-2-2a-exam-previous-year-question-papers-pdf-www-tnpsc-gov-in/" rel="noopener" target="_blank"><span style="color: blue; mso-bidi-font-size: 11.0pt;">Tnpsc Previous Question Papers</span></a></span></u></strong></span></div>
-</td>
+<td style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom" nowrap="nowrap">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/tnpsc-group-2-2a-exam-previous-year-question-papers-pdf-www-tnpsc-gov-in/" target="_blank" rel="noopener"><span style="color: blue; mso-bidi-font-size: 11.0pt;">Tnpsc Previous Question Papers</span></a></span></u></strong></span></div></td>
 </tr>
 <tr style="height: 23.25pt; mso-yfti-irow: 1;">
-<td nowrap="nowrap" style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom"><div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;">
-<span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/best-tnpsc-online-coaching-center-guidance/" rel="noopener" target="_blank"><span style="color: blue; mso-bidi-font-size: 11.0pt;">&nbsp;Tnpsc Online Gr 1 Coaching</span></a></span></u></strong></span></div>
-</td>
+<td style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 327.625px;" valign="bottom" nowrap="nowrap">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><span style="font-size: 14pt;"><strong><u><span style="color: blue;"><a href="https://www.winmeen.com/best-tnpsc-online-coaching-center-guidance/" target="_blank" rel="noopener"><span style="color: blue; mso-bidi-font-size: 11.0pt;">&nbsp;Tnpsc Online Gr 1 Coaching</span></a></span></u></strong></span></div></td>
 </tr>
 </tbody>
 </table>
-<div>
+<div></div>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lftkS560Ebs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>				</div>
+<a href="https://www.winmeen.com/best-tnpsc-online-coaching-center-guidance/" target="_blank" rel="noopener"><img class="aligncenter wp-image-28106 size-large" title="Winmeen Group 1 &amp; 2 Online Coaching" src="https://www.winmeen.com/wp-content/uploads/2017/11/Winmeen-Gr-1-2-Online-Coaching-1024x781.png" alt="" width="618" height="471"></a>				</div>
 		<article class="post-listing post post-46 page type-page status-publish " id="the-post">
 
 			
@@ -609,7 +681,7 @@ oneSignal_options['notifyButton']['offset'] = {};
 <tbody>
 <tr style="height: 23.25pt; mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
 <td style="border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 318.094px;">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><b><span style="color: blue; font-size: 14.0pt; mso-ascii-font-family: Calibri; mso-bidi-font-family: Calibri; mso-bidi-language: TA; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri;"><a href="https://chat.whatsapp.com/invite/FTzLwSnCickLGVwJgqYYrr"><span style="color: blue; mso-bidi-font-size: 11.0pt; text-decoration: none; text-underline: none;">Join Our Whatsapp Group</span></a></span></b></div></td>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><b><span style="color: blue; font-size: 14.0pt; mso-ascii-font-family: Calibri; mso-bidi-font-family: Calibri; mso-bidi-language: TA; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri;"><a href="https://chat.whatsapp.com/invite/9wmiGzcr2oF1ToHZQZLX1C"><span style="color: blue; mso-bidi-font-size: 11.0pt; text-decoration: none; text-underline: none;">Join Our Whatsapp Group</span></a></span></b></div></td>
 </tr>
 <tr style="height: 23.25pt; mso-yfti-irow: 1;">
 <td style="background: #dbe5f1; border: 1pt solid windowtext; height: 23.25pt; padding: 0in 5.4pt; width: 318.094px;">
@@ -629,6 +701,10 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="MsoNormal" style="text-align: center;" align="center"></div>
 </div>
 </div>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jCJCmUyPFw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -664,93 +740,214 @@ oneSignal_options['notifyButton']['offset'] = {};
 			</div>
 				</div>
 	</div></div><!-- .widget /--><div id="text-html-widget-62" class="widget text-html"><div class="widget-top"><h4>Current Affairs</h4><div class="stripe-line"></div></div>
-						<div class="widget-container"><div><div dir="ltr" style="text-align: left;">
+						<div class="widget-container"><div><div dir="ltr" style="text-align: left;" trbidi="on">
+<div dir="ltr" style="text-align: left;">
 <div align="center">
-<div align="center">
-<table class="MsoNormalTable" style="border-collapse: collapse; mso-padding-alt: 0in 0in 0in 0in; mso-yfti-tbllook: 1184; width: 299px;" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr style="height: 15px;">
-<td style="border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><b><u><span style="color: blue; font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-bidi-font-family: Calibri; mso-bidi-language: TA;"><a href="https://www.winmeen.com/tnpsc-tamil-current-affairs/" target="_blank" rel="noopener"><span style="color: blue;">Tnpsc Tamil Current Affairs 2018</span></a></span></u></b></div></td>
-</tr>
-<tr style="height: 25px;">
-<td style="border: 1pt solid windowtext; height: 25px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"></div></td>
-</tr>
-<tr style="height: 15px;">
-<td style="border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<p style="text-align: center;"><span style="font-size: 14pt;"><a href="https://www.winmeen.com/tnpsc-tamil-current-affairs-may/"><strong>&nbsp;May 2018 Current Affairs</strong></a></span></p>
+<div style="text-align: center;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; text-align: center; width: 295px;">
+ <colgroup><col style="mso-width-alt: 10788; mso-width-source: userset; width: 221pt;" width="295">
+ </colgroup><tbody>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border: 1pt solid black; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; padding-bottom: 0in; padding-top: 0in; text-decoration-line: underline; width: 221pt;" width="295">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/tnpsc-tamil-current-affairs/" rel="noopener" target="_blank"><span style="font-size: 14pt;">Tnpsc Tamil Current Affairs 2018</span></a></div>
 </td>
-</tr>
-<tr style="height: 15px;">
-<td style="border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299"></td>
-</tr>
-<tr style="height: 15px;">
-<td style="border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><b><u><span style="color: blue; font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-bidi-font-family: Calibri; mso-bidi-language: TA;"><a href="https://www.winmeen.com/tnpsc-current-affairs-april/" target="_blank" rel="noopener"><span style="color: blue;">April 2018 Current Affairs</span></a></span></u></b></div></td>
-</tr>
-<tr style="height: 15px;">
-<td style="background: #dbe5f1; border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"></div></td>
-</tr>
-<tr style="height: 15px;">
-<td style="border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><b><u><span style="color: blue; font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-bidi-font-family: Calibri; mso-bidi-language: TA;"><a href="https://www.winmeen.com/tnpsc-tamil-current-affairs-march/"><span style="color: blue;">March Current Affairs 2018</span></a></span></u></b></div></td>
-</tr>
-<tr style="height: 15px;">
-<td style="background: #dbe5f1; border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"></div></td>
-</tr>
-<tr style="height: 15px;">
-<td style="border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><b><u><span style="color: blue; font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-bidi-font-family: Calibri; mso-bidi-language: TA;"><a href="https://www.winmeen.com/download-tnpsc-current-affairs-tamil-month-february/"><span style="color: blue;">February 2018 Current Affairs</span></a></span></u></b></div></td>
-</tr>
-<tr style="height: 15px;">
-<td style="background: #dbe5f1; border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"></div></td>
-</tr>
-<tr style="height: 15px;">
-<td style="border: 1pt solid windowtext; height: 15px; padding: 0in 5.4pt; width: 224.25pt;" nowrap="nowrap" width="299">
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"><b><u><span style="color: blue; font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-bidi-font-family: Calibri; mso-bidi-language: TA;"><a href="https://www.winmeen.com/tnpsc-current-affairs-january/"><span style="color: blue;">Current Affairs January 2018</span></a></span></u></b></div></td>
-</tr>
-</tbody>
-</table>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl66" height="29" style="background: rgb(219, 229, 241); border: 1pt solid black; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;"><a href="https://www.winmeen.com/tnpsc-current-affairs-june-month/"><span style="font-size: 14pt;">June 2018 Current Affairs</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl66" height="29" style="border: 1pt solid black; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; padding-bottom: 0in; padding-top: 0in; text-decoration-line: underline;"><a href="https://www.winmeen.com/tnpsc-tamil-current-affairs-may/"><span style="font-size: 14pt;">&nbsp;May 2018 Current Affairs</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl66" height="29" style="background: rgb(219, 229, 241); border: 1pt solid black; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; padding-bottom: 0in; padding-top: 0in; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/tnpsc-current-affairs-april/" rel="noopener" target="_blank"><span style="font-size: 14pt;">April 2018 Current Affairs</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl66" height="29" style="border: 1pt solid black; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; padding-bottom: 0in; padding-top: 0in; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/tnpsc-tamil-current-affairs-march/"><span style="font-size: 14pt;">March Current Affairs 2018</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl66" height="29" style="background: rgb(219, 229, 241); border: 1pt solid black; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; padding-bottom: 0in; padding-top: 0in; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/download-tnpsc-current-affairs-tamil-month-february/"><span style="font-size: 14pt;">February 2018 Current Affairs</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl67" height="29" style="border: 1pt solid black; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; padding-bottom: 0in; padding-top: 0in; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/tnpsc-current-affairs-january/"><span style="font-size: 14pt;">Current Affairs January 2018</span></a></div>
+</td>
+ </tr>
+</tbody></table>
 </div>
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"></div>
-<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;" align="center"></div>
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;">
+</div>
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;">
+</div>
+</div>
+</div>
+</div>
+
+				</div><div class="clear"></div></div></div><!-- .widget /--><div id="text-html-widget-66" class="widget text-html"><div class="widget-top"><h4>Group 2</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div><div dir="ltr" style="text-align: left;" trbidi="on">
+<div style="text-align: center;">
+</div>
+<div style="text-align: center;">
+</div>
+<div style="text-align: center;">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in; text-align: center;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; text-align: center; width: 295px;">
+ <colgroup><col style="mso-width-alt: 10788; mso-width-source: userset; width: 221pt;" width="295">
+ </colgroup><tbody>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-color: rgb(79, 129, 189); border-style: solid; border-width: 0.5pt 0.5pt 1pt; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline; width: 221pt;" width="295"><span style="box-sizing: border-box; outline: none;"><a href="https://www.winmeen.com/tnpsc-group-2-exam/" rel="noopener" style="box-sizing: border-box; outline: none; transition: all 0.2s ease-in-out;" target="_blank"><span style="font-size: 14pt;">Group 2 1547 Posts Details</span></a></span></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline; width: 221pt;" width="295"><span style="box-sizing: border-box; outline: none;"><a href="https://www.winmeen.com/tnpsc-group-2-2a-exam-syllabus-tamil-pdf-download-www-tnpsc-gov/" rel="noopener" style="box-sizing: border-box; outline: none; transition: all 0.2s ease-in-out;" target="_blank"><span style="font-size: 14pt;">&nbsp;Group 2 Syllabus Exam Pattern</span></a></span></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline; width: 221pt;" width="295"><span style="box-sizing: border-box; outline: none;"><a href="https://www.winmeen.com/tnpsc-group-2-2a-exam-previous-year-question-papers-pdf-www-tnpsc-gov-in/" rel="noopener" style="box-sizing: border-box; outline: none; transition: all 0.2s ease-in-out;" target="_blank"><span style="font-size: 14pt;">Group 2 Previous Papers</span></a></span></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline; width: 221pt;" width="295"><span style="box-sizing: border-box; outline: none;"><a href="https://www.winmeen.com/tnpsc-group-2-model-question-paper/" rel="noopener" style="box-sizing: border-box; outline: none; transition: all 0.2s ease-in-out;" target="_blank"><span style="font-size: 14pt;">Group 2 Model Questions</span></a></span></td>
+ </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+
+				</div><div class="clear"></div></div></div><!-- .widget /--><div id="text-html-widget-64" class="widget text-html"><div class="widget-top"><h4>UPSC</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div><div dir="ltr" style="text-align: left;" trbidi="on">
+<div dir="ltr" style="text-align: left;">
+<div style="text-align: center;">
+</div>
+<div style="text-align: center;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; text-align: center; width: 295px;">
+ <colgroup><col style="mso-width-alt: 10788; mso-width-source: userset; width: 221pt;" width="295">
+ </colgroup><tbody>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-color: rgb(79, 129, 189); border-style: solid; border-width: 0.5pt 0.5pt 1pt; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline; width: 221pt;" width="295"><a href="https://www.winmeen.com/upsc-ias-study-materials-notes-free-pdf-download/"><span style="font-size: 14pt;">UPSC Free Study Materials</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/upsc-prelims-study-materials-pdf-download/"><span style="font-size: 14pt;">Prelims</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/upsc-mains-study-materials-pdf-download/"><span style="font-size: 14pt;">Mains</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/coaching-materials-for-upsc-preparation-pdf-download/"><span style="font-size: 14pt;">Coaching Materials</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/upsc-optional-study-materials-notes-pdf-download/"><span style="font-size: 14pt;">Optional</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/ebooks-for-upsc-preparation-pdf-download/"><span style="font-size: 14pt;">Ebooks</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/upsc-test-series/"><span style="font-size: 14pt;">Test Series</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/tnpsc-tamil-current-affairs/"><span style="font-size: 14pt;">Current Affairs</span></a></div>
+</td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;">
+  <div style="line-height: normal;">
+<a href="https://www.winmeen.com/editorials-for-upsc-preparation/"><span style="font-size: 14pt;">Editorials</span></a></div>
+</td>
+ </tr>
+</tbody></table>
+<div class="MsoNormal">
+</div>
+</div>
 </div>
 </div>
 				</div><div class="clear"></div></div></div><!-- .widget /-->		<div id="recent-posts-5" class="widget widget_recent_entries">		<div class="widget-top"><h4>Recent Posts</h4><div class="stripe-line"></div></div>
 						<div class="widget-container">		<ul>
 											<li>
-					<a href="https://www.winmeen.com/tnpsc-group-2-notification-will-be-released-before-june-15th-2018-by-tnpsc-officials/">Tnpsc Group 2 Notification Will be Released Before June 15th 2018 By Tnpsc Officials</a>
+					<a href="https://www.winmeen.com/winmeen-tnpsc-group-1-2-self-preparation-course/">Winmeen Tnpsc Group 1 &amp; 2 Self Preparation Course</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/tnau-recruitment-2018-179-teaching-faculty-posts/">TNAU Recruitment 2018 179 Teaching Faculty Posts</a>
+					<a href="https://www.winmeen.com/tnpsc-one-time-registration-mistakes-correction/">Tnpsc One Time Registration – Mistakes Correction</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/nie-chennai-recruitment-2018-46-deo-mts-posts/">NIE Chennai Recruitment 2018 46 DEO, MTS posts</a>
+					<a href="https://www.winmeen.com/tamil-tnpsc-current-affairs-july/">Tamil Tnpsc Current Affairs July Pdf Download Quiz Format</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/icds-tamil-nadu-recruitment-2018-149-project-assistants-posts/">ICDS Tamil Nadu Recruitment 2018 149 Project Assistants Posts</a>
+					<a href="https://www.winmeen.com/how-to-prepare-for-tnpsc-examinations/">How to prepare for Tnpsc examinations? | Group 1 2 2A VAO</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/aavin-thanjavur-recruitment-2018-07-driver-technician-posts/">Aavin Thanjavur Recruitment 2018 07 Driver Technician Posts</a>
+					<a href="https://www.winmeen.com/std-wise-study-materials-notes-pdf-download/">Std Wise Study materials Notes Pdf Download All Standard 6th to 12th</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/tnpsc-recruitment-2018-805-aho-posts/">TNPSC Recruitment 2018 805 AHO Posts</a>
+					<a href="https://www.winmeen.com/new-samacheer-kalvi-books-pdf-download-online/">New Samacheer Kalvi Books Pdf Download Online</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/msu-tirunelveli-recruitment-2018-207-assistant-professors-post/">MSU Tirunelveli Recruitment 2018 207 Assistant Professors Post</a>
+					<a href="https://www.winmeen.com/daily-timetable-for-tnpsc-preparation-study-plan/">Daily Timetable for Tnpsc preparation | Study plan</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/tamilnadu-12th-answer-sheet-xerox-download/">Tamilnadu 12th Answer Sheet Xerox Download Scan Copy from scan.tndge.in</a>
+					<a href="https://www.winmeen.com/tamilnadu-6th-new-books-free-download-samacheer-kalvi-term-1-2-3/">Tamilnadu 6th New Books Free Download Samacheer Kalvi Term 1 2 3</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/tnpsc-group-1-age-limit-is-increased-by-cm/">Tnpsc Group 1 Age Limit is Increased By CM : 01.06.2018</a>
+					<a href="https://www.winmeen.com/9th-std-new-samacheer-kalvi-text-books-download-pdf/">9th Std New Samacheer Kalvi Text Books Download Pdf | Old Books Download</a>
 									</li>
 											<li>
-					<a href="https://www.winmeen.com/6th-std-science-book-back-questions-with-answers-in-english/">6th Std Science Book Back Questions With Answers In English</a>
+					<a href="https://www.winmeen.com/tnpsc-current-affairs-june-month/">Tnpsc Current Affairs June Month 2018 in Tamil Pdf</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/tnpsc-free-online-test/">Tnpsc Free Online Test | Tnpsc Online Mock Test In Tamil &amp; English</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/tnpsc-tamil-current-affairs/">Tnpsc Current Affairs 2018 in Tamil &amp; English Pdf files Download</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/tnpsc-group-2-2a-exam-previous-year-question-papers-pdf-www-tnpsc-gov-in/">Tnpsc Group 2 2A Exam Previous Year Question Papers Pdf www.tnpsc.gov.in</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/tamilnadu-police-si-recruitment/">Tamilnadu Police SI Recruitment 2018 1500 Sub Inspector Jobs www.tnusrb.tn.gov.in www.tnusrbonline.org</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/tnpsc-group-2-exam/">Tnpsc Group 2 Exam 2018 Recruitment Notification Age Limit Eligibility</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/latest-news-si-constable-fireman-vacancies/">Latest News: SI Constable Fireman Vacancies</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/general-tamil-study-materials-notes-pdf-for-tnpsc-exam/">General Tamil Study Materials Notes Pdf For Tnpsc Exam</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/tnpsc-group-2-2a-exam-syllabus-tamil-pdf-download-www-tnpsc-gov/">Tnpsc Group 2, 2A Exam Syllabus In Tamil Pdf Download @ www.tnpsc.gov.in</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/tnusrb-technical-si-recruitment-2018-300-vacancies/">TNUSRB Technical SI recruitment 2018 300 Vacancies</a>
+									</li>
+											<li>
+					<a href="https://www.winmeen.com/how-to-clear-tnpsc-group-2-exam-in-3-months-time/">How To Clear Tnpsc Group 2 Exam In 3 Months Time</a>
 									</li>
 					</ul>
 		</div></div><!-- .widget /--><div id="ads300_600-widget-21" class="widget e3lan e3lan300_600-widget"><div class="widget-top"><h4> Advertisement</h4><div class="stripe-line"></div></div>
@@ -768,7 +965,42 @@ google_ad_height = 600;
 </script>
 			</div>
 				</div>
-	</div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+	</div></div><!-- .widget /--><div id="text-html-widget-68" class="widget text-html"><div class="widget-top"><h4>Tnpsc</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div><div dir="ltr" style="text-align: left;" trbidi="on">
+<div style="text-align: center;">
+</div>
+<div style="text-align: center;">
+</div>
+<div style="text-align: center;">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in; text-align: center;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; text-align: center; width: 295px;">
+ <colgroup><col style="mso-width-alt: 10788; mso-width-source: userset; width: 221pt;" width="295">
+ </colgroup><tbody>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-color: rgb(79, 129, 189); border-style: solid; border-width: 0.5pt 0.5pt 1pt; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline; width: 221pt;" width="295"><a href="https://www.winmeen.com/tnpsc-notification/" rel="noopener" target="_blank"><span style="font-size: 14pt;">Tnpsc
+  Notification</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;"><a href="https://www.winmeen.com/tnpsc-syllabus/" rel="noopener" target="_blank"><span style="font-size: 14pt;">Tnpsc Syllabus</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;"><a href="https://www.winmeen.com/tnpsc-result/" rel="noopener" target="_blank"><span style="font-size: 14pt;">Tnpsc Result</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;"><a href="https://www.winmeen.com/tnpsc-answer-key/" rel="noopener" target="_blank"><span style="font-size: 14pt;">Tnpsc Answer Key</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;"><a href="https://www.winmeen.com/tnpsc-cutoff-marks/" rel="noopener" target="_blank"><span style="font-size: 14pt;">Tnpsc Cutoff
+  Marks</span></a></td>
+ </tr>
+<tr height="29" style="height: 21.75pt; mso-height-source: userset;">
+  <td class="xl65" height="29" style="background: rgb(219, 229, 241); border-bottom: 0.5pt solid rgb(79, 129, 189); border-left: 0.5pt solid rgb(79, 129, 189); border-right: 0.5pt solid rgb(79, 129, 189); border-top: none; color: blue; font-family: Calibri; font-size: 14pt; font-weight: 700; height: 21.75pt; text-decoration-line: underline;"><a href="https://www.winmeen.com/tnpsc-hall-ticket/" rel="noopener" target="_blank"><span style="font-size: 14pt;">Tnpsc Hall ticket</span></a></td>
+ </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+				</div><div class="clear"></div></div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
 </aside><!-- #sidebar /-->	<div class="clear"></div>
 </div><!-- .container /-->
 
@@ -914,10 +1146,10 @@ var tie = {"mobile_menu_active":"true","mobile_menu_top":"","lightbox_all":"true
 <script type="text/javascript" src="http://www.winmeen.com/wp-content/themes/sahifa/js/ilightbox.packed.js"></script>
 <script type="text/javascript" src="http://www.winmeen.com/wp-includes/js/wp-embed.min.js"></script>
 <script type="text/javascript" src="http://www.winmeen.com/wp-content/themes/sahifa/js/search.js"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201822.js" async="async" defer="defer"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201827.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.1.1',blog:'114199038',post:'46',tz:'5.5',srv:'www.winmeen.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:6.2.1',blog:'114199038',post:'46',tz:'5.5',srv:'www.winmeen.com'} ]);
 	_stq.push([ 'clickTrackerInit', '114199038', '46' ]);
 </script>
 
@@ -927,5 +1159,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 
 Page Caching using disk: enhanced 
 
-Served from: www.winmeen.com @ 2018-06-03 08:46:18 by W3 Total Cache
+Served from: www.winmeen.com @ 2018-07-03 14:23:08 by W3 Total Cache
 --></body></html>
