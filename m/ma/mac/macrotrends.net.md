@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macrotrends.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626204358id_/http%3A//www.macrotrends.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrotrends.net privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703233426id_/https%3A//www.macrotrends.net/privacy) for the most accurate reproduction.*
 
 # MacroTrends | Privacy Policy
 
