@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoscale.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527111600id_/https%3A//www.exoscale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoscale.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703144503id_/https%3A//www.exoscale.com/privacy) for the most accurate reproduction.*
 
 # Privacy License Agreement | Exoscale European Cloud
 
@@ -76,9 +76,17 @@ localStorage item | Website | Purpose
   
 ## Data processors
 
-Exoscale relies on third-party subprocessors, with which we have data protection agreements to restrict their processing of users’ personal information.
+Exoscale may rely on third-party subprocessor(s) to carry out specific processing activities on behalf of the Client throughout its providing of the Services. A list of subprocessors is available in the following table:
 
 Name of data processor | Purpose | Location  
+---|---|---  
+(currently no third-party processor) |  |   
+  
+## Third-party providers
+
+Exoscale relies on third-party providers to fullfill its services. Exoscale hence forwards data about its Clients to these providers. Under no circumstances is data uploaded by Clients to Exoscale services transferred to these providers.
+
+Name of provider | Purpose | Location  
 ---|---|---  
 Bexio | Accounting | Switzerland  
 Postfinance | Payment Service Provider | Switzerland  
@@ -91,14 +99,23 @@ Mailchimp | Newsletters and marketing campaings | United States
 A1 Digital International | Business intelligence | Austria  
 Amazon Web Services | Data archival | United States  
   
-## Children under 13
+## Children under 16
 
-If you are a child under the age of 13, you may not have an Exoscale account. Exoscale does not collect information about users’ age, but if we learn that you are a user who is under the age of 13, we will terminate your account.
+If you are a child under the age of 16, you may not have an Exoscale account. Exoscale does not collect information about users’ age, but if we learn that you are a user who is under the age of 16, we will terminate your account.
 
-## Right of access, modification and deletion
+## Exercise of rights
 
-You can request at any time to access a copy of the personal information we hold about you. You may also request the modification or deletion of such information.
+As an Exoscale Client, you are entitled to exercising the following rights with regard to the personal data Exoscale holds about you:
 
-These enquiries should be addressed by emailing privacy@exoscale.ch to be handled by the Exoscale team under supervision of the Exoscale Data Privacy Officer.
+  * Right of information
+  * Right of access
+  * Right to rectification
+  * Right to erasure
+  * Right to restriction of processing
+  * Right to data portability
+  * Right to object to processing
+  * Right to not to be subject to a decision based solely on automated processing.
 
-This contact is also the sole contact for requesting a change or deletion of forementionned information.
+
+
+Exercise-of-rights enquiries should be addressed by emailing privacy@exoscale.ch to be handled by the Exoscale team under supervision of the Exoscale Data Privacy Officer.
