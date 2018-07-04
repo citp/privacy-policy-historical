@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504053932id_/http%3A//www.pcutilitiespro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704151028id_/https%3A//www.pcutilitiespro.com/privacy) for the most accurate reproduction.*
 
 # PC Utilities Pro - Privacy Policy
 
@@ -63,13 +63,13 @@ We use cookies here at the PCUtilitiesPro.com website. Cookies are pieces of par
 
 #####  Correct or Update your personal data: 
 
-We here at PCUtilitiesPro.com make available a method for correcting or updating one's personal data from our data records if and when needed at any given point of time once requested by The User. A delay of a few weeks applies to corrections and updates of personal information as PCUtilitiesPro.com attempts to verify the truthful identity of a user requesting such changes to their information prior to it being executed by us. To correct or update personal information, simply [ send an email ](mailto:support@pcutilitiespro.com?Subject=Correct%20personal%20information)  to our Customer Service Dept. and we shall be of assistance to remedy the situation as soon as possible. If you no longer wish to be on our mailing list, see our opt-out process as described above. 
+We here at PCUtilitiesPro.com make available a method for correcting or updating one's personal data from our data records if and when needed at any given point of time once requested by The User. A delay of a few weeks applies to corrections and updates of personal information as PCUtilitiesPro.com attempts to verify the truthful identity of a user requesting such changes to their information prior to it being executed by us. To correct or update personal information, simply [ send an email ](https://web.archive.org/cdn-cgi/l/email-protection#6e1d1b1e1e011c1a2e1e0d1b1a0702071a070b1d1e1c01400d0103513d1b0c040b0d1a532d011c1c0b0d1a4e1e0b1c1d01000f024e070008011c030f1a070100)  to our Customer Service Dept. and we shall be of assistance to remedy the situation as soon as possible. If you no longer wish to be on our mailing list, see our opt-out process as described above. 
 
 If you no longer wish to be on our mailing list, see our opt-out process as described above. 
 
 #####  You should know this: 
 
-You have a right to access the personal data that is held about you. To obtain a copy of the personal information PCUtilitiesPro.com has of you, please  [ send an email ](mailto:support@pcutilitiespro.com)  to our Customer Service Dept. (in the title, copy and paste this: "Obtain a copy of my personal information"). 
+You have a right to access the personal data that is held about you. To obtain a copy of the personal information PCUtilitiesPro.com has of you, please  [ send an email ](https://web.archive.org/cdn-cgi/l/email-protection#b8cbcdc8c8d7caccf8c8dbcdccd1d4d1ccd1ddcbc8cad796dbd7d5)  to our Customer Service Dept. (in the title, copy and paste this: "Obtain a copy of my personal information"). 
 
 #####  Notification of changes: 
 
