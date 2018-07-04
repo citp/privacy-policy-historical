@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pangu8.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604103436id_/http%3A//pangu8.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pangu8.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705002202id_/https%3A//pangu8.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
