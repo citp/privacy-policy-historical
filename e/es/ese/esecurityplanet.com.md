@@ -1,144 +1,125 @@
-> *The following text is extracted and transformed from the esecurityplanet.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124042735id_/https%3A//www.esecurityplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esecurityplanet.com privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704110350id_/https%3A//www.esecurityplanet.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
-This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. subsidiary, division or line of business (collectively, **"QuinStreet"** ). For a list of QuinStreet, Inc. subsidiaries, divisions or lines of business (the **"QuinStreet Businesses"** ), please see the section entitled **"QuinStreet Businesses"** below. 
+QuinStreet, Inc. owns and operates any website that displays this Privacy Policy (each, a "Site"). Your privacy is important to us. We created this Privacy Policy to explain how we collect, use, and share the information that we collect from and about you on this Site. By using this Site, you agree to the terms of this Privacy Policy.
 
-We are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the **"Site"** ). By using our Sites, you agree to the terms and conditions of this Privacy Policy. 
-
-### **1\. PERSONAL INFORMATION**
-
-   **a. Personal Information We Collect.** We collect personally identifiable information that can identify you as an individual ("Personal Information"), such as: 
-
-  * Name
-  * Postal address
-  * Telephone number
-  * Email address
-  * Credit or debit card number 
-
-
-
-In some cases, we may collect information, such as your age, weight, gender, education level, health conditions, insurance type, and whether you're a non-smoker, combined with your Personal Information. We will treat all such information as Personal Information as long as it is combined with Personal Information.
-
-We may also collect, from you, personal information about your contacts, such as their email address in order to share an article or other content. When you provide us with personal information about your contacts, we will only use this information for the reason for which it is provided. If you believe that one of your contacts has provided us with your information, and you would like to request that your personal information be removed from our database, please contact us at info@quinstreet.com
-
-   **b. How We Collect Personal Information.** We collect Personal Information directly from you when you interact with us on the Site, for example, when you register for the Site or fill in an Internet form on our Site. We may also collect Personal Information from third parties, such as a credit reporting agency or social media website (Facebook, LinkedIn or others). We may associate the Personal Information you provide through the Site with Personal Information collected from the third party sources. We will use the combined information in accordance with this Privacy Policy as long as it is combined.
-
-QuinStreet may also allow you to register and log into the Site using a social media account, such as Facebook, Twitter, LinkedIn or Google+. When you use your social media account to register or log into the Site, you are asking that social media service to send us certain information from those social media accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. Social media registration features may collect basic account information such as name, age, photo and other details you choose to share according to your social media account settings. Social media features and widgets are either hosted by a third party or hosted directly on our Site. You can unlink your social media accounts or control what they share from their privacy controls. 
-
-   **c. How We Use Personal Information.** We may use Personal Information:
-
-  * When you request, to connect you with vendors who will provide you with information about products and services. 
-  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an "inquiry" to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws
-  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * To send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
-  * To send you surveys and marketing communications that we believe may be of interest to you; participation in surveys is voluntary and you have a choice of disclosing information such as name and demographic information. 
-  * To personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you.
-  * To present you with advertisements tailored to you on certain third party websites, including on Facebook.
-  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
-  * To allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * For our business purposes, such as data analysis, audits, developing new products, enhancing our Site, improving our services, identifying usage trends, and determining and improving the effectiveness of our promotional campaigns.
-  * If you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
+Information Collected  
+Information Use  
+Information Sharing  
+Other Websites  
+Security  
+Children  
+Choices and Access  
+Retention Period  
+Operation of Site/Business  
+Non-U.S. Residents  
+Your California Privacy Rights  
+Changes to This Privacy Policy  
+QuinStreet Businesses  
+Dispute Resolution  
+Contact Us  
 
 
+### **Information Collected**
 
-**d. How Personal Information is Disclosed** We will share your personal information with third parties only in the ways that are described in this privacy policy.
+_Information You Provide:_ We collect information that you provide to us when you inquire about or purchase products and/or services through this Site. If you refuse to provide any requested information (whether or not required), you may not be able to take full advantage of this Site and its features. That information may include your (a) name, (b) address, (c) e-mail address, (d) telephone number, (e) credit or debit card number, and (f) driver's license number (for auto insurance offers).
 
-Your Personal Information may be disclosed:
+In some cases, we may collect additional information you provide, such as your age, date of birth, gender, occupation, and education level. On our financial services Sites, with your consent, we may collect your Social Security number to verify your identity with a credit bureau and obtain your credit report and credit score. On certain Sites, we may also collect from you information about your contacts, such as their email address, to share an article or other content.
 
-  * To other QuinStreet Businesses for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
-  * To our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. These companies are authorized to use your personal information only as necessary to provide these services to us. 
-  * If you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services.
-  * If you choose to download a white paper, eBook, or other resource, we disclose your personal information to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
-  * To third party sponsors of sweepstakes, contests and similar promotions.
-  * If you choose to send messages through the Site, and to identify you as the sender to the recipient as indicated by you. We will ask you for such recipient's name and email address and we store both email addresses for the purpose of sending such message.
-  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. To request removal of your personal information from message boards, blogs or community forum, contact us at [info@quinstreet.com](mailto:info@quinstreet.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
-  * By you, if you have provided a testimonial about a site and given us permission to post that testimonial on our Site. 
-  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+_Information from Third Parties:_ We may also collect information about you from third parties, like credit reporting agencies or a social media site or a plug-in you use to log into or connect to this Site, and authorize to send us information from that social media account (e.g., name, age, photo). We may associate or combine the information you provide through this Site with this information collected from third parties.
 
+_Information Automatically Collected:_ When you use this Site, the server may automatically recognize you by a "cookie" or other tracking technology. These technologies act as unique identifiers and allow us to tailor this Site to your specified interests and keep track of your activity on this Site. This information may be added to your user profile and used to deliver offers and advertisements that we believe are relevant to your interests.
 
+Furthermore, we may retrieve certain information from your browser (e.g., browser type, referrer URL, date and time of your visit, IP address) and device (e.g., MAC address, device type, screen resolution, and OS version). We use this information to monitor this Site's performance, analyze traffic patterns and usage, ensure that this Site and any transactions function properly, and gather demographic information about our user base as a whole. This information also may be appended to your user profile so that we may further tailor this Site to your interests and send offers to you based on such information.
 
-### **2\. AUTOMATICALLY COLLECTED INFORMATION**
+Our advertisers, publishers and other third-party partners also may utilize third-party cookies and other tracking technologies like clear pixel GIFs (i.e., web beacons) to identify you. We and our third-party partners may use these technologies to measure responses to e-mails and page views on this Site and our third-party partners' websites. These technologies collect no personal information and are used to enhance this Site, to make this Site more relevant to you, and to measure the effectiveness of our e-mail and advertising campaigns and those of our third-party partners. You can opt out of some of our third-party partners' use of cookies and other technologies at: <https://www.google.com/settings/ads> (Google), <http://networkadvertising.org/optout_nonppii.asp> (various third parties via the Network Advertising Initiative), <http://assets.invitemedia.com/opt-out.html> (Invite Media), and <http://www.clicktale.net/disable.html> (Clicktale).
 
-   **a. How We Automatically Collect Information.** We and our third party service providers may automatically collectinformation from you, including your MAC address, your computer type, screen resolution, OS version, and Internet browser. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We and our partners may also collect information through the use of cookies, pixel tags, web beacons, or other similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole, or for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our Site. 
+_Tracking Options and California Do Not Track Disclosures:_ Certain parts of this Site require cookies, and we may use them to deliver more relevant advertising and to link data collected across other devices you use. You can adjust your settings to limit tracking or decline cookies, but as a result you may not be able to use certain features of this Site or take full advantage of all of our offerings. Please refer to your device or browser settings for more information on how to delete or decline cookies and control your tracking preferences. This Site does not respond to do not track signals from most browsers.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+### **Information Use**
 
-### **3\. IP ADDRESSES**
+We may use the information we collect from and about you through this Site (a) to connect you with third-party partners who will provide information about products and services; (b) to respond to your inquiries and requests (e.g., newsletters); (c) to market to you and keep you informed of our products and services and/or those of our third-party partners, which we think may be of interest to you; (d) to allow you to send messages to a friend through this Site; (e) to develop new products and enhance and improve our Sites and business; (f) to complete and fulfill any purchase you make; and (g) to use your data in an aggregated, non-specific format for analytic and demographic purposes. Your contact information also may be used to reach you when necessary. With your consent, we may use automated decision-making, including profiling, to analyze the information collected from and about you.
 
-Your " **IP Address"** is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
+We have a lawful basis for collecting and processing your information if (a) you consented to such processing; (b) we have a legitimate interest for processing your data, like analytics, fraud prevention, improving our Sites and our business, and direct marketing; and (c) we are legally required to process it.
 
-   **a. How We Log IP Addresses.** An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
+### **Information Sharing**
 
-   **b. How We Use and Disclose IP Addresses?** We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. 
+Additionally, we may share your information (a) with other QuinStreet Businesses; (b) with third-party partners who will provide you with information about their product and services; (c) with our third-party service providers who provide services like payment processing, IT, and data analysis; (d) with national credit bureaus to verify your identity and obtain your credit report and credit score; (e) if you seek insurance quotes, with financial services providers who offer competitive rates and/or the Department of Motor Vehicles to verify your driving record, previous claims history, and vehicle VINs; (f) if you choose to send a message through this Site or contribute to public areas of this Site (e.g., message boards, blogs); and (g)with a third party in the event of a sale or transfer of all or part of our business (including in connection with any bankruptcy proceeding).
 
-### **4\. THIRD PARTY SITES**
+We also may access and disclose your information to (a) comply with legal process; (b) to respond to lawful requests from authorities, including public and government authorities outside your country of residence, and including to meet national security or law enforcement requirements; (c) to enforce our terms and this Privacy Policy; (d) to protect our business; (e) to protect our rights, privacy, safety, or property and/or that of others; and (f) as necessary under applicable law, including laws outside your country of residence.
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party websites that are linked to from this Site. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. If you submit personal information to any of those third party sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit. We may also utilize framing techniques that may make it appear that you are still on the Site when you are actually on a third party web site. Please be aware that you are providing your personal information to these third parties and not to this Site.If this Site includes any mapping features, those mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time. 
+### **Other Websites**
 
-### **5\. THIRD PARTY VENDORS**
+This Site may contain links to third-party owned and/or operated websites. We are not responsible for the privacy practices or the content of such third-party websites. These third-party websites have separate privacy practices; we have no responsibility or liability relating to such practices; and such practices govern your use of these websites. If this Site includes any mapping features, those mapping features are powered by Google Inc. and governed by Google's privacy policy: <http://www.google.com/privacy.html>, as amended from time to time. 
 
-We also work with vendors and partners in operating and improving the Site. These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting). These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites. You can opt out of some of our vendors’ use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting [**http://google.com/settings/ads**](http://google.com/settings/ads), [**http://networkadvertising.org/optout_nonppii.asp**](http://networkadvertising.org/optout_nonppii.asp), [**http://assets.invitemedia.com/opt-out.html**](http://assets.invitemedia.com/opt-out.html) and [**http://www.clicktale.net/disable.html**](http://www.clicktale.net/disable.html). Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again. For more information, see [**http://www.networkadvertising.org/managing/faqs.asp#question_11**](http://www.networkadvertising.org/managing/faqs.asp#question_11).Please note that opting out of targeted/ personalized advertising does not opt you out of being served advertising. You will continue to receive generic ads. At this time we do not respond to browser do not track signals. 
+### **Security**
 
-### **6\. SECURITY**
+We have taken certain physical, technical, and administrative steps to protect the information we collect from and about Site users. We encrypt sensitive information (such as credit card number and personal health information) provided. Please remember, though, that that neither the transmission of information over the Internet nor the storage of information can ever be 100% secure. If you have reason to believe that your interaction with us is no longer secure please immediately notify us at [**info@quinstreet.com**](mailto:info@quinstreet.com)
 
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have any questions about the security of your personal information, or if you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “ _Contacting Us_ ” section below.
+### **Children**
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
+We do not knowingly collect, use, or share the personal information of children under age 13 and this Site is not directed to individuals under 13. If we are made aware that we have collected personal information from an individual under age 13 we will delete this information as soon as possible.
 
-### **7\. CHOICES AND ACCESS**
+### **Choices and Access**
 
-   **a. Your choices regarding our use and disclosure of your Personal Information.** We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
+Residents of certain countries, including European Union member states (and the United Kingdom), may have additional rights listed under "Non-U.S. Residents" below.
 
-  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking **[here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589)** and following the instructions to unsubscribe. 
-  * **Our sharing of your Personal Information with unaffiliated third parties** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in "How you can access, change or suppress your Personal Information." below and requesting that we suppress all of your Personal Information on a going-forward basis. Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
+_Marketing E-Mails:_ To stop receiving marketing e-mails from us, please click [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and follow the instructions to unsubscribe. Even if you unsubscribe, we may still send administrative (i.e., non-marketing) messages. To unsubscribe from a third party's communications, contact that third party directly or follow the instructions to unsubscribe in the applicable marketing e-mail.
+
+_Certain Sharing with Third Parties:_ To opt out of our sharing of your personal information with third parties for their own marketing purposes, contact us at [**info@quinstreet.com**](mailto:info@quinstreet.com) with your name, address, and phone number and request that we suppress your personal information going-forward. The e-mail address you use to send the e-mail must match the e-mail address in our records. Please note that we will not be able to remove your personal information from the third parties’ databases, and you will need to contact them directly and/or use any available opt-out mechanisms.
+
+_Access and Deletion:_ You may ask whether we hold any of your personal information (or request its deletion) by contacting us at [**info@quinstreet.com**](mailto:info@quinstreet.com) and providing your name, address, and phone number. The e-mail address you use to send the e-mail must match the e-mail address in our records.
+
+### **Retention Period**
+
+We will retain your personal information for as long as is needed to provide you with our products and services, unless a longer retention period is required or permitted by law. Personal information of non-U.S. residents will be stored for six years unless otherwise required for legal purposes or as set forth in "Non-U.S. Residents" below.
+
+### **Operation of Our Site and Business**
+
+Our Site and business are operated in the United States. If you are located outside of the United States any information you provide to us will be transferred to and processed in the United States. By using this Site or providing us with your personal information, you consent to have your personal information transferred to and processed and stored in the United States in the absence of an adequacy decision or the appropriate safeguards set forth in Articles 45 and 46, respectively, of the General Data Protection Regulation. 
+
+### **Non-U.S. Residents**
+
+For residents of the European Union (and the United Kingdom), QuinStreet, Inc., [**info@quinstreet.com**](mailto:info@quinstreet.com), is the data controller responsible for your personal information collected under this Privacy Policy. In addition, you have the following rights with respect to the personal information collected from and about you on this Site:
+
+  * The right to request access to such personal information.
+  * The right to request the correction, erasure, and/or restriction of processing of such personal information.
+  * In some instances, the right to object to the processing of such personal information.
+  * In some instances, the right to request that QuinStreet export, in a structured, commonly used, and machine readable format, and transmit to another controller, such personal information.
+  * The right to withdraw, at any time, any consent to the processing of such personal information.
 
 
 
-We will seek to comply with your request(s) as soon as reasonably practicable. Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+To exercise these rights, please contact [**info@quinstreet.com**](mailto:info@quinstreet.com).
 
-   **b. How you can access, change or suppress your Personal Information** Upon request, QuinStreet will provide you with information about whether we hold any of your personal information. If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [**info@quinstreet.com**](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will respond to your request within a reasonable timeframe. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+### **Your California Privacy Rights**
 
-### **8\. RETENTION PERIOD**
+California law allows Site users that reside in California to ask for information about our practice of sharing your personal information with third parties for their own marketing purposes. We are not obligated to respond to more than one request per calendar year. This Privacy Policy details the types of information we collect and when we share such information, but if you are a resident of California and would like to know the specific companies with whom we shared your personal information and the categories of the information we shared, please send us an email at [**info@quinstreet.com**](mailto:info@quinstreet.com). Alternatively, you may send a written request to the following address:
 
-We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law or as necessary to resolve disputes and enforce our agreements. If you wish to request that we no longer use your information, please follow the instructions above.
+Privacy  
+QuinStreet  
+950 Tower Lane, 6th Floor  
+Foster City, CA 94404  
 
-### **9\. USE OF SITE BY MINORS**
 
-QuinStreet does not knowingly collect, use, or disclose personal information from children under the age of thirteen (13). The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. If we are made aware that we have collected personal information from a child under 13 years old, we will delete this information as soon as possible. 
+### **Changes to this Privacy Policy**
 
-### **10\. OPERATION OF OUR SERVICES**
+We may amend this Privacy Policy from time to time. When we do, we will post an updated version of the Privacy Policy and revise the **"LAST UPDATED"** date at the top. If we change the Privacy Policy in any material way, we will provide appropriate notice to you. Using this Site after any changes are made means you accept those changes and the revised Privacy Policy.
 
-Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Services or providing us with your information, you consent to this transfer.
+### **QuinStreet Businesses**
 
-### **11\. YOUR CALIFORNIA PRIVACY RIGHTS**
+For purposes of this Privacy Policy, "you" or "your" means the person(s) using this Site or the products or services offered through this Site. "QuinStreet," "us," or "we" includes (but is not limited to) QuinStreet, Inc., QuinStreet Media, Inc., QuinStreet Insurance Agency, Inc., GuideToLenders, QuinStreet Properties, Inc. and QuinStreet PL, Inc. QuinStreet, Inc. is the party responsible for the management of the jointly used information.
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
+### **Dispute Resolution**
 
-### **12\. UPDATES TO THIS PRIVACY POLICY**
+You have the right to submit feedback about this Privacy Policy, or the practices described in it, to the applicable supervisory authority in your jurisdiction of residence. For U.S. residents this is/includes the Federal Trade Commission and/or your state Attorney General. For Non-U.S. residents this is/includes the Data Protection Authority in your country of residence. 
 
-We may change this Privacy Policy. Please take a look at the “ _LAST UPDATED_ ” legend at the top of this page to see when this Privacy Policy was last revised. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page prior to the change becoming effective. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+### **Contact Us**
 
-### **13\. CONTACTING US**
+If you have any questions about this Privacy Policy please contact us at [**info@quinstreet.com**](mailto:info@quinstreet.com)
 
-If you have any questions about this Privacy Policy, please contact us by email at [**info@quinstreet.com**](mailto:info@quinstreet.com), or please write to the following address:
-
-   Privacy   
-   QuinStreet  
-   950 Tower Lane, 6th Floor  
-   Foster City, CA 94404
-
-### **14\. QUINSTREET BUSINESSES**
-
-For purposes of this Privacy Policy, "you" or "your" means the person(s) using the Site or the products or services offered through the Site. "QuinStreet", "us" or "we" means, but is not limited to the following entities or business lines:
-
-  
+Privacy   
 QuinStreet, Inc.  
-QuinStreet Media, Inc.  
-QuinStreet Insurance Agency, Inc.  
-GuideToLenders 
-
-### **15\. DISPUTE RESOLUTION**
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
+950 Tower Lane, 6th Floor  
+Foster City, CA 94404
