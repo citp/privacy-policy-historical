@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govthub.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519214819id_/http%3A//govthub.com/website-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govthub.com privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704123458id_/https%3A//govthub.com/website-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Government Hub
 
@@ -60,4 +60,4 @@ The Government Hub will occasionally update this Statement of Privacy to reflect
 
 ## CONTACT INFORMATION
 
-The Government Hub welcomes your comments regarding this Statement of Privacy. If you believe that the Government Hub has not adhered to this Statement, please contact the Government Hub at <http://govthub.com/website-contactus.aspx>. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+The Government Hub welcomes your comments regarding this Statement of Privacy. If you believe that the Government Hub has not adhered to this Statement, please contact the Government Hub at [/website-contactus.aspx](https://web.archive.org/website-contactus.aspx). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
