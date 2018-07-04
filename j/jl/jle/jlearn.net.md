@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlearn.net privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928161650id_/http%3A//jlearn.net/References/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlearn.net privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704170235id_/https%3A//jlearn.net/References/Privacy) for the most accurate reproduction.*
 
 # JLearn.net's Privacy and Cookie policy
 
