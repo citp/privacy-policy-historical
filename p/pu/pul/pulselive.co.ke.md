@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulselive.co.ke privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602235819id_/http%3A//www.pulselive.co.ke/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulselive.co.ke privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704193242id_/https%3A//www.pulselive.co.ke/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Pulselive.co.ke
 
