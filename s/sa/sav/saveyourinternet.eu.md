@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saveyourinternet.eu privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609084749id_/https%3A//www.saveyourinternet.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveyourinternet.eu privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704115315id_/https%3A//www.saveyourinternet.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Save Your Internet
+# Privacy Policy - Save Your Internet
 
 This policy is applicable to all personal data processed by the Save your Internet website, operated by [N-square Consulting](http://www.n-square.eu/) registered at Kreupelstraat 33, 1703 Dilbeek, Belgium. We strictly limit the processing of your personal information, and work only with other organisations who do the same.
 
