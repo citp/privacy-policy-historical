@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsontop.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505183620id_/http%3A//www.lyricsontop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsontop.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705074516id_/https%3A//www.lyricsontop.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - LYRICSONTOP.COM
 
