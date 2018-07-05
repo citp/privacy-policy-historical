@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipquiz.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626182414id_/http%3A//www.clipquiz.net/privacidade) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipquiz.net privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705054918id_/http%3A//www.clipquiz.net/privacidade) for the most accurate reproduction.*
 
 # 
 
