@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bible.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608022854id_/https%3A//www.bible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bible.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705155632id_/https%3A//www.bible.com/privacy) for the most accurate reproduction.*
 
 # YouVersion Privacy Policy | The Bible App | Bible.com
 
