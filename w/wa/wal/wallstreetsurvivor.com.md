@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreetsurvivor.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604130010id_/http%3A//www.wallstreetsurvivor.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetsurvivor.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705180843id_/http%3A//www.wallstreetsurvivor.com/content/privacy) for the most accurate reproduction.*
 
 # privacy
 
