@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltabsearch.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505092110id_/http%3A//fulltabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltabsearch.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705130454id_/https%3A//fulltabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # 
 
@@ -102,7 +102,7 @@ We may share aggregate or anonymous Non-Personal Information with third party s
 
 COOKIES AND OTHER TECHNOLOGIES
 
-We and our trusted partners use cookies and other technologies (e.g. web beacons, pixels, etc.) in our related Browsing Products, including when you visit our site or access our Browsing Products. Like many other vendors, we gather some information automatically, such as your usage data, by ourselves or by using third party service and store it in log files. 
+We and our trusted partners use cookies and other technologies (e.g. web beacons, pixels, etc.) in our related Browsing Products, including when you visit our site or access our Browsing Products. Like many other vendors, we gather some information automatically, such as your usage data, by ourselves or by using third party service and store it in log files.  For more information about how to manage or clean your cookies [click here](https://web.archive.org/cookies.php)
 
 A "cookie" is a small piece of information that a website assigns to your device while you are viewing a website. Cookies are very helpful and can be used for various different purposes. These purposes include improving the Product, allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and other information that is used on the webpages that you visit, making the interaction between you and our Browsing Products quicker and easier and customize and improve the Product. You can find more information about cookies at [www.allaboutcookies.org](https://www.google.com/url?q=http://www.allaboutcookies.org&sa=D&ust=1523346487061000). You may disable and remove some cookies through your device or browser settings. However, if you choose to disable cookies, some features of our Browsing Products may not operate properly and your online experience may be limited. You may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser.
 
