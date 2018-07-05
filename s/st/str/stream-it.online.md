@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream-it.online privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622122927id_/http%3A//stream-it.online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream-it.online privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705091526id_/http%3A//stream-it.online/privacy) for the most accurate reproduction.*
 
 # Stream-It-Privacy
 
