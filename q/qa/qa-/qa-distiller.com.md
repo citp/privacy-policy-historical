@@ -1,41 +1,86 @@
-> *The following text is extracted and transformed from the qa-distiller.com privacy policy that was archived on 2016-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160227135535id_/http%3A//www.qa-distiller.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qa-distiller.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706092648id_/http%3A//www.qa-distiller.com/privacy) for the most accurate reproduction.*
 
 # Privacy - QA Distiller
 
-##  Introduction and General Terms
+##  Why this Privacy Statement?
 
-Yamagata Europe is committed to protecting your personal information when you are using this website. This Privacy Policy relates to our use of any personal information you provide to us through this website. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information.
+Every person who visits or uses the website <https://www.qa-distiller.com/> (the “ **Website** ”) could disclose a certain amount of personal data. The personal data is information which allows Yamagata Europe to potentially identify you as a natural person, regardless of whether we actually do this.
 
-##  What information will Yamagata Europe collect about me?
+We undertake to only use and process your personal data in accordance with Belgian Act of 8 December 1992 on Privacy Protection (the “ **Privacy Act** ”) and the Regulation of 27 April 2016 on the Protection of Natural Persons with regard to the Processing of Personal Data (the “ **GDPR** ”).
 
-When you sign up to receive a free trial license, we may ask for personal information about you. This can consist of information such as your name, e-mail address, postal address and telephone. By entering your details in the fields requested, you enable Yamagata Europe to provide you with the services you select. Yamagata Europe also uses cookies and collects IP addresses. We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
+##  What personal data do we collect?
 
-##  When will Yamagata Europe contact me?
+We might process the following personal data:
 
-Yamagata Europe may contact you:
+  * Last name and first name;
+  * E-mail address;
+  * Telephone number;
+  * Company name
+  * Company address
+  * VAT number
+  * Information with regard to your connection (IP-address, localisation, etc.).
 
-  * when your trial license has expired
-  * where you have opted to receive information on future updates and features of our products and/or services
-  * to invite you to participate in surveys about our products and/or services (participation is always voluntary)
+
+
+##  For which purposes are your personal data collected?
+
+Yamagata Europe collects your personal data for the sole purpose of offering you a safe, optimised and personal user experience of our Website and the offered services, such as responding to your request. The processing of your personal data is therefore essential for the proper functioning of the Website and the provision of associated services.
+
+Other purposes may include:
+
+  * To manage the contractual relationship between you and ourselves;
+  * To offer a personalised service to you by sending newsletters, offering personalised products, providing support and complaint follow-up;
+  * To detect and protect you against fraud, mistakes and/or criminal behaviours;
+  * Send promotional offers if you have expressly agreed to this (direct marketing). In this case, you remain free to withdraw your consent at any time.
 
 
 
-##  Will Yamagata Europe share my personal information with anyone else?
+[We also use cookies in order to recognise you and to offer you a personalised user experience, to remember technical choices (for example, language choices or a user profile), and to detect and correct any errors which might be present on the Website.
 
-We will keep your information confidential except where disclosure is required or permitted by law.
+When visiting the website of Yamagata Europe, some data are being collected for statistical purposes. Such data is necessary to optimise your user experience. These data are your IP-address, probable location of consultation, hour and day of the consultation and the pages which are being consulted. When you visit the Website, you explicitly agree to this collection of data for statistical purposes.]
 
-##  How long will Yamagata Europe keep my personal information?
+##  On which legal grounds do we collect your personal data?
 
-We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Yamagata Europe.
+According to article 6 of the GDPR, businesses can process personal data if it serves a legitimate interest, such as contacting our clients or sending promotional offers we think might interest you. Other information might also be collected in the course of our business relation and is needed to perform our end of the agreement.
 
-##  Can I find out what personal information Yamagata Europe holds about me?
+##  Who is responsible for the processing?
 
-You have the right to request a copy of the personal information Yamagata Europe holds about you and to have any inaccuracies corrected. We will use reasonable efforts to supply, correct or delete personal information about you on our files. Please address requests and questions about this or any other question about this Privacy Policy to info@yamagata-europe.com.
+We at Yamagata Europe are the controller, which means we are responsible for the processing and decide which personal data are being collected, the purposes for which they’re collected and the technical and organisational means we put in place to protect your data.
 
-##  Changes to Yamagata Europe’s Privacy Policy
+For your information, Yamagata Europe is free to rely on data processors. A processor is the person or company who processes your personal data on request and on behalf of Yamagata Europe. Each processor is of course required to ensure the security and confidentiality of your data.
 
-This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to this website.
+Yamagata Europe relies on the following categories of processors: web agencies, hosting companies, CRM
 
-##  Cookies Policy
+##  Who receives your personal data?
 
-Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience.
+Your personal data are processed for internal use within Yamagata Europe only. Your personal data will not be sold, passed on or communicated to any third parties, except in case you have given us your explicit prior consent.
+
+Yamagata Europe has taken every legal and technical precaution to avoid unauthorised access to and use of the data. In the event of a data breach, Yamagata Europe will immediately take every possible measure to limit the damages to a minimum.
+
+##  How long do we store your personal data?
+
+Your data is stored as long as necessary to achieve the ends pursued. They will be erased from our database as soon as they are no longer necessary for the purposes we collected them for or if you validly exercise your right to have them deleted.
+
+##  What are your rights?
+
+Your personal data are always processed for the legitimate purposes explained in point 5. They are collected and processed in an appropriate, relevant and non-excessive manner, and are not kept longer than necessary to achieve the intended purposes.
+
+  1. **Right to access** : if you can prove your identity, you have the right to obtain information about the processing of your data, such as the right to know the purposes of the processing, the categories of data concerned, the categories of recipients to whom the data are transmitted, the criteria used to determine the data retention period, and the rights that you can exercise on your data.
+  2. **Right to rectification** : inaccurate or incomplete personal data may be corrected.
+  3. **Right to erasure (or “right to be forgotten”)** : you also have the right to obtain the erasure of your personal data under certain conditions.
+  4. **Right to limitation of processing** : in certain cases, you have the right to request the limitation of the processing of your personal data, especially in case of dispute as to the accuracy of the data, if the data are necessary in the context of legal proceedings or the time required to Yamagata Europe to verify that you can validly exercise your right to erasure.
+  5. **Right to object:** you have the right to object at any time to the processing of your personal data for direct marketing purposes. Yamagata Europe will stop processing your personal data unless it can demonstrate that there are compelling legitimate reasons for the processing which prevail over your right to object.
+  6. **Right to data portability:** you have the right to obtain any personal data which you have provided us in a structured, commonly used and machine readable format. At your request, this data may be transferred to another provider unless it is technically impossible.
+  7. **Right to withdraw your consent:** you may withdraw your consent to the processing of your personal data at any time, for example for direct marketing purposes.
+
+
+
+If you wish to exercise your rights, you must send a written request and proof of identity to Yamagata Europe, either by e-mail to [dpo@yamagata-europe.com](mailto:dpo@yamagata-europe.com)  or by registered mail to Yamagata Europe, Zwijnaardsesteenweg 316, B9000 Gent, Belgium Att: DPO.
+
+We will respond as soon as possible, and no later than one (1) month after receipt of the request.
+
+##  Possibility to lodge a complaint
+
+If you are not satisfied with the processing of your personal data by Yamagata Europe, you have the right to lodge a complaint with the competent Data Protection Authority (for Belgium: [https://www.privacycommission.be/](https://www.privacycommission.be/\))).
+
+Yamagata Europe reserves the right to modify this Privacy Policy at all times. Every substantial change will be clearly communicated to you – however, we do advise you to consult this document regularly.
