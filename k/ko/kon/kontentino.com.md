@@ -1,27 +1,14 @@
-> *The following text is extracted and transformed from the kontentino.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506083139id_/https%3A//www.kontentino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontentino.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706101548id_/http%3A//www.kontentino.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Kontentino
+# Privacy Policy | Kontentino
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+If you are a visitor to a Kontentino website or a customer of a Kontentino Service, then except as expressly set forth below, this Privacy Policy applies to your use of such Website or Service.
+
+At Kontentino, we respect the privacy rights of our users and recognize the importance of protecting the personal information we collect about you. Our Privacy Policy is designed to help you understand what information we collect and how we use and share that information. This Privacy Policy applies to our Websites and Services.
 
 ## What personal information do we collect from the people that visit our blog, website or app?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number, credit card information or other details to help you with your experience.
-
-## When do we collect information?
-
-We collect information from you when you register on our site, place a subscription order or enter information on our site.
-
-## How do we use your information?
-
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
-  * To personalize your experience and to allow us to deliver the type of product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To quickly process your transactions. 
-  * To follow up with them after correspondence (live chat, email or phone inquiries) 
-
-
+Read more in a separate article [Data Policy](https://web.archive.org/data-policy).
 
 ## How do we protect your information?
 
@@ -172,10 +159,9 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-kontentino.com   
-Brigadnicka 27   
-Bratislava, Slovakia 84101   
-Slovakia   
-info@kontentino.com 
+Kontentino s.r.o.  
+Brigádnická 27  
+841 10  Bratislava, Slovakia  
+privacy@kontentino.com 
 
-Last Edited on the 24th August, 2017 
+**Updated at:** 12th May, 2018 
