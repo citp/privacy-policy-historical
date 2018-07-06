@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techntechie.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606092355id_/http%3A//www.techntechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techntechie.com privacy policy that was archived on 2018-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180707005434id_/http%3A//www.techntechie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech N Techie
 
