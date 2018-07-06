@@ -1,119 +1,133 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508085932id_/https%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706122937id_/https%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Inc.com
+# Privacy Policy | Inc.com
 
-_Updated as of January 24, 2010_
+Effective Date: May 24, 2018
 
-**Safeguarding your privacy is very important to us.** We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of Inc. communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
+This Privacy Policy applies to websites, apps, events and other services operated by Mansueto Ventures LLC ('Mansueto Ventures' or 'we').
 
-**Who We Are And How To Reach Us**
+Safeguarding your privacy is very important to us. We take the collection of personal information from our Users seriously and are committed to protecting each User's privacy in accordance with this Privacy Policy We use the term User to include any individual who accesses and uses any of our services, including (a) subscriptions to print and digital versions of Inc. Magazine and Fast Company Magazine (the 'Magazine(s)'); (b) our websites, digital applications, and online services, including Inc.com, Fastcompany.com, and FastCoDesign.com (the 'Websites'); (c) our premium services, including Inc. Plus, and Inc. Verified Profile, (d) live events and conferences, (e) awards programs, and (f) surveys, contests and sweepstakes (together, the 'Services'). Please carefully review our information collection practices and privacy protections below.
 
-Mansueto Ventures LLC owns and operates the Inc.com website, the inctechnology.com website, and all websites under the root domain of Inc.com (collectively referred to in this statement as the 'Website'). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at privacy[at]inc.com or Privacy Officer, Mansueto Ventures, 7 World Trade Center, New York, NY 10007.
+## WHO WE ARE AND HOW TO REACH US
 
-**Collection of Personal Information**
+Mansueto Ventures LLC owns and operates the Services. You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at privacyofficer[at]mansueto.com or Privacy Officer, Mansueto Ventures, 7 World Trade Center, New York, NY 10007.
 
-We provide various informative, educational, and entertaining features as part of the Website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For Website activities that request personal information, you agree to provide accurate and current information about yourself. We may conduct contests, sweepstakes and/or special events (including applications for the annual Inc. 5000 List) through the Website. To participate in these events, you must meet the designated criteria for participation, and minimum age requirements (for example, twenty-one (21) years of age or older) for the specific event.
+## DATA CONTROLLER
 
-We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws.
+The data controller for the information you provide or that is collected pursuant to this Privacy Policy is: Mansueto Ventures LLC, 7 World Trade Center, New York, NY 10007.
 
-**Use and Collection of Information by the Website**
+## INFORMATION WE COLLECT
 
-To participate on the Website, or in online activities, special events, contests, sweepstakes or other features available on the Website, you may be required to provide personally identifiable information such as your name, street and e-mail addresses, telephone number, birth date and gender ("personal information"). We may also survey visitors about various topics, including how we can improve our website and services. Response to our surveys is entirely voluntary.
+We provide various informative, educational, and entertaining features as part of the Services. To operate these features, we collect certain non-personal and personal information from our Users for specific purposes. For Website-related activities that request personal information, you agree to provide accurate and current information about yourself. We may conduct contests, sweepstakes and/or special events through the Websites. To participate in these events, you must meet the designated criteria for participation, and minimum age requirements (for example, twenty-one (21) years of age or older) for the specific event. We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws.
 
-We collect personal information for several important purposes, including to operate our membership base, protect the security of our visitors and the site, improve our service and website, distribute our newsletters, notify the winners of our contests and sweepstakes, allow participation in specified activities or Interactive Areas and for future marketing and/or promotional use about the Website and other products and services provided by Mansueto Ventures.
+## HOW WE USE INFORMATION
 
-The only personal information the Website obtains about you is information voluntarily provided by you through the Website. This means that a person can visit the Website and navigate through the Website without giving us personal information. To gauge the effectiveness of the Website, we may collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a person enters our site, webpages visited, duration of visit and domain type. This information does not reveal a visitor's personal identity.
+To participate in certain activities on the Websites or in online activities, special events, contests, sweepstakes or other Services, you may be required to provide your name, street and e-mail addresses, telephone number, birth date and gender. We also may survey Users about various topics, including how we can improve our Websites and Services. Response to our surveys is entirely voluntary. We collect information for several important purposes, including to operate our Services, protect the security of our Users and the Services, improve our Services, distribute our newsletters, notify the winners of our contests and sweepstakes, allow participation in specified activities and for future marketing and/or promotional use in connection with the Services and other products and services provided by us.
 
-We may produce certain contests, sweepstakes and special events with the support of affiliated or non-affiliated sponsors and/or promotional partners. The personal information collected through the Website in conjunction with such events may also be used for the marketing of additional services and events by Mansueto Ventures and/or its promotional partners and sponsors beyond the contest, sweepstakes and/or special event. Depending on the event, visitors will be able to either grant their approval on how their personal information will be used before it is collected ("opt-in"), or choose to deny use of their information for additional purposes ("opt-out").
+To gauge the effectiveness of the Websites, we may collect non-personal information about our Users, such as Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a person enters our site, webpages visited, duration of visit and domain type. We may produce certain contests, sweepstakes and special events with the support of affiliated or non-affiliated sponsors and/or promotional partners. The information collected through the Websites in conjunction with such events may also be used for the marketing of additional services and events by us and/or our promotional partners and sponsors beyond the contest, sweepstakes and/or special event. Depending on the event, Users either grant their approval on how their information is used before it is collected ('opt-in'), or choose to deny use of their information for additional purposes ('opt-out').
 
-For each contest, sweepstakes, and/or special event, we will post on the Website applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this policy, the privacy provisions for the specific event will govern.
+For each contest, sweepstakes or event, we will provide notice of the applicable rules or terms for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this Privacy Policy, the privacy provisions for the specific event will govern but solely to the extent of the conflict.
 
-**Use and Collection of Information by Operational Providers**
+## USE AND COLLECTION OF INFORMATION BY OPERATIONAL PROVIDERS
 
-For the convenience of our visitors, we may provide the opportunity to purchase certain goods, merchandise and services through this website. Companies other than Mansueto Ventures, its parents, partners, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations, order fulfillment and/or contract services "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the provider. The operational provider may also share your personal information with us. We will store this information in our membership database. In most instances, we request that our operational providers adhere to the provisions in our privacy policy and that such providers only share visitors' personal information with Mansueto Ventures, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, you must read an operational providers privacy policy to determine the extent of use and disclosure of your personal information collected online. Mansueto Ventures, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is Mansueto Ventures responsible or liable for the products or services provided by operational providers.
+For the convenience of our Users, we may provide the opportunity to purchase certain goods, merchandise and services through the Services. Companies other than Mansueto Ventures may handle some of these transactions. We call the companies that conduct our e-commerce operations, order fulfillment and/or contract services 'operational providers.' If you choose to use these Services, our operational providers will request information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, is governed by the specific operational provider privacy and other terms. To facilitate an order or request, we may share information with the operational provider. The operational provider may also share your information with us. We will store this information in our User database. In most instances, we request that our operational providers adhere to the provisions in this Privacy Policy and only share Users' personal information with us, unless necessary to complete a User's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, you must read an operational provider's privacy policy to determine the extent of use and disclosure of your personal information collected by them. Mansueto Ventures, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is Mansueto Ventures responsible or liable for the products or services provided by operational providers.
 
-**Our Policy on Disclosing Your Information to Parties Other than Mansueto Ventures**
+## OUR POLICY ON DISCLOSING YOUR INFORMATION TO PARTIES OTHER THAN MANSUETO VENTURES
 
-We only share or disclose your personal information with companies other than Mansueto Ventures when it is required by law, disclosure is necessary to operate the website or certain website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with Mansueto Ventures' practices for services that are similarly provided offline.
+We only share or disclose your personal information with companies other than Mansueto Ventures when it is required by law, disclosure is necessary to operate the Services, to protect the safety of our Users, employees or property and/or when disclosure is consistent with Mansueto Ventures' practices for its Services. We may in the future share personal information with our parents, partners, affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose to our Users and in this Privacy Policy the name of each entity with which we will share information, what type of information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information.
 
-We may in the future share personal information with our parents, partners, affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose to our registered members and in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information ("opt-out").
+We may collect and provide aggregate information about our Users to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity or the likes and dislikes of our Users, but this information generally does not include personal information about any individual User. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific User.
 
-We may collect and provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
+## OUR USE OF COOKIES AND TRACKING DEVICES
 
-**Our Use of Cookies and Tracking Devices**
+Our Websites use cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The 'cookie' is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies enable us to track how often Users are visiting our Websites and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser. You do not need to have cookies turned on to use most of the Websites. However, you may find that some areas on the Websites will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled. The Websites may use clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code that is programmed to collect certain information about a visit to a particular website. We use GIFs to gather aggregate information on visits to our Websites, track usage of Website links and assist with registration and other features. Other websites that you may link to through the Websites also may use clear GIFs. Mansueto Ventures, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Users must review other website operators' privacy policies to determine the type and extent of tracking devices used.
 
-This site uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the Website to access personal information that you haven't already provided. Cookies enable us to track how often visitors are visiting our website and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your browser's software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled.
+## USE AND COLLECTION OF INFORMATION BY ADVERTISERS AND SPONSORS; THIRD PARTY COOKIES AND TRACKING DEVICES
 
-This site may use clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code that is programmed to collect certain information about a visit to a particular website. We use GIFs to gather non-personal, aggregate information on visits to our website, track usage of website links and assist with registration and other features. We do not disclose personal information that may be linked to our GIF collection practices to third parties. Other websites that you may link to through the Website may also use clear GIFs. Mansueto Ventures, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitor's must review other website operators' privacy policies to determine the type and extent of tracking devices used.
+We use third-party advertising companies to serve ads on the Websites. These advertising companies may collect and use information (not including your name, address, e-mail address or telephone number) about your visits to our site and other websites not owned and operated by us, and may also combine this information with other data about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we may share usage information about Users of the Websites with these companies for the purpose of managing and targeting advertisements and for market research analysis on the Websites and other websites. For these purposes, we and our third party advertising companies may note some of the pages you visit on the Websites through the use of GIFs. In the course of serving advertisements to the Websites, our third party advertisers may place or recognize a unique 'cookie' on your computer. The Websites may post banner ads and other forms of advertisements, and/or links to the websites of affiliate entities or of advertisers or sponsors who are companies that are not owned or operated by us, or our affiliates or subsidiaries. These entities may independently solicit and collect personal information, or send their own cookies and/or clear GIFs to our Users. The data collected is used in order to provide advertisements about goods and services that may be of interest to Users of the Websites and other interactive media and may be used to keep track of user response to each advertisement. We also work with third-party data analytics and online targeting companies. Some of these companies may use non-personal information (not including your name, address, email address or telephone number) about your visits to the Websites and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you.
 
-**Use and Collection of Information by Advertisers and Sponsors; Third Party Cookies and Tracking Devices**
+Many of the third-party companies we work with are members of the Network Advertising Initiative (NAI), a cooperative on online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices. The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, go to <http://optout.networkadvertising.org/>.
 
-We use a third-party advertising company to serve ads on the Website. This advertising company may collect and use information (not including your name, address, e-mail address or telephone number) about your visits to our site and other websites not owned and operated by Mansueto Ventures, and may also combine this information with other data about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we may share non-personal website usage information about visitors to the Website with this company for the purpose of managing and targeting advertisements and for market research analysis on the Website and other websites. For these purposes, Mansueto Ventures and our third party advertising company may note some of the pages you visit on the Website through the use of pixel tags (also called clear GIFs). In the course of serving advertisements to the Website, our third party advertisers may place or recognize a unique "cookie" on your computer. If you would like more information about the collection, use and disclosure practices of this third party advertising company and to know your choices about not having this information used by this company, [click here.](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)
+Following are the names and websites of some of the other companies who may set cookies on our sites to serve or present the ads that appear on our sites and to conduct research about the advertisements. You may learn about opting out of their targeted advertising programs by clicking here and going to their respective websites.
 
-The Website may post banner ads and other forms of advertisements, and/or links to the websites of affiliate entities or of advertisers or sponsors who are companies that are not owned or operated by Mansueto Ventures, its parents, affiliates or subsidiaries. These entities may independently solicit and collect personal information, or send their own cookies and/or clear GIFs to our visitors. The data collected is used in order to provide advertisements about goods and services that may be of interest to users of the Website and other interactive media and may be used to keep track of user response to each advertisement.
+Brightcove - www.brightcove.com/privacy
 
-We also work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you.
+Casale Media - www.casalemedia.com/privacy.html
 
-Many large advertising networks are members of the Network Advertising Initiative (NAI), a cooperative on online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices. The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Clearspring - www.clearspring.com/legal/privacy
 
-Some of the other companies who may set cookies on the Website to serve or present the ads that appear on the Website and to conduct research about those ads include:
+Collective Media - www.collective-media.com/privacy
 
-Following are the names and websites of some of the other companies who may set cookies on our sites to serve or present the ads that appear on our sites and to conduct research about the advertisements. You may learn about opt outing of their targeted advertising programs by going to their respective websites.
+Context Web - www.contextweb.com/ppolicy.html
 
-  * Brightcove - [www.brightcove.com/privacy ](http://www.brightcove.com/privacy/)
-  * Casale Media - [www.casalemedia.com/privacy.html ](http://www.casalemedia.com/privacy.html)
-  * Clearspring - [www.clearspring.com/legal/privacy ](http://www.clearspring.com/legal/privacy)
-  * Collective Media - [www.collective-media.com/privacy](http://www.collective-media.com/privacy)
-  * comScore - [direct.comscore.com/docs/comScoreDirectPrivacyPolicy.pdf](http://direct.comscore.com/docs/comScoreDirectPrivacyPolicy.pdf)
-  * Context Web - [www.contextweb.com/ppolicy.html](http://www.contextweb.com/ppolicy.html)
-  * DrivePM - [www.drivepm.com/privacy-policies.php](http://www.drivepm.com/privacy-policies.php)
-  * Dynamic Logic - [www.dynamiclogic.com/na/company/privacypolicy](http://www.dynamiclogic.com/na/company/privacypolicy/)
-  * Eyeblaster - [www.eyeblaster.com/privacy.asp](http://www.eyeblaster.com/privacy.asp)
-  * Eyewonder - [www.eyewonder.com/privacy.php](http://www.eyewonder.com/privacy.php)
-  * Google Analytics - [www.google.com/intl/en_ALL/privacy.html](http://www.google.com/intl/en_ALL/privacy.html)
-  * Hitwise - [www.hitwise.com/other/privacy-policy.php](http://www.hitwise.com/other/privacy-policy.php)
-  * InsightExpress - [www.insightexpress.com/main.asp?pageID=143](http://www.insightexpress.com/main.asp?pageID=143)
-  * Interpolls - [www.interpolls.com/privacy.html](http://www.interpolls.com/privacy.html)
-  * Jupiter Media Metrix - [www.internet.com/corporate/privacy/privacypolicy.html](http://www.internet.com/corporate/privacy/privacypolicy.html)
-  * Mediaplex - [www.mediaplex.com/mojo_privacy_statement.shtml](http://www.mediaplex.com/mojo_privacy_statement.shtml)
-  * Millward Brown IntelliQuest - [www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx](http://www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx)
-  * Omniture - [www.omniture.com/en/privacy/policy#optout](http://www.omniture.com/en/privacy/policy#optout)
-  * Pointroll - [www.pointroll.com/privacy-policy.aspx](http://www.pointroll.com/privacy-policy.aspx)
-  * Quantcast - [www.quantcast.com/docs/privacy](http://www.quantcast.com/docs/privacy)
-  * Quigo - [www.quigo.com/privacy.htm](http://www.timeinc.net/legal/www.quigo.com/privacy.htm)
-  * Unicast - [www.unicast.com/privacy-policy.aspx](http://www.unicast.com/privacy-policy.aspx)
-  * Vizu - [answers.vizu.com/privacy-policy.htm](http://answers.vizu.com/privacy-policy.htm)
+DrivePM - www.drivepm.com/privacy-policies.php
 
+Dynamic Logic - www.dynamiclogic.com/na/company/privacypolicy
 
+Eyeblaster - www.eyeblaster.com/privacy.asp
 
-Please be advised that when you link to or visit an advertiser's or sponsor's website, we may frame the site with our website logo; however, you will be subject to the privacy policy and terms of usage agreement of that website operator. Mansueto Ventures, its parents, affiliates or subsidiaries will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors.
+Eyewonder - www.eyewonder.com/privacy.php
 
-We may also provide co-branded services or promotions with certain sponsors or other entities. As a part of these services or promotions, we may request the submission of your personal information through the Website for participation and/or registration. We may also share your information with the sponsor or entity assisting with the service or promotion to fulfill your request. If the co-sponsor or other entity collects your personal information, they may also share your information with us.
+Google Analytics - www.google.com/intl/en_ALL/privacy.html
 
-**Our Security Procedures**
+Hitwise - www.hitwise.com/other/privacy-policy.php
 
-We require our employees to protect the privacy of all information collected over the Website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. Credit card information is transmitted via encrypted technology. If we decide to share visitor information with other members of the Mansueto Ventures family, the receiving entity will also maintain the security and integrity of personal information collected over the Website. That said, it is not possible to guarantee the security or integrity of information you disclose online since a sufficiently powerful attack from an unauthorized third party, however unlikely, could compromise your data.
+InsightExpress - www.insightexpress.com/main.asp?pageID=143
 
-For the convenience of our visitors, we may offer a list of helpful website links provided by other entities and/or persons. Mansueto Ventures does not endorse or recommend, nor is it liable for, the products or services of any websites not owned or operated by Mansueto Ventures. When you visit other websites you will also be subject to the privacy policies and terms of usage agreements, if any, of that website operator.
+Interpolls - www.interpolls.com/privacy.html
 
-**Notification of Changes in the Privacy Policy**
+Jupiter Media Metrix - www.internet.com/corporate/privacy/privacypolicy.html
 
-We will review our security measures and Privacy Policy on a periodic basis, and we may modify our policies as Mansueto Ventures deems appropriate. We may also change or update our Privacy Policy if we add new services or features and will post these changes in this policy. We encourage you to review our Privacy Policy on a regular basis.
+Mediaplex - www.mediaplex.com/mojo_privacy_statement.shtml
 
-**CHILDREN'S PRIVACY POLICY**
+Millward Brown IntelliQuest - www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx
 
-Mansueto Ventures respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen (13). We have developed this site to appeal to visitors over the age of thirteen (13). Although visitors of all ages may navigate through our website, we do not knowingly collect personal information from persons under the age of thirteen (13). If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen (13) has improperly registered on this site by using false information, we will immediately cancel the child's membership and/or participation and delete the child's personally identifiable information from our records.
+Omniture - www.omniture.com/en/privacy/policy#optout
 
-If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen (13) years of age, except in the following circumstances allowed by law:
+Pointroll - www.pointroll.com/privacy-policy.aspx
 
-  * To provide notice and get consent from a parent or guardian;
-  * To respond to a one-time request from a child, after which we will immediately delete the child's information;
-  * To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and we will notify the parent or guardian before we contact the child again;
-  * To protect the safety of a child who is participating on this site; and
-  * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law.
+Quantcast - www.quantcast.com/docs/privacy
+
+Quigo - www.quigo.com/privacy.htm
+
+Unicast - www.unicast.com/privacy-policy.aspx
+
+Vizu - answers.vizu.com/privacy-policy.htm
+
+Please be advised that when you link to or visit an advertiser's or sponsor's website, we may frame the site with our website logo; however, you will be subject to the privacy policy and terms of usage agreement of that website operator. Mansueto Ventures, its parents, affiliates or subsidiaries will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors. We may also provide co-branded services or promotions with certain sponsors or other entities. As a part of these services or promotions, we may request the submission of your personal information through the Websites for participation and/or registration. We may also share your information with the sponsor or entity participating in the service or promotion to fulfill your request. If the co-sponsor or other entity collects your personal information, they may also share your information with us.
+
+## OUR SECURITY PROCEDURES
+
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+The criteria used to determine our retention periods include:
+
+  * The length of time we have an ongoing relationship with you and provide services to you (for example, for as long as you have an account with us or keep using the Websites);
+  * Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)
+  * Whether retention is advisable; and considering our legal position (such as, for statutes of limitations, litigation or regulatory investigations).
 
 
 
-**Location**
+Only employees and supervisors with specific authorization have access to databases containing Users' personal information. Credit card information is transmitted via encrypted technology. If we decide to share User information with other members of the Mansueto Ventures family, the receiving entity will also maintain the security and integrity of that User information. That said, it is not possible to guarantee the security or integrity of information you disclose online since a sufficiently powerful attack from an unauthorized third party, however unlikely, could compromise your information.
 
-_Inc._ is published by Mansueto Ventures and is headquartered at 7 World Trade Center, New York, New York 10007-2195
+For the convenience of our Users, we may offer a list of helpful website links provided by other entities and/or persons. We do not endorse or recommend, nor are we liable for, the products or services of any websites not owned or operated by us. When you visit other websites you will also be subject to the privacy policies and terms of usage agreements, if any, of that website operator.
+
+## YOUR CHOICES ABOUT YOUR INFORMATION
+
+If you would like to review, correct, update, suppress, restrict or delete personal information that you have previously provided to us, or if you would like to receive an electronic copy of your personal information for purposes of transmitting it to another company (if this right to data portability is provided to you by law), you can contact us at [privacyofficer@mansueto.com](mailto:privacyofficer@mansueto.com) or by mail to Mansueto Ventures LLC, 7 World Trade Center, New York NY 10007 USA
+
+In your request, please make clear what personal information you would like to have changed, whether you would like to have your personal information suppressed from our database, or other limitations you would like to put on our use of your personal information. For your protection, we only fulfill requests for the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity before fulfilling your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transaction that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the personal information provided until after the completion of such purchase or promotion). Our databases and other records may have residual data which will not be removed. In addition, we also may not allow you to review certain data for legal, security or other reasons.
+
+If at any time you believe that the Services have not adhered to this Privacy Policy, please let us know. We will use good faith efforts to determine and correct the problem.
+
+If you are an EEA resident, you have the right to lodge a complaint with a [data protection authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080) about how we process your personal information.
+
+## CHANGES IN THE PRIVACY POLICY
+
+The effective date at the top of this page indicates when this Privacy Policy was last revised. We will notify you before any material change takes effect so that you have time to review the changes. Any change is effective when we post the revised Privacy Policy. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+## CHILDREN'S PRIVACY
+
+Mansueto Ventures respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen (13). Although Users of all ages may navigate through the Services, we do not knowingly collect personal information from persons under the age of thirteen (13). If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen (13) has improperly registered by using false information, we will immediately cancel the child's membership and/or participation and delete the child's personal information from our records.
