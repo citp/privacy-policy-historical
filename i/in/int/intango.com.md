@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604160825id_/http%3A//intango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706022203id_/https%3A//intango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Intango
 
@@ -40,8 +40,10 @@ From time to time we might make some changes to our privacy policy. In that case
 
 Contact us
 
-You can contact us about this privacy statement by emailing us at: media@intango.com 
+You can contact us about this privacy statement by emailing us at: media@intango.com
 
 By registering with Intango Ltd you agree to have your company logo, creative and other non-confidential collateral displayed on our site or in press releases and other print materials. This information can be removed upon your request.
 
-Last Updated: FEB, 2016
+[GDPR](https://intango.com/data-protection-addendum/)
+
+Last Updated: June, 2018
