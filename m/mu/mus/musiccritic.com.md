@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musiccritic.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610060313id_/http%3A//musiccritic.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiccritic.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706222345id_/https%3A//musiccritic.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Music Critic | The Home Of Music Reviews
 
