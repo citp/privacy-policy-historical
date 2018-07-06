@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ad-maven.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603221408id_/http%3A//ad-maven.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-maven.com privacy policy that was archived on 2018-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180707014442id_/https%3A//ad-maven.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to AdMaven
 
 Ad Maven serves over 15 Billion impressions on a monthly basis, in the display sphere.
 
-[Launch it](https://web.archive.org/web/20180603221408id_/http%3A//ad-maven.com/what.html)
+[Launch it](https://web.archive.org/web/20180707014442id_/https%3A//ad-maven.com/what.html)
 
 ####  A Advertisers _Extend your reach_
 
 Our Publishers enjoy the best advertisers out there and a large variety of Ads.
 
-[Launch it](https://web.archive.org/web/20180603221408id_/http%3A//ad-maven.com/what.html)
+[Launch it](https://web.archive.org/web/20180707014442id_/https%3A//ad-maven.com/what.html)
 
 ####  P Publishers _Improve ROI_
 
