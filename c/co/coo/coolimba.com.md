@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolimba.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626143335id_/http%3A//www.coolimba.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolimba.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706021803id_/https%3A//coolimba.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # Coolimba
 
