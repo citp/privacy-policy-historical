@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todaysbuzz.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507153552id_/http%3A//www.todaysbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysbuzz.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706233223id_/https%3A//www.todaysbuzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TodaysBuzz
+# Privacy Policy
 
 **Last updated: March 23rd, 2013**
 
