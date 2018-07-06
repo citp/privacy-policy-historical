@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learngendev.azurewebsites.net privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507045826id_/http%3A//learngendev.azurewebsites.net/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learngendev.azurewebsites.net privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706221353id_/http%3A//learngendev.azurewebsites.net/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
