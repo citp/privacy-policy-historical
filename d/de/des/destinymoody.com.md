@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinymoody.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507021200id_/http%3A//www.destinymoody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinymoody.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706194334id_/http%3A//www.destinymoody.com/privacy) for the most accurate reproduction.*
 
 # 18 U.S.C. 2257 Compliance Statement | Destiny Moody
 
