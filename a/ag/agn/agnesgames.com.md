@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the agnesgames.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617062802id_/https%3A//www.agnesgames.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agnesgames.com privacy policy that was archived on 2018-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180707140856id_/https%3A//www.agnesgames.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Home](https://web.archive.org/)
+
+Privacy Policy
 
 AgnesGames.com is committed to providing an entertaining, fun and educational service. We respect the privacy concerns of visitors to AgnesGames.com.
 
@@ -35,3 +39,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **AGREEMENT WITH AgnesGames.com POLICIES**  
 By using this site, you signify your assent to the AgnesGames.com Privacy Policy. If you do not agree to this policy, please do not use AgnesGames.com site. We reserve the right to make changes in this policy at any time. Please check the policy each time you use our web site to ensure you are aware of any changes in our privacy practices. Our privacy policy will indicate the date it was last updated.
+
+  
+
