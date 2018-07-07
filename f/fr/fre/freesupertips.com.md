@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507154919id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2018-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180707210427id_/https%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Super Tips
 
@@ -9,7 +9,7 @@ freesupertips is a trading name of Apsley Group International Ltd which is regis
 
 You can get in touch with us in any of the following ways:
 
- **By email:  info@freesupertips.co.uk**
+ **By email:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
 By post: Consumer Queries, Apsley Group International Ltd, 8-10 Whiteladies Road, Bristol, BS8 1PD.
 
@@ -83,7 +83,7 @@ You have the right to:
 
 
 
-If you would like to amend or delete your details or contact us in relation to the use of your personal information, please contact using this email: info@freesupertips.co.uk
+If you would like to amend or delete your details or contact us in relation to the use of your personal information, please contact using this email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **Disclosure of your information**
 
@@ -134,6 +134,10 @@ cookieFB holds the ID of a featured bet used to perform a check to see if the us
 
 Offers stores an array containing bet used to display a notification of bets that the  ID’s that the user has user hasn’t seen previously seen
 
+ **Whatsapp**
+
+We use a 3rd party provider to provide WhatsApp messages. Your data will never be shared or sold and you will be unsubscribed if you message and say stop. Inactive users will be removed from our list after 1 year or on request.
+
  **Changes**
 
 We may change the terms of this privacy policy from time to time. Any changes will be posted on this page.
@@ -142,7 +146,7 @@ We may change the terms of this privacy policy from time to time. Any changes wi
 
 If you any questions or comments about this Privacy Policy, wish to exercise your information rights in connection with the personal data you have shared with us or wish to complain, please contact:
 
-By email: info@freesupertips.co.uk
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 By post: Consumer Queries, Apsley Group International Ltd, 8-10 Whiteladies Road, Bristol, BS8 1PD.
 
