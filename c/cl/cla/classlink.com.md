@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508073846id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708025726id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ClassLink | Single Sign-On for Education
 
-_updated May 25, 2017_
+_updated June 5, 2018_
 
 ClassLink is committed to ensuring that your information is secure and your privacy is protected. The information below outlines our privacy and security policies. Additional information is contained in our software license and service level agreements. In order to prevent unauthorized access or disclosure, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we store. Learn more about our [security protocols](https://www.classlink.com/security/).
 
@@ -87,7 +87,7 @@ GDPR includes 11 chapters and nearly 100 articles. Below are some of the most r
   * Article 5 “Principles relating to processing of personal data”: ClassLink is a trusted steward of personal data. Data received from educational agencies is to be used solely for purposes of providing educational services. Such data will not be sold or used for marketing purposes.
   * Article 17 “Right to be forgotten”:  Schools can choose to delete users from ClassLink at any time. Individual users can choose to delete any data they’ve added to ClassLink at any time. ClassLink promptly deletes data associated with schools no longer working with ClassLink.
   * Article 32 “Security of processing”: ClassLink keeps all personal data confidential and secure. ClassLink team members are bound by contractual non-disclosure agreements. ClassLink’s data security protections include: internal data management policies and procedures, limitations on access to personal data, data encryption (for both data in transit and at rest), data systems monitoring, incident response plans, and safeguards to ensure personal data is not accessed by unauthorized persons when transmitted over communication networks.
-  * Article 32 “Notification of a personal data breach to the supervisory authority”: GDR requires notice to the supervisory authority within 72 hours of awareness of a personal data breach. Discovery of a security breach that results in an unauthorized release of personal data: ClassLink shall promptly notify affected educational agencies of such breach, shall conduct an investigation, and shall restore the integrity of its data systems as soon as possible. ClassLink will fully cooperate and assist with required notices to those individuals affected by such breach.
+  * Article 33 “Notification of a personal data breach to the supervisory authority”: GDPR requires notice to the supervisory authority within 72 hours of awareness of a personal data breach. Discovery of a security breach that results in an unauthorized release of personal data: ClassLink shall promptly notify affected educational agencies of such breach, shall conduct an investigation, and shall restore the integrity of its data systems as soon as possible. ClassLink will fully cooperate and assist with required notices to those individuals affected by such breach.
   * Article 35: “Data protection impact assessment”: ClassLink conducts various security assessments of our systems. Certain security tests are conducted annually, others more frequently and some other tests are running constantly.
   * Article 37: “Designation of a data protection officer”: ClassLink maintains a designated data protection officer who is authorized to engage security reviews and impact product development.
   * Article 44: “General principle for transfers”: To promote data sovereignty/data residency in GDPR, the regulation authorizes the [European Commission](https://ec.europa.eu/commission/index_en) to decide if a third country or territory, where data may be transferred, meets adequate levels of protection. As GDPR is new, no third country or territory has yet been approved by the Commission. ClassLink customers located in the EU or UK are assigned to a data center based in the EU (Frankfurt, Germany). This EU data center maintains all needed ClassLink application and data servers and no server outside of that datacenter is used to store data or deliver services to EU or UK based customers.
@@ -148,7 +148,7 @@ In addition to the above guiding principles on personal data:
   * Location: ClassLink contracts with educational agencies in New York are governed by and construed in accordance with the laws of the State of New York. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.
 
 
-  * [Parents’ Bill of Rights](http://www.p12.nysed.gov/docs/parents-bill-of-rights.pdfm): ClassLink includes the Parents’ Bill of Rights is included with every ClassLink contract in New York State.
+  * [Parents’ Bill of Rights](http://www.nysed.gov/common/nysed/files/programs/student-data-privacy/parents-bill-of-rights.pdf): ClassLink includes the Parents’ Bill of Rights is included with every ClassLink contract in New York State.
 
 
 
