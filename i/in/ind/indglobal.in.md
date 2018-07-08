@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indglobal.in privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301111109id_/https%3A//indglobal.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indglobal.in privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708075721id_/https%3A//indglobal.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Website Designing, Mobile App, Ecommerce, SEO Bangalore, India|Indglobal
 
@@ -111,11 +111,6 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-indglobal.in  
-60, Dr. Raj Kumar Road  
-bangalore, karnataka 560021  
-India  
-info@indglobal.in  
-23426161
-
-Last Edited on 2016-08-28
+2nd Floor, No-1, UMA Admiralty(Rear Wing),  
+Above HDFC Bank, BTM Layout, Bannerghatta Main Road,  
+Old Gurappanapalya, Bengaluru, Karnataka 560029
