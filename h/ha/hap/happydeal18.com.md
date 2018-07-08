@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happydeal18.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606105616id_/http%3A//www.happydeal18.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happydeal18.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708101352id_/http%3A//www.happydeal18.com/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: HappyDeal18
 
