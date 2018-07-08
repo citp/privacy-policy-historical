@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321051705id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708215151id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Geeks to Go! - Free help from tech experts « Geeks to Go! – Free help from tech experts
 
@@ -72,6 +72,6 @@ Geeks to Go, Inc.
 http://www.geekstogo.com  
 PO Box 6563  
 Fargo, ND 58109-6563  
-privacy@geekstogo.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on April 07, 2014
