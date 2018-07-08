@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplclub.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174916id_/http%3A//iplclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplclub.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708150424id_/http%3A//iplclub.com/privacy) for the most accurate reproduction.*
 
 # IplClub
 
