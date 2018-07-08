@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508155802id_/http%3A//www.watsons.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708062517id_/https%3A//www.watsons.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watsons Singapore
 
