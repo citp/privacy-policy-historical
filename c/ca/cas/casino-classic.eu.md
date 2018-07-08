@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casino-classic.eu privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507134302id_/http%3A//www.casino-classic.eu/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino-classic.eu privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708091401id_/http%3A//www.casino-classic.eu/en/privacy) for the most accurate reproduction.*
 
 # Security : Casino Classic Privacy Policy
 
