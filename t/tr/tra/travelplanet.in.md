@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelplanet.in privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509053219id_/http%3A//www.travelplanet.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelplanet.in privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708142957id_/https%3A//www.travelplanet.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Travelplanet.in
 
 Thank you for visiting our privacy section we value your trust you place in us. In general submission of your personal information is not at all required in order to browse travelplanet.in, you can surf this site without revealing any of your personal information.
 
