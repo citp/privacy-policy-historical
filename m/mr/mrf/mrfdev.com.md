@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfdev.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606181518id_/https%3A//www.mrfdev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfdev.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708072714id_/https%3A//www.mrfdev.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
