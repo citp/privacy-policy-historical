@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ondramanice.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619052145id_/https%3A//www1.ondramanice.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondramanice.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708042749id_/http%3A//www.ondramanice.com/privacy) for the most accurate reproduction.*
 
 # Watch free Drama Online at Dramanice
 
