@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625091439id_/http%3A//menafn.com/mf_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709105446id_/https%3A//www.menafn.com/mf_privacy.aspx) for the most accurate reproduction.*
 
 # Business & Financial - International News, Currencies & Economic Indicators | MENAFN.COM
 
 [](https://web.archive.org/index.aspx)
 
-Monday,  25 June 2018 12:13 GMT
+Monday,  09 July 2018 01:54 GMT
 
 [](https://web.archive.org/index.aspx)
 
