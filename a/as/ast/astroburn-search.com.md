@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astroburn-search.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114192425id_/http%3A//gamespace.daemon-tools.cc/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroburn-search.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709123638id_/https%3A//gamespace.daemon-tools.cc/eng/privacy) for the most accurate reproduction.*
 
 # Privacy policy - GameSpace
 
