@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thecinemaholic.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319160041id_/http%3A//www.thecinemaholic.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecinemaholic.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709043350id_/https%3A//www.thecinemaholic.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Cinemaholic
+
+### PRIVACY POLICY
 
 **Information Automatically Gathered About All Visitors**
 
