@@ -1,63 +1,41 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311190412id_/https%3A//psxextreme.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709221830id_/https%3A//psxextreme.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PSX ExtremePSX Extreme
+# Privacy Policy - PSX Extreme
 
-PSX Extreme has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
+## Privacy Policy:
 
-**Advertisers**  
-We use third-party advertising companies to serve ads and collect information when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on our Web site, other Web sites and other forms of media about goods and services of interest to you.
+Sidular (" **Sidular** ") operates PSXExtreme.com and may operate other websites. It is Sidular's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Surveys**  
-Our online surveys ask visitors for demographic information (like postcode, age, or income level).
+### Website Visitors
 
-Demographic and profile data is also collected at our site.  
-We use this data to tailor our visitor’s experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+Like most website operators, Sidular collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Sidular's purpose in collecting non-personally identifying information is to better understand how Sidular's visitors use its website. From time to time, Sidular may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-**Contests**  
-We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like postcode, age, or income level).
+Sidular also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on PSXExtreme.com blogs/sites. Sidular only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-Contact information from the contests is used to get in touch with the visitor when necessary.
+### Gathering of Personally-Identifying Information
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Certain visitors to Sidular's websites choose to interact with Sidular in ways that require Sidular to gather personally-identifying information. The amount and type of information that Sidular gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [PSXExtreme.com](https://psxextreme.com/) to provide a username and email address. Those who engage in transactions with Sidular are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Sidular collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Sidular. Sidular does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Demographic and profile data is also collected at our site.  
-We use this data to tailor our visitor’s experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+### Aggregated Statistics
 
-**External Links**  
-This site contains links to other sites. PSX Extreme is not responsible for the privacy practices or the content of such Web sites.
+Sidular may collect statistics about the behavior of visitors to its websites. Sidular may display this information publicly or provide it to others. However, Sidular does not disclose personally-identifying information other than as described below.
 
-**Special Relationships**  
-We use special partnerships to improve our content, but in some cases the third party content and service providers may collect information for their use and at times the information will be shared with us. Although we don’t have any power to control the information gathered by our partners and such, we try to make sure that the information is only used to improve their services and content that is delivered to our visitors.
+### Protection of Certain Personally-Identifying Information
 
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Sidular discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Sidular's behalf or to provide services available at Sidular's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Sidular's websites, you consent to the transfer of such information to them. Sidular will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Sidular discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Sidular believes in good faith that disclosure is reasonably necessary to protect the property or rights of Sidular, third parties or the public at large. If you are a registered user of an Sidular website and have supplied your email address, Sidular may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Sidular and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Sidular takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-**Children’s Guidelines**
+### Cookies
 
-  * We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
-  * We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
-  * We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
-  * When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:  
-– Respond directly to the child’s request on a one-time basis and not use that information to re-contact the child for other purposes. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.  
-– Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
-  * We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service.
-  * We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
-  * We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected.
-  * We will NOT provide any links to Web sites that are unsuitable for children.
-  * We will encourage children to get their parent’s permission before sharing personal information online.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Sidular uses cookies to help Sidular identify and track visitors, their usage of Sidular website, and their website access preferences. Sidular visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Sidular's websites, with the drawback that certain features of Sidular's websites may not function properly without the aid of cookies.
 
+### Business Transfers
 
+If Sidular, or substantially all of its assets, were acquired, or in the unlikely event that Sidular goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Sidular may continue to use your personal information as set forth in this policy.
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us .
+### Ads
 
-You can send email to webmaster [at] psxextreme.com
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Sidular and does not cover the use of cookies by any advertisers.
 
-**Data Quality/Access**  
-This site gives users the following options for changing and modifying information previously provided.
+### Privacy Policy Changes
 
-You can send email to webmaster [at] psxextreme.com
-
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-webmaster [at] psxextreme.com
+Although most changes are likely to be minor, Sidular may change its Privacy Policy from time to time, and in Sidular's sole discretion. Sidular encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a PSXExtreme.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
