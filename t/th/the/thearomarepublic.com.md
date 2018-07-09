@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thearomarepublic.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509153031id_/http%3A//thearomarepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearomarepublic.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709181420id_/https%3A//thearomarepublic.com/privacy) for the most accurate reproduction.*
 
-# Privacy - The Aroma Republic
+# Privacy - Buy Herbal Incense - The Aroma Republic
 
 The Aroma Republic (“us”, “we”, or “our”) operates www.thearomarepublic.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at our website.
 
