@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522072210id_/http%3A//www.alloywheels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709090740id_/https%3A//alloywheels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AlloyWheels.com
 
