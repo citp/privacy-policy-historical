@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sisigames.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515140224id_/http%3A//www.sisigames.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisigames.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710111544id_/https%3A//www.sisigames.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - SisiGames.com
+
+## Privacy Policy
 
 This Privacy Policy was last updated on September 29th, 2015.
 
@@ -28,11 +30,11 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Google Adsense**
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits on sisigames.com website.
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to sisigames.com and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits on sisigames.com website.
 
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to sisigames.com and/or other sites on the Internet.
 
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
 
 **Security  
 **All data that we collect is stored on one or more database servers. We are taking any reasonable precaution to secure the data, but you have to understand that the internet is not 100% safe and we cannot guarantee the safety of your information. All this kind of transmission whatsoever is made on your own risk.   
