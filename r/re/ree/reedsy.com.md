@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002203027id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710042607id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reedsy
 
@@ -20,7 +20,11 @@ Welcome to **Reedsy** brought to you by Reedsy Limited ( **we, us, our** ). Than
 
 **‘you’** and **‘your’** means you, the person visiting Reedsy, registering for an account with us or using services on Reedsy.
 
-### By visiting our site, registering for an account with us or using the services on Reedsy as may be applicable, you consent to our processing of your personal data in accordance with this Privacy Policy.
+### All personal information and any accompanying documentation will be processed in accordance with current legislation and will only be retained for as long as necessary to provide you with our services.
+
+### We collect data for the purposes set out in this Privacy Policy and will directly ask for your consent to collect and process your data, as set out below. To the extent that further data is required, we will always seek your consent.
+
+### Where processing personal data is essential for the service, you have the right to withdraw your consent to this data processing at any time. However, please be aware that this may limit the services we can provide you with where processing personal data is essential for the service.
 
 ## About Us
 
@@ -30,7 +34,7 @@ Welcome to **Reedsy** brought to you by Reedsy Limited ( **we, us, our** ). Than
 
 FAO: Data Protection Manager
 
-Address: Reedsy Limited at Seedcamp, 4-5 Bonhill Street, London, EC2A 4BX
+Address: Reedsy Limited at 483 Green Lanes. London. N13 4BS. UK
 
 Email: [service@reedsy.com](mailto:service@reedsy.com)
 
@@ -38,7 +42,7 @@ Email: [service@reedsy.com](mailto:service@reedsy.com)
 
 ### **Information that you provide**
 
-We will collect any information that you provide to us when you register for an account with us, provide us with your details over the phone, or subscribe to our mailing lists. This information might include your name, password, address, email address, phone number, credit card information, age and if you’re registering with us as a Service Provider will also include additional information about the services you can offer, your work history, testimonials or your work and any other such similar information as may be required.
+We will collect any information that you provide to us when you register for an account with us, provide us with your details over the phone, or subscribe to our mailing lists. This information might include your name, password, address, email address, phone number, credit card information, age and if you’re registering with us as a Service Provider will also include additional information about the services you can offer, your work history, testimonials or your work and any other such similar information as may be required. By providing us with this information you consent to us processing it for the purposes of providing you services.
 
 From time to time we might also ask if you would be willing to participate in our surveys; if you agree, we will also collect any information that you provide as part of that survey.
 
@@ -48,7 +52,7 @@ We may collect any information contained in any correspondence between us. For e
 
 We will collect information that you upload or post to Reedsy and/or any correspondence or interactions that you may have with other Reedsy users.
 
-We will also collect certain information about how you use Reedsy and the device that you use to access Reedsy. This might include your IP address, geographical location, device information (such as your hardware model, mobile network information, unique device identifiers), browser type, referral source, length of visit to Reedsy, number of page views, the search queries you make on Reedsy and similar information. This information may be collected by a third party website analytics service provider on our behalf and/or may be collected using cookies. For more information on cookies please refer to paragraph 6 below.
+We will also collect certain information about how you use Reedsy and the device that you use to access Reedsy. This might include your IP address, geographical location, device information (such as your hardware model, mobile network information, unique device identifiers), browser type, referral source, length of visit to Reedsy, number of page views, the search queries you make on Reedsy and similar information. This information may be collected by a third party website analytics service providers — Google Analytics, Intercom, Facebook, Microsoft Bing — on our behalf and/or may be collected using cookies. For more information on cookies please refer to paragraph 6 below.
 
 ### Information we receive from third parties
 
@@ -58,17 +62,17 @@ We will receive information about experiences of working with you or the service
 
 We may receive information about you from third parties that are referring you to Reedsy if you have indicated to such third party that you are happy to be referred to us. If you are the referring party, you warrant that you have obtained the necessary consent to share this information with us.
 
-We might also receive information about you from third parties if you have indicated to such third party that you would like to hear from us.
+We might also receive information about you from third parties if you have indicated to such third party that you would like to hear from us. Such third parties are responsible for compliance with data protection law and will have primary responsibility for how they use personal data.
 
 ## How we use information about you
 
-### You agree that we may use your information for the following purposes:
+### By creating a Reedsy account, you agree that we may use your information for the following purposes:
 
 to provide you with access to the Reedsy services as explained in more detail in paragraph 3 of our [Terms of Use](https://web.archive.org/about/tos);
 
 to provide you with details about your Reedsy account or Service Contracts;
 
-to keep in contact with you about Reedsy news, Reedsy events, new Reedsy features or Services, new Service Providers or services of Service Providers that we believe may interest you, provided that you don’t opt out of receiving such communications;
+where you give us your consent to do so, to keep in contact with you about Reedsy news, Reedsy events, new Reedsy features or Services, new Service Providers or services of Service Providers that we believe may interest you. We will only contact you with information we consider to be in your legitimate interest as a user of Reedsy. You can opt out of receiving such communications at any time;
 
 where you give us your consent to do so, to share your information with selected third parties, to enable them to contact you with information about things that may interest you;
 
@@ -79,6 +83,8 @@ to improve our site and to ensure that content from our site is presented in the
 to carry out aggregated and anonymised research about general engagement with Reedsy and the products and services it makes available; and
 
 to enable us to enforce our legal rights, or to protect the rights, property or safety of our employees.
+
+### Your information will only be processed to the extent necessary and stored for no longer than is necessary for us to meet these purposes.
 
 ## Who we might share your information with
 
@@ -121,7 +127,7 @@ Allows users to log in to our book production tool | session
 
 ### We use appropriate technological and operational security measures to protect your information against any unauthorised access to or unlawful use.
 
-### We will retain your information for as long as is necessary to provide you with the services that you have requested from us or for as long as the law otherwise permits.
+### We will retain your information for as long as is necessary to provide you with the services that you have requested from us or for as long as the law otherwise permits and obliges.
 
 ### Unfortunately the transmission of information over the internet in not always completely secure. Although we do our best to implement measures to protect your information from unauthorised access, you acknowledge that we cannot always guarantee the security of information that you send over the internet to Reedsy. Once we have received your information, we will use appropriate and operational measures to protect it in accordance with paragraph 7.1. above.
 
@@ -129,21 +135,27 @@ Allows users to log in to our book production tool | session
 
 ### Our servers are situated in the EEA and all of the information that we collect about you will be stored on these servers.
 
-### In certain circumstances your information may be processed outside of the European Economic Area ( **EEA** ) such as if we engage third parties based outside of the EEA to assist us with the services that you have requested from us. In such circumstances, we will take all steps necessary to ensure that any of your information is adequately protected and processed in accordance with this Privacy Policy. You consent to this transfer and processing of your information.
+### In certain circumstances your information may be processed outside of the European Economic Area ( **EEA** ) such as if we engage third parties based outside of the EEA to assist us with the services that you have requested from us. In such circumstances, we will take all steps necessary to ensure that any of your information is adequately protected by ensuring:
+
+Any third parties located in the USA are compliant with the Privacy Shield framework if based in the USA; or
+
+Any third parties worldwide or not signed up to the Privacy Shield framework have signed with us a data transfer agreement agreeing to provide your data with the equivalent protection as it would receive under European data privacy regulations. By creating a Reedsy account, you consent to this transfer and processing of your information.
 
 ## Your rights to the information we hold about you
 
+### You can find out more about your rights under GDPR from the Information Commissioner’s Office.
+
 ### You have certain rights in respect of the information that we hold about you, including:
 
-the right to ask us not to process your personal data for marketing purposes;
+the right to ask us not to process your personal data, erase your data and stop using it for marketing purposes;
 
-the right to request access to the information that we hold about you; and
+the right to request access to the information that we hold about you and the reasons for which we are processing your information; and
 
-in certain circumstances, the right to ask us to stop processing information about you.
+You may exercise your rights above by contacting us using the details in paragraph 2 of this Privacy Policy, or in the case of preventing processing for marketing activities also by checking certain boxes on forms that we use to collect your data to tell us that you don’t want to be involved in marketing.
 
-### You may exercise your rights above by contacting us using the details in paragraph 2 of this Privacy Policy, or in the case of preventing processing for marketing activities also by checking certain boxes on forms that we use to collect your data to tell us that you don’t want to be involved in marketing.
+### Please make sure that the data you supply us with is correct and up to date. If your details change, you can update them at any time by contacting us using the details in paragraph 2 of this Privacy Policy.
 
-### Note that if you make a request to access information that we hold about you in accordance with paragraph 9.1.2, we have the right to charge you a fee of £10 to assist us with the administration of your request.
+### If you make a request to access information that we hold about you in accordance with paragraph 9.2.2, we will reply to you within one month of your request. We will comply with the requirements of data protection law when handling your request.
 
 ## Changes to this Privacy Policy
 
