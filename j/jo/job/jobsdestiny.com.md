@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdestiny.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525080821id_/http%3A//jobsdestiny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdestiny.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710055639id_/http%3A//jobsdestiny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – jobsdestiny
 
