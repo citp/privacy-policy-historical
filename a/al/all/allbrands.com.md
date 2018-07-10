@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbrands.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609200143id_/http%3A//www.allbrands.com/info/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbrands.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710205154id_/https%3A//www.allbrands.com/info/privacy-and-security) for the most accurate reproduction.*
 
 # AllBrands.com Privacy and Security Policies
 
@@ -40,6 +40,6 @@ To learn more about cookies, and how to disable them, go to [cookiesandyou.com](
 
 Third-party email delivery services, like Constant Contact, are used to deliver our newsletters to you. If you subscribe to one of our newsletters, your email will be shared with them for that purpose only. 
 
-For the purpose of delivering your order to you, if you order from us, your address and contact information may be shared with some third parties like FedEx, UPS, USPS, third-party warehouses and sellers, or service providers like Easypost or Stamps.com. 
+For the purpose of delivering your order to you, if you order from us, your address and contact information may be shared with some third parties like FedEx, UPS, USPS, third-party warehouses and sellers, or service providers like Easypost or Stamps.com. For the purpose of processing payment, your information may be shared with payment processors like PayPal. 
 
 Our discussion boards are private domain. By participating in the discussions or sending your comments via e-mail or feedback forms, you give AllBrands.com the right to reproduce, modify, or edit the content of the posting. 
