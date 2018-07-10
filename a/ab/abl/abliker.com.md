@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abliker.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609070424id_/http%3A//abliker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abliker.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710212925id_/https%3A//abliker.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AbLiker
 
