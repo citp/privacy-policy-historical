@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketlive.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527162105id_/https%3A//kibocommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketlive.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710124836id_/https%3A//kibocommerce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Kibo Unified Omnichannel Solutions
 
