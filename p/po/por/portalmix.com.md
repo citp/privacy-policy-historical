@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portalmix.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510082656id_/http%3A//www.portalmix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portalmix.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710081812id_/https%3A//www.portalmix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
