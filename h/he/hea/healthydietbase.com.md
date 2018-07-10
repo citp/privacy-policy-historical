@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthydietbase.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615115815id_/http%3A//www.healthydietbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthydietbase.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710030043id_/https%3A//www.healthydietbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Healthy Diet Base
 
