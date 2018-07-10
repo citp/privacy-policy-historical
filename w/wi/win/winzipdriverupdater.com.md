@@ -1,195 +1,178 @@
-> *The following text is extracted and transformed from the winzipdriverupdater.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520092750id_/http%3A//www.winzipsystemtools.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winzipdriverupdater.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710125602id_/https%3A//winzipdriverupdater.com/privacy.htm) for the most accurate reproduction.*
 
 # WinZip® Privacy Statement
 
-At WinZip, we recognize and value our customers' privacy. As such, WinZip Computing S.L., a Corel company, is committed to ensuring that its customers are informed how their personal information will be used and kept secure. This privacy policy applies to information collected by WinZip and its affiliates ("WinZip") through the websites, products and services that display this privacy policy, including products and services that may be provided by WinZip off-line. This privacy policy applies to all WinZip products and services currently offered by WinZip.
+Corel Corporation and its affiliated entities (collectively, " **Corel** ", " **us** " or " **we** ") are committed to protecting your privacy. This Privacy Statement describes Corel’s information practices and the choices available to you regarding Corel’s use of information that can be used to identify you (" **Personal Data** "). If you are in the European Union (" **EU** "), please pay particular attention to the information for EU users in Section 5 below. 
 
-WinZip will not contact you for marketing purposes unless you have opted to be contacted. If you prefer not to receive email from WinZip, or if you've changed your email address, [click here](http://www.winzip.com/win/en/mailchange.htm).
+This Privacy Statement addresses Corel’s use of information collected through any of our web properties (collectively, the " **Sites** ") or our software or maintenance products (collectively, " **Products** "). We will only collect and use information from you as described in this Privacy Statement. We will not sell your data to any third parties.
 
-Except as set forth in Section 2, Section 6, Section 7 and Section 16 of this privacy policy, WinZip will not share any of your personal information with third parties without first obtaining your consent.
+If you have any questions about our Privacy Statement, you can contact our Data Privacy Officer at [privacy@corel.com](mailto:privacy@corel.com?subject=Privacy%20help "Get privacy help").
 
-**BY VISITING WINZIP'S WEBSITES, OR BY USING OR PURCHASING THE PRODUCTS AND SERVICES OFFERED BY WINZIP, YOU ACCEPT THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND CONSENT TO WINZIP'S USE OF YOUR INFORMATION IN THE MANNER DESCRIBED IN THIS PRIVACY POLICY.**
+  
 
-## 1\. INFORMATION THAT WINZIP COLLECTS
 
-WinZip may collect information about you your identity and personal preferences as they relate to our products. Personal information we may typically collect includes your name, postal address, email address, telephone number, IP address and, in relation to purchases you may make, your credit card information. WinZip will try to collect only information that is necessary for the purpose WinZip is collecting the information. For example, if you purchase a WinZip product, we will require you to disclose your name and address (so that we can send the product to you) and your credit card details (to obtain payment). Our objective is to inform you before or at the time of collection what information we will collect and why and how we will use it. If we require additional specific personal information from you, we will use reasonable commercial efforts to inform you at the time of collection about the information we need to collect, the purposes for which it is being collected and how the information will be used, so that you can make an informed decision about whether to provide it. If you choose not to provide requested information, WinZip may not be able to comply with your request or provide certain services.
+## 1\. The Data We Process; Purposes of Processing 
 
-There are a number of different ways that WinZip receives and collects personal information from you. These may include:
+Depending on how you interact with us, we process different kinds of data and in different ways. Some data is automatically processed if you visit our Sites or use our Products. Other data is only processed if you actively submit it to us (like using our web forms to get in touch with us or uploading content to our Sites).
 
-**Communications From You**
+##### Data we process if you visit our Sites:
 
-When you email or write to us, you may provide us with your name, contact details, and other personal information in your message.
+Even if you are only a visitor on one of our Sites, your computer or device automatically sends technical information to our web servers that we store in log files, including the following " **Website Usage Data** ": 
 
-**Customer Support**
+  * Date and time of the visit and the duration of use of the Site; 
+  * The IP address of your device as well as your internet service provider (ISP); 
+  * The referral/exit URL; 
+  * The visited subsites of the Site; 
+  * Clickstream data; and 
+  * Information about your device (type of device, browser type and version, as well as settings, installed plug-ins, operating system). 
 
-You may provide us with personal information when you telephone or email us to request technical assistance with our products or information that you would like to receive about them.
 
-**Email/Direct Mail Campaigns That You Approved**
 
-From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you told us you were interested in receiving. When responding to one of these campaigns, you may provide us with personal information. If you want to stop receiving promotional and information materials from us, you can follow the unsubscribe instructions at the bottom of each email, contact us at help@winzip.com or [click here](http://www.winzip.com/win/en/mailchange.htm).
+We process Website Usage Data to allow you to surf the Site and to ensure its functionality. We also process Website Usage Data to perform analyses on the performance of the Site, to continuously improve the Site and correct errors, to ensure IT security and operation of our systems, as well as to prevent or uncover abuse. We further process this data in aggregated or pseudonymized form to analyze trends, administer the Sites, track users’ movements around the Sites, and to gather demographic information about our user base as a whole or to improve marketing (including serving you personalized, interest-based ads) as well as the user experience on our Site and guaranteeing the safety of our IT systems.
 
-**Registration of Products**
+To process Website Usage Data, we use cookies and similar technologies. [Click here](https://web.archive.org/win/en/cookies.html "Cookie Notice") to review our Cookie Notice. 
 
-Upon registration of a WinZip product, you will be asked to provide information that we will use to record you as an owner of a WinZip product and to assist us in providing you with service and information.
+##### Data we process if you use our Products:
 
-**Installation and Use of Products**
+Corel processes Personal Data when you install and register one of our Products. Some of this information will be processed automatically when installing our Products. This includes the following " **Product Installation Data** ": 
 
-When you install and use WinZip products, we may use information about your browser type, operating system, hardware, other software on your system, IP address and the functions of the WinZip products and services that you use so that we can facilitate, evaluate and verify your use of our products and services.
+  * Your browser type 
+  * Operating system 
+  * Device hardware 
+  * Other software on your system 
+  * IP address 
+  * Product version 
 
-**Purchases**
 
-If you wish to purchase WinZip products from our eStore or over the telephone we will require sufficient information to complete your purchase including your credit card and shipping information.
 
-**Resumes**
+We request certain " **Product Registration Data** " during installation of our Products. Although only email address is mandatory for registration, we may ask you to submit other information, including: 
 
-We obtain your personal information when you apply and/or submit your resume for an employment opportunity at WinZip, but we will only use this information to evaluate your potential employment with us.
+  * Your name 
+  * Postal address, including country 
+  * Telephone number 
 
-**Surveys**
 
-From time to time we may conduct surveys in respect of our products and services. Participation in our surveys is optional. However, if you respond to one of our surveys, you may provide us with personal information about you. Unless you otherwise consent, we will only use this information to determine the types of offers, products or services that may be of interest to you and to operate and improve our product and services offerings.
 
-## 2\. PURPOSES FOR WHICH WINZIP USES INFORMATION
+We use Product Installation Data and Product Registration Data to keep a record of your product license (that is, authenticating and periodically verifying your licensing rights in the product for anti-piracy purposes) and to enable the provision of maintenance or support services to you. We will also use this information to provide in-product messaging with information about products, features, or services offered by Corel.
 
-WinZip may use your personal information for the following purposes:
+We collect information about the way you use our Products after you have installed and registered them. The specific " **Product Usage Data** " varies depending upon which Product you are using, but may include: 
 
-**Product Registration**
+  * Launch data 
+  * Hardware fingerprint 
+  * Feature usage 
+  * Page clicks 
+  * Sign-in information 
 
-Information you provide upon registration will be used to keep a record of your product license and will assist WinZip in providing support to you when you contact WinZip's customer service department. WinZip will also use this information to inform you of any upgrades, new products, promotions or other information that may be of interest to you.
 
-**Product Installation and Use**
 
-Information gathered during installation may be used by WinZip to (i) authenticate and periodically verify your licensing rights in the product for anti-piracy purposes (ii) identify if new product updates are available for your computer prior to sending you a notice to install the new product update; and (iii) receive in-product messages from WinZip that you have requested to receive.
+We process Product Usage Data so that we can facilitate, evaluate, and verify your use of our products and services. We will also use the Product Usage Data for our own internal statistical and analytical purposes, and to evaluate and enhance users' experience of the Products by identifying customer preferences and analyzing crash data. 
 
-**Product Purchases**
+In addition, certain of our products may allow you to store, send, receive, edit, sync, share, or otherwise organize or manage files and folders (including any information or data stored in those folders) (" **User Files** "). We will record and store information regarding the size and name of all User Files that you make available via these Products. 
 
-When you purchase products from WinZip's eStore or directly from WinZip's customer service department, WinZip will use your information to process payment and ship the product to you.
+##### Data we process only if you submit it to us:
 
-**Newsletters**
+When you interact with us on our Sites or using our Products, you can submit Personal Data to us in various situations, including:
 
-We may use your personal information to send you newsletters that provide you with articles and information that we believe may be of interest to you.
+**Account Data:** On some of our Sites ("Interactive Sites"), you can register for an account with your e-mail address and a password you create. If you register one of our Products, you will automatically create an account you can use to manage your licensed Products and communication settings, including making updates to your Personal Data. On Interactive Sites, you can create a profile, which may include your Personal Data. We will store your account data for you to be able to communicate with others on our interactive Sites. Some of our Interactive Sites offer publicly accessible blogs or forums. Any information you provide in these areas may be read, collected, and used by others who access them with a registered account as well as anyone surfing the community pages as an unregistered user. 
 
-**Information About WinZip Products**
+**Transaction Data:** In relation to purchases you may make online or over the telephone, we will process your contact and billing information, such as your name, address, and credit card information. You can view the exact information required in the form provided at point of purchase. We will only use this data to complete your order, for billing purposes, and for internal accounting.
 
-It is important for us to receive feedback from our customers about our products and any features they would like to see in future products. As such, we may use your personal information to contact you about our products and to inform you of upgrades, promotions and new products that may be of interest to you.
+**Customer Support Data:** You can communicate with us through the different web-forms and chat functionalities on our Sites. For example, you can use the contact forms to request technical assistance, request information on the status of your order, or otherwise reach out to our customer support team. In order to respond to your request, we will process your IP address and contact data as well as the contents of your request. We will delete this data as soon as we have complied with your request.
 
-**Internal Analysis**
+**Survey Data:** From time to time we may conduct surveys in respect of our products and services. Participation in our surveys is optional. However, if you respond to one of our surveys, you may provide us with personal information about you. Unless you otherwise consent, we will only use this information to determine the types of Products that may be of interest to you and to operate and improve our Product offerings.
 
-We may use the information you provide us with for our own internal statistical and analytical purposes, to evaluate and enhance users' experience of the Site by identifying customer preferences and purchasing trends that we may use for marketing purposes and in respect of operations and development.
+**Email/Direct Mail Campaign Data:** From time to time, we may contact our customers directly by mail, email, or telephone to inform you about upgrades, new products, promotions, or special offers that you told us you were interested in receiving (including our newsletters). However, we will not contact you with any commercial communications that are unrelated to the Products that you have purchased from us unless you have given us your prior consent to receiving such information. When responding to one of these campaigns, you may have the option to provide us with personal information, which we will use for the purpose indicated. See Section 5 below for information on how to change your account’s communication preferences.
 
-**Updating information**
+**Special Collaborative Programs:** We may collaborate with another company to provide you with a unique product or service (a "Collaborative Program"). Our use of your Personal Data is limited to the specific Collaborative Program that you have joined or elected to use and we will disclose to you the specific Personal Data we will share and for what purpose before sharing with our collaboration partner.
 
-We may contact you to ensure that the information we have in our records is still correct, to add additional information or to communicate with you about an outstanding transaction.
+**Applicant Data:** If you would like to apply for employment with Corel, you can apply online at <https://www.corel.com/>, on our Careers page. We will process your application data solely for the purpose of responding to your application. Your data will be deleted within two years after finalizing your application unless you give us your explicit consent to keep your application on file to contact you with further job offers in the future.
 
-**Special Collaborative Programs**
+**Business Contact or Sales Prospect Data:** If you are a business contact or sales prospect that has provided us your Personal Data, we will store your data in our database so that we can follow up on previous business conversations we’ve had with you, provide you additional information about our Products, or assist you in purchasing our Products. We may also share your Personal Data with sales representatives employed with our local affiliates or resellers so that they can work with you to complete any requested purchase of our Products.
 
-We may collaborate with another company to provide you with a unique product or service (a "Collaborative Program"). The use of your information by WinZip and its collaborators is limited to the specific Collaborative Program that you have joined or elected to use. By using a Collaborative Program, you have given WinZip and the collaborating company permission to collect information and provide you with updates, promotions and new Collaborative Program product or service information relating only to the Collaborative Program. To the extent personal information is collected by a third-party collaborator, we will use reasonable commercial efforts to advise you of this fact, and all information collected by such collaborator will be governed by the collaborator's privacy policy.
+## 2\. Sharing Personal Data with Third Parties
 
-## 3\. AUTOMATICALLY COLLECTED INFORMATION
+We treat your Personal Data with care and confidentially and will only pass it on to third parties to the extent described below and not beyond. We do not share, sell, rent, or trade Personal Data with third parties for any promotional purposes. Where our affiliates, resellers, or service providers process Personal Data, they will do so solely on our instructions and have undertaken to comply with strict contractual requirements for the security of your data (including, but not limited to, complying with this Privacy Statement).
 
-Whenever you enter our website or access any on-line information through a WinZip product, our web server automatically collects and aggregates information ("Automatic Information") in respect of your visit. Automatic Information may include URLs or domains of referring websites, browser type, operating system, the pages that you access and the date and time of your visit. Automatic Information collected by WinZip is used for statistical and marketing purposes.
+**Affiliated Companies:** Corel is a global company, with subsidiaries worldwide, including in the USA, Germany, the UK, Japan, China, and Taiwan. We share data with our subsidiaries in the ordinary course of our business. For example, if one of our resellers makes contact with you on our behalf, this data will be shared with the relevant Corel subsidiary, such as Corel GmbH in Germany. For an overview of our affiliates, you can refer to the Contact Us page at <https://www.corel.com/en/contact-us/> to view the mailing addresses of our local affiliates.
 
-We use Automatic Information to help us improve our understanding of our users and their preferences. We also use it to assist us in arranging relevant advertising, commercial opportunities and competitions. Automatic Information we collect also helps us to develop our website and audit its use. Furthermore, WinZip may share Automatic Information with its co-branding partners in order to improve the content, banners and promotions that you and other users will see on our websites and in our products.
+**Service Providers:** Corel transmits data to service providers that enable us to provide our Site and market, sell, and deliver our Products. This includes the parties providing our third-party cookies and tracking tools, as well as parties providing us with services to assist us in processing transactions, including credit card transactions, handling shipping and processing of orders, providing customer support, managing customer relationships (like Saleforce.com), hosting the Sites (like Amazon Web Services), collecting, storing, or removing your information, or performing statistical analysis of our Sites (such as Google). We occasionally also share Personal Data with independent auditors acting on our behalf, for anti-piracy or revenue accounting purposes in connection with the internal operations of our business. We sometimes need to share your information with these companies in order for them to provide the applicable services.
 
-## 4\. USER FILES 
+**Business Transactions:**  In the event Corel goes through a business transaction such as a merger, an acquisition by another company, or a sale of all or a portion of its assets to which this Privacy Statement relates, your information will likely be among the assets transferred and, in such case, you will be notified in advance via email and/or a prominent notice on our Sites of such change in ownership or a change in the use of your Personal Data, as well as any choices you may have regarding your Personal Data (including, if applicable, your right to object to such transfer).
 
-In addition, certain of our products may allow you to store, send, receive, edit, sync, share, or otherwise organize or manage files and folders (including any information or data stored in those folders) ("User Files"). We may record and store information regarding the size and name of all User Files that you make available via these products. Because the names of the User Files you submit are not treated as personal information, we recommend that you do not include any non-public personal information to describe User Files that you make available via these products and services.
+**Public Authorities:** Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law, such as when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or litigation or other legal process or action (whether or not initiated by Corel) to protect Corel's, our users' or third parties' rights, property or safety. We will transmit data to public authorities such as law enforcement or tax authorities only in the case of a legal obligation to do so based on a request for information from the respective authority.
 
-## 5\. FACEBOOK CONNECT 
+**Promotional Offers:** As a registered Corel customer, you have the opportunity to receive news and special offers from Corel regarding our Products or the products of third parties who we think may offer products or services that would be of interest to you.
 
-WinZip offers Facebook users the opportunity to interact with their friends and share information on Facebook using Facebook Connect. If you elect to link your account with us with your Facebook account, you grant us permission to post information to your Facebook account and to access your Facebook profile information, and to use this information in accordance with this privacy policy. Please refer to Facebook's privacy policy for information concerning how Facebook handles your personal information and to the privacy settings in your Facebook account to manage your preferences relating to your Facebook account.
+## 3\. Timeframe for Keeping Data
 
-## 6\. SHARING OF INFORMATION WITH THIRD PARTIES
+We process and store your Personal Data as long as necessary for the fulfillment of our contractual or legal obligations. Thus, we store the data as long as our contractual relationship with you as our customer obliges us to do so. After termination of our contract, we will store Personal Data only to the extent and for as long as applicable law requires. All other data will be deleted immediately when you, as a customer, unsubscribe from our Products or other services. If the remaining data is no longer required for the fulfillment of legal obligations, it will be regularly deleted, unless its further processing is necessary for the preservation of evidence or the prevention of legal claims from becoming time-barred.
 
-Except as specifically described in Section 2, this Section 6, Section 7 and Section 16, WinZip will not share any personal information with third parties without obtaining your consent (e.g. through an option via your user account).
+## 4\. Reviewing and Requesting Changes to Your Information
 
-**Affiliates and Subsidiaries**
+**EU users: please refer to Section 6 below for your statutory rights under the GDPR**
 
-We may share the information that you have provided to us with subsidiaries and affiliated companies of Corel Corporation who are required to comply with the terms of this policy.
+Upon request, Corel will make a reasonable effort to inform you regarding whether we hold any of your personal information. Customers may update, delete, access, or change their account information by editing their user, group, or team records. To update a customer profile, login to your account at <https://www.corel.com/> and click on "My Account", or email us a [privacy@corel.com](mailto:privacy@corel.com?subject=Privacy%20help "Get privacy help"). We will respond to any requests for access to personal information within 30 days after receipt of such request.
 
-**Internal Operations**
+To update customer billing information, contact Accounts Receivable [corelar@iqbackoffice.com](mailto:corelar@iqbackoffice.com?subject=Update%20customer%20billing%20information "Update customer billing information") for assistance.
 
-We may also share information that you have provided to us with independent auditors, acting on our behalf, for anti-piracy and revenue accounting purposes in connection with the internal operations of our business, provided that such companies comply with the terms of this policy.
+If you have signed up to receive marketing emails from Corel, you can opt-out of receiving future marketing emails by following the foregoing process. Customers cannot opt-out of receiving all transactional emails related to their Corel account, but may change their account settings (as described above) to reduce the frequency or eliminate certain Corel notification emails.
 
-**Promotional Offers**
+## 5\. Information for EU Residents:
 
-As a registered WinZip customer, you have the opportunity to receive news and special offers from WinZip and certain third parties who we think may offer products or services that would be of interest to you. If you have provided us with consent we may send you applicable news and special offers and share your personal information with these third parties so that they may send you information about their products and services directly.
+The data controller is Corel Corporation, 1600 Carling Avenue Ottawa ON K1Z 8R7, Canada. Our representative in the EU is Corel GmbH, Erika-Mann-Str. 53/Haus Nr. 7, 80636 Munich, Germany. Privacy-related questions can be directed to [privacy@corel.com](mailto:privacy@corel.com?subject=Privacy%20help "Get privacy help").
 
-**Service Providers**
+You are not legally required to provide Corel with the Personal Data described in this Privacy Statement. Further, the contractual relationship that you might have entered into with us by purchasing our Products does not imply any obligation to provide your Personal Data. However, you might not be able to use our Service to the full extent if you do not provide us with certain data or object to the use of these data. 
 
-We occasionally hire other companies to provide services on our behalf, such as processing transactions, including credit card transactions, handling the processing and delivery or mailings, providing customer support, hosting websites, collecting, storing or removing your information, or performing statistical analysis of our products or services. We sometimes need to share your information with these other companies in order for them to provide the applicable services. These companies are only provided with the information that is necessary for them to provide the services and they are not authorized by us to use your information for any purpose other than delivering the services that have been requested by WinZip in accordance with WinZip's instructions and policies.
+##### Our Legal Basis for Processing
 
-## 7\. LEGAL DISCLOSURE
+When processing your Personal Data, we rely on the General Data Protection Regulation ("GDPR"), an EU-wide legal framework for the standardization of data protection. Corel primarily processes data as a controller, for the purposes explained above under Sections 1 and 2 of this Privacy Statement. These purposes represent our legitimate interests for the purposes of Article 6 (1) f) GDPR. At the same time, some of the Personal Data we process is necessary for us to perform a contract with you or in order to take steps at your request prior to entering into a contract with you. For example, if you express your interest in purchasing one of our Products, such as by filling out a webform, we will process the Personal Data submitted to comply with your request. This may include sharing your Personal Data with one of our authorized resellers, who will then use your Personal Data to complete the purchase transaction. In addition, we are legally obliged to provide certain information to criminal prosecution or tax authorities in individual cases upon request. In these cases, the legal basis for the processing is either legal requirements (Article 6 (1) c) GDPR) or reasons of public interest (Article 6 (1) e) GDPR).
 
-Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or other legal process or to protect WinZip's, our users' or third parties' rights, property or safety.
+##### Transferring your Data outside the EU or the EEA
 
-## 8\. SECURITY
+Corel’s principal place of business is in Canada, which is a " **Third Country** " under the GDPR. Third Countries are generally not considered to afford the same level of protection that you enjoy in the EU, but Corel still provides an adequate level of protection for your Personal Data \- decision 2002/2/EC of the EU Commission states that Canada is deemed to provide an adequate level of data protection regarding commercial organizations such as Corel.
 
-We maintain reasonable physical, electronic and procedural safeguards to protect your personal information. While no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your personal information.
+We have ensured that our service providers and affiliates have either certified under the EU-U.S. Privacy Shield Framework and will process all Personal Data received from EU member states in reliance on the Privacy Shield Framework or that they have been subjected to strict contractual provisions in their contract with us to guarantee that an adequate level of data protection for your data is guaranteed.
 
-## 9\. ENCRYPTION
+##### User Profiles
 
-Orders received by the WinZip eStore (including credit card information) are encrypted using the Secure Sockets Layer (SSL) Protocol for browsers that supports 128 bit encryption.
+We use your data for "Profiling". This means that we use your data to make tailored offers based on your previous behavior as well as to serve you personalized ads. However, we will never process and analyze your Personal Data in the context of Profiling in a way would lead to an automated decision that has a legal effect on you or significantly impairs you in a similar way.
 
-## 10\. COOKIES
+##### Your rights regarding the processing of your Personal Data
 
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are and other details. Cookies may be set by a website or originate with third parties, such as advertisers. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie). A cookie is simply an identifier used by the website that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, track, or regulate the use of a site based on information stored on the host server.
+As a natural person, you have certain rights as "Data Subject". You can assert the following rights against us under the GDPR:
 
-We may make use of cookies on our website. We use cookies to allow us to automate the access and the data entry functions of our website and to correlate online ordering information for purchases you may make while at the website (if any), tailor our website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of our website to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update our website effectively. Approved advertising partners or other online services collaborators from Collaborative Programs may use their own cookies.
+Your right to information and access under Article 15 GDPR,   
+Your right to correction under Article 16 GDPR,   
+Your right to erasure under Article 17 GDPR,   
+Your right to restriction of processing under Article 18 GDPR, and   
+Your right to data transferability under Article 20 GDPR.
 
-Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the website if cookies are disabled.
+In addition, you have a right of objection to the competent data protection supervisory authority under Article 77 GDPR, but only with respect to the data processing we conduct on our own behalf, as a controller. In the event Corel acts as a processor of your data for a third party, you must refer to the entity acting as controller to assert this right.
 
-For more information on how to disable cookies you should consult the documentation or instructions that accompanied your web browser or by visiting the Federal Trade Commission's website at <http://www.ftc.gov/ftc/cookies.shtm>.
+  
 
-We do not use flash cookies.
 
-## 11\. LINKS
+**Information about your Right of Objection under Article 21 GDPR**
 
-We may offer links from our website to other websites (which may be hosted by third parties that we choose to offer co-branded products with or by unrelated companies) which we think may be of interest to you. Third party websites are not governed by this privacy policy and WinZip makes no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit to determine its practices.
+1\. Right of objection in individual cases 
 
-## 12\. CHAT ROOMS, NEWSGROUPS, BLOGS AND OTHER INTERACTIVE LOCATIONS
+In addition to the rights already mentioned, you have the right, for reasons arising from your particular situation, to object at any time to the processing of Personal Data relating to you, which is processed on the basis of Article 6 (1) e) GDPR (data processing in the public interest) and Article 6 (1) f) GDPR (data processing on the basis of a balance of interests); this also applies to profiling based on this provision within the meaning of Article 4 (4) GDPR. If you file an objection, we will no longer process your Personal Data unless we can prove compelling grounds for the processing that outweigh your interests, rights and freedoms or the processing serves to assert, exercise, or defend legal claims. Please also note that, if we terminate the processing due to your objection, the Sites or Products may no longer be available to you or only to a limited extent.
 
-WinZip's website may have chat rooms, newsgroups, blogs, or other forums that permit individuals to interact online. Some of these forums may allow you to post a profile picture, share your gender and age and display your user name or real name (if you choose to display it). Any information you post in online forums will be made public and WinZip cannot control nor is it responsible for the use any third parties may make of this information.
+2\. The right to object to the processing of data for advertising purposes
 
-## 13\. CHILDREN
+You also have the right to object at any time to the processing of your Personal Data for the purpose of direct marketing, including any subscription to our newsletters or personalized ads; this also applies to Profiling, insofar as it is associated with such direct marketing. If you object, we will no longer process your Personal Data in the future.
 
-WinZip's website is a general audience site that is neither designed nor intended to collect personal information from children who are under the age of 13. WinZip does not sell products for purchase by children. We sell children's products for purchase by adults. We do not knowingly request personal information from anyone under the age of 13 without verifiable parental consent. To ensure compliance with the Children's Online Privacy Protection Act, children under the age of 13 should not access this site or provide any personal information to this site. We encourage parents and guardians to supervise and join their children in exploring the Internet and to help us protect their privacy by instructing them not to provide personal information over the Internet without parental permission. Parents should additionally be aware of a growing variety of software capable of filtering online information to reflect their own choices and guidelines. If we become aware that a user is under the age of 13 and has provided personal information to us without prior verifiable parental consent, we will remove such personal information from our records.
+The objections can be made form-free and should be addressed to: [privacy@corel.com](mailto:privacy@corel.com?subject=Privacy%20help "Get privacy help")
 
-## 14\. ACCESS, MODIFICATION AND ACCURACY OF INFORMATION
+  
 
-We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your personal information, to verify its accuracy, and to correct inaccurate information.
 
-If you do not want to be contacted for product, service or marketing initiatives, or if you would like to be removed from any direct marketing initiatives, corporate surveys, telemarketing or direct mail or e-mail lists, or if you would otherwise like to limit our use or disclosure of your personal information, please contact us at [help@winzip.com](mailto:help@winzip.com) or [click here](http://www.winzip.com/win/en/mailchange.htm).
+## 6\. Collecting Information from Children
 
-Some of our products display dynamic on-line communications (for example, through a message center), and you may elect not to receive these communications (e.g. such as product updates) by altering your message preferences in the specific product. However, any alterations you make to these product-specific message preferences will not change your general user preferences with regard to the collection and use of your personal information by WinZip. Alternatively, altering your general user preferences with regard to the collection and use of your personal information by WinZip will not change your product-specific message preferences.
+Corel’s Sites are not intended for use by children under the age of 18 and we do not intentionally collect any information from users under the age of 18. If a parent or guardian becomes aware that their child has provided Corel with Personal Data or that we have otherwise inadvertently collected this information, contact us at [privacy@corel.com](mailto:privacy@corel.com?subject=Privacy%20help "Get privacy help"), so that we may immediately delete the information from our servers.
 
-## 15\. RETENTION AND STORAGE OF INFORMATION
+## 7\. Changes
 
-We will not retain your information for longer than is necessary for us to use it for the purposes for which it has been collected, unless otherwise required by law or because of pending litigation. When information is no longer required, we will ensure that all such data is removed from our database. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Corel reserves the right to change this Privacy Statement. We will provide notification of the material changes to this Privacy Statement through our Sites at least 30 days prior to the change taking effect.
 
-As noted above in Section 6, we may use the services of third party companies to physically collect, store or remove your information on our behalf. Any such companies will have to comply with the terms of this policy.
-
-## 16\. BUSINESS TRANSFERS
-
-The information that is collected by WinZip is considered to be an asset. In the event that WinZip, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. If so, the acquiring company may only use your information in ways consistent with this privacy policy (or any subsequent policy in effect at the time information is collected from you). We note that information submitted or collected after a transfer may be subject to a new privacy policy adopted by the successor company.
-
-## 17\. YOUR CALIFORNIA PRIVACY RIGHTS
-
-If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if a company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
-
-WinZip qualifies for the alternative option; it provides you with details on how you may either opt-out or opt-in to the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year.
-
-## 18\. INTERNATIONAL TRANSFER
-
-Your information may be transferred to and stored on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside of Canada and choose to provide information to us, you should be aware that WinZip may transfer your personal information to Canada and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to such transfer.
-
-## 19\. CHANGES TO PRIVACY POLICY
-
-We are always looking for ways to improve our business and our practices. Consequently, our policies will continue to evolve. As such, WinZip reserves the right to alter this privacy policy from time to time. Changes to this policy will be posted to our WinZip.com website. We encourage you to visit our privacy page from time to time to view our most current privacy policy. If we make material changes to this privacy policy that expand our rights to use your personal information, we will notify you and seek your consent through email or a prominent posting on our website.
-
-## 20\. CONTACT US
-
-Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [help@winzip.com](mailto:help@winzip.com).
-
-WinZip offers you other methods to opt out of receiving communications generated by WinZip. For example, you may "unsubscribe" from emails by following the process listed in the email to unsubscribe. If you prefer not to receive email from WinZip, or if you've changed your email address, [click here](http://www.winzip.com/win/en/mailchange.htm).
-
-Last Updated: August 2011
+Last Updated: May 2018
