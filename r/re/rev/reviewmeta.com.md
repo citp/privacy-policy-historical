@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515132050id_/https%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711151340id_/https%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviewMeta Blog
 
 _April 28th, 2016_
 
-This Site is operated by Consumer Truth, Inc. (“Consumer Truth”). This Privacy Policy explains how this Site treats “personal information” that we gather from visitors and how we use it. Please, also read our Terms of Use for better understanding of Privacy Policy.
+This Site is operated by ReviewMeta.com (“ReviewMeta.com”). This Privacy Policy explains how this Site treats “personal information” that we gather from visitors and how we use it. Please, also read our Terms of Use for better understanding of Privacy Policy.
 
 “Personal Information” is information that is personally identifiable like a name, e-mail address, or other information that we can reasonably link to such information.
 
@@ -32,7 +32,7 @@ This Site is operated by Consumer Truth, Inc. (“Consumer Truth”). This Priva
   4. _Security Measures_. Our web hosting company uses industry-standard encryption technologies when transferring and receiving consumer information exchanged with our Site. Our web hosting company has security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our Site. Although we believe that our web hosting company provides appropriate security measures, we are not responsible for the practices, actions or inactions of that company.
   5. _Changes to this Policy_. We reserve the right to change this Privacy Policy at any time, and without advance warning, by updating this page. You are bound by all such revisions and should, therefore, review the Privacy Policy every time you visit this Site.
   6. _Terms of Use_. Nothing herein waives, limits or in any way modifies our Terms of Use. This Site is not directed to, nor does it knowingly collect any personal information from children under 18. If a child who we know to be under age 18 sends personal information to us online, we will only use that information to respond directly to that child, notify parents or seek parental consent.
-  7. _Opt Out Rights_. By using this website you agree to the terms of this Privacy Policy and collection and use of your personal information by Consumer Truth as specified above. If at any time after visiting the Site, you change your mind about receiving information from the Site or sharing your personal information as described in this Privacy Policy, you may request an opt out, by contacting us at: ReviewMeta.com@Gmail.com.
+  7. _Opt Out Rights_. By using this website you agree to the terms of this Privacy Policy and collection and use of your personal information byReviewMeta.com as specified above. If at any time after visiting the Site, you change your mind about receiving information from the Site or sharing your personal information as described in this Privacy Policy, you may request an opt out, by contacting us at: ReviewMeta.com@Gmail.com.
 
 
 
