@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogactionday.org privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316233411id_/http%3A//www.blogactionday.org/about-us/privacy-and-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogactionday.org privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711103743id_/http%3A//www.blogactionday.org/about-us/privacy-and-data-policy) for the most accurate reproduction.*
 
 # Privacy and Data Policy | Blog Action Day 2015 - Raise Your Voice Oct 16, 2015
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. This policy was last updated on September 26, 2015.
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
 Our website uses cookies.  We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. / By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
@@ -16,11 +16,11 @@ We may collect, store and use the following kinds of personal information:
 
 (a)     information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page viewsan website navigation)
 
-(b)     information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services, and giving your permission to share & promote your content.
+(b)     information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services )
 
-(c)     information that you provide to us for the purpose of taking part in Blog Action Day and it’s related activities through the year  by CoreLab who runs it. This could include but is not exclusive to (name, email, your website details, country and city)
+(c)    [/to-kill-a-mockingbird-essay/](https://sigmaessays.com/to-kill-a-mockingbird-essay/) information that you provide to us for the purpose of registering with us (including name, email, your website details, country and city)
 
-(d)    information that you provide to us for the purpose of subscribing to our website services, email updates and other communications (including name, email, country, preferred language)
+[(d)    information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including name, email, country, lpreferred language)
 
 (e)     any other information that you choose to send to us; and
 
@@ -32,15 +32,15 @@ We may use both “session” cookies and “persistent” cookies on the websit
 
 We will use the session cookies to: keep track of you whilst you navigate the website; keep track of items in your shopping basket; prevent fraud and increase website security; We will use the persistent cookies to: enable our website to recognise you when you visit; keep track of your preferences in relation to the use of our website.
 
-We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>
+We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’[how to start a narrative essay examples](https://chiefessays.net/how-to-start-a-narrative-essay/) computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>
 
-Our advertisers may also send you cookies.
+Our [advertisers/CRM provider] may also send you cookies.
 
 Our advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website.
 
-We publish Google Adsense interest-based advertisements on our website.  These are tailored by Google to reflect your interests.  To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie.  You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>.  You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy/ads/> or using the NAI’s (Network Advertising Initiative’s) multi-cookie opt-out mechanism at: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)  However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>.
+We publish Google Adsense interest-based advertisements on our website.  These are tailored by Google to reflect your interests.  To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie.  You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: http://www.google.com/ads/preferences/.  You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy/ads/ or using the NAI’s (Network Advertising Initiative’s) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp.  However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites[, including this one
 
 (4)      Using your personal information
 
@@ -58,27 +58,27 @@ We may use your personal information to:
 
 (f)      send you general (non-marketing) commercial communications;
 
-(g)     send you email notifications which you have specifically requested or opted-in to receive
+(g)     send you email notifications which you have specifically requested’
 
-(h)     send to you [our newsletter and other] marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer wish to receive marketing communications by unsubscribing from the email communications yourself, via the link that is on every email communication, or contacting us directly via the website. If you [contact us via the website,](http://dev-blog-action-day.pantheon.io/about-us/contact-us/) please allow 30 days for your request to be processed.)
+(h)     send to you [our newsletter and other] marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)
 
-(i)      provide third parties with statistical information via Google Analytics about the use of our website  –  this information will not be used to identify any individual user;
+(i)      provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
 (j)      deal with enquiries and complaints made by or about you relating to the website;
 
 (k)     keep the website secure and prevent fraud;
 
-(l)      _to list your provided details of Blog Name, website URL, Country and  area of interest on the participants section of the website from the information that you have provided. If you no longer not wish to have your information  public please [contact us ](http://dev-blog-action-day.pantheon.io/about-us/contact-us/)  Please allow 30 days to action this request. _
+(l)      _to list your provided details of Blog Name, link and country on the participants section of the website. If you do not wish to have your information made public please inform us at info@blogactionday.org_
 
-(m) where you submit personal information for publication on our website, we will publish and o use that information in accordance with the licence you grant to us.
+Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
-(n) we will not provide your personal information to any third parties for the purpose of direct marketing, unless you have indicated that you agree to this.
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing
 
 **(5)      Disclosures**
 
 We may disclose information about you to [any of our employees, officers, agents, suppliers or subcontractors] insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-Under the the following situations, we may disclose your personal information:
+In addition, we may disclose your personal information:
 
 (a)     to the extent that we are required to do so by law;
 
@@ -86,11 +86,11 @@ Under the the following situations, we may disclose your personal information:
 
 (c)     in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk)
 
-(d)     to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling;
+(d)     to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; an
 
 (e)     to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
-Except as provided in this privacy policy, we will not provide your information to third parties apart from Voice Blogging Network and CoreLab who run Blog Action Day.
+Except as provided in this privacy policy, we will not provide your information to third parties apart from Voice Blogging Network, who run Blog Action Day.
 
 **(6)       International data transfers**
 
@@ -106,7 +106,7 @@ You expressly agree to such transfers of personal information.
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-We store all the personal information you provide on our secure (password- and firewall- protected) servers. Via our technology partner Engaging Networks, Known andThe Action Network. You can find out more about their polices here <http://www.engagingnetworks.net/company/policies>, <https://withknown.com/privacy/>[ ](https://withknown.com/privacy/)and [https://actionnetwork.org/privacy ](https://actionnetwork.org/privacy) All electronic transactions you make to or receive from us will be encrypted [using SSL technology] 
+We store all the personal information you provide on our secure (password- and firewall- protected) servers. Via our technology partner Engaging Networks. You can find out more about their polices here <http://www.engagingnetworks.net/company/policies> All electronic transactions you make to or receive from us will be encrypted [using SSL technology
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
@@ -128,20 +128,20 @@ You may instruct us to provide you with any personal information we hold about y
 
 We may withhold such personal information to the extent permitted by law.
 
-You may instruct us not to process your personal information for marketing purposes, by [contacting us](http://dev-blog-action-day.pantheon.io/about-us/contact-us/) or unsubscribing from any  marketing email we send you by the link provided within the email.  In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+You may instruct us not to process your personal information for marketing purposes, by sending an email to us at [contact@blogactionday.org](mailto:contact@blogactionday.org) or unsubscribing from any  marketing email we send you by the link provided within the email.  In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
 **(10)     Third party websites**
 
-The website contains links to other websites. We are not responsible for the privacy policies , content, views or practices of third party websites.
+The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
 **(11)     Updating information**
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated by [contacting us.](http://dev-blog-action-day.pantheon.io/about-us/contact-us/)
+Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
 **(12)    Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please [contact us](http://dev-blog-action-day.pantheon.io/about-us/contact-us/). Pleas allow 30 days for a response.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@blogactionday.org](mailto:contact@blogactionday.org)
 
 **(13)     Data controller**
 
-The data controller responsible in respect of the information collected on this website is _Blog Action/Voice Blogging Project._
+The data controller responsible in respect of the information collected on this website is _Blog Action/Voice Blogging Project_
