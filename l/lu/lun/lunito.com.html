@@ -1,4 +1,333 @@
-<!--The following is the downloaded HTML source of the lunito.com privacy policy that was archived on 2017-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170921003850id_/http%3A//www.lunito.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lunito.com privacy policy that was archived on 2018-07-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180711150006id_/http%3A//www.lunito.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"5506295","agent":"","applicationTime":6,"errorBeacon":"bam.nr-data.net","transactionName":"ZgBRZkIFVhBRB01aXV9KdUdeB0wKXwoWQ1taCl9bXkpZE0AXF1RTXABAHEYNXRRDXklBW0cEUEtvFFcPWQdA","beacon":"bam.nr-data.net","queueTime":5,"licenseKey":"1355deedd2"}</script><meta name="robots" content="noindex"></head><body><div><div><h1><strong>Privacy POLICY</strong></h1><p>We use technologies like cookies (small files stored by your browser), web beacons, or unique device   identifiers to anonymously identify your computer or device so we can deliver a better experience. Oursystems also log information like your browser, operating system and IP address.</p><h3></h3><p>Our games do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number or email address.</p><h3></h3><p>Ad companies may use and collect anonymous data about your interests to customize content and  advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity.</p><h3></h3><p>Analytics companies may access anonymous data (such as your IP address or device ID) to help usunderstand how our services are used. They use this data solely on our behalf. They do not share itexcept in aggregate form; no data is shared as to any individual user. Click to see company privacypolicies that govern their use of data.</p><h3></h3><p>To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faithbelief it is required by law, (3) when we have a good faith belief it is necessary to protect our  rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation,  dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we   will attempt to notify you, to the extent permitted by law to do so.</p><h3></h3><p>This privacy policy was last updated on 01/06/2016. Our privacy policy may change from time to time. You may wish to revisit it regularly.</p></div><div class="list-right"></div><div class="list-left"></div><div class="clear"></div><div class="bottom-content"></div></div></body></html>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+<script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://game.gamemonkey.org/static/main.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d70c02ccfe","applicationID":"34083207","transactionName":"cFldEBBdCAkESx9AFVJCWgdNQhYMF1hTSg==","queueTime":8,"applicationTime":23,"ttGuid":"","agentToken":null,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ4GUlRACwcAXFJQBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+  <title>Privacy Policy | kizi.com</title>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+  <link href="http://fonts.googleapis.com/css?family=Nunito:300" rel="stylesheet" type="text/css">
+  <link href="http://cdn0.kizi.com/assets/application-fb19915933a7efbe12977934eb27e776.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://cdn0.kizi.com/assets/locale_en-d4cd756317f68ca510eccf63d8786320.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://cdn0.kizi.com/assets/new_about-9344944f672855f628234f8b50dd3b9e.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://cdn0.kizi.com/assets/blueimp-gallery.min-45af9fb04a5ccd35e8bceff8b45b2c0d.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="http://cdn1.kizi.com/assets/application-3f59d820f82e265d1c253614f6379036.js" type="text/javascript"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="http://cdn1.kizi.com/assets/common/kizi_icon-c0aeec9688cb796dbc0d0966b1019945.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+  
+<script type="text/javascript">
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  var page_id = "";
+
+ ga('create', 'UA-21161719-1', 'auto');
+
+ // trying to init userid for pageview from the cookie (if exists)
+ (function(){
+     var lcl = readCookie('brzcrz_local');
+     if (lcl) {
+         ga('set', 'userId', lcl);
+         ga('set', 'dimension13', lcl);
+     }
+ })();
+
+// special custom dimensions for game page
+if (window.game_name){
+    ga('set', 'dimension14', window.game_name);
+    ga('set', 'dimension15', window.categories);
+}
+
+
+
+ // we add pageviews dimensions for every page
+ // for test how analytics works
+ ga('set', 'dimension3',  '');
+ ga('set', 'dimension4',  '');
+ ga('set', 'dimension10',  '');
+ ga('set', 'dimension11',  '');
+ ga('set', 'dimension12',  '');
+
+
+ //user registration
+ ga('set', 'dimension6',  'guest');
+ ga('send', 'pageview');
+
+
+ // different ga events
+ // because dom is not loaded yet we deffer click events registration
+ $(document).on('click', '#envelope', {target: 'Notifications'}, sendAnalyticsEvent);
+ $(document).on('click', '#last_played_button', {target: 'Last Played'}, sendAnalyticsEvent);
+ $(document).on('click', '#coins_container, #get_coins_homepage', {target: 'Coins in toolbar'}, sendAnalyticsEvent);
+ $(document).on('click', '.add_friend_button', {target: 'Coins Offer Join'}, sendAnalyticsEventCoinsOffer);
+
+ function sendAnalyticsEvent(e) {
+   var target = e.data.target;
+   ga('send', {
+     hitType: 'event',
+     eventCategory: 'Top bar',
+     eventAction: target + ' clicked'
+   });
+   sendSplunkEvent('TopBarClickEvent', {user_clicked: target});
+}
+ function sendAnalyticsEventCoinsOffer(e) {
+   var target = e.data.target;
+   ga('send', {
+     hitType: 'event',
+     eventCategory: 'Coins Offer',
+     eventAction: 'Clicked'
+   });
+   sendSplunkEvent('CoinsOfferClickEvent', {user_clicked: target});
+ }
+
+</script>
+<!-- User ID tracking integration -->
+<script type="text/javascript">
+    var DS_OPTIONS = {
+        id: 'kizi.com',
+        success: function(id) {
+            ga('set', 'userId', id);
+            ga('set', 'dimension13', id);
+        }
+    };
+
+    (function(window, document, element, source) {
+        var ds = document.createElement(element),
+                m = document.getElementsByTagName(element)[0];
+        ds.type = 'text/javascript';
+        ds.async = true;
+        ds.src = source;
+        m.parentNode.insertBefore(ds, m)
+    })(window, document, 'script', 'https://game.gamemonkey.org/static/main.min.js');
+</script>
+
+  <script>
+   // Hotjar Tracking Code for funtomic.com 
+   (function(h,o,t,j,a,r){
+     h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+     h._hjSettings={hjid:113461,hjsv:5};
+     a=o.getElementsByTagName('head')[0];
+     r=o.createElement('script');r.async=1;
+     r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+     a.appendChild(r);
+   })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+  </script><script async="" src="//static.hotjar.com/c/hotjar-113461.js?sv=5"></script>
+</head>
+<body>
+
+<div id="content">
+
+  <!-- Image Gallery (https://github.com/blueimp/Gallery) lightbox, should be a child element of the document body -->
+  <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <!-- The container for the modal slides -->
+    <div class="slides"></div>
+    <!-- Controls for the borderless lightbox -->
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+  </div>
+
+  <div id="about_content_container">
+    <!--<= render :partial => "static/about_header_menu.html.erb" %>-->
+
+    <div class="app-bar-bg"></div>
+    <header class="app-bar">
+      <a href="/"><div class="app-bar-logo"></div></a>
+      <button class="menu">
+        <img class="menu-icon" src="http://cdn0.kizi.com/assets/new_about/mobile_top_menu-0854580c255c3d2fca733fdbee3bf06e.png">
+        <img class="close-icon" src="http://cdn0.kizi.com/assets/new_about/mobile_top_menu_close-1c8d32a147b9affdfe52b5822cac7d8f.png">
+      </button>
+    </header>
+    <nav class="navdrawer-container">
+      <a href="/"><div class="logo"></div></a>
+      <ul>
+        <li><a href="/"><div class="home"></div>Home</a></li>
+        <li><a href="/about"><div class="about"></div>About</a></li>
+        <li><a href="/advertisers"><div class="advertisers"></div>Advertisers</a></li>
+        <li><a href="/developers"><div class="developers"></div>Developers</a></li>
+        <li><a href="/contact"><div class="contact"></div>Contact</a></li>
+        <li><a href="/privacy" class="active"><div class="privacy"></div>Privacy</a></li>
+      </ul>
+    </nav>
+
+    <div class="navdrawer-bg"></div>
+
+    <script>
+        var navdrawerContainer = $('.navdrawer-container');
+        var appbarElement = $('.app-bar');
+        var darkbgElement = $('.navdrawer-bg');
+        var body = $('body');
+
+        var menuBtn = $('.menu');
+        menuBtn.click(function() {
+            var isOpen = navdrawerContainer.hasClass('open');
+            if(isOpen) {
+                appbarElement.removeClass('open');
+                navdrawerContainer.removeClass('open');
+                darkbgElement.removeClass('open');
+                body.removeClass('open');
+            } else {
+                appbarElement.addClass('open');
+                navdrawerContainer.addClass('open');
+                darkbgElement.addClass('open');
+                body.addClass('open');
+            }
+        });
+    </script>
+
+    
+
+<div class="content_with_padding">
+
+  <div class="very_large_title left_spacing"><h1>Privacy Policy</h1></div>
+
+
+  <p>
+
+  </p><div style="margin:7px 0 30px 0">
+    Kizi<sup>®</sup> is committed to protecting your privacy online. To further this commitment, we have adopted an
+    online
+    privacy policy that guides how we collect, store, and use information collected about you online.
+  </div>
+  <p></p>
+
+  <p>
+    <b class="medium_gray_title"> What information does Kizi.com collect?</b><br>
+    Kizi<sup>®</sup> may request and/or collect non-private information from you when you use Kizi.com and/or
+    register. For the
+    protection of your privacy, we ask that you avoid sending us any and all personally identifiable information.<br>
+    In any case, we don't collection personally identifiable information for people under the age of 13.
+  </p>
+
+  <br>
+
+  <p>
+    <b class="medium_gray_title"> Cookies</b><br>
+    Kizi<sup>®</sup> may use cookies to improve the use of our websites. A "cookie" is a small file that websites
+    often
+    store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to
+    personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us
+    that you have visited our website before, and may contain information that will make your next visit to our
+    website more enjoyable. We do not use cookies to store personally identifiable information.
+    Additionally, Kizi may use cookies and third party vendors to deliver ads related to Kizi to you while you are
+    surfing other websites. If you would like to opt-out of such ads, you may visit
+    <a href="https://www.networkadvertising.org/choices/">networkadvertising.org/choices</a> to opt-out of such use of cookies.
+    <br><br>
+    We use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <a href="http://www.google.com/privacypolicy.html">google.com/privacypolicy.html</a>.
+    <br><br>
+    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent:
+    <br><br>
+    <span style="text-decoration: underline">Internet Explorer:</span><br>
+    Delete existing Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+    <br><br>
+
+    <span style="text-decoration: underline">Google Chrome:</span><br>
+    Delete existing Tracking Technologies through the “Clear Browsing Data…” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+    <br><br>
+
+    <span style="text-decoration: underline">Mozilla Firefox:</span><br>
+    Delete existing Tracking Technologies through the “Clear Recent History…” sub-option of the “History” menu option of your browser or otherwise as directed by your browser’s support feature. Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+  </p>
+
+  <br>
+
+  <p><b class="medium_gray_title"> IP Addresses</b><br>
+    Kizi<sup>®</sup> may collect your IP address for safety and security purposes.
+    <br><br>
+    When you visit our Websites, our servers automatically save your computer's IP address. IP addresses will be collected, along with information about the actual web pages that you visit on the Websites. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected.
+
+  </p>
+
+  <br>
+
+  <p><b class="medium_gray_title"> Log Files</b><br>
+    Other non-personal information collected by Kizi is in the form of logs - files that record website
+    activity, including how many "hits" a particular web page is getting (a.k.a., "click-through data"). For
+    example, log file entries are generated every time a visitor clicks the "Home" icon on our site. These entries
+    enable Kizi to assess overall site activity, and improve the general user experience. Through the use of log
+    files, we may also collect certain information about your system such as the type of browser you are using
+    (e.g., Chrome, Internet Explorer) and the type of operating system you are using (e.g., Windows or Mac OS).
+  </p>
+
+  <br>
+
+  <p><b class="medium_gray_title"> Linking to third party sites</b><br>
+    Kizi<sup>®</sup> may provide links from our Web sites to third party Web sites and we encourage our users to
+    read third
+    party sites' privacy policies before submitting personal information to them. Kizi assumes no responsibility for
+    the content found on third party websites linked from Kizi.com. Kizi hereby disclaims any representations or
+    warranties expressed on any site other than its own site.
+  </p>
+
+  <br>
+
+  <p><b class="medium_gray_title"> Advertisements on Kizi</b><br>
+    Kizi<sup>®</sup> permits the use of advertising on Kizi.com by third party advertisers.
+    Some advertising partners may use cookies or similar technologies to better measure campaign effectiveness,
+    target future campaigns and deliver a more targeted experience to users.
+    Advertisers must comply with personal data guidelines, including the Data Protection Act 1998, to ensure our
+    users’ personal data is protected.
+    Additionally, all advertisers are instructed by Kizi not to display ads with sexual, violent or drug &amp; alcohol
+    related themes. Should you find an inappropriate or offensive advertisement on Kizi, please notify us by
+    emailing <a href="mailto:support@kizi.com">support@kizi.com</a>.
+    Additionally, third parties may collect certain types of information about your visits to Kizi, including
+    interaction with content on Kizi.
+  </p>
+
+  <br>
+
+  <p><b class="medium_gray_title"> General</b><br>
+    By using this site, you signify your assent to the Kizi.com Online Privacy Policy. If you do not agree to this
+    Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please
+    check back from time to time to ensure that you are aware of these changes. Your continued use of this site will
+    signify your acceptance.
+    We hope you have a great experience on Kizi<sup>®</sup>. Feel free to approach us
+    on <a href="mailto:support@kizi.com">support@kizi.com</a>.
+  </p>
+
+</div>
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+<div id="footer">
+  <div class="footer_text">
+    <span>All rights reserved to KIZI 2015</span> <span class="separator">|</span> <a href="/privacy">Privacy Policy</a>
+  </div>
+  <a href="https://www.facebook.com/kizi" class="fb_icon_link"><img alt="Facebook_icon" id="fb_icon" src="http://cdn0.kizi.com/assets/new_about/facebook_icon-f490f36fa9424b092d2d76c7500826a7.png"></a>
+</div>
+
+
+
+
+<script src="http://cdn0.kizi.com/assets/jquery.blueimp-gallery.min-285d610558ae9dc4c0fef250fc4591f0.js" type="text/javascript"></script>
+
+<script>
+    document.getElementsByClassName('game_thumbs').onclick = function (event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement,
+            link = target.src ? target.parentNode : target,
+            options = {index: link, event: event},
+            links = this.getElementsByTagName('a');
+        blueimp.Gallery(links, options);
+    };
+</script>
+
+
+
+</body></html>
