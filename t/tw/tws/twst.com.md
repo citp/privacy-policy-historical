@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twst.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704014531id_/https%3A//www.twst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twst.com privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711082632id_/https%3A//www.twst.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wall Street Transcript
 
