@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocompletepro.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330114349id_/http%3A//www.autocompletepro.com/pr/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocompletepro.com privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711201834id_/http%3A//www.autocompletepro.com/pr/privacy.html) for the most accurate reproduction.*
 
 # AutoComplete Pro - Search and discover, faster and more accurately
 
