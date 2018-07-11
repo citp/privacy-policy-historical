@@ -1,6 +1,38 @@
-> *The following text is extracted and transformed from the simplesocialtools.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511083706id_/http%3A//simplesocialtools.com/disclosure/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplesocialtools.com privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711220413id_/https%3A//simplesocialtools.com/disclosure/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**GDPR compliance**
+
+The EU’s General Data Protection Regulations (GDPR) took effect on May 25, 2018 and we are fully behind the spirit of these regulations for a safe and secure Internet. 
+
+We collect basic contact information to allow you access to our membership site. Typically this will include contact details like full name, email addresses, payment methods, etc... in order to support membership login, content access and other account management functions. 
+
+Overall, we aim for privacy by default: if data collection is not integral to the way our product works, then we won’t collect it. 
+
+At any time, you may request your information to be exported and sent to you for review, and we promptly honor any requests by you to have your information deleted and forgotten. 
+
+**Email Notifications:**
+
+If you provide us with your email address or signup for our products and services, it will qualify you to receive emails from us about our products and services that you've signed up for, products, services or content we feel you may be interested in, occasional promotional emails, special discount offers and other important messages and announcements about our products and services. 
+
+We respect your privacy. We will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party. Nor will we send you unsolicited email. We'll only send you emails related to our products and services. 
+
+But if you would like to unsubscribe from our email list and want to never hear from us again, please click on the unsubscribe link at the bottom of any of our emails and we’ll know that you're no longer interested in receiving emails from us. 
+
+If you’d like to stay on our lists and continue getting emails from us about our products and services, no further action is required. 
+
+**Use of Email Addresses and other Contact Information**
+
+An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, text, SMS, or any other delivery method, including to your cell phone, when you provide this information. 
+
+As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting. 
+
+We may also send you information about other products and services our company offers. 
+
+We will not sell, provide, or transfer you email address to others. 
+
+We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties. 
 
 **General Privacy Policies**
 
@@ -22,27 +54,21 @@ We sell products and services. When sales are made financial information must be
 
 In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter. 
 
-**Use of Email Addresses and other Contact Information**
-
-An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, text, SMS, or any other delivery method, including to your cell phone. 
-
-As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting. 
-
-We may also send you information about other products and services our company offers. 
-
-We will not sell, provide, or transfer you email address to others. 
-
-We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties. 
-
 **Identification of Purchasers**
 
 If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions. 
 
 We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. 
 
-Unless we provide access to a membership area, account, or provide an ability to have and change a username, password, email address, or other similar information, we do not have the capability to allow users to review and request changes their personal information. 
+You can access and change your personal information on the [Profile](http://simplesocialtools.com/profile) page at any time, after logging into your account. We will delete your account upon your request, when you [contact us](http://simplesocialtools.com/support). 
 
 **Cookies and Tracking**
+
+This website uses cookies to improve the user’s experience while visiting the website. 
+
+Cookies are small text files saved to the user’s computer that track, save and store information about the user’s interactions and usage of the website. This enables the website to provide the users with a tailored experience within this website. 
+
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website. 
 
 Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is to obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed. 
 
@@ -72,4 +98,4 @@ These policies may be amended by us at any time and without notice, but will be 
 
 You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment. 
 
-Effective Date: 01/01/2018 
+Effective Date: 05/25/2018 
