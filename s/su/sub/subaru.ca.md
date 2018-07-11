@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808061441id_/https%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711040639id_/https%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Subaru Canada, Inc.
 
-Last revised: June 23, 2014
+Last revised: September 20, 2017
 
 ## OUR PRIVACY COMMITMENT
 
@@ -47,7 +47,65 @@ In general, Subaru has collected, and will continue to collect, use and disclose
   * to assist dealers in carrying on their business and related products and services, such as warranty and non-warranty services for vehicles, vehicle parts, extended warranty arrangements and financing of vehicle purchases
   * if we engage a third party to provide services to us (such as marketing, IT or storage services)
 
+  
 
+
+## WEBSITE
+
+#### Automatically Collected Information
+
+Like most commercial websites, when you visit Subaru's website we may automatically collect the following information: 
+
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+  
+
+
+#### Cookies, Pixels and Web Tracking Technologies
+
+Our website uses cookies and pixels, which are industry standard technologies used by most major commercial websites. 
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our website. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. 
+
+Please note that third parties (including, for example, our third party business partners) may also use cookies or other web tracking technologies, over which we have no control.
+
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block cookies all or parts of our website may not function correctly and your experience on our website may be hindered. 
+
+Pixels (as known as web beacons/web bugs/javascript) are tiny graphics with a unique identifier that are used to track the online movements of web users, track what other web websites you visit (both before and after visiting our website), or to determine whether you have performed specific actions. Unlike cookies, which are stored on a user's computer hard drive, pixels are small graphics that are about the size of the period at the end of the sentence that are embedded invisibly on web pages or in HTML-based messages. When you access our website or open our messages, the pixels generate a notice of that action to us, or our third party business partners. 
+
+#### Use Made of the Information
+
+We use the information collected through our website, cookies and pixels in the following ways: 
+
+  * to administer our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to improve our website to ensure that content is presented in the most effective manner for you and for your computer;
+  * to allow you to participate in interactive features of our website, when you choose to do so;
+  * as part of our efforts to keep our website safe and secure;
+  * to deliver relevant messages and advertising to you, both on our website and the websites of our third party business partners; and
+  * to measure or understand the effectiveness of messages and advertising we serve to you and others.
+
+  
+
+
+#### Disclosure of the Information
+
+We may share the information collected through our website, cookies and pixels with selected third parties including: 
+
+  * Our suppliers and sub-contractors that provide technical and delivery services to us, for the performance of any contract we enter into with them.
+  * Our third party business partners (such as social networks: Facebook, Instagram, Twitter and YouTube, advertising networks, analytics providers: Google, and search information providers: Google) that require the data to select and serve relevant messages and advertising to you and others. We do not disclose information about identifiable individuals to these business partners, but we may provide them with aggregated or anonymized information about our existing or potential customers or website visitors. We may also disclose to our business partners and use such aggregated or anonymized information to help us reach the kind of audience we want to target with our messages and advertising on our third party business partners’ websites. If you would like more information about our use of third party business partners to select and serve relevant messages and advertising to you and others or your options for opting-out of those activities, please contact Subaru’s Privacy Officer at the contact information at the end of this Privacy Policy.
+  * Analytics and search engine providers that assist us in the improvement and optimization of our website.
+
+  
+
+
+#### Online Tracking and Advertising
+
+If you would like more information about advertisers' use of tracking technologies to deliver targeted ads to you, or to opt-out of receiving targeted ads by advertising networks participating in certain opt-out programs, you can go to: <https://youradchoices.ca/choices/>
+
+We also encourage you to check the privacy policies of social networks that you belong to and to adjust your advertising settings on those social networks with regard to targeted advertising delivered on those social networks, including by Subaru if the social network is our business partner. 
+
+Please be aware that, even if you are able to opt-out of certain kinds of ads, you will continue to receive non-targeted ads. Further, you may continue to receive targeted content and/or ads from parties that do not participate in the opt-out programs. Also, if your browsers are configured to reject cookies when you visit the opt-out page, or you subsequently erase your cookies, use a different device or web browser(s), or use a non-browser-based method of access, your opt-out may not, or may no longer, be effective. Subaru is not responsible for the effectiveness of, or compliance with, any third parties' opt-out options or programs or the accuracy of their statements regarding their programs. 
 
 ## CONSENT
 
@@ -67,7 +125,7 @@ Subaru will limit the amount and type of personal information collected to that 
 
 Personal information will be retained only as long as necessary to fulfil the purposes of the collection or as required or permitted by law, and at the end of such time will be destroyed or made anonymous. Personal information which has been used to make a decision about an individual will be retained long enough (for at least one year after using it) to reasonably allow the individual access to the information after the decision, and long enough to exhaust any access request or a challenge an individual may bring under applicable privacy laws. 
 
-## ACCESSS
+## ACCESS
 
 All individuals generally have a right to access their personal information in Subaru's possession or custody. Upon receiving a written request (mail, e-mail or fax) addressed to Subaru's [Privacy Officer](http://privacy.mysubaru.ca/) clearly identifying the requested information with adequate identification of the requesting individual, Subaru will inform the individual of the existence, use, and disclosure of the personal information and give the individual access to that personal information. If Subaru is not able to provide a list of the organizations to which it may have actually disclosed the personal information, it will provide a list of organizations to which it may have disclosed the information. 
 
