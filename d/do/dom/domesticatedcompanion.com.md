@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticatedcompanion.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609103119id_/http%3A//www.domesticatedcompanion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticatedcompanion.com privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712003901id_/http%3A//www.domesticatedcompanion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DomesticatedCompanion.com – Cute & Furry Companions
 
