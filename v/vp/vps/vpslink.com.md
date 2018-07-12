@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpslink.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511065318id_/http%3A//www2.vpslink.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpslink.com privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712112521id_/http%3A//www2.vpslink.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # VPSLink's Privacy Policy
 
@@ -45,6 +45,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on February 12, 2018.**
+**This file was last modified on May 22, 2018.**
 
  ****
