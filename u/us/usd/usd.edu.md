@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usd.edu privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412191105id_/http%3A//www.usd.edu/Terms%2520of%2520Use%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usd.edu privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712160600id_/https%3A//www.usd.edu/Terms%2520of%2520Use%23privacy) for the most accurate reproduction.*
 
 # Terms of Use | USD
 
@@ -62,13 +62,14 @@ For more information on Google Analytics terms of use and privacy practices, ple
 
 ##### Consumer Information
 
-We receive and may keep information voluntarily given to us when you decide to make a purchase. Information is collected so we can provide you with the service you requested.
+We receive and may keep information voluntarily given to us when you decide to request more about USD or apply for admission. Information is collected so we can provide you with the service you requested:
 
 Your name, address and phone number  
+Your academic interests  
 Your e-mail address  
 Your credit card  
-Use of Technology  
-We want you to be aware that certain online tools exist to help us serve and recognize you when you visit our website. To help better serve your shopping experience, we may receive and store certain types of information upon visiting our site. Our site uses, session identifiers, JavaScript, and browser detection, to help us understand how visitors are viewing our page.
+Use of technology   
+We want you to be aware that certain online tools exist to help us serve and recognize you and your activities when you visit our website. To help better serve your online experience, we may receive and store certain types of information upon visiting our site. Our site uses, session identifiers, JavaScript, IP address identification and browser detection, to help us understand how visitors are viewing our site.
 
 Do we use 'cookies'?
 
@@ -76,7 +77,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to:  
 Understand and save user's preferences for future visits.  
-Keep track of and serve advertisements with a 3rd party.  
+Keep track of and serve advertisements with a 3rd party. Third parties may place cookies on users' browsers for targeted advertsing purposes.  
 Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.  
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
@@ -97,6 +98,10 @@ Inform you of featured events, deadlines or information personalized to you
 **Outside of usd.edu**
 
 We may partner with other third parties to provide various products and services. When you sign up for these products or services, we will share required information that is necessary for the third party to provide the product or service to you. We take reasonable steps to ensure that these third parties are obligated to protect your information on our behalf. It is also against our policy to sell or trade information collected online without consumer consent. We may however, release personal information if we are legally required to do so with or without notifying you based on the conditions.
+
+### Op out of interest-based advertising
+
+To opt out of interest-based advertising, visit the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
 
 ##### Disclaimer
 
