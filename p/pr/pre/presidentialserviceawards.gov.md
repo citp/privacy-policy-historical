@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116134517id_/https%3A//www.presidentialserviceawards.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712122119id_/https%3A//www.presidentialserviceawards.gov/privacy.aspx) for the most accurate reproduction.*
 
 # The President's Volunteer Service Award
 
