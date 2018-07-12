@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goneraw.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512225802id_/http%3A//www.therawtarian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goneraw.com privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712165728id_/https%3A//www.therawtarian.com/privacy-policy) for the most accurate reproduction.*
 
 # The Rawtarian Privacy Policy | The Rawtarian
 
@@ -6,15 +6,15 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 ## What personal information do we collect from the people that visit our blog, website or app?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+When ordering or registering on our site or within our mobile apps, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
 ## When do we collect information?
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
+We collect information from you when you register on our site, place an order, post pictures, ratings, or reviews from within a mobile app, subscribe to a newsletter or enter information on our site.
 
 ## How do we use your information?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, post pictures, ratings, or reviews from within a mobile app, or use certain other site features in the following ways:
 
 • To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
 • To improve our website in order to better serve you.  
@@ -30,7 +30,7 @@ We do not use vulnerability scanning and/or scanning to PCI standards.
 We only provide articles and information. We never ask for credit card numbers.  
 We use regular Malware Scanning.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
 We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
@@ -169,4 +169,4 @@ _The Rawtarian_
  _Canada_  
  _[support@therawtarian.com](mailto:support@therawtarian.com)_
 
-Last Edited on 2018-01-02
+Last Edited on 2018-05-31
