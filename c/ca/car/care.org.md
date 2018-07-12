@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622224720id_/http%3A//www.care.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712181646id_/https%3A//www.care.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms and Conditions | CARE
 
