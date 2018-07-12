@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questgpt.info privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314020305id_/http%3A//ww43.questgpt.info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questgpt.info privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712032605id_/http%3A//ww43.questgpt.info/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
