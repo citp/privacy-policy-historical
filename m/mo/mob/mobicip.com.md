@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobicip.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514120140id_/http%3A//www.mobicip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicip.com privacy policy that was archived on 2018-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180714002527id_/http%3A//www.mobicip.com/privacy) for the most accurate reproduction.*
 
 # Mobicip - Privacy Policy
 
