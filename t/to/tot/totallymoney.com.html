@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the totallymoney.com privacy policy that was archived on 2018-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180611234229id_/http%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the totallymoney.com privacy policy that was archived on 2018-07-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180713131524id_/https%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -18,7 +18,7 @@
 
     <!-- headline collapse local style -->
     <style media="screen">
-        p, ol { display:none;} /* collapse paragraphs and contents list on load */
+        .text p, .text ol { display:none;} /* collapse paragraphs and contents list on load */
         table#details p {display: block;}
         h2, h3 {cursor: pointer;} /* hint at clickability on desktop */
         h2.noClick{ cursor: default;}
@@ -532,6 +532,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     .hidden {
         display: none;
     }
+
+    .delayed-load {
+        animation: fadeIn ease-in-out 400ms forwards;
+        opacity: 1;
+    }
+
+    @keyframes fadeIn {
+        0%, 25% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
 </style>
 <div class="global-nav">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -539,7 +554,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <a class="global-nav__logo" href="https://www.totallymoney.com"></a>
         <input type="checkbox" class="global-nav__trigger" id="tm-header-menu-toggler">
         <label for="tm-header-menu-toggler" class="global-nav__mobile-trigger "></label>
-        <ul class="global-nav__menu">
+        <ul class="global-nav__menu delayed-load">
             <li class="global-nav__menu__entry global-nav__menu__entry--single only-logged-in hidden">
                 <a class="global-nav__menu__link global-nav__menu__link--credit-report" href="https://www.totallymoney.com/myaccount/credit-report" rel="nofollow">
                     My Credit Report
@@ -588,7 +603,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a class="global-nav__menu__link loans-link" href="https://www.totallymoney.com/loans/" data-path="/">Loans</a>
                 <div class="global-nav__dropdown">
                     <a title="Personal Loans" href="https://www.totallymoney.com/loans/unsecured/" data-path="/unsecured/" class="loans-link">
-                        <p>PersonalLoan</p> Compare 100s of loans and providers
+                        <p>Personal Loans</p> Compare 100s of loans and providers
                     </a>
                     <a title="Loans for poor credit" href="https://www.totallymoney.com/loans/bad-credit/" data-path="/bad-credit/" class="loans-link">
                         <p>Loans for Poor Credit</p>Lenders that work hard to accept you
@@ -627,26 +642,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <input class="global-nav__trigger" type="checkbox" id="tm-header-account-toggler">
 
                 <label for="tm-header-account-toggler">My Account</label>
-                <a href="https://www.totallymoney.com/myaccount/dashboard" rel="nofollow">My Account</a>
+                <a href="/myaccount/dashboard" rel="nofollow">My Account</a>
                 <i class="global-nav__account-icon"></i>
 
                 <div class="global-nav__dropdown global-nav__dropdown--myaccount">
-                    <a title="My Details" href="https://www.totallymoney.com/myaccount/details" rel="nofollow">
-                        <p>Edit My Details</p>
+                    <a title="My Details" href="/myaccount/details" rel="nofollow">
+                        <p>My Details</p>
                     </a>
-                    <a title="Logout" href="https://totallymoney.freshdesk.com/support/home" rel="nofollow" target="_blank">
+                    <a title="My Preferences" rel="nofollow" href="null">
+                        <p>My Preferences</p>
+                    </a>
+                    <a title="FAQs" href="https://help.totallymoney.com/hc/en-gb" rel="nofollow" target="_blank">
                         <p>FAQS</p>
                     </a>
-                    <a title="Logout" href="https://totallymoney.com/myaccount/logout" rel="nofollow">
+                    <a title="Logout" href="/myaccount/logout" rel="nofollow">
                         <p>Logout</p>
                     </a>
                 </div>
             </li>
             <li class="global-nav__menu__entry global-nav__menu__entry--login global-nav__menu__entry--single only-logged-out">
-                <a title="Log in to your account" data-gtm-event="eligibilityScore-headerNav-accountLoginPage" href="https://www.totallymoney.com/myaccount/login" rel="nofollow" class="btn-header btn-header--login">
+                <a title="Log in to your account" data-gtm-event="eligibilityScore-headerNav-accountLoginPage" href="/myaccount/login" rel="nofollow" class="btn-header btn-header--login">
                     Login
                 </a>
-                <a title="Sign up for a new account" href="https://www.totallymoney.com/myaccount/register" rel="nofollow" class="btn-header btn-header--secondary btn-header--large">
+                <a title="Sign up for a new account" href="/myaccount/register" rel="nofollow" class="btn-header btn-header--secondary btn-header--large">
                     Sign up
                 </a>
             </li>
@@ -666,14 +684,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             loansPrefix: '/loans',
             cardsScoreId: '',
             loansScoreId: '',
-            trackedParameters: {}
+            trackedParameters: {},
+            customerId: null
         };
 
         // determine correct state
         function determineState() {
             const cookies = {};
             const query = {};
-            
+
             // parse cookies to object
             document.cookie
                 .split(';')
@@ -695,6 +714,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             // get whitelabel prefixes
             state.loansPrefix = cookies.LoansPrefix || state.loansPrefix;
             state.cardsPrefix = cookies.CardsPrefix || state.cardsPrefix;
+
+            // get customerId
+            state.customerId = cookies.PulseCustomerId || null;
 
             // get query scoreId
             const scoreId = query.scoreId || query.ScoreId;
@@ -760,6 +782,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             const show = document.querySelectorAll(state.session ? '.only-logged-in' : '.only-logged-out');
             const hide = document.querySelectorAll(state.session ? '.only-logged-out' : '.only-logged-in');
             const logo = document.querySelector('.global-nav__logo');
+            const myPreferencesLink = document.querySelector(`[title='My Preferences']`);
+            const delayedLoad = document.querySelectorAll('.delayed-load');
 
             show.forEach((element, index) => {
                 show[index].classList.remove('hidden');
@@ -770,6 +794,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             });
 
             logo.setAttribute('href', state.session ? accountUrl : domain);
+            // if we have a session populate the href for the 'My Preferences' link in the header
+            myPreferencesLink.setAttribute('href', state.session ? `/myaccount/preferences/email/${state.customerId}` : null)
 
             // rewrite cards urls
             rewriteUrls('.cards-link', domain, state.cardsPrefix, { ...state.trackedParameters, scoreId: state.cardsScoreId });
@@ -786,7 +812,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         window.tm_nav = {
             state,
             determineState,
-            applyState
+            applyState,
+            updateState: function () {
+                determineState();
+                applyState();
+            }
         };
     })()
 </script>
@@ -1254,7 +1284,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<a title="Credit Report" href="https://www.totallymoney.com/free-credit-report/">Credit Report</a>
 	<a title="Credit Cards" href="https://www.totallymoney.com/credit-cards/">Credit Cards</a>
 	<a title="Loans" href="https://www.totallymoney.com/loans/">Loans</a>
-	<a title="Mortgages" href="http://www.totallymoney.com/mortgages/">Mortgages</a>
+	<a title="Mortgages" href="https://www.totallymoney.com/mortgages/">Mortgages</a>
 	<a title="White Labels" href="http://www.totallymoney.com/info/b2b/">White Labels</a>
 </div>
 <div class="tm-footer-nav tm-footer-nav--company">
@@ -1266,8 +1296,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="tm-footer-nav tm-footer-nav--careers">
 	<h3>Read</h3>
-	<a target="_blank" onclick="window.open ('https://totallymoney.freshdesk.com/support/home', ''); return false" href="javascript:void(0);" title="FAQs">FAQ<span style="text-transform:lowercase;">s</span></a>
-	<a title="Guides" href="http://www.totallymoney.com/guides/">Guides</a>
+	<a title="FAQs" href="https://help.totallymoney.com/hc/en-gb">FAQ<span style="text-transform:lowercase;">s</span></a>
+	<a title="Guides" href="https://www.totallymoney.com/guides/">Guides</a>
 	<a title="Your Money" href="http://www.totallymoney.com/news/">Your Money</a>
 	<a title="Blog" href="http://www.totallymoney.com/blog/">Blog</a>
 	<a title="Press" href="http://www.totallymoney.com/press-centre/">Press</a>
@@ -1282,6 +1312,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 <script defer="" src="https://s3-eu-west-1.amazonaws.com/totallymoney/footers/cookie-info.js"></script>
+
 
 		<div class="tm-footer-small-print">
 			<p><span class="broker">TotallyMoney is an independent credit broker, not a lender.</span> It provides a free comparison service to customers, though it may be paid a fee by lenders.</p>
