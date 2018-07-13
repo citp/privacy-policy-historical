@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infocusindia.co.in privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404094244id_/http%3A//www.infocusindia.co.in/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocusindia.co.in privacy policy that was archived on 2018-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180714012127id_/http%3A//www.infocusindia.co.in/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy and Policy
 
