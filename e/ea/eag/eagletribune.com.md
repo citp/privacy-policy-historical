@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the eagletribune.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165316id_/http%3A//www.eagletribune.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagletribune.com privacy policy that was archived on 2018-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180713114645id_/https%3A//www.eagletribune.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | eagletribune.com
 
-[](http://click.oo155.com/ViewLandingPage.aspx?pubids=2748|-6|5|69&digest=eH3UcNXx2303T0Igg%2bpzyw&sysid=1&mobile=0)
-
 **Effective**
 
-This Policy was last modified on February 10, 2012.
+This Policy was last modified on October 17, 2017.
 
  **Information Practices**
 
-Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://www.eagletribune.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://www.eagletribune.com through other means.
+CNHI LLC and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://www.eagletribune.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://www.eagletribune.com through other means.
 
  **Collection of Information**
 
@@ -58,7 +56,11 @@ We have policies and procedures in place to protect the privacy and confidential
 
  **Your California Privacy Rights**
 
-Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104.
+Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104.
+
+ **Prohibited Uses**
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at digital@cnhi.com. If you continue to use this Site in violation of this provision, your continued use, including the collection of any data, will be governed by US law.
 
  **Access and Corrections**
 
@@ -66,18 +68,8 @@ We strive to keep your Personal Information accurate. You can access and update 
 
  **AP News Registry**
 
-This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
+This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
 
  **Contacting Us**
 
-If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
-
-[](http://click.oo155.com/ViewLandingPage.aspx?pubids=2748|-6|5|69&digest=eH3UcNXx2303T0Igg%2bpzyw&sysid=1&mobile=0)
-
-[](http://www.eagletribune.com/magazines)
-
-Our magazines highlight people, places and events in our North of Boston communities.
-
-[](http://my.textcaster.com/asa/Default.aspx?ID=dcd57456-904e-4910-b588-bd0cc26745f1)
-
-Get text messages on your mobile phone with news, weather and more from The Eagle-Tribune.
+If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
