@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennesseeanytime.org privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513133833id_/http%3A//www.tennesseeanytime.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennesseeanytime.org privacy policy that was archived on 2018-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180714040924id_/https%3A//tennesseeanytime.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
