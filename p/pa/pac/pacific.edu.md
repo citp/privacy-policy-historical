@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604090627id_/http%3A//www.pacific.edu/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2018-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180714053607id_/https%3A//www.pacific.edu/privacy-policy.html) for the most accurate reproduction.*
 
 # Master Privacy Statement
 
@@ -13,7 +13,7 @@ The university is committed to upholding our community members' and visitors' ri
 **\---------------------------------------------------------------**
 
 **_Date this Master Privacy Statement went into effect: 02/04/2008  
-Date this Master Privacy Statement was last updated: 05/22/2018_**
+Date this Master Privacy Statement was last updated: 06/06/2018_**
 
 _**Introduction**_
 
@@ -71,12 +71,6 @@ Directory information may be freely provided to The University.
 
 Privacy Flag: Students may request that Directory information not be shared with anyone, by  
 asking the Registrar to set the privacy Flag.
-
-Use Of Web Beacons Or Gif Files University of the Pacific Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow University of the Pacific to count users who have visited those pages and to deliver co-branded services. University of the Pacific may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. University of the Pacific prohibits Web beacons from being used to collect or access your personal information.
-
-This website uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at [https://mouseflow.com/opt-out/ ](https://mouseflow.com/opt-out/)
 
 **Privacy Statement Precepts**
 
