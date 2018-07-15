@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightbrainnews.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611205457id_/http%3A//rightbrainnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbrainnews.com privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715204228id_/http%3A//rightbrainnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RightBrainNews
 
