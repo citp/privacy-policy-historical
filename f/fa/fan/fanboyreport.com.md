@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanboyreport.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208154921id_/http%3A//www.fanboyreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanboyreport.com privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715044602id_/http%3A//www.wably.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Fanboy Report
+# Privacy Policy - Wably
 
 **What information do we collect?**
 
@@ -63,7 +63,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http:///www.fanboyreport.com/terms](http://www.fanboyreport.com/terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http:///www.wably.com/terms](http://www.wably.com/terms)
 
  **Your Consent**
 
@@ -79,7 +79,7 @@ This policy was last modified on April 17, 2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-301 Digital Media, LLC  
+Wably Media Group  
 1616 Westgate Circle  
 Suite 311  
 Brentwood, TN 37027  
