@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennystockegghead.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226115024id_/http%3A//www.pennystockegghead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystockegghead.com privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716010924id_/http%3A//www.pennystockegghead.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Penny Stock Egghead | Proven Penny Stock Trading System!
 
