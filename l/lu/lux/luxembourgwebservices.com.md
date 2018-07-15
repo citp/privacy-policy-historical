@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxembourgwebservices.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304192327id_/http%3A//www.luxembourgwebservices.com/wp-content/uploads/Privacy-Policy-LuxembourgWebServices.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxembourgwebservices.com privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715030648id_/http%3A//www.luxembourgwebservices.com/wp-content/uploads/Privacy-Policy-LuxembourgWebServices.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
