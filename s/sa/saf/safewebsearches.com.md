@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safewebsearches.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615103235id_/http%3A//www.safewebsearches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safewebsearches.com privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715213214id_/https%3A//www.safewebsearches.com/privacy) for the most accurate reproduction.*
 
 # SAFEWEBSEARCHES PRIVACY POLICY
 
