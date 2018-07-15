@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careeralerter.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614152314id_/http%3A//www.careeralerter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeralerter.com privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715172104id_/https%3A//careeralerter.com/privacy) for the most accurate reproduction.*
 
 # Career Alerter
 
-Careeralerter.com ("Career Alerter") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Career Alerter at 2222 Michelson Drive, Suite #465, Irvine, CA 92612 USA or via our [contact form](https://web.archive.org/web/20180614152314id_/http%3A//www.careeralerter.com/contact.php).
+Careeralerter.com ("Career Alerter") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Career Alerter at 2222 Michelson Drive, Suite #465, Irvine, CA 92612 USA or via our [contact form](https://web.archive.org/web/20180715172104id_/https%3A//careeralerter.com/contact.php).
 
 By using the Career Alerter website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers Career Alerter's treatment of personal information that we collect when you are on Career Alerter's website and when you use Career Alerter's services. This policy does not apply to the practices of third parties that Career Alerter does not own or control, including websites that we may link to, or to individuals that Career Alerter does not employ or manage.
 
@@ -56,7 +56,7 @@ If there is a change of control in Career Alerter's business (whether by merger,
 
 #### Conditions of Use
 
-If you decide to use Career Alerter's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20180614152314id_/http%3A//www.careeralerter.com/contact.php).
+If you decide to use Career Alerter's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20180715172104id_/https%3A//careeralerter.com/contact.php).
 
 #### Contact Information
 
