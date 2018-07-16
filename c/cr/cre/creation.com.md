@@ -1,21 +1,24 @@
-> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209092535id_/http%3A//creation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716114557id_/https%3A//creation.com/privacy) for the most accurate reproduction.*
 
 # Privacy - creation.com
 
-  * Introduction 
-  * How we collect your information
-  * What happens if you do not provide your personal information
-  * How we use your information
-  * How you can access your personal information
-  * Security
-  * Logs
-  * Cookies and local storage
-  * Links
-  * Maintenance of information
-  * CMI-Worldwide and mailing list protection
-  * Dealing with privacy complaints
-  * Changes to this statement
-  * Contact information
+  * [Introduction ](https://creation.com/privacy#Introduction)
+  * [How we collect your information](https://creation.com/privacy#How_We_Collect)
+  * [What happens if you do not provide your personal information](https://creation.com/privacy#No-personal-info)
+[ ](https://creation.com/privacy#No-personal-info)
+  * [](https://creation.com/privacy#No-personal-info)[How we use your information](https://creation.com/privacy#How_We_Use)
+  * [How you can access your personal information](https://creation.com/privacy#access-personal-info)
+[ ](https://creation.com/privacy#access-personal-info)
+  * [](https://creation.com/privacy#access-personal-info)[Security](https://creation.com/privacy#Security)
+  * [Logs](https://creation.com/privacy#Logs)
+  * [Cookies and local storage](https://creation.com/privacy#Cookies)
+  * [Links](https://creation.com/privacy#Links)
+  * [Maintenance of information](https://creation.com/privacy#Maintenance_of_Information)
+  * [CMI-Worldwide and mailing list protection](https://creation.com/privacy#mailing_list)
+  * [Dealing with privacy complaints](https://creation.com/privacy#Dealing-with-privacy-complaints)
+[ ](https://creation.com/privacy#Dealing-with-privacy-complaints)
+  * [](https://creation.com/privacy#Dealing-with-privacy-complaints)[Changes to this statement](https://creation.com/privacy#Changes_to_this)
+  * [Contact information](https://creation.com/privacy#Contact_Information)
 
 
 
@@ -53,7 +56,7 @@ Information we may collect through mail order, other correspondence or at minist
 
 If you do not provide some or all of the information requested, all that happens is CMI may not be able to provide you with a product or service.
 
-Back to Top 
+[Back to Top ](https://creation.com/privacy#top)
 
 ## How we use your information
 
@@ -79,7 +82,7 @@ Protection of CMI and others: We release account and other personal information 
 
 ## How you can access your personal information
 
-Simply [contact us](http://creation.com/article/4094) to request access to your personal information. Sometimes we might not be able to provide some of your personal information. If this happens we’ll tell you why. If it looks like it might take longer to retrieve your personal information than we first expected, we’ll tell you when it should be available.
+Simply [contact us](https://creation.com/article/4094) to request access to your personal information. Sometimes we might not be able to provide some of your personal information. If this happens we’ll tell you why. If it looks like it might take longer to retrieve your personal information than we first expected, we’ll tell you when it should be available.
 
 ## Security
 
@@ -89,7 +92,7 @@ This site has security measures in place to protect against the loss, misuse and
 
 CMI uses log files to track trends, activity, and improve the overall user experience. These log files contain information about what domain you are coming from (e.g. AOL.com, Google.com), what browser software and system software you use, and what pages were visited on our site. This information may be shared among CMI employees, leadership and select vendors and may be archived for analysis in the future.
 
-Back to Top 
+[Back to Top ](https://creation.com/privacy#top)
 
 ## Cookies and local storage
 
@@ -99,6 +102,8 @@ Like most websites, we use cookies and local storage to provide you with a bette
 
 Most web browsers offer settings to control whether or not to allow cookies or local storage. We recommend that cookies and local storage remain turned on to take full advantage of our website(s) and apps.
 
+You can control and/or delete cookies as you wish – for details, see <https://cookies.insites.com/disable-cookies/>. 
+
 ## Links
 
 Websites of CMI may contain links to other sites. We try to exercise caution in such cases, however, the privacy and data collection practices on linked websites are entirely separate from CMI and are not covered by this privacy policy.
@@ -107,27 +112,27 @@ The hyperlinks to other sites on this website are provided as an additional reso
 
 ## Maintenance of information
 
-If your personally identifiable information changes (such as zip/postal code, phone, e-mail or postal address), or if you no longer desire to receive email updates, or other mailed correspondence, we provide a way to correct, update or deactivate such information. To update or remove your physical address from our mailing lists, see [ contact us](http://creation.com/article/4094) page. To change your email address or remove yourself from any email lists, click on the **update your profile** link that is at the bottom of every email you receive from us.
+If your personally identifiable information changes (such as zip/postal code, phone, e-mail or postal address), or if you no longer desire to receive email updates, or other mailed correspondence, we provide a way to correct, update or deactivate such information. To update or remove your physical address from our mailing lists, see [ contact us](https://creation.com/article/4094) page. To change your email address or remove yourself from any email lists, click on the **update your profile** link that is at the bottom of every email you receive from us.
 
 ## CMI-Worldwide and mailing list protection
 
-CMI is actually a grouping of autonomous ministries in several countries, ie Australia, Canada, New Zealand, Singapore, South Africa, United Kingdom and USA, however we are bound together by agreement into a worldwide federation (for more details see [this article](http://creation.com/cmi-worldwide-a-new-concept-a-new-era-in-creation-ministry)) which also operates to seek to protect mailing lists. For instance, in the event of one of the member ministries changing its direction to no longer support the overall aims of CMI as a biblical (6 days, global flood, young world) creationist ministry, the Federation’s charter means that its mailing lists and certain other assets may not be used for such other purposes. This seeks to protect the interests of the donors to that ministry who are presumed to have given to a cause, rather than to any individual or organization _per se_.
+CMI is actually a grouping of autonomous ministries in several countries, ie Australia, Canada, New Zealand, Singapore, South Africa, United Kingdom and USA, however we are bound together by agreement into a worldwide federation (for more details see [this article](https://creation.com/cmi-worldwide-a-new-concept-a-new-era-in-creation-ministry)) which also operates to seek to protect mailing lists. For instance, in the event of one of the member ministries changing its direction to no longer support the overall aims of CMI as a biblical (6 days, global flood, young world) creationist ministry, the Federation’s charter means that its mailing lists and certain other assets may not be used for such other purposes. This seeks to protect the interests of the donors to that ministry who are presumed to have given to a cause, rather than to any individual or organization _per se_.
 
 ## Dealing with privacy complaints
 
-If you believe there has been a breach of the privacy of your personal information we ask that you [ contact us](http://creation.com/article/4094). We endeavour to resolve all complaints promptly and fairly. Please include your email address, name, address and telephone number and clearly detail your complaint. We may need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable and in any event within 5 business days. Our response will inform you whether we have accepted your complaint, request further information, or advise that we do not think we are in breach. We will also let you know the next steps in resolving your complaint. If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the relevant government authority covering each of our offices:
+If you believe there has been a breach of the privacy of your personal information we ask that you [ contact us](https://creation.com/article/4094). We endeavour to resolve all complaints promptly and fairly. Please include your email address, name, address and telephone number and clearly detail your complaint. We may need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable and in any event within 5 business days. Our response will inform you whether we have accepted your complaint, request further information, or advise that we do not think we are in breach. We will also let you know the next steps in resolving your complaint. If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the relevant government authority covering each of our offices:
 
-CMI-Australia-Office of the Australian Information Commissioner ([www.oaic.gov.au](http://creation.com/redirect.php?http://www.oaic.gov.au)).
+CMI-Australia-Office of the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)).
 
-CMI-Canada – Office of the Privacy Commissioner of Canada ([www.priv.gc.ca](http://creation.com/redirect.php?http://www.priv.gc.ca/))
+CMI-Canada – Office of the Privacy Commissioner of Canada ([www.priv.gc.ca](http://www.priv.gc.ca/))
 
-CMI-New Zealand – Privacy Commissioner / Te Mana Matapono Matatapu ([www.privacy.org.nz](http://creation.com/redirect.php?http://www.privacy.org.nz/))
+CMI-New Zealand – Privacy Commissioner / Te Mana Matapono Matatapu ([www.privacy.org.nz](http://www.privacy.org.nz/))
 
-CMI-Singapore – Singapore Mediation Centre ([www.mediation.com.sg](http://creation.com/redirect.php?http://www.mediation.com.sg))
+CMI-Singapore – Singapore Mediation Centre ([www.mediation.com.sg](http://www.mediation.com.sg/))
 
 CMI(UK/Europe) Ltd – Annually, we apply to renew our _Certificate of Registration_ , ensuring compliance with Data Protection legislation.
 
-We are registered with the Information Commissioner’s Office, registration ref: Z1097390; [ www.ico.gov.uk](http://creation.com/redirect.php?http://www.ico.gov.uk/)
+We are registered with the Information Commissioner’s Office, registration ref: Z1097390; [ www.ico.gov.uk](http://www.ico.gov.uk/)
 
 ## Changes to this statement
 
@@ -135,18 +140,8 @@ CMI reserves the right to make changes to this privacy statement and its associa
 
 ## Contact information
 
-If you have questions or concerns about any information on this page, or wish to complain about a possible breach of your privacy, please [contact us](http://creation.com/article/4094).
+If you have questions or concerns about any information on this page, or wish to complain about a possible breach of your privacy, please [contact us](https://creation.com/article/4094).
 
 Thank you!
 
-Back to Top
-
-  
-
-
-If you were to read an article every day from this site it would take you 20 years to read them all. Such a wealth of information didn’t arise by chance. Please help us to keep on keeping on. [Support this site](http://creation.com/donate)
-
-  
-
-
-Comments closed
+[Back to Top](https://creation.com/privacy#top)
