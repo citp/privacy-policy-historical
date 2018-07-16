@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9jabaze.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423203723id_/http%3A//songbaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9jabaze.com privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716212210id_/https%3A//songbaze.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 9jabaze | Songbaze.Com
 
