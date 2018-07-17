@@ -1,71 +1,168 @@
-> *The following text is extracted and transformed from the geekdad.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012165530id_/http%3A//www.wired.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekdad.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717152843id_/https%3A//geekdad.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | About | Wired.com
+# Privacy Policy - GeekDad
 
-Last Revised **August 28, 2008**.
+Reading Time: 8 minutes
 
-Kids and parents click here!
+## Who we are
 
-The following Privacy Policy summarizes the various ways that **Condé Nast Digital** (“Service Provider,” “we” or “our”) treats the information you provide while using **www.wired.com** (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+Our website address is: https://geekdad.com.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **[http://www.wired.com/services/privacy/](https://web.archive.org/services/privacy/). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
+## What personal data we collect and why we collect it
 
-In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/services/useragreement/). Your use of the Website constitutes agreement to its terms and conditions as well. 
+### Comments
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**I. THE TYPE OF INFORMATION THE WEBSITE COLLECTS**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
+### Media
 
-Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol (“IP”) address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**II. HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**
+### Giveaway forms
 
-Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
+When you enter a giveaway on _GeekDad_ , the information you enter in the giveaway form is stored in our databases. That information is retained until the winner has been determined and notified. Once the winner has been determined and notified, entries are deleted from our database, except for the winner. The winner’s information will be preserved until we can confirm delivery of the prize, or a request for the information to be deleted is received. The author running the giveaway will delete email communications upon request once the prize has been confirmed delivered.
 
-Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you’ve registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact your Privacy Policy Coordinator as described below with your changes or [click here](http://www.condenet.com/emailform/optOut/entry) to be removed from all Condé Nast Digital mailing lists.
+We do not use this information for marketing purposes. This information is used in order to contact the winner of the giveaway. We also share the winner’s information with the company sponsoring the giveaway so that they can mail you your prize.
 
-We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. 
+### Cookies
 
-In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets. 
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-**III. COOKIES**
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-You may have read about “cookies,” nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your display name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
+To improve your experience on our site, we may use ‘cookies’. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our site may place on your computer as a tool to remember your preferences. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
+### Embedded content from other websites
 
-We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting <http://www.networkadvertising.org/optout_nonppii.asp>.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-If you don’t want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**IV. INFORMATION SECURITY AND NOTIFICATION**
+### Links to Other Sites
 
-Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).
+Our website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites. When you go to other websites from here, we advise you to be aware and read their privacy policy.
 
-**V. KIDS AND PARENTS**
+### Analytics
 
-This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
 
-If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
+By using this website, you consent to the processing of data about you by Google in the manner described in [Google’s Privacy Policy](http://www.google.com/policies/privacy/) and for the purposes set out above. We honor a browser’s Do Not Track (DNT) request, however, not all browsers have that feature. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the following button: 
 
-If you’re worried about your children’s activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
+ _GeekDad_  also uses interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to “like” or “share” information from this website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to this site with other Personal Information.
 
-**VI. PRIVACY POLICY COORDINATOR**
+### Third Party Advertising
 
-To be removed from all Condé Nast Digital email lists, [click here](http://www.condenet.com/emailform/optOut/entry).
+ _GeekDad_ and third-party vendors, including Google, use first-party cookies (Google Analytics cookie) and third-party cookies (DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to our website. More specifically, our website has implemented and uses display advertising, and we utilize Google Analytics to implement a specific feature called remarketing. Remarketing is a feature of Google’s AdWords that allows us to optimize the delivery of ad content specifically targeted to a visitor’s interests based upon previous visits to our site. If you’d like more information about remarketing lists in Google Analytics please visit the following site – <https://support.google.com/analytics/answer/2611268>.
 
-If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
+If you would like to opt-out of Google Analytics for display advertising you may do so by using the [Ads Preferences Manager](https://www.google.com/settings/u/0/ads/?hl=en&sig=ACi0TCimhsDbENAzTEVRyypSGTPyPKAUQ1kd19WVIvCjxTXx86BO6zY5SDokKk3R17hVCBovUPJ87O75x1AOYL9_SsAp__d5ZONrfjZ_2bVvLR4Q4nFTPXEqg1OnCl9fl-gwGH1QVCqjkX94bUX1tzQR0N6MHZIHyBU0E999AOGF1gYfDOa0iqYptntLP4Atc2kf5N1vUGnIxfNfflxYlmCj0JILp-9s4_8D3vCoivm7ez7Uk05Gzx7cWkWT2xOHMpvpVWjhzPzRpb0xnJd9VDkQNqJ7_0aiSA).
 
-> **Privacy Policy Coordinator  
->  The Condé Nast Publications  
->  1313 Market Street  
->  Wilmington, DE 19801  
->  [Privacy_administration@condenast.com](mailto:Privacy_administration@condenast.com)**
-> 
->  ****
+There is also a Google Analytics opt-out browser add on that you can download at <https://tools.google.com/dlpage/gaoptout/>.
+
+ **We may partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here –  **[ **http://preferences-mgr.truste.com/**](http://preferences-mgr.truste.com/) **(or if located in the European Union click here –  **[ **http://www.youronlinechoices.eu/**](http://www.youronlinechoices.eu/) ** **
+
+## Who we share your data with
+
+From time-to-time our website developer and hosting provider  _Skookum Monkey Hosting and Design_  has access to your data in order to perform site maintenance, and perform DDoS mitigation and other security measure. _Skookum Monkey Hosting and Design  _does not collect, save, or use this data for its own purposes.   _Skookum Monkey Hosting and Designs  _has two privacy policies: [one for clients](https://skookummonkey.com/privacy-policy/) and [one for visitors](https://skookummonkey.com/privacy-policy-2/).
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service, as well as scanned through our firewall to prevent the injection of malicious script and prevent linking to malicious websites.
+
+### Data That Is Sent to Jetpack
+
+### Activity Log
+
+ **Data Used:** To deliver this functionality and record activities around site management, the following information is captured: user email address, user role, user login, user display name, WordPress.com and local user IDs, the activity to be recorded, the WordPress.com-connected site ID of the site on which the activity takes place, the site’s Jetpack version, and the timestamp of the activity. Some activities may also include the actor’s IP address (login attempts, for example) and user agent.
+
+ **Activity Tracked:** Login attempts/actions, post and page update and publish actions, comment/pingback submission and management actions, plugin and theme management actions, widget updates, user management actions, and the modification of other various site settings and options. Retention duration of activity data depends on the site’s plan and activity type. [See the complete list of currently-recorded activities (along with retention information)](https://jetpackme.wordpress.com/support/activity-log/#data-retention).
+
+ **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** Successful and failed login attempts, which will include the actor’s IP address and user agent.
+
+* * *
+
+### Gravatar Hovercards
+
+ **Data Used:** This feature will send a hash of the user’s email address (if logged in to the site or WordPress.com — or if they submitted a comment on the site using their email address that is attached to an active Gravatar profile) to the [Gravatar](https://gravatar.com/) service (also owned by [Automattic](https://automattic.com/)) in order to retrieve their profile image.
+
+* * *
+
+### Notifications
+
+ **Data Used:** IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID and URL, Jetpack version, user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Some visitor-related information or activity may be sent to the site owner via this feature. This may include: email address, WordPress.com username, site URL, email address, comment content, follow actions, etc.
+
+ **Activity Tracked:** Sending notifications (i.e. when we send a notification to a particular user), opening notifications (i.e. when a user opens a notification that they receive), performing an action from within the notification panel (e.g. liking a comment or marking a comment as spam), and clicking on any link from within the notification panel/interface.
+
+* * *
+
+### Sharing
+
+ **Data Used:** When sharing content via email (this option is only available if [Akismet](https://akismet.com/) is active on the site), the following information is used: sharing party’s name and email address (if the user is logged in, this information will be pulled directly from their account), IP address (for spam checking), user agent (for spam checking), and email body/content. This content will be sent to [Akismet](https://akismet.com/) (also owned by [Automattic](https://automattic.com/)) so that a spam check can be performed.
+
+* * *
+
+### Subscriptions
+
+ **Data Used:** To initiate and process subscriptions, the following information is used: subscriber’s email address and the ID of the post or comment (depending on the specific subscription being processed). In the event of a new subscription being initiated, we also collect some basic server data, including all of the subscribing user’s HTTP request headers, the IP address from which the subscribing user is viewing the page, and the URI which was given in order to access the page (`REQUEST_URI` and `DOCUMENT_URI`). This server data used for the exclusive purpose of monitoring and preventing abuse and spam.
+
+ **Activity Tracked:** [Functionality cookies](https://jetpack.com/support/cookies/#subscriptions) are set for a duration of **347 days** to remember a visitor’s blog and post subscription choices if, in fact, they have an active subscription.
+
+* * *
+
+### WordPress.com Stats
+
+ **Data Used:** IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. _Important:_ The site owner does **not** have access to any of this information via this feature. For example, a site owner can see that a specific post has 285 views, but he/she cannot see which specific users/accounts viewed that post. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by [Automattic](https://automattic.com/) for 28 days and are used for the sole purpose of powering this feature.
+
+ **Activity Tracked:** Post and page views, outbound link clicks, referring URLs and search engine terms, and country. When this module is enabled, Jetpack also tracks performance on each page load that includes the Javascript file used for tracking stats. This is exclusively for aggregate performance tracking across Jetpack sites in order to make sure that our plugin and code is not causing performance issues. This includes the tracking of page load times and resource loading duration (image files, Javascript files, CSS files, etc.). The site owner has the ability to force this feature [to honor DNT settings of visitors](https://jetpack.com/support/wordpress-com-stats/#honoring-dnt). By default, DNT is currently not honored, but it is enabled on this site.
+
+* * *
+
+## Contact information
+
+GeekDad  
+3585 Sutton Loop  
+Fremont, CA 94536
+
+Attention: Privacy Officer  
+Email: privacy@geekdad.com
+
+## Additional information
+
+### How we protect your data
+
+The following security measures will be followed to ensure that client personal information is appropriately protected:
+
+  * The use of user IDs and passwords;
+  * Encryption;
+  * Firewalls;
+  * Restricting employee access to personal information as appropriates;
+  * Data storage in Canada.
+
+
+
+### What data breach procedures we have in place
+
+Our website and hosting server have multiple firewalls. Our website is scanned once a day for possible data breaches and vulnerabilities. If a data breach or vulnerability is detected, a site admin is alerted by email. If your data has been compromised, we will alert you no later than 3 days from the date of the detected breach, letting you know which data was compromised, what we have done to prevent it from occurring again, and steps to take to secure your data. Vulnerabilities are patched within 24 hours of patch’s availability.
+
+### What third parties we receive data from
+
+We do not receive any data from third parties.
+
+### What automated decision making and/or profiling we do with user data
+
+We do not do any automated decision making and/or profiling with user data.
