@@ -1,53 +1,86 @@
-> *The following text is extracted and transformed from the camsonline.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016175501id_/http%3A//camsonline.com/data_protection_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsonline.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717182458id_/http%3A//www.camsonline.com/AboutUs/COL_PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# New Document
+# Computer Age Management Services
 
-CAMS, on behalf of its clients, collect, record and use personal data of the investors, brokers including past, present and prospective in order to carry on its business as per contractual obligation and meet its clients' requirements effectively. We recognise that the lawful and correct treatment of personal data is very important to successful operations and to maintaining investor's confidence in ourselves and in our clients. 
+###  CAMS Privacy Policy
 
-Any personal data that we collect record or use in any way whether it is held on paper, on computer or other electronic media will have appropriate safeguards applied to it to ensure that we comply with our contractual obligations of confidentiality and privacy. 
+CAMS Privacy Policy confirms to our commitment to privacy and demonstrates the ways we ensure that data privacy is protected. CAMS Privacy Policy applies to the Sensitive Personal Data or Information (SPDI) of all our Customers / Investors and Clients that is in our possession and control. We request Investors / Clients / Customers to kindly read this Policy on Privacy carefully.
 
-Any sensitive information mentioned below as provided by the clients for providing service or received from the investors or through their agents or any through other third party engaged by the clients for processing, stored or processed under lawful contract or otherwise, both historic and ongoing are being used strictly for the purpose for which it has been collected (i.e.) in order to carry on its business and meet clients' requirements and deliverables effectively. 
+CAMS either directly or through third party service providers collects, receives, possesses, stores, deals or handles information received from investors, client, customers whether existing or prospective. The information can be personal and sensitive in nature as given below in the indicative list :
 
-Sensitive Information: 
-
-a) Investor Bank Account details provided either as part of the application submitted by the investor the clients or based on written request such as change of bank account or registration of multiple bank accounts.   
-b) Payment instrument details provided as part of application at the time of investment or as proof for carrying out change of bank account or any other Details of debit card obtained.   
-c) Generation and storing password (PIN) in encrypted form based on the request from the investor.   
-d) Biometric information obtained, if any.   
-e) Physical, physiological and mental health condition.   
-f)  Sexual orientation.   
-g) Medical records and history. 
-
-The above information collected is stored in a secure manner which compiles with ISO 27001 standards. We aspire to adhere to certain generally accepted principles of data protection, to the extent these are in our control as intermediaries. 
-
-These general principles state that personal data must be: 
-
-  * Fairly and lawfully collected and processed.
-  * Processed for limited purposes and not in any other way which would be incompatible with those purposes.
-  * Accurate and kept up to date. 
-  * Not kept for longer than is necessary. 
-  * Kept secure.
-
-In order to meet the requirements of the principles, following process and controls are adhered:   
+  * Bank Account details, change of bank account details or registration of multiple bank accounts etc. through forms;
+  * Payment instrument details at the time of submitting forms at the time of investment or as proof for carrying out change of bank account or any other details of debit card obtained (if any);
+  * Generation and storing password (PIN) in encrypted form based on the request from the investor under the online mode of investments;
+  * Biometric information obtained, if any;
+  * Demat account details like beneficiary account no. etc.;
+  * Annual Income and savings profile; and
+  * Other information as may be considered as sensitive and personal.
 
 
-  * observe ethical practices regarding the fair collection and use of personal data.
-  * Collect and process appropriate personal data only to the extent that we are obliged to by contract or to comply with any legal requirements.
-  * Ensure the quality of personal data used.
-  * Hold the data only as long as we are required to by contract or by law.
-  * Take appropriate security measures to safeguard personal data.
 
-We have a responsible data security policy and implemented technology and policies with the objective of protecting your privacy from unauthorised access and improper use   
-We provide details of investors only based on consent from our clients to their appointed brokers, agents, bankers and similar representatives, and to our client in whose products he has invested and to any other intermediaries to fulfill business obligation.   
-We may be required from time to time to disclose your personal information to governmental or judicial bodies or agencies or our regulators based on their requirement.   
-We will permit only authorized employees who are trained in the proper handling of customer information, to have access to that information. Employees who violate our Privacy Promise will be subject to our normal disciplinary process. 
+The aforesaid information is being collected by CAMS or third party service providers to service you better and also to be in complaint with Know Your Client (KYC) norms under the Prevention of Money Laundering Act 2001, (PMLA), the rules issued thereunder, and guidelines and circular on Anti-Money Laundering issued by SEBI and allied SEBI related Regulations, as amended till date.
 
-**Grievance Officer – Information Security:**  
-Name of the Officer : R Sanjai Raj Jain  
-Address: No. 158, Rayala Towers,   
-Anna Salai,  
-Chennai – 600 002  
-Phone No: 044-30212555  
-Email Id: [ITgrievance@camsonline.com](mailto:ITgrievance@camsonline.com)
+**This Privacy Policy covers the following topics:**
 
-The users of the computer resources including website of CAMS or any victim who has suffered due to access or usage of the sensitive information shall notify the complaints, if any to the above officer either through email or written compliant and such compliant shall be redressed within in one month from the date of receipt of the complaint. 
+  * How is Personal Information Collected 
+  * How is Personal Information used
+  * How Personal Information is Shared 
+  * How access to Customer Information is limited to employees
+  * Information Security 
+  * Data Retention & Erasure
+  * Incident Management
+
+
+
+###  Personal Information Collected
+
+**We gather information that you provide to us when you:**
+
+  * Personal Information Collected Online through our website and mobile applications
+  * Purchase products or services through AMCs / Brokers or directly approaching CAMS ISCs to avail the services.
+  * Make an inquiry, provide feedback, submit correspondence, or make a complaint over the phone, by email, on our website or by post
+  * Register for, and update an online account with us 
+  * Enter into a contract with us 
+  * CAMS may use cookies to collect information
+
+
+
+###  Personal information is Used
+
+CAMS use information to Comply with laws, guidelines and regulations that govern the financial services in the country. To detect, prevent illegal activities, fight spam, and protect the rights and property of clients. CAMS may use the information shared by Clients regarding the products and services to enhance the service related improvements. Reports are generated to protect and defend the rights, interests of Clients products and services. 
+
+We also monitor Internet Protocol (IP) addresses, browser supplied information and site session information may be recorded as part of the normal operations and for security monitoring purposes.
+
+Some of our products and services collect information about system and product data. We use this information to manage and administer our products and services, to issue updates and new versions, testing and monitoring services that we provide, enhancing our products and services, and improving and targeting our communications with you. 
+
+###  Personal information is shared
+
+CAMS shall reveal only such information to external authorities to comply with applicable laws including cyber laws, based on relevance to comply with applicable laws and to third party service providers such as distributors, banks, sub-brokers, call centers, custodians, depositories to ensure smooth functioning of the activities.-
+
+###  Access to customer information is limited to employees and Third Parties
+
+CAMS limits access to personally identifiable information to those employees with a business reason for knowing such information about investors. We regularly educates our employees on their responsibility to protect the confidentiality of investors’ information, and hold them accountable if they violate this privacy policy. We ensure to enter into suitable terms with third party service providers to protect client confidentiality and follow non-disclosure agreement (NDA).
+
+###  Information Security
+
+To protect Personal Information from unauthorized access and use, CAMS is a ISO 27001 – ISMS certified company and also use security measures and controls that comply with applicable laws and regulations. These measures may include device safeguards and secured files and buildings as well as oversight of their third party service providers to ensure information remains confidential and secure.
+
+###  Data Retention & Erasure
+
+We ensure that we meet the ‘data minimization’ and ‘storage limitation’ principles and that personal information is stored, archived and destroyed compliantly and ethically. We have dedicated erasure procedures in place to meet the new ‘Right to Erasure’ obligation and are aware of when this and other data subject’s rights apply; along with any exemptions, response timeframes and notification responsibilities. CAMS may retain the data as may be provided by the client till such time as may be provided under the law and as required to efficiently provide service to the clients. 
+
+###  Incident Management
+
+Our Incident Reporting procedures ensure that we have safeguards and controls in place to identify, assess, investigate and report any personal data breach at the earliest possibility. Our procedures are robust and have been disseminated to all employees, who are aware of the reporting lines and steps to follow.
+
+###  Changes to this Policy 
+
+CAMS reserves the right to change this Policy at any time by revising it. This privacy policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. By accessing CAMS website, you acknowledge and fully understand CAMS Privacy Policy and freely consent to the information collection and use practices described in this Policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates. 
+
+###  Consent 
+
+By accessing this web site and any of its pages you are agreeing to the Privacy Policy. Clients shall not be covered by this Policy, if they access other websites using links from our website. 
+
+###  Privacy Redressal 
+
+If Clients / Customer / Investors have any concerns relating to their personal and sensitive information they may be addressed to [privacy@camsonline.com.](mailto:privacy@camsonline.com)
