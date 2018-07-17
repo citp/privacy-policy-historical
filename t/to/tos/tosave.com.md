@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tosave.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126011124id_/http%3A//www.tosave.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tosave.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717080347id_/https%3A//www.tosave.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
-# Datenschutzrichtlinien | TOSAVE.COM
+# Données Personnelles | TOSAVE.COM
 
 Tosave.com (hereinafter "Tosave" or "we") values the privacy of our visitors/customers and takes every known precaution to safeguard the information we collect from potentially unauthorized use. The following is a detailed explanation of the privacy policy for Tosave. 
 
