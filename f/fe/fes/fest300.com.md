@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209213752id_/https%3A//www.everfest.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717145757id_/https%3A//www.everfest.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Everfest
 
-There are many different ways you can use our services — to search for and share , to communicate with other people or to create new content. When you share information with us, for example by creating a Everfest Account, we can make those services even better. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
+There are many different ways you can use our services — to search for and share, to communicate with other people or to create new content. When you share information with us, for example by creating a Everfest Account, we can make those services even better. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
 Our Privacy Policy explains:
 
@@ -16,21 +16,25 @@ Information we collect
 
 We collect information in two ways. Information you give us and information that we get from your use of our services.
 
+Data Controller
+
+Everfest is the data controller for data collected on Everfest.com and stored in our database. Everfest is located at 2151 S. Lamar Blvd, Austin, TX, USA 78704. For any inquiries related to your data or this policy, please email [privacy@everfest.com](mailto:privacy@everfest.com).
+
 Information you give us
 
-For example, many of our services require you to sign up for a Everfest Account. When you do, we’ll ask for personal information, like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible Everfest Profile, which may include your name and photo. 
+For example, many of our services require you to sign up for a Everfest Account. When you do, we’ll ask for personal information, like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible Everfest Profile, which may include your name and photo.
 
 Information we get from your use of our services
 
-We may collect information about the services that you use and how you use them. This information includes: 
+We may collect information about the services that you use and how you use them. This information includes:
 
 Device information
 
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Everfest may associate your device identifiers or phone number with your Everfest Account. 
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Everfest may associate your device identifiers or phone number with your Everfest Account.
 
 Log information
 
-When you use our services or view content provided by Everfest, we may automatically collect and store certain information in server logs. This may include: 
+When you use our services or view content provided by Everfest, we may automatically collect and store certain information in server logs. This may include:
 
   * details of how you used our service.
   * Internet protocol address.
@@ -41,19 +45,19 @@ When you use our services or view content provided by Everfest, we may automatic
 
 Location information
 
-When you use a location-enabled Everfest service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
+When you use a location-enabled Everfest service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
 
 Unique application numbers
 
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Everfest when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Everfest when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
 
 Local storage
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
 
 Cookies and anonymous identifiers
 
-We and our partners use various technologies to collect and store information when you visit a Everfest service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Everfest features that may appear on other sites. 
+We and our partners use various technologies to collect and store information when you visit a Everfest service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Everfest features that may appear on other sites.
 
 How we use information we collect
 
@@ -73,10 +77,10 @@ Everfest processes personal information on our servers in many countries around 
 
 Transparency and choice
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
+People have different privacy concerns. Our goal is to be clear about what information we collect so that you can make meaningful choices about how it is used. For example, you can:
 
   * Review and control certain types of information tied to your Everfest Account by using Everfest Dashboard.
-  * Use our editor to see and adjust how your Everfest Profile appears to particular individuals.
+  * Use our editor to see and adjust how your Everfest Profile appears to particular individuals. User profile information appears on the “Fans Following” section of a festival page, reviews and a user profile of someone with whom you are connected.
   * Control who you share information with.
   * Take information out of many of our services.
 
@@ -86,7 +90,31 @@ You may also set your browser to block all cookies, including cookies associated
 
 Information you share
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Everfest. Our services provide you with different options on sharing and removing your content.
+Many of our services let you share information with others. For example, user profiles are defaulted to be visible by other Everfest members. Users can set their profile to "Private" in the "Account Settings" page via the nav menu as a signed in user. Users can also edit their username to change their profile URL. ​​If your profile is set to private, your full profile will only be visible to Everfest members that you allow. ​Remember that when you share information publicly, it may be indexable by search engines, including Everfest. Our services provide you with different options on sharing and removing your content. Here is a summary of how the settings control your information:
+
+ **Public user profile** \- Profile information is visible to all Everfest users, including:
+
+  * Photo
+  * Name
+  * Location
+  * Member since year
+  * Biography text
+  * Festival tastes
+  * First, favorite, and dream festival
+  * All Everfest friend connections
+  * All festivals you have followed, saved, reviewed
+
+
+
+ **Private user profile** \- Only signed in users who are my connections can see my full profile information (above). Signed out users and signed in users who are not my friends, will see a default private profile, including:
+
+  * Photo
+  * Display name
+  * Member since year
+  * Number of connections
+  * Number of festivals
+
+
 
 Accessing and updating your personal information
 
@@ -96,21 +124,41 @@ We may reject requests that are unreasonably repetitive, require disproportionat
 
 Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
+Full Erasure of Your Data
+
+Should you require erasure of your personal data, please contact [privacy@everfest.com](mailto:privacy@everfest.com).
+
 Information we share
 
 We do not share personal information with companies, organizations and individuals outside of Everfest unless one of the following circumstances applies:
 
 With your consent
 
-We will share personal information with companies, organizations or individuals outside of Everfest when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Opt-in consent may include you affirmatively choosing to use certain features on the site such as those indicating your intent to attend a specific festival, including but not limited to buttons marked as "Save", "Want", "Going", and "I'm Going". In such instances, we may share limited personal information such as Your name and email with certain specific organizers of the festivals that you have indicated your intent to attend solely for the purposes of providing you official information about such festivals. 
+We will share personal information with companies, organizations or individuals outside of Everfest when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Opt-in consent may include you affirmatively choosing to use certain features on the site such as those indicating your intent to attend a specific festival, including but not limited to buttons marked as "Save", "Want", "Going", and "I'm Going". In such instances, we may share limited personal information such as Your name and email with certain specific organizers of the festivals that you have indicated your intent to attend solely for the purposes of providing you official information about such festivals.
 
 For external processing
 
-We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+External Processing Providers
+
+Below is is a list of providers that may provide external processing of data in the course of use of the Everfest site and products.
+
+Facebook - Used as a login option and data source for profile information. [Privacy Policy](https://www.facebook.com/privacy)
+
+Stripe - Handles payment processing. [Privacy Policy](https://www.stripe.com/privacy)
+
+Hive - Used for giveaways. [Privacy Policy](https://www.hive.co/privacy)
+
+Google Analytics - Internal analytics around site usage. [Privacy Policy](https://policies.google.com/privacy)
+
+Amplitude - Internal analytics around site usage. [Privacy Policy](https://amplitude.com/privacy)
+
+Zendesk - For customer support resolution. [Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)
 
 For legal reasons
 
-We will share personal information with companies, organizations or individuals outside of Everfest if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+We will share personal information with companies, organizations or individuals outside of Everfest if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
   * meet any applicable law, regulation, legal process or enforceable governmental request.
   * enforce applicable Terms of Service, including investigation of potential violations.
