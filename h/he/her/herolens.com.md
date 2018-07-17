@@ -1,41 +1,210 @@
-> *The following text is extracted and transformed from the herolens.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130212828id_/http%3A//www.herolens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herolens.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717211337id_/https%3A//herolens.com/static/pages/privacy.html) for the most accurate reproduction.*
 
-# privacy – Herolens
+# Herolens
 
-**HEROLENS – PROGRAMMATIC CREATIVE**
+##  HEROLENS – PROGRAMMATIC CREATIVE 
 
-**Privacy Policy**  
-**About Us**  
-At Herolens we take your privacy very seriously. The purpose of this privacy policy is to explain the principles of our ‘Real Time Programmatic Creative’ advertising solution and the data that it collects from our ads viewers (“you”).
+##  Privacy Policy 
 
-Herolens reserves the right, at our discretion, to change this privacy policy at any time. Changes will be effective 10 days following posting of the revised privacy policy on our website. Your continued use of our website 10 days following such posting means you are accepting those changes.
+At Herolens we take our clients (“Advertisers”) and our client´s users or customers or future customers (“Users”) privacy very seriously. The purpose of this Privacy Policy is to explain how through Herolens’ “Real Time Programmatic Creative advertising solution” we may collect, retain, process, share and transfer Advertisers and/or Users’ Personal Information.
 
-**About Herolens Programmatic Creative**  
-Herolens is a platform that automatically generates dynamic HTML5 ads on the fly given any kind of data accross all screens. Herolens’ technology enhances clients online shopping experience while improving communication between a brand and its audience through innovative, engaging, professionally designed ads. These ads result in higher engagement and ROI to Herolens clients. Herolens’ objective is to provide, best optimize and personalized dynamic rich media ads to customers of our clients across the web.
+For the purposes of these Privacy Policies Advertisers  shall be natural persons or companies (including its employees) that request Herolens’ services to advertise their own or third parties’ goods and services through the internet. Thus, Advertisers shall be considered as advertisers.
 
-Herolens firmly believes in data personalization as a mean of generting more engaging experiences for consumers.
+Users shall be any natural person who in general uses internet for all lawful permitted activities and especially to find goods and services through different websites, for example, a user of an e-commerce site looking to purchase a particular product
 
-**What Information Does Herolens Programmatic Creative Collect?**  
-Herolens, with its Programmatic Creative platform, does not automatically collect any Personal Information (“PII”) that can be used to identify you. Personal information refers to any information that may be used, either as-is or combined with other information, to identify an individual, such as, but not limited to, a first and last name, personal profile, physical address, an email address or other contact information. In cases when data is automatically collected, it is completely anonymous and includes information, which does not enable identification of an individual user, such as the Internet Browser you are using to access websites, whether you have visited our clients’ websites, and random collected data about how our clients’ websites and services are being used (page load times). The information Herolens might be aware of is that a certain user (No personal information included – name, address, email, etc.) visited several products pages recently and this information is used to present videos and ads that are relevant to those products.
+Herolens reserves the right, at Herolens’ discretion, to change this Privacy Policy from time to time to reflect changes to Herolens’ business, the sites or services, or applicable laws. For that purpose, we will provide Advertisers and Users with thirty (30) days prior notice for any change on the “Privacy Policy” page of Herolens’ website. We also may notify Advertisers of the change using a contact information, email or other means of contact if provided by Advertisers and Users. We are not responsible if Advertisers choose not to provide this information to the Users.  The revised Privacy Policy will be effective as of the publication date. Advertisers and Users may contact us if  they have questions about Herolens’ privacy practices that are not addressed in this Privacy Policy.
 
-We respect your privacy. We only collect PII through optional, voluntary submissions, such as email, survey information, and in banner registration forms. The types and amount of personal information collected from these activities will vary depending on the activity, but in no event will we collect PII that is not voluntarily given by you.
+* * *
 
-**How Is This Anonymous Information Collected?**  
-Herolens may choose to collect the anonymous information through the use of browser cookies and/or via user interaction or engagement with our ads (viewing ad impressions or clicking the ad). Browser cookies record, for example, the pages you browsed on our clients’ websites. When you visit our clients’ websites that Herolens Programmatic Creative is integrated with, your browser sends the anonymous cookie and based on the information stored there, you should receive better-targeted and relevant ads than the standard you would receive without using Herolens Programmatic Creative. Herolens has no way, need or desire to identify you throughout this process.
+###  About Herolens Service 
 
-You can remove our cookies and opt-out by [clicking here](https://api.herolens.com/t/optout.html).
+Herolens is a Programatic Creative Collect Platform Platform (“Platform”) that automatically generates dynamic HTML5, video or image content ads ads on the fly given any kind of data accross all screens. By request of Advertisers, or by any technological mean which may be provided by Herolens to Advertisers in the future, Herolens’ technology enhances Users online shopping experience while improving communication between a brand and its audience through innovative, engaging, professionally designed ads (“the Service”).
 
-You can opt-in again in order to receive a better targeted and personalized ad experience by [clicking here](https://api.herolens.com/t/optin.html).
+These ads result in higher engagement and ROI to Herolens’ Advertisers. Herolens’ objective is to provide, best optimized and dynamic rich media and video ads to Users across the web,  applications, and other platforms, while augmenting the creative production capability of Advertisers.
 
-**Display Of Herolens Programmatic Creative Ads**  
-Herolens ’ Programmatic Creative ads run on many Internet websites and mobile applications as part of their promotion, advertising and video programming. The ads could appear in relevant product pages, as stand-alone ads, social media posts or ads, banners and before or during the playback of a video that you chose to watch. Many of these publishers access Herolens through third-party advertising networks or ad exchanges. Those networks may also place cookies on your browser upon visiting a Herolens customer’s website to facilitate ad serving as described above. You may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. In addition, you can opt out of any other third party vendor’s use of cookies by visiting the Network Advertising Initiative opt out page.
+Herolens firmly believes in creative dynamization as a mean of generating more engaging experiences for Users and augmenting the creative output of Advertisers.
 
-**Links And Third-Party Sites**  
-Herolens may choose to implement and incorporate, as part of the assets in its ad creation, specific content from its clients databases, Third party services Herolens ’ clients are using as well as Google services such as: Google Maps / Earth / Places APIs. Therefore by using Herolens application, clients and users acknowledge and agree to be bound by Herolens ’ clients Privacy Policy and Google Privacy Policy.
+Herolens Service is actually not intended for Advertisers and/or Users residing in Europe. Nevertheless, Herolens’ Services shall be available to Advertisers and/or Users residing in Europe in the future. Thus, Herolens respects and is in a constantly effort to be in compliance with the European General Data Protection Regulation 2016/679 (“GDPR”) to protect, warrant and preserve the rights to those Advertisers and/or Users to may eventually apply or to be served.
 
-**Contact Us**  
-If you have any questions or concerns regarding our policies, please contact us through our website. Alternatively you can contact us in writing at the following address: privacy (at) herolens (dot) com. We will address any issue to the best of our abilities as soon as possible.
+* * *
 
-Herolens Group LLC – 116 west 23rd Street Suite 500, New York NY 10011, NEW YORK, NY
+###  What Information Does Herolens Programmatic Creative Collect and how is collected? 
 
-Last revised: March 22nd, 2017.
+#### User Information:
+
+Herolens processes personal information of Users to offer its Service (“Personal Information”). In this regard, Personal Information may be processed for commercial and Advertiser analysis, reporting and statistical purposes, marketing purposes (for example,  customized marketing or direct marketing, if applicable unless rejected by Users), administration notices, database management and maintenance, product suggestions and offers, interaction with third parties social networks, access to third party services' accounts and platforms and newsletters.
+
+As an example, when a Advertiser hires Herolens’ Service to advertise a product, Herolens might be aware of when and how many times  a Final User have recently visited several products or pages through Advertisers´ websites. This information is used to show to the Users, videos and ads through diferent ways related to those products, as a mean of generating more engaging experiences for the Users.
+
+In general, User’s Personal Information shall include: IP (internet protocol) adresses, Timezones and Cookies. Particularly, Herolens may collect the following information and its purposes:
+
+  * **Advertiser’s website activity:** Information about User browsing activity on Advertiser's website. (for example, visited pages, visited products, time of the visit and  items placed into online shopping carts).
+  * **Browsing information, Devices:** Technical information about the devices or browsers used by Users on Advertiser’s website. (for example, User device's IP address, cookie string data, in case of mobile devices, device type and mobile device's unique identifier such as the Apple IDFA or Android Advertising ID).
+  * **Advertising activity data:** Information about the online ads Herolens or its partners (for example Google, among others) have served to Users. (including amount of times an ad has been served to User, what page the ad appeared on, and whether the User clicked on or otherwise interacted with the ad).
+
+
+
+#### Advertisers:
+
+Herolens uses this information to help Advertisers serve ads and so they are able to identify  the Users that are more relevant to them and to operate, improve and enhance Herolens’ Service
+
+In order to perform the Service, the Platform may use cookies, tracking pixels and related technologies. Cookies are small data files that are served by Herolens Platform and stored on the User’s device. They enable us to identify User’s devices when Users use and navigate through different websites and applications in order to serve targeted advertising of Advertiser’s products and services to the Users.
+
+Herolens may choose to collect anonymous information through the use of browser cookies and/or via User interaction or engagement with Herolens’ ads (viewing ad impressions or clicking the ad). Browser cookies record are, for example, pages the User browsed on Advertisers’ websites. Herolens Platform is integrated with Advertisers’ websites, therefore once the User visits Advertisers´ website, its browser sends an anonymous cookie to Herolens Platform, and based on the information stored there, the User should receive better-targeted and relevant ads than standard User would receive without using Herolens Platform.
+
+####  Advertiser Data: 
+
+Herolens will collect from Advertisers the following information:
+
+  * **Names and addresses:** Herolens will collect all names and addresses of Advertisers they provide in order to perform the Service.
+  * **Billing information:** Herolens will collect and process all billing information including tax ID, tax identifiers, financial information, bank accounts and other relative data used to invoice the Service.
+  * **Pricing:** Herolens will collect and process all pricing information regarding to the agreement with the Advertiser.
+  * **Timezones:** Herolens still collect and process the default timezone related to a particular Advertiser for reporting purposes.
+  * **Service Level:** Herolens will collect and process the Service Level status of the Advertiser for service quality purposes.
+
+
+
+Herolens collects Personal Information from its Advertisers when the Advertiser hires Herolens Services for creating a new Account (“Advertisers Account”). As a result of hiring Herolens’ services, Herolens asume that all Personal Information of the Client and collected and processed by Herolens is provided with the expressed consent of the Advertiser. In no event Herolens will collect Personal Information from the Advertiser that has no consent and its not voluntarily given by the Advertiser.
+
+* * *
+
+### Opt-out / Opt-in
+
+#### Advertisers
+
+Advertisers may request Herolens the removal of Herolens’ cookies and opt-out by sending an email to [privacy@herolens.com](mailto:privacy@herolens.com) with the subject OPT-OUT. 
+
+Advertisers may request to opt-in again in order to receive a better targeted and personalized ad experience by sending an email to [privacy@herolens.com](mailto:privacy@herolens.com) with the subject OPT-IN. 
+
+#### Users
+
+The Users can remove their cookies and opt-out in Herolens Site by entering [here](https://api.herolens.com/t/optout.html)
+
+The Users can opt-in again in order to receive a better targeted and personalized ad experience in Herolens Site by enter [here](https://api.herolens.com/t/optin.html). 
+
+The use of Herolens cookies and further information about it can be found on Herolens’ Cookies Policies [Cookies Policies](https://web.archive.org/web/20180717211337id_/https%3A//herolens.com/static/pages/cookies.html)
+
+* * *
+
+###  What Privacy Choices Are Available To Advertisers and Users ? 
+
+Users have (and Advertisers may have) choices to the privacy practices and communications described in this Privacy Policy.  Many of Advertisers and Users choices may be also explained in Advertiser´s websites, and be performed at the time Advertisers and Users use a service or a site.  Advertisers and Users may be provided with instructions and prompts within the experiences as they navigate the Services.  
+
+**Choices Relating to the Personal Information Herolens** Advertisers and Users may decline to provide Personal Information when it is requested by Herolens Advertisers or Herolens, but certain Services or all of the Services may be unavailable to Advertisers and Users. 
+
+**Location and other device-level information.   **The device Users use to access Advertiser’s sites or Service may collect information about them, including Geolocation Information (only their Country Code) and their IP that Herolens may then collect and use. For information about Advertisers’ ability to restrict the collection and use of such information, please use the settings available in the device.
+
+**Choices Relating to Cookies.** Users may have options available to manage cookies preferences. For example, Users browser or internet device may allow Users to delete, disable, or block certain cookies and other tracking technologies.  Users may choose to enable these options, but doing so may prevent Users from using many of the core features and functions of the Service and to relegate a better experience.
+
+Users may have an option regarding the use of cookies and other tracking technologies when they use the Service or visit parts of an Advertiser’s site.  For example, Users may be asked if they want the Service or the site to “remember” certain things about them, and Herolens will use cookies and other tracking technologies to the extent that Users permit them.
+
+Advertisers and Users  can learn more about Herolens’ cookies and tracking technologies by visiting [Cookies Policies](https://web.archive.org/web/20180717211337id_/https%3A//herolens.com/static/pages/cookies.html)
+
+**Choices Relating to the Advertiser´s Registration and Account Information.** Advertisers have an Account, and they generally may review and edit Personal Information by logging in and updating their information directly or by contacting us. 
+
+Advertisers may contact us if they have questions about their Account information or other Personal Information.
+
+**Choices Relating to Communication.** Notices, Alerts and Updates from Herolens:  
+
+  * **Marketing:**  Herolens may send to Advertisers marketing content about Herolens’ sites, Service, products, as well as the products and services of unaffiliated third parties through various communication channels, for example, email. Advertisers may opt out of these marketing communications by following the instructions in the communications they receive.  
+  * **Informational and Other:**  Herolens will send communications to Advertisers that are required or necessary to send to Users regarding Herolens’ Service, notifications that contain important information and other communications that Advertisers and Users request from us.  Advertisers may not opt-out of receiving these communications.  However, Advertisers may be able to adjust the media and format through which they receive these notices 
+
+
+
+* * *
+
+###  Display Of Herolens Programmatic Creative Ads 
+
+Herolens’ Programmatic Creative ads run on many Internet websites and mobile applications as part of their promotion, advertising and video programming. The ads could appear in relevant product pages, as standalone ads, social media posts or ads, banners and before or during the playback of a video that Users chose to watch. Many of these publishers may access Herolens through third-party advertising networks or ad exchanges.
+
+Those advertising networks, like Google, may also place cookies on the User´s browser upon visiting a Herolens Advertiser’s website to facilitate ad serving as described above. Users may opt-out those cookies by visiting those advertising network opt-out pages. For example,  the User may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](https://support.google.com/ads/answer/2662922?hl=en). here In addition, the  User can opt-out of any other third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page.](http://optout.networkadvertising.org/)
+
+* * *
+
+###  Why Do We Retain Personal Information? 
+
+Herolens has no interest in retaining Personal Information about Users and Advertisers for any other purpose than the effectiveness of its Service.  Herolens may retain Personal Information to fulfill Herolens’ legal obligations and for Herolens’ business purposes. Herolens may retain Personal Information of Users for targeting purposes for 180 (a hundred and eighty) days as a maximum length. Herolens may retain Personal Information for longer periods than required by law if it is in Herolens’ legitimate business interests and not prohibited by law.  In case Herolens need to close a Advertiser Account, Herolens may take steps to mask Personal Information and other information, but we reserve Herolens’ ability to retain and access the data for so long as required to comply with applicable laws.  We will continue to use and disclose such Personal Information in accordance with this Privacy Policy.
+
+* * *
+
+###  How Do We Process Personal Information? 
+
+#### Herolens may Process Advertisers information for the following reasons:
+
+  * Processing the performance of a contract to which the Advertiser is party;
+  * To operate the Sites and provide the Services, including to:
+  * Authenticate the Advertiser´s access to an Account;
+  * Communicate with Advertisers about their Account, the Sites, the Services;
+  * To manage Herolens’ business needs, such as monitoring, analyzing, and improving the Services and the Sites’ performance and functionality.
+  * To manage risk and protect the Sites, the Services, Advertisers and the Users from fraud by verifying the Advertiser´s and User´s identity, and helping to detect and prevent fraud and abuse of the Sites or Services.
+  * To market to Advertisers by delivering marketing materials about Herolens products and online Services and the products and services of unaffiliated businesses. We may also Process Advertiser´s Personal Information to tailor certain Services or Site experiences to better match Herolens’ understanding of their interests.
+  * To provide Advertisers with location-specific options, functionality or offers if Advertisers elect to share their Geolocation Information. Herolens will use this information to enhance the security of Herolens’ Sites and Services and provide Advertisers with location-based Services (advertising, search results, and other personalized content).
+  * To comply with Herolens’ obligations, including to comply with all applicable laws and regulations.
+  * Herolens will recommend and encourage Advertisers to comply with all applicable regulations regarding data privacy in all applicable jurisdictions.
+  * To respond to Advertisers requests, for example to contact Advertisers about a question Users ´ve submitted to Herolens’ customer service team.
+
+
+
+####  Herolens may Process Users information for the following reasons: 
+
+  * To provide personalized Services offered by Herolens on Advertisers and third-party websites and online services. Herolens may use Advertisers and Users Personal Information and other information collected in accordance with this Privacy Policy to provide a targeted display, feature or offer to Users on third-party websites.  Herolens may use cookies and other tracking technologies to provide these online services and/or work with other third-parties such as analytics companies to provide these online services.
+  * To provide Users with location-specific options, functionality or offers if Users elect to share their Geolocation Information through the services offered by Advertisers. Herolens will use this information to enhance the security of Herolens’ Sites and Services and provide  Users with location-based Services (advertising, search results, and other personalized content).
+  * To comply with Herolens’ obligations, including to comply with all applicable laws and regulations.
+  * Herolens will recommend and encourage Advertisers to comply with all applicable regulations regarding data privacy in all applicable jurisdictions.
+  * To respond to Users requests, for example to contact Advertisers about a question Users´ve submitted to Herolens’ customer service team.
+
+
+
+Herolens may ask for Advertisers and/or Users consent for the processing of certain type of Personal Information. When collecting such consents, Herolens inform the Advertisers and/or Users of the respective purposes of processing and such processing is conducted only when appropriate consent is received.
+
+####  Do We Share/Transfer Personal Information? 
+
+Only for the purposes stated in this Privacy Policy and to perform the Service, Personal Information may be disclosed by Herolens, when necessary, to authorities, other companies within the same Herolens affiliates, Herolens’ partners and to other third parties, such as third party service providers used in connection with Herolens Service and services related thereto. In some cases, Personal Information may be transferred outside the European Union and the European Economic Area (“EU/EEA”), including but not limited to, the United States of America, asian and latin american countries as well where Herolens conduct its business. Such transfers outside the EU/EEA are performed subject to appropriate safeguards and safety measures such as standard data protection clauses adopted in respective agreements or otherwise approved by the EU Commission in accordance with the GDPR. The applicable Standard Data Protection Clauses in the respective agreements may be available for review to Users upon apropiate request.
+
+In other cases for different jurisdictions, like but not limited to, Argentina, Personal Information may be transferred outside the country to countries with the same or better levels of protection. In case the Personal Information is transferred to countries with lower levels of protections, Herolens will perform those transfers subject to appropriate safeguards and safety measures such as standard data protection clauses adopted in respective agreements or otherwise approved by the legal applicable authority.
+
+####  How Do We Protect Advertisers and Users Personal Information? 
+
+Herolens maintain technical, physical, and administrative security measures designed to provide reasonable protection for Advertisers and Users Personal Information against loss, misuse, unauthorized access, disclosure, and alteration.  The security measures include firewalls, end-to-end data encryption, and information access authorization controls.  Nevertheless, considering the actual online environment is not fully secured, Herolens shall not guarantee that security measures taken will prevent illegally and maliciously operating third parties from obtaining access to Advertisers and Users Personal Information and the absolute security of that information during its transmission or its storage on Herolens systems. While Herolens is dedicated to securing its systems and Service, Advertisers are responsible for securing and maintaining the privacy of their password(s) and Account, registration information and verifying that the Personal Information Herolens maintain about the Advertisers is accurate and current.
+
+* * *
+
+###  Which are the Users and Advertisers’ Rights? 
+
+Users and Advertisers have the right to request from us:
+
+  * Access to and rectification or deletion of User or Advertiser Personal Information;
+  * For restriction of processing concerning the User or Advertiser or to object to processing; and to receive, under certain preconditions, User or Advertiser’s Personal Information in a structured, commonly used and machine-readable format and to transmit those data to another third party.
+
+
+
+Users and Advertisers may exercise the aforementioned rights by sending a written request to us at [ privacy@herolens.com.](mailto:privacy@herolens.com) Where the processing is based on consent, User or Advertiser has a right to withdraw such consent at any time. Said withdrawal will not affect the lawfulness of processing based on consent before its withdrawal. In case the User or Advertiser considers that its rights under the data protection laws are infringed, the User or Advertiser may file a complaint with the supervisory authority of the User or Advertiser residence. As an example, for Argentina, the authority is AGENCIA DE ACCESO A LA INFORMACIÓN PÚBLICA (Public Information Access Agency), Av. Pte. Julio A. Roca 710 . Piso 2º - Ciudad de Buenos Aires, [ www.argentina.gob.ar/aaip](https://argentina.gob.ar/aaip) \- email: [datospersonales@aaip.gob.ar](mailto:datospersonales@aaip.gob.ar) +5411-2821-0047. As an example for Europe, Data Protection authorities are independent public authorities that supervise, through investigative and corrective powers, the application of the data protection law. They provide expert advice on data protection issues and handle complaints lodged against violations of the General Data Protection Regulation (GDPR) and the relevant national laws. There is one in each EU Member State. Generally speaking, the main contact point for questions on data protection is the Data Protection authority in the EU Member State where User or Advertiser is based. To find the proper authority User or Advertiser may enter the following link: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>  
+
+####  Links And Third-Party Sites 
+
+Herolens may choose to implement and incorporate, as part of the assets in its ad creation, and as a part of the Service specific content from its Advertisers databases. Advertisers that are using  Google services such as: Google Maps / Earth / Places APIs as well as using Herolens Platform, acknowledge and agree to be bound by this Privacy Policy and Google Privacy Policy.
+
+####  Can Children Use Herolens’ Services? 
+
+Service is not aimed nor directed to children under the age of 13.  Herolens do not knowingly collect information, including Personal Information, from children or other individuals who are not legally able to use Advertiser’s Sites and the Service.  If Herolens obtain actual knowledge that may have collected Personal Information from a child under the age of 13, Herolens will promptly delete it, unless Herolens is legally obligated to retain such data.  Please contact Herolens if Advertisers or Users believe that Herolens have mistakenly or unintentionally collected information from a child under the age of 13.
+
+* * *
+
+###  Changes to this Privacy Notice 
+
+Changes to this Privacy Notice will be posted on this page. If we make a material change to Herolens’ privacy practices, we will provide notice on the site and by other contact information User or Advertiser has provided.
+
+* * *
+
+###  Contact Us 
+
+If the Advertiser and/or User have any questions or concerns regarding Herolens’ Privacy Policy, please contact us.
+
+All contacts and inquiries related to this Privacy Policy should be addressed to [ privacy@herolens.com](mailto:privacy@herolens.com).
+
+Herolens Group LLC   
+116 west 23rd Street Suite 500,   
+New York NY 10011, NEW YORK, NY   
+UNITED STATES OF AMERICA 
+
+Last revised: April 19th, 2018.
