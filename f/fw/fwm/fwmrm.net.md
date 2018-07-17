@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623093434id_/http%3A//freewheel.tv/privacy-policy/%3Fnoredirect) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717211317id_/http%3A//freewheel.tv/privacy-policy/%3Fnoredirect) for the most accurate reproduction.*
 
 # Privacy Policy – FreeWheel, A Comcast Company
 
