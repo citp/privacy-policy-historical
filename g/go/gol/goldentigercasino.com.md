@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldentigercasino.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517150901id_/http%3A//www.gtcasino.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentigercasino.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717170919id_/https%3A//www.gtcasino.com/en/privacy) for the most accurate reproduction.*
 
 # Security : Golden Tiger Casino Privacy Policy
 
