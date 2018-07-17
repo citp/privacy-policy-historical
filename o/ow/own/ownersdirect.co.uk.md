@@ -1,196 +1,280 @@
-> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405211742id_/https%3A//www.ownersdirect.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717203645id_/https%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Owners Direct
+# Privacy Policy | Homeaway UK (Holiday-Rentals)
 
-[Download as PDF](https://www.homeaway.co.uk/info/files/live/sites/hr/files/shared/aboutus/HAUK_Pivacy_Policy.pdf)
+## Introduction
 
-_Last updated: 29 September 2016_
+HomeAway respects your right to privacy and takes your privacy seriously.  HomeAway is committed to protecting and securing any personal information you give us.  This Privacy Policy explains who we are; how we collect, use and share personal information about you; how you can manage the information you give us and exercise your privacy rights; and how we protect your information.  This Privacy Policy relates to our use of any personal information we collect from you via our online services including our Website, App and online booking APIs (i.e., online-booking tools used by our partners and Owners) (" **Online Services** ") or give us in any other way (together, the “ **Services** ”). 
 
-We are serious about protecting the privacy of our users. This Privacy Policy describes how we use and protect your personal information. It applies to [www.ownersdirect.co.uk](http://www.ownersdirect.co.uk/) and to any other affiliate website where this policy is linked to in the footer of the page (collectively referred to as the “Site”), and any mobile application of such websites. Websites of our affiliates may be governed by separate privacy policies and those policies are generally accessible by links in the footers of those websites.
+## What does HomeAway do?
 
-The Site is operated by the HomeAway group of companies, which is part of Expedia, Inc group. You can find details of the HomeAway group on the Site and where we refer to all of these companies, including our parent company and its subsidiaries and affiliates; in this Privacy Policy we call them the “HomeAway Group”. 
+HomeAway provides an online marketplace for people to search for and rent short-term vacation properties or list their properties to be rented.  Properties can be listed via our Online Services.  We offer customer support to you through our customer services team to deal with any issues you have with your listing or booking such as complaints.
 
-The terms “ **users** ” or “ **you** ” as used in this Privacy Policy, refer to travellers, who use the Site to look for properties to rent (“ **Travellers** ”), to property owners, lessees and property managers (“ **Owners** ”) who list their properties for rent on the Site, and to other users who use software or other tools or services we provide on the Site.
+As used in this Privacy Policy, the term “Owner” refers to a property owner, lessor or manager who is or in the process of listing one or more properties on our Online Services. The term “Traveller” refers to a user who is using the site to look for properties to rent.
 
-We use information collected about you only as permitted in this Privacy Policy. The Site may contain links to third parties’ websites. We are not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on the Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those websites. Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the [Owner Terms and Conditions](https://www.ownersdirect.co.uk/info/about-us/legal/terms-and-conditions-owner) and the [Traveller Terms and Conditions.  
-](https://www.ownersdirect.co.uk/info/about-us/legal/traveller-terms-conditions)  
-By providing information to us when listing a property, searching for a property, using any tool or service on the Site, posting any content, sending inquiries or otherwise using the Site, you agree to this Privacy Policy. This Privacy Policy was last updated on the date set forth above and applies from that date. We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Site updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on the website. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
+## Key things you should know about how we use your information:
 
-The Site is intended for use by individuals who are over 18 years of age.
+  * We use your information (and the information of those travelling with you) for purpose of enabling travel bookings.
+  * This includes sharing your booking information with our Suppliers or Owners in order for them to fulfil your booking.
+  * We also engage other third-party vendors who provide services or functions on our behalf.
+  * Where you choose to receive marketing information, we will let you know about any special offers that may be of interest to you, including our loyalty programs. You are able to opt-out at any time by visiting our [Preference Center](http://mailaway.homeaway.com/PreferenceCenter), the [Customer Services Portal](https://help.homeaway.co.uk/category/Privacy) or unsubscribing as instructed in our communications.
+  * You can contact us about updating or accessing your information through our Customer Services Portal.
+  * We use information like cookies to improve your experience on Online Services; provide us with analytics information that will help us improve our Services generally; and to collect information about travel destinations of interest to you so that you may see travel ads that are more relevant to you.
+  * From time to time and usually following an interaction with us, we will ask you for your feedback to ensure we are providing the best service we can.
+  * The data controller of your personal information is HomeAway UK Limited. If you are using our Services outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. Please rest assured that we take appropriate steps to protect your privacy and security. We recommend that you read this Privacy Policy in full to ensure you are completely informed. However, if you only want to access a particular section of this Privacy Policy, then you can click on the relevant quick link in the menu.
 
-  
-**Who processes your personal information, and where?**
 
-Information that can identify you ("personal information") will be collected, processed, stored and used by us, and passed to and processed by companies in the HomeAway Group (our parent company Expedia, Inc and its affiliates) and other data processors acting under our instructions or those of one of the companies in the HomeAway Group. These people may be engaged in, among other things, the fulfilment of your information requests and the provision of support tools and services on the Site. They may also be helping us maintain the integrity and security of the Site, including emails and messaging platforms on the Site. As a result, personal information contributed by or collected from users may be stored and processed in the United Kingdom, United States or any other country in which we, our parent company, our or their affiliates, subsidiaries, partners or agents maintain facilities. The data protection and other laws of the United States and other countries that your data may be transferred to might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your personal information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 
-We may also periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include travel history and demographic information. By submitting your personal information, you agree to this collection, transfer, storing and/or processing.
+If you have any questions or concerns about our use of your personal information, then please contact us via our Customer Services Portal found in the “Contact Us” section at the bottom of this policy.
 
-Where you use HomeAway’s services to connect with other people (for example, if you use the HomeAway network to communicate with Travellers who may wish to rent your property) that communication will also be accessible to us and will be covered by this policy.
+## External Links
 
-Our Site may also collect and store some information (including personal information) locally on your device using your browser and data caches. This could include, for example, photographs of properties you have viewed online.
+If any parts of our Online Services link you to other websites or Apps, those newly opened links do not operate under this Privacy Notice. We therefore recommend you examine the privacy notices/statements/policies posted on those other online areas to understand their procedures for collecting, using, and disclosing personal information.
 
-Please also remember that when you share information on the Site, it may be “indexable” by search engines, including Google, which may mean that the information is made public. For example, if you review a property you have stayed at, the review and any information you provide as part of that review may be publicly accessible (including on other websites).
+## What personal information do we collect and why?
 
-HomeAway Group sites may also use Google Analytics to gather statistics on site usage. This may involve the use of cookies. There are more details in our Cookies Policy and in Google’s own privacy policy. Google may aggregate data they collect form their various services including Google Analytics, Google Translate, Google Maps and YouTube. You acknowledge and accept that HomeAway Group has no control over Google’s data collection. We strongly advise that you look at Google’s privacy policy for details of their data collection practices.
+  * _Information that you provide directly to us_
 
-**The information we collect**
+We may ask you to provide personal information directly to us. For example, we may ask you to provide your contact details such as full name, telephone number and email address in order to:
 
-At various times you may give information to us. This includes information that can identify you, including your first and last name, telephone number, postal and email addresses, fax number, and credit card information. For example, in order to send a request or enquiry from a Traveller to an Owner, we may need to know all or some of the following: your full name, address, telephone number, e-mail address, your current location, and, in the case of an Owner's listing, a method of payment. You may also give personal information to us at other times, such as when registering on the Site, when submitting an advertisement for a property or communicating with another user of the Site. 
+    * enable your travel booking;
+    * create or register an account with us;
+    * provide the services and information you request such as details about your booking;
+    * have an emergency contact number for you;
+    * update frequent flyer or loyalty program information;
+    * subscribe you to our marketing communications; and/or
+    * submit your enquiries.
 
-When you use the Site we may collect and process information about your actual location, including GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor or IP address data from your device.
+You will also need to provide your billing information (such as credit card number, cardholder name and expiration date) to make a payment.
 
-If you make or use social media features on the Site, the social media provider may send us information in line with their policies. That information may include personal information such as your name, profile picture, gender, friend lists and any other information you have chosen to make available. Please note that, if you have friends using social media who are using the Site, they may also have shared information about you with us through the social media platform. If you wish to prevent that sharing, you can do so by editing the settings/preferences in your account with the relevant social media providers.
+You may also provide information about any Travellers on your booking, your marketing preferences and when you participate in a survey or competition. When creating an account, you will provide a login name/member ID as well as a password.
 
-We may also gather information from cookies, web beacons or similar technologies from the internet. You can find out more about how we do that in the relevant section of this policy below and in our [Cookies Policy](https://www.ownersdirect.co.uk/info/about-us/cookies). We use publicly accessible information to verify information we are provided with and to manage and expand HomeAway’s business. We also collect IP addresses, mobile device identifier details, your location, navigation and click-stream data, the time of accessing the website, properties you viewed, what you searched for, the duration of your visit, and other details of your activity on the internet. If you ask us to connect with other sites (for example if you ask us to connect with your Facebook account) we may get information that way too. In connection with electronic communications we facilitate through a Site, we use electronic or manual checks to monitor such communications for trust and security purposes. For further details on how we collect personal information, see Surveys and Newsletters below. We obtain data from you either by you inputting your personal details, by the automatic collection of information about you as you use the Site, when we speak to you, or from third parties or websites. Third party information may include financial information which we use to prevent and detect fraud, information from your mobile provider if you are accessing the Site over a mobile device or information from a third party such as a social media or travel opinions site.
+Your personal information may also be linked to Cookies to enable the proper operation of our Online Services, store your travel searches on our Online Services, and collect information on how you used our Online Services. For more information, please see our [Cookie Policy](https://www.homeaway.co.uk/info/cookies).
 
-We may collect reviews written by Travellers on a property they have stayed in (“Traveller Review”) and/or written by Owners on a Traveller’s stay (“Owner Reviews”). Traveller Reviews are displayed on our Site, while Owner Reviews will only be disclosed to Owners who receive an inquiry or booking request from that Traveller. Owner Reviews enable an Owner to know more about the Traveller who has contacted them and therefore increase trust in our platform. Owners must comply with the [Owner Terms and Conditions](https://www.ownersdirect.co.uk/info/about-us/legal/terms-and-conditions-owner) and applicable law and this includes not using any information about a Traveller to discriminate against such Traveller.
+If you’re an employee of a corporate account, a vendor or other type of business partner such as an Owner, travel agent, other information collected can include employer, employee identification number, or other relevant details.
 
-**How we use your personal information**
+For Owners, additional personal information may be collected for listing a property, communicating with a user or Traveller and when you set up financial account information for payment processing.
 
-Our primary purpose in collecting your personal information is to provide you with the services you requested and those which we believe will optimise your use of the Site. We may use your personal information for the following purposes:
+#### o Special Categories of Personal Information
 
-  * For the services or support you request;
-  * To contact you from time to time with critical user or service updates;
-  * To send other messages that are useful to the service we provide on the Site;
-  * To assist people you have done (or agreed to do) business with. For example if you are an Owner and a Traveller who has booked or enquired with you needs your details we may pass them on; if you are a Traveller and an Owner you have booked with needs to contact you we may give them your details;
-  * To provide personalised, targeted, or location-based content, services, and advertising from us and third parties;
-  * If necessary, to measure your interest in and improve our products, services and the Site;
-  * To promote the services related to the Site or those of the HomeAway Group, our parent company and its affiliates and/or our affiliates by email and via social media platforms;
-  * To compare information for accuracy, and verify it with third parties;
-  * To provide information and statistics on the responsiveness of owners to enquiries on the Site, to improve Travellers’ experience;
-  * To detect, investigate and prevent activity we think may be potentially illegal, unlawful or harmful and to enforce our Privacy Policy and/or our Terms or any other purpose referenced herein or therein. We collate statistics about site traffic, sales and other commercial information which we pass onto third parties to assist us in improving the services we provide to you. We also use demographic information to tailor the Site and we share that information with third parties so that they can build up a better picture of our customer base and general consumer trends; and
-  * To help us meet our legal and compliance obligations – for example we may use personal information we hold on you to do background checks, to screen prospective Owners against official lists in the UK and overseas and to do credit checks.
+Certain types of personal information, such as some government-issued identification numbers, religion, health or sexuality, are considered sensitive and require additional protection under applicable laws. We limit the circumstances under which we may collect sensitive personal information; examples of this information include the following:
 
+    * Health-related information may be needed for you to arrange or book appropriate travel accommodation and accessibility or facility requirements.
+    * Government-issued identification numbers like passport or driver’s license number may be required for vehicle rental or other travel reservation.
+    * Other information that you can specify at your option and which may imply or suggest information like religion, health or other information, such as dietary needs.
+  * _Information Voluntarily Provided About Your Travel Companion(s)_
 
+If you make a reservation with our customer service team over the phone, and if as part of that reservation you wish to purchase additional travel products on behalf of someone else, we will request personal information about that individual. You should obtain the consent of any other individual(s) prior to providing us with their personal information. Should your travel companion want to amend or delete their information themselves they can contact us directly at the information in the “Contact Us” section at the bottom of this policy.
 
-**How We May Disclose Your Personal Information**
+  * _Information that we collect automatically_
 
-We may disclose your personal information to enforce our policies, defend and protect the rights, property or safety of the HomeAway Group, the Site and the users of the Site, to comply with our legal obligations or in the interest of national security, public interest or law enforcement in any country where the HomeAway Group has entities or affiliates. For example, we may respond to a valid request by a law enforcement agency or regulatory or governmental authority. We may also disclose data in connection with actual or proposed litigation, or to protect our property, people and other rights or interests.
+When you visit us on our Online Services, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
 
-We share your information with third parties who help deliver our products and services to you. Examples include third parties who are hosting our web servers, analysing data, providing marketing assistance, and providing customer service. These companies will have access to your personal information as necessary to perform their functions, but they may not use that data for any other purpose. 
+Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type (such as Firefox, Safari, or Internet Explorer), your Internet Service Provider (ISP), your operating system and carrier. For website users, details of any referring website or exit pages as well as broad geographic location (e.g., country or city-level location) and also collected. We may also collect other technical information such as how your device has interacted with our Online Services, including the pages accessed and links clicked, i.e., trips viewed and the time and date of these.
 
-We may also share your personal information with:
+Collecting this information enables us to better understand the visitors who come to our Online Services, where they come from, and what content on our Online Services is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Online Services for our visitors, for example, to customize your user experience, tailor your searches and show you advertisements that may be of interest. We also use this automatic information to prevent and detect fraud.
 
-  * if you opt in to receive information about the opportunities, products, or services of third parties, we supply your contact information to those third parties so they may contact you;
-  * When creating a profile on our Site, the information in your profile may available to be viewed by other users of our Site.
-  * We will display a user name (taken from your profile) with any content that you contribute to the Site (including Owners Review, Traveller Review, an Owners response to a Traveller Review, forum posts or any other content submitted by a User).
-  * An Owner if you send them an enquiry through the Site;
-  * Another user if you have done or may do business with them;
-  * We may display statistics of usage, such as information related to the responsiveness of owners, in the listings;
-  * Companies in the HomeAway Group and/or affiliates and our corporate affiliates in the leisure and travel sector, including the companies listed [here;](http://www.expediainc.com/expedia-brands/)
-  * Other companies we work with to feature all or part of our Owners’ property listings or otherwise provide promotional or other services related to our or HomeAway Group’s business. This might include featuring your listings and photographs on other websites; or
-  * Any third party you have asked us to share your personal information with, which, by way of example, in the case of Facebook, may include identifying information if you have asked us to connect with your Facebook account.
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology” [link].
 
+  * _Information we collect when you use Apps_
 
+When you use one of your smart phone app, tablet app, or applications for other platforms (collectively “App” or “Apps” as applicable), we also collect:
 
-You may have accessed our website through a hyperlink from the website of one of our trading partners. If so, you consent to your personal details and purchase information including behavioural patterns being shared with that trading partner in accordance with our contractual relationship with them.
+Information about the functionality of the Apps you access and use. This allows us to identify those areas of the Apps that are of interest to our customers so that we can refine and continuously improve the Apps.
 
-If any part of the HomeAway Group is sold, or some of its assets transferred to a third party, your personal information may also be transferred. Potential purchasers and their advisors may have access to data as part of the sale process. However, use of your personal information will remain subject to this Privacy Policy. Similarly, your personal information may be passed on to a successor in interest in the unlikely event of a liquidation, bankruptcy or administration. Our Owner, Traveller and user database could be sold separately from the rest of the business, in whole or in a number of parts. It could be that the purchaser’s business is different from ours too.
+Each App sends us the device's unique device identifier (or "UID"), a sequence of numbers or characters that are unique to your device. We use this only on the first opening of the App so that we can confirm to our advertising networks the number of downloads resulting from clicks on their respective ad banners and other marketing tools. When an email address is provided, we associate this with your current UID/cookie ID for the purposes of providing a seamless experience across your devices.
 
-We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our websites. This information does not contain any personal information and is used to develop content and services we hope you will find of interest and to audit the efficacy of our advertising. 
+Each App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the App for future releases. As part of these error reports, the App sends us information about the mobile device type and version, the UID, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
 
-**Newsletters**
+You always have the ability to control what information a App sends to us. You can exercise this control either by changing the settings of the App under its setting menu or changing the settings of your mobile device. Alternatively, you can remove the App from your device entirely and access our services through our website.
 
-If you sign up as an Owner on the Site, you will receive our "Owner" newsletter, which is an integral part of the services we provide. Travellers that use the Site to send enquiries or who register with us will receive our newsletter. We and HomeAway group may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these email newsletters at any time through the [**Communications Preference Centre**](http://mailaway.homeaway.com/PreferenceCenter), although it may take a short while for the changes in your preferences to become effective.
+  * _Information that we obtain from third party sources_
 
-**Surveys**
+Periodically, we lawfully obtain personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated contact information like email, purchase history, and demographic information.
 
-We may use surveys to gather information about our users. From time to time, we request users' input in order to evaluate potential features and services. The decision to answer a survey is completely yours. We use information gathered from surveys to improve our services.
+  * _Information we collect when you communicate with us via the following methods_
 
-**Games**
+**Social Media:**
 
-From time to time we may provide games on the Site. These games may allow for connectivity with other users or third parties. If that is the case you consent to your personal information being transferred accordingly.
+If you make use of any of our social media features on our Online Services or otherwise through a social media provider, we may access information about you via that social media provider in accordance with their privacy policy. For example, we offer the option to register with our website via the “Facebook Connect” feature, enabling you to register with our website using your Facebook account data without entering the required data manually on our webpage.
 
-**Mobile Applications**
+When using a social media feature, if you have chosen to include it in your social media account, we may access information such as your name, profile picture, gender, birthday, email address, town or district and any other information you have chosen to make available. Subject to your privacy settings, we access information that you provide to a social media provider regarding your respective locations (“Location Data”) to provide you with relevant content. We do not store or use any data related to the friends you are connected with on a social media site.
 
-When you download or use apps relating to our websites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalised content. Most mobile devices allow you to turn off location services. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.
+We may also access information from social media providers about your use of an App that we run on their website. Therefore, we encourage you to review the privacy policy of any social media provider you use.
 
-**Telephone Calls**
+**Call Monitoring and Recording:**
 
-As well as collecting data online and from correspondence we may also speak with you face to face (for example at an Owner’s meeting) or by telephone. We frequently record telephone conversations for quality assurance and training purposes. Those recordings are also governed by this Privacy Policy and we keep this data in the same way that we keep other data. Recordings of calls may also be transferred to locations or processed worldwide.
+Calls to and from our customer service teams may be recorded or monitored for quality control purposes, analytics, to protect us in the event of a legal dispute and for staff training. Call recordings will be maintained consistent with this Privacy Policy. Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy.
 
-**Enquiries and other Electronic Communications**
+**Other Online Communications:**
 
-Travellers may send enquiries to Owners via a Site, and Travellers and Owners may also communicate further with each other via tools on a Site.
+Any interactions you have with us or Owners through our Online Services, such as chat, may be recorded and monitored for training and quality control purposes, to protect us in the event of a legal dispute and for staff training. This information will be processed and maintained consistent with this Privacy Policy.
 
-If you choose to send an enquiry to an Owner on a Site, your personal information, including your email address and any other information you supply will be visible to the relevant Owner so that they can reply directly to you. Enquiries sent using the HomeAway system are also available for review by our employees, agents and representatives, who may use any such information as part of the services we provide. 
+When you choose to communicate with an Owner via our Online Services, your name and other information you supply will be visible to the relevant Owner so that they can reply to you. Such communications are subject to the Traveller [Terms and Conditions](https://www.homeaway.co.uk/info/about-us/legal/terms-conditions/traveller) posted on our site.
 
-If Travellers and Owners further engage in communications through a Site, we also have access to those communications, which we may monitor for trust and security purposes and in order to provide services.
+_Games_ : We may reserve the right to provide from time to time games on the Site. These games might allow for connectivity with other users or third parties. If that is the case, you consent to your personal information being transferred accordingly.
 
-  
-If you engage in such communications and call the other party, you may be asked to leave a return telephone number. Do not share information in the e-mail or phone call that you are not prepared to allow such person and HomeAway group to have, including, but not limited to, credit card and bank account information. Before disclosing any credit card or bank details or making any payments, please take the time to visit our [Community Pages](https://community.homeaway.com/community/uk) where you can find more details about phishing and how to reduce your risk.
+  * _Traveller and Owner Reviews_
 
-We may also from time to time, use third party e-mail servers to send and track receipt of such communications, and analyse the pattern of such communications for trust and security purposes as well as to gather data, such as enquiry and booking data (on an anonymous basis), to assist us in better understanding our business. Our system does not hold messages indefinitely and they may not be accessible after the message has been delivered to you.  ** _Please therefore print a copy of any message which is important to you_**  – for example a payment receipt or a booking confirmation.
+We may collect reviews written by Travellers on a property they have stayed in (“Traveller Review”) and/or written by Owners on a Traveller’s stay (“Owner Reviews”). Traveller Reviews are displayed on our Site, while Owner Reviews will only be disclosed to Owners who receive an inquiry or booking request from that Traveller. Both Owners and Travellers must comply with the [Content Guidelines](https://www.homeaway.co.uk/info/about-us/legal/terms-conditions/content-guidelines). Owner Reviews enable an Owner to know more about the Traveller who has contacted them and therefore increase trust in our platform. Owners must comply with the Owner Terms and Conditions and applicable law and this includes not using any information about a Traveller to discriminate against such Traveller.
 
-**How Do We Protect Your Personal Information Once We Have It?**
+We are not responsible for the Owner deducing your identity from the content of your review and contacting you directly.
 
-We take appropriate technical and organisational measures to guard against unauthorised or unlawful processing of your personal information and against accidental loss or destruction of, or damage to, your personal information. While no system is completely secure, we believe the measures implemented by the Site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains each user's responsibility:
+  * _Cookies and similar tracking technology_
 
-  * To protect against unauthorised access to your user account;
-  * To ensure no-one else uses the Site while the user's device is logged on to the Site (including by logging on to your device through a mobile, Wi-Fi or share access connection you are using);
-  * To log off or exit the Site when not using it;
-  * Where relevant, to keep your password or other access information secret. Your password and log in details are personal to you and should not be given to anyone else or used to provide shared access for example over a network. You should use a password which is unique to your use of the Site – do not use the same password as you use for another site or email account; and
-  * To maintain good internet security and avoid security threats. For example if your email account or Facebook account is compromised this could allow access to your account with us if you have given us those details and/or permitted access through those accounts. If your email account is compromised it could be used to ask us to reset a password and gain access to your account with us. You should keep all of your account details secure. If you think that any of your accounts has been compromised you should change your account credentials with us, and in particular make sure any compromised account does not allow access to your account with us. You should also tell us as soon as you can so that we can try to help you keep your account secure and if necessary warn anyone else who could be affected.
+We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we and our vendors use, why, and how you can control Cookies, please see our Cookie Policy [link]. We may combine the information you give us with information related to your transactions and information we receive about you from third parties who carry out services on our behalf. The information received via Cookies and similar technologies may allow us to cross track devices and users' clickstream data associated with the Cookies.
 
+In general, we will use the personal information we collect from you only for the purposes described in this Privacy Notice or for purposes that we explain to you at the time we collect your personal information.
 
 
-Note that, despite the measures taken by us and the third parties we engage, the internet is not secure. As a result others may nevertheless unlawfully intercept or access private transmissions or data.
 
-**External Links and social plug-ins**
 
-If any part of the Site links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy policies posted on those other websites to understand their procedures for collecting, using and disclosing personal information.
+We may disclose your personal information to the following categories of recipients:
 
-This may also be the case when any part of the Site uses social plug-ins from other sites such as Facebook. Plug-ins such as Facebook's "Like" button, "Comments" and "Facebook Connect", can be identified by one of Facebook's logos, such as the "f" or "thumbs-up" icon, and in practice are like a little piece of Facebook embedded on the Site. (The list of Facebook social plug-ins and their icons can be found [here](http://developers.facebook.com/docs/plugins)). We also offer the option to register with our Site via the "Facebook Connect" Plug-in, which allows registered users of Facebook to register with our Site by using their Facebook account data without entering the required data manually on our webpage. Instead, your email address and Facebook ID will be transferred from Facebook to us and stored by us. When you land on any web page that uses these plug-ins, your browser sends certain information to Facebook. As with other websites that use these plug-ins, we do not control this data exchange. To learn more about the information that Facebook receives when you visit a web page with one of their plug-ins, we recommend that you visit Facebook's [help centre page](https://www.facebook.com/help/).
+  * **Our group companies** at times will share your personal information with our affiliated companies within the Expedia Group family, listed at expediagroup.com. This sharing enables us to provide you, with your consent as legally required, with information about products and services, both travel-related and other, which we believe, might interest you. Also, if you inquire about booking a vacation rental stay through another Expedia Group brand, we may on occasions we will share the number of your prior trips (but no other details) with the vacation rental owner so they may have additional reassurance in approving your stay. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They will also comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email
+  * they send to choose not to receive such email messages in the future.
+  * **Third party services providers** who provide data processing services to us (for example, to support the delivery of; provide functionality on; or help to enhance the security of our Online Services), or who otherwise process personal information for purposes such as credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, to facilitate the delivery of online advertising tailored to your interests and fraud prevention. Where third-party service providers have access to data they will only collect information as needed to perform their functions. They are not permitted to share or use the information for any other purpose.
+  * **Business partners** with whom we may jointly offer products or services, or whose products or services may be offered on our Online Services. You can tell when a third-party business partner is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we will on occasions share information about you, including your personal information, with those partners. An example of a business partner would be a third-party loyalty program that you will earn points for, through a booking.  
+If you were referred to our Online Services via a hyperlink from an external site of one of our partners, we will share your personal information, browsing activity on our Online Services, and purchase information with the referring partner.
+  * **Travel suppliers** such as hotel, car rental, insurance, Owners, and, where available, activity providers, rail and cruise lines, who fulfil your travel reservations. All services provided by a such third-party travel supplier are described as such. These suppliers are not controlled by Expedia and personal information disclosed to them is subject to the applicable supplier's privacy policy and security practices. Please note that these travel suppliers or Owners also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a communication you submit in accordance with their own independent Privacy Policy as applicable.
+  * Your online profile may be viewable by other users, including Owners, of our Online Services. For Owners, property listings may display statistics of usage, such as information related to the responsiveness of owners.
+  * **Social media providers** when you access certain social media features through our Online Services, you will share information with the social media provider (such as Facebook). The information you share will be governed by the social media's privacy policy (including any data we may access via the social media provider). Social media providers should inform you about how you can modify your privacy settings on their site.
+  * If you connect your HomeAway account to a social media provider, such as through “Facebook Connect,” we may make available on that social media provider's platform the information related to your use of our Services, such as any rewards and loyalty program we may introduce or the reviews you post on our Online Services. Such information may also be published on that social media provider’s websites or services. Information made available on the social media provider's platform will be attributed to the social media provider account to which your HomeAway account is connected.
+  * You may choose to disable automatic publishing by the social media provider of such information by editing your privacy settings for that social media provider. We will not provide any other social media provider with access to your HomeAway account number or information. If you connect your HomeAway account to a social media provider, we may also share your user name and your profile picture from that social media provider to other HomeAway members. You may choose to disable such sharing of information by editing your privacy settings on that social media provider’s site.
+  * Any **competent law enforcement body, regulatory, government agency, court or other third party** where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person. This includes applicable tax authorities or other authorities allowed to collect taxes, where necessary to pay taxes from or on behalf of Travellers or Owners to tax authorities in accordance with the Online Services Terms and Conditions and to comply with any valid request;
+  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms and Conditions and other agreements;
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. In the case of any acquisition, we will inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Policy; or
+  * Any **other person with your consent** to the disclosure. We are not able to list every specific recipient in this Privacy Policy due to the volume of recipients and frequency of changes to this information. The categories of recipients are explained in more detail in the sub paragraphs of this section above, for example, travel suppliers such as properties, hotels, car rental companies and activity providers, who enable us to fulfil your booking. If you have any questions about third-party data sharing, please contact us at the information provided at the bottom of this Privacy Policy.  
+On occasion, we share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular properties and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope will be of interest to our users.
 
-**What are Cookies, Web Beacons and Clear GIFs and Why Do We Use Them?**
 
-A "cookie" is a small file placed on your hard drive by certain of our web pages. We or third parties authorised by us may use cookies to help us analyse our web page flow, customise our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site.
 
-Our Site has a dedicated section on cookies which you can read [here](https://www.ownersdirect.co.uk/info/about-us/cookies).
+## How do we use your information?
 
-You may delete and block all cookies from this site, but parts of the site will not work. We want to be open about our cookie use. Even if you are only browsing the Site certain information (including computer and connection information, browser type and version, operating system and platform details and the time of accessing the Site) is automatically collected about you. This information will be collected every time you access the Site and it will be used for the purposes outlined in this Privacy Policy.
+_Our legal bases for processing personal information (EEA visitors only)_
 
-You can reduce the information cookies collect from your device. An easy way of doing this is often to change the settings in your browser. Our cookies policy tells you how to do that. If you do that you should know that (a) your use of the Site may be adversely affected (and possibly entirely prevented), (b) your experience of this and other sites that use cookies to enhance or personalise your experience may be adversely affected, and (c) you may not be presented with advertising that reflects the way that you use our, and other, sites. You find out how to make these changes to your browser at this [site](http://www.allaboutcookies.org/manage-cookies/). Unless you have adjusted your browser setting so that it will refuse cookies, our system will send cookies as soon as you visit our site. By using the site you consent to this, unless you change your browser settings.
+If you are a visitor from the European Economic Area, our legal basis for collecting and using the personal information described in this Privacy Notice will depend on the personal information concerned and the specific context in which we collect it.
 
-We gather and share information concerning the usage of the Site by Owners and Travellers with one or more third-party tracking companies for the purpose of reporting statistics. In this connection, some of the pages you visit on our Site use electronic images placed in the web page code, called pixel tags (also called a "clear GIFs" or "Web Beacons") that can serve many of the same purposes as cookies. Please [click here](https://www.ownersdirect.co.uk/info/about-us/cookies) to see the cookies we use when you browse our site.
+We will normally collect personal information from you only (i) where we need the personal information to perform a contract with you, (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so. In some cases, we will have a legal obligation to collect personal information from you such as where it is necessary to use your transaction history to complete our financial and tax obligations under the law.
 
-Web beacons may be used to track the traffic patterns of users from one page to another in order to maximise web traffic flow. Our third-party advertising service providers may also use Web Beacons to recognise you when you visit the Site and to help determine how you found the Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/choices/). 
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
 
-**Display of tailored advertising/Your choices**
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our platform and communicate with you as necessary to provide our services to you, for security verification purposes when you contact us and for our legitimate commercial interest, for instance, when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities. We may have other legitimate interests and if appropriate we will make clear to you at the relevant time what those legitimate interests are.
 
-The advertisements you see on this website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) other HomeAway Group companies and/or affiliates; (2) business partners, who collect information when you view or interact with one of their advertisements on our sites; and (3) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on the Site, nor do we share with them any personal information about you.
+_How do we determine what our Legitimate Business Interests are?_  
+We carry out an assessment to ensure that:  
+(i) Our interest in the use of your data is legitimate (i.e., we have a clear business need); and  
+(ii) The business need, on balance, does not override your privacy rights.
 
-Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.youronlinechoices.eu/) and [here](http://www.edaa.eu/edaa-for-users/). 
+When determining this, we assess the potential impact a specific use of the data may have on you as a customer and weigh this against our own business needs to ensure that we get the balance right. We also apply a series of security measures to minimise any potential risks.
 
-Like other companies operating online, this site participates in cookie-based exchanges where anonymous information is collected about your browsing behaviour through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.bluekai.com/consumers.html) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
+By way of example in practice we would consider that the collection of our customers’ marketing preferences in the course of a booking is a legitimate business interest to have as an online ecommerce company. We believe that this does not unduly impact your privacy rights as you may, most definitely, want to hear about our products and services going forward. However, to protect your privacy rights we ensure that you can opt out of these communications at any time, in your account, in the email itself or through customer services.
 
-**How do I correct or update my information?**
+In accordance with the legal grounds above, we use the information we collect to:
 
-We allow our users the option to change or modify information previously provided. This may be done by sending the request to us at [Customer Support](https://www.ownersdirect.co.uk/info/trust-and-security/owners-help) or by updating the relevant details in your account.
+  * fulfil the transactions that you make, such as for Travellers: booking a property or hotel, or for Owners: to list a property;
+  * provide you with travel confirmations and important travel updates for your upcoming trip (via email or SMS);
+  * verify your identity for fraud prevention purposes;
+  * manage your account, including processing payments;
+  * communicate with you in general, particularly if there is a change to your booking;
+  * provide customer services related to your booking or to respond to any inquiry you make;
+  * facilitate communication between you and Owner;
+  * measure interest in and improve our products, services, and website functionality;
+  * notify you about special offers, coupons, sweepstakes and travel-related products and services that may be of interest to you. You may receive these by email, post or via advertisements on third-party sites, including through social media;
+  * otherwise customize your experience with this website or App;
+  * reward you as part of any reward and recognition program you choose to join (whether this is our program or that of a third party);
+  * obtain information from you, including through feedback you give or surveys you complete;
+  * carry out statistical analysis about the use of our website and Apps and the services we offer to improve each aspect of what we do;
+  * protect our rights as a company including our intellectual property for example;
+  * resolve disputes, collect fees, or troubleshoot problems;
+  * prevent potentially prohibited or illegal activities;
+  * enforce our Terms and Conditions; and
+  * as otherwise described to you at the point of collection.
 
-**How do I opt-out of receiving marketing communications from you?**
 
-You may opt-out of receiving marketing communications from us by the following means:  
-1\. Contact us at [Customer Support](https://www.ownersdirect.co.uk/info/trust-and-security/owners-help);  
-2\. Follow the instructions included in each communication or newsletter;  
-3\. Use the [Unsubscribe function](http://mailaway.homeaway.com/PreferenceCenter); or  
-4\. Mail the request to us at:  
-Owners Direct, Attn: General Manager, Portland House, 25th floor, Bressenden Place, London, SW1E 5BH, United Kingdom
 
-Please remember that if you change your preference it may take a short time for those preferences to become effective.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at the information provided at the bottom of this Privacy Policy.
 
-**How long will we keep your personal information?**
+## How do we protect your personal information?
 
-We will retain your personal information for as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and may then retain certain information associated with your account, including for analytical purposes as well as record keeping integrity.
+We want you to feel confident about using our Online Services to make travel arrangements, and we are committed to protecting the information we collect. While no Online Services can guarantee absolute security, we have implemented appropriate technical and organisational measures to protect the personal information that we collect and process about you. For example, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorised persons from gaining access to your information. In addition, only authorised employees are permitted to access personal information, and they may only do so for permitted business functions.
 
-**How do I contact you?**
+## International data transfers
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](https://www.ownersdirect.co.uk/info/trust-and-security/owners-help).
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident and outside of the EEA. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective).
 
-If you are unhappy with their answers you can also contact our UK Privacy Officer at  _privacy@homeaway.co.uk_.
+Specifically, the servers of our Online Services are located in the US, and our group companies and third party service providers operate around the world. This means that when we collect your personal information we may process it in any of these countries.
 
-The data controller for any personal information you provide to us through this Site is HomeAway UK Limited of 25th Floor, Portland House, Bressenden Place, London, SW1E 5BH
+We have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Notice when transferred outside of the EEA. Any data transfers between our group companies are governed by our intergroup agreement which incorporates strict data transfer terms approved by the European Commission (known as Standard Contractual Clauses) and requires all group companies to protect the personal information they process from the EEA in accordance with European Union data protection law. 
 
-You may also write to Expedia, Inc. , c/o PO Box 725, Belfast.BT1 3YL
+We ensure that any of our third-party service providers to whom a data transfer is made has appropriate safeguards in place to protection your personal information. The adequacy mechanism may be i, adequate country status, i.e., based in a country that the European Commission has deemed "adequate" since its data protection standards are similar to the European Union; ii, Standard Contractual Clauses; or iii, EU-US and Swiss-US Privacy Shield.
 
-Use the free [JavaScript beautify online](https://html-cleaner.com/js/) program can optimize the JS code.
+## Data Retention
+
+We retain the personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). 
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise the data or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. 
+
+We will anonymise or aggregate your data if we intend to use it for analytical purposes or trend analysis over longer periods.
+
+## Your information rights
+
+You can access or update your contact information in the Account section of our Online Services. You can de-activate your account at any time either by contacting us through the [Customer Services Portal](https://help.homeaway.co.uk/) or at the email address listed below. After you de-activate an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. If you wish to delete your data, please contact us through the [Customer Services Portal](https://help.homeaway.co.uk/) listed below.
+
+If you wish to contact us in relation to any personal information that is not displayed in your account, you can contact us through the [Customer Services Portal](https://help.homeaway.co.uk/) provided below.
+
+**Your data protection rights [EEA residents]**  
+If you are a resident of the European Economic Area, you have the following data protection rights:
+
+  * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us through the [Customer Services Portal](https://help.homeaway.co.uk/) or by using the contact details found in the “Contact Us” section at bottom of this Privacy Policy.
+  * If you request access to your personal data we will confirm whether we hold your information and provide you with a copy, explaining how we process it and why, how long we store it for and your rights associated with it.
+  * If you request deletion of your personal information, we will erase it. Please do note that we will need to retain any information that we require to fulfil our legal obligations or to establish, exercise or defend a legal claim.
+  * You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us through the [Customer Services Portal](https://help.homeaway.co.uk/) or by using the contact details found in the “Contact Us” section at bottom of this Privacy Policy.
+  * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.
+  * Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries (including the US and Canada) are available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)).
+
+
+
+The easiest way to submit your request to us is through our Customer Services Portal found in the “Contact Us” section at bottom of this Privacy Policy.
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+**Display of Tailored Advertising/Your Choices**
+
+Data collected by this website to serve you with relevant advertising. We are committed to providing you with relevant content and information. To do this, we may, through cookies and other technologies, collect information about your travel-related searches, such as whether you are looking for properties or hotels. We use this information, together with other information we have collected about you, to serve you with more relevant ads on our website, across the internet, and on other devices that you may use. So, for example, if you search for a property in London on this site, you may see an ad for a London travel package on this site or on another website you visit.
+
+You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, and learn more about opting out of having your information used for tailored advertising purposes by accessing one of the following resources:
+
+  * <http://www.youronlinechoices.eu/>
+  * <http://youradchoices.ca/choices/>
+  * <http://www.aboutads.info/choices/>
+  * <http://optout.networkadvertising.org/>
+
+
+
+Note that if you choose not to receive tailored ads, you will still see online advertisements, but they will be more general and less relevant to you.
+
+Data collected by business partners and ad networks to serve you with relevant advertising. The advertisements you see on this website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites; and (2) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests. For more details please see our Cookie Policy.
+
+Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the [Network Advertising Initiative](https://www.networkadvertising.org/), which offers a single location to opt out of ad targeting from member companies.
+
+Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, we participate in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](https://www.edaa.eu/edaa-for-users/) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
+
+Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Participants in the leading Internet standards-setting organization that is addressing this issue are in the process of determining what, if anything, websites should do when they receive such signals. We currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+**Updates to this Privacy Policy**
+
+Changes to this Privacy Policy will be made when required in response to changing legal, technical or business developments. When we update our Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Policy changes if and where this is required by applicable data protection laws.
+
+You can see when this Privacy Policy was last updated by checking the “last updated” date displayed at the top of this Privacy Policy.
+
+If you have any questions about changes to this Privacy Policy, please contact us through the Privacy Section of our [Customer Services Portal](https://help.homeaway.co.uk/) below.
+
+**Contact Us**
+
+  * If you have any questions or concerns about our use of your personal information, please contact us via the Privacy Section on our Customer Services Portal [here](https://help.homeaway.co.uk/).
+  * The Data Controller of your personal information is HomeAway UK Limited. 
+  * Our EU representative is: HomeAway UK Limited and you can contact them via the Customer Services Portal here. 
+
+
