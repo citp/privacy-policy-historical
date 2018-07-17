@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the boseindia.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625193708id_/https%3A//www.boseindia.com/en_in/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boseindia.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717142847id_/https%3A//www.boseindia.com/en_in/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-**Effective Date: February 15, 2018**
+**Effective date: 24 May 2018**  
+
 
 This Privacy Policy describes the data protection practices of Bose (“Bose,” “we,” “us,” or “our”). Bose provides services to users throughout the world. If you live in the United States, Latin America, or Canada, Bose Corporation (located at The Mountain, Framingham, MA 01701) is the data controller for your information. If you live anywhere else, Bose Products B.V. (located at Gorslaan 60, Purmerend, The Netherlands) is the data controller with the exception of processing activities in relation to product support, product analysis and development activities for which Bose Corp. is the data controller.  
 
@@ -176,7 +177,8 @@ As we adopt additional technologies, we may also gather information through othe
 
 Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g. [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies); [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en); [Mozilla Firefox](http://kb.mozillazine.org/Cookies#Firefox); or [Apple Safari](https://support.apple.com/kb/PH5042?locale=en_US)). You can also manage the use of Flash technologies, including Flash cookies and local storage objects with the Flash management tools available at [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). Please note that by blocking, disabling or managing any or all cookies, you may not have access to certain features or offerings of the Services. For example, to complete a purchase on our websites, you will need to accept cookies sent by our sites. If you choose not to accept our cookies, please call us on [1-800-999-2673] to place your order by phone or [click here](https://global.bose.com/en_us/index.html) for additional global Bose contact information.
 
-For more information on the cookies we use and the purposes for which we use them, please refer to our Cookies Policy. By continuing to use our websites and/or our Services, you are agreeing to our use of cookies as described in our Cookies Policy.
+For more information on the cookies we use and the purposes for which we use them, please refer to our [Cookies Notice](https://web.archive.org/en_in/legal/cookie_policy.html). By continuing to use our websites and/or our Services, you are agreeing to our use of cookies as described in our Cookies Notice.  
+
 
 ##  ONLINE ANALYTICS AND ADVERTISING 
 
@@ -299,3 +301,6 @@ We reserve the right to amend this Privacy Policy at any time to reflect changes
 ##  BOSE CONTACT INFORMATION 
 
 If you wish to contact us or have any questions about or complaints in relation to this Privacy Policy, please email us at [privacyandsecurity@bose.com](mailto:privacyandsecurity@bose.com) or [click here](https://web.archive.org/en_in/contact_us.html) for additional global Bose contact information.
+
+You may also contact our Data Protection Officer by using the email address above or by postal mail at the following address: Bose Corporation, The Mountain, Framingham, MA 01701.  
+
