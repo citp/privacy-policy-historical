@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mooladays.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411013752id_/https%3A//www.mooladays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mooladays.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717124940id_/https%3A//www.mooladays.com/privacy) for the most accurate reproduction.*
 
 # Earn Cash for Email, Surveys, Shopping, and More!
 
