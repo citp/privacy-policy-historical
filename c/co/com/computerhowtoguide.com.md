@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerhowtoguide.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517190946id_/http%3A//www.computerhowtoguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerhowtoguide.com privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718003106id_/http%3A//www.computerhowtoguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ComputerHowtoGuide.com
 
