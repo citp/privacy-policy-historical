@@ -1,97 +1,90 @@
-> *The following text is extracted and transformed from the timberlandonline.co.uk privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223100627id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberlandonline.co.uk privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Timberland
+# Privacy Policy Highlights - Timberland
 
-**1\. What is this document? Why does it matter? What happens to my personal data on this Site?**
+This privacy policy applies to the collection and use of customers' and [www.timberland.co.uk](http://www.timberland.co.uk/) visitors' personal data by VF International Sagl (that operates this website and is responsible for VF marketing activities) and by VF local subsidiaries (that are responsible for the purchases you make with them online or in store).  
 
-This privacy policy (“ **Privacy Policy** ”) applies to the website [http://www.timberland.co.uk](https://web.archive.org/) (the “Site”) and describes all the processing activities that may be performed through this Site by VF International Sagl – TIMBERLAND Division (“ **TIMBERLAND** ”), who owns and operates the Site.
 
-Your personal data will be processed by TIMBERLAND when you visit the Site and interact with the services and functionalities offered by the Site. This Privacy Policy has been drafted in accordance with the Recommendation n. 2/2001, adopted on May 17, 2001 by Article 29 Data Protection Working Party in relation to the minimum requirements for the collection of data on-line within the European Union and also represents information statement to the data subjects according to Swiss law and to the European Union privacy law rules and principles (the “Privacy Law”), with which the processing carried out by TIMBERLAND complies.
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#1)_  
 
-The Privacy Policy specifies the identity of the data Controller that controls and manages the personal data collected and processed through the Site, specifies what is the personal information collected, the data processing purposes and conditions, the extent of personal data communication to third parties, the data security measures adopted in order to protect and safeguard data and the ways in which you may verify the processing of data relating to you and enforce your rights as recognized under the Privacy Law.
+## **WHAT INFORMATION WE COLLECT**
 
-**2\. Who controls the processing of my personal data? Who is accountable for it?**
+We collect your personal data that you provide to us when you:
 
-The Controller of the personal data processing is: VF INTERNATIONAL S.A.G.L. – TIMBERLAND DIVISION, Via Laveggio 5, 6855 – Stabio, Switzerland, [[contact us](https://web.archive.org/customer-service/contact-us.html)].
+·       use this website (e.g., opening an account, uploading content, etc.)
 
-**VF NORTHERN Europe Limited,** with registered office is at 15, Atholl Crescent, Edinburgh, EH3 8HA, United Kingdom, is acting as the representative of VF International for purposes of personal data protection compliance in the European Union, as well as **Data Processor** on behalf and under the instructions of VF for the activities of managing the customer support and the VF call centre.
+·       take part/subscribe to our marketing activities (e.g., newsletters, loyalty programs, etc.)
 
-**3\. What personal data are processed? For what purposes?**
+·       purchase products from us (online or in store)
 
-In general, the visit and consultation of the Site does not imply collection and processing of your personal data. The processing of your personal data when you merely visit and consult the Site is limited to the so-named surfing data, namely the data whose transmission to the Site is implicit in the functioning of the systems in charge of the managing of the Site and in the communications protocols peculiar to the Internet. Surfing data are, for example, the IP addresses of the devices you use to connect to the Site and other parameters relating to your device and operating system. Surfing data, such as these above specified, and for example the number of visits and the time spent on the Site, are collected and processed by TIMBERLAND exclusively for statistical purposes and in anonymous form for purposes of measuring and enhancing the functioning of the Site. Due to the nature itself of surfing data, these data may lead to identification of users if they are associated with data held by third parties; however, TIMBERLAND does not collect surfing data in order to associate them with identified users. Surfing data are deleted after being processed in anonymous form; said data may be used for purposes of assessing possible responsibilities in case of information crimes realized against the Site or through the Site. With the exception of the aforementioned circumstance, TIMBERLAND keeps surfing data only for the maximum period of time allowed under applicable laws and in anonymous form. 
+·       contact our customer-service
 
-Furthermore, TIMBERLAND collects and processes personal data voluntarily provided by you when you interact with the Site functionalities and request the services offered by the Site, for example upon opening of an account, or upload of user-generated content on the Site; subscription to TIMBERLAND newsletter or mailing list; purchase of products through the Site, which includes all activities relating to the purchase of goods, such as for example delivery of goods, billing issues, returning and exchanging of goods, receiving refunds, purchase and use of gift cards and e-gift cards, as applicable, payment related activities, including fraud prevention, and customer support and interaction with our call centre; participation to promotions and other initiatives realized or communicated through the Site such as for example loyalty programs, contests and sweepstakes, request of information to TIMBERLAND or sending to TIMBERLAND a question, communication or feedback through traditional mail or through the Site. We will process personal data also to comply with the Privacy Law and to assess and defend a legal right. We may process personal data also when you contact our customer support and call centre, which may communicate with you and thus process your personal data through e-mail, chat and telephone. The call centre will also register your phone number for purpose of call-back and back-office services in order to provide you with the requested support and information. In some cases, for purposes of internal training, quality control and verification, the call may be recorded and the e-mails may be saved to the extent not prohibited by the Privacy Law. You will always be informed in advance of the recording of the communication, and you will have the opportunity to object to such recording, save when this is necessary for verification purposes in relation to your purchase or other reasons, as allowed under applicable laws.
+We also automatically collect certain information about your use of this website (e.g., IP address, number of visits, time spent, etc.) and aggregate them to measure and enhance the functioning of the website.
 
-With your consent, that is optional, TIMBERLAND may further process your personal data for survey purposes; for marketing purposes, that is for sending, also through e-mail or other electronic communications means such as SMS, MMS, fax, etc., promotional information and material on products and services of TIMBERLAND, on special initiatives on prices and promotions and on initiatives such as loyalty programs, events, exhibitions and fairs organized by the VF group (to which TIMBERLAND belongs) or to which the VF group takes part; and for profiling purposes. For the marketing and profiling activities above defined, personal data may also be shared with other companies of the VF group. You will always have the opportunity to object, at any time and for free, to the processing of your personal data for the sending of promotional information and material; in each communication there will be a specific section in which are specified the conditions (easy to perform and free of charge) of revoking the consent. Personal data that TIMBERLAND collects and processes include name, and contact details such as street address, telephone number, e-mail address and further possible information of an optional nature provided by you. When requested under the Privacy Law, TIMBERLAND requires your consent before proceeding to processing your personal data. 
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#3)_
 
-Where you have provided us with personal data about another person, (for example when using the function e-mail to a friend, gift card functionalities or other purposes) to the extent permitted by applicable laws you hereby confirm that said communication and further processing by us as set out in this Privacy Policy complies with applicable privacy laws, so for example you should inform said person and as requested obtain his/her consent to the processing of his/her personal data for the purposes set out in this Privacy Policy. 
+## Why we use your information for
 
-**4\. Where will my personal data be stored?**
+We collect and process your personal data in order to:
 
-Personal data collected through the Site will be processed and stored by TIMBERLAND; the company Rackspace Limited (registered in England & Wales with No. 03897010, registered offices at 5 Millington Road, Hyde Park Hayes, Middlesex, UB3 4AZ) provides for TIMBERLAND hosting services for the web site and related database, so certain personal data processed through electronic means might be stored by such third-party company. In any event, personal data are processed only through specifically authorized staff designated to access and process the data, including staff designated for performance of non-routine maintenance operations of the Site.
+·       manage this website
 
-**5\. Does this website use cookies? What are they for?**
+·       send you marketing materials, allow you to participate in promotions, conduct customer surveys and profiling activities
 
-Our Website uses cookies.
+·       complete and manage your purchases, operate our customer-service and respond to your requests
 
-Cookies are small text files sent to your device by the Site. Cookies are uploaded onto your device, thus allowing the Site to recognize you and store certain information concerning you, in order to permit or improve the service offered.
+·       improve our products and services
 
-We may use different types of cookies. We may use what we call "required" cookies to enable core site functionalities, such as logging-in and completing an Order for Products. These cookies do not collect personal information for marketing purposes and can not be disabled.
+ We do not sell or share your personal data to marketers outside of the VF group.
 
-"Functional" cookies provide more advanced functions, such as remembering log-in details, remembering what is in your shopping cart and remembering your preferences such as language and country, analyzing sit usage to measure and improve performance. Also these cookies do not collect information that can identify users. These cookies can be disabled.
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#4)_
 
-"Advertising" cookies may be finally used to keep record of certain behaviors or preferences expressed by you, so as to present content that is more relevant to your interests, in compliance with the applicable privacy laws and upon collection of your express consent if required by law. These cookies may also enable you to share some Site content through social networks such as Facebook and Twitter. To review the respective privacy policies cookies, you can visit the social networks websites. In the case of Facebook and Twitter please visit https://www.facebook.com/help/cookies and https://twitter.com/privacy. These cookies can be disabled.
+## **HOW LONG WE KEEP YOUR INFORMATION**
 
-In any case, our cookies do not run programs on users' device nor upload viruses on it, and that do not allow any kind of control over the device. TIMBERLAND does not use cookies to monitor users' activities or device.
+We only keep your personal data for so long as necessary to achieve these purposes. This may be up to 10 years after the end of the contractual relationship with you (statute of limitation for legal claims in most EEA countries), unless a shorter or longer retention period applies under applicable data protection laws.
 
-Please click here to set your preferences regarding receipt of cookies from our Site.
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#6)_
 
-Once you have accepted the use of cookies on the Site, your preferences with regard to the use of cookies will be saved in the form of a cookie for your future visits to the Site for as long as you do not remove the cookies stored on your device. If you disable the cookies that we use, some parts of the Site may not work properly, depending on the type of cookie you have disabled.
+## **PARTIES WITH WHICH WE SHARE YOUR INFORMATION**
 
-**6\. How are personal data processed by TIMBERLAND?**
+The VF local subsidiary from which you purchase products shares your personal data with VF International Sagl for marketing purposes (but, when required by law, we ask your consent before doing so).
 
-Personal data collected by TIMBERLAND are mainly processed through electronic and automated means but also without the same (paper processing), under procedures and logics that comply with the data processing purposes as herein specified. Personal data are processed according to applicable privacy laws, including security and confidentiality issues, and are kept only for the time strictly functional to achieve the specific data processing purpose from time to time pursued and according to the Privacy Law.
+We also share your personal data with:
 
-**7\. Are personal data safe in the hands of TIMBERLAND? Can I update my personal data?**
+·       other VF entities and third party providers that help us operate this website and provide our products and services (these recipients act on our behalf and under our instructions only);
 
-TIMBERLAND is committed to protect security of personal data. Personal data are processed by TIMBERLAND in compliance with the security provisions as set forth by applicable laws in order to prevent loss and destruction, even accidental, of data, unauthorized access to data, unlawful or unfair use of data. Moreover, information systems and software programs are configured so that personal and identification data are used only when necessary to achieve the specific processing purpose from time to time sought.
+·       third parties in case of judicial processes, request by courts or authorities, other legal obligation, to defend our rights, or in case of merger, acquisition, or assets transfer.
 
-TIMBERLAND deploys a variety of advanced security technologies and procedures to help protection of personal data against the risks above outlined. For example, personal data provided by users are stored on secured servers placed in controlled locations. Moreover, for the transmission of some data through the Internet are deployed encryption techniques such as the Secure Socket Layer (SSL) protocol. 
+Some of these recipients are located outside the EEA, but we ensure that your personal data remain at all times adequately protected (if the country of destination is not one that the EU Commission considers offers an adequate level of protection, we cover the data transfer by appropriate safeguards).
 
-You may help TIMBERLAND to update and maintain accuracy of the personal data you provided to TIMBERLAND by notifying TIMBERLAND of any amendment relating to your address, title, telephone number or electronic mail (e-mail) address. If you opened a TIMBERLAND account, you can perform such updates on-line, following the instructions reported on your account pages. 
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#8)_
 
-**8\. Does TIMBERLAND communicate the personal data collected? To whom? For what purposes?**
+## **NECESSARY v. OPTIONAL INFORMATION**
 
-TIMBERLAND communicates personal data within the limits and under the circumstances specified in this Privacy Policy, in any case in full compliance with the consents given by users upon collection of data, when required by the Privacy Law. Personal data will be accessible within TIMBERLAND organization by the internal and external personnel that need to access them because of their duties in relation to the processing purposes herein specified, and by any appointed Processor. The updated list of Processors and of the subjects to which data may be communicated will remain at users' disposal free of charge upon request at TIMBERLAND. 
+Some of your personal data are necessary to complete your purchase or to provide the service that you request from us. If you refuse to provide these personal data, it would make it impossible for us to complete the purchase or provide the requested service.
 
-Personal data may be communicated to institutions, authorities, public entities, banks and financial institutions, professionals, independent consultants, also in associate form, business partners and third party service providers to which TIMBERLAND may revert to for performance of professional, technical and organizational services functional to the managing of the Site and the activities therein performed, such as for example the sales of goods and related activities, the managing of functionalities offered by the Site and of the initiatives and services that users may subscribe to and require through the Site, and for services strictly functional to achievement of the other processing purposes herein specified. For purposes functional to the managing of the Site and related activities, for example for the purchase of goods through the Site, personal data may be also communicated to other companies of the VF group within the European Economic Area, that will process them according to applicable privacy laws for the purposes above specified, including marketing and profiling activities. For closing purchase transactions and payment processing through our e-commerce platform we revert to third party service providers. These service providers are bound by contract obligations so that they will implement adequate security measures to protect security and confidentiality of personal data and credit card information.
+Providing personal data for survey, marketing and other profiling purposes is however optional. If you refuse, this will not have any impact on the purchase or the provision of the service you requested.  __
 
-Personal data may also be communicated to third parties in case of mergers, acquisitions, transfer of any of our assets, products, websites or operations. These third parties will be provided only with the information necessary to performance of their respective functions; they agree to use the information received only for the processing purposes above specified, to keep it confidential and secure and to comply with applicable law and the instructions received by TIMBERLAND.
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#9)_
 
-Except for the foregoing, personal data will not be shared with third parties, natural persons or legal entities, that are unrelated to, or that do not perform a business, professional or technical function for TIMBERLAND. Personal data may further be communicated to whomever is the legitimate addressee of communications as provided by applicable laws and regulations, thus for example in case of judicial processes, request by competent courts and authorities or other legal obligation, to protect and defend the rights and property of TIMBERLAND and the Site. Personal data will not be communicated to third parties for their own marketing purposes.
+## **YOUR RIGHTS**
 
-**9\. Am I obliged to provide my personal data? What are the consequences if I refuse to provide them?**
+You may, at any moment, exercise your rights under data protection law, including (when applicable) your right of access, rectification, restriction, erasure, opposition (including objecting, at any time and for free, to the processing of your personal data for direct marketing), right to portability and your right to withdraw consent.  You also have the right to lodge a complaint with the competent supervisory authority.
 
-Except for the foregoing description in relation to the surfing data (please refer to the above section “The nature and kind of data processed”), providing of personal data may be necessary for the performance of certain services and functionalities offered by the Site and required, such as subscription to the Site, subscription to TIMBERLAND's newsletter, the purchase of Products through the Site, the management of participation to loyalty programs, promotions and other initiatives communicated through the Site, replying to and managing of request of information, questions, communication or feedback to TIMBERLAND. Providing of personal data for the activities necessary to comply with applicable legislation is mandatory. In the above referenced circumstances, denial of providing personal data would make it impossible for TIMBERLAND to comply with contractual obligations or to provide the requested services, products or information as above specified.
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#11)_
 
-Providing of data for survey, marketing and profiling purposes as above specified is optional; denial of providing personal data in said circumstances will have no consequences on compliance by TIMBERLAND with its contractual obligations and on the provision of the services, products or information requested as above specified. 
+## **WE USE COOKIES**
 
-**10\. Does the site contain elements controlled by third parties? Is TIMBERLAND liable for them?**
+Certain information is gathered on this website by cookies and other tracking technologies. You can manage your cookie preferences through our tool or through your browser.
 
-The Site may contain links to other sites, as well as objects or elements controlled by third parties.
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/cookie-policy.html)_
 
-An example are plug-ins that may connect our Site to social networks like Facebook or Twitter ("social plug-in") and that are usually identified by the relevant social network's logo. If you find and interact with a social plug-in on our Site, your browser may send such social network certain data relating to you, such as you user ID, information on the Site, date and time, and other browser-related info. Such information would be processed by the social networks, owned and operated by third parties, according o their privacy policies.
+## **THIRD PARTY LINKS**
 
-TIMBERLAND has no access or control over elements, objects, plug-ins, cookies, web beacon and other items or tracking technologies owned and operated by third parties, available on our Site or on the relevant third-party site, which users may access on or from the Site, and over the relevant methods of processing of personal data through such elements or sites; so TIMBERLAND disclaims any responsibility for such sites. Users should check the privacy policy of third party websites and elements accessed from the Site to learn about the conditions applicable to the processing of personal data since this Privacy Policy apply only to this Site.
+The website may contain links to other sites, as well as objects or elements controlled by third parties. We do not have access nor control these elements and disclaim any responsibility for such third party websites.
 
-**11\. What are my rights as regards my personal data collected and processed by TIMBERLAND?**
+_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#10)_
 
-You are entitled at any moment to enforce the rights as provided by the Privacy Law, including but not limited to the right to obtain at any moment confirmation that your personal data exist or do not exist, verify their content, origin and accuracy, ask for their integration, updating, amendment, deletion, and you may oppose for legitimate reason the data processing (including objecting, at any time and for free, to the processing of your personal data for direct marketing purposes). 
+## **HOW TO CONTACT US**
 
-For any query or request relating to the personal data processing by VF and to enforce the rights under the Privacy Law, you may contact VF NORTHERN EUROPE Limited, acting as data Processor of VF, as follows: "VF NORTHERN EUROPE Limited - TIMBERLAND E-commerce Customer Service, Park Road East, Claverton, Nottingham, NG14 6GD, United Kingdom". Full contact details are provided at our [Contact Us](https://web.archive.org/customer-service/contact-us.html) page.
-
-This Privacy Policy is subject to updating and amendment by TIMBERLAND. The version published on the Site is the version actually in force. If TIMBERLAND changes this Privacy Policy, TIMBERLAND will notify users of such changes by posting a link on the home page of the Site to the amended privacy policy that reads “Newly Revised Privacy Policy”. TIMBERLAND invites users to periodically review the Privacy Policy in order to be informed of any relevant change.
-
-Version updated in: April 2016
-
-* * * * * * *
+For any query or request relating to  our use of your personal data, or to exercise your rights, you may contact our Privacy Office at privacy_europe@vfc.com.
