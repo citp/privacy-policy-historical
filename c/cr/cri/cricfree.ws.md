@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricfree.ws privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517105206id_/http%3A//cricfree.ws/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricfree.ws privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717120427id_/http%3A//cricfree.ws/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
