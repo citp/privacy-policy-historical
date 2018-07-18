@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615125605id_/http%3A//nvish.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718040327id_/https%3A//www.nvish.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : NVISH Solutions
 
