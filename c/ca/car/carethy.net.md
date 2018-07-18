@@ -1,35 +1,54 @@
-> *The following text is extracted and transformed from the carethy.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621130702id_/https%3A//www.carethy.net/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carethy.net privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718130416id_/https%3A//www.carethy.net/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Carethy
 
-**1\. PROCESSING OF PERSONAL DATA**
 
-Website: www.carethy.uk
 
-Company ownership: Miscota E-Commerce S.L.
 
-Registered office: Calle Pascual Madoz, 12 08301 Mataró (Barcelona), España
+**General Regulation of Data Protection (RGDP) - May 2018.**
 
-Head of the publication: Albert Costa García
+We inform you that the personal details of our Customers will be treated in accordance with the principles of transparency, purpose limitation, data minimisation, accuracy, integrity and confidentiality, as well as respecting the rest of the obligations and guarantees established in the (EU) Regulation 2016/679 of the European Parliament and of the Council of the 27th April 2016 relative to the protection of natural persons with regard to the processing of personal data and the free movement of such data.
 
-Commercial register data: Registro Mercantil, Volumen 42226, Folio 39, Hoja B404814 - Inscripción 1ª
+In order to comply with the above Regulation, we have updated our Privacy Policy:
 
-Personal data that users must provide us with are essential for the shipping of the orders and the elaboration of bills. Failure to provide this data will automatically cancel your order. 
+  * **Responsible:**   Carethy E-commerce S.L, Tax ID Number: B67129486, address: C/ De la Física, Num. 2-4 A7 Llinars Park, 08450 Llinars Del Valles - (Barcelona), Telephone: 0034 93 396 71 72, email: support@carethy.net
+  * **Purpose of processing** : we use the information you provide us to be able to provide you the service you requested, send you communications concerning the purchased products or similar products, and to invoice for them.
+  * **Origin and category of processed data** : the personal data we use are your identification details that you provide us with using the registration form that you will find on our Website.
+  * **Conservation period** : the data provided will be stored as long as you maintain a business relationship with us or for the required number of years to be able to comply with legal obligations.
+  * **Legitimacy** : we only process your data with your express consent to do so, and always in accordance with the described purposes.
+  * **Recipients** : the data that you provide to us will not be disclosed to third parties except in cases where there is a legal obligation to do so.
 
-Registration on the website will compromise the user to provides us with valid personal data, details which allow the provision of services by Carethy (Miscota E-Commerce S.L.) and the correct identification of the registered user, as well as the submission of information and advertising of the different products and offers that Carethy (Miscota E-Commerce S.L.) can have on their websites.
 
-Commercial communications (e-mailed newsletters which contain new features, sales, and offers) will be emailed to the email adress provided by the user who, by registering, is giving his or her express consent for the foregoing advertising sent by mail. Whenever so desired, the user could unsubscribe itself from our newsletter in order to stop receiving this kind of emails. To cancel the service, simply click the link provided for this purpose which appears at the bottom of the page of each of the promotional emails that we will send. 
 
-Only Carethy (Miscota E-Commerce S.L.) possesses the user personal data. Data provided by the user is stored in a database ownership of Carethy (Miscota E-Commerce S.L.) which follows the current regulations on data protection and e-commerce. The responsible of the database and its handling is Carethy (Carethy E-Commerce S.L), located at Calle Pascual Madoz, 12, 08301, Mataró (Barcelona), Spain. 
+In order to carry out certain necessary functions to provide the service, your data may be processed by third parties who act as data processors and who are contractually obliged to comply with the legal obligations of data processing, to keep information secret and confidential.
 
-Carethy (Miscota E-Commerce S.L.) commits itself to fulfill its obligation regarding secrecy of the foregoing data, assuming the necessary measures to avoid its alteration, loss, handling or non-authorized access, as required under the Spanish Basic Personal Data Protection Act of December 13, of Personal Data Protection, in the Royal Decree 994/1999 of June 11 and its implementing provisions.
+**International Transfers** : we inform you that the Company contracts the management of some functions required to provide the service to data processors situated outside of the EU and that they guarantee a suitable level of protection of personal data.
 
-Any registered User can at any time exercise his or her right to access, rectify and, where applicable, cancel the personal data supplied to Carethy (Miscota E-Commerce S.L.). It can be done by written request addressed to the next email adress: info@carethy.com.
+  * **Rights** : you are the owner of the following rights regarding your personal data:
+  * Right to request access to personal data.
+  * Right to request rectification or erasure.
+  * Right to request restriction or opposition to data processing.
+  * Right to data portability.
+  * Revocation of the consent given.
 
-Carethy (Miscota E-Commerce S.L.) is committed to the non-use of such personal data to other means different to the object of the service given through their webpages, which provide information about offers on products for direct sale through the Internet, and it is also committed to the non-transmission of personal data to third parties, except for those involved in the development subject to this agreement.
 
- **2\. COOKIES**
 
-In the course of your visits to our webpages, Carethy (Miscota E-Commerce S.L.) could used cookies, ** ** small text files that are placed on the user system, which allow to customise and facilitate the browsing of the users through the website, and which are only associated with the anonymous user meaning that personal data cannot be infer. These cookies does not contain any sensitive information who will concern you. 
+To exercise these rights you must send us written notification by email to the following address: [support@carethy.net](mailto:support@carethy.net)  specifying the right you wish to exercise.
 
-Cookies can be disabled in the parameters of your browser. Disabling cookies does not prevent users from accesing the content of the website.
+Furthermore, we inform you that you may request the protection of your rights from the Spanish Data Protection Agency with its headquarters in Calle de Jorge Juan, 6, 28001 Madrid.
+
+**COOKIES**
+
+Terms of web browser cookies. Corporate Section. (UPDATE PRIVACY PAGE WITH THE NEW COOKIES CONTENT). Web Browser Cookies Policy. Please be advised that our site uses cookies to track and analyse User visits. We utilize this information to best determine our customer needs and hence it enables us to offer a more refined and enhanced service. When browsing our website, User's web browser places cookies on their hard drive for the reasons stated above in addition to record-keeping purposes. Each and every application for tracking cookies has been developed by statistics companies and under no circumstance track or relate to User's name or e-mail address. The information gathered is related with, for example, the product types visited, categories browsed, the browsing language, time spent on inspecting products, the total number of visitors or the type of web browser used. User may permit, find information on, disable or delete cookies by using User's web browser's configuration tools. For more information on the matter, User should consult the following links depending on the browser used:
+
+Mozilla Firefox: [http://support.mozilla.org/en-US/search?q=cookies&esab=a](http://support.mozilla.org/en-US/search?q=cookies&esab=a)[](http://support.mozilla.org/en-US/search?q=cookies&esab=a)
+
+Google Chrome: <https://support.google.com/chrome/answer/95647?hl=en>[](https://support.google.com/chrome/answer/95647?hl=en)
+
+Internet Explorer: <http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-10>[](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-10)
+
+Apple Safari: [http://support.apple.com/kb/index?page=search&src=support_site.kbase.search&q=cookies&locale=en_US](http://support.apple.com/kb/index?page=search&src=support_site.kbase.search&q=cookies&locale=en_US)[](http://support.apple.com/kb/index?page=search&src=support_site.kbase.search&q=cookies&locale=en_US)
+
+Opera Browser: <http://help.opera.com/Linux/10.10/en/cookies.html>
+
+This site uses our own and third pary owned cookies, in order to give you a personalized service. If you continue to navigate on our site, we consider you accept their use. Either way, you can change the settings on your browser. For more information, please refer to our [privacy policy](https://www.carethy.net/corp/privacy-policy).
