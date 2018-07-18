@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepartizans.org privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230214041id_/http%3A//www.thepartizans.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepartizans.org privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718163251id_/http%3A//www.thepartizans.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Partizans
 
