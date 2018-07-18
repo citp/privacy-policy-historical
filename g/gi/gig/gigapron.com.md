@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigapron.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620030702id_/http%3A//tour.gigapron.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapron.com privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718204542id_/http%3A//tour.gigapron.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy<
 
