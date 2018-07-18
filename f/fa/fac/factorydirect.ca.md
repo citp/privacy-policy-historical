@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604141642id_/http%3A//www.factorydirect.ca/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718092130id_/https%3A//www.factorydirect.ca/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice - Canada’s best deals on Electronics, TVs, Unlocked Cell Phones, Macbooks, Laptops, Kitchen Appliances, Toys, Bed and Bathroom products, Heaters, Humidifiers, Hair appliances and so much more
 
