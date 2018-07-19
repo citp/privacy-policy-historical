@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509110647id_/http%3A//onlinetps.com/store/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719135902id_/http%3A//onlinetps.com/store/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
