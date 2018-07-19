@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filenext.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605110448id_/https%3A//www.filenext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filenext.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719233619id_/https%3A//www.filenext.com/privacy.html) for the most accurate reproduction.*
 
 # FileNext - Easy way to share your files
 
