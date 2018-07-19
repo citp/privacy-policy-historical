@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footprintlive.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518215712id_/http%3A//www.footprintlive.com/about-footprint-credentials-and-contact/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footprintlive.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719052202id_/http%3A//www.footprintlive.com/about-footprint-credentials-and-contact/privacy-policy.html) for the most accurate reproduction.*
 
 # Footprint Live - Footprint Privacy Statement
 
