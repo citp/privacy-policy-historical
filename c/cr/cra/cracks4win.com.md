@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracks4win.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617005522id_/http%3A//www.cracks4win.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracks4win.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719150005id_/https%3A//www.cracks4win.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cracks4Win
 
