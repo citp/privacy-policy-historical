@@ -1,61 +1,90 @@
-> *The following text is extracted and transformed from the socialpositives.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520005021id_/http%3A//www.socialpositives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialpositives.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720120157id_/http%3A//www.socialpositives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Positives
 
-This Privacy Policy governs the manner in which Social Positives collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.socialpositives.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Positives.
+At www.socialpositives.com, accessible from http://www.socialpositives.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by www.socialpositives.com and how we use it.
 
-**Personal identification information**
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at anzil@socialpositives.com
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+## General Data Protection Regulation (GDPR)
 
-**Non-personal identification information**
+We are a Data Controller of your information.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Social Positives legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
 
-**Web browser cookies**
-
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-**How we use collected information**
-
-Social Positives may collect and use Users personal information for the following purposes:
-
-  * _– To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests.
+  * Social Positives needs to perform a contract with you
+  * You have given Social Positives permission to do so
+  * Processing your personal information is in Social Positives legitimate interests
+  * Social Positives needs to comply with the law
 
 
 
-**How we protect your information**
+Social Positives will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.
 
-**Sharing your personal information**
+In certain circumstances, you have the following data protection rights:
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+  * The right to access, update or to delete the information we have on you.
+  * The right of rectification.
+  * The right to object.
+  * The right of restriction.
+  * The right to data portability
+  * The right to withdraw consent
 
-**Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Google Adsense**
+## Processing in the EU and the US
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province or country. Please be advised that we process and store all information on secure servers in the United States and/or the European Union. This is necessary in order to process your Personal Information. The laws in the United States or the European Union may not be as protective of your privacy as those in your location. By using our Site or Services and submitting Personal Information via the Site, you agree to this collection, use, transfer, and disclosure of your Personal Information and that such collection, use, transfer, and disclosure shall be governed by applicable laws in the United States and the European Union.
 
-**Changes to this privacy policy**
+## Log Files
 
-Social Positives has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+www.socialpositives.com follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
 
-**Your acceptance of these terms**
+## Cookies and Web Beacons
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Like any other website, www.socialpositives.com uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.
 
-**Contacting us**
+## Google DoubleClick DART Cookie
+
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <https://policies.google.com/technologies/ads>
+
+## Our Advertising Partners
+
+Some of the advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+
+  * Google<https://policies.google.com/technologies/ads>
+
+
+
+## Privacy Policies
+
+You may consult this list to find the Privacy Policy for each of the advertising partners of www.socialpositives.com.
+
+Third-party ad servers or ad networks use technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on www.socialpositives.com, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that www.socialpositives.com has no access to or control over these cookies that are used by third-party advertisers.
+
+## Third Pary Privacy Policies
+
+www.socialpositives.com’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. What Are Cookies?
+
+## Children’s Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+www.socialpositives.com does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## Online Privacy Policy Only
+
+This privacy policy ([GDPR Privacy Policy created at GDPRPrivacyNotice.com](https://gdprprivacynotice.com/)) applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in www.socialpositives.com. This policy is not applicable to any information collected offline or via channels other than this website.
+
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its terms. **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Social Positives](http://www.socialpositives.com/)  
