@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pho.to privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629094213id_/http%3A//pho.to/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pho.to privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720024452id_/http%3A//pho.to/policy) for the most accurate reproduction.*
 
 # Pho.to - Privacy policy
 
