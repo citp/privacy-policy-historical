@@ -1,82 +1,119 @@
-> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054954id_/https%3A//www.wiredtree.com/legal/pa.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720212509id_/https%3A//www.liquidweb.com/about-us/policies/privacy-policy) for the most accurate reproduction.*
 
-# WiredTree Privacy Agreement
+# Privacy Policy | Liquid Web
 
-**Effective Date:**
+## **LIQUID WEB PRIVACY POLICY**
 
-This Privacy Policy was last updated on September 14, 2010.  
-The last update before that was on October 26, 2006.
+###### Effective May 25, 2018
 
-## Our Commitment To Privacy
+Liquid Web is an information technology service provider. Headquartered in Lansing, Michigan, we provide web hosting solutions including dedicated servers and virtual private servers to our customers (“Services”). Liquid Web has data center locations in Lansing, MI, Phoenix, AZ, and Amsterdam, NL. 
 
-Your privacy is important to WiredTree. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Additionally, WiredTree adheres to the Safe Harbor Principles as agreed to and set forth by the United States Department of Commerce and the European Union ("EU"), [ http://export.gov/safeharbor/](http://export.gov/safeharbor/). To make this notice easy to find, we make it available on our website.
+Liquid Web respects the privacy of every individual who visits [www.liquidweb.com](http://www.liquidweb.com/) (“Website”) and/or purchases its Services. This Privacy Policy is our commitment to transparency in communicating how Liquid Web collects, uses, and discloses the information that is collected from you, the visitor of its website and/or customer as well as the choices you have with respect to the information.
 
-WiredTree reserves the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon posting on-line at this location. You acknowledge and agree that it is your responsibility to review this site and this Policy periodically and to be aware of any modifications. You may identify whether WiredTree has revised this Privacy Policy by noting the "Effective Date" above. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy. If you do not agree to these terms, please do not access or use this site.
+ **SCOPE OF POLICY**
 
-## Types of Information Collected
+This Privacy Policy applies to how we collect, use, and disclose information from the following individuals:
 
-In order to better provide you with our numerous services, we collect two types of information about our users: Personal Information and Non-Personal Information.
+  *  **Customers** – individuals who register, on their own or on behalf of an entity, to use Liquid Web Services with the creation or administration of a Liquid Web account. 
+  * **Event/Marketing Participants** – individuals who provide their information to Liquid Web when they register for Liquid Web webinars, subscribe to marketing material, participate in surveys or contests, or attend other Liquid Web events.
+  *  **Website Visitors** – individuals who visit Liquid Web’s Website and opt to provide contact information including an email address to receive communications from Liquid Web. For purposes of this Privacy Policy, a Website Visitor does not include an individual who visits a website hosted by Liquid Web but owned and operated by a Liquid Web customer. 
 
-## Personal Information
 
-When you order services through WiredTree, we request certain personally identifiable information from you on our order form to us to allow us to process your order, provide you with the services you order from us, and to provide ongoing technical support for your account. You must provide contact information (such as name, email, phone number, and address) and financial information (such as credit card number, expiration date). By purchasing our services, you agree to provide and maintain accurate, complete and updated information. Your personal information will be kept only as long as we need it for the purposes for which we collected it, or as permitted by law.
 
-After you have ordered our services, we may be in communication with you about your account. These communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. As a result, we may maintain information about our communications with you for future use.
+This Privacy Policy does not apply to a Customer’s website. Our Customers are responsible for the information they or their end users store in our hosting environment as well as compliance with applicable laws and regulations, and Liquid Web’s terms related to the collection and storage or personal information.
 
-WiredTree shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, WiredTree shall take reasonable steps to ensure that personal information is accurate, complete, current and reliable for its intended use.
+ **INFORMATION WE COLLECT**
 
-## Disclosure of Personal Information
+ **Customers**
 
-We use the information you provide about yourself when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide service. In the event that this policy changes, we will provide you with an opportunity to opt out or otherwise prohibit the disclosure of your information to third parties for any purpose other than your ordering and ongoing use of our services. For sensitive information, affirmative or explicit (opt in) choice will be given if the information is to be disclosed to a third party or used for a purpose other than previously authorized. 
+Liquid Web asks for your account information which includes your name, business name, email address, physical address, phone number, credit card and bank account information (stored directly with a third party processor), and website domain. By voluntarily providing Liquid Web with your account information, you represent that you own and consent to our use of such personal data. 
 
-We do not sell, trade, or rent your Personal Information to others. We do provide some of our services through contractual arrangements with affiliates, services providers, partners and other third parties. We and our service partners use your Personal Information to operate our sites and to deliver our services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on this site or release your address information to the delivery service to deliver products that you ordered.
+**Event/Marketing Participants**
 
-Occasionally, WiredTree may be required by law enforcement or judicial authorities to provide Personal Information to the appropriate governmental authorities. We will disclose Personal Information upon receipt of a court order or subpoena or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use WiredTree services for illegal activities. We reserve the right to report to law enforcement agencies any activities that WiredTree in good faith believe to be unlawful.
+Liquid Web may ask for your name, email address, physical address, and phone number. Participation in events, surveys, contents, or subscribing to marketing material is voluntary and you may choose whether or not to participate and therefore disclose this personal data. 
 
-WiredTree may also use the Personal Information collected to contact customers regarding important changes to our site, new services and special offers we think you will find valuable. You will be given the opportunity to notify us of your desire not to receive these offers through our client portal or by sending an email request at legal@wiredtree.com.
+**Website Visitors**
 
-## Non-Personal Information
+At your option, Liquid Web asks and may collect your name, email address, physical address, and phone number. In addition, we also collect information such as web server logs, internet protocol (IP) addresses, browser type, or other information as part of aggregated data.
 
-WiredTree collects tracking data when users visit our websites. Whenever you request a page through your browser, navigation data such as your IP address, browser and version, operating system, date and time and the site from which you came are stored in a log file. We use this data to analyze visitors' use of our site in order to make improvements to our site.
+ **COOKIES AND OTHER TRACKING TECHNOLOGIES**
 
-## Disclosure of Non-Personal Information
+Liquid Web uses cookies, beacons, tags, and other tracking technologies to gather demographic information about you, identify your visits to our Website, other interactions with our Website, and personalize your search experience on our Website. We gather information such as internet protocol (IP) addresses, internet service provider (ISP), operating system, browser type, date/time stamp, and store it in log files. To collect this information, a cookie, a standard feature of a website that allows us to store a small amount of data on your computer to allow our web servers to recognize you, may be set on your computer or device when you visit our Website. We may track your use across different websites and services. In some countries, including those in the European Economic Area ("EEA"), the information in this paragraph may be considered personal information under applicable data protection laws.
 
-WiredTree may share this anonymous traffic and demographic information in aggregate form with other business partners. We do not share any information with anyone that can identify an individual user.
+You can control how websites use cookies by changing your cookie settings (www.aboutcookies.org), but your modification may limit your use and functionality of some of the features on our Website. We may also use cookies and other tracking technologies to provide you advertising based on your browsing activities. You may opt out of targeted advertisements by visiting [http://optout.networkadvertising.org](http://optout.networkadvertising.org/), or if located in the EEA, you may opt out by visiting [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).
 
-## Cookies
+ **HOW WE USE YOUR INFORMATION**
 
-A cookie is a small text file that is stored on a users computer for record-keeping purposes. WiredTree may use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browsers help file.
+Liquid Web uses the information it collects about you in the following ways:
 
-## Our Commitment To Data Security
+  * To respond to any requests from you regarding sales and support.
+  * To contact you regarding any agreements or accepted terms that you may have with Liquid Web for the Services.
+  * To provide you with marketing emails, special offers, advertising campaigns, or newsletters.
+  * To provide you with information logs associated with the use of Liquid Web’s Services.
+  * To contact you regarding functionality changes to our Services or Website.
+  * To develop new features and functionality to our Services and Website.
+  * To collect payment and bill for our Services.
+  * To help personalize searches.
+  * To diagnose problems.
+  * To find and prevent fraud.
+  * To register your domain and IP address through ARIN (American Registry for Internet Numbers).
+  * To carry out other purposes as disclosed to you through the Website, or found in terms or an agreement between you and Liquid Web.
+  * Process for other purposes for which we obtain your consent.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. The WiredTree website uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. When entering Personal Information, we strongly recommend an SSL-enabled web browser.
 
-## Our Commitment to Safe Harbor
 
-WiredTree believes in protecting your privacy. When we collect personal information from you on our website, we comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. WiredTree will regularly review our privacy promises, to ensure that we are in compliance U.S.-EU Safe Harbor Framework. 
+ **HOW WE SHARE INFORMATION**
 
-## Safe Harbor Enforcement
+Liquid Web shares the information it collects about you in the following ways:
 
-WiredTree uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles of Safe Harbor. Should you have any concerns please contact us with the information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.
+  *  **Third Party Providers** – Liquid Web may share your information with third party providers that provide services on our behalf or resellers who provide Liquid Web Services. These companies may assist with marketing support, processing credit card payments, content delivery, email, providing sales leads, and customer support. Third party providers may only process personal information pursuant to Liquid Web’s instructions, and in compliance with the Privacy Policy and other applicable regulations (e.g. EU-US Privacy Shield framework).
+  *  **Advertising** \- Based on the cookies and other tracking devices, we may work with advertising companies to display ads that may be of interest to you.
+  *  **Business Transactions** – To provide information to a third party in the event of any disposition of all or any portion of our business (e.g. reorganization, sale, assignment, bankruptcy).
+  *  **Aggregated or De-identified Data** \- We may disclose or use aggregated or de-identified information with third party providers for research purposes relating to our Services.
+  *  **As Required by Law or Similar Investigations** \- To comply with legal obligations (e.g. subpoena) or investigate potential legal violations. Liquid Web may be required to share personal data in response to lawful requests from public authorities including to meet national security and/or law enforcement requirements.
+  *  **Safety** - We may disclose your information to protect and defend the safety of Liquid Web in connection with investigating and preventing fraud or security issues.
+  *  **Consent** \- Liquid Web may share your information with your consent.
 
-## Our Commitment To Children's Privacy
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-## Access To Your Personal Information
+ **YOUR CHOICES**
 
-You always have access to the information we have about you. To review and update your personal contact information, simply log into our client portal. You may also email billing@wiredtree.com to have the information changed.
+You may unsubscribe from receiving promotional or marketing emails from Liquid Web at any time by using the “unsubscribe” link in the email received, or by emailing us at [support@liquidweb.com](mailto:support@liquidweb.com). As outlined in the Section, Cookies and other Tracking Technologies, you can also control your cookie settings. 
 
-## Questions
+With respect to your account information, you may update, correct or delete information that you provided to us by logging into your Liquid Web account or contacting us at [support@liquidweb.com](mailto:support@liquidweb.com).
 
-If you have any questions about this Privacy Policy, the practices of this site, or our compliance with the Safe Harbor principals, please contact us at:
+ **LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION**
 
-WiredTree  
-Attn: Legal Department  
-412 S. Wells St.   
-Suite 201   
-Chicago, IL 60607
+For individuals in the EEA, Liquid Web’s legal basis for collecting and using your personal information will depend on the personal information collected and the specific context in which we collect it. Liquid Web will process personal information from you where, a) we have your consent to do so, b) where processing is necessary for Liquid Web to perform Services pursuant to an agreement, or c) where processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information, or may otherwise need the personal information to protect your vital interests or those of another person. At any time, you have the right to withdraw or decline consent. If you do not provide the requested information, Liquid Web will not be able to perform Services for you. Also, you have the right to object where we rely on our legitimate interests to process your personal information.
 
-Email: [legal@wiredtree.com](mailto:legal@wiredtree.com)
+ **INTERNATIONAL TRANSFERS**
 
-If you have a complaint or dispute relating to Safe Harbor Framework cannot be resolved through our internal process, we agree to dispute resolution using American Arbitration Association. 
+Liquid Web is a US company and stores your information in its data centers in the United States or, in limited cases, in the Netherlands. Liquid Web may transfer your personal information to countries other than the country in which you live. Whenever Liquid Web transfers personal information originating from the EEA or Switzerland to other countries not deemed adequate under applicable data protection law, it will do so on the basis of the Privacy Shield Frameworks or EU Standard Contractual Clauses. 
+
+To comply with European Union and Swiss data protection laws, Liquid Web self-certified under the [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000L1QYAA0&status=Active) and the [Swiss-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000L1QYAA0&status=Active), as administered by the U.S. Department of Commerce. These frameworks were created to enable companies to comply with data protection requirements when transferring personal information from the EEA and Switzerland to the United States. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Frameworks, the Privacy Shield Frameworks shall govern. 
+
+**DATA SUBJECT RIGHTS**
+
+Individuals located in the EEA may have additional statutory rights available to them with respect to their personal information, including the right to access your personal information, have it erased, have it corrected, or object to or restrict processing. If you would like to make such a request, please email  [privacy@liquidweb.com](mailto:privacy@liquidweb.com) and we will respond within thirty (30) days. Liquid Web will need to verify that the individual is inquiring about his/her own information before we can assist with the request.
+
+We will comply with such requests to the extent legally required by applicable law or the EU-US or Swiss-US Privacy Shield. For EU individuals, you also have the right to lodge a complaint with the supervisory authority.
+
+ **CHILDREN**
+
+Our Website and/or Services is not directed at children and our services are designed for businesses. We do not knowingly collect information from or about children under 13 years of age, and use of our services by children under 13 years of age is forbidden.
+
+ **CHANGES TO PRIVACY POLICY**
+
+Liquid Web reserves the right to modify this Privacy Policy at any time, however, should we change the Privacy Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. If you disagree with the changes, you may terminate your Services.
+
+ **CONTACT US**
+
+If you have any questions or concerns over this Privacy Policy, or wish to exercise any of your statutory rights, please contact us at:
+
+Liquid Web, LLC Privacy Matters  
+c/o Liquid Web, LLC  
+Attn: Director of Security  
+2703 Ena Drive  
+Lansing, MI 48917  
+USA  
+Email – [privacy@liquidweb.com](mailto:privacy@liquidweb.com)
