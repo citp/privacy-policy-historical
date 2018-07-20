@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directnic.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602170822id_/https%3A//directnic.com/terms/doc/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directnic.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720235550id_/https%3A//directnic.com/terms/doc/privacy.policy) for the most accurate reproduction.*
 
-# None
+# Terms Doc Privacy.policy | Directnic
 
  
 
