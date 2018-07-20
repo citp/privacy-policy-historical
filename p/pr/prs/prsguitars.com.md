@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531054938id_/http%3A//prsguitars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720193417id_/https%3A//www.prsguitars.com/privacy.php) for the most accurate reproduction.*
 
 # PRS Guitars PRS Guitars Privacy Policy
 
@@ -63,6 +63,6 @@ If you have any questions about this privacy statement, the practices of this Si
   * PRS Guitars
   * 380 Log Canoe Circle
   * Stevensville, MD 21666
-  * You can send an email to our webmaster [by clicking here](mailto:webmaster@prsguitars.com/)
+  * You can send an email to our webmaster [by clicking here](https://web.archive.org/cdn-cgi/l/email-protection#ee998b8c838f9d9a8b9cae9e9c9d899b879a8f9c9dc08d8183c1)
 
 
