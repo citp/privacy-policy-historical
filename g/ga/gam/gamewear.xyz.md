@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamewear.xyz privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228065706id_/http%3A//www.gamewear.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewear.xyz privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720054143id_/http%3A//www.gamewear.xyz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gamewear
 
