@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the censys.io privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527081327id_/https%3A//censys.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the censys.io privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720033255id_/https%3A//www.censys.io/privacy) for the most accurate reproduction.*
 
 # Censys
 
