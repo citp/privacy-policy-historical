@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcube.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331003104id_/https%3A//www.vcube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcube.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721082400id_/https%3A//www.vcube.com/privacy) for the most accurate reproduction.*
 
 # Personal information protection policy｜TV/Web Conferencing - Cloud services - V-CUBE
 
