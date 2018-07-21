@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623075227id_/http%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721060454id_/https%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.*
 
 # Plus Size Clothing | DebShops
 
