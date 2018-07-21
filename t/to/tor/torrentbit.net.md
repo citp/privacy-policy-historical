@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentbit.net privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618161830id_/http%3A//www.torrentbit.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentbit.net privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721074836id_/http%3A//www.torrentbit.net/privacy) for the most accurate reproduction.*
 
 # Torrentbit.net - search torrents, download torrents, torrent download - NO ADS - Enjoy!
 
