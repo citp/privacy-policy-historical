@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523152009id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721105038id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Users Who Apply or Sign Up for a Square Account
 
