@@ -1,104 +1,200 @@
-> *The following text is extracted and transformed from the mytona.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913194905id_/http%3A//mytona.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytona.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722205928id_/http%3A//mytona.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MyTona
 
-**Privacy Policy ​**1\. IntroductionAt MyTona, we make every effort to protect the privacy of those who use our games, website(s) and all other related services that may be provided at any given time (hereinafter, “Services”). Outlined here is our policy (hereinafter, “Privacy Policy”) for collecting, processing and storing information that belongs to you. This includes personal details such as name, address, telephone number and email address. Throughout the remainder of this document, said information shall be referred to as “Personal Data”.
+ Privacy policy
 
-In order to protect your Personal Data, we follow generally accepted industry standards for privacy during transmission of information and at the time we receive it. Nevertheless, please keep in mind that no information that is electronically stored or transmitted using the Internet is 100% secure. For this reason, we cannot guarantee the security of your Personal Data even though it is our goal to do so, so please remember this when you choose to provide personal information. Any information that you decide to make public in your user profile, or that you may post in comments, will be visible to others. We shall not be liable for any Personal Data that you choose to make public in this or any other manner.
+Last updated: June 8, 2018
 
-It is not our policy to allow anyone under the age of 13 to provide Personal Data. It must be understood that if you are not considered to be of legal age in your country of residence, you are required to obtain the consent of your parent or legal guardian for us to collect or use Personal Data in compliance with this Privacy Policy. If you are not able to obtain this consent or are under the age of 13, do not submit any Personal Data to our Services.  
-All information that is entered via our Services or provided in any other manner, including third-party sites and services as well as cookies from third parties, which authorize us to access your information (such as Google or Facebook) will be stored. Information of this nature could include your name, email address, IP address, usernames and passwords, and browser information, along with any other necessary information that may help us provide you with our Services. You may choose not to provide certain Personal Data, but in doing so you may not experience our Services’ special features to the fullest extent.  
-By using and/or accessing our Services, you authorize us to collect, store, process and share your Personal Data in the manners set forth herein. If you are at all concerned about the way that your Personal Data is used as authorized in this Privacy Policy, please refrain from using our Services.
+Thanks for using our games, websites, marketing and advertising activities or related services (“Service” or “Services”).
 
-2\. Personal Data collected from you and how it is collected
+1\. Introduction
 
-Certain types of Personal Data is collected and stored when you use our Services. MyTona may receive and record such information automatically, to include your Vendor/Advertising Identifiers, Android ID, IP address, MAC address, browser and cookie information, timestamps, operating system information, pages that you frequent, applications you download and the path or actions you take when using our Services.
+1.1. This policy describes:
 
-Cookies  
-We use cookies, which are small files that store information on your computer or mobile device to help us optimize the use of our Services. 
+  * what information MyTona Pte. Ltd. and its other affiliated and related companies (MyTona” or “we” or “us” or “our”) and its third parties collect through the Services, whether on your mobile device, computer, or any other device, platform or website, and why we collect it,
+  * how we use that information, and
+  * how you can exercise your privacy rights.
 
- Reasons for using cookies include:  
-\- to recognize you or your device, such as through your IP address;  
-\- to allow interaction between our Services and a third-party social network/platform (if you have authorized such an interaction);  
-\- to process payments;  
-\- to provide customized Services, such as using the language you have selected;  
-\- to collect statistical data that will allow for analysis of how our Services are used to be able to improve them. 
 
-You authorize our use of cookies in compliance with this Privacy Policy when you access our website(s) or use our Services. You may disable cookies at any time using the browser settings on your device, but in doing so you may not experience our Services’ features to the fullest extent. 
 
-Because we advertise our Services on mobile devices, Advertising Identifiers, which are temporary device identifiers that allow us to provide advertising related to your own personal interests, are used. Examples of these are Android advertising IDs or Apple advertising IDs. These identifiers and other related information are held either by us or are provided to us by network partners who provide advertising for us, and can help us analyze how effective ad campaigns are. You may disable this feature in your device settings menu to either prevent your advertising ID from being used or to change it. 
+1.2. By installing, using or otherwise accessing the Services, you consent to collection, storage, processing and sharing your Personal Data in the manners set forth in this Privacy Policy. We may use this data in different ways, but always do so lawfully in accordance with the legal bases set out in Section 10 below.
 
-Payment Information   
-We collect payment information for our payment service providers when you purchase Services on our website(s), but please know that this payment information is only stored temporarily and is cached so as to prevent MyTona from being able to read it. For in-app purchases (such as through the App Store, Windows Store, Google Play or Amazon Kindle) we do not store payment information. 
+1.3. If you are at all concerned about the way that your Personal Data is used as authorized in this Privacy Policy, please refrain from using our Services.
+
+1.4. It is not our policy to allow anyone under the age of 13 to provide personal data and we do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services.   
+In some countries set forth below you must be older than 13 years old to use our Services:
+
+in Austria you must be at least 14 years old to use the Services;  
+in Finland - 15 years old;  
+in France, Germany, Hungary, Lithuania, Luxembourg, Netherlands, Slovakia - 16 years old.
+
+No one under the relevant age may provide any personal data.
+
+If we discover that we have collected personal data about a child under the relevant age, we will delete that data as quickly as possible.  If you believe that we might have any data from or about a child under the relevant age, please contact us.
+
+2\. Information we collect and receive
+
+We may collect and receive information which may be considered personal data according to applicable laws in a variety of ways. More specifically:
+
+2.1. When you play our games, we may collect and store:
+
+2.1.1. Information that you provide voluntarily such as name, email address, phone number or other contact information, player name and password, profile photo, information submitted to our support via Services or email, the content of messages sent using our chat and messaging systems or other information you send us (such as data to identify a lost account).
+
+2.1.2. Information that is collected and stored automatically from you and/or your device when you use our games , such as:  
+\- data about your account, nickname and how you use the Services and interact with the Services (such as gameplay data, game progress, levels, scores, session length, preferred setting; which in-game adverts you may have viewed, in-game references or just game preferences, what friends you connect with);  
+\- your IP address, Internet status, broad geographic location (e.g. country or city-level location), cookie identifiers;  
+\- Device information, including type of device, device model,device operating system, device settings, its language or other technical data like device settings, screen size or processor, or combination of this data available from a device for a developer for checking the device compatibility with a particular application, application IDs, device ID, Advertising ID (unique identifiers associated with your device that advertisers use for interest based advertising), Vendor ID.
+
+​Whether we collect some or all of this  information often depends on the type of device used and its settings. These technologies allow us and third parties (including marketers and advertisers) to recognise your device when you use websites and applications. They are consistent across all apps and thus allow cross-app tracking. 
+
+2.1.3. Data we collect from our partners:
+
+  * Data we receive if you link a third party tool with the Service (such as Facebook);
+  * Data to fight fraud (such as refund abuse in games or click fraud in advertising);
+  * Details of orders (such as items, date, amount, status, description, broad geographic location (e.g. country or city-level location));
+  * Data for advertising and marketing purposes; 
+  * Data for analytics purposes, so we can provide you a better Service;
+  * Data from other group companies or third party companies who have obtained your consent or have another legal right to share such information with us (including publishing partners, platforms, advertising platforms and partners and data aggregator). This may include attributes about you and your interests, as well as other games and services you use, demographic and general location information. We will use this information as described in this Privacy Policy and subject to any limitations in the privacy policy of the company that collected the information from you.
+
+
+
+   
+2.2. When you visit our website
+
+2.2.1. When you provide us with any feedback through means available to you on this website, including but not limited to the Job Application we may collect and process personal data which you provide to us, such as your name, e-mail address, telephone number or any other information you send us.
+
+2.2.2. Information collected and stored when you use website automatically from your device or browser including your device’s model, operating system, screen size, browser type, information of how you use the website (such as time and user’s amount of visits, time spent on the website, IP address, data collected with cookies and similar technologies (such as " software development kits, or “SDKs”). For more information please click [here](http://www.youronlinechoices.com/uk/protecting-your-privacy).   
+   
+2.3. If you are representatives of our Business Partners, Vendors or Corporate Customers  
+   
+When you are representatives of our business partners, vendors or corporate customers, we may collect and receive
+
+2.3.1. Any information from you directly;  
+   
+2.3.2. Any information from your employer or other third parties (e. g. from publicly available sources or during networking events).  
+   
+2.4. We may from time to time ask you for your consent to collect other information from you or your device. If we do this, we will tell you what information we would like to collect, why we need it and what we’ll use it for.  
+   
+2.5. Please note we do not collect or store any payment information from you when you purchase items via our mobile apps (such as those you can purchase in the App Store, Google Play, Microsoft Store, Amazon Appstore, Facebook or other platform).
+
+2.6. Some of this information may be collected using cookies, a small files that store information on your device to help us optimize the use of our Services and/or similar technologies (such as "SDKs" or software development kits). Some of the cookies are “1st party,” from the website itself, and others are “3rd party,” belonging to advertising and analytics entities or social networks. Cookies are typically used to quickly identify your device and to “remember” your device during subsequent visits for purposes of functionality, preferences, and website performance. You can disable cookies on your device or set your device to alert you when cookies are being sent to your device; however, disabling cookies may affect your ability to use the Services.
+
+2.7. Please note MyTona does not guarantee the protection of any Personal Data you decide to make public in your account, or that you may post in comments, submitted through the Services or make otherwise visible to others including but not limited to, chats, forums, blogs where you can post your Content. We has no responsibility for how that information is used by other parties. So please be careful when you submit any data through the Services.
+
+2.8. We may also create a Support ID which helps us identify you for supporting purposes when you use the Service.
 
 3\. How is your Personal Data used?
 
-First and foremost, when you use our Services or website(s) you are authorizing us to use your Personal Data to:
+3.1. First and foremost, we use personal data when processing is necessary for the performance of a contract to which you are a party or in order to take steps at the request of the data subject prior to entering into a contract.  
+Accordingly, we use your data as follows:  
+\- to provide you with the Services;  
+\- to contact you, whether for customer service purposes or to send information regarding our Services;  
+\- to manage your account and improve your experience when using our Services;  
+\- to research, survey and interact with you, for example via email or other communications;  
+\- to develop and improve the Service and player experience;  
+\- to customize your Service experience;  
+\- to provide you our offers in the Service as well as in other websites and services;  
+\- when it is necessary to do as you have requested for sending you related information, security alerts, and support messages;  
+\- to provide social features as part of the Service;  
+\- to moderate chats either automatically or manually;  
+\- to enable you to communicate with other players.
 
-\- contact you, whether for customer service purposes or to send information regarding our Services;  
-\- manage your account and improve your experience when using our Services;  
-\- research, survey and interact with you, for example via email or other communications;   
-\- market or promote our Services and/or related products, by sending communications, including on behalf of a third party, such as information about merchandise related to our services. If you would like to decline the use of your Personal Data in this manner, please contact [snsupport@mytona.com](mailto:snsupport@mytona.com);  
-- create reports, analyses or similar for our own research or market purposes, for example to track trends or problems using our Services;  
-- prevent crime, fraud or cheating. If necessary, you authorize us to share your Personal Data with fraud prevention agencies or related organizations;  
-\- do anything else related or authorized in this Privacy Policy or according to applicable law.
+3.2. To show personalized advertisements in the Service as well as in other websites and services (including email); track the content you access in connection with the Service and your online behavior; deliver, target and improve our advertising and the Service.
+
+3.3. We may use the data when processing is necessary for compliance with a legal obligation to which MyTona is subject in order to keep the Service and its social features safe and fair, to fight fraud, prevent crime or cheating and ensure acceptable use otherwise, take action against fraudulent or misbehaving players.
+
+3.4. We may use the data when processing is necessary for the purposes of the legitimate interests pursued by us to analyze, profile, and segment, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child under the relevant age.  
+In all of the above cases and purposes, we may analyze, profile and segment all collected data (e. g. create reports, analyses or similar for our own research or market purposes, for example to track trends or problems using our Services).
+
+3.5. With your consent.  
+With your consent, we may process your data for additional purposes, such as using your GPS location to show you local events.
 
 4\. Your Personal Data will be shared with third parties
 
-We do share your information with third parties, such as affiliates or suppliers, but only:
+4.1. We may share your information with (i) third parties providers and partners who provide data processing services to us and with whom we have relevant signed agreements, or who otherwise process personal information for purposes that are described in this Privacy Policy or notified to you when we collect your personal information (such as technical support providers, software providers, advertising and marketing partners, professional advisers, consultants (such as solicitors, accountants, tax advisors, auditors and insurance brokers); (ii) public authorities, court, government representative or other third party as necessary in accordance with applicable law and regulations; (iii) to third party when there is a corporate restructuring or sale of assets involving MyTona, or as a result of a change in control of MyTona or affiliate, or to prepare for any of these events. Any third party who is the recipient of such a transfer or sale is authorized to continue using your Personal Data as provided to us, according to this Privacy Policy; or (iv) to any other individuals or entities with your consent to disclosure.
 
-\- with your consent (as authorized in this Privacy Policy);   
- \- certain information for our advertising partners with whom we have relevant signed agreements. This information will enable third-party advertising companies to offer you advertisements and for other marketing purposes;  
-\- as explicitly necessary to be able to provide Services to you (such as to suppliers of ours that are needed for you to use our Services or that need to communicate with you regarding our Services);  
-\- when it is necessary to do as you have requested (such as when making a payment);  
-\- when we can provide third parties with anonymous and statistical data;  
-\- when you voluntarily provide Personal Data via an interaction with our social media channels (such as a testimonial) or enter a competition. In this case you authorize us to publish your Personal Data on our website and social media channels;   
-\- as necessary in accordance with applicable law and regulations;   
-\- to comply with legal obligations, to apply or enforce our terms and conditions or any other agreement we have entered into with you, or to protect the rights, property and security of MyTona and others;  
-\- when there is a corporate restructuring or sale of assets involving MyTona, or as a result of a change in control of MyTona or affiliate, or to prepare for any of these events. Any third party who is the recipient of such a transfer or sale is authorized to continue using your Personal Data as provided to us, according to this Privacy Policy. 
+4.2. By accepting this Privacy Policy and downloading or continuing to play our games or use our Services, and unless you opt out of interest-based advertising as explained in Section 11, you consent to us and our [advertising partners](https://www.mytona.com/advertising_partners.html) collecting and using information about you to improve advertising, targeting and measurement systems so that we can show you direct or target interest advertising according to your preferences.
 
-We do not sell or rent your Personal Data to any third party unless it is related to one of the above reasons.
+4.3. We do not sell or rent your personal data to any third party unless it is related to one of the above reasons.
 
-5\. Playing our games with other players 
+4.4. By accepting this Privacy Policy and downloading or continuing to play our games or use our Services, you are also authorizing us to, at any time and in our sole discretion, provide third parties with anonymous and statistical data contains no personal data.
 
-In the event you use a third-party social network or platform to access our Services, this third party may provide your Personal Data to us if you so allow. These websites or applications are created by a third party that is not affiliated with or controlled by MyTona. Please be sure to carefully read their terms of service and privacy policy so that you understand how they use your Personal Data and what might be shared. 
+5\. Playing our games with other players 
 
-When you allow any interaction between our Services and any social network or platform that belongs to a third party, we also may share Personal Data with your contacts for you to enjoy playing with others (hereinafter, “Social Data”). Social Data includes your name, your profile picture and your scores/progress in our games.   
-You may, at any time, make changes to the data that these third-party social networks or platforms share with us by changing your settings for that provider, or stop allowing our Services to interact with that provider. In doing so you may not experience our Services’ special features to the fullest extent.
+5.1. In the event you use a third-party social network or platform to access our Services, this third party may provide your personal data to us if you so allow. These websites or applications are created by a third party that is not affiliated with or controlled by MyTona. Please be sure to carefully read their terms of service and privacy policy so that you understand how they use your Personal Data and what might be shared. 
+
+5.2. When you allow any interaction between our Services and any social network or platform that belongs to a third party, we also may share your personal data with your contacts for you to enjoy playing with others (your name, your profile avatar and your scores/progress in our games). 
+
+5.3. You may, at any time, make changes to the data that these third-party social networks or platforms share with us by changing your settings for that provider, or stop allowing our Services to interact with that provider. In doing so you may not experience our Services’ special features to the fullest extent.
 
 6\. Storage of Information
 
-Your Personal Data will be stored as long as is necessary to provide you with Services or to complete whatever purpose it was originally provided for. Even after you have closed your account or have stopped using our Services, we may continue to store your Personal Data if doing so is necessary for us to fulfill our legal obligations, meet requirements of applicable regulations, resolve member disputes, prevent fraud, abuse or cheating, or any other reason that falls under this Privacy Policy or other user agreement.
+6.1. Your personal data will be stored as long as is necessary to provide you with Services or to complete whatever purpose it was originally provided for. But please note even after you have closed your account or have stopped using our Services, we may continue to store your Personal Data if doing so is necessary for us to fulfill our legal obligations.
 
-7\. Protection of Information 
+7\. Protection of Information 
 
-We take the security of your Personal Data very seriously. We implement the appropriate technical and physical safeguards to ensure that your Personal Data is protected against accidental or unlawful loss, destruction, alteration, unauthorized access or disclosure, or any other use or unlawful processing of Personal Data you have provided to us. Our security mechanisms for Personal Data are similar to those of other game developers. Please keep in mind, though, that the Internet is not 100% secure and any access, disclosure, alteration or destruction of the Personal Data you have provided through our games due to breach of our safeguards cannot be guaranteed.
+7.1. We take the security of your Personal Data very seriously. We implement the appropriate technical and physical safeguards to ensure that your Personal Data is protected against accidental or unlawful loss, destruction, alteration, unauthorized access or disclosure, or any other use or unlawful processing of Personal Data you have provided to us. Our security mechanisms for Personal Data are similar to those of other game developers. Please keep in mind, though, that the Internet is not 100% secure and any access, disclosure, alteration or destruction of the Personal Data you have provided through our games due to breach of our safeguards cannot be guaranteed.
 
 8\. Links to third parties in our Services
 
-In our Services and on our website(s), we may embed links to third-party websites. It must be understood that when you click on any of these links, you will be taken to a third-party site and therefore any Personal Data you provide will not be protected under this Privacy Policy, but rather that of the third party. Of course we take great care in selecting reputable links, but understand that MyTona is not responsible for the security of your Personal Data on any third-party site.
+8.1. In our Services and on our website(s), we may embed links to third-party websites. It must be understood that when you click on any of these links, you will be taken to a third-party site and therefore any Personal Data you provide will not be protected under this Privacy Policy, but rather that of the third party. Of course we take great care in selecting reputable links, but we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-9\. Your Personal Data rights
+9\. International data transfers
 
-\- You may, at any time, request a copy of all Personal Data that you have provided and we store. If you choose to do so, you may contact snsupport@mytona.com.  
- \- In order to serve you better and maximize your experience using our Services, we appreciate you taking the time to provide accurate and updated Personal Data. At any time, you may contact the email addresses above to change, correct or remove any Personal Data you have previously provided.  
-\- Any Personal Data that you have shared while using our Services on any third-party social network or platform is no longer solely our responsibility, and therefore cannot be changed, modified or deleted by us. We also will not have control over any Personal Data that has been copied on a third-party network or platform (such as when you allow a “friend” on that network interacts with your account).  
-\- You have the right to request that we not use your Personal Data for marketing purposes. To change these preferences or to unsubscribe from such analysis, contact snsupport@mytona.com.
+9.1. Our Service is global by nature and your data can therefore be transferred to anywhere in the world. Because different countries may have different data protection laws than your own country, we take steps to ensure adequate safeguards are in place to protect your data as explained in this Policy. These include implementing the European Commission’s Standard Contractual Clauses for transfers of personal data between our group companies and third party service providers and partners, which require all group companies to protect personal data they process from the EEA in accordance with European Union data protection law. It also includes transferring personal data to third party service providers and partners which are certified under the EU-US and Swiss-US Privacy Shield.
 
-In the event our Privacy Policy is changed or updated, any changes or updates will be posted to keep you aware of the Personal Data that we collect, how it is used and stored, and when we are authorized to disclose it.
+​10. Legal Bases for Processing Personal Data
 
-We reserve the right to make any necessary changes to this Privacy Policy at any time, so please view it often. We will notify you here if any changes are made.  
-​  
-Should you have any questions regarding this Privacy Policy or would like to decline 
+10.1. In each case where we process your Personal Data, we do so lawfully in accordance with one of the legal basis according to the applicable law. The legal bases which we rely upon are the following:
 
-from providing Personal Data, please contact snsupport@mytona.com.
+  * We need the personal data to perform a contract with you. This applies when data used by us in order to provide you with Services that you have requested - and that we have agreed - to provide to you, such as our games, customer services, chat functionality and third party social network connectivity;
+  * Legal Obligation. This applies when data used by us to comply with a legal obligation, such as the preventing a crime or fraud or maintaining tax record;
+  * Legitimate Interests. This applies when data used for analytics, research and optimisation of the Services, and marketing purposes, including direct or target interest based advertising; and
+  * Consent. This applies when you voluntarily give us specific, informed and unambiguous indication of you wishes by which you signifies agreement to the processing of your personal data.
 
-[ ](http://www.mytona.com/)
 
-| 
 
-[ ](http://www.mytona.ru/)  
-  
----|---  
-  
+11\. Personal Data Protection Rights  
+If you are in the European Union you have the following data protection rights:
+
+11.1. Right to access your Personal Data.
+
+You have a right to know what Personal Data we hold about you, how and why we handle your Personal Data. You can ask us for a copy of your Personal Data and in some cases to have the information communicated to you. If you would like to exercise your right of access please contact us as described below and let us know what information in particular you would like to receive. We reserve the right to ask for reasonable evidence to verify your identity before we provide you with any information. Please note that we may not be able to provide all the information you ask for, for instance if the information includes personal information about another person. Where we are not able to provide you with information that you have asked for, we will endeavour to tell you why.
+
+11.2. Right to correct or update your Personal Data.   
+You have a right to request an update or correction to any of your Personal Data which is out of date, incomplete or incorrect.
+
+11.3. Right to delete your Personal Data.
+
+In certain specific circumstances you have a right to ask us to delete your Personal Data which we are holding about you. We will pass your request onto other recipients of your personal information unless that is impossible or involves disproportionate effort. If you would like to ask us for further information on the specific circumstances, and who the other recipients are, and/or exercise your right to erasure please contact us, using the contact details described in Section 12 below. Please note some things can only be deleted when you delete our games from your mobile devices and clear our cookies from any device that you have used for our Services. In that case you will permanently lose all your game progress, Virtual Currency and Virtual Goods without the right to data recovery or refund. Where we delete Personal Data about you, we may still retain some or all of that information for other purposes such as maintaining financial records, protecting or enforcing legal rights, maintaining marketing suppression lists or for technical reasons such as maintaining technical security or our database integrity. We may also retain your information in an anonymised form. In some instances, personal information about you that is visible through gameplay such as username, avatar, your high scores and any chat messages may be cached on other players’ devices and we may not be able to remove or update that data from those devices, for example if that device is not connected to a network. You can ask us for further information on the specific circumstances and who the other recipients are, using the contact details described in Section 12 below.
+
+11.4. Right to restriction of processing your personal data.
+
+In certain specific circumstances you have a right to object to the processing of personal data about you which is processed on the grounds of legitimate interests. You can ask us for further information on the specific circumstances using the contact details described in Section 12 below.
+
+11.5. Right to object at any time to processing of your personal data when processing is necessary for the purposes of the legitimate interests pursued by us or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
+
+11.6. Right to opt-out of direct or target interest advertising on mobile applications by checking the privacy settings on your device settings menu. Please note that even if you use your right to opt-out it you will still receive advertising, but not direct or target interest. On Apple you can opt-out this by going to Settings > Privacy > Advertising and turning on “Limit Ad Tracking”. On Android you can opt-out by going to Settings > Google services  > Ads and turning on choosing “Opt out of Ads Personalization”.
+
+11.7. Right to portability of your personal data. In some circumstances, you may have the right to request that data which you have provided to us is provided to you, so you can transfer this to another data controller.
+
+11.8. Right to withdraw your consent at any time if we are processing your personal data with your consent.
+
+11.9. Right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
+
+11.10. We do not carry out any decision-making based solely on automated processing, including profiling unless we have your consent or we need to do so to perform a contract with you. 
+
+12\. How to contact us
+
+12.1. Should you have any questions regarding this Privacy Policy or would like to use your Personal Data protection rights described above, please contact us at [legal@mytona.com](mailto:legal@mytona.com).
+
+12.2. Data Controller: MyTona Pte. Ltd., a Singapore corporation with its registered office at 1 Fusionopolis Link #06-06 Nexus@One-North, North Lobby, Singapore 138542.
+
+13\. Changes of Privacy Policy
+
+13.1 In the event our Privacy Policy is changed or updated, any changes or updates will be posted to keep you aware of the Personal Data that we collect, how it is used and stored, and when we are authorized to disclose it.
+
+13.2. We reserve the right to make any necessary changes to this Privacy Policy at any time, so please view it often.
+
 © 2017 MyTona. All rights reserved
