@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ichro.me privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024173317id_/http%3A//ichro.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichro.me privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722083248id_/https%3A//ichro.me/privacy) for the most accurate reproduction.*
 
 # iChrome - Privacy Policy
 
 The column on the right provides a short summary of our privacy policy and is not legally binding.
 
-**Last updated on: January 28th, 2016**
+**Last updated on: June 4th, 2017**
 
 At iChrome, we collect and manage user data according to the following Privacy Policy. This document is part of our Terms of Service, and by using the iChrome website or using or installing any of iChrome’s browser extensions or other software (collectively, the “Services”), you agree to the terms of this Privacy Policy and the [Terms of Service](https://ichro.me/tos). Please read the Terms of Service in their entirety and refer to them for definitions.
 
@@ -79,8 +79,6 @@ We might share analytics information and statistics with third parties, but data
 If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, we may transfer your personal information and non-personal information to one or more third parties as part of such a transaction.
 
 If iChrome is sold, we may transfer your information. 
-
-As is stated in the terms, we plan on incorporating under our own company soon and we'll need this to transfer everything. 
 
 ## Consent to transfer information
 
