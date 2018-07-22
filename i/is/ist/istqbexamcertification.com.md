@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istqbexamcertification.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521160459id_/http%3A//istqbexamcertification.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istqbexamcertification.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722192300id_/http%3A//istqbexamcertification.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
