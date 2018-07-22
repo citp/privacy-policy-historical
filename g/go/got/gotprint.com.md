@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gotprint.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522083347id_/http%3A//www.gotprint.com/store/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotprint.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722175848id_/https%3A//www.gotprint.com/store/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Updated: October 18, 2017**
+**Updated: May 25, 2018**
 
 ## Information about Privacy on GotPrint
 
@@ -11,6 +11,10 @@ GotPrint is committed to protecting your privacy. This notice describes our priv
 ## Collection of your Personal Information
 
 We will ask you when we need personal information or information that allows us to contact you. Generally, this information is requested when you are registering before: entering a contest, ordering email newsletters, joining a limited-access premium site, signing up for an event or training, or when purchasing and/or registering GotPrint products. Personal information collected by GotPrint is often limited to email address, language, country or location, but may include other information when needed to provide a service you requested.
+
+We may use your personal information to contact you with newsletters, marketing or promotional material and other information that may be of interest to you. You may opt out from receiving email communications by clicking on the UNSUBCRIBE link provided in the emails we send or through your GotPrint account by unchecking the Receive Promotions option. 
+
+You will automatically be opted-in when creating a new account or during the checkout process. However, you will have the option to opt-out from receiving promotional emails by un-checking the subscription box on the given page. 
 
 For example, if you choose a service or transaction that requires payment, such as making a purchase in the "Shop" area of the website, we will request the personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.
 
@@ -52,7 +56,7 @@ GotPrint.com is a general audience site and does not knowingly collect any perso
 
 ## Use of Cookies 
 
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. These ads may appear on different websites on the Internet. You may opt out of Google's use of cookies by visiting the Google advertising opt-out page. You may opt-out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
+When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies).These cookies will tell GotPrint if this particular visitor has visited the website before. The cookies are used for the collection of data about website visits. One use of cookies is to assist in the collection of the site visitation statistics described above. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. These ads may appear on different websites on the Internet. You may opt out of Google's use of cookies by visiting the Google advertising opt-out page. You may opt-out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
 
 [Google Advertising opt-out page](http://www.google.com/ads/preferences/?hl=en)
 
