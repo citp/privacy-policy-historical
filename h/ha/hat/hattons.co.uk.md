@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522073413id_/http%3A//www.hattons.co.uk/list/EventDetails.aspx%3FEventID%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722172455id_/https%3A//www.hattons.co.uk/list/EventDetails.aspx%3FEventID%3D13) for the most accurate reproduction.*
 
 # hattons.co.uk from Hattons Model Railways
 
