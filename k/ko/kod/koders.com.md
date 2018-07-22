@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420060827id_/http%3A//blog.openhub.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722111439id_/http%3A//blog.openhub.net/privacy) for the most accurate reproduction.*
 
 # Black Duck Open Hub Blog | Open Hub Privacy Policy
 
