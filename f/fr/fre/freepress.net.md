@@ -1,89 +1,201 @@
-> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122220136id_/https%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722112251id_/https%3A//www.freepress.net/privacy-and-copyright) for the most accurate reproduction.*
 
-# Privacy and Copyright Policies | Free Press
+# Privacy and Copyright | Free Press
 
-Free Press and the Free Press Action Fund are committed to protecting the privacy of visitors to our website, as well as that of our members and activists. In fact, we support enhanced protections for everyone’s electronic and Internet privacy.  
-In this policy, “Free Press” refers to both Free Press and Free Press Action Fund staff, board members, cooperating attorneys, interns, volunteers and consultants. 
+In this policy, “Free Press” refers to our two organizations - both Free Press and the Free Press Action Fund - and their staff, board members, cooperating attorneys, interns, volunteers and consultants, including outside attorneys.
 
-In general, Free Press and our software partners treat your contact information as private and confidential. Free Press will not give, sell, rent, exchange or otherwise share your information with anyone else without your prior consent except as compelled by law (see below). 
+We wrote this Privacy Policy to let you know how we treat that information – such as your name, contact information and issues that are important to you – and to show you all the ways we work hard to keep it safe and private. We encourage you to take the time to read it.
 
-We will notify users of updates to this policy by noting the date of new changes directly below this statement.
+By accessing this website or submitting any forms on this site, you agree to this Data Usage and Privacy Policy and our Terms of Use and consent to the collection and use of any information you provide. If you don’t agree to this Privacy Policy or our Terms of Use, please do not access or use our services.
 
-This policy was last amended on July 11, 2017. 
+We may update these policies and if we make any significant changes to the rules that govern this site or the way we treat your personal information, we will add a prominent notice to the site. Your continued use of the site following the posting of changes to the Terms will mean that you accept and agree to the changes. We encourage you to visit this page regularly to review it.
 
-Policy effective May 1, 2003. 
+### **Why do we collect your information?**
 
-**Website Policies**
+Free Press fights for your rights to connect and communicate. To keep our work thriving, growing and effective, we collect information from members and website users so we can more efficiently and creatively communicate with and mobilize our members, create, promote and fund our campaigns, interface with decision-makers, campaign targets and the media and develop new, more effective methods of outreach to grow Free Press and Free Press Action Fund.
 
-Free Press and third-party vendor servers may record the IP address of your computer; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked to our site. 
+### **What information do we collect from you?**
 
-We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors and to improve the site. We do not connect this information to your name or identity, and we do not retain this information permanently. 
+We collect, store and use the following personal information you directly give us when you take action online (including email, web forms, and social media) or by SMS (text message), and when you donate, volunteer, RSVP for an event, or otherwise contact us.
 
-Information that is not provided with the express intent of subscription, ordering, membership or donation will not be captured for use in other communications unless otherwise noted. We (and our vendors) restrict the use of “cookies” on this site primarily to convenience features such as auto login, surveys and polls. We typically delete these cookies as soon as is reasonably possible. 
+Personal information we collect:
 
-**External Links**
+  * Your name, email address, zip code, country, language preference, IP address, comments, personalized messages to targets and any other information you share when you join Free Press or sign a campaign, like your postal address and phone number.
 
-Free Press has not reviewed all of the sites linked to this site and is not responsible for the privacy practices or the content of any off-site pages or any other sites linked to this site, whether or not they are affiliated with Free Press or the Free Press Action Fund. Such linked sites are for your convenience only and you access them at your own risk. Free Press makes no representations or warranties as to the accuracy or functioning of any such link. That another website is linked to our site does not constitute endorsement from Free Press or the Free Press Action Fund of the owner of the other site, the content of its site or its products or services. 
+  * Details of any donations you make to Free Press or Free Press Action Fund, including the amount, currency and method of payment. We do not store your credit card information or banking details -- that’s done through our third-party secure payment processors.
 
-**Electronic Mailing List Policies**
+  * The history of petitions you sign or share with others.
 
-Free Press offers several electronic mailing lists. If you choose to subscribe to any of these lists, we may ask for personal information such as your name, ZIP code and email address. We use this information solely to manage our lists (for example, we may use your ZIP code for a targeted mailing on an issue affecting your area). **We do not sell or rent our electronic mailing lists.**
+  * Your responses to optional surveys that we may ask you to complete.
 
-If you sign up to volunteer — for example, by submitting your phone number in a volunteer sign-up field on a website form — we may share your contact information with partner organizations, third-party services or other volunteers for the purposes of volunteer coordination.
+  * Other information you voluntarily submit in a form on the site or that you share when you contact us.
 
-There are a number of ways to subscribe to Free Press’ electronic mailing lists, including submitting a form on our website, opting in when you engage in online or offline activism, or mailing or completing a sign-up form from a paper petition, brochure or flier. When you subscribe, you will typically receive a confirmation message welcoming you. 
 
-You may unsubscribe from any of our lists at any time. If you wish to update your information, delete or otherwise make changes to your relationship with us, or remove yourself entirely from our list(s), [click here.](http://act2.freepress.net/unsubscribe/unsubscribe_freepress/)
 
-Lists Free Press maintains for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the Web (known as spidering) for inclusion in our email lists. 
 
-**Online Activism**
+We may also collect:
 
-Our website offers many ways to engage in online activism. Many of these tools are hosted and administered by a third party (currently ActionKit). When you provide personal information by signing a petition or engaging in other actions, that personal information may be stored on our server(s) and/or ActionKit’s server(s). If you choose to join a mailing list or become a member at the same time that you participate in an online action, your relevant information will be kept and used for those other purposes.
+  * Data relating to whether you open our emails, click our email links, sign or share petitions and if the people you shared with sign our petitions.
 
-We may deliver petitions and surveys you’ve completed to the president, federal and state legislators, agencies like the Federal Communications Commission, other elected and appointed officials, or other entities such as companies whose policies we seek to change. We ask for your address so we can deliver your message to the appropriate legislative offices, and may include information such as your name, town or city and state in these deliveries. 
 
-ActionKit strictly adheres to policies preventing unauthorized access to your personal information and will not make such information available to anyone outside of Free Press or ActionKit (unless legally compelled to do so). 
 
-**Financial Support**
+  * Technical information about your use of the website, browser type and version and operating system.
 
-Free Press and the Free Press Action Fund are committed to maintaining the trust and security of all financial supporters. We collect personal information including the email and mailing addresses that members and donors provide. We might use this information for online and print mailings to keep you informed about our programs and occasionally to ask for additional financial support. You may opt out of these communications at any time. 
+  * Your IP Address.
 
-To opt out of email communication, [click here.](http://act2.freepress.net/unsubscribe/unsubscribe_freepress/)
 
-To opt out of print mailings, please call us at 413-585-1533 or send us an email at info(AT)freepress.net. 
 
-On occasion, Free Press or the Free Press Action Fund sends messages on behalf of other reputable organizations when we believe such messages may be of value to our members and supporters. Our ability to send you these messages on behalf of other entities helps us build our membership base and further the movement for your rights to connect and communicate. If you do not wish to receive such messages from our allied or aligned organizations, please call us at 413-585-1533 or send us an email at info(AT)freepress.net. Free Press is not responsible for the privacy practices or the content produced or provided by any of these other entities. 
 
-All financial data is collected via a secure Web connection, and is stored or transmitted using appropriate security measures at all times. 
+Our Cookie Policy describes how we collect information via cookies, pixel tags and other technologies and how to control your Cookie Settings.
 
-**Online and Phone Orders for Materials**
+If you are under the age of 13 (US) or 16 (EU & elsewhere), please ask your parent/guardian for their consent before submitting your personal information to this site. If we have reason to believe that someone is underage and we have collected their personal information without proper consent, we will delete that information in a reasonable period of time.
 
-Information provided to us in the course of placing an order for educational materials, activist toolkits, promotional materials or other materials offered by Free Press (whether or not the materials are offered at a cost) may be retained for use in future communications, such as membership drives, or when we unveil similar offerings we believe may be of interest to you. This information will not be given, sold, rented, shared or otherwise provided to anyone else without your prior consent (except when compelled by law — see below). 
+### **What do we do with your information?**
 
-All financial data is collected via a secure Web connection, and is stored or transmitted using appropriate security measures at all times. 
+We use the personal information we collect from you to shape our campaigns, communicate with decision makers & the media, refine your experience, improve the site, innovate our technology and optimize ways to forward our mission. 
 
-**Compelled Disclosure**
+Namely, if you sign, share, or donate, we use your personal information to:
 
-If we are required by law to disclose any information that you have provided us, we will attempt to give you notice (unless we are prohibited from doing so) that a request for your information has been made, in order to give you an opportunity to object. We will attempt to provide this notice by email, if you have given us an email address, or by postal mail if you have entered a postal address. If you do not challenge the disclosure request, we may be legally required to turn over your information. In addition, we may independently object to any disclosures we believe to be improper. 
+  * Send you information about our work via any communications channels you’ve consented to: email, phone/SMS and/or social media messaging.
 
-**Questions?**
+  * Give you opportunities to get involved in issue campaigns, fundraisers and special projects, to provide you information about Free Press’ work and to make it easier for you to share with your social networks.
 
-If you would like additional information about our privacy practices and/or our policies, please contact info(AT)freepress.net. 
+  * Notify decision makers, elected and appointed officials, news publications and the general public when you sign a petition, send a message using our tools, or otherwise join a petition campaign.
 
-**Copyright Policies**
+  * Create targeted marketing campaigns to promote our work and engage the public with particular campaigns and petitions.
 
-All original text, images and other materials hosted on freepress.net servers are copyright 2009–2015 Free Press, unless otherwise noted (e.g., news articles and licensed photos). 
+  * Connect you with other activists when you sign up to do more in-depth organizing.
 
-We encourage reproduction and distribution of original materials on this site for educational and personal use. All Free Press-created content on this site (unless otherwise noted) is available to you under a Creative Commons Attribution-NonCommercial-ShareAlike license. 
+  * Verify your identity and send you an email to thank you for signing or donating.
 
-In short, this license allows you to copy, distribute, display or make derivative works provided that you a) credit Free Press, b) do not use it for commercial purposes and c) release any derivative works under this same license. 
+  * Give you the opportunity to take action on issue campaigns directly from your inbox with one click.
 
-**Copyright-Infringement Notification**
 
-If you have a copyright complaint, please follow the procedures set forth in the Digital Millennium Copyright Act. Our agent for notice is Kimberly Longey, chief operating officer. She may be reached by phone at 413.585.1533, by fax at 413.585.8904 or by email at copyright(AT)freepress.net. Please direct your written correspondence to her at: 
 
-Free Press  
-40 Main St., Suite 301  
-Florence, MA 01062  
 
+We may use the personal information of all visitors of the site to:
+
+  * Answer your queries.
+
+  * Administer & improve the site and optimize our technology.
+
+  * Analyze how you use the site using tools like Google Analytics and other tools to help us test the performance of content and site functionality, understand traffic patterns and know if there are problems with the site.
+
+
+
+
+Please note that when you sign a petition, send a message, make a donation, or take any action on this site, we create a virtual user account for you where you can update your personal contact information and preferences so that we can better communicate with you to achieve our mission. You can control your preferences on your **[profile page ](https://act.freepress.net/login/)**.
+
+### **Do we share your information?**
+
+Free Press does not rent or sell your personal information and we will only share it with the parties described below, as required by law, or with trusted third parties with your permission.
+
+  * **Targets of Free Press campaigns:** When you sign a Free Press petition, the target of the campaign is sent a final list including the name, city, country and any comments of everyone who signed. Where the target is a government body or official that requires petition signers to be constituents, we may also provide your postal code and full address.
+
+  * **Free Press volunteers and event hosts:** From time to time, Free Press volunteers or event hosts may have access to your contact information, including your name, email address and phone number, to reach out to you about a specific campaign or event. They may contact you directly or through a Free Press or third-party contact tool at Free Press’ direction.
+
+  * **Collaborating organizations:** Sometimes we work with other groups to expand our impact and amplify our messages. In these cases, we may share your name, city, country and any comments you have made when signing a petition with our partners to submit to a campaign target.
+
+  * **Service providers:** We work with a wide range of service providers, notably our database administrators, cloud computing services, advertising services, data analysts, application service providers and bulk SMS services. These providers work under strict confidentiality agreements. We do not authorize them to use or disclose your personal information except in connection with providing their services. Please note that we also sometimes use survey applications on external platforms, such as SurveyMonkey, to collect information from those who voluntarily fill out our surveys on these platforms. The personal information of survey participants will be transferred to Free Press and is subject to this Privacy Policy.
+
+  * **Payment processors:** We work with PayPal and Payflow Pro to help process credit card transactions and other payment methods when you donate to Free Press. These payment processors will store certain personal information about you. Please refer to their privacy policies to learn more about how they use your personal information. If you choose to become a Free Press monthly sustainer, your payment information will be stored with your chosen payment processor and you will give Free Press explicit permission to implement regular donation transactions to the credit card you’ve designated for this purpose. Free Press does not store your credit card account number or banking details. You can edit your donation preferences on your **[profile page ](https://act.freepress.net/login/)**.
+
+  * **Facebook marketing:** We may use your email address and Facebook ID to participate in Facebook’s Custom Audience and Lookalike Audience programs, which enable us to display campaign promotions to both existing and prospective members when they visit. To do this, we first send a digital fingerprint of your data to Facebook -- not your actual personal information -- and they check if it matches a fingerprint of their data. If you’re a match, Free Press campaign promotions may then appear when you access Facebook. Facebook deletes this information (a) if it does not match with a Facebook account or (b) after they confirm you are a registered account holder. For more detailed information please see <https://www.facebook.com/business/help/744354708981227>[ ](https://www.facebook.com/business/help/744354708981227) and Facebook’s data policy at <https://en-gb.facebook.com/policy.php>[ ](https://en-gb.facebook.com/policy.php)**.**
+
+  * **Other marketing:** Based on your use of this site, we may use cookies to target you for other campaign promotions on Facebook, Google, or other online services. You can read more in our **Cookie Policy** and control your **Cookie Settings**.
+
+  * **Protection of Free Press and others:** We will share personal information with companies, organizations, or individuals outside of Free Press if we have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary to detect or protect against fraud or security issues, enforce our Terms of Use, meet any enforceable government request or court order, defend against legal claims, or protect against harm to the legal rights or safety of Free Press, the Free Press staff, or members of the Free Press community. See more below in the “More on Protection of Free Press and Others” section.
+
+
+
+
+### **How do we keep your information safe?**
+
+We use standard business practices to safeguard your personally identifiable information against unauthorized access, alteration, disclosure, misuse, or destruction. All donations, including the transmission of payment details and other personal information, are handled over secure, encrypted connections.  
+
+We hold on to your personal information for as long as is necessary for the purpose(s) for which it was collected, unless otherwise required by law. If you request that we stop sending you updates and other communications or delete your information, we will honor your request and keep the minimum amount of information possible to prevent fraud and to help ensure that you are not contacted again.
+
+### **How can you update and correct your personal information?**
+
+You can review and update your personal information via your **[profile page ](https://act.freepress.net/login/)**. You can also change your personal **Cookie Settings** at any time.
+
+For users in the European Union you also have the right to:
+
+  * Restrict or Erase: You can ask us to limit our use of your information or ask us to delete your personal information from our records if there is no compelling reason for us to hold on to it.
+
+  * Object: You can object, on legitimate grounds, to the processing of your personal information, including direct marketing and profiling.
+
+  * Access or Take your data: You can ask us to confirm whether we are processing your personal information. You can also make a reasonable request for a copy of that information or to have it transferred to another data controller (to the extent possible).
+
+  * Complain: You can complain to the UK Information Commissioner’s Office or your country’s data protection authority.
+
+
+
+
+Please note that where we rely on your consent to use your personal information, all users worldwide have the right to withdraw that consent at any time. This includes the option to unsubscribe from our email list at any time or to contact us to request to be excluded from our online campaign promotion lists or text messaging.
+
+### **What is the lawful basis for processing your information?**
+
+When we process your personal information for the purposes set out in this Privacy Policy, we may rely on one or more of the following legal bases:
+
+  * **Consent:** We will ask for your consent to use your information to send you details about our campaigns, fundraisers and action opportunities, for targeted advertising and profiling and if you ever share sensitive personal information with us.
+
+  * **Transactional relationships:** When you donate to us, apply for employment, or otherwise enter into a contract with us, we’ll need to process your personal information.
+
+  * **Legal obligations:** When strictly necessary, we’ll process your personal information due to a binding legal obligation on us.
+
+  * **Legitimate interests:** So long as our use is fair, balanced and doesn’t unduly impact your rights, we will collect and process your personal information when we have a legitimate interest that serves the Free Press mission, our services, or our activities. ** **
+
+
+
+
+**Processing your Sensitive Personal Data:** We do not seek to collect or otherwise process your sensitive personal information (i.e. about race or ethnicity, political opinions, religious or philosophical beliefs, etc.) except where:
+
+  * the processing is required or permitted by applicable law; or
+
+  * we have obtained your prior explicit consent -- for example, when you volunteer to complete an opinion survey that includes your voting intentions.
+
+
+
+
+### **More on Protection of Free Press and Others**
+
+We believe you should have a reasonable expectation of privacy in information you disclose online that is not clearly intended for public dissemination. Where possible, we may attempt to defend this principle even though most jurisdictions currently take the opposition position.
+
+We may attempt not to disclose material in response to overzealous or inappropriate requests. When we have a good faith belief that the law compels us to do so or when we think justice would be served, we may cooperate with law enforcement authorities or court orders requesting or directing us to disclose personal information of any user of this site. Should this happen we will attempt to provide you with notice before we disclose your personal information, unless there is a compelling reason to do otherwise as described above in _Do We Share Your Information?_
+
+We work hard to maintain security safeguards to help protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of the information you provide to us. _However, please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot guarantee the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction or inadvertent disclosure of your information._
+
+### **Links to third party websites**
+
+We may provide links to other websites. This Privacy Policy covers only Free Press sites. We have no control over external websites and are not responsible for their content or privacy practices. Please read the terms of use and privacy policies for any third party sites you visit via links from this site.
+
+### How can I unsubscribe?
+
+If at any time you would like to unsubscribe from our email list, you may do so via your **[profile page ](https://act.freepress.net/login/)** or by following **[this link ](https://act.freepress.net/unsubscribe/unsubscribe_freepress/)**, which is also included in every campaign email that you receive from us.
+
+### **How can I get more information?**
+
+If you have any questions about this Privacy Policy, your personal information, or data protection on this site, please contact us. For your protection, we may only share and update the personal information associated with the specific email address that you use to send us your request and we may need to verify your identity before doing so. We will comply with such requests in a reasonably timely manner. Please do not send sensitive personal information, passwords, banking details, or credit/debit card details via email.
+
+You can reach us when you **[Contact Us ](https://www.freepress.net/contact)**, or when you write to: Free Press / 40 Main Street, Suite #301 / Florence, MA 01062 / USA.
+
+## **TERMS OF USE**
+
+### **Copyright Policies**
+
+All original text, images and other materials hosted on freepress.net servers are copyright 2009–2018 Free Press, unless otherwise noted (e.g., news articles and licensed photos).
+
+We encourage reproduction and distribution of original materials on this site for educational and personal use. All Free Press-created content on this site (unless otherwise noted) is available to you under a Creative Commons Attribution-NonCommercial-ShareAlike license.
+
+In short, this license allows you to copy, distribute, display or make derivative works provided that you a) credit Free Press, b) do not use it for commercial purposes and c) release any derivative works under this same license.
+
+### **Copyright-Infringement Notification**
+
+If you have a copyright complaint, please follow the procedures set forth in the Digital Millennium Copyright Act. Our agent for notice is Amy Martyn, Operations Director. She may be reached by phone at 202-265-1490 Ext. 2102 or by email at copyright(AT)freepress.net. Please direct your written correspondence to her at:
+
+Free Press
+
+40 Main St., Suite 301
+
+Florence, MA 01062
