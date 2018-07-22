@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ngpvan.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228170458id_/https%3A//www.ngpvan.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngpvan.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722111245id_/https%3A//www.ngpvan.com/content/privacy-policy) for the most accurate reproduction.*
 
-# NGP VAN | NGP VAN | The Leading Technology Provider to Democratic and progressive campaigns
+# NGP VAN | The Leading Technology Provider to Democratic and progressive campaigns
 
 NGP VAN, Inc., respects the privacy of all users of our Web site, Web-based software products and related online services.  NGP VAN is committed to honoring and protecting the privacy of our clients' lists and data, as well as the personal information of their donors, supporters, volunteers, and Web site visitors.
 
 This document outlines our privacy policy and explains what we do with the information collected using our online products and services.
+
+If you reside in the European Union or the United Kingdom please view our privacy and cookie policy [here](https://www.ngpvan.com/content/privacy-policy-eu-uk).
 
 If you visit the NGP VAN Web site at [www.ngpvan.com](http://www.ngpvan.com/?__hstc=147367592.f53a87edc88c80467c589066520b9c7e.1437505277389.1444941732226.1444951430394.13&__hssc=147367592.4.1444951430394&__hsfp=628077307) or [www.everyaction.com](http://www.everyaction.com/) and their subdomains:
 
@@ -100,11 +102,11 @@ Notwithstanding the above, we reserve the right to disclose data as applicable, 
 
 ### Switzerland Safe Harbor Compliant
 
-NGP VAN complies with the EU-U.S. Privacy Shield Framework as set forth by the Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU to the US. Accordingly, NGP VAN is in the process of completing its certification to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program including the Principles, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).  NGP VAN also maintains an affirmative commitment to the U.S.-Swiss Safe Harbor Framework and its principles, which will not be affected by our participation in the Privacy Shield.  Further information on our compliance with the U.S.-Swiss Safe Harbor Framework is available on request.  NGP VAN is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+NGP VAN complies with the EU-U.S. Privacy Shield Framework as set forth by the Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU to the US. Accordingly, NGP VAN has completed its certification to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program including the Principles, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).  NGP VAN also maintains an affirmative commitment to the U.S.-Swiss Safe Harbor Framework and its principles, which will not be affected by our participation in the Privacy Shield.  Further information on our compliance with the U.S.-Swiss Safe Harbor Framework is available on request.  NGP VAN is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
 NGP VAN’s accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, NGP VAN remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless NGP VAN is found to not be responsible for the event giving rise to the breach. 
 
-We encourage interested persons to raise any concerns using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes.  For any complaints that cannot be resolved with NGP VAN directly, NGP VAN has chosen JAMS (<https://www.jamsadr.com/eu-us-privacy-shield>) as an independent recourse mechanism to facilitate alternative dispute resolution (ADR) services including binding arbitration.
+We encourage interested persons to raise any concerns using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes.  For any complaints that cannot be resolved with NGP VAN directly, NGP VAN has chosen JAMS (<https://www.jamsadr.com/eu-us-privacy-shield>) as an independent recourse mechanism to facilitate alternative dispute resolution (ADR) services including binding arbitration; provided, however, certain complaints are required to be referred to EU data protection authorities (DPAs). 
 
 ### Acceptance:
 
@@ -115,9 +117,9 @@ NGP VAN reserves the right at any time and without notice to change this privacy
 If you have questions or concerns about this privacy policy, you may contact us at:
 
 NGP VAN  
-1101 15th St, NW Suite 500  
+1445 New York Ave NW  
 Washington, DC 20005  
 Phone: 202-686-9330  
-E-mail: [support@ngpvan.com](https://ngpvan-com.ngpvanhost.com/mailto:support@ngpvan.com)
+E-mail: [support@ngpvan.com](http://ngpvan-com-131.ngpvanhost.com/mailto:support@ngpvan.com)
 
-_Last Modified - 8/19/2016_
+_Last Modified - 5/17/2018_
