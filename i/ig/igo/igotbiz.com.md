@@ -1,83 +1,69 @@
-> *The following text is extracted and transformed from the igotbiz.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123064436id_/http%3A//www.igotbiz.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igotbiz.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722195631id_/https%3A//www.igotbiz.com/directory/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Business Local Directory Site Title - Yourdomain.com
 
-This privacy policy explains what information is collected when you use the Web sites, applications, content and services of iGotBiz.com and its affiliated properties (iGotBizMedia, Inc.), why this information is collected, and how we use it to improve your experience.
+**SAMPLE PRIVACY POLICY**
 
-Your iGotBiz Information
+**PLEASE UPDATE via ADMIN BACKOFFICE PAGE CONTENT**
 
-**Generally**
+This privacy notice discloses the privacy practices for ([www.IGotBiz.com ](http://www.springscareers.com/)). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-iGotBiz is provided by iGotBiz.COM and its affiliates (“we” or “us”). Your iGotBiz information consists of personally identifiable information collected or received about you when you make purchases from us, when you register with us, when you set up profiles to share with others, when you interact with other users on iGotBiz, or when you log in to iGotBiz as a registered user and interact with iGotBiz products and services. Your iGotBiz information may include (a) registration-related information (such as name, address, telephone and fax numbers, email address); (b) member profile about yourself that you can share with others; (c) a profile on your business or your profession that you desire to share with others, (d) transaction-related information (such as credit card or other preferred means of payment, or a history of products purchased through us); (e) information about your visits to iGotBiz or our other web sites, pages and services; (f) your responses to our offerings and advertisements; (g) information about the features or offerings you use from us; (h) your billing and shipping information; (i) customer service information; and (j) other information specifically related to your use of a particular iGotBiz feature or offering. Your information may be supplemented with additional information from other companies such as publicly available information and other information that we may append or match to your information.
-
-**Your Profile**
-
-When you register with us, sign up for an application or service, become a member of a company profile or make recommendations on the service, we use certain information we collect from you (your name, business, and location of your business) to set up a profile on your behalf to share with others, and which information will be available by search to help you promote your business or profession. After you register with iGotBiz, you may provide additional member information about yourself (member profile, company profile) and add company profile information about your business in the My Profile area on iGotBiz. Such member and company profiles could include, at your option, a description of your skills or products, experience, education and membership in organizations. Also in the My Profile area, you can control what information you want to share with others. Please use [http://www.iGotBiz.com/about/faq/](http://www.igotbiz.com/about/faq/) to obtain information about iGotBiz’s various features and services and the options you have to use those services.
-
-**Contact Information**
-
-We may offer you services to send invitations via iGotBiz or email addresses if they are not iGotBiz users in order to connect with others on iGotBiz. The names and email addresses of people whom you invite will be used to send your invitations and reminders as well as to allow us to help expand your network. You understand and agree that when you send an invitation to connect to another user, that user will have access to your email address because it is displayed in the invitation. Your connections will also have access to your email address. You may not invite anyone you do not know and trust to connect with you.
-
-**You Consent to our Collection of Information**
-
-By providing information to us for the purposes of creating your iGotBiz account, interacting with iGotBiz’s services and features, or adding any additional details to your profile, you understand and agree that we may process information about you and make information about you available to others. In addition, if you post any information about yourself on areas of iGotBiz that are publicly accessible, such as message boards or forums, you understand and agree that such information will be available to others.
-
-Google, Inc. supplies the mapping services on iGotBiz. If you decide to use and interact with the mapping services, you agree that Google may collect information in accordance with its privacy policy located at [http://www.google.com/policies/privacy/](http://www.google.com/policies/privacy/).
-
-How iGotBiz Information Is Used
-
-Your iGotBiz information is used to operate and improve the features, offerings and content presented to you by us; to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of our products; to share information about you and your business; to communicate with other users and business contacts; and, to help offer you other products, programs, or services that may be of interest or relevance to you.
-
-Your iGotBiz information will not be shared with third parties for marketing purposes unless it is necessary to fulfill a transaction you have requested, or in other circumstances in which you have given your consent to the sharing of your iGotBiz information to affiliates, partners, agents or other parties whose products or services we believe may be of interest to you. Since iGotBiz is design to help companies and business professionals’ network with others, iGotBiz is designed so that certain information about you and your business is available to others on iGotBiz and via search engines, including, your name, and location of your business, and to help you communicate with companies and business professionals. As we explain below, you can add, enhance, modify or delete what information is made available to others in the My Profile area of iGotBiz. Please use[http://www.iGotBiz.com/about/faq/](http://www.igotbiz.com/about/faq/) to learn about all of iGotBiz’s services and offerings, and what options you have to take advantage of such services. We may use your iGotBiz information to present offers to you on behalf of business partners and advertisers. We may use agents and contractors in order to help operate iGotBiz and provide iGotBiz services to you. Their use of information is limited to these purposes.
-
-The contents of your online communications, as well as other information about you as a iGotBiz user, may be accessed and disclosed in response: to lawful governmental requests or legal process (for example, a court order, search warrant or subpoena), in other circumstances in which we have a good faith belief that a crime has been or is being committed by a user, that an emergency exists that poses a threat to the safety of you or another person, when necessary either to protect our property, or for us to render the service you have requested.
-
-In the event that our ownership was to change as a result of a merger or acquisition by another company, your iGotBiz information may be transferred. We will provide you notice prior to any such transfer of your iGotBiz information.
-
-**Your Information Choices  **
-
-In the My Profile area on iGotBiz, you have the following choices:
-
-  * You may review, enhance, add, change or delete such information in the My Profile area.
-  * You may choose to make your member profile available to search engines through the My Profile area.
-  * You may control how other users may send you messages.
-  * You may change your settings to control visibility on iGotBiz.
-  * You may remove all information about you and your business by cancelling your account by sending a request to [help@iGotBiz.com](mailto:help@igotbiz.com). We will use commercially reasonable efforts to block access to your information upon termination of your account; however, you understand and agree that certain information may be retained by us as part of our standard backup and archiving process.
+  1. What personally identifiable information is collected from you through the web site, how it is  
+used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
 
 
-You can make or change your choices about receiving offerings from us or our partners by going to [http://www.iGotBiz.com/profile/alerts](http://www.igotbiz.com/profile/alerts). Any e-mails that you receive that contain marketing promotions will provide an option to remove your name from future mailings; provided, however, you understand and agree that this exclusion does not apply to notices we provide you about your iGotBiz services.
+**Information Collection, Use, and Sharing**
 
-Cookies, Advertising Networks
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-We may place “cookies” on your Web browser. Cookies are small pieces of information or text files that a website sends to your computer for record-keeping purposes, which information is stored in a file on your computer’s hard drive. Cookies make Web‑surfing and browsing easier for you by saving your preferences so that we can use the saved information to facilitate and improve your use of iGotBiz. Please note that you will not be able to access and use all of iGotBiz’s features if you delete or refuse to accept cookies. For example, without cookies, you will not be able to set certain personalized preferences, and/or you may have difficulty completing transactions on iGotBiz.Also, we, and certain third party companies under agreement with us, may deploy cookies, pixel tags, web beacons or similar technologies to collect and assemble non-personal, demographic, behavioral and technical information about the use of iGotBiz from our users in order to group such users that share a common interest into general interest categories (collectively, “Audience Segment Cookies).  Such Audience Segment Cookies, which do not identify you personally, may be placed when you access iGotBiz, share content from iGotBiz, when advertisements are presented on iGotBiz, and/or when you respond to advertisements or other offerings on iGotBiz. We and these third party companies may use such non-personally identifiable information in combination with your visits to iGotBiz and other sites in order to present advertisements about goods and services likely to be of greater interest to you, to measure the effectiveness of iGotBiz and advertisements, and to help predict the characteristics and preferences of our audiences and the audiences of our third party companies. We may share certain information about you as a user that is not personally identified to you (such as user industry and position) with certain advertising network providers in order to help them deliver more relevant advertisements through their ad networks. The use of cookies by ad network providers is subject to their own privacy policies.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-Please click [here](http://www.aboutads.info/choices/) to find out what choices you have to “opt out” of the targeted advertising delivered by these networks. You can find out more about ad network providers by accessing[http://www.iGotBiz.com/about/advertising-networks/](http://www.manta.com/about/advertising-networks/).
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Many of the advertising networks participate in the opt-out program offered by the Network Advertising Initiative. To learn more about such audience behavior advertising practices, you can visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).
+**Your Access to and Control Over Information**
 
-Mobile Services
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-Our mobile applications may include location-based services. These services may include applications that can help you search and find businesses located near you. When you sign in and use our location-based services, we must periodically receive your location in order to provide our services to you. We may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. By using our location-based services, you authorize us to locate your device and to record, compile and display your location. We may also collect and store certain information about our users, such as, users’ wireless mobile subscriber ISDN numbers and users’ network access identifier information. We may use third party providers to help operate our services. Google, Inc. provides our location-based mapping services. By using the location-based mapping services, you agree that Google may collect information when you use the maps as described in its privacy policy located at[http://www.google.com/policies/privacy/](http://www.google.com/policies/privacy/), which Google may update from time-to-time. You may discontinue any location-based service by going to the location services settings on your device and turn off GPS and other settings that can locate your device.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
-Our applications may give you the ability to store your log-in credentials on a mobile device so that you can be logged-in automatically when your launch our services. You may deactivate the automatic feature by using the log-off feature on our applications. You understand that you are solely responsible if someone else obtains access to your mobile device if it is lost or stolen. You agree to notify your mobile carrier promptly to prevent unauthorized access to your device and your iGotBiz profile. You may also notify us if you believe your profile has been compromised.
 
-Security
 
-We make available a secure page for entering sensitive information, protected by industry-standard SSL encryption technology. This technology encrypts your information prior to transmitting it over the Internet.
+**Security**
 
-We maintain the confidential information you provide us in a secure database. We further require credentials such as a user identification (e.g., email address) and password to limit access to registered accounts. Please keep in mind that while we have established safeguards to help prevent unauthorized access to or misuse of you iGotBiz information, we cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, in the event of unauthorized acts by third parties that violate applicable law or our policies).
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Questions
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser or looking for "https" at the beginning of the address of the web page.
 
-If you have further questions or concerns that have not been addressed in this statement, please send your inquiries to:
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-iGotBiz.com 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 719-599-3449 or via email.
 
-Please be sure to include your name, address and daytime phone number so we can contact you.
+**Registration**
 
-Changes
+To fully use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
-We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us as well as for special features and services not described in this Policy that may be introduced in the future.
+**Orders**
 
-**Last Updated: 7/04/2016**
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
+
+**Cookies**
+
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+
+**Sharing**
+
+We share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
+
+**Links**
+
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+  
+
