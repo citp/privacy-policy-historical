@@ -1,112 +1,160 @@
-> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231170444id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722112645id_/https%3A//www.windstream.com/about/legal/Privacy-Policy) for the most accurate reproduction.*
 
-# Earthlink Policies & Agreements - Privacy Policy
+# Privacy Policy | Windstream
 
-**1\. What does the EarthLink Consumer Privacy Policy cover?**
+This Privacy Statement describes how Windstream and its affiliates collects information from or about you, either as a customer, visitor to any Windstream website or user of any Windstream mobile apps, when you order services from us, how we use the information we collect, and the choices customers have concerning the collection and use of such information. The goal of this Statement is to ensure that your Windstream experience is secure so that you may use our products and services with complete confidence. Please review this Statement carefully.
 
-This Privacy Policy covers (i) the use and retention of personally identifiable information ("PII") that EarthLink, LLC ("EarthLink") collects from our customers and visitors to the webpages on earthlink.net under the Residential tab, peoplepc.com and all of their subdomains (collectively, the "EarthLink Consumer Website") and (ii) your options with regard to that collection and use. The EarthLink Consumer Website and the services and products offered on or through the EarthLink Consumer Website are collectively referred to in this Privacy Policy as the "EarthLink Consumer Services".
+This Statement addresses:
 
-EarthLink is committed to protecting the privacy and security of your PII and will not share, sell or license your PII except in very limited circumstances as described below. All PII collected by EarthLink including, but not limited to, via the Internet, via any EarthLink Consumer mobile application, via mail or over the telephone is protected by the terms of this Privacy Policy.
-
-**2\. What is PII?**
-
-PII is any information that can be used to personally identify you, including, but not limited to:
-
-  * Information you provide in connection with your purchase of or subscription to EarthLink Consumer Services including your name, mailing and/or shipping address, telephone number, email address, and credit card number.
-  * Transaction and activity information about your EarthLink Consumer Services; your customer account and billing records; your interactions with our customer service and/or technical support representatives over the telephone, email or through online chat; and your contest entries.
-  * Information obtained by EarthLink through its Refer a Friend Program.
-
-
-
-**3\. How EarthLink uses your PII**
-
-EarthLink uses your PII to (i) provide your EarthLink Consumer Services to you, (ii) establish and manage your customer account and billing records, (iii) contact you about your customer account including your EarthLink Consumer Services and other products and services that we offer or that we offer in conjunction with an affiliate company, (iv) provide you with additional information that may be of interest to you such as news about EarthLink, (v) resolve billing problems, (vi) provide customized technical support, (vii) monitor your EarthLink Consumer Services, (viii) monitor and protect our network, (ix) protect against fraudulent, abusive, unauthorized or unlawful use of the EarthLink Consumer Services, (x) provide customized personal start pages, and (xi) administer surveys and contests.
-
-If you apply online for a position at EarthLink, we will only use the information you provide for job recruitment and other customary human resources purposes.
-
-EarthLink may supplement your PII with information received from publicly available sources, such as demographic information, to help us develop and improve the EarthLink Consumer Services and to send marketing offers to you that may be of interest to you.
-
-**4\. How EarthLink protects the Security of PII**
-
-EarthLink has implemented an information security program that contains administrative, technical and physical controls that are designed to safeguard your PII and non-personally identifiable information. We use industry standards to secure PII when it is being collected and transmitted over the Internet as well as firewalls, security monitoring, encryption and intrusion detection software. Although we cannot guarantee that our information security program will prevent every unauthorized attempt to access, use or disclose your PII, we maintain security and incident response practices to handle incidents involving unauthorized access, use or disclosure of your PII.
-
-Under our practices and policies, access to PII is authorized only for EarthLink employees and contractors who have a business need for such access, and records are retained in accordance with applicable laws and then securely destroyed. EarthLink employees and contractors are trained on the importance of protecting privacy and on the proper access to, use of and disclosure of PII.
-
-As an extra precaution, you should not share your password with anyone. EarthLink will only ask you for your password as part of a customer service or technical support call or online chat, and only in cases where you request customer support to access your account information or you request customer service or technical support in connection with the EarthLink Consumer Services.
-
-**5\. Sharing of PII in Limited Circumstances**
-
-EarthLink will not share, sell, or license your PII to third parties for their marketing purposes without your consent. EarthLink may disclose your PII in response to:
-
-  * Subpoenas, court orders, search warrants or other valid legal process, or as otherwise authorized by law,
-  * Circumstances where EarthLink has a good faith belief that a crime has been committed by an EarthLink customer or visitor,
-  * An emergency that poses a safety threat to you or another person, or
-  * Possible violations of the EarthLink Acceptable Use Policy or other EarthLink policies, available at [earthlink.net/about/policies/](http://www.earthlink.net/about/policies/).
+  1. Personal Information Collected
+  2. Use of Personally Identifiable Information
+  3. Customer Proprietary Network Information (CPNI)
+  4. SMS/Text Messaging
+  5. Value-Added Services
+  6. Information Disclosed to Third Parties
+  7. Data Collection Technologies
+  8. Security Measures
+  9. Children
+  10. Links
+  11. Statement Updates
+  12. Security Breaches
+  13. Contact Us
+  14. Definitions
+  15. Internet Information
+  16. US-EU Privacy Principles
 
 
 
-When EarthLink uses third parties to perform business functions on our behalf, we require them through contracts to treat your PII confidentially and to only use your PII for the express purpose of providing the specific business functions for EarthLink. Examples of such third parties include, but are not limited to: (i) merchant banks for credit card authorizations, (ii) collection agencies, (iii) customer service companies, and (iv) market research companies.
+## A. Personal Information Collected
 
-Some EarthLink Consumer Services are offered to EarthLink customers in conjunction with a third-party vendor. To provide these services, the vendor may need to collect and retain your PII but the vendor will be required by contract with EarthLink to maintain the confidentiality of your PII.
+Windstream limits the information collected about you to what is needed for conducting business, including the offering of products and services that might be of interest to you. You may choose to provide “personally identifiable information” (PII) to Windstream in a number of ways either in person, telephonically or via our websites or mobile apps. Examples of how you may share PII with us include: ordering a service or equipment from us, sending us e-mail, responding to Windstream surveys, entering Windstream-sponsored contests or sweepstakes, registering to receive news or public information or applying for a job. We may also obtain PII from third parties (for example, credit agencies) with your permission.
 
-If ownership of EarthLink changes, including as a result of a merger, acquisition, or the sale of its assets, your PII may be transferred or assigned as part of the transferred assets. If such a transfer results in a material change in the use of your PII, we will notify you about the material change.
+Examples of PII are:
 
-**6\. Use of Cookies and Other Data Collection Technologies**
+  * Name (including company name for business customers)
+  * Unlisted or restricted mailing address
+  * Unlisted or restricted telephone number
+  * E-mail address
+  * Credit card number or financial/bank account number or information, including routing numbers
+  * Passwords or personal identification codes (PINs)
+  * Date of birth
+  * Social Security number
+  * Driver’s license number or government issued identification number
+  * Company contact information for business customers
+  * Information obtained by Windstream through customer referral programs
 
-EarthLink uses cookies and anonymous identifiers to collect certain non-personally identifiable information ("Non-PII") about you when you use the EarthLink Consumer Services. A cookie is a small text file that websites send to your computer, tablet, mobile device or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on platforms, including certain mobile devices, where cookie technology is not available.
 
-This Non-PII does not identify you personally, but includes technical information such as your Internet Protocol or IP address, operating system, and browsing and linking activity while using the EarthLink Consumer Services. EarthLink uses cookies to authenticate you and save your settings on your personal start page so that we can provide you with customized and personalized content and services. EarthLink uses anonymous identifiers to monitor browsing and linking activity throughout the EarthLink Consumer Services.
 
-EarthLink also uses advertising networks that customize and serve third party advertisements or other content on the EarthLink Consumer Website. The servers of these advertising networks place and access cookies and similar technologies in browsers to collect Non-PII information about your visits to the EarthLink Consumer Website. These kinds of tracking and analytics are done in the aggregate and are anonymous. 
+The following information is not PII:
 
-**7\. How to access and update your Registration and Billing Information**
+  * Mailing address, unless unlisted or restricted at your request
+  * Telephone number, unless unlisted or restricted at your request
+  * IP Address allowing you to use our internet service
+  * PII included in aggregate data complied by Windstream
 
-EarthLink provides you with access to your registration and billing information and the ability to update this information at [myaccount.earthlink.net](http://myaccount.earthlink.net/) for EarthLink subscribers and [myaccount.peoplepc.com](http://myaccount.peoplepc.com/) for PeoplePC subscribers.
 
-**8\. Your Opt In and Opt Out Choices**
 
-If you are an EarthLink subscriber, you may exercise your opt out option not to receive email marketing communications from EarthLink by (i) clicking the links under communications preferences on the bottom of these email marketing communications or (ii) visiting [myaccount.earthlink.net](http://myaccount.earthlink.net/). If you choose to opt out of email marketing communications, you will still receive EarthLink's eLink newsletter. You may opt out of receiving the eLink newsletter by clicking on the link at the bottom of the eLink newsletter or by going directly to [myaccount.earthlink.net](http://myaccount.earthlink.net/).
+Windstream may compile or aggregate PII from numerous customers or Web visitors or mobile app users to collect data about groups of customers or potential customers or categories of service. Windstream does not consider this “aggregate” information as PII because the aggregate information does not contain the PII of any individual customer, Web visitor, or mobile app user.
 
-If you are a PeoplePC subscriber, you may exercise your opt out option not to receive any of our email marketing communications or PeoplePC Connections by (i) clicking the links on the bottom of these email communications or PeoplePC Connections or (ii) visiting [myaccount.peoplepc.com](http://myaccount.peoplepc.com/).
+## B. Use of Personally Identifiable Information
 
-You also may contact EarthLink Customer Service via telephone or live chat regarding your opt in or opt out choices. Your opt out choices will remain in effect until you change them. You cannot opt out of receiving administrative communications from EarthLink because they communicate information that affects your customer account.
+Windstream uses PII to provide products and services to meet customers' needs, including new products or services. Windstream may share PII with any Windstream-affiliated company, and these companies are subject to the terms of this Statement.
 
-All browsers are different, so visit the "help" section of your browser to learn about cookie preferences and other privacy settings that may be available. For example, you can manage cookie preferences set by EarthLink by adjusting the settings in your browser not to accept cookies. If your browser is set to reject cookies, EarthLink will not be able to provide you with personalized features on the EarthLink Consumer Website. The EarthLink Consumer Website does not honor do not track requests from browsers. If you would like more information about opting out of Internet-based advertising in general, you can go to [www.networkadvertising.org/faq/](http://www.networkadvertising.org/faq/).
+Windstream retains PII only as long as is necessary for Windstream to comply with business, tax and legal requirements. This retention period could be the entire time you are our customer depending on the type of PII.
 
-**9\. What is Outside the Scope of this Privacy Policy**
+**Windstream does not:**
 
-This Privacy Policy does not apply to information about you collected by third party websites that you may link to from the EarthLink Consumer Website or information collected by advertising networks on third party websites. Any information you provide to third party websites is subject to the third party websites' privacy policies and terms of service. We encourage you to read the third party websites' privacy policies and terms of service before using these third party websites. EarthLink is not responsible for the content, services, products or applications provided by or through third party websites.
+Sell any customer data, whether it be defined as PII or otherwise, to third parties.
 
-This Privacy Policy does not apply to the PII of EarthLink Business' customers. The EarthLink Business privacy policy is located at [earthlinkbusiness.com/about-us/legal/privacy-policy.xea](http://www.earthlinkbusiness.com/about-us/legal/privacy-policy.xea).
+Collect PII from you unless you provide it to us in person, telephonically or electronically by visiting our websites or using our mobile apps, including information you provide in order to use our services.
 
-If you post any comments to any of the public areas of the EarthLink Consumer Website such as blogs, forums or "Ask Email Guy," EarthLink's Facebook page, or EarthLink's Twitter account, your comments can be read or used by others and any PII that you post in such public areas could be used by others to contact you or for other purposes. You should exercise caution when deciding to disclose any information in these public areas. EarthLink is not responsible for any PII you choose to submit through the public areas of the EarthLink Consumer Website, third party websites or social networking services.
+Sell the names and addresses of Windstream Web visitors or mobile app users to unaffiliated suppliers, without your prior approval.
 
-**10\. Protection of Children**
+Allow third parties to change your service provider or otherwise access your account information, at your request, without complying with our security policies, including our Customer Account Protection Plan that protects your account from changes not authorized by you.
 
-Protecting children's privacy is especially important to us. You must be 18 years of age or older to order and receive the EarthLink Consumer Services. EarthLink does not knowingly ask for or collect PII from any person under the age of 18.
+Information about our customers and users, including PII, may be shared and transferred as part of any merger, acquisition, sale of company assets or transition of service to another provider. This also applies in the unlikely event of an insolvency, bankruptcy or receivership in which customer and user records would be transferred to another entity as a result of such a proceeding.
 
-EarthLink recommends that children ask a parent for permission before sending any PII anywhere using the Internet. For further information about tips, techniques and resources about Internet safety, please visit [www.GetNetWise.org](http://www.getnetwise.org/) or [www.StaySafeOnline.org](http://www.staysafeonline.org/).
+## C. SMS/Text Messaging
 
-**11\. California Privacy Rights**
+If you create an account and provide your cellular telephone number, Windstream may send you administrative text messages. If you opt in to receive promotional/marketing text messages, Windstream may also send you promotional/marketing text messages. If you wish to opt out of any type of text messaging sent to you by Windstream, you may do so by following the "opt-out" instructions in the text message, or by editing your account settings.
 
-California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of PII to third parties for their own direct marketing purposes. If you are a California resident and want to make such a request, please contact us at [earthlinkconsumerprivacy@corp.earthlink.com](mailto:earthlinkconsumerprivacy@corp.earthlink.com) or EarthLink, LLC, Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309 and include your name and address. Please note that under California law, businesses are only required to respond to a customer request for this information once during any calendar year.
+## D. Customer Proprietary Network Information (CPNI)
 
-**12\. International Visitors**
+CPNI is information that relates to the quantity, technical configuration, type, destination, location and amount of use of the telecommunications services purchased by you from Windstream. CPNI is available to Windstream solely through its relationship with you and information contained in your bill for telecommunication services. CPNI does not include information that is typically classified as PII, such as your name or e-mail address and does not include compiled or aggregated PII. U.S. federal law requires Windstream to protect the confidentiality of CPNI. Unless you opt-out from the use of CPNI, Windstream may use CPNI to market service offerings to you to which you do not already subscribe. To opt-out, just [contact us](https://web.archive.org/contactus). Windstream may, without prior approval from you, use CPNI to provide or market service offerings to you, if the service offerings are within the same categories of service to which you already subscribe, regardless of your CPNI selection.
 
-Your PII will be processed and maintained by us in compliance with this Privacy Policy and United States data protection and privacy laws and regulations. If you create an account to use an EarthLink Consumer Service and/or are using the EarthLink Consumer Website as a visitor from outside the United States, you agree to the terms of this Privacy Policy and you consent to the transfer and processing of all your PII in accordance with this Privacy Policy and United States data protection and privacy laws, which many not offer an equivalent level of protection to the laws in the European Union or certain other countries.
+If you order Windstream services from a Windstream dealer, Windstream’s dealers are prohibited from accessing or using your CPNI unless you sign a consent form authorizing Windstream to release your CPNI to the dealers. Dealers are required by Windstream to take all necessary measures to protect the confidentiality of your CPNI. As part of the dealers’ agreements with Windstream, dealers agree that, upon termination of your Windstream services, the dealers will promptly return all of your CPNI to Windstream and will not retain any CPNI in any form.
 
-**13\. Changes to this Privacy Policy**
+## E. Value-Added Services
 
-From time to time, EarthLink may update this Privacy Policy to reflect new or different privacy practices. You will be able to see that changes have been made by checking the effective date and endnotes at the end of this Privacy Policy that explain what has been revised.
+Because we appreciate the trust you have placed in us, we continually look for ways to enhance your customer experience. From time to time, we may notify you about a Windstream product or service using the information you have provided to us either in person, telephonically or electronically by visiting our websites or using our mobile apps, including information you provide to use our services. We strive to limit our offers to those we think you would benefit from and appreciate receiving. We want every contact you have with us to be a positive experience. If you prefer not to receive these Windstream value-added services, offers and opportunities, just [contact us](https://web.archive.org/contactus).
 
-In addition, if any of the revisions to this Privacy Policy will materially affect the way we use, disclose or retain previously-collected PII, we will notify you about the change by sending an email notice to the primary email address associated with your customer account. 
+Windstream complies with all applicable laws and regulations regarding “Do Not Call” Lists. Generally, Windstream is allowed to contact its customers, even if the customers are registered with federal or state Do Not Call Lists, because of our relationship with you. Windstream will, of course, honor any request to remove your name from our telephone, mail or e-mail solicitation lists and will delete your information from existing files within a reasonable time period. Just [contact us](https://web.archive.org/contactus).
 
-**14\. How to Contact Us**
+## F. Information Disclosed to Third Parties
 
-Please contact us if you have any questions about this Privacy Policy or its implementation, at [earthlinkconsumerprivacy@corp.earthlink.com](mailto:earthlinkconsumerprivacy@corp.earthlink.com) or EarthLink, LLC, Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309.
+Windstream does not sell PII of its customers. In limited circumstances, Windstream may provide PII to third parties:
 
-Effective Date: February 14, 2014
+  * To assist us in developing, promoting, establishing, maintaining, and/or providing Windstream-related products and services to you, including joint marketing efforts or promotions, but PII may not be used by the third parties for any other purpose;
 
-* * *
 
-This EarthLink Consumer Privacy Policy dated February 14, 2014 updates the previous version dated December 28, 2012 to clarify the use of cookies and to comply with California law but there are no material changes to EarthLink's privacy policies or procedures from the December 28, 2012 version.
+  * To assist us in establishing accounts, billing, collecting payment (i.e. credit bureaus and collection agencies), enforcing the Terms and Conditions or the Acceptable Use Policy of our Windstream services where permitted by law, and protecting or enforcing our rights or property, or the services of our other customers, from fraudulent, abusive, or unlawful use by you of our services;
+  * To comply, when required by law, with court or administrative orders, civil or criminal subpoenas, warrants from law enforcement agencies, federal or state regulatory requirements, mandatory governmental audits, E911 reporting requirements, grand jury investigations, civil or criminal governmental investigations, or reporting required by the National Center for Missing and Exploited Children, designated by federal law as a reporting mechanism for child pornography; and
+  * To appropriate law enforcement, 911 centers, or emergency services when Windstream, in good faith, believes the disclosure is necessary to protect a person, Windstream property, or the public from an immediate threat of serious harm.
+
+
+
+## G. Data Collection Technologies
+
+In addition to PII identified in Section A of this Statement, we, or our third-party partners, may collect non-personal information automatically when you visit Windstream websites, other third-party sites, open Windstream emails or use Windstream mobile apps, such as domain name, browser, your computer operating system, information about the Web page from which you linked to the website, and time spent on different parts of our websites or mobile apps. We or our partners may use this information to evaluate and improve the websites and mobile apps, and may share the information with third parties on an aggregated basis to enhance our products and services offered. This on-line information is typically collected via  **cookies** ,  **web beacons  **(see  **Section N**  for definitions), and/or other data collection technologies. Like virtually all other websites that you visit, we use cookies to deliver Web content specific to your interests and to control access to your personal shopping cart after your initial entry. The cookie permits the server to recall information from your previous shopping trip, should you decide to think about your purchase. A cookie is not used to access or otherwise compromise the data on your hard drive. With most browsers, you can choose to change your browser settings to disable cookies. Please be aware that cookies may be required to complete certain functions on Windstream websites and other websites you may link to from Windstream websites, including making purchases or payments on your Windstream account.
+
+## H. Security Measures
+
+Windstream wants you to use our services with confidence, and therefore we use a number of security techniques designed to protect your information from unauthorized access, including firewalls and access control procedures. Windstream has physical, electronic, contractual, and managerial security measures in place to protect against the loss, misuse and alteration of information under our control. For example, when you place an order on a Windstream Website, the information you submit is encrypted using the Secure Sockets Layer (SSL) protocol.
+
+Windstream employees are bound non-disclosure agreements that prevent them from disclosing any PII or CPNI. Further, Windstream’s Working with Integrity Guidelines state that Windstream employees must abide by all state and federal laws and regulations in the performance of their job duties.
+
+Our policies also limit access to PII to only those employees, contractors, agents, or representatives that require the information to perform their jobs or assist Windstream with providing products and services to you.
+
+## I. Children
+
+Children under the age of majority should consult with their parents or guardian before furnishing any data to us. Parents should consider using one of a number of available parental control tools that provide a child-friendly, on-line environment and can prevent children from disclosing PII without parental consent. If a child has provided personal information without the consent of a parent or guardian, that parent or guardian should [contact us](https://web.archive.org/contactus) to request that the information be deleted from our records. More information about parental controls may be found on Windstream websites or by contacting a Windstream customer care representative.
+
+Windstream does not knowingly collect PII from children under the age of 13 in connection with providing products and services, and it strives to comply with all provisions of the Children’s Online Privacy Protection Act (COPPA). If Windstream inadvertently collects information from minors below the age of 13, the information will be treated as PII of the adult customer.
+
+## J. Links
+
+Windstream is not responsible for the content or privacy policies of other non-Windstream websites or non-Windstream mobile apps. You should keep this in mind when accessing websites through links on Windstream websites or mobile apps, or through third party advertisements appearing on Windstream websites or mobile apps. Further, Windstream may advertise on other websites or mobile apps. The advertising companies placing our ads may use cookies or web beacons to track the effectiveness of our ads. The use of such technology is subject to the privacy policies of the advertising companies, and not this Statement.
+
+## K. Statement Updates
+
+We may update this Privacy Statement at any time in connection with our constant efforts to improve our products and services. We strongly encourage you to periodically review this Statement. We reserve the right to expand our capabilities for information collection and use and change this Statement in this regard. If any change constitutes a material change to this Statement, we will post a notice on our websites in a prominent position. If Windstream decides to use PII in a manner that is materially different from what is contained herein, we will post the change on this page for 30 days before making the change.
+
+## L. Security Breaches
+
+While our goal is to prevent any unauthorized disclosure of PII, Windstream cannot guarantee that a disclosure will not occur. We will make reasonable efforts to contact you if we determine that a security breach has occurred and that there is a reasonable risk of identity theft or as otherwise required by law.
+
+## M. Contact Us
+
+If you have questions, concerns, or complaints about this Statement or Windstream’s privacy practices, please contact a Windstream customer care representative; email us at [windstream.privacy.statement@windstream.com](mailto:windstream.privacy.statement@windstream.com); or write to us at Windstream Services, LLC, ATTN: Legal Department, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner.
+
+## N. Definitions
+
+**Cookies**  are small, encrypted data strings our server writes to your hard drive that contains your unique Windstream User ID. For more information on managing cookies and opting out of interest-based advertising, [click here](http://www.aboutads.info/) for more information from the Digital Advertising Alliance.
+
+**Web beacons**  are small graphic images imbedded in a webpage or email.
+
+## O. Internet Information
+
+Windstream’s network management practices are designed to provide the best possible online experience to its customers. To that end, Windstream monitors traffic flows between points within its network and between its network and locations on the Internet for purposes of reasonable network management. Windstream uses this information to manage its network, provide security for its customers, plan for future needs, and ensure its network runs efficiently. Monitored information includes the amount of data sent to and from your connection, the source and destination of the data, and the type of information sent and received. In limited circumstances, Windstream may also look into the contents of the information to determine whether it is malicious in nature (such as a virus, spam, worm, etc) or when required by law to comply with judicial orders or regulations.
+
+## P. US-EU Privacy Principles
+
+For individually identifiable information received by Windstream in the United States from Users in the European Union, Windstream adheres to the following principles:
+
+**Notice:**  Windstream will inform Users about the purposes for which it collects and uses PII, the types of non-agent third parties to which Windstream discloses PII, and the choices and means, if any, Windstream offers for limiting use and disclosure of PII.
+
+**Choice:**  Windstream will offer Users the opportunity to choose (opt-out) whether their PII is (a) to be disclosed to a third party who is not an agent, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized. For sensitive PII, Windstream will give Users the opportunity to affirmatively and explicitly (opt-in) consent to such disclosure or use.
+
+**Access:**  Upon request, Windstream will provide Users with the PII that it holds about them and will take reasonable steps to provide individuals with a means to correct, amend or delete PII that is inaccurate or incomplete.
+
+**Dispute Resolution:**  For complaints that cannot be resolved between Windstream and the User, such disputes will be governed by the current provisions of Windstream’s Terms and Conditions, or the terms of your written agreement with Windstream, if applicable.
