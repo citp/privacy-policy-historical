@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravesouls.fyi privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522034558id_/http%3A//bravesouls.fyi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravesouls.fyi privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722062058id_/http%3A//bravesouls.fyi/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brave Souls, FYI
 
@@ -15,7 +15,7 @@ http://bravesouls.fyi uses cookies to store information about visitors' preferen
 **DoubleClick DART Cookie**  
 → Google, as a third party vendor, uses cookies to serve ads on http://bravesouls.fyi.  
 → Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to http://bravesouls.fyi and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include...   
