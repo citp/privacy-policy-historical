@@ -1,184 +1,148 @@
-> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505172238id_/https%3A//mettl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722120210id_/https%3A//mettl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Mettl.com
+# Mettl Privacy Policy
 
-At Mettl, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice as regards to the use of your Personal Information is as set forth below in this Privacy Policy. As a condition to use of Mettl Services, you consent to the terms of the Privacy Policy as it may be updated from time to time. In the event of a material change, we shall notify you via email or by means of a prominent notice on the website prior to the change becoming effective . This Privacy Policy applies exclusively to [www.mettl.com](https://mettl.com/)
+**I.       _INTRODUCTION_**
 
-This Privacy Policy explains what information Induslynk Training Services Private Limited ("Induslynk" or "Mettl" or "[Mettl.com](https://mettl.com/) " or we), owners of the domain www.mettl.com, collects on [http://www.mettl.com](https://mettl.com/) and internet tools accessible from this web site ("Web Site"), how Mettl uses that information, your choices regarding our use of your personal information and how you can access and update this information and this Web Site's other privacy practices. This Privacy Policy only covers information collected at this Web Site, and does not cover any information collected at any other web site or offline by Mettl, our affiliates or any other company (unless specifically stated). Please read this Privacy Policy carefully. 
+This Privacy Policy (" **Policy**" ) sets out the manner in which **Induslynk Training Services Private Limited** , a company having its registered office at, Plot No.85, Sector-44, Gurgaon 122002 (" **Company**" , "**we**" , "**our**" , "**us**" ) collects, uses, maintains and shares information about you (" **User**" or "**you**" ) through online interfaces (e.g. - mobile applications, website) owned and controlled by us (collectively referred to herein as the "**Company Systems**" ). 
 
-Induslynk Training Services Private Limited complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Induslynk Training Services Private Limited has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Induslynk Training Services Private Limited's certification, please visit <http://www.export.gov/safeharbor/>
+In the course of your use or access of the Company Systems or receipt or use of the services provided by the Company, the Company may collect different categories of information from you. This Policy set out the types of information that may be collected, and the manner in which such information is collected, used, processed, disclosed and maintained. This Policy must be read in conjunction with the other agreements you enter into with the Company and such other terms of use as may be published by the Company on other Company Systems or otherwise. 
 
-### INFORMATION COLLECTED
+Please read this Policy carefully. 
 
-We collect two kinds of information from you: non-personal information and personal information.
+**II.       _APPLICABILITY OF THE POLICY_**
 
-Personal information is information we collect through this Web Site that we can use to specifically identify you, and may include your: 
+  1. This Policy shall apply to all information (non-personal information and personal information) the Company collects through the Company Systems and/or in the course of your use of the services of the Company. 
+  2. This Policy does not apply to, nor does the Company take any responsibility for, any information that is collected by any third party either using Company Systems or through any links on the Company Systems or through any of the advertisements or through BOTS. 
 
-  * name, telephone number and e-mail address
-  * credit card or similar information
-  * past employment history
-  * information you provide in online tests, including responses to test questions
 
 
+**III.       _INFORMATION WE COLLECT_**
 
-We collect personal information from you through the Web Site only when you voluntarily share it with us, such as when you fill out a registration form, an online survey, or send us an e-mail; if you choose to purchase a product or apply for a job with us or our clients; or when you use one of our online forms. 
+  1. We will only collect information which you share with us. You can choose what information you want to share with us. We will collect your information only if you choose to share it through our website and services. 
+  2. We will collect the following information about you or related to your use of the Company Systems and/or services of the Company: 
 
-**Non-personal information** is information we collect through this Web Site that does not identify you by name or as an individual person. It may include information like: 
+**Personal information**
 
-  * the type of web browser software your computer uses;
-  * pages your computer visited and date and time your computer accessed our pages;
-  * personal information that has been de-identified; and
-  * the IP (internet protocol) address associated with your computer.
+Personal information is information the Company collects through the Company Systems that the Company can use to specifically identify you, and may include your: 
 
+    1. name, telephone number and e-mail address; 
+    2. captured live images through the web camera enabled tests. This is to prevent you from navigating away from the test window while the assessment is ongoing; 
+    3. any personal or personal sensitive information/special categories of data (as defined by applicable laws of India and applicable laws of EU) that you may submit or may be required to submit for registration and continued use of the Company Systems or receive the services by the Company; 
+    4. the IP (internet protocol) address and the use of Cookies associated with your computer; and 
+    5. information about your computer system, communication device, device id, browser details and location, connections, or any information that the Company may collect through the use of Cookies, Web Beacons / Gifs, Flash LSOs, and Behavioural targeting/ Re-targetting. 
+    6. any personal or sensitive personal information of any other individual that you provide in the course of using the services of the Company 
 
+**Non-personal information**
 
-We also proctor tests using webcam. We may capture live images through the web camera enabled tests. This is to prevent candidates from navigating away from the test window while the exam is ongoing. Also, to prevent impersonation and use of unfair means. 
+Non-personal information is information we collect through the Company Systems that does not identify you by name or as an individual person. The Company uses your information, which does not identify individual users, to analyze trends, to administer the Web site, to track users" movements around the Web site and to gather demographic information about our user base as a whole. It may include information such as: 
 
-You have the right to request the modification or deletion of any personal information retained by Mettl that is inaccurate, except that information relating to your test scores and performance, as set forth below. (You may request for modification or deletion of any personal information by emailing our Customer Support at privacy@mettl.com or by contacting us by telephone or postal mail at the contact information listed below . You understand that Mettl, in its sole discretion, will determine whether personal information should be modified or deleted. We will respond to your request to access within 30 days). 
+    1. the nature of web-browser software your computer uses 
+  
 
-We use this information, which does not identify individual users, to analyze trends, to administer the Web site, to track user's movements around the Web site and to gather demographic information about our user base as a whole. 
+  3. Please do not include any personal information, personally identifiable informa tion or sensitive personal information unless specifically requested by the Company as part of the registration or other applicable processes. If the Company determines that any information you have provided or uploaded violates the terms of this Policy, the Company has the right, in its absolute discretion, to delete or destroy such information without incurring any liability to you. The Company will notify you before we delete or destroy such information. 
 
-### COOKIES AND OTHER TRACKING TECHNOLOGIES
+  
 
-We collect non-personal information from your computer's web browser. A cookie is an information file that the Web Site places on your computer for record keeping and site navigation purposes. The cookie placed on your computer by the Web Site does not store your name, e-mail address or any other personal information about you. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate our Web site. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your corporate logo, so that you may see it across pages. Your browser software can be set to reject cookies, including the cookie from our Web Site. However, please note that if you reject our cookies, you will not be able to use this Web Site 
+  4. We collect information at the level of the Company Systems like errors, crashes, failures to provide improvements, actions performed and services rendered. 
 
-  * **Web Beacons / Gifs**
 
 
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Pixel), that help us better manage content on our Web site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We sometimes tie in the information gathered by clear gifs to our customers personal information to send mailers. 
+**IV.       _MANNER OF COLLECTION OF INFORMATION_**
 
-  * **Flash LSOs**
+  1. The Company shall collect the information that are provided by you as direct user input in the course of your use of the Company Systems or the services provided by the Company. By submitting your information, you hereby agree to this storage, transfer and/or processing. The Company takes all reasonably necessary steps to ensure that your information is treated securely and in accordance with this privacy policy and the relevant regulations. 
 
+  2. The Company shall also collect information through automatic tracking of your use of the Company Systems. The information collected with respect to your use of the Company Systems may include IP addresses, details of your computer system, device id, browser detail and location, connections, or any information that the Company may collect through the use of Cookies, Web beacons/gifs, Flash LSOs, and Behavioural targeting/ Re-targetting. The collection of data may in most cases be automatic. 
 
+"Cookies" are files that would be placed in your computer system"s or device"s hard drive and browser and are intended to improve your experience of use of the Company Systems, by enabling us to track your usage of the Company Systems and preference, a history of the pages you view, time and date, advertisements and links that you visit and other user information. You may decline these cookies by changing your settings, if permitted. However, do note that doing so may impact certain features of the Company Systems. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Company Systems. Persistent cookies can be removed using tools available in some browsers. Please review your web browser "Help" file to learn the best way to modify your cookie settings. 
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or display content based upon what you view on our Web site to personalize your visit. Third Parties, with whom we partner to provide certain features on our Web site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: 
+"Web Beacons / Gifs" is employed by our third-party advertising partner, that help us manage content on our Computer Systems better by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to Cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a User's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We sometimes tie in the information gathered by clear gifs to our customers" personal information to send mailers. 
 
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+"Flash LSOs" are local shared objects, used by us, to store your preferences such as volume control or display content based upon what you view on our Computer Systems, so that we can personalize your visit. Third Parties, with whom we partner to provide certain features on our Computer Systems or to display advertising based upon your web browsing activity, use flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of/type of data stored. Cookie management tools provided by your browser will not remove flash cookies. To learn how to manage privacy and storage settings for flash cookies click here: 
 
-  * **3 rd Party Tracking**
+[ http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
 
+"Behavioural Targeting / Re-Targeting" our third-party ad network partner display advertising on our Web site to manage our advertising on other sites. Our ad network partner uses Cookies and Web beacons to collect non-personal information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
+"Google AdSense/Adwords", we use Google Adwords only to publish ads on Company Systems. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on the Computer Systems and other web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: [ http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our Privacy Policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID and persistent cookies to make it easier for you to navigate our Web site. 
 
-  * **Behavioral Targeting / Re-Targeting**
 
 
+**V.       _USE OF YOUR INFORMATION_**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+  1. The information that we collect through the Company Systems will be used for these following purposes for the performance of the services in relation to the Company Systems: 
 
-(Google AdSense/Adwords) We use Google Adwords only to publish ads on this Web site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google'sâ¢ Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
+    1. operating the Company Systems; 
+    2. facilitating your use of the Company Systems; 
+    3. openabling the functionalities of the Company Systems; 
+    4. rendering services to you; 
+    5. analysis of the usage pattern of the Company Systems, the services and other functionalities provided through the Company Systems. 
+  2. Except as otherwise provided herein, no personally identifiable information will be disclosed or shared with any third party without your express consent. 
+  3. The Company will not publish, sell or rent your personal information to third parties for their marketing purposes without your explicit consent. 
+  4. You agree that the Company may use your personal information to contact you and deliver information, to render services sought by you from the Company and to deliver targeted advertisements, administrative notices and any other communication relevant to your use of the Company Systems. 
 
-### USE AND DISCLOSURE OF INFORMATION
 
-We do not restrict the ways that we use or disclose non-personal information. We will use non-personal information from you to help us make this Web Site more useful to users and for other business purposes. We do not link this automatically-collected data, which does not identify individual users, to personal information. 
 
-For instance, we may use non-personal information to:
+**VI.       _DISCLOSURE OF YOUR INFORMATION_**
 
-  * create reports to develop programs, products, services or content
-  * customize the information or services that are of interest to you, or
-  * share it with or sell it to third parties
+  1. The information you provide on the Company Systems may be disclosed by the Company to its agents, representatives, consultants, third party advertisers, subsidiaries and affiliates, or to other third-party service providers of the Company who require the information for the purposes of operating and maintaining the Company Systems. 
+  2. The Company requires all third parties to respect the security of your information and to treat it in accordance with this privacy policy and the relevant regulations. The Company do not allow our third-party service providers to use your information for their own purposes and permit them to process your information only for specified purposes and in accordance with our instructions. 
+  3. The Company will comply with requests and directions of all governmental, law enforcement or regulatory authorities, which it believes in good faith to be in accordance with any applicable law. Such compliance may include disclosing to the governmental, law enforcement or regulatory authorities information submitted by you or collected in relation to your use of the Company Systems or the Company"s services including any personally identifiable information. By using the Company Systems and receiving Company"s services, you consent to the Companyâs disclosure of information as set out in this Section VI (c) to governmental, law enforcement or regulatory authorities. 
+  4. The Company Systems is operated in India. If you are located in the United States, European Union, Canada or elsewhere outside of India, please be aware that any information you provide to the Company will be transferred to India. The Company will ensure it receives adequate protection and is treated in a way which is consistent with and respects the relevant laws. 
 
 
 
-We may use personal information we collect from you through this Web Site:
+**VII.       _DATA SECURITY_**
 
-  * to respond to your requests, including your request to be evaluated for possible employment opportunities;
-  * to provide you with products or services that you request;
-  * to provide you access to Mettl's products or services;
-  * to develop records, including records of your personal information;
-  * for analytical purposes and to research, develop and improve programs, products, services and content;
-  * To remove your personal identifiers (your name, e-mail address, social security number,tcc). In this case, you would no longer be identified as a single unique individual. Once we have de-identified information, it is non-personal information and we may use and treat it like other non-personal information;
-  * contact you regarding any problems or questions we have relating to your use of the Web Site, or, in our discretion, notify you of changes to our Privacy Statement, Terms of Use or other policy or terms that affect you or your use of the Web Site;
-  * to enforce this Privacy Statement or the Terms of Use;
-  * to protect our rights or property;
-  * to protect someone's health, safety or welfare; or
-  * To comply with a law or regulation, court order or other legal process.
+  1. The information that you provide, subject to disclosure in accordance with this Policy, shall be maintained in a safe and secure manner. The Company"s databases and information are stored on secure servers with appropriate firewalls. 
+  2. As a User, you have the responsibility to ensure data security. You must not disclose to any person the authentication parameters that are assigned to you including your username or password for your use of the Company Systems. You acknowledge that you will be solely responsible for all acts committed by use of your username /other authentication parameters. 
+  3. Given the nature of internet transactions, the Company does not take any responsibility for the transmission of information collected from you or are generated by your use of the Company Systems or the services. Any transmission of such information over the internet is done at your sole risk. The Company does not take any responsibility for you or any third party circumventing the privacy settings or security measures contained on the Company Systems. 
+  4. While the Company will use all reasonable efforts to ensure that any information collected from you or are generated by your use of the Company Systems or the services is safe and secure, it offers no representation, warranties or other assurances that the security measures are adequate, safe, fool proof or impenetrable. 
+  5. If the Company discovers there has been a breach of your information that poses a risk to the rights and freedoms of individuals who are residents in the EEA, it will report it to the relevant national supervisory authority for data protection without undue delay but no later than 72 hours of discovery. The Company will record all data breaches regardless of their effect. 
+  6. If the breach is likely to result in a high risk to the rights and freedoms of individuals who are residents in the EEA, it will notify the affected individuals that there has been a breach and provide them with information about its likely consequences and the mitigation measures it has taken. 
 
 
 
-### SHARING PERSONAL INFORMATION WITH THIRD PARTIES
+**VIII.       _ACCESSING AND UPDATING YOUR INFORMATION_**
 
-Unless otherwise disclosed in this Privacy Policy or at the time you provide your information, Mettl will only share your personal information with third parties under the following limited circumstances; we do not sell your personal information to third parties: 
+  1. You can change, alter of otherwise modify or update the information submitted by you at any time by accessing the Company Systems and authenticating yourself by using your registered username or accessing your user account, as applicable. 
+  2. You have the right to obtain confirmation from the Company that we have retained personal information about you, as well as a written description of the nature of that personal information, the purposes for which it is being used, the sources of the personal information and a list of the recipients with whom we have shared your personal information. You also have the right to request the modification or deletion of any personal information retained by the Company that is inaccurate. Please contact us at the address appearing below to inquire about your personal information. 
+  3. Even if you are no longer registered, the Company will maintain copies of your information in its internal records, systems, and databases. The Company will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements as long as it is necessary. We will continue to treat your personal information in accordance with this Privacy Policy. 
+  4. The Company reserves the rights to retain any information regarding your usage of the Company Systems and the services of the Company but you have the right to ask as to delete it. 
+  5. The Company at its sole discretion may permit or deny the change of any information, if it reasonably believes that the same is required to observe its obligations under applicable laws. 
 
-  * We may share the personal information you provide with the organization to which you are applying for a job, and with any of its suppliers who are involved in the application process.
-  * We may also share your personal information with our parent, subsidiary, or affiliated companies (Related Companies) for our or their internal business purposes; but we do not share this information for their independent marketing purposes.
-  * In the ordinary course of business, we also will share some personal information with companies that we hire to perform services or functions on our behalf. For example, we may use different vendors or suppliers to process your credit card information, to manage our contact us chat service or to ship you products that you order from the Web Site. In such cases those third parties may have access to your personal information in order to provide the services on our behalf and will not use it for any other purposes.
-  * Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our Web site. Please be aware that you are providing your personal information to these third parties and not to [ http://mettl.com](http://mettl.com/).
-  * We may cooperate with law enforcement authorities in investigating and prosecuting Web Site users who violate our rules or engage in behavior which is harmful (or illegal) to other users. Mettl may transfer and disclose information about our users, including personal information, to enforce this Privacy Policy and the other rules about your use of this Web Site, protect our rights or property, protect someone else's safety or welfare, or comply with a law or regulation, court order or other legal process.
-  * Mettl reserves the right to disclose and transfer user information, including personal information, in connection with a corporate sale, merger, dissolution, or acquisition, or similar transaction. In such cases, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information .
 
 
+**IX.       _AGE RESTRICTIONS_**
 
-### RETENTION AND YOUR CHOICES AND ABILITY TO ACCESS PERSONAL INFORMATION
+The Company Systems may be appropriate for Users who are of 18 years of age or older, please do not use the Company Systems or provide any information in the absence of supervision by a parent or guardian. If the Company determines that it is in possession of any information belonging to an individual below 18 years of age which is submitted, collected or generated in breach of the terms of this Policy, it will delete the same without any notice to the individual to whom such information belongs to. 
 
-Mettl provides individuals reasonable opportunity to access and update their personal information, subject to the qualifications noted below. You have the right to obtain confirmation from Mettl that we have retained personal information about you, as well as a written description of the nature of that personal information, the purposes for which it is being used, the sources of the personal information and a list of the recipients with whom we have shared your personal information. You also have the right to request the modification or deletion of any personal information retained by Mettl that is inaccurate. Please contact us at the address appearing below to inquire about your personal information. Mettl reserves the right to charge a modest fee for providing you access to your personal information. 
+**X.       _AMENDMENTS TO THE PRIVACY POLICY_**
 
-Even if you are no longer registered, we will maintain copies of your information in our internal records, systems, and databases. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements . We will continue to treat your personal information in accordance with this Privacy Policy. 
+This Policy is subject to change at the Company"s sole discretion. Any changes to the Policy will be notified by a notice at www.mettl.com 
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [privacy@mettl.com](mailto:privacy@mettl.com)
+**XI.       _COMPLAINTS_**
 
-Test Takers: Please note that test scores reflect a Test Taker's performance at a particular time, and neither your responses nor your score can be changed after the fact. Similarly, certain information you provide in preliminary question forms completed prior to or following a test session are immediately disclosed to the Test Administrator. Upon reasonable request, Mettl will provide you an opportunity to access and update your personal information that we have on file. We recommend, however, that you follow up as well with your Test Administrator to update the personal information held on file by that entity. Please check the Test Administrator's privacy policy for details on its information collection and use practices. 
+If you have any issue or grievance with respect to this Policy or with the manner in which we collect or store your information, your access or in any respect related to your personal information provided to us, please write to support@mettl.com, who shall redress your grievance. We will do everything we reasonably can to ensure that your grievance is attended to and addressed within a period of 30 days from the date of receipt of your grievance. 
 
-Employees: Mettl permits employees to access and update the employee's personal information as permitted by law. Please contact your local Human Resources Representative for details on accessing and updating your personal information. 
-
-E-mail: [legal@mettl.com](mailto:legal@mettl.com)
-
-### LINKS TO OTHER ONLINE RESOURCES
-
-LINKS TO OTHER ONLINE RESOURCES This Web Site may contain links to other online resources. We provide the links for your convenience, but we do not review, control, or monitor the privacy practices of online resources operated by others. This Privacy Policy does not apply to any other online resources where a link to this Privacy Policy does not appear. We are not responsible for the performance of sites operated by third parties or for your business dealings with them. Therefore, whenever you leave this Web Site we recommend that you review each site's privacy practices and make your own conclusions regarding the adequacy of these practices. 
-
-### BLOG
-
-Our Web site offers publicly accessible blogs or community forums. The blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. 
-
-### TESTIMONIALS
-
-We display personal testimonials of satisfied customers on our Web site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@mettl.com](mailto:privacy@mettl.com). 
-
-### REFERRALS
-
-If you choose to use our referral service to invite a user about our Web site, we will ask you for your friendâÃ¢s name and email address. We will automatically send your friend's a one-time email inviting him or her to visit the site. Induslynk Training Services Private Limited stores this information for the sole purpose of sending this one-time email and tracking the success of our invite user program. Your friend may contact us at [privacy@mettl.com](mailto:privacy@mettl.com) to request that we remove this information from our database. 
-
-###  COLLECTION AND USE OF 3rd PARTY PERSONAL INFORMATION 
-
-You may also provide personal information about other people, such as their name and email address. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. 
-
-### SOCIAL MEDIA WIDGETS
-
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our Web site. These Features may collect your IP address, which page you are visiting on our Web site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Web site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-### CONSENT TO TRANSFER
-
-This Web Site is operated in India. If you are located in the United States, European Union, Canada or elsewhere outside of India, please be aware that any information you provide to us will be transferred to India. By using the Web Site or providing us with your information, you consent to this transfer. 
-
-### SECURITY
-
-We have implemented commercially reasonable electronic, physical and procedural safeguards designed to help protect against the loss, unauthorized access or disclosure, alteration or destruction of the information under our control. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Certain features of our Web Sites may require you to use an access code, password or similar unique identifier. You are responsible for protecting the secrecy of your account information. Mettl recommends that you use the latest browsers so as to take advantage of advances in security technology. Although we strive to protect your encrypted information, no data transmission over the Internet is completely secure. There is some risk associated with any data transmission, including the risk that personal information may be intercepted in transit. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [legal@mettl.com](mailto:legal@mettl.com)
-
-### INFORMATION RELATED TO DATA COLLECTED FOR OUR CLIENTS THROUGH THE SERVICE
-
-Induslynk Training Services Private Limited collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients. 
-
-Induslynk Training Services Private Limited has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his/her query to the Induslynk Training Services Private Limited's Client (the data controller). If requested to remove data we will respond within 30 days. 
-
-We will retain personal information we process on behalf of our Clients for as long as needed to provide services to our Client. Induslynk Training Services Private Limited will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-### ACCEPTANCE & PRIVACY POLICY CHANGES
-
-By using this Web Site, you accept our privacy practices, as outlined in this Privacy Policy. Mettl reserves the right to modify, alter or otherwise update this Privacy Policy at any time. We will post any new or revised policies on the Web Site. However, Mettl will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy. 
-
-### CONTACT US
+**CONTACT US**
 
 If you have questions or concerns about this Privacy Policy, please contact us through the information below: 
 
-**Induslynk Training Services Private Limited**  
-Mettl, Plot No. 97, Ground Floor,  
-Sec 44, Gurgaon, India, 122002  
-+91 - 124 - 3220914 (Office)  
-+91 - 124 - 3220914 (Office)  
-+91 - 82878 - 03040 (Support)  
-Email: [privacy@mettl.com](mailto:privacy@mettl.com)
+Induslynk Training Services Private Limited 
 
-**EFFECTIVE DATE** of this Privacy Policy is: March 1st, 2014. 
+Mettl, Plot No. 85, Sector 44, 
+
+Gurgaon, Haryana, India, 122003 +91 - 124 - 3220914 (Office) 
+
++91 - 124 - 3220914 (Office) 
+
++91 - 82878 - 03040 (Support) 
+
+Email: privacy@mettl.com 
+
+EFFECTIVE DATE of this Privacy Policy is: May 25, 2018 
+
+Mettl online assessment © 2010-2020
