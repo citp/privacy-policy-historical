@@ -1,204 +1,226 @@
-> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163632id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722112752id_/https%3A//www.drift.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Drift
 
-Last Modified: June 12, 2014
+Effective Date: May 25, 2018 
 
-We at HubSpot (HubSpot, Inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to both our websites (Websites), including www.hubspot.com, and our Subscription Service (the Subscription Service), including our associated mobile applications (Mobile Apps). This Privacy Policy governs our data collection, processing and usage practices. By using the Websites or the Subscription Service, you consent to the data practices described in this Privacy Policy.  If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites or the Subscription Service.
+Drift.com, Inc. (“us”, “we”, or “our”) operates the http://www.drift.com, http://app.drift.com, and http://dev.drift.com website and the Drift mobile application (collectively, the “Services”). This page informs you of our policies and practices regarding the collection, use and disclosure of information which personally identifies you (“Personal Information”) when you use our Services. We will not use or share your information with anyone except as described in this privacy policy (the “Privacy Policy”). We use your Personal Information for providing and improving the Services. By using the Services, you agree to the collection and use of your Personal Information in accordance with this Privacy Policy.
 
-We periodically update this Privacy Policy. If you subscribe to the Subscription Service, then you will receive notice when this Privacy Policy is modified. The notice will be delivered through the Notification app in the HubSpot portal used to access your HubSpot subscription. We encourage you to review this Privacy Policy periodically.
+**Information Collection and Use; Personal Information**
 
-**TRUSTe Privacy Seal**  
+We may ask you to provide us, or third parties may provide us, with certain Personal Information that can be used to contact or identify you. Personal Information may include, but is not limited to, your name, postal address, email address, and employer. We collect Personal Information for the purpose of providing the Services, identifying and communicating with you about the Services, responding to your requests/inquiries, servicing your purchase orders, improving our Services, and communicating with you about our Services, discounts, and promotions. 
 
-HubSpot has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe™s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTe Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. TRUSTe's certification applies to the website located at [www.hubspot.com](https://www.hubspot.com/), the mobile application entitled HubSpot, the Subscription Service accessed at <https://login.hubspot.com/login> and residing on the HubSpot domain, and the Mobile Apps available through the Apple, Android and other mobile app stores or download sites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at privacy@hubspot.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+**How Long We Keep Your Personal Information**
 
-**Safe Harbor**
+How long we keep information we collect about you depends on the type of information, as described in further detail below. After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.
 
-HubSpot complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. HubSpot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HubSpot's certification, please visit <http://www.export.gov/safeharbor>.
+_Account Information_
 
-## **1\. Important Information**
+We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services. We also retain your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, and to continue to develop and improve our Services. Where we retain information for Service improvement and development, it will be anonymized and used to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you.
 
-**1.1. Changes to this Privacy Policy**
+_Managed Accounts_
 
-We may update this Privacy Policy from time to time by posting a new version online. You should check this page occasionally to review any changes. If we make any material changes we will notify you by posting the revised Privacy Policy on our Websites and, if you subscribe to our Subscription Service, providing notice through Notification app in the HubSpot portal used to access your HubSpot subscription. This helps you to always be aware of what information we collect, how we use it and under what circumstances, if any, it is disclosed. Your continued use of the Websites, the Subscription Service, and/or continued provision of Personal Information to us will be subject to the terms of the then-current Privacy Policy.
+If the Services are made available to you through an organization (e.g., your employer), we retain your information as long as required by your employer under our agreement with your employer as required by the administrator of your account. If your account is deactivated, your information and conversations you may have had and actions you may have taken on the Services will remain in order to allow your team members to make full use of the Services.
 
-**1.2. Contact Us**
+_Marketing Information_
 
-If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at privacy@hubspot.com or by mail to HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, Attn: Privacy.
+If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services. Every marketing email we send will provide you with the option to opt out of receiving future emails.
 
-## **2\. Use of the Subscription Service by HubSpot and our Customers**
+**Accessing and Correcting Your Personal Information**
 
-**2.1. The HubSpot Subscription Service**
+We acknowledge individuals’ rights to access their personal information. You may access, update, correct or have removed from our systems and records the Personal Information you provided to us by emailing a request to [privacy@drift.com](mailto:privacy@drift.com) or contacting us by telephone or postal mail as further specified in the How to Contact Us clause of this Privacy Policy. To protect your privacy and security, we will also take reasonable steps to verify your identity before updating or removing your information.
 
-Our online Subscription Service allows any company that uses it (our customers and HubSpot itself) to build marketing webpages on our servers where visitors can learn more about the company, download content, and provide their contact information and other demographic information. This information, which is stored and managed on our service providers' servers, is then used so that the visitors can be contacted about their interest in the company's goods or services and interact with the company. HubSpot provides the Subscription Service to our customers for their own marketing and lead generation, and we use it on our Websites for our own marketing and lead generation. 
+**Information Collected Directly from You**
 
-**2.2. Use by HubSpot**
+We collect information about you when you provide it to us and automatically when you use the Services.
 
-We use our own Subscription Service to build webpages that people can visit to learn more about HubSpot. Information that we collect and manage using the Subscription Service for our own marketing belongs to us and is used, disclosed and protected according to this Privacy Policy. 
+_Log Data_
 
-**2.3. Use by Our Customers**
+We collect information that your browser sends whenever you visit our website or use our Services (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Services’ functionality. These third-party service providers have their own privacy policies addressing how they use such information. When you access the Services by or through a mobile device, we collect certain information automatically, including the type of mobile device you use, your mobile device’s unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, and your general location information as described further below.
 
-Our customers use the Subscription Service to build webpages that people can visit to learn more about their business. HubSpot does not control the content of these webpages or the types of information that our customers may choose to collect or manage using the Subscription Service. That information belongs to them and is used, disclosed and protected by them according to their privacy policies and is not subject to this Privacy Policy. HubSpot processes our customers' information as they direct and in accordance with our agreements with our customers, and we store it on our service providers' servers, but we do not have control over its collection or management. Our agreements with our customers prohibit us from using that information, except as necessary to provide and improve the Subscription Service, as permitted by this Privacy Policy, and as required by law. We have no direct relationship with individuals who provide Personal Information to our customers. Our customers control and are responsible for correcting, deleting or updating information they have collected from you using the Subscription Service.  We may work with our customers to help them provide notice to their visitors about their data collection, processing and usage. Our agreements with our customers prohibit them from using the Subscription Service to collect, manage, or process Sensitive Information. We are not responsible for our customers' use of information they collect on the Subscription Service.   
+_Location Information_
 
-**2.4. "Sensitive Information"**
+We use and store information about your general location. We use this information to provide features of our Services and to improve and customize our Services. 
 
-This refers to credit or debit card numbers, personal financial account information, Social Security numbers, passport numbers, driver's license numbers or similar personal identifiers, racial or ethnic origin, physical or mental health condition or information, or other employment, financial or health information.
+_Cookies_
 
-## **3\. Information We Collect**
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our Services. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The “Help” feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Services and we recommend that you leave them turned on.
 
-**3.1. When You Visit our Websites**
+_Do Not Track Disclosure_
 
-You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for the Subscription Service, we request that you provide Personal Information about yourself, and we collect Navigational Information. 
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the “Preferences” or “Settings” page of your web browser.
 
-**3.2. When You Use our Mobile Application**
+**Information Collected from Other Sources**
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Apps on your mobile device. In addition to information we collect on our Websites, when you use our Mobile Apps we may also collect your city location, device model and version, OS version, and your HubSpot Subscription Service credentials. 
+We will enrich your Personal Information with additional Personal Information received from publicly accessible sources. We may also receive your information from services you integrate with Drift, from other users of Drift, or from our partners.
 
-We send push notifications from time to time in order to update you about events or promotions. If you no longer wish to receive such communications, you may turn them off at the device level.
+_Integrations_
 
-We may link information we store within the analytics software to Personal Information you submit within the Mobile App. 
+You may enhance the Services by enabling Drift integrations with third-party products. If you provide third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) will be transmitted into your account with us, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. Further, Drift software may request permissions to take actions on your behalf using your third-party account credentials. For example, if you choose to integrate Drift Services with your Google Mail inbox, Drift software will request authority to read incoming messages and send emails on your behalf. 
 
-**3.3. "Personal Information"**
+_Other Users of the Services_
 
-This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.    
+Other users of our Services may provide information about you when they use the Services. For example, we receive your email address from other Service users when they provide it in order to invite you to the Services.
 
-**3.4. "Navigational Information"**
+_Partners_
 
-This refers to information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the "Navigation Information" section below.
+We work with partners who may market, sell, or support our Services. These partners may provide us your Personal Information so that we can contact you. We also may receive your Personal Information from advertising, market research, or data enrichment partners with whom we engage to identify prospective customers.
 
-**3.5. Payment Information**
+**Service Providers who may Receive Your Personal Information**
 
-We collect and process payment information from you when you subscribe to the Subscription Service, including credit cards numbers and billing information, using third party PCI-compliant service providers. Except for this, we do not collect Sensitive Information from you.
+We may employ third-party companies and individuals (our “agents”) to facilitate our Services, to provide the Services on our behalf, to perform complementary services and/or to assist us in analyzing how our Services are used. Examples may include storing data, delivering messages, processing credit card payments, analyzing data, providing marketing assistance, managing our agreements with you, supplementing the information you provide us in order to provide you with better service, and providing customer service. We do not transfer data to non-agent third parties. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are under written obligation not to disclose or use your Personal Information for any purpose other than those disclosed in this Privacy Policy.
 
-**3.6. Information About Children**
+Notwithstanding such legal and contractual obligations between us and such service providers, we remain potentially liable for any misuse of your Personal Information. We will only disclose Personal Information when we are required to do so in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. 
 
-The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at privacy@hubspot.com, so that we may delete the information.
+**Communications; Your Options**
 
-## **4\. How We Use Information We Collect**
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send, or by emailing privacy@drift.com.
 
-**4.1. Compliance with Our Privacy Policy**
+**Security of Personal Information**
 
-We use the information we collect only in compliance with this Privacy Policy. Customers who subscribe to our Subscription Services are obligated through our agreements with them to comply with this Privacy Policy.
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
-**4.2. We Never Sell Personal Information**
+**International Transfer of Personal Information**
 
-We will never sell your Personal Information to any third party. 
+Your Personal Information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those in your jurisdiction. If you are located outside the United States and choose to provide Personal Information to us, please note that we transfer Personal Information to the United States and process it there pursuant to our Privacy Shield Certification.  
 
-**4.3. Use of Personal Information**
+**Links To Other Sites**
 
-In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites and to improve the Subscription Service; (b) send information to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users -- but this information will not be used to identify any individual user. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your unique Personal Information to the third party. In addition, we may share data with trusted partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
+Our Services may contain links to other web sites or online locations that are not operated or controlled by us. If you click on a third-party link, you will be directed to that third party’s site. We strongly advise you to review the privacy policy of every site or location you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
 
-**4.4. Use of Navigational Information**
+**Children’s Privacy**
 
-We use Navigational Information to operate and improve the Websites and the Subscription Service. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about HubSpot. 
+Only persons who are age 18 or older have permission to access our Services. Our Services are not intended to be used by anyone under the age of 13 (“Children”). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a child under age 13 without verification of parental consent, we take steps to remove that information from our servers.
 
-**4.5. Customer Testimonials and Comments**
+**EU-US and Swiss-US Privacy Shield**
 
-We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer's consent via email prior to posting the customer's name and testimonial.
+We comply with the EU-US and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/> In addition to self-assessment, as a participant in the EU-US and Swiss-US Privacy Shield program, we are subject to the investigatory and enforcement powers and authority of the U.S. Federal Trade Commission with respect to maintenance of, and adherence to, this Privacy Policy.  Under certain limited and prescribed circumstances and conditions, you have the right to invoke a “last resort” binding arbitration process between you and us to resolve a dispute related to our collection, use or disclosure of your Personal Information. In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your Personal Information.  European Union and Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at: [privacy@drift.com](mailto:privacy@drift.com) 222 Berkeley Street, 6th FL, Boston, MA, 02216. We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
 
-**4.6. Use of Credit Card Information**
+As a last resort and under certain limited and prescribed circumstances and conditions, you have the right to invoke a “last resort” binding arbitration process between you and us to resolve a dispute related to our collection, use or disclosure of your Personal Information.
 
-If you give us credit card information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf.
+In particular, as further specified in this Privacy Policy, we will maintain compliance with the Privacy Shield principles by adhering to the following practices:
 
-**4.7. Service Providers**
+_Notice_
 
-We employ other companies and people to provide services to visitors to our Websites, our customers, and users of the Subscription Service and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data, providing marketing assistance, processing credit card payments, supplementing the information you provide us in order to provide you with better service, and providing customer service. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
+When we collect your Personal Information, we’ll give you timely and appropriate notice describing what Personal Information we’re collecting, how we’ll use it, and the types of third parties with whom we may share it. This Privacy Policy serves as such notice, and any changes to our collection, use or disclosure of your Personal Information will be reflected in revisions to the Privacy Policy posted on our website.
 
-**4.8. Security of your Personal Information**
+_Choice_
 
-We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When sensitive Personal Information (such as a credit card number and/or geo-location data) is collected on our Websites and/or transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+As established and described in this Privacy Policy, we’ll give you choices about the ways we use and share your Personal Information, and we’ll respect the choices you make.
 
-**4.9. Social Media Features**
+_Accountability for Onward Transfer_
 
-Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our sites. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. This Privacy Policy does not apply to these features.  Your interactions with these features are governed by the privacy policy and other policies of the companies providing them.
+If we transfer your Personal Information to another country, we may remain liable and will take appropriate measures to protect your privacy and the Personal Information we transfer.
 
-**4.10. External Websites**
+_Security_
 
-Our Websites provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Privacy Policy does not apply to these other websites, which are subject to any privacy and other policies they may have.
+We’ll take appropriate physical, technical, and organizational measures to protect your Personal Information from loss, misuse, unauthorized access or disclosure, alteration, and destruction.
 
-**4.11. Public Forums**
+_Data Integrity and Purpose Limitation_
 
-We offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose any information through our public message boards, blogs, or forums, this information may be collected and used by others. We will correct or delete any information you have posted on the Websites if you so request, as described in "Opting Out and Unsubscribing" below.
+We’ll collect only as much Personal Information as we need for specific, identified purposes, and we won’t use it for other purposes without obtaining your consent. We’ll take appropriate steps to make sure the Personal Information in our records is accurate.
 
-**4.12. Retention of Personal Information**
+_Access_
 
-We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about the Subscription Service or our other services, and then we securely delete the information. We will delete this information from the servers at an earlier date if you so request, as described in "Opting Out and Unsubscribing" below. If you provide information to our customers as part of their use of the Subscription Service, our customers decide how long to retain the personal information they collect from you. If a customer terminates its use of the Subscription Service, then we will provide customer with access to all information stored for the customer by the Subscription Service, including any Personal Information provided by you, for export by the customer according to our agreement with our customer. After termination, we may, unless legally prohibited, delete all customer information, including your Personal Information, from the Subscription Service.
+If you wish to confirm the accuracy of your Personal Information or have it removed from our systems and records, you may contact us at the email address, telephone number or postal address provided in the How to Contact Us clause of this Privacy Policy.
 
-**4.13. International Transfer of Information**
+_Recourse, Enforcement and Liability_
 
-To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. This Privacy Policy shall apply even if we transfer Personal Information to other countries.
+We’ll regularly review our continued adherence to these privacy obligations, and we’ll provide and maintain the independent mechanism specified in this Privacy Policy as a way to resolve complaints about our privacy practices.
 
-**4.14. Corporate Events**
+Further, we acknowledge our potential liability for misuse of your Personal Information by us or our third-party service providers, as further set forth in this Privacy Policy.
 
-If we (or our assets) are acquired by another company, whether by merger, acquisition, bankruptcy or otherwise, that company would receive all information gathered by HubSpot on the Websites and the Subscription Service.
+**For EU Users**
 
-**4.15. Compelled Disclosure**
+This section applies only to Users located in the European Union.
 
-We reserve the right to use or disclose your Personal Information if required by law or if we reasonably believe that use or disclosure is necessary to protect our rights or to comply with a law, court order, or legal process.
+**Contact Information for the Data Controller**
 
-## **5\. Navigational Information**
+This paragraph pertains only to individuals for whom Drift is a “controller” within the meaning of [Regulation (EU) 2016/679 of the German Parliament and of the Council of 27 April 2016 (“GDPR”):](http://data.consilium.europa.eu/doc/document/ST-5419-2016-INIT/en/pdf)
 
-**5.1. Cookies**
+Controller of your Personal Information:
 
-We use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Websites, or register for the Subscription Service, a cookie helps us to recall your specific information on subsequent visits. When you return to the same Website, the information you previously provided can be retrieved, so you can easily use the customized features.
+Drift.com, Inc.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the HubSpot Subscription Service or Websites you visit. HubSpot keeps track of the Websites and pages you visit within HubSpot, in order to determine what portion of the HubSpot Website or Subscription Service is the most popular or most used. This data is used to deliver customized content and promotions within the HubSpot Website and Subscription Service to customers whose behavior indicates that they are interested in a particular subject area.
+222 Berkeley Street, Suite 600 
 
-**5.2. Log Files**
+Boston, MA 02116
 
-We may collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites using log files that are not associated with your name or other personally identifying information. There is also information about your computer hardware and software that is automatically collected by us. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by HubSpot for the operation of the Subscription Service, to maintain quality of the Subscription Service, and to provide general statistics regarding use of the HubSpot Website. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.
+Phone: +1 855-266-1567
 
-**5.3. Clear Gifs (Web Beacons/Web Bugs)**
+Email: privacy@drift.com
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage the Website and Subscription Service by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages or in emails and are about the size of the period at the end of this sentence. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. We tie the information gathered by clear gifs in emails to our customers' Personal Information. If you would like to opt-out of these emails, please see "Opting Out and Unsubscribing".
+Representative in the EU:
 
-**5.4. Navigational Information Collected by Our Customers**
+BusinessBrew Marketing Ltd 
 
-Our customers can use the tools we provide, as well as tools provided by third parties, to collect Navigational Information when you visit their webpages on the Subscription Service. HubSpot does not control our customers' use of these tools, nor do we control the information they collect or how they use it. 
+7 Sea Haven 
 
-**5.5. Single Sign-On**
+Greenhill Road
 
-You can log in to our site using a Single Sign-on (SSO) service like your Google account. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Such services may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+Wicklow Town, Wicklow
 
-**5.6. Flash Cookies and Other Third Party Tracking Technologies**
+Ireland 
 
-The Adobe Flash Player (and similar applications) use technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as "Flash cookies." HubSpot does not use Flash cookies.  However, our customers of our software platform may create pages on the HubSpot platform that employ Adobe Flash cookies.  HubSpot does not have access or control over our customers' Flash cookies, but you may access your Flash management tools from Adobe's web site directly.   Similarly, our customers may create pages using the HubSpot Subscription Service that use technology from tracking utility companies, such as cookies and web beacons.   The use of these technologies by our customers is not covered by our privacy statement.  We do not have access or control over these third party tracking technologies.
+Attn: Evelyn Wolf
 
-**5.7. Advertising**
+Email: GDPR.EUrep@drift.com
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here <http://preferences.truste.com/>. Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+Data Protection Officer:
 
-**5.8. Third Party Tracking Technologies**
+Hank Wallace 
 
-The use of cookies and web beacons by any tracking utility company is not covered by our privacy statement.  We do not have access or control over these third party tracking technologies
+Data Protection Officer, Senior Tech Lead
 
-## **6\. Opting Out and Unsubscribing  **
+222 Berkeley Street, Suite 600 
 
-**6.1. Reviewing, Correcting and Removing Your Personal Information**
+Boston, MA 02116
 
-If you provide us with your Personal Information, you have the following rights with respect to that information: 
+DPO@drift.com
 
-  * To review the user information that you have supplied to us 
-  *  To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us 
-  * To request that your user information not be used to contact you 
-  * To request that your user information be removed from any solicitation list that we use 
-  *  To request that your user information be deleted from our records
-  * To opt out of being solicited by HubSpot or third parties 
+_Legal Bases for Processing EU Users’ Personal Information_
 
+We only process your information when we have the legal basis to do so. That is, we will only process your Personal Information when:
 
+  * We need it to provide you the Services;
+  * You give us consent for a specific purpose; or
+  * It satisfies Drift’s legitimate interests (which are not overridden by your data protection interests), such as for improving, marketing, and promoting the Services and protecting our legal rights;
+  * We need to process your data to comply with our legal obligations.
 
-To exercise any of these rights, please contact us at privacy@hubspot.com or by mail to HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, Attention: Privacy. We will promptly change, correct, or delete your information and notify you of the action we have taken.
 
-**6.2. Anti-Spam Policy**
 
-Our Acceptable Use Policy, at [http://www.hubspot.com/acceptable-use](https://www.hubspot.com/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
+_Transfer of EU Users’ Personal Information Outside the EU_
 
-**6.3. To Unsubscribe From Our Communications**
+We may transfer your Personal Information to Drift-affiliated entities in third parties in the United States or other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we transfer Personal Information of customers in the European Economic Area or Switzerland to any such country, we make use of the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, European Commission-approved standard contractual data protection clauses, binding corporate rules, or other appropriate legal mechanisms to safeguard the transfer. Please refer to the Section “EU-US and Swiss-US Privacy Shield” below. 
 
-You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, or by sending us email us at privacy@hubspot.com, or by sending us postal mail to HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or the Subscription Service. 
+_EU Users’ Rights to Control Personal Information_
 
-**6.4. To Unsubscribe from Our Customers' Communications**
+You have control over your Personal Information. Below are the rights you have and the steps you can take to exercise them. Please note that your rights may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your employer are permitted by law or have compelling legitimate interests to keep, and it may take time for us to investigate your request. If you believe that we are not respecting your rights with regard to your Personal Information, you may lodge a complaint with your local supervisory authority.
 
-Our customers are solely responsible for their own marketing emails and other communications; we cannot unsubscribe you from their communications. You can unsubscribe from our customers' marketing communications by clicking on the "unsubscribe" link located on the bottom of their emails, or by contacting them directly.
+_Right to Access_
 
-[](http://privacy.truste.com/privacy-seal/HubSpot-Inc-/validation?rid=edeef904-c1be-4bf2-9593-e668b3295b73)
+You have a right to request a copy of the Personal Information that Drift holds. To request this information, please email us at privacy@drift.com.
+
+_Right to Rectification_
+
+If you believe that any Personal Information that Drift holds is incorrect, you have the right to correct that information. You can change your Drift account information on the “Settings” page, and if you have any further concerns regarding the accuracy of your information, please email us at privacy@drift.com.
+
+_Right to Erasure, Restriction, or Objection to Processing_
+
+If you believe we do not have the right to process your information or you object to our processing for a particular purpose, or if you want us to erase your Personal Information altogether, please email us at privacy@drift.com. 
+
+_Right to Withdraw Consent_
+
+If you gave us consent to process your Personal Information for a particular purpose, you have the right to withdraw that consent by emailing us at privacy@drift.com. Your withdrawal of consent does not affect the lawfulness of our processing of your Personal Information prior to the withdrawal.
+
+_Data Portability_
+
+You have the right to obtain the Personal Information that you have directly submitted to Drift in a format you can transfer to another service provider. If you want to exercise this right, please email us at privacy@drift.com.
+
+**Changes to This Privacy Policy**
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Services after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**How to Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:[privacy@drift.com](mailto:privacy@drift.com) 222 Berkeley Street, 6th Floor, Boston, MA 02116, 855-266-1567
