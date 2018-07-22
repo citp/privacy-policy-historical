@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthlink.net privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511075644id_/https%3A//www.windstream.com/about/legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.net privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722112645id_/https%3A//www.windstream.com/about/legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windstream
 
