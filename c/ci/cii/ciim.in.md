@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciim.in privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622150531id_/http%3A//www.ciim.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciim.in privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723174434id_/https%3A//www.ciim.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
