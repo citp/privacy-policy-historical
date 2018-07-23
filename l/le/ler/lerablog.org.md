@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lerablog.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626001809id_/https%3A//lerablog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lerablog.org privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723231007id_/https%3A//lerablog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -39,3 +39,5 @@ If you have any questions with regards to this privacy policy then please contac
 _If there are any questions regarding this privacy policy, you may contact us using the  [Contact Us](http://lerablog.org/contact/) form on our website or call +420723758648. _
 
 Last Edited on 2016-22-11
+
+[](https://www.pinterest.com/pin/create/button/)
