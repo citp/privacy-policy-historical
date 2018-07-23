@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveitoffline.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621083326id_/http%3A//www.saveitoffline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveitoffline.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723081308id_/http%3A//www.saveitoffline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
