@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetpc.com.au privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522035439id_/http%3A//www.budgetpc.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetpc.com.au privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723021337id_/https%3A//www.budgetpc.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -Cheap Computers, Refurbished and Used Desktop, Notebooks, Custom Built PC ,Brand New Desktop, Notebook, Computer Parts
 
