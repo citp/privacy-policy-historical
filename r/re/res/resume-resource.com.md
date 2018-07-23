@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523165504id_/http%3A//www.resume-resource.com/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723042502id_/https%3A//www.resume-resource.com/legal-privacy-policy) for the most accurate reproduction.*
 
 # Resume-Resource.com Privacy Policy
 
@@ -90,6 +90,6 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How To Contact Resume-Resource.com
 
-Visit our [Contact Us ](http://www.resume-resource.com/us-contact-us/) page for information on how to reach us.
+Visit our [Contact Us ](http://resume-resource.com/us-contact-us/) page for information on how to reach us.
 
 [](https://www.myperfectresume.com/c/13517)
