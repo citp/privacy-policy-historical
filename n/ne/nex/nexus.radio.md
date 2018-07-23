@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexus.radio privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522165238id_/http%3A//nexusradio.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexus.radio privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723101801id_/http%3A//nexusradio.fm/privacy) for the most accurate reproduction.*
 
 # Privacy | Nexus Radio
 
