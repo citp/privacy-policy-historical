@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the hostmybytes.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609011315id_/http%3A//hostmybytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmybytes.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723204158id_/http%3A//www.hostmybytes.com/privacy-policy.php) for the most accurate reproduction.*
 
-# HostMyBytes - Privacy Policy
+# Privacy Policy - HostMyBytes
 
-#### Privacy Policy
+We value customer privacy above all measures and promise 100% security for all information collected and shared through our resources. 
 
-Questions? Contact us. 
+Information We Collect
 
-Customer privacy is important to us. We take measures to ensure that customer information is kept secure. To help you protect your privacy, we provide a short notice on what information we collect and what information we use. 
-
-#### Information We Collect
-
-We collect certain information to help us contact you about your services. This information includes:
+In order to establish seamless contact with our highly valued clients, we ensure to collect the following information:
 
   * Full Name
   * Email address
@@ -20,20 +16,28 @@ We collect certain information to help us contact you about your services. This 
 
 
 
-We do not collect credit or debit card information, as payments are processed off-site by PayPal.
+Under no circumstance, HostMyBytes shall seek information pertaining to credit/debit cards or other financial details. All payments from clients are processed through PayPal.
 
-#### How We Use Information
+How We Use Information
 
-We use the information that you have provided to complete your order(s). We do not share your information with outside parties unless it has been authorized by you.
+Information collected by HostMyBytes is solely for the purpose of completing customer orders. No personal information collected by HostMyBytes can be accessed by any third party. 
 
-We never share or sell personally identifiable information with other parties.
+We do not sell or share any information that can pave way to identifying a single individual. All information shared by HostMyBytes is done so only after authorization for the clients. 
 
-We always provide the option to opt-out of emails from HostMyBytes using the unsubscribe link provided at the bottom.
+Our clients can choose to opt out of our emailing list by simply clicking on the unsubscribe link that comes with the emails. 
 
-#### Data Security Measures
+Our Data Security Measures
 
-We secure data in three parts. We secure our servers physically, their connections, and the software storing their data. Servers are secured physically by mantraps, 24/7 security, and CCTV monitoring. We use encrypted connections to secure their connections through SSL. We secure the data by hardening our servers and performing periodic security checks.
+Our elaborate data security system can be categorized into two ways,
 
-#### How to Contact Us
+* Physical Security:
 
-If you have any questions about our privacy policies, feel free to contact us by emailing support@hostmybytes.com. 
+Our data centers with servers and their software is secured through physical measures such as mantraps, 24/7 CCTV monitoring and round-the-clock personnel monitoring. 
+
+* Virtual Security:
+
+Server connections are protected through SSL certificates and encryption methods. Hardening of servers and regular security checks are the other measures of the data security system at HostMyBytes.
+
+How to Contact Us
+
+We can assure that our security system is one of the best in the industry and in case of any queries, clients can feel free to connect with our experts at support@hostmybytes.com
