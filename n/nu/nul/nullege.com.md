@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nullege.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522150954id_/http%3A//nullege.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nullege.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723101643id_/http%3A//nullege.com/pages/privacy) for the most accurate reproduction.*
 
 # Nullege: A Search Engine for Python source code
 
