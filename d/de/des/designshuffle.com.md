@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designshuffle.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523160946id_/https%3A//www.designshuffle.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designshuffle.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723164029id_/http%3A//www.designshuffle.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignShuffle Blog
 
