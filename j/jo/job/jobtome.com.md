@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobtome.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626155910id_/https%3A//www.jobtome.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtome.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723023603id_/https%3A//www.jobtome.com/policy/privacy) for the most accurate reproduction.*
 
 # Jobtome.com | One site. All jobs.
 
