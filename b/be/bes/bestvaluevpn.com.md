@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestvaluevpn.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523124531id_/http%3A//bestvaluevpn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvaluevpn.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723105508id_/https%3A//bestvaluevpn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best VPN Reviews
 
