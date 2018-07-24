@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jquerybyexample.net privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135502id_/http%3A//jquerybyexample.net/p/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jquerybyexample.net privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724230037id_/http%3A//jquerybyexample.net/p/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This is a personal blog. All the contents of the blog are my own. The content do
 
 The idea is to spread the knowledge. The content of this blog is not intended to cause harm, but if You have any concerns about the contents of this blog, please contact me via e-mail. Disagreeing with the content of the blog does not constitute sufficient ground for you to ask to remove or modify any parts of this blog.
 
-If you own rights to any of the images or articles, and do not wish them to appear on this site, please contact me via e-mail([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3c9d2d6c6d1dac1dac6dbc2ced3cfc6e3c4cec2cacf8dc0ccce)).
+If you own rights to any of the images or articles, and do not wish them to appear on this site, please contact me via e-mail([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9a3b8bcacbbb0abb0acb1a8a4b9a5ac89aea4a8a0a5e7aaa6a4)).
 
   **  Privacy Policy**
 
