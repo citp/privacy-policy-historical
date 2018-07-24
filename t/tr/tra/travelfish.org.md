@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626042230id_/https%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724030200id_/https%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
 
 # Travelfish privacy policy
 
@@ -119,7 +119,7 @@ The Travelfish newsletter is managed by [Aweber](https://www.aweber.com/), and, 
 
 ### Other email communication
 
-Where explicitly requested, we may send emails to readers regarding matters such as password resets, account activations and notifications of replies on the forum. These are all clearly opt in or explicitly requested by the recipient.
+Where explicitly requested, we may send emails to readers regarding matters such as password resets, account activations and notifications of replies on the forum. These are all clearly opt in or explicitly requested by the recipient. In some cases (for automatic emails only) we use Mandrill (a MailChimp service) to send emails in which case your email address and the message is stored on their servers. You can [read up on their privacy policy here](https://mailchimp.com/legal/privacy/).
 
 * * *
 
