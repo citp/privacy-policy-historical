@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babeshows.co.uk privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525061529id_/http%3A//www.babeshows.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babeshows.co.uk privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724214834id_/http%3A//www.babeshows.co.uk/privacy.html) for the most accurate reproduction.*
 
 # UK Babe Channels Forum
 
