@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captaincookscasino.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524141843id_/http%3A//www.captaincookscasino.eu/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captaincookscasino.com privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724223232id_/https%3A//www.captaincookscasino.eu/en/privacy) for the most accurate reproduction.*
 
 # Security : Captain Cooks Casino Privacy Policy
 
