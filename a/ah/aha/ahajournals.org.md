@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621085329id_/http%3A//www.heart.org/HEARTORG/General/Privacy-Policy_UCM_300371_Article.jsp%23.V0iVXfkrJpg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724024338id_/http%3A//www.heart.org/HEARTORG/General/Privacy-Policy_UCM_300371_Article.jsp%23.V0iVXfkrJpg) for the most accurate reproduction.*
 
 # Privacy Statement
 
