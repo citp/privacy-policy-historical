@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516164058id_/https%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724222935id_/https%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - LeagueRepublic
 
