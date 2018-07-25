@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsworldfun.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624065246id_/http%3A//www.kidsworldfun.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsworldfun.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725045829id_/https%3A//www.kidsworldfun.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Kids World Fun - Privacy Policy
 
