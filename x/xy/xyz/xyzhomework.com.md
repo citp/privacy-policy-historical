@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605132634id_/http%3A//www.xyzhomework.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725213730id_/https%3A//www.xyzhomework.com/privacy_policy) for the most accurate reproduction.*
 
 # XYZ Homework - Privacy Policy
 
