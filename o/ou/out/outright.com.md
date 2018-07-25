@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623205612id_/https%3A//www.godaddy.com/Agreements/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726014238id_/https%3A//www.godaddy.com/Agreements/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GoDaddy Respects Your Privacy
 
