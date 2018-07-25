@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525225020id_/https%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725214024id_/https%3A//loopup.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # LoopUp Privacy Policy | Remote Meeting Solution for Professionals.
 
