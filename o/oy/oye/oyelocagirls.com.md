@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyelocagirls.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525014220id_/http%3A//www.oyelocagirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyelocagirls.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725110047id_/http%3A//www.oyelocagirls.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oyeloca Girls Oyeloca Girls
 
