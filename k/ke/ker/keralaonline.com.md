@@ -1,24 +1,58 @@
-> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511111944id_/http%3A//www.asianetindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725042507id_/https%3A//www.asianet.in/privacy) for the most accurate reproduction.*
 
-# Kerala Latest News |Kerala Breaking News |Kerala Latest Headlines
+# Kerala Latest News | Kerala Breaking News | Kerala Latest Headlines | Latest Kerala News | Health | Women | Business | NRI | IT | Sports | News Breaks | News |
 
-### Privacy Policy
+ACV operates the http://www.asianet.in/ website, which provides the SERVICE.
 
-**Information Sharing and Disclosure**
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the http://www.asianet.in/ website.
 
-We will not sell or rent your personally identifiable information to anyone. We will send personally identifiable information about you to other companies or people only when:  
-We have your consent to share the information; We need to share your information to provide the product or service you have requested; We need to send the information to companies who work on behalf of us to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); We respond to court orders or legal process; or We find that your actions on our web sites violate any of our usage guidelines for specific products or services. 
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**Use of IP Addresses**
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at http://www.asianet.in/, unless otherwise defined in this Privacy Policy.
 
-An Internet protocol (I.P.) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your company’s local area network (LAN) or wide area network (WAN). Web servers, the powerful computers that provide web pages for viewing, automatically identify your computer by the IP address assigned to it during your session online. We may collect I.P. addresses for some purposes (for example, to report anonymous user information to our advertisers and to audit the use of our site). We do not ordinarily link a user’s I.P. address to a person’s personal information, which means we will have a record of each user’s session but the user remains anonymous to us. We will use I.P. addresses to identify users of our site when we feel it is necessary to enforce compliance with our site’s terms of use or to protect our service, site, or other users. 
+## Information Collection and Use
 
-**Security**
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
-We have security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Only certain employees have access to the information you provide us. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we try to prevent such unfortunate occurrences.
+## Log Data
 
-**Changes to this Privacy Policy**
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-We may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
+## Cookies
 
-If you have questions about this privacy policy or the practices of this site, please contact us .
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive.
+
+Our website uses these "cookies" to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
+
+## Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+  * To facilitate our Service;
+  * To provide the Service on our behalf;
+  * To perform Service-related services; or
+  * To assist us in analyzing how our Service is used.
+
+
+
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+## Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+## Links to Other Sites
+
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. [This privacy policy was created with the GDPR Generator](https://gdprprivacypolicy.net/).
+
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
