@@ -1,40 +1,7 @@
-<!--The following is the downloaded HTML source of the antsmarching.org privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627233049id_/https%3A//www.antsmarching.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the antsmarching.org privacy policy that was archived on 2018-07-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180725193954id_/https%3A//www.antsmarching.org/privacy.php) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript">
-//console.log("hello");
-var checkRemotePermission = function (permissionData) {
-		console.log(permissionData);
-		if (permissionData.permission === 'default') {
-			console.log('This is a new web service URL and its validity is unknown.');
-			window.safari.pushNotification.requestPermission(
-				'https://www.antsmarching.org/safaripush', 
-				'web.com.antsmarc.safari',        
-				{ "id": '3785' }, 
-				checkRemotePermission           
-			);
-		} else if (permissionData.permission === 'denied') {
-			console.log('The user said no.');
-		} else if (permissionData.permission === 'granted') {
-			console.log('The web service URL is a valid push provider, and the user said yes.');
-			// permissionData.deviceToken is now available to use.
-		}
-	};
-	
-	window.onload = function(){
-		console.log("onload");
-		if ('safari' in window && 'pushNotification' in window.safari) {
-			var permissionData = window.safari.pushNotification.permission('web.com.antsmarc.safari');
-			checkRemotePermission(permissionData);
-		} else {
-			console.log('Push Notifications are available for Safari browser only');
-		}
-	};
-</script>
-
-
-
- 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
 
 <meta name="google-site-verification" content="zAAKqasuihH6YafMuHu91453O9U43PUG7sSztE0fMtw">
 	<title>antsmarching.org: Dave Matthews Band</title>
@@ -356,7 +323,6 @@ var checkRemotePermission = function (permissionData) {
 				<a href="http://www.facebook.com/antsmarching.org">Ants Facebook</a><br>
 				<a href="http://www.instagram.com/antsmarchingorg">Ants Instagram</a><br>
                 <a href="http://www.twitter.com/yetdizzle">Matt's Twitter</a><br>
-                <a href="http://www.twitter.com/snakemoney">Jake's Twitter</a><br>
                 <a href="http://www.twitter.com/joesmile">Joe's Twitter</a><br>
             </td>
        </tr></tbody></table><br>
