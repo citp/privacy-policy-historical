@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledgerwallet.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628041411id_/https%3A//www.ledgerwallet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledgerwallet.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726002638id_/https%3A//www.ledgerwallet.com/privacy-policy) for the most accurate reproduction.*
 
 # Ledger Wallet - Hardware wallets - Smartcard security for your bitcoins
 
