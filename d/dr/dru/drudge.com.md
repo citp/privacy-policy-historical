@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120010654id_/https%3A//www.drudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726001141id_/https%3A//www.drudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Drudge Retort: Privacy Policy
 
