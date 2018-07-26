@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628094408id_/https%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726062552id_/https%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -39,7 +39,7 @@ We will retain your personal information as needed to fulfill the purposes for w
 
 OpenText automatically receives and records information about the use of the website either directly or through third party tracking utility providers. This may include cookies, IP addresses, your browser type, operating system version, language settings, which locally installed OpenText applications you use (if any) and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics. This data is not combined with your personal data collected directly from you.
 
-OpenText utilizes cookies on its website. Click here for [Information About Cookies on this OpenText Website](https://web.archive.org/who-we-are/copyright-information/site-cookies-information).
+OpenText utilizes cookies on its website. Click here for [Information About Cookies on this OpenText Website](https://web.archive.org/about/copyright-information/site-cookies-information).
 
 OpenText uses IP addresses to help diagnose problems and to administer the OpenText website. When you visit our Website, we recognize only your domain name and not your e-mail address. We will see your e-mail address only if you provide it or send us an e-mail message.
 
@@ -77,7 +77,7 @@ You may request from OpenText access to, correction of, blocking of and/or delet
 
 **Privacy Shield**
 
-In compliance with the Privacy Shield Principles, OpenText commits to resolve complaints about our collection or use of your personal information. European Union residents with inquiries or complaints regarding our Privacy Shield policy should direct any such request and any other questions you may have with regard to the Privacy Shield Principles to [OpenText’s Data Protection Officer](https://web.archive.org/who-we-are/copyright-information/gdpr-commitment), whose contact information is listed in the introduction to this Notice.
+In compliance with the Privacy Shield Principles, OpenText commits to resolve complaints about our collection or use of your personal information. European Union residents with inquiries or complaints regarding our Privacy Shield policy should direct any such request and any other questions you may have with regard to the Privacy Shield Principles to [OpenText’s Data Protection Officer](https://web.archive.org/about/copyright-information/gdpr-commitment), whose contact information is listed in the introduction to this Notice.
 
 OpenText commits to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner, as applicable, and comply with the advice given by the panel and Commissioner, as applicable, with regard to human resources data transferred from the EU or Switzerland, as applicable, in the context of the employment relationship.
 
