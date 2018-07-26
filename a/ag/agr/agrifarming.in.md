@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agrifarming.in privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523161611id_/http%3A//www.agrifarming.in/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrifarming.in privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726091019id_/https%3A//www.agrifarming.in/privacyterms) for the most accurate reproduction.*
 
-# Privacy Policy&Terms | Agri Farming
+# Privacy Policy & Terms | Agri Farming
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our on-line information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
