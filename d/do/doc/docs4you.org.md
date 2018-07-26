@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docs4you.org privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017175347id_/http%3A//docs4you.org/legal-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docs4you.org privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726065211id_/http%3A//docs4you.org/legal-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
