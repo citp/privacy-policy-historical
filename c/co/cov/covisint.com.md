@@ -1,101 +1,124 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311123017id_/https%3A//www.covisint.com/enable/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726062552id_/https%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Covisint
+# Privacy and Security Policy | OpenText
 
-[**Download a printable PDF of the Covisint Privacy Policy**](https://web.archive.org/wp-content/uploads/Covisint_privacy_policy-FINAL-04.28.2016.pdf)
+### Introduction
 
-This Privacy Policy (the “Policy”) sets forth Covisint Corporation’s (“Covisint”) policies regarding the collection and use of information relating to any Covisint or Covisint-affiliated web site. Covisint respects your right to privacy and is committed to protecting it. In order to provide you with relevant information, respond to your requests and increase the benefits you receive when visiting our website(s), we may request information about you. We want you to feel secure when providing such information to us and this Privacy Policy is intended to inform you about the type(s) of information we gather and how we use it. The Policy applies to information collected by Covisint.
+This Notice describes OpenText’s privacy practices for information collected on this website. This Notice also applies to OpenText’s affiliates’ websites that link to this Notice. For simplicity both OpenText and any affiliate websites are simply referred to as “the website” in this Notice.
 
-  * The Collection of Personal Data
-  * How We Use the Information We Collect
-  * Cookies
-  * Opt-out
-  * Links to Non-Company Websites
-  * Commitment to Data Security
-  * European Union
-  * Public Forums
-  * Online Job Applications
-  * Issue Resolution
+OpenText supports the right to privacy, including the rights of individuals to control the dissemination and use of personal data that describes them. OpenText is committed to protecting personal data of the users of our website, and utilizes technical and organization measures to protect your data. OpenText supports and complies with domestic and international laws and regulations that seek to protect the privacy rights of such individuals.
 
+This website, is owned and operated by OpenText Corporation, 275 Frank Tompa Drive, N2L 0A1 Waterloo, Canada. Other websites subject to this Notice may be owned and operated by an affiliate company which is under the control of OpenText Corporation. From a data privacy perspective this means that OpenText is data controller and data collector. OpenText’s Data Protection Officer can be reached at [DPO@opentext.com](mailto:DPO@opentext.com) or by mail at:
 
+### Data Collection
 
-### The Collection of Personal Data
+When visiting our website, you are not required to provide any personal data. OpenText relies on consent or other lawful principles established for data collection under applicable laws. Therefore, you have the option to abstain from providing personal data when visiting publicly available portions of the website. However, when registering for an event, subscribing to receive OpenText’s marketing materials or when purchasing or using OpenText’s products or services or in other circumstances, you may be required to provide some or all of the personal data listed below. If you have provided OpenText with your personal data, you have the rights described below in the Data Subject Rights section below.
 
-You may visit a Covisint website without identifying yourself or sharing any personal information. Covisint does collect certain domain information in order to improve and customize your experience on its site(s). Specifically, Covisint may collect the following types of information when you use any Covisint or Covisint-affiliated website:
+OpenText collects additional non-personal data as described in the subsequent section of this Notice (Additional Data Collection Activities).
 
-  * Information you provide directly, including personally identifiable information, when you complete an online registration form for offers, events, user groups, training, trials, demos, etc. or submit an inquiry via email, direct mail, phone or fax.
-  * Information you provide directly, including personally identifiable information, by submitting an online job application.
-  * Usage data, collected via Google Analytics, such as IP address, web browser type/version, operating system and website visit information such as date, time and pages viewed.
-  * Click-through information related to Covisint emails and banner advertisements.
-  * Aggregate, non-personally identifiable information, such as the number of weekly visits or page views to a Covisint website.
+Any data collected may be used in OpenText’s business to provide you the products we offer and to aid in OpenText’s sales and marketing efforts, and may result in you being contacted by OpenText. In some cases, contact information may be required for OpenText to create an account, enable delivery of materials requested on the website or to otherwise communicate with you. This may include: providing product or other requested information, making responses to inquiries, registration for OpenText events, and distributions for marketing purposes. You may also be able to register for OpenText services through the website.
 
+For the purposes mentioned above, OpenText may collect the following personal data about you:
 
-
-### How We Use the Data We Collect
-
-_General:_  
-Covisint may use usage data in aggregated form to:
-
-  * Measure the website’s performance and activity as well as improve the website’s design and functionality.
-  * Work with third-party consultants to develop and distribute statistical and general information to best understand how our customers use the website. Investigate and prosecute security violations.
+  * Full name
+  * Company name
+  * Company location
+  * Position in company
+  * Department
+  * Billing information
+  * Telephone number
+  * Email address
 
 
 
-_Covisint Online Communications:_  
-Covisint will use personally identifiable information, such as name, title, company, and email or other address, to communicate special promotions, events and announcements. This information may also be used to provide the products or services requested, respond to support needs, and/or provide additional information regarding Covisint products or services. If you do not wish to receive future promotional information and material from Covisint, you are offered the option to opt-out of upcoming communications.
+To facilitate its sales and marketing efforts, OpenText may combine the personal data you provide with information that is not collected directly from you. Data not provided directly by you may be supplied by OpenText’s vendors that support its sales and marketing efforts. OpenText uses automated processing within its internal systems to optimize its sales and marketing activities. You may lodge a complaint with OpenText regarding automated processing by submitting it to OpenText using the contact information provided in the introduction to this policy.
 
-Please note that we do not knowingly solicit information from children nor do we knowingly market our products and services to children.
+We will retain your personal information as needed to fulfill the purposes for which it was collected. Personal data collected under this Notice is retained as long as you continue to interact with OpenText’s Sales and Marketing Teams or we have a legitimate business interest to retain your data.
 
-_Information Sharing and Disclosure:_  
-Covisint values your business and strives to protect your privacy. Covisint will never sell or provide your information to list brokers or similar mass marketing entities. We may, however, provide information about you to our business partners and/or to vendors with whom we have contracted to in order to better serve your interests and/or to support targeted promotions. Covisint will provide only the information that is necessary for the third party to provide those services we believe will be beneficial to you and we take measures to protect your information. In such instances, Covisint’s master “opt-out” suppression file will be provided to such third parties in order to prevent unwanted Covisint material from being sent to you.
+### Additional Data Collection Activities (Automatic Information)
 
-Covisint is a global company with customers and partners all over the world. Accordingly, the information we collect may be used, stored and/or processed in the USA or in any other country in which Covisint does business. By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Covisint does business (including those with less adequate levels of protection).
+OpenText automatically receives and records information about the use of the website either directly or through third party tracking utility providers. This may include cookies, IP addresses, your browser type, operating system version, language settings, which locally installed OpenText applications you use (if any) and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics. This data is not combined with your personal data collected directly from you.
 
-### Cookies
+OpenText utilizes cookies on its website. Click here for [Information About Cookies on this OpenText Website](https://web.archive.org/about/copyright-information/site-cookies-information).
 
-A “cookie” is a small text file that is transferred to your browser and stores information about your interactions with a particular website. A cookie is then read by the Web server that placed it on your browser. It works as a sort of identification card, recording your preferences and recalling previously entered information. By using cookies, your navigation time is reduced and use of a website is simplified.
+OpenText uses IP addresses to help diagnose problems and to administer the OpenText website. When you visit our Website, we recognize only your domain name and not your e-mail address. We will see your e-mail address only if you provide it or send us an e-mail message.
 
-Covisint uses two types of cookies:
+OpenText does not ask you for, access or track any location based information from your device. If OpenText wishes to do so in the future to enhance our website, OpenText will specifically ask your permission.
 
-  * A “ **session** ” cookie is temporary and is deleted once you close your browser. Session cookies are used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., the website of an affiliated company). Session cookies can also give helpful information.
-  * A “ **persistent** ” cookie is more permanent and is stored on the hard drive of your computer. Persistent cookies are used to customize a website for a user. They may store passwords, preferences, registration and account information so that users do not have to re-enter this information each time they visit the website.
+As stated above, the collection of personal data is not required for accessing this website. However, OpenText collects the additional data for the maintenance and optimization of its website.
+
+### Data Processing
+
+OpenText utilizes vendors to support the operation of OpenText’s business and for sales and marketing that may receive the data collected under this notice, and these vendors are data processors. However, any such processing is limited to facilitating OpenText’s own activities. OpenText does not share, sell or rent your personal information to any third parties for their promotional purposes.
+
+Additionally, data processors utilized by OpenText are subjected to OpenText’s due diligence process and required to make contractual assurances that they will take adequate precautions to protect your data. OpenText will require such service providers to adopt adequate technical and organizational security measures to ensure the processing of personal data only as instructed by OpenText and for no other purposes.
+
+### Additional Transfers
+
+OpenText may share personal information with its affiliates and with vendors working on our behalf as necessary to complete your requests and to provide you OpenText products and services. We may also share data when required by law or to respond to legal process. OpenText, its affiliates, and/or the vendors may be located in countries that are not considered to provide an adequate level of data protection as established by the European Data Protection Directive (95/46/EG) or the General Data Protection Regulation ((EU) 2016/679) (GDPR), including the United States. Where required under applicable law, OpenText will implement appropriate measures to secure the data transfers in accordance with applicable data protection laws. Such measure may include use of the Model Clauses or the Privacy Shield Framework.
+
+OpenText has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. OpenText remains liable under the Privacy Shield Principles if an agent processes personal data covered by this Notice in a manner inconsistent with the principles, except where OpenText is not responsible for the event giving rise to the damage.
+
+In certain situations, OpenText may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+### Privacy Shield
+
+OpenText complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland to the United States. OpenText has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit the U.S. Department of Commerce’s [Privacy Shield site](https://www.privacyshield.gov/Program-Overview).
+
+The U.S. Federal Trade Commission has jurisdiction over OpenText’s compliance with the Privacy Shield.
+
+Rights you may have under Privacy Shield or applicable regulation, such as the General Data Protection Regulation (GDPR), are described below.
+
+### Data Subject Rights
+
+**Everyone**
+
+You may request from OpenText access to, correction of, blocking of and/or deletion of your personal data in line with applicable data protection law. You may also withdraw your consent for OpenText to process your personal data.
+
+**Privacy Shield**
+
+In compliance with the Privacy Shield Principles, OpenText commits to resolve complaints about our collection or use of your personal information. European Union residents with inquiries or complaints regarding our Privacy Shield policy should direct any such request and any other questions you may have with regard to the Privacy Shield Principles to [OpenText’s Data Protection Officer](https://web.archive.org/about/copyright-information/gdpr-commitment), whose contact information is listed in the introduction to this Notice.
+
+OpenText commits to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner, as applicable, and comply with the advice given by the panel and Commissioner, as applicable, with regard to human resources data transferred from the EU or Switzerland, as applicable, in the context of the employment relationship.
+
+OpenText has further committed to refer unresolved Privacy Shield complaints to [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), an alternative dispute resolution provider located in the United States, with a global presence. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [JAMS](https://www.jamsadr.com/eu-us-privacy-shield) for more information or to file a complaint. The services of [JAMS](https://www.jamsadr.com/eu-us-privacy-shield) are provided at no cost to you.
+
+Under certain circumstances you may invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information please visit the U.S. Department of Commerce’s [Privacy Shield Site](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+
+**Affiliates**
+
+The following OpenText U.S. affiliates also comply with the Privacy Shield Principles:
+
+Actuate Corporation  
+ANXeBusiness, LLC  
+Covisint Corporation  
+Easylink Services International Corporation  
+GXS, Inc.  
+GXS International, Inc.  
+Guidance, Inc.  
+Hightail, Inc.  
+OpenText Inc.  
+Xpedite Systems, LLC
+
+**GDPR**
+
+Data Subjects covered by the GDPR are afforded additional rights including:
+
+  * The Right to be Forgotten: you have the right to request the erasure of the personal data submitted to OpenText; this means you can request OpenText restrict your data from any further processing, and have your data deleted if possible.
+  * Complaints may also be submitted to the applicable supervisory authority in the European Economic Area, which includes the data protection authority in your locality (for example, in the U.K., the supervisory authority would be the Information Commissioner’s Office).
 
 
 
-A cookie cannot be executed as code or deliver viruses. Covisint uses both session and persistent cookies to collect and store information that allows us to offer better customer service and ensure easy navigation through our website(s).
+**Children’s Privacy**
 
-You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
+OpenText encourages parents and guardians to take an active role in their children's online activities. Our Services are not aimed at people under 18 and OpenText does not knowingly collect personal information from children without appropriate parental or guardian consent. If you believe that we may have collected personal information from someone under the age of 13 (or the applicable age of consent) without proper consent, please let us know using the methods described in this Notice.
 
-### Opt-out
+**OpenText Customers**
 
-Covisint provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please e-mail [info@covisint.com](mailto:info@covisint.com?Subject=Please%20Unsubscribe%20Me) and provide your name, e-mail address and subscription you wish to cancel.
+OpenText may also collect personal data from customers as required to provide support and delivery of OpenText products and services. If you have an agreement in place with OpenText for specific OpenText products or services, that agreement takes priority over this Notice; a customer’s use of OpenText or an affiliate’s products and services is governed by the terms of the contract between OpenText or an affiliate and the customer.
 
-### Links to Non-Company Websites
+### Updates to this Privacy Notice
 
-Covisint may provide links to Internet sites maintained by others. Covisint does not review such third-party websites in their entirety and is not responsible for the contents of or any products or services offered by such third-party sites. Covisint encourages you to read the privacy statement of every website you visit whether the site is linked to our or not.
+OpenText may update this Privacy Notice from time to time. If we modify this Privacy Notice, we will post the revised version here. We may also provide notification of material changes by other means such as posting a notice on our website.
 
-Covisint provides these links to you as a convenience and the inclusion of any link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises as a result of your use of the site.
-
-### Commitment to Data Security
-
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-### European Union
-
-Covisint has agreed to comply with all Date Protection Laws applicable to the transfer of Personal Data from a member state of the European Union to a jurisdiction that the EU has declared not to be adequate for data protection purposes by the European Commission..
-
-### Public Forums
-
-This site may make chat rooms, forums, message boards, feedback forms, web logs, “blogs”, news groups and/or other public messaging forums available to its users. Please remember that any information you disclose in these areas becomes public information. You should always exercise caution when deciding to disclose your personal information in these public forums.
-
-### Online Job Applications
-
-Covisint’s website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Covisint will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Covisint will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
-
-All open positions offered by Covisint or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
-
-_How to Update Your Resume/Personal Information:_  
-If you have already submitted your resume or curriculum vitae to Covisint and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the [Careers](https://web.archive.org/company/careers) site to learn more about open positions, candidate eligibility and the interviewing process.
-
-_How to Contact Covisint Recruiting Regarding Your Privacy:_  
-Please e-mail us at [recruiting@covisint.com](mailto:recruiting@covisint.com) if you have any concerns regarding your privacy during the recruiting process.
+**Revised:** 9 May 2018
