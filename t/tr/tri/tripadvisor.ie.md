@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629093317id_/https%3A//tripadvisor.mediaroom.com/ie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726034318id_/https%3A//tripadvisor.mediaroom.com/ie-privacy-policy) for the most accurate reproduction.*
 
 # IE Media Center | Resources
 
