@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innspub.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629053248id_/http%3A//www.innspub.net/innspub-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innspub.net privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726075634id_/https%3A//innspub.net/innspub-privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
