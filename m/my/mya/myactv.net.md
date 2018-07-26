@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527005754id_/http%3A//www.myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727015958id_/http%3A//www.myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Antietam Broadband - High Speed Cable Internet ISP - Hagerstown / Washington County, MD
 
@@ -12,7 +12,7 @@ This policy does not apply to practices of companies that AB does not own or con
 
 ##### The Cable Privacy Act
 
-In addition, as an AB cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20180527005754id_/http%3A//www.myactv.net/legal/privacy-policy-annex-a.php).
+In addition, as an AB cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20180727015958id_/http%3A//www.myactv.net/legal/privacy-policy-annex-a.php).
 
 ##### Information Collection and Use
 
