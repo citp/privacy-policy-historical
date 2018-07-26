@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313010048id_/https%3A//www.fangraphs.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726063243id_/https%3A//www.fangraphs.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FanGraphs Baseball
 
