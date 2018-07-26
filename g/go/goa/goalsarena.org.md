@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goalsarena.org privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817001211id_/http%3A//www.goalsarena.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalsarena.org privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726163029id_/http%3A//www.goalsarena.org/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
