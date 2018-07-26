@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatgo.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527012910id_/http%3A//www.expatgo.com/my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatgo.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727010310id_/https%3A//www.expatgo.com/my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ExpatGo
 
