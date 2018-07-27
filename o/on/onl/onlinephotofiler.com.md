@@ -1,178 +1,171 @@
-> *The following text is extracted and transformed from the onlinephotofiler.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003654id_/https%3A//www.godaddy.com/agreements/showdoc.aspx%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinephotofiler.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727164756id_/https%3A//www.godaddy.com/agreements/showdoc.aspx%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
 
 # Legal Agreement
 
-**Last Revised: August 15, 2017**
+**Last Revised: May 24, 2018**
 
-GoDaddy Respects your privacy
+_**To view our archived Privacy Policy, click  [here](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=27895).**_ _ _  
 
-This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Sites that link to this Privacy Policy and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.  Personally identifiable information (also known as 'personal data') is information about you that can be used, directly or indirectly, to identify you (name, address, telephone number, date of birth, email address, etc.).  Data that does not allow identification of you, for example data anonymized, is not considered personally identifiable information.  
+GoDaddy cares about your privacy.  For this reason, we collect and use personal data only as it might be needed for us to deliver to you our world-class products, services, websites and mobile applications (collectively, our “Services”). Your personal data includes information such as:
+
+  * Name
+  * Address
+  * Telephone number
+  * Date of birth
+  * Email address
+  * Other data collected that could directly or indirectly identify you.
+
+
+
+Our Privacy Policy is intended to describe to you how and what data we collect, and how and why we use your personal data. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process.  
+
+If at any time you have questions about our practices or any of your rights described below, you may reach our Data Protection Officer (“DPO”) and our dedicated team that supports this office by contacting us at [privacy@godaddy.com](mailto:privacy@godaddy.com).  This inbox is actively monitored and managed so that we can deliver an experience that you can confidently trust.  
+
+Likewise, we’ve also created a [Privacy Center](http://www.godaddy.com/help/privacy-center-27875?prog_id=GoDaddy) to provide answers to your most common questions, quick links to access your Account Settings, instructions on how to exercise certain rights that might be available to you, and definitions to key terms and concepts noted in this Privacy Policy. 
+
+**What information do we collect?**
+
+We collect information so that we can provide the best possible experience when you utilize our Services.  Much of what you likely consider personal data is collected directly from you when you:
+
+(1)    create an account or purchase any of our Services (ex: billing information, including name, address, credit card number, government identification);
+
+(2)    request assistance from our award-winning customer support team (ex: phone number); 
+
+(3)    complete contact forms or request newsletters or other information from us (ex: email); or
+
+(4)    participate in contests and surveys, apply for a job, or otherwise participate in activities we promote that might require information about you.   
+
+However, we also collect additional information when delivering our Services to you to ensure necessary and optimal performance.  These methods of collection may not be as obvious to you, so we wanted to highlight and explain below a bit more about what these might be (as they vary from time to time) and how they work:
+
+**Account related information  **is collected in association with your use of our Services, such as account number, purchases, when products renew or expire, information requests, and customer service requests and notes or details explaining what you asked for and how we responded.
+
+**Cookies**   **and similar technologies**  on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services. We may also collect your location (IP address) so that we can personalize our Services. For additional information, and to learn how to manage the technologies we utilize, please visit our [Cookie Policy](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=24668).   
+
+**Data about Usage of Services**  is automatically collected when you use and interact with our Services, including metadata, log files, cookie/device IDs and location information. This information includes specific data about your interactions with the features, content and links (including those of third-parties, such as social media plugins) contained within the Services, Internet Protocol (IP) address, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data, information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and error data, and some of this data collected might be capable of and be used to approximate your location. 
+
+**Supplemented Data  **may be received about you from other sources, including publicly available databases or third parties from whom we have purchased data, in which case we may combine this data with information we already have about you so that we can update, expand and analyze the accuracy of our records, identify new customers, and provide products and services that may be of interest to you.  If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+**How we utilize information.**
+
+We strongly believe in both minimizing the data we collect and limiting its use and purpose to only that (1)  _for which we have been given permission_ , (2)  _as necessary to deliver the Services you purchase or interact with_ , or (3)  _as we might be required or permitted for legal compliance or other lawful purposes_. These uses include:
+
+**Delivering, improving, updating and enhancing the Services we provide to you.   **We collect various information relating to your purchase, use and/or interactions with our Services. We utilize this information to:
+
+  * Improve and optimize the operation and performance of our Services (again, including our websites and mobile applications)
+  * Diagnose problems with and identify any security risks, errors, or needed enhancements to the Services
+  * Detect and prevent fraud and abuse of our Services and systems
+  * Collecting aggregate statistics about use of the Services
+  * Understand and analyze how you use our Services and what products and services are most relevant to you.
+
+
+
+Often, much of the data collected is aggregated or statistical data about how individuals use our Services, and is not linked to any personal data, but to the extent it is itself personal data, or is linked or linkable to personal data, we treat it accordingly. 
+
+**Sharing with trusted third parties.  **We may share your personal data with affiliated companies within our corporate family, with third parties with which we have partnered to allow you to integrate their services into our own Services, and with trusted third party service providers as necessary for them to perform services on our behalf, such as:
+
+  * Processing credit card payments
+  * Serving advertisements
+  * Conducting contests or surveys
+  * Performing analysis of our Services and customers demographics
+  * Communicating with you, such as by way email or survey delivery
+  * Customer relationship management.
+
+
+
+We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent).
+
+**Communicating with you.  **We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. ** ** We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
+
+  * Email
+  * Text (SMS) messages
+  * Telephone calls
+  * Automated phone calls or text messages.
+
+
+
+You may also update your subscription preferences with respect to receiving communications from us and/or our partners by signing into your account and visiting “Account Settings” page. 
+
+If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy policy applies. In addition, it will describe any choice options you have in regards to the use and/or sharing of your personal data with a co-branded partner, as well as how to exercise those options.
+
+If you make use of a service that allows you to import contacts (ex. using email marketing services to send emails on your behalf), we will only use the contacts and any other personal information for the requested service. If you believe that anyone has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).
+
+**Transfer of personal data abroad**.  If you utilize our Services from a country other than the country where our servers are located, your communications with us may result in transferring your personal data across international borders. Also, when you call us or initiate a chat, we may provide you with support from one of our global locations outside your country of origin. In these cases, your personal data is handled according to this Privacy Policy.
+
+**Compliance with legal, regulatory and law enforcement requests**. We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
+
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. We will also share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations and policies when you register a domain name with us.
+
+**Website analytics**.  We use multiple web analytics tools provided by service partners such as Google Analytics, MixPanel and Singular to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our [Cookie Policy](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=24668) or the ‘cookie banners” that may be presented (depending on URL of website visited) when you first visit our webpages, or by utilizing settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect), [Ghostery](https://www.ghostery.com/) and others.
+
+**Targeted advertisements.  **Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own.  These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites.  Our third party partners may use technologies such as cookies to gather information about such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
+
+**Third-party websites**.  Our website and our mobile applications contain links to third-party websites. We are not responsible for the privacy practices or the content of third-party sites.  Please read the privacy policy of any website you visit.
+
+**The E.U-U.S and Swiss-U.S. Privacy Shield Frameworks.**
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
 
-**EU-U.S. Privacy Shield**
+Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Mad Mimi, Inc. and Media Temple, Inc.) participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework.  Go Daddy Operating Company, LLC is committed to subjecting all personal data received from the EU or Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Go Daddy Operating Company, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of [Commerce’s Privacy Shield List](https://www.privacyshield.gov/list)
+Go Daddy Operating Company, LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Go Daddy Operating Company, LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-Go Daddy Operating Company, LLC is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Go Daddy Operating Company, LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+With respect to personal data received or transferred pursuant to each Privacy Shield Framework, Go Daddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Go Daddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-With respect to personal data received **** or **** transferred pursuant to the Privacy Shield Framework, Go Daddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Go Daddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+**How you can access, update or delete your data.**
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted
+To easily access, view, update, delete or port your personal data (where available), or to update your subscription preferences, please sign into your Account and visit “Account Settings.” Please visit our [Privacy Center](http://www.godaddy.com/help/privacy-center-27875?prog_id=GoDaddy) for additional information and guidance for accessing, updating or deleting data. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
 
-**Information Collection and Use**
+If you are unable for any reason to access your Account Settings or our Privacy Center, you may also contact us by one of the methods described in the “Contact Us” section below.  
 
-A).  Contact Forms
+**How we secure, store and retain your data.**
 
-Our Site and mobile applications use forms to collect contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you.
+We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored, including utilization of encryption where appropriate.
 
-We receive and store any information you enter on our Site or mobile applications, or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
+We retain personal data only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:
 
-We use your information to contact you regarding functionality changes to our products, our Site and mobile applications, new GoDaddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * mandated by law, contract or similar obligations applicable to our business operations;
+  * for preserving, resolving, defending or enforcing our legal/contractual rights; or
+  * needed to maintain adequate and accurate business and financial records.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. In addition, it will also describe any choice options the individual has in regards to the use and/or sharing of PII by the participant and its co-branded partner, as well as how to exercise those options.
 
-Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Mad Mimi to send emails on your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).
 
-B.  Cookies and Other Tracking Technologies 
+If you have any questions about the security or retention of your personal data, you can contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).
 
-Our Site and mobile applications use cookies and/or other tracking technologies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  You can control the use of cookies, at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.   ** _For additional information, and to manage how we use cookies, web beacons and similar technologies on your devices, please click  [here](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=24668). _**
+_**‘Do Not Track’**_ **  notifications.**
 
-Within our Site and mobile applications we and our partners, affiliates, and/or analytics or service providers use technologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site and mobile applications, track users' movements around the Site and mobile applications, and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis. 
+Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-C.  Protocol Data
+**Age restrictions.**
 
-As is true of most websites, we gather certain information automatically and store it in log files.  This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data.  We use this information gathered about you from our Site or mobile application to help personalize search results, diagnose problems with our server, and to administer our Site and mobile applications. We also gather broad demographic information from this data to help us improve our Site and mobile applications and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Our Services are available for purchase only for those over the age of 18.  Our Services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 18. If you know of or have reason to believe anyone under the age of 18 has provided us with any personal data, please contact us.
 
-D.  Tracking
+**Changes in our Privacy Policy.**
 
-We also use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile applications automatically collect the device's operating system, phone model, app version, and device ID, and customer number.  We report this data back to our GoDaddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our applications and services for those user types. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-E.  Geographic Data
+**Data Protection Authority.**
 
-With your express consent, we may access and track location data from your device in order to personalize results such as user favorite domain name selections.  We do not tie any personally identifiable information about you to any of the location tracking technologies that we use, and we do not track location data when our mobile applications are not in use.  You may withdraw your consent for us to use location data at any time by turning off the location services setting on your device. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
 
-F.  Mobile Applications
+[www.ico.org.uk](http://www.ico.org.uk/)
 
-We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone.  This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.  We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile applications. 
+Information Commissioner’s Office
 
-This Site and our mobile applications contain links to third party websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
+Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
 
-G.  Whois Data
+Phone: 0303 123 1113
 
-For domain name registrations, please review the privacy portion (where available) of the [Registry Policies](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=20012) for the top-level domain in which you wish to or have registered a domain name to better understand how your WHOIS data is utilized by the individual registry.
+**Contact us.**
 
-**Security**
+If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [privacy@godaddy.com](mailto:privacy@godaddy.com).  In the alternative, you may contact us by either of the following means:
 
-We use security measures to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+  * By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal, Office of the DPO, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA. 
+  * By Phone: (480) 505-8877.
 
-We follow generally accepted standards to protect the personal information transferred to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).   We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.  
 
-**Contacting You  
-**
 
-From time to time, GoDaddy or someone acting on behalf of GoDaddy may contact you, to confirm your orders, to send information to you, and to provide you with offers for services.  The contacts may occur by e-mail, telephone, or text message.  In accdordance with applicable law, and where you have provided valid consent, you may receive marketing telephone calls from or on behalf of GoDaddy, which may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  By providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply. 
-
-Any information you send to us may be stored and used to improve this Site, our mobile application, and our products, or it may be reviewed and discarded.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-**Google Analytics**
-
-We use a tool called “Google Analytics” to collect information about use of this Site, such as how often users visit the Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site.  Google Analytics collects only the IP address assigned to you on the date you visit this Site, rather than your name or other identifying information. 
-
-Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site.  This cookie cannot be used by anyone but Google, Inc.  The information generated by the cookie will be transmitted to and stored by Google on servers in the United States.
-
-We use the information received from Google Analytics only to improve services on this Site.  We do not combine the information collected through the use of Google Analytics with personally identifiable information. 
-
-Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the [Google Privacy Policy](http://www.google.com/policies/privacy/).  You can prevent Google Analytics from recognizing you on return visits to this Site by [disabling the Google Analytics cookie](https://tools.google.com/dlpage/gaoptout/) on your browser.
-
-**For Website Builder Users Only**
-
-Website Builder incorporates the Google Places API.  Google's ability to use and share information collected by the Google Places API is governed by the [Google Privacy Policy](http://www.google.com/policies/privacy/).
-
-**Supplementation of Information**
-
-We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you.  This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you.  If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
-Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include information from our strategic partners, service providers, or the United States Postal Service.  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**“Do Not Track” Signals    **
-
-Note that your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit ([www.allaboutdnt.com](http://www.allaboutdnt.com/)).  
-
-**Targeted Advertisements**  
-
-GoDaddy may display targeted, or interest-based, offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
-
-We also partner with third parties to manage our advertising on other websites.  Our third party partners may use technologies such as cookies to gather information about your activities on this Site and other websites in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.  If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
-
-We also use a tool called Sizmek to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of Sizmek, click [here](http://media.godaddy.com/optout.html) (or if located in the European Union, click [here](http://www.youronlinechoices.eu/)). Please note that opting out of targeted advertisements does not completely opt you out of being served with ads.  You will continue to receive generic ads.  
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [privacy@godaddy.com](mailto:privacy@godaddy.com) to request the removal of this information from our database.  If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).
-
-**What Happens to my Personally Identifiable  Information if I Terminate my GoDaddy Account?**
-
-When your GoDaddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant GoDaddy databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Updating Your Information  **
-
-You may alter or update your account information or opt out of receiving communications from us and our partners at any time by accessing your Account online (Accounts Settings > Contact Preferences). 
-
-Please note, where your personal information is reasonably necessary for the provisioning of the products or services you have purchased, or for the operation of our network, the collection, use and disclosure of personal information is required and you cannot opt-out or delete the information without terminating your products/services.  If your personal information is not reasonably necessary for the provisioning of the services you have requested or the operation of our network, you will have the choice to withdraw your consent by opting out.  For example, where you have provided express consent for the use of specific product or services for marketing purposes, you can opt-out later on as you like.  Similarly, you can opt-out of your personal information being used for a variety of marketing communications by us, including telemarketing or addressed marketing mail, or commercial electronic messages like emails and SMS messages, at any time by revisiting Contact Preferences in your Account Settings. 
-
-**Access**
-
-Upon request we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  You may access, correct, or request deletion of your personal information by contacting us at any of the addresses below: 
-
-  1. Access your [Account](https://sso.godaddy.com/) online (Accounts Settings > Contact Preferences) [*Note that this is not an option for deactivation]
-  2. You may send mail to GoDaddy at the following postal address:   
-14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA
-  3. You may call us at: (480) 505-8877
-  4. You may send an email to [hq@godaddy.com](mailto:hq@godaddy.com)
-
-
-
-To deactivate your account, please contact our Support team for the fastest service at (480) 505-8877. If you are an international customer, you may find a list of our support phone numbers listed [here.](https://www.godaddy.com/contact-us.aspx) We have the following options for changing, terminating, and modifying your account information or contact preferences.
-
-We will respond to your request for access or to modify or deactivate your information within thirty (30) days. 
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. Furthermore, you acknowledge and agree that in order to best and promptly service our customers' requests, inquiries and/or issues, our customer support operations, including support provided via telephone and chat, are spread around the world (click [here](https://www.godaddy.com/contact-us.aspx) for list of Global Support locations and phone numbers or to chat with a representative). Accordingly, when you originate a call or chat from your country of residence, it is possible that the call or chat will be supported by a representative in another country (including, for example, one outside of the EEA), and that such information provided will be transferred to that country.  In any event, your information will be processed in accordance with this Privacy Policy.  By visiting this Site, calling or chatting with our customer service representatives, or otherwise communicating electronically with us, you consent to such transfers.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site or our mobile application, or your dealings with this Site or our mobile application, please contact us at:
-
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.  
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**_We will respond to all requests, inquiries or concerns within thirty (30) days._**
