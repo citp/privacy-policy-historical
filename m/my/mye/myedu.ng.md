@@ -1,29 +1,36 @@
-> *The following text is extracted and transformed from the myedu.ng privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215226id_/https%3A//myedu.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myedu.ng privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727133218id_/http%3A//ww4.myedu.ng/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-This privacy policy document outlines the categories of private information is received and picked up by **myedu.ng and all Applications.  **
+* **Overview**
 
-and how it’s used.Log Files Like several different websites, **myedu.ng**  makes use of log files. the data within the log files includes web protocol ( IP ) addresses, variety of browser, web Service supplier ( ISP ), date/time stamp, referring/exit pages, and range of clicks to investigate trends, administer the positioning, track user’s movement round the web site, and gather demographic info.
+Thank you for visiting ww4.myedu.ng (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-IP addresses, and different such info aren’t linked to any info that’s personally identifiable.Cookies and net Beacons **myedu.ng**  will use cookies to store info concerning guests preferences, record user-specific info on that pages the user access or visit, customize website content based mostly on guests browser kind or different info that the visitor sends via their browser.
+* **What Type of Information We Collect**
 
-DoubleClick DART Cookie.:: Google, as a 3rd party vendor, uses cookies to serve ads on **myedu.ng**.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-Google’s use of the DART cookie enables it to serve ads to users based mostly on their visit to **myedu.ng**  and other sites on the web..:: Users might opt out of the employment of the DART cookie by visiting the Google ad and content network privacy policy at the subsequent URL- http://www.google.com/privacy_ads.html .Some of our advertising partners may use cookies and net beacons on our web site. Our advertising partners embody …
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-.Google AdsenseAmazon These third-party ad servers or ad networks use technology to the advertisements and links that seem on **myedu.ng**  send on to your browsers.
+* **Uses May Include**
 
-They automatically receive your IP address when this happens. different technologies ( like cookies, JavaScript, or net Beacons ) can also be utilized by the third-party ad networks to live the effectiveness of their advertisements and / or to personalize the advertising content that you simply see. **myedu.ng** has no access to or management over these cookies that are utilized by third-party advertisers.
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-You should consult the respectiveprivacy policies of those third-party ad servers for a lot of detailed info on their practices likewise as for directions concerning the way to opt-out of bound practices. **myedu.ng** ’s privacy policy doesn’t apply to, and that we cannot management the activities of, such different advertisers or websites.
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-If you want to disable cookies, you will do thus through your individual browser choices. a lot of detailed info concerning cookie management with specific net browsers is found at the browsers’ respective websites.
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-In any case  you have any questions about  our Privacy Policy please feel free to contact us by using the form below
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-y also manually insert the shortcode into a post/page.
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-**STUDY IN GHANA & TURKEY  :: 2015 March Spring semester Admission now in progress  (GHANA and TURKEY) **,   
-***Want to study in Ghana ?* ** ::   [Click here to Apply!](http://myedu.ng/study-in-ghana/)   
-***Want to study in Turkey*** ::      [Click here to Apply!](http://myedu.ng/study-in-eastern-mediterranean-university/)
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
