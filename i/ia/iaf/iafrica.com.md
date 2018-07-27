@@ -1,56 +1,33 @@
-> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215120137id_/http%3A//www.iafrica.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727105907id_/https%3A//www.iafrica.com/privacy-policy) for the most accurate reproduction.*
 
-# iafrica.com
+# Privacy Policy - iAfrica.com
 
-__
+iAfrica is committed to respecting and protecting the privacy of those who use iafrica.com.
 
-**PRIVACY POLICY**
+Contact us by sending an email to  **iafrica @ africa.com**
 
-The following discloses the information gathering and dissemination practices for the iafrica.com website. (Please note that this site contains links to other sites and that iafrica.com is not responsible for the privacy practices or the content of those sites.)
+### This statement outlines how we handle any personal information we obtain.
 
-**What type of information we collect and how it is used**
+From time to time, we may ask for data that identifies you, as in user surveys or orders placed through our site. We use this information to operate this site, provide you with the highest quality services and offer you opportunities we think will be of interest.
 
-iafrica.com collects contact information (like name, address, telephone number and email address) during, but not limited to, registration processes and competition entries. Your personal information is used for demographic statistics and to display appropriate individualized advertisements and content. iafrica.com may also use this information to contact you for the purposes of answering queries, or notification of a change to services or for the purposes of notifying you of successful competition entries.
+You also may choose to provide information about yourself by participating in various forums we intend to offer for readers. You should remember that when you yourself voluntarily disclose personal information to other Internet users, such as when you include personal information in a posting to an online discussion forum, that information could be used by others and may result in unsolicited messages or other forms of attention.
 
-iafrica.com will not send you unsolicited information, including email, regarding any third party commercial offers or advertisements, unless your prior consent has been received.
+iAfrica.com uses IP addresses to analyze traffic and administer this site. IP addresses track individual computers and do not contain personally identifiable data. In order to describe our services to prospective partners, advertisers and others, we may disclose user information, but only in a form that does not identify individuals. For example, we might disclose that a certain percentage of our users are female or within a certain age range.
 
-**How we protect your information**
+## E-Commerce
 
-iafrica.com keeps all of your personal information private and does not provide or sell this information to any third parties. Personal information collected by iafrica.com is stored in secure operating environments that are not available to the public.
+When iafrica.com offers items for sale, information is collected to process the orders and is used only in relation to that transaction. It is not sold to other vendors. We also host or provide links to advertisers, sponsors and online stores that sell a variety of goods and services. These vendors may ask you for information, such as your name and credit card number. iAfrica.com does _not_ collect, use or disclose this information, nor does it own or control the vendors or have responsibility for transactions made by those merchants. If you would like to know more about the information collected when you participate in e-commerce through this site, please contact the merchants directly.
 
-iafrica.com will not disclose your personal information unless acting under a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; or (2) act to protect the interests of its members or others.
+## Cookies
 
-**Contacting us**
+A “cookie” is a small data text file that can be placed in your browser to enable a server to recognize you each time you visit this site. Cookies are necessary for this and other sites to provide individualized services, such as subscriptions.
 
-If at any time you believe that iafrica.com has not adhered to these principles, please notify us by email at [development@primediaonline.co.za](mailto:development@primediaonline.co.za) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+Cookies themselves do not contain any personal information, nor does iAfrica.com use cookies to collect personal information. In addition to recognizing subscribers, our cookies may sometimes be used to track which parts of our site you have used so that we can better serve you when you return. Advertisers may use cookies to determine or control how many times you see their message or to customize the message you are presented.
 
-This privacy statement applies specifically to the iafrica.com service. Questions regarding this statement should be directed to [development@primediaonline.co.za](mailto:development@primediaonline.co.za).
+## Email
 
-**PAIA Manual**
+iAfrica.com will _never_ give your email address to anyone else. We will only send you mail in response to your questions, as follow-up to your transactions, or as part of services for which you have signed up.
 
-In terms of the Promotions of Access to Information Act 2 of 2000, and the Constitution, everyone has the right of access to any information held by any public and private body. In this regard and as required to in terms of S51 of the Act, the Company has prepared a consolidated manual for itself and its subsidiaries/divisions which contains the publication and availability of certain records.  
-Should you wish to view or download the updated Manual Access to Information, please click [here](http://www.primediaonline.co.za/wp-content/uploads/2015/11/Manual-Access-to-Information-20151.pdf "Manual Access to Information 2015").
+## Disclosing Information to Others
 
-### In Focus Today
-
-  * News
-  * Business
-  * Sport
-
-
-
-Which things do South Africans trust more than President Jacob Zuma? It turns out, a lot, including Eskom. 
-
-[Read more ›](https://web.archive.org/articles/1015418.html)
-
-The year 2015 was an eventful one in the markets, with investors being reminded by events in Greece and China how quickly seemingly calm seas can turn choppy.
-
-[Read more ›](https://web.archive.org/articles/1015328.html)
-
-Jose Mourinho insists he will fight to stay as Chelsea manager after accusing his players of betraying him in their 2-1 defeat at Premier League leaders...
-
-[Read more ›](https://web.archive.org/articles/1015424.html)
-
-### Subscribe to our Newsletters
-
-__
+iAfrica.com will only disclose personal information when required to do so by law or when we have your explicit permission to do so.
