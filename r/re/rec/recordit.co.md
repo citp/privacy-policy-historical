@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordit.co privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623234736id_/http%3A//help.recordit.co/recordit-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordit.co privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727195055id_/http%3A//help.recordit.co/recordit-privacy-policy) for the most accurate reproduction.*
 
 # » Recordit Privacy Policy Recordit Help
 
