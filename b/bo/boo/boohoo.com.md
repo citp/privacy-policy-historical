@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619152654id_/http%3A//www.boohoo.com/page/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727060432id_/https%3A//www.boohoo.com/page/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice at boohoo.com
 
@@ -142,7 +142,7 @@ To create an account and register you as a new customer (either directly or via 
 
   
   
-To process and deliver your order including: recording your order details; keeping you informed about the order status; process payments and refunds, collect money owed to us; and assist fraud prevention and detection.
+To process and deliver your order including: recording your order details; keeping you informed about the order status; process payments and refunds, collect money owed to us; and automated decision making to assist fraud prevention and detection.
 
 | 
 
@@ -155,6 +155,7 @@ To process and deliver your order including: recording your order details; keepi
 
   * Performance of a contract with you
   * Necessary for our legitimate interests (e.g. to recover debts due to us)
+  * For automated decision making we consider that fraud detection and prevention is in our legitimate interests to ensure that fraudulent transactors are unable to benefit from our services and in the legitimate interest of the public as whole due to the impact of fraud on the consumer market; we also consider it a necessary element of entering into a contract with you that we are able to verify your identity and prevent fraud.
 
   
   
@@ -357,6 +358,8 @@ We may disclose and share your personal data with the parties set out below:
 
   * to any third party to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
   * to protect our customers and website from fraud and theft, we may share personal data that is required to make identity checks and personal data that we obtain from making identity checks (including data relating to your age, name and location), together with account information, with organisations (including law enforcement agencies), involved in fraud prevention and detection and credit risk reduction. Please note that these third parties may retain a record of the information that we provide to them for this purpose;
+    * we may share your personal data with Ravelin and/or Risk Guardian and/or other fraud prevention and analysis service providers, in order to carry out fraud prevention checks on our behalf. If personal data is provided to Ravelin, Ravelin will also use this personal data to improve its service and machine learning to improve its automated processing. A copy of Ravelin's privacy notice can be found at:[ https://www.ravelin.com/privacy-policy-new ](https://www.ravelin.com/privacy-policy-new) which explains how Ravelin will use your personal data for these purposes; and
+    * we may further share personal data that is required to make identity checks and personal data that we obtain from making identity checks (including data relating to your age, name and location), together with account information, with organisations (including law enforcement agencies), involved in fraud prevention and detection and credit risk reduction. Please note that these third parties may retain a record of the information that we provide to them for this purpose;
   * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or
   * to our professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
 
@@ -380,7 +383,7 @@ You have several rights under the data privacy legislation. This includes, under
   * request restriction of processing of your personal data
   * request the transfer of your personal data 
   * object to processing of your personal data 
-  * object to automated decision making
+  * request human intervention for automated decision making
 
 
 
@@ -410,9 +413,9 @@ You have the right to obtain a digital copy of your personal data or request the
 
 You have the right to object to the processing of your personal data where we believe we have a legitimate interest in processing it (as explained above). You also have the right to object to our processing of your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your data which override your rights and freedoms.
 
-**Object to automated decision making and profiling**
+**Request human intervention for automated decision making and profiling**
 
-You have the right to object to the automated processing of your personal data without human intervention. This form of processing is permitted where it is necessary as part of our contract with you, providing that appropriate safeguards are in place or your explicit consent has been obtained.
+You have the right to request human intervention where we are carrying out automated decision making when processing your personal data. This form of processing is permitted where it is necessary as part of our contract with you, providing that appropriate safeguards are in place or your explicit consent has been obtained.
 
 We will try to respond to all legitimate requests within one month. Occasionally, it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. We may need to request specific information from you to help us confirm your identity and ensure your right to exercise any of the above rights. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it.
 
@@ -430,7 +433,7 @@ We welcome feedback and are happy to answer any questions you may have about you
 
 Please send any questions, comments or requests for more information to our nominated representative and Data Protection Officer Keri Devine, who can be contacted at [DPO@boohoo.com](mailto:DPO@boohoo.com).
 
-This privacy notice was last updated on 18th June (Version v1.3)
+This privacy notice was last updated on 2nd July 2018 (Version v1.4)
 
 Boohoo.com UK Limited,
 
