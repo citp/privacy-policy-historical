@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623054235id_/http%3A//www2.belkin.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727054219id_/https%3A//www.belkin.com/us/privacypolicy) for the most accurate reproduction.*
 
 # BELKIN PRIVACY POLICY
-
-[French](https://web.archive.org/us/privacypolicy-fr-ca)
 
 We at Belkin are committed to protecting your privacy. Our goal is to provide you with a positive experience on our websites and when using our apps, products and services, while at the same time keeping your Personal Information, as defined below, secure. Our privacy practices are described below, as well as in separate notices given when an app, product or service is purchased or downloaded (our " _Privacy Policy_ "). This Privacy Policy covers all Belkin products and Belkin websites. By visiting Belkin websites, using Belkin products or providing us with your Personal Information (as defined below), you are accepting and consenting to the practices, terms and conditions described in this Privacy Policy.
 
