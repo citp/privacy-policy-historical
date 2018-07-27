@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openbux.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209071726id_/http%3A//www.openbucks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openbux.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727064337id_/http%3A//www.openbucks.com/privacy.html) for the most accurate reproduction.*
 
 # Openbucks® - Privacy Policy
 
@@ -24,7 +24,7 @@ We may collect information from you when you use our services through the Openbu
 
 ## Accessing Your Personal Information
 
-If you register as a user at the Openbucks Site, you may change or update the personal information we have collected from you by going to the My Account page and clicking the “Edit Account Info” button or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8dbddd8d8c7dadce8c7d8cdc6caddcbc3db86cbc7c5). Choosing to withhold or remove certain information may interfere with your ability to utilize the Openbucks Service to its fullest potential. While changes you make will be reflected in active user databases promptly, we reserve the right to retain any information you provide for a variety of reasons, including fraud and abuse prevention, archival backups, and data analytics.
+If you register as a user at the Openbucks Site, you may change or update the personal information we have collected from you by going to the My Account page and clicking the “Edit Account Info” button or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9c9a9f9f809d9baf809f8a818d9a8c849cc18c8082). Choosing to withhold or remove certain information may interfere with your ability to utilize the Openbucks Service to its fullest potential. While changes you make will be reflected in active user databases promptly, we reserve the right to retain any information you provide for a variety of reasons, including fraud and abuse prevention, archival backups, and data analytics.
 
 We or service providers working on our behalf may use the information we collect from and about you for any of the following purposes: (1) to communicate with you regarding our services and regarding your use of the Openbucks Service; (2) to otherwise fulfill your requests for products and services purchased from Openbucks Merchants; (3) to respond to your inquiries; (4) to provide you with targeted content, offers and advertising, such as special offers from Openbucks Merchants or that you have purchased through the Openbucks Service; (5) to contact you when necessary; (6) to ensure that Openbucks Service users are adults and otherwise comply with the Terms; (7) to review Openbucks Service usage and operations and conduct internal marketing and operational research; (8) to address problems with the Openbucks Service, our business or our products and services; and (9) to protect the security or integrity of the Openbucks Service and our business, including detecting and addressing fraud and abuse. We or our service providers may also use the information we have collected from and about you to contact you with promotional materials and offers from us, as well as from our related companies, marketing partners, advertisers and other third parties.
 
@@ -39,15 +39,15 @@ We care about your privacy, and we will not share your personal information with
 
 
 
-You may opt-out of being an Openbucks user at any time by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#582b2d2828372a2c1837283d363a2d3b332b763b3735).
+You may opt-out of being an Openbucks user at any time by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dba8aeababb4a9af9bb4abbeb5b9aeb8b0a8f5b8b4b6).
 
 We use certain physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant against all risks with regards to the security of any information you transmit to us, and so of necessity you do so at your own risk. Once we receive your transmission of information, we again take steps to ensure the security of your information on our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If we learn of a security systems breach that affects the privacy of your personal information, then we will attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice through the Openbucks Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0c3c5c0c0dfc2c4f0dfc0d5ded2c5d3dbc39ed3dfdd).
+If we learn of a security systems breach that affects the privacy of your personal information, then we will attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice through the Openbucks Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d7e787d7d627f794d627d68636f786e667e236e6260).
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Openbucks, at all times.
 
-If you have any questions about security on our Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#285b5d5858475a5c6847584d464a5d4b435b064b4745).
+If you have any questions about security on our Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed9e989d9d829f99ad829d88838f988e869ec38e8280).
 
 ## Customer Testimonials/Comments/Reviews
 
@@ -59,7 +59,7 @@ The Openbucks Service may contain links to third-party websites, which may have 
 
 ## Children
 
-Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of the Openbucks Service is directed to persons under 13, which is expressly limited to use by persons 18 years of age or above. IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE OPENBUCKS SERVICE AT ANY TIME OR IN ANY MANNER. If we learn that personally identifiable information of persons less than 13-years-of-age has been collected on the Openbucks Service without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an account on the Openbucks Service, then you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cebdbbbebea1bcba8ea1beaba0acbbada5bde0ada1a3) and request that we delete that child’s personal information from our systems.
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of the Openbucks Service is directed to persons under 13, which is expressly limited to use by persons 18 years of age or above. IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE OPENBUCKS SERVICE AT ANY TIME OR IN ANY MANNER. If we learn that personally identifiable information of persons less than 13-years-of-age has been collected on the Openbucks Service without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an account on the Openbucks Service, then you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cefe9ececf3eee8dcf3ecf9f2fee9fff7efb2fff3f1) and request that we delete that child’s personal information from our systems.
 
 We may change this Privacy Policy from time to time. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our homepage. 
 
@@ -71,4 +71,4 @@ Openbucks Corp.
 440 N. Wolfe Rd. #3036   
 Sunnyvale CA, 94085  
 (650) 492-6092  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f5c5a5f5f405d5b6f405f4a414d5a4c445c014c4042)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcec8cdcdd2cfc9fdd2cdd8d3dfc8ded6ce93ded2d0)
