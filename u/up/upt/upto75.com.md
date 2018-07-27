@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110512id_/http%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727184824id_/https%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # UPto75: Never Miss A Sale: Privacy Policy - Great deals, offers, discounts and sales in stores in your city
 
@@ -33,7 +33,7 @@ The information you provide to us may be used to:
   * Monitor or improve the Web Sites; 
   * Customize the advertising and content you see 
 
-Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20180527110512id_/http%3A//www.upto75.com/Terms.html)  
+Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20180727184824id_/https%3A//www.upto75.com/Terms.html)  
   
    
 **With whom information may be shared**  
