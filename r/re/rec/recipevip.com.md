@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipevip.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618204201id_/http%3A//www.recipevip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipevip.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727072344id_/https%3A//www.recipevip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Recipe VIP
 
