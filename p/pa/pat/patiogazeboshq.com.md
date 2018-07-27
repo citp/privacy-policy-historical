@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patiogazeboshq.com privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103150058id_/http%3A//www.friendsoftheplanet.com/policies/privacy-policy.php%3Fsite%3DPatioGazebosHQ.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patiogazeboshq.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727151414id_/http%3A//www.friendsoftheplanet.com/policies/privacy-policy.php%3Fsite%3DPatioGazebosHQ.com) for the most accurate reproduction.*
 
 # Friends Of The Planet Privacy Policy
 
