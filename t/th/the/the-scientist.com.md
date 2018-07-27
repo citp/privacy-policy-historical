@@ -1,79 +1,96 @@
-> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411121736id_/https%3A//www.the-scientist.com%3Fhome.privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727163348id_/https%3A//the-scientist.com/privacy-policy) for the most accurate reproduction.*
 
-# The Scientist Magazine® - Privacy Policy
+# Privacy Policy | The Scientist Magazine®
 
-The Scientist website and publication is owned and operated by LabX Media Group, Inc.. Because we gather certain types of information from our users, we feel you should understand our policy and the terms and conditions surrounding the capture, use, and sharing of that information. This privacy policy discloses what information The Scientist gathers at this site and how we use it.
+This website and its affiliated micro-sites are owned and published by The Scientist.
 
-###  INFORMATION THE SCIENTIST GATHERS AND TRACKS
+To ensure that you get the most from our website, we are committed to optimizing the site to match your needs, so it is easier for you to find the content and services most relevant to your work and to keep access to most of our content and services free of charge. We endeavour to exceed the strict privacy practices required by the United States CAN-SPAM Act, Canada’s CASL regulations, the United Kingdom Data Protection Act, and the EU General Data Protection Regulation (GDPR) and e-Privacy Regulation. If, however, you would like to make a query regarding our privacy policy, please [contact us](https://www.the-scientist.com/?home.about).
 
-The Scientist gathers two types of information about users:
-
-  * Information that users provide through voluntary submissions, such as to receive our electronic newsletters, access topic-specific gateways, participate in our message boards or forums, and participate in polls and surveys.
-  * Information The Scientist gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience.
-
-
-
-The Scientist gathers user information through the following processes: _Voluntary Information_ We offer the following free services, which require some type of voluntary submission of personal information by users:
-
-####  1\. Electronic newsletters policy
-
-We offer free electronic newsletters to users. The Scientist gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
-
-####  2\. Gateways policy
-
-We offer topic specific gateways as a resource to users. Each gateway has been developed in collaboration with a sponsoring partner. Users must register to access the information in these gateways, and this includes providing a password, which the user is responsible for safeguarding. Users are required to provide their name, email address, and password and may submit optional demographic information about their area of work. This information is shared with the gateway sponsor, which may use the information for marketing purposes. Gateway users may also subscribe to the sponsoring partner’s electronic newsletters via a link to the sponsor’s website newsletter registration process. The Scientist will send registration confirmation emails to gateway registrants and will store the registration information to authenticate users returning to gateways. Gateway registrants also may be provided with an opportunity to opt-in to receive information from The Scientist.
-
-####  3\. Message boards/comments posts policy
-
-Users of the site may post messages and comments in response to articles and blog topics. Although registration is not required to contribute comments to articles or blogs, we do ask for your name and e-mail address. Although your email address will not be visible to users of the site, members of The Scientist staff may use it to contact you to clarify any points of your post.
-
-####  4\. Polling
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable with respect to any particular user. The Scientist may use a system to “tag” users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-
-####  5\. Surveys
-
-The Scientist may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. In our surveys, we also offer an “opt-in” area to receive communications from participating vendors of that topic survey; in this case you will be granting permission to share the information you specifically indicate but only if you choose to “opt-in.”
-
-_Usage tracking_  
-The Scientist tracks user traffic patterns throughout all of our sites. We may correlate this information with data about individual users only for the purpose of displaying topic relevant content and products of interest to your demographic type. The Scientist does break down overall usage statistics according to a user’s domain name, browser type, and MIME type by reading this information from the HTTP request (information sent from every user’s browser).
-
-The Scientist sometimes tracks and catalogs the search terms that users enter in our Search function. We use tracking information to determine which areas of our sites users like and don’t like based on traffic to those areas. We may track what individual users read which enables us to provide more relevant and “related” content and products. This helps us continue to build a better service for you that is targeted to your specific interests.
-
-_Cookies_  
-We may place a text file called a “cookie” in the browser files of your computer. The only personal information a cookie can capture is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. The Scientist uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, gateways, polling and surveys.
-
-###  USE AND SHARING OF INFORMATION
-
-The Scientist uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
-
-Information collected about subscribers and users may be used by us, our publications, and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products information you requested, to personalize content and advertising, to inform advertisers as to how many users have seen or "clicked" their advertising banners, to send you e-mail notifications about our services and products, to perform statistical analysis of subscriber and user behavior to develop new features and offers for our publication and website.
-
-From time to time, we may make individual subscriber or user information available to carefully selected third parties relevant to the topics of our publication to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to customerservice@the-scientist.com. Subscribers can opt out of future contact at any time by unsubscribing to any future correspondence. We retain the right to contact subscribers and users regarding subscriptions, account status, orders for products or services, changes to their registration or to enforce our subscription agreement.
-
-We reserve the right to disclose information about individual users in order to comply with applicable law or valid legal process, and to protect the personal safety of our users or the public.
-
-The Scientist uses the above-described information to tailor our content to suit your needs and help our advertisers, sponsors and partners better understand our audience’s demographics. This allows us to maintain a high quality level of service at little or no cost to our subscribers and users.
-
-###  SECURITY
-
-The Scientist operates secure data networks protected by firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our site users.
-
-###  OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-  * Opting not to register to receive our electronic newsletters.
-  * Opting not to participate in certain interactive areas, which alleviate the need to gather personally identifiable information from our users.
+  * [Your Personal Information and How We Collect It](https://docs.google.com/document/d/1aqYlwEaSgX7rElw7u-r3k3ar_39BydmQQcs_egP-ruo/edit#bookmark=id.cr2oimtai7cl)
+  * [Your Personal Information and How We May Use It](https://docs.google.com/document/d/1aqYlwEaSgX7rElw7u-r3k3ar_39BydmQQcs_egP-ruo/edit#bookmark=id.8tjd193875xy)
+  * [Your Personal Information and How We May Share It](https://docs.google.com/document/d/1aqYlwEaSgX7rElw7u-r3k3ar_39BydmQQcs_egP-ruo/edit#bookmark=id.wpqgxrl834bd)
+  * [Your Personal Information and How You Share It](https://docs.google.com/document/d/1aqYlwEaSgX7rElw7u-r3k3ar_39BydmQQcs_egP-ruo/edit#bookmark=id.6iksvdz3rjsn)
+  * [How You Can Access, Update or Limit Your Personal Information](https://docs.google.com/document/d/1aqYlwEaSgX7rElw7u-r3k3ar_39BydmQQcs_egP-ruo/edit#bookmark=id.qaud6lt7cn1m)
+  * [How We Can Makes Changes to This Policy](https://docs.google.com/document/d/1aqYlwEaSgX7rElw7u-r3k3ar_39BydmQQcs_egP-ruo/edit#bookmark=id.ngqwzlxqtdmo)
+  * [How You Can Contact Us About This Policy](https://docs.google.com/document/d/1aqYlwEaSgX7rElw7u-r3k3ar_39BydmQQcs_egP-ruo/edit#bookmark=id.4czmf8vni03o)
 
 
 
-If you have any questions about our privacy, site usage, or opt-out policies, you can contact us at [customerservice@the-scientist.com](mailto:customerservice@the-scientist.com "customerservice@the-scientist.com").
+## Information You Provide
 
-###  YOUR CONSENT
+We collect information you provide to us through our websites and to affiliated micro-sites that are owned and operated by The Scientist. We collect your information when you create an account, subscribe to a newsletter or email, download digital materials (e.g. infographics, ebooks, white papers etc.), sign-up for a webinar or otherwise communicate with us through our websites.
 
-By using this site, you agree to the terms of the privacy policy and consent to the collection, use and sharing of information that you provide via this site. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+The data we collect from you can include personal information. Personal information is data that can be used to identify an individual (such as first and last name, e-mail address, address, telephone number etc.).  Furthermore, to ensure that you have a genuine interest in our content, products and services, we may also ask for work-related information such as your job title, your company name, technologies you use, your area of work or industry, the type of business you work for or own, and your scientific interests. We do this to ensure that we are providing you with information that is relevant to you and your field of study or work. At no point will we ask for any “sensitive” information such as religious beliefs, political affiliation, racial or ethnic origin or any other information that does not pertain to your activity or interest in the sciences.
 
-This privacy policy was last updated on January 9, 2012.
+Once registration is complete no further information is required for free access to this site. Additional personal information from visitors may be required to participate in online forums.
+
+## Information We Collect
+
+To optimize our website, match content to your needs and deliver a more personalized user experience, The Scientist also automatically collects information regarding your use of our websites. When visiting our brands online, we log information about your visit and also use tracking mechanisms such as cookies, pixels and scripts to collect information about your interaction with our websites or emails. These can be used to provide you with additional information that is relevant to your work or scientific areas of interest.
+
+**Cookies** are digital text files placed on your computer. Using cookies is a common practice. We may place cookies on your computer to allow us to recognize you on our websites when you visit us, to measure online traffic, to present you with relevant products or services, or to customize your experience. We use session cookies to make navigating our website easier, and they expire when you close your browser. Additionally, tracking cookies are used to help us understand how you use our websites, they enhance your user experience, and they remain on your computer or device for an extended period of time.  
+  
+Your browser may include settings that allow you to block cookies or be notified when cookies are being used. Please be aware that if you block or remove cookies, certain features and functions of our websites may be unavailable or may not operate optimally.  
+  
+ **Pixels** are small graphic images placed in web pages and e-mail messages. They may be used to count the number of visitors to our websites, to monitor how users navigate our websites, or to verify how many articles or links were viewed.  
+  
+ **Scripts** are used to collect information about your interactions with our websites. They are temporarily downloaded on your computer from our server, or the server of a third-party we work with. They are active while you are connected to our websites, and are deleted or deactivated thereafter. We do not install or download any software to your computer as part of your user experience.
+
+## Information from Other Sources
+
+We may also collect or purchase information from other scientific industry sources, such as scientific organizations, research conferences, academic institutions, scientific directories, etc. Your personal information is only collected and stored in our databases if it is publicly available and there is a clear link between your area of work and the content, products, and services we offer. We may also combine this information with information we have already collected about you in order to understand your needs better and provide you with a better user experience.
+
+If you are a resident of the European Union or the United States and all the information we have collected about you is from third-party scientific sources, we will only communicate with you on a trial basis with a limited number of attempts before we remove your information from our database. We will also only contact you about scientific content and topics that you have shown interest in or about scientific products you have purchased in the past that have been deemed relevant to you and your industry, job, scientific interests or area of work. If we see that you have not engaged with our communications or digital content, we will remove your personal information from our database. If you do engage with our communications and digital content before the end of our trial period, we will consider you an active contact for as long as you continue to engage with our content and our websites in the future, or until you choose to unsubscribe from future communications. We offer a means of unsubscribing on every communication that we send to you and through our privacy policy.  If you would like to know more about how we engage with you, please [contact us](https://www.the-scientist.com/?home.about).
+
+Known Canadian residents will never be contacted unless they have provided their personal information through our websites, affiliated micro-sites, over the phone or at an event or conference where they have expressed consent to be contacted by The Scientist and its affiliated brands.
+
+The personal information gathered about you is used for a variety of purposes. The first is to build up a demographic profile of our subscribers, allowing us to better match our content and services to your interests. Obviously, the more accurate the information you provide, the better we can do this. For this reason, we encourage you to regularly update your profile to provide us with the most accurate information possible. 
+
+In addition, we may use your personal information for other purposes that include:
+
+  * Facilitating, managing, personalizing and improving your online experience;
+  * Responding to your comments, questions and requests, providing customer service, sending you informational notices, and contacting you if we need to obtain or provide additional information;
+  * Managing your online account(s), including purchases, orders, payments, returns, and exchanges;
+  * Sending you technical notices, updates, security alerts, support and administrative messages;
+  * Communicating with you about products, services, offers, promotions, coupons, newsletters, events and providing information we think will be of interest to you;
+  * Conducting research and analysis, including focus groups and surveys about current services or of potential new products and services;
+  * Preventing and addressing fraud, breach of policies or terms, and threats or harm; and
+  * Sending you advertisements and communicating with you regarding services, products, and events we think may interest you
+
+
+
+## Information Shared With Our Service Providers
+
+We may disclose your information to other companies to ensure the smooth provision of products and services that you have purchased or requested from us. If you have made a purchase or request with us your data will be principally used to provide you with your purchase or request as well as your registration or other services and facilities. This includes third-party service providers that assist us with processing credit card payments, webinar platforms that host our online events or customer relationship management applications where we house your information. These service providers are prohibited from using your personal information for any other purpose(s) than to provide the services we have contracted them to perform.
+
+## Information Shared Within Our Group
+
+Your details may also be shared within the brands in our parent company, LabX Media Group. Please [click here](http://www.labxmediagroup.com/) for a list of LabX Media Group websites. These companies may use your details to send you information about products, promotions and special offers that we think may interest you, and also to complete your personal profile across each of our brands.
+
+## Information Shared With third-party Advertisers and Sponsors
+
+Your personal information is also used in our dealings with the third-parties with whom we work. The co-operation of the companies that supply us with content and services and the revenue derived from advertising and sponsorship allow us to keep access to our sites free of charge. To provide incentives for these third-parties to continue working with us, The Scientist does share some information about our visitors, as detailed below. 
+
+We may monitor the activity of visitors accessing the site and share data about this activity with publishers and advertisers. If your company, job title, areas of work, technologies used, type of business or scientific areas of interest are a match for the types of products or services offered by a third-party company, your personal data can be used to share product, service & event offers from a third-party company. If you participate or engage with an offer through our websites or emails, we may share your personal information with the associated third-party. Our aim is to provide you with information on the latest tools and technology that are relevant to your scientific field of study and to provide you with information on the latest innovations in scientific research and manufacturing. If you show interest in particular web pages or materials on our website, we may communicate with you about sponsored content related to your visits to help promote scientific products and services on behalf of our third-party suppliers and vendors. Finally, we may provide your information to our third-party advertisers and sponsors for them to contact you directly when you have clearly engaged with content related to their products or promotions. This information is only provided to them when we have determined that you have shown a legitimate interest in their products or services by engaging with their content on our website or emails.
+
+You can opt-out of receiving communications from our third-party advertisers and sponsors by going to our [unsubscribe page](http://viewonline.the-scientist.com/request-to-manage-your-subscriptions) and unchecking the box for third-party sponsors and advertisers. We also attempt to contact our subscribers on a regular basis via email to give them the opportunity to opt-out of third-party communications to ensure they are given the choice to review their subscription preferences.
+
+Your personal data is never shared with a third-party we do not consider to be reputable and is only made available to companies who are actively supporting free access to the content and services provided by our sites. For a list of these third-party companies, please [click here](http://viewonline.the-scientist.com/the-scientist-sponsors-and-advertisers). You should note that, if they enter an external site from a link within The Scientist site, they are no longer covered by this privacy policy.
+
+Our websites may include features, such as message boards or comment sections, that allow you to freely submit your personal information that can be viewed by others.  We and others can store, display, reproduce, publish, distribute, or otherwise use such information in any format, and there is no guarantee that we will attribute the content to you.  Keep in mind that if you post information on our websites, others can access and share that information with third-parties as well.
+
+## Accessing and Updating Your Personal Information
+
+We have designed our websites so that it is easy for you to access and update the personal information that you shared with us. You can access your subscriptions by [clicking this link](http://viewonline.the-scientist.com/request-to-manage-your-subscriptions) and entering your email address in the field provided.  After submitting your email address, we will send a message to your inbox to confirm it is you and for you to access your subscription preferences directly.  Individual eNewsletters, email communications and third-party communications can be immediately unsubscribed from by clicking an unsubscribe link within them. Please note that your opt-out will not affect subsequent subscriptions or non-promotional communications from us, such as administrative and service announcements. If you require further assistance updating your details please [contact us](https://www.the-scientist.com/?home.about).
+
+You are also entitled to be informed about all the information The Scientist collects about you. You are entitled to receive and review the information. You may also request to have The Scientist change information about you that is held by us and that is incorrect.
+
+## Limiting Collection of Your Personal Information
+
+Cookies can be disabled or removed using tools available as part of most commercial browsers. In some instances, a browser may include settings that allow you to block cookies from being placed on your hard drive. Be aware that if you disable or remove cookies and similar technologies, some parts of our websites may not work properly. Also, if you revisit our websites from a different computer or browser, you may not be able to limit browser-based tracking technologies in the same way. 
+
+Our websites use third-party web analytics services, such as Google Analytics, to help us analyze how visitors use our websites. To learn more about opting out of being tracked by Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout).
+
+If at any point we decide to use your personally identifiable information in any way other than described in this privacy policy we will notify you by way of email or by providing 30 days notice on the website. Please note that we retain the right to change this policy at any time. The Scientist continues to invest in the best quality security available and we do our utmost to protect visitor privacy. If you have any queries regarding this privacy policy or the way we collect and gather information about our members, please [contact us.](https://www.the-scientist.com/?home.about)
+
+If you have any requests regarding your personal information, or if you have questions about this privacy policy, please submit your questions via email to privacy@labxmediagroup.com, send a letter to the Chief Privacy Officer at The Scientist, The Scientist, 478 Bay Street, Suite A213 , Midland, ON, Canada, L4R 1K9, or if you prefer to speak to us you can reach us at 705-528-6888.
