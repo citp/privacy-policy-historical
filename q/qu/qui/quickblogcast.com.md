@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickblogcast.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627063407id_/https%3A//www.godaddy.com/agreements/showdoc.aspx%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickblogcast.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727164756id_/https%3A//www.godaddy.com/agreements/showdoc.aspx%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
 
 # Legal Agreement
 
