@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depedclub.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613215815id_/http%3A//depedclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depedclub.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727223628id_/http%3A//depedclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Deped Teachers Club
 
