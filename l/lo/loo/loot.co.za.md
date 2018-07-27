@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630091413id_/https%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727091410id_/https%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
