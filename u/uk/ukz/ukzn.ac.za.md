@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408083731id_/https%3A//www.ukzn.ac.za/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728085937id_/https%3A//www.ukzn.ac.za/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – University of KwaZulu-Natal
 
