@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the 123helpme.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606201940id_/http%3A//123helpme.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123helpme.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728185827id_/https%3A//www.123helpme.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Essays
 
 Effective Date: May 25, 2018
 
-Welcome to [123helpme](http://www.123helpme.com/)! When you register with us or use our sites, applications and services, you provide information to us. This privacy policy explains: 
+Welcome to [123helpme](https://www.123helpme.com/)! When you register with us or use our sites, applications and services, you provide information to us. This privacy policy explains: 
 
   
 
 
-  * The information that [123helpme](http://www.123helpme.com/) and its affiliates collect about you.
+  * The information that [123helpme](https://www.123helpme.com/) and its affiliates collect about you.
   * How that information may be used.
-  * With whom [123helpme](http://www.123helpme.com/) may share your information.
-  * How [123helpme](http://www.123helpme.com/) protects your information.
+  * With whom [123helpme](https://www.123helpme.com/) may share your information.
+  * How [123helpme](https://www.123helpme.com/) protects your information.
 
   
 
@@ -353,7 +353,7 @@ Last Updated: May 23rd 2018
 
 **Follow any of the links below to review over 3,000 personal narratives, argumentative, and persuasive essays!**
 
-[Free Personal Narrative Essays](http://www.123helpme.com/search.asp?text=narrative) | [Free Argumentative Essays](https://web.archive.org/search.asp?text=argumentative) | [Free Persuasive Essays](https://web.archive.org/search.asp?text=persuasive)  
+[Free Personal Narrative Essays](https://www.123helpme.com/search.asp?text=narrative) | [Free Argumentative Essays](https://web.archive.org/search.asp?text=argumentative) | [Free Persuasive Essays](https://web.archive.org/search.asp?text=persuasive)  
 
   
 
