@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitdownloader.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626095253id_/http%3A//www.orbitdownloader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitdownloader.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728114040id_/http%3A//www.orbitdownloader.com/privacy.htm) for the most accurate reproduction.*
 
 # Orbit Downloader - Privacy
 
@@ -11,7 +11,7 @@ The Orbit Downloader Privacy Policy describes how we treat personal information 
 ## Orbit Downloader Privacy Hightlights
 
 We at Orbit Downloader take your online privacy very seriously and pledge to you, our Downloader user, that:   
-    1\. Orbit Downloader are 100% clean. It is trusted by more than 30 antivirus engines and lots of software download sites. [Learn more...](https://web.archive.org/web/20180626095253id_/http%3A//www.orbitdownloader.com/100clean.htm)   
+    1\. Orbit Downloader are 100% clean. It is trusted by more than 30 antivirus engines and lots of software download sites. [Learn more...](https://web.archive.org/web/20180728114040id_/http%3A//www.orbitdownloader.com/100clean.htm)   
     2\. We do NOT track your online activities or browsing habits.  
     3\. We do NOT collect Personally Identifiable Information about your personal downloads.  
     4\. We collect limited NON-Personally Identifiable information which does not include information that is collected anonymously (i.e., without identification of the individual user) or demographic information not connected to an identified individual to operate and improve the features.   
@@ -48,7 +48,7 @@ The above are highlights of Orbit Downloader's privacy policy. The highlights ar
 
 ## No Evil, No Spyware, No Threat
 
-  * Orbit Downloader pledges to you that it does NOT contain any spyware/adware or any other type of threat. Orbit Downloader has been trusted by more than 30 antivirus engines and lots of software download sites, include McAfee, Symantec, Softpedia and [see more...](https://web.archive.org/web/20180626095253id_/http%3A//www.orbitdownloader.com/100clean.htm)
+  * Orbit Downloader pledges to you that it does NOT contain any spyware/adware or any other type of threat. Orbit Downloader has been trusted by more than 30 antivirus engines and lots of software download sites, include McAfee, Symantec, Softpedia and [see more...](https://web.archive.org/web/20180728114040id_/http%3A//www.orbitdownloader.com/100clean.htm)
 
 
 
