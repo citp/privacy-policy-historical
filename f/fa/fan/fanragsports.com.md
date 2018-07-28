@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanragsports.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225070448id_/https%3A//www.fanragsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanragsports.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728041325id_/http%3A//www.fanragsports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FanRag Sports
+# Privacy Policy | FanRag Sports
 
 Nafstrops Media LLC dba FanRag Sports  
 contact email – info@fanrag.com
@@ -78,13 +78,13 @@ Third-party vendors, including Google, use cookies to serve ads based on a user�
 
 **Google Analytics Privacy Policy**
 
-Our website uses Google Analytics to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, not your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use. <http://www.google.com/analytics/terms/us.html>
+Our website uses Google Analytics to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, not your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use. [http://www.google.com/analytics/terms/us.html](https://www.google.com/analytics/terms/us.html)
 
-You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser. <https://tools.google.com/dlpage/gaoptout>
+You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](https://www.usa.gov/optout_instructions.shtml) on your browser. <https://tools.google.com/dlpage/gaoptout>
 
 **Google Remarketing**
 
-Our website uses a remarketing advertising service. Our remarketing service is provided by Google and other companies that show our ads on websites across the Internet. With remarketing you may see ads for our products you have previously looked at. As an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website. The website’s owner might like to encourage you to revisit their site and buy a computer by showing you their ads again on other websites that you visit. We use remarketing for similar purposes. For this to happen, Google will read a cookie that is already in your browser. This can only happen if your browser is set to let it happen. You can opt out of Google’s use of cookies by visiting: <http://bit.ly/1RhhBQZ>
+Our website uses a remarketing advertising service. Our remarketing service is provided by Google and other companies that show our ads on websites across the Internet. With remarketing you may see ads for our products you have previously looked at. As an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website. The website’s owner might like to encourage you to revisit their site and buy a computer by showing you their ads again on other websites that you visit. We use remarketing for similar purposes. For this to happen, Google will read a cookie that is already in your browser. This can only happen if your browser is set to let it happen. You can opt out of Google’s use of cookies by visiting: [http://bit.ly/1RhhBQZ](https://bit.ly/1RhhBQZ)
 
 **Facebook Remarketing**
 
