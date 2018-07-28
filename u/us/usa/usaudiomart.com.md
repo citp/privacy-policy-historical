@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528232330id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728223020id_/https%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - US Audio Mart
 
@@ -8,7 +8,7 @@ Welcome to USAudioMart, a classifieds site for used audio and hifi. Postings are
 
 We here at US Audio Mart and its Operators, Canuck Digital Media Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. We have provided the following Privacy Policy for US Audio Mart (www.canuckaudiomart, "we" or "us") disclosing the purpose, intent, collection, use, and protection of any information that is potentially private. 
 
-This document was last updated May 23rd 2018.
+This document was last updated May 28th 2018.
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect on our site and when you sign up or use our services. 
 
@@ -62,13 +62,21 @@ Many aspects of the site will not operate properly if you reject or delete our f
 
 _**Third Party Analytics:**_
 
-US Audio Mart uses Google Analytics to get an idea of how our site is used and to help improve our service. Certain information such as your browser, and your IP address may be sent to Analytics but this information is always anonymized so that we don’t know which specific visitors are associated with what browser and we do not have access to any IP information in Google Analytics. Analytics may use several cookies including cookies stored for very long periods in order to determine if you have visited the site before, but Analytics never associates any identifiable information with your visit. So we may know many people visit a particular page, but we won’t know specifically who read it. To read more about Google's use of information please [see their disclosure here](https://policies.google.com/technologies/partner-sites). 
+US Audio Mart uses Google Analytics to get an idea of how our site is used and to help improve our service. Certain information such as your browser, and your IP address may be sent to Analytics but this information is always anonymized so that we don’t know which specific visitors are associated with what browser and we do not have access to any IP information in Google Analytics. Analytics may use several cookies including cookies stored for very long periods in order to determine if you have visited the site before, but Analytics never associates any identifiable information with your visit. So we may know many people visit a particular page, but we won’t know specifically who read it. 
+
+To opt out of being counted in Google Analytics, you can install a [ browser add on made by Google](https://tools.google.com/dlpage/gaoptout).
+
+To read more about Google's use of information please [see their disclosure here](https://policies.google.com/technologies/partner-sites). 
 
 _**Banner and Third Party Advertising:**_
 
 The banner ads appearing on US Audio Mart are delivered to users by our adserver and our advertising partners including Google Ads. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
-Our privacy statement covers the use of cookies by US Audio Mart only and does not cover the use of cookies by any advertisers, affiliates, or 3rd party sites. You can find out more about Google's [information use here](https://policies.google.com/technologies/partner-sites). 
+You can find out more about Google's [information use here](https://policies.google.com/technologies/partner-sites). 
+
+You can control Ad Personalisation by Google Ads and Google products by visiting the [Google Ad Settings page](https://adssettings.google.com/). 
+
+You can also learn more about other third party advertiser personalisation of ads and opt out of personalisation by [seeing this opt out page](http://www.aboutads.info/choices/). 
 
 _**Your Consent:**_
 
