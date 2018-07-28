@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the sublet.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317104311id_/https%3A//www.sublet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sublet.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728152237id_/https%3A//www.sublet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for landlords and tenants that use Sublet.com to rent sublets, apartments, houses, and rooms for rent.
 
-|  |  **
+  * Sublet.com Personal information is NEVER sold to or used by any outside parties 
+  * Sublet.com cares about your privacy. For this reason, we collect and use personal data only as it might be needed for us to deliver to you our products, services, websites and mobile applications (collectively, our "Services"). Your personal data includes information such as: Name, Address, Telephone number, IP, Email address, Other data collected that could directly or indirectly identify you. All information entered at Sublet.com is used ONLY by Sublet.com & its affiliates for the sole purpose of facilitating the rental process. 
+  * On Sublet.com a user can easily access, view, update, request to be delete or port your personal data (where available), or to update your subscription preferences, please sign into your Account and visit "Account Profile". If you make a request to delete your personal data, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements. If you are unable for any reason to access your Account profile tab, you may also contact us by calling or email us at the phone or email below 
+  * Sublet.com email addresses are NEVER revealed using the Sublet.com lead center. All emails between rental parties are forwarded through our mail servers. 
+  * Sublet.com Mail Center messages may be reviewed by our editorial team for compliance and security. 
+  * Sublet.com Credit Card information is NEVER stored by Sublet.com. After a transaction is processed, all credit card information is deleted. 
+  * Sublet.com is secured by secure [ ](https://buy.entrust.net/secure-tpl/securityseal.cfm?ID=EB59504C-E67F-70FE-58443A37F7548BA7) with data encryption & Secure Sockets Layer (SSL) to ensure secure online transactions. Information entered can only be read by the intended computer. 
+  * Sublet.com data is protected by "TrustWave" complies with the Payment Card Industry (PCI) Data Security requirements of Visa, MasterCard, American Express & Discover. 
+  * Sublet.com uses cookies. Cookies and similar technologies on our websites and our mobile applications allow us to collect various data, including analytics, about how you use and interact with our Services. In an effort to provide you with best rental experience for our websites. 
+  * Sublet.com allows Google Inc. to use DART cookies to serve customized ads about goods and services of interest by collecting non-personally identifying information (not including your name, address, email address, or telephone number). Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](https://www.google.com/policies/privacy/). 
+  * Sublet.com is an apartment rental service that advertises apartments, sublets, subleases, roommates & houses for rent. Apartment rentals, sublets, subleases, roommates and potential Renters have not been screened, verified or evaluated. Individuals utilizing this rental service to find apartments, sublets, subleases, roommates or tenants take full responsibility for their actions & understand that the owners of the site take no responsibility for any consequences of using this service. 
+  * We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-## All information entered at Sublet.com is used _ONLY_ by Sublet.com & its affiliates for the sole purpose of facilitating the rental process. 
 
-**  
----|---  
-|  **Personal information is _NEVER_ sold to or used by any outside parties **  
-|  **Email addresses are _NEVER_ revealed to anyone. All emails between rental parties are forwarded through our mail servers. **  
-|  **Mail Center messages may be reviewed by our editorial team for compliance and security.**  
-|  **Exact rental addresses are _NEVER_ asked for to protect your privacy. Cross Streets are used to provide approximate locations. **  
-|  **Credit Card information is _NEVER_ stored by Sublet.com. After a transaction is processed, all credit card information is deleted. **  
-| **Sublet.com is secured by[ ](https://buy.entrust.net/secure-tpl/securityseal.cfm?ID=EB59504C-E67F-70FE-58443A37F7548BA7) with 128 bit data encryption & Secure Sockets Layer (SSL) to ensure secure online transactions. Information entered can only be read by the intended computer. **  
-|  **Sublet.com data is protected by & complies with the Payment Card Industry (PCI) Data Security requirements of Visa, MasterCard, American Express & Discover.**  
-  
-| ** Sublet.com allows Google Inc. to use DART cookies to serve customized ads about goods and services of interest by collecting non-personally identifying information (not including your name, address, email address, or telephone number). Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](https://www.google.com/policies/privacy/).**  
-| ** Sublet.com is a apartment rental service that advertises apartments, sublets, subleases, roommates & houses for rent. Apartment rentals, sublets, subleases, roommates and potential Renters have not been screened, verified or evaluated. Individuals utilizing this rental service to find apartments, sublets, subleases, roommates or tenants take full responsibility for their actions & understand that the owners of the site take no responsibility for any consequences of using this service.**  
-   
-  
-**If you have any questions or concerns regarding our privacy policy,  
-please contact us at [support@sublet.com](mailto:support@sublet.com) or at 1-201-845-7300**
