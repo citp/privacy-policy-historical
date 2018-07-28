@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529051215id_/http%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728211854id_/https%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
