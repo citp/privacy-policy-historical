@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcorner.in privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528233045id_/http%3A//www.youthcorner.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcorner.in privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728223618id_/http%3A//www.youthcorner.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Youth Corner
 
@@ -28,7 +28,7 @@ We also honour “do not track” signals and do not track, plant cookies, or us
 
 In accordance with _Fair Information Practices_ , we will notify our subscribers, users within 2 business days via email.
 
-In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at _**[admin@youthcorner.in](mailto:admin@youthcorner.in)**_  to request to unsubscribe.
+In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at _**[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d1c191014133d04120809151e120f13180f531413)**_ to request to unsubscribe.
 
  **Use of Collected Information**
 
@@ -67,6 +67,6 @@ If there any question regarding the privacy policy of out site, you may contact 
 Youth Corner Office  
 Raebareli City  
 Uttar Pradesh, 229001,  
-Email: **[admin@youthcorner.in](mailto:admin@youthcorner.in)**
+Email: **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#aecfcac3c7c0eed7c1dbdac6cdc1dcc0cbdc80c7c0)**
 
 Privacy Policy last update on June 3, 2016.
