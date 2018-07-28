@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626021239id_/http%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728143134id_/https%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.*
 
-# Global Privacy Statement | Big Top 40
+# Global Privacy Statement - BigTop40
 
 ## **1.      ** **Who are we?**
 
@@ -47,6 +47,8 @@ We use your personal information:
 
 
 If you would like more information regarding OBA and how to opt out, please visit <http://www.youronlinechoices.com/uk/>
+
+By opting out of personalised advertising, you will still see adverts, but they will not be tailored to your interests. You can change your preferences by clicking here.
 
 We will use your data either because you have consented for us to do so or because we have a legitimate interest in processing your information, as follows:
 
