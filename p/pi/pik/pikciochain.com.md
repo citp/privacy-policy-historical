@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikciochain.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508090759id_/https%3A//www.matchupbox.com/Privacy%2520Policy_MuB_Version_April_20_2016.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikciochain.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728142341id_/https%3A//www.matchupbox.com/Privacy%2520Policy_MuB_Version_April_20_2016.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
