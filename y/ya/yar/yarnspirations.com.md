@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarnspirations.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628022355id_/http%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarnspirations.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729080310id_/https%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Yarnspirations
 
@@ -95,7 +95,7 @@ You have some choices when it comes to online behavioural advertising: [We adher
 
 
 
-For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20180628022355id_/http%3A//www.yarnspirations.com/www.aboutads.info). Choices you make are both browser and device-specific.
+For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20180729080310id_/https%3A//www.yarnspirations.com/www.aboutads.info). Choices you make are both browser and device-specific.
 
 #### Do Not Track
 
