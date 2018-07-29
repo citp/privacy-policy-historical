@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095748id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729080615id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
 
 # Planet PDF - Privacy Policy - Planet PDF
 
-This policy covers the following two [Debenu](http://www.debenu.com/) Web sites:
+**Updated: Friday 25th May, 2018**
+
+This policy covers the following [Foxit Software](http://www.foxitsoftware.com/) Web site:
 
   * Planet PDF - [http://www.planetpdf.com](http://www.planetpdf.com/)
 
@@ -18,16 +20,14 @@ We do not sell, rent, swap or otherwise disclose any personal information -- _ex
 
 ## A. Requesting Your Personal Information
 
-While most information at the sites is freely available, at times we request certain personal information from users wishing to take advantage of specific opportunities. Providing identifying information is optional in some cases, required in others (e.g. PDF Store purchases).
+While most information at the sites is freely available, at times we request certain personal information from users wishing to take advantage of specific opportunities. Providing identifying information is optional in some cases, required in others (e.g. PDF Store purchases {now defunct}).
 
 We request your personal information -- which may include such things as email address, name, address, telephone number, etc. -- in exchange for certain activities, including:
 
   * one-time Planet PDF forum access registration (or use Read-Only guest access) 
   * Planet PDF Newsletter subscriptions 
   * Product demo downloads 
-  * Adobe Acrobat Reader downloads 
   * Periodic surveys and/or contests 
-  * PDF-on-the-fly postcard service 
   * Other interactive components we may add to our sites 
 
 
@@ -57,6 +57,10 @@ The Web sites use the information they gather for:
 In addition, we routinely track site traffic by analyzing our Web server logs, but nothing in that data reveals your personal identity. We use the log information (for example, length of session, pages viewed, etc.) to help determine overall traffic patterns, to determine user interests and to continue improving the site to better serve our user community.
 
 From time to time, we may directly contact a user about a specific question, problem, comment or idea that he or she has posted -- we are always looking for user experiences to share with the rest of the community.
+
+Our newsletter contains so-called tracking pixels. A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, we may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by data subjects.
+
+Such personal data collected in the tracking pixels contained in the newsletters are stored and analyzed by the controller in order to optimize the shipping of the newsletter, as well as to adapt the content of future newsletters even better to the interests of the data subject. This personal data will not be passed on to third parties. Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of the double-opt-in procedure. After a revocation, these personal data will be deleted by the controller.
 
 ## E. Security
 
