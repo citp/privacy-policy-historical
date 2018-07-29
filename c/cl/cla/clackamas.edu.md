@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clackamas.edu privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529060651id_/http%3A//www.clackamas.edu/about-us/accreditation-and-policies/internet-privacy-commitment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clackamas.edu privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729052637id_/https%3A//www.clackamas.edu/about-us/accreditation-policies/internet-privacy-commitment) for the most accurate reproduction.*
 
 # Clackamas Community College | Internet Privacy Commitment
 
