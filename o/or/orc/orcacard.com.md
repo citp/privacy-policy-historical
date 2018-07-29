@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orcacard.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619224633id_/http%3A//www.soundtransit.org/sites/default/files/orca_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcacard.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729174104id_/http%3A//www.soundtransit.org/sites/default/files/orca_privacy.pdf) for the most accurate reproduction.*
 
 # ORCA Privacy Statement
 
