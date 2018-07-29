@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imarcgroup.com privacy policy that was archived on 2017-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171219082040id_/http%3A//www.imarcgroup.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imarcgroup.com privacy policy that was archived on 2018-07-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180729094648id_/https%3A//www.imarcgroup.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head> 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,7 @@
 		<link rel="icon" href="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
 	
-    <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=006509566002178545509:spmsztbigs4"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript">
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript">
         
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -25,20 +25,20 @@
 
      	
 
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/bootstrap.css">
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/bootstrap.css">
 
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/style.css">
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/style.css">
 
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/rs-plugin/css/slider.css" media="screen">
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/rs-plugin/css/slider.css" media="screen">
 
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/elements.css">
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/Responsive.css">
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/Reports.css">    
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/elements.css">
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/Responsive.css">
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/Reports.css">    
 
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/theme-color.css" type="text/css">
-    <link rel="stylesheet" href="http://www.imarcgroup.com/front/css/heading1.css" type="text/css" id="heading">
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/theme-color.css" type="text/css">
+    <link rel="stylesheet" href="https://www.imarcgroup.com/front/css/heading1.css" type="text/css" id="heading">
 	
-    <script type="text/javascript" src="http://www.imarcgroup.com/front/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.imarcgroup.com/front/js/jquery.js"></script>
 
 	<script>
 		$(document).ready( function() {
@@ -92,6 +92,37 @@
 			height: 45px;
 			line-height: 1;
 		}
+		
+		.cse .gsc-control-cse, .gsc-control-cse {
+			padding: 0;
+			width: auto;
+		}
+		
+		.gsc-search-button-v2{
+			border-color: transparent;
+    background-color: transparent;
+    background-image: none;
+    filter: none;
+		}
+		.gsc-search-button-v2:hover{
+			border-color: transparent;
+    background-color: transparent;
+    background-image: none;
+    filter: none;
+		}
+		
+		.cse .gsc-search-button-v2, .gsc-search-button-v2{
+			font-size: 0px;
+			padding: 0;
+			margin-top:20px;
+			width: auto;
+			vertical-align: middle;
+			border: none;
+			border-radius: 2px;
+			-moz-border-radius: 2px;
+			-webkit-border-radius: 2px;
+		}
+		
 	</style>
 	
     <header id="header" class="no-border semi-transparent">
@@ -105,10 +136,10 @@
                         <li style="margin-bottom:0px;color:#fff"><i class="fa fa-phone"></i> +1-631-791-1145</li>
                         </ul>
                     </div>
-                    <div class="social-top">
-						<!--<form action="http://www.imarcgroup.com/search">
+                   <!-- <div class="social-top">
+						<form action="https://www.imarcgroup.com/search">
                         <input style="border:2px solid #000;margin-top:5px" type="text" name="q" class="  search-query form-control" placeholder="Search" />
-						</form>-->
+						</form>
 <script>
 						  (function() {
 							var cx = '006509566002178545509:spmsztbigs4';
@@ -122,17 +153,134 @@
 						</script>
 						<gcse:search></gcse:search>		
 						
-                    </div>
-                    <div class="social-top">
+                    </div>-->
+					
+
+<div class="social-top" style="">
+    <a href="" data-toggle="modal" data-target="#modal1" style="width:100%;height:auto;"><input style="cursor:pointer;border:2px solid #000;margin-top:5px" type="text" class="  search-query form-control" placeholder="Search"></a>
+</div>
+
+<script>
+    
+    var currentRequest = null;
+    
+    function searchQuery() {
+
+        var query = $('#search-query-box').val();
+        $('#do-you-mean-area').addClass('hide');
+
+        if (query.length > 2) {
+
+            var data = {"q": query};
+
+            currentRequest = $.ajax({
+                url: "https://www.imarcgroup.com/search",
+                type: "POST",
+                dataType: "json",
+                data: data,
+                beforeSend : function()    {           
+                        if(currentRequest != null) {
+                            currentRequest.abort();
+                        }
+                },                
+                success: function (data) {
+                    
+                    $('.search-area-outer').removeClass('hide');
+
+                    var resultReport = '';
+                    
+                    if(data['report'].length == 0){
+                        resultReport += '<li><div class="">No reports found for given criteria. </div></li>';
+                    }else{
+                        
+                        for (var i = 0; i < data['report'].length; i++) {
+
+                            resultReport += '<li><div class=""><a target="_blank" href="' + data['report'][i]['url'] + '" style="color:#2980b9;font-size:17px"><i class="fa fa-external-link"></i> ' + data['report'][i]['title'] + ' </a><hr></div></li>';
+
+                        }
+                    
+                    }
+
+                    $('#search-list-area').html(resultReport);
+                    
+                    var resultPR = '';
+                    
+                    if(data['report'].length == 0){
+                        resultPR += '<li><div class="">No press release found for given criteria. </div></li>';
+                    }else{
+
+                        for (var i = 0; i < data['pressrelease'].length; i++) {
+
+                            resultPR += '<li><div class=""><a  target="_blank" href="' + data['pressrelease'][i]['url'] + '" style="color:#2980b9;font-size:17px"><i class="fa fa-external-link"></i> ' + data['pressrelease'][i]['title'] + ' </a><hr></div></li>';
+
+                        }
+                    
+                    }
+
+                    $('#search-list-area-pressreleases').html(resultPR); 
+                    
+                    
+
+                    
+                    var resultBlog = '';
+                    
+                    if(data['report'].length == 0){
+                        resultBlog += '<li><div class="">No blog found for given criteria. </div></li>';
+                    }else{
+
+                        for (var i = 0; i < data['blog'].length; i++) {
+
+                            resultBlog += '<li><div class=""><a  target="_blank" href="' + data['blog'][i]['url'] + '" style="color:#2980b9;font-size:17px"><i class="fa fa-external-link"></i> ' + data['blog'][i]['title'] + ' </a><hr></div></li>';
+
+                        }
+                    
+                    }
+
+                    $('#search-list-area-blogs').html(resultBlog);       
+                    
+                    if (data['dictionary'].length > 1) {
+                        
+                        $('#do-you-mean-area').removeClass('hide');
+                        $('#do-you-mean-text').text(data['dictionary']);                        
+                        
+                    }
+
+                    currentRequest = null;
+                },
+                error: function (data) {
+
+                    console.log(data);
+                    currentRequest = null;
+                }
+            });
+        } else {
+            $('#search-list-area').html('');
+            $('#search-list-area-pressreleases').html('');
+            $('#search-list-area-blogs').html('');
+            $('.search-area-outer').addClass('hide');
+
+        }
+    }
+    
+    function doYouMean() {
+
+        var query = $('#do-you-mean-text').text();
+        
+        $('#search-query-box').val(query);
+        $('#do-you-mean-area').addClass('hide');
+        $('#do-you-mean-text').text('');   
+        
+        searchQuery();
+    }    
+
+</script>                    <div class="social-top">
                         <a href="https://twitter.com/IMARCGlobal" target="_blank" class="fa fa-twitter"></a>
                         <a href="https://www.facebook.com/imarcgroup/" target="_blank" class="fa fa-facebook"></a>
                         <a href="https://www.linkedin.com/company/imarc-group" target="_blank" class="fa fa-linkedin"></a>
                         <a href="https://plus.google.com/+Imarcgroup" target="_blank" class="fa fa-gplus"></a>
-                        <a href="http://www.imarcgroup.com/feed/" target="_blank" class="fa fa-rss"></a>
-                        <a href="http://imarcgroup.blogspot.in/" target="_blank" class="fa fa-rss-square"></a>
+                        <a href="https://imarcgroup.blogspot.in/" target="_blank" class="fa fa-rss-square"></a>
                     </div>
-
-                    <!-- Social Icons -->
+						
                     <div class="clear"></div>
                 </div>
             </div>
@@ -140,128 +288,145 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            
                             <nav>
                             <div class="fleft">
-                                <a class="logo" href="http://www.imarcgroup.com"><img style="max-width:95px;" src="http://www.imarcgroup.com/front/img/logo-icon.png" alt="IMARC"></a>
+                                <!--<div class="row">
+									<div class="col-md-6 col-xs-6">
+										<a class="logo" href="https://www.imarcgroup.com"><img style="max-width:70px;z-index:100001" src="https://www.imarcgroup.com/front/img/logo-icon.png" alt="IMARC"/></a> 
+									</div>
+									<div class="col-md-6 col-xs-6">
+										<a style="float:right" class="hidden-md- hidden-lg" data-toggle="modal" data-target="#modal1" ><i style="padding: 25px 8px 8px 8px;" class="fa fa-search"></i></a> 
+									</div>
+								</div>-->
+								<a class="logo" href="https://www.imarcgroup.com"><img style="max-width:70px;z-index:100001" src="https://www.imarcgroup.com/front/img/logo-icon.png" alt="IMARC"></a> 
                             </div>
                                 <div class="nav-sticky">
+									
                                     <div class="owl-contener clearfix">
                                         <div class="cat-title"></div>
                                         <ul class="owl-menu menu-content">
                                             <!--=========== Single Menu ===============-->
-                                            <li> <a class="" href="http://www.imarcgroup.com">Home</a>
+                                            <li> <a class="" href="https://www.imarcgroup.com">Home</a>
                                             </li>
                                             <!--=========== Single Menu ===============-->
-                                            <li> <a class="" href="http://www.imarcgroup.com/about-us">About Us</a></li>
+                                            <li> <a class="" href="https://www.imarcgroup.com/about-us">About Us</a></li>
                                             <!--=========== Single Menu ===============-->
-                                            <li class="single-dropdown"> <a class="" href="http://www.imarcgroup.com/services">Services</a>
+                                            <li class="single-dropdown"> <a class="" href="https://www.imarcgroup.com/services">Services</a>
                                                 <ul class="owl-nav-list-single" style="border-bottom:4px solid #c4e17f;padding:10px">
                                                 	<div class="break" style="overflow:hidden">
                                                                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/market-assessment-reports">
+                                                                <a href="https://www.imarcgroup.com/services/market-assessment-reports">
                                                                     Market/Product Assessment Reports                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/procurement-supply-chain-research">
+                                                                <a href="https://www.imarcgroup.com/services/procurement-supply-chain-research">
                                                                     Procurement and Supply Chain Research                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/data-modeling">
+                                                                <a href="https://www.imarcgroup.com/services/data-modeling">
                                                                     Data Modeling and Forecasting | IMARC Group                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/import-export-trade-data">
+                                                                <a href="https://www.imarcgroup.com/services/import-export-trade-data">
                                                                     Global Import and Export Trade Data                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/financial-research">
+                                                                <a href="https://www.imarcgroup.com/services/financial-research">
                                                                     Financial Research                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/customised-services">
+                                                                <a href="https://www.imarcgroup.com/services/customised-services">
                                                                     Customised Research                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/syndicated-research">
+                                                                <a href="https://www.imarcgroup.com/services/syndicated-research">
                                                                     Syndicated Research                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/consulting-services">
+                                                                <a href="https://www.imarcgroup.com/services/consulting-services">
                                                                     Consulting services                                                                </a>
                                                             </li>
                                                                                                                         <li class="" style="margin-bottom:0px;">
-                                                                <a href="http://www.imarcgroup.com/services/cost-modelling-forecasting-services">
+                                                                <a href="https://www.imarcgroup.com/services/cost-modelling-forecasting-services">
                                                                     Cost Modeling and Forecasting Services                                                                </a>
                                                             </li>
                                                                                                                                                                                             </div>
 																
 														<div class="row">
-															<div class="col-md-9"></div>
-															<div class="col-md-3">
+															<div class="col-md-6"></div>
+															<div class="col-md-6">
 																
-																<a href="http://www.imarcgroup.com/services" class="flat  sm red" style="margin-top:15px;margin-botton:16px;background-color:#000;color:white">All Services</a>
+																<a href="https://www.imarcgroup.com/services" class="flat  sm red" style="text-align:center;margin-top:15px;margin-botton:16px;background-color:#000;color:white">All Services</a>
 															</div>
 															
 														</div>
                                                 </ul>
                                             </li>
 											<li class="single-dropdown"> <a href="#">Category</a>
-												<ul class="owl-nav-list-single" style="overflow: visible;width: 208px;top: 55px;border-bottom:4px solid #c4e17f;padding:10px">
-												
+												<ul class="owl-nav-list-single" style="border-bottom:4px solid #c4e17f;padding:10px">
+												<div class="break" style="overflow:hidden">
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/agriculture-market-reports">Agriculture</a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/agriculture-market-reports">Agriculture</a>
 																										</li>
 
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/energy-market-reports">Energy &amp; Mining</a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/energy-market-reports">Energy &amp; Mining</a>
 																										</li>
 
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/chemicals-market-reports">Chemical &amp; Materials</a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/chemicals-market-reports">Chemical &amp; Materials</a>
 																										</li>
 
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/technology-market-reports">Technology &amp; Media</a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/technology-market-reports">Technology &amp; Media</a>
 																										</li>
 
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/retail-market-reports">Retail </a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/retail-market-reports">Retail </a>
 																										</li>
 
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/food-beverages-market-reports">Food &amp; Beverages</a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/food-beverages-market-reports">Food &amp; Beverages</a>
 																										</li>
 
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/healthcare-market-research-reports">Healthcare</a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/healthcare-market-research-reports">Healthcare</a>
 																										</li>
 
 																								
 
-													<li class="single-dropdown"><a href="http://www.imarcgroup.com/categories/packaging-market-reports">Packaging</a>
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/packaging-market-reports">Packaging</a>
+																										</li>
+
+																								
+
+													<li class="single-dropdown"><a href="https://www.imarcgroup.com/categories/heavy-industry">Heavy Industry</a>
 																										</li>
 
 													
+													
+													</div>
+													
 													<div class="row">
-														<div class="col-md-12">
+														<div class="col-md-6"></div>
+														<div class="col-md-6">
 															
-															<a href="http://www.imarcgroup.com/categories" class="flat  sm red" style="text-align:center;margin-top:15px;margin-botton:16px;background-color:#000;color:white">All Category</a>
+															<a href="https://www.imarcgroup.com/categories" class="flat  sm red" style="text-align:center;margin-top:15px;margin-botton:16px;background-color:#000;color:white">All Category</a>
 														</div>
 													</div>
 												</ul>
 											</li>
-                                            <li> <a class="" href="http://www.imarcgroup.com/casestudy">Case Studies</a></li>
-                                            <li> <a class="" href="http://www.imarcgroup.com/career">Careers</a></li>
-                                            <li class="mobileshow"> <a class="" href="http://www.imarcgroup.com/categories">All Categories</a></li>
-                                            <li> <a class="" href="http://www.imarcgroup.com/contact-us">Contact Us</a></li>
+                                            <li> <a class="" href="https://www.imarcgroup.com/casestudy">Case Studies</a></li>
+                                            <li> <a class="" href="https://www.imarcgroup.com/career">Careers</a></li>
+                                            <li class="mobileshow"> <a class="" href="https://www.imarcgroup.com/categories">All Categories</a></li>
+                                            <li> <a class="" href="https://www.imarcgroup.com/contact-us">Contact Us</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -283,9 +448,9 @@
                     </div>
                     <!-- Breadcrumbs Right -->
                     <div class="col-md-8 center">
-                        <ol id="breadcrumbId" vocab="http://schema.org/" typeof="BreadcrumbList" class="breadcrumbs fright">
+                        <ol style="margin-top:15px;" id="breadcrumbId" vocab="https://schema.org/" typeof="BreadcrumbList" class="breadcrumbs fright">
                                                             <li id="breadcrumbIdFirst" property="itemListElement" typeof="ListItem">
-                                    <a property="item" typeof="WebPage" href="http://www.imarcgroup.com">
+                                    <a property="item" typeof="WebPage" href="https://www.imarcgroup.com">
                                         <span property="name">Home</span>
                                     </a>
 									<meta property="position" content="1">
@@ -311,9 +476,9 @@
                                         <div class="row">
                                                                                             <div class="col-sm-6 col-md-6 ">
                                                     <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/agriculture-market-reports';">
+                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/agriculture-market-reports';">
 
-                                                                                                                            <div class="col-center"> <img title="Agriculture" style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/2/agriculture-industry.jpg">
+                                                                                                                            <div class="col-center"> <img title="Agriculture" style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/2/agriculture-industry.jpg">
                                                                 </div>
                                                                 
                                                         </div>
@@ -321,8 +486,8 @@
                                                 </div>
                                                                                                                                                             <div class="col-sm-6 col-md-6 verticalLine">
                                                             <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/energy-market-reports';">
-                                                                                                                                            <div class="col-center"> <img title="Energy &amp; Mining" style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/3/energy and mining industry.png">
+                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/energy-market-reports';">
+                                                                                                                                            <div class="col-center"> <img title="Energy &amp; Mining" style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/3/energy and mining industry.png">
                                                                         </div>
                                                                                                                                         </div>
                                                             </div>
@@ -333,9 +498,9 @@
                                         <div class="row">
                                                                                             <div class="col-sm-6 col-md-6 verticalLine ">
                                                     <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/chemicals-market-reports';">
+                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/chemicals-market-reports';">
 
-                                                                                                                            <div class="col-center"> <img title="Chemical &amp; Materials" style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/4/chemical-industry.png">
+                                                                                                                            <div class="col-center"> <img title="Chemical &amp; Materials" style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/4/chemical-industry.png">
                                                                 </div>
                                                                 
                                                         </div>
@@ -343,8 +508,8 @@
                                                 </div>
                                                                                                                                                             <div class="col-sm-6 col-md-6 verticalLine">
                                                             <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/technology-market-reports';">
-                                                                                                                                            <div class="col-center"> <img title="Technology &amp; Media" style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/5/satellite.png">
+                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/technology-market-reports';">
+                                                                                                                                            <div class="col-center"> <img title="Technology &amp; Media" style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/5/satellite.png">
                                                                         </div>
                                                                                                                                         </div>
                                                             </div>
@@ -355,9 +520,9 @@
                                         <div class="row">
                                                                                             <div class="col-sm-6 col-md-6 verticalLine ">
                                                     <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/retail-market-reports';">
+                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/retail-market-reports';">
 
-                                                                                                                            <div class="col-center"> <img title="Retail " style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/7/Retail Industry.png">
+                                                                                                                            <div class="col-center"> <img title="Retail " style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/7/Retail Industry.png">
                                                                 </div>
                                                                 
                                                         </div>
@@ -365,8 +530,8 @@
                                                 </div>
                                                                                                                                                             <div class="col-sm-6 col-md-6 verticalLine">
                                                             <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/food-beverages-market-reports';">
-                                                                                                                                            <div class="col-center"> <img title="Food &amp; Beverages" style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/8/food and beverage industry.png">
+                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/food-beverages-market-reports';">
+                                                                                                                                            <div class="col-center"> <img title="Food &amp; Beverages" style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/8/food and beverage industry.png">
                                                                         </div>
                                                                                                                                         </div>
                                                             </div>
@@ -377,9 +542,9 @@
                                         <div class="row">
                                                                                             <div class="col-sm-6 col-md-6 verticalLine ">
                                                     <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/healthcare-market-research-reports';">
+                                                        <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/healthcare-market-research-reports';">
 
-                                                                                                                            <div class="col-center"> <img title="Healthcare" style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/9/healthcare-industry.png">
+                                                                                                                            <div class="col-center"> <img title="Healthcare" style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/9/healthcare-industry.png">
                                                                 </div>
                                                                 
                                                         </div>
@@ -387,8 +552,8 @@
                                                 </div>
                                                                                                                                                             <div class="col-sm-6 col-md-6 verticalLine">
                                                             <div class="circle-only-border oval-icon icon-hover-zoom">
-                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'http://www.imarcgroup.com/categories/packaging-market-reports';">
-                                                                                                                                            <div class="col-center"> <img title="Packaging" style="min-height:42px;max-height:42px;" src="http://www.imarcgroup.com/files/category-thumbnail/10/Packaging Industry.png">
+                                                                <div class="icon-box center style-side-2 pointer" onclick="location.href = 'https://www.imarcgroup.com/categories/packaging-market-reports';">
+                                                                                                                                            <div class="col-center"> <img title="Packaging" style="min-height:42px;max-height:42px;" src="https://www.imarcgroup.com/files/category-thumbnail/10/Packaging Industry.png">
                                                                         </div>
                                                                                                                                         </div>
                                                             </div>
@@ -453,16 +618,16 @@ We reserve the right to disclose your personal information under certain legal s
                     <div class="title"><h3 style="    font-size: 20px;    margin: 0 0 0px;"> Imarc In The News </h3> </div>
                     <div class="news">
                         <ul>
-                                                        <li><a href="http://www.fnbnews.com/FB-Specials/As-Thomas-wants-separate-ministry-for-dairy-sector-likely-to-see-opportunities">As Thomas wants separate ministry for dairy, sector likely to see opportunities</a></li>
-                                                        <li><a href="http://www.fnbnews.com/Interview/sectorisation-will-see-over-140-cos-line-up-for-power-brands-segment-40111">“Sectorisation will see over 140 cos line up for Power Brands segment”</a></li>
-                                                        <li><a href="http://economictimes.indiatimes.com/industry/cons-products/food/indian-dairy-firms-now-look-to-sell-protein-supplements-added-milk/articleshow/55891707.cms">Indian Dairy Firms Now Look to Sell Protein Supplements Added Milk</a></li>
-                                                        <li><a href="http://saudigazette.com.sa/business/worlds-largest-food-event-generate-record-trade-feb/">World’s Largest Food Event to Generate Record Trade in Feb.</a></li>
+                                                        <li><a href="http://saudigazette.com.sa/article/169261/Worlds-largest-food-event-to-generate-record-trade-in-Feb">World’s largest food event to generate record trade in Feb</a></li>
+                                                        <li><a href="https://www.financialexpress.com/industry/a-glass-full-of-innovation/1184443/">A glass full of innovation</a></li>
+                                                        <li><a href="https://www.financialexpress.com/industry/yet-another-white-revolution/1184435/">Yet another white revolution</a></li>
+                                                        <li><a href="https://economictimes.indiatimes.com/industry/cons-products/food/indian-dairy-firms-now-look-to-sell-protein-supplements-added-milk/articleshow/55891707.cms">Indian Dairy Firms Now Look to Sell Protein Supplements Added Milk</a></li>
                                                         <li><a href="http://www.mckesson.com/blog/the-business-of-health-care-december-2016/">The Business of Health Care December 2016</a></li>
                                                     </ul>
                     </div>
                 </div>
                 <div class="col-sm-12 col-xs-12 col-md-3">
-                    <a href="http://www.imarcgroup.com/imarc-in-the-news" class="flat fl-round sm red">View All News</a>
+                    <a href="https://www.imarcgroup.com/imarc-in-the-news" class="flat fl-round sm red">View All News</a>
                 </div>
             </div>
                         <div class="row">
@@ -483,22 +648,22 @@ We reserve the right to disclose your personal information under certain legal s
                     <div class="row">
                         <div class="col-sm-6 col-xs-6 col-md-6">
                             <ul class="list-style-2">
-                                <li><a href="http://www.imarcgroup.com/about-us" style="font-size:16px;color:white"><i class="line-mrker"></i>About Us</a></li>
-                                <li><a href="http://www.imarcgroup.com/services" style="font-size:16px;color:white"><i class="line-mrker"></i>Services</a></li>
-                                <li><a href="http://www.imarcgroup.com/categories" style="font-size:16px;color:white"><i class="line-mrker"></i>Categories</a></li>
-                                <li><a href="http://www.imarcgroup.com/reports" style="font-size:16px;color:white"><i class="line-mrker"></i>Latest</a></li>
-                                <li><a href="http://www.imarcgroup.com/unpublished-reports" style="font-size:16px;color:white"><i class="line-mrker"></i>Upcoming</a></li>
-                                <li><a href="http://www.imarcgroup.com/popular-reports" style="font-size:16px;color:white"><i class="line-mrker"></i>Popular</a></li>
+                                <li><a href="https://www.imarcgroup.com/about-us" style="font-size:16px;color:white"><i class="line-mrker"></i>About Us</a></li>
+                                <li><a href="https://www.imarcgroup.com/services" style="font-size:16px;color:white"><i class="line-mrker"></i>Services</a></li>
+                                <li><a href="https://www.imarcgroup.com/categories" style="font-size:16px;color:white"><i class="line-mrker"></i>Categories</a></li>
+                                <li><a href="https://www.imarcgroup.com/reports" style="font-size:16px;color:white"><i class="line-mrker"></i>Latest</a></li>
+                                <li><a href="https://www.imarcgroup.com/unpublished-reports" style="font-size:16px;color:white"><i class="line-mrker"></i>Upcoming</a></li>
+                                <li><a href="https://www.imarcgroup.com/popular-reports" style="font-size:16px;color:white"><i class="line-mrker"></i>Popular</a></li>
                             </ul>
                         </div>
                         <div class="col-sm-6 col-xs-6 col-md-6">
                             <ul class="list-style-2">
-                                <li><a href="http://www.imarcgroup.com/terms-conditions" style="font-size:16px;color:white"><i class="line-mrker"></i>T&amp;C</a></li>
-                                <li><a href="http://www.imarcgroup.com/privacy-policy" style="font-size:16px;color:white"><i class="line-mrker"></i>Privacy Policy</a></li>
-                                <li><a href="http://www.imarcgroup.com/faq" style="font-size:16px;color:white"><i class="line-mrker"></i>FAQs</a></li>
-                                <li><a href="http://www.imarcgroup.com/sitemap" style="font-size:16px;color:white"><i class="line-mrker"></i>Sitemap</a></li>
-                                <li><a href="http://www.imarcgroup.com/contact-us" style="font-size:16px;color:white"><i class="line-mrker"></i>Contact Us</a></li>
-                                <li><a href="http://www.imarcgroup.com/pressrelease" style="font-size:16px;color:white"><i class="line-mrker"></i>Press Releases</a></li>								
+                                <li><a href="https://www.imarcgroup.com/terms-conditions" style="font-size:16px;color:white"><i class="line-mrker"></i>T&amp;C</a></li>
+                                <li><a href="https://www.imarcgroup.com/privacy-policy" style="font-size:16px;color:white"><i class="line-mrker"></i>Privacy Policy</a></li>
+                                <li><a href="https://www.imarcgroup.com/faq" style="font-size:16px;color:white"><i class="line-mrker"></i>FAQs</a></li>
+                                <li><a href="https://www.imarcgroup.com/sitemap" style="font-size:16px;color:white"><i class="line-mrker"></i>Sitemap</a></li>
+                                <li><a href="https://www.imarcgroup.com/contact-us" style="font-size:16px;color:white"><i class="line-mrker"></i>Contact Us</a></li>
+                                <li><a href="https://www.imarcgroup.com/pressrelease" style="font-size:16px;color:white"><i class="line-mrker"></i>Press Releases</a></li>								
                             </ul>
                         </div>
                     </div>							
@@ -566,32 +731,128 @@ We reserve the right to disclose your personal information under certain legal s
         </div>
     </div>
 </footer>
+<!--
+<div class="modal fade" style="padding:0 0 0 0px !important;background:#ffffff" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content modal-content-one" style="box-shadow:none;border:none">
+				<div class="modal-header" style="border-bottom:0">
+					<button type="button" class="close" data-dismiss="modal"  onclick="$('#search-query-box').val('');$('#search-list-area').html('');"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+				</div>
+				<div class="modal-body">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="input-group">
+									<input type="text" class="form-control SearchBar1" placeholder="Search" id="search-query-box" onkeyup="searchQuery()">
+									<div class="input-group-btn">
+									  <button class="btn1 btn btn-default " type="button">
+										<i class="fa fa-search"></i>
+									  </button>
+									</div>
+								</div>
+								<br>
+								<div class="row">
+									<div class="col-md-12" style="text-align:left">
+										<h3 style="color:#3560af" style="margin-bottom:0">Reports</h3>
+										<ul class="list-unordered text-lg text-dark" style="margin-bottom: 0px;margin-top: 18px; list-style-type:none;"  id="search-list-area">
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+-->
+<div class="modal fade" style="padding:0 0 0 0px !important;background:#ffffff" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content modal-content-one" style="box-shadow:none;border:none">
+            <div class="modal-header" style="border-bottom:0">
+                <button type="button" class="close" data-dismiss="modal" onclick="$('#search-query-box').val('');$('#search-list-area').html('');"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <div class="input-group">
+                                <input type="text" class="form-control SearchBar1" placeholder="Search" id="search-query-box" onkeyup="searchQuery()">
+                                <div class="input-group-btn">
+                                    <button class="btn1 btn btn-default " type="button">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </div>
+                            </div>
+						</div>
+					</div>
+				</div>
+				<div class="container" style="margin-top:20px;">
+                    <div class="row">
+                        <div class="col-md-12">			
+							<div class="hide" style="text-align:left;" id="do-you-mean-area">
+								<h3 style="color:#000000;font-size:18px;margin:0">
+									<span>Do you mean </span>
+									<span style="color:#3560af; cursor:pointer" id="do-you-mean-text" onclick="doYouMean();"></span></h3>
+							</div> 
+                            <br>
+                            <div class="row">
+                                <div class="col-md-4 search-area-outer hide" style="text-align:left">
+                                    <h3 style="color:#3560af;margin:0">Reports</h3>
+                                    <ul class="list-unordered text-lg text-dark" style="margin-bottom: 0px;margin-top: 18px; list-style-type:none;" id="search-list-area">
+
+                                    </ul>
+                                </div>
+                                
+                                <div class="col-md-4 search-area-outer hide" style="text-align:left">
+                                    <h3 style="color:#3560af;margin:0">Press Releases</h3>
+                                    <ul class="list-unordered text-lg text-dark" style="margin-bottom: 0px;margin-top: 18px; list-style-type:none;" id="search-list-area-pressreleases">
+
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-4 search-area-outer hide" style="text-align:left">
+                                    <h3 style="color:#3560af;margin:0">Blogs</h3>
+                                    <ul class="list-unordered text-lg text-dark" style="margin-bottom: 0px;margin-top: 18px; list-style-type:none;" id="search-list-area-blogs">
+
+                                    </ul>
+                                </div>                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- BEGIN: CORE PLUGINS -->
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/bootstrap.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/jquery-ui.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/jquery.easing.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/modernizr.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/jquery-waypoint.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/jquery-ui.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/jquery.easing.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/modernizr.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/jquery-waypoint.js"></script>
 <!-- END: CORE PLUGINS -->
 <!-- BEGIN: LAYOUT PLUGINS -->
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/jquery.slimscroll.min.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/slider.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/jquery.sticky.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/sticky-sidebar.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/owlmenu.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/owl.carousel.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/parallax.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/equalheight.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/jquery.slimscroll.min.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/slider.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/jquery.sticky.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/sticky-sidebar.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/owlmenu.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/owl.carousel.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/parallax.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/equalheight.js"></script>
 <!-- END: LAYOUT PLUGINS -->
 <!-- BEGIN: THEME SCRIPTS -->
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/elements/tabs.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/elements/accordion.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/elements/animated-div.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/elements/count-plugin.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/elements/progress-bars.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/elements/search-and-side-navigation.js"></script>
-<script type="text/javascript" src="http://www.imarcgroup.com/front/js/plugins/forms.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/elements/tabs.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/elements/accordion.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/elements/animated-div.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/elements/count-plugin.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/elements/progress-bars.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/elements/search-and-side-navigation.js"></script>
+<script type="text/javascript" src="https://www.imarcgroup.com/front/js/plugins/forms.js"></script>
 <script type="text/javascript">
     $(function () {
         $('.inner-content-div').slimScroll({
