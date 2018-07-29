@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628193935id_/http%3A//content.stocktrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730002330id_/https%3A//content.stocktrak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StockTrak Product Pages
 
