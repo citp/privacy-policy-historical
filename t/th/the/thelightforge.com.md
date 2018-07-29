@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelightforge.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704221250id_/http%3A//thelightforge.com//About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelightforge.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729065729id_/http%3A//thelightforge.com//About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Lightforge - PrivacyPolicy
 
@@ -48,4 +48,4 @@ We reserve the right to update this privacy statement from time to time. We enco
 
 The Lightforge welcomes your comments regarding this privacy statement. If you believe that The Lightforge has not adhered to this privacy statement, please contact us electronically at the following email address, and we will use commercially reasonable efforts to promptly determine and remedy the problem:
 
-E-mail: grinninggoatgaming@gmail.com
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
