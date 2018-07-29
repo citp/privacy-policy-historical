@@ -1,101 +1,99 @@
-> *The following text is extracted and transformed from the fibaro.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409034929id_/https%3A//www.fibaro.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibaro.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729084345id_/https%3A//www.fibaro.com/en/privacy-policy) for the most accurate reproduction.*
 
-# FIBARO | Privacy policy
+# Privacy policy | FIBARO
 
-## Privacy policy and cookies policy of the website maintained on the domains and sub-domains of fibaro.com, and services provided by Fibar Group
+## Privacy and cookie policy for the Internet website in fibaro.com domains and subdomains, as well as services provided by Fibar Group S.A.
 
 ### GENERAL PROVISIONS
 
-  1. The present document regulates the Privacy policy and cookies policy of the website maintained on the domains and sub-domains of fibaro.com and services provided by Fibar Group (hereinafter referred to as the Website and Services). Fibar Group S.A. shall exercise due diligence in order to respect the privacy of the Website Users. By using the products, services, or websites of Fibar Group S.A. you accept the manner in which personal data is collected and used for the purposes described in the present document.
-  2. The present Website and Services document is meant to be informative which means it not a source of obligations for the Service Recipients or the Website Clients.
-  3. The Administrator of the personal data collected via the the products of the Website and Services is FIBAR GROUP Spółka Akcyjna w Poznaniu, ul. Lotnicza 1; 60-421 Poznań, entered into the Register of Businesses of the National Court Register (KRS) kept by the District Court Poznań Nowe Miasto i Wilda in Poznań, VIII Commercial Division of the National Court Register under no.: 553265, NIP 7811858097, share capital 1,063,850 PLN, e-mail address - [admin@fibaro.com](mailto:admin@fibaro.com)
-  4. Personal data of the users is processed in accordance with the Personal Data Protection Act of 29 August 1997 (hereinafter referred to as the personal data protection act – PDPA) and the Act of 18 July 2002 on provision of services by electronic means
-  5. The Administrator of personal data shall carefully exercise due diligence in order to protect the rights of the Users whose data is subject to processing and particularly shall ensure that the data is:
-    * processed in accordance with the law,
-    * collected for the purposes described in the present document which are in accordance with the law,
-    * not subjected to further processing which is incompatible with the purposes stated above
-    * factually correct and accurate in relation to the purposes for which they are processed
-    * adequately secure,
-    * stored in a manner which allows for the identification of the persons they pertain to but not longer than it is necessary to achieve the purpose of the processing
-  6. Since the Administrator of personal data provides services all over the world and cooperates with partners all over the world, access to the data of our clients may be available to to partners in regions where laws regarding the collection and use of personal data may be different than the European law so one should remember that personal data will be transferred to other Countries, including the United States of America and by submitting your personal data the users consent to such transfers.  
-Fibar Group S.A. is aware of the regulations contained in the Privacy Shield developed by the U.S. Department of Commerce and European Commission to provide companies with mechanisms to comply with EU data protection requirements when transferring personal data from the European Union to the United States.
+  1. This document sets out rules of Privacy and Cookie Policy for the website operated in fibaro.com domains and subdomains and services provided by Fibar Group (hereinafter referred to the Website and Service). Fibar Group S.A. shall exercise due diligence to respect the privacy of the Website Users. By using products, services or websites of Fibar Group S.A. you accept the method of personal data collection and use for the purposes described herein.
+  2. This document of the Website and Service is informational which means that it is not a source of obligations for the Customers and Website Clients.
+  3. The Controller of personal data collected by means of the Website and Services is FIBAR GROUP Spółka Akcyjna company in Poznań, ul. Lotnicza 1; 60-421 Poznań, entered into the Register of Entrepreneurs kept by the District Court Poznan Nowe Miasto and Wilda in Poznań, 8th Commercial Division of the National Court Register under number: 553265, NIP [tax identification number] 7811858097, share capital PLN 1,063,850.00, e-mail address [dpo@fibaro.com](mailto:dpo@fibaro.com)
+  4. Personal data of the users are processed in accordance with the Regulation of the European Parliament and Council (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), as well Polish national regulations. 
+  5. Personal data Controller shall exercise due diligence to protect the rights of the users whose data are subject to processing, and shall in particular ensure that the data are:
+    * processed lawfully, fairly and transparently for the data subject,
+    * collected for the purposes that are defined herein, and that are specific, clear, legally justified and lawful,
+    * not subject to further processing in a manner that is inconsistent with the above purposes,
+    * factually accurate, relevant, limited to what is necessary and relevant for the purposes for which they are processed,
+    * correct and updated when needed,
+    * appropriately secured,
+    * kept in a form which permits identification of data subjects for no longer than is necessary for the purpose of processing
+  6. The personal data Controller provides services all over the world and cooperates with partners all over the world, therefore the data of our customers may be accessed by partners from regions of the world, where the laws concerning the collection and use of data will differ from the European law, so remember that the personal data will be transferred to other countries (i.e. countries outside the European Economic Area) including the United States and by providing your personal data, you give your consent to this transfer. Fibar Group S.A is aware of the application and applies the provisions contained in the Privacy Shield, which has been developed by the U.S. Department of Commerce and the European Commission to enable companies to comply with EU data protection requirements when transferring personal information from the European Union to the United States.
 
 
 
-### THE PURPOSE AND SCOPE OF DATA COLLECTION AND THE DATA RECIPIENTS
+### BASIC INFORMATION ON THE PROCESSING OF PERSONAL DATA
 
-  1. In every instance, the purpose and the scope of the data processed by the Administrator is a result of the actions undertaken by the Service Recipient or the Client while using the services, products, or websites.  
-The list of possible purposes of collecting personal data from Service Recipients or Clients by the Administrator includes:
-    1. personalizing and adjusting our home automation services and products.
-    2. improving customer service, the submitted information shall help us react to the requests and needs of the clients more effectively and offer support in delivering services.
-    3. processing orders, warranty claims and payments from our users, independent dealers and distributors.
-    4. launching special offers, competitions, reviews, and other functions
-    5. performing market research about our users in order to improve our marketing campaigns and the content of our websites
-    6. telephone contact with the Clients in order to discuss the services the Clients are using, access to your account or answering requests and questions
-    7. other purposes if consent is given.
-    8. presenting business offers
-    9. sending the newsletter
-    10. contract completion and providing services to the persons to whom they pertain.
-    11. direct marketing of own products or services of the Administrator.
-  2. The Administrator may process the following personal data of the Service Recipients or Clients:
-    1. first and last name,
+  1. Each time the purpose and scope of data processed by the Controller results from the actions taken by the user while using the Website or Services. Possible purposes of collecting personal data of the users by the Collector are:
+    1. personalisation and adjustment of your services and products related to home automatics.
+    2. improved customer service, as the provided information can help us react more effectively to the requests and needs of the customers, as well as improve the provision of services.
+    3. processing of orders, warranty claims and payment from our users, independent dealers and distributors.
+    4. activating deals, contests, reviews and other functions.
+    5. carrying out market surveys concerning our users to improve our marketing campaigns and website content,
+    6. phone contact with you to discuss services that you use, access to your account or receiving requests and answering questions.
+    7. other purposes if we obtain consent for them.
+    8. presentation of the commercial offer.
+    9. sending a newsletter.
+    10. performance of the contract and provision of services to the persons concerned.
+    11. direct marketing of the Collector’s own products or services.
+  2. The Collector may process the following personal data of Customers and Clients:
+    1. name and surname,
     2. address of residence,
-    3. telephone number,
+    3. phone number,
     4. e-mail address,
-    5. IP address of the purchased device
-    6. voice timbre (biometric data),
-    7. device serial number,
-    8. postcode.
-    9. general localization data (country, city, region),
-    10. types of devices used for accessing the website,
-    11. usage statistics (eg. Time of usage, number of active users),
-  3. Submitting the personal data enumerated above may be necessary to conclude and complete a Sale Agreement or an Electronic Service Provision via Website Agreement. In every instance, the scope of the data necessary to conclude an agreement is stated prior on the Website and in the Website Rules.  
-The Administrator of personal data stipulates that, in accordance with the personal data protection act, they may entrust the processing of personal data of the Users whose data they administrate, to other companies so that they may properly complete their duties pertaining to hosting, administration, maintaining and managing the Website and Services, as well as redressing and addressing the circumstances of prohibited use of services provided electronically.
+    5. IP of the purchased device,
+    6. tone of voice (biometric data)
+    7. serial number of the device,
+    8. zip code,
+    9. general location information (country, city, region),
+    10. type of devices used,
+    11. user statistics (e.g. use duration, number of active users).
+  3. Recipients / categories of recipients of the obtained personal data may be the following: other entities providing relevant services related to hosting, administration, maintenance and management of the Website and Services, as well as to the pursuit of claims and clarification of the circumstances of unauthorised use of the services provided electronically.
+  4. The obtained personal data shall be processed for the following period: 36 months.
+  5. The provision of the personal data referred to above shall not be a statutory requirement but may be necessary for the conclusion and performance of the Sales Agreement or the agreement for the provision of an Electronic Service on the Website. Failure to provide personal data may result in the inability to perform or to properly perform the above agreements. Each time the scope of data required to conclude an agreement is indicated in advance on the Website and in the Terms and Conditions of the Website.
+  6. Decisions made with regard to obtained personal data shall not be made automatically. Personal data shall not be subject to profiling.
 
 
 
 ### COOKIES AND OPERATIONAL DATA
 
-  1. Cookies are text files which are saved and stored in the memory of the device used to browse websites (eg. A personal computer, notebook, tablet, palmtop, mobile phone). After the files are saved a server, or servers connect to them to obtain appropriate access.
-  2. The Website and Services uses cookies the purposes of:
+  1. Cookie files are text files that are saved and stored in the memory of a device used for browsing websites (e.g. PC, notebook, tablet, PDA, mobile phone). Those files, once they are saved, are accessed by a server or servers.
+  2. The Website and Services are using cookie files for the following purposes:
     1. statistics,
-    2. Website and Services configuration – they allow to set functions and services on the website,
-    3. authentication – they may inform the user that they are logged in allowing the website to show appropriate information and functions.
-    4. analyzing and researching the behaviors of users – cookies allow for the reading the users' preferences, and through their analysis, the improvement and development of products and services. Information gathering is anonymous, without identifying particular users, unless the user logs into the Client Panel and the settings of their terminal allow for such an identification.
-    5. advertising – they enable advertisements which are more interesting for the users and may be personalized.
-  3. By changing the settings of the software used to browse the Website the Users may define the conditions of storing and accessing cookies used by this Website, in particular they may choose to completely deactivate cookies.
-  4. One should remember that deleting or blocking cookies may result in certain sections of the present website not working and displaying as intended.
-  5. In order to change the settings pertaining to cookies one needs to adequately configure the software used for browsing the Website. Relevant information may be obtained by contacting the technical support of the said software or its supplier.
-  6. Not modifying the settings of the software used for browsing the Website, in accordance with Article 173 (2) of the Law on Telecommunications, constitutes consent for the Website to use cookies for the purposes stated above.
+    2. Website and Services configuration - to enable settings of functions and services on the website.
+    3. authorization - to inform the user that he/she is logged in thanks to which the website can show appropriate information and functions.
+    4. user behaviour analysis and research - to learn about user preferences and analyse them in order to improve and develop products and services. The information is collected anonymously, without identifying personal data of individual users, unless the user logs in to the Customer Panel, and the user's terminal equipment settings allow for such identification.
+    5. advertisements - to enable the display of advertisements that are of greater interest to users, as well as the personalisation of advertisements.
+  3. By changing the settings of the software used to browse the Website, it is possible to determine the conditions for storing and for accessing the cookies used by the Website, and in particular, it is possible to disable their use completely.
+  4. Please note, however, that deleting or blocking cookies may result in certain sections of our website not functioning properly.
+  5. In order to change the settings related to the handling of cookies, it is necessary to configure the software used to browse the Website. For relevant information on the subject, contact technical support for such software or its supplier.
+  6. Lack of changes to the settings of the software used to browse the Website shall constitute, pursuant to Article 173, passage 2 of the Telecommunications Law Act consent to the use of cookies by the Website for the purposes specified above.
 
 
 
-### THE BASIS FOR DATA PROCESSING
+### GROUNDS FOR DATA PROCESSING
 
-  1. The submission of personal data by the Service Recipient or the Client is voluntary. The Administrator processes the data obtained on the basis of Article 23(1) of the personal data protection act in order to:
-    * send business offers
-    * send the newsletter
-    * perform the contract and provide services to persons whom it concerns.
+  1. The obtained personal data may be processed: A) pursuant to the consent given by person whom the data concern and B) pursuant to the rule on the basis of which the processing of personal data is permitted by law where it is necessary for the performance of a contract to which the data subject is party, and C) pursuant to the rule on the basis of which the processing of personal data is permitted it is necessary for the purposes of the legally justified interests pursued by the controller (in particular interested related to direct marketing of the Controller and the correct provision of services).
+  2. As regards the case defined in point 1.A above, the consent to the processing of personal data collected is given voluntarily, and the person granting consent has the right at any time to withdraw this consent without affecting the lawfulness of the processing of personal data, which took place before the withdrawal of consent. Consent may be withdrawn by writing an e-mail to the following address: r.leszczynski@fibaro.com.
 
 
 
-### THE RIGHT TO CONTROL, ACCESS, AND MODIFY PERSONAL DATA
+### THE RIGHT OF ACCESS TO THE CONTENT OF YOUR DATA AND OTHER RIGHTS
 
-  1. The Service Recipient or Client has the right to access the content of their personal data and correct it.
-  2. Every person has the right to control the processing of the data which pertains to them, contained in the Administrator's database, particularly the right to: demand a supplementing, updating, correction of personal data, temporary or permanent deletion of the data, if the data is incomplete, obsolete, false, or has been collected through an infringement of the act or are no longer necessary to complete the purpose for which they had been gathered.
-  3. Should the Service Recipient or the Client give their consent to data processing for the purposes of direct marketing of the Administrator's own products or services the consent may be withdrawn at any time.
-  4. Should the Administrator aim to process or is processing the Service Recipient's or the Client's data for the purpose of direct marketing of the Administrator's own products or services, the person whom the data pertains to also has the right to:
-    * motion a written, motivated demand for cessation of personal data processing because of a special situation or to
-    * raise an objection against personal data processing.
-  5. In order to exercise the rights stated above one may contact the Administrator by sending an appropriate message in writing or by e-mail to the Administrator's address indicated in the general provisions of the present privacy policy.
-  6. We store the gathered data first and foremost for the purpose of delivering the highest possible level of quality of service in website and services administration. They also allow us to create statistics of usage based on user behavior. The collected data may be may be disclosed to third parties in a manner which does not enable the identification of the users, as well as to authorized bodies of public authorities.
+  1. The data subject shall have the right of access to the content of his/her personal data, the right to rectification, erasure or restriction of processing, the right to object to the processing thereof and the right to data portability.
+  2. The data subject shall have the right to lodge a complaint with the supervisory authority.
+  3. Notwithstanding the above, the data subject may object at any time to the processing of his/her personal data due to reasons related to his/her particular situation with regard to data processing carried out in connection with the controller’s justified interests, including profiling. The Controller shall no longer process such personal data unless he demonstrates that there are compelling legitimate grounds for processing overriding the interests, rights and freedoms of the data subject or grounds for establishing, pursuing or defending a claim.
+  4. If the Controller intends to process or processes the data of the Customer or the Client for the purpose of direct marketing of the Controller's own products or services, the data subject is also entitled to:
+    * object to the processing of his/her data, including profiling, in so far as the processing is linked to such direct marketing. If the data subject objects to the processing of his/her data for the purposes of direct marketing, then such personal data may no longer be processed for such purposes.
+  5. In order to exercise the rights referred to above, you may contact the Controller by sending an appropriate written message or e-mail to the address of the Controller indicated at the beginning of this Privacy Policy.
+  6. We store the collected data primarily in order to ensure the highest possible quality of administration of the Website and Services. In addition, the data are used to prepare statistics on how users use our Website and Services. The data collected may be disclosed to third parties in a manner that makes it impossible to identify the user, as well as to public authorities authorised by law.
 
 
 
 ### FINAL PROVISIONS
 
-  1. The Website and Services may contain links to other web pages. The Administrator encourages you to, once you navigate to the other pages, familiarize yourself with the privacy policies enforced therein. The present privacy policy is only relevant to this Website and Services.
-  2. The Administrator takes technical and organizational measures to ensure protection of the processed personal data that is adequate against existing hazards and categories of data held under the protection, particularly preventing the data from being shared to unauthorized persons, taken by unprivileged individuals, processing with an infringement of existing laws as well as modification, loss, damage, or destruction.
-  3. The Service Provider reserves the right to change the Privacy Policy and Cookies Policy.
+  1. The Website and Services may contain links to other websites. The controller strongly recommends that once you navigate to other pages, you should review the privacy policy set forth on other sites. This privacy policy applies only to this Website and Services.
+  2. The controller shall apply technical and organisational measures ensuring the protection of personal data processed appropriate to the risks and categories of data covered by the protection, and in particular shall protect the data against their disclosure to unauthorized parties, seizure by an unauthorized person, processing in breach of the applicable regulations and alteration, loss, damage or destruction.
+  3. The Service Provider reserves the right to change Privacy and Cookie Policy.
 
 
