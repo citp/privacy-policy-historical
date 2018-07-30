@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantvapes.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530065056id_/http%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantvapes.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730104121id_/https%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms for Giant Vapes | Giant Vapes
 
