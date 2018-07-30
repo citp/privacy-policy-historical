@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncat.edu privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324140946id_/http%3A//www.ncat.edu/legal/policies/sec8-univ-adv/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncat.edu privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730075331id_/https%3A//www.ncat.edu/legal/policies/sec8-univ-adv/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY
 
