@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stuffyoushouldknow.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403030737id_/https%3A//www.howstuffworks.com/privacy-stuff-media.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffyoushouldknow.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730205341id_/https%3A//www.stuffmedia.com/privacy-stuff-media.htm) for the most accurate reproduction.*
 
-# Privacy Statement for Stuff Media | HowStuffWorks
+# Privacy Statement for Stuff Media | Stuff Media
 
 This privacy policy applies to the websites that are owned and operated by Stuff Media LLC ("Stuff Media," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
@@ -133,6 +133,8 @@ We may use advertisers, third party ad networks, and other advertising companies
 For some of our Sites, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/). Some of our products may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft's personalized advertising services by following the instructions found [here](http://choice.microsoft.com/).
 
 You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) or who follow the [Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI site and DAA site.
+
+**More information about our specific Online Behavioral Advertising practices** can be found at [http://megaphone.fm/adchoices ](http://megaphone.fm/adchoices) as well as from their partner, Exelate (A Nielsen Company), at <http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html#choices>. You can opt out of certain Online Behavioral Practices at <http://exelate.com/privacy/opt-in-opt-out/>. 
 
 **J. Accessing Your Personally Identifiable Information and Privacy Preferences**
 
