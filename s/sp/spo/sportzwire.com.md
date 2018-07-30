@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportzwire.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607063738id_/http%3A//www.sportzwire.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportzwire.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730150202id_/http%3A//www.sportzwire.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports News on your Finger Tips! Cricket, Badminton, Football, Tennis much more!
 
