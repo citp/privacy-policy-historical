@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613220758id_/http%3A//on.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730181045id_/http%3A//on.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ON.com
 
