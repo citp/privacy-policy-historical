@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910070612id_/http%3A//privacypolicy.lexisnexis.com/vitalchek.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731003048id_/http%3A//privacypolicy.lexisnexis.com/vitalchek.html) for the most accurate reproduction.*
 
 # LexisNexis® Risk Solutions - VitalChek Privacy Policy
 
