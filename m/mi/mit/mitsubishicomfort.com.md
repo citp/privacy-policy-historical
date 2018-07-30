@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishicomfort.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531002017id_/http%3A//www.mitsubishicomfort.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishicomfort.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730195534id_/https%3A//www.mitsubishicomfort.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
