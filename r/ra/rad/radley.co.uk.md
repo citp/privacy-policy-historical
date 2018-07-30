@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514065652id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730235539id_/https%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -415,22 +415,6 @@ You have the right to:
 
   **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-## Privacy & Security
-
-Radley is the sole owner of the information collected on this Website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
-
-## Your Data(UK specific content)
-
-Your privacy is of the highest importance to us, and we promise never to release your personal details to any outside company for mailing or marketing purposes without your express permission.
-
-We may collect and process information that you provide by filling in forms on our website, details of transactions you carry out through our site and details of your visits to our site. If you contact us, we may keep a record of that correspondence.
-
-Any personal data gathered by us in your use of this site will be recorded electronically and only used in accordance with the UK Data Protection Act 1998.
-
-For the purpose of the Data Protection Act 1998, the data controller is Radley + Co Limited of McBeath House, 310 Goswell Road, London, EC1V 7LW 
-
-Some of our service providers store personal information outside of the EU. Where this is the case, we have taken steps to ensure your data will be maintained in accordance with EU standards. 
-
 ## IP Addresses and Cookies
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
@@ -459,7 +443,7 @@ We will use information held about you to carry out our obligations arising from
 
 We may use your data to provide you, via email, post, telephone or SMS with information, products or services that you request from us or which we feel may be of interest to you, or share your details with selected third parties which we believe may be of interest to you, where you have consented to be contacted for such purposes.We may use the data in accordance with the preferences expressed in your acceptance of the Radley cookie policy and terms and conditions of use of the Radley website.
 
-You may have received an email from a third party in association with Criteo, on behalf of Radley. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [Click Here](https://web.archive.org/web/20180514065652id_/http://www.radley.co.uk/help/privacy-cookie-policy/%E2%80%9Dhttp://privacy.criteoemail.com/gb/privacy-policy.html%E2%80%9D).
+Our [website/app] uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites and apps. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. To read more and/or oppose to their services, please refer to their privacy policy [here](https://web.archive.org/web/20180730235539id_/https%3A//www.radley.co.uk/help/%E2%80%9Dhttp://www.criteo.com/privacy/%E2%80%9D).
 
 ## Security
 
@@ -472,10 +456,6 @@ You can tell whether a webpage is secure as 'https' will replace the 'http' at t
 Phishing is the practice of tricking someone into giving confidential information. Examples include falsely claiming to be a legitimate company when sending an email to a user, in an attempt to get the user to send private information that will be used for identity theft and fraud.
 
 Radley will never ask you to send any personal details via email. If we require such details, for security reasons we will ask you to contact us by telephone. Should you receive an email claiming to be from Radley & Co requesting this kind of information please do not respond but contact us immediately. 
-
-## Access to Information
-
-You have the right to access any information that we hold about you. Your right of access can be exercised in accordance with the UK Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
 ## Complaints
 
