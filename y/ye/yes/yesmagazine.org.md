@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624215329id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730210508id_/https%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — YES! Magazine
 
@@ -8,7 +8,7 @@ Our policy does not apply to websites maintained by other companies or organizat
 
 By using our Services, you are accepting the practices described in our Privacy Policy, including our use of cookies and similar online tools. If you do not agree to the terms of this Privacy Policy, please do not use our Services.
 
-[Click here for our donor privacy and transparency policies](http://www.yesmagazine.org/about/donor-privacy-and-transparency-policies). 
+[Click here for our donor privacy and transparency policies](https://www.yesmagazine.org/about/donor-privacy-and-transparency-policies). 
 
 ## What information do we gather about you?
 
@@ -125,7 +125,7 @@ Purposes of processing and legal basis for processing** : We process personal da
 Transfers** : Personal data we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or processors maintain facilities. We will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards.
 
 **  
-Your Rights** : You are entitled to the rights under Chapter III of the EU General Data Protection Regulation or Section 2 of the Swiss Federal Act on Data Protection with respect to the processing of your personal data, which include the right to access and correct and to request erasure of personal data.  **To exercise these rights, contact[[email protected]](http://www.yesmagazine.org/cdn-cgi/l/email-protection) and provide as complete a description of your request as possible.**
+Your Rights** : You are entitled to the rights under Chapter III of the EU General Data Protection Regulation or Section 2 of the Swiss Federal Act on Data Protection with respect to the processing of your personal data, which include the right to access and correct and to request erasure of personal data.  **To exercise these rights, contact[[email protected]](https://www.yesmagazine.org/cdn-cgi/l/email-protection) and provide as complete a description of your request as possible.**
 
 ### Children Under 18
 
@@ -141,9 +141,9 @@ We do not intentionally collect any personally identifiable information from ind
 
 **Phone: 206 842-0216**
 
-**Email:[[email protected]](http://www.yesmagazine.org/cdn-cgi/l/email-protection)**
+**Email:[[email protected]](https://www.yesmagazine.org/cdn-cgi/l/email-protection)**
 
-For help with accounts, email: [[email protected]](http://www.yesmagazine.org/cdn-cgi/l/email-protection)
+For help with accounts, email: [[email protected]](https://www.yesmagazine.org/cdn-cgi/l/email-protection)
 
 * * *
 
