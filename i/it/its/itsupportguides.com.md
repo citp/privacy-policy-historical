@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsupportguides.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006051833id_/https%3A//www.itsupportguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsupportguides.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730190832id_/https%3A//www.itsupportguides.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | IT Support Guides
+# Privacy policy – IT Support Guides
 
 We recognize that the privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit this website.
 
@@ -36,7 +36,7 @@ Advertisers may use cookies to serve ads based on your prior visits to this webs
 
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads based on your visit to this websites and/or other websites.
 
-You can opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+You can opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/).
 
 ## Links to other sites
 
