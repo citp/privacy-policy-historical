@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crresearch.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530104714id_/http%3A//www.crresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crresearch.com privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731112455id_/http%3A//www.crresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # C+R Research Privacy Policy | C+R Research
 
