@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529220550id_/http%3A//www.newsoftwares.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731152437id_/http%3A//www.newsoftwares.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy NewSoftwares.net
 
