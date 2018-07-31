@@ -1,51 +1,83 @@
-> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706224916id_/https%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731195158id_/https%3A//www.cashcrate.com/legal/privacy) for the most accurate reproduction.*
 
 # Make Money Online With Paid Surveys | Free Cash at CashCrate!
 
-###### What Our Privacy Policy Covers
+#### Our privacy policy
 
-Please read this privacy policy to learn more about:
+#### Last Updated March 20th, 2018
 
-  1. What personally identifiable information of yours is collected by CashCrate.com (“CashCrate”) or by third-party advertisers (together, the “Third-Parties” or individually a “Third-Party” );
-  2. How the information is used;
-  3. How you can access and change your account information;
-  4. How you will receive notice of changes in this privacy policy; and
-  5. How to contact CashCrate.
+* * *
+
+CashCrate takes the privacy of member information very seriously. As such, we collect only the information necessary to operate the site and match you with applicable offers, surveys, videos and other earning opportunities - which we'll just call opportunities from this point forward - as well as protecting the interests of other members, our partners, their clients, as well as CashCrate itself.
+
+  * We **do not** sell your information to anyone, or provide it to any third party for marketing purposes other than the completion of offers and surveys. You will not receive unsolicited e-mail, postal mail or telephone calls simply by signing up for CashCrate... however if you do opt in to or otherwise provide your information to other opportunities, you may receive communications from them subject to their policies.
+  * We **do not** collect bank information such as account and routing numbers, credit card numbers, or social security numbers... and we will not ask you for them except for the following circumstances:
+    1. Social security numbers (via W9 forms) are collected **only** for those members who earn $600 or more during a single calendar year, as required for IRS compliance. Digital copies of these forms are stored in a secure third party partner (SecureSafe) and by our accountant(s), and are not stored on our servers.
+    2. Bank accounts and routing numbers are collected **only** for members who chose to receive payment via direct deposit, only for the purpose of making payment to you.
+  * CashCrate is a unique opportunity in that we primarily make money when you complete opportunities. Because of this, we only share what's necessary for you to earn.
 
 
 
-###### Information Collected by CashCrate
+##### What information about me do you collect and why?
 
-To become a member of CashCrate, you must join and create an account on the CashCrate website. The only information that CashCrate collects is the information you provide through the CashCrate registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address (“IP address”), and other contact information. Your IP address is recorded when you register, so that CashCrate can enforce its one account per person policy and other provisions of our [Terms of Service](https://www.cashcrate.com/terms).
+CashCrate collects information such as your name, address, e-mail address and phone number(s) for the purposes of identifying you for payment reasons and to ensure you are a true, unique person to ensure that each person completes only one of each offer/survey applicable to them. We also use your name and address to send you payments.
 
-Other information, that does not personally identify you as an individual, is collected by CashCrate from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by CashCrate. This information can be utilized by CashCrate in such manner as CashCrate, in its sole discretion, deems appropriate.
+We collect demographic information, such as on pop-up questions and your [Demographics Profile](https://www.cashcrate.com/demographicsProfile), to match you with offers and surveys based on qualifications set by the providers of those offers and surveys. We also provide this information to partners for the purposes of them matching you with offers and surveys for you.
 
-###### Information Sharing & Disclosure
+Each offer and survey has qualifications provided by the end client and/or CashCrate partner that ensures the intended audience sees the offer or survey. For example, a company selling luxury automobiles may wish to have the survey completed only by people in their target market, who have an income typically sufficient to be interested in their product, who are or might be in the market to purchase a new automobile soon, etc. Or a company researching hearing aids for Medicare patients may be interested in only those over the age of 65, for example.
 
-In the event that you subscribe to or opt-in a Third-Party offer, CashCrate may provide your information to the Third-Party in order to directly faciliate the relationship between you and the advertiser. CashCrate may also, from time to time, provide your information to Third-Party advertisers who have offers that we think you'd be interested in. At any time, you can opt-out of this program simply by contacting support.
+Some of our partners tell us who they are looking for in a particular survey, in which case we do the matching for them. Other times, we provide our partner with the basic information they need, and they return to us a list of what offers and surveys are available to you.
 
-Your email address may also be used for tracking purposes, when you complete offers, so that CashCrate can determine that you completed the offers. CashCrate will also use your email address to send you the CashCrate newsletters, unless you have opted out of receiving such newsletters by so indicating on the “E-mail Options” section of the “My Account” page, within the “Members Area” of the CashCrate website.
+We do not exchange personally identifying information such as your name or address in order to determine if you have opportunities available to you. We do share your member ID and demographic information. For example, a typical exchange for us would be to tell a partner that we have a member #81028 who lives in Florida and is planning on buying a new car in the next 6 months (as well as any other relevant demographic information), and they will tell us what opportunities are a fit.
 
-###### Information Provided to Third-Parties or Other Users
+##### What about your partners that I share my information with?
 
-CashCrate.com (“CashCrate”) deals in large part with the Third-Parties. You may be asked by the Third-Parties to give them your personally identifiable information, either when you complete an offer, when you use their websites, or by some other means. CashCrate is not responsible for information you provide the Third-Parties, and you should read their privacy policies as well before providing them with any such information. Please note, unless otherwise stated, any offer you complete on CashCrate.com will be with a Third-Party.
+Once you click on an offer or survey, or otherwise utilize a third party service through CashCrate, the information you provide them will be subject to their terms and conditions. You should always read and understand their terms and conditions before providing your information. We select and screen our partners carefully to ensure only reputable companies appear on the CashCrate platform.
 
-Any information you post on the CashCrate website or send through CashCrate’s Message Center may be available to other CashCrate users or viewers of the CashCrate website. CashCrate is not responsible for the information you post on the CashCrate website or for information you provide other CashCrate users, all of which you do at your own risk.
+CashCrate makes money when you earn. We only get paid when you match with an opportunity and complete it. So while we want to provide you with the most offers and surveys we can, it's very important to us and our partners that you are shown and complete offers and surveys whose qualifications you match.
 
-###### Legal Disclaimer
+##### What other information do you collect about me?
 
-It is possible that CashCrate may need to disclose your personally identifiable information from time to time. Specifically, CashCrate may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if CashCrate has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated CashCrate’s [Terms of Service](https://www.cashcrate.com/terms), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to CashCrate, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend CashCrate’s rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
+CashCrate uses your IP address to ensure you do not have multiple accounts and to verify your address ("geo-location"). We collect basic activity information as you use the site about what offers and surveys you prefer, and use that to customize your experience so you can make the most money possible.
 
-###### Managing Your Information
+CashCrate uses cookies for the purposes of analyzing your use of the site, recognizing you when you return to the site, and for things like remembering you've completed a login captcha, hidden a notification box, etc. Please see our [Cookie Policy](https://www.cashcrate.com/legal/cookies) for more information on how we use cookies.
 
-You can review the personal information you have provided CashCrate and make any desired changes to that information by logging in to your account on the CashCrate website, clicking on the “My Account” icon in the “Members Area” section of the CashCrate website, by editing the information, and then by submitting the revised information. You should update CashCrate on any changes that occur, which would make the information you have provided CashCrate inaccurate or misleading.
+We also collect information about your device such as the platform (Apple, Microsoft Windows, Android, etc.) and browser (FireFox, Safari, Chrome, etc.), its capabilities such as screen resolution, your mobile carrier or Internet Service Provider, etc. We use this information to match you with opportunities applicable to your platform, such as only showing an Android opportunity to users with an Android device, and to customize the site to your device.
 
-###### Changes to this Privacy Policy
+Like many websites, CashCrate uses Google Analytics to view how our visitors utilize the site such as what pages are popular, how much time people spend on the site, etc. We do not share personally identifying information with Google Analytics, but your IP address is seen by Google Analytics and used for the purposes of identifying your general location.
 
-Notice of all changes that materially affect ways in which your personally identifiable information may be used or shared will be emailed to you or posted on the CashCrate website. Your continued use of the CashCrate program after such notices of changes have been sent to you or published on the CashCrate website constitutes your consent to the changes.
+##### This is who we share your information with
 
-###### Questions & Comments
+We only share your information with other organizations in accordance with this Privacy Policy and our Terms of Service, or where we need to to provide the CashCrate website to you.
 
-Unless stated otherwise, CashCrate’s current privacy policy applies to all information that CashCrate has about you and your account. If you have any questions or comments regarding your privacy or this privacy policy, you should [contact CashCrate](https://www.cashcrate.com/contact) prior to providing CashCrate any personally identifiable information.
+The list below includes third parties that we work with. It is not all-inclusive and we reserve the right to stop working with third parties or begin working with new third parties at any time:
 
-Last Updated: May 10th, 2010
+Name of Third Party | What they do  
+---|---  
+Google Analytics | Website analytics  
+Tiburon Media Group | Co-registration opportunities  
+Opt-Intelligence | Co-registration opportunities  
+  
+##### What if I do not wish to share my information.
+
+Unfortunately, CashCrate as a business cannot function without the basic information about you that you provide us. You may continue to browse CashCrate anonymously without registering for an account, in which case we do not save or store any personally identifying information about you... however no opportunities will be available to you.
+
+If you have already created an account and would like your account and all the associated information we have on you deleted, updated or a copy thereof, please log in and visit our [GDPR Account Center](https://www.cashcrate.com/legal/gdpr).
+
+##### How and how long do you keep my information?
+
+CashCrate stores your information on secured servers protected by the latest encryption technologies. Due to the fact that unlike other companies, CashCrate does not close your account and take your earnings at any point, we do not delete your information as we would not be able to retain your funds if that was the case.
+
+If at any point you would like your information deleted, please see below.
+
+##### I have a question or would like more information, or I would like to delete my account, receive a copy of my data, or correct something.
+
+You have specific rights provided by the GDPR which include your right to delete your account and all associated information, to receive a copy of the data associated with your account, and to make any changes to the information associated with your account.
+
+To delete your account, receive a copy of its data, or make any changes to it, please visit the [GDPR Account Center](https://www.cashcrate.com/legal/gdpr) after logging in and select the appropriate action.
+
+For more information, questions or concerns regarding your information, feel free to contact our Data Protection Officer:
+
+[gdpo@cashcrate.com](mailto:gdpo@cashcrate.com)
+
+Please note that we cannot respond to support inquiries or general questions at that address.
