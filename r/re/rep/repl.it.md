@@ -1,93 +1,87 @@
-> *The following text is extracted and transformed from the repl.it privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519075641id_/https%3A//repl.it/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repl.it privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731162821id_/https%3A//repl.it/site/privacy) for the most accurate reproduction.*
 
 # repl.it - Privacy Policy
 
-Last updated: September 14, 2016
+Last updated: June 2, 2018
 
-Neoreason, Inc. ("us", "we", or "our") operates the https://repl.it website (the "Service").
+This Privacy Policy describes the practices of Neoreason, Inc. ( **“Neoreason”** , **“we”** or **“us”** ) regarding our collection, use, and disclosure of information (including Personal Information, defined below) through our website at https://repl.it and the related software and services provided there (collectively, the **“Service”** ).
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+## Applicability of this Privacy Policy
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+Please note that this Privacy Policy only applies to the Services. We process Personal Information (defined below) lawfully pursuant to one of three bases: where we have your consent (such as where you opt-in to marketing communications), where we have a legitimate interest in doing so (such as providing you with customer support), where necessary for performing a contract with you (such as our Terms of Service, to which you agree as a condition of using the Services), or where we have a legal obligation (such as where a court order compels us). This Privacy Policy does not apply to any website, offering, product or service of any third party, even if it links to our Site or incorporates the Service – please refer to the applicable privacy policies before deciding to provide any information to third parties.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://repl.it
+## A Note to Users Outside the United States.
 
- **Information Collection And Use**
+We are based in the United States. The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information. If you are in the European Union and would like additional information on how we legitimize transfers of personal data outside the European Union, the European Economic Area, and Switzerland, please see the “International Transfers” section, below.
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, postal address ("Personal Information"). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+## Information We Collect.
 
- **Log Data**
+We collect information from visitors to our website ( **“Visitors”** ) and from users of our Services ( **“Users”** ). We collect the following categories of information:
 
-We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+  * Information that can be used to identify or contact an individual (“Personal Information”), such as name and email address. We only collect Personal Information from Visitors and Users when they give it directly to us – for example, by registering for an account or by signing up for our newsletter or other communications.
+  * Information collected automatically as a result of a Visitors or Users use of the Site or the Services (“Log Information”), such as IP addresses, browser type, Internet service provider, platform type, device type, operating system, date and time stamp of access, and other similar information. Log Information does not by itself include Personal Information, and we do not associate Log Information with Personal Information in order to identify specific individuals through the Log Information we collect. Some Log Information is collected by third parties, and some Log Information is collected through a variety of tracking technologies, including cookies (see “See Third Party Analytics and Tracking Technologies”, below).
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
- **Cookies**
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+## How We Use Information.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+We use the information we collect for the following purposes:
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+  * To provide the Services, using both Personal Information and Log Information.
+  * To administer User accounts. We use Personal Information in order to associate specific accounts with Users and to provide them the Service, to respond to requests or inquiries, to provide support or technical assistance, and to facilitate payments.
+  * To improve the Services. We use Log Information to improve our existing and develop new services and offerings and to customize existing and future product offerings to the wants and needs of our Users.
+  * To provide you with promotional and marketing communications. We use Personal Information to send you information about our products and services, as well as updates about our business, where you opt-in to such communications. To opt-out, please see the “Managing Your Information” section, below.
+  * To derive market insights. We use Log Information to analyze the market and conduct business analyses, and for other research purposes.
+  * To secure our services and systems. We use Log Information to secure our systems by identifying potential threats and vulnerabilities, and to otherwise protect the information we collect.
+  * For any legitimate business purpose, provided that the information is aggregated and anonymized.
 
- **Do Not Track Disclosure**
 
-We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+## How We Share Information.
 
- **Service Providers**
+We share or disclose information only in the following cases:
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+  * Upon direct request from a Visitor or User, or otherwise where specific consent was given.
+  * With vendors we engage to provide aspects of the Services, such as data storage and hosting, payment processing,
+  * With vendors to help us collect and use Log Information.
+  * As necessary to comply with applicable law, including governmental requests, law enforcement requests, and otherwise to protect the rights, privacy, safety, or property of you, us, or others.
+  * As necessary in the event of a proposed or actual reorganization, merger, sale, joint venture, assignment, transfer, financing, or other disposition of all or any portion of our business, assets, or stock.
+  * With others for any legitimate business purpose, provided the information is aggregated and anonymized.
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
- **Communications**
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+## Third Party Analytics and Tracking Technologies.
 
- **Compliance With Laws**
+As discussed above, we collect Log Information in part through the use of cookies. In some instance, we work with third party vendors to employ cookies for the purposes of collecting Log Information. In particular, we use Google Analytics – for information on how Google Analytics collects and processes data, please click [here](https://policies.google.com/privacy/partners).
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+If you would prefer not to accept cookies, please see “Managing Your Information,” below. Please note that doing so may negatively impact your experience using the Site or Service, as some features may not work properly.
 
- **Business Transaction**
+## How We Secure Information.
 
-If Neoreason, Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+We implement appropriate technical and organizational measures to protect the information we collect and store. Unfortunately, no security measures are 100% foolproof, and as such no network or system (including ours) can be guaranteed to be 100% secure against destruction, loss, alteration, unauthorized disclosure of, or access to information we collect and store. If you believe your information may not be secure for any reason, please contact us immediately at contact@repl.it.
 
- **Security**
+## Managing Your Information.
 
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+You have many choices to access information we collect about you and about how we use or disclose that information. This section details many of those choices, including how you can exercise rights you may with respect to your information (including Personal Information), how you can opt out of collection and use of certain types of information for certain purposes (such as marketing), and how you can use your browser or third-party tools to disable certain collection methods (such as cookies or tracking technologies).
 
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+You may access, correct, amend or delete information by accessing it within your account. If you are unable to do so, or if you’re a Visitor who would like to exercise your right to access Personal Information we may have about you, or if you have any other questions about Personal Information we have collected about you, please contact us at contact@repl.it.
 
- **International Transfer**
+If you would prefer not to accept cookies or otherwise wish to disable our use of tracking technologies, most browsers and mobile devices allow you to change your settings so as to notify you when you receive cookies or other tracking technologies are being used, and to choose whether or not to accept/allow it. Most browsers also allow you to disable or delete existing cookies or to automatically reject future cookies. Please note that our Services do not respond to Do Not Track (DNT) signals.
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+Certain tracking technologies we use are related to advertising networks, and through those technologies the advertising networks may collect certain Log Information from you. No Personal Information is shared with these advertising networks, but please note that the information we share with those advertising networks might be combined with other information about you that those networks may have collected from other sources. To learn more about advertising networks and how to opt out of sharing information with them, please click [here](http://optout.networkadvertising.org/?c=1#!/) and [here](http://optout.aboutads.info/?c=2#!/). If you’re in the EU, you can find additional information about your choices with respect to advertising networks and online behavioral advertising by clicking [here](http://www.youronlinechoices.eu/).
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+If you have any questions about how we or our third-party service providers use cookies or other tracking technologies that aren’t answered in this Privacy Policy, please contact us at contact@repl.it.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+## International Transfers.
 
- **Links To Other Sites**
+When transferring data from the European Union, the European Economic Area, and Switzerland, Neoreason, Inc relies upon a variety of legal mechanisms, including contracts with our users. Neoreason, Inc complies with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the European Economic Area, and Switzerland to the United States. You can find Neoreason, Inc's Privacy Shield certification [here](https://www.privacyshield.gov/list). You can also learn more about Privacy Shield on its website. Neoreason, Inc is subject to oversight by the U.S. Federal Trade Commission. JAMS is the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance — free of charge to you. We ask that you first submit any such complaints directly to us via privacyshield@repl.it. If you aren't satisfied with our response, please contact JAMS by visiting<https://jamsadr.com/eu-us-privacy-shield>.
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+## Information from Children.
 
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Our Site and Service are not directed to children under the age of 13 and we do not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information of a child under the age 13, we will take reasonable steps to delete such information from our files as soon as is practicable. Please contact us at contact@repl.it if you believe we have any information from or about a child under the age of 13.
 
- **Children's Privacy**
+## Changes to Privacy Policy
 
-Only persons age 13 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
+Any information that we collect is subject to the Privacy Policy in effect at the time such information is collected. We may, however, revise the Privacy Policy from time to time. If a revision is material, as determined solely by us, we will notify you at the email address you have provided to us and by posting the amended policy here. The current version will always be posted to our Privacy Policy page.
 
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us at [contact@repl.it](mailto:contact@repl.it). If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
- **Changes To This Privacy Policy**
-
-This Privacy Policy is effective as of September 14, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
- **Contact Us**
-
-If you have any questions about this Privacy Policy, please contact us at [contact@repl.it](mailto:contact@repl.it).
+If you have any questions about this Privacy Policy, please contact us at contact@repl.it.
