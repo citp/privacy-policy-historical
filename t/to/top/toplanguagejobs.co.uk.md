@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627151152id_/http%3A//www.toplanguagejobs.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731103208id_/http%3A//www.toplanguagejobs.co.uk/privacy) for the most accurate reproduction.*
 
 # Language Jobs, Language Recruitment - Top Language Jobs
 
