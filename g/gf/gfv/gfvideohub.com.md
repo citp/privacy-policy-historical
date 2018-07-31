@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfvideohub.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531175545id_/http%3A//gfvideohub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfvideohub.com privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731203314id_/http%3A//www.gfvideohub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
