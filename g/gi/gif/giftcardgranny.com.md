@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftcardgranny.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304200857id_/https%3A//www.giftcardgranny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardgranny.com privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731132016id_/https%3A//www.giftcardgranny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gift Card Granny
 
