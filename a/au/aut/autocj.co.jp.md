@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autocj.co.jp privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629151743id_/http%3A//autocj.co.jp/autocom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocj.co.jp privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731082317id_/http%3A//autocj.co.jp/autocom_privacy) for the most accurate reproduction.*
 
 # Autocom Japan - Careers
 
-[](https://web.archive.org/web/20180629151743id_/http%3A//autocj.co.jp/)
+[](https://web.archive.org/web/20180731082317id_/http%3A//autocj.co.jp/)
 
 #### Personal Information Protection Policy
 
