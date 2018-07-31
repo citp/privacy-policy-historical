@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608034312id_/https%3A//www.gazettelive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731051719id_/https%3A//www.gazettelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Teesside Live privacy policy
 
