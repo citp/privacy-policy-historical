@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedio.net privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190451id_/http%3A//feedio.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedio.net privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802010105id_/http%3A//feedio.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ When you purchase something from our store, as part of the buying and selling pr
 
 ##### CONSENT
 
-How do you get my consent? When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. How do I withdraw my consent? If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@bookmail.org or mailing us at: FreeOpenLibrary 700 Carpenters Crossing Folcroft Pennsylvania USA 19032-2011 
+How do you get my consent? When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. How do I withdraw my consent? If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or mailing us at: FreeOpenLibrary 700 Carpenters Crossing Folcroft Pennsylvania USA 19032-2011 
 
 ##### DISCLOSURE
 
@@ -32,4 +32,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 ##### QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@bookmail.org or by mail at FreeOpenLibrary [700 Carpenters Crossing Folcroft Pennsylvania USA 19032-2011] 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail at FreeOpenLibrary [700 Carpenters Crossing Folcroft Pennsylvania USA 19032-2011] 
