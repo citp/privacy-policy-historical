@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shedul.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629065729id_/http%3A//www.shedul.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shedul.com privacy policy that was archived on 2018-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180801164230id_/http%3A//www.shedul.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ By accessing or using the Services or any of our Websites, you agree to the term
 
 #####  **Further Information**
 
-If you have any questions about our Privacy Policy, don’t hesitate to get in touch with us. Please feel free to reach out to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97fef9f1f8d7e4fff2f3e2fbb9f4f8fa).
+If you have any questions about our Privacy Policy, don’t hesitate to get in touch with us. Please feel free to reach out to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cea7a0a8a18ebda6abaabba2e0ada1a3).
 
 #### 2\. THE PERSONAL INFORMATION WE COLLECT
 
