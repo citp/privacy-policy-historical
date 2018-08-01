@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeonengland.org privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531173215id_/http%3A//www.comeonengland.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeonengland.org privacy policy that was archived on 2018-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180801224001id_/https%3A//www.comeonengland.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ We do not sell or rent your information to any third party.
 >  **Updates.** We reserve the right to change this policy at any time.  We will indicate material changes by posting the date of change at the top of this page.  
 > 
 
-If you have any questions about this privacy policy or the privacy practices of our application, you can contact us using the following email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b5c4e49464a585f4e596b4c444d4a45584c4405484446)
+If you have any questions about this privacy policy or the privacy practices of our application, you can contact us using the following email address: [support@gofansgo.com](mailto:webmaster@gofansgo.com)
