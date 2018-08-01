@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runber.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112051834id_/http%3A//runber.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runber.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802012000id_/http%3A//runber.com/privacy.html) for the most accurate reproduction.*
 
 # 4 you
 
