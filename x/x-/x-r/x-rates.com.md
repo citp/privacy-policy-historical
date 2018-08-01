@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-rates.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191804id_/http%3A//x-rates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-rates.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802015313id_/http%3A//www.x-rates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - X-Rates
 
@@ -6,7 +6,7 @@ Effective as of May 25, 2018 (the "Effective Date").
 
 In this Privacy Notice we explain how we collect and use your personal information that we obtain when you use our services, visit or use our websites or mobile applications or otherwise interact with us, how we share your information and the steps we take to protect your information.
 
-This Privacy Notice applies to X-RATES.com which is owned and managed by XE.com, Inc. (“XE”, “X-Rates, “we”, “our” or “us”), a subsidiary of Euronet Worldwide, Inc. (“Euronet”). Further details on Euronet and the companies within the Euronet group (the “Euronet Group”) are available at: http://www.euronetworldwide.com.
+This Privacy Notice applies to X-RATES.com which is owned and managed by XE.com, Inc. (“XE”, “X-Rates, “we”, “our” or “us”), a subsidiary of Euronet Worldwide, Inc. (“Euronet”). Further details on Euronet and the companies within the Euronet group (the “Euronet Group”) are available at: [http://www.euronetworldwide.com](http://www.euronetworldwide.com/).
 
 XE is an affiliate of HiFX Europe Limited within the Euronet Group.
 
@@ -21,7 +21,7 @@ The Euronet Group Data Protection Officer can be contacted:
 
 
 
-By using or navigating the Website you acknowledge that you have read, understand, and agree to be bound by this Privacy Notice. You should not provide us with any of your information if you do not agree with the terms of this Privacy Notice. This Privacy Notice is incorporated into, and subject to, X-Rates.com Terms of Use at (<https://www.x-rates.com/terms/>)
+By using or navigating the Website you acknowledge that you have read, understand, and agree to be bound by this Privacy Notice. You should not provide us with any of your information if you do not agree with the terms of this Privacy Notice. This Privacy Notice is incorporated into, and subject to, X-Rates.com Terms of Use at <https://www.x-rates.com/terms/>
 
 We encourage you to review and check the Website regularly for any updates to this Privacy Notice. We will publish the updated version on the Website and by continuing to deal with us, you accept this Privacy Notice as it applies from time to time.
 
@@ -88,7 +88,7 @@ Accordingly, if you have provided your consent by accepting Targeting Cookies, E
 
 #### Remarketing on the Website
 
-If you have provided your consent by accepting Targeting Cookies on the Website, the Website may use Google AdWords, including the remarketing and Similar Audiences features. This enables Google, through the use of cookies, to identify the fact that you have visited the Website, to track aspects of your usage of the Website and combine that with what it knows about your usage of other websites in the Google ad network. We use these services to advertise to visitors of Google ad network websites who have previously visited our Website or who Google deems to have shared interests with visitors of our Website. Any data we collect through your use of our Website will be used by us in accordance with this Privacy Notice and Google’s collection and use of your personal data is covered by the [Google privacy policy](http://www.google.com/privacy.html).  You can set preferences for how Google advertises to you using the Google [Ad Preferences page](http://www.google.com/settings/ads/onweb/).
+If you have provided your consent by accepting Targeting Cookies on the Website, the Website may use Google AdWords, including the remarketing and Similar Audiences features. This enables Google, through the use of cookies, to identify the fact that you have visited the Website, to track aspects of your usage of the Website and combine that with what it knows about your usage of other websites in the Google ad network. We use these services to advertise to visitors of Google ad network websites who have previously visited our Website or who Google deems to have shared interests with visitors of our Website. Any data we collect through your use of our Website will be used by us in accordance with this Privacy Notice and Google’s collection and use of your personal data is covered by the [Google privacy policy](http://www.google.com/privacy.html).  You can set preferences for how Google advertises to you using the Google [Ad Preferences page](http://www.google.com/settings/ads/).
 
 Personal data is used for different purposes, and is subject to different standards and regulations. In general, personal data is retained for as long as necessary to provide you with services available on the Website you request, to comply with applicable legal, accounting or reporting requirements, and to ensure that you have a reasonable opportunity to access the personal data.
 
@@ -129,7 +129,7 @@ Data subjects in the EEA have the right to:
 
 
 
-Also, where you believe that we have not complied with our obligations under this Privacy Notice or the applicable law, you may have the right to make a complaint to a relevant Data Protection Authority or through the courts. The Canadian Data Protection Authority is the Office of the Privacy Commissioner of Canada (https://www.priv.gc.ca/en/) and the country in which you are located is likely to have a Data Protection Authority (such as the Information Commissioner’s Office in the United Kingdom).
+Also, where you believe that we have not complied with our obligations under this Privacy Notice or the applicable law, you may have the right to make a complaint to a relevant Data Protection Authority or through the courts. The Canadian Data Protection Authority is the Office of the Privacy Commissioner of Canada (<https://www.priv.gc.ca/en/>) and the country in which you are located is likely to have a Data Protection Authority (such as the Information Commissioner’s Office in the United Kingdom).
 
 Although not required, we would encourage you to let us know about any complaint you might have and we will respond in line with our complaints procedure set out in section 12 of this Privacy Notice.
 
