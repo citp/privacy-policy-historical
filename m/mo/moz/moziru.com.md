@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moziru.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627202823id_/http%3A//moziru.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moziru.com privacy policy that was archived on 2018-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180801084603id_/http%3A//moziru.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy.
 
