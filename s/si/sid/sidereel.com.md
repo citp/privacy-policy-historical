@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326223149id_/https%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802010752id_/https%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SideReel
 
@@ -137,6 +137,9 @@ Back to top
 Back to top
 
 **_YOUR RIGHTS_**
+
+**Your GDPR Rights**  
+Users residing in certain countries, including the EU, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access and request deletion of your personal information. While these rights are not applicable globally, users from the EU can email [privacy@sidereel.com](mailto:privacy@sidereel.com "Email Privacy") to make these requests.
 
 **Your European Privacy Rights**  
 If you are located in Europe, some of the data that we process may be protected by data protection laws such as, in the United Kingdom, the Data Protection Act 1998 (the "Act"). Under the Act, you have certain rights to request information about, get access to or request the amendment of any such personal data. If you wish to exercise these rights, please contact us at [privacy@sidereel.com](mailto:privacy@sidereel.com "Email Privacy"). Please see the UK Information Commissioner's Office website at: [https://ico.org.uk](https://ico.org.uk/) for further details.
