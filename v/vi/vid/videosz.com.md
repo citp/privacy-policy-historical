@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613211659id_/http%3A//www.videosz.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802013356id_/https%3A//www.videosz.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from VideosZ
 
@@ -182,7 +182,7 @@ The Sites are all using SSL 128-bit encryption for any form where you enter any 
 
 We will take reasonable steps to ensure that all personal information that we collect is accurate, complete, current and reliable for its intended use and purpose which may include those that reasonably serve payment processing, customer relations, compliance and legal considerations, auditing, security and fraud prevention, preserving or defending our legal rights or other reasonable uses in this context. 
 
-You may send updates and corrections about your Personal Information to support@videosz.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. We will retain your Personal Information only for as long as it is necessary for purposes as identified above. 
+You may send updates and corrections about your Personal Information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. We will retain your Personal Information only for as long as it is necessary for purposes as identified above. 
 
 » ACCESS
 
@@ -192,7 +192,7 @@ You may inquire about your Personal Information being held by the Company by [co
 
 In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, we are committed to investigate and expeditiously resolve complaints about your privacy and our collection or use of your Personal Information. The Company uses the self-assessment method of verification of compliance and is subject to the enforcement authority of the US Federal Trade Commission. 
 
-European Union and Swiss individuals with inquiries or complaints regarding this Privacy Notice should first contact us at support@videosz.com or via post at SCTR Services, Attn: Chief Privacy Officer, 800 Stewart St, Seattle, WA 98101, USA. 
+European Union and Swiss individuals with inquiries or complaints regarding this Privacy Notice should first contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or via post at SCTR Services, Attn: Chief Privacy Officer, 800 Stewart St, Seattle, WA 98101, USA. 
 
 We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to JAMS, an independent dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles or Swiss-US Privacy Shield Principles or if your complaint is not satisfactorily addressed, please visit https://www.jamsadr.com/eu-us-privacy-shield to file a complaint. 
 
@@ -204,7 +204,7 @@ If you do not receive a timely acknowledgment of your complaint regarding our co
 
 You have the following data protection rights:
 
-  * You may email us at support@videosz.com in order to access, correct, delete or update your Personal Information in our records. We will answer every email as promptly as possible.
+  * You may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) in order to access, correct, delete or update your Personal Information in our records. We will answer every email as promptly as possible.
   * >In addition, you can object to processing of your Personal Information, ask us to restrict processing of your Personal Information or request portability of your Personal Information. Again, you can exercise these rights by [contacting us](https://web.archive.org/us/contact). 
   * Similarly, if we have collected and processed your Personal Information on the basis of your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
   * We may use automated decision making in processing your Personal Information for some services and products. You can request a manual review of the accuracy of an automated decision if you are unhappy with it.
@@ -255,7 +255,7 @@ We apply GDPR guidelines for all users in the EU, EEA, the microstates of Andorr
 
 You have the right to access or rectify the personally identifiable data we hold about you. You also have the right to ask for your data to be deleted. Just keep in mind that we might need it in order to fulfill the rest of your subscription. 
 
-If you want to access, rectify or delete your data, please send us an email at [support@videosz.com](mailto:support@videosz.com)
+If you want to access, rectify or delete your data, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9aaaca9a9b6abad99afb0bdbcb6aaa3f7bab6b4)
 
 » OPTIONAL FEATURES
 
