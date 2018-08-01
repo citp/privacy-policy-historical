@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zippypixels.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006042907id_/http%3A//zippypixels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zippypixels.com privacy policy that was archived on 2018-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180801161453id_/https%3A//zippypixels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZippyPixels
 
@@ -14,7 +14,9 @@ We may collect non-personal identification information about Users whenever they
 
  **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+We are not responsible for any third party cookies that are available on our site or any other that are connected to users through plugins because they have their own privacy and cookies policy.
 
  **How we use collected information**
 
@@ -27,7 +29,7 @@ We may use information in the aggregate to understand how our Users as a group u
   *  _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
   *  _– To process payments_  
-We may use the information that Users provide about themselves when placing an order only to provide service for that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+We may use the information that Users provide about themselves when placing an order only to provide service for that order. This information includes Name, Contact No., Physical Address, Postal Code and Financial Information(e.g. credit card details or paypal). We do not share this information with outside parties except to the extent necessary to provide the service.
   *  _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
   *  _– To send periodic emails_  
@@ -57,6 +59,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[ZippyPixels](http://zippypixels.com/)
+[ZippyPixels](https://zippypixels.com/)
 
-This document was last updated on June 19, 2014
+This document was last updated on May 25, 2018.
