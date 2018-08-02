@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kino77.ru privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018111622id_/http%3A//kino77.ru/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kino77.ru privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802214317id_/http%3A//kino77.ru/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
