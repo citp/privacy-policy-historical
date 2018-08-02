@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiosindia.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610223024id_/http%3A//radiosindia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiosindia.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802232726id_/https%3A//radiosindia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # About us
 
