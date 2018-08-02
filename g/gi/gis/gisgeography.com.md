@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gisgeography.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306034701id_/http%3A//gisgeography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gisgeography.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802141951id_/https%3A//gisgeography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GIS Geography
 
-Last Updated: Nov 1, 2015
+Last Updated: May 31, 2018
 
 ### Privacy Policy:
 
@@ -15,7 +15,7 @@ GIS Geography also collects potentially personally-identifying information like 
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to GIS Geography’s websites choose to interact with GIS Geography in ways that require GIS Geography to gather personally-identifying information. The amount and type of information that GIS Geography gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [GISGeography.com](http://gisgeography.com/) to provide a username and email address. Those who engage in transactions with GIS Geography are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GIS Geography collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with GIS Geography. GIS Geography does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to GIS Geography’s websites choose to interact with GIS Geography in ways that require GIS Geography to gather personally-identifying information. The amount and type of information that GIS Geography gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [GISGeography.com](https://gisgeography.com/) to provide a username and email address. Those who engage in transactions with GIS Geography are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GIS Geography collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with GIS Geography. GIS Geography does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -35,7 +35,8 @@ If GIS Geography, or substantially all of its assets, were acquired, or in the u
 
 ### Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by GIS Geography and does not cover the use of cookies by any advertisers.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by GIS Geography and does not cover the use of cookies by any advertisers.  
+Our advertising is with Google Adsense and partners. It utilizes cookies for collection, sharing, and use of personal data for ads personalization. For more information on how Google uses information through their services, see Google’s [Privacy & Terms](https://policies.google.com/technologies/ads).
 
 ### Privacy Policy Changes
 
