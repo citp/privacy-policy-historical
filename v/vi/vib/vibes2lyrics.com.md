@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630140155id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802182549id_/https%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIBES2LYRICS.COM NIGERIA
 
@@ -36,3 +36,7 @@
   * You may, of course, decline to submit personal information through VIBES2LYRICS VIDEOS, in which case you can still view videos and explore VIBES2LYRICS VIDEOS, but VIBES2LYRICS VIDEOS may not be able to provide certain services to you. Some advanced VIBES2LYRICS VIDEOS features may use other services like YOUTUBE VIDEOS, Checkout or AdSense. The privacy notices of those services govern the use of your personal information associated with them.
 
 
+
+### Comments
+
+comments
