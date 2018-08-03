@@ -1,100 +1,115 @@
-> *The following text is extracted and transformed from the metasrc.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metasrc.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803045531id_/http%3A//www.metasrc.com/5v5/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy [CHALLENGER][MASTER][DIAMOND][PLATINUM][GOLD][SILVER][BRONZE][PROVISIONAL] - METAsrc - League of Legends
 
-**Go Daddy Respects Your Privacy**
+Thank you for visiting the METAsrc Privacy Policy. METAsrc LLC (“METAsrc”, “we”, “us”) owns and operates [www.metasrc.com](http://www.metasrc.com/). This privacy policy explains how METAsrc collects, uses, and otherwise processes information through your use of our products and services available on our website [www.metasrc.com](http://www.metasrc.com/) (“website”, “site”).
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+By continuing to use this website, you hereby confirm that you have read and understood this Privacy Policy and acknowledge that we will process all information in accordance with this Privacy Policy. If you disagree with the terms of this Privacy Policy, please immediately discontinue use of the site.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Should you have any questions about this Privacy Policy, our Data Protection Officer can be contacted at [privacy@metasrc.com](mailto:privacy@metasrc.com) (please put “Privacy” in the subject line).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+WHAT IS PERSONAL DATA?
 
-**Information Collection and Use**
+“Personal Data” is any information that relates to an identified or identifiable living individual. Different pieces of information, which collected together can lead to the identification of a particular person, also constitute personal data.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Personal data that has been rendered anonymous in such a way that the individual is not or no longer identifiable is no longer considered personal data. For data to be truly anonymized, the anonymization must be irreversible.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+DATA WE COLLECT
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+In short, we do not store or collect personal data. The only data we collect from you is made anonymous, so it is no longer considered personal data.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+This data is collected for the purpose of log files and traffic analytics through Google Analytics and requires the use of cookies provided by Google.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Like many other websites, [www.metasrc.com](http://www.metasrc.com/) makes use of log files using Google Analytics. These files merely log visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files include anonymized internet protocol (IP) addresses, browser type, region, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. The IP addresses stored in these log files are anonymized so they are not personally traceable to the user. This information is used to analyze trends, administer the site, track user's movement around the site, and gather general but not personally identifiable demographic information. This means that the data we store is not personally traceable back to you, and has therefore been rendered anonymous. Google Analytics data will be automatically deleted after a maximum of 26 months.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+You may opt out of Google Analytics at any time. One method is to install the Google Analytics Opt-out Browser Add-on from Google, located here: <https://tools.google.com/dlpage/gaoptout>.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Google is committed to protecting the confidentiality and security of Google Analytics data. You may find more information here: <https://www.google.com/intl/en/policies/privacy/>
 
-**Security**
+Visit <https://policies.google.com/technologies/partner-sites> to learn more about how Google processes data.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+THIRD-PARTIES & ADVERTISEMENTS
 
-**Updating Your Information**
+Third-parties, which include our advertising partners and their ad technology providers, may use third-party cookies and web beacons on our site to deliver targeted advertising and marketing to you.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Our advertising partners include: ZAM, Venatus (EU).
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+You may learn how our advertising partner(s) use your information at the following URLs:
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+<https://www.zam.com/legal/privacy>
 
-      iii.      You may call us at: (480) 505-8800
+<https://www.venatusmedia.com/privacy/>
 
-       iv.      You may fax us at: (480) 505-8844
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on [www.metasrc.com](http://www.metasrc.com/) and are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as Cookies, Javascript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**Sending Emails**
+METAsrc has no access to or control over any technologies, including cookies placed on behalf of third-party ad networks, nor do we have access to any data gathered on their behalf. We are not affiliated with these third-parties, and they are governed by their own Privacy Policies. We recommend referring to the Privacy Policy of our advertising partner(s) if you have any concerns over their practices with data and their technology providers.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Personalized Advertisements
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+You may opt out of receiving personalized advertisements from advertisers or advertising networks who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations. You may find those websites here:
 
-**Compliance with Laws and Law Enforcement**
+Network Advertising Initiative: <https://www.networkadvertising.org/choices/>
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Digital Advertising Alliance: <https://www.aboutads.info/choices/>
 
-**Third Party Service Providers**
+European Interactive Digital Advertising Alliance: <https://www.youronlinechoices.eu/>
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+When you opt out of personalized advertising, you will still continue to receive online advertisements on our site.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+PERSONAL DATA – YOUR RIGHTS
 
-**Supplementation of Information**
+If you are located in the European Economic Alliance (“EEA”), you have rights in relation to the Personal Data any business holds about you:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+In the case of [www.metasrc.com](http://www.metasrc.com/), we do not hold or process any Personal Data..
 
-**Contests/Surveys**
+However, other businesses, including but not limited to third-party advertising networks and their technology providers, whom we are not affiliated with, may hold certain data that may be personally identifiable to you, including, but not limited to: your internet protocol (IP) address, browser type, region, Internet Service Provider (ISP), and browsing activity. You have the right to contact the Data Protection Officer of these entities to obtain access to any Personal Data they have about you. You also have the right to correct, erase, or object to the processing of any of your Personal Data. You also have the right to lodge a complaint with a legal authority regarding the use of your Personal Data.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+COOKIE POLICY
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+When you use the website, we and our third party partners, such as advertising networks, social media widgets, and analytics providers (see below for more details on these partners) may use “cookies” ([What Are Cookies?](https://cookies.insites.com/about-cookies/)) and other similar technologies to collect information about how the website is accessed.
 
-**Tell-A-Friend**
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. Deleting or blocking certain cookies may cause the website to not work properly.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+The types of cookies you may receive from using our site include:
 
-**What Happens to my Personal Information if I Opt Out?**
+Strictly Necessary Cookies
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+These are cookies that are required for the operation of the website. They include, for example: cookies that are required to use the Facebook & Twitter Social Media Widgets on the toolbar and consent compliance cookies.
 
-**Transfer of Data Abroad**
+Performance Cookies
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Like many services, Google Analytics uses first-party cookies to track user interactions, as in our case, where they are used to collect information about how users use [www.metasrc.com](http://www.metasrc.com/). This information will be used to compile reports and disclose trends that help us improve the website, without identifying individual visitors. The data gathered from this cookie is anonymous and not personally traceable back to you, because it is set to make your IP address anonymous when it is sent to Google Analytics.
 
-**Changes in Our Practices**
+You may opt out of Google Analytics at any time. One method is to install the Google Analytics Opt-out Browser Add-on from Google, located here: <https://tools.google.com/dlpage/gaoptout>.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+You can learn more about how Google uses cookies here: <https://policies.google.com/technologies/cookies>
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Third-Party/Targeting Cookies
 
-**Contacting Our Site**
+You may receive third-party cookies from our advertising partner(s) and their ad technology providers. Third-party advertisers or ad networks use technology in their respective advertisements and links that appear on [www.metasrc.com](http://www.metasrc.com/) and are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as Cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+When they provide such services, they are governed by their own privacy policies. We do not have access or control to any of the technologies, including cookies, placed by any third-parties.
 
-* * *
+CONSENT GATHERING
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Users in the EEA, or where otherwise legally required by the ePrivacy Directive or GDPR, should be presented with a Cookie Banner upon first load of the site. This banner gathers consent for the use of our performance cookies (Google Analytics) described in our Cookie Policy.
+
+These users should also receive a third-party Consent Management Platform (CMP) banner from our advertising partner which allows the user to control, on a granular level, advertising preferences, including: cookies, personalization, and technology providers relating to the advertisements shown on this site. We do not have access to the preferences you set with this tool and have no way to set them for you. Therefore, your interaction with this tool dictates the types of technologies (cookies, etc.) and advertising you will receive from third-party advertiser(s) while visiting our site.
+
+It is your responsibility to interact with the tool to make your consent known to the advertiser.
+
+We want to make sure your preferences are respected. Contact us at [privacy@metasrc.com](mailto:privacy@metasrc.com) if any of the consent gathering tools are not working properly for you.
+
+CHILDREN’S INFORMATION
+
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. [www.metasrc.com](http://www.metasrc.com/) does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that [www.metasrc.com](http://www.metasrc.com/) has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+ONLINE PRIVACY POLICY ONLY
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+Update
+
+This Privacy Policy was last updated on: Augus 1st, 2018.
+
+Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
