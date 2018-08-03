@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fanatical.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630205148id_/https%3A//support.fanatical.com/hc/en-us/articles/115005052465-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanatical.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803171133id_/https%3A//support.fanatical.com/hc/en-us/articles/115005052465-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – CUSTOMER SERVICES
 
-Updated : June 26, 2018 00:10
+Updated : July 30, 2018 22:01
 
 Created : September 13, 2017 15:35
 
@@ -15,7 +15,7 @@ This privacy notice tells you about the information we collect from you when you
 **  
 Who are we?**
 
-We are Fanatical.com, part of Focus Multimedia Ltd. Our address is The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Brereton, Rugeley, Staffordshire, WS15 1LH. You can contact us by post at the above address, by email at support@fanatical.com or by telephone on +44 (0)1889 570156.
+We are Fanatical.com, part of Focus Multimedia Ltd. Our address is The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Brereton, Rugeley, Staffordshire, WS15 1LH. You can contact us by post at the above address, by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by telephone on +44 (0)1889 570156.
 
 The terms "you," "your," and "yours" refer to the customers using our website and services. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will carefully treat your personal information.
 
