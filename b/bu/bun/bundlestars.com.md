@@ -1,39 +1,54 @@
-> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630144456id_/http%3A//www.bundlestars.com/about/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803171133id_/https%3A//support.fanatical.com/hc/en-us/articles/115005052465-Privacy-Policy) for the most accurate reproduction.*
 
-# Bundle Stars - Privacy and Terms
+# Privacy Policy – CUSTOMER SERVICES
 
-Effective date; November 19th, 2012
+Updated : July 30, 2018 22:01
 
-Bundle Stars™ (“The Service”) is a website owned and operated by Focus Multimedia Ltd (“we”, “us” or “our”), The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Rugeley, Staffordshire, WS15 1LH, United Kingdom.
+Created : September 13, 2017 15:35
 
-The terms "you," "your," and "yours" refer to the customer using our Service. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will carefully treat your personal information.
+Updated 1st May, 2018
 
-Our website uses cookies. By using our website, you consent to our use of cookies in accordance with the terms of this policy and you consent to the data practices prescribed in this policy. We may periodically make changes to this Privacy Policy that we will include on this page. Any changes to this Privacy Policy will be communicated to our customers via email, and via [www.facebook.com/bundlestars](http://www.facebook.com/bundlestars) and [www.twitter.com/bundlestars](http://www.twitter.com/bundlestars) . 
+**Privacy Policy**
 
-Before using our website you should also view our Terms & Conditions.
+This privacy notice tells you about the information we collect from you when you sign up to receive our newsletter or create an account on our website. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data, and about the rights you have over your data.
 
-1.What information do we collect?
+**  
+Who are we?**
 
-We may collect, store and use the following kinds of personal information:  
+We are Fanatical.com, part of Focus Multimedia Ltd. Our address is The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Brereton, Rugeley, Staffordshire, WS15 1LH. You can contact us by post at the above address, by email at support@fanatical.com or by telephone on +44 (0)1889 570156.
 
+The terms "you," "your," and "yours" refer to the customers using our website and services. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will carefully treat your personal information.
 
-  * information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation);  
+We are not required to have a data protection officer, so any enquiries about our use of your personal data should be addressed to the contact details above.
 
-  * information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;  
+Our data protection registration number is Z6755854.
 
-  * information that you provide to us for the purpose of registering with us;
-  * information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;
+**What personal data do we collect?
+
+ _(a) Information you voluntarily provide to us:  _
+
+**
+
+  * information that you contractually provide to us for the purpose of registering an account on our system;
+  * information that you explicitly provide to us for the purpose of subscribing to our email notifications and/or newsletters;
   * any other information that you choose to send to us
 
 
 
-2.    Cookies
+  
+**_(b) Information we collect automatically:  _**
 
-For our cookie policy, [please visit this page](https://www.bundlestars.com/about/cookie-policy)
+  * information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation);
+  * information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
 
-3.    Using your personal information
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.  
+
+**Why do we collect this information?**
+
+_**(a) Creating an account**_
+
+When creating an account we will use this information, in conjunction with a password you choose, to secure your purchases to you. Your orders will be locked to this account for future access. 
+
 We may use your personal information to:
 
   * administer the website;
@@ -42,82 +57,90 @@ We may use your personal information to:
   * supply to you services purchased via the website;
   * send statements and invoices to you, and collect payments from you;
   * send you general (non-marketing) commercial communications;
-  * send you email notifications which you have specifically requested;
-  * send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
-  * provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
-  * deal with enquiries and complaints made by or about you relating to the website; and  
-
-  * invite you to review the website using a trusted third-party service, Trustpilot [view [Trustpilot's privacy policy](http://legal.trustpilot.com/end-user-privacy-terms) in a new window]
+  * invite you to review the website using a trusted third-party service;
+  * verify that you satisfy any age restrictions applicable to our products
 
 
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
+**(b) Subscribing to our newsletter**
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+We will use your personal information to:
 
-4\. Disclosures
-
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
-
-In addition, we may disclose your personal information:
-
-  * to the extent that we are required to do so by law;
-  * in connection with any legal proceedings or prospective legal proceedings;
-  * in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-  * to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and
-  * to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+  * send you personalised emails containing information about our own products and occasionally related services, which often include special offers. We will only send you our newsletter for as long as you continue to consent.  We will email you multiple times in a month. 
 
 
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+**What do we do with your information?**
 
-5.    International data transfers
+Your information is securely stored on our database and is only shared with the third parties required to enable us to operate our store and offer you specific offers and promotions.   
+ 
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+The categories of 3rd party recipients with which this data is shared are:  
 
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
-
-In addition, personal information that you submit for publication on the website or via its associated third party services (for example social media) will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
-
-You expressly agree to such transfers of personal information.
-
-6.    Security of your personal information
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
-
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
-
-7.    Your rights
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:  
-
-
-  * the payment of a fee (currently fixed at £10); and
-  * the supply of appropriate evidence of your identity  
+  * **Computing Providers** :   
+    * Heroku Inc; ([Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&status=Active))
+    * Amazon Web Services Inc. ([Privacy Shield Certified](https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/))
+  * **Database Provider** : 
+    * Compose ([Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000TOAoAAO&status=Active))
+  * **Payment Provider** :
+    * Adyen ([EU Privacy Policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy))
+    * Paypal ([Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev))
+  * **Digital Product Provider** : 
+    * Genba ([EU Privacy Policy](https://www.genbagames.com/Home/PrivacyPolicy))
+  * **Email Provider:**
+    * Mailchimp ([Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&status=Active))
+  * **Support Provider:**
+    * Zendesk ([Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&status=Active))
+  * **Store Review Provider:**
+    * Trustpilot ([EU Privacy Policy](https://support.trustpilot.com/hc/en-us/articles/360000306528--How-do-we-protect-your-data-))
+  * **Promotion Provider:**
+    * Gleam ([AUS Privacy Policy](https://gleam.io/privacy))
+  * **Affiliate Provider:**
+    * Tapfiliate ([Privacy Policy](https://tapfiliate.com/privacy/privacy-policy/))
+    * CJ Affiliates ([Privacy Policy](https://www.conversantmedia.com/legal/privacy))
+  * **Site Visitor Analysis Provider:**
+    * Google Analytics ([Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG&status=Active))
+    * MoEngage ([Privacy Policy](https://www.moengage.com/privacy-policy/)) 
+    * GetSiteControl ([Privacy Policy](https://getsitecontrol.com/privacy/))  
 
 
 
 
-We may withhold such personal information to the extent permitted by law.
+Your information is stored both inside and outside of the UK. Any data stored outside of UK is entrusted to companies which offer the same GDPR level of security.
 
-You may instruct us not to process your personal information for marketing purposes by sending an email to us. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+We will not use the information to make any automated decisions that might affect you.
 
-8.    Third party websites
+**  
+How long do we keep your information for?**
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+Your account information and purchase history is kept on our systems for as long as you have an account on our system, then legally for a further seven years after any account closure.  
 
-9.    Updating information
+Newsletter subscriptions are kept as long as you continue to consent to receive our newsletter.
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+**  
+Your rights over your information**
 
-10\.     Contact
+By law, you can ask us what information we hold about you, and you can ask us to correct any inaccuracies.  
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us using our customer support, [Visit BundleStars customer support](https://support.bundlestars.com/) or by post to Focus Multimedia Limited, The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Rugeley, Staffordshire, WS15 1LH, United Kingdom.
+You can also ask for it to be erased, you can ask for us to give you a copy of the information and you can request that we stop processing your information.
 
-11.    Data Controller
+**How to ask us to stop processing your account information.    **
 
-The data controller responsible in respect of the information collected on this website is Focus Multimedia Limited (UK).  
-Our data protection registration number is Z6755854.  
+If you wish for us to stop processing account information then the simplest way to do this is to request an account cancellation.  This will remove access to your account and will flag the account and its associated data to be removed after the retention.   [Please read this additional information for requesting an account cancellation](https://web.archive.org/hc/en-us/articles/202230392-How-do-I-delete-or-cancel-my-account-)
 
+**How to ask us to stop processing your email subscription information.    **
+
+You can withdraw your consent to receive our email subscription at any time, an 'Unsubscribe' button is included at the end of ever subscription email that we send to you, simply click on this link and follow the instructions. 
+
+Additionally you can email us or write to us using the contact details above.
+
+**Your right to complain**
+
+If you have a complaint about our use of your information, you can contact the Information Commissioner’s Office via their website at [https://ico.org.uk](https://ico.org.uk/) or write to them at:
+
+Information Commissioner's Office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
