@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyondblindfold.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116111944id_/https%3A//beyondblindfold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondblindfold.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804000849id_/https%3A//beyondblindfold.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blindfold
+# Privacy Policy |
 
 **Privacy**
 
