@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoismark.net privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522153224id_/http%3A//whoismark.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoismark.net privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803215823id_/http%3A//www.whoismark.org/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
