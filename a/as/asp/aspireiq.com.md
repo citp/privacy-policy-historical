@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspireiq.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601140940id_/http%3A//www.aspireiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspireiq.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803084851id_/https%3A//www.aspireiq.com/privacy) for the most accurate reproduction.*
 
 # 
 
