@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605050050id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804223710id_/https%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
 
 # HotelsOne.com - Privacy statement
 
@@ -112,7 +112,7 @@ If you think that we are not helping you in the right way, please reach out to [
 ##  Contact details 
 
 Stentorian N.V.  
-827 Union Pacific  
-Laredo, Texas, 78045  
+5810 Santa Maria Av. # 205  
+Laredo, Texas, 79041  
 United States  
 [email](https://web.archive.org/customer-service.html)
