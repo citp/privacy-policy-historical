@@ -1,65 +1,61 @@
-> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208063003id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804154327id_/https%3A//www.nintendoenthusiast.com/us/privacy-terms) for the most accurate reproduction.*
 
-# Privacy Policy | Nintendo Enthusiast
+# Terms of Use, Privacy Policy & GDPR Compliance statement - Nintendo Enthusiast
 
-This privacy policy sets out how “Nintendo Enthusiast” uses and protects any information that you give “Nintendo Enthusiast” when you use this website.
+**House rules: Please be nice**
 
-“Nintendo Enthusiast” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.”Nintendo Enthusiast” may change this policy from time to time by updatng this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st July, 2012. 
+Basically, don’t do anything you wouldn’t do in real life. People come to our sites to kick back, not debate the failings of humanity, politics, religion, and everything else that the average person would not define as their “hobby”.  This is a place to relax and celebrate our video game hobby.  Naturally, when there are passionate fans some arguments arise and passions can run deep. You’re not expected to agree with everything or everyone all the time, but there’s never a reason to make a discussion on this site  _personal_.  There’s also no need to be vulgar. If you’re a dick you’ll be banned swiftly and without notice, so be cool, yeah?  _“Ain’t nobody here got time for no jibba-jabba and foolishness”._
 
-## What we collect
+ **Your privacy is important**
 
-We may collect the following information:
+We run a trusted community site, so we hold ourselves to the highest privacy standards. Simply put — We would never sell your email address, nor share it with with anyone, or ever spam you — ever, end of story. We also have everything in place to keep the bad guys out. We would also never ask you for your passwords, credit card, phone, etc.
 
-  * name
-  * contact information including email address
-  * demographic information such as preferences and interests
-  * other information relevant to social networking
+ _In fact,   **don’t use your real name on our site** , so you don’t have to worry too much about your privacy. You can edit your customer info and profile at any time._
 
+By becoming a member of our web site community, you are only agreeing to become a virtual person in our world . Seriously, that’s all there is to it. Easy, eh? Yes, as it should be. (ahem!) We allow the use of [burner email addresses](https://www.google.co.jp/search?q=burner+email&oq=burner+email&aqs=chrome..69i57j0l5.1821j0j7&sourceid=chrome&ie=UTF-8) too, but note that you won’t be able to recover your password if you forget it.
 
+ **[GDPR](https://www.eugdpr.org/) Compliance**
 
-## What we do with the information we gather
+Our site uses a basic PHP login script that stores your customer number and username and login state … that’s it.  We make no attempt to figure out who you are in real life nor do we care. Even our login page asks you to create a fake persona here because sometimes people say dumb things when gaming on the internet. Setup a fake avatar on our site and forget about it, done, easy.  Furthemore, you can block/delete all cookies from our site that you won’t find anything different about our site, as we don’t have creepy feeds or target you in any way.
 
-We require this information to understand your needs and provide you wth a better service, and in particular for the following reasons:
+We do serve ads using Google Ad server, which issues its own cookies.  For these ad-related cookies, you’ll be able to use Google’s own tools to access the data of that cookies.  These tools are to be released after May 15, 2018.  For more info, [check this resource](https://adexchanger.com/privacy/this-is-how-google-is-preparing-for-gdpr/).
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may look at an email address if we suspect a user is actually a spambot
+ **Financial Information:**
 
+We don’t host any financial information on our servers, period. We use third-party commerce partners for memberships and merchandise sales. If you need a refund or have privacy concerns about something you bought in conjunction with us, please contact them directly or ask our moderators to help point you in that direction.
 
+ **The Long Version:**
 
-## Security
+Our site is part of the Enthusiast Gaming network, and we’re very committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. We also follow all rules set forth by the Online Privacy Alliance.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+ **Internet User Information**
 
-## How we use cookies
+When we display an advertisement on your computer, we do not collect any personal identifiable information about you, such as your name, address, telephone number or email address. Destructoid.com  does, like other Internet advertisers, collect certain information which can not personally identify you. (Specifically: Cookies!)
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once yo agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+This category of information is generally referred to as non-personally-identifiable information includes information like the server or internet service provider you use, type of browser used. There are some cases where you, the Internet user, may voluntarily provide personal information in response to a particular ad (a survey or purchase order form). In such cases the third party advertising with our site may collect this information on behalf of an advertiser. The advertiser in turn uses this information to reply to your request.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailr it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Furthermore, Enthusiast Gaming  does not divulge any information regarding the users who use email for correspondence with the webmaster or any representative of our company.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+ **Online Advertising**
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We use third-party advertising companies to serve ads and collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on our Web Site, other web sites and other forms of media about goods and services of interest to you.
 
-## Links to other websites
+If you would like more information about this practice and to know your choices about not having this information used by these companies, check out:
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
-## Controlling your personal information
+In layman’s terms: many advertisers use cookies for stuff like “hey you saw this ad already” or “ok, he clicked on a banner ad for leather pants, lets show this guy more of those as they travel around the web.” That’s all coming through Google’s Ad software – Destructoid doesn’t pass any behavioral data directly, period. We don’t share any information from your personal account with advertisers.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+ **HEY YOU – USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES**
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for site purposes, you may change your mind at any time by writing to or emailing at  **ninten.enthusiast(at)gmail.com**
+Even the best policy can’t protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities.
 
+Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam).
 
+Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. Always monitor your children’s on-line activities and educate them as to the rules for safe Internet use. For more information, click here for the Internet Education Foundation’s Online Safety Guide for Kids.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to sen you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+ **Contacting the Webmaster**
 
-You may request details of personal information which we hold about you under the Data Protection Act of 1998.
+If you have any questions about this privacy statement, the practices of this site please [contact us](https://web.archive.org/web/20180804154327id_/https://www.nintendoenthusiast.com/us/privacy-terms/hello@enthusiastgaming.com) at any time; our moderators will usually respond with a few hours (sans weekends).
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-##  Advertising
-
-Nintendoenthusiast.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+ _Thanks for reading us!_
