@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atemda.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602032909id_/http%3A//www.wideorbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atemda.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804102837id_/http%3A//www.wideorbit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WideOrbit
 
