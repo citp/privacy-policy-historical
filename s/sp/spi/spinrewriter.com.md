@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinrewriter.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602111247id_/http%3A//www.smiley-tech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinrewriter.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804051327id_/https%3A//www.smiley-tech.com/privacy-policy) for the most accurate reproduction.*
 
 # SmileyTech Solutions - Privacy Policy
 
