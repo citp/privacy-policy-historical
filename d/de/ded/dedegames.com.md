@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedegames.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145809id_/http%3A//www.dedegames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedegames.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804230859id_/http%3A//www.dedegames.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Dedegames.com Privacy Policy & Terms of Use
 
