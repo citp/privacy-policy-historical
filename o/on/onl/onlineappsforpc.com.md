@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineappsforpc.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501153051id_/http%3A//onlineappsforpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineappsforpc.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804163927id_/http%3A//crazion.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Apps For PC
 
@@ -24,6 +24,6 @@ Like other blogs/websites , _ **Online** ** _A_ ppsForPC.com**_ makes use of log
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on _**OnlineAppsForPC.com**_  send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/ or to personalize the advertising content that you see.
 
-**_OnlineAppsForPC.com_**  has no access to or control over the cookies that are used by third-party advertisers.
+ ** _OnlineAppsForPC.com_**  has no access to or control over the cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
