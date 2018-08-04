@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocoupons24.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322235817id_/http%3A//www.promocoupons24.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocoupons24.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804094418id_/http%3A//www.promocoupons24.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
