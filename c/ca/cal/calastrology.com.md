@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604174528id_/http%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804185553id_/https%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 The California Astrology Association (CAA) respects your privacy and the security of your personal information. 
 
