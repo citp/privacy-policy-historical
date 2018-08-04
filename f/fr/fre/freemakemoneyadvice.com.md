@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604115639id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804062125id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
