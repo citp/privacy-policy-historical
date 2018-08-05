@@ -1,67 +1,289 @@
-> *The following text is extracted and transformed from the angel.co privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508070100id_/http%3A//angel.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.co privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805083926id_/https%3A//angel.co/privacy) for the most accurate reproduction.*
 
-# AngelList
+# Privacy & Cookies Policy - AngelList
 
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes AngelList's policies and procedures on the collection, use and disclosure of your information when you use the AngelList Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
+_Effective date: May 25, 2018_
 
- **Information Collection and Use**
+We recognize that your privacy is very important and take it seriously. This Privacy & Cookies Policy describes AngelList's policies and procedures on the collection, use and disclosure of your information when you use the services, websites, and applications offered by AngelList (the "Services") and tells you about your privacy rights and how the law protects you. By using the Services, you consent to our use of your information in accordance with this Privacy & Cookies Policy. We will not use or share your personal information with anyone except as described in this Privacy & Cookies Policy. Capitalized terms that are not defined in this Privacy & Cookies Policy have the meaning given them in our [Terms of Service](https://angel.co/terms). 
 
-AngelList uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
+With that in mind, this Privacy and Cookies Policy is designed to describe: 
 
- **User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
+  * Who we are and how to contact us 
+  * Your rights relating to your Personal Data 
+  * Marketing communications preferences 
+  * What Personal Data we collect 
+  * How we use your Personal Data and why 
+  * How we use cookies and other tracking or profiling technologies 
+  * Who we share your Personal Data with 
+  * How long we store your Personal Data 
+  * Where we store your Personal Data 
+  * How we protect your Personal Data 
+  * Our policy on children's privacy 
+  * Links to other websites 
+  * Changes to our Privacy & Cookies Policy 
 
-You also provide us information in User Content you post to the Service. Your questions, answers, and other contributions on the Service, and metadata about them (such as when you posted them), are publicly viewable on the Service, along with your name (unless the Service permits you to post anonymously). This information may be searched by search engines and be republished elsewhere on the Web in accordance with our [Terms of Service](https://web.archive.org/about/tos).
 
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. AngelList stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service.
 
- **Cookies:** When you visit the Service, we may send one or more "cookies" - small data files - to your computer to uniquely identify your browser and let AngelList help you log in faster and enhance your navigation through the site. A cookie may convey anonymous information about how you browse the Service to us, but does not collect personal information about you. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+This Privacy & Cookies Policy is intended to meet our duties of transparency under the "General Data Protection Regulation" or "GDPR". 
 
- **Log Files:** Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+We will post any modifications or changes to this Privacy & Cookies Policy on this page. 
 
- **Clear GIFs Information:** When you use the Service, we may employ clear GIFs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your AngelList account is collected using these clear GIFs. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting and make AngelList better for our users.
+#####  Who We Are and How to Contact Us 
 
- **Third Party Services:** AngelList may use Google Analytics or Mixpanel to help understand use of the Service. Google Analytics and Mixpanel collect the information sent by your browser as part of a web page request, including cookies and your IP address. Google Analytics and Mixpanel also receive this information and their use of it is governed by their Privacy Policies.
+**Who we are.** Venture Hacks, Inc. (doing business as AngelList) is the Controller (for the purposes of the GDPR) of your Personal Data (referred to as either "AngelList", "we", "us" or "our" in this Privacy & Cookies Policy). Our address is 90 Gold Street, San Francisco, CA 94133. 
 
- **How We Share Your Information**
+**How to contact us.** If you have any questions about our practices or this Privacy & Cookies Policy, please contact us at [privacy@angel.co](mailto:privacy@angel.co). 
 
- **Personally Identifiable Information:** AngelList may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of AngelList (for instance, on servers or databases co-located with hosting providers).
+**Our EU Representative.** As we do not have an establishment in the European Union ("EU"), we have appointed a representative based in the United Kingdom, who you may address if you are located in the EU to raise any issues or queries you may have relating to our processing of your Personal Data and/or this Privacy & Cookies Policy more generally. Our EU representative is: AngelList Ltd located at 2nd Floor, White Bear Yard, Clerkenwell Road, London, UK, EC1R 5DF. Our EU representative can be contacted directly by emailing them at the following address: [euprivacy@angel.co](mailto:euprivacy@angel.co). 
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. 
+#####  Your Rights Relating To Your Personal Data 
 
-We may share or disclose your information with your consent, such as if you choose to sign on to the Service through a third-party service. We cannot control third parties' use of your information.
+You have the right under this Privacy and Cookies Policy, and by law if you are within the EU, to:
 
-AngelList may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect AngelList's rights or property.
+  * **Request access to your Personal Data.** If you are within the EU, this enables you to receive a copy of the Personal Data we hold about you and to check that we are lawfully processing it. 
+  * **Request correction of the Personal Data that we hold about you.** This enables you to have any incomplete or inaccurate information we hold about you corrected. 
+  * **Request erasure of your Personal Data.** This enables you to ask us to delete or remove Personal Data where there is no good reason for us continuing to process it. You also have the right if you are within the EU to ask us to delete or remove your Personal Data where you have exercised your right to object to processing (see below). 
+  * **Object to processing of your Personal Data.** This right exists where we are relying on a legitimate interest as the legal basis for our processing and there is something about your particular situation, which makes you want to object to processing of your Personal Data on this ground. You also have the right to object where we are processing your Personal Data for direct marketing purposes. 
+  * **Request the restriction of processing of your Personal Data.** This enables you to ask us to suspend the processing of Personal Data about you, for example if you want us to establish its accuracy or the reason for processing it. 
+  * **Request the transfer of your Personal Data.** If you are within the EU, we will provide to you, or a third party you have chosen, your Personal Data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+  * **Withdraw consent.** This right only exists where we are relying on consent to process your Personal Data ("Consent Withdrawal"). If you withdraw your consent, we may not be able to provide you with access to the certain specific functionalities of our Site. We will advise you if this is the case at the time you withdraw your consent. 
 
- **Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain AngelList services.
 
-AngelList may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on AngelList. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. AngelList does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks AngelList to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The AngelList Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
- **How We Protect Your Information**
+**How to exercise your rights.** If you want to exercise any of the rights described above, please contact us using the contact details in Who We Are and How to Contact Us. 
 
-AngelList uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to AngelList or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+Typically, you will not have to pay a fee to access your Personal Data (or to exercise any of the other rights). However, except in relation to Consent Withdrawal, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive, or, we may refuse to comply with your request in these circumstances. 
 
-In the event that personal information is compromised as a result of a breach of security, AngelList will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your Personal Data (or to exercise any of your other rights). This is a security measure to ensure that Personal Data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. 
 
- **Your Choices About Your Information**
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case AngelList may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.
+**Complaints**
 
- **Children's Privacy**
+If you would like to submit a complaint regarding this Privacy Policy or our practices in relation to your Personal Data, please contact us at: privacy@angel.co. 
 
-Protecting the privacy of young children is especially important. AngelList does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.
+We will reply to your complaint as soon as we can. 
 
- **Links to Other Web Sites**
+If you feel that your complaint has not been adequately resolved, please note that if you are in the EU the GDPR gives you the right to contact your local data protection supervisory authority, which for the UK, is the [Information Commissioner's Office](https://ico.org.uk/). 
 
-We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies.
+#####  Marketing Communications Preferences 
 
- **Changes to Our Privacy Policy**
+You can ask us to stop sending you marketing messages or modify your email preferences at any time through any of the following methods: 
 
-If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+  * by following the opt-out links on any marketing message sent to you; or 
+  * through your account settings at <https://angel.co/settings/notifications>; 
+  * by contacting us at any time using the contact details in Who We Are and How to Contact Us. 
 
-If you have any questions about our practices or this privacy policy, please contact us at [privacy@angel.co](mailto:privacy@angel.co), or send mail to: 
 
-AngelList  
-Attn: Privacy  
-2995 Woodside Road   
-Suite 400  
-Woodside, CA 94062 
+
+Where you opt out of receiving these marketing messages, this will not apply to Personal Data provided to us as a result of emails relating to existing or pending hires, purchases or investments using the Services or consent to direct marketing communications. 
+
+#####  What Personal Data we collect 
+
+AngelList uses Personal Data we collect to provide the Services, personalize content, remember information to help you efficiently access your account, analyze how the Services are used, diagnose service or technical problems, maintain security, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track user content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws. 
+
+**Information You Directly Provide to Us.** There are many occasions when you provide information that may enable us to identify you personally ("Personal Data") while using the Services. The Personal Data we may collect from you is outlined in the table below. 
+
+**Category of Personal Data collected** |  **What this means**  
+---|---  
+Identity Data  |  First name, surname, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender, picture, social security number and/or tax identification number, password, copies of ID cards or other forms of identification.   
+Contact Data  |  Your home address, work address, billing address, email address and telephone numbers.   
+Professional Background Data  |  Educational and professional history, interests and accomplishments, job and salary preferences, third party recommendations, projects completed, professional resumes and CVs, information about co-workers, your interests in certain job openings, job applications, interviewing information, and hiring results.   
+Online Presence Data  |  Links to your public account pages at social media websites, links to personal websites, and other online materials related to you.   
+Financial Data  |  Your bank account and payment card details, statements about your wealth and financial situation.   
+Transaction Data  |  Any details about payments to and from you and other details of subscriptions and services you have purchased from us. Data in respect of your transactions with third parties (including your credit history).   
+Investment Data  |  Information about your investment objectives, investment experience, prior investments (on or offline), syndicates or leads backed, backing amounts and preferences, investment amounts and information provided by completing subscription documents for deals closed via the Services. Also included is information about your personal investment entities and their co-owners and beneficiaries, and tax related information in connection with your investments through the Services.   
+Content Data  |  Any content you post to the Services not already included in another category, including without limitation, your profiles, questions, preference settings, answers, messages, comments, and other contributions on the Services, and metadata about them (such as when you posted them) ( "Content").   
+Marketing and Communications Data  |  Your preferences in receiving marketing from us and our third parties and your communication preferences. If you correspond with us by email or messaging through the Services, we may retain the content of such messages and our responses.   
+Behavioral Data  |  Inferred or assumed information relating to your behavior and interests, based on your online activity. This is most often collated and grouped into "segments."   
+Technical Data  |  Internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website or use our services.   
+  
+**Personal Data from Third Party Sources.** In addition to the Personal Data that we collect directly from you (as described in the section immediately above this one), we may also collect certain of your Personal Data from third party sources, some of which may not be publicly available. Examples of these sources are broken down in the table below. 
+
+**Third party data source** |  **Category(ies) or other types of Personal Data received.**  
+---|---  
+Credit Reporting Agencies  | 
+
+  * Identity Data 
+  * Contact Data 
+  * Financial Data 
+  * Transaction Data
+
+  
+Social Media Sites  | 
+
+  * Identity Data 
+  * Contact Data 
+  * Online Presence Data
+
+  
+Our Affiliates  | 
+
+  * Identity Data 
+  * Contact Data 
+  * Marketing and Communications Data 
+  * Behavioral Data 
+  * Investment Data 
+  * Transaction Data 
+  * Financial Data 
+  * Content Data
+
+  
+Our Fund Administration Partners  | 
+
+  * Identity Data 
+  * Contact Data 
+  * Investment Data 
+  * Transaction Data 
+  * Financial Data
+
+  
+Analytics Providers  | 
+
+  * Behavioral Data 
+  * Technical Data
+
+  
+Advertisers  | 
+
+  * Behavioral Data 
+  * Technical Data
+
+  
+Data Brokers  | 
+
+  * Identity Data 
+  * Contact Data 
+  * Behavioral Data 
+  * Technical Data 
+  * Online Presence Data
+
+  
+Identity Verification and Compliance Service Providers  | 
+
+  * Identity Data 
+  * Contact Data
+
+  
+  
+**Aggregated Data.** We may also collect, use and share "Aggregated Data" such as statistical or demographic data for any purpose. Aggregated Data may be derived from your Personal Data, but once in aggregated form it will not constitute Personal Data for the purposes of the GDPR as this data does not directly or indirectly reveal your identity. However, if we combine or connect Aggregated Data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy & Cookies Policy. 
+
+**No Special Categories of Personal Data.** We do not collect any "Special Categories of Personal Data" about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences. 
+
+#####  How We Use Your Personal Data and Why 
+
+We generally use Personal Data for the following: to deliver and improve our Services; to manage your account and provide you with customer support; to perform research and analysis about your use of the Services; to develop, display, and track Content and advertising tailored to your interests on the Services and other sites, including, potentially, providing our advertisements to you when you visit other sites; website or mobile application analytics; to diagnose or fix technology problems; to automatically update the Services on your device; to verify your identify and prevent fraud or other unauthorized or illegal activity; to enforce or exercise any rights in our [Terms of Service](https://angel.co/terms); 
+
+In respect of each of the purposes for which we use your Personal Data, the GDPR requires us to ensure that we have a legal basis for that use if you are within the EU. The legal bases depend on the Services you use and how you use them. This means we collect and use your Personal Data only where:
+
+  * We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
+  * It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests; or
+  * We need to process your data to comply with a legal or regulatory obligation.
+
+
+
+We may also rely on your consent as a legal basis for using your Personal Data where we have expressly sought it for a specific purpose. If we do rely on your consent to a use of your Personal Data, you have the right to change your mind at any time (but this will not affect any processing that has already taken place). We have set out below, in a table format, more detailed examples of relevant purposes for which we may use your Personal Data.
+
+**Purpose** |  **Why do we do this**  
+---|---  
+Providing, updating, and maintaining our Services, Site and business  |  To deliver the Services you have requested, including, for example, registering you as a user, managing your account and profile, and authenticating you when you log in. 
+
+For our talent-related Services, this also includes, for example, surfacing relevant jobs, including you in candidate search results, and effectively matching your skillset and interests with available jobs on the Site. 
+
+For our investment related services, this also includes, for example, establishing your eligibility to invest on the Site under applicable laws, third-party contractual obligations and internal policies, surfacing suitable investment products for you on the Site, and providing tax and other investment related reporting for investors.   
+  
+Processing investments and payments  |  To close investments and process payment for any purchases, subscriptions or sales made on our Site, to protect against or identify possible money-laundering or other fraudulent transactions, and otherwise as needed to manage our business.   
+Research and development  |  To enable us to improve the Services and better understand our users and the markets in which we operate. For example, we may conduct or facilitate research and use learnings about how people use our Services and feedback provided directly to us to troubleshoot and to identify trends, usage, activity patterns, areas for additional features and improvement of the Services and other insights. We also test and analyze certain new features with some users before introducing the feature to all users.   
+Communicating with users about the Services  |  To send communications via email and within the Services, including, for example, responding to your comments, questions and requests, providing customer support, and sending you technical notices, product updates, security alerts, and administrative, billing and account management related messages. We may also provide tailored communications based on your activity and interactions with us. For example, we may provide you with updates regarding hiring and recruiting related matters, notify you of investment opportunities, and providing information regarding your investments through the Site. These communications are part of the Services and in most cases you cannot opt out of them. If an opt out is available, you will find that option within the communication itself or in your account settings.   
+Providing customer support  |  To resolve technical issues you encounter, to respond to your requests for assistance, comments and questions, to analyze crash information, to repair and improve the Services and provide other customer support.   
+Enhancing security  |  To keep our website, our Services and associated systems operational and secure, including, for example, verifying accounts and activity, monitoring and investigating suspicious or fraudulent activity and to identify violations of our terms and policies.   
+Marketing, promoting and driving engagement with the Services and third-party products and services  |  To send promotional communications that may be of specific interest to you, including, for example, by email and by displaying products, investment offerings, job listing, candidates, events, promotions and other information on our Site or other companies' websites. These communications may be aimed at driving engagement and maximizing what you get out of the Services or promoting third-party products and services. You generally can control whether you receive these communications as described in this policy under Marketing Communications Preferences.   
+To comply with applicable law, legal process and regulations and protect legitimate business interests  |  As we believe is reasonably necessary to comply with a law, regulation, order, subpoena, rule of a self-regulatory organization or audit or to protect the safety of any person, to address fraud, security or technical issues, or to protect our legal rights, interests and the interests of others, such as, for example, in connection with with the acquisition, merger or sale of securities or a business (e.g. due diligence).   
+  
+**What happens when you do not provide necessary Personal Data?** Where we need to process your Personal Data either to comply with law, or to perform the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with the functionalities of the Services). In this case, we may have to stop you using our Services. 
+
+#####  How We Use Cookies And Other Tracking Or Profiling Technologies 
+
+AngelList may collect non-personally identifiable information regarding your usage of the Services, including the pages and articles and presentations you viewed, time spent using certain features of the website, demographic data such as server locations, connection speed, and other information that does not identify you. Like most online services, we also use cookies, log files, clear GIFs, tracking pixels, web beacons, and other technologies that may collect Personal Data. 
+
+**Cookies:**
+
+**What are cookies?** When you visit the Services, we may send one or more "cookies" – small data files – to your computer to uniquely identify your browser and let AngelList help you log in faster and enhance your navigation through the Site. A cookie may convey anonymous information about how you browse the Services to us so we can provide you with a more personalized experience, but does not collect personal information about you. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. 
+
+**What cookies do we use?** Our Site uses the following types of cookies for the purposes set out below: 
+
+**Type of cookie** |  **Purpose**  
+---|---  
+_Essential Cookies_ |  These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. For example, they allow you to log in to secure areas of our Site and help the content of the pages you request to load quickly. Without these cookies, the Services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.   
+_Functionality Cookies_ |  These cookies allow our Site to remember choices you make when you use our Site, such as remembering your login details and remembering the changes you make to other parts of our Site which you can customize. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit our Site.   
+_Analytics and Performance Cookies_ |  These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered via these cookies does not "directly" identify any individual visitor. However, it may render such visitors "indirectly identifiable". This is because the information collected is typically linked to a pseudonymous identifier associated with the device you use to access our Site. The information collected is aggregated and anonymous. We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site. We use a number of different tools including Google Analytics, Segment, Amplitude, Intercom, and Fullstory for this purpose.   
+_Targeted and advertising cookies_ |  These cookies track your browsing habits to enable us to show advertising which is more likely to be of interest to you. These cookies use information about your browsing history to group you with other users who have similar interests. Based on that information, and with our permission, third party advertisers can place cookies to enable them to show adverts which we think will be relevant to your interests while you are on third party websites. Third party advertisers may also use other technologies in addition to cookies placed on the Site (such as JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.   
+_Social Media Cookies_ |  These cookies are used when you share information using a social media sharing button or "like" button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this. These cookies may also include certain code that has been placed on the Site to help track conversions from ads, optimize ads based on collected data, build targeted audiences for future ads, and remarket to qualified leads—users who have already taken certain action on the Site.   
+  
+**How can I disable cookies?** You can typically reset your web browser to refuse all cookies or to notify you when a cookie is being sent. In order to do this, follow the instructions provided by your browser (usually located within the "settings", "help" "tools" or "edit" facility). Many browsers are set to accept cookies until you change your settings. 
+
+If you do not accept our cookies, you may experience some inconvenience in your use of our Services and some features of the Service may not function properly. For example, we may not be able to recognise your computer or mobile device and you may need to log in every time you visit our Services. 
+
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.com](http://www.youronlinechoices.com/). 
+
+**Log Files:** Log file information is automatically reported by your browser each time you access a web page. When you use the Services, our servers automatically record certain information your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information. 
+
+**Clear GIFs Information (Web Beacons):** When you use the Services, we may employ clear GIFs (also known as web beacons or tracking pixels) to anonymously track online usage patterns. No Personally Identifiable Information from your AngelList account is collected using these clear GIFs. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. The information collected is used to enable more accurate reporting and make AngelList better for our users. 
+
+**Third Party Services:** AngelList may use third-party services such as Google Analytics, Segment, Fullstory or Amplitude to help understand use of the Services. These services typically collect the information sent by your browser as part of a web page request, including cookies and your IP address. They receive this information and their use of it is governed by their respective privacy policies. You can also prevent the use of Google Analytics relating to your use of our Services by downloading and installing the browser plugin available via this link: [http://tools.google.com/dlpage/gaoptout?hl=en-GB.](http://tools.google.com/dlpage/gaoptout?hl=en-GB)
+
+**Use of Google User Data:** If you choose to connect a Google profile to your account, we will access certain information obtained from Google regarding your account. In particular we may store your name and email address as well as information on the particular profile you connect, including your contacts. This data will only be used by us to provide you with the service you expect and will not be shared with any third parties. 
+
+**CalOPPA Disclosures:** We do not currently respond to web browsers' "do not track" signals that provide a method to opt out of the collection information about users' activities on the Services and on other websites. If we do so in the future, we will provide relevant information in this Privacy & Cookies Policy. 
+
+#####  Who We Share Your Personal Data With 
+
+We may share your Personal with third parties in the ways that are described in the table below. We consider this information to be a vital part of our relationship with you. 
+
+**Recipients** |  **Why we share it**  
+---|---  
+Our Affiliates  |  Our affiliates may access your Personal Data to help us develop, maintain and provide our Services and help manage our customer relationships (including providing customer support, customer liaison, fund advisory services, etc).   
+Service Providers  |  Our service providers provide us support for our Services, including, for example, website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, identity verification, background and compliance reviews, fund administration, banking services, and other services for us, which may require them to access or use Personal Data about you.   
+Professional Advisers  |  Our lawyers, accountants, bankers, auditors and insurers may need to review your personal data to provide consultancy, compliance, banking, legal, insurance, accounting and similar services.   
+Legal and Taxing Authorities, Regulators and Participants in Judicial Proceedings  |  AngelList may disclose your Personal Data if we believe it is reasonably necessary to comply with a law, regulation, order, subpoena, rule of a self-regulatory organization or audit or to protect the safety of any person, to address fraud, security or technical issues, or to protect our legal rights, interests and the interests of others, such as, for example, in connection with with the acquisition, merger or sale of securities or a business (e.g. due diligence).   
+Advertisers  |  Certain users of the Services may have access to your Personal Data for the purpose of enabling them to interact with you and more effectively offer opportunities through the Site that are targeted towards your background and preferences. We may also allow third-parties, including ad servers or ad networks, to serve advertisements on the Site, and such third parties may be provided with access to your Personal Data to provide advertising tailored to your interests.   
+Researchers  |  To enhance the public understanding of patterns and trends in the markets served by or Services, we may provide Personal Data to third parties under confidentiality obligations such as, for example, academics or contractors for research purposes.   
+API Users  |  A limited number of partners have API access to portions of the Site. Examples of the most common API uses are OAuth and AML/accreditation verification of potential investors.   
+  
+In addition, Personal Data you choose to add to your profile will be available for public viewing on the Site. If you are an Entrepreneur, most of your Content will be accessible to other users. You may ask us to show your information only to a select set of Investors, and we will do our best to limit disclosure to those Investors, but we cannot promise that no one else will see your information on the Site, nor do we control what users who are allowed to see your information will do with it. If you want your information to remain private, don't make it available to other users on our Site. If you are an Investor, some of your Content may not be accessible to other users, but other users may still be able to infer certain facts about your income and net worth from your qualification as an Investor on AngelList. In addition, AngelList funds' investment advisers and lead investors may have access to your Personal Data to help them evaluate, invite and communicate with you as an Investor. If you are a Job Seeker, your information will generally be publicly available and employers may have access to your Personal Data to assist them in discovering, evaluating and tracking communications with prospective candidates; however, we generally only share your job seeking status, target role and related information with certain recruiters. 
+
+As we develop our business, we may buy or sell businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, we may also transfer your Personal Data as part of the transferred assets without your consent or notice to you. 
+
+We may also share non-Personal Data (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Services or conduct independent research based on such anonymous usage data. 
+
+If you request that we remove your Personal Data as described in Your Rights Relating to Your Personal Data, we will convey that request to any third-party with whom we have shared your data. We are not, however, responsible for revising or removing your Personal Data obtained by any third party who has previously been provided your information by us in accordance with this policy or any third party to whom you have provided such information (whether by sharing your login and password, or otherwise). 
+
+#####  How long we store your Personal Data 
+
+We will retain your information for as long as your account is active or it is reasonably needed for the purposes set out in How We Use Your Personal Data and Why unless you request that we remove your Personal Data as described in Your Rights Relating to Your Personal Data. We will only retain your Personal Data for so long as we reasonably need to use it for these purposes unless a longer retention period is required by law (for example for regulatory purposes). This may include keeping your Personal Data after you have deactivated your account for the period of time needed for us to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements. 
+
+#####  Where We Store Your Personal Data 
+
+The Services are maintained in the United States of America. Personal Data that you provide us may be stored, processed and accessed by us, our staff, sub-contractors and third parties with whom we share Personal Data in the United States of America or elsewhere inside or outside of the EU for the purposes described in this policy. We may also store Personal Data in locations outside the direct control of AngelList (for instance, on servers or databases co-located with hosting providers). Although we welcome users from all over the world, by accessing the Services and providing us with your Personal Data, you consent to and authorize the export of Personal Data to the United States and its storage and use as specified in this Privacy & Cookies Policy. Note the laws of the United States might not be as comprehensive or protective as laws in the country where you live. 
+
+Because the Services are maintained in the United States of America, we do not transfer your Personal Data from the EU to any parties located outside the EU other than Personal Data relating to investments in the United Kingdom. When information is transferred to us from the EU by our affiliate AngelList Ltd. in connection with your investments in the United Kingdom, we use specific contracts approved by the European Commission, which give Personal Data the same protection it has in the EU. For further details, see [European Commission: Model contracts for the transfer of Personal Data to third countries](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en). 
+
+#####  How We Protect Your Personal Data 
+
+AngelList uses industry-standard physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We limit access to your Personal Data to those employees and other staff who have a business need to have such access. All such people are subject to a contractual duty of confidentiality. We cannot, however, ensure or warrant the security of any information you transmit to AngelList or guarantee that your information on the Services may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, managerial, or technical safeguards. 
+
+We have put in place procedures to deal with any actual or suspected Personal Data breach. In the event that personal information is compromised as a result of such a breach of security, AngelList will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy & Cookies Policy, or as otherwise required by applicable law. 
+
+AngelList cannot ensure that your Personally Data will be protected, controlled or otherwise managed pursuant to this Privacy & Cookies Policy if you share your login and password information with any third party, including any third party operating a website or providing other services. 
+
+#####  Our Policy on Children's Privacy 
+
+Protecting the privacy of young children is especially important. The Services are not intended for children below 16 and AngelList does not knowingly collect or solicit personal information from anyone under the age of 16 or knowingly allow such persons to register with the Services. If you are under the age of 16, please do not submit any personal information through the Site. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy & Cookies Policy by instructing their children never to provide personal information on this Site. If we become aware that we have collected personal information from a child under age 16, we will take steps to remove that information. 
+
+#####  Links to Other Websites 
+
+This Privacy & Cookies Policy applies only to the Services. The Services may contain links to other websites not operated or controlled by AngelList. We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not investigated, monitored or checked for accuracy or completeness by us. Please remember that when you use a link to go from the Services to another website, our Privacy & Cookies Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our Site, is subject to that website's own rules and policies. Such third parties may use their own cookies or other methods to collect information about you. 
+
+#####  Changes to Our Privacy & Cookies Policy 
+
+We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this Privacy & Cookies Policy at any time. Any changes or updates will be effective immediately upon posting to this page. You should review this Privacy & Cookies Policy regularly for changes. You can determine if changes have been made by checking the Effective Date below. Your continued use of our Site following the posting of any changes to this Privacy & Cookies Policy means you consent to such changes. 
