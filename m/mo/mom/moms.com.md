@@ -1,109 +1,129 @@
-> *The following text is extracted and transformed from the moms.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829032605id_/https%3A//moms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moms.com privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805143725id_/https%3A//www.moms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Moms.com: Parenting, Kids, Health, Home. The #1 site for all moms!
 
-This Privacy Policy governs the manner in which Moms.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://moms.com](https://moms.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Moms.com.
+We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
-  
+This Privacy Policy was last updated on May 10, 2018.
 
+## Legal Ownership
 
-### Personal identification information
+Moms (the “Website”) is owned and operated by Valnet inc. (“us” or “we”), a corporation incorporated under the laws of Canada, having its head office at 7405 Transcanada Highway, Suite 100, Saint Laurent, Quebec H4T 1Z2.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+## Personal Data Collected
 
-  
+When you visit our Website, we collect certain information related to your device, such as your IP address, what pages you visit on our Website, whether you were referred to by another website, and at what time you accessed our Website.
 
+We do not collect any other type of personal data. If you are accessing our website through a social media account, please refer to the social media provider’s privacy policy for information regarding their data collection.
 
-### Non-personal identification information
+## Log Files
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/timestamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.
 
-  
+## Cookies
 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. We and some of our business partners (for example, advertisers) use cookies on our Website. These cookies track usage of the site for security, analytics and targeted advertising purposes.
 
-### Web browser cookies
+We use the following type of cookies:
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-  
-
-
-### How we use collected information
-
-Moms.com may collect and use Users personal information for the following purposes:
-
-  * To improve customer service  
-_Information you provide helps us respond to your customer service requests and support needs more efficiently._
-  * To personalize user experience  
-_We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site._
-  * To improve our Site  
-_We may use feedback you provide to improve our products and services._
-  * To run a promotion, contest, survey or other Site feature  
-_To send Users information they agreed to receive about topics we think will be of interest to them._
-  * To send periodic emails
+  * Essential cookies: these cookies are essential to the provision of our Website.
+  * Functionality cookies: these cookies help us remember choices you have made while on our website, remember your preferences, and personalize your Website experience.
+  * Analytics and performance cookies: these cookies help us collect statistical and analytical usage to help up analyze website usage.
+  * Social media cookies: These cookies allow you to interact with content on certain social media platforms, such a “liking” our articles. Depending on your social media setting, the social media network will have record of this and may display your name or identifier in relation to this action.
+  * Advertising and targeted advertising cookies: these cookies track your browsing habits and location to provide you with advertising in line with your interests. Please see our “advertisers” section below for details.
 
 
 
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
-How we protect your information 
+If you wish to disable cookies, you may do so through your individual browser options. For further information regarding cookies and how to manage them, please see <http://www.allaboutcookies.org/>. 
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+## Pixel tags
 
-  
+We use pixel tags, which are small graphic files that allow us and our trusted third party partners to track your Website usage and collect usage data, including the number of pages you visit, the time you spend on each page, what you click on next, and other information about your Website visit.
 
+## Advertisers
 
-### Sharing your personal information
+We use third-party advertising companies to display ads on our site. These ads may contain cookies and/or web beacons in the ad serving process. This data is collected by our ad companies, and we do not have access to this information.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Advertisers, as third-party vendors, use cookies to collect usage and demographic data in order to serve ads on our site. For example, Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-  
+We have reviewed all of our advertising partners’ policies to ensure that they comply with all applicable data privacy laws and recommended data security practices.
 
+We use the following advertisers:
 
-### Third party websites
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
-
-  
-
-
-### Advertising
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-  
-
-
-### Google Adsense
-
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
-  
+  * Google Ad Exchange: <https://policies.google.com/?hl=en>
+  * Google Ad Sense: <https://policies.google.com/privacy?hl=en>
+  * Rubicon: <https://rubiconproject.com/terms-conditions-index/>
+  * OpenX: <https://www.openx.com/legal/ad-exchange-terms-and-conditions/>
+  * Index Exchange: <http://www.indexexchange.com/privacy/>
+  * TripleLift: <https://triplelift.com/privacy/>
+  * Smaato: [ https://www.smaato.com/privacy/](https://www.smaato.com/privacy/)
+  * Facebook Audience Network: <https://www.facebook.com/about/privacy>
+  * Comet: <https://www.comet-group.com/privacy-policy>
+  * Sonobi: <http://sonobi.com/privacy-policy/>
+  * Oath (AOL): <https://policies.oath.com/us/en/oath/privacy/index.html>
+  * Amazon: [https://www.amazon.ca/gp/help/customer/display.html/?ie=UTF8&nodeId=918814](https://www.amazon.ca/gp/help/customer/display.html/?ie=UTF8&nodeId=918814)
+  * Tribal (Exponential): <http://exponential.com/en-ca/privacy/>
 
 
-### Compliance with children's online privacy protection act
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+## Links to Other Websites
 
-  
+This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
 
+## Purpose of Data Collection
 
-### Changes to this privacy policy
+We use the information we collect in order to:
 
-Moms.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-  
-
-
-### Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-  
+  * Administer our Website, including troubleshooting, and statistical or data analysis;
+  * To improve our Website and enhancing user experience by ensuring you have access to personalized content in line with your interests;
+  * Analyze user use and optimize our services.
+  * To ensure that our Website remains secure and is not subject to any hacking or fraud.
+  * Share information with our partners to provide targeted advertising and social media features.
 
 
-### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-**Moms.com**  
-[https://moms.com](https://moms.com/)  
-[feedback@moms.com](mailto:feedback@moms.com?subject=Privacy%20Policy)
+## Data Shared with Third Parties
+
+We do not sell or rent your personal data to third parties. However, our partners, including ad partners, may collect data in relation to your Website usage as disclosed herein. Please see our “advertisers” section above for details.
+
+## How your Data is Stored
+
+All data collected through our Website is stored on servers located in the United States. Our servers are certified under the EU-US Privacy Shield.
+
+IP address and user agent string data from all visitors is stored in rotating log files on Amazon servers for up to 7 days. All of our employees, agents and partners are committed to keeping your data confidential.
+
+We have reviewed our partners privacy policies to ensure that they comply with similar policies in order to ensure your data security.
+
+## Consent under Applicable Laws
+
+If you are based in the European Economic Area (“EEA”), a consent window will appear when accessing this website. If you have clicked “yes”, your consent will be stored on our servers for twelve (12) months and your data will be processed as disclosed in this privacy policy. After twelve months, you will be asked to provide consent again.
+
+We comply with the IAB Europe Transparency & Consent Framework.
+
+You can withdraw consent at any time. Withdrawing consent may impede your ability to access certain services and will not allow us to provide the personalized Website experience.
+
+## Data Security
+
+Our servers comply with ISO 27018, a code of practice that focuses on protection of personal data in the cloud. We comply with all reasonable precautions in order to ensure your data’s safety.
+
+In the event that we become aware of any data security breach, alteration, unauthorized access or disclosure of any personal data, we will take all reasonable precautions to protect your data and will notify you as required by all applicable laws.
+
+## Accessing, Amending and Deleting your Data
+
+You have the right to request information regarding the data we have on file for you, to request correction and/or deletions of your personal information. Please contact us at [data@valnetinc.com](mailto:data@valnetinc.com) or at the postal address listed above, attention: Data compliance department.
+
+## Age
+
+This Website does not target people below the age of 16. By visiting this Website. You hereby warrant that you are 16 years of age or older or are visiting the Website under parental supervision.
+
+## Legal Disclaimer
+
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of our sites.
+
+## Notification of Changes
+
+Whenever we change our privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+## Contact Information
+
+If users have any questions or suggestions regarding our privacy policy, please contact us at [data@valnetinc.com](mailto:data@valnetinc.com) or by mail at the postal address listed above, attention: Data Compliance Department.
