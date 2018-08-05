@@ -1,135 +1,129 @@
-> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117133021id_/https%3A//www.hotmomsclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805143725id_/https%3A//www.moms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hot Moms Club
+# Moms.com: Parenting, Kids, Health, Home. The #1 site for all moms!
 
-[vc_row][vc_column][vc_column_text] 
+We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
-Hot Moms Club Tm. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Buzz Email or visit our Web Site. Please read this notice carefully.
+This Privacy Policy was last updated on May 10, 2018.
 
-Personal Information
+## Legal Ownership
 
-To receive your HMC and Insider Rewards e-mails, and rewards we require your e-mail address. Similarly, to provide you with text messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. HMC  does not collect any other personally identifiable information that you do not expressly provide. HMC a will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission, if you accept a reward, that 3rd party will get your information so they can send you a reward. HMC  may share your personal information for the purpose of delivering our e-mail to you or as required by law.
+Moms (the “Website”) is owned and operated by Valnet inc. (“us” or “we”), a corporation incorporated under the laws of Canada, having its head office at 7405 Transcanada Highway, Suite 100, Saint Laurent, Quebec H4T 1Z2.
 
-Non-Personal Information
+## Personal Data Collected
 
-We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our Buzz email and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in HMC and Insider Rewards emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
+When you visit our Website, we collect certain information related to your device, such as your IP address, what pages you visit on our Website, whether you were referred to by another website, and at what time you accessed our Website.
 
-Usage Information
+We do not collect any other type of personal data. If you are accessing our website through a social media account, please refer to the social media provider’s privacy policy for information regarding their data collection.
 
-In addition to collecting personal and non-personal information, HMC may also collect non-personal, aggregated information about subscribers’ use of our emails and site. This information is not personally identifiable and will only be used to find out how subscribers use our emails, site and services. For example, this information will tell us how often a user opens the HMC email, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your emails.
+## Log Files
 
-Review and Access
+Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/timestamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information.
+## Cookies
 
-How to Unsubscribe
+A cookie is a piece of data stored on the user’s computer tied to information about the user. We and some of our business partners (for example, advertisers) use cookies on our Website. These cookies track usage of the site for security, analytics and targeted advertising purposes.
 
-You can unsubscribe from receiving HMC and Insider Rewards emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any HMC,  HMC Buzz or Insider Rewards email or on the bottom of the HMC  homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [admin@www.hotmomsclub.com](mailto:admin@www.hotmomsclub.com)
+We use the following type of cookies:
 
-Choice/Opt-Out
+  * Essential cookies: these cookies are essential to the provision of our Website.
+  * Functionality cookies: these cookies help us remember choices you have made while on our website, remember your preferences, and personalize your Website experience.
+  * Analytics and performance cookies: these cookies help us collect statistical and analytical usage to help up analyze website usage.
+  * Social media cookies: These cookies allow you to interact with content on certain social media platforms, such a “liking” our articles. Depending on your social media setting, the social media network will have record of this and may display your name or identifier in relation to this action.
+  * Advertising and targeted advertising cookies: these cookies track your browsing habits and location to provide you with advertising in line with your interests. Please see our “advertisers” section below for details.
 
-If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices.
 
-Third Party Advertising
 
-Some of the ads appearing on our HMC Email and Web Site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about our advertising partner or partners, cookies, and how to “opt-out”, please contact us at admin@www.hotmomsclub.com for more information.
+If you wish to disable cookies, you may do so through your individual browser options. For further information regarding cookies and how to manage them, please see <http://www.allaboutcookies.org/>. 
 
-Occasionally, you’ll get an email marked “dedicated” or “sponsored” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of the editorial staff. They are content paid for by our sponsors. You can unsubscribe from receiving these emails, however, if you do so, you will no longer receive HMC unsponsored emails either. Please see “How to unsubscribe.”
+## Pixel tags
 
-Tracking
+We use pixel tags, which are small graphic files that allow us and our trusted third party partners to track your Website usage and collect usage data, including the number of pages you visit, the time you spend on each page, what you click on next, and other information about your Website visit.
 
-Like most sites, HMC .com makes use of browser “cookies.” Cookies are small text files placed on your computer’s hard disk by our server. They allow us to quickly recognize you and simplify your user experience. HMC will never use cookies to retrieve information from your computer that is unrelated to our site or services.
+## Advertisers
 
-Third Party Cookies
+We use third-party advertising companies to display ads on our site. These ads may contain cookies and/or web beacons in the ad serving process. This data is collected by our ad companies, and we do not have access to this information.
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
+Advertisers, as third-party vendors, use cookies to collect usage and demographic data in order to serve ads on our site. For example, Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Links to Other Sites
+We have reviewed all of our advertising partners’ policies to ensure that they comply with all applicable data privacy laws and recommended data security practices.
 
-As part of the service, HMC will create links allowing you to access third party sites. HMC  is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites’ individual privacy policies in order to determine how they treat user information.
+We use the following advertisers:
 
-Security
+  * Google Ad Exchange: <https://policies.google.com/?hl=en>
+  * Google Ad Sense: <https://policies.google.com/privacy?hl=en>
+  * Rubicon: <https://rubiconproject.com/terms-conditions-index/>
+  * OpenX: <https://www.openx.com/legal/ad-exchange-terms-and-conditions/>
+  * Index Exchange: <http://www.indexexchange.com/privacy/>
+  * TripleLift: <https://triplelift.com/privacy/>
+  * Smaato: [ https://www.smaato.com/privacy/](https://www.smaato.com/privacy/)
+  * Facebook Audience Network: <https://www.facebook.com/about/privacy>
+  * Comet: <https://www.comet-group.com/privacy-policy>
+  * Sonobi: <http://sonobi.com/privacy-policy/>
+  * Oath (AOL): <https://policies.oath.com/us/en/oath/privacy/index.html>
+  * Amazon: [https://www.amazon.ca/gp/help/customer/display.html/?ie=UTF8&nodeId=918814](https://www.amazon.ca/gp/help/customer/display.html/?ie=UTF8&nodeId=918814)
+  * Tribal (Exponential): <http://exponential.com/en-ca/privacy/>
 
-All information described above is stored on restricted database servers.
 
-Modification to this Policy
 
-HMC may change this policy, but we’ll post any changes here, so be sure to check back for future information.
+## Links to Other Websites
 
-Opting Out of Interest-Based Mobile Ads
+This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
 
-If you choose to opt out of interest-based ads on your mobile device, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details. To do so, please follow directions for your device below:
+## Purpose of Data Collection
 
-iOS – <https://support.apple.com/en-us/HT202074>  
-Android – <https://support.google.com/ads/answer/2662922?hl=en>
+We use the information we collect in order to:
 
-Contact Us
+  * Administer our Website, including troubleshooting, and statistical or data analysis;
+  * To improve our Website and enhancing user experience by ensuring you have access to personalized content in line with your interests;
+  * Analyze user use and optimize our services.
+  * To ensure that our Website remains secure and is not subject to any hacking or fraud.
+  * Share information with our partners to provide targeted advertising and social media features.
 
-If you have any questions about this policy, the Buzz email or our site in general, please email [admin@www.hotmomsclub.com](mailto:info@purewow.com)
 
-[/vc_column_text][vc_column_text] 
 
-Hot Moms Club Tm and Hollywood Hot Moms Products, Inc. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Buzz Email or visit our Web Site. Please read this notice carefully.
+## Data Shared with Third Parties
 
-Personal Information
+We do not sell or rent your personal data to third parties. However, our partners, including ad partners, may collect data in relation to your Website usage as disclosed herein. Please see our “advertisers” section above for details.
 
-To receive your HMC and HHM e-mails, we require your e-mail address. Similarly, to provide you with text messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. HMC and HHM does not collect any other personally identifiable information that you do not expressly provide. HMC and HHM will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. HMC and HHM may share your personal information for the purpose of delivering our e-mail to you or as required by law.
+## How your Data is Stored
 
-Non-Personal Information
+All data collected through our Website is stored on servers located in the United States. Our servers are certified under the EU-US Privacy Shield.
 
-We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our Buzz email and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in HMC  emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
+IP address and user agent string data from all visitors is stored in rotating log files on Amazon servers for up to 7 days. All of our employees, agents and partners are committed to keeping your data confidential.
 
-Usage Information
+We have reviewed our partners privacy policies to ensure that they comply with similar policies in order to ensure your data security.
 
-In addition to collecting personal and non-personal information, HMC  may also collect non-personal, aggregated information about subscribers’ use of our Buzz email and site. This information is not personally identifiable and will only be used to find out how subscribers use our Buzz email, site and services. For example, this information will tell us how often a user opens the Buzz email, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your emails.
+## Consent under Applicable Laws
 
-Review and Access
+If you are based in the European Economic Area (“EEA”), a consent window will appear when accessing this website. If you have clicked “yes”, your consent will be stored on our servers for twelve (12) months and your data will be processed as disclosed in this privacy policy. After twelve months, you will be asked to provide consent again.
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information.
+We comply with the IAB Europe Transparency & Consent Framework.
 
-How to Unsubscribe
+You can withdraw consent at any time. Withdrawing consent may impede your ability to access certain services and will not allow us to provide the personalized Website experience.
 
-You can unsubscribe from receiving HMC emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any HMC email or on the bottom of the HMC  homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [admin@www.hotmomsclub.com](mailto:admin@www.hotmomsclub.com)
+## Data Security
 
-Choice/Opt-Out
+Our servers comply with ISO 27018, a code of practice that focuses on protection of personal data in the cloud. We comply with all reasonable precautions in order to ensure your data’s safety.
 
-If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices.
+In the event that we become aware of any data security breach, alteration, unauthorized access or disclosure of any personal data, we will take all reasonable precautions to protect your data and will notify you as required by all applicable laws.
 
-Third Party Advertising
+## Accessing, Amending and Deleting your Data
 
-Some of the ads appearing in our  Emails and Web Site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about our advertising partner or partners, cookies, and how to “opt-out”, please contact us at insider@www.hotmomsclub.com for more information.
+You have the right to request information regarding the data we have on file for you, to request correction and/or deletions of your personal information. Please contact us at [data@valnetinc.com](mailto:data@valnetinc.com) or at the postal address listed above, attention: Data compliance department.
 
-You will get an email marked “dedicated” or “sponsored” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of the editorial staff. They are content paid for by our sponsors. You can unsubscribe from receiving these emails, however, if you do so, you will no longer receive HMC unsponsored emails either. Please see “How to unsubscribe.”
+## Age
 
-Tracking
+This Website does not target people below the age of 16. By visiting this Website. You hereby warrant that you are 16 years of age or older or are visiting the Website under parental supervision.
 
-Like most sites, HMC .com makes use of browser “cookies.” Cookies are small text files placed on your computer’s hard disk by our server. They allow us to quickly recognize you and simplify your user experience. HMC will never use cookies to retrieve information from your computer that is unrelated to our site or services.
+## Legal Disclaimer
 
-Third Party Cookies
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of our sites.
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
+## Notification of Changes
 
-Links to Other Sites
+Whenever we change our privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-As part of the service, HMC  will create links allowing you to access third party sites. HMC  is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites’ individual privacy policies in order to determine how they treat user information.
+## Contact Information
 
-Security
-
-All information described above is stored on restricted database servers.
-
-Modification to this Policy
-
-HMC  may change this policy, but we’ll post any changes here, so be sure to check back for future information.
-
-Opting Out of Interest-Based Mobile Ads
-
-If you choose to opt out of interest-based ads on your mobile device, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details. To do so, please follow directions for your device below:
-
-iOS – <https://support.apple.com/en-us/HT202074>  
-Android – <https://support.google.com/ads/answer/2662922?hl=en>
-
-Contact Us
-
-If you have any questions about this policy, the Buzz email or our site in general, please email [admin@www.hotmomsclub.com](mailto:insider@hotmomsclub.com)
-
-[/vc_column_text][/vc_column][vc_column][/vc_column][/vc_row] 
+If users have any questions or suggestions regarding our privacy policy, please contact us at [data@valnetinc.com](mailto:data@valnetinc.com) or by mail at the postal address listed above, attention: Data Compliance Department.
