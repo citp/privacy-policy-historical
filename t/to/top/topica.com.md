@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615195032id_/http%3A//topica.com/email-marketing/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805055353id_/http%3A//topica.com/email-marketing/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Topica's Privacy Policy
 
@@ -48,7 +48,7 @@ To change or delete personal information: Log in to your "My Topica" account ([h
 
 To change your email address: Log in to your "My Topica" account ([http:/lists.topica.com/my/](http://lists.topica.com/my/)). From the Preferences menu on the left, click the Email Addresses link. Follow the instructions on the page to change or delete your email address.
 
-To terminate your Topica service: You may terminate all of your Topica subscriptions and your "My Topica" account by contacting our [Customer Care](https://web.archive.org/web/20180615195032id_/http%3A//topica.com/email-marketing/privacy/tepsupport@get.topica.com?subject=DeleteAccount) department.
+To terminate your Topica service: You may terminate all of your Topica subscriptions and your "My Topica" account by contacting our [Customer Care](https://web.archive.org/web/20180805055353id_/http%3A//topica.com/email-marketing/privacy/tepsupport@get.topica.com?subject=DeleteAccount) department.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
