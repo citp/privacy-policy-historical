@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501071725id_/http%3A//www.autocarindia.com/Page/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806121608id_/https%3A//www.autocarindia.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy Statement - Autocar India
+# 
 
 Thank you for visiting this site, a HSAC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by HSAC.
 
@@ -78,4 +78,4 @@ Ground floor, Podar Centre, 85, Parel Post Office Lane,
 Off Dr. Ambedkar Marg,  
 Parel (East), Mumbai 400 012.  
 Tel: 022-4302 1000  
-Fax: 022-4302 1050
+Fax: 022-4302 1050 
