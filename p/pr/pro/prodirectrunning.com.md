@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodirectrunning.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040258id_/http%3A//www.prodirectrunning.com/information/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodirectrunning.com privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806122309id_/https%3A//www.prodirectrunning.com/information/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Pro:Direct Running - Privacy
 
