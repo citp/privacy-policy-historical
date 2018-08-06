@@ -1,114 +1,85 @@
-> *The following text is extracted and transformed from the foxstart.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626055217id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/products/search/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxstart.com privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806112658id_/http%3A//us.foxstart.com/privacy.html) for the most accurate reproduction.*
 
-# Search Services | Oath Policies
+# Foxstart - Privacy Policy
 
-This policy describes our current privacy practices for the Oath Search and Assistants brands, websites, features, products, apps, software and other services (“Search Services”). All information that is collected, provided to Oath or stored in your Oath Account will be treated, used and protected in accordance with the [Oath Privacy Policy](https://web.archive.org/web/20180625065528id_/https://policies.oath.com/us/en/oath/privacy/index.html). This information may change as Oath revises these Search Services by adding or removing features or using different service providers. Some features are only available if you are a registered user. Please visit [Help](https://help.yahoo.com/kb/index?page=product&y=PROD_SRCH&locale=en_US) if you have questions about these Search Services.
+* * *
 
-This page describes specific privacy practices with respect to [ Yahoo Search](https://search.yahoo.com/), Yahoo Assistants, Yahoo Local and Yahoo Shopping. Additional information is included for certain Search Services listed below.
+For Yahoo search privacy policy, please visit: <https://policies.yahoo.com/us/en/yahoo/privacy/products/search/index.htm>
 
-### **Yahoo Search**
+**What information do we collect?**
 
-#### **Information Collection & Use Practices**
+We collect information from you when you register on our site or download free software.
 
-**Search**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-  * When you conduct a search on a product or service that uses our search technology, we collect information from your experience, such as your search queries.
-  * Search Assist helps you find what you are looking for by automatically offering popular search terms and new topics to consider. Search Assist may base suggestions on aggregated searches across all users and your individual search history.
-  * The Yahoo Search History tool allows you to see what you've searched for in the past. [ Learn how to manage your Search History tool](https://help.yahoo.com/kb/index?page=content&y=PROD_SRCH&locale=en_US&id=SLN22645).
-  * When you use Yahoo Search, you may see relevant, private results selected from other sources, such as your Yahoo Mail. Only you can see your private search results when you’re signed in. [Learn how to manage, including turning off, Private Results. ](https://help.yahoo.com/kb/search/SLN22585.html?impressions=true)
-  * Some advertising you receive may be customized based on your searches or related terms at Oath. Please visit our [ Opt-Out page](https://aim.yahoo.com/aim/us/en/optout/) to learn more about the information used to personalize your search experience. If you opt-out, you will continue to see ads Oath serves on these websites, but they won’t be customized to your interests or search history.
-  * Visit the [ Search Preferences](https://search.yahoo.com/preferences/preferences?pref_done=https%3A%2F%2Fsearch.yahoo.com%2Fsearch%3Fp%3Dtest%26ei%3DUTF-8%26fr%3Dsfp&.bcrumb=152fFQ.8kx9&tmpl=&fr=sfp) page to manage your Yahoo Search experience, including Safe Search, Search History, and Private Results.
-  * Yahoo Search uses image recognition algorithms to identify public figures, scenes, actions, or objects to make it easier to search images
+**What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways:
 
+To personalize your experience (your information helps us to better respond to your individual needs)  
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
+To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
+To process transactions
 
-**Search Partners**
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the downloaded product or service requested.
 
-  * A variety of third party providers help power Oath search and sponsored search services.
-  * We may share your search query, IP address, and other depersonalized information from your web browser or app, such as a unique identifier for your web browser, with these search partners.
-  * These third party providers may use this information, as well as your search results clicks, to provide more relevant advertising and search results, for search product improvement, research and analysis, and to help detect and defend against fraudulent activity on sponsored or contextual search results.
-  * We may reformat results provided by these search partners to provide an enhanced search experience to you.
-  * To learn more about the data collection and use practices by these search partners, please visit our [ Third Parties](https://web.archive.org/web/20180625065528id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html) page.
+To send periodic emails
 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
+**How do we protect your information?**
 
-**Sponsored Search Results**
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-  * Search results may consist of sites that have paid for placement in the search results. [ Learn more.](https://web.archive.org/web/20180625065528id_/https://policies.oath.com/us/en/oath/privacy/topics/adserving/index.html)
-  * Search results may contain tracking URLs provided by Yahoo Search Marketing and/or our Search Partners to identify clicks from the search results page.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
+**Do we use cookies?**
 
-**Assistants**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-  * Yahoo Assistants are a new category of products and services using artificial intelligence guided by humans. These include chat bots operating in messenger platforms, virtual personal assistants and stand-alone apps accessed on Oath or through third-party apps and services. Assistants may collection information about you in a manner different from other search technologies.
-  * Yahoo Assistants may interact and converse with you to answer questions, help complete tasks or perform other activities. Assistants rely on our personnel and automated systems to respond to questions or instructions from users.
-  * We may collect information about you when you use our Assistants, including your conversations and interactions with the Assistant, your Yahoo ID and information associated with your account.
-  * We may also collect information provided by a third-party (including apps, messaging platforms and other services) interacting with our Assistants, which could include: your account information with the third-party, such as user ID, name, photo, phone number, email address; and device information such as device ID, device type, operating system, and mobile carrier.
-  * Oath’s personnel and our automated systems may have access to all communications content as it is sent, received, and when it is stored, in order to fulfill your requests, further product and services development, and provide personalized experiences and advertising through Oath’s products and services.
-  * When you are communicating with our Assistants through a third-party, please read that company’s privacy policy to better understand what information it may retain and for what purposes.
-  * Location information collected through the Yahoo Assistants may not appear in the Location Management page.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
+**Do we disclose any information to outside parties?**
 
-**Other**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-  * Users who are European residents can [ request](https://io.help.yahoo.com/contact/index?y=PROD_SRCH&token=w5FCchB1dWGbc2RE0kcjij0u65u86GoeqUkmqtTbcuO%252BLU%252FUQgc3BzwNZtXp6XEXn5YwJ6Wu6A9MCYnw7SzQy5BySKiGUpoj0xug9Sr7JfZdSQjOyA5v2Of2mZTMotlsehDS1xQqu1g%253D&locale=en_GB&page=contactform&selectedChannel=email-icon&isVip=false.) that certain URLs be blocked from search results in certain circumstances.
+**Third-party links and advertisement**
 
+We may use [third-party advertising companies](http://d3pf6plvnvh8ay.cloudfront.net/pp.html) to serve ads when you visit our website. Occasionally, at our discretion, we may also include or offer third-party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+**California Online Privacy Protection Act Compliance**
 
-### **Yahoo Local**
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-#### **Information Collection and Use Practices  **
+**Childrens Online Privacy Protection Act Compliance**
 
-**My Local**
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-  * This feature allows the signed in user to store Business Listings by using the “Save” button on the Business Profile Page.
-  * Signed-in users may also view their recently searched and recently viewed businesses.
+**Online Privacy Policy Only**
 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+**Terms and Conditions**
 
-#### **Information Sharing and Disclosure Practices**
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-**Reviews**
+**Your Consent**
 
-  * Your review will include your Yahoo ID or an alias or other account information you have made public and will link to your profile. Use the pull-down menu to choose the alias you would like to post with. You may also create a new alias and profile.
-  * Currently it is not possible to edit your own review once it has been posted, however if you try to post a second review you will see your previous review which may then be resubmitted.
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+By using our site, you consent to our privacy policy.
 
+**Contact Us**
 
+Save File AS  
+[privacy@foxstart.com](mailto:privacy@foxstart.com)  
+Postboks 1300 Vika, 0112 Oslo, Norway  
+Attn: Foxstart Privacy
 
-#### **Practices Regarding Your Ability to Update or Delete Information**
+**Changes to our Privacy Policy**
 
-  * Currently it is not possible to edit your own review once it has been posted, however if you try to post a second review you will see your previous review which may then be resubmitted.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-
-
-### **Yahoo Shopping**
-
-  * [Yahoo Shopping](http://shopping.yahoo.com/) allows you to access thousands of merchants and products in one place. To make a purchase from a merchant listed on Yahoo Shopping, you are not required to be a registered user.
-  * [PriceGrabber](http://www.pricegrabber.com/) powers the functionality of Yahoo Shopping. For more information on how PriceGrabber collects and uses your information, please visit the PriceGrabber [ Privacy Policy](http://www.pricegrabber.com/privacy-policy).
-
-
-
-#### **Information Collection and Use Practices**
-
-**Purchases**
-
-  * We may use your Yahoo Shopping queries and Yahoo Shopping browsing history to customize your experience and provide you ads that may be of more interest to you. We show you your Yahoo Shopping queries and Yahoo Shopping browsing history made within the past 60 days in the [ Recent Activity module](https://shopping.yahoo.com/#recent-activity).
-  * To disable Recent Activity, select “off” in the upper-right corner of the module. To clear your Yahoo Shopping browsing history, select “clear all” in the upper-right corner of the module. To learn more about your ability to opt-out of interest-based advertising, click [ here](https://aim.yahoo.com/aim/us/en/optout/). To learn more about how the Recent Activity module works, click [ here](http://help.yahoo.com/l/us/yahoo/shopping/new/shop-138.html) 
-  * When you make a purchase from a merchant listed on Yahoo Shopping, the merchant will ask for information such as your name, billing and shipping addresses, email address, telephone number, and credit card information. Please refer to the privacy policy of each individual merchant to learn how they use and store your information.
-  * Each merchant from whom you make a purchase will receive your personal and order information directly. Yahoo Shopping does not see, collect, store, or use this information in any way.
-  * Each merchant is solely responsible for their use of your personal and order information.
-
-
-
-**Comments**
-
-  * When signed into the Yahoo Network you may comment on user reviews. When you comment, your profile is linked to that content and your display name and profile photo are visible to other users.
-  * You must be a logged-in, registered user to post a comment.
-  * Comments you post will be displayed publicly along with your Yahoo ID or chosen nickname and profile picture or avatar.
-  * You may also delete a comment you have posted by selecting the ‘delete’ option next to the comment you wish to remove.
-  * Your comments are visible to you on the “My Comments” tab next to the commenting streams.
-
-
+This policy was last modified on July 18th, 2018
