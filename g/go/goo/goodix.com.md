@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodix.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606091946id_/http%3A//www.goodix.com/contact/secret.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodix.com privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806143939id_/https%3A//www.goodix.com/contact/secret.html) for the most accurate reproduction.*
 
 # Goodix-Fingerprint Module|Chip|Sensors,Windows 8 Touch Screen Sensor,Active Tablet Stylus-Goodix-Enrich Your Life Through Innovation
 
