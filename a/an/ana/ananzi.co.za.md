@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ananzi.co.za privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519163722id_/http%3A//www.ananzi.co.za/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananzi.co.za privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806212146id_/https%3A//www.ananzi.co.za/Privacy_Policy) for the most accurate reproduction.*
 
 # Ananzi's Privacy Policy
 
