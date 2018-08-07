@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606070121id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807180443id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Security - Baseball Express
 
