@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photocamel.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607185306id_/http%3A//photocamel.com/forum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocamel.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807190719id_/https%3A//photocamel.com/forum/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PhotoCamel - Your Friendly Photography Forum
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [website's privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [website's privacy policy](https://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
