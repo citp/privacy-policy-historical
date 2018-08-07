@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022084233id_/http%3A//www.homebusinesscenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807062024id_/http%3A//www.homebusinesscenter.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Terms of Service for HomeBusinessCenter.com
 
 _HomeBusinessCenter.com does not give, sell, rent, share or trade any identifiable personal information to any third party regarding our website visitors or newsletter subscribers._
 
@@ -32,6 +32,6 @@ On this site, we write about and include only business ideas and marketing infor
 
 The products and services shown as third party ads (i.e Google Adsense) in the right-hand column of our web pages are not affiliated with HomeBusinessCenter.com
 
-Please contact us if you have any questions. We’d be happy to talk with you.
+Please contact us if you have any questions. We’d be happy to talk with you about our terms of service.
 
 Thanks for visiting us!
