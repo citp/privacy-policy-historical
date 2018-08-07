@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ets2downloads.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524133734id_/http%3A//ets2downloads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ets2downloads.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807104622id_/https%3A//ets2downloads.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ETS2 Mods
+# Privacy Policy - ETS2 Mods
 
 [__  Home](http://ets2downloads.com/) > Privacy Policy
 
@@ -24,6 +24,9 @@ We use the following ad networks:
 
 **Especially Google Adsense Privacy Policy**
 
+  
+
+
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
@@ -37,3 +40,5 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Contacting Us:**
 
 If you have any questions, you can contact us at: <http://ets2downloads.com/contacts>
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://ets2downloads.com/)
