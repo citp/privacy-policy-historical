@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lgbtqnation.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224110948id_/http%3A//www.lgbtqnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lgbtqnation.com privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808000810id_/https%3A//www.lgbtqnation.com/privacy) for the most accurate reproduction.*
 
-# Privacy – LGBTQ Nation
+# LGBTQ Nation - News, Opinions, Arts and Culture - The Nation's LGBTQ News Magazine
 
 At **LGBTQ Nation** , we understand that your privacy is important to you; it’s important to us also, and that is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
 
@@ -27,7 +27,7 @@ Cookies are used to deliver content specific to a user’s potential interests a
 
 **Your IP Address:**
 
-Your IP address is commonly used by most [websites](http://www.lgbtqnation.com/tag/websites/) to collect demographic data, track site usage and improve service. Whenever possible, we collect your IP address when you visit our site, the search criteria or referring website you visited prior, and information such as your operating system, browser, screen resolution settings, your [internet](http://www.lgbtqnation.com/tag/internet/) service provider, your city (or country) of origin, pages viewed, and frequency and length of visits to our site. We automatically gather this information and translate the data into a resource that we can use to identify and correct problems with our website, better understand our users and their preferences for different offerings on our site, and to continually update and expand our service.
+Your IP address is commonly used by most websites to collect demographic data, track site usage and improve service. Whenever possible, we collect your IP address when you visit our site, the search criteria or referring website you visited prior, and information such as your operating system, browser, screen resolution settings, your internet service provider, your city (or country) of origin, pages viewed, and frequency and length of visits to our site. We automatically gather this information and translate the data into a resource that we can use to identify and correct problems with our website, better understand our users and their preferences for different offerings on our site, and to continually update and expand our service.
 
 **Discussion Threads, Public Comments:**
 
@@ -37,7 +37,7 @@ We are not responsible for the Personal Information you choose to submit in thes
 
 **Third Party Collections of Information:**
 
-LGBTQ Nation has no control over any persons, third party web sites, links or email addresses posted to this website. We do not screen landing pages of external links, and assume no responsibility for any web navigation, including links to members’ personal [websites](http://www.lgbtqnation.com/tag/websites/) or blogs, or textual or banner advertisements, that takes you off this site, and that is not under our control.
+LGBTQ Nation has no control over any persons, third party web sites, links or email addresses posted to this website. We do not screen landing pages of external links, and assume no responsibility for any web navigation, including links to members’ personal websites or blogs, or textual or banner advertisements, that takes you off this site, and that is not under our control.
 
 **Liability:**
 
@@ -52,4 +52,4 @@ We reserve the right to transfer ownership of all private and non-private inform
 LGBTQ Nation reserves the right to change its Privacy Policy at any time and without prior notice to anyone.
 
 **Mailing Address:**  
-LGBTQ Nation, 584 Castro St. #623, [San Francisco](http://www.lgbtqnation.com/tag/san-francisco/), CA 94114
+LGBTQ Nation, 584 Castro St. #623, San Francisco, CA 94114
