@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslgaming.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626143554id_/https%3A//www.eslgaming.com/termsofuse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslgaming.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807165603id_/https%3A//www.eslgaming.com/termsofuse) for the most accurate reproduction.*
 
 # Terms of Use | ESLGaming
 
