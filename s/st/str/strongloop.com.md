@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongloop.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512003753id_/https%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-priv-usen%3Flnk%3Dflg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongloop.com privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808104318id_/https%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-priv-usen%3Flnk%3Dflg) for the most accurate reproduction.*
 
 # IBM Privacy Statement - United States
 
