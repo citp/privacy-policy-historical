@@ -1,55 +1,89 @@
-> *The following text is extracted and transformed from the vine.co privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824064416id_/https%3A//www.vine.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vine.co privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809013132id_/https%3A//vine.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Vine
 
-## Vine Privacy Policy
+## Vine Archive - Privacy Policy
 
-This Privacy Policy describes how and when Vine collects, uses, and shares your information when you use our Services. Vine receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Vine to use your information in the United States and any other country where Vine operates.
+This Privacy Policy describes how and when Twitter, Inc. and Twitter International Company (collectively, **“Twitter”** ), collect, use, and share your information when you use the Vine Archive or otherwise access videos, information, text, graphics, photos, and other materials that users previously posted publicly on Vine (collectively referred to as **“Content”** ) on the Vine Archive. When using the Vine Archive, you acknowledge the practices and policies described in this Privacy Policy. As of the effective date of this policy, you will only be able to access archives of Content, in accordance with our [Terms of Service](https://vine.co/tos) ( **“Terms”** ), that users previously posted publicly on Vine. All other features of The Vine Archive, including the ability to create a Vine account, log into an account, and post new Content, are disabled and we retain no non-public user information except for information necessary to display Content and otherwise operate the Vine Archive. 
 
-### Information Collection and Use
+### Information Collection
 
-**Creating a Vine Account and Profile Information:** When you create a Vine account, you must provide access credentials either in the form of an email address and password or by authentication using another service, such as Twitter. You may optionally provide us with additional profile information, including a short bio, location, and profile picture. If you create your Vine account by connecting through another service, we may use public information from that connected account to help complete your Vine profile. You may update or modify your profile information and contact information at any time. Profile information is available publicly on our Services, such as on your profile page.
+  * **Public Content:** Vine was a video sharing platform through which users were able to share videos and profile information, among other information, with a wide range of users and other services that accessed Vine. Certain public profile information, such as Vine handles and videos, continues to be available publicly on the Vine Archive. We do not update the Vine Archive and you no longer have the ability to post new Content. Twitter will generally continue to host this information until we receive a request to delete such data in accordance with the instructions provided below or as required by law (see **“Deleting Your Personal Information”** below).
+  * **Personal Information You Provide:** You may provide personal information to us, for example when you request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, and any other information you choose to provide. We use this information to respond to your questions or concerns. The Vine Archive does not allow the submission of personal information.
+  * **Log Data:** Our servers automatically record information ( **"Log Data"** ) created by your use of the Vine Archive, such as when you view Content hosted by Twitter. Log Data may include information such as your IP address, browser type, or operating system. Twitter uses Log Data for troubleshooting and related activities necessary to maintain the the Vine Archive.
 
-**Contact Information:** In addition to using your contact information to create your account, we may use this information to send you information about our Services, respond to your requests and facilitate your use of the Services. We may use the contact information (such as your phone number or email address) to help connect you with other Vine users, even if that information is not publicly displayed.
 
- **Finding Friends and Connecting to Other Services:** Our Services include several features to help you find the accounts of people you already know. For example, you may upload information from your address book or connect your Vine account to your account on another service such as Twitter. Vine will match the information you provide with the contact information of other Vine users. We do not retain your address book information after displaying these matches. When you connect your Vine account to other services, you are able to post your Content to those services as well. You may disconnect your Vine account from your account on the other services at any time. Disconnecting your Vine account will immediately revoke our authorization to cross-post on your behalf or otherwise access that account and we will delete information obtained from that connection (other than information that was publicly posted on Vine, such as profile information), which may take some time.
 
-**Content, Following, and other Public Information:** Vine is a video sharing platform, so most of the information you provide us is information that you choose to be made public. This includes not only the Content that you post and data provided with such Content, such as when it was posted, but also the accounts you follow, the Content that you like or comment on, and other public interactions on the Services. Your public information is broadly and instantly disseminated. For instance, your profile information and public Content are immediately delivered to a wide range of users and other services that access Vine. When you share information or Content via the Services, you should think carefully about what you are making public.
+### Purposes and Legal Bases
 
-**Location Information:** In addition to profile information, you may also tell us your exact location if you choose to enable your computer or mobile device to send us location information. We may use and store information about your location to provide features of our Services, such as tagging a video with a location, and to improve and customize the Services, for example, with Content that has been tagged near your location.
+We use information we receive from you for the purposes described below, except where restricted by law. In doing so, Twitter relies on its legitimate interests to lawfully process such data:
 
-**Links:** We may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, for example to provide relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+  * **Archiving Content in the Public Interest:** Twitter hosts the Vine Archive, which contains Content people chose to publicly share. We do this to preserve our users’ historic speech and to preserve access to Content that was publicly posted on the internet. This furthers our users’ right to free expression and the right of members of the public to access public speech. We generally remove Content where requested by the individual who posted it (see **“Deleting Your Personal Information/Your Rights”** below). 
+  * **Operating Our Site:** Twitter may also use your information as necessary to pursue our legitimate interests of enforcing our Terms and preventing unlawful activities and misuse of the Vine Archive; protecting the legal rights, property, safety, and security of Twitter and our users; and resolving disputes involving you relating to the Vine Archive. Twitter may also use your personal information where reasonably necessary to comply with applicable laws, regulations, legal process, or governmental requests. 
 
-**Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as viewing public videos. A cookie is a small data file that is transferred to your computer's hard disk. Vine may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. If you do not want cookies from Vine or other websites, you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
 
-**Log Data:** Our servers automatically record information (" **Log Data** ") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services,view videos hosted by Vine, or interact with our email notifications. Vine uses Log Data to provide our Services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.
-
-**Third-Party Service Providers:** Vine uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address.
 
 ### Information Sharing and Disclosure
 
-**Your Consent:** We may share or disclose your information at your direction, such as when you choose to publicly post a video or update your profile information.
+  * **User-Controlled Sharing:** Content on the Vine Archive can be collected and used by others and redistributed through the internet and other media channels. 
+  * **Service Providers:** We engage service providers to perform functions and provide the Vine Archive to us in the United States, Ireland, and other countries. We may share information with such service providers on the condition that they use the data only on our behalf, pursuant to our instructions, and subject to confidentiality obligations consistent with this Privacy Policy. 
+  * **Law and Harm:** Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. 
+  * **Change of Ownership and Affiliates:** In the event Twitter is involved in a bankruptcy, merger, acquisition, reorganization, or sale of assets, information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to information as transferred to the new entity. We may also disclose information to our corporate affiliates in order to help operate our services and our affiliates’ services. 
+  * **Non-Personal Information:** We may share or disclose aggregated or otherwise non-personal information. 
 
-**Service Providers:** We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
 
-**Law and Harm:** Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Vine’s rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information.
 
-**Business Transfers:** In the event that Vine is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+### Our Global Operations and Privacy Shield
 
-**Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public posts, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did).
+To bring you our services, we operate globally. Where the laws of your country allow you to do so, you authorize us to transfer, store, and use your data in the United States, Ireland, and any other country where we operate. In some of the countries to which we transfer personal data, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those of your country. Learn more about our global operations and data transfer [here](https://help.twitter.com/rules-and-policies/global-operations-and-data-transfer). 
 
-### Modifying Your Personal Information
+When we transfer personal data outside of the European Union or EFTA States, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country’s data protection laws, contractual obligations placed on the recipient of the data (model clauses may be requested by inquiry as described below), or EU-US and Swiss-US Privacy Shield principles.
 
-If you are a registered user of our Services, we provide you with tools and account settings to access or modify the profile information you provided to us and associated with your account.
+Twitter, Inc. complies with the EU-US and Swiss-US Privacy Shield principles (the “Principles”) regarding the collection, use, sharing, and retention of personal data from the European Union and Switzerland, as described in our [EU-US Privacy Shield certification and Swiss-US Privacy Shield certification](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO).
 
-You can also permanently delete your Vine account by [contacting us](https://web.archive.org/support). 
+If you have a Privacy Shield-related complaint, please contact us [here](https://help.twitter.com/forms/privacy). As part of our participation in Privacy Shield, if you have a dispute with us about our adherence to the Principles, we will seek to resolve it through our internal complaint resolution process, alternatively through the independent dispute resolution body [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), and under certain conditions, through the [Privacy Shield arbitration process.](https://www.privacyshield.gov/article?id=G-Arbitration-Procedures)
+
+Privacy Shield participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances, participants may be liable for the transfer of personal data from the EU or Switzerland to third parties outside the EU and Switzerland. Learn more about the EU-US Privacy Shield and Swiss-US Privacy Shield [here](https://www.privacyshield.gov/welcome). 
+
+### Retention
+
+Since the Vine Archive is an archive of public Content, we hope (but assume no obligation) to maintain this Content indefinitely. If not already done earlier, we will delete Log Data after 30 days. 
+
+### Deleting Your Personal Information / Your Rights
+
+If you reside in certain territories, including the European Union or EFTA States, you benefit from a number of rights in relation to your information. While some of these rights apply generally, certain rights apply only in certain limited cases. We describe these rights below: 
+
+  * **Access.** The Content we process in relation to the the Vine Archive is public, so it can be freely accessed online. 
+  * **Change, Restrict, Delete.** You may also have rights to change, restrict our use of, or delete your personal data. As the data we hold is archived, we may be limited in our ability to change or restrict the use of your data. However, absent exceptional circumstances (like where we are required to store data for legal reasons) we will generally delete your personal data upon request. To request the deletion of your data please contact us at [vinehelp@twitter.com.](mailto:vinehelp.twitter.com)
+  * **Object.** As we process your information based on our legitimate interests, you can object to this processing in certain circumstances. In such cases, we will delete your personal data unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons.
+  * **Complain.** If you reside in the European Union or EFTA States, should you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local data protection authority, or with the Irish Data Protection Commissioner whose contact details can be found [here](https://www.dataprotection.ie/docs/Contact-us/b/11.htm).
+
+
 
 ### Our Policy Towards Children
 
-Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please [contact us](https://web.archive.org/support). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+The Vine Archive is not directed to persons under 16. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal data, we will delete such information from our systems.
 
 ### Changes to this Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [https://vine.co/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+This Privacy Policy may be updated from time to time for any reason. Each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our website. You are advised to consult this Privacy Policy regularly for any changes.
 
-_Effective: January 21, 2013_
+### Contact Us
+
+Thoughts or questions about this Privacy Policy? Please let us know by contacting us [here](https://help.twitter.com/forms/privacy) or writing to us at the appropriate address below. 
+
+Twitter, Inc.   
+Attn: Privacy Policy Inquiry   
+1355 Market St., Suite 900   
+San Francisco, CA 94103 
+
+If you live outside the United States, the data controller is Twitter International Company, with an address of:
+
+Twitter International Company   
+Attn: Data Protection Officer   
+One Cumberland Place, Fenian Street   
+Dublin 2, D02 AX07 IRELAND 
+
+If you are located in the European Economic Area, you can confidentially contact Twitter’s Data Protection Officer [here](https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp). If you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority or Twitter International Company’s lead supervisory authority, the Irish Data Protection Commission. You can find their contact details [here](https://www.dataprotection.ie/docs/Contact-us/b/11.htm).
+
+_Effective: May 25, 2018._
