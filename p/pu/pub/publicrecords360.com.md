@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicrecords360.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606195527id_/https%3A//www.publicrecords360.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecords360.com privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808114015id_/https%3A//www.publicrecords360.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for PublicRecords360.com
 
