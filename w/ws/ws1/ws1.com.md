@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ws1.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502094254id_/http%3A//ws1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ws1.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809001348id_/http%3A//ws1.com/privacy-policy) for the most accurate reproduction.*
 
 # WS1 | Privacy Policy
 
