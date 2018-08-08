@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607202503id_/http%3A//pegitboard.com/movies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808205830id_/https%3A//www.pegitboard.com/movies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pegitboard Movie & TV Database
 
