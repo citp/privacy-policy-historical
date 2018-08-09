@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistani.pk privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610060149id_/http%3A//pakistani.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistani.pk privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809173728id_/https%3A//pakistani.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pakistani.PK
 
@@ -60,6 +60,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at **backoffice@pakistani.pk**
 
 This document was last updated on October 05, 2017
