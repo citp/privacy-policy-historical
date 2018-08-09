@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609060357id_/http%3A//www.neoperl.net/en/oem/legalinformation/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809083740id_/https%3A//www.neoperl.net/en/oem/legalinformation/privacypolicy.html) for the most accurate reproduction.*
 
 # NEOPERL: General Terms & Conditions
 
@@ -93,7 +93,7 @@ Please note: if you delete your cookies, the opt-out cookie will also be deleted
 
 Before you use this service, we inform you about how we process the personal data we collect from you and you must consent to this processing.
 
-The data processing takes place exclusively on systems within the EU and has been secured by con-tract. For further information about compliance with the EU GDPR, visit LiveChat Inc. at https://www.livechatinc.com/general-data-protection-regulation/.
+The data processing takes place on systems within the EU and in the United States and has been secured by contract. For further information about compliance with the EU GDPR, visit LiveChat Inc. at https://www.livechatinc.com/general-data-protection-regulation/.
 
   
 **Social media**
@@ -166,4 +166,4 @@ You have the right to restrict the use of your personal data at any time. To ass
 **This privacy notice is constantly updated to reflect the latest functions, technologies and applicable legislation. Updates are not made at regular intervals. The privacy policy published on our website is the applicable version.
 
   
-Version: June 2018
+Version: August 2018
