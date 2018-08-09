@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site-reference.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330214231id_/http%3A//www.site-reference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-reference.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809041654id_/http%3A//www.site-reference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
