@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratingdada.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601080517id_/http%3A//www.ratingdada.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratingdada.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809024635id_/http%3A//www.ratingdada.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Movie Ratings | Critic Ratings | Movie User Rating | Movie Reviews
 
