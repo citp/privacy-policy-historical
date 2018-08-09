@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630014234id_/http%3A//static.naplesnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809144723id_/https%3A//cm.naplesnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Naples Daily News
+# static.naplesnews.com
 
 Last Updated: May 14, 2018
 
