@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628154512id_/http%3A//www.allsop.co.uk/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809173428id_/http%3A//www.allsop.co.uk/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Allsop
 
