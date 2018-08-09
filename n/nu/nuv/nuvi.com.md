@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuvi.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610040912id_/http%3A//www.nuvi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvi.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809203423id_/http%3A//www2.nuvi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NUVI - Real-Time Social Intelligence
 
