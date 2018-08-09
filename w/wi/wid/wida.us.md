@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wida.us privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607194112id_/https%3A//www.wida.us/aboutus/WIDA_Privacy_Policy_Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wida.us privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809221137id_/https%3A//www.wida.us/aboutus/WIDA_Privacy_Policy_Statement.pdf) for the most accurate reproduction.*
 
 # 
 
