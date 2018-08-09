@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponing4you.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609002424id_/http%3A//couponing4you.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponing4you.net privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809153415id_/http%3A//couponing4you.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
