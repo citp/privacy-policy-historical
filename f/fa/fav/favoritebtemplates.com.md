@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favoritebtemplates.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626001303id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favoritebtemplates.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809065845id_/https%3A//www.hover.com/privacy%3Fsource%3Dexpired) for the most accurate reproduction.*
 
 # Privacy Policy | Hover.com
 
