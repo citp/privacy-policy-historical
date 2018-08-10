@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuttlepublishing.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610223411id_/http%3A//www.tuttlepublishing.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuttlepublishing.com privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810133055id_/https%3A//www.tuttlepublishing.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
