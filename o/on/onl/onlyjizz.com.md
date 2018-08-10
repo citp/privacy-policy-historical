@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyjizz.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610070504id_/http%3A//www.onlyjizz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyjizz.com privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810193614id_/http%3A//www.onlyjizz.com/privacy.php) for the most accurate reproduction.*
 
 # The YouJizz Privacy Page
 
