@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610201015id_/http%3A//nomorepanic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810164510id_/http%3A//www.nomorepanic.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | No More Panic
 
