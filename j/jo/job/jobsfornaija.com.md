@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsfornaija.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611090733id_/http%3A//www.jobsfornaija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsfornaija.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811010257id_/https%3A//www.jobsfornaija.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Jobs For Naija
 
