@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redone.com.my privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608174341id_/http%3A//www.redone.com.my/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redone.com.my privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810121104id_/https%3A//www.redone.com.my/legal/privacy_policy) for the most accurate reproduction.*
 
 # redONE | Back To Basics
 
