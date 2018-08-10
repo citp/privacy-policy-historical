@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.nhs.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629181049id_/http%3A//www.jobs.nhs.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.nhs.uk privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810164245id_/https%3A//www.jobs.nhs.uk/privacy.html) for the most accurate reproduction.*
 
 # NHS Jobs - Privacy Statement
 
@@ -12,7 +12,7 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 ## Collection of Personal Information
 
-Your data will be held securely and in accordance with the Data Protection Act 1998 (DPA), the EU Data Protection Directive 95/46/EC, the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR), the Regulation of Investigatory Powers Act 2000, the Telecommunications (Lawful Business Practice) (Interception of Communications) Regulations 2000, the Electronic Communications Data Protection Directive 2002/58/EC, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and all applicable laws and regulations relating to Processing of Personal Data and privacy, including where applicable the guidance and codes of practice issued by the Information Commissioner
+Your data will be processed to support the recruitment process for vacancies that can be found on the NHS Jobs website. This will be in accordance with the Data Protection Act 2018 (DPA), the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR), the Regulation of Investigatory Powers Act 2000, the Telecommunications (Lawful Business Practice) (Interception of Communications) Regulations 2000, the Electronic Communications Data Protection Directive 2002/58/EC, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and all applicable laws and regulations relating to Processing of Personal Data and privacy, including where applicable the guidance and codes of practice issued by the Information Commissioner.
 
 NHS Jobs processes personal data and sensitive personal data (as described in the Data Protection Act 1998 (DPA), the EU Data Protection Directive 95/46/EC, the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR), ) to support the recruitment process to vacancies that can be found on the NHS Jobs website.
 
