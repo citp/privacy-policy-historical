@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527065238id_/http%3A//www.quizwow.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810053025id_/http%3A//www.quizwow.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Quizwow
+# quizwow
 
-This Privacy Policy governs the manner in which QuizWow collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.quizwow.com](http://www.quizwow.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by QuizWow.
+This Privacy Policy governs the manner in which QuizWow collects, uses, maintains and discloses information collected from users (each, a "User") of the 
+
+[_https://www.quizwow.com_](https://www.quizwow.com/)
+
+website ("Site"). This privacy policy applies to the Site and all products and services offered by QuizWow.
 
 Personal identification information
 
@@ -50,7 +54,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
 Compliance with children's online privacy protection act
 
