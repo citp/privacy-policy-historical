@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chirikumthaliga.blogspot.in privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222024451id_/http%3A//chirikumthaliga.blogspot.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chirikumthaliga.blogspot.in privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810144515id_/http%3A//chirikumthaliga.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Chirikum Thaliga
 
