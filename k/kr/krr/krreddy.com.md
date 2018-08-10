@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krreddy.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609105643id_/https%3A//www.krreddy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krreddy.com privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810131215id_/https%3A//www.krreddy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -160,4 +160,4 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
+krreddy@live.in and we will promptly remove you from **ALL** correspondence.
