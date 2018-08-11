@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dfs.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319064022id_/https%3A//www.dfs.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfs.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811181550id_/https%3A//www.dfs.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Personal Information Collection Statement | DFS | T Galleria
+
+##  PRIVACY POLICY & PERSONAL INFORMATION COLLECTION STATEMENT
 
 **I. OUR PRIVACY POLICY**
 
@@ -53,11 +55,13 @@ F. We also offer interested visitors to this site to complete and submit applica
 
 G. We will take all practicable steps to keep your personal data confidential but we may disclose, transfer or assign such data to the following parties:
 
-1\. Any agent, contractor, third party service provider or member of the DFS Group worldwide who provides administrative, telecommunications, computer and other services to us in connection with the managing, processing and storage of your data pursuant to the purposes set out in this Privacy Policy.  
-2\. If we decide to sell any relevant part of our business, to any actual or proposed assignee, transferee or successor who agrees to assume our obligations to you under this Privacy Policy.  
+1\. Any agent, contractor, third party service provider or member of the DFS Group worldwide who provides administrative, telecommunications, computer and other services to us in connection with the managing, processing and storage of your data pursuant to the purposes set out in this Privacy Policy.
+
+2\. If we decide to sell any relevant part of our business, to any actual or proposed assignee, transferee or successor who agrees to assume our obligations to you under this Privacy Policy.
+
 3\. Any person to whom we are under an obligation or permitted to make disclosure under the requirements of any Law.
 
-**III. DIRECT MARKETING**
+ **III. DIRECT MARKETING**
 
 We also intend to use your personal data for direct marketing. In particular, your personal data will be used for:
 
@@ -88,11 +92,11 @@ You may at any time request access to and to correct personal data relating to y
 
 **VII. DATA PRIVACY OFFICER**
 
-If you would like to make any inquiries about your personal data or request that we cease use of your personal data for the above purposes, please contact Eric Davis, Data Protection Officer at:
+If you would like to make any inquiries about your personal data or request that we cease use of your personal data for the above purposes, please contact Data Protection Officer at:
 
 DFS Group Limited
 
-Eric L. Davis, Data Protection Officer
+Data Protection Officer
 
 8/F., Chinachem Golden Plaza, 77 Mody Road
 
@@ -100,10 +104,8 @@ Tsimshatsui East, Kowloon, Hong Kong 
 
 or via email at dpo@dfs.com or dfs.legal@dfs.com
 
-Tel: +852 2732 5512
-
 If you no longer wish to receive our newsletter, you can click the unsubscribe link at the footer of the newsletter.
 
-**VIII. RETENTION OF DATA**
+ **VIII. RETENTION OF DATA**
 
 We will keep your personal data only for as long as necessary to fulfil the purpose for which the data was collected. We may also retain archived personal data for statistical purposes. Personal Data which is no longer required will be destroyed.
