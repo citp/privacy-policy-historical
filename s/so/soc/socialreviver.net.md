@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108022242id_/https%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811233901id_/https%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for socialreviver.net ~ SocialReviver: The way YOU want Facebook to be!
 
