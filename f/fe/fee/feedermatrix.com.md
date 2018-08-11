@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedermatrix.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513040835id_/https%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedermatrix.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811180311id_/https%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
 
@@ -34,6 +34,8 @@ EnCirca's policies and procedures are based on the eight internationally recogni
 
   * Use Limitation   
 
+  * GDPR Policy  
+
   * Individual Participation   
 
   * Security Safeguards   
@@ -46,7 +48,8 @@ EnCirca's policies and procedures are based on the eight internationally recogni
 
   * Data Quality   
 
-  * Accountability 
+  * Accountability   
+
 
 
 
@@ -61,6 +64,36 @@ If we are served with a civil subpoena seeking personal information about a EnCi
 EnCirca will not provide your e-mail address, name, or other personal identifiers to merchants or marketers without your specific prior permission. EnCirca will follow the instructions you indicate through the EnCirca software interface. 
 
 EnCirca may engage third parties to perform analysis or data processing of our databases that involves access to your personal information, in order to better provide you with the services for which you joined. If EnCirca does so, it will ensure that such parties are contractually required to keep the information confidential and not to use it in any way other than as is necessary to perform their work for EnCirca. 
+
+**GDPR Policy**
+
+The European Union General Data Protection Regulation (GDPR) requires a business to limit collection of personal data and to safeguard personal data in its possession; businesses must also comply with requests from individuals related to access, rectification, erasure, and portability of their personal data. 
+
+GDPR will be enforceable EU-wide from 25 May 2018, and will apply each time we collect, store, or share personal data relating to a European citizen or resident, or managed in Europe. 
+
+On 17 May 2018, the ICANN Board approved a Temporary Specification, to establish temporary requirements for how ICANN and contracted parties will continue to comply with existing contractual and policy requirements while also complying with GDPR. 
+
+The Temporary Specification is effective as of 25 May 2018, though we note that the new gTLD Registry Agreement allows for Registry Operators to be afforded a "reasonable period of time" to comply with any new Temporary Policy following ICANN providing notice of such. 
+
+Although EnCirca will continue to collect registrant information for our records, ICANN Whois records will redact all identifying information for a customer. This includes all registrant, admin, technical, and billing names, emails and addresses. So, for example, the only identifying information for encirca.com is: 
+
+Domain Name: ENCIRCA.COM  
+Registrar WHOIS Server: whois.encirca.com  
+Registrar URL: http://www.encirca.com  
+Registrar: Encirca, Inc.  
+Registrar IANA ID: 455  
+Registrar Abuse Contact Email: abuse-2014-2@encirca.com  
+Registrar Abuse Contact Phone: +1.7819429975  
+Registrant Organization: EnCirca Inc.  
+Registrant State/Province: MA  
+Registrant Country: United States  
+
+
+In order to contact the Registrant, Admin, or Tech contact of the queried domain name, put in a request with support@encirca.com (or go to https://www.encirca.com/html/whois-search.shtml). 
+
+More information on ICANN's GDPR policy can be found [here](https://www.icann.org/resources/pages/gtld-registration-data-specs-en). 
+
+We will also continue to update this page with the latest information about GDPR updates as they become available via ICANN and individual registries. 
 
 **Individual Participation**
 
@@ -202,4 +235,4 @@ As we continue to develop our business, we might sell or buy companies or assets
 
 The foregoing policy is effective as of March 11, 2003. EnCirca reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of EnCirca's services following the posting of changes to these terms will mean you accept those changes. 
 
-Policy last updated: February 14, 2018. 
+Policy last updated: May 25, 2018. 
