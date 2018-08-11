@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveatc.net privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118085730id_/https%3A//www.liveatc.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveatc.net privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811150217id_/https%3A//www.liveatc.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiveATC.net
 
-LiveATC.net takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+LiveATC.net recognizes that your privacy is very important - we have always taken it seriously, and will continue to do so. Please read the following to learn more about our Privacy Policy. 
 
 **What This Privacy Policy Covers**
 
@@ -10,11 +10,32 @@ This policy covers how LiveATC.net treats personal information that LiveATC.net 
 
 **Information Collection and Use**
 
+**Who is the Data Controller?**
+
+LiveATC.net is the **_“data controller”_** of personal data collected by LiveATC.net and is responsible for deciding how personal data is collected, used, and disclosed. 
+
+You should be aware that when you provide information to us using a third-party site or platform, the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by the LiveATC Privacy Policy only, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our Site or Services. Please also keep in mind that our Site and Services may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our Site or Services and to read the policies of other sites that may collect your personal information. 
+
 **General**
 
-LiveATC.net may collect personal information when you register with LiveATC.net, when you use LiveATC.net products or services, when you visit LiveATC.net pages or the pages of certain LiveATC.net partners. LiveATC.net may combine information about you that we have with information we obtain from business partners or other companies. When you register we may ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with LiveATC.net and sign-in to our services, you are not anonymous to us. LiveATC.net collects information about your transactions with us and with some of our business partners. LiveATC.net may also ask you for credit card information to process your transactions with us, or to verify your identity or age. 
+LiveATC.net may collect personal information when you register with LiveATC.net, when you use LiveATC.net products or services, when you visit LiveATC.net pages or the pages of certain LiveATC.net partners. LiveATC.net may combine information about you that we have with information we obtain from business partners or other companies. When you register with us we may ask for information such as your name, email address, birth date, address, and any other information relevant to the purpose of a particular transaction. Once you register with LiveATC.net and sign-in to our services, you are not anonymous to us. LiveATC.net collects information about your transactions with us. LiveATC.net may also ask you for credit card information to process your transactions with us, or to verify your identity or age. 
 
-LiveATC.net automatically receives and records information on our server logs from your browser, including your IP address, LiveATC.net cookie information, and the page/s and products you request. LiveATC.net uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and for internal reporting purposes. 
+LiveATC.net automatically receives and records information on our server logs from your browser, including your IP address, LiveATC.net cookie information, and the page/s and products you request. 
+
+LiveATC.net uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you if you grant us permission to, conduct research, and for internal reporting purposes. 
+
+**Your controls and choices**
+
+The laws in some jurisdictions requires us to provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. To the extent those laws apply to you, your controls and choices may include: 
+
+\- Updating, and deleting your registration account;   
+\- Choosing or changing your choices for subscriptions, newsletters, and alerts;   
+\- Choosing whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you;   
+\- Choosing whether we share your personal information with other companies so they can send you offers and promotions about their products and services;   
+\- Controlling targeted advertising from many ad networks and partners; data exchanges; and marketing analytics and digital advertising and marketing service providers (by visiting the Digital Advertising Alliance);   
+\- Controlling whether you want us to access location information, such as by controlling or disabling location services in your mobile device’s settings menu;   
+\- Choosing to control targeted advertising you receive within applications by using the settings and choices made available to you through your device(s), for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads;   
+\- Requesting removal of your personal information from a public forum on one of our sites or application. 
 
 **Children**
 
@@ -77,12 +98,9 @@ NOTICE: [Click here](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec13.shtm) f
 If you have questions or suggestions, you can contact us at: 
 
 LiveATC.net   
-c/o Dave Pascoe   
 P.O. Box 178   
 Amherst, NH 03031   
 Or send an electronic message via the [site contact form](http://www.liveatc.net/ct/contact.php)
-
-_Last update: February 1, 2009_
 
 *NOTICE REGARDING CHILDREN'S ONLINE PRIVACY PROTECTION ACT OF 1998 (COPPA)* 
 
@@ -96,7 +114,7 @@ LiveATC.net has created a mechanism by which parents and guardians can provide c
 
 LiveATC.net may not require children under 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. 
 
-A parent must provide consent in order for a child to register for the LiveATC.net Forums. 
+. A parent must provide consent in order for a child to register for the LiveATC.net Forums. 
 
 **How to View or Change a Child's Information**
 
@@ -114,8 +132,9 @@ As a general reminder: Children should always ask a parent for permission before
 
 If you have any questions about this Notice or about the collection or maintenance of your child's personal information anywhere on LiveATC.net, please contact: 
 
-Dave Pascoe   
-c/o LiveATC.net   
+LiveATC.net   
 P.O. Box 178   
 Amherst, NH 03031   
 Or send an electronic message via the [site contact form](http://www.liveatc.net/ct/contact.php)
+
+_Last update: May 22, 2018 - clarifications to comply with General Data Protection Regulation (GDPR)_
