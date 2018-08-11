@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609013502id_/http%3A//www.bistromd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811163405id_/https%3A//www.bistromd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | bistroMD
 
