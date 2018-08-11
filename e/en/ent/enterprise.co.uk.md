@@ -1,248 +1,197 @@
-> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310170217id_/https%3A//www.enterprise.co.uk/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENGB.NULL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811183512id_/https%3A//privacy.ehi.com/en-gb/home.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# EHI Privacy Centre
 
-This policy was last updated on **14 March 2016.**
+Welcome to our new Global Privacy Policy Centre. We have developed this to enhance how we provide you with our data collection and use practices. While our practices have not changed, we have updated disclosures to comply with the new European General Data Protection Regulation (GDPR).
 
-At Enterprise Holdings, Inc., through our [subsidiaries](https://web.archive.org/en/privacy-policy/subsidiaries.html) operating under the Enterprise Rent-A-Car, Truck Rental, Car Sales, RideShare and CarShare, Alamo Rent A Car, National Car Rental and at Enterprise Fleet Management, Inc., (collectively, " **EHI** ", " **we** ", " **our** " or " **us** "), we respect your privacy. We implemented this privacy policy (" **Privacy Policy** ") to explain to you how we use and protect the personal information we may gather from and about our customers by means of our websites, mobile applications, online booking widgets (i.e. online booking applications run by our third-party partners such as hotel providers, airlines, etc), our corporate, rental and sales locations, and from third-party sources. By using our websites or mobile applications, you consent to the collection, use and disclosure of your information, as described in this Privacy Policy.
+At Enterprise Holdings, Inc., through our affiliates operating the Enterprise Rent-A-Car, National Car Rental and Alamo Rent A Car brands as well as Truck Rental, Car Sales, RideShare, CarShare and Car Club, and at Enterprise Fleet Management, Inc., (collectively, "Enterprise Holdings", "we", "our" or "us"), we respect your privacy. We have implemented this privacy policy ("Privacy Policy") and cookie policy ("Cookie Policy") to explain our data collection and use practices.  You can learn more in the sections below.
 
-To identify who the data controller is in respect of your personal data, please see Data Controllers and Contact Details by Country.
+[
 
-The nature of our business and our operations may require us to share your reservation and booking information with our franchisees or licensees, which are owned and operated by independent licensees ("[Licensees](https://web.archive.org/en/privacy-policy/licensees.html)"). For these transactions, the Licensee is an independent data controller and maintains its own privacy policy in respect of the hire data that you provide to the Licensee. You are encouraged to check the privacy policy of the Licensee that is applicable to your transaction.
+##  Privacy Policy __
 
-EHI has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe programme viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@ehi.com](mailto:privacy@ehi.com) and we will respond to you within a reasonable period of time unless otherwise required by law. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or in Canada you may contact the Privacy Commissioner of Canada by visiting <https://www.priv.gc.ca/cu-cn/index_e.asp> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3. To view the digital properties covered by the TRUSTe programme, please click [here](http://www.enterprise.com/en/privacy-policy/truste-certified.html).
+](https://web.archive.org/en-gb/home/privacy-policy.html)
 
-## The Types of Information We Collect
+Read about our privacy practices.
 
-### Information Collected About You
+Read about our privacy practices.
 
-You may provide us with certain information in connection with a transaction or in your interactions with our websites and at our EHI-branded locations. When you are asked to provide personal information, you may decline. If you choose not to provide the information, you may not be able to use some products or services. The personal information that we may collect includes:
+This policy was last updated on 07 May 2018.  
 
-  * Your name, contact information, driving licence number and expiry date, emergency contact information and date of birth;
-  * Vehicle rental information, including the location of where the vehicle is rented, date of rentals, type of rental and your preferences;
-  * Your credit card details, Enterprise, Alamo or National rewards information, online user accounts details, membership/corporate ID numbers, passport information and frequent flyer or travel partner affiliations;
-  * Information that you provide regarding your marketing preferences or in the course of participating in surveys or promotional offers;
-  * Photographs that you submit of you and your driving licence or your receipts through the camera features available on some of our mobile applications and websites;
-  * Financial information that may be necessary to facilitate the purchase or lease of a vehicle from a Car Sales or Fleet Management location in the United States. (Additional notices will be provided to you at the time of that transaction.)
-  * Additional contact information about you that we may obtain through third parties with whom we do business (e.g. travel agents, Car Sales lead providers or similar providers).
 
+[
 
+##  Cookie Policy __
 
-With your consent we may access location-based information from your mobile device or based on your IP address. We may also use your mobile device location information to provide you with notifications with your consent. We do not use this information to specifically locate you for any reason other than to provide you the service. If you have allowed us to utilise your location information in the past and wish to revoke the permissions, please turn off location services at the device level. With your consent, our application may utilise your device’s camera feature to upload photos (such as your receipts) to the application. If you have allowed the application to utilise your camera and wish to revoke the permissions to do so, please do so at the device level.
+](https://web.archive.org/en-gb/home/cookie-policy.html)
 
-In certain areas of our sites, we provide you with the ability to enter your friend’s name and contact information in order for EHI to send your friend a one-off email inviting him or her to visit the sites. We also provide you with the ability to enter a friend’s or another individual’s name and contact information in order to make bookings for that friend or other individual. You must have obtained the consent of your friends before making such submissions. The information that you provide will not be used for any further marketing purpose unless your friend requests services or we otherwise obtain consent from that person. Please be aware that when you use any send-to-a-friend functionality on our sites, your name and email address may be included in the communication sent to your friend.
+Read about our use of cookies and similar technologies on our websites, mob...
 
-### Information Collected and Stored Automatically
+Read about our use of cookies and similar technologies on our websites, mobile applications and in the emails we send you.
 
-By visiting our websites, certain information may be automatically provided to us by your computer. For each visitor to our websites, our webservers automatically recognise the visitor’s domain name or IP address. An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, web servers can identify your computer by its IP address. In addition, we may collect your browser type and operating system as well as your Internet service provider (ISP), referring and exit pages, date and time stamp and/or click stream data. We collect similar information when visiting our websites with your mobile device, including mobile device brand, model, mobile operation system and carrier. Except as otherwise explained in this policy, we may combine the non-personal information that we collect from you (as described above and as described below, under 'Cookies & Pixel Tracking') with your personal information in order to tailor our websites and enhance your online experience by saving your preferences and/or to help identify site features, advertisements and offers that may be of interest to you.
+This policy was last updated on May 25, 2018.  
 
-### Cookies & Pixel Tracking
 
-EHI and our partners use cookies, pixel tags, etags, HTML 5 storage and similar technologies on most of our sites and in promotional emails which we may send to you. We use them to monitor and understand your use of our websites and services; improve your user experience and enable personalised features and content; optimise our advertisements and marketing and see which email promotions were of interest to you; and assist third-party advertising companies to serve ads on our behalf across the Internet. At this time, EHI websites do not respond to automated signals regarding tracking mechanisms, including 'do not track' instructions from your browser. However, you have other options for preventing or limiting the use of cookies and similar technologies. To learn how to manage privacy and storage settings for Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). To learn more, please see our [Online Tracking and Advertising](https://web.archive.org/en/privacy-policy/cookie-policy.html) page.
+Expand All Collapse All 
 
-### **Vehicle Operation and Location Data**
+What Information We Collect 
 
-EHI vehicles may be equipped with OnStar or another vehicle telematics system ('Telematics System'). Some or all Telematics System functionality may or may not be active during rental periods. Telematics Systems may provide use, disclosure of, or access to (1) location information, (2) crash notification and related crash data and, (3) operational condition, mileage, diagnostic and performance reporting of vehicles ('Telematics Data'), as permitted by law.
+##### **Information Collected About You**
 
-Use of the Telematics System is subject to the terms and conditions and privacy policy posted by the applicable Telematics Systems provider and/or vehicle manufacturer (in the case of OnStar, information is available at www.onstar.com), which may include system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, privacy practices, descriptions of use and sharing of information and user responsibilities.
+You may provide us with certain information in connection with a transaction or in your interactions with our websites and at our locations. We collect the following types of personal information from you:
 
-### Children’s Privacy
+  * Your name, contact information, date of birth, driving licence number and expiration date and emergency contact information;
+  * Vehicle rental information, including the location of where the vehicle is rented, date of rental, type of rental and your preferences;
+  * Your credit card details, Enterprise, Alamo or National rewards information, online user account details, membership/corporate ID numbers, passport information and frequent flyer or travel partner affiliations;
+  * Information you provide regarding your marketing preferences or in the course of participating in surveys or promotional offers;
+  * Photographs you submit of you and your driving licence or your receipts through camera features available on some of our mobile applications and websites;
+  * Information about relevant health conditions you have that assist us in providing you with adaptive driving devices; and
+  * Financial information that is necessary to facilitate the purchase or lease of a vehicle from a Car Sales or Fleet Management location
 
-Our websites and online marketing are not directed to, and Enterprise does not knowingly collect personal information from, children under the age of 18 or your country’s age of minority. If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it, please email us at [customerservice@erac.com](mailto:customerservice@erac.com).
 
-## How We Use This Information
 
-We use the information that we collect for the following purposes:
+Third parties provide us with additional information about you, including:
 
-  * To assist the transactions that you request, such as reserving and renting motor vehicles.
-  * To verify a valid ID when submitting a photo of yourself and driving licence for one of our CarSharing, after-hours or expedited rental services. We do not store this information for any other purpose.
-  * To service your account or membership with us, respond to your questions and contact you when necessary.
-  * To provide you with discounts, coupons, sweepstakes, offers and other information, opportunities and services that may be of interest to you. You may receive these offers in advertising that is directed to you via third-party sites and media properties, including in social media. You may be able to opt out of these ads by clicking on an icon in the ad or through the privacy settings in each media property.
-  * To assist us in providing better products and services (for example, we may contact you by telephone, post or email to assist us in evaluating the performance of our staff, to assess the quality of product and service received and to help us improve our websites, facilities and services).
-  * To compile statistics and analysis about our customers’ use of our websites, products and services, which statistics are only used to enable us to provide better customer service, products, features and functionality to you and other customers in the future.
-  * To protect our rights and property.
+  * Referral Sources, such as third party online booking sites (who provide us general contact information and a booking confirmation number to facilitate the rental), your employer (general contact information) and your insurance provider (general contact and policy information).
+  * Where applicable, our Refer-A-Friend programmes.
+  * Hotel, airline and membership clubs, who provide us your general contact information and booking information.
+  * Credit reporting agencies, who, for fraud prevention purposes, provide us with identity-related information.
+  * Franchisees, who provide us information regarding your rental transactions.
+  * Service Providers, such as customer support (customer service-related information and enquiries made by you), customer survey providers (your response to our customer service surveys) and marketing providers (information to assist us to better communicate our products and services).
 
 
 
-We may combine the information that you submit to us with information related to your transactions with us, such as rental location and vehicle type. We may also combine this information with data that we receive about you from third parties who assist us in processing requests, maintaining our data and optimising our services.
+With your consent, we will access location-based information or collect location markers from your mobile device or based on your IP address. We will use this information to provide you with notifications related to our locations, return information, local offers or other information that we think will be helpful in providing you with better services. We do not use this information to specifically locate you for any reason other than to provide you the service. With your consent, our application will utilise your device's camera. If you have allowed us to utilise your location information or your device's camera in the past and wish to revoke the permissions, please change the settings on your device.
 
-Except where prohibited by law, we retain information that we collect for commercially reasonable periods of time or in accordance with specific policies. Information collected for a specified purpose will only be used for that purpose and, after a reasonable period of time, will no longer be actively stored when that purpose has been fulfilled. Inactive data may, however, continue to be used for statistical, marketing, archiving and other analytical purposes.
+##### **Vehicle Operation and Location Data**
 
-## How Your Information May Be Shared
+Our vehicles may be equipped with a vehicle telematics system ("Telematics System"). Some or all Telematics System functionality will be active during rental periods. Telematics Systems provide us with use of, disclosure of or access to (1) location information, (2) crash notification and related crash data, (3) operational condition, mileage, diagnostic and performance reporting of vehicles and (4) driver behavioural information ("Telematics Data"), as permitted by law.
 
-We may disclose the information that we collect from and about you to our subsidiaries for the purpose of providing the transactions you have requested and for marketing purposes. In addition to those stated within this Policy, Telematics Data from rental vehicles may be disclosed to, accessed by or used by EHI, our affiliates, emergency service providers, others who may assist in responding to an accident, telematics service operators or those with whom we have a legal or contractual obligation to provide such data. Our affiliates and our subsidiary employees in our IT, marketing, operations and customer service divisions may use your information, as described in this Policy. To update your marketing preferences, please see the Contacting EHI section below.
+Use of the Telematics System is subject to the terms and conditions and privacy policy posted by the applicable Telematics Systems provider and/or vehicle manufacturer (in the case of OnStar, information is available at www.onstar.com), which may include system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, privacy practices, descriptions of use and sharing of information and user responsibilities. See a list of manufacturers from which we purchase vehicles on the Vehicle Manufacturers page.
 
-We also may disclose your information to other third parties: (1) when required by law or in response to legal process; (2) without legal process in response to a request from law enforcement relating to a criminal investigation; (3) to protect our rights, privacy, safety or property, or of the public; (4) for administrative, technical support or other business purposes to facilitate our transactions with you (i.e. for your insurance replacement, corporate rental or through one of our partners), analyse our data, conduct mobile analytics services or to maintain and improve our services (subject to confidentiality agreements as appropriate); (5) to permit us to pursue available remedies or limit damage that we may sustain; (6) to enforce the terms of any rental agreement or our websites’ terms and conditions; (7) to assist with the administration of frequent flyer or other rewards programmes; (8) to process your transaction with our subsidiaries, affiliates or licensee/franchisee located in the country in which you place your reservation; (9) if the rights of another individual might be violated and (10) otherwise with your consent.
+We are not responsible for any data that is left in the vehicle as a result of your use. We cannot guarantee the privacy or confidentiality of such information and you must wipe it before you return the vehicle to us.
 
-Personal information may also be subject to transfer to another company in the event of a transfer, change of ownership, reorganisation or assignment of all or part of EHI, our subsidiaries/affiliated companies or our assets. This will occur provided that the parties have entered into an agreement under which the collection, use and disclosure of the information is limited to those purposes of the business transaction, including a determination whether or not to proceed with the business transaction. You will be notified via email or a prominent notice on our websites for thirty (30) days of any such change in ownership or control of your personal information.
+In the European Union, our vehicles are required to be equipped with eCall technology, which is activated if your vehicle is involved in an accident. eCall will automatically call and provide information regarding the accident to emergency services. We will also use, disclose and have access to this information.
 
-We may disclose your personal information to third-party service providers (such as a payment processor to bill you for goods or services, an email provider to send email communications to you on our behalf, or the provider of our live chat feature in order to offer you customer service). These service providers may be located in a country different from your country of residence, such as the United States or a European Union member country. These service providers are contractually required to maintain the confidentiality and security of your information. However, your information may be accessible to US or EU authorities in accordance with applicable laws.
+Telematics Data will be shared with emergency service providers, others who assist in responding to an accident, telematics service operators or those with whom we have a legal or contractual obligation to provide such data.
 
-We may also share aggregated or de-identified information about our customers with our advertising and marketing partners, and third-party media properties, including social media sites to allow them to send targeted advertising messages on our behalf. With your prior notice and consent, we may share your name and email address with our co-branded partners and affiliates in order to provide the services you have requested and for marketing purposes. If you wish to stop receiving promotional communications from these third parties, please contact the third party.
+##### **Children's Privacy**
 
-### Choices You Can Make About Your Information
+Our websites and online marketing are not directed to, and Enterprise Holdings does not knowingly collect personal information from, children under the age of 18 or your country's age of minority. If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it, please contact us using the link at the top of this page.
 
-Throughout our websites, we provide choices about the collection, use and sharing of your information. For example, you must affirmatively request to receive email advertisements from us, our affiliates and/or business partners concerning information about special offers, promotions and new features, products and services. You may choose to opt back in to our email advertisements at any time, in which case your most recent action will prevail. We will give you an opportunity to opt out of the gathering of your personally identifiable information, specific uses of your personally identifiable information and any marketing promotions in accordance with the procedures set out in the Contacting EHI section below.
+How We Use Information About You 
 
-### Testimonials
+We use the information we collect from you or about you to provide you with our services and for the following purposes:
 
-We may post customer testimonials/comments/reviews on our websites which may contain personally identifiable information. We will obtain your consent via email prior to posting the testimonial. To request the removal of your testimonial, please contact us through one of the methods listed below in the Contacting EHI section.
+  * **Where it is necessary for us to enter into a contract with you and provide services to you for the duration of the contract, including**
+    * To assist the transactions that you request, such as reserving, renting, purchasing or leasing motor vehicles.  
 
-### Linked Sites
+    * To provide customer service related to your interactions with us or to respond to your enquiry.
+    * To enrol you in our loyalty programmes and send non-promotional information relating to your ongoing membership of these programmes.
 
-Our websites may contain links to other websites (such as those of our marketing partners or advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these websites. Accordingly, we recommend that you review the privacy policy posted on any website that you may access through our website.
 
-## Data Security and Integrity
+  * **Where necessary for us to comply with a legal obligation, including**
+    * To share information about your vehicle's location with emergency services in the event that you are involved in a road accident.
+    * To share information with government and regulatory authorities when required by law or in response to legal process, obligation or request.
 
-The security of the information that you provide is very important to us and we try to provide secure transmission of your information. For certain transactions on certain of our websites, we may use Secured Sockets Layer (SSL) technology to secure the transfer of information. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information transmitted over the Internet. Once we receive your information, we take steps that we believe are reasonably appropriate to protect its security, both internally and from outsiders, from loss, misuse, unauthorised access, disclosure, alteration and destruction, and to ensure the integrity of the data we collect. We use a combination of technological, physical, administrative and policy methods as well as organisational controls and non-disclosure or confidentiality agreements that we deem appropriate to protect this data.
 
-If you have a username and password for any of the features on our websites, you have the responsibility of keeping your password secret. You should not reveal your password to anyone. We will not ask you in an unsolicited telephone call or email for your password. In addition, you should take reasonable precautions when using a computer that is not your own or in a public setting.
+  * **Where it is necessary for our legitimate interests, as listed below, and where our interests are not overridden by your data protection rights, including**
+    * To communicate important information about your rental, such as arrival and return alerts. These communications, which are transactional in nature, will be sent to you via email or SMS.
+    * To assist us in providing better products and services: for example, to evaluate the performance of our staff, to assess the quality of products and services received and to help us improve our websites, facilities and services.
+    * To compile statistics and analysis about our customers' use of our websites, products and services. These statistics are used only to enable us to provide better customer service, products, features and functionality to you and other customers in the future.
+    * To develop a profile of you and your interactions with us so that we can provide tailored offers, opportunities and services that may be of interest to you.
+    * To protect our legal rights and manage the security of our networks and property. For example, we will use CCTV to ensure the security of our premises and we maintain Do Not Rent lists of customers that are non-payment or safety risks.
+    * To share your information with third parties in order to prevent fraud and protect our business interests and rights, privacy, safety and property or that of the public. We will do this to collect unpaid bills, to avoid liability for penalties you incur (e.g. fixed penalty notices for driving offences) and for claims processing purposes.
+    * To share your information with third parties in order to permit us to pursue available remedies or limit damage that we may sustain and to enforce the terms of any rental agreement or our websites' terms and conditions. We will also disclose your information to third parties if the rights of another individual may be violated.
 
-## Global Data Transfers and Processing
 
-We will use your information in the country in which your service and transaction occurs. Please be aware that, unless prohibited by law, your use or continued use of our websites and mobile applications signifies your express consent that information may be transferred to or stored on servers and processed outside the country of your residence, [including any of the countries where we do business](https://web.archive.org/en/privacy-policy/licensees.html). Please also be aware that the privacy laws of the United States or other countries where information may be stored may not be as comprehensive or offer as much protection as the laws of other countries including your country of residence. You may request us not to make such transfers, but if you do, we may not be able to provide some or all of our products or services to you.
+  * **Where you have given consent, including**
+    * To assist us in providing you with the most appropriate vehicles, such as those with adaptive driving devices. In some cases, this will require us to infer or explicitly collect information about your health or physical condition.
+    * To enable us to use telematics (e.g. for the purposes of tracking mileage and location in the event of theft and to alert us if the telematics systems has been removed or tampered with).
+    * To send you certain promotional or targeted marketing communications, opportunities and services that may be of interest to you. These will include invitations to join our loyalty programmes, upgrade announcements, electronic newsletters and communications regarding an incomplete online membership form or reservation. Some of these offers will be received in advertising on non-Enterprise sites, including on social media.
+    * To send you text messages in order to provide you with time sensitive communications related to your transaction (e.g., construction delay at airport branch), extended rental opportunities, customer experience surveys, marketing promotions such as coupons, discounts, last-minute specials or loyalty and rewards information.
 
-When transferring personal data to countries outside the European Economic Area, we comply with European Union law by transferring to recipients who abide by Safe Harbor Principles, as set forth by the US Department of Commerce, or by using standard contract clauses approved by the European Commission, or by adopting other means to ensure that adequate safeguards are applied, or by obtaining your consent.
 
-## Changes in Terms
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+##### **Retention of Your Personal Information**
 
-## Contacting EHI
+We retain your personal information for as long as we need to fulfil our business purposes, as set out below:
 
-The accuracy and completeness of the information that we collect is very important to us and we make efforts to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to opt-out of direct marketing or review, amend, correct, update or delete any personally identifiable information that we have collected about you or limit how we use it, contact us at the information provided below. In addition to rights to review, amend, correct, update and delete personal data, you may also have rights to object to some processing of personal data. Please also contact us if you have any questions about privacy on our websites. You may contact us via email at [customerservice@erac.com](mailto:customerservice@erac.com), and we will attend to your request and make any necessary revisions. If you prefer, country-specific contact information is listed below. We will respond to your access request within 30 days, unless a shorter period is required. If that is the case, local legal requirements would apply.
+  * **Marketing purposes:** We keep data linked to cookies and other online identifiers for up to three years. We keep other marketing information, such as email subscription and loyalty enrolment data for up to 7 years after your last interaction with us.
+  * **Rental transactions:** We keep the data associated with your rental agreement for up to 7 years from the date of the rental, subject to other local legal requirements. We keep records of payments you have made for 2 years from the date of the transaction (depending on the location of the rental).
+  * **Customer service related queries:** We keep general queries for 3 years, unless you make a complaint, in which case, we keep complaints data for 7 years.
+  * **Disputes & law enforcement:** If we are involved in litigation or a governmental or regulatory investigation, then we keep data throughout the period of litigation or investigation and for 5 years after that. If a settlement means that we have to keep data for longer, then we keep data for the period required to administer the settlement. If we provide data to law enforcement agencies, then we keep a record of this for one year beyond the end of the investigation.
 
-We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
-### DATA CONTROLLERS AND CONTACT INFORMATION BY COUNTRY:
 
-**If you are making a rental, or visiting a website or mobile site, in the following countries, the data controller will be listed as below.**  
-  
----  
-  
-**Country**
+Who We Share Information With 
 
-| 
+##### **Affiliates**
 
-**Data Controller**
+We share the information we collect from and about you with our affiliates ("Affiliates") for the purpose of providing the transactions you have requested and (with your consent) for marketing purposes. See the Affiliates page for a list. The list is subject to change from time to time and you should periodically review it for changes. Our affiliates' employees in our IT, marketing, operations and customer service divisions will use your information, as described in this Privacy Policy, including, if required by applicable law, to send you information about products and services or respond to your enquiry.
 
-| 
+##### **Franchisees**
 
-**Contract Information**  
-  
-United States of America
+The nature of the business and operations require us to share your reservation and booking information with our franchisees ("Franchisees"). See the Franchisees page for a list. The list is subject to change from time to time and you should periodically review it for changes. For these transactions, the Franchisee is an independent data controller or equivalent under applicable law and will maintain its own privacy policy in respect of the rental data that you provide to the Franchisee. You are encouraged to check the privacy policy of the Franchisee that is applicable to your transaction.
 
-| 
+To identify who is the data controller or equivalent under applicable law in respect of your personal information, visit the Contacting Us page. ** __**
 
-Enterprise Holdings, Inc.
+##### **Our Service Providers And Business Partners  
+**
 
-| 
+We will share your information with third parties, such as (1) payment, administrative and technical support providers or our insurance replacement, corporate rental or other customers or partners to facilitate the rental transaction and rewards programmes with Enterprise Holdings group members, (2) companies who conduct customer research or satisfaction surveys on our behalf, (3) communication providers that send email and other marketing and service-related communications to you on our behalf, (4) customer support providers, such as the provider of our live chat feature, in order to provide customer service to you, (5) debt collection providers, (6) claims processors, and (7) our advertising and marketing partners and third-party media properties, including social media sites, with whom we share aggregated or de-identified information about our customers, to allow them to send targeted advertising messages on our behalf, to analyse, enhance and manage our data, conduct mobile analytics services and to maintain and improve our services (subject to confidentiality agreements as appropriate).  
 
-Enterprise, Internet Privacy Questions,  
-600 Corporate Park Drive, St. Louis, MO 63105  
-  
-Canada
 
-| 
+##### **Government Authorities**
 
-Enterprise Rent-A-Car Canada Company
+Your personal information may also be shared with government authorities as outlined above.
 
-| 
+##### **Sale, Merger or Change in Control**
 
-Enterprise, Internet Privacy Questions, 600 Corporate Park Drive, St. Louis, MO 63105
+Your information may also be transferred to another company in the event of a transfer, change of ownership, reorganisation or assignment of all or part of Enterprise Holdings' businesses or assets. This will occur if the parties have entered into an agreement under which the collection, use and disclosure of the information is limited to those purposes of the business transaction, including a determination whether or not to proceed with the business transaction. You will be notified via email or prominent notice on our websites for thirty (30) days of any such change in ownership or control of your personal information or as otherwise may be required or permitted by law.
 
-Canadian Customers may also seek advise from the Office of the Privacy Commissioner of Canada (on 1-800-282-1376 or info@privcom.gc.ca)  
-  
-United Kingdom
+##### **Testimonials**
 
-| 
+We may post customer testimonials on our websites which may contain personal information. We use a third-party provider to manage this process. This provider is responsible for obtaining your consent as necessary, removing content upon your request and answering any questions you may have.
 
-Enterprise Rent-A-Car UK Limited
+Global Data Transfers and Processing 
 
-| 
+In order for us to operate and provide you services globally, the information that you provide to us or that we collect may be transferred or accessed by entities around the world, including:
 
-Enterprise House, Melburne Park, Vicarage Road, Egham Surrey TW20 9JY.  
-  
-Ireland
+  * _Franchisees/Corporate-Owned Locations:_ If you book a reservation to be fulfilled by a franchisee in another country or an Enterprise corporate-owned location (e.g. in the United States, Canada, Germany, Spain, France, Ireland and the United Kingdom), we will transfer your personal information to that country in order to facilitate your requested transaction.
 
-| 
 
-ERAC Ireland Limited
+  * _Enterprise Global Information Systems Based in the United States:_ Enterprise maintains its global information systems in the United States. If you provide us with or if we collect personal information about you outside of the United States, we will transfer and maintain your personal information in the United States.
 
-| 
 
-ERAC Ireland, Head Office Motokov Complex, Longmile Road, West Dublin, Dublin 12.  
-  
-Germany
 
-| 
+When we transfer your personal information and process it in the United States, we do so in accordance with the EU-U.S. Privacy Shield Framework, the Swiss-U.S. Privacy Shield Framework and European Commission-approved standard contractual clauses. To learn more about the Privacy Shield Framework, and to view our certification, visit the [U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list). With respect to information received or transferred pursuant to these Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Enterprise Autovermietung Deutschland GmbH
+Enterprise Holdings is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Enterprise Holdings complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-| 
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-Enterprise, Internet Privacy Questions, Mergenthaler Allee 35-37, 65760 Eschborn.  
-  
-France
+  * _Third Party Service Providers:_ We utilise third party service providers who are located outside the countries where we have corporate-owned locations, such as call centre support, claims processors and IT providers. When we transfer your personal information to our third-party service providers who are located outside the EEA, we use European Commission-approved standard contractual clauses.
 
-| 
 
-Citer, S.A.
 
-| 
+Your Rights 
 
-Enterprise, Internet Privacy Questions, 165 bis, rue de Vaugirard, B.P. 36-75721 Paris Cedex 15.  
-  
-Spain
+Other rights you have may include: 1) asking for a copy of your personal information, 2) to correct it, 3) to erase certain categories or types of information, 4) to restrict certain processing, 5) to obtain the information you provide in a structured, machine readable format and 6) to transfer some of this information to other organisations.
 
-| 
+You have the right to object to the processing of personal information on the basis of our legitimate interests. Where we have asked for your consent to process information, you have the right to withdraw this consent at any time.
 
-Autotransporte Turistico Espanol, S.A.
+You have the right to lodge a complaint with a supervisory authority regarding our processing of your personal information and/or how we have responded to or handled any concern you have raised with us. You may also contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request> or in Canada you may contact the Privacy Commissioner of Canada by visiting <https://www.priv.gc.ca/cu-cn/index_e.asp> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3.
 
-| 
+We reserve the right not to allow access to your information or to limit your rights (e.g. if such disclosure is prohibited by law or if the rights of another individual might be violated). In some instances, this may mean that we are able to retain your personal information even if you withdraw your consent.
 
-Enterprise, Internet Privacy Questions, Avenida del Ensanche de Vallecas 37, 28051 Madrid  
-  
-**If you are visiting a website or mobile site for the countries listed below (i.e. with a country suffix relevant to these countries), then the controller for that site will be as listed below. If you make a rental in one of these countries, the controller for the rental will be the licensee identified in the rental agreement.**  
-  
-**Country**
+##### **Marketing Preferences**
 
-| 
+You have the right to object to direct marketing as well as profiling we perform for the purposes of direct marketing. You will be able to opt out of direct marketing communications from Enterprise Holdings and our Affiliates and Franchisees by following the instructions in each communication you receive. You may also contact us directly using the link at the top of this page.
 
-**Data Controller**
+You can opt out of display ads you see on non-Enterprise sites by clicking on ad choices icon in the ad or through the privacy settings on the site.
 
-| 
+Changes To These Policies 
 
-**Contract Information**  
-  
-Albania, Austria, Belgium, Bosnia. Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Montenegro, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Sweden, Switzerland, Turkey
+As necessary, we will update our Privacy Policy and Cookie Policy to reflect changes in our privacy practices. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site or as otherwise may be required or permitted by law, prior to the change becoming effective. We encourage you to periodically review this site for the latest information on our privacy practices.  
 
-| 
-
-EAN Data Services UK Limited
-
-| 
-
-Enterprise House, Melburne Park, Vicarage Road, Egham Surrey TW20 9JY.  
-  
-**If you are located within the European Economic Area and you use a “pre-pay” function, the controller for your payment information is listed below.**  
-  
-**Country**
-
-| 
-
-**Data Controller**
-
-| 
-
-**Contract Information**  
-  
-European Economic Area
-
-| 
-
-EAN Data Services UK Limited
-
-| 
-
-Enterprise House, Melburne Park, Vicarage Road, Egham Surrey TW20 9JY.
