@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fr.am privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622062533id_/https%3A//www.fr.am/index1.php%3Fin%3Dprivacy1%26lng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fr.am privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811180436id_/https%3A//www.fr.am/index1.php%3Fin%3Dprivacy1%26lng%3Den) for the most accurate reproduction.*
 
 # FR.AM - Free Domain Registration + Free DNS Service.
 
