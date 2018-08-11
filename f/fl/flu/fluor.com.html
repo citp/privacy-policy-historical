@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the fluor.com privacy policy that was archived on 2017-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220164050id_/http%3A//www.fluor.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fluor.com privacy policy that was archived on 2018-08-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180811182704id_/https%3A//www.fluor.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" class="ms-isBot" lang="en-US"><head><meta name="viewport" content="width=device-width" id="viewportid">
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head><meta name="viewport" content="width=device-width" id="viewportid">
 <script type="text/javascript">
 
     var g_domain = "";
@@ -21,12 +21,23 @@
         document.getElementById('viewportid').setAttribute('content', "width=1250, initial-scale=" + windowW / 1250 + ", minimum-scale=" + windowW / 1250 + ", maximum-scale=" + windowW / 1250 + ", user-scalable=0");
     }
     else if (matchMob) {
-        document.getElementById('viewportid').setAttribute('content', "width=750, initial-scale=" + windowW / 750 + ",minimum-scale=" + windowW / 750 + ", maximum-scale=" + windowW / 750 + ", user-scalable=0, target-densitydpi=device-dpi");
+        orient();
+	window.addEventListener("onorientationchange" in window ? "orientationchange":"resize",orient,false);
     }
     else {
         document.getElementById('viewportid').setAttribute('content', "width=device-width");
     }
+    function orient() {
+      if (window.orientation == 90 || window.orientation == -90) {
+	if(navigator.userAgent.indexOf("Android")>0)
+            setTimeout(function(){windowW = screen.width-30;if(screen.width<screen.height) windowW=screen.height-30; document.getElementById('viewportid').setAttribute('content', "width=750");},200); 
+        else
+            setTimeout(function(){windowW = screen.width;if(screen.width<screen.height) windowW=screen.height; document.getElementById('viewportid').setAttribute('content', "width=750, initial-scale=" + windowW / 750 + ",minimum-scale=" + windowW / 750 + ", maximum-scale=" + windowW / 750 + ", user-scalable=0, target-densitydpi=device-dpi");},200);
 
+      } else if (window.orientation == 0 || window.orientation == 180) {
+        setTimeout(function(){windowW = screen.width;if(screen.width>screen.height) windowW=screen.height;document.getElementById('viewportid').setAttribute('content', "width=750, initial-scale=" + windowW / 750 + ",minimum-scale=" + windowW / 750 + ", maximum-scale=" + windowW / 750 + ", user-scalable=0, target-densitydpi=device-dpi");},200);
+      }
+    }
 </script>
 
 <style type="text/css">
@@ -58,6 +69,7 @@ Privacy Policy
 <script type="text/javascript" src="/_layouts/15/init.js?rev=pbnS5XGhdGdIs1RH%2F8J%2FdQ%3D%3DTAG0"></script>
 <script type="text/javascript" src="/ScriptResource.axd?d=IcHiHYM9t4uuaPyu554JHJ5R7hb_sFllCjSzSAIlQIk77PTIjJ1zH-cj_uKOcDP8EPHjWhyb0uh6gY7ynnY_x7D0P1UErBZytkpG2VOPGG-VzE2rLXvCqHxq16TSaRd6RZRCafWGdGP9FANa24X6y5__QASXaC99JJu_Tt0pq0zT0Q6NVu5SAYhbRa0MmVBU0&amp;t=55fcbe52"></script>
 <script type="text/javascript" src="/_layouts/15/blank.js?rev=CIQyDFmRXo2bPGxA1OM3tQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=d9b8zUEwajqpn2zqQ4g1nqhy9TnPGISn4yDblxLUJB_gxHNuL5wL9L6qjG3KoUD-BWGX3JqJ3hVcEvb6URXSGfaK2W9k7FR5BOOBxp-XKC_RW257HadkFD7UZV4MIr-bRgfUplWSZEK6M9zIH-JwCv336hJ_22abria94g-_1pdjbjZDGgXGNgBny2-g-0zX0&amp;t=55fcbe52"></script>
 <script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=\u00252BRRfOnYW0VaAgSoCgcIN8Q\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=RSQ8elnU1HEiGIL\u00252BoL\u00252FC4A\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=MbB92HT8biYuFa\u00252B1vTMilA\u00253D\u00253DTAG0");</script>
@@ -88,7 +100,7 @@ Privacy Policy
         	<script type="text/javascript">
     			try { Typekit.load(); } catch (e) { } 
     		</script>
-    		<script type="text/javascript" src="//media.fluor.com/akamai_media_player/amp.premier/amp.premier.js"></script>
+    		<script type="text/javascript" src="https://media.fluor.com/akamai_media_player/amp.premier/amp.premier.js"></script>
         	<script type="text/javascript" src="/Script/fluorslideshow.js"></script>
         	<script type="text/javascript" src="/Script/Plugins/jquery.beadcrumb.js"></script>
         	<script type="text/javascript" src="/Script/main.js"></script>
@@ -131,7 +143,8 @@ Privacy Policy
         </span>
 	
 	
-	<form method="post" action="/web/20171220164050id_/http%3A//www.fluor.com/privacy-policy?pageUrl=%2fprivacy-policy" id="aspnetForm">
+	<form method="post" action="/web/20180811182704id_/https%3A//www.fluor.com/privacy-policy?pageUrl=%2fprivacy-policy" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
 <input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="">
 <input type="hidden" name="wpcmVal" id="wpcmVal" value="">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
@@ -141,7 +154,9 @@ Privacy Policy
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x78965485F963B179BBAD2AD342E86212ABDF13862B9151F99ABF1204C162464AB61A69E9B1529C5006BF43AFB5692E58EFFA7CFBFC1B5967389405DD6014BDFD,20 Dec 2017 16:40:50 -0000">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xFDB560F0ABF16C10C6390752AD146133F129D1F79E0166511336764E388A1F48EB23C576039408EBBA2A07F435C9D4C1188ACA61D7E957604B00DBE55F439B2B,11 Aug 2018 18:27:04 -0000">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
 <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
@@ -153,6 +168,26 @@ Privacy Policy
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
 <input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgICD2QWBAIBD2QWAgIaD2QWAgIDD2QWAmYPZBYCZg88KwAGAGQCCQ9kFgICBg9kFgICAg9kFgICAQ9kFgICAw8WAh4HVmlzaWJsZWgWAmYPZBYEAgMPZBYGAgEPFgIfAGhkAgMPFgIfAGhkAgUPFgIfAGhkAgQPDxYCHglBY2Nlc3NLZXkFAS9kZGQVZ5SfW86C0nQts+wZaTKZ88F3cpCenHOitRDO//6YDA==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=dL3mZ1AQPItWmfEh2ZBxX4TitV32SyNjmNSrnTgkGe5A6SO2m_y4fRYC5U6T2SCoClzdJ-Bd-klsQ7Ul_aQYzSvWDTcJw5XjIWdd_YuBy0U1&amp;t=636100884168974311" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -161,14 +196,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '966f389e-472c-b0e3-04c5-c1b0c6194a86';
+var g_correlationId = 'abc6839e-77e7-b0e3-04c5-c00a89210e73';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "http:\u002f\u002fwww.fluor.com", siteAbsoluteUrl: "http:\u002f\u002fwww.fluor.com", serverRequestPath: "\u002fpages\u002fcms-page.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Fluor \u2013 Global Engineering and Construction Company \u2013 EPC Services", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2017-12-20T16:40:50.1945494Z") - new Date(), updateFormDigestPageLoaded: new Date("2017-12-20T16:40:50.1945494Z"), siteClientTag: "2354$$16.0.4549.1001", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{56eeda03-85a6-4686-a0d5-af1a0d73aedd}",pageItemId:83, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69473024,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002forigin-www.fluor.com", siteAbsoluteUrl: "https:\u002f\u002forigin-www.fluor.com", serverRequestPath: "\u002fpages\u002fcms-page.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Fluor \u2013 Global Engineering and Construction Company \u2013 EPC Services", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2018-08-11T18:27:04.5171489Z") - new Date(), updateFormDigestPageLoaded: new Date("2018-08-11T18:27:04.5171489Z"), siteClientTag: "2373$$16.0.4549.1001", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{56eeda03-85a6-4686-a0d5-af1a0d73aedd}",pageItemId:83, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69473024,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
 {
     if(typeof(window.SP) == "undefined") window.SP = {};
     if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
@@ -198,10 +233,22 @@ var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbs
         _spBodyOnLoadFunctions.push(function() {
             SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
         });
-    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002f', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
 </script>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3">
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3">
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
         <div id="ms-designer-ribbon">
             
             <div id="TurnOnAccessibility" style="" class="s4-notdlg noindex">
@@ -286,11 +333,21 @@ var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbs
 <div class="detail-page-intro">
                             
                             <div class="detail-page-intro-detail"><p class="half-page-content-title"><b><span class="ms-rteCustom-Heading">Privacy</span></b></p>
-<p><span><span class="ms-rteCustom-Heading"></span></span>Fluor recognizes and respects the privacy of users of this Web site. When you choose to provide us with information about yourself, Fluor will act in a responsible manner. Fluor may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to (i) protect the rights, safety or property of Fluor or others and (b) conform to legal or regulatory requirements. Without your express approval, however, Fluor will not trade, sell or rent your personal information but may collect and/or provide aggregate statistics about its Web site and users to other parties. Fluor has no intention of collecting any personal data from individuals under 13 years of age. When you view certain parts of the Web site, information may be stored on your computer. This information will be in the form of a "Cookie" or similar file and will permit tailoring of the Web site to better match your interests and/or preferences. This site, however, contains links to other Web sites and Fluor does not control the privacy policies of those sites. See Linking. This privacy statement only applies to information collected and maintained by Fluor. </p>
+<p><span><span class="ms-rteCustom-Heading"></span></span>Fluor recognizes and respects the privacy of users of this Web site. When you choose to provide us with data about yourself, Fluor will act in a responsible manner. Fluor may store and disclose personal data allowed or required by applicable law, including making disclosures that are necessary or advisable to (i) protect the rights, safety or property of Fluor or others and (b) conform to legal or regulatory requirements. Without your express approval, however, Fluor will not trade, sell or rent your personal data but may collect and/or provide aggregate statistics about its Web site and users to other parties. Fluor has no intention of collecting any personal data from individuals under 13 years of age. When you view certain parts of the Web site, information may be stored on your computer. This information will be in the form of a "Cookie" or similar file and will permit tailoring of the Web site to better match your interests and/or preferences. This site, however, contains links to other Web sites and Fluor does not control the privacy policies of those sites. See Linking. This privacy statement only applies to personal data collected and maintained by Fluor. </p>
 <p class="half-page-content-title"><b><span class="ms-rteCustom-Heading">Linking</span></b></p>
 <p><span><span class="ms-rteCustom-Heading"></span></span><span class="ms-rteCustom-SubpageHeading"><span class="ms-rteCustom-BodyText">As a convenience, this Web site contains links to other sites that are not controlled by, or affiliated or associated with, Fluor. Accordingly, Fluor does not make any representations concerning the privacy practices or terms of use of such sites, nor does Fluor control or guarantee the accuracy, integrity, or quality of the information, data, text, software, music, sound, photographs, graphics, video, messages or other materials available on such sites. The inclusion or exclusion does not imply any endorsement by Fluor of the site, the site's provider, or the information on the site</span>. </span></p>
 
-</div>
+<p class="half-page-content-title"><b><span class="ms-rteCustom-Heading">European Union Privacy Law Terms</span></b></p>
+<p><span><span class="ms-rteCustom-Heading"></span></span><span class="ms-rteCustom-SubpageHeading"><span class="ms-rteCustom-BodyText">
+Persons whose personal data is collected and processed in Europe should be aware of the following additional information.<br>
+<br><b>A.  Controller.</b>  Fluor’s Chief Privacy Officer is Steven M. Quevedo, who may be contacted at <a href="mailto:chief.privacy.officer@fluor.com">chief.privacy.officer@fluor.com</a>.<br> 
+<br><b>B. Categories of Personal Data and Purposes of Processing.</b>  The “Submit” form which you use to submit personal data to this site, and this information is used to respond to your message in the form.  Contact information which you submit through the Investor Relations portal, or the Newsroom, is used to respond to your inquiries. Resumes, CVs, and information you actively provide to apply to job postings in the Careers section. Your company contact information you actively provide to register your company in the Suppliers Registration section.<br>
+<br><b>C.  Details of Transfers to Third Countries and Safeguards.</b>  Your personal data may be transferred to and accessed by Fluor company offices worldwide, including to some countries which may be deemed by the European Union not to have an adequate level of protection of personal data. Transfers of personal data collected and processed in the European Union and processed within Fluor shall be made consistent with Fluor’s Binding Corporate Rules, which are posted at <a href="/SiteCollectionDocuments/fluor-data-protection-policy.pdf" target="_blank">Fluor Data Protection Binding Corporate Rules Policy</a>.  This includes technical and organizational controls upon third parties who may receive your information.<br>  
+<br><b>D.  Other Uses of Personal Data.</b>  In addition to the above, you acknowledge and consent to the fact that Fluor may maintain personal data and any other information you provide if required to do so by law or if Fluor has a good faith belief that disclosure is necessary to comply with legal process; to investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; to respond to claims of third parties; to protect Fluor’s or third party’s rights, property, safety; or to otherwise enforce this Agreement or the integrity of the site and data.  You acknowledge and consent to such disclosure. Circumstances may arise where for business or technological reasons (e.g., for purposes of investigation, routine audits, site administration and improvement, data storage and recovery, and other analytics), it might be necessary for Fluor and its third party contractors/service providers acting on Fluor’s behalf to have access to personal information and content submitted via this site. It is Fluor's practice to require any such service providers who might have access to personal or confidential information in the course of providing services to Fluor to be bound by confidentiality obligations designed to protect any such personal or confidential information.<br> 
+<br><b>E.  Legal Basis for Processing.</b>  The legal basis for processing your personal data in the European Union is as follows.  It may be necessary for compliance with legal obligations to which Fluor is subject, such as reporting of compliance with law to certain government agencies, to exercise its legal rights where it is necessary to do so, for example to detect, prevent and respond to fraud claims, intellectual property claims or violations of law, and may be necessary to safeguard the legitimate interests of Fluor, to ensure that it can effectively manage and communicate regarding its business efficiently, to perform investigations, and to carry out audits of compliance. When we process personal data to meet our legitimate interests, we always balance these against your fundamental rights and freedoms and we put in place robust safeguards to ensure that your privacy is protected. For more information about the balancing test that is carried out when we rely upon legitimate interests, please contact Fluor as indicated below. If Fluor asks for your consent to process your personal data, and your personal data is subject to European law, you may withdraw your consent at any time by contacting us.<br>  
+<br><b>F.  Retention.</b>  Your personal data will be held for only so long as it is needed for Fluor’s business purposes, and in accordance with applicable corporate document retention schedules.  These schedules are designed to comply with applicable data privacy and other legislation, and to assist Fluor in maintaining business records which it may need to conduct its business and to respond to lawful requests for information in connection with legal claims or disputes. If you require any information about the periods for which Fluor will hold your personal data please contact us indicated as indicated below. <br>
+<br><b>G. Certain Rights.</b>  You have rights under European law to access and rectify, or erase, restrict, or object to Fluor's use of your personal data. If you would like to discuss or exercise such rights please contact us as indicated below. (If Fluor cannot process your data, the Company may not be able to respond to your inquiries).  You also have the right to lodge a complaint regarding how Fluor handles your personal data with the local supervisory authority for data protection within your specific European Union member state of residence, place of work, or place of alleged infringement of European law. <br>
+<br>If you have any questions relating to the Privacy Policy, please contact <a href="mailto:chief.privacy.officer@fluor.com">chief.privacy.officer@fluor.com</a>.</span></span></p></div>
                         </div>
 			</div><div class="ms-clear"></div></div>
 		</div><div class="ms-PartSpacingVertical"></div>
@@ -307,7 +364,21 @@ var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbs
 </div>
 		
 		<div id="landing-related-contain" class="box">
-                        <div class="about-pages-contain box"></div>
+                        <div class="about-pages-contain box"><div class="featured-projects-contain"><div class="featured-projects-title">Related Information</div><div class="featured-projects-items"><div class="featured-projects-item">
+                                        <div class="featured-projects-item-img"><a href="/SiteCollectionDocuments/fluor-data-protection-policy.pdf" target="_blank"><img src="/sitecollectionimages/featureprojects/fluor-data-protection-policy-update.jpg" alt="Fluor Data Protection Binding Corporate Rules Policy" title="Fluor Data Protection Binding Corporate Rules Policy"></a></div>
+                                        <div class="featured-projects-item-title-contain box">
+                                            <div class="featured-projects-item-title"><a href="/SiteCollectionDocuments/fluor-data-protection-policy.pdf" target="_blank">Fluor Data Protection Binding Corporate Rules Policy</a></div>
+                                            <div class="featured-projects-item-address"></div>
+                                            
+                                        </div>
+                                    </div><div class="featured-projects-item">
+                                        <div class="featured-projects-item-img"><a href="/SiteCollectionDocuments/third-party-notice.pdf" target="_blank"><img src="/sitecollectionimages/featureprojects/third-party-notice-tn.jpg" alt="Notice for the Processing of Personal Data to Third Parties" title="Notice for the Processing of Personal Data to Third Parties"></a></div>
+                                        <div class="featured-projects-item-title-contain box">
+                                            <div class="featured-projects-item-title"><a href="/SiteCollectionDocuments/third-party-notice.pdf" target="_blank">Notice for the Processing of Personal Data to Third Parties</a></div>
+                                            <div class="featured-projects-item-address"></div>
+                                            
+                                        </div>
+                                    </div></div></div></div>
                         <div class="page-contact-contain">
                             <div class="page-contact-title">Contact</div>
                             <div class="page-contact-content"></div>
@@ -332,11 +403,12 @@ var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbs
         <li><a href="/legal">Legal</a></li>
         <li><a href="/trademarks">Trademarks</a></li>
         <li><a href="/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/cookie-policy">Cookie Policy</a></li>
         <li><a href="/site-map">Site Map</a></li>
     </ul>
     
 </div>
-<div class="footer_nav_text">© 2017 Fluor Corporation. All Rights Reserved.</div>
+<div class="footer_nav_text">© 2018 Fluor Corporation. All Rights Reserved.</div>
 			        	
 			        </div>
                 </div>
@@ -415,7 +487,7 @@ if (typeof window._satellite == 'object')
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x78965485F963B179BBAD2AD342E86212ABDF13862B9151F99ABF1204C162464AB61A69E9B1529C5006BF43AFB5692E58EFFA7CFBFC1B5967389405DD6014BDFD,20 Dec 2017 16:40:50 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0xFDB560F0ABF16C10C6390752AD146133F129D1F79E0166511336764E388A1F48EB23C576039408EBBA2A07F435C9D4C1188ACA61D7E957604B00DBE55F439B2B,11 Aug 2018 18:27:04 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>	
