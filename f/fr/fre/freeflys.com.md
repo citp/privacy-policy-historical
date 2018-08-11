@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608114643id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811033230id_/https%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
 
 # Freeflys - Privacy
 
@@ -92,7 +92,7 @@ You further acknowledge that Freeflys operates in the United States. You agree (
 
 Freeflys or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Freeflys Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Freeflys or its assets are acquired, customer information will of course be one of the transferred assets.
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Freeflys email list, please [click here](http://www.freeflys.com/unsub.php) or write to us at Freeflys, 1420 East Roseville Parkway #140-245, Roseville, CA 95661 and request to be removed.
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Freeflys email list, please [click here](https://www.freeflys.com/unsub.php) or write to us at Freeflys, 1420 East Roseville Parkway #140-245, Roseville, CA 95661 and request to be removed.
 
 If you feel that Freeflys is not abiding by its posted privacy policy, write us at Freeflys, 1420 East Roseville Parkway #140-245, Roseville, CA 95661.
 
