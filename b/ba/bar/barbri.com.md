@@ -1,104 +1,145 @@
-> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125093644id_/http%3A//www.barbri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812014405id_/https%3A//www.barbri.com/privacy-policy) for the most accurate reproduction.*
 
-# Barbri Privacy Policy - Review the Privacy Policy of Barbri Websites
+# Privacy Policy | BARBRI
 
-Last modified: July 13, 2017
+Last Modified: May 25, 2018
 
-This website (www.barbri.com) is owned by the BARBRI Group ('BARBRI" or "We"). BARBRI respects your privacy and personal data, which is why we have developed this privacy policy (“Privacy Policy”) to describe our practices regarding the collection, storage, protection and use of information about you.
+BY DISCLOSING THE INFORMATION TO US, YOU AGREE TO THE TERMS OF THE POLICY.
 
-I. Scope and Consent
+Who we are
 
-II. Information We Collect and How We Collect It
+ _We are BARBRI, INC (a company registered in the United States whose registered address is at: 12222 Merit Drive, Suite 1340 Dallas, Texas 75251) (“BARBRI”), and we respect your privacy. This policy describes how we use your personal information._
 
-III. How We Respond to Do Not Track Signals
+When you use our websites or apps and purchase or use our products and/or services, you trust us with your information. There are many ways this information can help us to make our service better, for instance, we can remember your details so it’s easier for you to use the service/website.
 
-IV. How We Store and Protect the Information We Collect 
+But we respect your privacy and we value the trust you’ve placed in us by sharing your information. This privacy policy sets out the way we use your information arising from your use of our websites and our apps or purchase or use of our products and/or services, as well as registering an account with us: including what we collect, how we collect it, how we use it, why we use it, who we share it with and the rights to which you may be entitled.
 
-V. How We Use the Information We Collect
+We have tried to keep this document as clear and direct as possible, however there are contact details at the end of this policy if you have any questions or anything is unclear.
 
-VI. Protection of Children
+This privacy policy also covers our group companies. Each group company is a data controller and we’ve listed them below:
 
-VII. Your Rights
+BARBRI
 
-VIII. How to Contact Us
+Collection and Storage of Your Information
 
- **I. Scope and Consent**
+We will collect and use your personal information, including your:
 
-This Privacy Policy applies to the information we collect about you for the purposes of providing you with our services.
+  * Full name
+  * Home address
+  * Phone number
+  * Email address
+  * Company
+  * Title
+  * School/University
+  * Course and webinar enrollments, course access dates/times and course completion data
+  * Credit card details
 
-By using the BARBRI websites, mobile applications, text messaging programs, or social media networks (“BARBRI Sites”) or by giving us your personal data, you accept the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use BARBRI Sites or give us any personal data.
 
-BARBRI reserves the right to make changes to this Privacy Policy at any time. We encourage you to regularly review this Privacy Policy to make sure you are aware of how your personal data may be used.
 
- **II. Information We Collect and How We Collect It**
+When you register for or use our services and/or purchase our products and/or use our websites or apps. We also collect aggregate user data regarding your use and activity of/on our websites and our apps.
 
-When you access content on the BARBRI Sites, we collect information (i) that you voluntarily provide to us when you register for our services or purchase our products and (ii) that we receive automatically, including personally identifying information such as your (1) personal contact information (e.g., name, home or postal address, e-mail address, phone number (home, mobile, etc.)), (2) educational background (e.g., school, graduation date), (3) educational goals and interests, (4) account login information, (5) demographic information, (6) credit card information, (7) lectures you watch online, (8) test questions you complete, (9) your performance on practice tests, (10) your progress toward full completion of all course assignments, as well as (11) technical computer information, (12) website usage information, and (13) social network information ("personal data"). 
+We also collect information about you from other sources, such as orders placed by you or from third-party mailing lists. Our partners who obtain this information will have informed you, at the point of collection, that they are collecting the information (in part) for us and that the information will be provided to us. Any of your personal information we collect from other sources will be stored and used in accordance with this Privacy Policy.
 
-**III. How We Respond to Do Not Track Signals**
+We maintain your information securely in our customer database and will only store it for a reasonable period of time, which if you have an account with us will be duration of your subscription to our service and for six years thereafter.
 
-Do Not Track is a privacy preference that users can set in some web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. 
+Use of Information
 
-BARBRI Sites use cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites. Our servers may automatically record information when you visit BARBRI Sites. These servers' logs may include information such as your web request and Internet Protocol address. 
+This information is used:
 
-We recognize how important your online privacy is to you, so we offer the following option for controlling the targeted ads you receive and how we use your personal data:
+  * to provide the service or product requested;
+  * to enable billing and shipping;
+  * to personalize our service;
+  * to analyze and report on your and other students’ performance;
+  * to provide you with information about related products and services, based on the preferences you have indicated;
+  * to improve our website;
+  * for the development of new products and services; and
+  * for systems administration and troubleshooting purposes.
 
-You can opt-out of receiving targeted ads served by us or other advertising companies using the NAI opt out tool here, which allows you to opt out of seeing targeted ads from us and from other NAI-approved member companies.
 
-Please note that when using the ad industry opt-out tool described above:
 
-If you opt-out, we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you. If you use multiple browsers or devices you may need to execute this opt out on each browser or device. 
+If you have inquired about, applied for, or enrolled in an BARBRI course or scholarship program, we (or one of our group companies) may occasionally update you on our latest policies, products/services, news and special offers via e-mail. At the bottom of any electronic communication you receive from us or one of our group companies, you will have an option to unsubscribe and opt-out of receiving further marketing communications.
 
-**IV. How We Store and Protect the Information We Collect**
+Your information may be shared with members of our group and some third-parties. Please note:
 
-We maintain your personal data securely in our customer database.
+  1. We will not share your credit card number with parties outside of our group of companies, or the payment processor.
+  2. Basic demographic data including name, address, phone, email, company, title, school, graduation data, course for which you are registered, and related information may be disclosed to marketing partners (including but not limited to Google ‘Adwords’, Facebook ‘Ads’ and LinkedIn ‘Insights’). You can prohibit this using the steps set out in the “How to prohibit sharing to our marketing partners” section.
+  3. Information concerning your usage of our site and your progress using our study materials may be disclosed to third parties such as educational institutions, professors, and product development partners. If your company has sponsored your attendance or certification, we will also share progress (started, in progress, completed) course data, and successful certification outcomes.
 
-We use reasonable physical and technical safeguards to secure your personal information from unauthorized access, use or disclosure. 
 
-We secure the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
-When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Our marketing partners and other third-parties who we may share your information with will be required to meet our standards on processing information and security. The information we provide them, including your information, will only be provided in connection with the performance of their function.
 
- **V. How We Use the Information We Collect**
+Your personal information may be transferred to other third party organizations in certain scenarios:
 
-We use the information we collect to provide the service or product requested; to enable billing and shipping; to provide you with information about related products and services, based on the preferences you have indicated; to improve our Web site; for development of new products and services; and for systems administration and troubleshooting purposes. 
+  * if we’re discussing selling or transferring part or all of our business – the information may be transferred to prospective purchasers under suitable terms as to confidentiality;
+  * if we are reorganized or sold, information may be transferred to a buyer who can continue to provide services to you;
+  * if we’re required to by law, or under any regulatory code or practice we follow, or if we are asked by any public or regulatory authority – for example the Police; or
+  * if we are defending a legal claim your information may be transferred as required in connection with defending such claim.
 
-We will not share your credit card number with parties outside of BARBRI, its parent company and their subsidiaries. 
 
-Information concerning your usage of our site and your progress using our study materials ("Course Performance Information") may be disclosed to third parties such as educational institutions, professors, and product development partners for a variety of purposes, including, but not limited to, analyzing and improving bar passage rates and for the development of new products and services. To the extent an educational institution (e.g., your law school) collects and maintains Course Performance Information, that information may be considered an educational record under the Family Educational Rights and Privacy Act ("FERPA"), 20 USC 1232g. If so, you may have certain rights of access and confidentiality as to those educational records, if any, as a student of that institution. By accessing and using BARBRI services, you consent to allow free exchange of Course Performance Information between BARBRI and your educational institution.
 
- **VI. Protection of Children**
+Your personal information may be shared if it is made anonymous and aggregated, as in such circumstances the information will cease to be personal data.
 
-We will not knowingly collect, use or disclose personally identifiable information from a child under the age of 13 without obtaining the prior written consent from a person with parental responsibility (parent or guardian). 
+Why we use your information
 
-If you are under the age of 18, please do not use the Sites or submit any information in connection with the Sites.
+We use the information we collect about you in the manner set out above either because it is necessary to perform the contract between us (providing the products or services ordered from us or opening and maintaining your account with us) or because we have a legitimate business interest. Our legitimate business interests include but are not limited to:
 
- **VII. Your Rights**
+  * ensuring we continue to improve our service and better understand our users and customers and how you use our website, our apps and our products and services;
+  * ensuring we can communicate with you and you can easily communicate with us and amend your preferences from time-to-time; and
+  * ensuring we develop and maintain strong relationships with our suppliers and partners.
 
-You may review and approve the information about you collected upon registration in our customer database. Upon request, we will remove that information from our customer database or change/correct personal information that you state is erroneous. However, you should understand that information about you in our databases may come from a number of sources, including orders placed by you and third party mailing lists.
 
-You may prohibit sharing of the basic demographic data with marketing partners by following these steps:
 
-Log in to www.barbri.com
+Our marketing partners use your information because they believe they have legitimate business interests to do so as they think you would be interested in hearing from them about similar products and services to those we provide. If you wish to prohibit us sharing your personal information to our marketing partners, please follow the process set out in the “How to prohibit sharing to our marketing partners” section below.
 
-Click "My Account"
+The employer, educational institutions, professors, and product development partners to which we may share your information also use your information on the basis that they have legitimate interests as they process your data to analyze and improve team cohesion, reduce errors, speed onboarding and other improvements, and for the development of new products and services.
 
-Click "Update Personal Information"
+How to prohibit sharing to our marketing partners
 
-Uncheck the flag next to "Yes, I want to receive information about related products."
+You may prohibit sharing of your personal information to our marketing by following these steps:
 
- **VIII. How to Contact Us**
+  1. Locate an Email from BARBRI
+  2. Click “Email Preferences” at the bottom
+  3. Uncheck the types of emails you do not want to receive
+  4. Click “Update Email Preferences”
 
-If you have any questions, complaints or comments regarding this Privacy Policy, please contact us at:
 
-The BARBRI Group  
-12222 Merit Drive  
-Suite 1340  
-Dallas, TX 75251   
-service@barbri.com  
-888-322-7274
 
- **Your California Privacy Rights**
+Your Rights
 
-If you are a California resident, under California's "Shine the Light" law (Civil Code Section 1798.83), you may request that we disclose to you (1) the identity of any third parties to whom we have disclosed your personal information within the previous calendar year, and (2) the type of personal information disclosed for the third parties' marketing purposes. You may also ask us to refrain from sharing your personal information with third parties for their marketing purposes. To make such requests, please contact us at service@barbri.com.
+You may have certain rights in relation to your information including a right to access or to correct the information we hold about you. Other rights may be available in certain circumstances.
 
-104234979\V-
+We’ve listed the rights you have over your information and how you can use them below.
+
+These rights will only apply in certain circumstances. They will generally not be available if there are outstanding contracts between us, if we required by law to keep the information or if the information is relevant to a legal dispute.
+
+  * You can remove consent, where you have provided it, at any time.
+  * You can ask us to confirm if we are processing your information.
+  * You can ask for access to your information.
+  * You can ask to correct your information if it’s wrong.
+  * You can ask us to delete your information.
+  * You have a right to be forgotten and you can ask that our systems stop using your information.
+  * You can ask us to restrict how we use your information.
+  * You can ask us to help you move your information to other companies. To help with that, you have a right to ask that we provide your information in an easily readable format to another company.
+  * You can ask us to stop using your personal information, but only in certain cases.
+  * You have the right to complain to the relevant supervisory authority.
+
+
+
+How to contact us
+
+If you have any questions about this policy, please contact our Data Privacy representative at  _[legal@barbri.com](mailto:legal@barbri.com)_.
+
+Changes to the policy
+
+This policy will be changed from time to time.
+
+If we change anything important about this policy (the information we collect, how we use it or why) we will highlight those changes at the top of the policy and provide a prominent link to it for a reasonable length of time following the change.
+
+If you would like access to a previous version of its policy please contact us using the details set out above.
+
+Cookies
+
+The barbri.com, thebarbrigroup.com, lawpreview.barbri.com and admissionsdean.com websites uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device.
+
+For more information about cookies, the types of cookies we use and how we use them, please see our cookie policy, a copy of which can be [found here](https://web.archive.org/cookie-policy/).
