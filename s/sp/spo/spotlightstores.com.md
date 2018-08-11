@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlightstores.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616041057id_/https%3A//www.spotlightstores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlightstores.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811232907id_/https%3A//www.spotlightstores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy At Spotlight - Know Our Privacy Policy | Spotlight Australia
 
@@ -67,7 +67,7 @@ It is SRG’s usual practice to collect personal information directly from you w
   * submit a SRG VIP club or Anaconda Adventure club registration form or amendment form;
   * submit the Kids Club application form;
   * register with any of our other loyalty or marketing programs;
-  * place an order via the Shop-At-Home service or complete any online form on one of our websites or online payment gateways;
+  * complete any online form on one of our websites or online payment gateways;
   * visit or use an SRG website (including any forums);
   * subscribe to marketing and sales material or communications;
   * complete an online form on one of our social media channels;
@@ -187,9 +187,9 @@ If you do not wish to be contacted by SRG please e-mail us at [privacy@srg.com.a
 
 Your personal information may be disclosed to other SRG entities, business partners and service providers in Australia and overseas.
 
-The countries this information may be disclosed to will vary from time to time, but may include Australia, New Zealand, Singapore, Malaysia, Fiji, and the United States of America.
+The countries this information may be disclosed to will vary from time to time, but may include Australia, New Zealand, Singapore, Malaysia, Fiji, Japan, and the United States of America.
 
-Sometimes we use third party platforms and services to process sales, provide web support, send marketing messages, deliver products or otherwise deliver information. These services are hosted and managed by organisations other than ourselves, and some of these services are hosted overseas. We use products and services maintained in Australia, New Zealand, Singapore, Malaysia, Fiji, and the United States of America.
+Sometimes we use third party platforms and services to process sales, provide web support, send marketing messages, deliver products or otherwise deliver information. These services are hosted and managed by organisations other than ourselves, and some of these services are hosted overseas. We use products and services maintained in Australia, New Zealand, Singapore, Malaysia, Fiji, Japan, and the United States of America.
 
 Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on SRG’s behalf).
 
