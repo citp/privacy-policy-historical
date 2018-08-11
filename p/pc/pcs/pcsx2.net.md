@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125214623id_/https%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811114538id_/https%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
 
 # PCSX2 - The Playstation 2 emulator - Privacy policy
 
