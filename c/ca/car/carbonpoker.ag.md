@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonpoker.ag privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223145929id_/https%3A//www.carbongaming.ag/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonpoker.ag privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811180010id_/https%3A//www.carbongaming.ag/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,4 +40,4 @@ CarbonGaming.ag provides members with the secure "My Account" area for changing 
 
 #### Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can contact: [privacy@CarbonGaming.ag](mailto:privacy@CarbonGaming.ag)
+If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can contact: [support@CarbonGaming.ag](mailto:support@CarbonGaming.ag)
