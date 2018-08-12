@@ -1,60 +1,129 @@
-> *The following text is extracted and transformed from the card.ly privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211153456id_/http%3A//businesscard2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the card.ly privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812135454id_/https%3A//www.cardly.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BusinessCard2
+# Cardly Privacy Policy
 
-* * *
+_Last updated: November 6, 2015_
 
-### Our Commitment to Privacy
+## Personal Information
 
-We are committed to protecting your privacy online. Our pledge is to secure certain information that you provide us, and to make every reasonable effort to use this information only as you choose. We are pleased to take a leadership role in assisting our customers and other businesses in understanding the importance of using your personal information appropriately.
+This section of the Privacy Policy applies to the collection of personal information (“PI”) by or on behalf of Cardly Pty Ltd ACN 605 282 255 (“Cardly”).
 
-### Cookies and Personal Information
+We are committed to the protection of your PI and meeting the standards set out in the Privacy Act 1988 (Cth) (“the Act”) and the National Privacy Principals (“NPPs”). This policy sets out how we handle your PI and the rights and obligations that we both have in relation to that information.
 
-Cookies (small bits of information that websites send to your computer) are used in our system to allow users to login faster. You can turn off this feature in your browser, but be aware that disabling your cookies may adversely affect performance on BusinessCard2.com and could even cause some site features to work incorrectly. 
+## Collection
 
-When you visit BusinessCard2.com we collect data from your computer. This data can include your IP address, browser type, the pages you view on BusinessCard2, referring URL and date/time information. The primary use of this information is to deliver you an optimal experience on our site, and help guide future website development.
+You can generally visit this Website without telling us who you are or revealing other PI and we will not collect any PI about you except when you knowingly provide it. The types of information that we collect from you will depend on the circumstances of collection and on the type of service you request from us, for example:
 
-Shared objects (sometimes referred to as Flash cookies) may be used in identifying your computer and associating you to where your BusinessCard2 resides on the internet. In addition, when you digitally “pass” your BusinessCard2 we may use such shared objects to recognize you, although we do so with unique tokens. You can modify the Settings Manager here: <http://macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
-
-We collect personal information online when:
-
-  * you register with us
-  * you register to receive emails
-  * you conduct online transactions
-  * you submit questions or comments to us
-  * you submit questions or information to other users
-  * you request information or materials
-  * you participate in online communications
-  * you request we send information
-  * you are logged in and view other business cards
+  * when you request products from us, we may collect details such as your name, address, company details, billing address, shipping address, credit card information, email and phone contacts, etc.
+  * when you are applying for a position with us we may collect any information required in the course of our recruitment process such as your resume, contact details, skills, qualifications, languages spoken, residency status, referees, etc.
 
 
 
-We use the personal information you provide to:
+## How we collect personal information
 
-  * Register you in the registration and email programs, create and maintain accounts process, fulfill, and follow up on site processes, answer your e-mail and send information.
-  * Provide you with information related to your account, the products or services you use, to better understand your needs and interests, to improve our service and to personalize communications.
-  * Deliver the BusinessCard2 web container. In most cases, this includes the information you have chosen to display, including, but not limited to, first and last name, company, job title, phone number, fax number, email address, street/city/state/postal address, biographical data, and other information necessary in making it easy for potential customers to both understand and reach out to you.
+We primarily collect PI directly from you through electronic, written and/or verbal means of communication when you interact with us for example when:
+
+  * you place an order with us.
+  * you send us an email or post an entry on our website.
+  * you submit an entry into a competition or trade promotion.
 
 
 
-### Sharing Your Information
+## Links
 
-BusinessCard2 has been designed to maintain and distribute your professional identity.   
-BusinessCard2 has been designed to for commercial purposes only. We advise against using it to store personal information. Nevertheless, we will not sell, rent, or trade the information you provide online unless you permit us to do so. We do share your information with certain business clients and partners as part of the product or service offering of the company and your participation therein. We may disclose information to third parties without your consent for any of the following reasons: to comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce or protect the rights of businesscard2.com, a service of Workface Inc., its divisions, or its subsidiaries. We reserve the right to transfer your information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, we may give you an opportunity to tell us not to transfer your information. In some cases, this may mean that the new organization will not be able to continue providing you the services or products that Workface provided.
+The Cardly website may contain links to other sites which may be of interest to you. Linked websites are responsible for their own privacy practices and you should check those websites for their respective privacy statements. We are not responsible for the privacy practices or the content of such websites.
 
-### Contact Importer
+## Use
 
-The BusinessCard2 contact importer tool allows you to upload your contacts for the purpose of inviting and connecting with the professionals in your network online, as well as sharing your BusinessCard2 with your contacts. This helps establish credibility and a community around your profile. If you enter in your password for other contact management programs you use to access your contacts, your password is not stored in our system, nor does anyone have access to view it. 
+We will only use the personal information we collect:
 
-When you use the invite system in BusinessCard2, we will send invites on your behalf using your name. We may send follow up emails as well, but there will always be opt out options for these contacts if they no longer wish to receive these messages. The contact information provided will be stored indefinitely to help ensure that users that opt out of messages will never receive messages, and also if any contacts who join BusinessCard2 can be easily connected with users in their network. 
+  * for the main purpose(s) for which it was disclosed at the time of collection.
+  * where you have consented to the use or disclosure.
 
-### Your Choices About Receiving Email
 
-We may send you e-mail as part of the private messaging system, with details about your account, or in response to your questions. Businesscard2.com, a part of Workface Inc., its divisions, and its subsidiaries may also send you e-mail with information about products and services that may be of interest to you. We will give you an opportunity to let us know your preference when you register for a service, when you provide us with your personal information, or when we send you e-mail. This option applies to promotional e-mail only, as we may find it necessary to send you e-mail relating to your account or order, or as part of the services that you have subscribed to.
 
-### Changes to this Privacy Notice
+Generally we will use and disclose your personal information for a number of purposes including but not limited to the following purposes:
 
-We reserve the right to modify this privacy notice from time to time, by posting a prominent announcement on this page, by changing the date of modification or, in the event of a material change, by notifying by e-mail all customers whose personal information we have retained. 
+  * to provide the products or services you have requested.
+  * to answer your enquiry.
+  * to facilitate the running of and your participation in trade promotions and other competitions.
+  * for direct marketing of products or services and to keep you informed of new developments we believe may be of interest to you.
+  * to establish and maintain your relationship as an applicant for a position, including providing you with interviews, reference checking, etc.
 
-This Privacy Notice was last amended on 04/25/2010.
+
+
+If you do not wish to receive marketing or other communication from us, please contact us on the details below so that we can update your preferences.
+
+## Disclosure
+
+We may disclose PI across the Cardly group of companies and our related bodies corporate (in accordance with this Privacy Policy). We may also provide PI to:
+
+  * third parties engaged by us to provide functions on our behalf such as mailouts, debt collection, and advertising; and
+  * third parties authorised by you to receive PI held by us.
+
+
+
+We may also disclose PI to unrelated third parties (for example, our professional advisors and government authorities or agencies) where the disclosure is reasonably required to obtain advice, prepare for legal proceedings, investigate suspected improper conduct or wrong doing, to assist a lawful authority in the discharge of its duties and/or by law.
+
+## Data quality
+
+We take reasonable steps to ensure that your PI is accurate, complete and up-to-date whenever we collect or use it. If the PI we hold about you is inaccurate, incomplete or out-of-date, please contact us and we will take reasonable steps to correct this information.
+
+## Data security
+
+We will take reasonable steps to maintain the security of and to prevent unauthorised access to or disclosure of your PI. However, we do not guarantee that unauthorised access to your PI will not occur, either during transmission of that information to us or after we receive that information. Once we no longer need your PI, we will take all reasonable steps to de-identify your PI.
+
+## Openness
+
+If you have any questions on the handling of your PI or the kind of PI we hold about you please contact at the details below and we will endeavour to assist you with your request.
+
+## Access and correction
+
+You have a right to access your PI, subject to some exceptions allowed by law. If you would like to do so, please let us know by contacting our Privacy Officer. For security reasons, we may ask you to put your request in writing.
+
+We may charge a fee for searching for and providing access to your information.
+
+## Identifiers
+
+As required by the NPPs, we do not collect or use Commonwealth government identifiers when interacting with you.
+
+## Anonymity
+
+Where practical, you may deal with us on an anonymous basis however, if you do not provide us with your PI we we may not be able to provide you with the requested product or service (for example, if we require your details in connection with a competition we are running, we cannot provide you with a prize should you be a prize winner and we cannot contact you).
+
+## Overseas transfer of information
+
+To provide a worldwide service, your PI will be encrypted and stored outside Australia. We may use cloud computing solutions or data storage located overseas in which case information may be stored, under our control, on computer servers located outside of Australia (predominantly located in the United States of America, Taiwan and Belgium).
+
+We will not transfer your PI to other parties outside Australia in any circumstances, unless we obtain agreement from the recipient to protect your information in accordance with Australian Privacy Laws including to abide by the terms of this policy or we have your consent.
+
+## Sensitive information
+
+We will not require you to provide sensitive information unless:
+
+  * you have consented; or
+  * the collection of the information is specifically authorised or required by law.
+
+
+
+## Changes to our privacy policy
+
+From time to time, we may need to change this Privacy Policy to reflect our changing business practices. We may therefore change this Privacy Policy at any time by posting the changed Privacy Policy on this website.
+
+All PI collected and held by us will be governed by our most recent Privacy Policy, as posted on this website.
+
+## Non-Personal Information
+
+This section of the Privacy Policy applies to the collection of non-personal information by or on behalf of Cardly Pty Ltd ACN 605 282 255 (“Cardly”).
+
+For example, most information collected when you visit our website is statistical and not linked to you personally. This can include information about pages visited, software versions used, device identifiers (like IP address), referring websites, preferences you choose and other activities such as links clicked.
+
+## How we use it
+
+We use the non-personal information we collect to understand and improve the performance of our website.
+
+We use Google Analytics including Remarketing with Google Analytics and Google Analytics Demographics and Interest Reporting to understand how our services are used and who uses them. We make no attempt to identify you using this information, and we do not pass on this information to other third parties. If you would prefer to opt out of providing this information, you may use the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+
+## Contact us
+
+Any queries about this Privacy Policy, our Terms of Service or other policy related material can be directed to our support staff by emailing [support@cardly.net](mailto:support@cardly.net).
