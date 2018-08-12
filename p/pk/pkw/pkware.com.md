@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719171852id_/https%3A//www.pkware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812031201id_/https%3A//www.pkware.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Smartcrypt | PKWARE
 
 [__](https://www.pkware.com/privacy#next "Next")
 
