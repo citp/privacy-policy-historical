@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the followlike.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120030301id_/https%3A//www.followlike.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followlike.net privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812104847id_/https%3A//www.followlike.net/privacy.php) for the most accurate reproduction.*
 
-# FollowLike - Social Exchange
+# FollowLike - Social Exchange Community
 
 This Privacy Policy governs the manner in which FollowLike collects, uses, maintains and discloses information collected from users (each, a "User") of the [FollowLike](http://www.followlike.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by FollowLike.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site.   
+Users will be asked for email and country upon registration and followlike will collect IP address, browser infomation and device type upon Registration or Log in, to aid in delivering our service to you. We will collect further personal identification information from Users only if they voluntarily submit such information to us, in their account settings which can be edited and or deleted at any time by the user. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -14,7 +15,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use "cookies" to enhance User experience. Your web browser places cookies on your hard drive for record-keeping purposes and sometimes to track information about you. Users have to Enable (Allow) Cookies upon first viewing our site. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the Site may not function properly. If you delete your Cookies you will be re-asked by the site to Enable Cookies if you wish
 
 **How we use collected information**
 
@@ -28,8 +29,8 @@ We may use information in the aggregate to understand how our Users as a group u
 We may use feedback you provide to improve our products and services.
   * _\- To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+  * _\- To send periodic emails (Opt-In Only)_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site or disabling this option in their settings.
 
 
 
@@ -45,9 +46,11 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 If you ever wish to know what information we hold about you, in full or part, you can contact us by either internal support ticket or from your registered email, asking for a list of what we have on record.
 
-**Deleting ALL your held personal information**
+**Deleting ALL your held personal information (Right to be forgotten)**
 
-If you ever wish to have your information cleared / wiped from our system, there are two ways. 1) Simply login and delete your account in account settings. This will put your account on the purge list to be stripped (wiped from our system) with all your information. 2) Send us a Delete request via email from your registered email asking for an account deletion. This is permanant and does not allow you a chance to cancel the request, which you get if you manually delete your account and information. 
+If you ever wish to have your information cleared / wiped from our system, there are two ways.   
+1) Simply login and delete your account in account settings. This will put your account on the purge list to be stripped (wiped from our system) with all your information.   
+2) Send us a Delete request via email from your registered email asking for an account deletion. This is permanant and does not allow you a chance to cancel the request, which you get if you manually delete your account and information. 
 
 **Third party websites**
 
@@ -65,6 +68,10 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
+**PayPal Purchases**
+
+PayPal transactions are subject to the PayPal Privacy Policy.
+
 **Compliance with children's online privacy protection act**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If you suspect usage of our services by someone under 13 you can report this to us using contact information below
@@ -81,7 +88,7 @@ Because coins are intangible goods, we cannot refund any purchase, so all coins 
 
 By using this Site, you signify your acceptance of this policy and 
 
-[terms of service](https://web.archive.org/web/20171120030301id_/https%3A//www.followlike.net/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+[terms of service](https://web.archive.org/web/20180812104847id_/https%3A//www.followlike.net/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
@@ -91,4 +98,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.followlike.net](http://www.followlike.net/)  
 [admin@followlike.net](http://www.followlike.net/contact.php)
 
-This document was last updated on November 4th, 2017
+This document was last updated on May 24th, 2018
