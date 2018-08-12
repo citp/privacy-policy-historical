@@ -1,116 +1,109 @@
-> *The following text is extracted and transformed from the autocult.com.au privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517124231id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fred%3D/privacy/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocult.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812071229id_/http%3A//www.autocult.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - Telstra
+# Privacy Policy | Auto Cult | 02 8599 6505
 
-## Telstra Corporation Limited
+This Privacy Statement forms part of our Terms and Conditions for use of this website. From this point forth, Auto Cult will be referred to as " _Auto Cult_ ".
 
-### Protecting your privacy
+Use of Auto Cult website is for your personal and non-commercial use only. Except for the Material held in your computers cache or a single permanent copy of the Material for your personal use. You must not:
 
-We are committed to providing you with the highest levels of customer service. This includes protecting your privacy.
-
-Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference.
-
-### About us
-
-We provide a range of telecommunication services, either through a particular division within Telstra or through one of our related companies - for example, the publisher of our directories. 
-
-### Your personal information
-
-Personal information held by us may include your name, date of birth, current and previous addresses, telephone or mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Telstra PIN, username or password. We also hold details of your Telstra services (including their status), as well as certain details about your personal interests.
-
-If you choose not to provide certain personal information (e.g. your date of birth), we may not be able to provide you with the services you require, or the level of service on which we pride ourselves.
-
-Occasionally, you may need to provide personal information about other individuals to us (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them that we can be contacted for further information (see 'How to contact us' at the end of this brochure).
-
-### How we collect personal information
-
-We collect personal information in a number of ways, including: 
-
-  * directly from you, for example, when you provide information by phone, in application forms or other agreements, or when you submit your personal details through our websites (eg. during telstra.com registration);
-  * from third parties such as our related companies, credit reporting agencies or your representatives;
-  * from publicly available sources of information;
-  * from the organisations identified under 'When we disclose your personal information';
-  * from our own records of how you use your Telstra services;
-  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm); or
-  * when legally required to do so - for example, under the Telecommunications (Service Provider - Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000.
+  * modify, copy, distribute, transmit, display, perform, reproduce, publish or license any Material;
+  * use or attempt to use any Material published on the Auto Cult website to create any web site or publication;
+  * mirror or frame any web site or page within the Auto Cult website;
+  * use any automated process of any sort to query, access or copy any Material on the Auto Cult website or generate or compile any document or database based on the Material published on the Auto Cult website; or
+  * transfer or sell any information, functionality or products or services offered on the Auto Cult website;
+  * without the written approval of Auto Cult and Unique Websites
+  * Auto Cult website may terminate your right to access and use the Auto Cult website at any time.
 
 
 
-### How we use your personal information
+You are Responsible for the use of the Auto Cult website
 
-Your personal information may be used to: 
+Whilst the Auto Cult website takes care to ensure that the Material on the Auto Cult website is correct, current and free from errors, Auto Cult does not warrant the accuracy or completeness of or the representations made by the Material on the Auto Cult website or any web site that links from the Auto Cult website or any information received as a result of using the Auto Cult website. The services and Material made available on the Auto Cult website are provided as general information only. Auto Cult does not warrant that the services and Material are professional, expert or other advice and are not a substitute for such advice; may not be appropriate, correct or sufficient for your circumstances; should not be relied on as the only reason you do or don’t do anything; and may not be continually accessible or free from errors or viruses.
 
-  * verify your identity;
-  * assist you to subscribe to our services;
-  * provide the services you require;
-  * administer and manage those services, including charging, billing and collecting debts;
-  * inform you of ways the services provided to you could be improved;
-  * conduct appropriate checks for credit-worthiness and for fraud;
-  * research and develop our services;
-  * gain an understanding of your information and communication needs in order for us to provide you with a better service; and
-  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.
+If Auto Cult suffers any loss or damage or incurs any cost in connection with a breach by you of these terms and conditions you agree to indemnify Auto Cult for all such loss and damage.
 
+#### Copyright, Trademarks and Licence
 
+Material on the Auto Cult website is Copyright © Auto Cult and Unique Websites 2018. All photography is copyright Auto Cult and Unique Websites and may not be reproduced without permission. Unless otherwise indicated on the Auto Cult website, the material on the Auto Cult website is owned by or licensed to Auto Cult and UniqueWebsites.com.au and is subject to copyright (the “Copyright Material”). You may:
 
-Also, your personal information is collected so that we, our related bodies and our dealers can promote and market services to you (including by way of direct mail, telemarketing, email, SMS and MMS messages). This is to keep you informed of products, services and special offers and may continue after you cease acquiring services from us. If you do not wish us, our related bodies or our dealers to contact you to promote and market products, services and special offers to you, please call 1800 039 059.
-
-### When we disclose your personal information
-
-In order to deliver the services you require, we may disclose your personal information to organisations outside of Telstra. Your personal information is disclosed to these organisations only in relation to us providing our services to you. 
-
-### These organisations carry out our:
-
-  * customer enquiries;
-  * mailing operations;
-  * billing and debt-recovery functions;
-  * information technology services;
-  * installation, maintenance and repair services;
-  * marketing, telemarketing and door-knocking services;
-  * market research; and
-  * website usage analysis.
+  * only copy or reproduce the Copyright Material for the purpose of browsing the Auto Cult website or making a copy for your own personal, private or research use, provided that such use constitutes fair use under the Copyright Act;
+  * not alter or modify the Copyright Material or remove any legal notice associated with it.
 
 
 
-We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+#### Auto Cult provides the following privacy statement:
 
-### In addition, we may disclose your personal information to:
+Auto Cult is bound by the National Principles under the Privacy Act 1988. A copy of the National Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner.
 
-  * your authorised representatives or your legal advisers (e.g. when requested by you to do so);
-  * credit-reporting and fraud-checking agencies;
-  * credit providers (for credit related purposes such as credit-worthiness, credit rating, credit provision and financing);
-  * our dealers;
-  * our related companies;
-  * our professional advisers, including our accountants, auditors and lawyers;
-  * other telecommunication and information service providers (for example, if you obtain services from other providers, we may need to disclose your personal information for billing purposes);
-  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm);
-  * government and regulatory authorities and other organisations, as required or authorised by law; and
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation).
+Please read this Privacy Statement carefully. The purpose of this Statement is to inform you about our collection and use of personal information so that you can make informed choices about how your own information is collected and used.
 
+#### About this Privacy Statement
 
+Auto Cult is committed to maintaining the privacy and accuracy of your personal information and to protecting information from loss, misuse, unauthorised access, alteration and destruction.
 
-### Help us to ensure we hold accurate information
+Auto Cult complies with the Commonwealth Privacy Act 1988 in relation to the management of personal information.
 
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. 
+This Privacy Statement applies to your use of the website of Auto Cult at http://www.autocult.com.au  
+This includes utilising any of our facilities via this website.
 
-However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you: 
+#### Information Collected
 
-  * let us know if there are any errors in your personal information; and
-  * keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our websites.
+When you use this website, our Internet Service Provider (”ISP”) will record and log for statistical purposes the following information about your visit:
 
+  * your server address and top level domain name (eg. .com, .gov, etc),
+  * the date and time of your visit,
+  * when entering from another website, the address of that website,
+  * the pages and documents you access during your visit, and
+  * the type of browser you are using.
 
 
-### You can access your personal information
 
-You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. 
+This information is collected through the use of “cookies” (see below).
 
-We reserve the right to charge a fee for searching for and providing access to your information. 
+We will not attempt to identify individual users and we will not collect personal information unless you provide it to us.
 
-### How to contact us
+If you request information or provide feedback about any of our vehicles, products or services you will be asked to provide contact details and a mailing address.
 
-If you have any questions in relation to privacy, please contact us on **1800 039 059** between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
+We do not collect information about political or religious beliefs, ethnic background or sexual preferences.
 
-You may obtain further information on privacy matters by viewing [Privacy at Telstra](https://web.archive.org/privacy/index.htm). 
+#### Use and Disclosure of Information
 
-Telstra Privacy Statement March 2008  
-Telstra Corporation Limited ABN 33 051 775 556  
-C011 03-08 P616244 131530
+Our goal is to use the information you provide to better understand your requirements and provide information to you on products and services that are most relevant to you.
+
+Unless you have instructed us not to do so, personal information may be shared within Auto Cult and to third parties who provide us with certain services. These third parties are required to keep your information confidential and use it only for the purposes for which we are permitted to use it.
+
+Auto Cult undertakes not to disclose, sell, rent or trade your personal information. We are obliged however to allow law enforcement agencies and other government agencies with the relevant legal authority to inspect our ISP logs if there is an investigation.
+
+Personal information you have provided along with your particular request for information could be forwarded to our mail house or our head office for follow up of your request by mail, email or telephone.
+
+Information may be used by Auto Cult for marketing and product analysis. This may include the forwarding of publications and information about special offers, new products or competitions to you by post or by email.
+
+#### Information Quality
+
+At Auto Cult our goal is to ensure that your personal information is accurate, complete and up-to-date. Please contact us if personal information we hold about you is incorrect or has changed and we will use all reasonable efforts to update the information.
+
+#### Information Security
+
+At Auto Cult, security is a priority. We use technologies and processes such as access control procedures, network firewalls and encryption to protect the security and privacy of information travelling to, from and within our website.
+
+#### Accessing and Modifying
+
+Should you wish to have access to the personal information we hold about you, please contact us. A fee may apply to such access. Access will be limited to the information you have provided.
+
+#### Cookies
+
+A “cookie” is a device that allows our server to identify and interact more effectively with your computer. Cookies do not identify individual users, but they do identify your ISP and your browser type.
+
+This website uses temporary cookies. This means that upon closing your browser, the temporary cookie assigned to you will be destroyed and no personal information is maintained which might identify you at a later date.
+
+We do not disclose domain names or aggregate information to third parties other than to those who assist us with this website and who are under strict confidentiality obligations.
+
+You can configure your browser to accept or reject all cookies and to notify you when a cookie is used. We suggest that you refer to your browser instructions or help screens to learn more about these functions. However, please note that if you configure your browser so as to not receive any cookies, a certain level of functionality of this website and other websites may be lost.
+
+#### Changes to the Statement
+
+Auto Cult may make changes to this Privacy Statement from time to time for any reason. We will publish those changes on our website.
+
+#### Contact Us
+
+If you would like further information about our Privacy Statement and the management of your information or if you think we have breached any aspect of this Privacy Statement, please contact us using the Contact link at the top of the website.
