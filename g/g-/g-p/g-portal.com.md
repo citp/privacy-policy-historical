@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the g-portal.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016043659id_/https%3A//www.g-portal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-portal.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812114329id_/https%3A//www.g-portal.com/en/privacy) for the most accurate reproduction.*
 
-# Dashboard: Gameserver mieten, Erfolge machen, GPC verdienen - www.g-portal.com
+# Privacy
 
-__Lieber Nutzer, leider können wir aufgrund der fehlerhaften und veralteten Technologiebasis des Internet Explorers eine vollständige Funktion nicht garantieren. Wir empfehlen daher unser Webinterface mit Google Chrome oder Mozilla Firefox der jeweilst neuesten Version zu verwenden. Vielen Dank für dein Verständnis.
+__Dear user, unfortunately we can not guarantee complete functionality due to the obsolete technology of Internet Explorer. We therefore recommend using our web interface with the latest version of Google Chrome or Mozilla Firefox. Thank you for your understanding.
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -78,14 +78,14 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-www.g-portal.com
+OCIRIS GmbH
 
-Ortnitstraße 9
+Kistlerhofstraße 70
 
-München, Bavaria 81925
+Building 79
+
+81379 Munich
 
 Germany
 
 support@g-portal.de
-
-Last Edited on 2016-10-04
