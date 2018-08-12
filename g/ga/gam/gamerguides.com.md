@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerguides.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611120303id_/http%3A//www.gamerguides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerguides.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812104938id_/https%3A//www.gamerguides.com/privacy) for the most accurate reproduction.*
 
 # Gamer Guides - Privacy Policy
 
