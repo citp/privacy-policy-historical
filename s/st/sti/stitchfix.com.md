@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201034046id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812025543id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Personal Styling for Women & Men
+# Privacy Policy | Personal Styling for Women, Men & Kids
 
 Privacy Policy
 
@@ -117,7 +117,9 @@ We do not currently respond to “do not track” signals or other mechanisms th
 
 A NOTE ABOUT CHILDREN
 
-Our Services are not directed to children under the age of 13 and children under the age of 13 are not eligible to use our Services. We do not collect or maintain personal information from children we actually know are under the age of 13. If a child under 13 submits personal information to us and we learn that the personal information is the personal information of a child under 13, we will take steps to remove the personal information from our databases. If you believe that we might have any personal information from a child under 13, please contact us at [hello@stitchfix.com](mailto:hello@stitchfix.com). 
+Our Services are not directed to children under the age of 13 and children under the age of 13 are not eligible to use our Services. We do not collect or maintain personal information from children we actually know are under the age of 13. If a child under 13 submits personal information to us and we learn that the personal information is the personal information of a child under 13, we will take steps to remove the personal information from our databases. If you believe that a child under 13 provided us with personal information, please contact us at [hello@stitchfix.com](mailto:hello@stitchfix.com). 
+
+The children’s products we offer via our Services are intended for purchase by adults. We collect some limited personal information about children from the adults purchasing children’s products via our Services. Information about children that we collect from adults and store includes name, birth date, height, weight and style preferences. If you provide us information about a child and you are not the parent or legal guardian of that child, please obtain the parent or legal guardian’s consent to provide us such information. 
 
 USERS OUTSIDE OF THE UNITED STATES
 
