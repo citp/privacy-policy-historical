@@ -1,121 +1,205 @@
-> *The following text is extracted and transformed from the scrapblog.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803161803id_/https%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapblog.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812193015id_/https%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
 
 # Mixbook Privacy Policy
 
-Date of Last Revision: October 27, 2015
+Date of Last Revision: May 25, 2018
 
-Mixbook’s Privacy Policy is designed to help you:
+### Welcome to Mixbook’s privacy policy. Mixbook respects your privacy and we are committed to protecting your personal data.
+
+We at Interactive Memories, Inc., more commonly known as “Mixbook” and together with its corporate affiliates, We / Us / Our, are committed to respecting your privacy and to the security of your personal information or personal data as customers, individuals who visit our websites or otherwise do business with us. This Privacy Policy explains the data we collect from you, how the data is used and with whom it is shared as well as your rights to control that information. Mixbook’s Privacy Policy applies when you use our Services, which are described below and to our Terms of Service that can be viewed on the [Terms of Service](https://web.archive.org/main/terms) page.
+
+Our privacy policy is designed to help you:
 
   * Understand what information we collect and how we collect, share, and use the information; and
-  * Make informed decisions when using the services provided by Interactive Memories, Inc. (together with its corporate affiliates, “Mixbook,” “we,” “us,” “our”) through its website located at www.mixbook.com (the “Site”) and through its mobile applications and related services (collectively, such services, including any new features and applications and the Site, defined as the “Service(s)”). 
+  * Make informed decisions when using the Services provided by Mixbook through its websites located at [www.mixbook.com](https://www.mixbook.com/), [www.montagebook.com](https://www.montagebook.com/), [www.mixbook.com/mosaic](https://www.mixbook.com/mosaic) and/or [www.wedpics.com](https://www.wedpics.com/) (the “Site”) and through its mobile applications and related Services (collectively, such Services, including any new features and applications and the Site, defined as the “Service(s)”). 
 
 
 
-By using or accessing the Service, you are accepting the practices described in this Privacy Policy, as modified by us from time to time.
+When you visit or use the Service, we collect the following data directly from you, from third parties and automatically through our Service in order to provide our Services to you, to perform analytics for our business purposes, to advertise or market our Services to you, and/or to perform security, administrative or customer service activities.
 
-## The Information We Collect
+## Location and Localization
 
-When you visit or use the Service, you may provide us with two types of information:
+When you visit our Sites, we collect your IP address and information about your web browser and/or the app you are using to access our Services.
 
-  * **Personal Information** that you knowingly choose to disclose through various Service features.
-  * **Service Use Information** that is collected by us as you interact with the Service.
+We use your IP address and browser locale to approximate your location. We use your location to select a default localized experience for you to show local currency, prices, promotional offers, language, date format, shipping options, ship time estimates, and holiday lists in calendars. You may choose a different localized experience within your account settings.
+
+We use your browser brand, version, operating system, and plugins in order to optimize your experience, i.e. if you have Javascript disabled, we warn you that the site won’t work properly until you enable Javascript.
+
+## 3rd Party Tracking Tools
+
+We use 3rd party Services (e.g. Google Analytics) that collect your IP address, information about your web browser and/or the app you are using to access our Services, and details of what and when you’ve interacted with our Services and marketing promotions.
+
+We use 3rd party services to better understand how you are using our Services and how we can improve. We also use them to measure and improve our marketing campaigns.
+
+## Cookies
+
+We use web browser cookies and other tracking methods to uniquely identify your browser session. We use your unique cookie before you are logged in to track and improve our Services and marketing campaigns. Once you are logged in, we use browser cookies to keep you logged in.
+
+The third party tracking tools we use also use cookies to uniquely identify your browser session, which is necessary for the tools to work. The use of cookies by our partners is not covered by this Privacy Policy and is subject to their own privacy policies.
+
+## Signup
+
+We collect your name, email address, and encrypted password. If you log in using a 3rd party Service (e.g. Facebook) we store your identifier for that Service.
+
+We use your name in order to personalize our communication with you. We use your email address as your login name and to communicate with you as well as send you updates, promotions, special offers, surveys and communications about your activity on our Service such as order confirmation and shipping emails. We use your encrypted password and/or your 3rd party ID to verify that the person trying to login is you and not someone else.
+
+## Login
+
+We collect the date you created your account, the dates you’ve logged into your account, and the dates you logged out or your session automatically expired. We also collect whether you logged in using your Mixbook login name or using a 3rd party Service, e.g. Facebook.
+
+We use this data to help us understand how you are using our Services, to improve our Services, to customize special offers, and to improve security.
+
+## Log Data and Analytics
+
+We collect IP address, information about your web browser and/or the app you are using to access our Services, and details of what and when you’ve interacted with our Services and marketing promotions.
+
+We use your IP address in our logs which track all activity on our site. We use our logs to help us understand how you are using our Services, to help us troubleshoot and fix problems you may be experiencing, to improve the site experience and for legal and security compliance purposes.
+
+## User Content
+
+We collect your photos, drawings, text, event dates, addresses, favorite themes, and project designs in the course of your uploading of photos and creating your projects.
+
+We use this data to enable the creation and editing of your projects, for displaying thumbnails to you on the site (e.g. in the shopping cart), to personalize marketing emails to you, for detecting and fixing issues before your order is manufactured, and for manufacturing the final product that we ship to you.
+
+## Support
+
+We collect and access your personal data when you reach out to our customer support team for help via email, chat, or phone. We will never ask for you password or financial information and you should not share your password or financial information with anyone.
+
+We use the data we collect and access to help troubleshoot and resolve any issues that you may have with our Service.
+
+## Orders
+
+We collect credit card information, billing address, shipping address, shipping speed, and item quantity when you place an order. We use this data to charge you for the products you ordered, manufacture them, and ship them.
+
+Mixbook does not store full credit card data. If you elect to store a Payment Method with us, that Payment Method will be stored by a payment service provider under contract with us. The storing payment service provider will be required to comply with the Payment Card Industry Data Security Standard (PCI DSS). 
+
+## Customer Feedback
+
+We collect text and/or multiple choice form feedback from our customers via email, chat, web forms, and physical mail. We use this data to improve our Services and troubleshoot specific issues you may be encountering.
+
+## Social Media Integrations
+
+We collect information necessary for 3rd party social media integrations (e.g. Facebook). We use this information to share to those 3rd party sites or download photos from those sites when you request it. Such 3rd party sites may have information practices different than those set forth herein and their use of cookies and similar technologies is not covered by this Privacy Policy and is subject to their own privacy policies. 
+
+## Collaboration
+
+At your request, we collect the email addresses of other people you wish to share your projects with. We use those emails to send them an invitation to view and edit your project.
+
+## WedPics Website and Mobile Application (“WedPics”)
+
+Name and Profile Picture. Our mobile application WedPics and its associated website are designed to make it easy for you to find and connect with others. For this reason, your name and profile picture do not have privacy settings. If you are uncomfortable with sharing your profile picture, you should delete it (or not add one).
+
+Contact Information. Your contact information settings control who can contact you on WedPics, and who can see your contact information such as your media. Remember that none of this information is required except for your email address, and you do not have to share your email address with anyone.
+
+User Content. When uploading a photo, you can control exactly who can see it by selecting the event in which it will be stored. The specified event will determine who will be able to see your media.
+
+Other. Here are some other things to remember:
+
+  * Some of the content you share and the actions you take will be displayed on WedPics and be visible to your contacts or other WedPics users and third-party partners.
+  * Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users.
+  * You understand that information might be reshared or copied by other users and displayed by third-party partners of the Website.
+  * If you use an external source to publish information to WedPics (such as a mobile application or another website), you should check the privacy setting for that post, as it is set by that external source.
 
 
 
-## Personal Information You Provide to Us
+## Mixbook Affiliates
 
-We collect personally identifiable data ("Personal Information") that you submit to us voluntarily through the Service:
+Mixbook may share your information with and receive information from affiliates of Mixbook for marketing purposes, and such use and disclosure is subject to this Privacy Policy.
 
-  * When you register with the Service, you provide certain Personal Information, including your name, email address, and password. 
-  * When you create a profile for the Service after registering, you may provide material that may contain Personal Information, such as a personal photo, email address, or a “headline.” 
-  * When you post any material (such as User Content) on or through the Service, you may be providing Personal Information. 
-  * When you order products or services through the Service, you provide Personal Information necessary to complete the transaction, including your name, credit card information, shipping information, and billing information. 
-  * When you contact us to give feedback or ask a question using the forms provided by us, you provide your name, email address, and your comment, question, or feedback. 
-  * When you participate in our surveys, we may collect additional Personal Information you choose to provide us in responding to our surveys.
-  * When you contact us by sending us an email, we will collect your email address, any Personal Information contained in the email, and any Personal Information attached to the email. 
+## Service Providers
 
-
-
-## Service Use Information
-
-When you access the Site, we collect non-personally-identifiable information including your browser type, operating system, domain names, and IP Address. We use different types of technologies to collect this information, including single-pixel GIFs. In addition, we store certain information from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate when the user closes the browser. Under other circumstances, including if you select the “Remember Me” option upon login, we use a persistent cookie, for example, to store your login ID (but not your password) to allow you to automatically login when you come back to the Service. You can set your browser to refuse cookies; however, if you do so, some or all of the Service may not function properly or at all.
-
-We may (and we may allow third party service providers to) use cookies or other technologies to collect information about your browsing activities over time and across different websites following your use of the Service. Our Service currently does not respond to “Do Not Track” (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy.
-
-## User Content and Other Information
-
-When you use the Service, you may form relationships, send messages, perform searches and queries, and transmit Personal Information through various channels. We collect Personal Information related to these services so that we can provide you the Service and offer personalized features. In most cases, we retain the Personal Information so that, for instance, you can view a list of your friends or see the projects you are currently contributing to. When you update your Personal Information, we sometimes keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
-
-You post Personal Information in User Content (as defined in Mixbook's [Terms of Service](https://web.archive.org/main/terms)) through the Service at your own risk. Although we allow you to set privacy options that limit access to your projects, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your projects and Personal Information. Therefore, we cannot and do not guarantee that User Content you post on or through the Service will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Service. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
-
-Any improper collection or misuse of information provided on Mixbook is a violation of the [Mixbook Terms of Service](https://web.archive.org/main/terms) and should be reported to [privacy@mixbook.com](mailto:privacy@mixbook.com).
-
-If you choose to use our invitation service to tell friends about the Service or invite them to collaborate on a project, we will ask you for your friend’s email address. Your friend will automatically be sent a one-time email inviting him or her to visit the Service. Mixbook stores information gathered during this process to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [support@mixbook.com](mailto:support@mixbook.com) to request that we remove your friend's information from our database.
-
-By using the Service, you are consenting to have your personal data transferred to and processed in the United States.
-
-## Use of Information Obtained by Mixbook
-
-In general, information you submit to us is used either to respond to requests that you make or to aid us in serving you better, including to fix technical problems, provide administrative services, and monitor traffic, the number of visitors, and the effectiveness of programs. We may use user data to market the Service to others. We may provide these services ourselves or share the information with partners who will provide the services for us.
-
-We may use your Personal Information to provide you with newsletters and surveys and to notify you of important changes to the Service, new services, and special offers. If you do not want to receive such email notices, you may login to your account and opt out of receiving such email or send email to [privacy@mixbook.com](mailto:privacy@mixbook.com) or mail to Privacy, Mixbook, 726 Main St., Redwood City, CA 94063. Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers. If we have provided any third party with your information, you will have to contact the third-party directly with any opt-out request.
-
-Profile information is used by Mixbook primarily to be presented back to and edited by you when you access Mixbook and to be presented to others you permit to view that information.
-
-Your name, headline, a thumbnail of your photo, and thumbnails of your most recent projects will be available in search results across Mixbook to allow your friends to find you and send a friend request. People who see your name in searches will be able to access your profile or other personal information.
-
-User Content in your profile, including the projects you create or contribute to, will be displayed to users with whom you have a relationship through your profile, search results, and various other pages on the Site or portions of the Service. In addition, the title, page count, thumbnail photo, description, author, and list of contributors of your projects will be visible to all users of the Service depending on the privacy settings of those projects. If your project is set to be viewable by only your friends or only a specific list of users, it will not appear in search results by people who do not have permission to view it.
-
-Mixbook will send you service-related announcements from time to time through the general operation of the Service. For instance, if a friend sends you a new message or you receive a request to collaborate on a friend’s project, you may receive an email alerting you to that fact.
-
-## Feedback
-
-If you provide feedback on any of our products and services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. Mixbook will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.
-
-## Children Under Age 13
-
-The Children's Online Privacy Protection Act (COPPA) defines personal information as "individually identifiable information," including things like a first and last name, a street address, an email address, or a telephone number. COPPA places requirements on websites that collect such information from children. You must be at least 13 years or older to register and use the Service. If you are under the age of 13, you must use an account created by a parent or guardian, and you must have the explicit permission of a parent or guardian to use the Service. 
-
-## Children Between the Ages of 13 and 18
-
-We recommend that minors over the age of 13 ask their parents before sending any information about themselves to anyone over the internet.
-
-## Sharing Your Information with Third Parties
-
-Mixbook is all about collaborating and sharing information with others – your friends on the Service and people you share it with. We allow you to choose privacy settings for the projects you create with your friends on the Service. These settings allow you to make an informed choice about who has access to the information and content that you create on or upload to the Service. We do not sell your Personal Information to third party marketers without your permission. We share your Personal Information with third parties only in limited circumstances. We comply with the CAN-SPAM Act of 2003 and intend to do business only with companies that also comply. **We will not sell your Personal Information.**
-
-We may provide collected information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Mixbook or the Service, to remove repetitive information from our user lists, to process payments for products or services, to print the projects that you order, or to provide search results, personalized advertising or links. In connection with these offerings and business operations, our service providers may have access to your Personal Information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any Personal Information, we implement reasonable contractual and technical protections limiting the use of that information to Mixbook-specified purposes. If we provide any of the information collected from you with a third party, their use of that information will be governed by their privacy policy.
+We provide collected information to Service providers to perform services on our behalf, such as to host the Service at a co-location facility for servers, to send out email updates about Mixbook or the Service, to process payments for products or Services, to print the projects that you order, or to provide search results, personalized advertising or links. In connection with these offerings and business operations, our Service providers may have access to your Personal Information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any Personal Information, we implement reasonable contractual and technical protections limiting the use of that information to Mixbook-specified purposes. If we provide any of the information collected from you with a third party, their use of that information will be governed by their privacy policy.
 
 For example: when you place an order for a printed copy of a project through the Service, your billing information is transmitted to a third-party credit card processor and your shipping information is transmitted to a third-party printer to be printed, bound, and shipped to you. In addition, if you elect to permit your credit card or other billing information to be saved, that information will be transmitted to a third-party credit card processor and stored by such third-party credit card processor for the purpose of completing purchases you make in connection with the Service.
 
-We may be required to disclose user information pursuant to lawful requests, such as subpoenas, law enforcement investigations, or court orders, or in compliance with applicable laws. We also may release information to protect our rights, property, or other interests, including those of our customers or other third parties or to prevent illegal activities or violations of the [Mixbook Terms of Service](https://web.archive.org/main/terms). This may include sharing information with other companies, lawyers, agents, or government agencies.
+## Marketing
 
-If the ownership of all or substantially all of the Mixbook business, or individual business units owned by Interactive Memories, Inc., were to change, information may be transferred to the new owner so the service can continue operations. We may also transfer information if we partner with another company.
+We share data with third parties in connection with advertising, retargeting and analytics on behalf of Mixbook. Under no circumstances do we rent, trade or share your address or e-mail address with any other company for their marketing purposes without your consent.
+
+## Legally Required
+
+We may be required to disclose user information pursuant to lawful requests, such as subpoenas, law enforcement investigations, or court orders, or in compliance with applicable laws. We also may release information to protect our rights, property, or other interests, including those of our customers or other third parties or to prevent illegal activities or violations of the Mixbook Terms of Service. This may include sharing information with other companies, lawyers, agents, or government agencies.
+
+## Business Transfers
+
+If the ownership of all or substantially all of the Mixbook business, or individual business units owned by Interactive Memories, Inc., were to change, information may be transferred to the new owner so the Service can continue operations. We may also transfer information if we partner with, acquire or merge with another company. If a change happens to our business, then the new owners may use your personal data as set out in this privacy policy.
 
 ## Links
 
 The Service may contain links to web sites not operated or controlled by Mixbook. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave the Service to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected via the Service.
 
-## Integrating Social Networking Services
+Mixbook is headquartered in the United States. We have operations and service providers in the United States and throughout the world. As such, we and our service providers may transfer your personal information to, or access it in, jurisdictions (including the United States) that may not provide equivalent levels of data protection as your home jurisdiction. These countries may not have the same data protection laws as the country in which you initially provided the information. By providing your Personal Information to the Service, you consent to any transfer and processing in accordance with this Policy.
 
-The Service may also allow you to enable or log in to the Service via various social networking services like Facebook (“Social Networking Service(s)”), and we may ask you to log into the relevant Social Networking Service. When you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we will collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store, and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store, and disclose your information is governed by the policies of such third parties, and Mixbook shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service. 
+Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. If the provider is not EU-US Privacy Shield certified, we may use the EU Model Clauses. We are applying for certification with the U.S. Department of Commerce under the EU - U.S. Privacy Shield Framework.
 
-You may also have the option of posting your Service activities to Social Networking Services when you access content through the Service; you acknowledge that if you choose to use this feature, your friends, followers, and subscribers on any Social Networking Services you have enabled will be able to view such activity. 
+Some of our external third-party providers are based outside of the EEA, so their processing of data will involve a transfer of data outside the EEA.
 
-## Changing or Removing Information
+We will only keep your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-Access and control over most Personal Information on the Service is readily available through your account settings. Service users may modify or remove their information through the [My Account page](https://web.archive.org/my_account). Information will be updated immediately.
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-If you make use of the communication features of the Service to share information with other individuals on the Service (e.g., sending a message), you generally cannot remove or edit such communications. Mixbook may delete your information from its system, at its sole discretion, at any time.
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers for tax purposes.
 
-## Security
+We also make a promise to you that you can come back at any time in the future and re-order products you have ordered from us in the past or utilize photos and other content you have uploaded to the service to create and order additional products. So, unless you actively delete this information, we keep it, so we can keep our promise to you. 
 
-Mixbook takes precautions to protect our users’ Personal Information; however, no precautions are 100% effective. As a result, Mixbook does not guarantee that Personal Information you provide to us will remain secure. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of the Mixbook Web Site, please contact us at [privacy@mixbook.com](mailto:privacy@mixbook.com).
+In some circumstances you can ask us to delete your data; see Your Rights and Choices below for further information.
 
-## Terms of Service, Notice and Revisions
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-If you choose to visit Mixbook, your visit and any dispute over privacy is subject to the then-current Privacy Policy and our [Terms of Service](https://web.archive.org/main/terms), including limitations and damages, arbitration of, and application of law of the state of California. We reserve the right to change our Privacy Policy at any time by posting any changes on the Site. All changes will take effect immediately upon their posting on the Site. If we make changes, we will indicate at the top of the page the policy’s effective date. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Your use of the Service after any changes to the Privacy Policy constitutes your acceptance of the new Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+Mixbook is not intended to be used by children, and we do not knowingly collect personally identifiable information from children under 13 (16 in the EU). The Children's Online Privacy Protection Act (COPPA) defines personal information as "individually identifiable information," including things like a first and last name, a street address, an email address, or a telephone number. COPPA places requirements on websites that collect such information from children.
 
-## Contacting Mixbook
+You must be at least 13 years or older (16 in the EU) to register and use the Service. If you are under the age of 13 (16 in the EU), you must use an account created by a parent or guardian, and you must have the explicit permission of a parent or guardian to use the Service.
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@mixbook.com](mailto:privacy@mixbook.com). You may also contact us by mail at 726 Main St., Redwood City, CA 94063.
+In the event that we learn that we have collected personal information from a child under age 13 (16 in the EU), we will take appropriate steps to delete that information. If you become aware or believe that a child has provided us with personal information, please contact us as provided in the Contact Us section.
+
+We recommend that minors over the age of 13 (16 in the EU) ask their parents before sending any information about themselves to anyone over the internet.
+
+Mixbook takes precautions to protect our users’ Personal Information: your account information is located on a secured server behind a firewall, and we utilize other physical, electronic and procedural safeguards to protect the security and confidentiality of the information we have collected and to prevent the unauthorized access to or disclosure of your information.
+
+However, no precautions are 100% effective. As a result, Mixbook does not guarantee that Personal Information you provide to us will remain secure. In the event we become aware that the security of the sites has been compromised or users' personal information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with data protection and law enforcement authorities.
+
+Email and instant messaging including chat are not recognized as secure communications, we request that you not send private information to us by email or instant messaging Services. If you have any questions about the security of the Mixbook Web Site, please contact us at privacy@mixbook.com.
+
+## Correcting Errors in Personal Data
+
+To correct errors in your personal data, access the setting menu on our website or within the app and make your corrections. If there’s any data you want to correct that you cannot update through our website or apps, please email support@mixbook.com and we are happy to make the update for you.
+
+## Downloading Personal Data
+
+If you wish to download your personal data, email support@mixbook.com.
+
+## Deleting Personal Data
+
+If you wish to delete your account and the data associated with it, click here. Please note that even after your account is deleted, we keep records of your past orders and other data necessary for financial, legal, and tax compliance.
+
+## Contacting our Data Protection Officer
+
+To reach our Data Protection Officer with a question or concern about your data, or about your privacy including your rights under GDPR, please email legal@mixbook.com.
+
+You have the right to access and/or take your data at any time. You may contact our Data Protection Officer at privacy@mixbook.com to request a copy of your personal data and can ask for a copy of personal data be provided in machine readable form.
+
+## Legal Basis for Processing Personal Information  
+(European Economic Area)
+
+If you are from the EEA, our legal basis for collecting and using the personal information described in this Privacy Policy will depend on the personal information concerned and the specific context in which we collect it. We collect and use your information for a variety of business purposes that are in our legitimate interests, in order to enter into or perform a contract with you, with your consent, or to comply with our legal obligations.
+
+If you wish to learn more about specific legal grounds we rely on to process your information for any particular purpose (including any legitimate interests we have to process this information), please contact us as provided under the Contact Us section. For example, we rely on our legitimate interests to process information for direct marketing purposes and for fraud prevention and detection, provided these interests are not overridden by your data protection interests or fundamental rights and freedoms.
+
+## Your Data Protection Right  
+(European Economic Area)
+
+In some regions, such as the EEA, you may have certain rights in relation to your personal information, including the right to access, correct, update, or request deletion of your personal information. We takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You also can manage your profile and settings within your account settings. However, if you are not a user of our Services and you want to contact us directly about accessing, correcting, updating, or deleting your personal information, or altering your data or marketing preferences, you can do so at any time by contacting as provided in the Your Rights and Choices section. We will consider your request in accordance with applicable laws.
+
+You can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us as provided in the Your Rights and Choices section.
+
+You can complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available here.
+
+Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request.
+
+We will post any updates and/or changes to our Privacy Policy by posting any changes on the Site with all changes taking effect immediately upon their posting on the Site. If we make changes, we will indicate at the top of the page the policy effective date. If we materially change the treatment of your personal data, we will work to provide you reasonable notice of such changes through our Service, by email or other communication.
+
+We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Your use of the Service after any changes to the Privacy Policy constitutes your acceptance of the new Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+If you have any questions about this Privacy Policy, please contact us at privacy@mixbook.com. You may also contact us by mail at 726 Main St., Redwood City, CA 94063.
