@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytradinghub.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612103808id_/http%3A//www.mytradinghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytradinghub.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812171247id_/http%3A//www.mytradinghub.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
@@ -88,7 +88,7 @@ For additional information about cookies and other tracking technologies, includ
 
 ### Your Rights to Access, Change, Correct, Update and Erase Your Information
 
-If you are a registered user, you may change your Personal Information at any time by visitingwww.mytradinghub.com. You may request deactivation of your My Trading Hub account or any of your Personal Information held by us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you are a registered user, you may change your Personal Information at any time by visitingwww.mytradinghub.com. You may request deactivation of your My Trading Hub account or any of your Personal Information held by us by sending an email to info@mytradinghub.com.
 
 If you choose to deactivate your account, where permitted by law we will retain in our files some of your Personal Information to prevent fraud, resolve disputes, troubleshoot problems, enforce our Terms of Use, respect your opt-out preferences, and comply with legal requirements.
 
@@ -98,7 +98,7 @@ My Trading Hub safeguards the security of the data you send us with industry-sta
 
 While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us over an unsecured Internet connection. Therefore, we urge you to take every precaution to protect your personal data when you are on the Internet.
 
-Some ways to protect your personal data may include changing your passwords often, using a combination of letters and numbers in passwords, and making sure you use a secure browser. In addition, please be aware of phishing attacks, which attempt to steal consumers’ personal identity data and financial account credentials. “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive personal information such as credit card numbers, account usernames, passwords and social security numbers. My Trading Hub will never send an email asking you to provide or confirm Sensitive Personal Information. If you receive a communication such as this, please immediately forward it to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and immediately delete it from your computer.
+Some ways to protect your personal data may include changing your passwords often, using a combination of letters and numbers in passwords, and making sure you use a secure browser. In addition, please be aware of phishing attacks, which attempt to steal consumers’ personal identity data and financial account credentials. “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive personal information such as credit card numbers, account usernames, passwords and social security numbers. My Trading Hub will never send an email asking you to provide or confirm Sensitive Personal Information. If you receive a communication such as this, please immediately forward it to info@mytradinghub.com and immediately delete it from your computer.
 
 Our websites do not target and are not intended to attract children under the age of 13. My Trading Hub does not knowingly solicit personal information from children under the age of 13 or send them requests for Personal Information.
 
@@ -118,7 +118,7 @@ We do not guarantee error-free performance under this Privacy Statement. We may 
 
 ### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your Personal Information, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have questions or concerns about our collection, use, or disclosure of your Personal Information, please email us at info@mytradinghub.com.
 
 ### Product-Specific Guidelines
 
