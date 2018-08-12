@@ -1,72 +1,103 @@
-> *The following text is extracted and transformed from the ruckuswireless.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629045016id_/https%3A//www.ruckuswireless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruckuswireless.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812193556id_/https%3A//www.arris.com/company/privacy) for the most accurate reproduction.*
 
-# Ruckus Wireless Privacy Policy | Ruckus Wireless Inc.
+# Privacy Policy | ARRIS
 
-Revised September 20, 2013
+ARRIS respects your privacy. When using our websites, you may get information, access online products and services, communicate with us or link to other websites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This Privacy Policy (together with other notices given on purchase or download of an app, product or service) describes the types of personal information we collect; how we use that information; who we share it with; and how we protect that information.
 
-When you visit websites, you may be providing owners of those websites with information about yourself. At Ruckus, we want to help you understand how we use the information we collect from your visit to our websites. In general, we use the information we collect to improve those websites and our products and services, let you take advantage of programs and features presented on our websites and for our internal analysis.
+Please read the following carefully to understand practices regarding your personal information.
 
-### Information We Collect
+If you are in the European Economic Area ("EEA"), the data controller for the purposes of European data protection law is ARRIS International plc 710 Wharfedale Rd, Winnersh, Wokingham RG41 5TP, UK.
 
-When you visit our websites, our server logs capture non personal information such as your IP address, browser, and operating system. We may also capture additional information such as the paths taken as you move from page to page, video statistics, downloads, browser usage, actions you perform and devices used.
+This Privacy Policy does not govern websites of other parties to which we may provide links. ARRIS is not responsible, nor can we control the privacy practices or content of those other sites.
 
-### Email
+This Privacy Policy covers personal information processed by ARRIS which means information that (either in isolation or in combination with other information) enables you to be identified directly or indirectly.
 
-When you send us an email, we may use your email address to contact you regarding your comment or to reply to your question. We store your email and our reply in case we need to continue corresponding. When you request information, we use your email address and any other information you give us to provide you with the information related to your request. Recurring communications contain the ability to unsubscribe by using the “unsubscribe” instructions provided within each email. Certain onetime responses may not contain the “unsubscribe” instructions because of their onetime nature.
+## INFORMATION COLLECTION
 
-### Community Areas
+ARRIS collects personal information when you register for an ARRIS webcast, ask to receive an ARRIS newsletter, or request ARRIS information from sales, employment, investor relations or general inquiries.
 
-When you post content or use forums, blogs, and our other community features, your name and profile information is available to others. If you post this information, we want you to be aware that other users of these areas or the general public may be able to capture, modify, transmit and generally use this information. We are not responsible for the information you choose to submit to these areas.
+When you contact ARRIS, we may ask for your name, company, title, email address, physical address and telephone number.
 
-### Personal Information
+ARRIS automatically receives and records information on our server logs from your browser including your IP address and the page you requested.
 
-Ruckus only collects personal information that you choose to provide voluntarily. While you can browse our websites without providing personal information, you will need to input certain personal information as indicated on specific pages of our websites in order to take advantage of certain features, such as requesting updates, blogging, requesting assistance or participating in special programs.
+ARRIS routinely collects information such as webcast time-stamps and logs events.
 
-“Personal information” includes information that can identify you, such as your name, address, phone number, email address, log-in information and credit/debit card information.
+To learn more about how we use cookies and how to control which cookies are used, please see our Cookie Policy available at [http://www.arris.com/company/cookie-policy](https://web.archive.org/company/cookie-policy/ "Cookie Policy").
 
-### Cookies
+We also need to process personal information for the purpose of completing government and tax reports.
 
-Like many sites, we use “cookies” to help us collect information related to usage data and improve our websites. A cookie is a small data file that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that website to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to block all cookies or to indicate when a cookie is being sent, but this may impact your ability to use some functionality on our websites. If you do not block cookies, you can delete them through standard browser functionality.
+We have taken into account your rights and interests in determining the scope and manner of the processing of information about you:
 
-### Third Parties
+## RETENTION AND RELEVANCE
 
-We use a variety of third-party services, such as Google Analytics, Jobvite and Spiceworks, to help improve our websites, host our blogs/forums, process and store data, and to help us understand the use of our websites. These third-party service providers may collect information sent by your browser as part of a website request. We work closely with vendors and partners, many of which have links within the Ruckus website. Please remember that when you use a link to go from the Ruckus website to another website, your interactions with those websites are governed by the privacy policy of the third-party, not this privacy policy.
+ARRIS retains personal information that it collects only for the period of time such information is required to achieve the purposes set forth above. For example, customer data will not be retained more than five years after you cease to be an active customer subject to any contractual, regulatory or audit requirements.  
 
-### Transferring, Processing and Storing Personal Information
 
-Ruckus is a global organization with offices in many countries and our headquarters in the United States. As a result, we may transfer your personal information to the United States, to any Ruckus subsidiary worldwide for the purposes of processing or storage. Your personal information may be transferred and stored outside of your country of residence where data protection standards may be different.
+## INFORMATION SHARING AND DISCLOSURE
 
-### Business transfers
+ARRIS will not sell or rent your personal information to anyone.
 
-If Ruckus is involved in a merger, acquisition or asset sale, your personal information, anonymous or aggregated information we collected from or about you, and any other information that we have collected on our websites may be transferred to an acquiring third party as part of our business assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered one of our assets and may be sold or transferred to third parties.
+ARRIS will send information about you to other companies or people only when:
 
-### Legal Obligations to Disclose Personal Information
+  * We have your consent to share the information; or
+  * We need to share your information to provide the product or service you have requested; or
+  * We need to send the information to companies who work on behalf of ARRIS to provide an ARRIS product or service or to otherwise assist ARRIS with its business activities. (Unless we tell you otherwise, these companies do not have any right to use the personal information we provide to them beyond what is necessary to assist us and are required to safeguard personal information and not to disclose personal information to others).
 
-While we do not anticipate such requests, we may be required to share your personal information with third parties if required to do so by law.
 
-### Security
 
-Because the security of your personal information is important to us, we take reasonable steps to protect the information we collect. While we cannot guarantee absolute security of your personal information, we use firewalls and employ many different security techniques to protect against data loss, misuse, alteration and unauthorized access.
+Your personal information may be transferred to and processed by our affiliates and our service providers as listed [here](https://web.archive.org/company/legal/arris-affiliates/ "ARRIS Affiliates"). We will take all steps that are reasonably necessary to ensure that your personal information is treated securely and in accordance with this Privacy Policy as well as applicable data protection laws, including, where relevant, by entering into EU standard contractual clauses (or equivalent measures) with the party outside the EEA (available here: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en>).
 
-### Children
+## PROTECTION OF PERSONAL INFORMATION
 
-Our websites are not intended for children under the age of 13 and we do not knowingly collect personal information from those children.
+We have implemented technical and organisational security measures to safeguard personal information in our custody and control. Such measures include, for example, limiting access to personal information only to employees and authorised service providers who need to know such information for the purposes described in this Privacy Policy, training of our employees on general Information Security topics, implementation of a comprehensive Information Security program, as well as other administrative, technical and physical safeguards.
 
-### Changes to the Privacy Policy
+## ARRIS AND GDPR
 
-This privacy policy was posted September 20, 2013. We may change our privacy policy from time to time. We will post any changes on this page.
+ARRIS, including Ruckus Networks, believe that our existing and prospective customers, as well as their end users connecting to our technology, have a right to privacy and the ability to control how their personal data will be used. We support this new legislation and are implementing key measures across our entire business.
 
-### Update, Correct, or Delete Your Personal Information
+Our work towards compliance is rooted in our long-standing commitment to privacy and data security. Over the years, we’ve built protection and tools into our solutions to enable our customers to securely manage the data that they provide us. This is a key tenet of our corporate responsibility, and it serves as the foundation for our steps towards GDPR compliance.  [Learn more about ARRIS and GDPR.](https://web.archive.org/company/legal/gdpr/ "ARRIS and GDPR")
 
-You can access and modify certain personal information stored on our websites, such as your name, phone number, email address, and mailing address, by contacting us via email at [privacypolicy@ruckuswireless.com](mailto:privacypolicy@ruckuswireless.com) or via mail at the address set forth below.
+## YOUR RIGHTS
 
-Please note that we may be required (by law or otherwise) to keep this information and not delete it, or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements.
+You have the ability to edit, correct or erase your personal information, at any time. To request such account maintenance, please submit your request on our [request page](https://web.archive.org/company/legal/dsar-forms/ "DSAR Forms").
 
-### Contacting Ruckus
+You may also indicate that you do not wish to receive messages from ARRIS regarding our products or services or update your information relating to such messages (opt-in/out or subscribe/unsubscribe) at [marketing@arris.com](mailto:marketing@arris.com "Marketing"). You may also write to ARRIS Marketing, 3871 Lakefield Drive, Suwanee, GA 30024, USA.
 
-We welcome your comments or questions regarding this privacy policy. Please feel free to email us at [privacypolicy@ruckuswireless.com](mailto:privacypolicy@ruckuswireless.com) or write to us at:
+Following your request for either type of data editing, your information will be changed in ARRIS databases after we receive the information necessary to process your request.  
+If you are an EEA resident, you have the following rights (if applicable):
 
-Ruckus Wireless, Inc.  
-350 West Java Dr.  
-Sunnyvale, CA 94089  
-Attn: Privacy Policy
+  * Access. You have the right to request a copy of the personal information we are processing about you.
+
+
+  * Rectification. You have the right to have incomplete or inaccurate personal information that we process about you rectified.
+
+
+  * Deletion. You have the right to request that we delete personal information that we process about you, except we are not obliged to do so if we need to retain such data in order to comply with a legal obligation or to establish, exercise or defend legal claims.
+
+
+  * Restriction. You have the right to restrict our processing of your personal information where you believe such data to be inaccurate; our processing is unlawful; or that we no longer need to process such data for a particular purpose unless we are not able to delete the data due to a legal or other obligation or because you do not wish for us to delete it.
+
+
+  * Portability. You have the right to obtain personal information we hold about you, in a structured, electronic format, and to transmit such data to another data controller, where this is (a) personal information which you have provided to us, and (b) if we are processing that data on the basis of your consent or to perform a contract with you.
+
+
+  * Objection. Where the legal justification for our processing of your personal information is our legitimate interest, you have the right to object to such processing on grounds relating to your particular situation. We will abide by your request unless we have compelling legitimate grounds for the processing which override your interests and rights, or if we need to continue to process the data for the establishment, exercise or defence of a legal claim.
+
+
+  * Withdrawing Consent. If you have consented to our processing of your personal information, you have the right to withdraw your consent at any time, free of charge This includes where you wish to opt out from marketing messages.
+
+
+
+You can make a request to exercise any of these rights in relation to your personal information by [submitting a request](https://web.archive.org/company/legal/dsar-forms/ "DSAR"). For your own privacy and security, at our discretion, we may require you to prove your identity before providing the requested information.
+
+You also have the right to lodge a complaint with the local data protection authority if you believe that we have not complied with applicable data protection laws. If you are based in, or the issue you would like to complain about took place, in the EEA, a list of local data protection authorities in the other EEA countries is available here: <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>
+
+## PRIVACY POLICY VERSION
+
+This Privacy Notice is written in English and may be translated into other languages. In the event of any inconsistency between the English version and the translated version of this notice, the English version prevails.
+
+We reserve the right to change our Privacy Policy from time to time. If we decide to change our Privacy Policy we will post a notice on the legal page of our global website and send notice to appropriate sets of people.
+
+## CONTACTING US
+
+We welcome comments and questions on this Privacy Policy. Questions regarding our Privacy Policy can be submitted at [Privacy Questions](https://app-eu.onetrust.com/app/#/webform/3db59f55-0f42-4a54-862a-403559e4d611 "Privacy Questions"). ** **
