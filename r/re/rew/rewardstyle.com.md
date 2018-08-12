@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardstyle.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627193807id_/https%3A//www.rewardstyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardstyle.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812121816id_/https%3A//www.rewardstyle.com/privacy) for the most accurate reproduction.*
 
 # 
 
