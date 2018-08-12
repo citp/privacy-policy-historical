@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the principles.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227201606id_/https%3A//www.principles.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principles.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812025310id_/https%3A//www.principles.com/privacy-notice) for the most accurate reproduction.*
 
 # Principles by Ray Dalio - Privacy Policy
 
