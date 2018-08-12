@@ -1,82 +1,84 @@
-> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012848id_/http%3A//www.trafficsupplier.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812134937id_/http%3A//www.adjux.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TrafficSupplier.net - Buy Traffic | Buy Web Site Traffic | Targeted Traffic
+# Adjux | Internet Advertising Network
 
-**What information do we collect?**
+Okan Atmaca T/A Adjux Media ("Adjux") operates Adjux.com and may operate other websites. It is Adjux's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-We collect information from you when you register on our site or place an order. 
+### Our business
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+Adjux's technology powers advertisements that can appear on websites and applications on mobile phones or other devices connected to the internet. You may interact directly with our servers (for example, when you click on an ad) or indirectly via the a web site or mobile application that displays the ads.
 
-**What do we use your information for?**
+### Commitment to Privacy
 
-Any of the information we collect from you may be used in one of the following ways: 
+The European Union ("EU") maintains strict privacy laws through General Data Privacy Regulation ("GDPR") and protecting our customer's data is a main concern to ensure that we maintain the required compliance with the governing authorities.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+### Purpose of data collection
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+With each interaction between your device and our ad servers we collect certain information, which we will describe below. We use this information in order to help deliver more interesting and relevant ads to you, in order to provide to our customers and partners reports that contain aggregated data (for instance, the number of ads delivered each day, the number of clicks on those ads, and so on), in order to analyze trends, and in order to perform fraud detection.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+### Information collected
 
-• To process transactions
+We do not collect personally identifiable information about you. We do, however, record and use information that is not personally identifiable, including but not limited to the following:
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * the IP address of your device on the internet, to do geo-targeting, to identify your mobile operator, connection type, and other details;
 
-• To administer a contest, promotion, survey or other site feature
+  * the ‘user agent’ of your browser or application, and other relevant request headers, to help us identify your device type;
 
-• To send periodic emails
+  * the date and time of the ad request or interaction;
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * and a unique identifier, such as an HTTP cookie or your device advertising identifier, that enables us not to show you the same ad over and over again.
 
-**How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+From our partners, which include businesses, networks, agencies, publishers, and advertisers; we do collect personal information to identify the client to an account. The collection of this information is on a lawful basis, to which consent has been expressly given, and is part of Adjux's normal business practices. These partners will be asked to provide personal information through the signup and registration process. This information is used to communicate the status of an account or billing and may include, but is not limited to: name, phone number, email address, website name, address and bank details.
 
-**Do we use cookies?**
+### Use of information
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We may use this non personally identifiable information along with our technology in order to provide ads that are likely to be more interesting and more relevant to users to target advertising (this is also known as behavioral, or interest-based advertising).
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We sometimes use cookies or device identifiers to help us track whether you complete specific actions on an advertiser’s web site or application, as this is needed for analytical purposes, and in order to monitor the performance of our ads. These cookies or identifiers expire within 30 days.
 
-**Do we disclose any information to outside parties?**
+We may also use some of this data to provide interest-based advertising.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Opt-out
 
-**Third party links**
+Opting Out is easy; when a you opt-out we will no longer be able to recognize and serve contextual or retargeted advertising to you. By you clicking on the opt-out button below, we will recognize that you are no longer are interested in receiving our advertising and will disable Adjux's and its Partners the ability to deliver ads to you.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+### Your Data Rights
 
-**California Online Privacy Protection Act Compliance**
+If you are in the EEA, you have a right to (subject to a limited number of exceptions): (i) request access to and rectification or erasure of your personal information; (ii) obtain restriction of processing or to object to processing of your personal information; and (iii) ask for a copy of your personal information to be provided to them, or a third party, in a digital format. You also have the right to lodge a complaint about the processing of your personal information with your local data protection authority in the EEA.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+If you are a client, and would like the personal information Adjux holds about you to be corrected or updated please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) For the deletion and erasure of personal information, email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to begin the process and we will respond to your request within 30 days.
 
-**Childrens Online Privacy Protection Act Compliance**
+### The Protection of Minors
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+The Site does not knowingly collect any personal information from minors. The personal information of any minor you provide shall be agreed by the minor's parent or guardian in advance. Minor is defined in accordance with the laws applicable to the Privacy Policy.
 
-**Online Privacy Policy Only**
+### Retargeting campaigns
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We may run retargeting campaigns based on user lists provided directly by the advertisers, to reach a precise audience.
 
-**Terms and Conditions**
+### Marketing campaigns
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.trafficsupplier.net/terms.php>
+We may contact our partners, which include businesses, networks, agencies, publishers, and advertisers; periodically by e-mail to provide information regarding our discounts, products, services and content that may be of interest to you. If applicable law requires that we receive your consent before we send you certain types of marketing communications, we will only send you those types of communications after receiving your consent.
 
-**Your Consent**
+If you decide at any time that you no longer wish to receive such communications from us, you may follow the unsubscribe instructions provided in any of the communications or request to be opted-out of receiving such communications via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-By using our site, you consent to our online privacy policy. 
+### Changes to privacy policy
 
-**Changes to our Privacy Policy**
+Adjux is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that material changes are made, the Privacy Policy on this website will be changed. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+Your continued use of the Site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-This policy was last modified on 03/02/15
+### Your acceptance of these terms
 
-http://www.trafficsupplier.net/contact.php
+By using this Site, you are acceptancing the consent and practices described in this policy and terms of use. If you do not agree to this policy, please do not use this Site.
+
+### Questions and concerns:
+
+If you have any questions or concerns about our privacy practices, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Adjux may change its Privacy Policy from time to time, and in Adjux's sole discretion. Adjux encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Adjux.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
