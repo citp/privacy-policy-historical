@@ -1,156 +1,73 @@
-> *The following text is extracted and transformed from the carhartt-wip.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808083134id_/https%3A//www.carhartt-wip.com/en/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhartt-wip.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812122741id_/https%3A//www.carhartt-wip.com.au/bottom-links/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | carhartt-wip.com
+# Carhartt WIP: Online Shop
 
-Proper handling of your information with due regard to your personal rights as well as observance of your right to informational self-determination when using your personal data is a major concern to us. Collection, processing and use of your personal data conform to relevant legal provisions, particularly to European data protection directives and their implementation in national laws. Work in Progress Textilhandels GmbH reserves the right to adapt this privacy policy to amended statutory provisions and regulations at any time. Please keep up with changes to our privacy policy by accessing it on our website using the appropriate link. 
+Proper handling of your information with due regard to your personal rights as well as observance of your right to informational self-determination when using your personal data is a major concern to us. Collection, processing and use of your personal data conform to relevant legal provisions, particularly to Australian data protection directives and their implementation in national laws. Work In Progress reserves the right to adapt this privacy policy to amended statutory provisions and regulations at any time. Please keep up with changes to our privacy policy by accessing it on our website using the appropriate link.
 
 (1) Automatic collection, processing and use of personal data
 
-(1.1) Web service log files 
+(1.1) Web service log files
 
-When you access the web pages of our website with your browser, our online shop server automatically stores the information required for the operation of a web service in log files, including the name of your browser, the name of your internet service provider, the IP address of your PC, the address of the web page from which you accessed our online shop, the name of your operating system, the web pages you visit on our website, as well as the date and duration of your visit. This information is temporarily stored in the log files and automatically deleted afterward. The purpose of this storage is, in case of a problem, to enable an analysis of activities which possibly caused the fault. 
+When you access the web pages of our website with your browser, our online shop server automatically stores the information required for the operation of a web service in log files, including the name of your browser, the name of your internet service provider, the IP address of your PC, the address of the web page from which you accessed our online shop, the name of your operating system, the web pages you visit on our website, as well as the date and duration of your visit. This information is temporarily stored in the log files and automatically deleted afterward. The purpose of this storage is, in case of a problem, to enable an analysis of activities which possibly caused the fault.
 
-(1.2) Cookies 
+(1.2) Cookies
 
-Cookies are small text files which a web server saves in a certain section of the browser of a user of a website. Cookies are completely harmless for your computer, and do not save any personal data such as names, addresses or payment information. Instead, they provide information to improve the user experience on our website, to manage a shopping cart or to be able to show advertising specially tailored to the user. 
+Our online shop uses session cookies, which are small files transferred to your PC by the web server. These files are used to track your movement from page to page in our online shop or to manage a shopping cart.
 
-**Cookie management in the Carhartt WIP Web Shop**
+One the one hand, cookies are differentiated according to the duration of their storage. So-called session cookies are automatically deleted when you close your browser. A session cookie can be used to manage a shopping cart or to identify products of special interest, whereas permanent cookies remain stored on your PC. Information about the storage duration is provided by your browser. A permanent cookie can be reread the next time you visit our website. To prevent this, you can delete the permanent cookie after your visit to our website. Permanent cookies can for example be used to provide information from a shop website for use by an online payment service.
 
-Our use of cookies is described in detail in [ Carhartt WIP Cookie Management](http://documente.carhartt-wip.com/b2c/doc/carhartt-wip_cookie-management_2016-08-18_English.pdf). 
+On the other hand, cookies are differentiated according to their origin. So-called first-party cookies always originate from the website indicated in your browser's address bar. So-called third-party cookies originate from websites which you have not visited directly, but have been tied into in the first-party's website by means of images or advertisements. Your browser can tell you the sources of the cookies stored on your PC.
 
-In accordance with the European Cookie Directive, the consent of the user is required for setting permanent cookies that serve purposes other than ensuring correct communication with the web server. 
+Most browsers are set to accept cookies. To disable this function, please change the corresponding settings of your browser. If your browser does not accept any cookies, you might not be able to visit all the web pages of our online shop without any trouble. To place an order, it is necessary for you to set your browser to accept session cookies. Session cookies are automatically deleted when you close your browser.
 
-When you enter our site for the first time, a banner is shown pointing out our use of cookies. If you click this banner to close it, or if you click the Agree button, a carharttVisted cookie is saved on your computer with the value true, provided your browser permits the setting of cookies, since you have agreed to the use of cookies, either explicitly or through your behavior. As long as this cookie is present, the cookie banner is not shown. 
+The web analysis tool that we use, Google Analytics, stores a permanent cookie on your PC, when this function is enabled by the browser settings. A permanent cookie can be reread the next time you visit our website. To prevent this, you can delete the permanent cookie after your visit to our website.
 
-_Right of Revocation and Objection_
+(1.3) Web Analysis Tool Google Analytics
 
-You can opt out of cookies (including the Google Analytics cookies) being placed by our website by changing your browser settings for handling cookies based on the information in the [ Carhartt WIP Cookie Management](http://documente.carhartt-wip.com/b2c/doc/carhartt-wip_cookie-management_2016-08-18_English.pdf). 
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. To protect your privacy, this website will render your IP Address anonymous before it is transferred to Google. Only in exceptional cases will your IP address be transmitted in full length and rendered anonymous by Google in the US. The operator of this website has commissioned Google to use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage. Google will not associate your IP address collected by Google Analytics with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our online shop. The deletion of permanent cookies after a visit to our online shop will not result in any impairment.
 
-(1.3) Web Analysis Tool Google Analytics 
+Regardless of the way your browser handles cookies, you can opt out of any collection, transfer, and processing of Google Analytics related data (including your IP address) by downloading and installing a Browser Plug-In, which can be downloaded using this link <http://tools.google.com/dlpage/gaoptout?hl=en>
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. To protect your privacy, this website will render your IP Address anonymous before it is transferred to Google. Only in exceptional cases will your IP address be transmitted in full length and rendered anonymous by Google in the US. The operator of this website has commissioned Google to use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage. Google will not associate your IP address collected by Google Analytics with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our online shop. The deletion of permanent cookies after a visit to our online shop will not result in any impairment. 
+(1.4) Google E-commerce Tracking
 
-_Right of Revocation_
+We use Google e-commerce tracking in our online shop. Based on Google Analytics, Google collects, on our behalf, information about products added by customers to a shopping cart and provides this information to us in anonymized reports, i.e. without a personal reference option. You can prevent this tracking by installing the Google Analytics deactivation plug-in in your browser as described in (1.3).
 
-Regardless of the way your browser handles cookies, you can opt out of any collection, transfer, and processing of Google Analytics related data (including your IP address) by downloading and installing a Browser Plug–In, which can be downloaded using this link <http://tools.google.com/dlpage/gaoptout?hl=en>
+(1.5) Market research and optimization of our website
 
-For more information about Google terms of service and privacy policies, go to   
-[ http://www.google.com/analytics/terms/gb.html](http://www.google.com/analytics/terms/gb.html) or [ https://www.google.de/intl/en_uk/policies/](https://www.google.de/intl/en_uk/policies/). 
+To optimize our website and our advertising, we store individual usage data under pseudonyms. This will not result in our contacting you personally with advertisements. In addition, it is prohibited by law to combine these usage data with information on the bearer of the respective pseudonym. However, if you do not want us to collect and analyze your usage data in this manner, you can opt this out by sending a simple e-mail to online@carhartt-wip.com.au.
 
-(1.4) Google E-commerce Tracking 
+(1.6) Affiliate Partner Programs
 
-We use Google e-commerce tracking in our online shop. Based on Google Analytics, Google collects, on our behalf, information about products added by customers to a shopping cart and provides this information to us in anonymized reports, i.e. without a personal reference option. You can prevent this tracking by installing the Google Analytics deactivation plug-in in your browser as described in (1.3). 
+We cooperate with several partners that promote our products on the internet. If you were redirected by one of the advertisements run by our partners to our online shop, a corresponding cookie is set. If you make a purchase in our shop afterward, the partner will receive a commission for this. Your personal data is not disclosed to the partner at any time during this process. We process these data pseudonymously; we do not combine these data with information on the bearer of the respective pseudonym under any circumstances. You can prevent this processing by changing the cookies settings in your browser accordingly.
 
-_Right of Revocation_
+(1.7) Pin it! Button
 
-You can prevent this tracking by installing the Google Analytics deactivation plug-in in your browser as described in (1.3). 
+If you access a web page on our website which contains the Pin it! Button, a connection to the Pinterest server is set up via a plug-in. If you are logged in as a member of Pinterest at this time, the information that you have accessed our website is transmitted to your Pinterest account. Your interaction with Pinterest, e.g. linking one of our shop offers on your pin board, is directly controlled by the Pinterest server. The responsible office with regard to data privacy regulations for the processing of your data during the use of the Pin-It! Button is the partner company Pinterest Inc., 635 High Street, Palo Alto, CA, 94301, USA. To find out more about Pinterest privacy policies, go to <http://pinterest.com/about/privacy/>.
 
-(1.5) Facebook Remarketing 
+If you are not a member of Pinterest, or if you logged out of your Pinterest before you visited our website, only your IP address is transmitted to the Pinterest server to enable the graphic representation of the button stored on the Pinterest server to be displayed in your browser.
 
-Via Google Tag Manager, we have added to our web pages remarketing tags from the social network Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA. When you visit our web pages, a direct connection between your browser and the Facebook server is established via the remarketing tags, so your IP address is sent to the Facebook server. If you are logged in to Facebook as a member at this time, data is transferred to your Facebook account via the remarketing tags. With respect to the processing of your data at Facebook remarketing, the partner company Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA, is the responsible authority regarding data protection laws. To find out more about Facebook privacy policies, go to [ https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/). 
+(1.8) Remarketing
 
-Through Facebook Remarketing, we offer users logged into Facebook (Custom Audiences) tailor-made advertising, but without knowing the identity of the user at any time. 
-
-_Right of Revocation_
-
-[If you do not want Facebook to show you advertising via Custom Audiences, you can cancel this by clicking this line.](https://www.facebook.com/ads/website_custom_audiences/) You have to be logged in to Facebook to change your Facebook profile accordingly. 
-
-(1.6) Affiliate Partner Programs 
-
-We cooperate with several partners that promote our products on the internet. If you were redirected by one of the advertisements run by our partners to our online shop, a corresponding cookie is set. If you make a purchase in our shop afterward, the partner will receive a commission for this. Your personal data is not disclosed to the partner at any time during this process. We process these data pseudonymously; we do not combine these data with information on the bearer of the respective pseudonym under any circumstances. 
-
-_Right of Revocation_
-
-Our partners make use of so-called “third-party cookies” in these programs. You can prevent this by changing the cookie settings to “Disable third-party cookies” in your browser settings accordingly. 
-
-(1.7) Retargeting 
-
-We use retargeting technologies to selectively advertise products on our partners' websites in which you were interested in our shop.   
-During retargeting advertising material is adapted and displayed based on a cookie-based and anonymized analysis of the previous user behavior. No personal data are stored. 
-
-_Right of Revocation_
-
-You can opt out the use of data generated by the cookie and relating to your use of our website by adjusting your browser settings to refuse third-party cookies. 
-
-(1.8) Web analysis using tools by Epoq 
-
-Our web shop uses tools by epoq internet services GmbH, Am Rüppurrer Schloss 1, 76199 Karlsruhe, Germany ([ https://www.epoq.de](https://www.epoq.de/)), to collect and save usage data; these data are saved in pseudonymous usage profiles. Cookies are used to collect and assign the analysis data. The information thus collected can be transferred to an epoq server abroad and saved there. The usage profiles are evaluated for purposes of analyzing visitor behavior and for the personalization of our advertised offers. However, no information that would make it possible to find out your identity as a user of the web shop is collected or saved in the pseudonymous profiles. 
-
-_Opt-out option_
-
-You can opt out of the collection of the data created by the cookie and referring to your use of our website by setting your browser so that cookies are not accepted. 
-
-(1.9) Advertising by partner companies 
-
-When you click advertising by one of our partner companies when you are visiting our web shop, a cookie of the partner company may be set as a so-called third-party cookie. With such third party cookies, an advertiser can log your visits to all sites where his advertising is shown. 
-
-_Right of Revocation_
-
-If you are concerned about this, you can disable third-party cookies in your Browser. Please see our [ Carhartt WIP Cookie Management](http://documente.carhartt-wip.com/b2c/doc/carhartt-wip_cookie-management_2016-08-18_English.pdf). 
+We use retargeting technologies to selectively advertise products on our partners' websites in which you were interested in our shop.  
+During retargeting advertising material is adapted and displayed based on a cookie-based and anonymized analysis of the previous user behavior. No personal data are stored.  
+You can opt out the use of data generated by the cookie and relating to your use of our website by adjusting your browser settings to refuse third-party cookies.
 
 (2) Collection and use of your information
 
-(2.1) Opening a Customer Account 
+(2.1) Information for processing your order
 
-As a registered customer, your user name and password give you access to your personal customer account, where you can not only view and change your personal data (for example your address), but also check your orders. 
+To enable optimum processing of your order, we collect and store information required for business purposes and communicate it, if required, to the companies (payment, logistics, shipping) involved in the completion of your order.
 
-We create a customer account for you if you have explicitly requested us to do so. To create a customer account, we collect from you the information we need to create the account (e.g. name and email address). 
+The payment process is handled by an external service provider. For this purpose you will temporarily be redirected to the service provider's website when you place your order (check out). Basically Work in Progress does not collect or store your credit card information your Paypal or Postfinance account information. Payment information may temporarily be stored as an exception only for returns or complaints and only if you provide this information to us.
 
-Before we create your account, we ask you to accept the General Terms and Conditions of Work in Progress Textilhandels GmbH (referred to as Carhartt Work in Progress or Carhartt WIP) and to consent to your data being saved and used, as follows: 
-
-**I accept the General Terms and Conditions of Carhartt Work in Progress and consent to the use of my data by Carhartt Work in Progress and affiliated companies. For more details, please refer to the data privacy statement. I can revoke this consent at any time.**
-
-If you have any questions about your customer account or wish to delete it, please email us at [onlineshop@carhartt-wip.com](mailto:onlineshop@carhartt-wip.com). 
-
-(2.2) Further details on the use of your data 
-
-By the use of your data, we mean that we use the data you gave us during your registration, usage data on your interest in our products as well as your purchasing history on our website carhartt-wip.com and in the Carhartt WIP stores to be able to provide you with personalized offers in our web shop as well as in the Carhartt WIP stores. For this purpose, we process your data internally and forward these to the European Carhartt WIP stores. Your data are not forwarded to other third parties. Of course you can still go shopping in the Carhartt WIP stores without identifying yourself as a registered customer. 
-
-You can revoke your consent at any time by emailing us at [onlineshop@carhartt-wip.com](mailto:onlineshop@carhartt-wip.com). 
-
-(2.3) Information for processing your order 
-
-To enable optimum processing of your order, we collect and store information required for business purposes and communicate it, if required, to the companies (payment, logistics, shipping) involved in the completion of your order. 
-
-The payment process is handled by an external service provider. For this purpose you will temporarily be redirected to the service provider’s website when you place your order (check out). Basically, Work in Progress Textilhandels GmbH does not collect or store your credit card information, your Paypal or Postfinance account information. Payment information may temporarily be stored as an exception only for returns or complaints and only if you provide this information to us. 
-
-We will use your e-mail address to send you status information about your order. As an unregistered shopper, you will be asked to state your e-mail address with every order. It will not be used for any other purpose unless you expressly consent to this. 
-
-(2.4) Use of data for the newsletter 
-
-You have received an electronic newsletter from us because you explicitly ordered it. We use usage data on your interest in our products as well as your purchasing history in the web shop to provide you with personalized offers in our newsletter. 
-
-_Right of Revocation_
-
-You can revoke your consent to receiving the newsletter at any time. The easiest way is simply to click the relevant link in our newsletter. 
+We will use your e-mail address to send you status information about your order. As an unregistered shopper, you will be asked to state your e-mail address with every order. It will not be used for any other purpose unless you expressly consent to this.
 
 (3) Further privacy policies
 
-(3.1) Controller of the data file 
+(3.1) Controller of the data file
 
-The controller of the data file in terms of data privacy is the company stated in the site notice. This company is responsible solely for the web pages published on the domain [carhartt-wip.com](https://carhartt-wip.com/ "CARHARTT WIP"), however not for partner company web pages which may be linked from web pages of our website. 
+The controller of the data file in terms of data privacy is the company stated in the site notice. This company is responsible solely for the web pages published on the domain carhartt-wip.com.au, however not for partner company web pages which may be linked from web pages of our website.
 
-(3.2) Linked web pages 
+(3.2) Linked web pages
 
-The respective partner company is responsible for data privacy on linked web pages. Please refer to the website notice information or privacy policy of the linked website. Please direct any queries or requests in connection with your rights as a person concerned with regard to access, correction, deletion and disabling to the corresponding controller of the partner company. 
-
-(3.3) Social Media 
-
-On the main page and on various product pages, our web shop shows buttons linking you to so-called social media. At the moment, these are our pages on Instagram, Facebook, Twitter, YouTube, SoundCloud and Pinterest. A connection to the servers of the social media is not established until you click one of the buttons. 
-
-The respective provider himself is responsible for data protection in the social media. Please look up the information in the legal notes or the data privacy statement of the social medium in question. 
-
-(3.4) Privacy officer 
-
-Work in Progress Textilhandels GmbH has appointed a privacy officer who can provide you with information about all data privacy issues at Work in Progress Textilhandels GmbH. If you have any questions about data privacy, please feel free to contact our privacy officer directly: 
-
-DSB Datenschutz Extern   
-Reinhard M. Novak   
-Schlierbergstrasse 1   
-D-79100 Freiburg (Germany) 
-
-Tel.: +49-761-58539335   
-E-Mail: [wip@dsb-ext.com](mailto:wip@dsb-ext.com)   
-Web: [ www.dsb-ext.com](http://www.dsb-ext.com/)
-
-Version: June 2016 
+The respective partner company is responsible for data privacy on linked web pages. Please refer to the website notice information or privacy policy of the linked website. Please direct any queries or requests in connection with your rights as a person concerned with regard to access, correction, deletion and disabling to the corresponding controller of the partner company.
