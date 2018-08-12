@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319095318id_/https%3A//www.aldi.com.au/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812085245id_/https%3A//www.aldi.com.au/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALDI Australia
 
@@ -84,4 +84,4 @@ If ALDI Stores becomes aware of any ongoing concerns or problems concerning our 
 
 As our business continues to evolve, our policies will be reviewed from time-to-time and may be revised. ALDI Stores reserves the right to change its Privacy Policy at any time and notify you by posting an updated version of the policy on its websites. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
 
-More information about privacy law is available from the Office of the Australian Information Commissioner at [](http://www.oaic.gov.au/)[www.oaic.gov.au](http://www.oaic.gov.au/). 
+More information about privacy law is available from the Office of the Australian Information Commissioner at [http://www.oaic.gov.au/.](http://www.oaic.gov.au/)
