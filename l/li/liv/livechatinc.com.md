@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623085603id_/https%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812164246id_/https%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LiveChat
 
@@ -118,74 +118,74 @@ The following are exceptions, with respect to whom we may share your Personal In
 
 
 
-## 8\. Choice
+## 7\. Choice
 
 We will always give you an opportunity to choose opt-out before your Personal Data is (1) disclosed to a Sub-processor (other than LiveChat, Inc.’s representatives doing work at our direction, or a third party affiliated or associated with LiveChat, Inc. and connected with providing services and its current business activity), or (2) to be used for a purpose that is materially different than that for which it was originally collected or subsequently authorized by you. The only exception to this choice for Personal Data would be where we are required to disclose your Personal Data pursuant to governmental or judicial order, law or regulation to meet national security or law enforcement requirements. We will enable our Customers to provide individuals with reasonable mechanisms to exercise their choices. To limit the use and disclosure of your Personal Information, please submit a written request by e-mailing us at support@livechatinc.com (or via support e-mail of the Service you use). 
 
-## 9\. Accountability for Onward Transfer
+## 8\. Accountability for Onward Transfer
 
 We will not transfer your Personal Data originating in the EU and Switzerland to Third Party Service Provider unless we ensure such Third Party Service Provider is obliged to provide at least the same level of privacy protection to your Personal Data as required by the Principles of the EU-U.S. Privacy Shield Framework or the Swiss-U.S. Privacy Shield Framework and Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation). We will only transfer data to our Third Party Service Providers (such as consultants, accountants, attorneys, and Sub-processors) who need the information in order to provide services to or perform activities on behalf of LiveChat, Inc., and only for a purpose consistent with this Privacy Policy. LiveChat, Inc.’s accountability for Personal Data that it receives under the Privacy Shield and subsequently transfers is described in the Privacy Shield Principles. 
 
-## 10\. Sub-processors (service providers)
+## 9\. Sub-processors (service providers)
 
 If we need to use a Sub-processor in order to provide and support the features of our Services, we may share your Personal Information for that purpose. Advertising partners. We may partner with some third parties to display advertising on our websites or to manage and serve our advertising on other sites and may share Personal Information with them for this purpose. All third parties with which we share this information are required to use your Personal Information in a manner that is consistent with this Policy. We and our Sub-processors may use cookies and other tracking technologies, such as pixels and web beacons, to gather information about your activities on our websites and other sites in order to provide you with targeted advertising based on your browsing activities and interests. We will provide an individual opt-out or opt-in choice before we share data with third parties other than our Third Party Service Providers we use while providing our Services, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your Personal Information, please submit a written request by e-mailing us at support@livechatinc.com (or via support e-mail of the Service you use). 
 
-## 11\. Security
+## 10\. Security
 
 We guarantee that we take reasonable and appropriate technical and operational measures to protect your Personal Information we collect and hold from loss, misuse and unauthorized access, disclosure, alteration, and destruction. While protecting your personal data we take into due account the risk involved in the processing and the nature of the Personal Data. 
 
-## 12\. Data Integrity and Purpose Limitation
+## 11\. Data Integrity and Purpose Limitation
 
 LiveChat, Inc. will only collect and retain Personal Information which is relevant to the purposes for which the Information is collected, and will not use it in a way that is incompatible with such purposes unless such use has been subsequently authorized by the Customer. LiveChat, Inc. will take reasonable steps to ensure that Personal Information is reliable for its intended use, accurate, complete, and current. We may occasionally contact you to determine that your Personal Data is still accurate and current. 
 
-## 13\. Access
+## 12\. Access
 
 Each data subject has the right to access, correct, amend, block or delete its Personal Data. The Company shall comply with any commercially reasonable request by Customer to correct, amend, block or delete Customer’s Personal Data, as required by Data Protection Laws, to the extent the Company is legally permitted to do so. If you wish to access, amend, or confirm that LiveChat, Inc. has Personal Data relating to you, or if you wish to correct or delete your Personal Information if it is inaccurate, please notify us at: support@livechatinc.com (or via support e-mail of the Service you use). If your Personal Data changes, or if you no longer desire our Services, you may correct, update, delete inaccuracies or request deactivation of your account by making the change within the ‘my profile’ section of the site or by e-mailing us at support@livechatinc.com (or via support e-mail of the Service you use). We will respond to your access request within 30 days. To request removal of your personal data from our testimonials or customer support forum, please contact us at support@livechatinc.com (or via support e-mail of the Service you use). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why. 
 
-## 14\. Recourse, Enforcement and Liability
+## 13\. Recourse, Enforcement and Liability
 
 Since we are committed to protecting your privacy as set forth in this Policy, if you think we are not in compliance with our Policy, or if you have any question or if you wish to take any other action concerning this Policy or your Personal Information, we encourage you to contact us. We will investigate your complaint, take appropriate action and report back to you within 30 days. LiveChat, Inc. has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. These recourse mechanisms are available at no cost to you. Under certain conditions, more fully described on the Privacy Shield website, [www.privacyshield.gov](https://www.privacyshield.gov/) if you are not satisfied with the above recourse mechanism, you may be able to invoke binding arbitration before a newly constituted Privacy Shield Panel. 
 
-## 15\. Surveys
+## 14\. Surveys
 
 From time-to-time we may provide you the opportunity to participate in a survey within our applications or via e-mail. If you participate, we may require your name and e-mail address. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. 
 
-## 16\. Add-ons
+## 15\. Add-ons
 
 We allow you the option to integrate your live chat with third party add-ons. Please be aware that LiveChat, Inc. is not responsible for any information that may be collected through these third party add-ons. 
 
-## 17\. Data protection
+## 16\. Data protection
 
 LiveChat, Inc. applies technical safety measures of the highest standards to protect the provided Personal Data against loss, destruction, misuse, unauthorized access or disclosure. The used measures and technology ensure complete safety of the Personal Data provided by the Customer. The Personal Data is available solely to the Customer or to a person indicated by him provided authorized access has been granted to that person. You control who you allow access to the LiveChat app by either selecting everyone or limited IP addresses. The security of your Personal Data is important to us. We follow generally accepted industry standards to protect the personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. LiveChat, Inc. takes all necessary steps to update and modernize data protection system. No data transmission via the Internet, however, can guarantee 100% safety. When you enter information, such as credit card number, on our website or within our applications, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-## 18\. Privacy Policy modification
+## 17\. Privacy Policy modification
 
 We may update this privacy statement to reflect changes to our information practices. If we make any significant material changes we will notify you by e-mail (sent to the e-mail address specified in your ‘owner’s account’) or by means of a notice on the website prior to the change becoming effective. We encourage you to periodically review this website for the latest information on our privacy practices. 
 
-## 19\. Data gathering entity
+## 18\. Data gathering entity
 
 Conducting its activity, under the business name of LiveChat, Inc., with its office: One International Place, Suite 1400, Boston, MA 02110, United States of America, shall be the entity gathering Personal Data and other information. 
 
-## 20\. Commercial transactions
+## 19\. Commercial transactions
 
 LiveChat, Inc. reserves the right to use its Privacy Policy, Customer’s account and provided data and information for the benefit of an entity that has become either a dependent entity, an associated entity, or has come into being as a result of merger or transformation of LiveChat, Inc. 
 
-## 21\. Testimonials
+## 20\. Testimonials
 
 We post Customer testimonials on our websites which may contain Personal Data. We use the ‘Twitter social plugin’ to display our Customers’ comments on our websites. In any other scenario we do obtain the Customer’s consent via e-mail prior to posting the testimonial to post their name along with their testimonial. 
 
-## 22\. Community forum
+## 21\. Community forum
 
 Our websites may offer publicly accessible forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
 
-## 23\. Import Agents List
+## 22\. Import Agents List
 
 Depending on the Service you use we provide you with a way to import up to 100 operators at a time by allowing you to upload an excel spreadsheet. We will only use the information to allow you to add multiple Agents to your account at one time. We will send these operators a one-time e-mail inviting them to register with the site. If these Agent wish to have their e-mail address removed, they may remove the data through the application directly or contact us at support@livechatinc.com (or via support e-mail of the Service you use). 
 
-## 24\. Link to Other Sites
+## 23\. Link to Other Sites
 
 LiveChat, Inc.’s websites may contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that collects personal data. This Privacy Policy applies only to information collected by LiveChat, Inc. 
 
-## 25\. Terms and Conditions
+## 24\. Terms and Conditions
 
 Using offered Services rendered by LiveChat, Inc., the Visitor and the Customer are obliged to comply with rules contained in the [Terms and Conditions](https://www.livechatinc.com/terms-and-conditions/) available on our websites. 
