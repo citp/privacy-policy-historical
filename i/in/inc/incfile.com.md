@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incfile.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017120735id_/https%3A//www.incfile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incfile.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812194959id_/https%3A//www.incfile.com/privacy-policy) for the most accurate reproduction.*
 
 # IncFile.com LLCC Privacy Policy
 
@@ -49,3 +49,7 @@ Everything on our website is copyrighted (unless otherwise noted) and may not be
 Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
 If you have any questions about our Privacy Policy or privacy policies, please feel free to e-mail your questions to us at [incfile-info@incfile.com](mailto:incfile-info@incfile.com)
+
+### Opt Out Policy
+
+IncFile may send promotional emails, newsletters, notices and other forms of communication ("Messages") to users and/or customers who have opted in to receive such messages. Generally, our users and customers may not opt-out of service-related or transactional communications, as those are not promotional but pertain to your business relationship with IncFile. However, if you do not wish to receive promotional Messages you can opt-out by using the "Unsubscribe" link and following the associated instructions or by emailing us at [support@incfile.com.](mailto:support@incfile.com)
