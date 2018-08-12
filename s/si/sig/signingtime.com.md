@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040924id_/http%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812184418id_/https%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Two Little Hands & Signing TIme
 
@@ -22,7 +22,7 @@ Midvale, UT 84047
 801-676-4440  
 Email address: info@signingtime.com
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by logging into your account at [www.signingtime.com](http://www.signingtime.com/) or at [www.mysigningtime.com](http://www.mysigningtime.com/) and updating your information or by emailing us at info@signingtime.com
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by logging into your account at [www.signingtime.com](https://www.signingtime.com/) or at [www.mysigningtime.com](http://www.mysigningtime.com/) and updating your information or by emailing us at info@signingtime.com
 
 **WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
