@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the malaysiastock.biz privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521153601id_/http%3A//www.malaysiastock.biz/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiastock.biz privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812141145id_/https%3A//www.malaysiastock.biz/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - http://www.malaysiastock.biz
+# Privacy Policy - https://www.malaysiastock.biz
 
 The privacy of our visitors to www.malaysiastock.biz is important to us.
 
-At www.malaysiastock.biz, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit http://www.malaysiastock.biz, and how we safeguard your information. We never sell your personal information to third parties.
+At www.malaysiastock.biz, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit https://www.malaysiastock.biz, and how we safeguard your information. We never sell your personal information to third parties.
 
 _Log Files_  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
