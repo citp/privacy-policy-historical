@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319111757id_/https%3A//www.mazda.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812072841id_/https%3A//www.mazda.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mazda Australia
 
