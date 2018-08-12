@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zigiz.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528163003id_/http%3A//www.zigiz.com/en-EN/help/about_zigiz/help_parent_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigiz.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812041031id_/http%3A//www.zigiz.com/en-EN/help/about_zigiz/help_parent_privacy.html) for the most accurate reproduction.*
 
 # Play free online games at Zigiz - Unlimited fun!
 
@@ -48,9 +48,9 @@ Please note that data transmitted via the internet (e.g. via email communication
 
 The party responsible for processing data on this website is:
 
-Gembly B.V.  
-Kromwijkdreef 11  
-1108 JA Amsterdam, NL
+Zigiz  
+Beechavenue 182  
+1119 PX Schiphol-Rijk
 
 Email: help@Zigiz.com
 
