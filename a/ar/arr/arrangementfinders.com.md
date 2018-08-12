@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the arrangementfinders.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182440id_/https%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrangementfinders.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812201113id_/https%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Arrangement Finders
+# Established Men
 
-Effective Date: February 28th, 2017
+Effective Date: February 27th, 2017
 
 Privacy Policy (US)
 
 ruby Corp. ("we" or "us") is firmly committed to your privacy. This Privacy Policy sets out our practices related to the collection, use and disclosure of information you provide us when you visit our websites, mobile websites and mobile applications (collectively, the "Platform") and use the services thereon (the "Services"). To help us meet our commitment to you, we have appointed a Privacy Officer to oversee our privacy practices and our compliance with this Privacy Policy. If you have any questions or concerns regarding our policies and practices related to your information, please see the “Contact Us / Complaints” section below.
 
-By accessing the Platform or using any of our Services you accept this Privacy Policy and agree to the terms, conditions and notices contained or referenced herein. Your use of our Platform or Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Service](https://arrangementfinders.com/terms-of-service.html). 
+By accessing the Platform or using any of our Services you accept this Privacy Policy and agree to the terms, conditions and notices contained or referenced herein. Your use of our Platform or Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Service](https://establishedmen.com/terms-of-service.html). 
 
 Please note that, to the extent required by applicable law, we will obtain your express consent for the collection, use and disclosure of your personally identifiable information. 
 
@@ -35,7 +35,7 @@ We use the information we collect, including personally identifiable information
 
   * to provide you with the Services, including to provide you with access to a forum focused on open-minded and discreet relationships, where members can search for and connect with other like-minded individuals;
 
-  * to allow users to find other users' profiles based on preferences or user location;
+  * to allow users to find other users’ profiles based on preferences or user location;
 
   * to promote your profile to other users of the Services;
 
@@ -64,9 +64,7 @@ We use the information we collect, including personally identifiable information
 
 
 
-If you're a registered user of establishedmen.com, please note that your profile will also be available on, and visible to users of, arrangementfinders.com and datebrokecollegegirls.com.
-
-If you're a registered user of cougarlife.com, please note that your profile will also be available on, and visible to users of, datemrsrobinson.com
+If you’re a registered user of establishedmen.com, please note that your profile will also be available on, and visible to users of, arrangementfinders.com.
 
 We also use aggregate, de-identified and/or non-personally identifying information, which does not personally identify. For example, we may collect and analyze aggregated, de-identified, statistical information to help improve operation of the Services and manage user activity across the Platform.
 
@@ -103,15 +101,15 @@ We use cookies, clear GIFs, third-party analytics and other tracking mechanisms 
 
 _**Do-Not-Track.**_ Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies or opting out of ad networks).
 
-_**Cookies.**_ Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser for record-keeping purposes. We might use cookies to uniquely identify you, in order to help us to process your transactions and requests, to track aggregate and statistical information about user activity, and to display advertising both on our Platform and on third-party sites. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If you disable cookies some features of our Platform may not function. Further information may be found at www.allaboutcookies.org.
+_**Cookies.**_ Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. We might use cookies to uniquely identify you, in order to help us to process your transactions and requests, to track aggregate and statistical information about user activity, and to display advertising both on our Platform and on third-party sites. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If you disable cookies some features of our Platform may not function. Further information may be found at www.allaboutcookies.org.
 
 _**Clear GIFs**_. Clear GIFs (a.k.a. web beacons, web bugs or pixel tags) are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, though, clear GIFs are embedded invisibly on web pages, not stored on your hard drive. We might use clear GIFs to track the activities of our visitors and app users, help us manage content, and compile statistics about usage. We and our third party service providers also might use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded. These can be blocked either by using a third party application such as [**Ghostery**](https://www.ghostery.com/) , or, in the case of emails, by changing your settings to prevent images from being downloaded (where your email client supports this functionality).
 
-_**Third-Party Analytics**_. We also use automated devices and applications, such as [Google Analytics](https://web.archive.org/www.google.com/policies/privacy/) (to opt out, go [here](https://tools.google.com/dlpage/gaoptout)), and AppsFlyer (to opt out, go [here](https://www.appsflyer.com/privacy-policy/)) to evaluate usage of our Platform and the Services we provide. We use these tools to gather information about users to help us improve our services, performance and user experiences. These analytics providers may use cookies and other technologies to perform their services, and may combine the information that they collect about you on our Platform with other information that they have collected. This Privacy Policy does not cover such third parties' use of the data: for further information please see the relevant party's privacy policy. For a list of additional Third Party analytics providers we may use, please go [here](https://www.rubylife.com/analytics_providers/). 
+_**Third-Party Analytics**_. We also use automated devices and applications, such as [Google Analytics](https://www.google.com/policies/privacy/) (to opt out, go [here](https://tools.google.com/dlpage/gaoptout)), and AppsFlyer (to opt out, go [here](https://www.appsflyer.com/privacy-policy/)) to evaluate usage of our Platform and the Services we provide. We use these tools to gather information about users to help us improve our services, performance and user experiences. These analytics providers may use cookies and other technologies to perform their services, and may combine the information that they collect about you on our Platform with other information that they have collected. This Privacy Policy does not cover such third parties’ use of the data: for further information please see the relevant party's privacy policy. For a list of additional Third Party analytics providers we may use, please go [here](https://www.rubylife.com/analytics_providers/). 
 
 **Third-Party Ad Networks**
 
-We may use third parties such as network advertisers to serve advertisements on our Platform and on third-party websites or other media, and to evaluate the success of our advertising campaigns. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party's specific privacy policy, not this one. We may provide these third-party advertisers with information about users (e.g., IP address and demographic information), but we do not disclose details such as your name or contact information. You may be able to avoid targeted ads by certain ad networks by blocking cookies (see your browser's “Help” menu for information on how to do this); however, our Platform may not work if you block or disable cookies. For a list of networks advertisers we may use, please go [here](https://www.rubylife.com/network_partners/).
+We may use third parties such as network advertisers to serve advertisements on our Platform and on third-party websites or other media, and to evaluate the success of our advertising campaigns. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about users (e.g., IP address and demographic information), but we do not disclose details such as your name or contact information. You may be able to avoid targeted ads by certain ad networks by blocking cookies (see your browser’s “Help” menu for information on how to do this); however, our Platform may not work if you block or disable cookies. For a list of networks advertisers we may use, please go [here](https://www.rubylife.com/network_partners/).
 
 **Third-Party Links**
 
@@ -124,7 +122,9 @@ We keep the personally identifiable information we collect for at least as long 
 
 **Access and Updates**
 
-You have the opportunity to (i) opt-out of certain communications, (ii) modify/update personally identifiable information you have provided to us, and (iii) hide certain information visible to public users of the Platform at any time by going to the 'Manage Profile' or 'Account Settings' sections on your profile. 
+You have the opportunity to (i) opt-out of certain communications, (ii) modify/update Personal Information you have provided to us, and (iii) hide certain information visible to public users of the Platform at any time by going to the 'Manage Profile' or 'Account Settings' sections on your profile. 
+
+On reasonable notice, you may withdraw your consent to use your Personal Information at any time, subject to certain restrictions prescribed by applicable law. 
 
 Please be aware that it may take several hours for any custom changes you make to take effect on the public areas of the system. Please also note that changing or deleting your information through the 'Manage Profile' or 'Account Settings' section of the system, or opting-out of email notifications from us, will only change or delete the data in our database for the purpose of future activities and communications. 
 
@@ -156,6 +156,6 @@ This Privacy Policy is current as of the Effective Date set forth above. In the 
 
 **Contact Us / Complaints**
 
-If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your personally identifiable information, please feel free to contact us at privacyofficer@rubylife.com. All other inquiries should be sent using our [_Contact Us_](https://arrangementfinders.com/contact_us) __ section.
+If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your personally identifiable information, please feel free to contact us at privacyofficer@rubylife.com. All other inquiries should be sent using our [_Contact Us_](https://establishedmen.com/contact_us) __ section.
 
 We aim to resolve all complaints promptly.
