@@ -1,45 +1,31 @@
-> *The following text is extracted and transformed from the rapidsharezone.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206092502id_/http%3A//www.rapidsharezone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidsharezone.net privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812041623id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rapid Share Zone
+# ClouDNS: Privacy policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
+  1. IP addresses and Browser details  
+Our servers detect the IP address of your browser from the TCP protocol. This IP address is used by ClouDNS servers only for our internal use - security and rate limiting.  
+We store browser details and IP addresses of each account for security reasons - mainly for but not limited to investigate hacked accounts or fraudulent activities. Login history is stored for three years on our servers and these history logs are available within the Profile section of your control panel. 
+  2. Customer details  
+We store customer details - e-mail and contact information only for account, billing purposes, and notifications. Under no circumstances ClouDNS will lease, sell, or provide your personal information to any third parties without your permission, a court order or legit legal request by legal authorities.  
+All customer details listed above are stored on servers within the European Union (currently in Amsterdam , Netherlands). 
+  3. Domain WHOIS information  
+For each domain registration or transfer, we request whois details which we are providing to the Domain Registry, authority from where we are buying the domain name. Every TLD has a specific Domain Registry we are using. The Domain Registry manages a WHOIS database which is a register of all domain names within that Domain Registry and their owners. Information in the WHOIS contains the contact details of the owner and proof of ownership of the customers at the Domain Registry. How the WHOIS database is shared with other parties is managed by the Domain Registry and ClouDNS does not have the ability to prevent visibility of the contact details to public.  
+The Privacy Protection option provided by ClouDNS for particular domain extensions allows the customer details to be hidden to the domain registry. When the Privacy Protection is activated, Cloud DNS Ltd is listed as the owner of the domain name in the WHOIS database, but not the Customer. Note that some TLDs do not support the Privacy Protection option and you will not be able to activate it in order to hide your contact details from the Domain Registry and the Domain Registry WHOIS database. Even with enabled Privacy Protection, the Customer is still listed as the owner in the records in ClouDNS’s database and the contact details can be exposed if the domain name is used for illegal activities or from a legal request by the authorities or a court order. 
+  4. Cookies  
+ClouDNS uses cookies to save user settings, count user visits, and site analytics. None of these cookies are used to track the customers outside of our website.  
+Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We are not sharing any customer details or identifiers collected and defined in point 2. 
+  5. Credit cards information.  
+All purchases on the websites managed by ClouDNS are handled by a third party - PayPal.com, BitPay.com, SafeCharge.com, Skrill.com or other Banks, in which the transferred information thereof is encrypted. ClouDNS does not arrange, save or transport any credit card numbers. 
+  6. DNS query details  
+ClouDNS does not store or share any query details or track end-user activities. To provide stable service, we are counting the requests sent from single IP address for each DNS zone for analytical purposes and to be able to prevent DDoS attacks against our infrastructure or services of customers. Statistics for each zone are available and accessible within the control panel of each Customer and are deleted as soon as the DNS zone is removed by the customer or the storage limits defined in terms of Service are reached. 
+  7. Erase of data  
+ClouDNS gives the ability to its customers to erase and/or modify all the data within their control panel. If you need your account ( including your data) with ClouDNS to be deleted, please contact us from the Support menu ( top of your control panel ) and our Technical Support will erase all the information we have in our database for your account. 
+  8. E-mail subscriptions  
+All our Customers can manage what e-mail notifications they want to receive from us. If you wish to unsubscribe from any of our e-mails, please click on the "Unsubscribe" link at the end of the e-mail or change your Subscription settings from your control panel. 
 
-When accessing our Website, will learn certain information about you during your visit.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.  
-What Are Cookies?
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.  
-IP Addresses
+Data Protection Officer  
+[According to GDPR regulations, Cloud DNS Ltd is below the required limit for having a Data Protection Officer.](http://ec.europa.eu/justice/smedataprotect/index_en.htm) In case of any issues which require a contact with the person responsible for our customer data at Cloud DNS Ltd. please contact admin@cloudns.net and address your message to the Company Manager (CEO): Boyan Peychev 
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.  
-Email Information
-
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.  
-How Do We Use the Information That You Provide to Us?
-
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
-
-will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
-
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
-
-A Special Note About Children
-
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.  
-How Do We Protect Your Information and Secure Information Transmissions?
-
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
-
-may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
-
-For site security purposes and to ensure that this service remains available to all users, uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-Policy Changes
-
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-Contact
-
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. [Learn more](https://web.archive.org/privacy-policy/)
