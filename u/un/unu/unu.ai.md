@@ -1,72 +1,64 @@
-> *The following text is extracted and transformed from the unu.ai privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223061806id_/https%3A//unu.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unu.ai privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812050415id_/http%3A//unanimous.ai/privacy) for the most accurate reproduction.*
 
-# Privacy - UNU
+# Privacy Policy - UNANIMOUS AIUNANIMOUS AI
 
-**Privacy and Data Policy**
+Unanimous A.I. respects your privacy and recognizes the importance of your personal information. We are committed to protecting your information through our compliance with this Privacy Policy.
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
+This Privacy Policy describes the types of information we may collect when you visit the Unanimous.ai website (the “Website”).
 
-  1. __**Generally.** This policy explains how and why Unanimous A.I., Inc. (“Unanimous”, “we”, “our”, or “us”) collects, uses, and shares information about you when you access and use all of our various consumer and business websites and services, including, without limitation, the UNU website, private label versions of the UNU website, mobile applications, rooms and swarms (collectively, the “Services”) or when you otherwise interact with us. This Privacy and Data Policy applies to all of our Services.
+**Collection and Use of Information**
 
+The only personal information about you that we collect is information you voluntarily give us via direct contact from you. We will only use your data for the purpose you provided it and to support our mutual relationship, such as responding to your inquiries or processing your application for employment with Unanimous A.I.
 
-  2. **_Information You Provide to Us._** We collect information you provide directly to us when you use our Services.  This includes, without limitation: 
-    * **_Information Regarding Your Use of the Services_** **.** We collect the content and other information you provide when you use our Services. This includes information used to create your account (e.g., a username, password and at your option, an email address), account preferences, the content of communications between you and other users of the Services, and the content of information you post to the Services (e.g., text, photos, videos, links).
-    * **_Other Information_** **.** You may be required to provide other information directly to us in order to participate in certain elements of the Services. For example, we may collect information when you fill out a form, participate in a swarm, visit a room, answer market research questions, communicate with other users, communicate with us via third-party sites and services, request customer support or otherwise communicate with us. Some of this information, such as your birthdate, zip code, interests and gender, may be added to your profile. Some of this information may be necessary to qualify you to participate in certain elements of the Services. ** **
+We will not sell or rent your personal information to anyone. We will not share your personal information with any third party outside of our organization, other than as reasonably necessary to fulfill the purpose for which you provided it. For instance, we may disclose your personal information to a contractor or service provider we use to support our business, provided they are bound to keep your personal information confidential and to use it only for the purposes for which we disclose it to them.
 
+As you use our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and usage patterns. The information we collect automatically is statistical data and does not include personal information. We use this information solely for internal purposes, such as to improve our Website.
 
-  3. **_Information We Collect Automatically._** When you access or use our Services, we may also automatically collect information about you. This includes, without limitation: 
-    * **_Log and Usage Data_** **.** We may log information when you access and use the Services. This may include your IP address, browser type, operating system, referral URLs, device information (e.g., device IDs), pages visited, links clicked, user interactions (e.g., swarm data), the requested URL, hardware settings, and search terms.
-    * **_Information Collected from Cookies_** **.** We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests. We use this information to improve your experience, understand user activity, personalize content and advertisements, and improve the quality of our Services. For more information on how you can disable cookies, please see “Your Choices” below.
-    * **_Location Information_** **.** We may collect information about the specific location of your log-in, including, without limitation, by using IP address.
+The technologies we use for this automatic data collection include cookies. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser.
 
+We currently use cookies to enable the functionality on our Website of Google Analytics, including the Google Analytics tool Demographics and Interests. The information received from Google Analytics is used to improve our Website and the type of information displayed to Website visitors, so we can better serve those interested in Unanimous A.I. You can prevent Google Analytics from recognizing you on return visits to our Website by using Google Analytics’ Opt-out Browser Add-on, available at <https://tools.google.com/dlpage/gaoptout/>.
 
-  4. **_Social Sharing._** We may offer social sharing features or other integrated tools that let you share content or actions you take on our Services with other media. Your use of these features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these social sharing features (e.g., Reddit, Facebook, and Twitter).
+**Security**
 
+We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure. We use service providers, such as Amazon, for data storage. Any vendor that we retain is not allowed to use information they receive from us for any other purpose that to perform the services we have contracted them to perform. Such vendors will never barter, trade, or sell access to your information.
 
-  5. **_How We Use Information About You._** We use information about you to: 
-    * Provide, maintain, and improve the Services;
-    * Help protect the safety of the Services and our users, which includes blocking suspected spammers, addressing abuse, and enforcing the Unanimous user agreement;
-    * Send you technical notices, updates, security alerts, invoices and other support and administrative messages;
-    * Provide customer service;
-    * Communicate with you about products, services, offers, promotions, and events, and provide other news and information we think will be of interest to you (for information about how to opt out of these communications, see “Your Choices” below);
-    * Monitor and analyze trends, usage, and activities in connection with our Services; and
-    * Personalize the Services, provide content and features that match user profiles or interests and contact and provide information and/or offers to users who we believe may have an interest in a particular topic based on their activity using the Services.
+**Children’s Personal Information**
 
+The Website is not directed to children under the age of 16 and we do not knowingly collect personal information from children under the age of 16. If you are under the age of 16, you should not provide personal information to us.
 
-  6. **_How We Share Information._** When you use the Services, certain information may be shared with other users, our clients, and the public. For example: 
-    * When you submit a question, post or comment to the Services, visitors to and users of our Services may be able to see the content of your questions, posts and comments, the username associated with your questions, posts or comments, and the date and time you originally submitted the question, post or comment. Although some parts of the Services may be private, they may become public and you should take that into consideration before posting to the Services.
-    * We may share aggregated or de-identified information obtained from you. This information cannot reasonably be used to identify you unless, of course, you have used your personal information in your profile, e.g., your username is your real name. We share this information with a wide range of clients.  Organizations such as corporations, universities, and market research firms may analyze the information for trends and insights.
-    * When other users view your profile, they will be able to see information about your activities on the Services, such as your username, questions you have asked or participated in, moderator status, status on the Services, and other details. Some of these details you may choose to hide or display by editing your profile.
-    * Please note that, even when your account is deleted, the posts, comments, participation in swarms, answers to market research questions and communications you submitted prior to deleting your account may still be visible to others, and you may not be able to delete such content after you post it. We may also retain and utilize certain information about you and your activity using our Services as required by law or for legitimate business purposes after you delete your account. For more information, see “Your Choices” below.
-    * We will not share, sell, or give away any of our users’ birthdates, bank account information, phone numbers, real names, e-mail addresses, social security numbers or physical addresses to third parties, unless one of the following circumstances applies: 
-      * We may share information with vendors, consultants, and other service providers who need access to such information to carry out work for us;
-      * If you participate in contests, sweepstakes, promotions, special offers, or other events or activities in connection with our Services, we may share information with entities that partner with us to provide these offerings;
-      * We may share information (and will attempt to provide you with prior notice, to the extent legally permissible) in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation, legal process or governmental request, including, but not limited to, meeting national security or law enforcement requirements;
-      * We may share information in response to an emergency if we believe it’s necessary to prevent imminent and serious bodily harm to a person;
-      * We may share information if we believe your actions are inconsistent with our user agreements, rules, or other Unanimous policies, or to protect the rights, property, and safety of ourselves and others;
-      * We may share information between and among Unanimous, and its current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and
-      * We may share information with your consent or at your direction.
+**Market Contact**
 
+On occasion, we may contact you to provide you with information that we believe is of interest to you, or we may ask for your opinions. We may also notify you of your ability to subscribe to e-newsletters. You will have the option of telling us whether you want to receive such market information or be involved in our research activities.
 
-  7. **_Sponsored Rooms and Analytics Partners._** We may partner with sponsors of rooms, third-party advertisers, and analytics providers to deliver offers and content targeted to your interests and to better understand your use of the Services. These third parties may collect information sent by your computer, browser, or mobile device in response to a request for content, such as unique identifiers, your IP address, or other information about your computer or device. For example: 
-    * **_Sponsored Rooms._** Sponsors of our rooms may use cookies and use related technologies to collect information when ads are delivered to you on our Services. Unanimous may provide data about you, browsing habits, swarm choices, answers to market research questions and other data to such third parties.
-    * **_Analytics Partners_** **.** We use analytics partners (such as Google Analytics) to help analyze usage and traffic for our Services. As an example, we may use analytics partners to analyze and measure, in the aggregate, the number of unique visitors to our Services.
-    * For more information about how you may control the collection and/or use of information for advertising and analytics purposes, please see “Your Choices.”
+**Social Plugins on our Website**
+
+In certain cases, we use social plugins on our Website and may include icons that allow you to interact with third party social networks such as Facebook, Twitter or LinkedIn. For example, you may “Like” us on Facebook. The third party social plugin may set a cookie when your browser creates a connection to the servers of such social networks and the plugin may transmit your data to the social networks. Your use of these social plugins is subject to the privacy policies of the third party social networks.
+
+**Your Rights**
+
+You have the right to access the Personal Information that we hold about you and to correct, update, amend, suppress, delete or otherwise modify any Personal Information where it is inaccurate. When updating your Personal Information, we may ask you to verify your identity before we can act upon your request.
+
+By “Personal Information,” we refer to information that you individually provide to us either directly or indirectly that on its own or in combination with other information, can be used to identify you or make you identifiable. Personal Information includes for example your name, your mailing address, your telephone number, your email-address or other information that identifies you or makes you identifiable. Information that by itself cannot be used to identify you or make you identifiable does not qualify as Personal Information.
+
+You may also, if governed by the General Data Protection Regulations, object to the use or processing of your Personal Information or withdraw consent to use your Personal Information at any time. Under the General Data Protection Regulations, regarding the processing of your Personal Information, you have the following rights:
+
+  * the right to request free of charge (i) information whether your Personal Information is retained and (ii) access to and/or (iii) duplicates of the Personal Information retained. However, if the request affects the rights and freedoms of others or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs of providing the information or communication or taking the action requested) or to refuse to act on the request;
+  * the right to request proper rectification, removal or restriction of your Personal Information;
+  * where processing of your Personal Information is either based on your consent and processing is carried out by automated means, the right to receive the Personal Information concerning you in a structured, commonly used and machine-readable format or to have your Personal Information transmitted directly to another company, where technically feasible (data portability);
+  * where the processing of your Personal Information is based on your consent, the right to withdraw your consent at any time without impact to data processing activities that have taken place before such withdrawal or to any other existing legal justification of the processing activity in question;
+  * the right not to be subject to decisions based solely on automated processing that produces legal effects concerning you; and
+  * the right to take legal actions in relation to any breach of your rights regarding the processing of the Personal Information, as well as to lodge complaints before the competent data protection regulators.
 
 
-  8. __**Security.** We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction.
 
+To exercise the rights referred to above, please contact us at [privacy@unanimousai.com](mailto:privacy@unanimousai.com).
 
-  9. **_Children under 13._** The Services are not intended or directed at individuals under the age of 13. Therefore, individuals under the age of 13 may not create an account or otherwise access or use the Services.
+**Inquiries**
 
+If you have questions or concerns, you may contact us at any time by sending an email to [privacy@unanimousai.com](mailto:privacy@unanimousai.com).
 
-  10. **_Your Choices._** As a user of the Services, you have choices about how to protect and limit the collection, use, and disclosure of, information about you. This includes: 
-    * **_Preferences_** **.** We may provide you with tools and preference settings that allow you to access, correct, delete, and modify information associated with your account.
-    * **_Account Information_** **.** You may delete your account at any time by sending an email to [support@unu.ai](mailto:support@unu.ai).  When your account is deleted, certain personal information you have provided is no longer visible to other users and disassociated from content you posted under that account. Please note, however, that your de-identified profile and the posts, comments, participation in swarms, answers to market research questions and messages you submitted prior to deleting your account may still be visible to others, and you may not be able to delete such content after you post it. We may also retain and utilize certain information about you and your activity using our Services as required by law or for legitimate business purposes after you delete your account.
-    * **_Cookies_** **.** Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
-    * **_Promotional Communications._** You may opt out of receiving promotional communications from us by following the instructions in those communications. If you opt out, we may still send you non-promotional communications, such as information about your account or your use of our Services
+**Updates**
 
+This Privacy Policy may be updated from time to time. All updates will be posted on this page.
 
-  11. __**Changes.** We may modify this Privacy and Data Policy at any time without notice.  You agree to regularly review this page for changes, which will be binding on you.
-
-
+We use cookies to understand how you use our site, personalize content, and improve the quality of our Services. By continuing to use this site, including staying on this page, you consent to our use of cookies. More information about how we use cookies can be seen on our [Privacy Policy](http://unanimous.ai/privacy/). If you choose to disable cookies, portions of this site may not function correctly.Accept
