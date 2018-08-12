@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangemoneyplace.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613005016id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangemoneyplace.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812041623id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
 
 # ClouDNS: Privacy policy
 
@@ -15,7 +15,7 @@ The Privacy Protection option provided by ClouDNS for particular domain extensio
 ClouDNS uses cookies to save user settings, count user visits, and site analytics. None of these cookies are used to track the customers outside of our website.  
 Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We are not sharing any customer details or identifiers collected and defined in point 2. 
   5. Credit cards information.  
-All purchases on the websites managed by ClouDNS are handled by a third party - PayPal.com, BitPay.com, Gate2Shop.com, Skrill.com or other Banks, in which the transferred information thereof is encrypted. ClouDNS does not arrange, save or transport any credit card numbers. 
+All purchases on the websites managed by ClouDNS are handled by a third party - PayPal.com, BitPay.com, SafeCharge.com, Skrill.com or other Banks, in which the transferred information thereof is encrypted. ClouDNS does not arrange, save or transport any credit card numbers. 
   6. DNS query details  
 ClouDNS does not store or share any query details or track end-user activities. To provide stable service, we are counting the requests sent from single IP address for each DNS zone for analytical purposes and to be able to prevent DDoS attacks against our infrastructure or services of customers. Statistics for each zone are available and accessible within the control panel of each Customer and are deleted as soon as the DNS zone is removed by the customer or the storage limits defined in terms of Service are reached. 
   7. Erase of data  
