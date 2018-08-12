@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zestmoney.in privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611091251id_/https%3A//zestmoney.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zestmoney.in privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812100438id_/https%3A//zestmoney.in/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy - ZestMoney
+# Privacy - ZestMoney
 
 “Zest/ ZestMoney” and domain name www.zestmoney.in have been assigned to Camden Town Technologies Pvt Ltd through an assignment agreement (referred to, including its affiliates, as “we” or “us”). We are the data controller. Throughout this Privacy Policy “you” means the customer.
 
@@ -8,7 +8,7 @@ We believe you deserve the utmost respect when it comes to the security and use 
 
 Our Privacy Policy applies from when you register with us. Our Privacy Policy is regularly reviewed to make sure that we continue to serve your privacy interests. We reserve the right to update this Privacy Policy and these changes will be posted on our website. We encourage you to periodically review this page for the latest information on our privacy practices. We are committed to keeping your personal information confidential and will only give it to others for the purposes set out in this Privacy Policy.
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us on help@zestmoney.in
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us on [help@zestmoney.in](mailto:help@zestmoney.in).
 
 ### SECURITY
 
@@ -43,8 +43,8 @@ We may share information about you:
   * to transfer data, personal information etc. with any Camden Town related entity, other banking or financial entity’s, third party firm.
   * to analyze usage of the website or to improve the Service as provided by Zest.
   * to send communications relevant to your use of Service or product/services as offered by us.
-  * to enable you to apply for certain products and services for which you have chosen to apply.
-  * in relation to research, to effectively control against error, fraud or other criminal activity.=
+  * to enable you to apply for certain products and services for which you have chosen to apply.  
+in relation to research, to effectively control against error, fraud or other criminal activity.
   * to enforce our terms of use.
   * any person who has told us and who we reasonably believe to be your parent, carer or helper where you are unable to handle your own affairs because of mental capacity or other similar issues.
   * any person to whom we sell or transfer (or enter into negotiations to sell or transfer) our business or any of our rights or obligations under any agreement we may have with you. If the transfer or sale goes ahead, the transferee or purchaser may use your personal information in the same way as us. And regulators, ombudsmen or other authorities, including tax authorities, including those overseas, where we are requested by them to do so.
