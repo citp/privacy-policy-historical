@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507123607id_/http%3A//www.winc.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812093513id_/https%3A//www.winc.com.au/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Staples now Winc
 
