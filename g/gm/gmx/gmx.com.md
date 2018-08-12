@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625004442id_/https%3A//www.gmx.com/company/privacypolicy/%23.1559516-footer-nav1-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812205044id_/https%3A//www.gmx.com/company/privacypolicy/%23.1559516-footer-nav1-2) for the most accurate reproduction.*
 
 # Free Webmail and Email by GMX | Sign Up Now!
 
