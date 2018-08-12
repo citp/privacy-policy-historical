@@ -1,69 +1,170 @@
-> *The following text is extracted and transformed from the carrentals.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622091311id_/https%3A//www.carrentals.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrentals.co.uk privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812023449id_/https%3A//www.carrentals.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | All you need to know about Carrentals.co.uk
+# Cheapest Car Hire Prices Found With One Search
 
-## Carrentals.Co.Uk Privacy Policy
+This website is managed by EasyTerra B.V.
 
-ASAP Ventures Limited (us,we) registered in the UK under Company Number 04278063 and operator of Carrentals.co.uk (website) take your privacy seriously, we commit to protecting your privacy and promise only to use information collected about you in accordance with the Data Protection Act 1998 and the European Directive on Privacy and Electronic Communications (2002/58/EC)
+The company is domiciled at:
 
-This document explains how we use information about you and the steps we undertake to ensure your information is kept secure and confidential and should be read along with our Terms of Service. By using our services as described in our Terms of Service document you will be regarded as having read and accepted this Privacy Policy. If you do not accept this Privacy Policy you must refrain from using our website.
+Westersingel 24  
+8913 CL Leeuwarden  
+The Netherlands
 
-ASAP Ventures Ltd registered at 1 The Square, Lightwater, Surrey, GU18 5SS is the Data Controller in accordance with the Data Protection Act 1998, under registration number Z2240618. If you have any questions about privacy, data protection or our use of your personal data please contact us using the contact details below.
+This policy statement describes, among other things, which information is collected on this website, why we do so and how we use the information.
 
-## How we collect Data
+### 1\. Why does EasyTerra B.V. collect information?
 
-When you register with the website, enter a competition, post on our forum or make a booking you may be asked to submit some personal information such as your name, postal address, telephone number, email address and/or credit card details. During the use of the Services we provide we may also record which pages you view, which products are you interested in and which products you purchase
+We sometimes ask you to provide personal information on this website, such as name, email, address, telephone number, age, whether you have a driver's licence and your interests. We may supplement these details with information we have received about you via third parties. We use this information for the following purposes:
 
-All information we collect will be kept securely in accordance with our internal security policy and may be used to
+  * We may approach you for newsletters, offers and useful tips/information. However, we will always explicitly ask for your consent.
+  * To better match our future services to your needs.
 
-Process any orders you may place
 
-Provide you with an efficient and reliable service
 
-Open and run your account
+### 2\. How safe is your data with EasyTerra B.V.?
 
-Keep you up to date with our latest developments and special offers we think may be of interest to you
+We consider it absolutely essential to treat the information of our users as safely as possible. EasyTerra B.V. has taken the following measures for this purpose:
 
-By continuing to use the website, placing an order or by registering for further information and submitting your data you agree to this use.
+  * Payments take place in a secured environment: 
+    * We use secure connections, in technical terms a 256-bit encrypted Secure Socket Layer (SSL) certificate which can be recognised by the web address starting with https:// instead of the common http://. This implies that messages are encrypted and that any messaging between you and our website cannot be intercepted by third parties.
+  * We only use credit card information to process payments; the details are not stored on our server. This minimises the risk of improper use of your credit card details.
+  * We use the most up-to-date software on our servers, hereby minimising break-in attempts.
 
-By placing an order you are giving your consent for your details to be shared as necessary with our suppliers to facilitate any transactions made. When the Supplier uses your information in this way they are acting as Data Controller of your information and you should read and understand their Privacy Policy to find out how they use and store your data prior to forming a contract with them.
 
-From time to time we also monitor and record telephone calls for training purposes and to improve our service to you.
 
-We will never collect sensitive information about you without your explicit consent. An example of sensitive information would be your religion or a medical condition.
+### 3\. To whom may we disclose your personal information?
 
-Where permitted by the data protection and privacy law we may also disclose information about you if we are required to by Law, The Courts, any other applicable Governmental or Law enforcement agency, in connection with legal proceedings or in the connection with the sale or potential sale of all or part of our business.
+We may ask third parties to process and analyse personal information we have requested from you.
 
-## Email Communications
+We are sometimes required to provide information to third parties when we purchase a product or service from them.
 
-Any email received by us is sent under certain conditions that fully comply with UK data laws. By entering your email address on our website you have chosen to opt in. You must confirm your subscription via email – this is known as double opt in or confirmed opt in. Confirmed opt in validates that your email address is truly permission based. This protects you from unwanted spam email.
+It may also be necessary to provide your personal information to a third party in order for that party to provide the product or service you ordered (in this case we operate as intermediary).
 
-If you are an existing customer we will continue to keep you informed of our latest offers, events and new products, unless you tell us not to.
+We will provide your personal information to the authorities if compelled to do so.
 
-Whenever you submit your personal information we request your consent to share your information for marketing purposes. Unless you tell us otherwise you are continuing to consent to this use.
+### 4\. Which personal information and data do we collect?
 
-If you would like to unsubscribe from our marketing communications you will find clear instructions on how you can do this yourself within our email. Alternatively please contact us and we can remove your details from our database.
+Some information is collected using cookies.
 
-## Cookies
+Cookie: a text file that is stored by servers on your computer's hard drive.
 
-In order to improve our service to you and the Website we may use a device known as a ‘cookie’. Cookies are a small text file placed on your computer and are a means by which information relating to your Internet activity, for example whether you have visited the Website before, can be monitored. We use this information to understand and monitor our visitor numbers, traffic patterns, which pages are visited and track any sales made.
+A cookie contains:
 
-If you do not wish for us to use cookies when you use the Website please adjust your Internet browser settings to not accept cookies. Your computer’s help file should tell you how to do this. Alternatively, information on how to disable cookies is available from [www.dma.org.uk](http://www.dma.org.uk/). Please be aware that if you decide to not accept cookies you may not be able to benefit from our full range of services and the performance of the website may be affected.
+  * Information about you as a visitor of that particular site
+  * Information to store your passwords, user names and preferences for that particular site
 
-Unless you disable cookies Carrentals.co.uk will ask for and store order, transaction and delivery details including your name and address and may automatically insert certain information on order forms so that you can use the Website with the minimum amount of form filling. By continuing to use this website without modifying your internet browser settings you are consenting to this use.
 
-If you have any questions or comments about privacy or Carrentals.co.uk Privacy Policy, or if you have already submitted information that you do not wish us to have or if you think that Carrentals.co.uk has cookies or data about you that you don’t want us to use or that is incorrect please contact us or email [dpa.officer@asapventures.co.uk](mailto:dpa.officer@asapventures.co.uk) and the information will be corrected as soon as possible or removed from our database as you request.
 
-Under the Data Protection Act, you have the right to request a copy of the personal data we hold for you, we reserve the right to charge an administration fee for any such request.
+You may adjust your browser to reject cookies but this will make the site less user-friendly.
 
-In some instances we may request personal details of a third party, for example an additional driver on a car hire booking, in this instance you must obtain their permission to submit their details and explain how they are going to be used as described in this Privacy Policy.
+We also collect information about your computer/computer usage such as:
 
-These terms constitute the full agreement between you and ASAP Ventures Ltd, who own and operate Carrentals.co.uk and may only be amended in writing. They apply to the exclusion of all other terms or conditions of contract proposed.
+  * IP address: this is only stored if you place messages (if applicable to the site) on the website. We do so to exclude possible unwanted authors of messages from the site (to be able to stop abuse).
+  * Type of internet browser
+  * Type of operating system
+  * Requested URL
+  * Time of website visit
+  * http-referer-url (possibly including the search terms you used in a search engine)
+  * Your search and how you performed it (via which search engine, using which search terms, etc.)
+  * User-agent-string
+  * Screen size
 
-## Contact us
 
-Email: [dpa.officer@asapventures.co.uk](mailto:dpa.officer@asapventures.co.uk)
 
-*Telephone: **0844 448 1489**
+All this information is stored and updated in log files on our servers. This information may subsequently be linked with other data we have collected from you.
 
-_Callers must be Aged 18+. Please ensure that you have the bill payer’s permission before entering this service. Calls cost £0.10ppm from a BT Landline, calls from other networks may vary and calls from mobiles may cost considerably more_
+The objective of collecting and possibly linking this information is to better match our services and products with your needs and interests.
+
+### 5.Advertisement displays and clicks
+
+Advertisement displays and clicks are registered by us and advertising networks in which our company participates. This information is collected for purposes including:
+
+  * Financial accountability between us and the advertising network
+  * Statistical information with which we try to optimally promote our products but also to tailor them as closely as possible to your needs
+
+
+
+EasyTerra B.V. uses the following advertising networks: 
+
+  * [Google Adwords Content Network](http://www.google.com/privacypolicy.html) (this party has its own privacy policy)
+
+
+
+By displaying advertisements and web beacons these advertising networks can place cookies (see under 4) on your computer.
+
+Web beacons are invisible images embedded in the website which serve to track who has read that page.
+
+### 6.Google Analytics
+
+This website uses Google Analytics, a web analysis service offered by Google.
+
+This program uses cookies to help us analyse how visitors use our site. Google saves the information collected on servers in the United States.
+
+Google may disclose this information to third parties if legally required to do so or if Google calls in third parties to process the information.
+
+### 7.If you do not wish to receive targeted information
+
+We may use the information you provided to approach you via email, telephone and email.
+
+If you do not wish to receive information from us, you can inform us and request us not to send you any further information.
+
+We will make it as easy as possible to unsubscribe from newsletters etc.
+
+### 8.Interactive parts of our websites
+
+If you participate in interactive parts of our website (forums, membership site, learning environment, feedback environment, etc., you need to fill out certain information. In addition you may publish information on these interactive parts. As you personally disclose this information, you assume responsibility for possible consequences resulting from this publication. We bear no responsibility for information that is published by you (or on your behalf).
+
+If you do wish to participate in the interactive parts of our website but want to remain as anonymous as possible, you are free to apply the following:
+
+  * Use a pseudonym
+  * Use an email address that cannot easily be traced back to you
+
+
+
+### 9.Disclaimer
+
+We accept no liability for the information placed by visitors on the interactive parts of our websites. The information published by visitors are personal opinions of the authors and do not bear any relationship with the opinions/views/positions etc. of EasyTerra B.V.
+
+Although we compile the information on this website with the utmost care, we cannot guarantee that the information provided is correct and/or complete. EasyTerra B.V. accepts no liability for damages incurred or to be incurred in the future as a result of incorrect or incomplete information on the website.
+
+On our websites we refer to other websites/companies/persons, etc. by means of hyperlinks, banners, buttons, acknowledgements, etc. This reference does not imply a connection between EasyTerra B.V. and the other website and/or its owners/those responsible. We therefore accept no liability for adherence to privacy legislation by the third parties concerned.
+
+### 10.Misuse
+
+If we are of the opinion that facilities on our website are misused, we may take measures including: 
+
+  * Denying access to certain IP numbers for an unlimited amount of time
+  * Denying access to certain email addresses for an unlimited amount of time
+  * Denying certain persons access for an unlimited amount of time
+  * Transferring the relevant information to a third party, should harm have been caused to the third party concerned
+  * Trying to trace your information back to you in order to contact you or your parent, guardian, supervisor, person responsible, etc.
+  * Notifying the police which may lead to us suing you
+
+
+
+We will provide your information to the authorities if compelled to do so.
+
+### 11.What are your rights?
+
+You may ask EasyTerra B.V. to disclose which of your data is being processed. We will respond as quickly and satisfactorily as possible.
+
+You may ask us to adapt or, if required, remove the information.
+
+### 12.Possible changes to this privacy statement
+
+EasyTerra B.V., at its discretion, reserves the right to change this privacy statement.
+
+### 13.Questions and requests: Where do you go?
+
+In the event of questions and/or requests regarding this privacy statement / your privacy, you may contact us at:
+
+EasyTerra B.V.  
+Westersingel 24  
+8913 CL Leeuwarden  
+The Netherlands
+
+We only consider requests and/or questions submitted in writing.
+
+### 14.In conclusion
+
+This privacy statement shall be governed by the law of The Netherlands.
