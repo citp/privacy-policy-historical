@@ -1,17 +1,20 @@
-<!--The following is the downloaded HTML source of the crossway.org privacy policy that was archived on 2017-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170325210924id_/https%3A//www.crossway.org/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crossway.org privacy policy that was archived on 2018-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180812075602id_/http%3A//crossway.org/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://web.archive.org/web/20170906210439/https://connect.facebook.net/signals/config/506435969522616?v=2.7.21" async=""></script><script async="" src="//web.archive.org/web/20170906210439/https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a12231446f","applicationID":"8547009","transactionName":"ZlAEN0BXDRBQAERfXl8aIBZcVRcKXg0fVUNeRhUUU08QC14THkBYVEIVTUFeDBMLAF9DQV5b","queueTime":0,"applicationTime":14,"agent":""}</script>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="p:domain_verify" content="d5db0c3e1ba5bad295490ef197ab5e54">
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@crossway">
     <meta name="twitter:title" content="Crossway">
     <meta name="twitter:description" content="Crossway is a not-for-profit Christian ministry that publishes the ESV Bible and gospel-centered books.">
     <meta name="twitter:image" content="https://static.crossway.org/facebook/twitter/card-logo.png">
-    
+    <meta property="og:title" content="Crossway">
+    <meta property="og:description" content="Crossway is a not-for-profit Christian ministry that publishes the ESV Bible and gospel-centered books.">
+    <meta property="og:image" content="https://static.crossway.org/facebook/twitter/card-logo.png">
+    <meta name="description" content="Crossway is a not-for-profit Christian ministry that publishes the ESV Bible and gospel-centered books.">
     
     <title>Privacy Policy  | Crossway.org</title>
     <link rel="shortcut icon" href="/static/images/favicon.png">
@@ -19,17 +22,17 @@
 
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7934312/734366/css/fonts.css">
 
-    <link rel="stylesheet" href="/static/css/2e0f8d8a6cbf.css" type="text/css">
+    <link rel="stylesheet" href="/static/css/5c5c2f772601.css" type="text/css">
 
     <!--[if IE]>
       <link rel="stylesheet" type="text/css" href="/static/css/ie.css" />
     <![endif]-->
-    <script type="text/javascript" src="/static/js/f49143e07a86.js"></script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://web.archive.org/web/20180811211527/https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="/static/js/ad07a6681443.js"></script>
 
     
 
-
-  </head>
+    
+  <script src="https://web.archive.org/web/20180811211611/https://connect.facebook.net/signals/config/506435969522616?v=2.8.24&amp;r=stable" async=""></script></head>
 
   <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
     <div id="container">
@@ -44,22 +47,26 @@
             </form>
           </li>
           
-            <li><strong><a href="/customer/login/" class="personal-icon icon"></a></strong></li>
-          
+          <li><strong><a href="/customer/account/" class="personal-icon icon"></a></strong></li>
         </ul>
-      </div><!-- End #head-row -->
+      </div>
 
       <nav id="main-nav-row">
         <ul id="main-nav" class="nav">
           <li id="navbibles" class=""><strong><a href="/bibles/">Bibles</a></strong></li>
           <li id="navbooks" class=""><strong><a href="/books/">Books</a></strong></li>
           <li id="navtracts" class=""><strong><a href="/tracts/">Tracts</a></strong></li>
-          <li id="navblog"><strong><a href="/blog/">Blog</a></strong></li>
+          <li id="navblog" class=""><strong><a href="/articles/">Articles</a></strong></li>
           <li id="navministry"><strong><a href="/ministry/">Ministry</a></strong></li>
         </ul>
         <div class="clear"></div>
-      </nav><!-- End #main-nav-row -->
+      </nav>
 
+      
+        
+      
+      
+        
       
 
       
@@ -72,17 +79,14 @@
   <div id="content" class="right">
     <div class="article">
       
-      
       <h1>Privacy Policy</h1>
 
-<p>The following policy applies to usage of our website and orders placed thereon. For information about our “offline” privacy policy, please contact Customer Service.</p>
-
-<p>Crossway respects your privacy. We do not sell or share your information with anyone else.</p>
+<p>The following policy applies to usage of our website and orders placed thereon.</p>
 
 <h3>What Information Do You Collect From Me?</h3>
-<p>We collect aggregate data—how many times a certain page is visited, for example, but we do not tie this data to your specific visit. We record search terms used so we can refine our search engine. We only collect personally identifiable information—your name, for example—when you sign up for an online account or newsletter, place an order, make a donation or contact us and provide this information.</p>
+<p>We collect aggregate data—how many times a certain page is visited, for example—but we do not tie this data to your specific visit. We record search terms used so we can refine our search engine. We only collect personally identifiable information—your name, for example—when you sign up for an online account or newsletter, place an order, make a donation or contact us and provide this information.</p>
 
-<p>We also use a technology called “cookies” for your convenience. This technology allows you to order more than once from us without having to re-enter all your information. You can turn off cookies by changing your browser’s preferences. We use session cookies to tie your browser to a specific session. You won’t be able to order from us online without allowing session cookies.</p>
+<p>We also use a technology called “cookies” for your convenience. This technology allows us to provide a persistent session between page loads. You can turn off cookies by changing your browser’s preferences. You will not be able to sign in or place an order with us online without allowing cookies.</p>
 
 <h3>With Whom Do You Share My Information?</h3>
 <p>Crossway respects your privacy. We do not sell or share your information with anyone else.</p>
@@ -90,8 +94,13 @@
 <h3>What Will You Do With My Information?</h3>
 <p>If you place an order or give a donation, you will receive any necessary communication from us relating to the purchase or donation.  We may also send you newsletters and updates via postal mail or email, should you decide to opt-in to receive this information.</p>
 
-<h3>Changes to this policy</h3>
-<p>This policy was last updated February 2015. Any future changes to this policy will be posted on this page.</p>
+<h3>What About EU Citizens?</h3>
+<p>By instructing us to process your order, your data will be transferred outside of the European Economic Area to a country which does not adequately protect your data. The possible risks of transferring your data outside of the EEA include financial loss, identity theft, and being unable to exercise the rights you would usually have under data protection laws against the organisations/individuals who receive and have access to your data in those jurisdictions.</p>
+
+<p>To create an account and place an order with us online, you are required to consent to this transfer of your data by reading and agreeing to our <a href="/terms/">Terms of Service</a> and Privacy Policy upon account creation. You have the right to revoke your consent at any time by contacting <a href="https://www.crossway.org/contact/">Customer Service</a>.</p>
+
+<h3>Changes to This Policy</h3>
+<p>This policy was last updated May 2018. Any future changes to this policy will be posted on this page.</p>
       
     </div>
   </div>
@@ -116,7 +125,7 @@
       </ul>
       <h3><a href="/press-room/">Press Room</a></h3>
       <ul class="nav">
-        <li><a href="/blog-review/home/">Blog Review Program</a></li>
+        <li><a href="/blog-review/">Blog Review Program</a></li>
       </ul>
       <h3><a href="/catalogs/">Catalogs</a></h3>
       <ul class="nav">
@@ -130,28 +139,22 @@
 
 </div>
 
-      </div><!-- End #body -->
+      </div>
       
 
       <div id="footer" class="clear">
         <div class="footer_connect">
-          <p><em>Connect With Us!</em></p>
+          <p><em>Connect with Us!</em></p>
 
-          <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup">
-            <form action="//crossway.us1.list-manage.com/subscribe/post?u=ffca6be08f8a9a360d66dd42b&amp;id=0275bcaa4b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-              <div id="mc_embed_signup_scroll" class="donate-step">
-                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <div id="mce-responses" class="clear">
-                  <div class="response" id="mce-error-response" style="display:none"></div>
-                  <div class="response" id="mce-success-response" style="display:none"></div>
-                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;"><input type="text" name="b_ffca6be08f8a9a360d66dd42b_0275bcaa4b" tabindex="-1" value=""></div>
-              </div>
-            </form>
-          </div>
-          <!--End mc_embed_signup-->
+          <form class="simple-signup-form" action="https://p.crossway.org/l/552832/2018-06-29/3xd9wv" method="post">
+            <input class="left" type="email" value="" name="email" placeholder="Email Address">
+            <div style="position:absolute; left:-9999px; top: -9999px;">
+              <label for="pardot_extra_field">Comments</label>
+              <input type="text" id="pardot_extra_field" name="pardot_extra_field">
+            </div>
+            <input class="left button" type="submit" value="Subscribe" name="subscribe">
+            <div class="clear"></div>
+          </form>
 
           <div class="social">
             <ul class="nav">
@@ -183,10 +186,10 @@
           <ul class="nav">
             <li><strong>Resources</strong></li>
             <li><a href="/press-room/">Press Room</a></li>
-            <li><a href="/blog-review/home/">Blog Review Program</a></li>
+            <li><a href="/blog-review/">Blog Review Program</a></li>
             <li><a href="/exam-request/">Exam Copies</a></li>
             <li><a href="/catalogs/">Catalogs</a></li>
-            <li><a href="/blog/">Blog</a></li>
+            <li><a href="/articles/">Articles</a></li>
             <li><a href="/learn-more/">Tools for Evangelism</a></li>
           </ul>
           <ul class="nav">
@@ -210,49 +213,50 @@
             <li><a href="/permissions/">Permissions</a></li>
           </ul>
         </div>
-        <p class="footer_copyright"><strong>© 2001 – 2017 Crossway, USA</strong></p>
+        <p class="footer_copyright"><strong>© 2001 – 2018 Crossway, USA</strong></p>
       </div>
     </div><!-- End #container -->
 
-<script type="text/javascript" src="/static/js/14755ff5eeaf.js"></script>
-<!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-  /* custom configuration goes here (www.olark.com/documentation) */
-  // default group is customer service. Override where needed.
-  olark.configure('system.group', '914458a7262d32f394e7fffd0758ef95')
-  olark.identify('6833-117-10-1555');/*]]>*/
-  $(document).ready(function(){
-    $('.open-chat').click(function(){
-      olark('api.box.expand');
-      return false;
-    });
-  });
-</script>
-<!-- end olark code -->
+    <script type="text/javascript" src="/static/js/2af9ef625369.js"></script>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <!-- begin olark code -->
+    <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+      /* custom configuration goes here (www.olark.com/documentation) */
+      // default group is customer service. Override where needed.
+      olark.configure('system.group', '914458a7262d32f394e7fffd0758ef95')
+      olark.identify('6833-117-10-1555');/*]]>*/
+      $(document).ready(function(){
+        $('.open-chat').click(function(){
+          olark('api.box.expand');
+          return false;
+        });
+      });
+    </script>
+    <!-- end olark code -->
 
-  ga('create', 'UA-81419-1', 'auto');
-  ga('send', 'pageview');
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-81419-1', 'auto');
+      ga('send', 'pageview', );
+      
+
+      var trackOutboundLink = function(url, label) {
+      // tracks a click on an outbound link in Analytics.
+         ga('send', 'event', 'outbound', 'click', label, {
+           'transport': 'beacon', // sends hit using navigator.sendBeacon when supported
+           'hitCallback': function(){window.open(url, '_blank');}
+         });
+      }
+    </script>
+    <!-- End Google Analytics -->
+
+    
+
   
-
-  var trackOutboundLink = function(url, label) {
-  // tracks a click on an outbound link in Analytics.
-     ga('send', 'event', 'outbound', 'click', label, {
-       'transport': 'beacon', // sends hit using navigator.sendBeacon when supported
-       'hitCallback': function(){window.open(url, '_blank');}
-     });
-  }
-</script>
-<!-- End Google Analytics -->
-
-
-  
-
 
 </body></html>
