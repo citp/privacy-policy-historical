@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313025338id_/https%3A//www.sunsuper.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812071207id_/https%3A//www.sunsuper.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sunsuper
 
@@ -6,13 +6,13 @@
 
 At Sunsuper we aim to provide members with the best possible service and in doing so we are committed to protecting your privacy and the security of your personal information.
 
-We are required under the Privacy Act 1988 (Cth) (the Privacy Act) to have an up-to-date privacy policy with information about how Sunsuper collects, uses and manages your personal information, including personal information collected via our website. This policy describes how we will comply with our obligations under the Privacy Act, and manage the personal information we collect. You should note that our website contains links and references to other websites to which this privacy policy does not apply. You should review the privacy policy of each of those websites and assess whether those policies are acceptable to you before you use those websites.
+We are required under the Privacy Act 1988 (Cth) (the Privacy Act) to have an up-to-date Privacy Policy with information about how Sunsuper collects, uses and manages your personal information, including personal information collected via our website. This policy describes how we will comply with our obligations under the Privacy Act, and manage the personal information we collect. You should note that our website contains links and references to other websites to which this Privacy Policy does not apply. You should review the Privacy Policy of each of those websites and assess whether those policies are acceptable to you before you use those websites.
 
 ## 2\. What does ‘personal information’ mean?
 
-”Personal information” is any information that can identify you or that can reasonably enable your identification. This information could include information such as your name, postal or email address, date of birth or financial details.
+“Personal information” means information or an opinion about an identified individual, or an individual who is reasonably identifiable.
 
-Personal information includes ‘sensitive information’. Sensitive information is any personal information about your racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record, health or genetic information.
+Personal information includes ‘sensitive information’. Sensitive information is any personal information about your racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record, health, genetic or biometric information.
 
 ## 3\. What personal information do we collect?
 
@@ -60,7 +60,7 @@ We may also use your personal information for any purpose:
 
 
 
-We may also collect, use and disclose your personal information to provide you with information about our products and services and products offered by other parties that we believe may be of interest to you (including by way of direct mail, telephone, email, SMS and MMS, secure Sunsuper portals, and online advertising and marketing) or to request your feedback for research purposes. You always have the right to opt-out of receiving such information. You may exercise that right by contacting us as set out below in section 13.
+We may also collect, use and disclose your personal information to provide you with information about our products and services and products offered by other parties that we believe may be of interest to you (including by way of direct mail, telephone, email, SMS and MMS, secure Sunsuper portals, and online advertising and marketing) or to request your feedback for research purposes. You always have the right to opt-out of receiving such information. You may exercise that right by contacting us as set out below in section 14.
 
 ## 5\. How do we collect personal information?
 
@@ -133,11 +133,11 @@ However, in order to provide our services to you it is normally impracticable fo
 
 ## 10\. Can you access the personal information we hold about you?
 
-You may request access to any of the personal information we hold about you by contacting us as set out below in section 13. A summary of personal information such as your name and contact details, insurance cover and superannuation accounts you have with us is available to you upon request. We will provide you with access to your personal information in accordance with the Privacy Act. Under the Privacy Act we can deny access to some or all of your personal information in specified circumstances, and will provide reasons for any refusal in writing.
+You may request access to any of the personal information we hold about you by contacting us as set out below in section 14. A summary of personal information such as your name and contact details, insurance cover and superannuation accounts you have with us is available to you upon request. We will provide you with access to your personal information in accordance with the Privacy Act. Under the Privacy Act we can deny access to some or all of your personal information in specified circumstances, and will provide reasons for any refusal in writing.
 
 ## 11\. Can you correct any personal information held by us that is incorrect?
 
-Sunsuper endeavours to ensure that the personal information we hold about you is accurate, up-to-date, complete, and relevant and not misleading. Please let us know if you believe any of your personal information is incorrect by contacting us as set out below in section 13.
+Sunsuper endeavours to ensure that the personal information we hold about you is accurate, up-to-date, complete, and relevant and not misleading. Please let us know if you believe any of your personal information is incorrect by contacting us as set out below in section 14.
 
 To ensure that the information we hold about you remains accurate, complete and up-to-date, we may ask you to check and correct your personal details from time to time. We may do this when your annual member statement is sent out, when you make a telephone enquiry, or through other means.
 
@@ -147,9 +147,9 @@ Sunsuper has security policies and systems in place to protect your personal inf
 
 The people who handle your personal information have the training and skills to protect your personal information from unauthorised access or misuse.
 
-Our website uses industry standard security protocols to protect the personal information you disclose in using our Member Online and Employer Online facilities. Sunsuper uses encryption to provide more secure communications when using our Member Online and Employer Online facilities. In addition, when you join Member Online or Employer Online you must read and accept terms and conditions relating to privacy and security.
+Sunsuper uses industry standard security protocols to protect the personal information you disclose in using our Member Online, Sunsuper app and Employer Online facilities. Sunsuper uses encryption to provide more secure communications when using our Member Online, Sunsuper app and Employer Online facilities. In addition, when you join Member Online or Employer Online or set up the Sunsuper app you must read and accept terms and conditions relating to privacy and security.
 
-[View the Member Online Terms and Conditions](https://web.archive.org/disclaimer-and-disclosures/member-online-terms-and-conditions)
+[View the Member Online and Sunsuper app Terms and Conditions](https://web.archive.org/disclaimer-and-disclosures/member-online-terms-and-conditions)
 
 [View the Employer Online Terms and Conditions](https://web.archive.org/disclaimer-and-disclosures/employer-online-terms-and-conditions)
 
@@ -173,7 +173,7 @@ Brisbane Qld 4001
 
 ## 15\. Can you complain about a breach of your privacy?
 
-If you believe that we have not protected your personal information as set out in this privacy policy you may lodge a complaint with us by the following means:
+If you believe that we have not protected your personal information as set out in this Privacy Policy you may lodge a complaint with us by the following means:
 
 **Call:**[ 13 11 84](tel:13 11 84)
 
@@ -203,11 +203,17 @@ Sydney NSW 2001
 
 [View full details about making a complaint to the OAIC](http://www.oaic.gov.au/privacy/making-a-privacy-complaint).
 
-## 16\. Changes to this privacy policy
+## 16\. Changes to this Privacy Policy
 
-This privacy policy may change from time to time. Before providing us with personal information, please check this policy for any changes either by logging on to www.sunsuper.com.au or by contacting us as set out above in section 13 to request an up to date copy. This Privacy Policy was last updated 1 February 2018.
+This Privacy Policy may change from time to time. Before providing us with personal information, please check this policy for any changes either by logging on to www.sunsuper.com.au or by contacting us as set out above in section 14 to request an up to date copy. This Privacy Policy was last updated 25 May 2018.
 
-* Sunsuper is the name we use to describe the business that offers a range of superannuation products and related financial services. Sunsuper Pty Ltd (ABN 88 010 720 840, AFSL No. 228975) is the Trustee of the Sunsuper Superannuation Fund. Financial product advice is provided by representatives of Sunsuper Financial Services Pty Ltd (ABN 50 087 154 818, AFSL No. 227867), wholly owned by the Sunsuper Superannuation Fund. Administration services are provided by Precision Administration Services Pty Ltd (ABN 47 098 977 667, AFSL No. 246604), wholly owned by the Sunsuper Superannuation Fund. You can contact us in writing at GPO Box 2924, Brisbane, QLD 4001 or call us on 13 11 84 between 8.00am and 6.30pm AEST Monday to Friday.
+* Sunsuper is the name we use to describe the business that offers a range of superannuation products and related financial services. Sunsuper Pty Ltd (ABN 88 010 720 840, AFSL No. 228975) is the Trustee of the Sunsuper Superannuation Fund. Financial product advice is provided by representatives of Sunsuper Financial Services Pty Ltd (ABN 50 087 154 818, AFSL No. 227867), wholly owned by the Sunsuper Superannuation Fund. Administration services are provided by Precision Administration Services Pty Ltd (ABN 47 098 977 667, AFSL No. 246604) (Precision), wholly owned by the Sunsuper Superannuation Fund.
+
+Precision has its own Privacy Policy that relates to the clearing house products it issues, [Sunsuper clearing house](https://www.sunsuper.com.au/precisionprivacy) and [Beam](https://beamconnect.com.au/privacy-policy/).
+
+## Need more information?
+
+You can contact us in writing at GPO Box 2924, Brisbane, QLD 4001 or call us on 13 11 84 between 8.00am and 6.30pm AEST Monday to Friday.
 
 ## Appendix A
 
