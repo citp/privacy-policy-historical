@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdanderson.org privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203012917id_/https%3A//www.mdanderson.org/about-md-anderson/business-legal/legal-and-policy/legal-statements/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdanderson.org privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813003616id_/https%3A//www.mdanderson.org/about-md-anderson/business-legal/legal-and-policy/legal-statements/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy | MD Anderson Cancer Center
 
