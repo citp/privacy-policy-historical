@@ -1,175 +1,130 @@
-> *The following text is extracted and transformed from the payrollhero.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025090440id_/https%3A//payrollhero.payrollhero.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payrollhero.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812232416id_/https%3A//payrollhero.payrollhero.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ PayrollHero.com Pte. Ltd. : PayrollHero
 
-  1. Who we are? 
+## Privacy Policy
 
-PayrollHero.com Pte. Ltd. is a time, attendance, scheduling and payroll platform that is in the cloud built for web and mobile. We are incorporated in Singapore. 
+Your privacy is important to us. It is Red Cape HR Software Corp's policy to respect your privacy regarding any information we may collect from you across our website,[ http://www.payrollhero.com](http://www.payrollhero.com/), and other sites we own and operate.
 
-  2. PayrollHero protects your privacy 
+### 1\. Information we collect
 
-PayrollHero is committed to protecting your privacy in accordance with the highest consumer protection standards. 
+#### Log data
 
-Our privacy policy is designed with you in mind, and it is integral that you have a comprehensive understanding of our information collection and usage practices, as well as full confidence that ultimately, you have control of your personal information provided to PayrollHero. By using the PayrollHero platform: 
+When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer's Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
 
-    * You agree that if you disclose your personal information to us, we may create a database record about you; 
+#### Device data
 
-    * If you register on our website, download any materials or conduct any other transaction, you agree for us to collect information necessary to provide you with the service you have requested, and you agree that this information may be disclosed to service partners (who may be third parties) for those purposes; 
+We may also collect data about the device you're using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us.
 
-    * You agree for us to use cookies on your browser (unless you remove them); 
+#### Personal information
 
-    * You agree that we can contact you with information about products and services which may be of interest to you (unless you have stated you do not wish to receive these communications); and 
+We may ask for personal information, such as your:
 
-    * Your continued use of the PayrollHero platform indicates your agreement with any future changes in the PayrollHero Privacy Policy 
+  * Name
+  * Email
+  * Social media profiles
+  * Date of birth
+  * Phone/mobile number
+  * Home/Mailing address
+  * Work address
+  * Website address
+  * Payment information
+  * Driver's licence details
+  * Passport number
+  * Tax/SSN/Medicare/etc. number
 
-  3. What information is being collected and how does PayrollHero use it? 
 
-PayrollHero will not collect or monitor any personal information about you without your consent. The only personal information we collect is what you tell us about yourself and information about how you use our platform. PayrollHero collects information from you at several different points on the platform and website: 
 
-    1. New Account Registration 
-      * What information is collected? 
-        1. When you register for an account with PayrollHero, you will be asked to create a username and password, as well as to provide your contact information, such as your name, title, email address, gender, language preference and country of location. 
+#### Business data
 
-        2. You may also be asked to give billing information such as credit card billing information, your credit card type, number, expiry date and billing address. 
+Business data refers to data that accumulates over the normal course of operation on our platform. This may include transaction records, stored files, user profiles, analytics data and other metrics, as well as other types of information, created or generated, as users interact with our services.
 
-        3. You are also given the option to sign up for periodical updates and/or newsletters from PayrollHero informing you of the latest news and deals. 
+### 2\. Legal bases for processing
 
-      * Why do we collect it? 
+We will process your personal information lawfully, fairly and in a transparent manner. We collect and process information about you only where we have legal bases for doing so.
 
-We collect the above information for the following purposes: 
+These legal bases depend on the services you use and how you use them, meaning we collect and use your information only where:
 
-        1. To identify you when you use our platform in order to enjoy a customized and personalised experience. 
+  * it's necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract (for example, when we provide a service you request from us);
+  * it satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote our services, and to protect our legal rights and interests;
+  * you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or
+  * we need to process your data to comply with a legal obligation.
 
-        2. To present you with a default screen layout based on the country of location you select. 
 
-        3. As a security measure, to send you an email confirming your account registration. 
 
-        4. To allow us to process and complete your purchases. 
+Where you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).
 
-        5. To allow you to enjoy convenience whenever you make purchases as you will not have to type the billing information repeatedly. 
+We don't keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person.
 
-        6. To send you email confirmations for purchases on PayrollHero. 
+### 3\. Collection and use of information
 
-        7. To further confirm your identity.
+We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:
 
-        8. To prevent credit card fraud.
+  * to provide you with our platform's core features;
+  * to process any transactional or ongoing payments;
+  * to enable you to access and use our website, associated applications and associated social media platforms;
+  * to contact and communicate with you;
+  * for internal record keeping and administrative purposes;
+  * for analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms;
+  * to run competitions and/or offer additional benefits to you;
+  * for advertising and marketing, including to send you promotional information about our products and services and information about third parties that we consider may be of interest to you; and
+  * to comply with our legal obligations and resolve any disputes that we may have.
 
-        9. For our customer service agents to contact you when necessary. 
 
-        10. To send you our optional periodical updates and/or newsletters, if you have signed up for them. 
 
-        11. To send you information about products and services which may be of interest to you. 
+### 4\. Disclosure of personal information to third parties
 
-    2. Online Surveys 
-      * What information is collected? 
-        1. PayrollHero may conduct market research surveys either by itself or by employing the services of a third party to do so on our behalf. You may choose to participate in our surveys, and your answers to our survey, as well as your contact information may be kept on record, and will be protected in a manner that is consistent with this privacy policy. Please note that the information you provide through our surveys will be used on an aggregated basis unless we inform you otherwise beforehand. 
+We may disclose personal information to:
 
-      * Why do we collect it? 
-        1. PayrollHero conducts market research surveys in order to learn from you how improvements can be made to our site 
+  * third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;
+  * our employees, contractors and/or related entities;
+  * courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights; and
+  * third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you.
 
-        2. To send you information about products and services which may be of interest to you. 
 
-    3. Customer Contact 
-      * What information is collected? 
-        1. You may choose to provide feedback to PayrollHero, for example through email or letters. The comments in your feedback, as well as your contact information like your email, if provided to PayrollHero, may be kept on record. 
 
-      * Why do we collect it? 
-        1. The feedback that you choose to provide is valuable in helping PayrollHero make improvements to our service to you. In order to follow-up on the feedback you have chosen to provide, PayrollHero may correspond with you using the contact information that you have provided. 
+### 5\. International transfers of personal information
 
-        2. To send you information about products and services which may be of interest to you. 
+The personal information we collect is stored and processed where we or our partners, affiliates and third-party providers maintain facilities. By providing us with your personal information, you consent to the disclosure to these overseas third parties.
 
-    4. Cookies 
-      * What information is collected? 
-        1. When you visit PayrollHero as a Guest or account holder, a cookie is stored onto your computer. A cookie is a small, encrypted text file containing some information about your preferences and allows your usage to be tracked. The use of cookies is now an industry standard, and you will find them used on most major web sites. However, you can always choose to disable cookies from being stored on your computer by changing your browser settings. Disabling cookies, however, may result in a limited experience of our functionality and services and in some cases may mean that we are unable to provide you with the services, or parts of the services, that you have requested. Some of our business partners whose content is incorporated into or linked to from our site may also use cookies. However, we have no access to or control over these cookies. 
+We will ensure that any transfer of personal information from countries in the European Economic Area (EEA) to countries outside the EEA will be protected by appropriate safeguards, for example by using standard data protection clauses approved by the European Commission, or the use of binding corporate rules or other legally accepted means.
 
-      * Why do we collect it? 
+Where we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our jurisdiction's privacy laws.
 
-Cookies, when stored on your computer, facilitate the following: 
+### 6\. Your rights and controlling your personal information
 
-        1. Cookies allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit. This means you will be able to enjoy conveniences such as login without having to type your login name every time you visit PayrollHero. 
+ **Choice and consent:** By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this privacy policy. If you are under 16 years of age, you must have, and warrant to the extent permitted by law to us, that you have your parent or legal guardian's permission to access and use the website and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it.
 
-        2. PayrollHero will be able to make improvements to our site based on the aggregated usage statistics collected from cookies. These aggregated usage statistics are anonymous to third parties, and may also be used by PayrollHero’s third party advertising companies in monitoring the effectiveness of advertisements. 
+ **Information from third parties:** If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person's consent to provide the personal information to us.
 
-    5. Other Computer Information 
-      * What information is collected? 
-        1. Session information such as IP (Internet Protocol) addresses, browser types, GPS location, operating systems are also used for PayrollHero’s system administration. 
+ **Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict or limit how we process your personal information, we will let you know how the restriction affects your use of our website or products and services.
 
-      * Why do we collect it? 
-        1. Session information will allow us to enhance your experience on PayrollHero by allowing us to troubleshoot technical issues as well as to improve our site usability. 
+ **Access and data portability:** You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party.
 
-  4. ##  Who do we share your information with? 
+ **Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date.
 
-    1. PayrollHero is the owner of the information collected on this site and the PayrollHero platform. 
+ **Notification of data breaches:** We will comply laws applicable to us in respect of any data breach.
 
-    2. We may disclose your personal information on occasion to third parties who work with us. Some of these third parties may be located outside your home country, or outside of Singapore. The information will be protected in a manner that is consistent with this Privacy Policy. Disclosure will be made in the following scenarios for the following purposes: 
+ **Complaints:** If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.
 
-      * When you make purchases on PayrollHero
+ **Unsubscribe:** To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.
 
-      * To successfully complete your purchases or otherwise implement our terms of service, your personal information is provided as needed to PayrollHero’s third party product and service providers or other third parties authorised by PayrollHero, if any. 
+### 7\. Cookies
 
-      * When third parties perform services on behalf of PayrollHero 
+We use 'cookies' to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
 
-      * In our efforts to continually improve our platform, PayrollHero may employ the services of third party companies to perform projects such as market research surveys on our behalf. 
+### 8\. Business transfers
 
-      * When required by law to disclose the information
+If we or our assets are acquired, or in the unlikely event that we go out of business or enter bankruptcy, we would include data among the assets transferred to any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy.
 
-      * With your prior express consent
+### 9\. Limits of our policy
 
-      * To protect the rights and property of PayrollHero.
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
 
-      * To enable third parties to send you information about products and services which may be of interest to you 
+### 10\. Changes to this policy
 
-    3. Links may be present on the PayrollHero site which result in you leaving the PayrollHero site and being taken to other third party web sites. You should note that any information that you provide to these third party web sites are not subject to the PayrollHero privacy policy, and we strongly recommend that you be aware of their privacy and security policies. 
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
 
-    4. PayrollHero may also work with third parties that serve ads to this site. Information that may be disclosed to such third parties will be anonymous. 
+If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy.
 
-    5. You should also note that the processing of information on the PayrollHero site and the transmission of transaction messages relating to purchases, including your account related data, may involve transmissions over various networks (which may not be secure) and to various countries and further processing and storage of data in such countries. 
-
-  5. ##  You have control over your information! 
-
-    1. Opt In and Opt Out Policy 
-      1. You always have the option to opt in to participate in PayrollHero’s product and service offers. For example, you will be given the option to subscribe to PayrollHero’s newsletters by checking the box. 
-
-      2. While PayrollHero hopes that you benefit from our product and service offers, at any time, you always have the option to opt out of the products and services that you have subscribed to. 
-
-      3. We offer you the ability to opt out of receiving information of our products and services at the point of collection, or by accessing and changing your account information. Please allow some time for this request to be processed. 
-
-    2. Accessing your information and retention of information 
-      1. You may at any time access and change your account or personal information or subscribed services. You can easily access your personal information if you login to your account with PayrollHero, or you can follow the links that may be provided within our subscription emails to you to manage your subscription preferences. Although we will take reasonable steps to keep your information accurate, complete and up-to-date, we request that you keep your information as current as possible so that we may continue to improve our service to you. 
-
-      2. We will only withhold your access to such information in extremely limited circumstances where it is permitted by law, such as: 
-
-        1. where it might be dangerous if you were to have it;
-
-        2. where it might prejudice an investigation currently underway; 
-
-        3. where it relates to court proceedings and may be subject to the discovery process; 
-
-        4. where it may relate to a commercially sensitive decision-making process; or 
-
-        5. where other individuals’ personal information is contained in the same record. 
-
-      3. PayrollHero may (but is not obliged to) retain your information for a period of 7 years from the date you last accessed your account. 
-
-    3. Minors 
-      * As we cannot distinguish the age of persons who access our site, a blanket privacy policy is applied. PayrollHero does not intend nor does it seek to receive any personal information from minors. Should a parent or guardian have reason to believe that a minor has provided PayrollHero with personal information without their prior consent, please contact us to ensure that the information is removed and unsubscribe them from any promotional contact opportunities. 
-
-    4. Security 
-      * PayrollHero has implemented technology and security features to safeguard the privacy of your personal information. A secure server protects your personal information. Additionally, with PayrollHero, you can be assured that the information you provide to PayrollHero is transmitted using Secure Socket Layer (SSL) encryption. If you become aware of any security breach, please let us know as soon as possible. 
-
-      * We have internal procedures in place requiring our employees and data processors to respect the confidentiality of any personal information held by PayrollHero. 
-
-      * PayrollHero will endeavour to take all reasonable steps to keep secure any information which we hold about you. Your information is stored on secure servers that are protected in controlled facilities. Unfortunately, despite the aforementioned technology and security features, no data transmission over the Internet can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times, and we cannot be responsible for any event arising from unauthorised access to your personal information. PayrollHero will not be held responsible for events arising from third parties gaining unauthorized access to your personal information. 
-
-      * Please note also that PayrollHero may use overseas facilities to process or back up its information. As a result, we may transfer and store your personal information to our overseas facilities. However, this does not change any of our commitments to safeguard your privacy. 
-
-    5. Keep your password safe 
-      * You can play your part in safeguarding your personal information by never disclosing your username, password or account information to anybody. Whenever you login as a user on PayrollHero, particularly on somebody else’s computer or on public internet terminals, you should always logout at the end of your session. Your assistance will help us protect the privacy of your personal information. 
-
-      * PayrollHero cannot be held responsible for lapses in security caused by third party accesses to information as a result of your failure to keep your personal information private. Please notify us immediately if there is any unauthorised use of your account by any other internet user or any other breach of security. 
-
-    6. Changes to the PayrollHero Privacy Policy 
-      * PayrollHero may amend this Policy from time to time. If we make any substantial changes in any way we use your personal information, we will notify you by posting a prominent announcement on our web pages or by way of an e-mail and you will have a choice as to whether or not we may use the information in this different manner. 
-
-
-
+This policy is effective as of 11 July 2018.
