@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpost.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204211712id_/http%3A//helpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpost.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812093012id_/https%3A//www.helpost.com/privacy) for the most accurate reproduction.*
 
 # Helpost
 
