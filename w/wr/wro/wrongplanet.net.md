@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217044125id_/http%3A//wrongplanet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814010949id_/https%3A//wrongplanet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wrong Planet
 
@@ -6,7 +6,7 @@
 
 This is a privacy policy for WrongPlanet.net. Our homepage on the Web is located at http://www.wrongplanet.net.
 
-We invite you to contact us if you have questions about this policy. You may contact us by e-mail at alex@wrongplanet.net.
+We invite you to contact us if you have questions about this policy. You may contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Dispute Resolution and Privacy Seals**
 
