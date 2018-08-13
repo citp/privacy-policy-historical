@@ -1,83 +1,180 @@
-> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211125626id_/http%3A//www.dpdlocal.co.uk/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813100924id_/http%3A//www.dpdlocal.co.uk/privacy_policy.jsp) for the most accurate reproduction.*
 
 # DPD Local - Privacy & Cookie Policy
 
-We at DPDgroup respect your concerns about privacy and are committed to safeguarding and preserving the privacy of the visitors to our website and visitors who use our interactive services. 
+We are DPDgroup UK Ltd ('DPDgroup'). We are committed to protecting and respecting your privacy. This policy sets out the basis on which any personal data we collect will be processed by us. Please read this privacy policy carefully to understand our views and practices and your rights regarding your personal data. By using the YourDPD app or visiting [www.dpd.co.uk](http://www.dpd.co.uk/index.jsp) (our site) you are accepting the practices described in this policy.
 
-This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our website or use our interactive services (our "services").
+For the purpose of data protection legislation, the data controller is DPDgroup UK Ltd, Roebuck Lane, Smethwick, B66 1BY.
 
-## 1\. INFORMATION WE COLLECT
+If you have any queries, complaints or requests please contact our DPO at the address listed above.
 
-In running and maintaining our services we may collect and process the following data about you: 
+  1. Why do we collect this information?
+  2. Why do we collect this information?
+  3. How long do we keep hold of your information?
+  4. Who might we share your information with?
+  5. How is your data stored and kept secure?
+  6. What are your rights?
+  7. How can you access information we hold about you?
+  8. Changes to this Policy
+  9. Cookies
+  10. Contact Us
 
-(i) Information about your use of our services such as details of your visit to our website, pages viewed and resources that you access. Such information includes traffic data, location data, device specific information and other communication data; 
 
-(ii) Information provided voluntarily by you, for example, when you use our interactive services, such as Predict, Follow My Parcel or our Your DPD app; 
 
-(iii) Information that you provide, such as your name, address, contact details and payment details.
+## What information do we collect from you?
 
-## 2\. USE OF YOUR INFORMATION
+We will collect and process the following data about you:  
 
-We use the information that we collect from you to provide our services to you. In addition to this we may use this information for one or more of the following purposes; 
 
-(i) To provide information to you that you request from us relating to our services; 
+  *  **Information you give us.**  This is information about you that you give us by providing information through our site, interactive services (such as Predict, Follow My Parcel or Your DPD app) or by corresponding with us by phone, email or otherwise. The information you give us may include your name, address, contact details, safe place (location) and payment details and is used in conjunction with data we collect from our customers to provide the service to you.
+  *  **Information we collect from your use of our site.**  With regard to each of your visits to our site we will automatically collect the following information:
+  * technical information, such as the Internet protocol (IP) address used to connect your device to the Internet, whereabouts you connected to our service, your internet service provider (ISP), and what type of device you are using to access our service;
+  * information about your use of our services such as details of your visit to our site, pages you view and the resources that you access.
 
-(ii) To provide information to you relating to the services that you currently use; 
 
-(iii) To provide information to you relating to other services that may be of interest to you:   
-(a) For existing customers, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you; or   
-(b) If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data. 
+  *  **Information we collect when you call us.**  If you call us we will automatically collect the following information:
+  * the phone number used to call us
+  * a recording of all inbound and outbound calls.
 
-(iv) To inform you of any changes to our website, services, or service related products offered to you. 
 
-If you have previously used our services we may provide you with details of similar services or other services that you may be interested in.
 
-We will not provide or sell your data to any third party where you have not provided your consent to do so but we will do so in the circumstances detailed below;   
-(i) Where we are legally required by law to disclose your personal information;   
-(ii) To further fraud protection and reduce the risk of fraud;   
-(iii) To our agents and sub contractors in order to provide services to you;   
-(iv) To limited third parties in order to enhance your delivery experience.
+## Why do we collect this information?
 
-## 3\. DATA TRANSFERS
+We use this information in the following ways:  
 
-In operating our website it may become necessary to transfer the data that we collect from you to locations outside the European Union for processing and storing but only in connection with the services that we provide to you such as international carriage. By providing your personal data to us you agree to this transfer, storing or processing. We will do our utmost to ensure that all reasonable steps are taken to make sure that your data is treated and stored securely. However, we cannot guarantee the security of data that you chose to send to us electronically and sending such information to us is at your own risk.
 
-## 4\. USE OF COOKIES
+  *  **Information you give to us.**  We use this information:
+  * in order to take steps necessary to assess whether we can enter into a contract with you and in order to perform our contract with you.This includes carrying out our obligations to you and providing you with our products and services;
+  * for the purpose of improving our service to you, to ensure that content from our site is presented in the most effective manner for you and for your device;
+  * to deal with any legal queries relating to your use of our service;
+  * to provide you with  **service communications**  so that you receive a full and functional service and so we can perform our obligations to you. These may be sent by email, SMS, Push Notification [or post or, if the circumstances require it, we may contact you by phone]. These will include notifications about changes to our service;
+  * to provide you with  **marketing communications**  including information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+  * based on a legitimate interest, to provide  **marketing communications**  to:
+  * new customers with information about services we may offer;
+  * existing customers with information about products or services different to those previously purchased or enquired about; or
+  * customers with information about third party products or services which the recipient has explicitly consented to.
 
-A Cookie is a series of data characters, which is stored on your computer?s hard drive by your web?browser. 
 
-Cookies are used to enable us to customise pages for you based on your web?browser type or the information you may have provided to us. 
 
-If you do not want a Cookie to be stored on your hard drive you should select the appropriate options on your web?browser. Please refer to your web?browser provider or system user guide for detailed information on disabling Cookies. Please be aware that disabling cookies will prevent the correct operation of some of our services such as Predict and ship@ease services.
+This is both:
 
-## 5\. SECURITY OF PERSONAL INFORMATION
+  * Necessary for the performance of the contract with you for the operation of the YourDPD App; and
+  * Necessary for our legitimate interests to ensure that our customers receive rewards and offers that are tailored to them and are in line with their expectations.
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information, this includes storing all the personal information you provide on our secure servers. 
 
-By agreeing to this policy and using our website, app or other interactive services you acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. 
+  *  **Information we collect from your use of the site.**  We will use this information for the following purposes:
+  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and surveypurposes;
+  * to improve our site to ensure that content is presented in the most effective manner for you and for your device;
+  * as part of our efforts to keep our site safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
 
-You are responsible for keeping the password you use for accessing our website and app confidential; we will never ask you to send us your password (except for the standard log in procedure on the website or app).
 
-## 6\. LINKS TO OTHER WEBSITES
+  *  **Information we receive from other sources.**  See the ?Who might we share your information with?' section below for details of how we use information in conjunction with our associated third parties.
 
-On occasion we include links to third parties on our website. Where we provide a link it does not mean that we endorse or approve that site. You should review their Privacy Policy before sending them any personal data.
 
-## 7\. ACCESS TO INFORMATION
 
-In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you and you can do this by contacting us as stated in our ?How to Contact Us? section of this Privacy Policy.
+## How long do we keep hold of your information?
 
-## 8\. UPDATES TO OUR PRIVACY POLICY
+  * We will keep information about you for a maximum of 7 years after the end of our relationship with you unless obligations to our regulators require otherwise or we are required remove such data from our records.
+  *  **Telephone records.**  We will keep these up to 3 years from the time the recording was made.
+  *  **Your DPD App Profile Data.**  We will retain this data to preserve your shipping profile as a consumer to aid further deliveries. Your data will be held indefinitely but can be removed through the Your SPS App by opting to delete your profile at any time from within the Your DPD App by going to the 'Settings' menu or by contacting DPD customer services.
 
-This Privacy Policy may be updated periodically to reflect changes in the law and guidance issued.d
 
-## 9\. OWNERSHIP AND CONFIDENTIALITY
 
-This Privacy Policy should not be shared with any other Third Party without our written consent. This Privacy Policy and any associated document remains the property of DPDgroup and should be returned if requested.
+## Who might we share your information with?
 
-## 10\. HOW TO CONTACT US
+For the purposes set out in the 'Why do we collect this information?' section above, we may share your personal information with:
 
-If you have any questions or comments about this Privacy Policy or if you would like us to update information we have about you or your preferences please contact us by email at marketing.dept@dpdgroup.co.uk. 
+  * Selected associated third parties, some of whom we appoint to provide services, including:
+  * business partners, subsidiaries, suppliers and sub-contractors for the performance of any contract we enter into with you;
+  * analytics and search engine providers that assist us in the improvement and optimisation of our site;
+  * Customer survey providers in order to receive feedback and improve our services.
+  * cyber security services as part of our efforts to keep our site safe and secure. Any member of our group, including parent companies and any subsidiaries of us and such parent companies, for the purposes for which the data was collected.
+  * To send notifications or account update information (including when new offers for existing or new services have been made available by us) to you by email, SMS text or app push notifications.
 
-You may also write to us at; 
+
+
+Additionally, we will disclose your personal information to the relevant third party:
+
+  * In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If we are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of our customers, our regulator, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and prevention of money laundering and credit risk reduction.
+
+
+
+## How is your data stored and kept secure?
+
+At DPDgroup, we take your safety and security very seriously and we are committed to protecting your personal and financial information. All information kept by us is stored on our secure servers. Where we have given you (or where you have chosen) a password that enables you to access certain parts of our service, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. By agreeing to this policy and using our website, app or other interactive services you acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+We may transfer your data outside the European Economic Area ("EEA"). We will only do so if adequate protection measures are in place in compliance with data protection legislation. We use the following protection measures:
+
+  * transferring to Commission approved countries;
+  * using Commission approved model contractual clauses;
+  * requiring companies we transfer data to in the US to be signed up to the Privacy Shield certification.
+
+
+
+Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## What are your rights?
+
+Where processing of your personal data is based on consent, you can withdraw that consent at any time.
+
+You have the following rights. You can exercise these rights at any time by contacting us by email at marketing.dept@dpd.co.uk or writing to us at DPDgroup UK Ltd, Roebuck Lane, Smethwick, B66 1BY.
+
+You have the right:
+
+  * to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes;
+  * To ask us not to process your personal data where it is processed on the basis of legitimate interests provided that there are no compelling reasons for that processing;
+  * To ask us not to process your personal data for scientific or historical research purposes, where relevant, unless the processing is necessary in the public interest.
+  * to request from us access to personal information held about you;
+  * to ask for the information we hold about you to be rectified if it is inaccurate or incomplete;
+  * to ask for data to be erased provided that the personal data is no longer necessary for the purposes for which it was collected, you withdraw consent (if the legal basis for processing is consent), you exercise your right to object, set out below, and there are no overriding legitimate ground for processing, the data is unlawfully processed, the data needs to be erased to comply with a legal obligation or the data is children's data and was collected in relation to an offer of information society services;
+  * to ask for the processing of that information to be restricted if the accuracy of that data is contested, the processing is unlawful, the personal data is no longer necessary for the purposes for which it was collected or you exercise your right to object (pending verification of whether there are legitimate grounds for processing);
+  * to ask for data portability if the processing is carried out by automated means and the legal basis for processing is consent or contract.
+
+
+
+Should you have any issues, concerns or problems in relation to your data, or wish to notify us of data which is inaccurate, please let us know by contacting us using the contact details above. In the event that you are not satisfied with our processing of your personal data, you have the right to lodge a complaint with the relevant supervisory authority, which is the Information Commissioner's Office (ICO) in the UK, at any time. The ICO's contact details are available here: <https://ico.org.uk/concerns/>.
+
+## Changes to our privacy policy
+
+This policy may be updated from time to time. Please check back frequently to see any updates or changes to our privacy policy.
+
+## Cookies
+
+We use cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you use our site and also allows us to improve our site.
+
+We use the following cookies for the following purposes:
+
+  * Strictly necessary cookies. These are cookies that are required for the operation of our site. They include, for example, cookies that enable you to log into secure areas of our site.
+  * Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily.
+  * Functionality cookies. These are used to recognise you when you return to our site. This enables us to personalise our content for you and remember your preferences.
+  * Targeting cookies. These cookies record your visit to our site, the pages you have visited and the links you have followed to allow us to improve the page layout and navigation preferences.
+
+
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.  
+In order to optimise our service we apply Google Analytics and our own statistical analyses.
+
+  * Google Analytics is a web analysis service provided by Google, which is used for purposes of market research and ensuring that the service meets user requirements. Google Analytics uses "cookies", which are placed on your computer to make it possible to analyse how you make use of the service. The information generated by the cookies about your use of the service (including your pseudonymised IP address) is as a rule transmitted to and stored by Google on servers in the United States . Google uses this information in order to evaluate your use of the service and to create reports on activities for the operator of the service. Google may also transmit this information to third parties if this is prescribed by law, or if third parties process the data on behalf of Google. On no account will Google connect your IP address with other Google data. At [http://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de) you can, with effect for the future, opt out of the recording and saving of your data at any time. In addition we use Google Analytics remarketing and reports on demographic features and interests in order to display to website visitors relevant advertisements on the partner websites of the Google display and search network. The saving of cookies makes it possible to analyse user behaviour and activate interest-based advertising.
+
+
+
+DPD uses third-party software to improve service, monitor website performance and ensure a reliable service.  
+
+
+  * Fabric.IO / Crashlytics - Allows our developers and technical teams to measure and monitor the performance of applications and infrastructure
+  * New Relic - Allows our developers and technical teams to measure and monitor the performance of applications and infrastructure
+  * Localz - Allows push notification and communication monitoring to ensure consumer notifications are correctly delivered.
+
+
+
+## Contact us
+
+If you have any questions or comments about this Privacy Policy or if you would like us to update information we have about you or your preferences please contact us by email at marketing.dept@dpd.co.uk.  
+
+
+You may also write to us at;
 
 DPDgroup UK Ltd, Roebuck Lane, Smethwick, B66 1BY
