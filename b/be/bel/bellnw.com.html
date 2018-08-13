@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bellnw.com privacy policy that was archived on 2016-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160116130138id_/http%3A//www.bellnw.com/privacy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bellnw.com privacy policy that was archived on 2018-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180813220124id_/http%3A//www.bellnw.com/privacy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-<meta name="generator" content="ShopSite Pro 12 sp1 r4 (data - BellElectronicsNW_Content)">
+<meta name="generator" content="ShopSite Pro 12 sp3 r4 (data - BellElectronicsNW_Content)">
 
  
  
@@ -58,58 +58,6 @@
 </script>
 
   <script type="text/javascript" src="http://www.bellnw.com/beshop/images/en-US/javascript/jquery/json2.min.js"> </script>
-  <script type="text/javascript">
-
-function ss_handleResponse_inv(data) {
-  var cnt = 0;
-  while (data.getElementsByTagName("recid")[cnt] != undefined) {
-    recid = data.getElementsByTagName("recid")[cnt].firstChild.nodeValue;
-    msg = data.getElementsByTagName("message")[cnt].firstChild.nodeValue;
-    id = document.getElementById('ss_inv' + recid);
-    msg1 = msg.replace(/\"/g, '&quot;');
-    msg2 = msg1.replace(/\|q\|/g, '"');
-    id.innerHTML = msg2;
-    cnt++;
-  }
-}
-var ss_rec_str = '';
-function ss_inv_getinfo() {
-  var dataObj = {
-     storeid: "*10ca225fe006a7a01f7e",
-     itemnum: ss_rec_str
-  }
-  var data = ss_jQuery.param(dataObj, false);
-
-  if (ss_rec_str != '') {
-   ss_jQuery.ajax({ type: "GET",
-    url: "http://www.bellnw.com/beshop/sc/inv.cgi",
-    data: data,
-    dataType: "jsonp",
-    crossDomain: true,
-    jsonp: true,
-    success: function(rdata, textStatus, jqXHR){
-       if (window.DOMParser){
-         parser=new DOMParser();
-         data=parser.parseFromString(rdata.data,"text/xml");
-         ss_handleResponse_inv(data);
-       } else{ // Internet Explorer
-         xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
-         xmlDoc.async=false;
-         xmlDoc.loadXML(rdata.data);
-         ss_handleResponse_inv(xmlDoc);
-       }
-    },
-    error: function(jqXHR, textStatus, errorThrown){
-           //            console.log(errorThrown);
-    }
-   });
- }
-}
-ss_jQuery(document).ready(function(){
-  ss_inv_getinfo();
-  return true;
-});
-  </script>
 </head>
 <body>
 <div class="wrapper">
@@ -272,18 +220,14 @@ ss_jQuery(document).ready(function(){
 					<li><a href="http://www.bellnw.com/categories/Spectrum_Analyzers.htm">Spectrum Analyzers</a></li>
 
 					<li class="additional"><a href="http://www.bellnw.com/categories/AC_Power_Analyzers.htm">AC Power Analyzers</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/categories/AC_Power_Sources.htm">AC Power Sources</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Audio_Test_Equipment.htm">Audio Test Equipment</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Batteries_Chargers_Power_Adapters.htm">Batteries / Chargers</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Battery_Test_Equipment.htm">Battery Test Equipment</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Borescopes.htm">Borescopes</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Cables.htm">Cables / Test Leads</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Calibration_Equipment.htm">Calibration Equipment</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Cases_Holsters.htm">Cases / Holsters</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Clamp_Meters.htm">Clamp Meters</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Component_Test_Equipment.htm">Component Test Equipment</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Current_Probes.htm">Current Probes</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Data_Acquisition.htm">Data Acquisition / Dataloggers</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Electrical_Testers.htm">Electrical Testers</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Electronic_Loads.htm">Electronic Loads</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/EMI_RFI_Test_Equipment.htm">EMI / RFI / Antennas</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Filters.htm">Filters</a></li>
@@ -302,13 +246,9 @@ ss_jQuery(document).ready(function(){
 					<li class="additional"><a href="http://www.bellnw.com/categories/Power_Dividers.htm">RF Power Dividers / Splitters</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/RF_Microwave_Equipment.htm">RF / Microwave Equipment</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Power_Meters.htm">RF Power Meters / Sensors</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Sound_Level_Meters.htm">Sound Level Meters</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Specialty_Instruments.htm">Specialty Instruments</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Signal_Generators.htm">RF Signal Generators</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Software_Connectivity.htm">Software / Connectivity</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/categories/Synthesizers.htm">Synthesizers / Sweepers</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Communications_Test_Equipment.htm">Communications Test Equipment</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/categories/Temperature_Measurement.htm">Thermometers</a></li>
 					
 					
 					<li><a href="http://www.bellnw.com/" class="viewall" onclick="return viewAll(this);">View All Categories</a></li>
@@ -321,7 +261,6 @@ ss_jQuery(document).ready(function(){
 					<li><a href="http://www.bellnw.com/manufacturer/Clarostat/index.htm">Clarostat</a></li>
 					<li><a href="http://www.bellnw.com/manufacturer/Electronics-and-Innovation/index.htm">E&amp;I</a></li>
 					<li><a href="http://www.bellnw.com/manufacturer/ENI/index.htm">ENI</a></li>
-					<li><a href="http://www.bellnw.com/manufacturer/Extech/index.htm">Extech</a></li>
 					<li><a href="http://www.bellnw.com/manufacturer/Fluke/index.htm">Fluke</a></li>
 					<li><a href="http://www.bellnw.com/manufacturer/GenRad/index.htm">GenRad</a></li>
 					<li><a href="http://www.bellnw.com/manufacturer/Agilent/index.htm">Keysight - Agilent - HP</a></li>
@@ -333,38 +272,36 @@ ss_jQuery(document).ready(function(){
 					
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Ametek/index.htm">Ametek</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/AR/index.htm">Amplifier Research</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/ARRA/index.htm">ARRA</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Anritsu/index.htm">Anritsu / Wiltron</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Biddle/index.htm">Megger / Biddle</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/AP/index.htm">Audio Precision</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Biddle/index.htm">Megger / Biddle / AVO</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Chroma/index.htm">Chroma (Quadtech)</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Clarostat/index.htm">Clarostat</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Comtech/index.htm">Comtech</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Varian/index.htm">CPI / Varian</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Ducommun/index.htm">Ducommun / Wisewave</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/EIP/index.htm">EIP / Phase Matrix</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/EM/index.htm">Electro-Metrics</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/ESI/index.htm">ESI</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/ETS/index.htm">ETS</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/ETS/index.htm">ETS-Lindgren (EMCO)</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/GenRad/index.htm">GenRad / Quadtech / IET Labs</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Gigatronics/index.htm">Giga-tronics</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Hughes/index.htm">Hughes</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/IET/index.htm">IET Labs / Quadtech</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Keithley/index.htm">Keithley</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Kikusui/index.htm">Kikusui</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Krytar/index.htm">Krytar</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Lambda/index.htm">Lambda</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/LinearX/index.htm">LinearX Systems</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/LN/index.htm">Leeds &amp; Northrup</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/LogiMetrics/index.htm">LogiMetrics</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Mi-Wave/index.htm">Mi-Wave</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Millitech/index.htm">Millitech / Hughes</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/National/index.htm">National Instruments</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Ophir/index.htm">Ophir</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/EIP/index.htm">Phase Matrix / EIP</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Polar/index.htm">Polar</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/PAR/index.htm">Princeton Applied Research</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Sonoma/index.htm">Sonoma Instruments</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Sorensen/index.htm">Sorensen / Elgar</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Ametek/index.htm">Sorensen / Elgar</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Valhalla/index.htm">Valhalla</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Varian/index.htm">Varian</a></li>
-					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Vitrek/index.htm">Vitrek</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Wavetek/index.htm">Wavetek</a></li>
 					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Weinschel/index.htm">Weinschel</a></li>
+					<li class="additional"><a href="http://www.bellnw.com/manufacturer/Yokogawa/index.htm">Yokogawa</a></li>
 					
 					<li><a href="http://www.bellnw.com/" class="viewall" onclick="return viewAll(this);">View All Manufacturers</a></li>
 				</ul>
@@ -374,7 +311,6 @@ ss_jQuery(document).ready(function(){
 				<ul>
 					<li><a href="http://www.bellnw.com/buy/index.htm">Sell Your Equipment</a></li>
 					<li><a href="http://www.bellnw.com/refurb/index.htm">About Refurbished</a></li>
-					<li><a href="http://www.crestcapital.com/bellnw" target="_blank">Equipment Leasing</a></li>
 					<li><a href="http://www.bellnw.com/respform/catreq.aspx">Catalog Request</a></li>
 					<li><a href="http://www.bellnw.com/respform/contact.aspx">Contact Us</a></li>
 				</ul>
@@ -411,11 +347,6 @@ ss_jQuery(document).ready(function(){
 			<script type="text/javascript">showCart("cart", '<span id="price">{price}</span> <span id="items">{items} {itemstext}</span>');</script>
 			<div class="ups">Free U.S. Ground Shipping*</div>
 		</div>
-		
-		<div class="livehelp">
-			<script type="text/javascript" src="https://www.bellnw.com/SightMaxAgentInterface/Monitor.smjs?accountID=1&amp;siteID=1&amp;queueID=2"></script>
-			<a href="javascript: var e = window.open('https://www.bellnw.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=2&amp;skipSurvey=yes', 'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a Bell Electronics representative';return true;" onmouseover="top.status='Chat with a Bell Electronics representative';return true;"><img border="0" src="https://www.bellnw.com/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=2" alt="Chat with a Bell Electronics representative"></a>
-		</div>
 			
 		<ul class="topnav2">
 			<li class="topnav2li1"><a href="http://www.bellnw.com/">Home</a></li>
@@ -449,7 +380,7 @@ ss_jQuery(document).ready(function(){
 		<div class="footercontent">
 
 			<ul class="seals">
-				<li class="bbb"><a href="https://www.bbb.org/online/consumer/cks.aspx?id=2021108155126986" title="Better Business Bureau" target="_blank"><img src="http://www.bellnw.com/media/images/bbbseal.gif" width="48" height="78" alt="Better Business Bureau"></a></li>
+				<li class="bbb"><a href="https://www.bbb.org/northwest/business-reviews/electronic-equipment-dealers/bell-electronics-n-w-inc-in-renton-wa-26025539/#sealclick" target="_blank" rel="nofollow"><img src="http://www.bellnw.com/media/images/bbbseal.gif" width="48" height="78" alt="Better Business Bureau"></a></li>
 				<li class="etesa"><a href="http://www.etesa.org/verify/jj02xh88c7.htm" title="ETESA Member" target="_blank"><img src="http://www.bellnw.com/media/images/bellnw_etesa.gif" width="76" height="78" alt="ETESA"></a></li>
 				<li class="mcafee"><a href="https://www.mcafeesecure.com/RatingVerify?ref=www.bellnw.com" title="McAfee" target="_blank"> <img width="115px" height="32px" border="0" src="//images.scanalert.com/meter/www.bellnw.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a></li>
 				<li class="mcafee"><script type="text/javascript" src="https://seal.geotrust.com/getgeotrustsslseal?host_name=www.bellnw.com&amp;size=S&amp;lang=en"></script><br>
