@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodpages.ca privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923063659id_/https%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpages.ca privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813021935id_/https%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info) for the most accurate reproduction.*
 
 # foodpages.ca : Canada's restaurant guide.
 
@@ -44,4 +44,4 @@ Also, keep in mind that your reviewers are opinionated, otherwise they would not
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. 
 
-If you have any additional questions, please feel free to [contact](https://web.archive.org/web/20170923063659id_/https%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info?qqq=contact#info) us. 
+If you have any additional questions, please feel free to [contact](https://web.archive.org/web/20180813021935id_/https%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info?qqq=contact#info) us. 
