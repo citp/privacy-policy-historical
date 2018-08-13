@@ -1,44 +1,208 @@
-> *The following text is extracted and transformed from the systemrequirementslab.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402151526id_/https%3A//www.systemrequirementslab.com/Marketing/PrivacyN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systemrequirementslab.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813140245id_/https%3A//www.systemrequirementslab.com/Marketing/PrivacyN.html) for the most accurate reproduction.*
 
 # System Requirements Lab Privacy Policy
 
-  |  **PRIVACY POLICY**  
-Effective Date: November 10, 2005
+Privacy policy
 
-Please Read Carefully Prior To Using This Website
+1.        Introduction
 
-The use of this System Requirements Lab Website is conditioned upon the User's acceptance of the terms and conditions contained in this Privacy Policy, which is part of and incorporated by reference into the Terms of Use of the System Requirements Lab Website (the "Website"). This Privacy Policy constitutes a legally binding agreement between User and Husdawg, LLC ("Husdawg") the developer, publisher and producer of the Website. This Privacy Policy lists our current policies, but, as noted below, this Privacy Policy may be adjusted from time to time at our discretion. Those who do not agree to be subject to this Privacy Policy may not, under any circumstances, use this Website.
+1.1        We are committed to safeguarding the privacy of our website visitors and service users.
+
+1.2        This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
+
+1.3        We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.
+
+1.4        In this policy, "we", "us" and "our" refer to Husdawg, LLC. For more information about us, see Section 13.
+
+2.        Credit
+
+2.1        This document was created using a template from Docular (https://docular.net).
+
+3.        How we use your personal data
+
+3.1        In this Section 3 we have set out:
+
+(a)        the general categories of personal data that we may process;
+
+(b)        in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;
+
+(c)        the purposes for which we may process personal data; and
+
+(d)        the legal bases of the processing.
+
+3.2        We may process data about your use of our website and services ("usage data"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.3        We may process your account data ("account data"). The account data may include your name and email address. The source of the account data is directly from users but only with your explicit permission. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+
+3.4        We may process your information included in your personal profile on our website ("profile data"). The profile data may include your name, email address, profile pictures, date of birth, interests, hobbies and computer hardware and system software information. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+
+3.5        We may process your personal data that is provided in the course of the use of our services ("service data"). The service data may include the timing, frequency and pattern of service use. The source of the service data is you. The service data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+
+3.6        We may process information that you post for publication on our website or through our services ("publication data"). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+
+3.7        We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters ("notification data"). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.
+
+3.8        We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.
+
+3.9        In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+3.10        Please do not supply any other person's personal data to us, unless we prompt you to do so.
+
+4.        Providing your personal data to others
+
+4.1        We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
+
+4.2        We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+4.3        We may disclose email addresses to our suppliers or subcontractors insofar as reasonably necessary for sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter).
+
+4.4        In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+5.        International transfers of your personal data
+
+5.1        In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
+
+5.2        The hosting facilities for our website are situated in the US. The European Commission has made an "adequacy decision" with respect to the data protection laws of each country. Transfers to each country will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield Framework.
+
+5.3        Mailing databases are situated in US. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely  EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
+
+5.4        You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
+
+6.        Retaining and deleting personal data
+
+6.1        This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
+
+6.2        Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+
+6.3        We will retain and delete your personal data as follows:
+
+(a)        Profile data containing personal data may be retained for up to two years following your last use of this site.
+
+(b)        Cookie data will be retained for no longer than 360 days.
+
+(c)        To delete your data from our servers, you will need to send an email to info@husdawg.com and provide us with your “Session ID” found at the bottom of the CanYouRunit.com results page.  That is the only way we can find and delete your personal data.
+
+6.4        Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+7.        Amendments
+
+7.1        We may update this policy from time to time by publishing a new version on our website.
+
+7.2        You should check this page occasionally to ensure you are happy with any changes to this policy.
+
+7.3        We may notify you of changes to this policy by email or through the private messaging system on our website.
+
+8.        Your rights
+
+8.1        In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+
+8.2        Your principal rights under data protection law are:
 
   
-1\. Data Collection  
-User should be aware that a section of this Website contains a function for collecting information about User's computer as well as User's accessing history of this Website.
+(a)        the right to access;
 
-2\. No Personally Identifiable Information Collected  
-No personally identifiable information is collected by this Website. The only information collected regards a computer's specific configuration information ("SysInfo Data"). SysInfo Data includes data such as CPU, CPU Speed, Operating System, Video Card, Sound Card, Hard Drive, Driver versions, Pass/Fail information, etc., and cannot be tied to any specific user by this Website.
+(b)        the right to rectification;
 
-3\. Log files  
-This Website uses your IP address to amoung other things, help diagnose problems with our server, and to administer our Website, and perform normal web statistics. IP addresses are not linked to personally identifiable information.
+(c)        the right to erasure;
 
-4\. Online Forms  
-This Website uses forms for collecting SysInfo Data. This information is used to provide analysis to consumers regarding their computer's ability to run specific products. No personally identifiable information is collected by this Website.
+(d)        the right to restrict processing;
 
-5\. Use of User Information  
-Husdawg reserves the right to compile, save, use within the scope of Husdawg's activities, and analyze any and all User data (SysInfo data, use history, etc.). User data will not include any personally identifiable information. Husdawg intends to use such User data for internal purposes, and to provide aggregated information about the User data to third parties but such information will be aggregated so that it does not identify a particular individual or company, including User.
+(e)        the right to object to processing;
 
-6\. Disclosure of User Information  
-Husdawg will, to the extent possible, control User information, and, except as otherwise set forth herein, not disclose such User information to third parties. However, in the event disclosure of any User information by Husdawg is required by law, Husdawg may disclose such User information without the consent of User.
+(f)        the right to data portability;
 
-7\. Cookies  
-A "cookie" is a piece of data stored on User's hard drive containing information about the user. Husdawg may use cookies in order to collect certain information about User, such as IP addresses (e.g., whether User is logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), type of computer and operating system being used. Husdawg may collect such information in order to better operate the Website so as to enhance User's use of the Website. By using cookies, Husdawg is able to recognize User when User revisits the Website, and it is able to remember certain information about User. Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by the Website; however, depending on the particular cookie you reject, you may not be able to use some of the features in the Website if a particular cookie is rejected.  
-The Website may from time to time include, for User's convenience, links to third party sites, which Husdawg does not own or control and which are controlled by third parties. Such sites may use cookies. However, Husdawg has no access to or control over these cookies, or the information collected by them. If User has any questions about how such third parties use cookies, User should contact such third parties directly.
+(g)        the right to complain to a supervisory authority; and
 
-8\. Security  
-Husdawg uses reasonable security measures to safeguard information concerning, and submitted by, Users. Despite the above security measures employed by Husdawg, Users should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet.
+(h)        the right to withdraw consent.
 
-9\. Modifications  
-This Privacy Policy and the Terms of Use of the Website constitute the complete agreement between the parties with respect to their subject matter and supersede any prior agreement or communication. Husdawg reserves the right to modify this Privacy Policy without prior notice. In the event Husdawg updates or modifies this Privacy Policy, Husdawg shall endeavor to post such updates or modifications on this Website for a period of thirty (30) days following any such modifications. Therefore, User is advised to review this Privacy Policy occasionally, or at least every thirty (30) days. User's continued use of this Website subsequent to Husdawg's notice of modification of this Privacy Policy shall constitute User's acceptance of the modified Privacy Policy.
+8.3        You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. Provision of such information will be subject to: 
 
-Contacting the Web Site  
-If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Website, you can always contact:
+(a)        the first copy will be provided free of charge, but additional copies will be subjected to a $25 US Dollar administration fee; and
 
-|  
+(b)        the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+
+8.4        You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
+
+8.5        In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.
+
+8.6        In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+
+8.7        You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.
+
+8.8        You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+
+8.9        If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+
+8.10        To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+8.11        You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.
+
+9.        About cookies
+
+9.1        A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+9.2        Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+9.3        Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+10.        Cookies that we use
+
+10.1        We use cookies for the following purposes:
+
+(a)        authentication - we use cookies to identify you when you visit our website and as you navigate our website;
+
+(b)        status - we use cookies to help us to determine if you have previously run our computer hardware and system software detection program;
+
+(c)        security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally; 
+
+(d)        advertising - we use cookies to help us to display advertisements that will be relevant to you (cookies used for this purpose are: Google AdSense, Google AdExchange, Avocet, PulsePoint, Teads, Skimlinks, Monetizer 101);
+
+(e)        analysis - we use cookies to help us to analyse the use and performance of our website and services (cookies used for this purpose are: Google Analytics, ComScore, Google Tag Manager, Crazy Egg, Facebook Audience, Google Analytics Audience); 
+
+(f)        cookie consent - we use cookies to store your preferences in relation to the use of cookies more generally. 
+
+11.        Cookies used by our service providers
+
+11.1        Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+
+11.2        We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: [https://www.google.com/policies/privacy/](https://www.google.com/url?q=https://www.google.com/policies/privacy/&sa=D&ust=1527193553692000). Comscore’s privacy policy is available at [https://www.comscore.com/About-comScore/Privacy-Policy](https://www.google.com/url?q=https://www.comscore.com/About-comScore/Privacy-Policy&sa=D&ust=1527193553693000). 
+
+11.3        We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: https://support.google.com/ads/answer/7395996.
+
+11.4        We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at [http://avocet.io/privacy-policy](https://www.google.com/url?q=http://avocet.io/privacy-policy&sa=D&ust=1527193553693000), [https://www.openx.com/legal/privacy-policy/](https://www.google.com/url?q=https://www.openx.com/legal/privacy-policy/&sa=D&ust=1527193553693000), [https://www.pulsepoint.com/privacy-policy.html](https://www.google.com/url?q=https://www.pulsepoint.com/privacy-policy.html&sa=D&ust=1527193553694000), [https://www.sovrn.com/privacy-policy/](https://www.google.com/url?q=https://www.sovrn.com/privacy-policy/&sa=D&ust=1527193553694000) and [https://www.google.com/policies/privacy/](https://www.google.com/url?q=https://www.google.com/policies/privacy/&sa=D&ust=1527193553694000)
+
+12.        Managing cookies
+
+12.1        Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+  
+(a)        https://support.google.com/chrome/answer/95647?hl=en (Chrome);
+
+(b)        https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
+
+(c)        http://www.opera.com/help/tutorials/security/cookies/ (Opera);
+
+(d)        https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
+
+(e)        https://support.apple.com/kb/PH21411 (Safari); and
+
+(f)        https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
+
+  
+
+
+12.2        Blocking all cookies will have a negative impact upon the usability of many websites.
+
+12.3        If you block cookies, you will not be able to use all the features on our website.
+
+13.        Our details
+
+13.1        This website is owned and operated by Husdawg, LLC.
+
+13.2        We are registered in United States of America under registration number 94-3407470, and our registered office is at 3045 Sacramento Street, #1034, Placerville, CA 95667.
+
+13.3        Our principal place of business is at 4224 Fowler Lane, Ste 202, Diamond Springs, CA 95619
+
+13.4        You can contact us:
+
+(a)        by email, using this email address info@husdawg.com
