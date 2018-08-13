@@ -1,159 +1,118 @@
-> *The following text is extracted and transformed from the te.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201255id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the te.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813072938id_/https%3A//www.te.com/usa-en/policies-agreements/privacy-policy.html) for the most accurate reproduction.*
 
-# Domain name and e-mail account questions answered here
+# TE Connectivity: Every Connection Counts | TE Connectivity
 
-#### Find Answers To Your Questions:
+[](https://privacy.truste.com/privacy-seal/validation?rid=eda6b60c-093c-4a22-91b7-c66253c66d36)
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+This Privacy Policy applies to the worldwide websites of TE Connectivity Corporation which is part of the TE Connectivity Ltd. family of companies (“TE”), and its global affiliates (together: “TE” or “we”). It explains how we collect, process, share, secure and store personal information (information and data that can be used to identify an individual) of our websites' users. It also describes your choices regarding use, access and correction of your personal information. TE is committed to protecting any personal information that you may provide to us or that we collect during your visit to our websites (“Personal Data”).  
 
-### Privacy Policy
 
-**Why A Privacy Policy?**
+In general, you can visit our websites without telling us who you are or revealing Personal Data, except for your Internet Protocol (“IP”) address. During your visit to our websites, we collect certain information automatically, such as browser, device type, domain, host names, pages viewed and viewing patterns, as well as the country/region where users are located. This information allows us to better determine user needs and interests to drive improvements to website content and functionality, and to enhance the overall customer service experience.  
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
- **This Privacy Policy protects your privacy by:**
+### Collection, Processing, and Use of Personal Data / Consent
 
- **Informing you about:**
+We collect, process and use your Personal Data to the extent necessary primarily for the following purposes:
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+  *        Website Registration
+  *        Request for Information Regarding Product/Service
+  *        Website Features and Updates
+  *        Product/Service Enhancements and Information
+  *        Webinar/Training Registration
+  *        Survey Participation
+  *        Live Chat Support
+  *        Customer Service Support
+  *        Job Applications
+  *        Product Information Center Support
+  *        Sample Requests
+  *        Sales Transactions and Support
+  *        Export Controls
+  *        Participation in Public Forums
+  *        Sweepstakes Administration
+  *        Customize Account Preferences
+  *        Marketing Purposes
 
 
 
-**Empowering you to choose:**
+Usually, the Personal Data you provide voluntarily will only be used to respond to an inquiry you make or to process your request, e.g. to fulfill a legal obligation or a quasi-legal obligation with you. Personal Data collected from you may include your name, address, telephone, fax number, title/position, company, mailing address or e-mail address, among other information. You may refuse any request for Personal Data. However, if you choose not to provide certain Personal Data, you may not be able to take advantage of certain TE programs and websites features.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+When you create an account on this website we ask for your consent to collect, use and process your Personal Data for marketing and advertising purposes, i.e. to contact you by phone or email to inform you about our products and services, offers and news. We also ask for your consent to transfer your Personal Data to TE in the United States and any TE subsidiary or affiliate worldwide, or to third parties acting on our behalf. This is in addition to any other legal ways we use to protect Personal Data in case of international transfer as discussed below You may revoke your consent and ask us to delete your Personal Data as described in the Contacting Us section below.
 
+### Exchange of Personal Data
 
+We share your Personal Data with our distributors, including information we collect via automated data collection tools on our website (see below under “Cookies”), as required to process your orders or instructions, or provide you with information or services related to TE products. We also share Personal Data with service providers for data processing activities such as data storage and analysis.
 
-**Assuring you that Network Solutions:**
+We contractually require all third parties, including our subsidiaries, to adequately safeguard your Personal Data and not use it for any other purpose than for which it was collected. We will release your Personal Data if you direct us to do so or, if we are required by law. This can be to respond to subpoenas, court orders or legal process or to defend our legal rights. We may also need to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements, or in other limited circumstances permitted by the law (including fraud protection and risk reduction).
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+We may also share your Personal Data in the event of a sale of all, or a portion of our business, stock, or assets that relate to your Personal Data.
 
+### International Data Transfers
 
+In order to provide adequate protection for the international transfer of Personal Data, besides using data transfer agreements, TE Connectivity complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. TE Connectivity has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, redress and enforcement.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+TE Connectivity is responsible for the processing of Personal Data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. TE Connectivity complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. TE Connectivity shall remain responsible and liable under the Privacy Shield Principles if its agent processes Personal Data on our behalf in a manner that is inconsistent with the Privacy Shield Principles, unless TE Connectivity proves that it is not responsible for the event giving rise to the damage.
 
-**Getting to Know Our Customers**
+We use automatic data collection tools, including cookies, to obtain information when your web browser accesses the websites. These tools allow us to recognize your computer or other device and your customized preferences when you visit and use our websites. The tools, including web analytics provided by third parties, gather data including but not limited to browser type, IP address, and clickstream patterns (pages viewed and links clicked). You can read more in our [Cookie Policy](https://web.archive.org/usa-en/policies-agreements/privacy-policy/cookie-usage.html) including on how to manage your cookie preferences.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+We partner with third parties to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, click <http://preferences-mgr.truste.com/> or if located in Europe click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+TE's websites may contain links to other websites. While we make reasonable efforts to try to link only to websites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other websites. We encourage you to review the privacy statements posted on all websites you use/access. 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Our websites are not intended for persons under 16 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children. If we learn we have collected Personal Data regarding a child under the age of 16, we will remove that Personal Data. 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+### Security of Collected Personal Data
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+TE maintains reasonable physical, electronic, and administrative safeguards to protect your Personal Data from unauthorized or inappropriate access, accidental or intentional manipulation, loss and destruction. Our security procedures are continually enhanced. We restrict access to your Personal Data to those workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action. However, the security of the internet cannot be guaranteed. If you have any questions about the security of your personal information, you can contact us at [privacyoffice@te.com](mailto:privacyoffice@te.com).
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+### Data Retention. Accessing, Amending, Storing Your Personal Data and Opt Out Rights
 
-**Third Party Advertising and Cookies**
+We will retain your information for as long as your account is active, or as needed to provide you services. Upon request TE will provide you with information about whether we hold or process any of your Personal Data. You may review and update the Personal Data that you provide to TE through our websites, or request to have your Personal Data amended, blocked or removed by contacting us as described below. We will respond to your request within a reasonable timeframe. If you request removal of your Personal Data, you understand and agree that residual information may continue to reside in TE's records and archives as far as permitted by law (e.g., for accounting purposes). However, we agree not to use such Personal Data for business purposes.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+You may opt out of the collection and processing of your Personal Data at any time as well as from onward transfer of your Personal Data to TE affiliates or third parties by contacting us as described below. We will ask for your prior consent if we would like to use your Personal Data for a materially different purpose than for which it was collected or authorized.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy). 
+You may sign-up to receive email newsletters from us. You may “unsubscribe” to any online contact from us at any time by following the instructions set forth on the email message, or by contacting us as described below.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+If you have any questions about this Privacy Policy, or would like to opt out or withdraw your consent, please contact us via any of the methods provided below. Please send all questions and comments related to the Privacy Policy to [privacyoffice@te.com](mailto:privacyoffice@te.com).
 
-[here](http://www.privacychoices.org/). 
+TE is the data controller for Personal Data we collect via this website. Our address is:
 
-**Information Corrections or Changes** **  
-**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at<https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at 
+TE Connectivity Corporation  
+1050 Westlakes Drive,  
+Berwyn, Pennsylvania, 19312  
+United States of America
 
-[customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+Our data protection representative for the European Economic Area is:
 
-**How We Put Information to Good Use** **  
-**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+TE Connectivity Germany GmbH  
+Attn. TE Data Protection Officer  
+Pfnorstrasse 1  
+Darmstadt 64293  
+Germany
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+For Switzerland this is:
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+TE Connectivity Solutions GmbH
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Amperestrasse 3
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+9323 Steinach
 
- **With Whom We May Share Information** **  
-**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+Switzerland
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+TE’s Data Protection Officer can be contacted by post using one of these addresses or by e-mail via [privacyoffice@te.com](mailto:privacyoffice@te.com).
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
+TE conducts periodic self-assessments to verify that the attestations and assertions it makes about its privacy practices are true and that such privacy practices have been implemented as presented. TE Connectivity will take steps to solve any problems arising out of failure to comply with the Privacy Shield Principles. With regard to Personal Data received or transferred pursuant to the Privacy Shield Frameworks, TE Connectivity is subject to the regulatory enforcement powers of the Federal Trade Commission to investigate claims against TE Connectivity regarding possible unfair or deceptive practices and violations of laws or regulations covering privacy.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+### Governing Law and Dispute Settlement
 
-a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+This Privacy Policy and the TE.com Terms of Use shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania, without giving effect to its conflict of laws provisions. You agree to submit to the jurisdiction of the courts located in the Commonwealth of Pennsylvania for the resolution of all disputes and claims and causes of action related to or arising from the Privacy Policy, Terms, and/or your use of the websites.
 
-b.       Click “Edit User Info” in the left menu;
+This clause does not alter or reduce any statutory rights you may have under applicable laws on the protection of Personal Data or, as far as relevant, when you reside in the European Union or in Switzerland, under the EU-U.S. Privacy Shield or under the Swiss-U.S. Privacy Shield. In the latter case if you want to assert any of your rights under the EU-U.S.  or the Swiss-U.S. Privacy Shield, you may send an email to [privacyoffice@te.com](mailto:privacyoffice@te.com). TE will deal with your complaint promptly but in any case, within 45 days.
 
-c.       Scroll to the bottom of the page;
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based [third party dispute resolution provider](https://feedback-form.truste.com/watchdog/request.) (free of charge).
 
-d.       Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+As an EU-U.S. and Swiss-U.S. Privacy Shield participant, TE commits to binding arbitration at the request of an individual to address any complaint relating to our privacy policy or the way we process Personal Data that has not been resolved by other recourse and enforcement mechanisms. You may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted, as more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
 
-e.       Click “SAVE.”
+Please check this Privacy Policy periodically to inform yourself of any changes. Notice of any material changes to the Privacy Policy will be posted to our websites prior to the changes taking effect. Your continued use of our websites after posting will constitute your acceptance and agreement to be bound by such changes.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access** **  
-**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b.       Click “Edit User Info” in the left menu;
-
-c.       Scroll to the bottom of the page;
-
-d.       Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e.       Click “SAVE.” 
-
-**Our Accountability to You** **  
-**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability** **  
-**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners** **  
-**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon  VA  20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes** **  
-**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to
-
-[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+February 20, 2018
