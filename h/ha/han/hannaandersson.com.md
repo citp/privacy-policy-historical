@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511065201id_/http%3A//www.hannaandersson.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813033539id_/https%3A//www.hannaandersson.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ### WHAT IS THE SCOPE OF THIS POLICY?
+
+[Please visit our new privacy policy.](https://www.hannaandersson.com/privacy-policy.html)
 
 This policy applies to Hanna Andersson's treatment of personally identifiable information that Hanna Andersson collects through its website, mobile site or apps and when you use Hanna Andersson's services. The policy does not apply to practices of companies whose websites may be linked to or from this website. For access to the privacy policies of such linked websites, please refer to the information provided by such websites at their home pages.
 
