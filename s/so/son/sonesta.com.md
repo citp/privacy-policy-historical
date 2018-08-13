@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonesta.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128135355id_/https%3A//www.sonesta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonesta.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813220811id_/http%3A//www.sonesta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sonesta
 
@@ -59,9 +59,7 @@ If information is shared as mentioned above, we reasonably seek to limit the sco
 
 Because the security of your personal information is important to us, we use Secured Socket Layer (“SSL”) software in order to encrypt the personal information that you provide to us. If your browser is SSL enabled (which most are), your transmission of personal information to us online will be encrypted. You can verify whether your personal information is transmitted using SSL encryption by confirming the symbol of a closed lock or solid key in your browser window. You can also verify that your personal information will be encrypted using SSL encryption by making sure that the prefix for the web address listed for that page has changed from “http” to “https”. If you do not see the appropriate symbol and the “https” prefix, you should not assume that the personal information that you are being asked to provide will be encrypted prior to transmission.
 
-The personal information we collect from you online is stored by us and/or our service providers using reasonable protective measures.
-
-  Notwithstanding these efforts, security measures cannot prevent all loss, misuse or alteration of personal information; we are not responsible for any damages or liabilities relating to any such incidents.  The security of your information also depends on you.  Please maintain the confidentiality of any of your account or password information that you have with us.  You are responsible for the actions of anyone to whom you give your account or password information.
+The personal information we collect from you online is stored by us and/or our service providers using reasonable protective measures.   Notwithstanding these efforts, security measures cannot prevent all loss, misuse or alteration of personal information; we are not responsible for any damages or liabilities relating to any such incidents.  The security of your information also depends on you.  Please maintain the confidentiality of any of your account or password information that you have with us.  You are responsible for the actions of anyone to whom you give your account or password information.
 
 #### Links to Other Web sites
 
@@ -73,15 +71,13 @@ Except as noted below, Sonesta does not seek to obtain nor does it wish to recei
 
 #### Opt Out
 
-Our intention is that you should only receive email communications that you request, or that you will find useful. We may periodically contact you to provide information on upcoming or past reservations, Travel Pass account information, general hotel or corporate informational updates, or to ask for your feedback on our service.  This communication is typically via email, though it may be by phone or direct mail (particularly with respect to upcoming reservations).
-
-  We may also send promotional emails with special offers that may be of interest to you (unless you have opted out). All of our promotional emails give you the option to opt out at any time by clicking on a link at the bottom of the email. You may also opt out of any future promotional emails by emailing your request to: [EMAILOPTOUT@SONESTA.COM](mailto:EMAILOPTOUT@SONESTA.COM). Please allow 10 business days for your email opt out request to take effect.
+Our intention is that you should only receive email communications that you request, or that you will find useful. We may periodically contact you to provide information on upcoming or past reservations, Travel Pass account information, general hotel or corporate informational updates, or to ask for your feedback on our service.  This communication is typically via email, though it may be by phone or direct mail (particularly with respect to upcoming reservations).   We may also send promotional emails with special offers that may be of interest to you (unless you have opted out). All of our promotional emails give you the option to opt out at any time by clicking on a link at the bottom of the email. You may also opt out of any future promotional emails by emailing your request to: [EMAILOPTOUT@SONESTA.COM](https://web.archive.org/cdn-cgi/l/email-protection#41040c00080d0e11150e141501120e0f041215006f020e0c). Please allow 10 business days for your email opt out request to take effect.
 
 You may choose not to submit your PII by submitting your request by calling our Compliance Hotline at 855.251.0649. However, doing so may cause certain transactions to become affected. For example, not providing a name will prevent the processing of reservations.
 
 #### Additional Information for California Residents
 
-Sonesta does not provide your personally identifiable information to third parties for such third parties' direct marketing purposes.  Please note that California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of such individuals' personal information to third parties for such third parties' direct marketing purposes. As noted in the introductory section of this privacy policy (here) and in the "Information Processing and Disclosure" section (here), your personal information may be subject to certain third parties' privacy policies.  If you have any questions about our policy and practices, please contact us by electronic mail at [compliance@sonesta.com](mailto:compliance@sonesta.com), by telephone at 855.251.0649, or by postal mail at: Sonesta International Hotels Corporation, Chief Compliance Officer, Two Newton Place, 255 Washington Street Suite 300, Newton, MA 02458 USA. If you elect to contact us by email or postal mail, please include information in your email or letter that will help us identify you so that we can most expeditiously respond to you.
+Sonesta does not provide your personally identifiable information to third parties for such third parties' direct marketing purposes.  Please note that California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of such individuals' personal information to third parties for such third parties' direct marketing purposes. As noted in the introductory section of this privacy policy (here) and in the "Information Processing and Disclosure" section (here), your personal information may be subject to certain third parties' privacy policies.  If you have any questions about our policy and practices, please contact us by electronic mail at [compliance@sonesta.com](https://web.archive.org/cdn-cgi/l/email-protection#197a767469757078777a7c596a76777c6a6d78377a7674), by telephone at 855.251.0649, or by postal mail at: Sonesta International Hotels Corporation, Chief Compliance Officer, Two Newton Place, 255 Washington Street Suite 300, Newton, MA 02458 USA. If you elect to contact us by email or postal mail, please include information in your email or letter that will help us identify you so that we can most expeditiously respond to you.
 
 #### A Note to International Users
 
@@ -96,13 +92,9 @@ If you have any questions about this Policy, or any concerns or complaints with 
 
 
 
-Sonesta International Hotels Corporation  
-Chief Compliance Officer  
-Two Newton Place  
-255 Washington Street Suite 300  
-Newton, MA 02458
+Sonesta International Hotels Corporation Chief Compliance Officer Two Newton Place 255 Washington Street Suite 300 Newton, MA 02458
 
-  * by emailing to [compliance@sonesta.com](mailto:compliance@sonesta.com), or
+  * by emailing to [compliance@sonesta.com](https://web.archive.org/cdn-cgi/l/email-protection#75161a1805191c141b161035061a1b100601145b161a18), or
   * by contacting the front desk at any of our hotels.
 
 
