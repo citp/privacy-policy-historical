@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqstream.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831143330id_/https%3A//aqstream.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqstream.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813212938id_/https%3A//aqstream.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AQ Stream
 
@@ -8,15 +8,13 @@ We use Google Analytics to gather anonymous information about visitors to our we
 
 You can read more about [Google Analytics](https://support.google.com/analytics/answer/6004245).
 
-The chat service currently used by the AQ Stream website logs various standard information as part of its operation. This may include connection details (e.g. IP address, your nickname, channels, date and time of the connection) and commands (e.g. joining/creating a channel). Your IP address is stored in a hashed form wherever possible. If you register an account then additional information such as your email address and hashed or encrypted password will also be stored.
+The chat service currently used by the AQ Stream website logs various standard information as part of its operation. This may include connection details (e.g. IP address, your nickname, channels, date and time of the connection) and commands (e.g. joining/creating a channel). Your IP address is stored in a hashed form wherever possible. If you register an account then additional information such as your email address and hashed password will also be stored.
 
 Messages posted in the chat are not recorded by default but some channels may temporarily store recent messages as part of the "channel history" feature. Given the public nature of the chat, please exercise caution when posting messages. AQ Stream is not responsible for any content posted in the chat service.
 
-Note that the chat service used may change from time to time and this may result in different information being stored.
-
 When you use our website, our servers may automatically record information about your visit in the form of server logs. These logs do not contain any personal information but may include information such as the page you visited, your IP address, date and time of your visit and browser, and are periodically cleared.
 
-We store some basic data relating to how you use our website locally in your browser, in order to improve your browsing experience. This includes data such as the chosen website theme, information about how often ads are shown, data relating to the video players (e.g. the volume), and the last nickname you used for the chat service.
+Some basic data relating to how you use our website is stored locally in your browser, in order to improve your browsing experience. This includes data such as the chosen website theme, information about how often ads are shown, and the last nickname you used for the chat service.
 
 Our website uses social buttons provided by Facebook, Twitter and other social networks, such as "Share" and "Tweet" buttons. These buttons are embedded directly from their respective social networking services and they may collect information using cookies and other means.
 
