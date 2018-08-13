@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011093925id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813223739id_/https%3A//www.faucetdirect.com/help/security) for the most accurate reproduction.*
 
-# Faucet Direct – Your Online Faucet Showroom
+# Security & Privacy
 
 The Privacy Policy was last updated Apr. 21, 2014.
 
  **Our Company**
 
-Faucetdirect.com is a website of Build.com, Inc. Our corporate website can be [viewed here](http://corp.build.com/).
+Faucetdirect.com is a website of Build.com, Inc. Our corporate website can be [viewed here](https://corp.build.com/).
 
 Our postal address is:  
 402 Otterson Drive, Suite 100  
@@ -18,7 +18,7 @@ We can be reached online through our online Customer Service center. We can be c
 
 We electronically verify each transaction with the credit company, processing only those orders if the credit company so authorizes it. In the case of a suspicious or declined transaction, our company may contact you to confirm the validity and ensure your identity or cancel that order with full notification.
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from http:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted).
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from https:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted).
 
  **Information You Give Us**
 
@@ -62,7 +62,11 @@ Information about our customers is an important part of our business, and we are
 
  **What About Third-Party Advertisers and Links to Other Websites?**
 
-Our site includes third-party advertising and links to other Web sites. Information about your browsing behavior may be collected and used to provide more relevant ads to you. Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, "cookies"). Cookies enable us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly. We do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
+Our site includes third-party advertising and links to other Web sites. Information about your browsing behavior may be collected and used to provide more relevant ads to you. Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, "cookies"). Cookies enable us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly. We do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads. If you wish to opt out from receiving interest-based advertising, [click here](http://optout.aboutads.info/?c=2#!/) and follow the instructions. Please note, because our opt-out is cookie-based, your browser must be set to accept third party cookies.
+
+Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog.
+
+To opt-out of receiving our direct mail or catalogs, you may send us an email at catalog@faucetdirect.com or call us at (800) 864-2555.
 
  **Conditions of Use, Notices, and Revisions**
 
