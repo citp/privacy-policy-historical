@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626005359id_/https%3A//legal.innogames.com/west/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813120456id_/https%3A//legal.innogames.com/west/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for End Users
 
