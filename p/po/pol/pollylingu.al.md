@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollylingu.al privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407114525id_/https%3A//pollylingu.al/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollylingu.al privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813185455id_/https%3A//pollylingu.al/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Polly Lingual
 
