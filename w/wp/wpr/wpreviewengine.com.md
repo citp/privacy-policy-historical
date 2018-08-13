@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpreviewengine.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223031547id_/https%3A//domainvip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpreviewengine.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813021237id_/https%3A//domainvip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainVIP - Premium Domain Store
 
@@ -39,3 +39,18 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, DomainVIP may change its Privacy Policy from time to time, and in DomainVIP's sole discretion. DomainVIP encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a DomainVIP.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+ **Data Controller** : WebFizz, Inc.
+
+ **You can contact us anytime:**<https://domainvip.com/contact-us> or by phone 703-729-7671
+
+ **When you use this site**  
+We use Google Analytics and a wide variety of other tools for our service and user experience.  By using this site you understand that we make use of cookies and other technologies.  We use an external payment processor and do not store your credit card or bank account information here.
+
+ **Access to information**  
+You have the right to request access to the information we have on you.  You can do this using our contact form: https://domainvip.com/contact-us  
+We may request you to verify your identity before providing this information.  We will fulfill your request by sending you an electronic copy via email.  
+If you have an account here, you can update any information yourself and even delete your own profile.
+
+ **Providing data**  
+Most of the site doesn’t require registration, but certain functions (like purchasing) do require this.  If you choose not to provide this information, it may not be possible for you to make a purchase or interact with the site in some way.
