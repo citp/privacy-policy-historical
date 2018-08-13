@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toolsmash.stream privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324232837id_/http%3A//toolsmash.stream/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolsmash.stream privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813154321id_/http%3A//tmash.men/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ToolsMash
 
 ### User Generated-content
 
@@ -22,7 +22,7 @@ User shouldn't post anything which containing Copyright or Adult content
 
 ### Privacy Policy for ToolsMash.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20180324232837id_/http%3A//toolsmash.stream/privacy.php?contact.php)
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20180813154321id_/http%3A//tmash.men/privacy.php?contact.php)
 
 At ToolsMash.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ToolsMash.com and how it is used. 
 
