@@ -1,69 +1,56 @@
-> *The following text is extracted and transformed from the listopt.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926115303id_/http%3A//www.glenhopkins.name/legal/form-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listopt.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813021237id_/https%3A//domainvip.com/privacy-policy) for the most accurate reproduction.*
 
-# General Privacy Policies
+# Privacy Policy - DomainVIP - Premium Domain Store
 
-**General Privacy Policies**
+## Privacy Policy:
 
-We respect your interest in your privacy and as a result we have created this informational disclosure. 
+WebFizz, Inc. (" **DomainVIP** ") operates DomainVIP.com and may operate other websites. It is DomainVIP's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services. 
+### Website Visitors
 
-Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below. 
+Like most website operators, DomainVIP collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. DomainVIP's purpose in collecting non-personally identifying information is to better understand how DomainVIP's visitors use its website. From time to time, DomainVIP may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen. 
+DomainVIP also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on DomainVIP.com blogs/sites. DomainVIP only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-**Information Collected by our ISP**
+### Gathering of Personally-Identifying Information
 
-The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on 'server logs' or 'raw server logs.' We may have access to our raw server logs and access reports prepared by our hosting provider. 
+Certain visitors to DomainVIP's websites choose to interact with DomainVIP in ways that require DomainVIP to gather personally-identifying information. The amount and type of information that DomainVIP gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [DomainVIP.com](https://domainvip.com/) to provide a username and email address. Those who engage in transactions with DomainVIP are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, DomainVIP collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with DomainVIP. DomainVIP does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-**Financial Information for Billing Purposes**
+### Aggregated Statistics
 
-We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information. 
+DomainVIP may collect statistics about the behavior of visitors to its websites. DomainVIP may display this information publicly or provide it to others. However, DomainVIP does not disclose personally-identifying information other than as described below.
 
-In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter. 
+### Protection of Certain Personally-Identifying Information
 
-**Use of eMail Addresses and other Contact Information**
+DomainVIP discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on DomainVIP's behalf or to provide services available at DomainVIP's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using DomainVIP's websites, you consent to the transfer of such information to them. DomainVIP will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, DomainVIP discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when DomainVIP believes in good faith that disclosure is reasonably necessary to protect the property or rights of DomainVIP, third parties or the public at large. If you are a registered user of an DomainVIP website and have supplied your email address, DomainVIP may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with DomainVIP and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. DomainVIP takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, or any other delivery method. 
+### Cookies
 
-As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. DomainVIP uses cookies to help DomainVIP identify and track visitors, their usage of DomainVIP website, and their website access preferences. DomainVIP visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using DomainVIP's websites, with the drawback that certain features of DomainVIP's websites may not function properly without the aid of cookies.
 
-We may also send you information about other products and services our company offers.
+### Business Transfers
 
-At the time of a purchase, any information submitted by the buyer will be used _solely_ for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
+If DomainVIP, or substantially all of its assets, were acquired, or in the unlikely event that DomainVIP goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of DomainVIP may continue to use your personal information as set forth in this policy.
 
-We will not sell, provide, or transfer you email address to others. 
+### Ads
 
-We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties. 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by DomainVIP and does not cover the use of cookies by any advertisers.
 
-**Identification of Purchasers**
+### Privacy Policy Changes
 
-If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions. 
+Although most changes are likely to be minor, DomainVIP may change its Privacy Policy from time to time, and in DomainVIP's sole discretion. DomainVIP encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a DomainVIP.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. 
+ **Data Controller** : WebFizz, Inc.
 
-**Cookies**
+ **You can contact us anytime:**<https://domainvip.com/contact-us> or by phone 703-729-7671
 
-Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed. 
+ **When you use this site**  
+We use Google Analytics and a wide variety of other tools for our service and user experience.  By using this site you understand that we make use of cookies and other technologies.  We use an external payment processor and do not store your credit card or bank account information here.
 
-Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote. 
+ **Access to information**  
+You have the right to request access to the information we have on you.  You can do this using our contact form: https://domainvip.com/contact-us  
+We may request you to verify your identity before providing this information.  We will fulfill your request by sending you an electronic copy via email.  
+If you have an account here, you can update any information yourself and even delete your own profile.
 
-**Disclosure by Necessity**
-
-Private information may be disclosed if required by a court order, statute, law, or regulation. 
-
-Information is subject to disclosure to address a claim that you are violating the terms of any agreement pertaining to your use of your use this website or our products or services, or rights of any third party. 
-
-Information is also subject to disclosure if we believe that disclosure is necessary to identify, contact or bring an action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with our rights or property, your rights or property, other users of our website, products or services, or anyone else. 
-
-As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company, or be bought by another company. In such transactions, personal information may be one of the transferred assets. 
-
-Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country. 
-
-After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged. 
-
-**Policy Changes**
-
-These policies may be amended by us at any time and without notice, but will be posted at this page. 
-
-You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment. 
+ **Providing data**  
+Most of the site doesn’t require registration, but certain functions (like purchasing) do require this.  If you choose not to provide this information, it may not be possible for you to make a purchase or interact with the site in some way.
