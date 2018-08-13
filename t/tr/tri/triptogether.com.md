@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triptogether.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322161145id_/https%3A//www.triptogether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triptogether.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813102129id_/http%3A//www.triptogether.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Triptogether.com
 
@@ -114,7 +114,7 @@ TripTogether.com may periodically send you email messages describing updates, ne
 
 To unsubscribe email us at [support@triptogether.com](mailto:support@triptogether.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
 
-## 
+## Access
 
 Updating Your Information
     
@@ -169,23 +169,79 @@ with Premium Membership only for  Become a Premium Member
 to boost your profile only for  Confirm your subscription  
 to continue your journey for only 
 
-Cardholder name
-
-Name as it appears on the card:
-
-CVC2/CVV2
-
 CVC2/CVV2
 
 The security code is a 3 or 4 digit code printed on your credit card. We require this code as a security measure to our customers. Requiring this information helps to ensure that the credit card is present at the time of purchase. If you cannot find this code, or it is illegible, please contact your credit card issuer.
 
 ## Congrats, traveler!
 
-Now you are a Premium member of TripTogether!
+Now you are a Premium Plus member of TripTogether! 
 
 Time to start your adventure!
 
-## Are you sure you want to lose all Premium features and become an average traveler?
+##  Grab Premium Membership! Confirm your subscription to continue your journey Add super features for $ only 
+
+premium membership 
+
+$ /month
+
+premium plus membership 
+
+$ /month
+
+CVC2/CVV2
+
+The security code is a 3 or 4 digit code printed on your credit card. We require this code as a security measure to our customers. Requiring this information helps to ensure that the credit card is present at the time of purchase. If you cannot find this code, or it is illegible, please contact your credit card issuer.
+
+__ premium membership 
+
+  * Special badge of a verified user
+  * More attention from users
+
+
+
+__ premium plus membership 
+
+  * New profile look
+  * Big photo in search results
+  * "See" all verified users
+  * “Read” message indicator
+  * Special badge of a verified user 
+  * “Last seen” user indicator
+  * Cool new emoticons
+
+
+
+## Congrats, traveler!
+
+Now you are a Premium Plus member of TripTogether! 
+
+Time to start your adventure!
+
+##  Are you sure you want to lose all Premium features   
+and become an average traveler? 
+
+##  Are you sure you want to lose all Premium features   
+and become an average traveler? 
+
+__ premium membership 
+
+  * Special badge of a verified user
+  * More attention from users
+
+
+
+__ premium plus membership 
+
+  * New profile look
+  * Big photo in search results
+  * "See" all verified users
+  * “Read” message indicator
+  * Special badge of a verified user 
+  * “Last seen” user indicator
+  * Cool new emoticons
+
+
 
   * Hue 0deg
   * Saturation 100%
@@ -245,27 +301,25 @@ her (his)
 
 birthday today
 
-Premium user
-
-Add your date of birth and gender years, 
+Add your date of birth and gender years,  __
 
 Lives in
 
-add your hometown ,
+add your hometown []() __
 
 Works as
 
-add your occupation
+add your occupation __
 
 Knows
 
-add languages you speak
+add languages you speak __
 
-Add to Remove from Favorites
+____ Add to Remove from Favorites
 
 I would like to travel with
 
-describe your potential travel mate
+describe your potential travel mate __
 
 ###  Plan your trip  trip to find the perfect travel buddy! Choose a destination, enter a date and invite travelers to join you.
 
@@ -280,6 +334,20 @@ Chat with  to find out where the traveler may like to go.
 Chat with  and find out which places the traveler has been to.
 
 User Settings
+
+###  Plan your trip to find the perfect travel buddy! Choose a destination, enter a date and invite travelers to join you.
+
+
+
+
+####  Become the discoverer! Be the first to travel to this location!
+
+
+
+
+###  Create a new story! Tell other travelers about your last trip or about the place you live in!
+
+####  Be the first to write a story about this place.
 
 Introduce Yourself to other Travel Mates! 
 
