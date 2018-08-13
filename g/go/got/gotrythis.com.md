@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotrythis.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223011225id_/http%3A//join.tracker.ly/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotrythis.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813022736id_/http%3A//join.tracker.ly/legal/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -34,7 +34,7 @@ Site Marketer Inc does not knowingly collect or solicit Personally Identifiable 
 
 We can be reached by contacting:  
 Site Marketer Inc.  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: help@tracker.ly
 
 ## Changes to this Policy
 
