@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamovideo.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126093726id_/http%3A//gamovideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamovideo.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813192322id_/http%3A//gamovideo.com/privacy.html) for the most accurate reproduction.*
 
 # GamoVideo
 
@@ -6,7 +6,45 @@
 
 Your privacy is important to us. We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose Personal Information and Usage Data when you use the GamoVideo online file hosting service ("Service"). This Privacy Policy also explains your choices for managing your information and your preferences. 
 
-This Privacy Policy may be revised from time to time. By using the Service, you agree to be bound and to abide by the most recent version of this Privacy Policy. This Privacy Policy was last updated on: February 16, 2015. 
+This Privacy Policy may be revised from time to time. By using the Service, you agree to be bound and to abide by the most recent version of this Privacy Policy. This Privacy Policy was last updated on: February 16, 2018. 
+
+Personal Data Collection and Use 
+
+Data You Choose to Provide to Us 
+
+GamoVideo collects Personal Data during your registration at our Digital Purposes, when you choose to provide it, such as your name and email address. 
+
+The decision to provide such data is optional. However, if you choose not to register or provide this data, you may not be able to access certain features or services, available within our Digital Properties. 
+
+Your consent to the collection and use of Personal Data will be logged by us. 
+
+In addition, you can voluntarily provide us with additional data in forms as part of the registration process. The voluntary provision of this data is a consent to the use of the data. 
+
+GamoVideo may use the Personal Data you choose to provide to us to operate and improve our Digital Purposes, such as to provide notices about our Website, Services and Apps, process your Service inquiries, and request customer feedback. 
+
+GamoVideo may also use such Personal Data to send you the information regarding new Products, Services or features available within our Digital Properties; solely in accordance with your granted permissions. 
+
+You may unsubscribe from our newsletters and marketing emails anytime. 
+
+For further info about your consent withdrawal and other opt-out options, please refer to "Your Choice and Control" section of this Privacy Policy, below. 
+
+Personal Data Obtained from the Use of our Digital Properties 
+
+We may also collect additional data through our Digital Properties that may include (a combination of) Personal Data elements, such as: 
+
+Location information & IP address 
+
+Such Personal data is collected and stored in the pseudonymized manner and can not be attributed separately to identify or reveal a natural person's individual identity. 
+
+The collected Personal Data may be used for such purposes as: 
+
+To respond to your inquiries and requests. 
+
+To operate our Digital Properties and improve your experience. 
+
+To conduct research about Digital Properties usage. 
+
+For advertising purposes in order to deliver the most relevant ads to you. 
 
 Managing Your Information Preferences 
 
@@ -32,9 +70,43 @@ Data Retention. We will hold your Personal Information on our systems for as lon
 
 Compliance with Laws and Law Enforcement. GamoVideo cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate for any of the following reasons: to respond to legal requests (including court orders and subpoenas); to protect the safety, property, or rights of GamoVideo, any GamoVideo user, or any third party; to prevent or stop any illegal, unethical, or legally actionable activity; or to comply with the law. 
 
-Be Careful When You Share Information.Security 
+Your Choice and Control 
+
+We do our best to provide you choice and control, with regard to Personal Data and other information you provide to us. 
+
+It is not necessary for you to provide us with any Personal Data in order to visit our Website and use our Services, although certain information is be collected automatically during your visit (as described above). 
+
+If you register a GamoVideo account, you can control your Personal Data in a number of ways within your your GamoVideo account settings on our Website: Right to Withdraw Consent 
+
+You may withdraw your consent to the collection and use of Personal Data by GamoVideo - generally or with regard to the additionally voluntarily communicated data in accordance with effect for the future. 
+
+However, in the event of your cancellation, certain features that require registration may no longer be provided. This does not apply to the revocation to collect further voluntary data, provided to us. 
+
+To withdraw your consent to the collection and use of your Personal Data by GamoVideo, please send us a corresponding inquiry via email support (at) gamovideo.info. 
+
+Sharing Personal Data with Other Users 
+
+GamoVideo enables you to store or share Your Content, access or download content, shared by other users. GamoVideo doesn't claim ownership of Your Content. 
+
+When you share Your Content with others, you acknowledge that they may be able to save, record, reproduce, share, transmit, broadcast, display or otherwise use Your Content without providing any compensation to you. 
+
+If any of your Content contains (a combination of) Personal Data elements or any other information that you would not like to share, you can limit other users' access to this Content within your GamoVideo account by making a file "Private" or setting up "Private access" to a folder, correspondingly. 
+
+GamoVideo doesn't use what you say in email, chat, your files, documents, photos, videos and other Content to target advertising to you. 
+
+Security 
 
 GamoVideo is very concerned about safeguarding the confidentiality of your Personal Information. We employ reasonable physical and electronic measures designed to protect your information from unauthorized access. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Service, we cannot and do not guarantee the of any information you upload, store, share, transmit, or provide on or through the Service, and you do so at your own risk. 
+
+Data Retention 
+
+GamoVideo will not retain, use or process shared Personal Data, such as your email address, for longer than necessary to fulfill our business purpose. 
+
+We store non-personally intrusive data and the Personal Data obtained from the Use of our Digital Properties, in a pseudonymized manner, up to one year in order to ensure that our Digital Properties function properly. 
+
+Data Integrity, Purpose of Limitation 
+
+We process information in a way that is compatible with and relevant to the purpose for which it was collected as described above. To the extent necessary for those purposes, we take reasonable steps to ensure that any information in our care is accurate, complete, current and reliable for its intended use. 
 
 Links To Content and to Other Websites 
 
@@ -42,4 +114,4 @@ Our Service permits users to share links to materials stored on servers owned by
 
 Children's Privacy 
 
-We do not knowingly collect Personal Information from children under the age of 13. By using our Services, you promise that you are at least 13 years old. If we become aware that a user is under the age of 13, we will terminate any account that user may have with GamoVideo. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records. 
+We do not knowingly collect Personal Information from children under the age of 16. By using our Services, you promise that you are at least 16 years old. If we become aware that a user is under the age of 16, we will terminate any account that user may have with GamoVideo. If we become aware that we have inadvertently received Personal Information from a child under the age of 16, we will delete such information from our records. 
