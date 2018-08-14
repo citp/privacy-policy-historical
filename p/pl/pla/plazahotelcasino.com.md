@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003051704id_/http%3A//www.plazahotelcasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814220600id_/https%3A//www.plazahotelcasino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Plaza Hotel & Casino
 
@@ -56,7 +56,7 @@ Pursuant to law, persons under the age of twenty-one (21) are not permitted to g
 
 ## HOW YOU MAY CHANGE, CORRECT YOUR REGISTRATION INFORMATION
 
-If you want to change, correct, update or delete your registration information, please contact us via email at casinoservices@playlv.com, call us at 702-386-2110, or send your request to PlayLV Gaming Corporation, Attn: Registration Information Correction, 1 Main Street Las Vegas, NV 89101 and the necessary revisions will be made. This provision applies only to registration information collected via the Plaza Website. Casino services agents are also able to assist our gaming customers with their Royal Rewards membership. For more information, please visit our [Casino Services](http://www.plazahotelcasino.com/casino/casino-services/) page.
+If you want to change, correct, update or delete your registration information, please contact us via email at casinoservices@playlv.com, call us at 702-386-2110, or send your request to PlayLV Gaming Corporation, Attn: Registration Information Correction, 1 Main Street Las Vegas, NV 89101 and the necessary revisions will be made. This provision applies only to registration information collected via the Plaza Website. Casino services agents are also able to assist our gaming customers with their Royal Rewards membership. For more information, please visit our [Casino Services](https://web.archive.org/casino/casino-services/) page.
 
 ## CHANGES
 
