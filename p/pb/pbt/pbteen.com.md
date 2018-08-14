@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbteen.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019113237id_/https%3A//www.pbteen.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbteen.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815015119id_/https%3A//www.pbteen.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Privacy Policy | PBteen
 
@@ -8,34 +8,47 @@ As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands suppor
 
 ## Collecting Information About You
 
-There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, social media user name, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
+There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, social media user name, credit card information, birth date, gender, occupation, personal interests, and other information. We may collect information about your physical location. We may also maintain a record of your product purchases.
 
 Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web sites. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from us.
 
 In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us, other electronic markers and identifiers and other information about our site and mobile app traffic. We may analyze this data for preferences, trends, site usage statistics and to recognize you. We may also receive usage data from your mobile phone or other device you use to access our web sites or our mobile applications, including location data, which we may also combine with other information.
 
-If you access any of our websites or mobile applications with your log-in credentials from a social networking site (e.g., facebook or twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
+If you access any of our websites or mobile applications with your log-in credentials from a social networking site (e.g., Facebook or twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
 
-## Using Information About You
+## Using Your Contact Information
 
-We use your contact information for analytical and marketing purposes, such as:
+We use your contact information to provide you with the services you request as well as for analytical and marketing purposes, such as:
 
-  * • confirming and tracking your order, subscription, or registration;
-  * • analyzing preferences, trends, and statistics;
-  * • informing you of our new products, services, and offers; and
-  * • providing you with other information from and about Williams-Sonoma, Inc. Brands.
+  * confirming, sending, and tracking your order, subscription, or registration;
+  * communicating with you about your order, subscription, or registration;
+  * analyzing preferences, trends, and statistics;
+  * informing you of our new products, services, and offers; and
+  * providing you with other information from and about Williams-Sonoma, Inc. Brands, including personalized marketing communications.
 
 
 
 We contact you only in ways compatible with your communications choices. To the extent necessary for such purposes, we take reasonable steps to make sure that your contact information is accurate, complete, current, and otherwise reliable.
 
+## Our Select Partners
+
 From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
 
 To serve you better, we may combine information you give us online, in our stores or through our catalogs. We may also combine that information with publicly available information and information we receive from or cross-reference with our Select Partners and others, including providers of third party cookie and other third party browsing and use data. We use that combined information to enhance and personalize the shopping experience of you and others with us, and to recognize our customers so that we can communicate with you directly about our products and events that may be of interest to you, and for other promotional purposes.
 
+## Our Service Providers
+
 We may contract with companies or persons to provide certain services including credit card processing, shipping, data analysis and management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
-We allow third-party companies to serve ads and/or collect certain information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize "Do Not Track" signals, but several of these third party companies who utilize these cookies or beacons on our web sites enable you to opt out of this behavioral advertising. To learn more or opt out from these companies you can visit <http://www.networkadvertising.org/>. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the "Opting Out of Marketing and Transfers" section of this Privacy Policy.
+## Location Information
+
+We use the Google Maps service on our web sites. We may use the Google Maps service, and other services, to collect information about your physical location. We use this information to create greater ease of use in our checkout, including to suggest your shipping and billing address, or to help you find the closest store location. The Google Maps service is governed by Google's privacy policy located at [www.google.com/policies/privacy](http://www.google.com/policies/privacy "link opens a new window").
+
+## Advertising and Online Tracking
+
+We allow third-party companies to serve ads and/or collect certain information when you visit our web sites. These companies may use information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) collected during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies may also tie identifiers associated with a particular browser or device to identifiers associated with other browsers or devices used by the same user or household (e.g., a device identifier associated with a user's computer may be tied to the device identifiers of that user's tablet and phone) in order to measure and target advertisements tailored to user interests across their devices and to send personalized marketing communications. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize "Do Not Track" signals, but several of these third party companies who utilize these cookies or beacons on our web sites enable you to opt out of this behavioral advertising. To learn more or opt out from these companies you can visit <http://www.networkadvertising.org/choices> and [www.aboutads.info/choices/](http://www.aboutads.info/choices "link opens a new window"). We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the "Opting Out of Marketing and Transfers" section of this Privacy Policy.
+
+## Other Transfers
 
 We may share contact information and other data with businesses controlling, controlled by, or under common control with any Williams-Sonoma, Inc. Brands.
 
@@ -43,11 +56,11 @@ In certain instances we may disclose your contact information when we have reaso
 
 ## Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an [email](https://www.pbteen.com/customer-service/email-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](https://www.pbteen.com/customer-service/email-us/). Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use one of the following statements in your message to us:
+We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an [email](https://www.pbteen.com/customer-service/email-us/). Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use one of the following statements in your message to us:
 
-  * • I prefer not to receive email advertisements, such as updates regarding products and services, special promotions or upcoming events.
-  * • I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.
-  * • I prefer not to have my contact information provided to third parties for their marketing purposes.
+  * I prefer not to receive email advertisements, such as updates regarding products and services, special promotions or upcoming events.
+  * I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.
+  * I prefer not to have my contact information provided to third parties for their marketing purposes.
 
 
 
@@ -65,15 +78,15 @@ Once you place your order, you may see a pre-checked box indicating that you wou
 
 If you choose to provide Williams-Sonoma, Inc. Brands with your information, you consent to the transfer and storage of that information on our servers located in the United States.
 
-Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
-
-For European Union or Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 405.717.6139 or sending us an [email](https://www.pbteen.com/customer-service/email-us/). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the US-EU and US-Swiss Safe Harbor Privacy Principles.
+For international customers, any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 405.717.6139 or sending us an email. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. 
 
 ## Cookies
 
 When you visit our web sites, we send one or more cookies to your computer or other device. We may also use cookies in emails that you receive from us. A cookie is a small data file that is placed on the hard drive of your computer when you visit a web site. A session cookie expires immediately when you end your session (i.e., close your browser). A persistent cookie stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. We use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
 Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking [here](https://www.pbteen.com/popup/customer-service/cm-opt-out.html "Link opens in a new window"). In addition, we or certain of our Service Providers, in connection with the services that they provide to us, may work with third parties who may use cookies to collect information to tailor advertising for you and others elsewhere on the Internet and on our web sites, and to assist in reminding us of who you are. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
+
+We use Google Analytics on our web sites to collect usage data, to analyze how users use the web sites and to provide advertisements to you on other websites. For more information about how to opt out of having your information used by Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.
 
 ## Security
 
@@ -87,7 +100,7 @@ Williams-Sonoma, Inc. Brands take special care to protect the safety and privacy
 
 Children under the age of 13 should always ask their parents or guardians for permission before providing any contact information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the Internet.
 
-California users under the age of 18 may request the removal of their content or information publically posted on web sites or mobile applications by sending us an [email](https://www.pbteen.com/customer-service/email-us/). Please note that most of the user content that appears on our Site or Services is stored and controlled by third party providers; thus, complete and comprehensive removal of the content may not be possible.
+California users under the age of 18 may request the removal of their content or information publicly posted on web sites or mobile applications by sending us an [email](https://www.pbteen.com/customer-service/email-us/). Please note that most of the user content that appears on our Site or Services is stored and controlled by third party providers; thus, complete and comprehensive removal of the content may not be possible.
 
 ## Links to Third Party Web Sites
 
@@ -101,4 +114,4 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](https://www.pbteen.com/customer-service/email-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](https://www.pbteen.com/customer-service/email-us/).
 
-Effective Date: June 11, 2015
+Effective Date: May 15, 2018
