@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoconversionformula.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025112732id_/http%3A//www.videoconversionformula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconversionformula.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814190142id_/http%3A//www.videoconversionformula.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Video Conversion Formula 2.0 by Maria A. Andros – Official Site
 
