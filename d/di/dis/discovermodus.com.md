@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the discovermodus.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028183135id_/http%3A//discovermodus.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermodus.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814224853id_/http%3A//discovermodus.com/main-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Modus
+# Main Privacy Policy | Modus
 
 ### At MODUS, we respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy.
-
-### About the Safe Harbor Program
-
-Modus complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Modus has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Modus’ certification, please visit <http://www.export.gov/safeharbor/>
-
-The “Safe Harbor” program was jointly established in June 2000 by the United States Department of Commerce and the European Commission, as a method for transferring personal information from the European Union (EU), to companies in the United States. The program is a voluntary self-certification process for companies operating in the United States. Companies that certify represent that they are upholding privacy standards for personal information received from the EU that have been jointly accepted by the EU Commission and the US Department of Commerce. These standards exceed current US privacy standards.
-
-“Personal Information” means information that can directly or indirectly lead to the identification of a living person, such as an individual’s name, address, e-mail, telephone number, license number, medical identification number, photograph, or other identifying characteristic. The identification can occur by reference to one or more factors specific to the individual’s physical, physiological, mental, economic, cultural or social identity. Personal information does not include information that has been anonymized, encoded or otherwise stripped of its identifiers, or information that is publicly available, unless combined with other non-public personal information.
 
 ### Notice and Choice
 
@@ -41,19 +33,19 @@ MODUS uses personal information only in a manner that is compatible with the pur
 
 ### Access and Correction
 
-MODUS processes data under the guidance and direction of our clients. Upon request, MODUS will grant individuals reasonable access to personal information that it maintains about them. In addition, MODUS will take reasonable steps to permit individuals to correct, change, or delete information that is demonstrated to be inaccurate or incomplete. Enforcement, Complaints, and Questions MODUS participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. MODUS has certified that it adheres to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. You may visit the U.S. Department of Commerce’s Safe Harbor web site for more information about the Safe Harbor.
+MODUS processes data under the guidance and direction of our clients. Upon request, MODUS will grant individuals reasonable access to personal information that it maintains about them. In addition, MODUS will take reasonable steps to permit individuals to correct, change, or delete information that is demonstrated to be inaccurate or incomplete.
 
 If you have a question or complaint regarding MODUS privacy policy or MODUS use of personal information, you may contact MODUS through this web site or by writing us at the following address:
 
 MODUS  
-ATTN: Safe Harbor Inquiries  
-2001 S Street NW  
-Suite 710  
-Washington, DC 20009
+1331 F Street NW  
+Suite 825  
+Washington, DC 20004
 
 If for some reason you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed by MODUS, you should then contact:
 
-Council of Better Business Bureaus, Inc.  
-[www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
+Council of Better Business Bureaus, Inc.
 
 If an individual files such a complaint, MODUS will investigate the matter and attempt to resolve all issues to the satisfaction of the complainant. If the matter cannot be settled, MODUS agrees to cooperate with the dispute resolution system set forth above.
+
+[Click to view Modus compliance with EU/Swiss Privacy Shield Principles.](http://discovermodus.com/eu-swiss-privacy/ "E.U.-Swiss Privacy Sheild").
