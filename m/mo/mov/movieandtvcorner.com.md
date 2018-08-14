@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the movieandtvcorner.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110033751id_/http%3A//video.movieandtvcorner.com/privacyMTC.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieandtvcorner.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814033020id_/http%3A//video.movieandtvcorner.com/privacyMTC.html) for the most accurate reproduction.*
 
-# Privacy | Movie and TV Corner
+# PRIVACY POLICY | Movie and TV Corner
 
-**MOVIE AND TV CORNER**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## MOVIE AND TV CORNER
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
