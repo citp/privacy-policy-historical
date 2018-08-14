@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905180307id_/https%3A//www.makeupforever.com/int/en-int/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814231757id_/https%3A//www.makeupforever.com/int/en-int/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MAKE UP FOR EVER
 
