@@ -1,111 +1,194 @@
-> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319191446id_/https%3A//www.watchafl.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815013905id_/https%3A//www.watchafl.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Watch AFL
 
-Last updated: 25 January 2018
+Last updated: 22 May 2018
 
 ## Introduction
 
-Each company listed in Section 9 below (“Company” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including subscription television services, home delivery subscription, digital services subscription, advertising services, websites, mobile sites, applications (“apps”), the Watch AFL service and widgets, competitions and customer surveys (collectively, the “Company Services”). By using Company Services, you agree to the terms and conditions of this Privacy Policy.
+We at FOX SPORTS StreamCo Pty Limited ("Company", "us" or "we") respect your concerns about privacy. This Privacy Policy ("Policy") applies to any information relating to you obtained by us in respect of the Watch AFL products, including through the Watch AFL websites and applications (collectively, the "Service").
 
-This Privacy Policy applies to all persons who interact with us, including those who are advertisers, subscribers to our goods or services and registered and unregistered users of Company Services. This Privacy Policy applies to Company’s collection and use of your personal information (i.e. information about an identified or reasonably identifiable individual, such as full name or name and postal address). Company is bound by the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (and complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee records exemption in the Act.
+We are bound by the Privacy Act 1988 (Cth) and other privacy laws in relation to the handling of your personal information, including the General Data Protection Regulation (GDPR) (EU) 2016/679.
 
-## What information do we collect?
+This Policy describes the types of personal information we obtain about customers, website visitors and people that express an interest in the Service, how we use the personal information and with whom we share it. We also describe the measures we take to protect the security of your information and how you can contact us about our privacy practices. The Service is for a general audience, is not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.
 
-Company collects the personal information needed to provide Company Services and for our business operations. If you choose not to provide certain personal information to us, we may not be able to provide you with the services you require. The following are the main types of personal information collected by Company and the main purposes for which they are collected. Registration Information is the information you provide to Company in the course of registering for or acquiring a Company Service, for example, to create an account, become a subscriber, become an advertiser, post comments, receive a newsletter, or enter a competition. Registration Information may include, for example, name, delivery or postal address, email address, gender and birthday. It includes additional information which you provide to Company in the course of that relationship. Where possible you may have the option of interacting with us anonymously (for example when browsing our digital products as a casual user) or using a pseudonym. We will usually make it clear whenever this is an option.
+Our representative in the European Union is FOX SPORTS Australia B.V. of Luna Arena, Herikerbergweg 238, 1101 CM Amsterdam, The Netherlands.
 
-Public Information and Posts consist of comments or content that you post to the Company Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, tweets, status, profile information and picture(s). Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
+The Watch AFL service is a partnership between us and the Australian Football League ("AFL"). We work together with the AFL to bring Australian Rules Football to, and engage with, fans outside of Australia. We collect your personal information for the purposes outlined in this Policy and on behalf of the AFL, who will treat your personal information in accordance with its privacy policy, which is available [here](https://www.afl.com.au/privacy).
 
-Information from third party Social Media. If you access or log-in to a Company Service through a third party social media service or connect a Company Service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address, followers or friends lists, and any information you have disclosed in connection with that social media service. We do not collect your passwords other than in relation to our own services. When you access the Company Services through third party social media services or when you connect a Company Service to third party social media services, you are authorizing Company to collect, store use and disclose such information and content in accordance with this Privacy Policy.
+Click on one of the links below to jump to the listed section:
 
-Activity Information – cookies and other technologies. When you access and interact with the Company Services, we may collect certain information about those visits. For example, in order to permit your connection to the Company Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
+  * Information we obtain
+  * How We Use the Information We Obtain
+  * Interest-Based Advertising
+  * SMS/MMS Advertising
+  * Information We Share
+  * Your Rights and Choices
+    * Accessing, Reviewing, Updating and Modifying Your Information
+  * Complaints
+  * How We Protect And Retain Your Personal Information
+  * Data Transfers
+  * Links to Third-Party Sites, Apps and Service
+  * Updates to Our Privacy Policy
+  * How To Contact Us
+  * Data Collection Statement
 
-Cookies and other tracking technologies (such as browser cookies and local storage, pixel beacons, and Adobe Flash technology including cookies) are comprised of small bits of data or code that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so that such websites, apps and other services can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information such as pages you have visited, content you have viewed, search queries you have run and advertisements you have viewed in relation to your usage of the Company Services and other websites you have visited.
 
-Third parties that support the Company Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Company Services usage statistics, may also use these technologies to collect similar information. Company does not control these third-party technologies and their use is governed by the privacy policies of those third parties using such technologies. Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “privacy-policy” section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Company Services.
 
-Information from Other Sources. We may supplement the information we collect with information from other sources, such as commercially available sources and data providers, as well as information from our business partners or related and affiliated companies in Australia or internationally.
+## Information We Obtain
 
-Information in relation to other persons who deal with us. When you apply for a job or contract with us we may collect certain information from you or from any recruitment consultant, your previous employers and others who may be able to provide information to assist us in deciding whether or not to make you an offer of employment or engage you under a contract. This Privacy Policy does not apply to acts and practices in relation to employee records of our current and former employees which are exempt from the Privacy Act.
+We obtain personal information about customers, website visitors and people that express an interest in the Service either through the Service, from our Company affiliates and from previous operators of similar services.
 
-Company also collects personal information about individuals who are, or are employed by, our suppliers (including service and content providers), contractors, dealers, related companies, agents and corporate customers. Generally, if appropriate, we will state why we are collecting personal information when we collect it and how we plan to use it, or these things will be obvious when we collect the information.
+We collect your personal information to offer the Service that you have requested or services that we have a legitimate interest to believe are of interest to our customers, to manage the relationship we have with our customers and partners, and to perform activities based on your consent.
+
+The types of personal information we may obtain include:
+
+  * Contact information (such as name, email address and mobile numbers);
+  * Information about your use of, and interaction with, the Service;
+  * Username and password when you register through our Service;
+  * Geolocation data from where you access the Service; and
+  * Other information you may provide to us, such as through emailing us, or through our "Help & Support" or "Contact Us" features.
+
+
+
+To provide the Service, we use an unaffiliated payment service to allow you to purchase a product or make payments ("Payment Service"). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy. You should check the provider's privacy policy to understand how it will handle your information.
+
+Your decision to use the Service and to provide your personal information to us is voluntary. We indicate on the Service what types of personal information are required, before you register to our Service and submit any personal information to us. If you do not provide the personal information required, you may not be able to use the Service.
+
+From time to time, we may rely on our legitimate business interests to use your information to promote the Service or our Company affiliates’ products or services. We consider that if you have demonstrated an interest in the Service, you may also be interested in our other products or services. We will always provide you with an option to opt-out of promotional materials. We may also profile you for the purposes of understanding you better and to enable us to deliver a better, more personalised service and provide relevant promotional material to you.
+
+We ask that you not send us, and you not disclose, any sensitive personal information (such as information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the Service or otherwise. If, contrary to this request, you do provide any sensitive information, in doing so you consent to us collecting and handling that information in accordance with this Privacy Policy.
+
+Our Service also uses Cookies to function effectively. For more information about how we use Cookies, please refer to our Cookie Policy [here](https://media.foxsports.com.au/digital/watch-nrl/terms_and_conditions/Watch%20OTT%20-%20Cookie%20Policy%20NRL.pdf).
 
 ## How do we use your information?
 
-We use the information we collect from and about you to provide the Company Services and features to you, including: to measure and improve those Company Services and features; to improve your experience with both online and off-line Company Services by delivering content Company believes you are likely to find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in games, competitions, or rewards programs; to provide you with customer support and to respond to inquiries. When you are not reasonably identifiable in relation to the information collected from or about you, we may use that information for any purpose or share it with third parties. We may also de-identify the information we collect about you so that we can use and disclose it without using or revealing any personal information about you.
+We may use the information collected from and about you to:
 
-We use the information we collect from and about you for these additional purposes:
-
-  * To provide Company Services to you. Company will use your information to provide Company Services to you, to fulfill administrative functions associated with these services (for example billing, credit and account management), to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your information is contained within an advertisement which Company publishes for you, Company may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions applicable to the initial publication of the advertisement. We may also use your information to improve Company Services including through research and data analysis by us and our service providers. We may use and disclose your personal information in other ways expressly disclosed at the point of collection. If you are a competition winner we may disclose your information to relevant regulatory authorities and publish your details in accordance with the competition terms.
-  * To allow service and content providers to assist us in providing and managing the Company Services and to continue to provide the Watch AFL service. Company may make your information available to certain third party service and content providers, such as providers of data cloud services, website hosting service providers, debt collection services and direct marketing services, who privacy-policy us manage or provide the Company Services or provide Company with related services. These third parties may be located in a range of different countries including the United Kingdom, United States of America and Singapore. Company generally requires these service and content providers to comply with relevant privacy laws and not to use personal information which Company provides for any purpose other than the specific service they are providing to you and/or Company.
-
-
-
-If Company ceases to provide the Watch AFL service, we may make your information available to the new third party Watch AFL service and content providers so that these providers can continue to provide you with the Watch AFL service.
-
-  * To allow social sharing functionality. If you log in with or connect a social media service account with Company Services, we may share your user name, picture, tweets and likes, as well as your activities and comments with other Company Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Company Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Company Services account and do not participate in social sharing on Company Services.
-  * To provide co-branded services and features. We may offer co-branded services or features, such as competitions or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on Company Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy. We will advise you when this is occurring or obtain your express consent to share your personal information in these circumstances.
-  * To deliver relevant advertisements. Company and our advertisers may use the information we collect from and about you to deliver relevant ads to you when you use the Company Services or another service. Please refer to Section 6 below for information about your choices in connection with the advertisements you see when using the Company Services.
-  * To contact you. Company may periodically send promotional materials or notifications which it believes might be of interest to you. Promotional materials may include invitations to participate in various activities (such as customer surveys) or special offers.
-  * To share with our Company Affiliates. Company may share your information with Company’s related companies both in and outside of Australia including in United Kingdom and United States of America and the AFL, our affiliate in the provision of the Watch AFL service. Users who visit our related companies’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. Where we share your information with our related companies, they may use your information in the same way as we can under this Privacy Policy.
-  * To share with business partners. Where you have expressly consented to this, Company may share your information with business partners to permit them to send you marketing communications consistent with your choices.
-  * To protect the rights of Company and others. There may be instances when Company may disclose your information, including situations where Company has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Company, our related companies or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Company Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process in any country; or (v) respond to requests from public and government authorities.
-  * To complete a merger or sale of assets. If Company sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Company may transfer or disclose your information to the party or parties involved in the transaction as part of that transaction and as part of any due diligence processes which take place in contemplation of a potential transaction.
+  * Provide our products and services and fulfill administrative functions associated with those products and services;
+  * Allow service and content providers to assist us in providing and managing the Service (such as providers of cloud services, website hosting service providers, payment service providers and direct marketing service providers);
+  * Send promotional materials, alerts regarding available offers and other communications relating to the Service, including co-branded services, and with your consent, in respect of the products of our business partners, including communications through the Service and outside of the Service, such as via email and through third-party websites and apps;
+  * Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies in compliance with applicable law;
+  * De-identify personal information to provide third parties with aggregated data reports showing de-identified information;
+  * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content and other operational/business purposes;
+  * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Service; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Deliver relevant advertisements and content, when you use the Service or visit websites of other organisations;
+  * Understand your engagement with Company affiliates’ products and services and develop a profile of your interests across our corporate group’s products and services;
+  * Permit you to participate in our referral and ambassador programs for the Service;
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
 
 
-## How do we protect your information?
+We also may use your personal information in other ways for which we provide specific notice at the time of collection and obtain your consent if required by applicable law.
 
-Company uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
+## Interest-Based Advertising
 
-## How can you access your information?
+On our sites, apps and/or emails we and our third-party service providers may obtain information about your activities to provide you with advertising about our products and services tailored to your individual interests. Our third-party service providers also may obtain information for this purpose from third-party websites and apps. This section of our Privacy Policy provides details and explains how to exercise your choices.
 
-If you would like to access, review, correct or update your personal information, you may contact us as outlined in section 7 of this policy. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, review, correct or update. We will need to share your information with others who can assist in responding to your request. We will try to respond to your request as soon as reasonably practicable. If we deny access in any circumstances we will generally tell you why.
+We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means on limited third party applications or websites. Through these ad networks, we can track your online activity on our Service over time by obtaining information through automated means, as described above. The networks use this information to show you advertisements on third-party websites and apps that may be tailored to your individual interests (for example, they might show you an advertisement for the Service if you have visited our site but have not acquired a subscription). The information our ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts.
 
-## How can you opt out?
+To learn how to opt out of this ad network interest-based advertising, visit <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
 
-You can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Company Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [www.youronlinechoices.com.au](http://youronlinechoices.com.au/). To opt out of receiving this type of advertising go to [www.youronlinechoices.com.au/opt-out](http://www.youronlinechoices.com.au/opt-out).
+## SMS/MMS Advertising
 
-If you want to stop receiving promotional materials, you can change your account settings or follow the unsubscribe instructions at the bottom of each email or text message. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+By supplying us with your mobile phone number (which is optional), you consent to receive text message alerts from the Company containing product/service and event information or promotions that may be sent using automated dialing systems ("Text Messages"). Your consent to receive Text Messages is not otherwise required to purchase any goods or services from us. You may not consent to receive Text Messages on behalf of someone else or provide someone else’s phone number. We will inform you about how to opt-out of Text Messages at the time we send it to you, or you may contact us as outlined in the _"How to Contact Us"_ section.
 
-If you have linked any of your social media accounts to your account for any Company Services, you can cancel that link by changing your account settings.
+## Information We Share
 
-If you need any assistance with changing your account settings, please call Company.
+We may share your personal information we collect with:
 
-## Other important information for you
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Policy or for the subsidiary’s or affiliate’s own purposes, including marketing purposes if you have consented to such use. A current list of our affiliated companies is available at [http://newscorp.com/about/our-businesses/](https://newscorp.com/about/our-businesses/).
+  * The AFL as partners in the Service;
+  * Service providers in the US and other jurisdictions outside of Australia and the EU who perform services on our behalf;
+  * If Company ceases to provide the Service, we may make your information available to the new third party that providers the Service so that these providers can continue to provide you with the Service; and
+  * Our or the AFL’s third party clients or business partners, to serve targeted advertisements, where you have opted to receive such communications.
 
-Updates to Privacy Policy. Company may modify this Privacy Policy at any time. Please look at the Last Updated date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Company Services. If the changes affect any agreement between us, you will be entitled to terminate our agreement if those changes are not acceptable to you, on reasonable grounds.
 
-Location of Data. Some of the Company Services are hosted in and managed outside of Australia and in dealing with Company, you consent to having any personal information accessible from or transmitted outside of Australia.
 
-Linked Services. The Company Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, competitions or applications developed and maintained by unaffiliated companies. Company is not responsible for the privacy practices of unaffiliated companies, and once you leave the Company Services or click an advertisement you should check the applicable privacy policy of the other service.
+We require our service providers to protect the confidentiality and security of personal information, and to ensure that personal information is processed only for the provision of services on our behalf and in compliance with applicable law. Service providers are not authorised to use or disclose personal information, except as necessary to perform services on our behalf or to comply with legal requirements.
 
-Collection of Personal Financial Information by a Payment Service. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service.
+We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganisation, dissolution or liquidation).
 
-Data Retention. We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security or other policies. We do not always completely remove or delete all of your information for a number of reasons including due to technical and systems constraints, contractual, financial or legal requirements.
+## Your Rights and Choices
 
-Sensitive Information. We ask that you not send us, and you not disclose, any sensitive personal information (such as information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the Company Services or otherwise. If, contrary to this request, you do provide any sensitive information, in doing so you consent to us collecting and handling that information in accordance with this Privacy Policy.
+We offer you certain choices in connection with the personal information we obtain about you, such as how we communicate with you.
 
-Complaint. If you think we have breached the Privacy Act or other applicable privacy laws, you may complain to us by contacting us as outlined in section 8 below. When you contact us, please include your email address, name, address, and telephone number and clearly describe your complaint. We will need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable and in any event within 5 business days, by making contact with you to inform you whether we have accepted your complaint, need further information or do not think we are in breach. We will also let you know the next steps in resolving your complaint. If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the Office of the Australian Information Commissioner ([www.oaic.gov.au](https://www.oaic.gov.au/)).
+To update your preferences, ask us to remove your information from our marketing mailing lists or submit a request, please contact us as outlined in the "How to Contact Us" Section below.
 
-## How you can contact us
+You also can unsubscribe from our marketing mailing lists by following the "Unsubscribe" link in our emails, and you can unsubscribe from Text Messages as outlined above.
 
-If you have questions about this Privacy Policy, please contact our Privacy Officer at:
+To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
 
-Email: [privacy@foxsports.com.au](mailto:privacy@foxsports.com.au)
+### Accessing, Reviewing, Updating and Modifying your information
 
-Mail: Privacy Officer, FOX SPORTS, Locked Bag 9000 Crows Nest 1585
+You may request to access, rectify or erase your personal information. In certain circumstances, you have the right to object to the processing of your personal information, restrict the processing of your personal information and exercise your right to data portability. Where you have given us your consent for our use of your personal information, you have the right to withdraw your consent at any time and we will apply your preferences for the future.
 
-## List of included companies
+## Complaints
 
-FOX SPORTS Australia Pty Limited (ACN 065 445 418)
+We will respond to your questions or complaints relating to the processing of your personal information. If you are not satisfied with our responses, you have the right to lodge a complaint with a supervisory authority in the EU.
 
-FOX SPORTS Venues Pty Limited (ACN 110 803 944)
+If you think we have breached the Privacy Act or other applicable privacy laws, you may complain to us by contacting us as outlined in the "How to Contact Us" section below. When you contact us, please include your email address, name, address, and telephone number and clearly describe your complaint. We will need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable, by making contact with you to inform you whether we have accepted your complaint, need further information or do not think we are in breach.
 
-Sport by Numbers Pty Limited (ACN 065 420 046)
+We will also let you know the next steps in resolving your complaint. If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the Office of the Australian Information Commissioner ([www.oaic.gov.au](https://www.oaic.gov.au/)) or a supervisory authority in the EU (as applicable).
 
-FOX SPORTS StreamCo Pty Limited (ACN 616 999 243)
+## How We Protect And Retain Your Information
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use. We make reasonable efforts to ensure a level of security appropriate to the risk of the processing, taking into account the costs of implementation and nature of the processing of personal information.
+
+We retain personal information for the period needed to fulfill the purposes for which personal information was collected (including for all periods to which you are a subscriber to the Service) and as otherwise required or permitted by applicable law, such as in relation to our record retention obligations. If you are no longer an active customer, we will continue to hold your personal information to allow a simpler re-subscribe process and to allow us to communicate with you about special offers or encourage you to re-subscribe. We will generally keep your information for a shorter period if you have opted out of receiving communications from us.
+
+## Data Transfers
+
+The Service may be hosted in and managed from a country outside the country in which you initially provided the information (e.g Australia or the EU), including the United States. If you are based in Australia, you consent to having any personal information accessible from or transmitted outside of Australia.
+
+When your personal information is transferred to (or accessed from) a country outside the European Economic Area ("EEA") for which the European Commission has not issued an adequacy decision, we will implement appropriate safeguards to ensure that your personal information remains protected. This may include data transfer agreements, a copy of which you can obtain by contacting us as indicated in the "How To Contact Us" Section below.
+
+However, your personal information may be accessed by the courts, law enforcement and national security authorities of the recipient country in accordance with applicable law. When we transfer your personal information, we will protect that information as described in this Privacy Policy.
+
+## Links to Third-Party Sites, Apps and Service
+
+For your convenience and information, our Service may provide links to third-party sites, apps and services that may be operated by companies not affiliated with FOX SPORTS StreamCo Pty Limited. These companies may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the privacy practices of any non-FOX SPORTS sites, apps or services.
+
+## Updates to Our Privacy Policy
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. For significant changes, we will notify you by emailing you directly and indicating at the top of the Privacy Policy when it was most recently updated.
+
+## How To Contact Us
+
+The entity responsible for the collection and processing of personal information in connection with the Service is FOX SPORTS StreamCo Pty Limited, 4 Broadcast Way Artarmon NSW 2064.
+
+In addition, our representative in the EU is FOX SPORTS Australia B.V. of LunA Arena, Herikerbergweg 238, 1101 CM Amsterdam, The Netherlands.
+
+If you have any questions or comments about this Privacy Policy or the manner in which we or our service providers treat your personal information, would like to exercise your rights and choices, or would like us to update information we have about you or your preferences, please contact us as follows:
+
+Privacy Officer  
+[privacy@foxsports.com.au](mailto:privacy@foxsports.com.au)  
+Mail: Privacy Officer, FOX SPORTS, Locked Bag 9000 Crows Nest 1585  
+[+612 9776 2603](tel:+612 9776 2603)
+
+You may also contact our EU Representative at:
+
+Privacy Officer  
+[GDPRresponse@foxsports.com.au](mailto:GDPRresponse@foxsports.com.au)  
+LunA Arena, Herikerbergweg 238, 1101 CM Amsterdam, The Netherlands.
+
+If you have any questions or comments about the AFL’s privacy policy, you may contact the AFL as follows:
+
+ **AFL**  
+AFL Privacy Officer  
+Email: [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
+Post: AFL Privacy Officer, AFL House, 140 Harbour Esplanade, Docklands, Victoria 3008  
+Telephone: [+613 9643 1999](tel:+613 9643 1999)
 
 ## Data collection statement
 
-Our Privacy Policy includes important information about our collection, use and disclosure of your personal information (including to provide you with targeted advertising based on your online activities). It explains that if you do not provide us with information we have requested from you, we may not be able to provide you with the goods and services you require. It also explains how you can access or seek correction of your personal information, how you can complain about a breach of the Australian Privacy Principles and how we will deal with a complaint of that nature.
+Our Privacy Policy includes important information about:
+
+  * Our collection, use and disclosure of your personal information and the purposes of processing your data (including to provide you with promotional materials, profile you and target advertising based on your activities on our products)
+  * The consequences of not providing personal information that we require to provide you with our products
+  * Your rights relating to your personal information
+  * How you might make a complaint about a breach of privacy laws
+  * Our obligations with dealing with your personal information, including how we protect and retain it and the safeguards we have in place for international transfers
+
+
