@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebcult.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012083306id_/http%3A//celebcult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebcult.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814042442id_/http%3A//celebcult.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Celeb Cult
 
