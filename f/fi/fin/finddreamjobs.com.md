@@ -1,296 +1,85 @@
-> *The following text is extracted and transformed from the finddreamjobs.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229180012id_/http%3A//www.finddreamjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finddreamjobs.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814041205id_/http%3A//contact.finddreamjobs.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Find Dream Jobs
+# Privacy Policy
 
-**Privacy  
-Policy**
+**Privacy Policy**
 
-**FindDreamJobs.com  
-&  **
+ **Job-Listing Related Sites**
 
-**StartACareerToday.com**
+Policy Last Revised: August 8, 2017
 
-**Policy Last  
-Revised: **April 15, 2016
+This privacy policy ("Policy") covers websites that display job listings (the "Site" or "Sites"), created, owned and operated by Search Works Media, LLC ("us" or "we") and is applicable to all information about you ("you or "your") collected through a Site.  All references in this Policy to the Site includes future jobs listings related Sites that we and our Affiliates (defined below) may create, own and/or operate.
 
-This privacy policy (“Policy”) covers  
-[www.FindDreamJobs.com](http://www.finddreamjobs.com/) and [www.StartACareerToday.com](http://www.startacareertoday.com/), websites that display job listings (the “Site” or  
-“Sites”), created, owned and operated by Search Works Media, LLC (“us” or “we”)  
-and is applicable to all information about you (“you or “your”) collected  
-through a Site.  All references in this Policy to the Site includes future jobs  
-listings related Sites that we and our Affiliates (defined below) may create,  
-own and/or operate.
+This Policy describes the types of information that we gather from you and the other people who visit the Site ("Users"), how we may use that information and how you can contact us regarding this Policy and your personal information.  This Policy also describes additional rights that California Users have under the California "Shine the Light" law.
 
-This Policy describes the types of  
-information that we gather from you and the other people who visit the Site  
-(“Users”), how we may use that information and how you can contact us  
-regarding this Policy and your personal information. This Policy also describes  
-additional rights that California Users have under the California “Shine the  
-Light” law.   
+ **Your Consent.  **Please read this entire Policy carefully before using the Site or providing us with any information that is personally identifiable to a User (PII) and information that is not personally identifiable to a User (non- PII) (together, "Information").  When you access or use the Site, you are agreeing to the terms in their entirety and you consent to the collection, use, processing, and disclosure of your Information in accordance with this Policy by us, our third-party marketing partners, and our parent, subsidiaries and entities under common control with us ("Affiliates"). If you do not agree to the terms of this Policy, you are not authorized to use the Site.
 
-**Your Consent**
+ **How We Collection Information and the Types Collected.  **We and our marketing partners and Affiliates collect Information in a number of different ways. We collect Information when a User registers on our Site and provides us identifying PII such as their name, email, address, date of birth, telephone number and gender. We also use technological means to collect Information about a User such as the type of device and browser they are using, where they were browsing before they arrived at our Site, their IP address and if a User is on a mobile device, which carrier they use. We may use third-party data provided by our affiliates (which includes our parent, subsidiaries and other entities under common control with us) (collectively, “Affiliates”) sources including those provided by our parent and its subsidiaries (“Affiliates”) to augment and/or verify the Information we collect from users and may also associate demographic and other data we collect, such as the user’s browser and device, with their Information.
 
-Please read this entire Policy  
-carefully before using the Site or providing us with any information that is  
-personally identifiable to a User (PII) and information that is not personally  
-identifiable to a User (non-PII)(together, “Information”). When you access or  
-use the Site, you consent to the collection, use, processing, and disclosure of  
-your Information in accordance with this Policy by us, our third party  
-marketing partners, and our parent, subsidiaries and entities under common  
-control with us (“Affiliates”).  If you do not agree to the terms of this  
-Policy, you are not authorized to use the Site.
+If you reached the Site by clicking on a link or an ad from another website or from an email sent from one of our marketing partners, then we may also capture that information to understand the interests of our Users and to keep track of third parties who direct Users to our Sites. Users may supply information through our dynamically determined survey questions which we then associate with the User’s PII to help us identify the products and services they may be interested in. We track and record a User’s behavior while on our Site and associate it with the User’s PII so that if a User returns to our Site, we can, for example, avoid showing the User the same offers or asking the same survey questions.
 
-**How We Collection Information and  
-the Types Collected**
+In order for a User to take full advantage of the Site, we ask Users to voluntarily provide their PII to us. If a User chooses not to provide us with their PII by simply not entering it on the Site or not otherwise providing it to us, the User will not be able to access or use certain of the services or features available through the Site.
 
-We and our marketing partners and  
-Affiliates collect Information in a number of different ways.  We collect  
-Information when a User registers on our Site and provides us identifying PII  
-such as their name, email, address, date of birth and gender.  We also use  
-technological means to collect Information about a User such as the type of  
-device and browser they are using, where they were browsing before they arrived  
-at our Site, their IP address and if a User is on a mobile device, which carrier  
-they use.  This Information may be supplemented or verified by third party  
-services.
+ **How We Use the Information We Collect.  **We may use the Information (whether PII or non-PII) that a User provides us to, among other things to:
 
-If you reached the Site by clicking  
-on a link or an ad from another website or from an email sent from one of our  
-marketing partners, then we may also capture that information to understand the  
-interests of our Users and to keep track of third parties who direct Users to  
-our Sites.  Users may supply information through our dynamically determined  
-survey questions which we then associate with the User’s PII to help us identify  
-the products and services they may be interested in.   We track and record a  
-User’s behavior while on our Site and associate it with the User’s PII so that  
-if a User returns to our Site, we can, for example, avoid showing the User the  
-same offers or asking the same survey questions.   
+  * Help administer and protect the security of the Site and provide communication and other services and, in that regard, may share Information with third parties, including vendors and contractors who provide services to us;  
 
-In order for a User to take full  
-advantage of the Site, we ask Users to voluntarily provide their PII to us. If  
-a User chooses not to provide us with their PII by simply not entering it on  
-the Site or not otherwise providing it to us, the User will not be able to  
-access or use certain of the services or features available through the Site.
+  * Process or complete transactions that a User requests including providing a User’s Information to Affiliates and other third parties;  
 
-We currently do not use technologies  
-such as “cookies” (small text files placed/dropped on a User’s device), “web  
-beacons” (single-pixel GIF files) or similar technologies to track the User’s  
-online behavior and interaction with the Site.  We may permit third parties to  
-use these technologies to track your online behavior for their own purposes. 
+  * Contact Users regarding customer service and administrative issues, such as questions about a User’s specific request, or otherwise respond to a User’s comments or requests;  
 
-**How We Use the Information We Collect**
+  * Send Users emails with information and offers from us, our marketing partners and/or Affiliates;  
 
-We may use the Information (whether  
-PII or non-PII) that a User provides us to, among other things:
+  * Maintain suppression or opt-out lists that we may share with third parties so that a User is not contacted when the User has asked not to be;  
 
-·         
-Help administer and protect the  
-security of the Site and provide communication and other services and, in that  
-regard, may share Information with third parties, including vendors and  
-contractors who provide services to us; 
+  * Track online behavior for behavioral advertising and other marketing purposes.  If a user registers on one of our Websites, the user may receive relevant third-party daily emails from that Website, its exclusive emailing partner and other websites we or our Affiliates own and/or operate;  
 
-·         
-Process or complete  
-transactions that a User requests including providing a User’s Information to  
-Affiliates and other third parties;
+  * Develop and/or enhance products and/or services by our Affiliates and/or third parties;  
 
-·         
-Contact Users regarding  
-customer service and administrative issues, such as questions about a User’s   
-specific request, or otherwise respond to a User’s comments or requests;
+  * Make telephone calls and send text messages to you with information and offers provided you consent to be marketed to in this manner as described further below;  
 
-·         
-Send Users emails with  
-information and offers from us, our marketing partners and/or Affiliates; 
+  * Compile anonymous statistical information and analysis which may be provided to Affiliates and other third parties;  
 
-·         
-Maintain suppression or opt-out  
-lists that we may share with third parties so that a User is not  contacted  
-when the User has asked not to be;
+  * Provide, sell, or rent your Information to Affiliates and other third parties for advertising purposes;   
 
-·         
-Develop and/or enhance products  
-and/or services by our Affiliates and/or third parties;
+  * Permit you to access certain web-based programs or applications on the Site;  
 
-·         
-Make telephone calls and send  
-text messages to you with information and offers provided you consent to be  
-marketed to in this manner as described further below;
+  * If we are sold, merge with a third-party, are acquired or are the subject of bankruptcy proceedings, your Information may be shared with the applicable third-party(ies); if we are involved in one of these transactions, you will be notified via email and/or a notice on our Website of any change in ownership or uses of your Information, as well as any choices that you may have regarding your Information;  
 
-·         
-Compile anonymous statistical  
-information and analysis which may be provided to Affiliates and other third  
-parties;
+  * Respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims or when we determine it is necessary to comply with applicable laws or regulations; where permitted by applicable law, we will provide you with e-mail notice, and opportunity to challenge the applicable subpoena/request prior to disclosure of any Information; and  
 
-·         
-Provide, sell, or rent your Information  
-to Affiliates and other third parties for advertising purposes; and
+  * Assist with Website operation and other communication services, share Information with third-parties, including our vendors and contractors.  
 
-·         
-Permit you to access certain  
-web-based programs or applications on the Site.
 
-**Behavioral Advertising**
 
-Behavioral advertising enables us and  
-our marketing partners and Affiliates to deliver to users what is hoped to be  
-more relevant information and offers for products or services.  We track online  
-behavior principally by a User’s email address while our third party marketing  
-partners and Affiliates may use cookies, web beacons and other technological  
-means to track users’ online behavior and to collect Information.  In either  
-case, identifying a User and their past online behavior enables the tailoring  
-of targeted offers and advertisements.  We may share this and other Information  
-with our third party marketing partners and Affiliates and may be compensated  
-for doing so. 
+We will use commercially reasonable efforts to limit use of the Information by these third-parties as necessary for the purposes set forth above.  
 
-**Third Party Analytics   **
+ **Behavioral Advertising**.  Our Websites use Cookies to determine whether a user has previously visited our Site to streamline the registration process.  Although we don’t use Cookies for other purposes, we and our third-party marketing partners and Affiliates reserve the right to use Cookies to track users’ online behavior after they leave a Website, and to collect Information that enables the tailoring of targeted offers and advertisements.  (To find out more about Cookies, please visit www.cookiecentral.com.)  We may share this and other Information with our third-party marketing partners, who may compensate us, and Affiliates.  We are not responsible for the Information collected by our third-party marketing partners and Affiliates, for their use of this Information or for the privacy practices of other websites that are linked to our Websites. 
 
-We may use Google Analytics and  
-similar tools provided by our third party partners to help analyze how Users  
-interact with the Site and display customized ads and other content to our  
-Users during a current browsing session or in the future when the User is  
-online. These analytics are performed by using the technological means  
-described above to monitor a User’s interactions with the Site and do not  
-involve the collection of any additional PII.
+Most computers are initially set up to accept Cookies, but you can reset your Internet browser to refuse all Cookies or to indicate when a Cookie is being sent.  To disable and reject certain Cookies, follow the instructions associated with the Internet browser you’re using.  Even where you reject a Cookie, you may still use the Website but your ability to use certain features offerings may be impaired.  We may retain Cookie data indefinitely.
 
-**Other Web Sites; Links**
+ **Third Party Analytics**.  We may use Google Analytics and similar tools provided by our third party partners to help analyze how Users interact with the Site and display customized ads and other content to our Users during a current browsing session or in the future when the User is online. These analytics are performed by using the technological means described above to monitor a User’s interactions with the Site and do not involve the collection of any additional PII.
 
-We and our Affiliates and marketing  
-partners may advertise and promote the Site and we may permit our marketing  
-partners to place ads and other content, including links to other websites, on  
-the Site.  While we try to post links only to third-party websites that share  
-our respect for privacy, this Policy and our privacy practices do not extend to  
-and may differ from those of third-party websites that can be accessed through links  
-on this Site.   You should review the applicable privacy policies of the  
-third-party websites before registering with, providing Information to or  
-navigating those websites.
+ **Other Web Sites; Links**.  We and our Affiliates and marketing partners may advertise and promote the Site and we may permit our marketing partners to place ads and other content, including links to other websites, on the Site. While we try to post links only to third-party websites that share our respect for privacy, this Policy and our privacy practices do not extend to and may differ from those of third-party websites that can be accessed through links on this Site. You should review the applicable privacy policies of the third-party websites before registering with, providing Information to or navigating those websites.
 
-**Site Policy Regarding Children  
-Under the Age of 13 and Non-US Residents**
+ **Site Policy Regarding Children and Non-US Residents**. The Site is intended to comply with the Children's Online Privacy Protection Act (COPPA). COPPA requires that web site operators never knowingly collect PII from anyone under the age of 13 without prior verifiable parental consent. We do not knowingly collect or retain information from the Websites from children under the age of 18 except we may collect a limited amount of Information from users who are over 13. This Sites is intended for use by U.S. residents who are not minors.  If you are a minor, not a U.S. resident (no Canadian residents permitted), or do not agree with this Policy’s terms, please do not access or use our Websites.
 
-The Site is intended to comply with  
-the Children’s Online Privacy Protection Act (COPPA). COPPA requires that web  
-site operators never knowingly collect PII from anyone under the age of 13  
-without prior verifiable parental consent. The Site is not intended for  
-children under the age of 18 and we do not knowingly collect or use PII from  
-children under the age of 18.  If we discover personal data from a child under  
-the age of 18, we will eliminate that data. 
+ **Telephone Consumer Protection Act.**  By submitting your Information to us on a Website, you agree that this is an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule, as amended (the “Rule”) and applicable state do-not-call regulations.  This allows us to contact you via telemarketing even if your telephone number is listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists.
 
-By using the Site, you agree to  
-provide us with accurate information concerning your age or identity if we  
-request it. You also agree not to assist children under the age of 18 in  
-accessing a Site or to attempt to contact children under 18 through the Site.
+We may seek your consent to receive telemarketing calls from us, our Affiliates and marketing partners in accordance with the rules under the Telephone Consumer Protection Act ("TCPA"). If you provide your express consent via your electronic signature for TCPA purposes, even if your mobile or landline telephone number is listed on the federal or a State’s Do-Not-Call Registry, you expressly consent to; (a) receive telemarketing calls, text (SMS) messages, and any other means of communication that your wireless device may be capable of receiving (e.g. mms, video etc. ) from the persons named in the consent (including through the use of automated dialing equipment); and (b) receive future information about products and services from us, our marketing partners, Affiliates and other third parties to whom we may provide your Information via other means such as email. You may revoke your consent to be contacted in this manner by any reasonable means at any time (see the Opting-Out section below). Merely accessing our Site without providing your express written consent for TCPA purposes does not constitute your consent to receive telemarketing calls.
 
-The Site is also not intended for  
-persons not resident in the U.S.  We use filters that are designed to prevent  
-non-U.S. residents from accessing the Site. 
+ **By agreeing to this Policy, you are obligated to immediately inform us if the telephone number that you provided us changes.  If you: (a) have your telephone number reassigned to another person; (b) give up your telephone number; (c) port your telephone number to a landline or vice versa; or (d) otherwise stop using that telephone number, you agree to promptly contact us **[here](http://contact.startacareertoday.com/contact.aspx) **.** Users may revoke their consent to receive telemarketing calls from us and/or the persons named in the consent by clicking [here](http://contact.startacareertoday.com/contact.aspx) and indicating that do not want to receive any further telemarketing from us or the persons named in the consent.
 
-**Telephone Consumer Protection Act**
+ **Opting-Out.**  Users may opt-out from receiving future offers from us including have their email address removed - unsubscribed - from email marketing lists by following the Opt-Out instructions contained in the marketing communication or by clicking [here](http://contact.startacareertoday.com/unsub.aspx).  If you receive offers or other communications from our third party marketing partners and would like to opt-out from future communications from them, you must contact them directly.  A third party’s use of Information is subject to their privacy policy and we have no control or responsibility over their use.
 
-We may seek your consent to receive  
-telemarketing calls from us, our Affiliates and marketing partners in accordance  
-with the rules under the Telephone Consumer Protection Act (“TCPA”). If you  
-provide your express consent via your electronic signature for TCPA purposes,  
-even if your mobile or landline telephone number is listed on the federal or a  
-State’s Do-Not-Call Registry, you expressly consent to; (a) receive  
-telemarketing calls, text (SMS) messages, and any other means of communication  
-that your wireless device may be capable of receiving (e.g. mms, video etc. )  
-from the persons named in the consent (including through the use of automated  
-dialing equipment); and (b) receive future information about products and  
-services from us, our marketing partners, Affiliates and other third parties to  
-whom we may provide your Information via other means such as email.  You may  
-revoke your consent to be contacted in this manner by any reasonable means at  
-any time (see the Opting-Out section below).  
+Users may opt out from the collection of online viewing data for behavioral advertising purposes by companies who have elected to participate in one of the behavioral advertising opt-out mechanisms such as the Digital Adverting Alliance’s opt-out program located at http://www.aboutads.info/choices or the Network Advertising Initiative at http://www.networkadvertising.org/managing/opt_out.asp.  As is the case with most websites, we have not elected to participate in any of these programs at this time or alter our behavior when a user to one of our Websites has activated the “do-not-track” setting on their browser (see, “Browser “Do Not Track” Signals,” described below). 
 
-Merely accessing our Site without  
-providing your express written consent for TCPA purposes does not constitute  
-your consent to receive telemarketing calls.
+ **Personal Health Information**.  Our surveys may ask health-related questions which we may share with our third-party marketing partners who advertise health-related products and services on our Websites or who otherwise promote health-related products or services.  We will use this health information only with your consent and to display offers for health-related products and services or to provide Information to these providers so they can contact you.  You may always request modification or suppression of your information by clicking [here](http://contact.startacareertoday.com/contact.aspx).
 
-**Opting-Out**
+Security of Your Information.  We use commercially reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of your Information. We currently do not encrypt Information that we store. Access to your Information is strictly limited, and we take reasonable measures to ensure that your Information is not accessible to the public.  All user PII is restricted in our offices, as well as the offices of our third-party service providers.  Only employees or third-party agents who need user PII to perform a specific job are granted access to PII.   Given the nature of the Internet, your Information passes through entities that we are unable to control. Therefore, we cannot guarantee that our security measures or those of our Affiliates or third parties who access or transmit your Information will prevent your Information from being illegally accessed, stolen or altered.
 
-Users may opt-out from receiving future  
-offers from us including have their email address removed –  unsubscribed –  
-from email marketing lists by following the Opt-Out instructions contained in  
-the marketing communication or by [clicking here](http://contact.startacareertoday.com/unsub.aspx).  If you receive offers or other communications from our  
-third party marketing partners and would like to opt-out from future  
-communications from them, you must contact them directly.  In general, it takes  
-up to 10 days for an Opt-Out request to take effect.   A third party’s use of  
-Information is subject to their privacy policy.
+ **Accessing, Correcting and Deleting Your Information**.  All users who provide their Information to us may modify and correct their Information by contacting us [here](http://contact.startacareertoday.com/contact.aspx). We will respond to your request within thirty (30) days. If you request deletion of your Information, please note that your Information will be suppressed from further use as described in this Policy. However, we will retain and may use your Information as necessary to comply with our policies including legal obligations, dispute resolution and enforcement of our agreements.
 
-Users may opt out from the collection of  
-online viewing data for behavioral advertising purposes by companies who have  
-elected to participate in one of the behavioral advertising opt-out mechanisms  
-such as the Digital Adverting Alliance’s opt-out program located at <http://www.aboutads.info/choices> or the Network Advertising Initiative at <http://www.networkadvertising.org/managing/opt_out.asp>.  As is the case with most websites, we have not elected  
-to participate in any of these programs at this time.  Users may also opt out  
-from the same type of data collection performed by Trade Desk, Inc., one of our  
-marketing partners, by [clicking here](http://www.adsrvr.org/).  
+We ask individual users to identify themselves and the Information requested to be accessed, corrected or deleted (suppressed) before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning Information residing on backup tapes).  Please be advised that deleting (suppressing) your Information may terminate your access to certain of our offerings. If you wish to continue using the full complement of our services, you may not be able to delete (suppress) all of the Information that we have on file for you. 
 
-Users may disable cookies, web beacons and  
-other technological means placed by our Affiliates and third party partners by  
-adjusting their browser or email client settings.  Users may also opt out from  
-the collection of online viewing data for analytics purposes performed by  
-Google Analytics by going to Ad Settings under their Google account.  As noted  
-above, we do not place or use cookies or web beacons to track your online  
-behavior but may identify you by your email address or other means and will use  
-these methods to tailor your experience on our Site if you visit our Site or  
-one of Affiliate’s sites in the future. 
-
-Users may revoke their consent to receive  
-telemarketing calls from us and/or the persons named in the consent by [clicking here](http://contact.startacareertoday.com/contact.aspx) and indicating that do not want to receive any further  
-telemarketing from us or the persons named in the consent.     
-
-**Security of Your Information**
-
-We use commercially reasonable efforts to  
-prevent unauthorized access or disclosure, or accidental loss or destruction of  
-your Information. We currently do not encrypt Information that we store except  
-for health related information.  Given the nature of the Internet, your  
-Information passes through entities that we are unable to control.  Therefore,  
-we cannot guarantee that our security measures or those of our Affiliates or  
-third parties who access or transmit your Information will prevent your  
-Information from being illegally accessed, stolen or altered.
-
-**Access to Information**
-
-All users who provide their Information to us  
-may modify and correct their Information by contacting us [here](http://contact.startacareertoday.com/contact.aspx).
-
-**Your California Privacy Rights**
-
-The California “Shine the Light” law permits  
-Users who are California residents to request information regarding our  
-disclosure of their Information to third parties including the categories of  
-Information shared and a list of the names and addresses of third parties with  
-whom the Information was shared.  If you are a California resident and would  
-like a copy of this notice, please send a request by [clicking here](http://contact.startacareertoday.com/contact.aspx) and identify that it is a “Shine the Light Request.” 
-
-Most browsers contain a “do-not-track”  
-setting.  In general, when a “do-not-track” setting is active, the user’s  
-browser notifies other websites that the user does not want their personal  
-information and online behavior to be tracked and used, for example, for  
-behavioral advertising.  As required by recent Shine the Light law amendments,  
-we are required to inform you that, if your browser is set to do not track, our  
-Site will respond in accordance with that setting so that, for example, we will  
-not be able to access any cookies stored in your browser.  The impact a do not  
-track setting has on a website’s operation varies from browser to browser.  You  
-should be aware that we use other means to identify Users who have previously  
-visited our Site including their email address and we track a User’s online  
-behavior while on our Site.  We may use this information to tailor the User’s  
-experience should they visit our Site or sites belonging to our Affiliate in  
-the future.  Setting your browser to “do not track” will have no impact on  
-these practices.   
-
-**Changes to this Privacy Policy   **
-
-We reserve the right to revise and update  
-this Policy at any time. If we make material changes to this Policy, we will  
-post notice on our Site.  Any such revisions will be effective 30 days after  
-posting to the Site and will apply to all Information collected by us both  
-before and following the effective date. Your use of the Site following any  
-such revisions will be deemed your acceptance of such revisions. Users should  
-periodically visit this page to review our current policies on our collection  
-and use of Information. 
-
-**Questions, Suggestions or to Contact Us**
-
-For additional Information or if you have any  
-questions, comments, complaints, or suggestions regarding our Policy or one of  
-our Sites, please contact us [here](http://contact.startacareertoday.com/contact.aspx).
+ **Your California Privacy Rights.**  The California "Shine the Light" law permits Users who are California residents to request information regarding our disclosure of their Information to third parties including the categories of Information shared and a list of the names and addresses of third parties with whom the Information was shared. If you are a California resident and would like a copy of this notice, please send a request by clicking [here](http://contact.startacareertoday.com/contact.aspx).
