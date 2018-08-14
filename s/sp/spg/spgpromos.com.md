@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spgpromos.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524055805id_/https%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spgpromos.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814210906id_/https%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
@@ -106,7 +106,7 @@ If you do not want data collected with cookies, you can learn more about control
 You can choose whether to accept cookies by changing the settings on your browser or by managing your tracking preferences by clicking on “Tracking Preferences” located at the bottom of our home page. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Online Services. For example, we will not be able to recognize your computer, and you will need to log in every time you visit. You also will not receive advertising or other offers from us that are relevant to your interests and needs. At this time, we do not respond to browser “Do-Not-Track” signals
 
   * **Pixel Tags and other similar technologies.** We collect data from pixel tags (also known as web beacons and clear GIFs), which are used with some Online Services to, among other things, track the actions of users of the Online Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Online Services.
-  * **Analytics.** We collect data through Google Analytics and Adobe Analytics, which use cookies and technologies to collect and analyze data about use of the Services. These services collect data regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20180524055805id_/https%3A//www.starwoodhotels.com/preferredguest/legal/www.google.com/policies/privacy/partners/) and opt out by downloading the Google Analytics opt out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. You can learn more about Adobe and opt out by visiting <http://www.adobe.com/privacy/opt-out.html>.
+  * **Analytics.** We collect data through Google Analytics and Adobe Analytics, which use cookies and technologies to collect and analyze data about use of the Services. These services collect data regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/) and opt out by downloading the Google Analytics opt out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. You can learn more about Adobe and opt out by visiting <http://www.adobe.com/privacy/opt-out.html>.
   * **Adobe Flash technology (such as Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies.** We collect data through Flash LSOs and other technologies on some Websites to, among other things, collect and store data about your use of the Online Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. You can also control Flash LSOs by going to the Global Storage Settings Panel at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html> and following the instructions (which include instructions that explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used with the Online Services. For more information, please refer to <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>. 
   * **Your IP Address.** We collect your IP address, a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP address is identified and logged automatically in our server log files when a user accesses the Online Services, along with the time of the visit and the pages that were visited. We use IP addresses to calculate usage levels, diagnose server problems and administer the Online Services. We also may derive your approximate location from your IP address.
   * **Aggregated Data.** We may aggregate data that we collected and this aggregated data will not personally identify you or any other user.
@@ -288,13 +288,13 @@ Back to Top
 
 ## Privacy Shield Certified
 
-Marriott International, Inc. and certain of its U.S. affiliates have certified to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks. Our certifications can be found at: [www.privacyshield.gov/list](https://web.archive.org/web/20180524055805id_/https%3A//www.starwoodhotels.com/preferredguest/legal/www.privacyshield.gov/list). For more information about the Privacy Shield principles, please visit: [www.privacyshield.gov](https://web.archive.org/web/20180524055805id_/https%3A//www.starwoodhotels.com/preferredguest/legal/www.privacyshield.gov). Our Privacy Shield Guest Privacy Policy can be found here.
+Marriott International, Inc. and certain of its U.S. affiliates have certified to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks. Our certifications can be found at: [www.privacyshield.gov/list](https://www.privacyshield.gov/list). For more information about the Privacy Shield principles, please visit: [www.privacyshield.gov](https://web.archive.org/web/20180814210906id_/https%3A//www.starwoodhotels.com/preferredguest/legal/www.privacyshield.gov). Our Privacy Shield Guest Privacy Policy can be found here.
 
 Back to Top
 
 ## Updates to This Privacy Statement
 
-The _“LAST UPDATED”_ legend at the top of this page indicates when this Privacy Statement was last revised. Any changes will become effective when we post the revised Privacy Statement on the Online Services. Your use of the Services following these changes means that you accept the revised Privacy Statement. If you would like to review the version of the Privacy Statement that was effective immediately prior to this revision, please contact us at [privacy@marriott.com](https://web.archive.org/web/20180524055805id_/https%3A//www.starwoodhotels.com/preferredguest/legal/privacy@marriott.com). 
+The _“LAST UPDATED”_ legend at the top of this page indicates when this Privacy Statement was last revised. Any changes will become effective when we post the revised Privacy Statement on the Online Services. Your use of the Services following these changes means that you accept the revised Privacy Statement. If you would like to review the version of the Privacy Statement that was effective immediately prior to this revision, please contact us at [privacy@marriott.com](https://web.archive.org/web/20180814210906id_/https%3A//www.starwoodhotels.com/preferredguest/legal/privacy@marriott.com). 
 
 Back to Top
 
@@ -347,7 +347,7 @@ Back to Top
 
 ## Other Preferences
 
-If you have other preferences, or are looking to exercise your rights under the GDPR, please email us at [Privacy@Marriott.com](https://web.archive.org/web/20180524055805id_/https%3A//www.starwoodhotels.com/preferredguest/legal/Privacy@Marriott.com), or mail us at:
+If you have other preferences, or are looking to exercise your rights under the GDPR, please email us at [Privacy@Marriott.com](https://web.archive.org/web/20180814210906id_/https%3A//www.starwoodhotels.com/preferredguest/legal/Privacy@Marriott.com), or mail us at:
 
 Marriott International, Inc.  
 Global Compliance, Privacy  
@@ -416,7 +416,7 @@ We limit the collection and use of Personal Data to the information that is rele
 
 ## Access to Personal Data
 
-You can ask to review, correct, or delete Personal Data that we maintain about you by sending a written request to [privacy@marriott.com](https://web.archive.org/web/20180524055805id_/https%3A//www.starwoodhotels.com/preferredguest/legal/privacy@marriott.com).
+You can ask to review, correct, or delete Personal Data that we maintain about you by sending a written request to [privacy@marriott.com](https://web.archive.org/web/20180814210906id_/https%3A//www.starwoodhotels.com/preferredguest/legal/privacy@marriott.com).
 
 ## Privacy Shield Enforcement and Dispute Resolution
 
