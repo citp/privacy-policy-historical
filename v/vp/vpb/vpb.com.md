@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vpb.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025014851id_/https%3A//www.vpb.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpb.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814145457id_/https%3A//www.vpb.com/privacypolicy.php) for the most accurate reproduction.*
 
-# privacypolicy - Global Cloud and Dedicated Server Hosting Service Provider_VPB
+# privacypolicy - VPB.COM - The Best Global Servers Provider - Dedicated Server,Cloud Server,VPS,Hosting & Data Center Services
 
 The above-described information collected by our company will be used for:
 
