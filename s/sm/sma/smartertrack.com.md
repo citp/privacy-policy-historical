@@ -1,56 +1,31 @@
-> *The following text is extracted and transformed from the smartertrack.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030022327id_/http%3A//www.smartertrack.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertrack.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814224817id_/https%3A//www.smartertools.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, SmarterTrack.com
+# SmarterTools Privacy Policy
 
-  * [Website](https://web.archive.org/)
-  * [My Account](https://account.smartertools.com/)
-  * [Support Portal](http://portal.smartertools.com/)
-  * 
-[ ](https://web.archive.org/)
+### Introduction
 
-  * [Why SmarterTrack?](https://web.archive.org/helpdesk-software.aspx)
-  * [Pricing](https://web.archive.org/pricing.aspx)
-  * [Company](https://web.archive.org/about.aspx)
-  * [Get Started](https://web.archive.org/sign-up.aspx)
+SmarterTools is committed to safeguarding the privacy of our website visitors, license holders, customers and service users. This policy applies where we are acting as a data controller with respect to the personal data of our website visitors, license holders, customers and service users; in other words, where we determine the purposes and means of the processing of the personal data we collect. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy. Our website incorporates privacy controls which affect how we will process the personal data we collect about you when you purchase a product or service from us. This includes your ability to alter, modify, change, delete or otherwise control such information as well as your abitlity to limit and/or specify the types of communication you receive from us. You can access your information at <https://www.smartertools.com/account/>. In this policy, "we", "us" and "our" all refer to SmarterTools Inc. 
 
+### Collected Data and Use
 
+We may collect and process information about your interaction with SmarterTools sites and services (" **usage data** "). For example, we may use website analytics tools -- our own and/or those provided by third-parties -- to retrieve, process and display certain information such as your IP address, the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height, etc. We may also use cookies to collect information about the pages you view, the links you click and other actions you take on our site. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, operating system and referring website addresses. The source of this data is the website analytics tools used by us. The usage data may be processed for the purposes of anlayzing the use of our website and services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our website and services. 
 
-  * [About Us](https://web.archive.org/about.aspx)
-  * [Partner Programs](https://web.archive.org/partner-programs.aspx)
-  * [Data Centers](https://web.archive.org/data-centers.aspx)
-  * [Privacy Policy](https://web.archive.org/privacy-policy.aspx)
-  * [Terms of Service](https://web.archive.org/terms.aspx)
+We may process your profile data (" **profile data** "). The profile data may include your name, display name or pseudonym and email address. The source of the profile data is you and it may be processed for the purposes of operating our website and support services, providing our services and communicating with you. The legal basis for thie processing is our legitimate interests, namely interaction with you via our support portal located at [https://portal.smartertools.com](https://portal.smartertools.com/).
 
+We may process information relating to transactions, including purchases of goods and/or services, that you enter into with us and/or through our website (" **transaction data** "). The transaction data may include your contact details, your credit card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and/or services and keeping proper records of those transactions. The legal basis for this processing is the performance of a transaction between you and us and/or taking steps, at your request, to enter into such a transaction and our legitimate interests, namely our interest in the proper administration of our business.
 
+We may process your testimonial data (" **testimonial data** "). The testimonial data may include your name, your business name and email address. The source of the testimonial data is you and it may be processed for the purposes of providing your testimonial about us, our products and/or services and displaying said testimonial on our website or in other marketing material. The legal basis for this processing is our legitimate interests, namely the marketing of our website, business, products and services.
 
-##  Disclosure of Personal Information
+We may process information contained in or relating to any communication that you send to us (" **correspondence data** "). The correspondence data may include the communication content and metadata associated with the communication. The correspondence data may be processed for the purposes of communication with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.
 
-Except as described in this statement, SmarterTools will not disclose personally identifying information about our customers to third parties without consent. We may share information regarding license verification, validation, and upgrade services to registered partners of SmarterTools. From time to time, SmarterTools, our authorized partners or contracted third parties may contact customers to gauge satisfaction with our products and/or services or to gather statements about SmarterTools or our products and services for marketing and promotional purposes (i.e. white papers, case studies, testimonials etc.) on the SmarterTools website or other public-facing websites. Such statements will not be used without the customer's consent. Finally, we may access or disclose information about you when it is required by law, such as pursuant to a subpoena or other judicial order, to enforce our agreements of policies governing your use of SmarterTools products and services, and/or to protect our intellectual property rights.
+We may process information that you provide to us for the purpose of subscribing to our email notifications (" **notification data** "). The notification data may be processed for the purposes of sending you the relevant notifications. The legal basis for this process is your consent to receive such notifications.
 
-##  Security of Personal Information
+We may process your product usage data (" **product usage data** "). The product usage data may include the IP address and server name of the product and/or service you are using that has been purchased from us or from a reseller or partner of us. The product usage data may be processed for the purposes of analyzing the use of such products and/or services and to protect our intellectual property and product and/or service licensing. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights.
 
-SmarterTools is committed to protecting the security of your personal information. We employ industry-standard security measures to protect the loss, misuse, and alteration of the information we collect. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. While on a secure page, site visitors will notice a security icon on the bottom of the visitor’s browser.
+We may process any of your personal data identified in this policy where necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others. 
 
-##  Changes to Our Privacy Policy
+We may process any of your personal data identified in this policy where necessary for the purposes of obtaining or maintaining insurance coverage, managing risks or obtaining professional advice. The legal basis for this processing is our legitimate interests, namely the proper protection of our business against risks.
 
-SmarterTools’ privacy policy may change from time to time. When we post changes to this privacy policy, we will revise the “last updated” date on this page.
+In addition to the specific purposes for which we may process your personal data set out in this section, we may also process any of your personal data where such processing is necessary for compliance with legal obligation to which we are subject or in order to protect your vital interests or the vital interests of another natural person.
 
-Upon request, we may provide site visitors with access to all information (including proprietary information) that we maintain about them. Please contact our sales department to request and/or correct this information.
-
-##  Collected Information
-
-We may collect information about your interaction with SmarterTools sites and services. For example, we may use website analytics tools on our site to retrieve information, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height, etc. We may also use cookies to collect information about the pages you view, the links you click and other actions you take on our site. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, and referring website addresses.
-
-SmarterTools also collects and retains information you submit to us, including the email address of individuals that post messages to our Community or communicate with us via email. It is up to you whether to submit information to us and how much information to provide. If you choose to become a SmarterTools customer or partner, we may ask for other personally identifiable information, and/or information used to monitor performance and protect our intellectual property rights. This additional collected information is defined in the software End User License Agreement (EULA), Partner Agreement, Terms of Service Agreement, or other related documentation.
-
-If individuals submit resumes or employment applications online, we may ask for specific contact information, such as name, address, phone number, email address, and employment history. This information is collected and used to assess the individual’s qualifications for an open position within the company.
-
-##  Use of Collected Information
-
-SmarterTools collects and uses your information to operate and improve our site and services. These uses may include providing you with more effective customer service; making the site easier to use by eliminating the need to repeatedly enter the same information; performing research and analysis aimed at improving our products, services, and technologies; helping to diagnose technical problems; and other business functions.
-
-We may also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. We may occasionally send emails to our customers regarding new features and upgrades to our products. Customers wishing to opt out of such emails can modify their subscriptions by logging into their customer account. Customers are responsible for maintaining the confidentiality and security of their user registration and passwords.
-
-We do not send email to non-customers, except in cases where those email addresses are used as points-of-contact when a product or service is ordered, trial licenses are issued, technical support is required, or information is requested.
-
-Last updated September 21, 2011
+You should not supply any other person's personal data to us, unless we prompt you to do so. In addition, we do not send email to non-customers or otherwise use personal information provided to us except in cases where that information is provided as a point-of-contact when a product or service is ordered, trial licenses are issued, technical support is required or other information is requested. In such cases, the above referenced data types are equally enforced and applicable.
