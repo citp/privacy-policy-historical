@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quadrigacx.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228025126id_/https%3A//www.quadrigacx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quadrigacx.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814234304id_/https%3A//www.quadrigacx.com/privacy) for the most accurate reproduction.*
 
 # Quadriga Coin Exchange | Privacy Policy
 
@@ -30,6 +30,52 @@ QuadrigaCX may collect and use personal information for the following purposes:
 
 
 QuadrigaCX will not disclose your personal information to any third party. However, as we deem reasonable, your information may be shared with any division of QuadrigaCX or its subsidiaries in order to provide the best possible user experience. We will not sell, trade or rent any personal information provided to QuadrigaCX with any third party. We will not share your information with any government agency, unless required to do so by law.
+
+## European General Data Protection Regulation
+
+The following portions of our privacy policy apply specifically to European users and are designed to comply with GDPR regulations.
+
+### Information Specifics
+
+QuadrigaCX specifically gathers the following information from users:
+
+  * IP addresses
+  * Browser information
+  * User agent information
+  * Cookie information (Persistent and Session Cookies)
+
+
+
+Users who create accounts are asked to provide:
+
+  * Name
+  * Address
+  * Phone Number
+  * Date of birth
+  * Email Address
+  * ID documentation for KYC/AML procedures
+
+
+
+Additional Information that may be requested:
+
+  * Banking information
+  * Additional KYC information
+  * Cryptocurrency address information
+
+
+
+### Legal Basis for data collection
+
+If you are from the European Economic Area, our legal basis for collecting and using personal information described above depends on the type of information collected and the context in which we collect it.
+
+Information is collected to prevent fraud, comply with Canadian legislation and to prevent money laundering. Furthermore, information is collected to facilitate the services that we provide (For example, banking information to send payments to your account.)
+
+Information that is collected from our users is stored in compliance with Canadian privacy legislation and AML/KYC legislation. In compliance with European regulations, European users may request a copy of all information that we store pertaining to their account at any time.
+
+All European user data is stored in an encrypted format on European servers. The information may be access by employees of QuadrigaCX located in Europe or Canada in order to provide services to our European users. When this occurs, information is transmitted in an encrypted format to ensure the highest level of data protection.
+
+All users may request that their account be closed at any time from within the account settings section of their account. Additionally, European users may request that their information be permanently deleted from our systems.
 
 By using QuadrigaCX, you accept the above privacy policy. If you do not accept this policy, please leave QuadrigaCX immediately. Continued use of QuadrigaCX or any of our services constitutes your acceptance of these terms. QuadrigaCX may modify this policy at any time. Please review this policy regularly.
 
