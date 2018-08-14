@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fileflares.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413032000id_/http%3A//fileflares.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflares.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814095921id_/http%3A//fileflares.com/privacy-policy.html) for the most accurate reproduction.*
 
-# FileFlares.Com - Dosya paylaЕџД±mД±nД±n en kolay yolu
+# FileFlares.Com - Easy way to share your files
 
 **What information do FileFlares.Com collect?**   
 We collect information from you when you register on our site or place an order.   
@@ -26,7 +26,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**   
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.   
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 **Do we disclose any information to outside parties?**   
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
