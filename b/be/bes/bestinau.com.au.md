@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestinau.com.au privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328195704id_/https%3A//bestinau.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestinau.com.au privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814112654id_/https%3A//bestinau.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best in Australia
 
