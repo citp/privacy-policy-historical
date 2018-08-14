@@ -1,77 +1,141 @@
-> *The following text is extracted and transformed from the debtproofliving.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608165131id_/http%3A//www.debtproofliving.com/Help/GeneralInformation/PrivacyPolicy/tabid/202/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtproofliving.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814161910id_/http%3A//www.debtproofliving.com/Help/GeneralInformation/PrivacyPolicy/tabid/202/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Your Privacy is Important to Us**
+DPL Press, Inc., a California Corporation and Mary Hunt d.b.a. Everyday Cheapskate and Debt-Proof Living (“Company,” “we,” or “us”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-At Debt-Proof Living we recognize and respect the importance of maintaining the privacy of our customers and the users of our website. Below we describe why we gather customer information, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use or disclosure of that information. We maintain very strict privacy and security standards for our customers that were created to protect your personal information.  We apply the same rules to former customers as current customers.
+This Privacy Policy governs your access to and use of www.everydaycheapskate.com, including any content, functionality, and services offered on or through www.everydaycheapskate.com (the “Website”), whether as a guest, subscriber and or a registered user.
 
-We require all of our customers to log in to our website before they are permitted to gain access to their account information. You must enter your unique Debt-Proof Living username and enter your personal password in order to log in to our website. Ultimately, you are responsible for keeping your password secret, which means that you should not tell anyone what your password is. We recommend that you change your password regularly by going, at anytime, to the My Account page and entering a new password.
+When accessing the Website, we will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
-**Why do we gather information?**
+Please read this Privacy Policy carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy. Through the use of www.everydaycheapskate.com you are herein consenting to the following data procedures expressed in this agreement.
 
-We gather personal information about you to allow us to process your orders, to provide an enhanced and personalized experience, to contact you from time to time regarding products and services that might be of interest to you and to provide you with information about us.
+## Children Under The Age Of 13
 
-**Personalization**
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-Although you may use many features of this site without completing a registration or sign-up form, visitors who do register and/or sign up for special services may have access to additional features of the site and are more likely to receive information suited to their interests. For example, a registered user is eligible for additional services provided by this website such as listener clubs and personalized content. Our registration and special services sign-up forms may ask you for contact information (like name or email address) and demographic information (like zip code or age). You must provide the information in order to receive the benefits of registration or of the special service.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@everydaycheapskate.com.
 
-We may use the contact information you give us to better tailor your website experience to your interests, and to send you information about Debt-Proof Living and its services as well as promotional material on behalf of some of our partners. We use other information that you provide to us to show you content in which you may be interested and to display the content according to your preferences.
+## Information We Collect About You
 
-In addition, we may share this information with advertisers or other third parties that are not part of Debt-Proof Living on an aggregate or other basis that does not disclose your identity or contact information.
+When you access the Website, the Company will learn certain information about you during your visit. The Website provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms, providing comments or other feedback, and providing information when ordering a product via the Website.
 
-**Online Surveys/Contests**
+We use the information you provide to us to provide the service and/or deliver the requested product, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-From time to time, we may conduct online surveys and contests. These ask you for contact information (like name or email address) and demographic information (like zip code or age). We may use this contact information from our surveys and contests to provide you with information about our company and promotional material on behalf of some of our partners, and to contact you when necessary.
+## Information We Collect Through Automatic Data Collection Technology
 
-**Supplemental Information**
+As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website. Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-To enhance Debt-Proof Living's ability to tailor this site to your preferences, we may combine information that you provide us on registration and other online sign-up forms with other information about you that we may obtain. We do not share that information with any other party.
+The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
-**Public Forums**
+## Use of Cookies And Pixels
 
-This site may make available chat rooms, blogs, forums, message boards, and news groups. Please remember that any information that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-**What types of personal information do we gather?**
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-We collect nonpublic personal information about you from the following sources: (i) the member forms that you complete with Debt-Proof Living for any of our services, including Debt-Proof Living Online, or by ordering any books and/or products from our bookstore, and other products and promotions that we may offer from time to time; (ii) any information you enter on our website or give to us in any other way, including information about your transactions and experiences with us, and (iii) information that is collected when you interact with us, such as information gathered through the use of "cookies" and other electronic collection or identifying devices.
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.
 
-**Ho** **w we use or disclose information we collect about you:**
+## Third Party Use Of Cookies
 
-Debt-Proof Living does not disclose any nonpublic personal information about you or any of our former customers to anyone, except as permitted by law.  We limit the collection and use of your information to the minimum we require to deliver our services to you, including advising you about our products and services in connection with administering our customers.
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-Debt-Proof Living may provide aggregate statistics about our customers, traffic patterns, and related site information to outside parties (i.e., third party partners, industry analysts or the media); however, these statistics will not include personally identifiable information or account information about any of our individual customers.
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-We may disclose some or all of the information we collect (as described in the preceding paragraphs) to third parties to provide functions on our behalf, such as marketing services, maintaining and servicing your account or maintaining our website. Other examples of the work they may be doing for us include fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, and providing customer service. These third parties have access to personal information needed to perform their functions, but may not use it for other purposes.
+## International Transfer
 
-In addition, as we continue to develop our business, we might sell, buy, transfer, exchange, or merge all or a portion of a business or an operating unit.  In such proposed or actual transactions, nonpublic personal customer information may be shared and may be one of the transferred business assets.
+Your information, including Personal Information, may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside the United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-**How we use "cookies" and other electronic devices.**
+## Links To Other Sites
 
-A "cookie" is a small file stored on your computer by a website which gives you a numeric user ID and stores certain information about your activity on the site. We use cookies and other electronic devices to establish a user session and monitor certain usage while you are on our site. Your usage is tracked primarily so that we can (i) if necessary, modify the website according to your usage to make the information you are looking for easier to find in the future,  (ii)  maintain sufficient hardware, software and personnel to provide you with a high level of service, and (iii) let third parties know about certain usage on our site. Most web browsers automatically accept cookies, but most allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature, certain aspects of our website may not function properly.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-**Will Debt-Proof Living Use Your Information for Direct Mailings?**
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-When you become a member or register with Debt-Proof Living, you are automatically "opted-in" to receive mailings or e-mails from us relating to (1) our Newsletter, (2) new features and/or services and (3) articles on our website.  Only Debt-Proof Living (or people working on our behalf and under confidentiality agreements) will send you these offers and mailings. If you do not want to receive such offers and mailings, you can let us know by clicking the "no" buttons on our registration page. By doing this you will be "opting out" of receiving further commuincation of that type from Debt-Proof Living.
+## Email Information
 
-**E-mail Announcements and Newsletters.** Debt-Proof Living uses e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters. Announcements via email are on an opt-in basis only. By posting material on any of our interactive areas, you are opting in to receiving these e-mail announcements. You can choose to unsubscribe to Debt-Proof Living's  e-mail at any time by sending an email to support@DebtProofLiving.com. Debt-Proof Living will also send replies to customer e-mail via e-mail. Finally, if you have sent a request to Debt-Proof Living about which we need to communicate with you, we may do so by e-mail. Invoices and membership renewals are also sent via email. Please be sure to at DebtProofLiving.com to your address book to insure prompt delivery to your email inbox.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.
 
-**Security**
+## Email Policies
 
-We restrict access to personal information about you to those employees who use the information to provide products or services to you. We maintain physical, electronic, and procedural safeguards to guard your personal information. For example, we use secure server software when you place orders or access your account information, as well as fire walls and secure socket layers, when appropriate. However, “perfect security” does not exist on the Internet and you should take necessary precautions to protect your information.
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
 
-**Your Account Information; Corrections**
+We will maintain the information you send via e-mail in accordance with applicable federal law.
 
-To view your account information; you must first login.
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
 
-If you would like to update or correct information previously provided to us, please go to the [My Account](http://www.debtproofliving.com/Home/Login/tabid/74/Default.aspx) page at any time to change your e-mail and/or home address and password.
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at any time.
 
-**Links to Third Party Sites**
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
-If you choose to click on certain links on this website, your browser may automatically take you to third party websites. The linked sites are not under the control of Debt-Proof Living, and Debt-Proof Living is not responsible for the contents of any linked site or any link contained in a site. These links are provided for your convenience in accessing other sites that may be of interest to you, and the inclusion of any link does not imply endorsement by Debt-Proof Living of any such linked site or its contents. Any opinions or recommendations expressed on such sites are solely those of the providers of such websites and are not the opinions or recommendations of Debt-Proof Living. If you decide to access any third party sites linked to or from our website, you do so entirely at your own risk. You should note that the privacy policy of the third party will govern the use of the information that you provide to that party and the use of that party’s website. Of course, our privacy policy no longer applies to the information that you provide to the third party or the use of that party’s website while you are on that party’s website.
+## How and Why We Collect Information
 
-**Your Consent and Changes to this Policy**
+The Company collects your information in order to record and support your participation in the activities you select. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or purchase products that you are required to provide information.
 
-Subject to the above provisions, by using our website, you acknowledge that this privacy policy is part of our Copyright and Other Legal Terms Agreement and you agree to be bound by all of its terms and conditions. If we decide to change our privacy policy, we will post those changes on this page and changes will become effective upon posting.
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll you to receive our promotional email communications, including our weekly magazine. If you do not wish to receive this communication, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to support@michaelhyatt.com requesting to unsubscribe from future emails.
 
-If you have any questions regarding our Privacy Policy, please contact us in writing at: Customer Support, Debt-Proof Living, PO Box 2099, Cypress, CA 90630 or via the Internet at: [support@debtproofliving.com](mailto:support@debtproofliving.com).
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email communication if you affirmatively consent to it. If you do not wish to receive this communication, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to support@everydaycheapskate.com requesting to unsubscribe from future emails.
+
+## How Do We Use the Information That You Provide to Us?
+
+We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.
+
+From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.
+
+From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.
+
+## Disclosure Of Your Information
+
+As a general rule, we do not sell, rent, lease or otherwise transfer any information collected whether automatically or through your voluntary action.
+
+We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.
+
+We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
+
+## How Do We Protect Your Information and Secure Information Transmissions?
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically.
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Credit Card information and other sensitive information is never transmitted via email.
+
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+## Policy Changes
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+## Visitors’ GDPR Rights
+
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
+
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
+
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To exercise these rights please email us at support@everydaycheapskate.com.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
+
+## Contact Us
+
+The Company welcomes your questions or comments regarding the Privacy Policy:
+
+DPL Press, Inc. 12340 Seal Beach Blvd., Suite #B-416, Seal Beach, CA 90740
+
+Email Address: support@everydaycheapskate.com
+
+Effective as of May 23, 2018
