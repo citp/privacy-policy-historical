@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationsphotolab.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609193646id_/http%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationsphotolab.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814072509id_/https%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Nations Photo Lab Privacy Policy
 
