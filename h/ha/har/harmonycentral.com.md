@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611032600id_/http%3A//www.harmonycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815014918id_/https%3A//www.harmonycentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Harmony Central
 
