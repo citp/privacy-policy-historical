@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-astro.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615062247id_/http%3A//www.russellgrant.com/sitewide/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-astro.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814130439id_/http%3A//www.russellgrant.com/sitewide/privacy.php) for the most accurate reproduction.*
 
 # Russell Grant Psychic Horoscopes : www.russellgrant.com/sitewide/privacy.php
 
