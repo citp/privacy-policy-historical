@@ -1,229 +1,239 @@
-> *The following text is extracted and transformed from the mennetwork.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119001739id_/https%3A//www.men.com/terms/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mennetwork.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814024758id_/https%3A//www.men.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy and are committed to protecting it through our compliance with this privacy policy.
+**_Last Modified: May 21st, 2018_**
 
-This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.men.com](https://www.men.com/) (hereinafter “ **Men.com** ” network or the “ **Website** ”), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures.
+## Introduction
 
-We encourage you to read this privacy policy carefully when visiting our Website. By using our Website, you are accepting the practices described in this privacy policy.
+MG Cyprus Limited (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [men.com](http://men.com/) (hereinafter “ **Men.com** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
 
-If you have any questions about our privacy practices, please refer to the end of this privacy policy for information on how to contact us.
+Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
-This privacy policy applies to information we collect:
+If you have any questions about our privacy practices, please see “ _Contact Information_ ” below for information on how to contact us.
+
+We collect, process and retain personal data to the extent it is necessary to provide users with our service. This privacy policy applies to information we collect:
 
   * on this Website,
   * in e-mail, text and other communications between you and this Website,
-  * through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website, or
-  * when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
+  * through mobile applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website, or
+  * when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this privacy policy.
 
 
 
 It does not apply to information collected by:
 
   * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or
-  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements.
 
 
 
-Please read this privacy policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using the Website, or by clicking to accept or agree to the Terms of Service or the Terms of Use when this option is made available to you, you agree to this privacy policy. This privacy policy may change from time to time (see “ **Changes to Our Privacy Policy** ”). Your continued use of the Website after we make changes to this privacy policy is deemed acceptance of those changes, so please check this privacy policy periodically for updates.
+## The Data We Collect About You
 
-We may collect several types of information from and about users of our Website, including information:
+Personal data, or personal information, means any information about an individual from which that person can be identified by (“ **Personal Information** ”). It does not include data that has been anonymized or pseudonymized.
 
-  * by which you may be personally identified, such as first and last name, mailing address, email address, billing information, IP or “Internet Protocol” addresses, demographics, passwords or other online contact information, telephone number, any other information the Website collects that is defined as personal or personally identifiable information under applicable law or other identifier by which you may be contacted online or offline (“ **personal information** ”);
-  * that is about you but individually does not identify you; or
-  * about your internet connection, the equipment you use to access our Website, usage details (such as the web pages you visit, the links you click, and the searches you conduct on our Website), your browser type and language, access times, and the content of any undeleted cookies that your browser previously accepted from us.
+We may collect, use, store and transfer different kinds of personal data about you, which we have grouped together as follows:
 
-
-
-We may collect this information:
-
-  * directly from you when you provide it to us,
-  * automatically, as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons or other tracking technologies, or
-  * from third parties, for example, other websites controlled by us or our affiliates, our business partners or other third parties.
-
-
-
-All information we collect on this Website is subject to this Privacy Policy. By using the Website, you consent to all actions taken by us with respect to your information in compliance with this Privacy Policy.
-
-The information we collect on or through our Website may include:
-
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
-  * Your responses to surveys that we might ask you to complete for research purposes.
-  * Details of transactions, if any, you may carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
-  * Your search queries on the Website.
-  * We may also collect and store personal information about other people that you provide to us. If you use our Website to send others information that may interest them or messages through our system, we may store your personal information, and the personal information of each such recipient. Similarly, if you use our Website to upload, share or distribute content (including videos, comments or other submissions), and such content contains personal information about others, such information may be stored in order to allow for such uploading, sharing or distribution.
-  * When you access our Website from a mobile device like a tablet or phone, we may receive information about your location, your device, including one or more unique identifiers for your device, and your mobile carrier. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most devices allow you to turn off location services.
+  * **_Identity Data_** includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+  * **_Contact Data_** includes billing address, email address and telephone numbers.
+  * **_Financial Data_** includes bank account and payment card details.
+  * **_Transaction Data_** includes details about payments to and from you and other details of products and services you have purchased or received from us.
+  * **_Technical Data_** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this Website.
+  * **_Profile Data_** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * **_Usage Data_** includes information about how you use our Website, products and services.
+  * **_Marketing and Communications Data_** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
 
 
-You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Although, we may limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+We may also collect, use and share your data to produce and share aggregated insights that do not identify you. Aggregated data may be derived from your personal data but is not considered personal data as this data does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific Website feature. For example we may use your data to generate statistics about our users, to calculate the percentage of users accessing a specific Website feature, to calculate ad impressions served or clicked on, or to publish visitor demographics.
 
-As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
+We do not collect special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on how you use our Website and services, your Personal Information may include information that allows drawing conclusions about your sex life or sexual orientation (“ **Sensitive Personal Information** ”). The collection, use and disclosure of such Sensitive Personal Information is necessary to provide some of our service to you.
 
-  * details of your visits to our Website, including any form of aggregate data, navigational data, tracking data, location data, click-stream data, or historical data, number of clicks and how you interact with links on the Website, domain names, landing pages, pages viewed, and other such information, log files and other communication data and the resources that you access and use on the Website; and
-  * information about your computer and internet connection, including your IP address, operating system and browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us. An IP, or “Internet Protocol”, address is a unique number associated with your computer that may be communicated to other computers and servers when you use the Internet. The information collected may include the domain name of your internet service provider, referral data ( _g_., the address of the last page you visited prior to clicking through to the Website and the address of the exit page when you left our Website) and browser and platform type ( _e.g_., a Firefox browser on a Macintosh platform). We use this information to track how users are accessing and using the Website.
+## How is Your Personal Information Collected?
 
+We use different methods to collect data from and about you including through:
 
-
-We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). See “ _Choices About How We Use and Disclose Your Information_ ” below for information on how you can opt out of behavioral tracking on this Website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.
-
-The information we collect automatically is statistical data and may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
-
-  * estimate our audience size and usage patterns;
-  * store information about your preferences, allowing us to customize our Website according to your individual interests;
-  * speed up your searches; and
-  * recognize you when you return to our Website.
+  * **_Direct interactions._** Information that you provide when carrying out search queries on our Website or by filling in forms on our Website, in particular at the time of registering to use our Website, subscribing to our service, posting material, taking part in surveys, entering a contest or promotion sponsored by us, when reporting a problem with our Website. or requesting further services.
+  * **_Automated technologies or interactions_**. See “ _Third-party Use of Cookies and Other Tracking Technologies_ ” for details of how we may automatically collect your personal data.
+  * **_Third parties or publicly available sources_**. We may receive personal data about you from various third parties, for example, other websites controlled by us or members of our corporate group, our business partners or other third parties and public sources.
 
 
 
-The technologies we use for this automatic data collection may include:
+## User Contributions
 
-  * **Cookies (or browser cookies)**. Cookies are small text files that are stored in your web browser or downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. Cookies might be used for the following purposes: (i) to enable certain functions; (ii) to provide analytics; (iii) to store your preferences; and (iv) to enable ad delivery and behavioral advertising.
+We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content ( _e.g_., pictures, videos, audio files, _etc_.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at <https://support.men.com/corp/terms>. If you use a forum, blog, user commenting features, community or other interactive sharing or social features that may be offered through our Website, you should be aware that any Personal Information you submit, display, or publish there is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties without restriction, except to the extent limited access features are available, if any. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. If you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. Once you have posted information, you may not be able to edit or delete such information. To request removal of your personal information from our blog, sharing service or community forum, for example, send us an e-mail at [support@men.com](mailto:support@men.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
+## Information Collected Through Automatic Data Collection Technologies
 
+As you navigate through and interact with our Website, we use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information.
+
+We also use these technologies to collect information about your online activities over time and across third-party websites or other online services (“interest-based advertising”). See “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ” below for information on how you can opt out of behavioral tracking on this Website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking. The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies)**. Cookies are small text files that are stored in your web browser or downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, and allow a website to recognize a user’s device. 
 
 We currently use the following types of cookies:
 
-  * _Cookies that are strictly necessary_ : These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log into the members’ area of our Website and to check if a user is allowed access to a particular service or content.
-  * _Analytical cookies_ : These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
-  * _Functionality cookies_ : We are always glad to see you back. This type of cookies allows us to recognize you when you return to our Website in order to greet you by name and to remember, for example, your choice of language.
-  * _Targeting cookies_ : These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users’ interests. In addition, these cookies are used to identify the websites and the marketing materials you are accessing our Website from in order to target content (for example, to automatically show you our Website according to your language settings).
+    * _Cookies that are strictly necessary_ : These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
+    * _Analytical cookies_ : These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
+    * _Functionality cookies_ : These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
+    * _Targeting cookies_ : These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users' interests.
+    * We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple year
+
+
+  * **Flash Cookies**. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”.
+  * **Web Beacons**. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies, which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in an email) and are about the size of the period at the end of this sentence. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages or opened an e-mail, to understand usage patterns and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+  * **Analytics**. We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics and DoubleClick about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ” below.
 
 
 
-We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple years.
+## Third-party Use of Cookies and Other Tracking Technologies
 
-  * **Flash Cookies**. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see “ _Choices About How We Use and Disclose Your Information_ ”.
-  * **Web Beacons**. Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies, which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in an email) and are about the size of the period at the end of this sentence. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages or opened an e-mail, to understand usage patterns and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
-  * **Device identifiers**. When you use a mobile device like a tablet or phone to access our Website, we may access, collect, monitor, store on your device, or remotely store one or more “device identifiers”. Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by the Website. A device identifier may deliver information to us or to a third party partner about how you browse and use the Website and may help others or us provide reports or personalized content and ads. Some features of the Website may not function properly if use or availability of device identifiers is impaired or disabled.
-  * **Metadata**. Metadata is usually technical data that is associated with User Contributions. For example, Metadata can describe how, when and by whom a piece of User Contribution was collected and how that content is formatted. Users can add or may have Metadata added to their User Contribution including a hashtag, comments or other data. This makes your User Contribution more searchable by others and more interactive.
-  * **Analytics Tools**. We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our Website. These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information. The third party analytics companies who collect information on our Website and other online products or services may combine the information collected with other information they have independently collected from other websites or other online or mobile products and services relating to your activities across their network of websites as well as online or mobile products and services. Many of these companies collect and use information under their own privacy policies. In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of our Website and to otherwise collect and use data about your use of our Website. For more information about this practice, please see the “Third-party Use of Cookies and Other Tracking Technologies” section below.
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however the information they collect may be associated with your Personal Information or they may collect information, including Personal Information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based advertising or other targeted content.
 
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”.
 
+## How We Use Your Personal Data
 
-The information generated by Google Analytics and DoubleClick Cookies about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate / anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and providing other services relating to Website activity and internet usage to the Website. Google will not associate your IP address with any other data held by Google.
+We will only use your personal data when the applicable local law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this Website
-
-You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
-
-By downloading and installing the browser plug-in available at <https://www.google.com/settings/ads/plugin?hl=en>, you can permanently opt out of the DoubleClick cookie. The plugin lets you keep your opt-out status even when you clear all cookies.
-
-Please note that on this Website, for some countries Google Analytics code may be supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking).
-
-Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
-
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “ _Choices About How We Use and Disclose Your Information_ ”.
-
-In general, we use information that we collect about you or that you provide to us, including any personal information:
-
-  * to present our Website and its contents to you;
-  * to provide you with information, products or services that you request from us;
-  * to manage your account and provide you with customer support;
-  * to provide you with notices about your account or subscription, including expiration and renewal notices;
-  * to notify you about changes to our Website or any products or services we offer or provide though it;
-  * to allow you to participate in interactive features on our Website;
-  * to perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions;
-  * to track usage throughout various components of the Website ( _g_., tracking where traffic comes from, how traffic flows within the Website, _etc_.);
-  * to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns, ;
-  * to communicate with you about products or services that may be of interest to you either from us, our affiliates or other third parties;
-  * to develop and display content and advertising tailored to your interests on our Website and other sites;
-  * to verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * diagnose or fix technology problems;
-  * to enforce our terms and conditions;
-  * to manage our business;
-  * in any other way we may describe when you provide the information; or
-  * for any other purpose with your consent.
+  * For purposes of providing the services, customer management and functionality and security as is necessary to perform the services provided to you under our term and conditions and any other contract that you have with us.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
 
 
 
-We may also use your information to contact you about our own and third parties’ services that may be of interest to you. For more information, see “ _Choices About How We Use and Disclose Your Information_ ”.
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message.
 
-We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on the Website or while using our services.
+## Purposes for Which We Use Your Personal Information
 
-We may transfer your information and process it outside your country of residence, wherever the Website, its [affiliates](https://www.linkedin.com/legal/privacy-policy#Section_2_5) and service providers operate.
+In general, we use information that we collect about you or that you provide to us, including Personal Information and Sensitive Personal Information, for following purposes:
 
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop content and services that we hope you and other users will find of interest and to target content and advertising.
-
-We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to [opt out](https://vimeo.com/opt_out) of having your personal information shared:
-
-  * To our subsidiaries and affiliates.
-  * To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service and marketing assistance, performing business and sales analysis, supporting our Website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.
-  * To third parties to market their products or services to you if you have consented to these disclosures.
-  * To fulfill the purpose for which you provide it.
-  * For any other purpose disclosed by us when you provide the information.
-  * With your consent.
+  * **Provision of services** : to present our Website and its contents to you, including any interactive features on our Website, and to provide you with information, products or services that you request from us; we also collect and use Personal Information to verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * **Customer management** : to manage a registered users’ account, to provide customer support and notices to the registered user about his account or subscription, including expiration and renewal notices, and notices about changes to our Website or any products or services we offer or provide through it;
+  * **Customization of content** : to perform research and analysis about your use of, or interest in, our Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites;
+  * **Advertising** : to communicate with you about products or services that may be of interest to you either from us, our affiliates or other third parties (For more information, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”);
+  * **Analytics** : to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns;
+  * **Functionality and security** : to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement;
+  * **Compliance** : to enforce our terms and conditions and to comply with our legal obligations;
+  * in any other way we may describe when you provide the information; or for any other purpose with your consent provided separately from this privacy policy.
 
 
 
-We may also disclose your personal information:
+## Disclosure of Your Personal Information
 
-  * In response to a subpoena or similar investigative demand, a court order or other judicial or administrative order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law (including responding to any government or regulatory request). In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
-  * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to maintain and protect the security and integrity of our Website or infrastructure; to comply with applicable law or cooperate with law enforcement, government or regulatory agencies; or to enforce our Website terms and conditions or other agreements or policies.
+We do not disclose your Personal Information except in the limited circumstances described here.
 
-
-
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this privacy policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties.
-
-The information that we collect about you, including personal information, may be stored and processed in any country in which we, our affiliates or service providers maintain facilities.
-
-We may transfer information that we collect about you, including personal information, across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
-
-By using the Website you consent to the transfer of information that we collect about you, including personal information, to any country in which we, our affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this privacy policy.
-
-We use commercially reasonable safeguards (including physical, electronic and procedural measures) to help safeguard the information that we collect about you from unauthorized access and disclosure secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. Furthermore, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
-
-We want you to feel confident using our Website. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.
-
-We strive to provide you with choices regarding the personal information you provide to us.
-
-  * You can choose not to provide us with certain personal information, but that may result in you being unable to use certain features of our Website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our Website.
-  * You may, at any time, update, correct, or delete certain personal information that you have provided to us by contacting us at the email address provided at the end of this privacy policy.
-  * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly.
-  * You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
-  * You may permanently opt out of the DoubleClick cookie by downloading and installing the browser plug-in available at [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). The plugin lets you keep your opt-out status even when you clear all cookies.
-  * When you register on our Website, you may be given a choice as to whether you want to receive email messages, newsletters or both about product updates, improvements, special offers, or containing special distributions of content by us. If you no longer want to receive commercial or promotional emails or newsletters from us, you will need to avail yourself of the unsubscribe mechanism set out in the applicable communication. It may take up to seven days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
-  * If you submit personal information, you may delete your account with us at any time. If you delete your account, your personal information and any and all other account related information including, but not limited to, user profile data, sharing data and any other data, or content specifically associated with your account will no longer be accessible by you. After deleting your account, if you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved.
-  * You can disable the location services on your mobile device or tablet. Most likely, these controls are located in the device’s settings menu. If you have questions about how to disable your device’s location services, we recommend you contact your mobile service carrier or your device manufacturer.
+  * We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.
+  * **Service providers.** To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * **Legal successors**. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy.
 
 
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others; or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We also may share aggregated information with third parties for conducting general business analysis. This information does not contain any Personal Information and may be used to develop content and services that we hope you and other users will find of interest and to target content and advertising.
 
-We want you to feel confident using our Website. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications would always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+## Financial Information
 
-We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content ( _e.g_., pictures, videos, audio files, _etc_.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at [www.men.com/terms.](https://www.men.com/terms/) If you use a forum, blog, channel, bulletin board, chat room, user commenting features, or other interactive sharing or social features that may be offered through our Website, you should be aware that any personal information you submit, display, or publish there is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties without restriction, except to the extent limited access features are available, if any. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. If you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information. To request removal of your personal information from our blog, sharing service or community forum, for example, send us an e-mail at [support@men.com.](mailto:support@men.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Financial information (including Personal Information) that you have provided to us will only be shared with our third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors who only use your financial information and Personal Information for that purpose. All financial data and related Personal Information will not be shared by us with third parties except with your authorization or when necessary to carry out all and any transactions requested by you with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party is subject to their terms and conditions.
 
-You may, at any time, send us an e-mail at [support@men.com.](mailto:support@men.com) to request access to, correct or delete certain personal information that you have provided to us, except personal information or data that is necessary for administration purposes or for fraud prevention measures. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
-
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use found at www.men.com/terms/.
-
-Any financial data that you have provided to us will only be shared with the Website’s third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors who only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the Website with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this privacy policy. All such information provided to a third party is subject to their terms and conditions.
+## Third Party Login Functionality
 
 We may permit users with accounts on certain third party services, including but not limited to, social networking, search, sharing, and other services delivered by third parties, to bypass the standard applicable registration process. If you connect through an authorized third party service, you will be able to use your third party login information to log in to your account or access our content and Website. We are not responsible for the sharing, posting, commenting, or other content and information gathering practices of any third party services that may be triggered by using these third party login services. Please review their terms of service and privacy policies carefully before using third party login functionality to access our Website.
 
 By using any third party services to log in to your account or access our Website, you permit us to access, store and use all information related to your third party account that may be accessible to us through the third party service, including through its application programming interface (API), pursuant to this privacy policy.
 
-We may modify or revise our privacy policy from time to time in our sole discretion and you agree to be bound by such modifications or revisions. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at [www.men.com/terms/$privacy](https://www.men.com/terms/#privacy), so you are aware of any changes, as they are binding on you.
+## Transfers of Your Personal Information to Other Countries
 
-If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones.
+Whenever in the course of sharing information we transfer Personal Information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this privacy policy and as permitted by the applicable laws on data protection.
 
-All changes are effective immediately when we post them, and apply to all access to and use of the Website thereafter. The updated version of our privacy policy supersedes any prior versions immediately upon being posted, and the prior version(s) shall have no continuing legal effect. If you do not review new terms as posted, then you agree that you have waived your right to do so, and you are therefore bound by the updated conditions, even if you failed to review the new ones. You are on notice of changes, and your failure to review the amended terms is your own omission. By continuing to use the Website subsequent to us making available an amended version of our privacy policy, you thereby acknowledge, agree to and consent to such amendment.
+By using the Website you consent to the transfer of information that we collect about you, including personal information, to any country in which we, members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) or our service providers are located.
 
-We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of personal information by contacting us through this Website at [support@men.com.](mailto:support@men.com). When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by an individual and us.
+## Retention of Personal Information
 
-This privacy policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Website.
+We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-Our Website is not directed to children. If you become aware that your child has provided us with personal information, please contact us at [support@men.com.](mailto:support@men.com). We do not knowingly collect personal information from children. If we become aware that a child has provided us with personal information, we take steps to remove such information and terminate the child’s account.
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-We do not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy. The laws of Cyprus shall, to the extent applicable, govern this privacy policy.
+Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.
 
-If you have any questions about this privacy policy or our information-handling practices, please contact us at [support@men.com.](mailto:support@men.com)
+Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found under “ _Your Rights Related to Your Personal Information_ ”.
+
+If you have questions about our data retention practices, please send us an e-mail at [support@men.com](mailto:support@men.com).
+
+The period for which we keep your Personal Information that is necessary for compliance and legal enforcement purposes varies and depend on the nature of our legal obligations and claims in the individual case.
+
+## How We Protect the Security of Your Personal Information
+
+We take appropriate security measures (including physical, electronic and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data.
+
+You are responsible for maintaining the secrecy of your unique password and account information at all times. We are not responsible for circumventions of any privacy settings or security measures contained on the Website..
+
+## Choices About How We Collect, Use and Disclose Your Personal Information
+
+We strive to provide you with choices regarding the Personal Information you provide to us.
+
+  * You can choose not to provide us with certain Personal Information, but that may result in you being unable to use certain features of our Website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our Website.
+  * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly.
+  * You may opt out of the DoubleClick cookie or of Google Analytics by visiting the [Google advertising opt-out page](https://adssettings.google.com/) or by downloading and installing the browser plug-in available at [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+  * When you register on our Website, you may be given a choice as to whether you want to receive email messages, newsletters or both about product updates, improvements, special offers, or containing special distributions of content by us. If you no longer want to receive commercial or promotional emails or newsletters from us, you will need to avail yourself of the unsubscribe mechanism set out in the applicable communication. It may take up to seven days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * You may opt out of interest-based advertising on mobile devices by activating the “Limit Ad Tracking” or equivalent feature offered by your mobile platform. It will transmit a signal to us and to third-parties that indicates your data should not be used for interest-based advertising.
+  * If you submit Personal Information, you may delete your account with us at any time. If you delete your account, your Personal Information and any and all other account related information including, but not limited to, user profile data, sharing data and any other data, or content specifically associated with your account will no longer be accessible by you. After deleting your account, if you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved.
+
+
+
+## Your Rights Related to Your Personal Information
+
+Subject to local law, you have certain rights regarding the Personal Information we collect, use or disclose and that is related to you, including the right
+
+  * to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access);
+  * to rectify inaccurate Personal Information concerning you (right to data rectification);
+  * to delete/erase your Personal Information (right to erasure/deletion, “right to be forgotten”);
+  * to receive the Personal Information provided by you in a structured, commonly used and machine-readable format and to transmit those Personal Information to another data controller (right to data portability)
+  * to object to the use of your Personal Information where such use is based on our legitimate interests or on public interests (right to object); and
+  * in some cases, to restrict our use of your Personal Information (right to restriction of processing).
+
+
+
+If we ask for your consent to use your Personal Information, you can withdraw your consent at any time. Note that in case of a withdrawal of your consent you may no longer able to use several functionalities of our Website and our services.
+
+You may, at any time, send us an e-mail at [support@men.com](mailto:support@men.com) to exercise your above rights in accordance with the applicable legal requirements and limitations. If you are located in the European Economic Area, you have a right to lodge a complaint with your local data protection authority.
+
+Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information ( _e.g._ , your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
+
+## Changes to Our Privacy Policy
+
+We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <https://support.men.com/corp/terms> so you are aware of any changes, as they are binding on you.
+
+If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment.
+
+## Enforcement; Cooperation
+
+We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at [support@men.com](mailto:support@men.com). When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us.
+
+## No Rights of Third Parties
+
+This privacy policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Website.
+
+## Our Policy Towards Minors
+
+Our Website is not directed to persons under the age of 18 or the applicable age of majority in the jurisdiction from which the Website is accessed and we do not knowingly collect Personal Information from minors. If you become aware that your child has provided us with Personal Information, please contact us at [support@men.com](mailto:support@men.com). If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account.
+
+## No Error Free Performance
+
+We do not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy.
+
+## Contact Information
+
+If you have any questions about this privacy policy or our information-handling practices, please contact us at [privacy@men.com](mailto:privacy@men.com).
+
+You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Industrial Zone, Cyprus 2540, Phone: +357 22662 320, Fax: +357 22343 282.
+
+## Manage Your Private Data
+
+  * [ Request a Copy of my Data](https://www.managemydata.eu/requestDataCopy?productId=10136)
+  * [Request Deletion of my Data](https://www.managemydata.eu/requestDataDeletion?productId=10136)
+
+
