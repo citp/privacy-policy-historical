@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlyfoogly.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025043302id_/http%3A//www.googlyfoogly.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlyfoogly.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815204405id_/http%3A//www.googlyfoogly.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at GooglyFoogly.com
 
