@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225061202id_/https%3A//www.ecommunity.com/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815233752id_/https%3A//www.ecommunity.com/notice-of-privacy-practices) for the most accurate reproduction.*
 
 # Notice of Privacy Practices | Community Health Network
 
@@ -7,7 +7,7 @@ NOTICE OF PRIVACY PRACTICES
 
 ### THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-This Notice describes privacy practices of Community Health Network, Inc., Community Hospital North, Community Hospital East, Community Hospital South, Community Heart and Vascular Hospital (a facility of Community Hospital East), Community Howard Regional Health, Community Westview Hospital (a facility of Community Hospital East), Community Howard Specialty Hospital, Community Physician Network, Community Howard Physician Network, Community Home Health, Community Surgery Center North, Community Surgery Center East, Community Surgery Center South, Community Surgery Center Hamilton, Community Surgery Center Howard, Community Surgery Center Northwest, Community Endoscopy Center Indianapolis, Community Digestive Center Anderson, and their affiliates, including: any medical staff members, employees, volunteers, and health care professionals authorized to enter information into your health/medical records (hereinafter referred to as Community Health Network or Network).
+This Notice describes privacy practices of Community Health Network, Inc., Community Hospital North, Community Hospital East, Community Hospital South, Community Heart and Vascular Hospital (a facility of Community Hospital East), Community Howard Regional Health, Community Howard Specialty Hospital, Community Physician Network, Community Howard Physician Network, Community Home Health, Community Surgery Center North, Community Surgery Center East, Community Surgery Center South, Community Surgery Center Hamilton, Community Surgery Center Howard, Community Surgery Center Northwest, Community Surgery Center Plus, Community Endoscopy Center Indianapolis, Community Digestive Center Anderson, and their affiliates, including: any medical staff members, employees, volunteers, and health care professionals authorized to enter information into your health/medical records (hereinafter referred to as Community Health Network or Network).
 
 ### I. Our Duty to Safeguard Your Protected Health Information:
 
@@ -77,23 +77,19 @@ If you think we may have violated your privacy rights or if you disagree with a 
 
 If you have questions about this Notice or complaints about our privacy practices, please contact:
 
-Marti A. Baker, Network Privacy & Compliance Consultant  
+Marti A. Baker, Lead Compliance Consultant  
 317-621-7321  
 [E-mail Marti Baker](mailto:mabaker@eCommunity.com)
 
-Melissa Kleine, Chief Quality and Compliance Officer, Community Home Health  
-317-621-4832  
-[E-mail Melissa Kleine](mailto:mkleine@eCommunity.com)
+Dea Kent, Director Risk Management, Community Home Health  
+317-621-4815  
+[E-mail Dea Kent](mailto:dkent@eCommunity.com)
 
-Emily Rogers, Director of Human Resources, Community Westview Hospital  
-317-920-7273  
-[E-mail Emily Rogers](mailto:erogers2@eCommunity.com)
+Leslee Lantz, Senior Compliance Analyst, Community Howard Regional Health  
+765-776-8462  
+[E-mail Leslee Lantz](mailto:llantz3@ecommunity.com)
 
-Leslee Lantz, Director of Corporate Compliance, Community Howard Regional Health  
-765-453-8462  
-[E-mail Leslee Lantz](mailto:llantz@communityhoward.org)
-
-Jackie Smith, Network Privacy & Compliance Officer  
+Jackie Smith, VP Compliance  
 317-621-7324  
 [E-mail Jackie Smith](mailto:Jackie.Smith@eCommunity.com)
 
@@ -103,4 +99,4 @@ You may revoke an authorization to access, use or disclose your PHI, in writing,
 
 ### VII. Effective Date:
 
-This Notice was effective on 4/14/03. This Notice was updated on 10/15/04, 1/1/05, 1/21/05, 3/30/07, 1/1/10, 10/1/12, 9/23/13, 10/1/14, 7/1/15 and 6/10/16.
+This Notice was updated on 7/10/18.
