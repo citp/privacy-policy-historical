@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530231100id_/http%3A//www.homesandland.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815035909id_/https%3A//www.homesandland.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Homes & Land Privacy Policy | Homes & Land ®
 
@@ -16,4 +16,4 @@ By using the HomesAndLand.com web site and providing your personal information, 
 
 We use Google Anaytics data to collect non-personally identifiable information such as age, gender and interests in order to customize offerings to best suit our site visitors. 
 
-Feel free to contact us any time and we'll answer any additional questions or concerns you may have. Our email address is [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bcccced5cadddfc5fcd4d3d1d9cfddd2d8d0ddd2d892dfd3d1). 
+Feel free to contact us any time and we'll answer any additional questions or concerns you may have. Our email address is [privacy@homesandland.com](mailto:privacy@homesandland.com). 
