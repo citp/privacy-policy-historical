@@ -1,59 +1,54 @@
-> *The following text is extracted and transformed from the exituselite.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514021634id_/http%3A//www.exituselite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exituselite.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815150907id_/http%3A//www.exituselite.com/compliance/privacy) for the most accurate reproduction.*
 
-# Exitus Elite 2018
+# Privacy
 
-This privacy policy sets out how Exitus Elite uses and protects any information that you give when you use this website.
+**Effective Date: May 25, 2018**
 
-Exitus Elite is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Exitus Elite a CUG, LLC Company ("Exitus Elite") owns and operates the [http://www.exituselite.com](http://www.exituselite.com/) website business.  All references to "we", "us", or “our” shall be construed to mean Exitus Elite.
 
-Exitus Elite may change this policy from time to time by updating this page. You should check this page regularly so that you are kept up to date and that you are happy with any changes. This policy is effective from 03/01/2018.
+Exitus Elite will be acting as the “Data Processor” of the personal data you provide to us. This includes your personal contact information in which you are consenting to provide to an Exitus Elite affiliate member whom is using the services in which we provide.  We only collect basic personal information about you which does not include any special types of information or location-based information (GPS data). 
 
-**What We Collect**
+If you are customer of one of our affiliate member(s) who has entered into an agreement with us for the provision of our products or services, we will be acting as the “Processor” of your personal data which will be governed by our Data Processing Agreement. For more information, see the **Data Processing Agreement** on this page, and the affiliate member(s) will be acting as the “Controller” of your data.
 
-We may collect the following information:
+**WHY WE NEED YOUR DATA**
 
-First andName  
-Job title  
-Physical Address, State, City, and Zip Code  
-Email Address(s)  
-Preferences and Personal Interests    
-Other information relevant to customer surveys and/or offers
+We need to know your basic personal data consisting of contact information for purposes of responding to your inquiry on one of our contact us web pages and/or Opt-In capture pages, where you requested to receive information.  We collect your name, email address, and in some cases your phone number.  We use the consent method of double opt-in, meaning once you provide your contact information to us, we send you an email to confirm your request.  In order for you to receive the information you have requested, you will be required to select consent to receive emails from Exitus Elite, or an Affiliate Member.  
 
-What we do with the information we gather-
+Only after you have explicitly given your consent to receive information via the email address you provide and/or be contacted through the phone number that you provide, will you then start to receive the information requested or be contacted by Exitus Elite and/or an Affiliate Member. 
 
-We require this information to understand your needs and provide you with a better service, particularly for the following reasons:
+**WHAT WE DO WITH YOUR DATA**
 
-**Internal record keeping**
+Your personal data is processed by our staff located in the United States and the United Kingdom; however, for purposes of hosting and maintenance, your personal data may be archived on servers provided by us which are located in the US.  Apart from this processor, we won’t share your personal information with third parties outside our organization unless authorized by applicable law.
 
-We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting, using the email address which you have provided.
+If we are acquired by another party, we will share your personal data with the acquiring party. We maintain a data protection regime for the effective and secure processing of your personal data.  For more information, review the **Data Processing Agreement** on this page.
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website, according to your interests.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we use best practices to ensure your data is encrypted to the standard required in the GDPR to protect your personal data, we cannot guarantee the security of your data as it is transmitted and stored.
 
-**Security**
+**HOW LONG WE KEEP YOUR DATA**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We will not retain your personal data for longer than required. This means that we will keep your personal information: (i) for as long as required by law, (ii) until we no longer have a valid reason for keeping it, or (iii) until you request us to stop using it.  When we delete your personal data from our databases, it will remain in our backup system until it cycles out.
 
-**How we use cookies**
+We will not delete your personal data that you provide for purposes of responding to your inquiry on our Contact Us web page and similar web pages, as long as you are continuing to request information from us.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+**WHAT ARE YOUR RIGHTS**
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+You have right to: 
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+1) Request access to and rectification or erasure of your personal data.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+2) Request restriction of processing your personal data. 
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+3) Withdraw your consent at any time. If you provide a notice to us regarding your exercise     any of the above rights, we will forward your notice to other authorized parties which     are holding and processing your personal data, where appropriate. 
 
-**You may choose to restrict the collection or use of your personal information in the following ways:**
+To exercise your rights stated above, you will need to send your request via email to: [privacy@exituselite.com](mailto:privacy@exituselite.com) 
 
-Controlling your personal information  
-Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at: support.exitus.elite@exituselite.com
+If you wish to raise a complaint regarding how we have processed your personal data, you can contact us via one of the methods below and we will investigate the matter. If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law, you may complain to the data protection officer in the country in which you reside.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+**HOW TO CONTACT US**
 
-You may request details of personal information which we hold about you. A small fee will be payable. If you would like a copy of the information held on you, please write to:
-
-CUG LLC, 24411 Ridge Route, Suite 200, Laguna Hills, CA, 92653
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+**Exitus Elite a CUG LLC Company  
+** Attn: Privacy Policy Officer  
+24411 Ridge Route Dr. Ste 200,  
+Laguna Hills, CA, 92653  
+Email: [privacy@exituselite.com](mailto:privacy@exituselite.com)  
+Telephone: [+1 (321) 325 6055](tel:+13213256055)
