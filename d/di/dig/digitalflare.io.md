@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalflare.io privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024120847id_/http%3A//digitalflare.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalflare.io privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815150447id_/http%3A//digitalflare.io/privacy.html) for the most accurate reproduction.*
 
 # DigitalFlare| Terms & Conditions
 
