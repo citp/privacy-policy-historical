@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630130828id_/https%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815200831id_/https%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Derivative TouchDesigner
 
@@ -53,6 +53,10 @@ Derivative will retain your personal information only for as long as is necessar
 **SECURITY**
 
 The security of your personal information is a priority for Derivative and its employees. Derivative has adopted appropriate measures to safeguard your personal information against loss, theft and unauthorized access, disclosure, copying, use and modification. 
+
+**GDPR COMPLIANCE**
+
+May 2018: Derivative is taking and has taken measures to comply with the European Union’s General Data Protection Regulation (GDPR). The processing of personal information, such as the e-mail address or payment information of a data subject shall be in line with the General Data Protection Regulation, and in accordance with the country-specific data protection regulations applicable to Derivative. 
 
 **CONTACT INFORMATION**
 
