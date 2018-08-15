@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625102135id_/https%3A//theshiftnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815141235id_/https%3A//shift.theshiftnetwork.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Shift Network
+# The Shift Network, Inc. Privacy Policy | The Shift Network
 
 The Shift Network, Inc. Privacy Policy
 
 This privacy statement discloses the privacy practices of The Shift Network, Inc. and all websites owned or operated by or on behalf of The Shift Network, Inc., including, without limitation,[ theshiftnetwork.com](http://theshiftnetwork.com/) (collectively referred to as “our websites”).
 
-### Contact Details 
+### Contact Details
 
 Legal Entity: The Shift Network Inc
 
@@ -37,7 +37,7 @@ Non-PII consists of aggregate information or any information that does not revea
 
 We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
-### How We Collect and Use Information 
+### How We Collect and Use Information
 
   * Log Files. Any time you visit any of our websites, our servers automatically gather information from your browser (such as your IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer the site, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. For example, we may log your IP address for system administration purposes. IP addresses are logged to track a user’s session. This gives us an idea of which parts of the site users are visiting. We do not share the log files externally.
   * Cookies. We use “cookies” to keep track of some types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user trends. We rely on cookies for the proper operation of our website; therefore if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. We do not link the cookies to any PII.
@@ -51,7 +51,7 @@ We do not collect any Sensitive Data about you. Sensitive data refers to data th
 
 
 
-### Purposes for processing your personal data 
+### Purposes for processing your personal data
 
 Set out below is a description of the ways we intend to use your personal data and the legal grounds on which we process such data. We have also explained what our legitimate interests are where relevant.
 
@@ -231,7 +231,7 @@ You can ask us or third parties to stop sending you marketing messages at any ti
 
 Where you opt out of receiving our marketing communications, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 
-### Change of purpose 
+### Change of purpose
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose.
 
@@ -239,7 +239,7 @@ If we need to use your personal data for a purpose unrelated to the purpose for 
 
 We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
-### Disclosure of Your Information to Third Parties 
+### Disclosure of Your Information to Third Parties
 
   * Disclosure By Law. You acknowledge and agree that we may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to comply with the law, requests or orders from law enforcement or any legal process, protect or defend our rights or property, or protect someone’s health or safety.
   * Disclosure to Trusted Third Parties By Us. We may share your non-PII with third parties, but not in a manner that would reveal your identity. We may share your PII, sometimes in conjunction with your non-PII with service providers that may be associated with us to perform functions on our behalf. For example, outsourced customer care agents or technology assistants may need access to your information to perform services for you. Your information will be treated as private and confidential by such service providers and not used for any other purpose than we authorize. In addition, from time to time, we may share PII (such as email or mailing address) about our user base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our users. If you do not wish to receive offers from our trusted partners, you can change your email preferences at any time by following the steps outlined in the “Choice/Opt-Out” section below.
@@ -250,17 +250,17 @@ We may process your personal data without your knowledge or consent where this i
 
 We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
 
-### Third-Party Advertising 
+### Third-Party Advertising
 
 We may partner with third-party advertising agencies or other service providers to serve ads on our website on behalf of The Shift Network or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies by following the procedures listed here.
 
 We will only share your information with third parties in the ways defined in this privacy statement.
 
-### Age Restrictions 
+### Age Restrictions
 
 Our age restrictions for different services are set forth in each website’s applicable Terms and Conditions of Service. We do not target any of our sites or services to children under the age of 13, and in compliance with the Children’s Online Privacy Protection Act, any information we may receive from users we believe to be under the age of 13 will be purged from our database.
 
-### Security 
+### Security
 
 We have security measures in place to protect against the loss, misuse and alteration of information stored in our databases. These measures include use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrator sessions, as well as other security measures which are applied to all data at rest and in transit. We will exercise reasonable care in providing for the secure transmission of information between your computer and our servers, but we cannot ensure or warrant the security of any information transmitted to us over the Internet and accept no liability for any unintentional disclosure.
 
@@ -300,7 +300,7 @@ We may need to request specific information from you to help us confirm your ide
 
 We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-### Links to Other Sites 
+### Links to Other Sites
 
 We are not responsible for the privacy practices or the content of other websites that may be linked to this site or of any third party advertisers.
 
@@ -308,20 +308,20 @@ We are not responsible for the privacy practices or the content of other website
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
 
-### Choice/Opt-Out 
+### Choice/Opt-Out
 
 Click on the “unsubscribe” link on the bottom of the e-mail.
 
-### Google/DoubleClick 
+### Google/DoubleClick
 
 You may opt out of the DoubleClick cookie by visiting the[ Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).  
 Or you may opt out of Google Analytics by visiting the[ Google Analytics Opt-out page](http://tools.google.com/dlpage/gaoptout).
 
-### Facebook 
+### Facebook
 
 In order to stop displaying our ads on your Facebook account, please manage your Facebook settings by clicking here: [Facebook Settings](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)
 
-### Updating Your Information 
+### Updating Your Information
 
 The Shift Network provides users the following options for changing and modifying information previously submitted.
 
@@ -329,11 +329,11 @@ The Shift Network provides users the following options for changing and modifyin
 
 2\. You can send mail or electronic mail to the address listed above, providing us with your account information and letting us know which information you wish to update.
 
-### Contacting the Website 
+### Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with any of our websites, you can contact: support@theshiftnetwork.com.
 
-### Acceptance of Privacy Statement 
+### Acceptance of Privacy Statement
 
 Your use of our websites, including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions of Service. BY USING OUR WEBSITES, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY STATEMENT AND THE APPLICABLE TERMS AND CONDITIONS OF SERVICE.
 
