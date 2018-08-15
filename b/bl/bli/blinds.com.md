@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007123835id_/https%3A//www.blinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815152414id_/https%3A//www.blinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Blinds.com order policies, terms, conditions
 
