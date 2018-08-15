@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionwebdirectory.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425103134id_/http%3A//www.visionwebdirectory.com/privacypolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionwebdirectory.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815204147id_/http%3A//www.visionwebdirectory.com/privacypolicies.html) for the most accurate reproduction.*
 
 # Privacy Policies - Directory Submitter, Article Submitter - Vision Web Directory
 
