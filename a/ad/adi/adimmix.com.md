@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adimmix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080234id_/http%3A//adimmix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adimmix.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815214402id_/http%3A//adimmix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ADimmiX
 
