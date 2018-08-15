@@ -1,58 +1,93 @@
-> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195834id_/https%3A//www.transamerica.com/individual/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815184343id_/https%3A//www.transamerica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Transamerica
+# Privacy Policy
 
-This website Privacy Statement will be updated from time to time to reflect any material revisions, so please check back often to review the statement.
+#### 
 
-Protecting your privacy is very important to us. We want you to understand what information we collect and how we use it. We collect and use personally identifiable information in order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible.
+**Effective Date:**  September 20, 2016
 
-This privacy statement applies to this website only and does not apply to any linked site or information received or collected by any other means. To learn about the privacy policy of a linked site, please refer to that site's privacy statement.
+This Online Privacy Statement (Statement) applies to this website or mobile application and the websites or mobile applications of Transamerica Corporation, and any of its U.S. subsidiaries and affiliates (collectively “we”, “us” or “our”) that link to this Statement (each a Site and collectively, the Sites). This Statement describes how Sites may collect, use and share information about you.
 
- **What Information We Collect and From Whom We Collect It**  
-We may collect personally identifiable information about you from the following sources:
+The Sites are intended for a U.S. audience. If you access one of our Sites from outside the United States, your information may be transferred or processed in the United States.
 
-  * Information that we receive from you via applications or other forms submitted to us, such as your name, Social Security number, address and date of birth;
-  * Information about your financial or service transactions with us, our affiliates, or others;
-  * Information we receive from non-affiliated third parties, including consumer reporting agencies;
-  * Information we derive from your access to and use of this web site through software;
-  * Information collecting tools like a cookie, pixel tags, web bug or web beacon or otherwise, such as your Internet browser, domain name and referring link; (Note: you can also set your browser security settings to reject cookies, however in doing so you may not be able to take full advantage of the site's functionality. For more about cookies, see [Cookies](https://web.archive.org/individual/terms-of-use/#cookies).
-  * Information you provide voluntarily when registering for account access through our website, such as confirming your policy or account number, Social Security number and providing your e-mail address and telephone number; and
-  * Information provided by you to initiate an online policy transaction or contained in an e-mail message sent to us.
+Depending on how you interact with us, and which of our affiliates provide the products and services you chose, your policy or contract and additional Transamerica and Transamerica affiliate privacy practices may also be applicable.
+
+Information We Collect Online| Children's Privacy Rights  
+---|---  
+How We May Use the Information We Collect| Accessing Your Data  
+Social Media| Protecting Your Data  
+Advertising Networks| Disputes  
+Information We Share| Updates to this Privacy Statement  
+Your Choices| How to Contact Us  
+  
 
 
+ **Information We Collect Online**
 
-If you do not want to provide this information to us via the Internet, please contact us at 319-355-8511 or toll-free at 1-800-Pyramid (797-2643) so that we can assist you.
+ **Information You Provide.** We collect information that you provide to us at the Sites, through applications, online forms and calculators, surveys and other communications. For example, we collect your information at the Sites when you:
 
-As of the effective date of this Privacy Statement noted below, we do not respond to web browser “do not track” or other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third party websites or online services. Please note also that when you use our website or other online services, third parties may collect your personally identifiable information, over time and across different websites. You can, however, set your browser to reject or limit cookies, but in doing so, you may not be able to take full advantage of a site's functionality. For more about cookies, see [Cookies](https://web.archive.org/individual/terms-of-use/#cookies).
-
- **What Information We Disclose and To Whom We Disclose It**  
-We do not disclose any personally identifiable information about you to either our affiliates or non-affiliates without your express consent, except as permitted by law. We may disclose the nonpublic personal information we collect to persons or companies that perform services on our behalf, that provide services to you, to financial institutions with which we have joint marketing agreements, and as required by law (for example regulators, law enforcement agencies).
-
-Our affiliates are companies with which we share common ownership or control and which offer insurance, pension, savings or investment products.
-
-This site is not directed towards children and we do not intend to market any products or services to children under thirteen (13) years of age. We do not knowingly gather or solicit data from children under thirteen (13) years of age through this site for any reason. By using this site you represent that you are not under thirteen (13) years of age.
-
- **Our Security Procedures**  
-We restrict access to your personal information and only allow disclosures to persons and companies as permitted by law to assist in providing products or services to you. We maintain physical, electronic, and procedural safeguards to protect your personal information. For more information about security for this site, see [Security](https://web.archive.org/individual/terms-of-use/#security).
-
-This Notice applies to the following Transamerica companies and any separate accounts established for the products they may offer.
-
-  * Transamerica Advisors Life Insurance Company
-  * Transamerica Premier Life Insurance Company
-  * Transamerica Casualty Insurance Company
-  * Stonebridge Life Insurance Company
-  * Transamerica Life Insurance Company
-  * Transamerica Financial Life Insurance Company
-  * Transamerica Investors Securities Corporation
-  * Transamerica Retirement Solutions Corporation
-  * Transamerica Series Trust
-  * Transamerica Capital, Inc.
-  * Transamerica Asset Management, Inc., including the funds for which it serves as Investment Advisor
-  * Transamerica Retirement Advisors, Inc.
-  * Transamerica Retirement Insurance Agency, Inc.
+  * make information available to us via social networking logins, such as Facebook or Twitter;
+  * participate in chats, web forums or other interactive sessions;
+  * subscribe to newsletters or provide feedback;
+  * participate in surveys, sweepstakes or other promotions;
+  * conduct searches through the Site;
+  * purchase or request a quote for an insurance product or other service;
+  * use Site tools and resources that request your or your family’s information;
+  * use our e-Billing services or manage your account and investment options through the Site;
+  * access other applications and services from this site, such as applying for a job or using the Locate an Agent function;
+  * register for or manage a policy, contract or account; or
+  * request additional information.
 
 
 
- **Last modified:  ** **October 13, 2014**
+This information may include name, address, telephone number, email address, date of birth, policy, contract or account numbers and, where reasonably required to complete the request or transaction, banking information, credit card number, Social Security number, driver’s license numbers and other information.
 
-Customers of the above companies receive copies of our Privacy Notice and HIPAA Notice of Privacy Practices as required by law.
+ **Usage Metrics.** Information regarding your use of this Site may be collected and/or aggregated through the use of automated means. This information may include:
+
+  * your IP address, and the type of browser and operating system used;
+  * date and time you access the Site and the pages you visit, and, if you linked from or to another website, the address of that website;
+  * email you open and links you click on within those emails;
+  * the duration of your use and the features and content you access; and
+  * information regarding your ISP or mobile carrier, and the type of handheld or mobile device that you used.
+
+
+
+ **Data Technologies.** Various technologies may be used to automatically collect information on the Site, such as cookies, web beacons and local shared objects. “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, connects web pages to web servers and their cookies. “Local shared objects,” sometimes known as Flash cookies, may be used to personalize your visit by storing your preferences or displaying content based upon what you have viewed on various websites. Anonymous advertising identifiers may be used on mobile devices and otherwise in a manner similar to cookies. We refer to these types of technologies generally as “Data Technologies,” which include today’s technologies and similar types of technologies as they evolve over time.
+
+One or more Data Technologies may be used by us on this Site and other websites and mobile applications (including websites that may not be operated by Transamerica). Third parties, who may have their own privacy policies, may also use Data Technologies to collect information on this or other websites.
+
+When you download or use apps or mobile-optimized websites to access our site or online services (“Mobile Sites”), we may receive information about your location and your mobile device, including a unique identifier for your device, device settings, analytical information about how you use your mobile device, and other information that may be stored on or accessed through your mobile device, including from apps not operated by Transamerica or from other devices connected to your mobile device. This information helps us provide you with location-based services, advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services by accessing the device’s settings menu.
+
+ **Publicly Posted Information.** Information that you make available to us and others via social media networks, forums, blogs, listserves, chat rooms or similar functionality is information that we or others may share or use in accordance with the law.
+
+ **Information from Other Sources.** We may also collect information about you from third party sources, including from commercially available third-party sources, such as credit reporting agencies or other companies that collect or analyze information about consumers or users. Examples of information we receive from other sources includes credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+
+ **Combined Information.** We may combine the information you provide us with the other information that we collect about you.
+
+  
+
+
+ **How We May Use the Information We Collect**
+
+ **We may use information we collect for a variety of purposes, including the following:**
+
+  * for our everyday business purposes, such as establishing and administering your policy, contract or account, providing information you request and providing customer support;
+  * to evaluate your eligibility for such products or services;
+  * to provide you with up to date information regarding the Site, your policies, contracts or accounts, including changes to terms and conditions and/or other administrative information;
+  * for special events, programs, surveys, contests, sweepstakes and other offers or promotions, some of which may have additional rules or provisions addressing how your personal information is used or shared;
+  * to develop new products and services and analyze the effectiveness of products, services, applications and websites;
+  * to deliver marketing communications that we think may interest you, including, ads or offers tailored to you;
+  * to deliver content (including advertising) correlating to your interests and browsing and usage history, both within this Site and on other websites and applications;
+  * to provide retirement calculators, assessments, and other financial planning tools on the Sites;
+  * to comply with the law and legal advice;
+  * to prevent fraud and enhance security;
+  * to allow you to utilize features within our Sites by granting us access to information from your device such as contact lists, or geolocation when you request certain services;
+  * to provide you with location-based services, advertising, search results, and other personalized content;
+  * to contact you via telephone, text or chat; and
+  * for other purposes permitted by law or to which you consent.
+
+
+
+We may also use data that we collect on an aggregate or anonymous basis (such that it does not identify any individual visitor) for various business purposes, where permissible under applicable laws and regulations.
+
+#### 
