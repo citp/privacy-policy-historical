@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the gyft.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014083403id_/http%3A//www.gyft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyft.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815214237id_/https%3A//www.gyft.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Gyft | Free eGift Card App | Buy Gift Cards
+# Privacy - Gyft
 
-## **Privacy Policy**
+**Last Revised:  September 4, 2014**
 
-Last Revised:  September 4, 2014
-
-Gyft, Inc., is a subsidiary of First Data Corporation and is referred to in this privacy policy (“Policy”) as “Gyft”, “we”, “our”, or “us”.  This Policy explains how personally identifiable information is collected, used and disclosed by Gyft with respect to your access and use of our mobile application (“App”), the Gyft websites located at [http://www.gyft.com](http://www.gyft.com/)  and app.gyft.com (collectively, the “Sites”) and Gyft’s online products and services provided therein (collectively with the App and Sites, the “Service”), so that you can make an informed decision about using the Service.  For the avoidance of doubt, the collection, use and disclosure of information by merchants that issue and redeem gift cards using the Service are governed by the privacy policies of those merchants.
+Gyft, Inc., is a subsidiary of First Data Corporation and is referred to in this privacy policy (“Policy”) as “Gyft”, “we”, “our”, or “us”.  This Policy explains how personally identifiable information is collected, used and disclosed by Gyft with respect to your access and use of our mobile application (“App”), the Gyft websites located at [https://gyft.com](https://gyft.com/)  and app.gyft.com (collectively, the “Sites”) and Gyft’s online products and services provided therein (collectively with the App and Sites, the “Service”), so that you can make an informed decision about using the Service.  For the avoidance of doubt, the collection, use and disclosure of information by merchants that issue and redeem gift cards using the Service are governed by the privacy policies of those merchants.
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated and, in some cases, we may provide you with additional notice (such as by adding a statement to the homepage of our App and/or Sites or by sending you an email notification). We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
 
