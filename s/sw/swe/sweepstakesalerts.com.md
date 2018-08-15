@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630204403id_/http%3A//sweepstakesalerts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816001544id_/https%3A//play.sweepstakesalerts.com/privacy) for the most accurate reproduction.*
 
-# SweepstakesAlerts.com - Privacy Policy
+# Privacy Policy
 
-**Last updated 2017 December 21**
+**Policy Last Revised: 2017 December 21**
 
 SweepstakesAlerts.com ("Company" "we" or "our") is committed to advising you of the right to your privacy, and strives to provide a safe and secure user experience. This Privacy Policy explains how we collect, store and use personal information, provided by you on our website. By accessing and using our website, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by you in the manner described in this Privacy Policy. Please read this Policy carefully, as it affects your rights and liabilities under the law. If you disagree with the way we collect and process personal information, please do not use this website. 
 
