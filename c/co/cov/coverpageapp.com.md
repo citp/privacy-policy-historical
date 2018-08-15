@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927105908id_/http%3A//www.coverpageapp.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815173455id_/http%3A//coverpageapp.com/en/policy) for the most accurate reproduction.*
 
 # CoverPage - Privacy Policy
 
