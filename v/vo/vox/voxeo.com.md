@@ -1,103 +1,160 @@
-> *The following text is extracted and transformed from the voxeo.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129135407id_/https%3A//www.aspect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxeo.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815125847id_/https%3A//www.aspect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aspect
 
-_Updated May 4, 2016_
+4\. Recipients / Disclosure of Information
 
-Welcome to aspect.com and voxeo.com.  Aspect.com, voxeo.com, and their subpages and related sites (together, “this website”), which are owned and operated by Aspect Software, Inc., located at 300 Apollo Drive, Chelmsford, MA 01824, USA ("Aspect" or "we" or "us" or "our"). This privacy policy ("Privacy Policy") explains how we collect, use, and disclose the personal information that we obtain through this website.
+  * **Internal Use**  
+The personal information you voluntarily submit to us during your use of the Sites will be placed into our customer relationship management (CRM) system. We may access that information in accordance with this Privacy Policy, provided that the access is lawful. Because of our global organization structure, our CRM system is accessible to all our affiliates worldwide as set out in the section 13 (Information Security) below.
+  * **External Use**  
+We will only disclose your personal information to a third party if such disclosure is in accordance with this Privacy Policy and provided that it is lawful to do so. We conduct an appropriate level of due diligence and put in place any necessary contractual documentation that may be required to ensure compliance with our legal and regulatory obligations.
 
-This Privacy Policy applies to all users of this website and/or of any services offered through this website (“Services”), whether or not you click "I Agree" through any registration or access process and whether or not you are a registered user. If you do not agree to this Privacy Policy, do not use this website or use or access the Services.
+Third parties to whom we may disclose personal information include: 
 
-**Consent**
-
-Your use of, and entry of personal information into, this website constitutes your consent to the use, processing, and transfer of your personal information in accordance with this Privacy Policy.  This website is hosted from servers in the United States.  Accordingly, if you are located in a different jurisdiction and enter personal information into this website, your personal information may be transferred to the United States or any other country as required by Aspect.  See “Transfer of Your Information,” below.  This website does not normally collect "sensitive" personal information, such as information about ethnic or racial origin, religious or philosophical beliefs, and/or health or medical conditions. However, if this website collects any sensitive personal information, your use and voluntary entry of information into this website constitutes your explicit consent to the collection, use, and disclosure of that information for the purposes and in the manner described in this Privacy Policy.
-
-**Information We Collect**
-
-Aspect may collect and use personal information and anonymous information and may use this information to create aggregate information about our users.  In addition, in order to access a Service, you may be required to complete one or several registration or order forms. During registration (and possibly thereafter), we may ask you to give your name, title, company name, telephone number, address and e-mail address, and other contact or identifying information. We also may ask you to choose a user ID, PIN and/or password. We may collect information by your presence on this website, even if you have not registered or subscribed to a Service.
-
-The information we collect will fall into one of the following categories: (1) "Personal Information," such as your name and e-mail address, which can be used to personally identify or contact you or confirm your identity; (2) "Billing Information," such as credit card information and billing address, which also is Personal Information; (3) "Usage Information," such as usage, viewing and technical data, including your device identifier or IP address, when you visit this website or open emails we send (see "Cookies and Other Passive Tracking Devices," below), and Service usage; and (4) "Anonymous Information," as described under "Cookies and Other Passive Tracking Devices," which we can aggregate across users.
-
-**How We Use Your Information**
-
-Aspect uses the personal information we collect to provide the highest level of customer service to our prospects, customers, investors and users in general.  We use your personal information to register you, regulate access to the Services, personalize and enhance your experience when visiting this website, contact you, provide materials to you upon your request,  allow you access into proprietary systems, to respond to your request or direction, and for any other purposes identified when your information is collected. Aspect will not use your information in ways unrelated to the ones described above without first obtaining your permission.  
-
-We use Billing Information and Usage Information to bill you for Services and to provide you with technical and billing support. We also use Usage Information to deliver content based on your usage patterns, provide you with information about Aspect products and services that we believe would be of interest, provide you with advertising based on your activity on our sites and on third-party sites, and other uses described under "Cookies and Other Passive Tracking Devices," below. You may choose to opt-out of receiving such emails by clicking on “Unsubscribe” at the bottom of the email and completing the on-screen form.
-
-We use Anonymous Information as described under "Cookies and Other Passive Tracking Devices," below.
-
-**Transfer of Your Information**
-
-We may, and you authorize Aspect to, transfer your information to Aspect Software, Inc. in the United States and to any Aspect affiliate worldwide for the purpose of processing or storage.  In no circumstance will Aspect sell, rent, transfer or lease your information to any third party except in the following circumstances:
-
-  * Aspect has your written consent.
-  * Transfer is to other Aspect entities and/or business partners who are acting on Aspect’s behalf for the uses described in "How We Use Your Information".  Such Aspect entities and/or business partners will be under the same duties as is Aspect under this Privacy Policy to keep the data secure, confidential and private.
-  * Transfer is required by law or court order.
-  * Transfer is done in connection with a business transaction, such as a merger, acquisition by another company, or the sale or transfer of all or a portion of Aspect’s assets to a successor-in-interest. You will be notified via email or prominent notice on this website of any such change in ownership or control of your Personal Information.
-  * Aspect believes, in its sole discretion, that transfer is necessary to protect and defend the rights, property or personal safety of Aspect, its affiliated companies, this website or its users.
-  * Your contact information (your name and email address)
-  * Your changed name, address, title, phone number or email address
+    * Our affiliates. Further details of our affiliates are available upon request from [gdpr@aspect.com](mailto:gdpr@aspect.com);
+    * Third party service providers and partners who help maintain and operate the Sites or who help us to provide our services to you or whose products or services may be integrated with our products and services. These include third parties processing information in relation to our CRM system, the hosting of the Sites, the provision of our IT systems, electronic communications service providers, and payment processors. Further details of such third parties are available upon request from [gdpr@aspect.com](mailto:gdpr@aspect.com);
+    * Any third party necessary to help us enforce our legal rights or those of others;
+    * Potential or new owners of our business or any part of it;
+    * Any third party to whom you instruct us to disclose your personal information (provided it is lawful for us to do so);
+    * Regulators and law enforcement agencies or any other third party who has satisfied us that we are required by law to disclose the personal information to them.
+  
+We may also disclose aggregated information about the Sites or the information collected through them which has been through a process of de-identification (i.e. anonymization or pseudonymization) to potential business partners (e.g. for purposes of search engine optimization).
 
 
 
-**Updating Your Personal Information**
+5\. Communications and Marketing
 
-Please notify us of any changes to your name, address, title, phone number or email address by emailing us at [communications@aspect.com](mailto:communications@aspect.com).  To aid in processing your request, please include the following details:
+We may use the information you provide to us (or which we observe about you from your interactions with the Sites, your email communications, and/or your interactions with our products and services) to contact you about us, our affiliates, or our products and services. Where you have consented or where we have another lawful basis to do so, we may send you marketing communications and may share your information within the Aspect group for such purposes. If at any time you receive marketing communications from us and no longer wish to do so you can unsubscribe or notify us by emailing: [communications@aspect.com](mailto:communications@aspect.com). You can also exercise your rights under the Your Rights with Regard to Your Personal Information section below.
 
-  * Your contact information (your name and email address).
-  * Your changed name, address, title, phone number or email address.
+6\. Transfers to Third Country and Safeguards
 
+We have a global business structure and as such we do transfer your personal information outside the European Economic Area (“EEA”) to one or more Aspect locations referenced here https://www.aspect.com/company/contact-us/global-office-locations. We also transfer your personal information to third parties as explained in section 4 above to locations throughout the world.
 
+We ensure that such transfers are lawful and that there are appropriate safeguards in place to ensure an adequate level of protection for the personal information transferred.
 
-**Security of Your Personal Information**
+The European Commission has decided that certain countries to which we transfer your personal information do not provide an adequate level of protection in relation to your personal information. We have therefore entered into Commission-approved agreements often referred to as ‘Standard Contractual Clauses’ or ‘Model Clauses’ where necessary.
 
-Aspect takes appropriate technical, physical and administrative steps to protect the security of your information. Access to your personal information is limited only to those employees, contractors or authorized agents of Aspect who have authorization to access your personal information and such access is limited to the extent such information is needed to fulfill the task for which personal information was collected. While we strive to protect your personal information, we cannot ensure the security of the information you transmit. We recommend you to take every precaution to protect your personal information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
+If you wish to see details of these safeguards, please reach out to us as set forth in Section 8 (Your Rights with Regard to your Personal Information) section.
 
-**Cookies and Other Passive Tracking Devices    **
+7\. Information Retention
 
-Aspect and certain service providers operating on our behalf use cookies, Web bugs and IP addresses (“Passive Tracking Devices”) to automatically collect aggregate and anonymous statistics about your activity on the website.  If you have provided your contact information to us, we may also use Passive Tracking Devices to collect information about your activity on the website and use that information to provide you with information about Aspect’s products and services that may be of particular interest.
+We will keep your personal information in accordance with our retention policies but will not keep it for longer than is necessary. In general, we will keep your personal information for the duration our business relationship with you and for a certain period afterwards. In considering retention timeframes, we take into account the nature of the information, the nature of our relationship with you, the relevance of the information, and our obligations to comply with applicable laws and regulations.
 
-“Cookies” are small files that this website places on your computer (if your computer accepts cookies) to identify your computer, but not you.  Cookies cannot be used to access or otherwise compromise the data on your computer. You may choose to change your browser settings to disable cookies, however, you will not be able to complete certain activities or access certain information on this website if cookies are disabled.  In addition, service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online.  For example, you can opt out of Google’s use of cookies by visiting [Google’s Ads Settings page](http://www.google.com/settings/ads).
+8\. Your Rights with Regard to Your Personal Information
 
-Aspect uses the information it collects using Passive Tracking Devices to:   
+If you are accessing the Sites from within the EEA, you have certain rights in relation to your personal information. Please note that these rights are subject to certain exemptions which may be applicable to any request you make:
 
-  * Monitor the use and operation of this website to make it easier to use and otherwise improve it.
-  * Manage features and programs made available through this website.
-  * Tailor the content of the website to make it more effective.
-  * Deliver content based on your usage patterns.
-  * Provide you with information about Aspect products and services that we believe would be of interest.
-  * Provide you with advertising based on your activity on our sites and on third-party sites.    
-    * Optimize our marketing efforts (such as keyword advertising purchase and search engine optimization) and to determine the success of our marketing campaigns.
+Your right of access. For more information click here
 
+Your right to rectification. For more information click here
 
+Your right to erasure. For more information click here
 
-Aspect may combine the information it collects using Passive Tracking Devices with personal information about you.  Aspect also may disclose aggregate information collected using Passive Tracking Devices to third parties. 
+Your right to restrict processing. For more information click here
 
-**Content You Post**
+Your right to data portability. For more information click here
 
-Any material you post on this website (for example, commenting on a blog or submitting questions, responses or other content to any Aspect hosted user group), including personal information, will be publically viewable on the website as soon as that information is submitted.  By posting any such material, you waive any privacy expectations that you may have with respect to the material posted.  If you don’t want others to see such information, don’t submit it.
+Your right to object. For more information click here
 
-**Links**
+Your rights in relation to automated decision-making and profiling. For more information click here
 
-This website contains links to other websites that are not owned by Aspect. You may also be directed to a third party website for certain purposes, such as registering with us or submitting a job application.  Please note that these other websites' privacy policies may differ from those of Aspect. We encourage you to read the privacy statement of any website you may visit because we are not responsible for any such website’s content or policies.
+Your right to withdraw consent. For more information click here
 
-**Children’s Privacy**
+Your right to lodge a complaint with the relevant supervisory authority. For more information click here
 
-Aspect does not knowingly collect personal information from children under the age of 13. If we learn that we have collected personal information of a child under the age of 13, we will take reasonable steps to delete that data from our systems. Please visit the Federal Trade Commision's website for more tips on protecting children's privacy online.
+You can exercise your rights by submitting a [Data Subject Request](https://web.archive.org/company/gdpr/data-subject-request).
 
-**Changes to this Privacy Policy**
+9\. Links
 
-Aspect may make changes to this Privacy Policy at any time.  When we do, we will change the “updated” date at the beginning of this Privacy Policy.  Please review this Privacy Policy frequently.  If we make material changes to this Privacy Policy, we will notify you by placing a prominent notice on the home page of this website.
+The Sites may contain links to other websites that are not maintained by or related to us. You may also be directed to a third-party website for certain purposes, such as registering with us or submitting a job application. Please note that these other website privacy and cookie policies may differ from ours. We encourage you to read the privacy and cookies statement of any website you may visit via the Sites. We are not responsible for any content, representations, or policies on such third-party websites.
 
-**Contact Us**
+10\. Social Media
 
-For further information about Aspect's privacy practices, please contact:
+Our Sites may include social media features or links to social media sites. These social media features may use tracking technologies to collect information about you, such as your IP address, which page you are visiting on the Sites, and may set a cookie to enable the social media feature to function properly. If you use social media features, information you post or provide access to may be publicly displayed on our Sites or by the third-party service that you use. Similarly, if you post information on a third-party service that references our Sites (e.g., by using a hashtag associated with Aspect), your post may be used on or in connection with our Sites. Also, both Aspect and the third party may have access to certain information about you and your use of our Sites and the social media features. Social media features are operated by a third party and governed by the privacy policy of the third party providing it. We are not responsible for and make no representations regarding the policies or business practices of any third parties and encourage you to familiarize yourself with and consult their privacy policies and terms of use.
 
-Aspect Software Legal Department  
-300 Apollo Drive  
-Chelmsford, MA 01824  
-978 250 7900 (phone)  
+11\. Mobile Platforms
+
+Our Sites may include the use of mobile media platforms. These platforms may use tracking technologies to collect information about you, such as your IP address, which locations you are visiting on the Sites, and may set a cookie to enable the platform features to function properly.
+
+12\. Children’s Privacy
+
+The Sites are not directed toward or designed for use by children. We do not solicit or knowingly collect personal information from children. If we learn that we have collected personal information of a child, we will take reasonable steps to delete that information from our systems. Additionally, a child’s parent or legal guardian may request that the child’s information be deleted from our files by contacting us as set forth in the about Aspect/Contact Us section below. We also encourage you to seek further advice for protecting children’s privacy online as appropriate (for example by visiting the U.S. Federal Trade Commission’s website).
+
+13\. Information Security
+
+We are committed to keeping your personal information confidential and secure. We maintain appropriate physical, electronic, procedural, technical and organizational measures to help safeguard personal information from loss, theft, misuse, unauthorized access, disclosure, alteration and destruction. Access to your personal information is limited to those who need the information to fulfill the task for which the personal information was collected. All our employees, contractors and agents who have access to and are associated with the processing of personal information are obliged to respect the confidentiality of the personal information of all visitors to the Sites and all users of our services.
+
+Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected, and we cannot guarantee the security of your information you transmit to our Sites. We recommend you take every precaution to protect your personal information when you are on the internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords and make sure you use a secure browser.
+
+14\. Changes to this Privacy Policy
+
+We may make changes to this Privacy Policy at any time. When we do, we will change the “updated” date at the beginning of this Privacy Policy. By using the Sites or the service, after the changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy.
+
+15\. About Aspect/Contact Us
+
+For further information about our privacy practices, please contact:
+
+Aspect Software, Inc.  
+Legal Department  
+2325 East Camelback Road  
+Suite 700  
+Phoenix, AZ 85016  
+U.S.A.  
+978.250.7900 (phone)  
 978 244 7410 (fax)  
 [legal-info@aspect.com](mailto:legal-info@aspect.com)
 
-© 2015 Aspect Software, Inc., 300 Apollo Drive, Chelmsford, MA 01824, USA
+© 2018 Aspect Software, Inc.
+
+Data protection law differentiates between a “controller” and “processor” of personal information. Different Aspect entities around the world carry out different functions and provide different products and services. In some instances, certain entities are controllers; and in others they are processors.
+
+In relation to the personal information collected through the Sites anywhere outside the EEA; Aspect Software, Inc. is the data controller.
+
+In relation to the personal information collected through the Sites anywhere within the EEA; the following Aspect entities are the data controllers:
+
+Aspect Software GmbH  
+Legal Department  
+Von-Der-Wettern-Strasse 27  
+51149 Cologne, Germany  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Aspect Software SL  
+Legal Department  
+Palacio de Miraflores, Carrera de San Jeronimo, 15, pl. 2, 28014 Madrid, Spain  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Aspect Software Italy SrL  
+Legal Department  
+Piazza del Popolo, 18, 00187 Rome, Italy  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Aspect Software BV  
+Legal Department  
+Rotterdam Brainpark Lichtenauerlaan 102-120, Rotterdam, 3062 ME, Netherlands  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Aspect Software UK LTD  
+Legal Department  
+The Record Store, 15 Pressing Lane, Hayes UB3 1EP, UK  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Aspect Software Ireland Ltd.  
+Legal Department  
+70 Sir John Rogerson’s Quay, Dublin 2. Ireland D02 R296, Ireland  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Qivox Limited  
+Legal Department  
+7th Floor Yorkshire House, 18 Chapel Street, Liverpool L3 9AG, UK  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Voxeo Europe LTD  
+Legal Department  
+The Record Store, 15 Pressing Lane, Hayes UB3 1EP, UK  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
+
+Voxeo Germany GmbH  
+Legal Department  
+Von-Der-Wettern-Strasse 27  
+51149 Cologne, Germany  
+[legal-info@aspect.com](mailto:legal-info@aspect.com)
