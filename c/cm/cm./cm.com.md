@@ -1,69 +1,77 @@
-> *The following text is extracted and transformed from the cm.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007034903id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cm.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/privacy-policy) for the most accurate reproduction.*
 
 # Legal
 
-## What this Privacy Policy Covers
+Who is CM? CM Groep B.V. 
 
-**CM Online B.V., Konijnenberg 30, Breda, 4825BD, Netherlands (the), VAT NL850861482B01, KVK 53384911** is the responsible entity and has created the following Privacy Policy to describe how CM uses information it collects when people visit the CM platform at [http://www.cmtelecom.com](http://www.cmtelecom.com/) (the Website) or sign up to use CM’s services. By using the Website and any services we offer via this website, you agree to be bound to this Privacy Policy in respect of your personal information collected via your use of the Website and/or our services. CM takes the privacy of your information very seriously. The policy explains the way CM processes, stores and protects user data and information.
+Konijnenberg 30, 4825 BD Breda, the Netherlands
 
-## Collection and Use of Personal Information
+Chamber of Commerce 20095946
 
-You can visit the Website without revealing any personal information. However, CM needs certain personal information if you wish to purchase our products or use certain CM services, register for an account, download whitepapers or receive CM newsletters.
+www.cm.com 
 
-By accessing the services of CM and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.
+CM Groep B.V. operates the website www.cm.com. This privacy policy describes the way in which we store and use your personal information that we collect on our website. 
 
-Where required, this information may include your personal contact information and/or your company contact information. CM will use this information to reply to your inquiries, to provide you with requested products and services, to set up your CM Direct account, and to contact you regarding new products and services. Our newsletters or e-mails to promote our products and services offer you the opportunity to unsubscribe.
+**What personal data do we process?**
 
-Your information such as personal name, company name, email-address and phone number will be kept in our database and is stored on our own servers, located in Breda and Rijen, the Netherlands.
+When you use our website, we may collect the following personal information:
 
-## Consent & access to your personal data
+Personal Information 
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to CM. If you have provided personal information to CM and no longer consent to its use as outlined herein, or to request an overview of your personal data, or ask us to remove or correct your data, please send an e-mail outlining your request to nl@cmtelecom.com.
+  * When you register on our website or sign up for our web or email services, we may ask you to provide personal information. This includes your name, address, zip code, city, country, telephone number and e-mail address.
 
-## Information Sharing and Disclosure
 
-CM may disclose your personal information to third parties who work on behalf of CM to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information. CM may otherwise disclose your personal information when we have your express consent to share the information for a specified purpose. Your Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data. 
 
-## Compliance
+Log data 
 
-CM takes a proactive approach to user privacy and ensures the necessary steps are taken to protect the privacy of its users throughout their visiting experience. The website complies with all applicable EU and national laws and regulations and requirements for user privacy. Links to third party sites Our Website include links to other websites, whose privacy practices may be different from CM’s. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+  * We may collect information about your visit to this website through the use and placement of Cookies. This includes, among other things, the Internet protocol address (IP address), browser type, browser version, which pages you visit within the website, the duration of the visit and the page views of your computer. We use cookies for this purpose. You can read more about this in our [Cookie Policy](https://www.cm.com/nl-nl/over-cm/cookie-policy/).
 
-## Security
 
-To protect your information we use the latest SHA256 encryption and a TLS1.2 connection for secure communication. CM accounts require a username and password to log in. You must keep your username and password secure, and never disclose it to a third party. Because the information in your CM account is sensitive, account passwords are encrypted, which means we can’t see your passwords. We can’t resend forgotten passwords either. We’ll only reset them.
 
-## Cookies
+**Why do we process your personal data?**
 
-What are cookies? Cookies are small text files containing a string of characters that can be placed on your computer or mobile device that uniquely identify your browser or device. Cookies cannot damage your computer or files on your computer. Cookies allow a site or services to know if your computer or device has visited that site or service before. Cookies can then be used to help understand how the site or service is being used, help you navigate between pages efficiently, help remember your preferences, and generally improve your browsing experience. Cookies can also help ensure marketing you see online is more relevant to you and your interests. The following types of cookies can be placed through this website:
+We process personal data for the following purposes:
 
-### Functional cookies
+• To contact you, or to keep you informed of information that we think may be of interest to you, after you have submitted a web form on our website;
 
-Functional cookies are being used to make the website more user friendly by storing user preferences.
+• To keep you informed of (new) products and services, in which we try to take into account preferences based on services provided to you and/or interests based on the use of our website with your permission;
 
-### Cookies for website analysis
+• To make calls using the chat option offered on our website;
 
-Cookies to help analyze how users use a website. The information generated by the cookie about use of the website (including a part of the IP address) is usually transmitted to and stored on servers of the company providing the analysis service. They will use this information to establish reports on how a website is being used and to set up reports on website activity.
+• For obtaining an insight into the use of our website, as described in our Cookie Policy;
 
-CM uses Google Analytics (1st and 3rd party cookie), a web analytics service provided by GoogleInc. (“Google"). Google Analytics uses cookies to help CM analyze how users use the site. The information generated by the cookie about your use of the website (including a part of your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information to establish CM Telecom LTD reports on how the website is being used and to set up reports on website activity in order to offer other services in relation to website activity and internet usage. Google does not transfer this information to third parties because CM opted-out for data sharing. Google will not combine your IP address with any other data held by Google. CM has chosen for masking the last octet of the IP-address. CM accepted the Data Processing Amendment, written by Google. Read Google’s privacy information for more information and the privacy policy of Google Analytics as well.
+• To improve and evaluate our website and services;
 
-If you do not want your visit data reported by any website who uses Google Analytics? Learn about the opt-out browser plugin
+• To comply with laws and regulations.
 
-CM uses Hotjar (first party cookie), a web analytics service. Hotjar may record mouse clicks, mouse movements and scrolling activity. Hotjar does not collect personally identifiable information (PII) that you do not voluntarily enter in this website. Hotjar does not track your browsing habits across websites which do not use Hotjar services. We are using the information collected by Hotjar service to improve our website, make it more user-friendly and monitor that it is performing correctly. Cookies that Hotjar stores on your browser will automatically expire after 365 days. The information generated by the cookie about your use of the website stored by Hotjar on servers in Ireland. For more information see privacy policy for Information Collected by Hotjar.
+**Processing of personal data**
 
-CM uses Visual Website Optimizer (VWO), an A/B testing service. VWO only record mouse clicks. VWO do not collect personally identifiable information (PII). We are using the information collected by VWO service to improve our website, make it more user-friendly and monitor that it is performing correctly. If you don’t want to be part of the tests, we’re doing at CM on our websites. You can opt-out here: <https://vwo.com/opt-out/> . For more information about Visual Website optimizer, visit their privacy policy.
+For checking and analyzing the use of our website, registering visitors who want to receive our newsletter, or want to visit an event of CM, we can use other service providers. These service providers may receive personal data. These service providers will only act for or on behalf of us in accordance with the purpose(s) for which the data was originally collected or otherwise legally processed. These service providers are hired by us and may only use your personal data after you have agreed to our Privacy Policy and/or Cookie Policy, for the agreed purpose. They may also not use your personal information for their own purposes, sell it to third parties or disclose it (unless required to do so by law, as permitted by us, or as stated in this Privacy Policy). 
 
-### Cookies for retargeting.
+The service providers engaged by CM are: 
 
-Retargeting cookies create a list of people that visit a website by placing anonymous retargeting cookies in their browser. The list allows retargeting vendors to display retargeting ads to potential customers as they visit other sites. CM uses Adroll. As you browse cmtelecom.com, advertising cookies (3rd party cookie) will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, Adroll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with cmtelecom.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. Adroll collects information about where you saw the ads we serve you and what ads you clicked on and is connected to several Ad Networks (such as Bidswitch, Appnexus etc.). This data will be saved for a maximum of 90 days of your last visit or when you delete all your cookies. AdRoll is an approved member of the Network Advertising Initiative (NAI). If you prefer, you may use the NAI opt out tool. We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out via the DAA website at www.aboutads.info/choices .
+[Hotjar](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/www.hotjar.com): Tool with which CM Internally analyses how visitors use our website. Results are used to enhance the CM websty and user experience.
 
-### Other cookies
+[Unbounce](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/www.unbounce.com): Tool for creating landing pages for events. Visitors can register for such events via a landing page created with Unbounce.
 
-The Website may contain media files from third party websites such as but not limited to Youtube.com, Vimeo and Slideshare. By playing these media files cookies can be placed by the third party. Furthermore, the Website offers the option to share certain information via social networks like Facebook.com, LinkedIn.com, WhatsApp or Twitter.com. The use of these functionalities, is subject to the terms and conditions, privacy and cookie policy of Facebook.com, LinkedIn.com, WhatsApp or Twitter.com respectively.
+[Linkedin Insights](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/www.linkedin.com): Website analytics tool that helps us to improve reporting on website usage and the campaigns we create. 
 
-### Managing Cookies
+[Google Analytics](https://www.google.nl/intl/en/analytics/): Website analytics tool that helps us to improve reporting on the use of the website and the campaigns we create.
 
-You can decide for yourself whether to accept or reject a cookie, or if you want to get notified by your browser when a cookie is set to your computer. In order to receive such notification, you need to adjust the settings in your browser. As each browser is different, CM Telecom LTD. refers to the “Help " menu of your browser to set your cookie preferences.
+Furthermore, your personal data may be transferred to subsidiaries of CM Groep B.V. in accordance with the purposes described in this Privacy Policy.
 
-## External Links
+In addition, we may disclose your personal information to the government or the courts if required to do so by law or by a court or regulatory body ruling. In order to ensure that your visit to our website is as smooth, reliable and useful as possible for you, and to enable us to make the best possible use of our website, we also use cookies and similar technologies. Please refer to our [Cookie Policy](https://www.cm.com/nl-nl/over-cm/cookie-policy/) for more information about the types of cookies we use.
 
-The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned. If you have questions about our privacy policy, feel free to contact us. Links to Third-Party Sites.
+**Access to personal data**
+
+You can view your personal data that we have collected. If the data contains incorrect information, you may request CM to correct, supplement or delete such data. You may also contact CM at any time to object to the processing of your personal data for marketing purposes. If you receive a newsletter from us by e-mail, you will be given an opportunity to unsubscribe at the bottom of each e-mail. 
+
+**Security measures** CM attaches great importance to the security and integrity of its platform. Our IT department is active 24/7 to monitor security and amply meets the requirements for appropriate technical and organizational measures to ensure a risk-appropriate level of security. All data is processed and stored in our own data centre, fully managed and controlled by CM. The data centre is located in the Netherlands. More information about security can be found on our website <https://www.cm.com/about-cm/security-compliance/>
+
+**Changes**
+
+CM reserves the right to change this Privacy Policy. We therefore advise you to check this page regularly to see if any changes have been made. If we make a significant change that affects the way in which CM processes your personal data, we will notify you of this by means of a notice on our website.
+
+**Contact**
+
+If you have any questions and/or complaints about this Privacy Policy, or if you would like access to your personal data, please send an e-mail to support@cm.nl
