@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freegames66.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110005834id_/https%3A//www.freegames66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames66.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815025301id_/https%3A//www.freegames66.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which [FREEGAMES66.COM](https://web.archive.org/) collects, uses, maintains and discloses information collected from users (each, a "User") of the FREEGAMES66.COM website ("Site"). This privacy policy applies to the Site and all products and services offered by FREEGAMES66.COM. 
+This Privacy Policy governs the manner in which [Freegames66](https://web.archive.org/) collects, uses, maintains and discloses information collected from users (each, a "User") of the Freegames66 website ("Site"). This privacy policy applies to the Site and all products and services offered by Freegames66. 
 
 ### Personal identification information
 
@@ -30,11 +30,13 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### EMAIL SETTINGS
 
-As part of our default settings, we send emails to introduce new games, the most played games on FREEGAMES66 to our users (The ones who register with us on FREEGAMES66.COM and Flaap.io) and if you would like to avoid receiving such emails in the future, you may opt-out of receiving it by using the unsubscribe feature on any of our email correspondence. We will try to communicate with you only according to your instructions, although it may take some time to process your request. 
+As part of our default settings, we send emails to introduce new games, the most played games on Freegames66 to our users (The ones who register with us on Freegames66 and Flaap.io) and if you would like to avoid receiving such emails in the future, you may opt-out of receiving it by using the unsubscribe feature on any of our email correspondence. We will try to communicate with you only according to your instructions, although it may take some time to process your request. 
 
 ### Advertising
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here ( <http://www.networkadvertising.org/managing/opt_out.asp> ). 
 
 ### Google Adsense
 
@@ -42,7 +44,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 ### Changes to this privacy policy
 
-FREEGAMES66.COM has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+Freegames66 has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 ### Your acceptance of these terms
 
