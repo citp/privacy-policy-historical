@@ -1,67 +1,61 @@
-> *The following text is extracted and transformed from the ukutabs.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003041530id_/http%3A//ukutabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukutabs.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815181951id_/https%3A//ukuworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • UkuTabs
+# Privacy Policy • UkuWorld
 
-_**Effective as of April 8th, 2012 (last updated May 13th, 2012)**_
+Privacy matters a lot to me, but it can be confusing as well. On this page I try to explain my approach to privacy on all the UkuWorld network websites (i.e. [UkuChords.com](https://ukuchords.com/), [UkuGuides.com](https://ukuguides.com/), [UkuNotes.com](https://ukunotes.com/), [UkuScales.com](https://ukuscales.com/), [UkuTabs.com](https://ukutabs.com/), [UkuTuner.com](https://ukutuner.com/), [UkuWorld.com](https://ukuworld.com/) and any derived website name ) and how it affects you, as a user. **Disclaimer: all data is collected anonymously and will never be shared with third parties!**
 
-We at UkuTabs.com respect the privacy concerns of the users of this site and have created this privacy policy to explain (1) what information we gather from you when you visit our site, (2) how we may use such information, (3) your choices concerning how we may use such information and (4) the security measures we take to protect such information. Some information is collected on this site automatically through our technology; other information is collected only when you choose to give it to us (e.g., when you set up an account, register for a contest or sign up for a specific online transaction).
+## Short Version
 
- **Information We Gather Automatically**
+Statistics are collected anonymously about your visit. For example: which of UkuTabs’ songs you’ve viewed. Social services such as Facebook, twitter, YouTube and Google+ are known to track your steps carefully if you use their services, by using their code (e.g. sharing buttons) implemented on sites. On none of the UkuWorld websites I have implemented such code, so rest assured that you are not being tracked by these services.
 
-When you visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, and your computer’s Internet Protocol (“IP”) address (a number that your Internet service provider assigns to your computer whenever you surf the Internet) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. If you access our site from a mobile or other device, we may collect information for that device (including operating system, browser, type of device) is gathered in order to facilitate our mobile operations and to assure an efficient mobile experience for you. We may use or share this information for security purposes, to generate group statistics about our user community, or as required by law.
+I take great care to keep your information safe if you register an account on UkuTabs or UkuWorld. I will never share the information of your account (such as your email address) with third parties. Your information is stored safely on a secure server behind a firewall and all connections to the UkuWorld websites and servers use secure SSL protection with A+ rating. You can visit any of the following links to verify this rating using an independent SSL rater:
 
-Among the purposes for which we may use such generally non-personally identifying information is for identification purposes in the event of an emergency threatening life or property, or where proper legal process allows using such information. For instance, we may use your IP address or other automatically recorded information, in cooperation with your Internet provider, to attempt to identify you if it is necessary to contact you or to bring legal action against you because you are violating the Terms of Service for use for this site, may be causing injury to or interference (intentionally or unintentionally) with our company’s rights or property, or may be adversely affecting other users of this site or anyone else who could be harmed by your activities.
+• [A+ SSL security rating for UkuChords.com](https://www.ssllabs.com/ssltest/analyze.html?d=ukuchords.com&latest)  
+• [A+ SSL security rating for UkuGuides.com](https://www.ssllabs.com/ssltest/analyze.html?d=ukuguides.com&latest)  
+• [A+ SSL security rating for UkuScales.com](https://www.ssllabs.com/ssltest/analyze.html?d=ukuscales.com&latest)  
+• [A+ SSL security rating for UkuTabs.com](https://www.ssllabs.com/ssltest/analyze.html?d=ukutabs.com&latest)  
+• [A+ SSL security rating for UkuTuner.com](https://www.ssllabs.com/ssltest/analyze.html?d=ukutuner.com&latest)  
+• [A+ SSL security rating for UkuWorld.com](https://www.ssllabs.com/ssltest/analyze.html?d=ukuworld.com&latest)
 
- **Personal Information You Provide To Us**
+These are just the key points. If you want to know more details about how and which statistics are collected, feel free to keep on reading.
 
-We may request personally identifying information from you in a variety of contexts. For example, you may provide such data to us if you: (1) complete an online registration form (e.g., registering for an account, various sign-up forms for receiving email newsletters, submitting and or requesting a tab, entering a contest/sweepstakes or responding to a survey); (2) register to participate in message boards and chat rooms (if any) and other community features.
+## Measuring Visitors
 
-In such cases, the personally identifying information we request may include your name, email address, mailing address and zip code, phone number, and, where appropriate, a valid credit card number with expiration date (collectively, “Personal Information”). In addition, we may collect other non-personally identifying information such as your date of birth, gender, country of residence, language preference, hobbies and other information regarding your interaction with our site such as your viewing and listening habits, preferences and other customized activities in which you participate. Of course, you never have to answer any of the questions we ask you (nor choose to view or listen to any multimedia content or otherwise interact with our site), but refusal to do so may limit the products or services we can offer or provide to you.
+I measure visitors to the UkuWorld websites using the very popular and secure Google Analytics (referred to as GA). GA anonymously records what pages you view within the UkuWorld network, how you arrived at the webpage and some basic information about your computer. I can’t stress enough that all that information is anonymous – so I will never know who you are; I will just see that _somebody visited_ a webpage within the UkuWorld network.
 
-When you provide Personal Information to us, we may use that data to create a “ **My Profile** ” page for you, which will be held in a database using reasonable security measures to protect the data from unauthorized access. Others outside UkuTabs.com will not be allowed to see the data on your  **My Profile Page  **except with your consent (see below).
+The information I collect from these analytics helps me understand what parts of the UkuWorld network are doing well, how people arrive at a specific webpage and so on. Like most websites, I genuinely use this information to make the UkuWorld network and the associated websites better as it allows me to discover errors or faulty pages within the network.
 
- **How Can Your Personal Information Be Used?**
+If you want to learn more about Google Analytics and how it works, you can read [this detailed WikiPedia page](https://en.wikipedia.org/wiki/Google_Analytics) if you wish.
 
-Contest Sponsors
+## Facebook, Twitter and other social networks
 
-When you give Personal Information to UkuTabs.com in connection with a contest, we may share that data (together with non-personally identifying information you may provide) with the sponsor or sponsors of such contest. By entering a contest, you are allowing such sponsor or sponsors to use such Personal Information and to contact you in connection with the contest and in accordance with their own privacy policies.
+These services provide code which can be embedded onto websites. This code mainly provides social (sharing) buttons and similar features such as the “Like” and “Tweet” buttons. This allows these services to track your ‘digital’ steps and follow where you go. Because I, as a web developer, have no control at all over these services and their privacy policy and choose to not use services like this. I do provide links to those social networks, for example to the UkuWorld twitter account, but I do not use code provided by them.
 
-Outside UkuTabs.com
+## If you sign up on UkuTabs or UkuWorld
 
-When you give Personal Information to UkuTabs.com, we may ask you to allow us to share that data (together with non-personally identifying information you may provide) with our promotional partners and third-party advertisers. In such instances, our general practice is to ask you to “opt-in” to share such data and information on, for example, a specific promotion, registration page or sweepstakes. However, in some instances, we may ask you to “opt-out” from sharing such data and information with a given promotional partner or third party advertiser in connection with a specific promotion, registration page or sweepstakes. If you prefer, you may give us blanket permission to share your Personal Information with all of our promotional partners and third-party advertisers. Conversely, you may also choose not to allow us to share your Personal Information with any other companies outside UkuTabs.com.
+All services on UkuTabs or other UkuWorld websites are 100% free of charge. When you sign up for an account on UkuTabs or UkuWorld I only ask for your email address. The username can be anything you want. An email address is however a necessity to properly create an account and for example restore your password. Once again, I will never share this information of your account with third parties. When you favorite a song, it is recored that your account (for which I only have a username and email address) favorited that specific song. This information is only viewable by the administrator, me, and never shared with anybody else. The only way that I use the information about you favoriting a specific song, is to construct the [99 Top Tabs by Favorites](https://ukutabs.com/top-tabs/top-tabs-by-favorites/). Your information is never linked, shown or shared.
 
-If you consent to share your Personal Information with our promotional partners and third-party advertisers, you are allowing such parties to use such Personal Information and to contact you in accordance with their own privacy policies. You have the option to change your mind and to stop us from further sharing your Personal Information with our promotional partners and third-party advertisers by contacting  and explaining how you would like to modify your preferences. We will not retrieve any Personal Information shared with our promotional partners and third-party advertisers prior to your decision to opt-out. If you wish to limit or discontinue receiving further communications from a promotional partner or third-party advertiser, please contact that company directly in the manner indicated in its own communications with you.
+## Security
 
-Without any specific approval from you, UkuTabs.com may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent.
+Here at UkuWorld I take many precautions to prevent the loss, misuse or alteration of your personal information. These precautions include (but are not limited to):
 
-As an Asset of UkuTabs.com
+• Use of strict full SSL encryption (HTTPS) for every connection to the server or websites. You can check the security rating of every website within the UkuWorld network by clicking the links above.  
+• The server hardware is stored in secured datacentres and I’ve configured the firewalls of the servers myself to make them as strict as possible.  
+• All access to information is restricted by password and/or secure keys.  
+• Restrictions to what information can be accessed via any location.
 
-We thank you for entrusting us with your Personal Information, and also should inform you that for business purposes, the information that you provide and that we collect through your usage of the service is also an asset of UkuTabs.com and will become part of our normal business records. If UkuTabs.com or a substantial part of our business is sold or otherwise transferred to a third party, such as a legal successor in interest, your Personal Information may be transferred to that third party.
+Whilst I take great care to ensure that any confidential information remains protected, I cannot guarantee the security of data sent over the Internet. It is for example possible that your computer is infected with malware or that the server gets hacked by experienced hackers. In almost five years there hasn’t been one issue and I’ll do my very best to keep it this way.
 
- **For Parents Concerning the Privacy of Information on Their Children**
+You are of course responsible for keeping your password and user details confidential. Nobody at UkuWorld will ever ask you for your password, so please don’t trust anybody asking you for it!
 
-We are a general audience site that does not knowingly collect data or accept registrations from children under 13 years of age. Currently, we do not collect any age-specific data on our site. If, in the future, we decide to collect any age-specific data on our site, we will, at a minimum, take reasonable steps to ensure that any users who may be under 13 years of age (and who attempt to complete the registration process on our site) are directed to another site within the UkuTabs.com family which specifically complies with the requirements of the Children’s Online Privacy Protection Act, or COPPA.
+## Updates to this policy
 
- **Cookies**
+I reserve the right to update this privacy policy from time-to-time, particularly as technology changes, without giving notice. You can always check this page for the latest version.
 
-A “cookie” is a small text file that an Internet site can place on your computer’s hard drive for record-keeping purposes. Cookies make using this site easier by, among other things, saving your passwords and preferences for you, keeping track of your shopping cart when you visit an online store or other similar purposes, and to help identify you whenever you return to our site, so you do not need to reenter your identification information. Most Internet browsers are initially set up to accept cookies. However, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent (note: you may need to consult your browser’s “Help” area for instructions on how to do that). If you choose to disable your cookies setting or refuse to accept a cookie, some parts of this site will not function properly or may perform considerably slower. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty downloading tablatures, watching videos or utilizing the Community Forums. Some of our web pages may contain electronic images (called “Clear GIFs”, “Single-Pixel GIFs”, or “Web Beacons”) that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a Clear GIF. Typically, though, Clear GIFs are very small (1-by-1 pixel size) files. They are often invisible on a web page, but their presence can be detected within many Internet browsers by setting your browser to view web page “sources”. Clear GIFs are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We may also include Clear GIFs in our email products in order to determine information about the opening and reading of such emails. In addition, some advertising networks that serve ads on our web site may occasionally use Clear GIFs within banner advertisements. Clear GIFs set by UkuTabs.com generally are not used to collect, gather, monitor, or share personal information about our users, though they can be used in conjunction with cookies to record particular actions. We use Clear GIFs primarily to compile aggregated, anonymous statistics about web site or email product usage.
+## Advertisements
 
- **Message Boards, Chat Rooms and Instant Messaging**
+In order to properly display advertisements third party cookies are used.
 
-If you visit a message board, chat room or utilize an instant messaging service on this site, if any, you are solely responsible for the content of messages you post there. You should be aware that when you voluntarily disclose Personal Information (for example, your name, street address, email address, or telephone number) on message boards, chat rooms or instant messaging services, that information can be read, collected and used by other users of these services and may result in unsolicited messages, both commercial and otherwise. You agree that by participating in such online public forums, you will not use such forums for any purpose that is unlawful or prohibited by the UkuTabs.com community guidelines that may be in effect from time to time in connection with such service. We reserve the right to terminate your access to this site or to take other protective steps if you violate those terms.
+## Questions?
 
- **Links to Other Sites**
-
-We do not endorse and are not responsible for the content or practices of web sites operated by companies outside of UkuTabs.com that may be linked to this site. You should not assume that their privacy policies or practices are the same as those followed by our company or by other UkuTabs.com companies. Visitors to any such web sites should refer to their respective privacy policies and practices.
-
- **How to Contact Us**
-
-If you have any questions or complaints about our Privacy Policy, you can contact our customer service department at . When we receive such inquiries about our Privacy Policy, we will use the Personal Information (such as your email address) only to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question with them in order to provide a response.
-
- **Changes in This Privacy Policy**
-
-We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this Privacy Policy from time to time. When we make changes that we consider material in our privacy practices, we will notify you in this space. We may also attempt to notify you of any such material changes to our privacy practices via email or by placing a notice on our home page.
-
- **Acceptance of This Privacy Policy**
-
-By using this site, you consent to the collection and use of your Personal Information by UkuTabs.com in accordance with this Privacy Policy.
+If you have any questions about this privacy policy, your personal data or something else, feel free to send me an email at [privacy [at] ukuworld.com](mailto:privacy@ukuworld.com) or use the [contact form](https://ukuworld.com/contact/).
