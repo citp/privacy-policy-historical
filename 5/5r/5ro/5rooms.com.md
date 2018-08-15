@@ -1,73 +1,61 @@
-> *The following text is extracted and transformed from the 5rooms.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218033337id_/http%3A//www.5rooms.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5rooms.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815200323id_/http%3A//5rooms.com/furniture/kitchen-and-dining) for the most accurate reproduction.*
 
-# Privacy Statement - 5Rooms
+# Privacy Policy - 5Rooms
 
-Add FREE wrapping to your cart and make your gifts even more special this season! [Shop Gifts >](http://www.5rooms.com/gifts/)
+1\. INTRODUCTION
 
-**5rooms.com privacy policy**
+1.1. PURPOSE OF POLICY. 5Rooms (us, we, Company) is committed to respecting the privacy rights of visitors and other users of 5Rooms (the Site). We created this Privacy Policy (this Policy) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-5rooms.com will never spam you or give your personal data to anyone else. You can read our privacy policy detailed below. Don’t worry, your private information is safe with us.
+1.2. NOTICE CONCERNING CHILDREN
 
-We take our customers’ privacy seriously and we will only collect and use your personal information as outlined below. We shall take all reasonable steps to protect your personal information. For the purpose of this clause, "personal information" shall be defined as detailed in the Promotion of Access to Information Act 2 of 2000 (PAIA).
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Childrens Online Privacy Protection Act of 1998.
 
-**Collection of personal information**
+2\. INFORMATION COLLECTION PRACTICES
 
-5rooms.com does not sell, share or trade customer’s personal information, collected online, with third parties. Personal information collected online will only be disclosed within our corporate group for internal use only.
+2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?
 
-When you create an account the personal information we collect may include your:
+In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the contact page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site.
 
-\- Name and Surname  
-\- Delivery Address  
-\- Email Address  
-\- Telephone Number  
-\- Mobile Number  
-\- Date of Birth  
-\- Gender  
-\- ID / passport number
+2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
 
-When you register as a user on 5rooms.com website, we will also use your personal information to send you marketing and/or promotional materials from time to time. You can unsubscribe from marketing information at any time by using the ‘unsubscribe’ function within the electronic marketing material.
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous traffic data that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-You can update your personal information anytime by accessing your account on 5rooms.com website.
+(b) COOKIES. From time to time, we may use the standard cookies feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
 
-**Security of your personal information**
+(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us.
 
-5rooms.com ensures that all information collected will be safely and securely stored. We protect your personal information by:
+3\. USE AND SHARING OF INFORMATION
 
-\- Restricting access to personal information  
-\- Maintaining technology products to prevent unauthorised computer access  
-\- Securely destroying your personal information when it's no longer needed for our record retention purposes
+3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
-5rooms.com uses 128 - bit SSL (secure sockets layer) encryption technology when processing your financial details. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard.
+(a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings.
 
-**Disclosure of personal information**
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-We will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from the 5rooms.com website. In exceptional circumstances 5rooms.com may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes.
+(c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
-5rooms.com is committed to complying with the Promotion of Access to Information Act 2 of 2000 and its principles. If you believe that your privacy has been breached by 5rooms.com please contact us at [care@5rooms.com](mailto:care@5rooms.com) and we will resolve the issue.
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose any information we have for you if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-**Collection of computer data**
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of the Site or our company, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, user information will be one of the assets transferred to the acquirer.
 
-When you visit 5rooms.com, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include:
+4\. SECURITY
 
-\- Your computer's IP address  
-\- Browser type  
-\- Webpage you were visiting before you came to our site  
-\- The 5rooms.com pages you visit  
-\- The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics.
+The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
 
-This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.
+5\. WEBSITE AREAS BEYOND COMPANYS CONTROL
 
-**Changes to the privacy policy**
+5.1. THIRD PARTY WEBSITES
 
-5rooms.com reserves the right to modify and change the Privacy Policy at any time. Any changes to this policy will be published on our site.
+From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
 
-**Complaints about breaches of privacy**
+6\. CONTACT INFORMATION AND POLICY UPDATES
 
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at [care@5rooms.com](mailto:care@5rooms.com).
+6.1. CONTACTING US
 
-**Unsubscribing from newsletter and promotional emails**
+If you have any questions about this Policy or our practices related to this Site, please feel contact us using the Contact link on the menu located at the top of the site.
 
-You can update your email subscription preferences by following these steps.
+6.2. UPDATES AND CHANGES
 
-1) In the footer of such emails, click on the "unsubscribe from this list" link. You will then be unsubscribed and removed from our mailing list  
-2) Alternatively, please contact us either via phone or email and request to be unsubscribed. Our customer service team will remove you from our mailing list and confirm when this has been completed.
+We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
