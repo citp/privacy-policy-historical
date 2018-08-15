@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapassgamer.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619144232id_/https%3A//www.cheapassgamer.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapassgamer.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815143846id_/https%3A//www.cheapassgamer.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Cheap Ass Gamer
 
