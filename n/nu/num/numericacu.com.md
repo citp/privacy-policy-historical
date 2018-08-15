@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165411id_/https%3A//www.numericacu.com/disclosures/pdf/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815131350id_/https%3A//www.numericacu.com/globalassets/disclosures/privacy-policy.pdf) for the most accurate reproduction.*
 
 # FACTS:
 
