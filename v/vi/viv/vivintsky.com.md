@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivintsky.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126120505id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivintsky.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815201912id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Learn More About Vivint's Updated Privacy Policy
 
@@ -29,7 +29,7 @@ We may use the information we collect to:
 
   * provide, personalize, and improve our Services;
   * analyze how you use our Services;
-  * communicate with you, either directly or through one of our service providers, including to respond to your comments or questions and for marketing and promotional purposes; and
+  * communicate with you, either directly or through one of our service providers, including to respond to your comments or questions and for marketing and promotional purposes; and 
   * connect you with third parties for services that may be of interest to you, including utilities.
 
 
@@ -42,23 +42,27 @@ We may provide your information to our service providers in order to provide and
 
 One of the third party services that we use to track your activity on our Services is Google Analytics. You can find more information on how Google uses data at [www.google.com/policies/privacy/partners.](https://www.google.com/policies/privacy/partners) If you do not want Google Analytics to collect and use information about your use of our Services, then you can install an opt-out in your web browser (<https://tools.google.com/dlpage/gaoptout/>). You also may opt-out from Google Analytics for Display Advertising or the Google Display Network by using Google’s Ads Settings located at [www.google.com/settings/ads](https://www.google.com/settings/ads). 
 
+We also use Mixpanel, an advanced analytics service that helps improve web and mobile applications by tracking how users interact and engage. If you do not want Mixpanel to collect and use information about your use of our Services, then you can opt-out by following the instructions located at <https://mixpanel.com/optout>. If you get a new computer, install a new browser, or erase or otherwise alter your browser’s cookie file (including upgrading certain browsers), you may clear the Mixpanel opt-out cookie, and you will need to re-visit the opt-out page. 
+
   
 We may share your information with our advertising partners. Some of our third party advertising partners use cookies and other technologies to collect information about your online activities on our Services and other online services over time in order to show you ads that may interest you. Some of our advertising partners are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/choices/) or the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/choices/). If you do not wish to receive our personalized ads, please visit the NAI or DAA opt-out pages to learn about your options for opting out of receiving personalized ads from member companies. 
+
+We may share your information with marketing and advertising partners who supplement that information with information they have about you. These partners may help us send marketing communications that we believe may be of interest to you. 
 
 We may share information about you and your use of our Services with third party utilities and other providers, to allow you to participate in energy savings programs. With your consent, we allow these utilities access to our Services to change your system settings as required for participation in the energy savings programs. 
 
   
-We may share or disclose aggregated information that does not identify you with service providers or other third parties, including insurance providers. 
+We may also share anonymized or de-identified information about you or your use of Vivint’s products and services with third parties, as well as aggregated and anonymous information, for any number of purposes, including without limitation the improvement of the products and services we provide. However, except as noted in this Privacy 
 
   
 We may share your information with third parties in the following situations: 
 
   * While negotiating or in relation to a business transaction, such as a merger, sale of assets, or bankruptcy; 
-  * Where disclosure is required or appropriate in order to comply with laws, regulations, legal process, or a governmental request;
-  * If we think doing so is necessary to protect the rights, property, security, or safety of us, our Services, our users, or the public;
-  * To enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/company/policies/terms-of-use), and any other agreements;
+  * Where disclosure is required or appropriate in order to comply with laws, regulations, legal process, or a governmental request; 
+  * If we think doing so is necessary to protect the rights, property, security, or safety of us, our Services, our users, or the public; 
+  * To enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/company/policies/terms-of-use), and any other agreements; 
   * To investigate and defend ourselves or others against any third-party claims or allegations; and
-  * Whenever you consent to the sharing, including when you agree to share your information with insurance providers and/or clearinghouses to determine your eligibility for insurance policy discounts.
+  * Whenever you consent to the sharing, including when you agree to share your information with insurance providers and/or clearinghouses to determine your eligibility for insurance policy discounts. 
 
 
 
@@ -66,7 +70,7 @@ We may share your information with third parties in the following situations:
 
 **Location Information.** You can prevent your mobile device from sharing location information with us through your device’s operating system settings. However, you may not be able to fully use our Services if you disable this sharing. Please note that even if you disable location sharing on your device, we will continue to receive your IP address and use it as described above to, for example, determine your location. 
 
-**Email Subscriptions.** You can unsubscribe from our promotional emails via the unsubscribe link provided in the emails. Please note that you will continue to receive administrative messages from us even if you opt out of receiving promotional messages. 
+**Marketing communications.** You can unsubscribe from our promotional emails via the unsubscribe link provided in the emails. To opt-out of receiving our direct mail promotional materials, please send us an email at [privacy@vivint.com](mailto:privacy@vivint.com). Please note that you will continue to receive administrative messages from us even if you opt out of receiving promotional messages. 
 
 This Privacy Policy does not apply to third party websites that we do not own or control, even if you access them through our Services. We are not responsible for the privacy practices of these sites. We encourage you to carefully review these sites’ privacy policies so that you know how they will collect, use, and share your information. 
 
@@ -82,5 +86,7 @@ We may make changes to this Privacy Policy from time to time. If we do revise th
 
 If you have any questions about your information, this Privacy Policy, or our privacy practices, please contact us at [privacy@vivint.com](mailto:privacy@vivint.com). 
 
-[Download PDF - Effective Jan. 16, 2017](https://assets.vivintcdn.com/global/vivint.com/sections/company-policies/Vivint-Privacy-Policy-Jan-2017.pdf)   
+[Download PDF - Effective March 1, 2018](https://assets.vivintcdn.com/global/vivint.com/sections/company-policies/Vivint-Privacy-Policy-Mar-2018.pdf)   
+[Archived May 2017 Privacy Policy](https://assets.vivintcdn.com/global/vivint.com/sections/company-policies/Vivint-Privacy-Policy-May-2017.pdf)   
+[Archived January 2017 Privacy Policy](https://assets.vivintcdn.com/global/vivint.com/sections/company-policies/Vivint-Privacy-Policy-Jan-2017.pdf)   
 [Archived Privacy Policy](https://assets.vivintcdn.com/global/vivint.com/sections/company-policies/Vivint-Privacy-Policy.pdf)
