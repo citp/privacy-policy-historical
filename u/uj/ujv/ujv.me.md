@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ujv.me privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615125737id_/http%3A//ujv.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ujv.me privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815080231id_/http%3A//ujv.me/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,7 +70,7 @@ Our Site contains links to other websites. If you choose to visit an advertiser 
 
 Accessing and Changing Your Information
 
-You can review the information you provided us with and make any desired changes to them at any time. Please be aware that even after your request for a change is processed, the Provider may, for a time, retain residual information about you in its backup and/or archival copies of its database. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us - [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can review the information you provided us with and make any desired changes to them at any time. Please be aware that even after your request for a change is processed, the Provider may, for a time, retain residual information about you in its backup and/or archival copies of its database. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us - ujvdotme@gmail.com
 
 #### YOUR OBLIGATIONS
 
@@ -94,7 +94,7 @@ The Provider may retain your personal data and other information as long as they
 #### THE PROVIDER HEREBY DECLARES AS FOLLOWS:
 
   1. All personal data provided to the Provider will be stored in the Provider's database.
-  2. Publishers have the right to verify, review and correct their personal data processed by the Provider. The right can be exercised by a Publisher by sending a relevant request using the following email us - [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  2. Publishers have the right to verify, review and correct their personal data processed by the Provider. The right can be exercised by a Publisher by sending a relevant request using the following email us - ujvdotme@gmail.com
   3. Publishers have the right to withdraw their consent to the processing of their personal data, giving the Provider a notice to that effect. Though Publishers provide their personal data to the Provider voluntarily, refusal to provide them renders entry into the agreement with the Provider and access to the Site and use of the Service impossible.
   4. The Provider shall have the right to disclose the personal data only to the authorities entitled under the provisions of the law in force (e.g. a court, the police).
   5. Personal data provided to the Provider in a Contact Form and/or a Sign-up Form or in any other way will be used by the Provider and its affiliates exclusively for the following purposes: (i) Publisher's use of the Site and Service (a possibility of using the functionalities offered by the Site which includes processing payments, resolving disputes, preventing prohibited or illegal activities; a Publisher is a party to the agreement on services provided by electronic means); (ii) processing complaints and providing customer support; (iii) contacting Publishers and replying to correspondence sent through the Contact Form; (iv) technical operation of the Site and Service; (v) direct marketing (based on Publisher’s preferences); (vi) maintaining the Site’s statistics; and (vii) performing research and analysis aimed at improving the Site and Service.
@@ -112,4 +112,4 @@ After reviewing the above Privacy Policy, by using or accessing the Site, and es
 
 #### HOW TO CONTACT US
 
-If you have any queries regarding your personal data or comments on this Privacy Policy, please email us - [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any queries regarding your personal data or comments on this Privacy Policy, please email us - ujvdotme@gmail.com
