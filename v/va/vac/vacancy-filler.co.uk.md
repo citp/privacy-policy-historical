@@ -1,136 +1,161 @@
-> *The following text is extracted and transformed from the vacancy-filler.co.uk privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130003841id_/http%3A//www.vacancy-filler.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacancy-filler.co.uk privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815130643id_/https%3A//www.vacancy-filler.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Vacancy Filler
 
-Last revised 11 February 2014
+### Definitions
 
-Introduction
+In this policy the following terms shall have the following meanings:
 
-Vacancy Filler Ltd (“ **Company** ” or “ **We** “) respect your privacy and are committed to protecting it through our compliance with this policy.
+**Cookie:  **a small file placed on your computer or device by the Vacancy Filler Site when you visit certain parts of the Vacancy Filler Site and/or when you use certain features of the Vacancy Filler Site.
 
-This policy describes the types of information we may collect from you or that you may provide when you interact with us through the website [www.vacancyfiller.co.uk](http://www.vacancyfiller.co.uk/) or its related domains and subdomains (including without limitation, [www.vacancyfiller.com](http://www.vacancyfiller.com/), [www.vacancy-filler.co.uk](http://www.vacancy-filler.co.uk/) or [www.vacancy-filler.com](http://www.vacancy-filler.com/)) (our “ **Website** “), (including without limitation, by requesting a demonstration, by applying for a position with the Company, or by posting a comment or materials to any blog or other interactive part of the Website) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+**Cookie Law:  **means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-This policy applies to information we collect:
+**Data Protection Legislation** : up to but excluding 25 May 2018, the Data Protection Act 1998 and thereafter:
 
-  * On this Website.
-  * In e-mail, text and other electronic messages between you and this Website.
-  * Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.
-  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
+(a)  unless and until the General Data Protection Regulation ( _(EU) 2016/679_ ) (GDPR) is no longer directly applicable in the UK, the GDPR and any national implementing laws, regulations and secondary legislation, as amended or updated from time to time, in the UK; and then
 
+(b)  any successor legislation to the GDPR or the Data Protection Act 1998.
 
+**Data Subject:  **a natural identifiable person.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+**Personal Data** : has the meaning set out in the Data Protection Legislation, being at the date of this policy, any data which identifies a natural person (by way of example, name, address, phone number and so on).
 
-This Website contains links to other sites. We are not responsible for the privacy practices of other sites. Accordingly, we encourage users to read the privacy statements of each and every website that collects your information.
+### What this policy also covers
 
-We agree to process any personal data provided to the Company by you and shall comply with all aspects of all application data protection legislation (including without limitation the Data Protection Act 1998) as a Data Controller as set out in section 1(1) of the Data Protection Act 1998 (the **“Principles”** ). This includes an assurance that your data will not be held or processed outside the European Economic Area.
+This policy also explains:
 
-Information We Collect About You and How We Collect It
-
-We collect several types of information from and about users of our Website, including information:
-
-  * by which you may be personally identified, such as name, postal address, e-mail address or telephone number (“ **personal information** “);
-  * that is about you but individually does not identify you, including without limitation information about your internet connection, the equipment you use to access our Website and usage details.
+  * What personally identifiable information of yours is collected:
 
 
 
-We collect this information:
+-on the Vacancy Filler Site, when you interact with it;
 
-  * Directly from you when you provide it to us, including without limitation information that you provide by (1) filling in forms on our Website including without limitation information provided at the time of registering to use our Website or view a demo of our services, (2) subscribing to our service, posting material or requesting further services, (3) entering a contest or promotion sponsored by us, (4) reporting a problem with our Website, (5) responding to surveys that we might ask you to complete for research purposes, (6) performing search queries on the Website, or (7) or otherwise corresponding with us (including e-mail addresses), if you contact us.
-  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
-  * From third parties, for example, our business partners.
-  * You also may provide User Contributions to be published or displayed. Your User Contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorised persons.
+-when you download from the Vacancy Filler Site;
 
+– when you interact with Vacancy Filler ’s advertising and applications on third-party websites and services.
 
-
-The information we collect automatically is statistical data. It helps us to improve our Website and to deliver a better and more personalised service by enabling us to:
-
-  * Estimate our audience size and usage patterns.
-  * Store information about your preferences, allowing us to customise our Website according to your individual interests.
-  * Speed up your searches.
-  * Recognise you when you return to our Website.
+  * What organisation is collecting the information;
+  * How the information is used;
+  * With whom the information may be shared;
+  * What choices are available to you regarding the collection, use and distribution of the information;
+  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under Vacancy Filler ’s control;
+  * How you can correct any inaccuracies in the information; and
+  * How you can request the information we process and store to be removed.
 
 
 
-The technologies we use for this automatic data collection may include, without limitation:
+There are other terms that may apply to you
 
-  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. You may refuse to allow flash cookies by activating the appropriate setting through your Adobe Settings Manager.
-  * **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). By disabling browser cookies, unique information associated with web beacons will also be disabled.
+In addition to this policy, please refer to our Terms of Use.
 
+We may make changes to these terms and our website
 
+We may update and change these terms and our website from time to time for a variety of reasons.  By way of examples: to reflect changes to the services we offer, user’s needs, regulatory or legal requirements.  Every time you wish to use the Vacancy Filler Site, please check these terms to ensure you understand the terms that apply at that time. These terms were updated on 7 March 2018.
 
-How We Use Your Information
+### Children under the age of 16
 
-We use information that we collect about you or that you provide to us, including any personal information:
+Persons under the age of 16 are not eligible to use our services and we ask that minors do not submit any personal information to us.  We will not knowingly accept any data from a person who is under the age of 16 years.
 
-  * To present our Website and its contents to you.
-  * To provide you with information, products or services that you request from us.
-  * To fulfil any other purpose for which you provide it.
-  * To provide you with notices, including expiration and renewal notices.
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-  * To notify you about changes to our Website or any products or services we offer or provide though it.
-  * To allow you to participate in interactive features on our Website.
-  * In any other way we may describe when you provide the information, including without limitation sharing it with third parties with products, services or positions that may be of interest to you.
-  * For any other purpose with your consent.
+### Information We Collect from you
+
+We will collect and process the following information:
+
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+  * information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, and any phone number used to call us.
+  * If you: (a) complete one of our forms on the Vacancy Filler Site; (b) subscribe to our services; (c) post material or request further services; (d) report a problem with the Vacancy Filler  Site; (e ),  respond to surveys; (f) otherwise correspond with us; or (g) apply for vacancies on line, we may collect your name, address (including e mail address), other contact details, phone numbers, dates of birth, employment history, skills, and qualifications.
 
 
 
-Disclosure of Your Information
+**Please Note:**
 
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
-
-We may disclose personal information that we collect or you provide as described in this privacy policy:
-
-  * To our subsidiaries, affiliates, or their or our successors or assigns.
-  * To contractors, service providers, and other third parties we use to support our business or third parties with products, services or positions that may be of interest to you, provided such parties provide at least the same level of privacy protection as is required of the Company.
-  * To fulfil the purpose for which you provide it.
-  * For any other purpose disclosed by us when you provide the information.
-  * With your consent.
+  * If you are a candidate applying for vacancies and you complete an online test via ISV Software Limited’s portal, although we will not be party to the information you submit, we may receive a copy of your test results.
+  * If you are a candidate and you use our support desk, the support desk may raise a support ticket to deal with your request. By raising a ticket we may have your name, address and contact details;
+  * By applying for vacancies you will be subject to the data protection and privacy policies of our clients who will store and process your Personal Data according to those policies.
 
 
 
-We may also disclose your personal information:
+### Use of your information
 
-  * To comply with any court order, law or legal process, including responding to any government or regulatory request.
-  * To enforce or apply our use and other agreements, including for billing and collection purposes.
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Vacancy Filler Ltd, our customers or others. This includes without limitation exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We will use the data collected about you in the following ways:
 
-
-
-Choices About How We Use and Disclose Your Information
-
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
-
-  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Promotional Offers from the Company.** If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by following instructions provided in the relevant email or form. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
-
+  * to provide services to you;
+  * to provide information about our business or services which may be of interest to you;
+  * improve the efficiency of the Vacancy Filler Site;
+  * to develop services;
+  * to notify you of changes to our services;
+  * to understand our customer requirements and preferences, perform analysis and comparisons;
+  * to administer and update our website to ensure it runs smoothly on your hardware;
+  * to perform market research or analysis on customer preferences or trends and
+  * to offer you support in the event that you have a problem or an issue with the Vacancy Filler Site.
 
 
-Accessing and Correcting Your Information
 
-You can review and change your personal information by logging into the Website and visiting your account profile page where applicable or otherwise by contacting us at [accounts@vacancy-filler.co.uk](mailto:accounts@vacancy-filler.co.uk;)
+Please also see below under “Cookies”.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use.
+### Where we store your personal data
 
-In accordance to the Principles, Vacancy Filler Ltd has named the European Data Protection Authorities as the independent recourse mechanism for investigation of individual’s complaints and disputes.
+  * The data that we collect from you will not be transferred outside the European Economic Area (“EEA”) save in relation to data submitted to our support desk. By submitting Personal Data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  * All information you provide to us is stored on Amazon Web Services servers and those of our clients (if you submit Personal Data as a candidate). Our clients’ data protection and privacy policies will apply to the storage of such information.  We use TLS (transport layer security) technology to encrypt the data on the Vacancy Filler Site.  Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Vacancy Filler Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+  * We take all reasonable organisation and technical steps to ensure that the information you supply to us over the internet is secure.
 
-Transmission of Your Information
 
-By submitting your information to the Company, you acknowledge and agree that the technical processing and transmission of your information, may involve, (a) transmissions over various networks, including the transfer of this information to other countries in the European Economic Area for storage, processing and use by the Company, its affiliates, and their agents; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, you agree to permit such parties to make such transmissions and changes.
 
-Security
+### Your rights
 
-Vacancy Filler Ltd is committed to protecting the information you provide us. Vacancy Filler Ltd implements and maintains administrative, physical, and technical safeguards reasonably designed to protect the information we collect from loss, misuse, and unauthorised access or disclosure.
+As a Data Subject under the Data Protection Legislation you have the following rights:
 
-Changes to Our Privacy Policy
+  * You have the right to ask us not to process your personal data for marketing purposes. If you submit an enquiry form on the Vacancy Filler Site, you give your consent to Vacancy Filler contacting you for marketing purposes. We will not share your information with third party marketing agencies without your consent.  You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at: [support@vacancy-filler.co.uk](mailto:support@vacancy-filler.co.uk)
+  * The Vacancy Filler Site may, from time to time, contain links to and from other websites. if you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any Personal Data to these websites.
+  * You have the right to ask us to supply to you the information we hold, this is known as a data subject access request. For further details please contact us at: [support@vacancy-filler.co.uk](mailto:support@vacancy-filler.co.uk)
+  * You have the right to ask us to rectify the data we hold in the event that it contains inaccuracies or is incomplete. To discuss this please contact us at: [support@vacancy-filler.co.uk](mailto:support@vacancy-filler.co.uk)
+  * You have the right to ask us to erase the Personal Data we hold if: (i) it is no longer necessary for us to hold the data; (ii) you wish to withdraw your consent to us holding the data; (iii) you object to us holding or processing the data; (iv) you believe that we have processed the data unlawfully; or (v) the data needs to be erased for us to comply with a particular legal obligation. To make a request please contact us at: [support@vacancy-filler.co.uk](mailto:support@vacancy-filler.co.uk)
 
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-Children Under the Age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [accounts@vacancy-filler.co.uk](mailto:accounts@vacancy-filler.co.uk;)
+### Disclosure of your information
 
-Contact Information
+You agree that we have the right to share your Personal Data with:
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [accounts@vacancy-filler.co.uk](mailto:accounts@vacancy-filler.co.uk;)
+  * Any member of our group, which means our subsidiaries, our ultimate holding company, and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+  * Selected third parties including:
+  * business partners, suppliers, and sub-contractors for the performance of any contract we enter into with them or you;
+  * analytics and search engine providers that assist us in the improvement and optimisation of the Vacancy Filler Site;
+  * credit reference agencies to assessing your credit score where this is a condition of us entering into a contract with you.
+  * To a prospective buyer or seller if we sell or buy any business or assets.
+  * If any of the shares in Vacancy Filler are sold or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data to comply with any legal obligation, or to enforce or apply our terms of business or terms of use, and other agreements; or to protect the rights, property, or safety of Vacancy Filler, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### Cookies
+
+All Cookies used by Vacancy Filler on the Vacancy Filler Site are used in accordance with current Cookie Law. We may use some or all of the following types of Cookie:
+
+  * Strictly Necessary Cookies- A Cookie falls into this category if it is essential to the operation of the Vacancy Filler Site, supporting functions such as logging in.
+  * Analytics and Flash Cookies- it is important for Vacancy Filler to understand how you use the Vacancy Filler Site. For example, how efficiently you are able to navigate around it, and what features you use. Analytics Cookies enable us to gather this information, helping Vacancy Filler to improve the Vacancy Filler Site and your experience of it.
+  * Functionality Cookies- enable us to provide additional functions to you on the Vacancy Filler Site such as personalisation and remembering your saved preferences. Some functionality Cookies may also be strictly necessary Cookies, but not all necessarily fall into that category.
+  * Persistent Cookies- any of the above types of Cookie may be a persistent Cookie. Persistent Cookies are those which remain on your computer or device for a predetermined period and are activated each time you visit the Vacancy Filler Site.
+  * Session Cookies- any of the above types of Cookie may be a session Cookie. Session Cookies are temporary and only remain on your computer or device from the point at which you visit the Vacancy Filler Site until you close your browser. Session Cookies aren’t deleted when you close your browser, to delete these cookies you will need to clear your browser history.
+  * Web beacons- certain pages on the Vacancy Filler Site and emails may contain small electronic files known as web beacons. Web beacons permit Vacancy Filler to monitor the volume of users of the Vacancy Filler Site and the popularity of certain pages.
+
+
+
+Before Cookies are placed on your computer or device you will be shown a cookie compliance statement, requesting your consent to set those Cookies.  By giving your consent to the placing of Cookies you are enabling us to provide you with the best possible experiences and services to you.  You may wish to deny consent to the placing of the Cookies at which point we request you cease using the website.
+
+In addition to the controls that Vacancy Filler provides, you can choose to enable or disable Cookies and the web beacons referred to above in your internet browser.  Most internet browsers also enable you to choose whether you wish to disable all Cookies or only third party Cookies.  By default, most internet browsers accept Cookies, but this can be changed.  For further details, please access the help menu in your internet browser.
+
+### External Web Services and Links
+
+We use a number of external web services on the Vacancy Filler Site, mostly to display content within our web pages. This is not an exhaustive or complete list of the services we use, or might use, in the future when embedding content, but these are the most common. We cannot prevent these third-party sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads and so on.
+
+### Email Tracking
+
+Some emails that we send have tracking on so that we can tell how much traffic those emails send to the Vacancy Filler Site.
+
+### Suppliers and Other Service Providers
+
+From time to time we use third party suppliers and service providers to facilitate our services. Where any service provider collects information directly from you (for example, if we ask a service provider to conduct a survey for us) you will be notified of the involvement of the supplier or service provider, and all information disclosures you make will be strictly optional.
+
+### Control of Your Password
+
+You must not disclose your Vacancy Filler password to any third parties nor share it with any third parties. If you lose control of your password, you may lose control over your Personal Data which in turn may commit you legally binding obligations without your consent. Therefore, if your password has been compromised for any reason, you should immediately contact us at: [support@vacancy-filler.co.uk](mailto:support@vacancy-filler.co.uk)
