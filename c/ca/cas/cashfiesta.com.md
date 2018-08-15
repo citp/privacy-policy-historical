@@ -1,35 +1,21 @@
-> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719074834id_/http%3A//cashfiesta.com/php/cf_privacy_infocenter.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815161132id_/http%3A//cashfiesta.com/php/cf_privacy_infocenter.php) for the most accurate reproduction.*
 
 # Make money online: Cashfiesta Policies
 
 We Respect Your Privacy
 
-We created this Privacy Policy in order to inform you about the information we collect on the Cashfiesta.com web site, how we use this information, how we protect it and what choices you have regarding the collection and use of your personal information. 
+We created this Privacy Policy in order to inform you about the information we collect on the Cashfiesta.com web site, how we use this information, how we protect it, and what choices you have regarding the collection and use of your personal information. 
 
 Please read the Privacy Policy carefully as by visiting and sharing information on the Cashfiesta.com site you agree to be bound by the Policy. 
 
 Information We Collect
 
-We collect two types of information: personally identifiable information that you expressly provide us with by enrolling as a Cashfiesta.com member and non-personally identifiable information. 
+In addition to the information you explicitly share with us when you fill out our join form to become a Cashfiesta.com member, or when you contact us by email or another means, we collect the following information: 
 
-  * Personally Identifiable Information 
+  * Information about your device such as user agent of your browser, the URL that you came to our site from, the IP address you joined or logged in from, join and login timestamps. 
+  * If you are logged in, we also collect information about your use of the services we offer, such as offers you respond to. 
 
-When you register as a member of Cashfiesta.com, you provide us with personally identifiable information such as name, e-mail address, physical address. For some promotions we may request a valid phone number. We may also request other personal information from you such as age, gender, birth year, education, annual household income, and interests. 
-
-In addition, in order to send you checks valued $600 or more we may require that you provide financial information for tax purposes. 
-
-Certain offers that appear on our site may require that you provide us with additional information, including financial information, so that we can in turn provide it to our partners who sponsor the offers. This partner-requested information will only be provided to the specific sponsor of the offer, and only if you request that offer. We will not use this information. 
-
-  * Non-Personally Identifiable Information 
-
-In addition to the personally identifiable information, we also collect certain information online arising from your use of the Cashfiesta.com program. This information is anonymous; it is not connected with your personal information. Types of non-personally identifiable information we may collect, not exhaustive: 
-
-    * The URL that you came to our site from;
-    * Your IP address at the time you visited our site;
-    * Pages from our site you visited and time you spent at each page;
-    * Number and type of offers you responded to.
-
-
+We collect this information using log files, cookies, and similar tracking technologies. 
 
 Cookies
 
@@ -40,43 +26,49 @@ We may store two types of cookies on your computer:
   * Session Cookies: These cookies are stored in the Internet browser and are deleted each time the browser is closed. We use session cookies mainly to facilitate site navigation: for example, once you log in to the site, you don't have to log in again during the same session; and to personalize site experience.
   * Permanent Cookies: These cookies are stored on the hard drive of your computer. They are not exactly "permanent". Each cookie has different "life span" determined by the web site that sets the cookie. We may use permanent cookies to store your username and password (encrypted) on your computer if you opt to have it saved.
 
-We may use both types of cookies for aggregate audience analysis: where our visitors and members come from, which pages they visit, how much time they spend on the site, which offers are most popular among members, etc. No personal information is stored in the cookies. Note that if you disable cookies on your browser, your FiestaBar™ may not function properly and we may have difficulties rendering services to you. 
+We may use both types of cookies for aggregate audience analysis: where our visitors and members come from, which pages they visit, how much time they spend on the site, which offers are most popular among members, etc. No personal information is stored in the cookies. 
 
 Use of Your information
 
-We use your personal information to service the Cashfiesta.com program, communicate with you, fulfill your requests or process, validate and/or verify orders. For example, we need your mailing address in order to know where to send your monthly check. We use your e-mail address to send you our monthly newsletter and other transactional messages related to your Cashfiesta.com membership and, in case you opt to receive such, special offers and promotions from Cashfiesta.com and on behalf of our affiliated and non-affiliated partners. 
+We use your mailing address and payment info in order to send your payments. We use your e-mail address to send you our monthly newsletter and other transactional messages related to your Cashfiesta.com membership and, in case you opt to receive such, special offers and promotions from Cashfiesta.com and on behalf of our affiliated and non-affiliated partners. We use the tax forms to comply with tax authority requirements. 
 
-We use your non-personally identifiable information to facilitate and personalize your online experience and make it better. We also use non-personally identifiable information to compile information about our website users and their online behavior, to develop new features and services for the site, to track your experience on the site in order to show you only content and ads that we believe you may be interested in, and to analyze and prevent technical problems. 
+If you provide us with demographic and interest info, we use it to improve the relevance of the offers we show you.   
+The information about your activity on the Cashfiesta.com is used to personalize and facilitate your experience, and to prevent abuse. We also use aggregated, anonymized data to analyze site performance, prevent technical problems, improve existing website services and develop new ones.   
+We use information about the offers you responded to in order to give you credit for Special Offers you have completed.   
+We don't create user profiles and don't engage in IBA (interest based advertising) as defined by [NAI](http://www.networkadvertising.org/understanding-online-advertising)
 
-Disclosure
+Security of Your Personal Information
 
-Except as described below, personal information you provide through the Cashfiesta.com web site will not be shared with third parties without your permission. 
+Your data may be stored and processed in the United States or the European Union and the European Economic Area in compliance with applicable data privacy and security legislation. We secure your personal information by using reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of the information that we collect. We have taken steps to ensure the ongoing integrity, availability, confidentiality and resilience of systems that process personal information, and will restore information in a timely manner in the event of a technical or physical incident. Sensitive data exchange between our website and your browser happens over a SSL secured channel and is protected with digital signatures.   
+Unfortunately, no transmission of data over the internet is guaranteed to be completely secure. Although we do our best to protect your data, it may be possible for third parties to unlawfully intercept or access transmitted data. Unauthorized entry, hardware or software failure, as well as other factors may compromise data security. We can't guarantee the security of information you transmit to us. 
 
-Some offers or services you choose to participate in may require us, by their terms, to forward your personal information (such as mailing address for delivery of orders) to a partner so that they can provide the service directly to you. If you become a member through a partner web site, your basic enrollment, activity and interest information may be shared with that partner, as applicable, and that partner may share information it collects about you with us, subject to its own privacy policies. We will provide you with notice of such instances at the point where the information is collected. 
+Information Sharing and Disclosure
 
-We may also share your personal information with third party service providers that perform services on our behalf, such as: credit rating companies, email service providers, credit card processors. These companies can only use the information we provide for the purpose of providing you with the services you requested. 
+Except as described below, information you provide through the Cashfiesta.com web site will not be shared with third parties without your permission. 
 
-If Cashfiesta.com or any of its assets are acquired by or merged with another entity, member information will be one of the transferred assets. 
+We may share information with third party service providers that perform services on our behalf, such as: hosting providers, email service providers, payment processors, ad tracking and reporting companies. These companies can only use the information for the purpose of providing you with the services requested and provided they comply with all relevant privacy and data security requirements. 
 
-Other circumstances under which we may disclose your personal information: (1) in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (2) in the event you violate or breach an agreement with us; (3) in the event we believe you will harm the property or rights of Cashfiesta.com or those of Cashfiesta.com's customers or affiliates, (4) in the event we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Cashfiesta.com terms of use, or as otherwise required by law. 
+Other circumstances under which we may disclose your personal information: 
+
+  1. in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+  2. if disclosure is necessary to protect the rights or safety of Cashfiesta.com employees, affiliates, or any third parties 
+  3. in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, or as otherwise required by law; 
+  4. if Cashfiesta.com or any of its assets are acquired by or merged with another entity. In such cases we will make sure the acquiring organization agrees to adhere to this Privacy Policy and provides notice in case of changes to the Privacy Policy. 
+
+
 
 Choice/Opt-Out
 
-If you have opted to receive commercial messages from us and from our partners and no longer wish to receive those messages, you can opt out of receiving them by changing your communication preferences in the [Edit Profile](https://web.archive.org/php/edit.php) section of the site. However, your option not to receive commercial messages: (a) shall not preclude us from contacting you, by e-mail or otherwise, regarding your existing or past relationship with us (e.g. sending you updates about the Cashfiesta.com services, incl. our Monthly Bonus emails), and (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the site. 
-
-Third Party Websites
-
-This Privacy Policy applies only to the Cashfiesta.com site. The site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of an offer, you will be directed to a web site of our marketing partner that may also collect your personal information. Those web sites are beyond our control. You should read those sites' privacy policies before using them. If you wish to opt out of their mailings, you must do so through those sites. Third party ads that we run on our site may set cookies to measure advertising effectiveness and gather completely anonymous information. We have no access to or control over these cookies. Some of the Special Offers you have to complete in order to earn cash may also use cookies to track and report signups. If you have your cookies disabled, you may not receive credit for some offer signups. 
+If you have opted to receive commercial messages from us and from our partners and no longer wish to receive those messages, you can opt out of receiving them by changing your communication preferences in the [Edit Profile](https://web.archive.org/php/edit.php) section of the site. However, your option not to receive commercial messages: (a) shall not preclude us from contacting you, by e-mail or otherwise, regarding your existing or past relationship with us (e.g. sending you updates about the Cashfiesta.com services, incl. our Monthly Bonus emails), and (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the site.   
+You can disable cookies in your browser, only allow cookies from selected websites, or select to be notified before accepting cookies. Note that if you disable cookies, some parts of the websites and other online services you use may not function as expected. You can also delete cookies stored in your browser at any time. For more information on cookies, see the Cookies part of this Policy. 
 
 Personal Information Updates
 
 You can modify or update your personal information after logging in to your Cashfiesta.com account and clicking on the Edit Profile link. 
 
-Security of Your Personal Information
+Third Party Websites
 
-We secure your personal information by using reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of the information that we collect. Efforts we undertake to ensure the security of your data include but are not limited to: maintaining our own servers under our private control, data encryption and/or monitoring of our network and data for intrusions. However, perfect security does not exist on the internet. 
-
-Your information may be stored and processed in the United States or any other country in which Cashfiesta.com or its affiliates, subsidiaries or agents maintain facilities, and by using the Cashfiesta.com site, you consent to any such transfer of information outside of your country. 
+This Privacy Policy applies only to the Cashfiesta.com site. The site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of an offer, you will be directed to a web site of our marketing partner that may also collect your personal information. Those web sites are beyond our control. You should read those sites' privacy policies before using them. 
 
 No Information Collected from Children
 
@@ -84,7 +76,12 @@ In compliance with the [Children's Online Privacy Protection Act (COPPA)](http:/
 
 Your California Privacy Rights
 
-Starting from January 1, 2006, if you are a California resident, you have the right to receive: a) information identifying any third party company (ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name, registration email address, and a return address or it will not be processed. Such requests will not be processed more than once per calendar year. Requests made via email will not be accepted. Please mail your request to: Cashfiesta.com/ 41 Sutter St. # 1214/ San Francisco, CA 94104 
+Starting January 1, 2006, if you are a California resident, you have the right to receive: (a) information identifying any third party company (ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name, registration email address, and a return address or it will not be processed. Such requests will not be processed more than once per calendar year. Requests made via email will not be accepted. Please mail your request to:   
+Cashfiesta.com/ 41 Sutter St. # 1214/ San Francisco, CA 94104 
+
+Your EU/EEA GDPR Rights   
+Starting May 25, 2017, if you are located in the EU/ EEA, you have the right to access, review, update, correct, or have your personal information deleted. If you are a registered Cashiesta.com member, you can access and update most of the personal info we have about you by logging into your account. For any other privacy related requests, both members and non-members located in the EU/EEA can contact us at [support@cashfiesta.com](mailto:support@cashfiesta.com) . We will make commercially reasonable efforts to resolve your issue within 30 days of your request.   
+If you want your personal information deleted, we will erase all data we have about you. Please note that we may still use aggregated and de-identified personal information, and may also retain and use your information if necessary to comply with our legal obligations, resolve disputes, or enforce our agreements. 
 
 Privacy Policy Changes
 
