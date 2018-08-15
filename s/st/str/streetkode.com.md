@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetkode.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920131253id_/http%3A//streetkode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetkode.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815224650id_/http%3A//streetkode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Streetkode Media
 
