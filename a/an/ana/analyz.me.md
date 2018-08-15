@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analyz.me privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191035id_/http%3A//www.meow-share.com/privacy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyz.me privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815024640id_/https%3A//analyz.me/privacy_en.html) for the most accurate reproduction.*
 
 # 
 
@@ -71,4 +71,4 @@ Meow Share
 
 http://meowshare.com
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+support@meowshare.com
