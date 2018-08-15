@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628165332id_/https%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815111317id_/https%3A//www10.sharecg.com/blogs/info/privacy-policy) for the most accurate reproduction.*
 
-# ShareCG: Privacy Policy
+# ShareCG: ShareCG Information - Privacy Policy
 
-ShareCG.com Privacy Policy
+[](https://www10.sharecg.com/blogs/ "Back to ShareCG Blogs")
 
-**Internet Business Systems, Inc. Privacy Policy**
-
-Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: [www.ShareCG.com](http://www.sharecg.com/),[www.edacafe.com](http://www.edacafe.com/), [www.mcadcafe.com](http://www.mcadcafe.com/), [www.giscafe.com](http://www.giscafe.com/), [www.aeccafe.com](http://www.aeccafe.com/) and, [www.techjobscafe.com](http://www.techjobscafe.com/).
+Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: [www.ShareCG.com](http://www.sharecg.com/), [www.edacafe.com](http://www.edacafe.com/), [www.mcadcafe.com](http://www.mcadcafe.com/), [www.giscafe.com](http://www.giscafe.com/), [www.aeccafe.com](http://www.aeccafe.com/), and [www.techjobscafe.com](http://www.techjobscafe.com/).)
 
 #### What This Privacy Policy Covers
 
@@ -19,7 +17,7 @@ Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read 
 
 **General**
 
-  * IBS collects personal information, including your e-mail address, when you sign up for an account on ShareCG.com. 
+  * IBS collects personal information, including your e-mail address, when you sign up for an account on ShareCG.com.
   * Once you register with IBS and sign in to our services, you are not anonymous to us.
   * IBS automatically receives and records information on our server logs from your browser, including your IP Address, IBS cookie information, and the page you request.
   * IBS uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products, services and payments, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
@@ -30,9 +28,9 @@ Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read 
 
 IBS will not monitor or disclose any private e-mail message or address information unless required by law, regulation, court order, or legitimate administrative purpose. Any personally identifiable information that you provide will only be used in order to provide you with a more customized and efficient service. You may receive program information and updates from IBS periodically, and have the right and ability to opt out of any communications not directly related to the IBS service you are utilizing.
 
-IBS does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+IBS does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of IBS's terms of use, or as otherwise required by law.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of IBS’s terms of use, or as otherwise required by law.
   * We transfer information about you if IBS is acquired by or merged with another company. In this event, IBS will notify you before information about you is transferred and becomes subject to a different privacy policy.
   * IBS may display targeted advertisements based on personal information.
   * IBS does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
@@ -42,7 +40,7 @@ IBS does not rent, sell, or share personal information about you with other peop
 
 **General**
 
-  * You can edit your Account Information at any time by [clicking here](https://www.sharecg.com/my_account.php?default_tab=account+info)
+  * You can edit your Account Information at any time by clicking here.
   * We reserve the right to send you certain communications relating to the IBS service, such as service announcements, administrative messages and IBS Newsletters that are considered part of your IBS account, without offering you the opportunity to opt-out of receiving them.
 
 
@@ -67,3 +65,9 @@ If you have questions or suggestions, please contact us at:
 Internet Business Systems, Inc.  
 Privacy Policy Issues  
 Phone: +1 (408)-337-6870
+
+Category: [ShareCG Site](https://www10.sharecg.com/blogs/info/category/sharecg-site/ "View all posts in ShareCG Site")
+
+This entry was posted on Sunday, May 17th, 2015 at 5:00 pm. You can follow any responses to this entry through the [RSS 2.0](https://www10.sharecg.com/blogs/info/privacy-policy/feed/) feed. Both comments and pings are currently closed. 
+
+Comments are closed.
