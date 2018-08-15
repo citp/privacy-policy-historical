@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildanichestoreblog.blogspot.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909043424id_/http%3A//buildanichestoreblog.blogspot.com/2009/04/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildanichestoreblog.blogspot.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815193347id_/http%3A//buildanichestoreblog.blogspot.com/2009/04/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Build A Niche Store Blog
 
