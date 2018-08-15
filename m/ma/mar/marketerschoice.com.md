@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketerschoice.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223152428id_/http%3A//www.marketerschoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketerschoice.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815125841id_/http%3A//www.marketerschoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarketersChoice
 
