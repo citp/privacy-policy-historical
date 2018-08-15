@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtopus.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105211740id_/http%3A//playtopus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtopus.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815111313id_/http%3A//www.playtopus.com/privacy-policy) for the most accurate reproduction.*
 
 # PlayTopus | Privacy Policy
 
