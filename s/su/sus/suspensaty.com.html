@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the suspensaty.com privacy policy that was archived on 2017-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170310223211id_/http%3A//suspensaty.com/pages/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suspensaty.com privacy policy that was archived on 2018-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180815124025id_/http%3A//suspensaty.com/pages/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -10,6 +10,8 @@
 	<link rel="stylesheet" href="http://static.suspensaty.com/styles/webtvs.css">
 		<link rel="stylesheet" href="http://static.suspensaty.com/styles/webtvs/suspensaty.css">
 	
+        <link href="http://static.suspensaty.com/styles/videojs/video-js.min.css" rel="stylesheet">
+
 	<script async="" src="//cdn.taboola.com/libtrc/bitlanders-network/loader.js"></script><script async="" src="//www.google-analytics.com/ga.js"></script><script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 
 	
@@ -76,16 +78,14 @@
 		<style>
 html,body{height:100%}
 .videoDiv #playerDiv {
-		position: relative;
-		padding-bottom: 56.25%;
-		padding-top: 30px; height: 0; overflow: hidden;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
 }
-
-.pl_medium.html5 #playerDiv {
-	padding-bottom:inherit;
-	padding-top:inherit;
-}
-
+.videoDiv #player {width: 100%; height: auto;}
+.videoDiv #player_wrap {float: none;}
 .videoDiv #playerDiv iframe,
 .videoDiv #playerDiv object,
 .videoDiv #playerDiv embed {
@@ -114,27 +114,20 @@ video {
 }
 
 </style>
-	<div id="player" class="pl_medium ">
+	<div id="player" class="">
 
 		
 		
-		<div id="player_wrap">
-			<div id="playerDiv">
-                                			</div>
-		</div>
-			</div>
+        			</div>
 
-		
-			
-			<script type="text/javascript">
+	<script type="text/javascript">
 
-		
+	
 		function fa_create_player(_) {
 
 			var so = new SWFObject('http://static.suspensaty.com/flash/daPlayer.swf','mpl',_.tw ,_.th , '8');
 
 			if (so.installedVer.major == 0) {
-				$.get("http://suspensaty.com/service.php?s=noflash&m=no flash installed&do=dfe");
 				console.log("no flash installed");
 							}
 
@@ -155,19 +148,19 @@ video {
 
 						
 			so.addVariable("ADS_geo","US");
-			so.addVariable("ADS_geo_region","VA");
-			so.addVariable("ADS_client_ip", "52.4.48.181");
+			so.addVariable("ADS_geo_region","CA");
+			so.addVariable("ADS_client_ip", "207.241.229.215");
 			so.addVariable("ADS_fallback","2");
 
-						so.addVariable("ad_chain", _.ac);
+			so.addVariable("ad_chain", _.ac);
 			so.addVariable("nlog", '1');
-																		so.addVariable("page_id","home");			so.addVariable("site_id","14");									so.addVariable("uos",1);												so.addVariable("zone_id",14);
+																		so.addVariable("page_id","home");			so.addVariable("site_id","14");						so.addVariable("ref_url","http%3A%2F%2Fsuspensaty.com%2F");			so.addVariable("uos",1);												so.addVariable("zone_id",14);
 
 			so.write('playerDiv');
 		}
 									fa_create_player({tw:630, th:382, vw:630, vh:357, as:"true", file:"http://static.suspensaty.com/xml/webtv_14_fv.xml", qb: false, cb: true, ac:"CLEAN"});
 						</script>
-				
+		
 	<article class="box">
 		<h2>Privacy policy</h2>
 
@@ -294,7 +287,7 @@ video {
 	    
 	</footer>
 
-	<script src="//c.fqtag.com/tag/implement-r.js?org=dq22xSrBHW9goiSC0lzi&amp;s=58c3296ba44b3&amp;p=14_US_BAD&amp;a=_&amp;cmp=_&amp;fmt=video&amp;rt=display&amp;sl=1"></script>
+	<script src="//c.fqtag.com/tag/implement-r.js?org=dq22xSrBHW9goiSC0lzi&amp;s=5b741f39a2a2f&amp;p=14_US_BAD&amp;a=_&amp;cmp=_&amp;fmt=banner&amp;rt=display&amp;sl=1"></script>
 		<div class="bitmiles"></div>
 	<script src="http://static.bitlanders.com/js/bitmiles.js"></script>
 
@@ -304,6 +297,4 @@ video {
 	  window._taboola = window._taboola || [];
 	  _taboola.push({flush: true});
 	</script>
-	
-		
-</body></html>
+	</body></html>
