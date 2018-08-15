@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydealhero.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025183115id_/http%3A//mydealhero.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydealhero.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815122834id_/http%3A//mydealhero.com/privacy.php) for the most accurate reproduction.*
 
 # My Deal Hero : Find Super Deals & Discounts on Nearly Everything!
 
