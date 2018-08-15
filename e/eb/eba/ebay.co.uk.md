@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528113213id_/https%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815221941id_/https%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
-This Privacy Notice was posted on **May 1, 2018**. It is effective upon acceptance for new users, and from **June 1, 2018** for all other users. [See previous version of this Privacy Notice](http://pages.ebay.co.uk/help/pp_previous.html).
+This Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. [See previous version of this Privacy Notice](http://pages.ebay.co.uk/help/pp_previous.html).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -232,7 +232,7 @@ We use the personal information we collect from you for a range of different bus
 
 **With your consent, we may use your personal information to:**
 
-  * Provide you with marketing via telephone calls, email, SMS/text.
+  * Provide you with marketing via telephone calls, SMS/text.
 
   * Provide you with marketing from other eBay Inc. corporate family members. ****
 
