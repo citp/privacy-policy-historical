@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jctrading.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130822id_/http%3A//jctrading.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jctrading.info privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816014407id_/http%3A//jctrading.info/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,4 +77,4 @@ By using our site, you consent to our website privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 2016
+This policy was last modified on 2017
