@@ -1,116 +1,277 @@
-> *The following text is extracted and transformed from the goodgamestudios.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625091318id_/https%3A//www.goodgamestudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgamestudios.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815173412id_/https%3A//www.goodgamestudios.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goodgame Studios
 
-Altigi GmbH/Goodgame Studios, Theodorstr. 42-90, Haus 9, 22761 Hamburg, and other companies of the Goodgame Studios Group (“Goodgame Studios”), take the protection of your personal information very seriously. The following privacy policy will provide you with information about the personal information that is collected and how it is processed and used.
+### Privacy Policy for online services
 
-**1** | **Subject matter of this privacy policy**  
-| This Privacy Policy applies to all services offered on Goodgame Studios’ websites, in particular the Goodgame Studios portal at “www.goodgamestudios.com” and the individual online game websites. 
+Valid as of July 10, 2018. – [Previous version](https://www.goodgamestudios.com/archive-privacy-policy-en/#policy)
 
-Unless stated otherwise, this Privacy Policy is exclusively in place to regulate how Goodgame Studios treats your personal information. If you make use of services provided by third parties, only the Privacy Policy conditions of these third parties shall apply.  
-  
-**2** | **Responsible Contact**  
-| The responsible contact according to the Federal Data Protection Act is Altigi GmbH/Goodgame Studios, Theodorstr. 42-90, Haus 9, 22761 Hamburg. 
+The use of this website may involve the processing of personal information. Our intention is for the following information to provide you with an overview of these processes so that you can understand them. In order to ensure fair processing, we would also like to inform you about your rights under the European General Data Protection Regulation (GDPR) and the German Federal Data Protection Act (Bundesdatenschutzgesetz – BDSG).
 
-If you have any questions concerning privacy policy matters, please contact [privacy@goodgamestudios.com](mailto:privacy@goodgamestudios.com). By contacting this email address, you can inquire into privacy issues and review, change, or delete your personal information stored by Goodgame Studios. Alternatively, you can also contact us using the above postal address. If possible, please include the online or mobile game that you have played, the server, and your player name.  
-  
-**3** | **Collection of information**  
-| In principle, you can access our internet offers without disclosing any personal information to us. It is always your choice whether or not to provide us with your personal information. We collect your information in order to fulfill the user contract we have agreed upon with you. In addition to monitoring compliance with the terms of use and game rules, this includes in particular the proper handling of your payment arrangements. 
+Goodgame Studios (Altigi GmbH), Theodorstrasse 42-90, Haus 9, 22761 Hamburg (hereinafter referred to as “we” or “us”) is responsible for the data processing.
 
-We require personal information if you would like to register on our websites, participate in sweepstakes, or subscribe to our newsletter. This information includes, for example, your name, address, email address, and other personal information that Goodgame Studios may inquire into in individual cases. In many cases, it is possible to use Goodgame Studios’ services with pseudonyms. Users are encouraged to make use of this feature.
+#### Table of Contents:
 
-In addition, certain pieces of information such as IP address, browser version, and access times are automatically sent to us by your computer or mobile device and stored on our server. Information regarding the type of mobile device and operating system being used is also collected at this time. We only use this information to conduct statistical and performance analyses or to prosecute unauthorized use of our website. The information remains anonymous whenever possible. We reserve the right to carry out personalized campaigns using the personal information that you have permitted social networks to share with third parties. In this regard, we shall refer to the privacy policies of the social networks in question.
+  1. Contact Us
+  2. General Information on the Processing of Personal Data
+  3. Duration of Storage
+  4. Transmission of data
+  5. Contact Form
+  6. Registration and Login
+  7. Facebook Connect
+  8. Data Processing in our Games
+  9. Payments made on our Website
+  10. Community (Forum)
+  11. Publisher Backend
+  12. Job Applications
+  13. Newsletter
+  14. Surveys
+  15. Processing Server Log Files
+  16. Combating Fraud
+  17. Cookies
+  18. Facebook (Visitor Action Pixel)
+  19. Google Analytics
+  20. Google Marketing Services
+  21. Microsoft Bing Ads
+  22. Twitter Conversion Tracking
+  23. Taboola
+  24. Integrated Services and Third Party Content
+  25. Your Rights
+  26. The Right to Object
+  27. Data Protection Officer
+  28. Complaints to Government Authorities
 
-We gather, process, and use personal information only with your consent, unless already permitted by legal statutes. If consent is given electronically within the context of our online offerings, we shall fulfill our legal obligation to give you proper notification of this.
 
-We do not knowingly collect any information from anyone under 13 years of age.  
-  
-**4** | **Cookies**  
-| We use cookies on our website. These are small text files stored on your computer. We use both permanent cookies and session cookies so that we can offer you the best service possible. The data saved in the cookies make the use of our services as comfortable as possible for you, not only for your current use of the respective service but also beyond it. 
 
-If you don’t want to allow permanent cookies, you can select the option to deactivate permanent cookies in your browser.
+#### 1.      Contact Us
 
-The data stored in session cookies are only valid for the current visit to our online offers and serve to provide you with an unrestricted use of our services and to make the use of our offers and services as comfortable as possible for your current visit. If you deactivate session cookies, we cannot guarantee that you will be able to use all of our services without limitations.  
-  
-**5** | **Cookies of third party providers and tracking**  
-| We use the services of other companies to optimize our websites and our services. You will receive an overview of the services we use in the following section.  
-a. | Google Analytics  
-| This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies, text files stored on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. We use Google Analytics with the add-on “_anonymizeIP()” so that the IP addresses later transmitted to Google are shortened and modified in advance on the European servers to prevent any direct references to particular persons. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators, and providing other services relating to website activity and internet usage to the website operator. Your IP address, which has been transmitted by Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use all functions of this website. Furthermore, you can prohibit Google from collecting and analyzing the cookie generated data about your use of the website (including your IP address) by clicking here or downloading and installing the browser plugin available here <http://tools.google.com/dlpage/gaoptout?hl=en>. 
+If you have any questions or suggestions about this information or would like to contact us to exercise your rights, please contact us via: <https://support.goodgamestudios.com/>
 
-If you visit our website using a mobile device (e.g. a smartphone or tablet), you can refuse the future use of Google Analytics via this link. By activating the link, we will put a cookie in your browser, which signals to us that we should prevent Google Analytics from using your device. Please keep in mind that you will have to repeat the refusal process if you remove the cookies from your browser.  
-  
-b. | Google Remarketing  
-| Our websites use Google’s remarketing technology. This technology enables users who have already visited our online services and shown interest in our services to see targeted advertising on the websites of the Google partner network. Likewise users that are similar to the visitors of our websites can be addressed. The advertising will be displayed using cookies. These are small text files saved on the user’s computer. The information generated by the cookie about the website use will be transmitted to and stored on servers in the United States by Google. In the event that the IP address is transferred, it will be reduced by the last 3 digits. Using cookies, the user behavior on a website can be analyzed and subsequently utilized to provide targeted product recommendations and advertising based on the user’s interests. 
+#### 2.      General Information on the Processing of Personal Data
 
-If you would prefer to not receive any targeted advertising, you can deactivate the use of cookies for these purposes through Google by visiting the website: https://www.google.com/settings/ads/. Alternatively, users can deactivate the use of cookies by third party providers by visiting the Network Advertising Initiative’s deactivation website (<http://www.networkadvertising.org/choices/>).
+The use of the products and services we offer may result in the processing of personal data. The term “personal data” under data protection law refers to all information relating to a specific or identifiable person. An IP address can also be considered personal data. An IP address is assigned to each device connected to the internet by the internet service provider, so that it can send and receive data. When you use the website, we collect data that you provide yourself. In addition, when you use the website, we automatically collect certain information about your use of it.
 
-Please note that Google has its own data protection policy which is independent of our own. We assume no responsibility or liability for their policies and procedures. Please read Google’s privacy policy before using our websites (<https://www.google.com/intl/en/policies/privacy/>).  
-  
-c. | Facebook Conversion Tracking Pixel  
-| With your permission, our website utilizes the Conversion Tracking Pixel service of Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA (“Facebook”). This tool allows us to follow the actions of users after they are redirected to a provider’s website by clicking on a Facebook advertisement. We are thus able to record the efficacy of Facebook advertisements for statistical and market research purposes. The collected data remain anonymous. This means that we cannot see the personal data of any individual user. However, the collected data are saved and processed by Facebook. We are informing you on this matter according to our information at this time. Facebook is able to connect the data with your Facebook account and use the data for their own advertising purposes, in accordance with Facebook’s Data Use Policy found under: <https://www.facebook.com/about/privacy/>. Facebook Conversion Tracking also allows Facebook and its partners to show you advertisements on and outside Facebook. In addition, a cookie will be saved onto your computer for these purposes. 
+We process personal data in compliance with the relevant data protection regulations of the GDPR and the German BDSG. We will only process data where we are legally permitted to do so. When you use this website, we will process personal data only with your consent (Art. 6 paragraph 1 sentence 1 letter a GDPR), for the performance of a contract to which you are a party, or in order to take steps at your request prior to entering into a contract (Art. 6 paragraph 1 sentence 1 letter b GDPR), for compliance with a legal obligation (Art. 6 paragraph 1 sentence 1 letter c GDPR) or if the processing is necessary for the purposes of our legitimate interests or the legitimate interests of a third party, except where such interests are overridden by your interests or fundamental rights and freedoms which require the protection of personal data (Art. 6 paragraph 1 sentence 1 letter f GDPR).
 
-Only users over 13 years of age may give their permission. If you are younger than this age, please consult your legal guardians.
+#### 3.      Duration of Storage
 
-Please click here if you would like to revoke your permission:  
-<https://www.facebook.com/ads/website_custom_audiences/>.  
-  
-d. | Facebook login  
-| We also offer you an easier way to register for our games and services. You can use your existing Facebook account for this purpose. By clicking the Login with Facebook link, you can use this registration method via our online portal. To do this, you need to already have a Facebook account or have access to Facebook. 
+Unless otherwise stated in the following sections, we will store the data only as long as necessary to achieve the purpose of processing or to fulfill our contractual or statutory obligations.
 
-If you would like to register for one of our services via your Facebook account, the first step of the registration process will immediately redirect you to Facebook. Facebook will then ask you to log in or register. At no time will we have access to your personal login information (username and password).
+#### 4.      Transmission of data
 
-In a second step, you will connect your Facebook profile with the service that you would like to register for. At this point, you will learn what data from your Facebook profile will be transmitted to us. This information is usually your “public information” on Facebook and information that you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of the public information in your profile via the General Account Settings menu of your Facebook profile (<https://www.facebook.com/settings?tab=applications>).
+Unless otherwise stated in the following sections, data will be processed on the servers of technical service providers commissioned by us for this purpose. These service providers will only process the data after having received express instructions and they are contractually obliged to guarantee adequate technical and organizational measures for data protection.
 
-If you would like to remove our service’s connection to Facebook via Facebook Connect, please log in to Facebook and make the required changes to your profile. We will then no longer have the right to use information from your Facebook profile for you.  
-  
-e. | Twitter Conversion Tracking  
-| We use the Conversion Tracking service of Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA (“Twitter”). This tracking records if a user of our website clicks on a link posted by Twitter. In this way, both we and Twitter can see if a registration has taken place. The identity of the user remains anonymous. In addition, we use Twitter’s Tailored Audiences service. This enables us to appeal to our website’s users with targeted advertisements. To do this, Twitter uses a code snippet (tag) which we have integrated into our website. No personal data are collected during this process. Tailored Audiences is also used to create lookalike targeting lists. 
+Insofar as we refer to integrated services of other providers in this Data Protection Declaration, it can be assumed that personal data will be transmitted to the specified headquarters of these providers. These providers may be based in a so-called third country outside the European Union or the European Economic Area. Further information can be found in the sections describing each service.
 
-You can find more information about Twitter’s privacy policy in their data privacy statement (<https://twitter.com/privacy?lang=en>). You can adjust your privacy settings for tailored advertisements at this link: <https://support.twitter.com/articles/20170405-your-privacy-controls-for-tailored-ads> Twitter also supports “Do Not Track” (DNT). If you have activated this option in your browser, Twitter will not receive any browser-related information (browser cookie ID) from web partners in order to tailor their advertisements to you.  
-  
-**6** | **Use of your personal information**  
-| We use your personal data in order to constantly improve our range of services and to satisfy users’ needs. 
+#### 5.      Contact Form
 
-We use your personal information for the establishment, processing, and settlement of your user relationship with Goodgame Studios and the processing of payments.
+Our website contains a contact form with which you can send us messages. The transfer of your data is encrypted.
 
-Furthermore, we use your information in order to communicate with you. This communication includes emails informing you on new features in our services where appropriate. We use your personal information in order to inform you about products, services, or certain events which could be of interest to you on a regular basis. Each message contains the text: “In order to stop receiving emails for this game account in the future, please click here”. After clicking on “here”, you will no longer receive messages regarding this game account. Your refusal will not incur any costs other than the transmission costs in accordance with basic tariffs.
+The legal basis for processing this data is Art. 6 paragraph 1 sentence 1 letter b GDPR. All data fields marked as mandatory are required for processing your request. If they are not provided, your request cannot be carried out. The provision of any additional data is voluntary. Alternatively, you can also send us a message to the contact e-mail address.
 
-Finally, we use your information in order to protect our webpages and to trace unauthorized accesses.  
-  
-**7** | **Transmission of personal information**  
-| As a matter of course, your data will not be sold to third parties. Goodgame Studios transmits your personal data to third parties only to the following extent: 
+#### 6.      Registration and Login
 
-We are collaborating with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.), providers that create and compile statistical data, and IT service providers (e.g., data centers, hosts, backup services, database services). These service providers only have access to your data to the extent necessary for the completion of their tasks. These service providers are required to handle your data in accordance with this privacy policy and the relevant data protection statutes.
+In order to use certain functions within the app, registration via the website is required. The information required can be seen on the registration screen. It is absolutely essential to provide the information marked as mandatory in order for you to complete the registration process. The data provided will be processed for the purpose of providing the service. The legal basis of this processing is Art. 6 paragraph 1 sentence 1 letter b GDPR. We store your data for as long as you are registered with us, unless you delete it beforehand.
 
-In the case that Goodgame Studios, companies controlled by Goodgame Studios, certain affiliated companies, or shares of the company are sold, your customer information will ordinarily be passed on with the part of the company that is changing hands. As a matter of course, your data shall remain subject to this privacy policy and the relevant data protection statutes in a case such as this.  
-  
-**8** | **More information about the privacy policy**  
-| Please keep in mind that all information you choose to make public, e.g. in chats, via email, or in forums or comments, can be collected and used by others. 
+#### 7.      Facebook Connect
 
-For our own liability, we maintain the right to review this content. In addition, we shall strive to clarify and prevent any fradulent measures (e.g. illegal game rigging at the expense of Goodgame) via independent reviews.  
-  
-**9** | **Changing or deletion of data**  
-| As a registered user you can review, update, correct or delete your personal data in your profile settings or by contacting us at: <https://support.goodgamestudios.com/>. 
+We also offer you the option of easier registration for our games and services through Facebook. You can use your existing Facebook user account for this purpose. By clicking the “Log in with Facebook” link, you can use this registration method via our online portal. To do this, you need to already have a Facebook account or have access to Facebook.
 
-Goodgame Studios will delete personal data upon request, unless mandatory obligations contradict such a deletion.  
-  
-**10** | **Security of your personal information**  
-| The data collected from you is processed according to the German Data Protection Act. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations. 
+If you would like to register for one of our services using your Facebook account, the first step in the registration process will immediately redirect you to Facebook. Facebook will then ask you to log in or to register. Under no circumstances will we receive your personal access data (user name and password).
 
-When submitting payments, the transfer of your information is protected by SSL encryption technology. Our SSL transfer is GoDaddy certified.  
-  
-**11** | **Contact**  
-| Altigi GmbH/Goodgame Studios  
-Theodorstr. 42-90, Haus 9  
-22761 Hamburg  
-Germany  
-[privacy@goodgamestudios.com](mailto:privacy@goodgamestudios.com)
+In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told what data from your Facebook profile will be transmitted to us. This information is usually your “public information” on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).
 
-The operating data protection officer of Goodgame Studios is the attorney David Oberbeck (www.datenschutzkanzlei.de). If you have any questions regarding the privacy policy, please send them via post to:
+The legal basis for data collection and storage is your consent, within the meaning of Art. 6 paragraph 1 sentence 1 letter a GDPR. If you would like to remove the connection between Facebook Connect and our service, please log in to Facebook and make the required changes to your profile. We will then no longer have the right to use information from your Facebook profile.
 
-Data Protection Officer  
-c/o Altigi GmbH/Goodgame Studios
+#### 8.      Data Processing in our Games
 
-Theodorstraße 42-90, Haus 9  
-22761 Hamburg  
-Germany
+In our games we are able to track and evaluate various actions at the player level. This especially includes contact data provided during registration and your actions during the games. For this purpose, we collect your connection data, such as your IP address. We need to be able to process this information to execute gaming operations. It is, therefore, processed on the basis of Art. 6 paragraph 1 sentence 1 letter b GDPR
+
+#### 9.      Payments made on our Website
+
+In principle, you can enjoy our games without having to provide personal contact data. If you pay for chargeable activities in our games, your personal data will be collected by the corresponding payment service providers listed.
+
+All payment-relevant data, such as your contact and payment data, are initially collected and processed by the corresponding payment provider. The legal basis for this data processing is Art. 6 paragraph 1 sentence 1 letter b GDPR.
+
+For payments, we collect the geolocation of your IP address, which allows us to determine in which country you are located. The legal basis for this data collection is Art. 6 paragraph 1 sentence 1 letter c GDPR, as the processing is necessary for compliance with a legal obligation. The legal obligation arises from Directive 2006/112/EC (MOSS Directive).
+
+We also receive information from payment providers related to payment fraud prevention. The legal basis for this data collection is Art. 6 paragraph 1 sentence 1 letter f GDPR, as the processing serves the legitimate interests of our company.
+
+#### 10\. Community (Forum)
+
+To use our forums, you must provide personal registration data, such as your user name and e-mail address. The e-mail address is not visible to other users. Registration is necessary to be able to punish possible infringements of our Community guidelines by excluding those responsible from the forum. The legal basis for the storage of this data is Art. 6 paragraph 1 sentence 1 letter b GDPR.
+
+Our forum is monitored by moderators. In order to prevent and punish serious violations, we monitor your IP address. The collection of this information to combat fraud is based on our legitimate interests in accordance with Art. 6 paragraph 1 sentence 1 letter f GDPR, and serves to protect our forum. We expressly reserve the right to delete your comments if they are objected to as unlawful by third parties. You can object to this storage of the aforementioned data at any time.
+
+#### 11\. Publisher Backend
+
+Our company operates what is referred to as a “Publisher Backend”, in which companies and private individuals can register to participate in our Publisher Program. For this purpose, we collect and process your contact and payment data, which we require in accordance with Art. 6 paragraph 1 sentence 1 letter b GDPR for the performance of the respective contractual relationship.
+
+#### 12\. Job Applications
+
+You can apply for a job with us through our website in the “career” section. To this end, we collect personal contact data from you, which specifically includes your name, your CV, your cover letter and other content provided by you.
+
+Your personal application data will only be collected, stored, processed and used for purposes in connection with your interest in current or future employment with us and the actual processing of your application. Your online application will only be processed and handled by the relevant contact people in our company. All employees entrusted with data processing are obliged to maintain the confidentiality of your data.
+
+We use Lever Inc:’s software for application processing (989 Market Street, #500, San Francisco, CA 94103, “Lever”). We ensure the adequacy of data transfer to the USA, a third country, by agreeing standardized EU contractual clauses with Lever.
+
+The legal basis for this data collection is Section 26 BDSG 2018.
+
+#### 13\. Newsletter
+
+In the following section, we will inform you about our newsletter as well as other types of business emails and electronic communications and your right to object. By subscribing to our newsletter, you agree to receive it and you agree to the processes described below. The legal basis is your consent pursuant to Art. 6 paragraph 1 sentence 1 letter a GDPR and Section 7 paragraph 2 no. 3 of the German Act against Unfair Competition (Gesetz gegen den unlauteren Wettbewerb – UWG).
+
+We do not include the following information under the term “advertising communication”: Information about technical and organizational processes and information relating to the provision of services to our users.
+
+To subscribe to our newsletter, use the double opt-in procedure, which serves to confirm your e-mail address. This confirmation is required so that no one can register with an e-mail address that does not belong to them. Subscriptions to the newsletter are logged in order to be able to provide evidence of the registration process in accordance with statutory requirements. This includes the storage of the login itself, the time of confirmation, as well as the IP address. Any changes to your data stored with the service provider that sends the newsletters are also logged. Newsletters are sent with the help of an EU-based external service provider, whom we have engaged to process orders in accordance with statutory requirements.
+
+The newsletters contain cookies that are retrieved by the server of the service provider that sends the newsletter, as soon as the newsletter is opened. Within the scope of this retrieval, technical information, such as information about the browser and your system, as well as your IP address and time of retrieval are initially collected. This information is used for technical improvement or to analyze the target groups and their reading behavior on the basis of their retrieval locations (which can be determined using the IP address) or access times. The statistical data collection also includes determining if and when the newsletters are opened and which links are clicked and when they are clicked. For technical reasons, this information can be assigned to the individual newsletter recipients. These analyses are primarily intended to help us to identify the reading habits of our users and to adapt our content to them or to send different content based on user interests. The legal basis is Art. 6 paragraph 1 sentence 1 letter f GDPR.
+
+You can stop receiving our newsletter at any time in the future just by letting us know that you wish to cancel. You can do so easily by using the link at the bottom of each of our communications or by using our support form. Unfortunately, you cannot request separate cancellations for the service provider that sends the newsletter or for the statistical analysis. If you wish to cancel, you must cancel the entire subscription.
+
+#### 14\. Surveys
+
+We conduct occasional customer satisfaction surveys for our games. For this purpose, we collect and process your contact data as provided in the surveys.
+
+The legal basis for the use of this information is your consent in accordance with Art. 6 paragraph 1 sentence 1 letter a GDPR. Your participation in the survey is voluntary. Your consent to its use may be revoked at any time.
+
+We use the services of SurveyMonkey Inc (San Mateo, One Curiosity Way, San Mateo, California 94403, “SurveyMonkey”) to conduct the surveys. SurveyMonkey collects additional information from participants in the form of cookies, which are only intended to ensure that the survey service is fully usable and that the surveys run as intended.
+
+The legal basis for processing this additional information is Art. 6 paragraph 1 sentence 1 letter f GDPR. If you do not participate in our survey, no personal information will be collected.
+
+SurveyMonkey is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation
+
+[https://www.privacyshield.gov/participant?id=a2zt0000000Gn7zAAC&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000Gn7zAAC&status=Active)
+
+#### 15\. Processing Server Log Files
+
+When using our website for informational purposes only, general data is initially stored automatically (i.e. not via registration) and transmitted to our server by your browser. By default, these include: The browser type/version, the operating system used, the page accessed, the page previously visited (referrer URL), the IP address, the date and time of the server request and the HTTP status code.
+
+The processing is carried out for the purposes of our legitimate interests, the legal basis of which is Art. 6 paragraph 1 sentence 1 letter f GDPR. This processing is used for technical administration and website security.
+
+#### 16\. Combating Fraud
+
+We process pseudonymous information, such as the IP address or device ID, for the analysis of signals in order to identify fraud by third parties in the context of customer acquisition. To accomplish this, we are supported by external service providers whom we have ensured are committed to the same statutory requirements.
+
+The legal basis is Art. 6 paragraph 1 sentence 1 letter f GDPR. This processing contributes to the organizational security of the website.
+
+#### 17\. Cookies
+
+We use cookies on our website. Cookies are small text files that are stored by your browser when you visit a website. This identifies the browser used and can be recognized by our web server. Insofar as this use of cookies results in the processing of personal data, the legal basis for this is Art. 6 paragraph 1 sentence 1 letter f GDPR. This manner of processing serves our legitimate interest in making our website more user-friendly, effective and secure.
+
+Most of the cookies we use are known as “session cookies”. They are deleted after the end of you visit. Other cookies (“persistent cookies”) are automatically deleted after a specified period, which may vary depending on the cookie. You can delete cookies at any time in the security settings of your browser. You can object in principle to the use of cookies through your browser settings.
+
+#### 18\. Facebook (Visitor Action Pixel)
+
+We use the “visitor action pixels” from Facebook Inc (1 Hacker Way, Menlo Park, CA 94025, USA, or, if you are based in the EU, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland (“Facebook”)) on our website.
+
+This allows user behavior to be tracked after they have been redirected to the provider’s website by clicking on a Facebook ad. This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes. The data collected in this way is anonymous to us, i.e. we do not see the personal data of individual users. However, this data is stored and processed by Facebook, which is why we are informing you, based on our knowledge of the situation. Facebook may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with Facebook’s Data Usage Policy <https://www.facebook.com/about/privacy/>. You can allow Facebook and its partners to place ads on and off Facebook. A cookie may also be stored on your computer for these purposes.
+
+The legal basis for the use of this service is Art. 6 paragraph 1 sentence 1 letter f GDPR. You can object to the collection of your data by Facebook pixel, or to the use of your data for the purpose of displaying Facebook ads by contacting the following address: <https://www.facebook.com/settings?tab=ads>.
+
+Facebook is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation [(https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active)](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active).
+
+#### 19\. Google Analytics
+
+We use the Google Analytics service from Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; “Google”) to analyze our website visitors. Google uses cookies. The information generated by the cookie about the use of the online product or service by users is generally transferred to a Google server in the USA and stored there. Google will use this information on our behalf to evaluate the use of our online products and services by users, to compile reports on the activities within these online products and services and to provide us with further services associated with the use of these online products and services and the use of the internet. Pseudonymous user profiles can be created from the processed data.
+
+We use Google Analytics only with IP anonymization enabled. This means that Google will truncate the IP address of users within Member States of the European Union or in other states that are party to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and truncated there.
+
+The IP address transmitted by the user’s browser is not merged with other Google data. Users can prevent cookies from being stored by adjusting the settings to their browser software accordingly.
+
+The legal basis for the use of this service is Art. 6 paragraph 1 sentence 1 letter f GDPR. Users can prevent the collection of data generated by cookies by downloading and installing the browser plug-in that is available at the following link:  <http://tools.google.com/dlpage/gaoptout?hl=en>.
+
+If you visit our website using a mobile device, you can deactivate Google Analytics by clicking on the following link: Click here.
+
+Facebook is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation [(https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active)).
+
+#### 20\. Google Marketing Services
+
+On our website we use the marketing and remarketing services of Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; “Google”). These services allow us to display advertisements in a more targeted manner in order to present advertisements of interest to users. Through remarketing ads and products are displayed to users relating to an interest established by activity on other websites within the Google Network. For these purposes, a code is used by Google when our website is accessed and what are referred to as (re)marketing tags are incorporated into the website. With their help, an individual cookie, i.e. a small file, is stored on the user’s device (comparable technologies may also be used instead of cookies). Cookies can be set by various domains, including google.com, doubleclick.net, invitemedia.com, admeld.com, googlesyndication.com or googleadservices.com. This file records which apps users have visited, which content they are interested in and which offers have been used. In addition, technical information about the browser and operating system, referring websites, the length of the visit as well as any additional data about the use of the online products and services are stored. The IP address of users is also recorded, although we would like inform you that within the framework of Google Analytics, IP addresses within Member States of the European Union or in other contracting states to the Agreement on the European Economic Area are truncated.
+
+All user data will only be processed as pseudonymous data. Google does not store any names or e-mail addresses. All displayed ads are therefore not displayed specifically for a person, but for the owner of the cookie. This information is collected by Google and transmitted to and stored by servers in the USA.
+
+One of the Google marketing services we use is the online advertising program Google AdWords. In the case of Google AdWords, each AdWords customer receives a different conversion cookie. Cookies can therefore not be tracked through the websites of AdWords customers. The information collected by the cookie is used to generate conversion statistics for AdWords customers who have opted for conversion tracking. AdWords customers see the total number of users who clicked on their ad and were redirected to a page with a conversion tracking tag. However, they will not receive any information that personally identifies users.
+
+We may include third-party advertisements based on the Google Marketing Service called DoubleClick. DoubleClick uses cookies to enable Google and its partner websites to place ads based on users’ visits to this website or other websites on the Internet.
+
+Google services make use of Google’s Tag Manager. For more information about Google’s use of data for marketing purposes, please see the summary page:  <https://www.google.com/policies/technologies/ads>, Google’s privacy policy is available at <https://www.google.com/policies/privacy>.
+
+The legal basis for the use of this service is Art. 6 paragraph 1 sentence 1 letter f GDPR. If you wish to object to interest-based advertising by Google marketing services, you can do so using the settings and opt-out options provided by Google:  <http://www.google.com/ads/preferences>.
+
+Google is certified under the Privacy Shield Agreement and thus guarantees its compliance with European data protection legislation [(https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active)).
+
+#### 21\. Microsoft Bing Ads
+
+We use the conversion and tracking tool Bing Ads from Microsoft Corporation (One Microsoft Way, Redmond, WA 98052-6399, “Microsoft”) as part of our website. Microsoft stores a cookie on the user’s computer to enable an analysis of the use of our online services. The prerequisite for this is that the user has accessed our website through an ad from Microsoft Bing Ads. This enables Microsoft and us to know that someone has clicked on an ad, has been redirected to our online services and has reached a predetermined target page. We only see the total number of users who clicked on a Bing ad and were then forwarded to the target page (conversions). No IP addresses are stored. No other personal information about the identity of the user will be disclosed.
+
+Users can find further information on data protection and the cookies used at Microsoft Bing ads in Microsoft’s data protection declaration: <https://privacy.microsoft.com/de-de/privacystatement>.
+
+The legal basis for the use of this service is Art. 6 paragraph 1 sentence 1 letter f GDPR. If you do not wish to participate in the Bing Ads tracking process, you can communicate your objection to Microsoft here: <http://choice.microsoft.com/de-DE/opt-out>.
+
+Microsoft is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation  
+([https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active)).
+
+#### 22\. Twitter Conversion Tracking
+
+On our website, we use the Conversion Tracking Service of Twitter Inc. (1355 Market Street #900, San Francisco, California 94103, “Twitter”). Twitter stores a cookie on the user’s computer to enable an analysis of the use of our online products and services. Twitter Conversion Tracking tracks the actions of users after they have viewed ads or interacted with ads on Twitter. Twitter’s Conversion Tracking allows you to assign conversions such as link clicks, retweets or “like” data.
+
+The legal basis for the use of this service is Art. 6 paragraph 1 sentence 1 letter f GDPR. If you wish to object to tracking, you can do so using the Digital Advertising Alliance tool at optout.aboutads.info.
+
+Twitter is certified under the Privacy Shield Agreement and thus guarantees its compliance with European data protection legislation: ([https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active))
+
+#### 23\. Taboola
+
+Use of technologies belonging to Taboola Inc. (Taboola Inc., Atrium Tower, 2 Jabotinsky St., 32nd fl., Ramat Gan 5250501 Tel Aviv) allows us to utilize user-specific advertising based on surfing behavior and customer interests. Taboola uses cookies (or similar technologies) to determine which websites you visit frequently and record your movements on our website. Taboola gathers device-related data and protocol data and creates usage profiles using pseudonyms. The usage profiles are not merged with the data about the bearer of the pseudonym and do not allow conclusions to be drawn on personal data. To do this, we communicate your IP address to Taboola. This processing is carried on the legal basis of our legitimate economic interest (Art. 6 paragraph 1 letter f GDPR.) You can object to inclusion in the tracking via the following link: <https://www.taboola.com/privacy-policy#user-choices-and-optout>. Once you have successfully opted out, you will no longer see personalized content/adverts.
+
+#### 24\. Integrated Services and Third Party Content
+
+We use services and content provided by third parties on our website (hereinafter collectively referred to as “content”). For this kind of integration, it is technically necessary to process your IP address so that the content can be sent to your browser. Your IP address will therefore be transmitted to the respective third party provider.
+
+In each case, this data processing is carried out to safeguard our legitimate interests in the optimization and the commercial operations of our website, the legal basis of which is Art. 6 paragraph 1 sentence 1 letter f GDPR.
+
+The Java programming language is regularly used to integrate content. Therefore, you can object to data processing by deactivating Java operations in your browser.
+
+We have integrated contents from Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; “Google”) into our website:
+
+  * “Google Maps” for displaying maps;
+  * “Google Web Fonts” for using Google’s fonts;
+  * “YouTube” for displaying videos.
+
+
+
+Google is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation [(https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active)).
+
+#### 25\. Your Rights
+
+As the person concerned, you are entitled to exercise your rights against us. In particular, you have the following rights:
+
+  * In accordance with Article 15 GDPR and Section 34 BDSG, you have the right to request information as to whether or not, and to what extent, we process personal data about you.
+  * You have the right to have us correct your data in accordance with Article 16 GDPR.
+  * You have the right to have us delete your personal data in accordance with Article 17 GDPR and Section 35 BDSG.
+  * You have the right to have the processing of your personal data restricted in accordance with Article 18 GDPR.
+  * You have the right, in accordance with Article 20 GDPR, to receive the personal data concerning you that you have provided to us, in a structured, commonly used and machine-readable format and to transmit this data to another controller.
+
+
+
+#### 26\. The Right to Object
+
+In accordance with Article 21 GDPR, you have the right to object to any processing operations executed that use Art. 6 paragraph 1 sentence 1 letter e and letter f GDPR as their legal basis.
+
+#### 27\. Data Protection Officer
+
+You can reach our data protection officer at:
+
+Altigi GmbH/Goodgame Studios
+
+c/o Data Protection Officer / Confidential
+
+Theodorstrasse 42-90, Haus 9
+
+22761 Hamburg
+
+#### 28\. Complaints to Government Authorities
+
+If you believe that the processing of your personal data constitutes an infringement of the provisions of the GDPR, you have the right to lodge a complaint with a supervisory authority in accordance with Article 77 GDPR.
+
+Version: 07/2018
