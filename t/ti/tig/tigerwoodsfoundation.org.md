@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712052331id_/http%3A//tigerwoodsfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815135926id_/http%3A//tgrfoundation.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tiger Woods Foundation
+# Privacy Policy - TGR Foundation, A Tiger Woods Charity
 
 **PRIVACY POLICY**
 
-PLEASE READ THIS PRIVACY POLICY (THIS “PRIVACY POLICY”) CAREFULLY BEFORE USING OUR WEBSITE OR ANY OTHER TIGER WOODS FOUNDATION PRODUCT OR SERVICE.
+PLEASE READ THIS PRIVACY POLICY (THIS “PRIVACY POLICY”) CAREFULLY BEFORE USING OUR WEBSITE OR ANY OTHER TGR FOUNDATION PRODUCT OR SERVICE.
 
-Tiger Woods Foundation produces and publishes www.TigerWoodsFoundation.org, the Official Website of the Tiger Woods Foundation (this or our “Website”) This Privacy Policy is applicable to this Website and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of this Website.
+TGR Foundation produces and publishes www.TGRFoundation.org, the Official Website of the TGR Foundation (this or our “Website”) This Privacy Policy is applicable to this Website and describes what information we collect from donors and visitors of the website, how we may use that information and the choices we offer for you to manage the information we collect related to your use of this Website.  This policy applies to all donor information, whether collected online or offline.
 
 TABLE OF CONTENTS
 
-Personal Information Collected Via This Website
+Personal Information Collected Via This Website from donors and website visitors
 
 How We Use and Share Your Personal Information
 
@@ -54,7 +54,7 @@ If we collect such information, in most instances, the applicable page(s) or loc
 
 
 
-If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and we may:
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information. We will not sell, lease, publish or share donor personal information with or to anyone else, except as set forth in this Privacy Policy, whether attained online or offline. We may use and share your personal information as described in Section 1 above and we may:
 
 Use your information to provide services you’ve requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list;
 
@@ -90,7 +90,7 @@ We may share aggregated demographic information with third parties. This informa
 
 Business Transfers.
 
-As time passes, Tiger Woods Foundation may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
+As time passes, TGR Foundation may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
 
 Disclosure for Legal Purposes.
 
@@ -104,7 +104,7 @@ You may choose and control what information you provide about yourself and certa
 
 If you do not want information collected using cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the Adobe website. If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain elements of this Website.
 
-If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using this Website, or change the promotional email communications or newsletters you receive from us and/or our partners, you may click here to log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should email TigerWoodsFoundation.org at twfwebsite@tigerwoodsfoundation.org.
+If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using this Website, or change the promotional email communications or newsletters you receive from us and/or our partners, you may click here to log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should email TGRFoundation.org at website@tgrfoundation.org.
 
 Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
 
@@ -112,7 +112,7 @@ Remember that when you share information publicly online, it may be indexable by
 
 
 
-Our Website contains links to other Websites produced by Tiger Woods Foundation and to Websites operated by unrelated third parties. In addition, if you click on an advertisement on this Website, you may be directed to a web page within this Website or to a third- party Website. Please note that we are not responsible for the privacy practices of third-party Websites. We encourage you to be aware of this when your leave this Website and to read the privacy policies of every Website that collects personally identifiable information from you. This Privacy Policy applies only to this Website.
+Our Website contains links to other Websites produced by TGR Foundation and to Websites operated by unrelated third parties. In addition, if you click on an advertisement on this Website, you may be directed to a web page within this Website or to a third- party Website. Please note that we are not responsible for the privacy practices of third-party Websites. We encourage you to be aware of this when your leave this Website and to read the privacy policies of every Website that collects personally identifiable information from you. This Privacy Policy applies only to this Website.
 
 No Spyware or Adware.
 
@@ -124,11 +124,11 @@ The account information associated with this Website is password protected for y
 
 Links.
 
-This Website contains links to other websites and products produced by Tiger Woods Foundation and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within this Website, you may be directed to a web page within this Website or to a third party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to this Website, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+This Website contains links to other websites and products produced by TGR Foundation and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within this Website, you may be directed to a web page within this Website or to a third party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to this Website, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
 
 Your California Privacy Rights.
 
-If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party’s direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [twfwebsite@tigerwoodsfoundation.org](mailto:twfwebsite@tigerwoodsfoundation.org) or write us at Tiger Woods Foundation, 121 Innovation Drive, Suite 150, Irvine, California 92617.
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party’s direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to website@tgrfoundation.org or write us at TGR Foundation, 121 Innovation Drive, Suite 150, Irvine, California 92617.
 
 Special Rules For Children.
 
@@ -136,10 +136,10 @@ Because of federal law, we are not permitted to knowingly collect any personal i
 
 Contact Us Regarding Privacy.
 
-If you have questions or concerns about this Privacy Policy, you can contact us at: twf@website.tigerwoods.com.
+If you have questions or concerns about this Privacy Policy, you can contact us at: website@tgrfoundation.org.
 
 Notification of Changes.
 
 If we make an important change to this Privacy Policy, we will post a notification and link on this Website’s homepage so that you may review the updated policy.
 
-LAST UPDATED AND EFFECTIVE DATE: April 27, 2017
+LAST UPDATED AND EFFECTIVE DATE: Feb. 28, 2018
