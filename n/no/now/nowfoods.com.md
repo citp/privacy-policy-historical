@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowfoods.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128160533id_/https%3A//www.nowfoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowfoods.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816015250id_/https%3A//www.nowfoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NOW Foods
 
@@ -50,6 +50,14 @@ This online Privacy Policy applies only to information collected through our web
 
 Our Site may contain links to third party sites whose privacy practices are different than ours. Visitors should consult the other sites' privacy policies as we have no control over information that is submitted to, or collected by, these third parties.
 
+<https://privacy.google.com/>
+
+<https://www.viralsweep.com/privacy>
+
+<https://mailchimp.com/legal/privacy/>
+
+<https://www.addtoany.com/privacy>
+
 ### CHILDREN UNDER 18
 
 This Site is not directed to nor does it knowingly collect any personal information from children under 18 years of age. If you are under 18, you may only use this Site with the involvement of a parent or guardian.
@@ -60,7 +68,11 @@ By using our Site, you consent to our privacy policy.
 
 ### HOW TO CONTACT US AND OPT OUT
 
-If you have any questions or concerns about our online policy for this Site or its implementation, or you want to opt-out of any subscriptions, you may follow the link at the bottom of an e-mail correspondence or contact us at 244 Knollwood Dr., Bloomingdale, IL 60108 or Telephone: 888-669-3663.
+If you have any questions or concerns about our online policy for this Site or its implementation, or you want to opt-out of any subscriptions, you may follow the link at the bottom of an e-mail correspondence or contact us at 244 Knollwood Dr., Bloomingdale, IL 60108 or Telephone: 888-669-3663. Specific privacy and data retention requests can be made to the Webmaster using the form available at: <https://www.nowfoods.com/now/about-now/contact-us>.
+
+You can find more information about the United States DAA opt-out program here: <http://www.aboutads.info/choices/> or the NAI opt out program hers: <http://www.networkadvertising.org/choices/>.
+
+You can find more information about the European Union (EU)/European Economic Area (EEA) EDAA opt-out program here: <http://www.youronlinechoices.eu/>.
 
 ### CHANGES TO OUR PRIVACY POLICY
 
