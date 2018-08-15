@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the uhcmedicaresolutions.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020051444id_/https%3A//www.uhcmedicaresolutions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhcmedicaresolutions.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815063840id_/https%3A//www.uhcmedicaresolutions.com/content/uhcmedicaresolutions/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | UnitedHealthcare®
 
-  * **[HIPAA Notice of Privacy Practice](https://web.archive.org/privacy_policy.html#HIPAA)**
-  * **[Website Privacy Policy](https://web.archive.org/privacy_policy.html#WPP)**
-  * **Social Security Number Protection Policy**
+## Optional Title
 
+**HIPAA Notice of Privacy Practices:  **To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act ("HIPAA"), visit our [HIPAA Notice of Privacy Practices (PDF)](https://www.uhc.com/content/dam/uhcdotcom/en/npp/NPP-UHC-MR-UHCMS-EN.pdf) (498.11 KB).
 
-
-**HIPAA Notice of Privacy Practices:  **To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act ("HIPAA"), visit our [HIPAA Notice of Privacy Practices (PDF)](https://web.archive.org/Individual/UHCMS_Privacy_Practices.pdf)(99.1 KB).
+PDF (Portable Document Format) documents can be viewed with Adobe® Reader®. If you don't already have this viewer on your computer, download it free from the [Adobe website](http://www.adobe.com/products/acrobat/readstep2.html).
 
 **Website Privacy Policy**
 
@@ -20,39 +18,67 @@ This policy does not apply to information collected through other means such as 
 
 This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
-  * [Cookies and Tracking](https://web.archive.org/privacy_policy.html#2)
-  * [Your Personal Information](https://web.archive.org/privacy_policy.html#4)
-  * [Sharing Personal Information](https://web.archive.org/privacy_policy.html#5)
-  * [Website and Information Security](https://web.archive.org/privacy_policy.html#7)
-  * [Our Online Communications Practices](https://web.archive.org/privacy_policy.html#8)
-  * [Information for Children Under 13](https://web.archive.org/privacy_policy.html#9)
-  * [Contact Us](https://web.archive.org/privacy_policy.html#10)
-  * [Effective Date](https://web.archive.org/privacy_policy.html#11)
-  * [Changes to this Privacy Policy](https://web.archive.org/privacy_policy.html#12)
-
-
-
 ### Cookies and Tracking
 
-The Company uses various technologies, which may include "cookie" technology to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website.
-
-"Cookies" are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include "single-session cookies" which generally record information during only a single visit to a website and then are erased, and "persistent" cookies which are generally stored on a computer unless or until they are deleted or are set to expire.  You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of "flash" technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser "Do Not Track" signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
-
-We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
-
-We may use analytics companies to gather information and aggregate data from our website visitors such as which pages are visited and how often they are visited, and to enable certain features on our websites. Information is captured using various technologies and may include cookies.
-
-We may use and disclose your activity information unless restricted by this policy or by law. Some examples of the ways we use your activity information include:
-
-  * Customizing your experience on the website including managing and recording your preferences.
-  * Marketing, product development, and research purposes.
-  * Tracking resources and data accessed on the website.
-  * Developing reports regarding site usage, activity, and statistics.
-  * Assisting users experiencing website problems.
-  * Enabling certain functions and tools on this website.
-  * Tracking paths of visitors to this website and within this website.
+The Company may use various technologies, including cookies, tokens, tags, web logs, web beacons, scripts and web server logs to gather automatically-collected information and may aggregate this information from our Online Services visitors or to enable certain features of our Online Services. This information may include demographic data, technical information about the technology (e.g., phone, computer) used to connect to the Online Services, web browser information, your IP address, and browsing behavior such as pages visited and how often they are visited ("Activity Information"). We may also use third party analytics companies to provide these services.  
 
 
+We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices) and <http://www.networkadvertising.org/choices>. Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies. Please note that to the extent advertising technology is integrated into the Online Services, you may still receive advertisements even if you opt-out of tailored advertising. In that case, the ads will just not be tailored. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+
+Activity Information is captured using various technologies and may include cookies. "Cookies" are small text files that may be placed on your computer when you visit an Online Service or click on a URL. Cookies may include "single-session cookies" which generally record information during only a single visit to a website and then are erased, and "persistent" cookies which are generally stored on a computer unless or until they are deleted or are set to expire. You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on our Online Services. In addition, you may also have additional means to manage the collection of Activity Information by:
+
+  * Managing the use of "flash" technologies with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website;
+  * Clicking on the available "Opt-Out" link at the bottom of the applicable home web page;
+  * Visiting [Google](https://www.google.com/settings/ads) to "Opt-Out" of display advertising or customize Google display network ads; and/or
+  * Clicking on the Optum Pixel "Opt-Out" [link](https://ometrics.optum.com/opt.htm).
+
+
+
+Please note that we do not currently respond to web browser "Do Not Track" signals that provide a method to opt-out of the collection of information about online activities over time and across third party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
+
+We gather Activity Information about you in order to improve the quality of our services, such as the best method and time to contact you. Without limiting the other ways in which we may use Information as described herein, we may otherwise use and disclose your Activity Information unless restricted by this Policy or by law. Some examples of the ways we use your Activity Information include:
+
+  * Customizing your experiences, including managing and recording your preferences;
+  * Authenticating your account information;  
+
+  * Marketing, product development, and research purposes;
+  * Tracking resources and data accessed on the Online Services;  
+
+  * Developing reports regarding Online Service usage, activity, and statistics;
+  * Assisting users experiencing problems with our services;
+  * Updating and servicing our Online Services;  
+
+  * Enabling certain functions and tools on the Online Services; and  
+
+  * Tracking paths of visitors to the Online Services and within the Online Services.
+
+
+
+As described above, we may use tracking technologies that allow us recognize your device when you return to our Online Services within a period of time, as determined by us, and to support automatic login to your Online Services. To maintain your privacy, you should affirmatively log out of your account prior to your session ending (whether you end your session or we end your session, for example if our Online Services has "timed out" – i.e. we have ended your session automatically after a period of inactivity as determined by us in our sole discretion). Unless you affirmatively log out of your account, you may be automatically logged back in the next time you, or any user of your devices visits the Online Services.
+
+### Your Personal Information
+
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
+
+****We may use personal information for a number of purposes such as:
+
+  * To respond to an email or particular request from you.
+  * To personalize the website for you.
+  * To process an application as requested by you.
+  * To administer surveys and promotions.
+  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.
+  * To comply with applicable laws, regulations, and legal process.
+  * To protect someone's health, safety, or welfare.
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.
+  * To keep a record of our transactions and communications.
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
+
+
+
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled, "Our Online Communications Practices."  
+
+
+We may share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
 
 ### Your Personal Information
 
@@ -73,7 +99,7 @@ We may use personal information for a number of purposes such as:
 
 
 
-We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled, "[Our Online Communications Practices](https://web.archive.org/privacy_policy.html#8)."  
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled, "Our Online Communications Practices."  
 
 
 We may share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors.  For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
@@ -106,12 +132,12 @@ We will not intentionally collect any personal information from children under t
 
 ### Contact Us
 
-To contact us regarding this policy and our related privacy practices, please contact us at: _[www.UHCMedicareSolutions.com/contact-us](https://web.archive.org/contact-us.html)_. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.  
+To contact us regarding this policy and our related privacy practices, please [contact UnitedHealthcare](https://web.archive.org/content/uhcmedicaresolutions/en/contact-us.html) _[](https://web.archive.org/content/uhcmedicaresolutions/en/contact-us.html)_. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.  
 
 
 ### Effective Date
 
-The effective date of this policy is January 1, 2016.
+The effective date of this policy is January 1, 2017.
 
 ### Changes to this Privacy Policy
 
