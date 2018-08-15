@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festivalsofindia.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629075246id_/http%3A//www.indiaonline.in/com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalsofindia.in privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815180025id_/http%3A//www.indiaonline.in/com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaOnline.in
 
