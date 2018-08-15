@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialseo.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228114918id_/https%3A//www.socialseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialseo.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815204237id_/https%3A//www.socialseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last updated 3.22.17
 
-SocialSEO operates http://www.socialseo.com (the “Site”)
+SocialSEO operates https://www.socialseo.com (the “Site”)
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your collected information only for providing and improving the Site. By using the Site, you  
 agree to the collection and use of information in accordance with this policy.
