@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313201352id_/https%3A//www.oroton.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815074121id_/https%3A//www.oroton.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Application
 
-OrotonGroup (Australia) Pty Limited (Administrators Appointed) A.C.N. 000 704 129 trading as Oroton (collectively referred to as "Publisher", "we", "our", or "us") is subject to the National Privacy Principles in the Privacy Act 1988. This Privacy Policy and Disclosure Statement explains how Publisher collects and protects the privacy of personal information about you collected by the Publisher or provided by you to Publisher via our website or from other sources.
+OrotonGroup (Australia) Pty Ltd A.C.N. 000 704 129 trading as Oroton (collectively referred to as "Publisher", "we", "our", or "us") is subject to the National Privacy Principles in the Privacy Act 1988. This Privacy Policy and Disclosure Statement explains how Publisher collects and protects the privacy of personal information about you collected by the Publisher or provided by you to Publisher via our website or from other sources.
 
 This Privacy Policy and Disclosure Statement does not apply in relation to acts and practices of Publisher which relate directly to the employee records of present and former employees of Publisher.
 
@@ -90,4 +90,4 @@ You may gain access to your personal information, make a complaint about breach 
 
 Publisher will respond to your query or complaint in a reasonable time.
 
-© OrotonGroup (Australia) Pty Limited (Administrators Appointed) A.C.N. 000 704 129. All rights reserved. No part of this site may be reproduced in any manner without express written permission of Publisher.
+© OrotonGroup (Australia) Pty Ltd A.C.N. 000 704 129. All rights reserved. No part of this site may be reproduced in any manner without express written permission of Publisher.
