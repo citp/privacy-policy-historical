@@ -1,238 +1,349 @@
-> *The following text is extracted and transformed from the spreadshirt.net privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920171041id_/https%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.net privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815154857id_/https%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
-Thank you for your interest in our online offer. Protecting your privacy is important to us. Below we will explain in detail how we deal with your data. 
+Thank you for your interest in our website. In the following, we will inform you in detail about the processing of personal data when using this website. Personal data means all data that can be personally related to you, e.g. name, address, telephone number, email address or user behaviour.
 
-## 1\. Who is responsible for dealing with your data?
+## Who is responsible for data processing?
 
-The responsible party for data collection, processing and usage of your personal data is sprd.net AG, Giesserstr. 27, 04229 Leipzig, Germany (hereafter referred to as “Spreadshirt”). 
+The service provider and party responsible for processing personal data (‘controller’) is sprd.net AG, Gießerstraße 27, 04229 Leipzig, Germany (hereinafter referred to as “Spreadshirt”). You can reach us using the following contact details:
 
-If you should have any questions as to the collection, processing or usage of data and requests for information, correction, disabling or deletion of data as well as revocation of a previously given consent, please address these via email, fax or letter to: 
+Telephone: + 49 (0) 341 59 400 5900  
+Fax: +49 (0) 341 59 400 5499  
+Email: [privacy@spreadshirt.net](mailto:privacy@spreadshirt.net)
 
-sprd.net AG, Giesserstr. 27, 04229 Leipzig, Deutschland   
-Telefax: +49 (0)341 59 400 5499  
-Email: [datenschutz@spreadshirt.net ](mailto:datenschutz@spreadshirt.net)  
+Our external data protection officer is Ms Naida Šehić, ISiCO Datenschutz GmbH, Am Hamburger Bahnhof 4, 10557 Berlin, Germany. She can be contacted on + 49 (0) 30 213 002 850 or by emailing [berlin@isico-datenschutz.de](mailto:berlin@isico-datenschutz.de).
 
+## 2\. To what extent is personal data processed?
 
-## 2\. To what extent does Spreadshirt collect personal data for further processing or usage?
+## 2.1 Collection of personal data when you visit our website
 
-### Using Spreadshirt’s online offer 
+### a) Log files
 
-You can visit our site without providing personal information. We only store access data and not personal data, even if visiting our site directly from a newsletter link. 
+When using the Spreadshirt website for information purposes only, so when you do not log in to use the website, register or otherwise provide information, we collect the data that your browser transmits to our server. This includes in particular: 
 
-  * the name of your Internet service provider
-  * the page from which you get directed to us
-  * the name of the requested file
-  * date and time of the processing request
-  * amount of data transferred
-  * confirmation of successful transfer of data 
-  * browser type and operating system of the user 
+  * IP address,
+  * date and time of the request,
+  * time zone difference to Greenwich Mean Time (GMT),
+  * name of the requested file,
+  * access status/HTTP status code,
+  * volume of data transferred,
+  * the page from which you came to visit us,
+  * your operating system and its interface,
+  * your browser type and the language and version of the browser software,
+  * a report of successful retrieval
 
 
 
-This data is collected for the purpose of improving our offers alone, and personal data cannot be inferred from it. 
+The data is technically necessary for us to display our website to you. It is also evaluated to make the website user-friendly and to ensure stability and security. For this purpose, we partly use the external web hosting service providers Akamai Technologies, Inc. and Amazon Web Services, Inc. In the event that data is also transferred to the USA, both service providers have subjected themselves to the EU-US Privacy Shield ([https://www.privacyshield.gov/EU-US-Framework/](https://www.privacyshield.gov/EU-US-Framework)). The legal basis for the processing is Art. 6(1) Sentence 1(f) GDPR.
 
-### Orders with Spreadshirt
+### b) Cookies and similar technologies
 
-We collect, process and use your data for the purpose of executing your order. This includes individual customer service and advice as well as processing future warranty claims. 
+In addition, we also use cookies on our website. Cookies are small text files that are assigned to your browser and stored on your device. Through them, certain information flows to the place that sets the cookie, such as settings or data for exchange with the system. This helps us to make our website more user-friendly and effective overall. The legal bases for this are Art. 6(1) Sentences 1(a) and (f) GDPR. Cookies cannot execute programs or transmit viruses to your device.
 
-After expiry of the applicable tax and commercial retention periods your data will be deleted. 
+Our website uses the following types of cookies:
 
-In order to process your order, we need your name, address and payment data. We also need your email address so that we can confirm having dispatched your order with Spreadshirt. Your email address will be used as a means of identifying you with your user account. 
+  * session (transient) cookies,
+  * long-term (persistent) cookies,
+  * third-party cookies.
 
-If you do not already have a user account with Spreadshirt, you can decide on registering such a password-protected account once the order is completed. Transmitting this data makes future orders possible without having to re-enter your personal information. You can also review your previous orders as well as pending orders, and you can administer your contact data and bank data. 
 
-### Shop operators / providers of ideas 
 
-We also collect, process and use your data in order to accomplish existing contract agreements with regard to operating Spreadshirt shops (including contracts with Premium Shop features) and / or your provision of ideas. Registering a Spreadshirt account is necessary to fulfil these contractual agreements. Spreadshirt sends you information in irregular intervals, particularly on changes with regard to its product range or service, advice on how to use Spreadshirt’s service as well as service reports. 
+Session cookies store what’s called a session ID, which can be used to assign different requests of your browser to a common session. This allows your device to be recognised when you return to our website. For example, this lets you store certain information you have entered (such as log-in information, language settings) in such a way that you do not have to repeat it constantly. Session cookies are automatically deleted when you log out or close your browser.
 
-### Advertising and market research
+Long-term cookies remain on your device for the time being, so that we can recognise your browser on your next visit and we can, for example, assign your preferred information and settings. Long-term cookies are automatically deleted after a specified period, which may vary depending on the cookie.
 
-Data that has been submitted to us, in particular in the process of ordering or registering customer information(signing up to newsletters via email or mail etc.) will be collected, processed and used as long as you have given your consent or statutory regulations allow for it. 
+When you visit our website, our partner companies also store third-party cookies on your device. The cookies contain information about how our website is used, e.g. which pages and products were visited. The data is collected in a pseudonymised form by assigning an identification number, which is not combined with any other personal data you may have provided to us.
 
-You can object to the usage of your data for the purpose of advertising and market research at the address above. 
+You can delete cookies in your browser settings at any time or prevent them from being stored, although the latter may result in a restriction of the functionality of our website for you. In the relevant sections of this Privacy Policy, we explain which technologies that are comparable to cookies are used on our website and how you can object to the use of cookies and other technologies with the individual third-party providers.
 
-### Establishment of contact
+## 2.2 Ordering from Spreadshirt / User Account
 
-Establishing contact (e.g. by filing in a contact form or via email) results in the collection, processing and usage of your data for the purpose of dealing with your request as well as future inquiries. 
+a) If you want to order something in our online shop, it is necessary for the conclusion of the contract that you give us the personal data we need to process the order. The mandatory data required to process the contract is marked as such; all other data you provide is voluntary. You can either enter your data only once for the order or use your email address to set up a password-protected user account with us, in which your data can be stored for later purchases until you revoke your consent. You can deactivate or delete the data and the user account at any time via the account.
 
-### Comments and submissions on the blog and forum
+To prevent unauthorised access to your personal data by third parties, the order process is encrypted using TLS technology.
 
-If you leave a comment on our blog, we collect, process and use the name and email address that you stated, although only your name that you state will be visible to other users. 
+When we process the data provided by you to process your order, this includes, for example, individual customer service. In the course of order processing, we pass on personal data to one of our production companies within the group, to a shipping company commissioned by us and (with the exception of PayPal) to our bank, ADYEN B.V., Simon Carmiggeltstraat 6-50, 1011 DJ Amsterdam, Netherlands (“Adyen”). The payment data is encrypted and transmitted directly to Adyen.
 
-In order to view the content of the protected area of Spreadshirt’s forum or to publish comments on Spreadshirt’s forum, users need to log in with their data (user name and password) that they use to access their user account. 
+Payment via PayPal is processed by PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (“PayPal”). For information about data protection at PayPal, please refer to PayPal’s privacy policy: <https://www.paypal.com/webapps/mpp/ua/privacy-prev?locale.x=en>.
 
-We also store the user’s IP address with every blog and forum contribution.   
-The data collected in the course of using the blog or forum is used for operating the blog and forum alone. Collecting this data is also necessary to ensure that we can take action in the case of users posting unlawful content (e.g. of insulting, politically inappropriate, propagandistic nature etc.). This is necessary so that we cannot be held liable for comments and submissions, and we need to make sure that we investigate such instances ourselves. 
+In the case of trackable parcels, we also pass on your order and address data to parcelLab GmbH, Landwehrstraße 39, 80336 Munich, Germany, to make it possible to track your parcel and to inform you about delivery deviations or delays, for example.
 
-### Comment subscription 
+We also use your data to collect outstanding debts. For this we involve KSP Kanzlei Dr. Seegers, Dr. Frankenheim Rechtsanwaltsgesellschaft mbH, Kaiser-Wilhelm-Straße 40, 20355 Hamburg, Germany or EOS Deutscher Inkasso-Dienst GmbH, Steindamm 71, 20099 Hamburg, Germany.
 
-You can subscribe to receive messages posted on our blog and follow-up comments on the forum. For this purpose we collect, process and use your email address. You can always unsubscribe to such a subscription without having to pay anything other than the costs for your basic Internet charges. 
+The legal bases for the processing of personal data as part of order processing are Art. 6(1) Sentences 1(b) and (f) GDPR. Due to commercial and tax regulations, we are obliged to store your order, address and payment data for a period of ten years.
 
-You can also subscribe to receive blog posts through a so-called RSS feed. When choosing this, your web browser will place a so-called ‘live bookmark’ of our blog page in your web browser, or the website data will be saved by means of a software typically used for this purpose (e.g. Microsoft Outlook). Our blog messages are automatically reloaded when starting the browser or the software used for this purpose, and they can be accessed through the browser bookmarks or the applicable software. Here, we only store access data and not personal data such as your operating ssytem type, Internet service provider, date and time of retrieval, name of access file and IP address. This data is collected for the purpose of improving our offers alone, and personal data cannot be inferred from it. You can always unsubscribe to the RSS feed by deleting the bookmark from your browser or the software that you used to open it. 
+b) During the order process we also conduct a fraud prevention check via our bank Adyen, which involves using your IP address to carry out a geolocalisation and compare your data with previous experience. This may mean that an order cannot be placed with the selected payment method. Our aim in this regard is to prevent any abuse of your chosen payment method by third parties and to protect ourselves from payment defaults. The legal basis for the processing is Art. 6(1) Sentence 1(f) GDPR.
 
-## 3\. Will my data be imparted to third parties? 
+Since this involves automated decision-making, you have the right to challenge the decision (in this case the refusal of a certain payment method) and have the decision reviewed by a person. In such cases we ask that you contact us using the contact details mentioned in Section 1. Please note that the payment method may have been rejected due to a typing error and you should, therefore, check what you have entered again during the order process if necessary.
 
-We pass on your personal data to third-parties involved in processing your order or request. This includes service providers (e.g. carriers, forwarding agents, banks) as well as third parties processing our order. In case you should choose express delivery, Spreadshirt will also communicate your telephone number to the forwarder in order to facilitate coordinating a delivery date. In this case, the data submitted may only be used for the purpose of executing the delivery. 
+c) During the ordering process we use Google Maps Autocomplete, a service of Google LLC (“Google”). This allows an address you start typing to be completed automatically, avoiding delivery errors. Google sometimes conducts a geolocalisation using your IP address and receives the information that you have retrieved the corresponding subpage of our website. In addition, the data referred to in Section 2.1 is transmitted. This is regardless of whether you have a Google account and are logged in. Once you are logged in to your Google Account, the information will be directly associated with your account. If you do not want this assignment to occur, you must log out before entering your address. Google stores your data as user profiles and uses it (even in the case of users who are not logged in) for the purposes of advertising, market research and/or the needs-oriented design of its own website. Google also processes your personal data in the USA and has subjected itself to the EU-US Privacy Shield (<https://www.privacyshield.gov/EU-US-Framework>). You can object to Google creating such user profiles. For more information about the purpose and scope of data processing by Google and about protecting your privacy, please refer to Google’s Privacy Policy: <https://policies.google.com/privacy?hl=en>. The binding terms of use for Google Maps/Google Earth can be found here: <https://www.google.com/intl/en_US/help/terms_maps.html>. Third-party provider information: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
 
-## 4\. Can I demand disclosure, correction, disabling and deletion of my data?
+The legal basis for the processing is Art. 6(1) Sentence 1(f) GDPR.
 
-According to the German Federal Data Protection Act (Bundesdatenschutzgesetz)you have, if the statutory conditions are met, the right to free information about your stored data and a right to rectification, blocking or erasure of data. 
+d) After you place an order, we will process your order and address data to send you a personalised email asking you to rate our products. By obtaining ratings, our aim is to improve our services and adapt them to our customers’ wishes. We use the feedback software of eKomi Ltd, Markgrafenstraße 11, 10969 Berlin, Germany (“eKomi”). For the purpose of sending the feedback email (and in the event that a moderation or conciliation procedure is conducted via eKomi following negative feedback), we pass on your email address, name, order number, product types and a unique ID to eKomi for identification purposes and in order to generate a feedback link.
 
-## 5\. Which of my data is used for competitions.
+The legal basis for the processing is Art. 6(1) Sentence 1(f) GDPR. If you no longer want your data to be used for this purpose, you can object to this at any time. Just click on the unsubscribe link included with each email or send a message using the contact details provided under Section 1.
 
-When carrying out competitions, we use your data to give you notice in the event of you having won the competition, and, with your consent, to send you advertising. Detailed information can be found in the conditions of participation of the individual competition. 
+e) We also use Google Customer Reviews, a service of Google Ireland Ltd. (“Google”), through which we receive feedback about us as a seller and about our products. This allows us to improve our services and adapt them to our customers’ wishes. The legal basis is Art. 6(1) Sentence 1(f) GDPR. After placing an order, you can give Google permission to use your email address to request a review. In the event that data is also transferred to a Google server in the USA, Google LLC has subjected itself to the EU-US Privacy Shield ([https://www.privacyshield.gov/EU-US-Framework/](https://www.privacyshield.gov/EU-US-Framework)). You can revoke your consent to the use of your data at any time by clicking on the unsubscribe link contained in the emails from Google. For more detailed information about the purpose and scope of data processing by Google and about protecting your privacy, please refer to Google’s Privacy Policy: <https://policies.google.com/privacy?hl=en>. Third-party provider information: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, fax: + 353 (1) 436 1001.
 
-## 6\. Do we place cookies when you visit Spreadshirt’s online offer? 
+## 2.3 Spreadshirt Partners: Shop Partners and Marketplace Designers
 
-We place so-called browser cookies with our online offers. Cookies are files that allow us to store specific data relating to you on your computing device in order to exchange information between Spreadshirt’s system and your browser. Storing this information helps us create online offers for you and it makes using the platform easier for you as you don’t need to keep re-entering your information. In your browser settings you can adjust the settings for cookies, which may lead to our service becoming restricted or defunct as far as our offers are concerned. Cookies can also be deleted. 
+a) If you want to offer designs on our marketplace or operate a shop, it is necessary for the conclusion of a contract with us that you use your email address to open a password-protected user account and store your name and address there. For the payout of earnings, it is necessary that you additionally provide your bank details or your PayPal information as well as information about your tax status. Any other information you may provide to us when using the account is voluntary. You do not have to enter a real name when choosing your username. You can manage and change this information in your account. You can also deactivate or erase it – or the entire user account. If this affects data necessary for the performance of the contract, we may retain that data for a longer period in accordance with commercial and tax regulations (standard period of ten years). We process this data to conduct the contractual relationship that exists with you; the legal bases are Art. 6(1) Sentences 1(b) and (f) GDPR.
 
-### Session cookies
+b) Within the scope of the contractual relationship, we also process the email address provided by you in order to send you emails at irregular intervals containing information and tips about the Marketplace and your shops (“Partner Newsletter”). We use your name to allow us to personalise these emails. To this end, the data is passed on to the software company Emarsys eMarketing Systems AG, Hans-Fischer-Straße 10, 80339 Munich, Germany (“Emarsys”), which handles the technical side of the mailing on our behalf. You can unsubscribe from the Partner Newsletter at any time by clicking on the unsubscribe link provided in each email, informing us via the contact details specified in Section 1, or changing your newsletter settings in your user account (“Account Settings” – “Newsletter subscriptions”).
 
-Session cookies are deleted after closing the browser. 
+When sending the Partner Newsletter, we use Emarsys to statistically evaluate your user behaviour in order to optimise the design. To enable this evaluation, the emails contain what are called web beacons or tracking pixels. These are single-pixel image files that establish a connection to our website und thus permit a log file analysis. The web beacons are linked with the data mentioned in Section 2.1 a and an individual ID. The links contained in the email also contain this ID. For example, we can see if and when an email has been opened and which links have been clicked on. The data is stored on the Emarsys servers for 13 months and collected pseudonymously, meaning the IDs are not linked to other personal data at this point, thus ruling out any possibility of direct personal reference. You can object to the recording of your usage behaviour at any time by clicking on the unsubscribe link provided in each email, informing us via the contact options listed in Section 1, or changing the newsletter settings in your user account (“Account settings” – “Newsletter subscriptions”). Recording is not possible if you have disabled the display of images in your email settings. In this case, the newsletter will not be displayed to you in full and you may not be able to use all functions. If you choose to display the images manually, recording will take place as described above.
 
-### Long-term cookies
+The legal bases for the processing are Art. 6(1) Sentences 1(a), (b) and (f) GDPR.
 
-We use cookies that remain on your hard-disk. For your convenience, the maximum usability period is set to a future date. When visiting Spreadshirt’s site again, your previous settings and information statements can be used and seen again by means of long-term cookies. 
+c) If you store your address in your user account, we use Google Maps Autocomplete, a service of Google LLC (“Google”). This allows an address you start typing to be completed automatically. This helps us verify your address, which we do for tax reasons. Google sometimes conducts a geolocalisation using your IP address. We also use Google Fonts to enhance the user experience in the Partner section of your account as well as Google Calendar to inform you about Partner-related promotions for customers. Via these services and applications, Google receives the information that you have retrieved the corresponding subpage of our website. In addition, the data referred to in Section 2.1 is transmitted. This is regardless of whether you have a Google account and are logged in. Once you are logged in to your Google Account, the information will be directly associated with your account. If you do not want this assignment to occur, you must log out before entering your address. Google stores your data as user profiles and uses it (even in the case of users who are not logged in) for the purposes of advertising, market research and/or the needs-oriented design of its own website. Google also processes your personal data in the USA and has subjected itself to the EU-US Privacy Shield (<https://www.privacyshield.gov/EU-US-Framework>). You can object to Google creating such user profiles. For more information about the purpose and scope of data processing by Google and about protecting your privacy, please refer to Google’s Privacy Policy: <https://policies.google.com/privacy?hl=en>. The binding terms of use for Google Maps/Google Earth can be found here: <https://www.google.com/intl/en_US/help/terms_maps.html>. Third-party provider information: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
 
-### Cookies from Spreadshirt:
+The legal basis for the processing is Art. 6(1) Sentence 1(f) GDPR.
 
-Spreadshirt uses cookies that do not store personal data in order to prevent any data to be associated with a person. Data collection takes place by means of pseudonymised allocation of ID numbers that are not associated with your personal data. These cookies contain information concerning the usage of our online offers such as viewings of pages or products. 
+## 2.4 Communication with Spreadshirt
 
-### Third-party cookies
+### a) Establishing contact
 
-Spreadshirt collaborates with companies to improve online offers and to make both offers and online experience more interesting. This is why we use cookies of our partner companies that are also stored on your hard-disk. Third-party cookies do not store personal data so that no information stated by customers can be associated with a person. Data collection takes place by means of pseudonymised allocation of ID numbers that are not associated with your personal data. These cookies contain information concerning the usage of our online offers such as viewings of pages or products. 
+If you contact us via a contact form, letter, fax, email, social media or telephone, we process the data provided by you for the purpose of processing your enquiry and – only in the legally permissible cases when communicating with entrepreneurs – for advertising purposes. We use the software of Sematell GmbH, Neugrabenweg 1, 66123 Saarbrücken, Germany, to coordinate and process emails, which means that Sematell GmbH gains access to the data. We use the management software of Hootsuite Media, Inc, 5 East 8th Avenue, Vancouver, BC, Canada to coordinate and process enquiries via our social media channels Twitter, Facebook and Instagram. The EU Commission has established the adequacy of the level of data protection in Canada. The legal basis for the processing is Art. 6(1) Sentence 1(f) GDPR. If the aim of establishing contact is to conclude a contract, then an additional legal basis is Art. 6(1) Sentence 1(b) GDPR.
 
-You can object to the creation of user profiles by means of pseudonyms. Please refer to possible ways to do so here: 
+### b) Blog
 
-## 7\. What promotional measures does Spreadshirt undertake?
+In our blog, where we publish various articles on topics related to our activities, you can post public comments. Your comment will be published along with your chosen username. We recommend using a pseudonym instead of your real name. It is necessary to provide a username and email address, while all other information is voluntary. The necessary information is processed to run the Forum. We need your email address to contact you if a third party should complain that your comment is unlawful. We reserve the right to delete comments if third parties complain that they are unlawful. The legal basis for the processing is Art. 6(1) Sentence 1(f) GDPR.
 
-### Email advertising with newsletters and direct mail advertising.
+### c) Forum
 
-If you have registered for email newsletters, your email address is used for marketing purposes up to the point in time when you unsubscribe from this service. In case you have agreed to receive direct mail, we will use your personal address data for marketing purposes until you unsubscribe from it. You can unsubscribe at any point in time without having to pay anything other than the costs for your basic Internet charges. 
+With the exception of a few sections, our Forum can be read without the need to register. If you wish to actively participate in the Forum under your chosen username, you must log in using your Spreadshirt user account access data. To open a Spreadshirt user account, only your email address and a password are required. We process your activities (public posts, private messages, likes, profile information, activity logs) and your IP address in order to operate the Forum. The legal basis is Art. 6(1) Sentence 1(f) GDPR. If you deactivate or delete your user account, your public posts will continue to be visible. If you would like your public posts to be deleted, please contact us using the contact details provided in Section 1. When writing a comment and in the Forum settings (under “Preferences” – “Emails” and “Notifications”), you can specify in which cases and to what extent you would like to be notified by email about new activities in the Forum. You can unsubscribe again at any time, either in the Forum settings or by clicking on the unsubscribe link contained in the respective notification email.
 
-### Email marketing without newsletter registration
+## 2.5 Processing of data for web analytics
 
-If you did not object to the collection of your email address during checking out with an order or before, we will use it in order to send you information on products similar to those that you ordered with us in regular intervals. This notification does not function as consent from your side to usage of your email address for advertising purposes. 
+### a) Google Analytics
 
-### User-based advertising
+Our website uses Google Analytics, a web analytics service provided by Google Ireland Ltd. (“Google”). Google uses cookies (see Section 2.1 b), which enable an analysis of your use of our website. The information generated by the cookie about usage is usually transferred to a Google server in the USA and stored there. However, due to the activation of IP anonymisation on our website, your IP address will first be shortened by Google within the Member States of the European Union or in other states party to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. On our behalf, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide us with other services relating to website and internet use.
 
-Information received from users using our online offer help us create interesting and tailor-made advertising for you. Spreadshirt gleans information in a pseudonymised way from you when visiting our platform. This includes information on your computer and Internet access, operating system as well as platform, date and time of your visit or products viewed. 
+The IP address transmitted by your browser in the context of Google Analytics will not be combined with other data held by Google.
 
-In order to get information on user behaviour, cookies are stored on your computer that make identifying a pseudonymised user possible without bearing any relevance to your personal data. 
+You can prevent the storage of cookies by selecting the appropriate settings in your browser software; however, please note that if you do this you may not be able to use the full functionality of our website. You can also prevent the data generated by the cookie and relating to your use of the website (including your IP address) from being recorded and processed by Google by downloading and installing the browser plug-in available under the following link: <https://tools.google.com/dlpage/gaoptout/>. Specifically in the case of mobile devices, you can prevent Google Analytics from recording data by clicking here: DisableEnable Google Analytics. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website.
 
-This data collection is used to carry our user-based advertising campaigns by Spreadshirt: 
+This website uses Google Analytics with the “_anonymizeIp()” extension. Consequently, IP addresses are further processed in shortened form, so that any personal association with the data subject can be ruled out. As far as the data collected about you relates to you personally, that association is therefore ruled out immediately and the personal data thus erased without delay.
 
-  * Google, Inc. – Information on data protection with Google can be found on <http://www.google.com/intl/de/policies/privacy/>
-  * Criteo SA - Information on data protection with Criteo SA can be found on<http://www.criteo.com/privacy/>
-  * sociomantic labs GmbH - Information on data protection with sociomantic labs GmbH can be found on <https://www.sociomantic.com/privacy/de>
+We use Google Analytics to analyse and regularly improve the use of our website. The statistics this yields allow us to improve our website and make it more interesting for you as a user. For the exceptional cases in which personal data is transferred to the USA, Google LLC has subjected itself to the EU-US Privacy Shield (<https://www.privacyshield.gov/EU-US-Framework>). The legal bases for our use of Google Analytics are Art. 6(1) Sentences 1(a) and (f) GDPR.
 
+Third-party provider information: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, fax: + 353 (1) 436 1001. See also the terms of use (<https://www.google.de/analytics/terms/gb.html>) and privacy overview (<https://support.google.com/analytics/answer/6004245?hl=en>) for Google Analytics as well as Google’s privacy policy: <https://policies.google.com/privacy?hl=en>.
 
+### b) Adobe Analytics
 
-If you do not wish to receive user-based advertising material, you can object to it through the following links. 
+To allow us to analyse and regularly improve the use of our website, our website also uses the Adobe Analytics web analytics service. The statistics this yields allow us to improve our website and make it more interesting for you as a user. For the exceptional cases in which personal data is transferred to the USA, Adobe has subjected itself to the EU-US Privacy Shield (<https://www.privacyshield.gov/EU-US-Framework>). The legal bases for our use of Adobe Analytics are Art. 6(1) Sentences 1(a) and (f) GDPR.
 
-  * [www.google.com/settings/ads/preferences](https://www.google.com/settings/ads/preferences/#optout)
-  * <http://www.criteo.com/privacy/>
-  * <https://www.sociomantic.com/privacy/de>
+The analysis involves storing cookies (see Section 2.1 b) on your device. The information collected in this way is stored on servers, including in the USA. We would like to point out that if you prevent the storage of cookies, you may not be able to use this website in its entirety. You can adjust your browser settings to prevent the storage of cookies. You can also prevent Adobe Analytics from recording your data on this website by clicking here: DisableEnable Adobe Analytics. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. How to prevent the recording of your data on other websites is explained on the respective sites and at <https://www.adobe.com/privacy/opt-out.html>.
 
+Our website uses Adobe Analytics with the settings “Before Geo-Lookup: Replace visitor’s last IP octet with 0” and “Obfuscate IP-Removed”, which removes the last octet from your IP address and replaces it with a generic IP address, i.e. one that can no longer be assigned. Any personal connection can therefore be ruled out.
 
+Third-party provider information: Adobe Systems Software Ireland Limited, 4–6 Riverwalk, Citywest Business Campus, Dublin 24, Ireland; privacy@adobe.com; Adobe’s privacy policy: <https://www.adobe.com/privacy/policy.html>.
 
-In your browser settings you can adjust the usage restrictions for third-party cookies, which may lead to our service becoming restricted or defunct as far as our offers are concerned. Cookies can also be deleted. 
+### c) SessionCam
 
-### Right of objection to the use of data for the purpose of advertising
+Our website also uses the analytics service of SessionCam Ltd.(“SessionCam”). Cookies (see Section 2.1 b) are used to record and analyse your mouse movements, click behaviour, scrolling and text input on the website. Personal data such as your name or bank data is masked during recording. IP addresses are pseudonymised and not linked to the respective recording. The information generated by the cookie is transferred to a SessionCam server and stored there. The data collected by SessionCam is for our internal analysis only. It is used to improve the user experience on our website. The legal bases for this are Art. 6(1) Sentences 1(a) and (f) GDPR.
 
-Of course you can object to further usage of you data at any point in time - even in cases when using this data is legally permitted - by sending a simple message to us. This does not incur any costs for you other than the basic charges of your Internet provider. You can i.e. write an email to [datenschutz@spreadshirt.net,](mailto:datenschutz@spreadshirt.net) when accessing the newsletter administration in your user area, or by referring to the unsubscribe link in a newsletter that you have received. You can also address us directly, please refer to subparagraph 1 for further contact details. 
+You can adjust your browser settings to prevent cookies from being saved. Please note that by doing this you may not be able to use the full functionality of our website. You can also prevent SessionCam from recording your data on this website by clicking here: DisableEnable SessionCam. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. How to prevent the recording of your data on other websites is explained on the respective sites and at [https://sessioncam.com/choose-not-to-be-recorded/](https://sessioncam.com/opt-out-of-sessioncam-recording/).
 
-## 8\. What kind of services and content of third parties does Spreadshirt deploy when creating online offers?
+Third-party provider information: SessionCam Ltd., St. Vedast House, St. Vedast Street, Norwich NR1 1BT, England. For detailed information on privacy at SessionCam, please refer to SessionCam’s privacy policy: <https://sessioncam.com/privacy-policy-cookies/>.
 
-For the creation of our online offer, we also use third-party content such as YouTube videos or graphics by other online providers. This is only possible if these providers (hereinafter referred to as “third-party suppliers”) are allowed to use the recipient’s IP address. Without using the IP address, the content can not be displayed in the recipient’s browser. The IP address is necessary for displaying this type of content. We always try to only use such content provided by third-party suppliers in order to deliver the content in question. We cannot, however, exert influence on whether third-party suppliers store your IP address (e.g. for statistical purposes) or not. Should we be informed about this circumstance, we will inform you. 
+### d) Web analytics by Spreadshirt’s Shop Partners
 
-## 9\. Does Spreadshirt use data for web data analysis?
+Our partners can also use the Google Analytics web analytics service (see Section 2.5 a) in their Spreadshirt shops themselves, as a rule to analyse use of the shop and improve their offer in the shop. In this case, they determine the purposes and means of processing personal data. The name and contact details of our partners are stored in the legal information section of the respective shop.
 
-### Google Analytics
+## 2.6 Advertising activities by Spreadshirt
 
-This online offer uses Google Analytics, a web analysis tool by Google Inc. (“Google“). Google Analytics collects and stores data in a pseudonymised way to create user profiles. These user profiles serve the purpose of analysing user behaviour, and they are used to improve our offer in order to meet the demands of our customers. Pseudonymised user profiles are not associated with the actual person behind the pseudonym without prior consent of this person to explicitly agree with this circumstance. 
+### a) Newsletter
 
-Google Analytics uses cookies that are stored on your computer in order to facilitate recognition when revisiting our online offer. The information on your site visit generated by these cookies are usually transferred to and stored at a Google server in the USA. Due to the activation of IP anonymisation in combination with this offer, the IP address of users from the EU and other EEA (European Economic Area) contracting states will be shortened before being transmitted. Your IP is only transferred to a Google server in the USA in very few exceptional cases. Google adheres to the data regulations of the “US Safe Harbor” treaty, and it is registered with the “Safe Harbor” program of the US Department of Commerce. 
+If you register separately for our newsletter via our website and give us your consent, we will use your email address to send you regular emails about product offers, discounts and contests. To this end, we pass the data on to the software company Emarsys eMarketing Systems AG, Hans-Fischer-Straße 10, 80339 Munich, Germany (“Emarsys”), which handles the technical side of the mailing on our behalf.
 
-On behalf of the provider of this online offer, Google will use this information in order to assess how the online offer is used, to file reports on online activities and to create further offers and services depending on the internet usage and behaviour of customer. The IP address that has been transmitted by your browser is not associated with any other data by Google. Should it be required by law or should a third party process these data on behalf of Google, Google may pass on this information to third parties. 
+When you register for our newsletter, we use the so-called double opt-in procedure. This means that after you register we will send you an email to the email address you provided, in which we ask you to confirm that you would like to receive the newsletter. If you do not confirm your registration, your information will be automatically deleted after one month. On the other hand, if you confirm the newsletter subscription, we will save your email address for the purpose of sending you the newsletter until you unsubscribe from the newsletter.
 
-You can prevent the storage of cookies by adjusting the settings of your browser software; we need to point out that this may lead to an inhibition of the full functionality of our online offer. In addition to this, you can prevent the collection of cookie generated information (incl. your IP address) for the purpose of using the online offer as well as further processing this data by Google, if you download and install the browser plug-in available here: ([https://tools.google.com](https://tools.google.com/dlpage/gaoptout?hl=de)
+**You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). You can declare your revocation by clicking on the link provided in every newsletter email, by emailing[privacy@spreadshirt.net](mailto:privacy@spreadshirt.net) or by sending a message to the contact details provided in Section 1.**
 
-You can prevent Google Analytics from retrieving your data by clicking on the following button. An opt-out cookie will be placed to prevent future data recording when visiting this online offer: 
+When sending the newsletter, we use Emarsys to statistically evaluate your user behaviour in order to measure how successful the newsletter is and to optimise its design. To enable this evaluation, the emails contain what are called web beacons or tracking pixels. These are single-pixel image files that establish a connection to our website und thus permit a log file analysis. The web beacons are linked with the data mentioned in Section 2.1 a and an individual ID. The links contained in the newsletter also contain this ID. For example, we can see if and when an email has been opened and which links have been clicked on. The data is stored on the Emarsys servers for 13 months and collected pseudonymously, meaning the IDs are not linked to other personal data at this point, thus ruling out any possibility of direct personal reference. You can object to the recording of your usage behaviour at any time by clicking on the unsubscribe link provided in each email or by informing us using the contact details provided in Section 1. Recording is not possible if you have disabled the display of images in your email settings. In this case, the newsletter will not be displayed to you in full and you may not be able to use all functions. If you choose to display the images manually, recording will take place as described above.
 
-You can find more information on user terms and conditions here: [ http://www.google.com/analytics/terms/](http://www.google.com/analytics/terms/de.html) and [http://www.google.com/intl/de/analytics/privacyoverview](http://www.google.com/intl/de/analytics/privacyoverview.html). 
+The legal bases for the processing are Art. 6(1) Sentences 1(a) and (f) GDPR.
 
-We need to point out that the website Google Analytics has been extended by the code “gat._anonymizeIp();“ to make anonymous gathering of IP address data (so called IP masking) possible by means of Google analytics. 
+### b) Product recommendations
 
-### Further analytical tools
+As a Spreadshirt customer, so if you order something in our online shop (see Section 2.2 a), we process the email address you provide in order to send you regular email recommendations for products that might be of interest to you based on your previous orders from us. We also use your name to allow us to personalise these emails. The data is passed on to the software company Emarsys (see Section 2.6 a), which handles the technical side of the mailing on our behalf. The legal bases are Section 7(3) of the German Act against Unfair Competition (UWG) and Art. 6(1) Sentence 1(f) GDPR.
 
-Our online offer uses analysis tools to collect and store data in order to create user profiles in a pseudonymised way. These user profiles serve the purpose of analysing user behaviour, and they are used to improve our offer so that we can meet the demands of our customers. Cookies may be used for this purpose. Pseudonymised user profiles are not associated with the actual person behind the pseudonym without prior consent of this person to explicitly agree with this circumstance. You can prevent the storage of cookies by adjusting the settings of your browser software; we need to point out that this may lead to an inhibition of the full functionality of our online offer. Spreadshirt uses the following analytic tools: 
+You receive these product recommendations because you did not object to the use of your email address for this purpose by removing the corresponding check mark during the order process. If you subsequently no longer wish to receive product recommendations or any advertising messages, you can object at any time without incurring any costs other than the transmission costs at the basic rates. Just click on the unsubscribe link included with each email, send a message using the contact details provided under Section 1 or – if you have a user account with us – adjust your newsletter settings accordingly (“Account settings” - “Newsletter subscriptions”).
 
-Omniture and AdLens, web analysis tools by Adobe Systems Software Ireland Limited, offers more information of data protection on [http://www.adobe.com/de/privacy](http://www.adobe.com/de/privacy.html) and [http://www.adobe.com/de/privacy/analytics](http://www.adobe.com/de/privacy/analytics.html). You can object to the collection, storage and usage of data for future activities by Adobe if you unsubscribe on[http://www.adobe.com/de/privacy/opt-out](http://www.adobe.com/de/privacy/opt-out.html). 
+When sending the product recommendations, we use Emarsys to statistically evaluate your user behaviour in order to measure their success and to optimise their design. The legal bases for the processing are Art. 6(1) Sentences 1(a) and (f) GDPR. To enable this evaluation, the emails contain what are called web beacons or tracking pixels. These are single-pixel image files that establish a connection to our website und thus permit a log file analysis. The web beacons are linked with the data mentioned in Section 2.1 a and an individual ID. The links contained in the email also contain this ID. For example, we can see if and when an email has been opened and which links have been clicked on. The data is stored on the Emarsys servers for 13 months and collected pseudonymously, meaning the IDs are not linked to other personal data at this point, thus ruling out any possibility of direct personal reference. You can object to the recording of your usage behaviour at any time by clicking on the unsubscribe link provided in each email, informing us via the contact options listed in Section 1, or – if you have a user account with us – changing the newsletter settings in your user account (“Account settings” – “Newsletter subscriptions”). Recording is not possible if you have disabled the display of images in your email settings. In this case, the newsletter will not be displayed to you in full and you may not be able to use all functions. If you choose to display the images manually, recording will take place as described above.
 
-Optimizeley is a web analysis tool by Optimizeley Inc. – please find more information on matters of data protection on <https://www.optimizely.com/privacy>. You can object to the collection, storage and usage of data for future activities by Optimizely if you unsubscribe on <https://www.optimizely.com/opt_out>. 
+### c) Newsletters and product recommendations from Spreadshirt Shop Partners
 
-Crazyegg is a web analysis tool by Crazyegg Inc. – please find more information on matters of data protection on <http://www.crazyegg.com/privacy>. You can object to the collection, storage and usage of data for future activities by Crazyegg if you unsubscribe on <http://www.crazyegg.com/opt-out>. 
+In exceptional cases where you register separately in a Spreadshirt shop for a Shop Partner’s newsletter and thus give your consent, we transmit your email address to the Shop Partner so that it can send you emails on product offers, discounts and contests.
 
-Hotjar is a web analysis tool by Hotjar, Ltd. – please find more information on matters of data protection on <https://www.hotjar.com/privacy>. You can object to the collection, storage and usage of data for future activities by Hotjar if you unsubscribe via the contact form on <https://www.hotjar.com/contact>. 
+**You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). This revocation must be declared vis-à-vis the Shop Partner. The contact details of the respective Shop Partner can be found in the legal information section of their Spreadshirt shop.**
 
-## 10\. Does Spreadshirt use social plug-ins?
+The legal basis for the processing is Art. 6(1) Sentence 1(a) GDPR.
 
-### Facebook
+## 2.7 Usage-based online advertising
 
-Our online offer makes use of so called social plug-ins of the social network provider Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA. The plug-ins are labelled with the Facebook logo or “like button”. Please refer to an overview of our plugins on <http://developers.facebook.com/docs/plugins/>. 
+Our website uses various conversion tracking and retargeting technologies made available by other service providers. We use these technologies to make our website interesting for you. The information also helps us to address users who have already shown an interest in our products with individually tailored advertising on the websites of our partner companies. We assume that the display of personalised, interest-based advertising is generally more interesting for the internet user than advertising that has no such personal relevance. At the same time, we want to avoid inappropriate and intrusive advertising.
 
-If a user accesses our online portal containing such a plug-in, a direct connection between browser and user gets established through the Facebook server. In doing so, Facebook receives information that the user accessed a specific page of our online offer. In case the user is already registered with Facebook, Facebook is able to associate the site view with the user account as long as the user is logged in to Facebook while accessing our online offer. If a user interacts with a plug-in, e.g. by using the “like button” or leaves a comment while being logged into Facebook and simultaneously accessing our online offer, Facebook receives information on this circumstance and records it. 
+General information about third-party advertising-based technologies and how to disable them can be found on the following websites, among others:
 
-It needs to be pointed out that we have no information with regard to the content of the data and further usage of the data that Facebook receives. More information on the data protection of Facebook can be found on <http://www.facebook.com/about/privacy/>. 
+  * Your Online Choices: <http://www.youronlinechoices.eu/>
+  * YourAdChoices: <http://optout.aboutads.info/?c=2#!/>
+  * Network Advertising Initiative: <http://optout.networkadvertising.org/?c=1#!/>
 
-If you want to prevent this kind of data association and usage, you need to log out of your Facebook account before accessing our online offer. 
 
-### Pinterest
 
-Our online offer also includes social plug-ins by Pinterest, Pinterest Inc., 635 High Street, Palo Alto, CA 94301 USA. The plug-ins are labelled with the “Pin it” button. The button icon makes it possible to share a page or a design that is part of our online offer with Pinterest. 
+### a) Use of Google AdWords conversion tracking and Google AdWords remarketing
 
-If a user accesses our online portal containing such a plug-in, a direct connection between browser and user gets established through the Pinterest server. In doing so, Pinterest receives information that the user accessed a specific page of our online offer. If a user clicks the “Pin it” button while being logged in with his Pinterest account, he can link up the our offer viewed online to his Pinterest profile. In doing so, Pinterest can associate our online offer with the user account at Pinterest. 
+\- Google AdWords conversion tracking
 
-It needs to be pointed out that we have no information with regard to the content of the data and further usage of the data that Pinterest receives. More information on the data protection of Pinterest can be found on <http://about.pinterest.com/privacy>. 
+We use Google AdWords, a service of Google LLC (“Google”), to use ads (so-called Google AdWords) to draw attention to our offers on external websites. In relation to the data of advertising campaigns, we can identify how successful the individual advertising activities are. In this way we want to show you advertising that is of interest to you, make our website more attractive to you and achieve a fair calculation of advertising costs.
 
-If you want to prevent this kind of data association and usage, you need to log out of your Pinterest account before accessing our online offer. 
+These ads are deployed by Google via so-called ‘ad servers’. For this purpose, we use ad server cookies, which enable the tracking of certain parameters for measuring success, such as the display of ads or clicks by users. If you arrive at our website via a Google ad, Google AdWords will store a cookie on your device. These cookies usually expire after 30 days and are not intended to identify you personally. Analysis values usually stored for this cookie are the unique cookie ID, the number of ad impressions per placement (frequency), the last impression (relevant for post-view conversions) and opt-out information (marker showing that the user no longer wishes to be targeted).
 
-### Addthis
+These cookies allow Google to recognise your internet browser. If a user visits certain pages of an AdWords customer’s website (in this case ours) and the cookie stored on their device has not yet expired, Google and the customer can recognise that the user has clicked on the ad and has been redirected to this site. Each AdWords customer is assigned a different cookie. Cookies cannot therefore be tracked via the websites of AdWords customers. We do not collect and process any personal data in the aforementioned advertising activities. Google merely provides us with statistical evaluations. On the basis of these evaluations we can identify which of the advertising activities used are particularly effective. We do not receive any further data from the use of ads; in particular we cannot identify users on the basis of this information.
 
-Our online offer also includes social plug-ins by Addthis, provided by Clearspring Technologies, Inc. Addthis is a bookmark provider, helping to set bookmarks and communicating websites (e.g. through Pinterest). On completion of the order with Spreadshirt, the plug-in enables the user to share what has just been purchased by means of social online networks or email. Addthis uses cookies. Data generated here (e.g. time of access or browser language) are submitted to the USA and processed by Clearspring Technologies, Inc. 
+Due to the marketing tools used, your browser automatically establishes a direct connection to the Google server. We have no influence on the extent and further processing of the data collected by Google through the use of this tool and therefore inform you according to what we know: By integrating AdWords Conversion, Google receives the information that you have retrieved the corresponding part of our website, or that you have clicked on one of our ads. If you are registered with a Google service, Google can associate the visit with your account. Even if you are not registered with Google or have not logged in, it is possible that Google will obtain and store your IP address.
 
-Please find more information on data processing and data protection of Clearspring Technologies, Inc. on <http://www.addthis.com/privacy/privacy-policy>. This website contains information on the data type used for further processing as well as their intended use. We do not process these data. You can object to the collection, storage and usage of data for future activities by unsubscribing on <http://www.addthis.com/privacy/opt-out>. 
+\- Google AdWords remarketing
 
-###  ShareThis 
+Besides AdWords Conversion, we also use Google’s remarketing feature. This is a process we use in an attempt to contact you again. After visiting our website, this feature makes it possible to show you our ads when you continue to use the internet. This is done by means of cookies stored in your browser, which Google uses to record and evaluate your usage behaviour when visiting various websites. This is how Google can determine that you have previously visited our website. According to its own information, Google does not combine the data collected in the context of remarketing with your personal data, which may be processed by Google. Specifically, according to Google, pseudonymisation is used during remarketing.
 
-Our Internet presence uses so-called Social Plugin ShareThis by the provider ShareThis, Inc. in order to communicate websites in a straightforward way (e.g. via email, Facebook, Pinterest, Twitter etc.). In combination with this service, ShareThis places cookies. Data generated here (e.g. time of access or browser language) are submitted to the USA and processed by ShareThis Inc. 
+There are various ways in which you can prevent your participation in this tracking procedure:
 
-You can find ShareThis Inc.’s privacy policy on [http://www.sharethis.com/legal/privacy/"](http://www.sharethis.com/legal/privacy/#sthash.qAtj3M1f.dpbs). This website contains information on the data type used for further processing as well as their intended use. We do not process these data. You can object to the collection, storage and usage of data for future activities by unsubscribing on [http://www.sharethis.com/legal/privacy/"](http://www.sharethis.com/legal/privacy/#sthash.qAtj3M1f.dpbs). 
+  * By setting your browser software accordingly; in particular, disabling cookies from third party providers means that you will not receive any ads from third-party providers;
+  * By permanent deactivation in your browser Firefox, Internet Explorer or Google Chrome via the link: <http://www.google.com/settings/ads/plugin>. Please note that by doing this you may not be able to properly use the full functionality of our website.
+  * By clicking on the following button: DisableEnable Google AdWords. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website.
+  * By disabling interest-based ads from providers who are part of the “YourAdChoices” self-regulation initiative via the link <http://optout.aboutads.info/?c=2#!/>; please note that this setting will be erased if you erase your cookies.
 
-## 11\. Is your data safe?
 
-Your personal data as well as your payment data is encrypted when being submitted online. We adopt technical and organisational measures to safeguard our online offer from leakage, damage, access and modification as well as unwanted sharing of your data by unauthorised persons. Accessing your user account is only possible upon entering your password. You should always treat your log-in data confidentially and close the browser window after finishing your communication, particularly when using a computer that others have access to as well. 
 
-## 12\. Which declarations of consent apply to Spreadshirt’s online offers?
+The legal bases for the processing of your data are Art. 6(1) Sentences 1(a) and (f) GDPR.
 
-The following declaration(s) of consent have been given to Spreadshirt, and we have put these on record. The German Teleservices Act makes it obligatory for us to make declarations of consent available to be viewed. We need to point out that you can always revoke your declarations of consent at any time in the future. 
+Third-party provider information: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. For further information about privacy at Google, please refer to: <https://policies.google.com/privacy?hl=policies> and <https://services.google.com/sitestats/en.html>. Alternatively, you can visit the website of the Network Advertising Initiative (NAI) at: [http://www.networkadvertising.org](http://www.networkadvertising.org/). Google has subjected itself to the EU-US Privacy Shield (<https://www.privacyshield.gov/EU-US-Framework>).
 
-**Subscribe to Newsletter**  
-[Field for entering your email addresse] [register]  
-Subscribe to the Spreadshirt newsletter. What’s your benefit?  
-(you can always unsubscribe)  
+### b) Use of Facebook Custom Audiences, Facebook Website Custom Audiences and Facebook Conversion Tracking
 
+\- Facebook Custom Audiences
 
-**Subscribe to Newsletter**  
-[Field for entering your email addresse] [register]  
-Data protection at Spreadshirt  
-Spreadshirt only uses your email address to send you info emails. Unsubscribing from the newsletter is possible at all times 
+Our website also uses the Website Custom Audiences remarketing function of Facebook, Inc. (“Facebook”). This allows users of the website to see interest-based ads (“Facebook Ads”) when visiting the social network Facebook or other websites that also use the process. Our intention here is to show you ads that are of interest to you.
 
-**Customer Newsletters** The best Marketplace products and current promotions from Spreadshirt’s product range - every week, fresh in your email inbox. You can always unsubscribe.  
-[Button:] Sign up 
+Due to the marketing tools used, your browser automatically establishes a direct connection to the Facebook server. We have no influence on the extent and further processing of the data collected by Facebook through the use of this tool and therefore inform you according to what we know: By integrating Facebook Custom Audiences, Facebook receives the information that you have retrieved the corresponding part of our website, or that you have clicked on one of our ads. If you are registered with a Facebook service, Facebook can associate the visit with your account. Even if you are not registered with Facebook or have not logged in, it is possible that Facebook will obtain and store your IP address and other identifying information.
 
-**Shop Partner Newsletter** We keep you up-to-date on special campaigns, new features and impart tips and tricks to improve your shop sales. This newsletter gets sent out about once a month. You can always unsubscribe.  
-[Button:] Sign up 
+\- Facebook Website Custom Audiences
+
+Our website also uses the Facebook product “Custom Audiences from your website”. For this purpose, we have integrated remarketing tags (so-called Facebook Pixel or web beacon) into our website. The Facebook Pixel is a small piece of JavaScript code that provides a range of functionalities for sending application-specific events and user-defined data to Facebook. We use the Facebook Pixel to track how visitors use our site. The Facebook Pixel records and reports to Facebook information about the user’s browser session, a hashed version of the Facebook ID, and the URL being viewed. Every Facebook user therefore has a device-independent Facebook ID, which enables us to recognise users across multiple devices on the social network Facebook so that we can use Facebook Ads to reach our visitors again for advertising purposes. After 180 days, the user information is deleted until the user returns to our website. No personal information is transmitted to us about individual website visitors, and we can only specifically deploy ads to website custom audiences if the custom audience has reached a critical size. This makes it impossible for us to determine the individual identities of visitors.
+
+\- Facebook Conversion Tracking
+
+We also use the Facebook Pixel on our website to measure the reach of ads. This allows us to track users’ actions after they have seen or clicked on a Facebook Ad. The Facebook Pixel records and reports to Facebook information about the user’s browser session, a hashed version of the Facebook ID, and the URL being viewed. The way it works is comparable to Facebook Website Custom Audiences via the Facebook Pixel, which is already described above. Using the hashed Facebook ID, we can measure the reach and effectiveness of an ad to find out whether you are actually interested in our advertising. This enables us to measure the effectiveness of Facebook Ads for statistical and market research purposes. For us, the data used is not personally identifiable.
+
+You can prevent Facebook from recording your data on this website by clicking here: DisableEnable Facebook Custom Audiences, Facebook Website Custom Audiences and Facebook Conversion Tracking. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. How to prevent the recording of your data on other websites is explained on the respective sites, and if you are a user who has logged in to Facebook, here: <https://www.facebook.com/settings/?tab=ads#_>.
+
+The legal bases for the processing of data when using the functions specified above are Art. 6(1) Sentences 1(a) and (f) GDPR.
+
+Third-party provider information: Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, D2 Dublin, Ireland, telephone: +0016505434800, fax: + 0016505435325. For more information about data processing by Facebook, please refer to Facebook’s privacy policy: <https://www.facebook.com/about/privacy>.
+
+### c) Use of LinkedIn conversion tracking and retargeting
+
+\- LinkedIn conversion tracking
+
+Our website uses the feature “LinkedIn conversion tracking” from LinkedIn Ireland Unlimited Company (“LinkedIn”) to measure the reach of ads. This is to determine how successful individual advertising activities are on LinkedIn. Our intention here is to develop and display advertising that is of interest to you and make our website more attractive. For this purpose, the LinkedIn Insight Tag is integrated into our website. This JavaScript code enables LinkedIn to use cookies to collect pseudonymous data about your visit and the use of our website (e.g. about the browser session and the website displayed) and to provide us with aggregated, non-personal statistics on this basis. This allows us to trace the actions that have taken place after a LinkedIn ad has been viewed or clicked on.
+
+\- LinkedIn website retargeting
+
+Our website also uses the “LinkedIn website retargeting” feature. After visiting our website, this feature makes it possible to show you our ads when you continue to use the internet. Our intention here is to show you ads that are of interest to you. This is done by means of a cookie stored in your browser (see above for more information), which is used to record and evaluate your usage behaviour. No personal information is transmitted to us about individual website visitors, and we can only specifically deploy ads to website custom audiences if the custom audience has reached a critical size. This makes it impossible for us to determine the individual identities of visitors.
+
+There are various ways in which you can disable this tracking. You can adjust your browser settings to prevent the storage of cookies, although this may result in a restriction of the functionality of our website for you. You also can prevent LinkedIn from recording your data on this website by clicking here: DisableEnable LinkedIn conversion tracking and website retargeting. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. In addition, you can disable interest-based ads from providers who are part of the “YourAdChoices” self-regulation initiative (<http://optout.aboutads.info/?c=2#!/>) or e.g. part of the Network Advertising Initiative (<http://optout.networkadvertising.org/?c=1#!/>); please note that this setting will be erased if you erase your cookies.
+
+The legal bases for the processing are Art. 6(1) Sentences 1(a) and (f) GDPR.
+
+Third-party provider information: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland. LinkedIn’s privacy policy: <https://www.linkedin.com/legal/privacy-policy?_l=en_GB>.
+
+### d) Use of Bing Ads Conversion Tracking and remarketing
+
+\- Bing Ads Conversion Tracking
+
+Our website also uses the “Bing Ads Conversion Tracking” feature from Microsoft Corporation ("Microsoft") to measure the reach of ads. This is to determine how successful our individual advertising activities are on Bing and Yahoo. Our intention here is to develop and display advertising that is of interest to you and make our website more attractive. For this purpose, Microsoft’s UET tag (Universal Event Tracking tag) is integrated into our website. This JavaScript code enables Microsoft to use cookies to collect pseudonymous data about your visit and the use of our website (e.g. about the browser session and the website displayed) and to provide us with aggregated, non-personal statistics on this basis (e.g. how many visitors have reached a particular target page). This allows us to trace the actions that have taken place after an ad has been viewed or clicked on on Bing or Yahoo.
+
+\- Bing Ads remarketing
+
+Our online offering also uses the “Bing Ads remarketing” feature. After visiting our website, this feature allows us to show you our ads when you continue to use the internet. Our intention here is to show you ads that are of interest to you. This is done by means of a cookie stored in your browser (see above for more information), which is used to record and evaluate your usage behaviour. No personal information is transmitted to us about individual website visitors, and we can only specifically deploy ads to website custom audiences if the custom audience has reached a critical size. This makes it impossible for us to determine the individual identities of visitors.
+
+There are various ways in which you can disable this tracking. You can adjust your browser settings to prevent the storage of cookies, although this may result in a restriction of the functionality of our website for you. You also can prevent Microsoft from recording your data on this website by clicking here: DisableEnable Bing Ads Conversion Tracking and Remarketing. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. In addition, you can disable interest-based ads from providers who are part of the “YourAdChoices” self-regulation initiative (<http://optout.aboutads.info/?c=2#!/>) or e.g. part of the Network Advertising Initiative (<http://optout.networkadvertising.org/?c=1#!/>); please note that this setting will be erased if you erase your cookies. It is also possible to disable interest-based ads at <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>.
+
+The legal bases for the processing are Art. 6(1) Sentences 1(a) and (f) GDPR.
+
+Third-party provider information: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft’s privacy policy: <https://privacy.microsoft.com/en-us/privacystatement>. Microsoft has subjected itself to the EU-US Privacy Shield (https://www.privacyshield.gov/EU-US-Framework).
+
+### e) Use of Twitter Ads conversion tracking
+
+Our website also uses the “Twitter Ads conversion tracking” feature from Twitter, Inc. (“Twitter”) to measure the reach of ads. This is to determine how successful our individual tweets and advertising activities are on Twitter. Our intention here is to develop and display advertising that is of interest to you and make our website more attractive. For this purpose, a conversion tag is integrated into our website. This JavaScript code enables Twitter to use cookies to collect pseudonymous data about your visit and the use of our website (e.g. about the browser session and the website displayed) and to provide us with aggregated, non-personal statistics on this basis (e.g. how many visitors have reached a particular target page). This allows us to trace the actions that have taken place after a tweet or an ad has been viewed or clicked on.
+
+There are various ways in which you can disable this tracking. You can adjust your browser settings to prevent the storage of cookies, although this may result in a restriction of the functionality of our website for you. You also can prevent Twitter from recording your data on this website by clicking here: DisableEnable Twitter Ads Conversion Tracking. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. In addition, you can disable interest-based ads from providers who are part of the “YourAdChoices” self-regulation initiative (<http://optout.aboutads.info/?c=2#!/>) or e.g. part of the Network Advertising Initiative (<http://optout.networkadvertising.org/?c=1#!/>); please note that this setting will be erased if you erase your cookies.
+
+The legal bases for the processing are Art. 6(1) Sentences 1(a) and (f) GDPR.
+
+Twitter’s privacy policy: <https://twitter.com/en/privacy>. Twitter has subjected itself to the EU-US Privacy Shield (https://www.privacyshield.gov/EU-US-Framework).
+
+### f) Use of Webgains tracking
+
+In addition, we use a plug-in of the international affiliate network Webgains, which is provided by ad pepper media GmbH (“Webgains”). This enables us to measure the success of our ads on partner sites brokered for us by Webgains. In this way we want to show you advertising that is of interest to you, make our website more attractive to you and achieve a fair calculation of advertising costs. For this purpose, a tracking code is integrated into our site. This code enables Webgains to collect pseudonymous data about your visit and the use of our online offer via cookies and make aggregated, non-personal statistics available to us on this basis, in particular about how many visitors of a certain partner site have ordered something from us after clicking on our advertisement.
+
+There are various ways in which you can disable this tracking. You can adjust your browser settings to prevent the storage of cookies, although this may result in a restriction of the functionality of our website for you. You also can prevent Webgains from recording your data on this website by clicking here: DisableEnable Webgains tracking. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. In addition, you can disable interest-based ads from providers who are part of the “YourAdChoices” self-regulation initiative (<http://optout.aboutads.info/?c=2#!/>) or e.g. part of the Network Advertising Initiative (<http://optout.networkadvertising.org/?c=1#!/>); please note that this setting will be erased if you erase your cookies.
+
+The legal bases for the processing are Art. 6(1) Sentences 1(a) and (f) GDPR.
+
+Information from the third-party provider: ad pepper media GmbH, FrankenStraße 150C, FrankenCampus, 90461 Nuremberg, Germany. Webgains privacy policy: [http://www.webgains.com/public/en/privacy/](http://www.webgains.com/public/en/datenschutzerklaerung/).
+
+### g) Use of Nextperf retargeting
+
+Our website also uses the feature “Nextperf Retargeting” from Nextperf. After visiting our website, this feature allows us to show you our ads when you continue to use the internet. Our intention here is to show you ads that are of interest to you. This is done by means of a cookie stored in your browser by Nextperf, which is used to pseudonymously record and evaluate your usage behaviour (e.g. which products were clicked on). No personal information is transmitted to us about individual website visitors. This makes it impossible for us to determine the individual identities of visitors.
+
+There are various ways in which you can disable this tracking. You can adjust your browser settings to prevent the storage of cookies, although this may result in a restriction of the functionality of our website for you. You also can prevent Nextperf from recording your data on this website by clicking here: DisableEnable Nextperf retargeting. This will place an opt-out cookie which prevents recording when you visit our website in future. Please note that if you delete all cookies on your device, this opt-out cookie will also be deleted; in this case, if you still wish to object then you must place the cookie again using the above button. The opt-out cookie is set per top-level domain, per browser and per device and only prevents the recording of data for this website. In addition, you can disable interest-based ads from providers who are part of the “YourAdChoices” self-regulation initiative (<http://optout.aboutads.info/?c=2#!/>) or e.g. part of the Network Advertising Initiative (<http://optout.networkadvertising.org/?c=1#!/>); please note that this setting will be erased if you erase your cookies. It is also possible to disable interest-based ads from Nextperf on other sites at <http://www.nextperf.com/privacy/>.
+
+The legal bases for the processing are Art. 6(1) Sentences 1(a) and (f) GDPR.
+
+Third-party provider information: Nextperf, 25 rue de Choiseul, 75002 Paris, France. Nextperf’s privacy policy: <http://www.nextperf.com/privacy/>.
+
+### h) Use of features by Spreadshirt’s Shop Partners
+
+Our partners can also use a Facebook Pixel (see Section 2.7 b for a detailed explanation) in their Spreadshirt shops themselves, as a rule in order to be able to show you advertising on Facebook that is of interest to you after your visit to their shop, or in order to measure the reach of ads and in turn make their products more attractive. In this case, they determine the purposes and means of processing personal data. The name and contact details of our partners are stored in the legal information section of the respective shop.
+
+## 3\. What are my rights?
+
+With regard to the personal data concerning you, you have the following rights vis-à-vis us – and vis-à-vis our partners, insofar as they are controllers within the meaning of the GDPR (see Sections 2.5 e, 2.6 c and 2.7 h):
+
+  * the right of access,
+  * the right to receive a copy,
+  * the right to rectification or erasure,
+  * the right to completion of incomplete data,
+  * the right to restriction of processing,
+  * the right to object to processing,
+  * the right to data portability.
+
+
+
+You also have the right to lodge a complaint with a data protection supervisory authority about the processing of your personal data by us – or by our partners (see above). The data protection supervisory authority responsible for Spreadshirt is:
+
+Saxon Data Protection Commissioner, Bernhard-von-Lindenau-Platz 1, 01067 Dresden.
+
+**If you have given your consent to the processing of your data (within the meaning of Art. 6(1) Sentence 1(a) or Art. 9(2)(a) GDPR), you can revoke this consent with future effect at any time. This does not affect the lawfulness of processing carried out on the basis of the consent before you revoke your consent.**
+
+ **
+
+If we base the processing of your personal data on the balancing of interests (Art. 6(1) Sentence 1(f) GDPR), you are entitled to object to the processing. This is the case if the processing is not necessary in particular for the performance of a contract with you, which was described by us in each case with the description of the individual functions. When exercising such a right of objection, we ask that you explain the reasons why we should not process your personal data as carried out by us. In the event that your objection is justified, we will examine the situation and either stop or adjust the data processing or point out to you the compelling legitimate reasons on the basis of which we will continue processing.
+
+**
+
+**However, you can of course object to the processing of your personal data for advertising or web analytics purposes at any time without giving reasons.**
+
+As described in the relevant sections, we sometimes use external service providers to process your data. These have been carefully selected and commissioned by us, are bound by our instructions and are regularly checked.
+
+The personal data processed by us is generally erased or blocked as soon as the purpose of storage ceases to apply. Data may be stored for a longer period if this has been provided for by the European or national legislator in EU regulations, laws or other rules to which we as the controller are subject. The data will also be blocked or erased once a storage period prescribed by the aforementioned standards expires, unless there is a need for further storage of the data for the conclusion or performance of a contract.
+
+Further processing operations may be required for contests and other promotional campaigns. In such cases we will inform you in the context of the respective promotional campaign.
+
+Thank you for reading this privacy policy in its entirety! 
