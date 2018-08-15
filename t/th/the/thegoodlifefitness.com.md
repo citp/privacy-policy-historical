@@ -1,43 +1,61 @@
-> *The following text is extracted and transformed from the thegoodlifefitness.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026025727id_/http%3A//thegoodlifefitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegoodlifefitness.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815164122id_/http%3A//thegoodlifefitness.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | The Good Life Fitness
+# Privacy Policy
 
-#### Your Privacy
+This Privacy Policy explains our policy regarding the privacy of information supplied by users or collected by us from users of this web site or from other third parties. Because we want to build users' trust and confidence in our privacy practices, we want to disclose them to you.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**Changes in this Privacy Statement**
 
-This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-#### Pubmatic Cookie
+**Registration Newsletter/ Frequency of Mailings**
 
-This site also uses PubMatic, Inc.’s Sell Side Platform services. To read more about how PubMatic uses cookies or to opt out of PubMatic’s cookie usage, please visit: <http://www.pubmatic.com/opt-out> .
+By registering to our newsletter, you are agreeing to receive our newsletters on a daily basis. **appleivoc.com** has the right to change frequency of delivery of its newsletters without notice.
 
-#### Google Adsense and the DoubleClick DART Cookie
+**Collection and Use of information**
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+We respect your right to privacy. **appleivoc.com** received your information from your submission to us or through one of our affiliates. appleivoc.com is the owner of the information that you provided in any registration process. Your email address and any other identifying information that you give us will not be revealed to any third party, including any of the direct marketers who may use us to pass offers to you.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+We use the information that you provided primarily to send you our newsletters. Moreover, the information subscribers give us is sometimes used to send prizes, verify legal age, and to send third-party mailings based on the interests that each individual subscriber has opted-in for. We may also collect and report to third parties (such as affiliates, content and service providers, and advertisers) aggregated information from our web site. For example, we may aggregate and report to third parties that X people purchased a particular product during a month, or that Y% of visitors to this web site are between the ages 25-34.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, this site has no access or control over these cookies that may be used by third party advertisers.
+From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you, therefore, have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
-#### Amazon Affiliates Program
+As is true of most web sites, we also gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do link this automatically-collected data to personally identifiable information like IP addresses and email addresses. However, this is solely for internal uses and used to verify appropriate registration methods.
 
-This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Finally, **appleivoc.com** may disclose subscriber information in response to subpoenas, court orders, and other legal processes.
 
-#### Third Party Advertising
+**Children**
 
-We use third party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/managing/opt_out.asp>
+We are committed to the safety of children and do not intend to collect personally identifiable information from children under age 18. If you are under age 18, please ask your parent for permission before sending any information to our site or anyone else online. Have your parent contact us as indicated below in order to provide us with prior written consent. We will not intentionally use personal information from or send marketing communications to children under age 13 without prior parental consent.
 
-#### Collection of Personal Information
+**Cookies**
 
-When visiting this site, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do not use cookies on this site. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers.
 
-#### Links to Third Party Websites
+**Aggregate Information (non-personally identifiable)**
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+We maintain the right to share aggregated demographic information about our subscriber base with our partners and advertisers. This information does not identify individual subscribers. We do not link aggregate user data with personally identifiable information.
 
-#### Changes to this Privacy Statement
+**Third-Party Links**
 
-The contents of this statement may be altered at any time, at our discretion.
+For your convenience, our newsletter contains links to third-party web sites that are not owned or controlled by us. We are not responsible for the privacy practices of these other web sites. We encourage you to note when you follow links in our newsletters and to read the privacy statements of these other web sites. We encourage you to be aware when you leave our newsletter and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by appleivoc.com
 
-If you have any questions regarding the privacy policy of this site then you may contact us using our [Contact Page](https://web.archive.org/contact-us/).
+**Security**
+
+We use certain efforts to secure our web site. We will periodically review our security policies and implement changes from time to time. However, we cannot and do not guarantee complete security, as it does not exist on the Internet. If you have any questions about security on our web site, you can send an email
+
+**Business Transitions**
+
+In the event **appleivoc.com** goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our web site prior to any such change in ownership or control of your personal information.
+
+**Choice/Opt-out**
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us
+
+**Acceptance of Terms**
+
+By subscribing to our newsletter, you agree to the Privacy Policy. If you do not agree to this policy, please do not subscribe to our newsletters. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the site. Please check this page periodically for changes.
+
+**Contact Us**
+
+If you have any questions or suggestions regarding our privacy policy, please contact us
