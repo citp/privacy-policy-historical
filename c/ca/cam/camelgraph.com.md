@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camelgraph.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217205122id_/http%3A//camelgraph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelgraph.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815234458id_/http%3A//camelgraph.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CamelGraph
 
