@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725160817id_/https%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815103025id_/https%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
 
 # SmartThings. Add a little smartness to your things.
 
-**Effective Date: April 21, 2017**
+**Effective Date: April 30, 2018**
 
 We at SmartThings know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy practices that govern your use of our website(s), products, services, mobile applications, IoT plug-in and other software (collectively, the “Services”). **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
@@ -17,6 +17,12 @@ As noted in the [Terms of Use](https://smartthings.com/terms), we do not knowing
 #### Will SmartThings ever change this Privacy Policy?
 
 We're constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the Services and/or by sending you an email, unless we do not have your email address. Such notices will still govern your use of the Services, and you are responsible for reading and understanding them. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been posted. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
+
+If you have questions regarding this U.S. Privacy Notice, please contact us at:
+
+Privacy Office SmartThings, Inc. 665 Clyde Avenue Mountain View, California 94043
+
+Or via email at: [legal@smartthings.com](mailto:legal@smartthings.com) Or via phone at: 1-800-726-7864
 
 #### What information does SmartThings collect?
 
@@ -79,6 +85,12 @@ Through your account and Service settings, you may be able to access, and, in so
 
 The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [support@smartthings.com](mailto:support@smartthings.com). 
 
+**Children’s Personal Information**
+
+Certain SmartThings products and services are intended for use by children under the age of 13. Through these SmartThings products and services, SmartThings may collect device identifiers (e.g., device model name, serial number, IMEI number, SIM card number and WiFi-MAC address), device settings and logs, and geolocation information from children under the age of 13. SmartThings provides this information to the parent holder of the SmartThings Account associated with the SmartThings device. SmartThings may combine the information collected from children under age 13 with information associated with the parent’s SmartThings app and the parent’s SmartThings Account. SmartThings may share the geolocation information collected from children under age 13 with the parent’s wireless carrier to provide customer service. SmartThings also may share information collected from children under age 13 with its subsidiaries and affiliates and with its service providers.
+
+A parent may review and/or request to have deleted the child’s personal information collected by SmartThings and may refuse to permit its further collection or use. To exercise these choices, please contact us as specified in the How To Contact Us section of this U.S. Privacy Notice.
+
 #### Your California Privacy Rights
 
 Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. You may also ask us to refrain from sharing your personal information with third parties for their marketing purposes If you are a California resident and would like a copy of this notice or wish to make a request that we refrain from sharing your information with third parties for their marketing purposes, please submit a written request to:
@@ -111,3 +123,49 @@ If you have any questions or concerns regarding our Privacy Policy, please send 
 #### What if I logged in with my Samsung account?
 
 If you have accessed the Services via your account with Samsung Electronics Co., Ltd. (“Samsung”), your use of the Services and any information collected by the Services shall be further subject to this Privacy Policy. In the event of any express conflict between the terms and conditions of this Privacy Policy and the then-current Samsung Privacy Policy, the terms and conditions of this Privacy Policy shall govern solely with respect to that conflict.
+
+SmartThings takes the security of our systems seriously, and we value our relationship with our customers and the security community. The responsible disclosure of security vulnerabilities helps us ensure the security and privacy of our users.
+
+### Guidelines
+
+We require that all researchers: 
+
+  * Avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing;
+  * Perform research only within the scope set out below; and
+  * Use the identified communication channels to report vulnerability information to us; and
+
+
+
+In the interest of the safety of our users, staff, the Internet at large and you as a security researcher, the following test types are excluded from scope:
+
+  * Findings from physical testing such as office access (e.g. open doors, tailgating)
+  * Findings derived primarily from social engineering (e.g. phishing, vishing)
+  * Denial of Service (DoS/DDoS) vulnerabilities
+
+
+
+Things we do not want to receive and will not consider:
+
+  * Personally identifiable information (PII)
+  * Credit card holder data
+  * Out of scope issues
+
+
+
+If you follow these guidelines when reporting an issue to us, we commit to:
+
+  * Not pursue or support any legal action related to your research;
+  * Work with you to understand and resolve the issue quickly;
+
+
+
+### Scope & Reporting a Security Vulnerability
+
+SmartThings has partnered with BugCrowd to help security researchers and our users test for, and alert our security team to, discovered vulnerabilities. The BugCrowd platform allows us to host, triage, and respond to reports in an efficient and effective manner, helping SmartThings continuously improve the security of our products.
+
+To get started:
+
+  * Register on BugCrowd platform at <https://bugcrowd.com/user/sign_up>
+  * Read through our program rules at <https://bugcrowd.com/smartthings> and get started!
+
+
