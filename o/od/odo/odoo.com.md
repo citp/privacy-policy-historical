@@ -1,212 +1,168 @@
-> *The following text is extracted and transformed from the odoo.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208095830id_/https%3A//www.odoo.com/page/odoo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odoo.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815105606id_/https%3A//www.odoo.com/privacy) for the most accurate reproduction.*
 
-# odoo-privacy-policy | Odoo
+# Odoo Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+### How we protect your privacy on Odoo.com and when you use our services
 
-### What personal information do we collect from the people that visit our blog, website or app?
+Odoo SA and its affiliates offer many services to help you run your business, including a platform to host your own Odoo database. As part of running those services we collect data about you and your business. This data is not only essential to run our services, but also critical for the safety of our services and all our users.   
+This policy explains what information is collected, why it is collected, and how we use it. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, or other details to help you with your experience.
+## Information we collect
 
-### When do we collect information?
+Most of the personal data we collect is directly provided by our users when they register and use our services. Other data is collected by recording interactions with our services. 
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
+  
 
-### How do we use your information?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
- 
+**Account & Contact Data:  ** When you register on our website to use or download one of our products, or to subscribe to one of our services (Odoo Online, Free Trial, Odoo Apps, Odoo.sh, etc.), or fill in one of our contact forms, you voluntarily give us certain information. This typically includes your _name, company name, email address,_ and sometimes your _  phone number, postal address_ (when an invoice or delivery is required), _business sector_ and _interest in Odoo,_ as well as a _personal password.  
+_We 
 
-      • To administer a contest, promotion, survey or other site feature.
+_never record or store credit card information from our customers_
 
-      • To send periodic emails regarding your order or other products and services.
+, and always rely on trusted third-party PCI-DSS-compliant payment processors for credit card processing, including for recurring payment processing. 
 
-### How do we protect visitor information?
+**Job Application Data:  ** When you apply for a job on our website or via an employment agency, we usually collect your contact information ( _name, email, phone_ ), and any information you choose to share with us, in your _introduction letter_ and _Curriculum Vitae_. If we decide to send you a job proposition, we will also ask you to provide extra personal details, as required to fulfill our legal obligations and personnel management requirements.  
+We will **not** ask you to provide information that is not necessary for the recruitment process. In particular, we will **never** collect any information about your racial or ethnic origin, political opinions, religious beliefs, trade union membership or sexual life. 
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.  
- 
+**Browser Data:** When you visit our website and access our online services, we detect and store your _browser language and geolocation,_ in order to customize your experience according to your country and preferred language. Our servers also passively record a summary of the information sent by your browser, for statistical, security and legal purposes: your _IP address_ , the _time and date of your visit_ , your _browser version and platform,_ and the _web page that referred you_ to our website. 
 
-We do not use Malware Scanning.  
- 
+**Customer Database:** When you subscribe to an Odoo Cloud service and create your own Odoo database (for example by starting a Free Trial), any information or content you submit or upload into your database is your own, and you control it fully.   
+Similarly, when you upload an on-premises database to the Odoo Upgrade website, you own the data in it.  
+This data will often include personal information, for example: _your list of employees, your contacts and customers, your messages, pictures, videos, etc_. We only ever collect this information 
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+_on your behalf_
 
- 
+, and **you always retain ownership and full control on this data**.   
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
- 
+## How we use this information
 
-For your convenience we may store your credit card information kept for more than 60 days in order to expedite future orders, and to automate the billing process.
+**Account & Contact Data:** We use your contact information in order to provide our services, to answer your requests, and for billing and account management reasons. We may also use this information for marketing and communication purposes (our marketing messages always come with a way for you to opt-out at any time). We also use this data in aggregated/anonymised form in order to analyze service trends.   
+If you have registered to participate in an event published on our website, we may transfer your _name, email address, phone number_ and _company name_ to our local organizer and to the sponsors of the event, for both direct marketing purposes and in order to facilitate the preparations and booking for the event.   
+If you have expressed interest in using Odoo or otherwise asked to be contacted by an Odoo service provider, we may also transfer your _name, email address, phone number_ and _company name_ to one of our official [Partners](https://www.odoo.com/partners) in your country or region, for the purpose of contacting you to offer their local assistance and services. 
 
-### Do we use 'cookies'?
+**Job Application Data:  ** We will only process this information for our recruitment process, in order to evaluate and follow-up with your application, and in the course of preparing your contract, if we decide to send you a job proposition. You may contact us at any time to request the deletion of your information. 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**Browser Data:** This automatically recorded data is anonymously analyzed in order to maintain and improve our services. We will only correlate this data with your personal data when required by law or for security purposes, if you have violated our [Acceptable Use Policy](https://www.odoo.com/page/odoo-online-acceptable-use-policy). 
 
-      • Help remember and process the items in the shopping cart.
+**Customer Database:** We only collect and process this data on your behalf, in order to perform the services you have subscribed to, and based on the instructions you explicitly gave when you registered or configured your service and your Odoo database.   
+Our Helpdesk staff and engineers may access this information in a limited and reasonable manner in order to solve any issue with our services, or at your explicit request for support reasons, or as required by law, or to ensure the security of our services in case of violation of our [Acceptable Use Policy](https://web.archive.org/page/odoo-online-acceptable-use-policy), in order to keep our services secure. 
 
-      • Understand and save user's preferences for future visits.
+## Accessing, Updating or Deleting Your Personal Information
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+**Account & Contact Data:** You have the right to access and update personal data you have previously provided to us. You can do so at any time by connecting to your personal account on Odoo.com. If you wish to permanently delete your account or personal information for a legitimate purpose, please contact our [Helpdesk](https://web.archive.org/help) to request so. We will take all reasonable steps to permanently delete your personal information, except when we are required to keep it for legal reasons (typically, for administration, billing and tax reporting reasons). 
 
- 
+**Job Application Data:  ** You may contact us at any time to request access, updates or deletion of your application information. The easiest way to do it is to reply to the last message you exchanged with our Human Resource personnel. 
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+**Customer Database:** You can manage any data collected in your databases hosted on Odoo.com at any time, using your administration credentials, including modifying or deleting any personal data stored therein.   
+At any time you can export a complete backup of your database via our control panel, in order to transfer it, or to manage your own backups/archive. You are responsible for processing this data in compliance with all privacy regulations.   
+You may also request the deletion of your entire database via your control panel, at any time.   
+When you use the Odoo Database Upgrade service, your data is automatically deleted after your upgrade was successfully completed, and may also be deleted upon request from you. 
 
- 
+__**Safety Retention Period:** we retain a copy of your data in our backups for safety reasons, even after they are destroyed from our live systems. See Data Retention for more details. 
 
-However, you can still place orders .
+## Security
 
-### Third Party Disclosure
+We realize how important and sensitive your personal data is, and we take a great number of measures to ensure that this information is securely processed, stored and preserved from data loss and unauthorized access. Our technical, administrative and organizational security measures are described in details in our [Security Policy](https://web.archive.org/security). 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+## Third Party Service Providers
 
-### Third party links
+In order to support our operations we rely on several Service Providers. They help us with various services such as payment processing, web audience analysis, cloud hosting, marketing and communication, etc. 
 
-We do not include or offer third party products or services on our website.
+Whenever we share data with these Service Providers, we make sure that they use it in compliance with Data Protection legislation, and that the processing they carry out for us is limited to our specific purpose and covered by a specific data processing contract. 
 
-### Google
+Here is a list of the Service Providers we are currently using, why we use them, and what kind of data we share with them: 
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en   
- 
+Service Provider | Purpose | Share Data  
+---|---|---  
+Paypal   
+[(PCI-DSS compliant)](http://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=paypal)  
+[Privacy & Security](https://www.paypal.com/be/webapps/mpp/ua/privacy-prev) | Payment processing on Odoo.com |  **Shared with Paypal** : Order details (amount, description, reference), Customer name and email   
+**Only stored by Paypal** : credit card info   
+Ingenico Payment Services  
+[(PCI-DSS compliant)](http://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=ingenico)  
+[Privacy](https://payment-services.ingenico.com/int/en/cookie-policy) | Payment processing on Odoo.com |  **Shared with Ingenico** :Order details (amount, description, reference), Customer name and email   
+**Only stored by Ingenico** : credit card info   
+Stripe  
+[(PCI-DSS compliant)](http://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=stripe)  
+[Privacy & Security](https://stripe.com/be/privacy) | Payment processing on Odoo.com |  **Shared with Stripe** : Order details (amount, description, reference), Customer name and email   
+**Only stored by Stripe** : credit card info   
+OVH SAS  
+[Privacy & Security](https://www.ovh.com/fr/protection-donnees-personnelles/) | Infrastructure and hosting, DDOS Protection |  **Hosted by OVH** : Production data from Odoo.com and its affiliate services, including Customer Databases.   
+Google LLC  
+[Privacy & Security](https://policies.google.com/privacy) | Infrastructure and hosting, DDOS Protection |  **Hosted by Google** : Production data from Odoo.com and its affiliate services, including Customer Databases.   
+Amazon Web Services, Inc.  
+[Privacy & Security](https://aws.amazon.com/fr/compliance/y) | Infrastructure and hosting |  **Hosted by AWS** : The Database Upgrade services, including Customer Databases currently being upgraded.   
+OneSignal  
+[Privacy & Security](https://onesignal.com/privacy_policy) | In-browser push notifications for Odoo.com visitors |  **Shared with OneSignal** : Non-personal browser data, geolocation info, language (no identifiable information)  
+**Only stored by OneSignal** : browser/mobile device IDs   
+Google Analytics  
+[Privacy & Security](https://onesignal.com/privacy_policy) | Anonymous website audience analysis |  **Shared with Google Analytics** : Non-personal browser data, anonymized IP, geolocation info, language (no identifiable information)  
+  
+Acuity Scheduling  
+[Privacy & Security](https://help.acuityscheduling.com/hc/en-us/articles/219149587-Security-Privacy-Compliance) | Scheduling of demo/meeting on Odoo.com |  **Shared with Acuity** : Any personal info entered by the user in the scheduling form: name and contact info, reason for request, etc.  
+  
+Clearbit  
+[Privacy & Security](https://clearbit.com/gdpr) | Retrieval of business info for prospection reasons |  **Retrieved from Clearbit for visitors coming from EU companies** : name, sector, est. size, est. revenue, website, social media and general contact info  
+**Retrieved from Clearbit for visitors coming from non-EU companies** : same as for EU companies, plus contact info for company executives, if known  
+  
+Thinkific  
+[Privacy & Security](https://www.thinkific.com/resources/privacy-policy/) | Hosting of online trainings |  **Shared with Thinkific** : name, email, company, and training progress for participants  
+  
+SpeedExam  
+[Privacy & Security](https://speedexam.net/new-privacy-policy.html) | Hosting of online certification exams |  **Shared with SpeedExam** : name, email, company, and exam results for participants  
+  
+  
+## Data Retention
 
-We use Google AdSense Advertising on our website.
+**Account & Contact Data**: we will only retain such data as long as necessary for the purpose for which it was collected, as laid out in this policy, including any legal retention period, or as long as necessary to carry out a legitimate and reasonable promotion of our products and services. 
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Job Application Data:  ** If we do not hire you, we may keep the information you provide for up to 2 years in order to contact you again for any new job proposition that may come up, unless you ask us not to do so. If we hire you, your personal information will be stored for the duration of your employment contract with us, and afterwards, during the applicable legal retention period that applies in the country where we employed you. 
 
-We have implemented the following:
+**Browser Data** : we will only retain this data for a short period of time, generally 2 months, unless we need to keep it in relation with a legitimate concern related to the security or performance of our services, or as required by law. 
 
-      • Remarketing with Google AdSense
+**Customer Database** : we will only retain this data as long as necessary for providing the services you subscribed to. For databases hosted on the Odoo Cloud, if you cancel the service your database is kept deactivated for 3 weeks (the grace period during which you can change your mind), and then destroyed. For databases uploaded to the Odoo Database Upgrade website, your database is kept for up to 4 months after the last successful upgrade, and may be deleted earlier upon request. 
 
-      • Demographics and Interests Reporting
+__**Safety Retention Period:**
 
- 
+As part of our [Security Policy](https://web.archive.org/security), we always try to preserve your data from accidental or malicious deletion. As a result, after we delete any of your personal information (Account & Contact Data) from our database upon request from you, or after you delete any personal information from your database (Customer Database), or if you delete your entire database, it is not immediately deleted from our backup systems, which are secured and inalterable. The personal data could remain stored for up to 12 months in those backups, until they are automatically destroyed.   
+We commit not to use those backup copies of your deleted data for any purpose except for maintaining the integrity of our backups, unless you or the law require us to do so. 
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together 
+## Transfer of Data
 
-analyze the user interaction within the website and offer a better user experience.
+**Hosting Services**
 
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+**Hosting Locations** : Customer databases are hosted in the Odoo data center closest to where they are based: Canada __, France __, Belgium __, Hong Kong or Taiwan. Customers can request that their data be moved to one of the other data centers.  
+**Backup Locations** : backups are replicated on multiple continents in order to meet our Disaster Recovery objectives, and are located in the following countries, regardless of the hosting location: Canada __and France __  
+For more details regarding our hosting services, see our [Cloud Hosting SLA](https://web.archive.org/cloud-sla). 
 
-### California Online Privacy Protection Act
+__: For Customers concerned about EU data protection regulation, countries with a __sign in the above lists are in EU or currently subject to an[adequacy decision from EU authorities](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en). 
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+**International Staff**   
+In some cases, the personal data mentioned in this Privacy Policy may be accessed by staff members of Odoo SA subsidiaries in other countries. Such access will always be done for the same purposes and with the same privacy and security precautions as if it was done by our own local staff, so all the guarantees we provide still apply.  
+We use [EU Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) to bind our subsidiaries in a way that offers sufficient safeguards on data protection for the limited and temporary data transfers that occur for such access. 
 
-According to CalOPPA we agree to the following:
+## Third Party Disclosure
 
-Users can visit our site anonymously
+Except as explicitly mentioned above, we do not sell, trade, or otherwise transfer your personal data to third parties. We may share or disclose aggregated or de-identified information, for research purposes, or to discuss trends or statistics with third-parties. 
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+## Cookie Policy
 
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+**Cookies** are small bits of information sent by our servers to your computer or device when you access our services, and unique to you. They are stored in your browser and later sent back to our servers so that we can provide contextual content. We use them to support your activities on our website, for example your session (so you don't have to login again) or your shopping cart.   
+Cookies are also used to help us understand your preferences based on previous or current activity on our website (the pages you have visited), your language and country, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Users will be notified of any privacy policy changes:
+We also use third-party services such as Google Analytics, who set and use their own cookies to identify visitors and provide their own contextual services. For more information regarding those third-party providers and their Cookie Policy, please see the relevant references in the Third-Party Service Providers section.   
 
-      • On our Privacy Policy Page
 
-Users are able to change their personal information:
+We do not currently support Do Not Track signals, as there is no industry standard for compliance.
 
-      • By emailing us
+## Policy Updates
 
-      • By logging in to their account
+We may update this Privacy Policy from time to time, in order to clarify it, or to comply with legal obligations. The "Last Updated" mention at the top of the policy indicates the last revision, which is also the effective date of those changes. If you continue to use our services after such a change, you agree to our updated policy.   
 
-      • By chatting with us or sending us a ticket
 
-### How does our site handle do not track signals?
+## Contacting Us
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+If you have are any question regarding this Privacy Policy, or any enquiry about your personal data, please reach out to the [Odoo Helpdesk](https://web.archive.org/help) or contact us at: 
 
-Does our site allow third party behavioral tracking?
-
-It's also important to note that we allow third party behavioral tracking
-
-### COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  
- 
-
-We do not specifically market to children under 13.
-
-### Fair Information Practices
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
- 
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-
-We will notify the users via email
-
-      • Within 1 business day
-
-      • Within 1 business day
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-### CAN SPAM Act
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
- 
-
-We collect your email address in order to:
-
-      • Send information, respond to inquiries, and/or other requests or questions.
-
-      • Process orders and to send information and updates pertaining to orders
-
-      • We may also send you additional information related to your product and/or service.
-
-      • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-To be accordance with CANSPAM we agree to the following:
-
-      • NOT use false, or misleading subjects or email addresses
-
-      • Identify the message as an advertisement in some reasonable way
-
-      • Include the physical address of our business or site headquarters
-
-      • Monitor third party email marketing services for compliance, if one is used.
-
-      • Honor opt-out/unsubscribe requests quickly
-
-      • Allow users to unsubscribe by using the link at the bottom of each email
-
-If at any time you would like to unsubscribe from receiving future emails, you can
-
-      • Follow the instructions at the bottom of each email.
-
-### Refund policy
-
-All purchases made through Odoo are final and there are no refunds.
-
-### Thanks for using Odoo. We wrote this policy to help you understand what information we collect and how we use it.
-
- 
-
-#### What information do we collect? 
-
-We collect information in the following ways: When you subscribe to a newsletter or discussion group When you register to one of our services (Online Free Trial, Download of the software) When you sign up for or use our products, you voluntarily give us certain information. This can include your name, email, interrest and company name. We also record your IP address at the time of the subscription. 
-
-#### What information do we use? 
-
-We may use the information you provided us when you subscribed to our services like your name and email address to send you emails related to your subscriptions to our services, the mailing lists or newsletter you subscribed to or big announcements. You can request at any time that all information related to you are removed from our databases. Send an email to online AT odoo DOT com if you want to do so. If you use Odoo online, we do not use information that bellongs your Odoo Online instance.
-
-#### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.  
- 
-
-Odoo SA
-
-Chaussée de Namur 40
-
-1367
-
-Ramillies
-
-Belgium
-
-webmaster@odoo.com
-
-Last Edited on 2014-12-12
+Odoo S.A. - Data Protection Chaussée de Namur, 40 1367 Grand Rosière Belgium VAT: BE0477472701 
