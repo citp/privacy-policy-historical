@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i3investor.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611054213id_/http%3A//www.i3investor.com/jsp/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i3investor.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815020600id_/http%3A//www.i3investor.com/jsp/general/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | I3investor
 
