@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressprogress.ca privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610141525id_/http%3A//pressprogress.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressprogress.ca privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815122158id_/http%3A//pressprogress.ca/privacy-policy) for the most accurate reproduction.*
 
 # PressProgress
 
