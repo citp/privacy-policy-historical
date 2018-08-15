@@ -1,117 +1,132 @@
-<!--The following is the downloaded HTML source of the daduru.com privacy policy that was archived on 2017-01-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170120121326id_/https%3A//www.daduru.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daduru.com privacy policy that was archived on 2018-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180815162556id_/https%3A//www.daduru.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html lang="en"><head>
 <title>Daduru.com | A leading web directory since 2007</title>
-<meta name="description" content="Daduru is a general web directory that accepts only quality links for the benefit of our users.">
+<meta name="description" content="Daduru is a leading web #directory since 2007! Add your business now!">
 <meta name="keywords" content="directory, web directory, seo directory, paid directory, quality directory, friendly directory, quality links, listing, seo, optimisation, optimization, friendly, link building, backlink">
-<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css" id="theme">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.min.css" id="theme">
 
- <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script> 
- <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js" type="text/javascript"></script> 
- <script src="http://code.jquery.com/jquery-migrate-1.2.1.js" type="text/javascript"></script> 
- <script src="http://www.daduru.com/javascriptheader.js" type="text/javascript"></script> 
-<!-- place any jquery-dependent script tags that need to be before the /head tag in here -->
+ <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.daduru.com/javascriptheader.js" type="text/javascript"></script> 
+ <script src="https://www.daduru.com/jquery/bootstrapdropdown.min.js" type="text/javascript"></script> 
+
 
  
 <script type="text/javascript">
 //<![CDATA[
 
+jQuery(document).ready(function() {
 
-$().ready(function() {
+$(".outlink").click(function(e) { wsn_counthit(this.id.replace("out", "")); });
 
+$("#mobilemenubutton").click(function(e) {
+$(".menuitems").toggle(500);
+if ($(".navbar-nav").length) $(".navbar-nav > li:not(:first-child)").toggle();
+});
+$(".memuitems a").click(function(e) { $(".menuitems").hide(500); });
+ $('.dropdown-toggle').dropdown(); 
+        $("#login").click(function(e){
+        e.preventDefault();
+            $("#loginmodal").css("display", "block").dialog({
+      height: 400,
+      width: 500,
+      modal: true });
+      
+        });
+        
+        $("#loginsubmit").click(function(e){ e.preventDefault(); wsn_modallogin("https://www.daduru.com/index.php?rewritten=1&custom=yes&TID=pages-privacypolicy", e); });        
+    wsn_closeboxes(); 
 if(typeof(initialize) == 'function') initialize();
 
-        if ($("#searchauto").length) $("#searchauto").autocomplete({ source: "/autocomplete.php?action=searchauto" });
-        else $("[name=searchauto]").autocomplete({ source: "/autocomplete.php?action=searchauto" });
 
-$('.stripeme tr:nth-child(even)').addClass('evenrow');
-$('.stripeme tr:nth-child(odd)').addClass('oddrow');
-$('a.ajaxlink').bind('click',function(event)
-{
- event.preventDefault();
- $.get(this.href,{},function(response)
- { 
-  var parts = response.split('[|||]');
-  $(parts[0]).html(parts[1])
- })	
-});
-$('a.ajaxdelete').bind('click',function(event)
-{
- event.preventDefault();
- var id = '#row'+this.id;
- $(id).hide(500);
- $.get(this.href,{},function(response) {  })	
-});
+        if ($("#searchauto").length) { $("#searchauto").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" }); }
+        else if ($("[name=searchauto]").length) { $("[name=searchauto]").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" }); }
+
+$('a.ajaxlink').click(function(e) { wsn_doajaxlink(e, this.href); });
+$('a.ajaxdelete').click(function(e) { wsn_doajaxdelete(e, this.href, this.id); });
 // place extra document ready function content here 
  
 });
 
 //]]>
 </script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://www.daduru.com/schemas/base.css" type="text/css">
+<link rel="stylesheet" href="https://www.daduru.com/templates/styles/bootstrap.css" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="vilesilencer_claim_id" content="e77ec7a7-c314-4a1b-83fd-374b28db3ac1">
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://www.daduru.com/templates/styles/white.css" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="Daduru.com" href="http://www.daduru.com/rssfeed.php">
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-79900-6");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="alternate" type="application/rss+xml" title="Daduru Web Directory" href="https://www.daduru.com/rssfeed.php">
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f0c3fff64cf154f" async="async"></script>
-
-
-<meta property="og:url" content="http://www.daduru.com/index.php?rewritten=1&amp;custom=yes&amp;TID=pages-privacypolicy">
+<meta property="og:url" content="https://www.daduru.com/index.php?rewritten=1&amp;custom=yes&amp;TID=pages-privacypolicy">
 <meta property="og:title" content="Daduru.com | A leading web directory since 2007">
-<meta property="og:description" content="Daduru is a general web directory that accepts only quality links for the benefit of our users.">
-<meta property="og:site_name" content="Daduru.com">
+<meta property="og:description" content="Daduru is a leading web #directory since 2007! Add your business now!">
+<meta property="og:site_name" content="Daduru Web Directory">
 <meta property="og:type" content="website">
 
 </head>
-<body>
-<div id="topcontainer">
-<div class="logo"><a href="http://www.daduru.com"><img src="http://www.daduru.com/templates/images_white/newlogo.png" alt="Daduru.com"></a></div>
-<div align="right">
-<form action="http://www.daduru.com/search.php?filled=1&amp;condition=like&amp;whichtype=links" name="quicksearchform" method="post" style="margin: 0; padding: 10px 0 0 0;">
-<input type="text" name="search" size="30" id="searchauto">
-<button type="submit" class="gobutton"> Search</button>
-</form>
 
+<body>
+<header>
+<div id="topcontainer">
+
+<div class="floatleft">
+<div class="logobg"> </div>
+<div class="logo"><a href="https://www.daduru.com"><img src="https://www.daduru.com/templates/images_bootstrap/newlogo.png" alt="Daduru Web Directory"></a></div>
 </div>
+
+<div class="quicksearch largescreens">
+<form action="https://www.daduru.com/search.php?filled=1&amp;condition=like&amp;whichtype=links" name="quicksearchform" method="post">
+<span id="searchbox" class="searchboxcontainer">
+<input type="search" name="search" size="20" id="searchauto" class="searchbox" placeholder="Search listings">
+        <button class="btn btn-default gobutton searchboxbutton" type="submit">Go</button>
+<br><a href="https://www.daduru.com/search.php">Advanced Search</a>
+</span>
+</form>
+</div>
+
+
+
+
+<div id="toprightad"></div>
+
 </div>
 
 <div class="clear"></div>
-<div class="navbutton">
-<a href="http://www.daduru.com/newposts.php">Latest</a>
 
-<a href="http://www.daduru.com/register.php">Register</a>
-<a onclick="wsn_login(); return false;" href="http://www.daduru.com/index.php?action=userlogin">Login</a>
+<nav class="navbutton navbar navbar-default">
+<ul class="nav navbar-nav">
+<li><a id="mobilemenubutton">☰ Options</a></li>
 
+<li><a href="https://www.daduru.com/suggest.php?action=addlink">Get Listed</a></li>
 
+<li><a href="https://www.daduru.com/newposts.php">Latest</a></li>
 
-</div>
-<div class="main">
- 
-<div class="center">
-<div id="loginmarker" style="display: none;">
-<form action="http://www.daduru.com/index.php?action=userlogin&amp;filled=1" method="post">
-<input type="hidden" name="currentpageurl" value="http%3B%2F%2Fwww.daduru.com%2Findex.php%3Frewritten%3D1%26custom%3Dyes%26TID%3Dpages-privacypolicy">
-E-Mail:
-<input type="text" name="username" size="10" value="">
-Password:
-<input type="password" name="userpassword" size="10" value=""> <input type="submit" value="Login" class="button">
-&nbsp;&nbsp;&nbsp; <a href="http://www.daduru.com/register.php">Register</a> | <a href="http://www.daduru.com/index.php?action=userlogin">Forgot Password</a>
+<li><a href="https://www.daduru.com/register.php">Register</a></li>
+
+<li><a id="login" href="https://www.daduru.com/index.php?action=userlogin">Log In</a></li>
+
+</ul>
+</nav>
+
+<div class="clear"></div>
+
+<div class="bigpad" id="loginmodal" style="display: none;" title="Login">
+<form action="https://www.daduru.com/index.php?action=userlogin&amp;filled=1&amp;bypassredirect=1" method="post">
+
+<div class="warning" id="loginproblem"></div>
+Username<br><input type="text" name="username" id="loginname" class="giantinput"><br>
+Password<br><input type="password" name="userpassword" id="loginpassword" class="giantinput"><br>
+<button type="submit" id="loginsubmit" class="btn btn-default btn-lg bigbutton halfwide">Login</button>
+<a href="https://www.daduru.com/index.php?action=userlogin">Forgot your password?</a>
 </form>
 </div>
-</div>
+
+</header>
+
+<div class="main">
+
+
+
 
 
  <div id="content">
@@ -185,35 +200,51 @@ Password:
 	</div>
 </div>
 
-<div class="clear"></div>
-</div>
-<div class="footer">
-<a href="http://www.daduru.com/about.php">About</a> • <a href="http://www.daduru.com/search.php">Advanced Search</a> • <a href="http://www.daduru.com/contactform.php">Contact Us</a> • <a href="http://www.daduru.com/sitemap.php">Site Map</a> • <a href="http://www.daduru.com/terms.php">Terms and Conditions</a> • <a href="http://www.daduru.com/privacy.php">Privacy Policy</a><br><br>
-Copyright © 2007-2017 <a href="http://www.daduru.com/">Daduru Web Directory</a>. All rights reserved.<br><br>
-<a href="https://twitter.com/dadurudirectory" target="_blank"><img src="http://www.daduru.com/templates/images_white/twitter-icon.png" alt="Daduru on Twitter"></a>&nbsp;<a href="http://www.daduru.com/rssfeed.php" target="_blank"><img src="http://www.daduru.com/templates/images_white/feed-icon.png" alt="Daduru RSS Feed"></a>&nbsp;<div class="g-plusone" data-size="small"></div>
 
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
+
+
+<div class="clear"></div>
+
+</div>
+
+<footer class="footer panel-footer">
+ <a href="https://www.daduru.com/suggest.php?action=addlink">Get Listed</a> • <a href="https://www.daduru.com/newposts.php">Latest</a> • <a href="https://www.daduru.com/about.php">About</a> • <a href="https://www.daduru.com/contactform.php">Contact Us</a> • <a href="https://www.daduru.com/sitemap.php">Site Map</a> • <a href="https://www.daduru.com/terms.php">Terms and Conditions</a> • <a href="https://www.daduru.com/privacy.php">Privacy Policy</a><br><br>
+Directory last updated: Aug 12, 2018 -  8:41 AM<br><br>
+Copyright © 2007-2018 <a href="https://www.daduru.com/">Daduru Web Directory</a>. All rights reserved.
+<div class="socialicons">
+<a href="https://www.twitter.com/dadurudirectory" rel="nofollow" target="_blank"><img src="https://www.daduru.com/templates/images_bootstrap/twitter.png" alt="Daduru.com on Twitter"></a>&nbsp;
+<a href="https://www.daduru.com/rssfeed.php" target="_blank"><img src="https://www.daduru.com/templates/images_bootstrap/rss.png" alt="Daduru.com RSS Feed"></a>
+</div>
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79900-6', 'auto');
+  ga('send', 'pageview');
+
 </script>
-</div>
 
-<div class="clear"></div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f0c3fff64cf154f"></script>
+
 
 <script type="text/javascript">
 var sc_project=2444785; 
 var sc_invisible=1; 
 var sc_security="19ff968f"; 
-</script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="vBulletin
-stats" href="http://statcounter.com/vbulletin/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/2444785/0/19ff968f/1/"
-alt="vBulletin stats"></a></div></noscript>
-
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="site stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/2444785/0/19ff968f/1/" alt="site
+stats"></a></div></noscript>
 
 </body></html>
