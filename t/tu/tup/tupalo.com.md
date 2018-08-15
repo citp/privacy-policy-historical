@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213233532id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815095706id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Tupalo - Stuff In Your Neighborhood
 
@@ -14,7 +14,7 @@ By registering with and taking advantage of the Services that Tupalo offers, you
 
 ###  What Information We Collect 
 
-Tupalo collects information based on content submitted by users, such as full name and email address. Tupalo does not sell or share your email address with any third party companies or lists. By default, when you sign up for an account on Tupalo, we opt you in to receive emails from Tupalo, business owners and other Tupalo users. Email addresses are only displayed to the owning registered user when they are logged in and viewing their own profile. Never will Tupalo display your email address to another user visiting your profile, even when a mutually agreed friendship is present. 
+Tupalo collects information based on content submitted by users, such as full name and email address. Tupalo does not sell or share your email address with any third party companies or lists. Never will Tupalo display your email address to another user visiting your profile, even when a mutually agreed friendship is present. 
 
 Tupalo also collects user-submitted information such as city, state, zip and country. Your default location, entered as City and Country, is shared publicly via your personal profile by default, but can be disabled by editing your profile. 
 
@@ -30,21 +30,13 @@ We use third-party advertising companies to serve ads and collect information wh
 
 
 
-###  Other advertising partners 
-
-Some of our other advertising partners may also use cookies and web beacons on Tupalo.com, our advertising partners include: 
-
-  1. [HEROLD Business Data GmbH](http://www.herold.at/) (AT) 
-
-
-
 ###  How Personal Information Is Used 
 
 Your profile page, which may contain your first name, profile picture, display name and any personally identifiable information you have chosen to including is publicly accessible to any users of the Service Tupalo provides via the reviews and ratings you have contributed to Tupalo. If a person is mutually recognized as a friend, they will also have access to your personally created list of favorite locations. 
 
 Your first name or display name (if specifically set) and email address will be used when you send any form of email notification to a friend, such as private messages, friend requests and location recommendations. 
 
-Browser and system information, IP address and time-stamps help us to diagnose problems with our server(s), measure overall website performance and administer Tupalo, allowing us to provide you the highest level of Service possible. This information is commonly collected over the internet. 
+Browser and system information, IP address and time-stamps help us to diagnose problems with our server(s), measure overall website performance and administer Tupalo (fight spam, prevent fraud and abuse), allowing us to provide you the highest level of Service possible. This information is commonly collected over the internet. 
 
 ###  User-created Content 
 
