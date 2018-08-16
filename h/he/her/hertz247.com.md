@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624142137id_/https%3A//www.hertz.co.uk/rentacar/privacypolicy/index.jsp%3FtargetPage%3DprivacyPolicyView.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816043547id_/https%3A//www.hertz.co.uk/rentacar/privacypolicy/index.jsp%3FtargetPage%3DprivacyPolicyView.jsp) for the most accurate reproduction.*
 
 # None
 
