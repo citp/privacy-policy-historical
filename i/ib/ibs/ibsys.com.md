@@ -1,186 +1,182 @@
-> *The following text is extracted and transformed from the ibsys.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508103551id_/http%3A//www.ibsys.com/privacy-policy/25094946) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsys.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816094343id_/https%3A//www.lakana.com/privacy-policy.html) for the most accurate reproduction.*
 
-# LAKANA
+# LAKANA - Privacy Policy
 
-Internet Broadcasting Systems ("Company) is committed to safeguarding your privacy.  We use this privacy policy to clearly disclose to you our privacy practices in a manner that is easy to understand. If there is something you do not understand about our privacy practices, please feel free to contact [**legal@ibsys.com**](mailto:legal@ibsys.com) **.**
+**Last Modified:   January 13, 2017**
 
-This Privacy Policy describes the personal information that we collect from you, or that you provide on the internet sites owned by the Company, including [www.ibsys.com](http://www.ibsys.com/) and [www.channel4000.com](http://www.channel4000.com/).  This policy does not apply to information collected on any third party site that may link to or be accessible from any of our sites. We may change this policy from time to time so please check back often for updates or revisions.   By accessing or using our sites, you agree to this Privacy Policy and the collection and use of your personal information in accordance with this Privacy Policy.  Please keep in mind that some of the services mentioned specifically in this policy may not be available on the site at this time.
+  1.  **General  **
 
-What information does Company collect from you?
+Thank you for visiting [Lakana.com](https://web.archive.org/), which is operated by Nexstar Digital LLC, a Delaware limited liability company d/b/a Lakana (“Lakana”, “we”, “us”, or “our”). We respect the privacy of visitors to the [Lakana.com](https://web.archive.org/) website, mobile site, and mobile application (each a “Property” and collectively the “Properties”). Because we gather certain types of information from users of our Properties, we feel that you should know how we collect, use, disclose, manage and store such information. This privacy policy (“Privacy Policy”) describes, among other things, the types of information collected about you when you visit our Properties; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
-We collect information in several ways. Some of the information we collect is personal to you.  Other information is anonymous.  We collect the following categories of information:
+This Privacy Policy does not apply to any information you may provide to us offline or through any means other than our Properties. For example, this Privacy Policy does not apply to information that you provide to us at a live event, or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes or contest, or to any other instances in which we may collect information from you offline. This Privacy Policy also does not cover any information collected through any other site or application even if the other site or application is linked to our Properties.
 
-·        During registration, we ask for your name and email address
+Please read this Privacy Policy carefully so that you understand our online privacy practices. Your continued use of, and/or participation on our Properties, indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. By visiting our Properties, you agree that your visit and any dispute regarding our privacy practices is governed by this Privacy Policy and our Terms of Use.
 
-·        When you report a problem with our site or services we may collect contact information along with a description of your problem
+From time to time we may revise this Privacy Policy to reflect industry initiatives or changes in the law, our Personal Information collection and use practices, and/or the features of the Properties or technology. Your continued use of, and/or participation on, the Properties after we post a revised version of this Privacy Policy, signifies your acceptance of the revised Privacy Policy. Such modified Privacy Policy will be posted on this page. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
 
-·        When you contact us via the company email address, we may collect your contact information and any information you include in your email
+  2.  **Types of Information Do We Collect From You**
 
-·        Information you post in interactive areas of our website such as public forums
+We may collect information that individually identifies you (“Personal Information”). Personal Information may include but is not limited to: your name; physical address; phone number; e-mail address; or any combination of information that individually identifies you.
 
-·        To customize our service for you, we and our partners may collect precise location data, including the real-time geographic location of your computer or device.  This location data is collected anonymously in a form that does not personally identify you.  We may obtain your consent on your first use of the service
+We may also collect information that does not individually identify you (“Other Information”). Other Information may include but is not limited to: any combination of information that does not individually identify you; statistical and aggregated data on the specific pages you access or visit; or any information that is not otherwise defined as Personal Information.
 
-·        When you visit and navigate our sites, use our applications or third party sites, or open our emails, we may collect technical information about your use of our site including IP address, device identifier, and viewing information
+  3.  **Collection of Your Personal Information and Other Information**
 
-·        Information based on your social media preferences which you share with us, such as Facebook or Youtube.
+ _Information Provided Directly to Us._
 
-How do we collect information from you?
+We believe that we can enhance your experience on our Properties through the information you share with us. However, you may choose to enjoy some of the content and features on our Properties without directly providing us with any information about you; but, as described below, some information is automatically collected when you visit our Properties. In addition, in order for you to take advantage of certain features and services offered on our Properties, you may be required to provide us with Personal Information.
 
- _Direct Collection_
+The Properties provide certain activities in which we gather Personal Information from users of the Properties, such as an activity that requires that a user complete a registration process and receive/select a “user name” and password. Registration to participate in these Property activities may require the submission of your email address, zip code, date of birth and other Personal Information. Other Information and Personal Information that may be submitted include your password hints, gender, personal interests, industry you work in, occupation/role, household income, communication preferences, preferred news source, and any other information you provide to us in order to use a Property feature or service. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address. You may also provide us with photographs or video materials that contain Personal Information about you. In addition, you may have the ability to opt in to additional subscription services, such as email news alerts or promotional and marketing information to be received directly from our advertisers (those who pay us to place advertisements on our Properties) which may require you to provide certain Personal Information.
 
-We collect much of the information listed above directly from you when you submit it on our website.  This includes information such as registration information, contact information, user submissions, and public postings.  If you do not want to share your information, you can choose not to provide the information requested and not participate in a particular service or activity.
+We may collect Personal Information and Other Information from the testimonials or posts you may provide. If you submit any testimonials to be posted on our Properties, we will obtain your consent prior to using your name and testimonial.
 
- _Indirect Collection – Cookies and Other Technology_
+We may also collect Personal Information about you when such information is provided by another individual on your behalf (for example, if another individual submits a birthday notice with your name and email address). For certain activities you may be asked to submit a person’s name, address, phone number and/or email address.
 
-As part of offering and providing customizable and personalized services, many websites use cookies and other online tracking technologies to store and sometimes track information about you.  We may use these technologies to:
+ _Information Collected Automatically._
 
-·        Provide you with personalized content based on your use of our site
+In addition to the information that you may provide to us, our Properties also automatically collect Personal Information and/or Other Information about you that may include information related to your computer, including your browser type, operating system and computer monitor resolution; your Internet Protocol (IP) address (the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area); sites and/or applications you visited before and after visiting our Properties; web pages and advertisements you view; links you click on our Properties; unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law (provided that if we choose to implement such functionality, we will obtain your consent on your first use of the service); information collected through cookies, web beacons, and other technologies; information about your interactions with video content, such as the type of content viewed; information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded; and standard server log information.
 
-·        Enable you to more easily use our site by remembering and using contact information, purchasing information, and registration information
+ _Information Obtained from Other Sources._
 
-·        Evaluate, monitor and analyze the use of our site and its traffic patterns to help improve our site and services
+Where permitted by applicable law, we may also obtain Other Information (e.g. demographic information, interests, purchases, etc.) and/or Personal Information about you from other sources, including through interactive applications (such as mobile devices, third-party services, and embedded video players), from co-branded partners, from sites/applications (for example, on our pages on Facebook), and from commercially available sources (such as data aggregators and public databases).
 
-·        Assist us with ad reporting functions such as to learn which ads are bringing users to our website
+ _Combining Information._
 
-The types of technologies we use include:
+Please note that all of the information we collect about you may be combined, to help us tailor our communications to you and to develop rich online content and services across the Properties.
 
-·        Cookies.  A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Cookies enable us to identify your browser as a unique user.  Cookies may involve the transmission of information from us to you and from you to us.  Cookies may also be used by another party on our behalf to transfer information to us in accordance with their privacy policy.  Some cookies are "persistent cookies".  They are used by us each time you access our website.  Other cookies are called "session cookies".  Session cookies are used only during a specific browsing session.  We may use a session cookie, for example, to remember that you have already navigated through a particular menu, or that you have entered in age information for a portion of a site that is restricted by age.  We may also use "analytics cookies" that allow web analytics services to recognize your browser or device and, for example, identify whether you have visited our website before, what you have previously viewed or clicked on, and how you found us.  This information is provided anonymously for statistical analysis only. Analytics cookies are usually persistent cookies.
+ _Wireless Device Information._
 
- _You may disable browser cookies in your browser or set your browser to warn you when a cookie is being sent_.  You may lose some features or functionality when you disable cookies.  Remember, also, that disabling cookies is browser specific.  If you log on using Internet Explorer, you must also disable cookies in Safari if you use that browser at a different time. 
+Unless otherwise provided in a separate registration page, we do not request for marketing purposes, contact information for a mobile phone, text messaging or any wireless device that includes a domain name address (such as “wireless.bellsouth.com”) as part of the contact information. Federal law prohibits the sending of commercial marketing email messages directly to a wireless device that uses a domain name, unless you have first given your affirmative consent. We may inadvertently collect a wireless device number that includes a domain name when you send us an inquiry or register for a contest/sweepstakes or membership club. However, we will not knowingly use that contact information for sending commercial marketing email. We reserve the right to respond to user inquiries or requests sent via a wireless device that uses a domain name, as such messages are not deemed to be commercial marketing email.
 
-·        Web Beacons **.**   We also employ a software technology called a clear GIF (Graphics Interchange Format), also known as a pixel tag or Web beacon.  A clear GIF is a line of code that we place on our websites or in e-mails which allows us to analyze our advertising and the general usage patterns of visitors to our websites.  These help us better manage content on our site by informing us what content or promotions are effective.  Unless you consent, we do not collect personally identifiable information from you through the use of web beacons.  You may not disable Web beacons.
+  4.  **Cookies and Similar Technologies**
 
-·        Log Files.  Like most standard website servers, we use log files.  Log files track Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  We utilize this information to analyze trends, administer the site, prevent fraud, track website navigation in the aggregate, and gather broad demographic information for aggregate use.
+You should be aware that Other Information and data may be automatically collected on the Properties through the use of cookies, web beacons and other similar technologies. While the data collected through the use of such technologies does not contain Personal Information, once you choose to furnish our Properties with Personal Information, this information may be linked to the data stored in a cookie and such information may be used to personalize your experience with our Properties (for example, recognizing you by name when you return the Property), saving your password in password protected areas or enabling you to use shopping carts on our Properties. Web beacons and cookies may also be used to collect, aggregate and analyze anonymous tracking data to help measure and track traffic and general user behavior. We may also use such technologies to help us offer you more relevant information or products and services of interest to you. Cookies also identify you to our servers allowing you the opportunity to avoid reentering your email and password each time you access the Properties.
 
-·        Flash Cookies.  Flash cookies, also known as local shared objects, are used to store preferences such as video volume, or display content based on what you view on our site using the Adobe Flash Player.  Flash cookies are not stored through the browser.  Advertisers and third party service providers may use Flash cookies to collect and store information.  Information about disabling Flash cookies may be found at [www.adobe.com](http://www.adobe.com/).  If you disable Flash cookies, you may lose some features or functionality on our site.
+Our third party service providers, advertisers and affiliates may use cookies, web beacons and other similar technologies to manage or measure the performance of their information displayed or delivered over our Properties. For more information regarding this use, please see our “Links to Third Party Sites and/or Applications” section below.
 
- _Indirect Collection – Social Networking_
+We may also use technical methods in our HTML emails that we send to you to determine whether you have opened or forwarded an email and/or clicked on links in those emails, to customize the display of banner advertising and other messages to you, to determine whether you have made an inquiry or purchase in response to a particular email and other similar activities. These technical methods may enable us to collect and use your Personal Information.
 
-The website permits you to use a third party social networking platform such as Facebook, Twitter, and Google+.  This includes use of social media plugins such as Facebook “Like”, Tweet, Google “+1” buttons, etc.  When you use these social networking platforms and plugins, your username and password collected from you on these services and other available information may be shared with us.  When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to disclosure of such information.  In addition, they may be able to collect information about you, including your activity or may notify your connections on the social networking platform about your use of the Company's websites.  Such services may allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising.  Please note that their own privacy polices apply and we encourage you to read them.  We may add new social networking plugins and buttons to our websites from time to time.
+  5.  **Social Networking**
 
- _Indirect Collection – Third Party Advertising Services_
+You can also engage with our content, such as videos, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, Twitter and other third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins, and/or applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo(s), gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the “likes” you make) to deliver the content or as part of the operation of the application or plug-in. We may also obtain Other Information (e.g., content viewed, game performance, high scores, and information regarding advertisements within the content you have been shown and may have clicked on) from your interaction with our content.
 
-The third party services we use to manage these technologies include DoubleClick.  For more information about the practices of these companies or to decline cookies from these third-party ad servers you may visit their websites directly at <http://www.google.com/intl/en/policies/privacy/>.
+When you provide Personal Information and/or Other Information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Properties, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our Privacy Policy. When you provide Personal Information and/or Other Information to us through an application, on our Properties, or on social networking sites (e.g., in the form of a post or through profile information to be viewed by others), it may be publicly viewed by other members of these sites and/or applications and we cannot prevent further use of the information by third parties.
 
-How do we use your information?
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your Personal Information, please refer to their privacy policies and terms of use.
 
-Our main goal in collecting information is to improve the site and provide you with the best possible experience on the site.
+  6.  **Our Use of Your Information**
 
-We will also use your personal information to:
+We use your Personal Information and Other Information, to provide you with features, services or goods, or information you request, to respond to your questions or comments related to us or the Properties, and to enable you to participate in features such as surveys, polls, contests/sweepstakes, activities, and message boards. We also use your Personal Information and Other Information to notify you about updates, new features, programming and promotions that may be of interest to you. We may use your Personal Information and Other Information collected, to communicate with you when you have won a contest or sweepstakes, or to contact you about your account with us. We use the Personal Information and Other Information that you provide about others to enable us to send them your gifts, cards, or emails you may wish to send from our Properties.
 
-·        Notify you of other products or services available from Internet Broadcasting, Channel 4000 and our affiliates
+We may use your Personal Information and Other Information for hiring, operational and business purposes, or to find out how we can improve our company and Properties via surveys or online tracking mechanisms. We may use aggregated Personal Information and Other Information collected directly during the registration process and/or via cookies, web beacons, and other similar technologies to help us evaluate and modify existing services and features, as well as provide demographic and geographic information to advertisers. We may also use your Personal Information and Other Information to develop new services and features that may be of interest to you.
 
-·        Deliver email newsletters and alerts
+We may use the Personal Information and Other Information you provide about yourself or others to enforce the legal terms of use for our Properties and for any other purpose for which you provided the information.
 
-·        Personalize online content so that is applies to youand your interests
+If you choose to submit content for publication, we may publish your screen name and/or other data you have provided.
 
-·        Provide you with advertising targeted to your interests
+Although we hope you find the content we provide to you through our Properties to be useful, you may always opt out of receiving communications from us by changing your privacy preferences in your member profile, or by deleting your profile from our database. Please see the opt-out procedures in “Your Choices Regarding Your Personal Information and Receipt of Communications” section set forth below for more information.
 
-·        Make our products, services, and website better
+  7.  **Our Disclosure of Your Information**
 
-·        Compile, analyze and do research on our users demographics and behavior
+We may share information, including your Personal Information and Other Information, with our affiliates, service providers and advertisers. We may also disclose your Personal Information in response to a court order or subpoena, in response to a law enforcement agency request; when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or to anyone that could be harmed by such activities; in situations involving threats to the physical safety of any person; where it is necessary to investigate, prevent or take action regarding illegal activity or suspected fraud; or as otherwise required by law. We may transfer Personal Information and Other Information about you if we are acquired by, sold to or merged with another company.
 
-  * Detect, investigate and prevent activities that may violate our policies or be illegal
+Our agents and contractors who have access to your Personal Information and Other Information are required to protect the information in a manner consistent with our Privacy Policy and may not use the information for any other purposes other than to carry out the activity they are performing on our behalf. However, with your consent, we may disclose your Personal Information and Other Information to third parties who are not covered by this Privacy Policy (e.g., marketers, retailers, non-profit organizations, participatory databases) that want to market products or services to you.
 
+When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotion, your Personal Information may be disclosed to sponsors and third parties who help administer the promotion, including in connection with winner selection and prize fulfillment. Your Personal Information also may be disclosed as required by law, such as on a winners list. Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing the sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law.
 
-  * Legal compliance.
+Our Properties may offer shopping services, which may be offered by us or by a firm that operates a store under contract with us. If our Properties offer shopping or other commercial services, you will be asked to use a customer order form to request information, products, and services. The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age).  We will use the financial information that you provide to bill you for products and services. By giving us your credit card and related Personal Information, you are authorizing our store to give that information to the merchant and the credit card company in order to confirm and fulfill your order.  We will use contact information from the order form to fulfill your orders. We may also use contact data to get in touch with you when necessary. We will not otherwise use or distribute your financial information without your prior approval. 
 
+We and our Properties continue to expand our online presence in order to offer users rich and deep interactive experiences. We may share information we collect about you through our Properties so that we can provide you with information about products and services that might interest you.
 
+We may share aggregated or anonymized data with third parties. This information cannot be used to individually identify you. Much of the information we collect is in the form of aggregated statistics, such as the traffic generated by visits on various pages within our Properties, and the habits and preferences of our audience. Such aggregated data does not include any information that would identify you personally. We may use such aggregated data and disclose it to third parties as we see fit.
 
-Who is collecting information?
+If you have signed up to receive our emails and prefer not to receive marketing information from our Properties, follow the unsubscribe instructions provided on any such email you receive from our Properties.
 
-Except as provided in this Privacy Policy, only Internet Broadcasting, Channel 4000, and our affiliates and service providers will have access to your personal account information. When you are on our site or applications and are asked for personal information, you are sharing that information with Internet Broadcasting, Channel 4000, and our affiliates and service providers.  If personal data is to be collected and/or maintained by any company other than Channel 4000, Internet Broadcasting,  or our affiliates and service providers, we will try to notify you on the website or in an updated version of this Privacy Policy.  If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+This Privacy Policy addresses only our use of information we collect from you online. It does not apply to information you choose to disclose to other parties whether through chat rooms, forums, personal ads or interactive areas of our Properties that allow you to submit or post your own content or the like. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety. Accordingly, information you disclose on message boards, in chat rooms and forums, through content you provide or in any other way can be viewed, collected and/or used by others and we are not responsible for information you disclose in this manner.
 
-Other websites to which we link may collect personally identifiable information about you when you visit those sites.  The information practices of other websites linked to our websites are not covered by this Privacy Policy.
+  8.  **Links to Third Party Sites and/or Applications**
 
-With whom does Company share my information?
+We may sometimes offer content that is sponsored by or co-branded with identified third parties. The Properties may also contain links to the sites and/or applications of third parties not affiliated with us, such as advertisers. If you click on an advertiser’s advertisement, you will link to the advertiser’s site and/or application.
 
-Except as provided below, we will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below.  These are some of the ways that your information may be disclosed:
+Once you leave our Properties via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties, advertiser site, or application to determine how they will handle any information they collect from you. You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by us. We are NOT responsible for the privacy practices or the content on any of these other sites or applications, including any sites or applications that may indicate a special relationship or “partnership” with us. If you decide to access any of the third-party sites or applications linked to the Properties, you do so entirely at your own risk.
 
- _Service Providers_
+  9.  **Your Choices Regarding Your Personal Information and Receipt of Communications.**
 
-We occasionally hire other companies to provide services on our behalf, including packaging, delivering or mailing, website development and operation, answering customer questions about products or services, sending postal mail or email, analyzing website use, processing payments, providing investor information and processing data.  We will only provide those companies the information they need to deliver the service, and they are contractually prohibited from using that information for any other reason.
+We respect your privacy and your ability to choose what information you share with us and what communications you receive from us.
 
- _Data in the Aggregate_
+ _Personal Information._
 
-We may disclose “blinded” aggregated data and user statistics to prospective partners and other third parties.  Blinded data is data that does not identify an individual person.
+You may elect not to provide us with any Personal Information by not creating an account on the Properties or registering for any Property sponsored promotion, contest or sweepstakes, etc. To the extent that you have created an account and/or registered on the Properties, but wish to remove or modify your Personal Information contained in our database, you may delete or modify your account profile at any time (if applicable), or send an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) with your specific request to disable your account profile or modify/delete your Personal Information.
 
- _Other_
+If you ask us to disable your account profile or modify/delete your Personal Information, we will satisfy such request within a reasonable period of time. However, we may need to retain some information about you in order to satisfy our legal and security obligations. For example, some of your Personal Information may remain in back-up storage even if you ask us to delete it.
 
-We also may disclose your information in special cases.  For example, when we believe that we must disclose information to identify, contact or bring legal action against someone who may be violating our Terms and Conditions of Use, or may be causing injury to or interference with our rights or property, other website users or customers, or anyone else who may be harmed by such activities.  We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service and improve our products and services.
+ _Testimonials._
 
-As we continue to develop our business, we may buy or sell businesses or assets.  In such transactions, confidential customer information generally is one of the transferred business assets.  In the event of a transaction involving the sale of some or all of Company’s businesses, customer and site visitor information may be one of the transferred assets and may be disclosed in connection with negotiations relating to a proposed transaction.  In such case, the transferred information may become subject to a different privacy policy.
+You may elect not to provide us with any testimonials by not submitting such testimonial. To the extent that you have submitted a testimonial, you may modify or delete your testimonial at any time by sending an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) with your specific request to modify/delete your testimonial.
 
-How can I control my personal information?
+ _Discontinuing Receipt of Lakana Communications._
 
-We offer our customers choices for the collection, use and sharing of personal information.  You may contact us at [legal@ibsys.com](mailto:legal@ibsys.com) if you wish to delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request **.  **
+If you receive any communication from us that you prefer not to receive (e.g., e-mails, text/voice messages, or push notifications), you may elect to discontinue receipt of such communications from us.
 
-If you believe that any inaccurate or inappropriate information has been obtained or provided to others through your use of this website, you should contact a representative of Company at [legal@ibsys.com](mailto:legal@ibsys.com).
+To discontinue receipt of future e-mail communications from us, you may modify your contact options in your account profile (if applicable), follow the unsubscribe instructions contained in any email communication, or send an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) requesting that e-mail communications be discontinued. However, even if you unsubscribe from receiving email communications, we still may need to send you communications relating to your use of our Properties, such as service announcements.
 
-What security precautions are in place to protect against the loss, misuse, or alteration of my information?
+To discontinue receipt of text and/or voice messages, you may do so by following the instructions contained in any such message (e.g., texting “STOP” in response to a text message). In certain instances, you may receive one additional message confirming your request has been received. In addition, you may text “HELP” for help with text messages. If you are still having problems regarding text and/or voice messages, you can send an email to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv). Neither Lakana, its agents nor mobile carriers are liable for delayed or undelivered messages.
 
-Because information sent through the Internet travels from computer to computer throughout the world, when you give us information, that information may be sent electronically to servers outside of the country where you originally entered the information.  Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.  Except as specifically stated, this site does not use security encryption measures.  Information that you disclose by use of this site (as with any site that is non-secure), by posting a message or using e-mail, potentially could be collected and used by others.  This may result in unsolicited messages from third parties or use of such information by third parties for their own purposes, legal or illegal.  As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our services, and you do so at your own risk.  Once we receive your transmission, we use commercially reasonable efforts to ensure its security on our systems.
+To discontinue receipt of push notifications, please adjust the settings on your mobile device or within our application.
 
- **Links to Other Websites**
+ _Sharing of Personal Information._
 
-Our site may contain links to other websites.  Each of these linked websites maintains its own independent privacy policies.  We do not control and are not responsible for the privacy policies or the content of those websites.  When you leave our site and access websites of third parties, the privacy policies of the parties maintaining those websites shall control and we shall have no responsibility for the content or privacy practices of any third party website. 
+If you do not want your Personal Information shared with third parties in the manner discussed in “Our Disclosure of Your Information” section above, please notify Lakana by e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) or at the following address:
 
- **Disclaimer of Liability**
-
-Under no circumstances shall we be liable for any damages, including, but not limited to, direct, indirect, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user’s accessing our site, even if we have been advised of the possibility of such damages. 
-
- **Changes to Our Privacy Policy**
-
-It is our policy to post any changes we make to our privacy policy on this page and our site’s home page. If we make material changes to this privacy policy, we will notify you through a notice on our home page or by         e-mail. The date the privacy policy was last revised is identified at the top of the page.
-
-Choice/Opt-out
-
-To ensure that you will not receive recurring marketing or other information from us unless you choose to, we will provide you with simple instructions on each marketing email from Company for you to let us know that you have chosen to stop receiving such emails from us.
-
-What else should I know about my privacy?
-
-Please keep in mind that whenever you voluntarily disclose information online, that information is accessible to other customers and users.  Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information.  Please be careful and responsible whenever you are online.
-
-When you or we end your customer relationship with us, we will treat the information we have about you as if you were still our customer.
-
- **Your California Privacy Rights**
-
-California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to or write us: [legal@ibsys.com](mailto:legal@ibsys.com) email, or you may contact us via regular mail at:
-
-Internet Broadcasting
-
-Privacy Coordinator
-
-355 Randolph Ave
-
+LAKANA  
+Privacy Coordinator  
+355 Randolph Ave, Suite 100  
 St Paul, MN 55102
 
-Make sure to state that you are a California Resident.
+ _Do Not Track._
 
- _Do Not Track_
+We support the Do Not Track browser setting. When you have Do Not Track enabled in your browser, we will not collect browser-related information about you. For more information regarding Do Not Track, including how to turn on Do Not Track, visit [www.donottrack.us](http://www.donottrack.us/). We encourage users who are interested in limiting the information we collect to search online for tools and services (e.g., NAI’s consumer opt-out gateway or the Google Analytics Opt-out Browser Add-on) to prevent or opt-out of collection.
 
-Do Not Track (DNT) is a privacy preference that users can set in their web browsers. DNT is a simple way for users to inform web services that have been integrated across the Internet (such as buttons, widgets, and other embedded features or content) that they do not want certain information about their webpage visits collected and shared across websites.
+ _Cookies_
 
-The DNT browser setting is only supported by recent versions of major browsers, including Firefox 5+, Internet Explorer 9+, Safari 5.1+, and Chrome.
+If you do not want information collected through the use of “cookies” there is a simple procedure in most browsers that allows you to deny or accept cookies. You may set your browser to accept all or certain cookies, block all or certain cookies, or require your consent before accepting a cookie. Blocking our cookies will affect your online experience and may prevent you from experiencing certain features of our Properties.
 
-When you turn on DNT in your browser, we stop collecting the information that allows us to tailor suggestions based on your recent visits to websites that we interactive with. We also stop collecting the information that allows us tailor ads on your visits to our ad partners’ websites. Specifically, we stop collecting the unique browser cookie that links your browser to visits to these websites for tailoring suggestions or ads.
+  10.  **Reviewing or Correcting Your Personal Information**
 
-Web browsers that enable DNT provide instructions on how to enable DNT.  Search for instructions in their help section.  
+If you’ve created a password protected account within our Properties, you can access that account to review and update the Personal Information you provided. You may also update or amend your information by sending an email to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv). We will provide you with a list of your Personal Information within thirty (30) calendar days from receipt of your request. There may be certain instances in which we may not be able to provide the Personal Information, such as when access would violate the privacy of another individual or when access is prohibited by law.
 
- _Enforcement/Redress_
+  11.  **Your California Privacy Rights**
 
-If for some reason you believe that we have not adhered to this Privacy Policy, please notify us at [legal@ibsys.com](mailto:legal@ibsys.com).  We will do our best to respond to your concerns and, when appropriate, take steps to correct a problem.
+California law allows California residents, once a year and free of charge, to request information about certain types of Personal Information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you that you have the right to prevent disclosure of Personal Information, and (2) provide you with a cost-free means to exercise that right. If you are a California resident and you would like to prevent disclosure of your Personal Information for use in direct marketing by a third party, do not opt in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to discontinue our disclosure of your Personal Information to third parties for their direct marketing purposes, please notify Lakana to discontinue such disclosure, by e-mail to legal@lakana.com or at the following address:
 
-Who do users contact with questions or concerns about our Privacy Policy?
-
-If you need further assistance, please send an e-mail with your questions or comments to [legal@ibysys.com](mailto:legal@ibysys.com) or write us at:
-
-Internet Broadcasting
-
-355 Randolph Ave
-
+LAKANA  
+Privacy Coordinator  
+355 Randolph Ave, Suite 100  
 St Paul, MN 55102
 
-Copyright 2014, Internet Broadcasting Systems,
+Additionally, if you are a California resident under the age of 18, and a registered user of any Property where this Privacy Policy is posted, you may request and potentially obtain removal of content or Personal Information you have publicly posted. To make such a request, please send an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv). All requests must provide: (a) a detailed description of the specific content or Personal Information you want removed; (b) information reasonably sufficient to permit us to locate the content or Personal Information, including but not limited to the name and URL (if applicable) of the Property where such information is located; and (c) your registered username and contact information reasonably sufficient to contact you if we have questions. We shall not accept requests via postal mail, telephone, or facsimile. We are not responsible for requests that are not properly sent, and may not be able to respond or take appropriate action if you do not provide complete information. Please also note that requests for removal do not ensure removal of the content or Personal Information you have posted, and there may be circumstances in which the law does not require or allow for removal even if requested.
 
-All Right Reserved
+  12.  **Security of Information**
+
+We take reasonable security precautions to secure the Personal Information that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us. Any such transmission is done at your own risk.
+
+We do not and will not ever request your login information, password or credit card information in an unsecured or unsolicited email or telephone communication. This practice is commonly known as “phishing.” For more information about “phishing” and protecting your Personal Information from identity theft, you may want to visit the Federal Trade Commission at [www.ftc.gov](http://www.ftc.gov/).
+
+  13.  **Our Commitment to Children’s Privacy**
+
+Our Properties are intended for a general audience and we do not knowingly collect or store Personal Information about children under the age of 13. We may ask for a birth date to ensure that we are not collecting Personal Information from children under 13 or to identify when additional steps may need to be taken in connection with Personal Information collected from children under 18. In those instances where we have actual knowledge that we are collecting Personal Information from children or the Properties offer a service directed toward children, we will comply with applicable laws.
+
+  14.  **Applicable Law**
+
+We control and operate our Properties from the United States. The Properties are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Properties are appropriate for use in any particular jurisdiction. Those who choose to access the Properties do so at their own initiative and are responsible for complying with all applicable laws, rules and regulations. Further by using and participating in our Properties or providing us with your information, you consent to the collection, transfer, storage, access and processing of your information in and/or outside of the jurisdiction in which you reside.
+
+  15.  **Updates**
+
+This Privacy Policy is effective as of January 13, 2017. Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion. All changes will be promptly posted on this page, with an updated “effective date.” Your continued viewing, browsing, use or access of the Properties following our posting of an updated Privacy Policy will constitute your binding acceptance of those changes.
+
+  16.  **Contact Information**
+
+If you have any questions or comments about our Privacy Policy please contact [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv).
+
+
+
