@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607184043id_/http%3A//filefactory.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816021245id_/http%3A//www.filefactory.com/legal/privacy.php) for the most accurate reproduction.*
 
 # FileFactory
 
@@ -6,7 +6,7 @@ Effective Date:  **December 1, 2014**
 
 #### 1\. ACCEPTANCE OF TERMS
 
-This site is owned and operated by FileFactory Cloud Storage Limited ("we", "us").
+This site is owned and operated by FileFactory Cloud Storage LLC ("we", "us").
 
 We are committed to respecting your privacy, and that of our customers, visitors, and other users of FileFactory.com ("Site"). We created this Privacy Policy to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy.
 
