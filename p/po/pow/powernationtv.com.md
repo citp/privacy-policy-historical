@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the powernationtv.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328230220id_/http%3A//www.powernationtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powernationtv.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816024254id_/https%3A//www.powernationtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PowerNation TV
-
-## Privacy Policy & Legal Disclaimer
-
-* * *
+# Privacy Policy
 
 Your right to privacy is very important to RTM Productions, LLC (“RTM”). We are committed to helping you maintain control over your personal data while fostering the growth of a more interactive, engaging, and personalized web and wireless experience. RTM respects your right to control how much information you provide about yourself. The following Privacy Policy (this “Policy”) describes how RTM collects, protects, and uses information we receive from visitors to our web sites, including PowerBlocktv.com, PowerNationTV.com, and RTMTV.com (the “Site(s)”), and from users of our wireless services via cellphones or other wireless devices (the “Service(s)”). By using one of our Sites or Services, you agree to the terms of this Policy. This Policy applies only to information collected through our Sites and Services and not to information collected offline.
 
@@ -113,11 +109,9 @@ By using one of our Sites or Services, you signify your agreement to the terms o
 
 Please bear in mind that we may change the content or design of any of our Sites or Services and, consequently, this Policy at any time in the future. Notice of any revisions to this Policy will be posted to this page and on the homepage of each of our Sites, so please revisit this page from time to time to ensure that you are aware of any changes to this Policy.
 
-RTM welcomes comments and questions about this Policy and about any of our Sites or Services. We are dedicated to protecting your personal information while providing a robust and friendly web environment. Any comments or questions regarding RTM's electronic information privacy practices may be directed to our Webmaster at [info@rtmtv.com](mailto:info@rtmtv.com).com. You may also send a letter to:
+RTM welcomes comments and questions about this Policy and about any of our Sites or Services. We are dedicated to protecting your personal information while providing a robust and friendly web environment. Any comments or questions regarding RTM's electronic information privacy practices may be directed to our Webmaster at [info@rtmtv.com](mailto:info@rtmtv.com).com. You may also send a letter to: 
 
-  * RTM Productions, LLC
-  * 130 Southeast Parkway Court
-  * Franklin, TN 37064
-  * 615-503-9700
-
-
+RTM Productions, LLC   
+130 Southeast Parkway Court   
+Franklin, TN 37064   
+615-503-9700 
