@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homehardware.ca privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213053251id_/http%3A//homehardware.ca/en/index/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homehardware.ca privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817015916id_/https%3A//www.homehardware.ca/privacy) for the most accurate reproduction.*
 
-# Home Hardware - Privacy
+# Privacy Policy Home Hardware - Home Hardware
 
 At Home Hardware Stores Limited we understand the importance of your personal privacy. We have instituted policies and procedures to ensure that any personal information you provide to us, as a result of our relationship with you, will be treated with the utmost care and respect. We will treat your personal information just as carefully as we would treat our own. Please take a moment to review our privacy commitment to you.
 
@@ -8,9 +8,11 @@ At Home Hardware Stores Limited we understand the importance of your personal pr
 
 Home Hardware Stores Limited collects personal information about individuals in order to better manage its relationship with them. When you participate in our national marketing programs or customer surveys we require certain personal information to fulfil our commitment to you.
 
-## 2\. WE WILL ONLY OBTAIN THE INFORMATION WE NEED
+We may also track your use of Home Hardware Stores Limited website using common tools including cookies, google tag manager and floodlights. This helps us analyze the effectiveness of our advertising, and help us determine the correct assortments and services desired by our customers to so we can serve your better. 
 
-Home Hardware Stores Limited will only collect information that is pertinent and necessary to manage your relationship with us. We will limit the collection and use of personal information to that which is required for valid business purposes, or to comply with legislation.
+## 2\. COLLECTION OF YOUR PERSONAL INFORMATION
+
+Home Hardware Stores Limited will only collect information that is pertinent and necessary to manage your relationship with us. We will limit the collection and use of personal information to that which is required for valid business purposes, or to comply with legislation. We may ask for optional additional personal information to better target our marketing to suit your preferences.
 
 ## 3\. HOW WE COLLECT YOUR PERSONAL INFORMATION
 
@@ -44,6 +46,8 @@ Home Hardware Stores Limited will keep your personal information as accurate, co
 
 Home Hardware Stores Limited utilizes safeguards designed to protect the confidentiality and security of your personal information. Appropriate safeguards will also be used when we destroy your personal information.
 
+Some or all of the personal information we collect may be stored or processed on servers located outside your jurisdiction of residence, including in the United States, whose data protection laws may differ from the jurisdiction in which you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions.
+
 ## 9\. YOUR RIGHT TO ACCESS
 
 Home Hardware Stores Limited supports your right to access personal information that we have collected about you. To make a request for access to your personal information we have on file, please contact our Privacy Officer.
@@ -64,4 +68,6 @@ Or by calling 519–664–4655
 
 ## **A NOTE ABOUT OUR DEALERS**
 
-Home Hardware, Home Hardware Building Centres, Home Building Centres and Home Furniturestores are owned and operated by a member of your community. If you have a privacy concernrelating to your relationship with one of our Stores or would like a copy of its individual PrivacyStatement, please contact the Store directly. For a complete listing of our Stores and their phone numbers, please [click here](https://web.archive.org/en/index/store-locator.htm "Store Locator").
+Home Hardware, Home Hardware Building Centres, Home Building Centres and Home Furniture stores are owned and operated by a member of your community. If you have a privacy concern relating to your relationship with one of our Stores or would like a copy of its individual Privacy Statement, please contact the Store directly. For a complete listing of our Stores and their phone numbers, please [click here](https://web.archive.org/store-locator "Store Locator")[.](https://web.archive.org/store-locator)
+
+Updated June 17, 2018
