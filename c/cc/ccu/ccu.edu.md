@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccu.edu privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319150220id_/http%3A//www.ccu.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccu.edu privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816162522id_/https%3A//www.ccu.edu/privacypolicy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Colorado Christian University
 
@@ -36,4 +36,4 @@ We reserve the right to change this Privacy Policy without providing you with ad
 
 ### Contact Us
 
-If you have any questions about our privacy policy, please contact us via mail or phone listed on our site on our [Contact Us](https://web.archive.org/web/20180319150220id_/http://www.ccu.edu/about/contact/ "Contact Us") page.
+If you have any questions about our privacy policy, please contact us via mail or phone listed on our site on our [Contact Us](https://web.archive.org/web/20180816162522id_/https://www.ccu.edu/about/contact/ "Contact Us") page.
