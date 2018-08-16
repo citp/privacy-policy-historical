@@ -1,163 +1,320 @@
-> *The following text is extracted and transformed from the knowhow.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719030709id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowhow.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816023830id_/https%3A//www.teamknowhow.com/about/privacy-policy) for the most accurate reproduction.*
 
-# KNOWHOW | Privacy & Cookies
+# Privacy Policy | Team Knowhow
 
-##  Complete Cookie Knowhow
+If you want to opt-out of marketing please submit your request [here](https://dixonsregistration.co.uk/permoptout/?referrer=6).
 
-When you are browsing websites on the internet, many of these websites store tiny text files called cookies on your computer, to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site.
+## Introduction
 
-Knowhow.com is no different, we use cookies to help you shop our website more effectively and to place online orders - we do not store personally identifiable information in our cookie data. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too.
+This Privacy Policy helps you understand what Personal data we collect, why we collect it, what we do with it and the choices you have, including how to access and update information.
 
-Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this.
+Our policy applies to you if you use our products or services in store, over the phone, online, through our mobile applications or if you use any of our websites or interact with us on social media (our “Services”).
 
-**Please be aware** that disabling cookies on your browser will reduce your ability to use Knowhow.com. We use cookies in various ways on our website that may stop the site from working fully when you disable them. This would also be a common experience of reduced functionality across many websites.
+Back to top ^
 
-Learn how to change the cookie settings for your browser on our Knowhow to Control Cookies link.
+## Who we are
 
-Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at Knowhow fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
+Team Knowhow is a trading name of DSG Retail Limited (referred to using “We”, “Us”, “Our” or the “Company”) is a company registered in England and Wales (Company registration number: 504877) and is part of the Dixons Carphone group of companies. Dixons Carphone is Europe's leading specialist electrical and telecommunications retailer and services company, employing over 42,000 people in nine countries. We pride ourselves on giving our customers simple and independent advice on which electronic and technology products are right for them.
 
-##  Knowhow we use Cookies...
+Our primary brands are [Currys PC World, Dixons Travel and Team Knowhow].
 
-We want to make sure you are fully aware of the cookies we use and what they do when you are shopping on Knowhow.com.
+Back to top ^
 
-Here is a full guide to our cookies explaining the name of the cookie as it would appear on your computer, a description of what the cookie is used for and a rating from our technical teams on level of information held:
+## Your Security
 
-Cookie Name |  Description of the cookie and its purpose  
----|---  
-Google Analytics (_utXX) |  We use Google Analytics to help provide us data about the way our customers use our websites to improve your experience. Google Analytics cookies record visitors, city locations, browser type and site journey. Google Analytics cookies do not record personal information. For a full description of Google's use of cookies please visit:
+When you shop with us or use our services, you trust us with your data. We’re a company that puts you, our customer, first, respecting you as an individual but also as a member of our community. We listen to our customers to understand your expectations and make sure these are reflected in our business decisions. We’re committed to maintaining your trust and confidence. In this Privacy Policy, we’ve provided details on when and why we collect your personal information, how we use it, the very limited conditions under which we may disclose it to others (where direct marketing is concerned only with your explicit permission) and how we keep it secure.
 
-<http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>  
-  
-Omniture (s_vi) |  This is a cookie we deploy for our analytics through Adobe Omniture. The cookie deploys on your computer and generates a unique ID for us to measure visits and site journeys through Knowhow.com. This cookie does not collect any personally identifiable information.
+Back to top ^
 
-Omniture's privacy statement can be found at the below address:
+## Information We Collect
 
-<http://www.omniture.com/en/privacy/policy>  
-  
-Google Services (NID, PREF, HSID, SSID, APISID, SAPISID, SID) |  Google services such as Google Maps, Google+ and Google Accounts deploy cookies to measure usage and interaction with their services on our site where we deploy some of their services such as Google Maps. These cookies do not contain any personally identifiable information and are used to measure usage and enhance personal experience of the tools. The cookies are not permanent and more details on the Google usage of cookies can be found below:
+We collect personal information about you when you visit one of our stores, use our Websites (“Websites”), or use our web or mobile device applications (“Mobile Apps”) or if you communicate with us by phone, e-mail and social media. We refer to our Websites and Apps collectively as “Online Services”.
 
-<http://www.google.com/intl/en/policies/privacy/>  
-  
-Knowhow (knowhow_ratedPages) |  This is a cookie we deploy from Knowhow.com for use when a visitor chooses to rate one of our articles in the knowledge bank. The cookie is stored on your machine to recall your rating of an article. It contains no personally identifiable information.  
-Knowhow (sitemap-collapsed) |  This is a cookie we deploy from Knowhow.com that remembers the state of certain interactive features of the website during your session such as the expanded services menu in the footer. It only persists during the duration of your session and contains no personally identifiable information.  
-  
-These are all the cookies currently used by our website and our approved suppliers. Hopefully it is clear that all of our cookies are used ultimately to improve the journey for our customers online or to help us present a better website experience online.
+The types of personal information we collect includes:
 
-If you feel you would like to change your personal interaction with cookies, you can adjust storage of cookies settings through your web browser by checking out our Knowhow to Control Cookies link.
+  * Personal details such as your name, address, date of birth, email address, phone number and other contact information Transaction information, such as the product you purchased, its price, your method of payment and your payment details. 
+  * Information about you like your employment details, financial position and information taken from identification documents like your passport or driving licence when we review your application for insurance or loans offered by selected third parties partners.
+  * Your account information – such as dates of payments owed and received, the subscription services you use or any other information related to your account.
+  * The phone numbers that you call/send messages to or the phone numbers that you receive calls/messages from.
+  * The date and time of the calls and messages you send or receive through our network, and your location at the time these communications take place.
 
-**Please be aware** disabling cookies will severely limit your ability to use Knowhow.com and disable features of many websites across the internet.
 
-Back to top
 
-##  Knowhow to Control Cookies
+When you’re online the information we collect includes:
 
-Cookies should be enabled by default on your browser, so if you have not changed your settings you should expect to be accepting cookies from websites.
+  * Account information, like your username, password, and other identifiers or credentials you use to access our online services or to buy our products and services, details of your shopping preferences, such as your favourite brands and products, as well as which of our stores you prefer to shop in.
+  * Details of your visits to the Website, in-store WIFI or App and the resources that you access. Examples include ads that you click, device information and your location.
+  * IP address and cookie data.
+  * Information that you provide in your dealings with us. This includes when you register to use our online services, or when you subscribe to our services or request further services and/or information from us.
 
-Cookies being disabled will limit your experience of Knowhow.com and many other websites online. Remember, cookies are not harmful to your computer and our cookies on Knowhow.com do not contain any personally identifiable information. If you wish to change your cookie settings we have provided a guide below for you. **Please remember** , if you do disable your cookies, you can allow cookies from certain approved websites, by adding the website homepage to your exceptions list.
 
-First, find out what your default web browser is on your machine, or the browser you use most often to access the internet. To work out what browser you are using, simply open the internet as usual, and then follow the steps below:
 
-**PC Users**
+The situations when you provide personal information could include when you:
 
-On the tool bar at the top of your browser click 'Help' and choose the 'About' option from the drop down. This will tell you the browser type and version.
+  * Purchase products at our stores or through our contact centre.
+  * Register or use our Online Services.
+  * Request to receive marketing or other communications.
+  * Use our Wi-Fi networks or other in-store tech.
+  * Enter one of our competitions or when you complete one of our customer surveys.
+  * Submit information when you’re providing feedback.
+  * Use interactive features of our Online Services.
 
-**Mac Users**
+Back to top ^
 
-Open the internet as usual and once open, click on the Apple icon in the top left corner and choose the 'About' option. This will again tell you the browser type and version.
+## How we use your information
 
-Once you know the browser you are using you can find the cookie settings using the guide below relevant for your browser:
+The law on data protection sets out a number of different reasons for which a company may collect and process your personal data. These are set out below.
 
-|  **Checking your settings in Internet Explorer 8 and earlier versions**  
-1\. Locate the 'Tools' tab on the menu areas of your browser. Click on this.  
-2\. There is an option called 'Internet Options' on the list, select this option.  
-3\. This should open a pop up box with lots of tabbed options. Select the 'Privacy' tab from the list.  
-4\. Internet Explorer has a high, medium, low auto-adjust system for internet content handling. You can configure your own settings by clicking the advanced tab and ticking the 'Override automatic cookie handling'  
-5\. Settings above Medium will disable cookies, Medium or below will enable cookies  
----|---  
-|  **Checking your settings in Mozilla Firefox**  
-1\. Locate the 'Tools' tab on the menu areas of your browser. Click on this.  
-2\. From the list of options on the drop down menu, click on 'Options'  
-3\. There should be a pop up window appear with tabs along the top. Find the 'Privacy' tab and select this.  
-4\. You should now have some options for 'Tracking' and 'History'. Under the 'History' drop down menu, select 'Use customer settings for history' if you wish to adjust your cookie settings.  
-|  **Checking your settings in Google Chrome**  
-1\. Look for the spanner icon in Chrome  and click on this  
-2\. From this menu, select settings...  
-3\. Within settings you will see tabs on the left hand side. Select the tab called 'Under the Hood'  
-4\. When this page loads you will see a tab at the top called 'Content Settings' - select this  
-5\. This brings up your content controls including cookie permissions - select the option you feel most comfortable with  
-|  **Checking your settings in Safari**  
-1\. Locate the Cog icon at the top of your browser  and click on this.  
-2\. From the list of options select 'Preferences'  
-3\. This should open a pop up window with several tabs along the top. From this list select the 'Privacy' option.  
-4\. This will open the tab page that allows you to control the cookie settings on your browser.  
-|  **Checking your settings in Opera**  
-1\. Click the Opera file icon in the top left hand corner of your browser.  
-2\. From the drop down list of options, highlight 'Settings' and then scroll across and select 'Preferences'.  
-3\. This should open a pop up window with tabs along the top. Choose the 'Advanced' tab.  
-4\. This shows you the advanced options. On the left hand side there is an option called 'Cookies' - click on this option.  
-5\. This presents the cookie options for your use on this browser.  
-  |  **If you have another browser...**
+#### When we're required to enter into a contract with you
 
-Please check the help settings within your browser or use a search engine to find answers on the best way to enable or disable cookies in your chosen browser. Please remember we are not responsible for the content on external websites.
+  * We use your personal information to process your orders and payments or to give you a refund.
 
-**If you want more information...**
 
-You can visit the following website for an in-depth guide to cookies and how to control, delete and understand them. They even have a great recipe on there for cookies of the edible variety - yum!
 
-<http://www.aboutcookies.org/>  
-  
-Back to top
+#### Where you have provided consent
 
-##  Privacy on Knowhow
+We use email and text messages to communicate with you about our products and services, competitions, offers, promotions or special events where you tick a box.
 
-####  WHO WE ARE
+For example:
 
-In this Privacy Policy references to ‘we’ and ‘us’s are to DSG Retail Limited trading as Knowhow, Currys, PC World and Partmaster Direct, company number 504877, registered office 1 Portal Way, Acton, London, W3 6RS.
+  * To provide a free mobile phone upgrade reminder service to inform you when a product is back in stock.
+  * To send you a renewal notice.
+  * If you give us permission, to communicate with you about our third party partners that we believe may interest you.
 
-####  WHAT INFORMATION WE COLLECT AND HOW
 
-The information we collect via this website may include:
 
-(1) Any personal details you type in and submit, such as name, address, email address, etc.
+#### Where there is a Legitimate Interest
 
-(2) Data which allows us to recognise you, your preferences and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A cookie is a small amount of data which we send to your computer. The data is then stored on your browser or hard disk. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser. If you disable cookies, you will not be able to receive personalised facilities and your progress to check out may take longer. The cookies store information only for as long as you are viewing the website. If you do not want your visits to our website to be monitored in this way you can find out more about removing cookies by [clicking here](http://www.aboutcookies.org/).
+As a Company we are often required to process your personal data in order to carry out certain tasks relating to our business activities. In such cases, processing of personal data can be justified on grounds of legitimate interest.
 
-(3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website.
+#### Communications
 
-(4) Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
+  * To provide customer support and to respond to, and communicate with you about your requests.
+  * To contact you if we need to obtain or provide additional information.
+  * To check our records are right and to check every now and then that you’re happy and satisfied (e.g. customer surveys).
+  * For marketing activities (other than where we rely on your consent) e.g. marketing permissions captured during the course of a sale, personalising marketing messages through social media and other third party platforms. 
+  * To send promotional material (e.g. renewals) to you in the post or inform you of our offers by telephone.
+  * To comply with a request from you in connection with the exercise of your rights (for example where you have asked us not to contact you for marketing purposes, we will keep a record of this on our suppression lists in order to be able to comply with your request).
+  * To send communications to you about your orders, purchases or accounts and bill you for using our products or services.
+  * To let you post on our blogs and interact with us through social media.
 
-####  WHAT DO WE DO WITH YOUR INFORMATION
 
-Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
 
-(1) to process your order, to process any application for finance or a mobile phone contract etc., to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service).
+#### Personalise & Improve our Service
 
-(2) to carry out security checks (this may involve passing your details to our Identity Verification partner, currently 192.com, who will check details we give them against public and private databases - this helps to protect you and us from fraudulent transactions); and
+  * To personalise your experience on our online services. This could include providing you with interesting, relevant content, or making navigation to our Sites and Mobile Apps easier.
+  * To help us understand more about you as a customer, the products and services you use, the way you use them and how you shop across the company, so we can serve you better.
+  * Improve the content and appearance of the Website(s) or App(s), and to make sure that content is presented in the most effective manner for you.
+  * To operate, evaluate and improve our business, including the development of new products and services; to determine the effectiveness of our sales, marketing and advertising; and the analysis and improvement of our products, offers, promotions, and Online Services and other technologies.
+  * To show you relevant ads by using data collected from your devices, including your searches, location, ads that you have seen and personal information that you have given us, such as your age range, gender and topics of interest. Dependant on your Ads Settings, this data informs the ads that you see across your devices. So if you visit our website on your computer at work, you might see ads about our products or services on your phone later that night.
 
-(3) to comply with legal requirements (e.g. if you buy a TV or similar, we are obliged to pass your details to the TV licensing authority).
 
-We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains (or those of the Dixons Carphone plc Group), including Currys, PC World, Carphone Warehouse and Partmaster Direct, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
+#### Company Interest
 
-####  YOUR RIGHTS
+  * Where you fail to repay what you owe Us or return our property, we may need to trace your whereabouts (sometimes using a tracing Agent) in order to recover payment or reclaim property. This might be carried out by a third Party debt recovery agent on our behalf.
+  * To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities.
+  * For network and information security in order for us to take steps to protect your information against loss or damage, theft or unauthorised access.
 
-(1) You can ask us to update your personal information by emailing precise details of your request to [customerservices@dixonsretail.com.](mailto:customerservices@dixonsretail.com)
 
-(2) You can ask us not to send you future marketing communications. To do this, simply click [this link](https://dixonsregistration.co.uk/permoptout/?referrer=6) and submit your details.
 
-We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations. Alternatively, you can post your request to the address in (3) below.
+#### When we’re required to comply with our Legal Obligation
 
-(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address.  Please enclose a cheque for £10 payable to DSG Retail Limited to cover our administration costs and proof of ID such as a copy of your driving licence or a recent utility bill:
+We’ll use your personal information to comply with our legal obligations including:
 
-Subject Access Request  
-Legal Services  
-1 Portal Way  
-Acton, London  
-W3 6RS
+  * To identify you when you contact us.
+  * To verify the accuracy of data that we hold about you.
+  * To assist HMRC and/or the Police and/or other regulatory bodies in relation to an investigation by a public authority.
 
-**OTHER WEBSITES**
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
 
-****Back to top****
+#### Where it is in your Vital Interest
+
+In certain circumstances it is in your vital interests for us to process your personal information. We may need to contact you if there are any urgent safety or product recall notices or where we otherwise reasonably believe that the processing of your personal information will prevent or reduce any potential harm to you.
+
+Back to top ^
+
+## Who we share your personal information with
+
+We share personal information within the Dixons Carphone PLC Group. Members of the Dixons Carphone Group that receive this information are not authorised to use or disclose the information except as provided in this privacy policy.
+
+#### Our service providers
+
+We work with partners, suppliers, insurers and agencies so they can process your personal information on our behalf and only where they meet our standards on the processing of data and security. We only share information that helps them provide their services to us or to help them provide their services to you. For example, some of our service providers place advertising for us online, about our products and services and those of our retail partners, suppliers and third parties. As a result, where you have indicated you are happy to receive marketing from us, you might see online advertising that we have placed on the web sites you visit, or the interactive services you use.
+
+#### Other organisations and individuals
+
+We may transfer your personal information to other organisations in certain scenarios. For example:
+
+  * When you apply for credit or purchase an insurance product we’ll pass on your information to trusted third party partners responsible for these products. Please note we act as a credit broker and not as a lender in respect of our insurance products credit facility within our UK and Republic of Ireland stores.
+  * If required to by law, under any code of practice by which we are bound or we’re asked to do so by a public or regulatory authority such as the Police or the Department for Work and Pensions.
+  * Information may also be shared with fraud prevention agencies to prevent fraudulent claims.
+  * If we need to do so in order to exercise or protect our legal rights, users, systems and services.
+  * In response to requests from individuals (or their representatives) seeking to protect their legal rights or the rights of others.
+  * With emergency services (if you make an emergency call), including your approximate location.
+
+
+
+#### Credit Reference Agencies
+
+In order to process your application we’ll supply your personal information to credit reference agencies (CRAs) and they will give us information about you.
+
+This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information. We will use this information to:
+
+  * Assess your creditworthiness and whether you can afford to take the product.
+  * Verify the accuracy of the data you have provided to us.
+  * Prevent criminal activity, fraud and money laundering.
+  * Trace and recover debts.
+  * To make sure any offers provided to you are appropriate to your circumstances.
+
+
+
+We’ll also continue to exchange information about you with CRAs on an on-going basis, including about your settled accounts and any debts not fully repaid on time. CRAs will share your information with other organisations. Your data will also be linked to the data of your spouse, any joint applicants or other financial associates.
+
+The identities of the CRAs, and the ways in which they use and share personal information, are explained in more detail at [www.equifax.co.uk/crain](https://www.equifax.co.uk/crain).
+
+Back to top ^
+
+## International transfers of your personal information
+
+From time to time we may transfer your personal information to our suppliers, service providers and other company offices based outside of the European Economic Area (EEA) for the purposes described in this privacy policy. If we do this your personal information will continue to be subject to one or more appropriate safeguards set out in the law.
+
+If we do transfer information to our agents or advisers outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. We’ll use one of these safeguards:
+
+  * We’ll transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more [on the European Commission Justice website](https://ec.europa.eu/info/law/law-topic/data-protection_en).
+  * We’ll put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here [on the European Commission Justice website](https://ec.europa.eu/info/law/law-topic/data-protection_en).
+
+Back to top ^
+
+## How we use your information to make automated decisions
+
+We sometimes use systems to make automated decisions based on your personal information or the information we are allowed to collect from others about you or your business (for example where we perform credit checks). This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. These automated decisions can affect the products, services or features we may offer you now or in the future, or the price that we charge you for them.
+
+#### Your rights
+
+You have rights over automated decisions:
+
+  * Under certain circumstances, you can ask that we do not make our decision based on the automated score alone.
+  * You can object to an automated decision, and ask that a person reviews it.
+
+
+
+If you want to know more about these rights, please contact us.
+
+Back to top ^
+
+## How long we keep your personal information
+
+We will keep your personal information for as long as you’re a customer. If you haven’t made a purchase or engaged with us for 3 years or more, then we’ll remove you from our marketing mailing lists. After you stop being a customer, we may keep your data for up to 7 years after the last time you interacted with us. This could include one of the ways specified in ‘How we use your personal information’ and for one of these reasons:
+
+  * To respond to any questions or complaints.
+  * To show that we treated you fairly.
+  * To maintain records according to rules that applies to us.
+  * To establish, bring or defend legal claims.
+
+
+
+We may keep your data for longer than 7 years if we cannot delete it for legal, regulatory or technical reasons. We may also keep it in order to help support product recalls or safety notices. If we do, we will make sure that your privacy is protected and only use it for those purposes.
+
+We do not retain personal information in an identifiable format for longer than is necessary.
+
+Back to top ^
+
+## Your Rights
+
+#### Access to information held about you
+
+You have the right to request what personal information we hold about you. This is sometimes called a 'Data Subject Access Request'. If we agree that we are obliged to provide personal information to you (or someone else on your behalf), we’ll provide it to you free of charge. Before providing personal information to you or another person on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. Except in rare cases, we’ll respond to you within 30 days after we’ve received this information or, where no such information is required, after we’ve received your request.
+
+If any of the personal information we hold about you is inaccurate or out of date, you may ask us to correct it.
+
+In certain circumstances you have the right to request a copy of your personal information from us or to have that information passed to an organisation of your choice in a format that can be easily re-used.
+
+#### Right to stop or limit our processing of your data
+
+You have the right to object to us processing your personal information if we’re not entitled to use it any more, to have your information deleted if we are keeping it too long or have its processing restricted in certain circumstances.
+
+Where we rely on our legitimate interests, as set out under ‘How we use your personal information’, you may object to us using it for these purposes. If we agree that your objection is justified in accordance with your rights under data protection laws, we’ll permanently stop using your data for those purposes. Otherwise we’ll provide you with our justification as to why we need to continue using your data.
+
+You can ask us to restrict the use of your personal information if:
+
+  * It isn’t accurate.
+  * It has been used unlawfully but you don’t want us to delete it.
+  * It’s not relevant any more, but you want us to keep it for use in legal claims.
+  * You’ve already asked us to stop using your data but you’re waiting for us to tell you if we’re allowed to keep on using it.
+
+
+
+Please note that we may be required by law to retain certain information. Before we are able to provide you with any information or correct any inaccuracies, we may ask you provide other details to help us respond to your request.
+
+If you would like to exercise these rights, please contact us.
+
+Please make sure you provide the following identification documents as part of your application:
+
+  * One proof of identity - we can accept an unexpired _copy_ of either your passport _or_ your driver's licence.
+  * One proof of address - we can accept a _copy_ of most recent (and less than 3 months old) credit _or_ debit card statement or a utility bill showing the same name and address on your account _or_ driving license where it hasn’t be used as proof of identity (see above).
+
+Back to top ^
+
+## How can you stop the use of your personal data for direct marketing
+
+We won't send you marketing messages if you tell us not to.
+
+  * You can click onto the "unsubscribe" link in any communication that we send to you by email which will automatically unsubscribe you from that type of communication. Each "unsubscribe" link only relates to that specific type of communication. Please also note that you may continue to receive Service communications in relation to the product and services we have sold to you.
+  * In relation to our App(s), you can manage your preferences in the App(s)
+  * Alternatively, you can unsubscribe by submitting your request [here](https://dixonsregistration.co.uk/permoptout/?referrer=6).
+
+
+
+Please note that it may take up to 28 days to process your request.
+
+You can also find further information within our [Direct Marketing Charter](https://web.archive.org/about/direct-marketing-customer-charter).
+
+Back to top ^
+
+## Website Cookies
+
+The purpose of our Cookies Policy is to help explain what they are, why you are collecting them, and what information cookies store. Please refer to our [Cookies Policy](https://web.archive.org/about/cookies-policy).
+
+Back to top ^
+
+## Security Measures
+
+All companies within the Dixons Carphone Group use technical and organisational security measures to protect the personal information supplied by you against loss, destruction, and any unauthorised access by third parties.
+
+Back to top ^
+
+## Links to other websites
+
+Our websites (which includes this Privacy Policy) contain links to other websites run by other organisations which we do not control. This policy does not apply to those other websites and Apps‚ so we encourage you to read their privacy statements.
+
+Back to top ^
+
+## Contact us
+
+If you want to opt-out of marketing please submit your request [here](https://dixonsregistration.co.uk/permoptout/?referrer=6).
+
+If you have a question or a complaint about this policy, the way your personal information is handled, please contact us by one of the following means:
+
+**By Web Form:** Complete this [Web Form](https://app-de.onetrust.com/app/#/webform/857a80ef-f496-40e2-adcb-91c40f492f50). (Please do not submit any opt-out request via this form, any opt-out request submitted via this form will not be actioned. Please submit your opt-out request through this link [here](https://dixonsregistration.co.uk/permoptout/?referrer=6)).
+
+**By post:**
+
+Dixons Carphone SAR  
+PO Box 689  
+SALFORD  
+M5 OPD  Back to top ^
+
+## Complaining to the Data Protection Regulator
+
+You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO’s website for further details at: <https://ico.org.uk/>
+
+Back to top ^
+
+## Changes to this Policy
+
+We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email.
+
+10th May 2018.
+
+Back to top ^
