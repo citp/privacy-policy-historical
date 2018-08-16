@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drosskype.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626201825id_/http%3A//www.drosskype.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drosskype.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817015054id_/http%3A//www.drosskype.com/privacy.aspx) for the most accurate reproduction.*
 
 # Malah English Definitions > Home
 
