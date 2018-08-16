@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesmart.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211214353id_/https%3A//acesse.com/pdf/Acesse_Privacy_Policy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesmart.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816093441id_/https%3A//acesse.com/pdf/Acesse_Privacy_Policy_en.pdf) for the most accurate reproduction.*
 
 # ACESSE PRIVACY POLICY
 
