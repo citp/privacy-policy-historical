@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultinc.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831100400id_/https%3A//adultinc.com/privacy-policy-adultinc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultinc.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816192503id_/https%3A//adultinc.com/privacy-policy-adultinc) for the most accurate reproduction.*
 
 # Privacy Policy of Adultinc - Adultinc
 
