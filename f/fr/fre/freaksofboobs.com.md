@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freaksofboobs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051538id_/http%3A//freaksofboobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freaksofboobs.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816075824id_/http%3A//www.freaksofboobs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,6 @@ Service Provider takes reasonable efforts to ensure that sensitive or personally
 
 _6\. Emails_
 
-a. Emails from Service Provider. When you sign up for one or more of the Sites, you provide Service Provider with an accurate email address. Service Provider maintains a member directory so that it may email you from time-to-time. These emails may concern matters Service Provider thinks you may find interesting, including but not limited to new Sites, programs, and services. Emails from Service Provider and its affiliates are not SPAM, as you have a business relationship with Service Provider as soon as you join one or 
+a. Emails from Service Provider. When you sign up for one or more of the Sites, you provide Service Provider with an accurate email address. Service Provider maintains a member directory so that it may email you from time-to-time. These emails may concern matters Service Provider thinks you may find interesting, including but not limited to new Sites, programs, and services. Emails from Service Provider and its affiliates are not SPAM, as you have a business relationship with Service Provider as soon as you join one or more of the Sites, and you agree they should not otherwise be deemed as unsolicited. 
 
 b. Emails to Service Provider. If you contact Service Provider via email or via any link on one of the Sites, you should be aware that the information you transmit should not be considered private or secure. Please do not transmit any information you would not want to become public. 
