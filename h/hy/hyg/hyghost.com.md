@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyghost.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921071832id_/http%3A//www.hyghost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyghost.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816143026id_/http%3A//hyghost.com/privacy) for the most accurate reproduction.*
 
 # [Privacy Policy] | Hyghost.com
 
