@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the agariofun.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413135536id_/http%3A//www.agariofun.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agariofun.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816024959id_/http%3A//agariotime.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
 
-    agariofun.com Privacy Policy
-    
-    This Privacy Policy governs the manner in which agariofun.com collects, uses, maintains and discloses information collected from users (each, a "User") of the agariofun.com website ("Site"). This privacy policy applies to the Site and all products and services offered by agariofun.com.
+    This Privacy Policy governs the manner in which Gulps.io collects, uses, maintains and discloses information collected from users (each, a "User") of the Gulps.io website ("Site"). This privacy policy applies to the Site and all products and services offered by Gulps.io.
     
     Personal identification information
     
@@ -31,6 +29,9 @@
     
     We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
     
+    Facebook
+    Our site uses a facebook share button to enhance the user's social experience. We do not collect any user information regarding the share button. We do not take and responsibility for actions regarding the button and any liability should be moved onto Facebook.
+    
     Advertising
     
     Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
@@ -41,10 +42,10 @@
     
     Changes to this privacy policy
     
-    agariofun.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+    Gulps.io has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
     
     Your acceptance of these terms
     
     By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
     
-    This document was last updated on July 28, 2015
+    This document was last updated: November 19, 2015.
