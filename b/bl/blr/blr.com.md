@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203090544id_/https%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816092359id_/https%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
 
 # 
 
@@ -38,6 +38,10 @@ Additionally, emails we send may contain a bit of code known as a "web beacon." 
 
 Advertisers or Web sites that have links on the BLR sites may collect personally identifiable information about you. The privacy and information practices of those advertisers or Web sites linked to the BLR sites are not covered by this Privacy Policy. 
 
+Some BLR websites use VWO web analytics service. These services may record mouse clicks, mouse movements, scrolling activity, as well as text you type in the website. VWO is not using the information to collect any personally identifiable information entered into the website. VWO does not track your browsing habits across websites that are not using these services. Information collected VWO are used on an aggregate basis to improve site usability. You can opt out from these services by visiting their site: <https://vwo.com/opt-out/>
+
+BLR websites also use a service called Lytics, which helps us learn how visitors engage with our site and helps us to improve site experience. Cookies are used to collect information in an anonymous form, and include where visitors have come to the site from and the pages they visited while on our site. The information that is collected is non-personal information including standard internet log information; referring domain; pages visited; geographic location (country only); preferred language used to display the webpage; date and time when website pages were accessed; and details on your behavior within our BLR sites. Lytics cookies are stored on your browser and expire automatically after 365 days.
+
 **Changes to this Privacy Policy**
 
 This Privacy Policy is subject to modification from time to time. You may be notified: (1) in an e-mail sent to the e-mail address you have provided to BLR through the BLR sites, or (2) BLR's posting of a notice for at least 30 days on this Web site or the applicable BLR site that the BLR sites Privacy Policy has been changed. Your continued use of the BLR site after such change shall be deemed your acceptance of such change.  If you do not accept such change, you should stop using the BLR site.
@@ -45,8 +49,6 @@ This Privacy Policy is subject to modification from time to time. You may be not
 **Opt-Out; Correcting Information**
 
 You may opt out of having Identifying Information used for non-essential purposes, disclosed to third parties or used to send promotional correspondence by contracting BLR at the mailing address or email address below.  You may also correct information in your registration form by contacting us at the address below. To ensure that your intention in the email is clear, you should include the words “opt-out” and “Indentifying Information” in the subject field of such email. If you have any questions regarding this policy, please contact: 
-
-Some BLR websites use ClickTale web analytics service on a very limited number of pages. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in the website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. The information collected by ClickTale service is used, on an aggregate basis, to improve site usability. You can choose to disable the service at http://www.clicktale.net/disable.html 
 
 Customer Service  
 BLR, Inc.  
