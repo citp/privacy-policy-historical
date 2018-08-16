@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wifeswitch.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223081729id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wifeswitch.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816232556id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
 
 # Clients-Support.com - Servicing Your Needs
 
