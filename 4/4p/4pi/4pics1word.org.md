@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4pics1word.org privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615023118id_/http%3A//www.4pics1word.org/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4pics1word.org privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816103332id_/http%3A//www.4pics1word.org/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Policy | 4 Pics 1 Word Answers
 
