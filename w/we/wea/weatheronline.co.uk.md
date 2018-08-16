@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608234209id_/https%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816214533id_/https%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
 
 # WeatherOnline : Privacy Weather UK weatheronline.co.uk
-
-This website was last updated on 24 May 2018.
 
 This Privacy explains how the WeatherOnline Ltd will process your personal information.
 
@@ -12,7 +10,7 @@ WeatherOnline Ltd. - Meteorological Services
 483 Green Lanes  
 London N13 4BS  
 United Kingdom  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+E-Mail: privacy@weatheronline.co.uk  
 Phone: +44 (0) 8458 694748 
 
 **Find out about**
@@ -75,7 +73,7 @@ The right to data portability
 The right to object  
 The right to prevent automated decision making and -profiling.
 
-Please contact us regarding any of the above issues at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Please contact us regarding any of the above issues at privacy@weatheronline.co.uk  
 Please note that we may require evidence of your identity in relation to your request. 
 
 **Where we store and process your personal information**
@@ -186,7 +184,7 @@ How you can opt-out from Google Analytics:
 
 2\. Furthermore you can prevent Google's collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under [tools.google.com/dlpage/gaoptout?hl=en-GB](https://tools.google.com/dlpage/gaoptout?hl=en-GB). 
 
-Further information concerning the terms and conditions of use and data privacy can be found at <http://www.google.com/analytics/terms/gb.html> and at <https://www.google.de/intl/en_uk/policies/>. 
+Further information concerning the terms and conditions of use and data privacy can be found at [http://www.google.com/analytics/terms/gb.html](https://www.google.com/analytics/terms/gb.html) and at <https://www.google.de/intl/en_uk/policies/>. 
 
 b. Google DoubleClick For Publishers 
 
@@ -218,9 +216,9 @@ WeatherOnline Ltd does not have control or access to the information collected b
 
 For more information about how third party advertisers use the collected information and how to opt-out, please review third party advertisers **privacy policy (see links below)** or our section 'How cookies can bemanaged?'
 
-  * [DoubleClick for Publisher](http://www.google.com/intl/en/policies/privacy/)
-  * [GoogleAdsense](http://www.google.com/policies/technologies/ads/)
-  * [Criteo](http://www.criteo.com/en/privacy-policy)
+  * [DoubleClick for Publisher](https://www.google.com/intl/en/policies/privacy/)
+  * [GoogleAdsense](https://www.google.com/policies/technologies/ads/)
+  * [Criteo](https://www.criteo.com/en/privacy-policy)
 
 
 
@@ -238,7 +236,7 @@ We use encryption software and other security measures to protect the loss, misu
 
 **Making changes/opt-out**
 
-To make changes to your preferences, update your personally identifiable information, unsubscribe to any e-mail subscriptions or to opt-out of any services, please contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To make changes to your preferences, update your personally identifiable information, unsubscribe to any e-mail subscriptions or to opt-out of any services, please contact us directly at privacy@weatheronline.co.uk.
 
 **Changes to our privacy policy**
 
@@ -246,4 +244,4 @@ This privacy policy may occasionally be updated or amended therefore we advise y
 
 **How to contact us**
 
-If you have any questions about this privacy statement, the practices of WO online services, or your dealings with WO online services, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this privacy statement, the practices of WO online services, or your dealings with WO online services, you can contact us at privacy@weatheronline.co.uk
