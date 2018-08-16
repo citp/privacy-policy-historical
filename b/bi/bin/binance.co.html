@@ -1,0 +1,508 @@
+<!--The following is the downloaded HTML source of the binance.co privacy policy that was archived on 2018-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180817015022id_/https%3A//www.binance.co/statement.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html ng-app="bnbApp" ng-cloak="" ng-controller="globalTranslateCtrl"><head>
+	<meta charset="utf-8">
+	<meta name="format-detection" content="telephone=no,email=no,address=no">	
+	
+	<title ng-bind="('binancetitle'| T)+' - '+webtitle"></title>
+	<link rel="stylesheet" type="text/css" href="https://ex.bnbstatic.com/resources/css/global.css?v=2.0.375">
+	<link rel="Shortcut Icon" href="https://ex.bnbstatic.com/resources/img/favicon.ico">
+	<!--  添加部分-->
+	<link rel="apple-touch-icon" href="https://ex.bnbstatic.com/resources/img/binance_icon.png">
+	<meta name="renderer" content="webkit">
+	<!--  添加结束-->
+	<script id="loadeden" src="https://ex.bnbstatic.com/resources/js/i18n/en.js?v=2.0.375"></script>
+	<script type="text/javascript">
+	  var serverTime=1534470622232
+	</script>
+	
+	<script src="https://ex.bnbstatic.com/resources/minjs/layout.min.js?v=2.0.375" type="text/javascript" charset="utf-8"></script>
+
+	 <script>
+		 layer.config({
+	         extend: ['skin/myskin/myLayer.css'],
+	         shift:null,
+	         closeBtn:1
+	     })
+		 $(document).ajaxSend(function(event, jqxhr, settings) {
+				jqxhr.setRequestHeader("clientType","web"),
+				jqxhr.setRequestHeader("lang",localStorage.lang)
+				if($.cookie('cr00')){
+                    jqxhr.setRequestHeader("cr00",$.md5($.cookie('cr00')));
+                }
+		 });
+	 
+	 </script>
+	
+</head>
+<body>
+		
+		
+
+
+
+<script>
+  var initLang='en'
+  var notChinese=true
+
+  function setCookie(name,value)
+  {
+	  var Days = 3000;
+	  var exp = new Date();
+	  exp.setTime(exp.getTime() + Days*24*60*60*1000);
+	  document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString();
+  }
+  if(document.cookie.indexOf("lang")==-1) {
+	  localStorage.lang = initLang
+	  setCookie('lang',initLang)
+  }
+</script>
+<script type="text/javascript" src="https://ex.bnbstatic.com/resources/js/i18n/langs.js?v=2.0.375"></script>
+<script id="loadeden" src="https://ex.bnbstatic.com/resources/js/i18n/en.js?v=2.0.375"></script>
+<script type="text/javascript" src="https://ex.bnbstatic.com/resources/js/head.js?v=2.0.375"></script>
+<script src="https://ex.bnbstatic.com/resources/js/sensorsdata2.js" type="text/javascript" charset="utf-8"></script>
+
+<div ng-controller="headCtr">
+		
+		<div ng-if="showMobileTip" class="switchPcTip"><span><i class="iconfont icon-mobile round"></i> {{"We've detected that you are using a small display"|T}} .<br> <a href="/m-HomePage.html">{{"Want to switch to the mobile version of the site"|T}} &gt;&gt;</a></span><label class="close" ng-click="closeShowMobileTip()"><i class="iconfont icon-delete"></i></label></div>
+		<!-- 主导航 -->
+		<div class="header">
+			<a href="/" class="logo"><img ng-src="{{'logoSrc' | T}}"></a>
+			
+			<ul class="main-nav exchange" ng-if="notChinese">
+					<li>
+						
+						<a href="javascript:;"><i class="iconfont icon-exchange"></i>{{"Exchange" | T}}</a>
+						<img src="/resources/img/header-sj.png">
+						<ul class="subNav">
+							<li><a ng-href="/{{cur_lang}}/trade/BTC_USDT">{{"Basic" | T}}</a></li>
+							<li><a ng-click="changeToDetail()">{{"Advanced" | T}}</a></li>
+						</ul>
+					</li>
+					
+				</ul>
+				
+	 			<ul class="main-nav exchange" ng-if="notChinese">
+					<li>
+						<a style="line-height: 47px" target="_blank" href="https://labs.binance.com"><i class="iconfont icon-lab"></i>Labs</a>
+					</li>
+				</ul>
+				
+				<ul class="main-nav exchange" ng-if="notChinese">
+					<li>
+						<a href="https://launchpad.binance.com/" style="line-height: 47px" target="_blank"><i class="iconfont icon-launchPad"></i>{{'LaunchPad' | T}}</a>
+					</li>
+				</ul>
+				
+				<ul class="main-nav exchange" ng-if="notChinese">
+					<li>
+						<a ng-href="{{cur_lang=='cn' ? 'https://info.binance.com/cn' : 'https://info.binance.com/en'}}" style="line-height: 47px" target="_blank"><i class="iconfont icon-infoicoLine" style="font-size:14px;margin-right:5px;"></i>{{'Info' | T}}</a>
+					</li>
+				</ul>
+				<ul class="main-nav exchange" ng-if="notChinese">
+					<li>
+						<a href="https://www.binance.vision/" style="line-height: 47px" target="_blank"><i class="iconfont icon-Academy" style="font-size:15px;margin-right:5px;"></i>{{'Academy' | T}}</a>
+					</li>
+				</ul>
+				<div class="googleFY f-fr" ng-click="showGoogleFY=!showGoogleFY" ng-show="initLang!='cn'">
+					<img src="https://ex.bnbstatic.com/resources/img/googleFY.png">
+					<div class="googleFY-language">
+						<h3>{{'Website Translator' | T}}</h3>
+						<div id="google_translate_element"></div>
+						<p>Translations by Google is provided for 
+							convenience and is not verified contextually.<br>
+							Please refer to original for accuracy.
+						</p>
+					</div>
+				</div>
+				
+				<div class="f-fr">
+					<div class="languages" id="languagesSpanI" ng-mouseover="showFlags=true;" ng-mouseout="showFlags=false;">
+						<span ng-repeat="l in langs" class="font-lang" ng-if="cur_lang==l.code"><i class="iconfont icon-diqiu"></i>{{l.name}}</span>
+						<img src="/resources/img/header-sj.png">
+						<ul ng-show="showFlags">
+							<li ng-repeat="l in langs" ng-click="switching(l.code)" ng-if="l.isUsed"><span ng-if="cur_lang==l.code" class="duigou"></span>{{l.name}}</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="logined f-fr" ng-if="Islogin" ng-mouseenter="getTotalAsset()">
+					<i class="iconfont icon-touxiang"></i>
+					<img src="/resources/img/header-sj.png">
+					<ul>
+						<li>
+							<a class="link" href="/userCenter/myAccount.html">
+								<strong>{{"User Center" | T}}</strong><br>
+								<span>{{user.email}}</span>
+								<i class="iconfont icon-right"></i>
+							</a>
+						</li>
+						<li>
+							<a class="link" href="/userCenter/balances.html">
+								<span>{{"Estimated Value" | T}}: </span><br>
+								<strong>{{totalAsset.totalTransferBtc | number:8}} BTC</strong>
+							</a>
+						</li>
+						<li>
+							<a class="link" href="javascript:;" ng-click="logout()">
+								{{"logout"|T}}
+							</a>
+						</li>
+					</ul>
+				</div>
+				
+				<div class="login-register f-fr" ng-if="!Islogin">
+					<a href="/login.html">{{"login"|T}}</a>&nbsp;&nbsp;<span ng-if="notChinese">{{"or" | T}}&nbsp;&nbsp;</span>
+					<a href="/register.html" ng-if="notChinese">{{'register'|T}}</a>
+				</div>
+				
+				<ul class="main-nav">
+					<li ng-if="Islogin">
+						<a href="javascript:;" ng-class="{true:'cur',false:''}[curPage=='funds']">{{"Funds" | T}}</a>
+						<img src="/resources/img/header-sj.png">
+						<ul class="subNav">
+							<li><a href="/userCenter/balances.html">{{"Balances"| T}}</a></li>
+							<li><a href="/userCenter/deposit.html">{{"Deposits"| T}}</a></li>
+							<li><a href="/userCenter/withdrawal.html">{{"Withdrawals"| T}}</a></li>
+							<li><a href="/userCenter/moneyLog.html">{{"Transaction History" | T}}</a></li>
+							<!-- <li><a href="/userCenter/depositWithdraw.html">{{"czth"| T}}</a></li>
+							<li><a href="/userCenter/transactionHistory.html">{{"History" | T}}</a></li> -->
+						</ul>
+					</li>
+					<li ng-if="Islogin">
+						<a href="javascript:;" ng-class="{true:'cur',false:''}[curPage=='orders']">{{"Order Management" | T}}</a><img src="/resources/img/header-sj.png">
+						<ul class="subNav">
+							<li><a href="/userCenter/openOrders.html">{{"Open Orders" | T}}</a></li>
+							<li><a href="/userCenter/orderHistory.html">{{"Order History" | T}}</a></li>
+							<li><a href="/userCenter/tradeHistory.html">{{"Trade History" | T}}</a></li>							
+						</ul>
+					</li>
+					<li><a ng-href="/Careers.html" target="_blank">{{"Careers" | T}}</a></li>
+					<li><a href="{{helpCenterUrl}}" target="_blank">{{"Support" | T}}</a></li>
+					<li><a href="{{ggCenterUrl}}" target="_blank">{{"Announcement" | T}}</a></li>
+				</ul>
+		</div>
+		<div class="top-news-box" style="display:none;">
+			<div class="top-news-cont">
+				<div class="top-news-left">
+					<span id="top-news-title"></span><a id="top-news-link" href="#" target="_blank">{{'gengduo' | T}}</a>
+				</div>
+				<span class="iconfont icon-delete"></span>
+			</div>
+		</div>
+</div>
+
+<script>
+$(function(){
+	$('.googleFY').on('click',function(e){
+		e.stopPropagation();
+		$(this).find('div').show();
+		$(document).not(this).on('click',function(){
+			$('.googleFY>div').hide();
+		})
+	});
+	
+	
+	
+	$(".top-news-box .iconfont").click(function(){
+		$(this).parents(".top-news-box").slideUp(200);
+	});
+})
+</script>
+
+		<!-- 主体内容 -->
+		<div>
+
+<style>
+	/* 服务协议 */
+	.agreement .agreementInner{
+		padding:0 80px 100px 80px;;
+	}
+	.agreement .agreementTitle{
+		font-size:30px;
+		color:#272f35;
+		height:100px;
+		line-height:100px;
+		border-bottom:1px solid #e5e5e5;
+	}
+	.agreement .agreementCon p{
+		font-size:14px;
+		color:#888;
+		line-height:24px;
+		margin-bottom:24px;
+	}
+	.agreement .agreementCon p.agreementConHeader{
+		font-size：16px;
+		color:#333;
+		font-weight:bold;
+	}
+	.agreement .agreementCon p.agreementConSubHeader{
+		color:#333;
+		font-weight:bold;
+		font-size:14px;
+	}
+	.agreement .agreementCon p.agreementConFooter{
+		color:#333;
+		font-size:14px;
+	}
+	.agreement .agreementCon p.special{
+		/* padding:60px 0 0 0; */
+	}
+
+</style>
+<div ng-controller="statementCtr">
+	<div class="main">
+		<div class="container agreement">
+			<div class="agreementInner" ng-if="cur_lang=='cn'">
+				<div class="agreementTitle">隐私声明</div>
+				<div class="agreementCon">
+					<p class="agreementConHeader editDate" style="padding:24px 0 0 0;">【最新修订】： 2018. 05 .24</p>
+					<p style="padding:24px 0 0 0;" class="agreementConFooter">本隐私权政策解释了币安（Binance Holdings Limited）如何收集，使用，共享及保护通过binance.com 网站所获得的用户信息。“我们”在这里特指币安（Binance holdings limited）及其相关公司。在收集用户指定个人信息时， 我们均出于法律及相关特定需求。 对于非必要信息，您有权决定是否提供。非不要信息的缺失，可能会导致您无法使用某些特定权限。
+					</p>
+					<p class="agreementConFooter">使用本网站，表示您同意本文中所有条例。我们会根据法律及个人数据收集和使用办法的变化，不时调整本隐私权政策。 修改后的公告会在官网发布，若您的信息被用于本文未覆盖的其他用途，我们将提前通知并征得您的同意。
+					</p>
+					<p class="agreementConFooter">根据欧洲经济区（EEA）个人信息处理规定，最新的隐私政策已添加“通用数据保护条例”（GDPR）中的要素。</p>
+					
+					<p class="agreementConSubHeader">我们收集哪些信息： </p>
+					<p class="agreementConSubHeader">以下是您注册及使用币安时，我们收集的信息类型： </p>
+					
+					<p class="agreementConSubHeader">注册时所需信息: </p>
+					<p>当注册币安账户时， 您需提供包括邮箱，姓名，密码等信息。为增加账户安全性可申请谷歌或短信二次验证，开启短信验证需要提供手机号码。</p>
+					
+					
+					<p class="agreementConSubHeader">验证用户身份时所需信息:</p>
+					<p>为遵守包括反洗钱（AML），了解用户（KYC）以及反恐怖主义融资（CTF）在内的全球行业监管标准，我们被要求收集身份证明证件， 此规定同时适用于个人和企业账户。</p>
+					
+					<p class="agreementConSubHeader">使用币安相关服务时所需信息:</p>
+					
+					<p class="agreementConSubHeader">使用平台信息</p>
+					<p>在使用币安平台过程中， 我们会监控和收集如（包含且不限于）访问日期与时间，设备标识，操作系统，浏览器以及IP地址等相关数据。这些信息可能直接由币安或第三方服务商获取。这些服务使用数据的收集会帮助系统确保我们的界面适用于所有平台的用户， 同时也可在刑事调查期间提供支持。
+					</p>
+					
+					<p class="agreementConSubHeader">交易信息</p>
+					<p>对于所有企业及个人账户， 我们收集交易信息包括（且不限于）存款快照，账户余额，交易记录，提款，订单活动和分发记录。这些数据的收集用于监控可疑交易行为，以防止用户欺诈行为以及辅助法律案件的判决。
+					</p>
+					
+					<p class="agreementConSubHeader">币安收集信息的原因：</p>
+					<p class="agreementConSubHeader">1.提供和维护服务</p>
+					<p>使用收集的信息来维护我们的服务并验证用户身份。<br>
+					 	我们使用您Cookie中存储的IP地址和唯一标识符来验证您的身份并提供服务。基于法律义务和系统要求，我们无法在没有身份证明，联系信息和交易相关信息等数据的情况下为您提供服务。
+					</p>
+					
+					<p class="agreementConSubHeader">2.保护用户</p>
+					<p>使用收集到的信息来保护平台，用户账户和档案。<br>
+						使用IP地址和cookie数据来防止如垃圾邮件，网络钓鱼以及分布式拒绝服务（DDoS）攻击。<br>
+						分析交易活动以便尽早检测欺诈行为和资金流向可疑账户。
+					</p>
+					
+					<p class="agreementConSubHeader">3.遵守法律和法规的要求</p>
+					<p>在执行监管， 政府要求以及用户一般请求的时候，币安以尊重个人隐私与数据安全为原则。 我们不会在未经法律团队的审核及征得用户同意的情况下，向第三方披露或提供任何个人信息。</p>
+					
+					<p class="agreementConSubHeader">4.衡量网站性能</p>
+					<p>我们通过分析网站数据以更好的了解用户的产品使用体验。 运营团队持续性的进行数据分析以确保用户使用体验得以持续优化，并及时解决在使用过程中遇到的各类问题。</p>
+					
+					<p class="agreementConSubHeader">5.与用户沟通</p>
+					<p>为于用户进行直接交流， 我们收集用户个人信息如邮件地址等，以帮助用户解决工单，及时通知用户登陆，交易，和账户安全等相关活动。如在沟通前没有先验证身份，我们将不能回复用户提交的请求及问题。所有沟通均会被妥善保存用币安内部，用于复核准确性。</p>
+					
+					<p class="agreementConSubHeader">6.执行使用条款和其他协议</p>
+					<p>对于币安和我们的用户，不断审查复核， 以防止潜在的违规行为非常重要。为维护用户利益，我们谨慎严谨执行与第三方签署的协议，并严肃调查任何违反我们使用条款的行为。币安保留为任何参与违反使用条款的活动的用户提供服务的权力。</p>
+					
+					<p class="agreementConSubHeader">如何保护用户数据：</p>
+					<p>币安已实施了多项安全措施以确保用户信息不会丢失，滥用或被篡改。我们的数据安全措施包括但不限于：PCI扫描，安全套接字层加密技术，匿名，内部数据访问限制以及严格的办公室和档案访问限制。但互联网电子存储的形式不能保证100%的信息安全。因此，我们建议您了解并采取独立地安全预防措施以保护个人信息的安全。
+					</p>
+					<p>若您怀疑个人信息尤其是账户或密码信息已被泄露，请立刻冻结账户并联系币安客服人员。</p>
+					
+					<p class="agreementConSubHeader">联系我们：</p>
+					<p>币安尊重所有用户的自由和权利。如您对本隐私政策有任何问题或疑虑，或者您想提交数据保护请求，请参阅我们的常见问题解答，并在我们的支持页面上与我们联系。</p>
+					
+					
+					
+				</div>
+			</div>
+			<div class="agreementInner" ng-if="cur_lang!='cn'">
+				<div class="agreementTitle">Binance Privacy Policy
+				</div>
+				<div class="agreementCon">
+					<p class="agreementConHeader editDate" style="padding:24px 0 0 0;">[Last revised: 24 May 2018]</p>
+					<p>This Privacy Policy explains how Binance Holdings Limited (“Binance”) collects, uses, shares, and protects user information obtained through the Binance.com website. The terms “we,” “us,” and “our” refer to Binance Holdings Limited and its affiliates. When we ask for certain personal information from users it is because we are required by law to collect this information or it is relevant for specified purposes. Any non-required information you provide to us is done so voluntarily. You decided whether to provide us with these non-required information; you may not be able to access or utilize all of our Services if you choose not to.
+					</p>
+					<p>By using the Site, you consent to the data practices described in this Privacy Policy. On occasion, Binance may revise this Privacy Policy to reflect changes in law or our personal data collection and use practices. If material changes are made to this Privacy Policy, the changes will be announced by posting on the site. We will ask for your consent before using your information for any purpose that is not covered in this Privacy Policy.
+					</p>
+					<p>The latest privacy policy has incorporated elements from the General Data Protection Regulation (GDPR) as we act in accordance to its personal information processing rules within the European Economic Area (EEA).
+					</p>
+				
+					<p></p><h1>INFORMATION BINANCE COLLECTS</h1><p></p>
+					 
+					 <p class="agreementConSubHeader">We want you to understand the types of information we collect when you register for and use Binance’s services
+					 </p>
+					 <p>Information you provide to us at registration
+					  </p>
+					 <p>When you create a Binance Account, you provide us with personal information that includes your contact information (Email Address, name, and a password). You can also choose to add a phone number for SMS  or Google Authenticator account to be used for 2FA verification for improved security. 
+					  </p>
+					  <p>Information we collect when authenticating user identity </p>
+					  <p>To comply with global industry regulatory standards including Anti-Money Laundering (AML), Know-Your-Customer (KYC), and Counter Terrorist Financing (CTF), Binance requires user accounts to undergo user identity authentication for both Personal &amp; Enterprise-level accounts. This entails collecting formal identification. 
+					  </p>
+					  <p>Information we collect as you use our services</p>
+									
+					<p class="agreementConSubHeader">Service Usage Information
+					 </p>
+					 <p>Through your use of the Binance platform, we also monitor and collect tracking information related to usage such as access date &amp; time, device identification, operating system, browser type and IP address. This information may be directly obtained by Binance or through third party services. This service usage data helps us our systems to ensure that our interface is accessible for users across all platforms and can aid during criminal investigations. 
+					  </p>
+					
+					<p class="agreementConSubHeader">Transaction Information
+					</p>
+					<p class="">For all personal and enterprise user accounts, we collect transaction information including deposit snapshots, account balances, trade history, withdrawals, order activity and distribution history. This transaction data is monitored for suspicious trading activity for user fraud protection, and legal case resolution. </p>
+					
+					<p></p><h1>WHY DOES BINANCE COLLECT THIS INFORMATION</h1><p></p>
+					<p class="agreementConSubHeader">To provide and maintain our services</p>
+					<p>We use the information collected to deliver our services and verify user identity.<br>
+					   We use the IP address and unique identifiers stored in your device’s cookies to help us authenticate your identity and provide our service. Given our legal obligations and system requirements, we cannot provide you with services without data like identification, contact information and transaction-related information.
+					</p>
+					<p class="agreementConSubHeader">To protect our users</p>
+					<p>We use the information collected to protect our platform, users’ accounts and archives.<br>
+					   We use IP addresses and cookie data to protect against automated abuse such as spam, phishing and Distributed Denial of Service (DDoS) attacks.<br>
+					   We analyse trading activity with the goal of detecting suspicious behavior early to prevent potential fraud and loss of funds to bad actors.<br>
+					</p>
+					
+					<p class="agreementConSubHeader">To comply with legal and regulatory requirements
+					</p>
+					<p>Respect for the privacy and security of data you store with Binance informs our approach to complying with regulations, governmental requests and user-generated inquiries. We will not disclose or provide any personal information to third party sources without review from our legal case team and/or prior consent from the user.
+					</p>
+					
+					<p class="agreementConSubHeader">To measure site performance
+					</p>
+					<p>We actively measure and analyse data to understand how our services are used. This review activity is conducted by our operations team to continually improve our platform’s performance and to resolve issues with the user experience. <br>
+					   We continuously monitor our systems’ activity information and communications with users to look for and quickly fix problems. 
+					</p>
+					
+					<p class="agreementConSubHeader">To communicate with you
+					 </p>
+					 <p>We use personal information collected, like an email address to interact with users directly when providing customer support on a ticket or to keep you informed on log ins, transations, and security. Without processing your personal information for confirming each communication, we will not be able to respond to your submitted requests, questions and inquiries. All direct communications are kept confidential and reviewed internally for accuracy.
+					  </p>
+					
+					<p class="agreementConSubHeader">To enforce our Terms of Use and other agreements
+					</p>
+					<p>It is very important for us and our customers that we continually review, investigate and prevent any potentially prohibited or illegal activities that violate our Terms of Service. For the benefit of our entire user base, we carefully enforce our agreements with third parties and actively investigate violations of our posted Terms of Use. Binance reserves the right to terminate the provision of service to any user found engaging in activities that violate our Terms of Use.
+					</p>
+					
+					<p></p><h1>HOW DOES BINANCE PROTECT USER DATA</h1><p></p>
+					<p>Binance has implemented a number of security measures to ensure that your information is not lost, abused, or altered. Our data security measures include, but are not limited to: PCI Scanning, Secured Sockets Layered encryption technology, pseudonymisation, internal data access restrictions, and strict physical access controls to buildings &amp; files. Please note that it is impossible to guarantee 100% secure transmission of data over the Internet nor method of electronic storage. As such, we request that you understand the responsibility to independently take safety precautions to protect your own personal information.  
+					</p>
+					<p>If you suspect that your personal information has been compromised, especially account and/or password information, please lock your account and contact Binance customer service immediately.
+					</p>
+					
+					<p></p><h1>CONTACT US</h1><p></p>
+					<p>We are committed to respecting the freedoms and rights of all our Binance users who have placed their trust in our service. If you should have any questions or concerns regarding this Privacy Policy, or if you would like to file a Data Protection request, please refer to our FAQ and contact us on our Support Page. </p>
+					
+							
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+app.controller("statementCtr",function($scope,$rootScope,$translate){
+	$rootScope.webtitle=$translate.instant('Privacy Statement');
+})
+</script></div>
+
+		
+
+
+
+    
+	    <div class="section footer">
+	    	<div class="footerTWrap">
+		    	<div class="container">
+			    	<div class="footerT">
+				    	<div class="footerTL">
+				    		<ul>
+				    			<li><a href="/aboutUs.html" target="_blank">{{"About" | T}}</a></li>
+				    			<li><a href="/agreement.html" target="_blank">{{"Terms" | T}}</a></li>
+				    			<li><a href="/statement.html" target="_blank">{{"Privacy" | T}}</a></li>
+				    			<li><a href="/fees.html" target="_blank">{{"Fees" | T}}</a></li>
+				    			<li><a ng-href="/contactUsCn.html" target="_blank">{{"Contact" | T}}</a></li>
+				    			<li><a href="https://github.com/binance-exchange/binance-official-api-docs" target="_blank">{{"API" | T}}</a></li>
+				    			<li><a href="/userCenter/coinApply.html" target="_blank">{{"Apply to List" | T}}</a></li>
+				    			<!-- <li><a href="/Careers.html">{{"Careers" | T}}</a></li> -->
+				    			<li><a href="/clientDownloads.html" target="_blank">{{'Download' | T}}</a></li>
+				    	
+				    		</ul>
+				    	</div>
+			    		<div class="footerTR f-cb">
+				    		<ul class="f-fr f-cb">
+				    			<li title="Telegram"><a href="/contactUsCn.html#telegrams" target="_blank"><i class="media media-telegram"></i></a></li>
+				    <!--			<li title="support@binance.zendesk.com"><a href="mailTo:support@binance.zendesk.com"><i class="media media-email"></i></a></li>   -->
+				    			<li><a href="https://www.facebook.com/binanceexchange" title="Facebook" target="_blank"><i class="media media-fb"></i></a></li>
+				    			<li><a href="https://twitter.com/binance" title="Twitter" target="_blank"><i class="media media-tt"></i></a></li>
+				    			<li><a href="https://www.reddit.com/r/binanceexchange" title="Reddit" target="_blank"><i class="media media-rd"></i></a></li>
+				    <!-- 			<li><a href="https://joinslack.binance.com/" target="_blank"><i class="media media-sk"></i></a></li> -->
+				    			<li ng-if="cur_lang=='cn'"><a href="http://weibo.com/binance?is_hot=1" title="Weibo" target="_blank"><i class="media media-wb"></i></a></li>
+				    			<li><a href="https://steemit.com/@binanceexchange" title="Steemit" target="_blank"><i class="media media-steemit"></i></a></li>
+				    			<li><a href="https://medium.com/binanceexchange" title="Medium" target="_blank"><i class="media media-medium"></i></a></li>
+				    			<li><a href="https://www.instagram.com/binanceexchange/" title="Instagram" target="_blank"><i class="media media-instagram"></i></a></li>
+				    		
+				    		</ul>
+				    	</div>
+			    	</div>
+			    </div>
+			</div>
+	    </div>
+	    <div class="footerB">
+	    	<div class="container">
+		    	<span class="footerBL">
+		    		© 2017 - 2018 Binance.com. All rights reserved
+		    	</span>
+		    	<div class="footerBR" ng-if="curPage=='index' || curPage=='trade'">
+		    		<div>
+		    			<span class="footerBRName footerBRTimer"><i class="iconfont icon-clock"></i></span>
+		    			<span>{{today|date:'yyyy-MM-dd HH:mm:ss'}}</span>
+		    		</div>
+		    		 <div>
+		    			<span style="margin: 0" class="footerBRName">24h {{"Trade Volume" | T}}：</span>
+		    			<span class="volume" ng-repeat="volume in totalTradeMoney">{{volume[1]|number:2}} <i>{{volume[0]}}</i><i ng-hide="$last==true" class="gang">/</i></span> 		
+		    		</div>
+		    		
+		    		<div>
+		    			<span class="footerBRName"><i class="wify wify-connect" ng-class="{true:'wify-connect',false:'wify-reconnect'}[websocketStatus=='connected']"></i></span>
+		    			<span class="websocketStatus">{{websocketStatus | T}}</span>
+		    		</div>
+		    	</div>
+		   	</div>
+		 </div>
+		 
+		 
+		 
+		 <script>
+		 /*  function showTelegram(){
+		 	layer.open({
+		 	  type:1,
+		 	  title:null,
+		 	  area:['745px','450px'],
+		 	  content:$('#telegram')
+		 	})
+		  } */
+		 </script>
+
+		<script>
+			function googleTranslateElementInit(lang) {
+				new google.translate.TranslateElement({pageLanguage: lang, layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+			}
+		  if(initLang!='cn'){
+			setTimeout(function(){
+				document.getElementById('pageLoading').style.display='none';
+			},3000)
+			var script=document.createElement('script');
+			script.src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+			document.body.appendChild(script);
+			script.onload=function(){
+				googleTranslateElementInit(initLang);
+			}
+		  }
+		</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+</body></html>
