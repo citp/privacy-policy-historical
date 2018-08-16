@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428133422id_/http%3A//quicklol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816195342id_/http%3A//quicklol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
