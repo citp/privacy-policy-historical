@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juicysexstories.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831081303id_/http%3A//www.juicysexstories.com/stories/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicysexstories.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816103811id_/https%3A//juicysexstories.com/stories/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Juicy Sex Storie
 
-[ ](http://juicysexstories.com/sex-story-books)
+[ ](https://juicysexstories.com/sex-story-books)
 
   
 
@@ -167,8 +167,8 @@
 
 ## Contact Us
 
-If you have any questions about this site or would like to notify us of a problem, please [contact Juicy Sex Stories](http://juicysexstories.com/contact)
+If you have any questions about this site or would like to notify us of a problem, please [contact Juicy Sex Stories](https://juicysexstories.com/contact)
 
-[Juicy sex stories home](http://juicysexstories.com/)
+[Juicy sex stories home](https://juicysexstories.com/)
 
-[ ](http://juicysexstories.com/sex-story-books)
+[ ](https://juicysexstories.com/sex-story-books)
