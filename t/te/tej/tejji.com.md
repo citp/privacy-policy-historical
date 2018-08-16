@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209143724id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817002611id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Tejji
 
@@ -9,7 +9,11 @@ Last Date of Revision: 29th December 2009
 At Tejji we recognize that privacy is important. This Privacy Policy applies to all of the products and services offered by website [Tejji.com](http://tejji.com/). 
 
 Or, you can write to us at address mentioned below   
-Tejji.com . No. 181/A, 1st Main Road, Padmanabhangar, Bangalore - 560070 India [contactus@tejji.com](mailto:contactus@tejji.com)
+Tejji.com . No. 181/A, 1st Main Road, Padmanabhangar, Bangalore - 560070 India [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#63000c0d17020017161023170609090a4d000c0e)
+
+### Contacts
+
+In case you have any question regarding privacy policy, feel free to [contact us](https://web.archive.org/web/20180817002611id_/http%3A//tejji.com/contactus.aspx) using our website or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e2d21203a2f2d3a3b3d0e3a2b242427602d2123). 
 
 ### Information we receive and how we use it
 
