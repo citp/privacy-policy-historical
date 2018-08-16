@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625170642id_/http%3A//www.mappingyourfuture.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816043059id_/https%3A//mappingyourfuture.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # Mapping Your Future: Site map
 
