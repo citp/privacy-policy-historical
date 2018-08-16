@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405031309id_/http%3A//www.clrwtr.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816024727id_/https%3A//www.clrwtr.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Clearwater Technologies, Inc. | Privacy Policy | Boise, Idaho. USA
+# Privacy Statement | clrwtr.com
 
-Clearwater Technologies Corporation and our affiliates/brands ("we," "us," and "Clearwater") value your trust and are committed to handling your personal information in a safe and responsible manner. This Privacy Statement applies to information you provide and that we collect through our website(s), [www.clrwtr.com](http://www.clrwtr.com/) and any additional websites, microsites, mobile sites or applications that Clearwater may own or operate (collectively, the "Sites"). This Privacy Statement does not cover any information collected offline or outside of the Sites by Clearwater, unless specifically stated otherwise below. This Privacy Statement describes:
+Clearwater Technologies Corporation and our affiliates/brands ("we," "us," and "Clearwater") value your trust and are committed to handling your personal information in a safe and responsible manner. This Privacy Statement applies to information you provide and that we collect through our website(s), [www.clrwtr.com](http://www.clrwtr.com/) and any additional websites, microsites, mobile sites or applications that Clearwater may own or operate (collectively, the "Sites"). This Privacy Statement does not cover any information collected offline or outside of the Sites by Clearwater, unless specifically stated otherwise below. This Privacy Statement describes:
 
   * What kinds of information we collect about you;
   * Why we collect this information about you;
@@ -13,6 +13,7 @@ Clearwater Technologies Corporation and our affiliates/brands ("we," "us," and "
 
 
 
+  
 **What information does Clearwater collect about me and why?**
 
 Clearwater collects your personal and other information that you provide to us when you register or create a credit card or credit line account with us. The personal information you provide to us may include a user ID and password, your first and last name, your job title, your company name, your industry, your email address, your phone number, your fax number, your billing address information, and your shipping address information. If you create a credit card account with us, you will also provide your credit card number, expiration date, and CVV code. If you create a credit line account with us, you may also provide us name(s) of parent or other affiliated companies, number of years in business, number of years at a current address, number of employees, a description of the type of business, a U.S. federal ID number, a Dun & Bradstreet number, and the name and phone number of person(s) to contact for accounting purposes. When you register or create an account with us, we may assign you a Customer ID number.
@@ -31,17 +32,15 @@ We use the information we collect from you for the following purposes:
 
 
 
-The businesses of Clearwater and its Sites are not designed for children. Clearwater does not knowingly collect any personal information from or about a child under the age of 13 years.
+The businesses of Clearwater and its Sites are not designed for children. Clearwater does not knowingly collect any personal information from or about any child under the age of 13 years.
 
 Clearwater uses cookies to help improve our Sites and visitor and customer experience. A cookie is a piece of data that a website sends to a visitor's computer's hard drive for record-keeping purposes. A cookie assigns a unique identification to your computer or mobile device, and is then used by a website to recognize your browser as a previous visitor so that your browsing experience can be personalized. Such a website saves and remembers any preferences or other actions you took while visiting the website. We may also use cookies to recognize you when you return to our Sites to understand your use of our Sites so we can improve the features of our Sites and tailor communications relevant to you.
 
 We may also use our own cookies to provide you with personalized online display advertising tailored to your interests. Our cookies do not contain your name, address, or any financial information. You can refuse cookies by turning them off in your Internet or mobile browser. In order to disable cookies, please consult your browser's help section for instructions. If you turn off cookies, however, you may not be able to use some or any of the features of our Sites.
 
-_Google Analytics._ Clearwater uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer to help analyze how users use the Sites. The information generated by the cookie about your use of the Sites, including your IP address, will be transmitted to and stored by Google on its servers. Google will use this information for the purpose of evaluating your use of the Sites, compiling reports on activity for operators of the Sites, and providing other services relating to activity on the Sites and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. To read Google Analytics security and privacy principles, please [click here](https://support.google.com/analytics/answer/6004245?hl=en).
+_Google Analytics._  Clearwater uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer to help analyze how users use the Sites. The information generated by the cookie about your use of the Sites, including your IP address, will be transmitted to and stored by Google on its servers. Google will use this information for the purpose of evaluating your use of the Sites, compiling reports on activity for operators of the Sites, and providing other services relating to activity on the Sites and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. To read Google Analytics security and privacy principles, please [click here](https://support.google.com/analytics/answer/6004245?hl=en).
 
-_Tawk.to._ Clearwater uses Tawk.to, an online messaging service that allows us to communicate with you through the Sites in real time. Tawk.to uses cookies to identify and track visitors, their usage of tawk.to website, and their website access preferences. Tawk.to may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Tawk.to's behalf. To read Tawk.to's security and privacy principles, please [click here](https://www.tawk.to/privacy-policy/).
-
-_Flash Cookies._ We may also use Local Shared Objects (sometimes called "flash cookies"), browser web storage (including HTML5) and application data caches. These are used to enhance your user experience, for example, by storing your user preferences and settings. These mechanisms operate similarly to browser cookies, but can store data more complex than simple text. To find out more about flash cookies or how to disable them, please [click here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
+_Flash Cookies._  We may also use Local Shared Objects (sometimes called "flash cookies"), browser web storage (including HTML5) and application data caches. These are used to enhance your user experience, for example, by storing your user preferences and settings. These mechanisms operate similarly to browser cookies, but can store data more complex than simple text. To find out more about flash cookies or how to disable them, please [click here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
 
 **How does Clearwater Respond to "Do Not Track" Signals?**
 
@@ -53,7 +52,7 @@ We do not disclose personally identifiable information about you to third partie
 
 **California Residents Privacy Rights Request for Third Party Information**
 
-Residents of California may request a list of third parties to whom Clearwater has disclosed their personal information during the preceding year for the direct marketing purposes of those third parties by sending an email to [donm@clrwtr.com](mailto:donm@clrwtr.com) or a written letter addressed to:
+Residents of California may request a list of third parties to whom Clearwater has disclosed their personal information during the preceding year for the direct marketing purposes of those third parties by sending an email to [donm@clrwtr.com](mailto:donm@clrwtr.com) or a written letter addressed to:
 
 Clearwater Technologies, Inc.  
 Attention: Marketing Manager  
@@ -82,7 +81,7 @@ You may join our email lists and receive information about our products and serv
 
 You can use the procedures described below to opt out of Clearwater marketing. Please note that your opt-out request may take up to 30 business days to process, and you may receive communications from us in the meantime. Please note that if you make subsequent purchases from our Sites, we will confirm your order by e-mail, and we may need to contact you by phone, e-mail, or U.S. postal mail with other questions regarding your order.
 
-If you prefer not to receive any marketing or promotional information from Clearwater, please contact us at (800) 774-5630, [donm@clrwtr.com](mailto:donm@clrwtr.com) or by writing to:
+If you prefer not to receive any marketing or promotional information from Clearwater, please contact us at (800) 774-5630, [donm@clrwtr.com](mailto:donm@clrwtr.com) or by writing to:
 
 Clearwater Technologies, Inc.  
 Attention: Marketing Manager  
@@ -105,7 +104,7 @@ You may also click the unsubscribe link found at the bottom of any Clearwater ma
 
 We may update our Privacy Statement from time to time. If we make material changes to this Privacy Statement, we will notify you by posting the changes on our Sites. Please check this Privacy Statement from time to time because by visiting our Sites, you agree to accept any changes to our Privacy Statement.
 
-If you have any questions about our Privacy Statement, please contact us by calling (800) 894-0412, or emailing [donm@clrwtr.com](mailto:donm@clrwtr.com), or writing to us at:
+If you have any questions about our Privacy Statement, please contact us by calling (800) 894-0412, or emailing [donm@clrwtr.com](mailto:donm@clrwtr.com), or writing to us at:
 
 Clearwater Technologies, Inc.  
 Attention: Marketing Manager  
