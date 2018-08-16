@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologiestuart.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805004447id_/http%3A//www.technologiestuart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologiestuart.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816071532id_/http%3A//www.technologiestuart.com/privacy) for the most accurate reproduction.*
 
 # Wajam.com | Privacy
 
@@ -12,9 +12,9 @@ Effective Date: 01 May, 2016
 
 This privacy policy ("Privacy Policy") is designed to make important and transparent disclosures about how we collect, share and use our users' information. Our users' privacy is important to us. We encourage you to read the Privacy Policy carefully and use it to make informed decisions.
 
-This Privacy Policy governs the data collection practices by Iron Mountain Technology. ("Wajam", "us", "we" and "our") while you use our (i) www.http://www.technologiestuart.com.com site; OR (ii) browser extensions; OR (iii) our software product (if applicable) (collectively "Wajam Products").
+This Privacy Policy governs the data collection practices by Iron Mountain Technology. ("Wajam", "us", "we" and "our") while you use our (i) www.http://technologiestuart.com.com site; OR (ii) browser extensions; OR (iii) our software product (if applicable) (collectively "Wajam Products").
 
-By using the Wajam Products you agree to the terms of this Privacy Policy. Your continued use of the Wajam Products constitutes your agreement to this Privacy Policy. This Privacy Policy is part of our [End User License Agreement](http://www.technologiestuart.com/terms-of-service) and the definitions herein shall have the same meaning as defined in the [End User License Agreement](http://www.technologiestuart.com/terms-of-service). If you do not agree to these terms, please do not access or use the Wajam Products.
+By using the Wajam Products you agree to the terms of this Privacy Policy. Your continued use of the Wajam Products constitutes your agreement to this Privacy Policy. This Privacy Policy is part of our [End User License Agreement](http://technologiestuart.com/terms-of-service) and the definitions herein shall have the same meaning as defined in the [End User License Agreement](http://technologiestuart.com/terms-of-service). If you do not agree to these terms, please do not access or use the Wajam Products.
 
 ### What Information We Collect?
 
@@ -27,7 +27,7 @@ We collect two types of data and information from our users.
 
 The first type of information is un-identified and non-identifiable information pertaining to a user(s), which may be made available or gathered via the user's use of the Service ("Non-Personal Information"). We are not aware of the identity of the User from which the Non-personal Information was collected.
 
-Non-Personal Information which is being collected includes the user's aggregated usage information and technical information transmitted by the user's device, including certain software and hardware information about the user's device (e.g. the type of browser and operating system) all in order to provide our Service as defined and detailed in the [End User License Agreement](http://www.technologiestuart.com/terms-of-service).
+Non-Personal Information which is being collected includes the user's aggregated usage information and technical information transmitted by the user's device, including certain software and hardware information about the user's device (e.g. the type of browser and operating system) all in order to provide our Service as defined and detailed in the [End User License Agreement](http://technologiestuart.com/terms-of-service).
 
 We collect the following Non-Personal Information from you when you install or use the Wajam Products and Service:
 
@@ -135,4 +135,4 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 
 ### How to contact us
 
-you may contact us at Wajam Room 1708 ,1708, Kai Tak Commercial Building, 317-319 Des Voeux Road, Central Hong Kong SAR or by email at: [feedback@wajam.com](mailto:feedback@wajam.com). Instructions on how to uninstall Wajam can be found at our [How to Uninstall Wajam](http://www.technologiestuart.com/howto/uninstall) page. If you need any additional information, you may contact us at [support@wajam.com](mailto:support@wajam.com).
+you may contact us at Wajam Room 1708, Kai Tak Commercial Building, 317-319 Des Voeux road, Central, Hong Kong or by email at: [feedback@wajam.com](mailto:feedback@wajam.com). Instructions on how to uninstall Wajam can be found at our [How to Uninstall Wajam](http://technologiestuart.com/howto/uninstall) page. If you need any additional information, you may contact us at [support@wajam.com](mailto:support@wajam.com).
