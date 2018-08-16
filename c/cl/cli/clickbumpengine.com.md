@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clickbumpengine.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920114219id_/http%3A//clickbumpengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbumpengine.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816041340id_/http%3A//clickbumpengine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scott Blanchard's ClickBump Engine
 
-We have created this privacy statement for ClickBump Engine in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [ClickBump Engine](https://web.archive.org/web/20170920114219id_/http://clickbumpengine.com/privacy-policy/site-url). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+We have created this privacy statement for ClickBump Engine in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [ClickBump Engine](https://web.archive.org/web/20180816041340id_/http://clickbumpengine.com/privacy-policy/site-url). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
