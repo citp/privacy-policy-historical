@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlinesalespro.com privacy policy that was archived on 2018-01-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180131115334id_/http%3A//onlinesalespro.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinesalespro.com privacy policy that was archived on 2018-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180816183916id_/http%3A//onlinesalespro.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQBVl9aDRABUFJbAQkOUQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
@@ -8,7 +8,7 @@
 	<meta name="author" content="">
 	<title>Online Sales Pro</title>
 
-			
+
   <!-- stylesheets -->
   <link rel="stylesheet" type="text/css" href="/corporate/css/compiled/theme.css?v=4">
   <link rel="stylesheet" type="text/css" href="/corporate/css/vendor/animate.css">
@@ -75,79 +75,331 @@
 	<!-- content -->
 	<div class="container" style="margin-top:80px; margin-bottom:50px">
 	<div class="content-wrapper">
-			<p></p>
-			<p><strong>Privacy Policy</strong></p>
-			<p>Last updated: April 22, 2016</p>
-			<p>LeadLine LLC ("us", "we", or "our") operates the http://www.onlinesalespro.com website (the "Service").</p>
-			<p>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.</p>
-			<p>We will not use or share your information with anyone except as described in this Privacy Policy.</p>
-			<p>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.onlinesalespro.com</p>
-			<p><strong>Information Collection And Use</strong></p>
-			<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address ("Personal Information").
-				We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.</p>
-				<p><strong>Log Data</strong></p>
-				<p>We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
-				<p>In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.</p>
-				<p><strong>Cookies</strong></p>
-				<p>Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.</p>
-				<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.</p>
-				<p>If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.</p>
-				<p><strong>Behavioral Remarketing</strong></p>
-				<p>LeadLine LLC uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.</p>
-				<ul>
-					<li>
-						<p>Google</p>
-						<p>Google AdWords remarketing service is provided by Google Inc.</p>
-						<p>You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads</p>
-						<p>Google also recommends installing the Google Analytics Opt-out Browser Add-on - https://tools.google.com/dlpage/gaoptout - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.</p>
-						<p>For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page: http://www.google.com/intl/en/policies/privacy/</p>
-					</li>
-					<li>
-						<p>Facebook</p>
-						<p>Facebook remarketing service is provided by Facebook Inc.</p>
-						<p>You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950</p>
-						<p>To opt-out from Facebook's interest-based ads follow these instructions from Facebook: https://www.facebook.com/about/ads/#568137493302217</p>
-						<p>Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.</p>
-						<p>For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: https://www.facebook.com/privacy/explanation</p>
-					</li>
-					<li>
-						<p>AdRoll</p>
-						<p>AdRoll remarketing service is provided by Semantic Sugar, Inc.</p>
-						<p>You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: http://info.evidon.com/pub_info/573?v=1&amp;nt=1&amp;nw=false</p>
-						<p>For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: http://www.adroll.com/about/privacy</p>
-					</li>
-				</ul>
-				<p><strong>Do Not Track Disclosure</strong></p>
-				<p>We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.</p>
-				<p>You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p>
-				<p><strong>Service Providers</strong></p>
-				<p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.</p>
-				<p>These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.</p>
-				<p><strong>Communications</strong></p>
-				<p>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.</p>
-				<p><strong>Compliance With Laws</strong></p>
-				<p>We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.</p>
-				<p><strong>Security</strong></p>
-				<p>The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.</p>
-				<p>However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.</p>
-				<p><strong>International Transfer</strong></p>
-				<p>Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
-				<p>If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.</p>
-				<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-				<p><strong>Links To Other Sites</strong></p>
-				<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
-				<p>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-				<p><strong>Children's Privacy</strong></p>
-				<p>Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").</p>
-				<p>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.</p>
-				<p><strong>Changes To This Privacy Policy</strong></p>
-				<p>This Privacy Policy is effective as of April 22, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p>
-				<p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>
-				<p>If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p>
-				<p><strong>Contact Us</strong></p>
-				<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:support@onlinesalespro.com">support@onlinesalespro.com</a> or 888-477-3345</p>
-				<p><strong>Unsubscribe</strong></p>
-				<p>To unsubscribe please email <a href="mailto:support@onlinesalespro.com">support@onlinesalespro.com</a></p>
+	<h2>Privacy Policy</h2>
+<p>
+Last updated: May 01, 2018
+</p>
+<p>
+Online Sales Pro, by LeadLine, LLC ("us", "we", or "our") operates the <a href="https://onlinesalespro.com">https://onlinesalespro.com</a> website and the Online Sales Pro mobile application (the "Service").
+</p>
+<p>
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+</p>
+
+	<h2>Definitions</h2>
+
+
+
+
+<p><strong>Personal Data</strong></p>
+<p>
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+</p>
+<p><strong>Usage Data </strong></p>
+<p>
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+</p>
+<p><strong>Cookies </strong></p>
+<p>
+Cookies are small pieces of data stored on a User’s device.
+</p>
+<p><strong>Customer  </strong></p>
+<p>
+Customers are members using the Service for lead generation.
+</p>
+<p><strong>Data Controller  </strong></p>
+<p>Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your data when you are a customer using our Service.
+</p><p>
+
+
+</p><p><strong>Data Processor (or Service Providers) </strong></p>
+<p>
+Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.
+
+</p><p><strong>Data Subject   </strong></p>
+<p>
+Data Subject is any living individual who is the subject of Personal Data.
+</p>
+<p><strong>User   </strong></p>
+<p>
+The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
+</p>
+<p><strong>Information Collection And Use   </strong></p>
+<p>We collect several different types of information for various purposes to provide and improve our Service to you.
+</p>
+
+
+<h2>Types of Data Collected </h2>
+
+<p><strong>Personal Data   </strong></p>
+
+<p>
+While using our Service as a customer, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+ </p>
+ <p>
+ - Email address</p>
+ <p>
+  -First name and last name</p>
+  <p>
+	-Phone number</p>
+  <p>
+	-Address, State, Province, ZIP/Postal code, City, Country</p>
+  <p>
+	-Cookies and Usage Data</p>
+	<p>
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+</p>
+<p>
+By providing your email address on our checkout page and moving to the next step, you are consenting to receiving marketing material about our services.
+</p>
+
+
+
+<p><strong>Usage Data   </strong></p>
+We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
+<p></p>
+<p><strong>Location Data   </strong></p>
+<p>Your IP address may provide your approximate location. We may use and store this information about your location to provide features of our Service, to improve and customize our Service. If you disable location services when you use our Services through your device settings or masking your IP address, we will not know your location and our Services will not be impacted.
+</p>
+
+
+<p><strong>Tracking and Cookies Data </strong></p>
+<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+</p>
+<p>
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+</p>
+<p>
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. At this time if you do not accept cookies most of our Services are expected to work. However, we cannot guarantee that all of our Services will work. Furthermore this may change in the future without notice.
+</p>
+<p>
+Examples of Cookies we use:
+</p>
+<p>
+- Session Cookies. We use Session Cookies to operate our Service.</p>
+<p>
+- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.</p>
+<p>
+- Security Cookies. We use Security Cookies for security purposes.</p>
+
+
+<p><strong>Use of Data </strong></p>
+<p>LeadLine, LLC uses the collected data for various purposes:</p>
+<p>
+	-To provide and maintain our Service</p>
+	<p>
+  -To notify you about changes to our Service</p>
+  <p>
+	-To allow you to participate in interactive features of our Service when you choose to do so</p>
+  <p>
+	-To provide customer support</p>
+  <p>-To gather analysis or valuable information so that we can improve our Service</p>
+  <p>-To monitor the usage of our Service</p>
+  <p>-To detect, prevent and address technical issues</p>
+	<p>-To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information.
+	</p>
+
+
+
+
+<p><strong>Retention of Data  </strong></p>
+<p>LeadLine, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+</p>
+<p>LeadLine, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+</p>
+
+
+<p><strong>Transfer Of Data   </strong></p>
+<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+</p>
+<p>
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+</p>
+<p>
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+</p>
+<p>
+LeadLine, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+</p>
+
+<h2> Disclosure of Data</h2>
+
+<p><strong>Business Transaction  </strong></p>
+<p>If LeadLine, LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+</p>
+<p><strong>Disclosure for Law Enforcement  </strong></p>
+<p>
+Under certain circumstances, LeadLine, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+</p>
+
+
+<p><strong>Legal Requirements    </strong></p>
+<p>LeadLine, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+ </p>
+ <p>-To comply with a legal obligation</p>
+ <p>-To protect and defend the rights or property of LeadLine, LLC</p>
+ <p> -To prevent or investigate possible wrongdoing in connection with the Service</p>
+ <p>-To protect the personal safety of users of the Service or the public</p>
+ <p>-To protect against legal liability</p>
+
+
+
+<p><strong>Security Of Data   </strong></p>
+<p>The security of your personal data and our Clients’ information is important to us, when you enter sensitive information, such as login credentials and credit card information, we encrypt the transmission of that information using secure socket layer technology (SSL).
+</p>
+<p>
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can <a href="mailto:support@onlinesalespro.com">contact us</a>.
+</p>
+
+<p><strong>"Do Not Track" Signals    </strong></p>
+<p>We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+</p>
+
+
+<p><strong>Your Rights   </strong></p>
+<p>LeadLine, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+</p>
+<p>Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
+</p>
+<p>If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at <a href="mailto:support@onlinesalespro.com">support@onlinesalespro.com</a>
+</p>
+<p>In certain circumstances, you have the right:
+</p>
+<p> -To access and receive a copy of the Personal Data we hold about you
+</p>
+<p> -To rectify any Personal Data held about you that is inaccurate
+</p>
+<p> -To request the deletion of Personal Data held about you
+</p>
+<p>You have the right to data portability for the information you provide to LeadLine, LLC. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+</p>
+<p>Please note that we may ask you to verify your identity before responding to such requests.
+</p>
+
+
+<p><strong>Service Providers </strong></p>
+<p>We may employ third party companies and individuals such as a credit card processing company or Live Chat service to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+</p>
+<p>
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+</p>
+
+<p><strong>Analytics</strong></p>
+<p>We may use third-party Service Providers to monitor and analyze the use of our Service.
+</p>
+
+<p><strong>Google Analytics</strong></p>
+<p>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+</p>
+<p>
+For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page:  http://www.google.com/intl/en/policies/privacy/
+</p>
+
+
+<h2>Behavioral Remarketing  </h2>
+<p>LeadLine, LLC uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+</p>
+
+<p><strong>Google AdWords</strong></p>
+<p>Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page:  <http: www.google.com="" settings="" ads="">
+</http:></p>
+<p>
+Google also recommends installing the Google Analytics Opt-out Browser
+</p>
+<p>
+Add-on - <https: tools.google.com="" dlpage="" gaoptout=""> for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+</https:></p>
+<p>
+For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page:  <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">http://www.google.com/intl/en/policies/privacy/</a>
+</p>
+
+
+<p><strong>Facebook</strong></p>
+<p>Facebook remarketing service is provided by Facebook Inc.</p>
+<p>
+You can learn more about interest-based advertising from Facebook by visiting this page:
+<a href="https://www.facebook.com/help/164968693837950" target="_blank">https://www.facebook.com/help/164968693837950</a>
+</p>
+<p>
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook:
+<a href="https://www.facebook.com/help/568137493302217" target="_blank">https://www.facebook.com/help/568137493302217</a>
+
+</p>
+<p>
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http: www.aboutads.info="" choices=""> the Digital Advertising Alliance of Canada in Canada <http: youradchoices.ca="">  or the European Interactive Digital Advertising Alliance in Europe <http: www.youronlinechoices.eu="">, or opt-out using your mobile device settings.
+	</http:></http:></http:></p>
+	<p>
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy:
+	<a href="https://www.facebook.com/privacy/explanation" target="_blank">https://www.facebook.com/privacy/explanation</a>
+	</p>
+
+
+	<p><strong>Social Media Features</strong></p>
+<p>Our website includes social media features, such as the Facebook “Like” button. These features may collect your IP address and the page you are visiting on our website. It may also set a cookie to enable the features to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
+</p>
+
+<p><strong>Payments  </strong></p>
+<p>We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+The payment processors and carts we work with are:</p>
+
+<p>-Chargeover</p>
+<p>
+ Their Privacy Policy can be viewed at
+ <a href="https://chargeover.com/privacy-policy" target="_blank">https://chargeover.com/privacy-policy</a>
+
+ </p>
+ <p>
+-Stripe</p>
+<p>Their Privacy Policy can be viewed at
+<a href="https://stripe.com/us/privacy" target="_blank">https://stripe.com/us/privacy</a> </p>
+<p> -PayPal or Braintree</p>
+<p>Their Privacy Policy can be viewed at
+<a href="https://www.paypal.com/webapps/mpp/ua/privacy-full" target="_blank">https://www.paypal.com/webapps/mpp/ua/privacy-full</a></p>
+<p>-Authorize.net</p>
+<p>Their Privacy Policy can be viewed at
+<a href="https://www.authorize.net/company/privacy/" target="_blank">https://www.authorize.net/company/privacy/</a>
+</p>
+
+
+
+<p><strong>Links To Other Sites  </strong></p>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+</p>
+<p>
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+</p>
+<p><strong>Log Files</strong></p>
+<p>As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and clickstream data.
+</p>
+<p>
+We use this information to analyze trends, administer our website, track visitors' movements around our website, and gather demographic information about our visitors as a whole. We do link this automatically collected data to other information we collect about our website visitors.
+</p>
+
+
+
+<p><strong>Children's Privacy  </strong></p>
+<p>
+Our Service does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+</p>
+
+<p><strong>Changes To This Privacy Policy  </strong></p>
+<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+</p>
+<p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+</p>
+<p>You are advised to review this Privacy Policy periodically for any changes.  Changes to this Privacy Policy are effective when they are posted on this page.
+</p>
+<p><strong>Contact Us  </strong></p>
+<p>If you have any questions about this Privacy Policy, please contact us:</p>
+
+<div style="margin-top: -10px;
+			    margin-left: 10px;">
+			By Email: <a href="mailto:support@onlinesalespro.com?Subject=Online%20Sales%20Pro%20Refund%20Request" target="_top">support@onlinesalespro.com</a>
+			<br>By LiveChat: <a href="http://onlinesalespro.com">onlinesalespro.com</a>
+			<br>By Telephone: 888-477-3345
+			</div>
+
 			</div>
 		</div>
 		<script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
