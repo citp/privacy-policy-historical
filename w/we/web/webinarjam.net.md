@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the webinarjam.net privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109170002id_/https%3A//www.genesisdigital.co/_legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinarjam.net privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816235943id_/https%3A//www.genesisdigital.co/_legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Genesis Digital | Privacy Policy
 
 This Privacy Shield Policy (“Privacy Policy) applies to the websites related to EverWebinar, WebinarJam, and Kartra provided by Genesis Digital, LLC and its affiliated companies (“Genesis Digital” or “We”), including but not limited to the sites at everwebinar.com, webinarjam.com, and kartra.com, as well as to any software, services, and/or products offered on such website (hereafter the “Sites”).
 
 * * *
-
-#### **Privacy Shield Policy / Privacy Policy**
 
 Genesis Digital values privacy – ours and yours. To help maintain your privacy and the security of your personal information, we communicate this and all of our privacy policies to Genesis Digital employees and agents, and we internally enforce privacy safeguards. We are also self-certified as Privacy Shield compliant (as detailed below) – a further indication of our commitment to the privacy for all of our customers around the globe.
 
@@ -97,9 +95,9 @@ Genesis Digital,
 LLC 7660 Fay Ave #H184,  
 La Jolla, CA 92037 
 
-via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+via email: [legal@genesisdigital.co](mailto:legal@genesisdigital.co)
 
-#### **Disclosure to Third Parties**
+### **Disclosure to Third Parties**
 
 At times Genesis Digital may make certain personal information available to strategic partners that work with us to provide software, products and services, or that help us service our customers. Personal information will only be shared by Genesis Digital to provide or improve the Sites, and our software, products, services, and advertising.
 
@@ -115,23 +113,23 @@ If the Sites and/or software, products, or services, or Genesis Digital LLC beco
 
 We reserve the right to disclose personal information if we reasonably believe that disclosure is necessary to protect our users, customers, or the public, prevent fraud or financial wrongdoing, or in any action to enforce our End User License Agreement, Terms and Conditions, or other policies regarding Genesis Digital.
 
-#### **Personal Information Protection**
+### **Personal Information Protection**
 
 Genesis Digital uses commercially reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access of personal information to our employees, contractors, and/or agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. Genesis Digital and its third party providers use Secure Sockets Layer (SSL) encryption on all web pages where personal information, including financial information is transmitted.
 
 You are solely responsible for any personal information you choose to submit on non-secure sites including but not limited any discussion forums or public comment threads on the Sites, or any social media sites, groups, or threads related to the Sites or the related software, products, or services.
 
-#### **Access to Your Personal Information**
+### **Access to Your Personal Information**
 
 Genesis Digital software customers should periodically log in to review your name, contact information and other readily available personal information, and to ensure they are accurate, complete, and up to date. You can make changes to your information. Changes to your personal details and particulars should be made through the software. KARTRA users should verify that their financial information in their account is accurate, complete, and up to date, particular checking the accuracy of any changes you make. 
 
-You can request access to any personal information we have for you. We will make a good faith effort to provide you with access to reasonably accessible information. You can request that we correct the data if it is inaccurate or delete your personal data. Genesis Digital will comply with such requests if they are reasonable and we will delete your data if Genesis Digital is not required to retain it by law, and does not require it for legitimate business purposes. We may reserve the right to refuse deletion requests that we believe require undue time, or technical effort, or where not provided by local law. We also reserve the right to deny or delay requests where the personal information is scheduled to be deleted as part of any upcoming purge of data that is not being retained. Requests for access, correction, or deletion can be submitted to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can request access to any personal information we have for you. We will make a good faith effort to provide you with access to reasonably accessible information. You can request that we correct the data if it is inaccurate or delete your personal data. Genesis Digital will comply with such requests if they are reasonable and we will delete your data if Genesis Digital is not required to retain it by law, and does not require it for legitimate business purposes. We may reserve the right to refuse deletion requests that we believe require undue time, or technical effort, or where not provided by local law. We also reserve the right to deny or delay requests where the personal information is scheduled to be deleted as part of any upcoming purge of data that is not being retained. Requests for access, correction, or deletion can be submitted to [legal@genesisdigital.co](mailto:legal@genesisdigital.co).
 
-#### **Links to Third-Party Sites**
+### **Links to Third-Party Sites**
 
 The Sites, software, products, services, and communications may contain links to third-party websites, products, or services. Information collected by third parties is governed by their privacy practices, not this Privacy Policy. Please be aware when you leave the Sites and understand that you are subject to a third party’s privacy policy except when you are on the Sites, or using Genesis Digital’s related software, products, or services.
 
-#### **International Users: US Safe Harbor**
+### **International Users: US Safe Harbor**
 
 Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Genesis Digital complies with the US-EU Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, retention, and trans-Atlantic transmission of of personal information from customers in the European Union member countries and Switzerland. We are firmly committed to the principles of the Privacy Shield program including Notice, Choice, Accountability, Security, Data Integrity, Access, as well as Recourse, Enforcement, and Liability. All personal data received from the EU or Switzerland will be subject to treatment according to the Privacy Shield principles, which are detailed through this Policy. You can find details and learn more about the Privacy Shield Program at the official website at <https://www.privacyshield.gov/>
 
@@ -139,7 +137,7 @@ As part of our compliance with the Privacy Shield program, Genesis Digital has s
 
 In certain circumstances, you may have recourse if Genesis Digital fails to comply with the requirement or provisions set forth in this policy. Such recourse is available to you at no charge. As a first step we will always sincerely endeavor to thoroughly investigate and expeditiously resolve any concerns or complaints you may have. You can contact our privacy compliance staff at the following addresses (email and regular mail):
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or 
+[legal@genesisdigital.co](mailto:legal@genesisdigital.co) or 
 
 Privacy Policy   
 c/o Genesis Digital, LLC   
@@ -152,21 +150,27 @@ Genesis Digital has provided, at no charge to you, the option for you to seek re
 
 Note: If you are reading this notice, this information here is still applicable and the recourse described above is still available to you. If at any time we stop participating in the Privacy Shield program we will remove all reference to Privacy Shield.
 
-#### **Changes to this Privacy Policy and Privacy Questions**
+## EUROPEAN UNION Users: The GDPR
 
-If you have any questions or concerns about this Privacy Policy please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+On or before May 25th, 2018 Genesis Digital will be a fully compliant Processor of Personal Data under the GDPR. If you have any questions about your ability to use our software platforms in the EU or with regard to your EU customer’s data, feel free to contact our Data Protection Officer, Richelo Killian [[legal@genesisdigital.co](mailto:legal@genesisdigital.co)] to discuss, or request a copy of our Data Processing Addendum to our EULA. You can also see our general statements regarding the GDPR and our compliance online.
+
+For Kartra click here: <https://www.kartra.com/_legal/gdpr.php> For WebinarJam/Everwebinar click here: <https://www.genesisdigital.co/_legal/gdpr.php>
+
+### **Changes to this Privacy Policy and Privacy Questions**
+
+If you have any questions or concerns about this Privacy Policy please email us at [legal@genesisdigital.co](mailto:legal@genesisdigital.co)
 
 This Privacy Policy is subject to change from time to time at Genesis Digital’s sole discretion. Please check this page periodically for changes. Any such changes to the Privacy Policy will be available on this page. If the policy has been changed in a material way, a notice will be posted on our website along with a link to the updated Privacy Policy. Your continued use of our site following the posting of changes to these terms will mean you accept the changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 We will also archive prior versions of this Privacy Policy and make those versions available for your review.
 
-**LAST UPDATED:**
+**LAST UPDATED: LAST UPDATED: Rev. 2.3.2**
 
-This Policy was created March 2016 and last updated August 3, 2017.
+This Policy was created March 2016 and last updated May 15, 2018. .
 
 * * *
 
-#### **Notice of Compliance to California Residents – Your California Privacy Rights Under The California Online Privacy Protection Act and the**
+### **Notice of Compliance to California Residents – Your California Privacy Rights Under The California Online Privacy Protection Act and the**
 
 **California Business and Professions Code** This privacy policy identifies the categories of personally identifiable information that our company collects through our website or online services about individual consumers who use or visit Genesis Digital's commercial websites or online services in connection with EverWebinar, and WebinarJam (including but not limited to everwebinar.com and webinarjam.com) (collectively “the Sites”) and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
 
@@ -185,7 +189,7 @@ Depending on your activity on our website or online service, the following "pers
   3. An e-mail address;
   4. A telephone number; 
   5. Any other identifier that permits the physical or online contacting of a specific individual; and 
-  6. Information concerning a user that the Sites collect online, from the user, and which is maintained in personally identifiable form, in combination with an identifier described within this Privacy Policy.Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and e-mail address. We will respond to you within thirty (30) days of receiving such a request.
+  6. Information concerning a user that the Sites collect online, from the user, and which is maintained in personally identifiable form, in combination with an identifier described within this Privacy Policy.Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [legal@genesisdigital.co](mailto:legal@genesisdigital.co) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and e-mail address. We will respond to you within thirty (30) days of receiving such a request.
 
 
 
@@ -205,7 +209,7 @@ This Privacy Policy does not create any contractual or other legal rights in or 
 
 Questions about this Privacy Policy may be directed to us in writing at:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or 
+[legal@genesisdigital.co](mailto:legal@genesisdigital.co) or 
 
 Privacy Policy  
 c/oGenesis Digital,   
