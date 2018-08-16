@@ -1,201 +1,194 @@
-> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611090708id_/https%3A//support.vitalsource.com/hc/en-us/articles/201646123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816211732id_/https%3A//support.vitalsource.com/hc/en-us/articles/201646123) for the most accurate reproduction.*
 
-# VitalSource Technologies, Inc. Privacy & Cookies Policy – Bookshelf Support
+# VitalSource Technologies LLC Privacy Policy – Bookshelf Support
 
-This Privacy & Cookies Policy (“Policy”) explains VitalSource Technologies, Inc.’s (“VitalSource,” also “we,” “our,” and “us”) information practices related to any of our websites (such as [www.vitalsource.com](http://www.vitalsource.com/)), any VitalSource owned web retail store, our products known as Bookshelf, Bookshelf Online, Bookshelf mobile applications, reader software, digital content, other products controlled or owned by VitalSource, and any other products or services located on websites that include a link to this Policy (collectively, the “Products”). You agree to the terms of this Policy when you access or use any of the Products or websites, or take other actions described below.
+### **Effective Date and Last Updated: May 25, 2018**
 
-**Information VitalSource collects about you**
+This Privacy Policy (“Policy”) explains VitalSource Technologies LLC’s and our affiliate VST Limited (UK)’s (collectively, “VitalSource,” also “we,” “our,” and “us”) information practices on our services, including any of our desktop applications, mobile applications, websites (such as [www.vitalsource.com](http://www.vitalsource.com/), bookshelf.vitalsource.com), any VitalSource owned web retail store, our products known as Bookshelf, Bookshelf Online, VitalSource Engagement Dashbaord, VitalSource and Bookshelf mobile applications, Intrepid Discover Platform, Intrepid Learn Platform, reader software, digital content, other products controlled owned or licensed by VitalSource, and any other products or services that include a link to this Policy (collectively, the “Products”).
 
-VitalSource collects information from you when you download, access or use any of the Products, register with VitalSource, create an account for our Bookshelf e-reader or any other of our services, or visit any of our websites, as described further below. This information falls into two categories: information you provide directly to us and information that we passively or automatically collect, such as from your browser or device (collectively “Information”).
+**You agree to the terms of this Policy when you access or use any of the Products or websites, or take other actions described below.** **IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THE PRODUCTS**.
 
-**Information You Provide Directly to Us**
+In the context of this Policy, VitalSource acts as a data controller for the information we process, with the exception of information processed solely pursuant at the instruction of your institution, business organization, or another controller, in which case VitalSource acts as a data processor.  If you are an institution or business organization with users under the age of 18 read about VitalSource’s commitment to the [Privacy of Minors, including students.](https://support.vitalsource.com/hc/en-us/articles/226228927)
 
-We may collect Information from you when you access or use the Products, such as when you: create an account, make a purchase, download content, input user-generated content, including notes and highlights in books, participate in assessments, and share information with friends. The types of Information we collect may include your name, address, email address, phone number, other contact information, employer, academic institution, course information, credit or debit card numbers, and user-generated content such as notes, highlights, and responses to assessments.
+## **1\. Definitions**
 
-You can choose not to provide such Information, but, in general, most of the Information we request from you is required in order for us to provide the Products and the lack of such Information will prevent us from doing so. We will collect, use, transfer and disclose this Information as described in this Policy. We may collect, use, transfer and disclose aggregate or de-identified information without any restriction.
+  1. “Information” is Data that falls into three categories: data that you provide directly to us, data that we receive from third-parties, and data that we passively or automatically collect, such as from your browser or device.
+  2. “Personal Data” is Information that can personally identify you, including but not limited to first name, last name, and contact information.
+  3. “De-identified Data” is data that will have all information that is linked or linkable to you, including personal identifiers (such as name, student identification number, and contact information), irrevocably disassociated, in a manner that would prevent a reasonable person from identifying any party with reasonable certainty. VitalSource shall not attempt to re-identify data. 
+  4. “Content Owners” are licensors that have rights related to the content that you access.
+  5. “Distributor” is the academic institution, employer, business organization, training firm, or other entity that directly licensed or provided you with access to Product(s). 
 
-**Information We Receive From Third-Parties**
 
-We may receive similar Information from third parties including public sources, our related companies, your organization, your representatives, information service providers, social media and the parties with whom we exchange Information as described here.
 
-**Information That Is Automatically Collected**
+## **2\. Information We Collect About You**
 
-VitalSource also automatically collects certain Information as you use the Products, make Product purchases and interact with us. This Information includes, but is not limited to:
+VitalSource collects information from you when you purchase, redeem, download, access or use any content or the Products; register a Product with VitalSource; create an account; take notes or participate in assessments in a Product; use collaboration features; submit requests; and access Products, including when you visit any of our websites; as described further below.
 
-  * facts about your purchases,
-  * how you use the Products,
-  * the specific Products you use,
-  * the specific parts of the Products you use,
-  * analytical data created when you view the Products, create new notes, or view previous notes on any device,
-  * activities you engaged in, such as your searches and other transactions,
-  * information about page views, page usage, time on page, and other information about usage,
-  * information from interactive Products, including scores from assessments, engagement during study sessions and overall performance, and
-  * records of any contact we have with you by telephone, email or online.
+### **a.  Information You Provide Directly to Us**
 
+Depending on the Products you use, the types of Information we collect include your name, address, email address, phone number, other contact information, academic institution, payment information collected and used by our third party payment processors such as credit or debit card numbers, information regarding your use of the Products, and user-generated content such as notes, highlights, and responses to assessments; and any other type of Information or Personal Data you submit to us at your discretion, such as by contacting us.
 
+You can choose not to provide such Information, but, in general, most of the Information we request from you is required in order for us to provide the Products and the lack of such Information will prevent us from doing so. We will collect, use, transfer and disclose this Information as described in this Policy.
 
-**Cookies**
+### **b. Information We Receive From Third-Parties**
 
-VitalSource may collect Information about you when you visit the VitalSource website through the use of “cookies.” Cookies are small text files placed in visitors' computers to store their preferences. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to our website and will last for longer. VitalSource may use cookies and other methods to determine your domain name and what browser and operating system you are using, your Internet Protocol (IP) address, the date and time of your request if any, and the device you are using.
+We receive Information from third parties, such as educational institutions, your business organization or representatives (if you are a corporate customer), third-party authentication services (if you interact with us through third-party sites or services) and the parties with whom we exchange Information as described here. 
 
-**We use cookies to:**
+### **c. Information That Is Automatically Collected**
 
-  * remember that you have visited our website before; this means we can identify the number of unique visitors we receive. This allows us to make sure we have enough capacity for the number of users that we get;
-  * customize elements of the promotional layout and/or content of the pages of our website;
-  * collect anonymous statistical information about how you use our website (including how long you spend on the website) and where you have come to our website from, so that we can improve the website and learn which parts of it are most popular with visitors; and
-  * gather information about the pages on our website that you visit, and also other information about other websites that you visit, so as to place you in a “market segment”. This information includes information about the county and city you are in, together with the name of your Internet service provider. This information is then used to place interest-based advertisements on our website which it is believed will be relevant to your market segment. For more information about this type of interest based advertising, and about how to turn this feature off please visit [youronlinechoices.com](http://www.youronlinechoices.com/) and [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/).
+VitalSource automatically collects certain Information as you use the Products, make Product purchases and interact with us. We and our service providers (which are third-party companies that work on our behalf), may use a variety of technologies, including cookies and similar tools, to assist in collecting: 
 
+  * technical data, such as your domain name, and what browser type and langauge, and operating system you are using, your Internet Protocol (IP) address, country, and city, your device types, mobile device identifier, the date and time of your request, if any, and the device you are using, referring and exit pages and URLs, platform type, landing pages, error logs, and other similar information; and
+  * usage data, such as the date and time of your requests, the number of clicks, information you download, how and which Products you use; pages viewed and the order of those pages, the amount of time spent on particular pages, the terms you use in searches on our sites; information from interactive Products, including scores from assessments, engagement during study sessions and overall performance, and records of any contact we have with you by telephone, email or online.
+  * VitalSource may collect Information about you when you visit the VitalSource website through the use of “cookies.” [Please see our Cookie Policy](http://www.vitlasource.com/cookies).
+  * We may use third-party web analytics services (such as those of Google Analytics, New Relic, and Hotjar) on our Services to collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent Google Analytics from using your information for analytics, you may install the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout)
+  * If you receive an email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications.
 
 
-Some of the cookies used by our website are set by us, and some are set by third parties who are delivering services on our behalf.
 
-**Our cookies**
+We keep your Personal Data for no longer than necessary for the purposes for which it is processed. The length of time for which we retain Personal Data depends on the purposes for which we collected and use it, the instructions of a controller when we act as a processor, and/or our requirements to comply with applicable laws.
 
-|  |   
----|---|---  
-  
-**Cookie name**
+## **3\. Using your Information**
 
-| 
+Depending on the Product you use, we use your Information to:
 
-**Purpose**
+  * meet our contractual commitments to you,
+  * administer your account and respond to your requests,
+  * provide the Products you request,
+  * maintain and improve the Products and to develop new Products,
+  * provide you with information related to the Products, including changes to the Products, or other information we think you may find useful about our products and services or those of carefully selected third parties, provided you have indicated that you do not object to being contacted for these purposes,
+  * customize content supplied to you based on your use of the Products (e. _g_., study recommendations, supplemental content),
+  * to track, evaluate, and analyze individual and aggregate use of the Products and to share, publish, or otherwise publicize information, but not Personal Data, describing such use,
+  * provide recommendations or advertising for products and services that may be of interest to you,
+  * prevent, investigate and deal with fraud, violation of intellectual property rights and other laws and unauthorized use of Products or your account,
+  * as otherwise reasonable and appropriate to the legitimate business needs of VitalSource related to the Products,
+  * as otherwise described to you in this Privacy Policy, for example in the section describing how we share your information, including Personal Data, with third parties.
 
-| 
 
-**Type and duration**
 
-[i.e. session only or persistent]  
-  
-**Persistent Cookie**
+## **4\. Sharing Your Information**
 
-| 
+If we share Information, including Personal Data, with third parties we require the recipient to maintain appropriate levels of confidentiality, integrity, availability and data protection for such Personal Data, and we will never sell Information to any third party.  We share information as follows:
 
-Saves user information that may be accessed every time a user visits our site.
+  * With the Distributor, VitalSource shares information related to your use, results from your interaction with, results from assessments taken, user-generated content, and overall engagement with relevant Products, including interactive elements. Examples include: 
+    * An academic institution, or their affiliated store, licensing our e-commerce platform to provide you access to Products
+    * An academic institution, or their affiliated store, licensing our Products to provide you access to content in your Learning Management System
+    * A company licensing our Product(s) to provide you access to a course or training materials on our Product(s), either through a code you are given, or a direct integration with our Product(s)
+  * With Content Owners in certain cases: 
+    * For instructors that get desk copies, samples, or free access to Content Owner’s Products we share your name, activity, and institution, in addition to the contact information that you specifically provide for purposes of sharing with Content Owners.
+    * When we report sales to Content Owners, we include data identifying the institution or school associated with such sales.
+    * When you ask us to convey to Content Owners course and enrollment metrics so that they can provide you with pricing or other special terms.
+    * For content identified as courseware, Content Owners, and not VitalSource, host the content that you are trying to access, we provide Content Owners the information required to provide you access to the Product(s) you have licensed, such as your name, email, and course id.
+    * We share De-Identified Data of usage and user-generated data associated with Content Owner’s content.
 
-| 
 
-Persistent – outlasts session duration.  
-  
-**Session Cookie**
+  * **With trusted third parties performing certain tasks on our behalf.  **For example, this may include but is not limited to service providers providing customer support, operation and administration of the Products, processing information that you provide to us, and other tasks related to the Products. We allow these third parties to access only the information needed to perform those services.
+  * **With other visitors to the Product or users of the Product.** To the extent that you submit content to publicly accessible portions of the Product, visitors and users may be able to view your content and Personal Data that identifies you as the author.
+  * **Legal Process and Protection of VitalSource and Others.** We may share information if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to: (a) comply with legal process (e.g. a subpoena or court order); (b) enforce our Terms of Service, this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; and/or (e) protect the rights, property or personal safety of VitalSource, its agents and affiliates, its users and/or the public.  
+  * **With affiliates of VitalSource, or with successors in the event of or in contemplation of a merger, acquisition, divestiture or reorganization, in whole or part, for use consistent with this Privacy Policy.**
+  * **As otherwise described to you at the point of collection, pursuant to your consent, or as otherwise permitted by law.**
 
-| 
 
-Saves user information that may be accessed only as long as the browser session exists.
 
-| 
+## **5\. Your Rights and Choices**
 
-Session – lasts only as long as the session duration.  
-  
-**Third Party**
+  * Data Subject Rights: You have certain rights with respect to your Information as further described in this section. If you would like further information regarding your legal rights under applicable law or would like to exercise any of them, please contact us as described in the Contacting Us section of this Policy.
+  * You can tell us not to contact you with promotional information regarding our Products and services and those of third parties either at the point information is requested on our website (by checking or un-ticking (as directed) the relevant box) or, by following the unsubscribe instructions on promotional communications sent to you. You can also exercise the right at any time by contacting us using the Contacting Us details at the end of this Policy.
+  * **_You may request that we:_**
+  * provide access to and/or a copy of certain information we hold about you;
+  * prevent the processing of your information for direct-marketing purposes (including any direct marketing processing based on profiling);
+  * update information which is out of date or incorrect;
+  * restrict the way that we process and disclose certain of your information;
+  * transfer your information to a third party provider of services; and
+  * revoke your consent for the processing of your information.
+  * delete certain information which we are holding about you (request that you be forgotten).
 
-| 
 
-These cookies save information on the user’s computer and are accessed from domains different from the one shown in the address bar.
 
-| 
+Please note, however, that certain information may be exempt from such requests in some circumstances, which may include if we need to keep processing your information for our legitimate interests or to comply with a legal obligation.  An exercise of the right to be forgotten will result in your inability to use the Product(s), and will break any linkage between your prior account and your historical engagement data.
 
-Persistent – outlasts session duration.  
-  
-In addition to cookies, tracking GIFs may be set by us or third parties in respect of your use of our website. Tracking GIFs are small image files within the content of our website or the body of our newsletters so we, or third parties, can understand which parts of the website are visited and whether particular content is of interest.
+### Request Content & Responses:
 
-Most web browsers automatically accept cookies but all computers have the ability to decline cookies. This can be done by activating the setting on your browser that enables you to decline the cookies. Please note that if you choose to decline cookies, you may be unable to access parts of our website. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browsers.
+  * We may request you provide us with information necessary to confirm your identity before responding to your request. In the case of access and correction requests, please provide as much detail as you can about the particular personal data you seek, in order to help us locate it.
+  * We will consider all requests and provide our response within the time period stated by applicable law.
+  * Where we decide not to make a requested correction to your personal data and you disagree, you may ask us to make a note of your requested correction with the data.
+  * In situations in which we process your personal data only on behalf of a customer such as an educational institution, we may refer your request to the relevant party and cooperate with their handling of the request.
+  * California Online Privacy Protection Act Notice Concerning Do Not Track Signals. We do not recognize or respond to browser-initiated Do Not Track (“DNT”) DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. Visit [All about DNT](https://allaboutdnt.com/) to learn more about Do Not Track.
+  * YOUR CALIFORNIA PRIVACY RIGHTS: California Law permits visitors who are California residents to request once per year certain information regarding our disclosure of personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please send an email to privacy@vitalsource.com or write to us at VitalSource Technologies LLC, Attn: Privacy, 227 Fayetteville Street, Suite 400 Raleigh NC, 27601.
 
-**VitalSource's use of your Information**
 
-VitalSource uses your Information, by itself or in conjunction with data lawfully collected through other sources, for the following purposes:
 
-  * to meet our contractual commitments to you,
-  * to administer your account and respond to your requests,
-  * to provide the Products requested by you, including to provide the correct Products requested for your selected computer or device,
-  * to maintain and improve the Products and to develop new Products,
-  * to track your purchase history and to provide you on an ongoing basis with information related to the Products, including changes to the Products or other information we think you may find useful about our products and services or those of carefully selected third parties, provided you have indicated that you do not object to being contacted for these purposes,
-  * to customize content supplied to you based on your use of the Products ( _g_., study recommendations, supplemental content),
-  * to conduct research and to update our website and analyze how it is used,
-  * provide recommendations or advertising for products and services that may be of interest to you;
-  * to conduct analytics services on our Services, using third party services such as Google Analytics. These service providers use the sort of technology described in the “Information that is Automatically Collected” section above to help us analyze how users use the Products, including by noting the third-party website from which you arrive. The information collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Products.
-  * to prevent, investigate and deal with fraud, violation of intellectual property rights and other laws and unauthorized use of Products or your account, and
-  * as otherwise reasonable and appropriate to the legitimate business needs of VitalSource related to the Products.
-
-
-
-We may aggregate and/or de-identify Information collected through the Products. We may use de-identified or aggregated data for any purpose and may share it with any third parties.
-
-**Your Choices**
-
-You can tell us not to contact you with promotional information regarding our products and services and those of third parties, either at the point information is requested on our website (by checking or un-ticking (as directed) the relevant box) or, by following the unsubscribe instructions on promotional communications sent to you. You can also exercise the right at any time by contacting us using the Contacting Us details at the end of this  Policy.
-
-If you are interested in more information about tailored browser advertising and how you can control some cookies from being put on your computer to deliver tailored marketing, you may visit the [Network Advertising Initiative's Consumer Opt-Out Link](http://www.networkadvertising.org/choices) and/or the [Digital Advertising Alliance's Consumer Opt-Out Link](http://www.aboutads.info/choices) to opt-out of receiving tailored advertising from companies that participate in those programs. To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit the [Google Ads Settings page](https://www.google.com/settings/ads). Please note, you may still receive advertising content even if you opt out of tailored advertising. In that case, the advertising content will just not be tailored to your interests. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. If your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAA opt-out may no longer be effective. Additional information is available on NAI's and DAA's websites, accessible by the above links.
-
-When using a mobile application you may also receive tailored in-application advertising content. Each operating system-iOS for Apple devices, Android for Android devices, and Windows for Microsoft devices-provides its own instructions on how to prevent the delivery of tailored in-application marketing content. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertising. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator.  We do not control these device settings and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
-
-**California Online Privacy Protection Act Notice Concerning Do Not Track Signals**
-
-Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers and is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. To learn more about Do Not Track, you can do so [here](https://allaboutdnt.com/).
-
-VitalSource may share your Information with third parties as described below.
-
-**We may share your Information with “fulfillment partners”, such as academic institutions, resellers and content owners or others, that provide you access to our Product(s) and services.** When you access any Product(s) through an integration or a code provided by a Fulfillment Partner, VitalSource may share Information related to your use, results from your interaction with, results from assessments taken, and overall engagement with relevant Product(s), including interactive elements within the Product(s), and third party Product(s) that are integrated with the Product(s) (such as Bookshelf GPS), with the Fulfillment Partner. The Fulfillment Partner may see, for example, that you have accessed and used a certain Product or certain of its contents, or spent a certain amount of time using it. This Information may be used to help the Fulfillment Partner evaluate your progress and improve your learning. By accessing the relevant Product(s), or by redeeming any provided code(s), you agree to VitalSource sharing this Information with the Fulfillment Partner in this way.
-
-**Content Owners.** VitalSource may share certain Information with content owners or licensees that have rights related to the Products that you access (“Content Owners”). VitalSource may share contact information of verified instructors who request samples to the Content Owners of such samples.  VitalSource may also share de-identified or aggregate data about you and your use of the Product with Content Owners.  Content Owners will use this data for their own research and tracking purposes, to evaluate Product use and access, to improve Products and related analysis.
-
-**Third parties and affiliates performing support functions.** VitalSource may share your Information with third-party service providers and with VitalSource affiliates (such as parent companies, subsidiaries, or other companies within our corporate family) that perform support functions related to the Products. The purpose of this sharing may include, but is not limited to, research, analyzing usage data, providing marketing assistance to VitalSource, processing your credit or debit card payments, providing customer service to you, processing and fulfilling your orders, providing you with Product access, for storage, assisting VitalSource with providing the Products to you, assisting VitalSource in using the Information as described in this Policy, and related matters. 
-
-**Disclosures as required by law or to prevent harm.** VitalSource reserves the right to exchange Information with relevant parties such as courts, government agencies and lawyers if it reasonably believes that collection, access, use, preservation or disclosure of such Information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or enforceable governmental request, including to meet national security or law enforcement requirements, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, or (d) protect against harm to the rights, property or safety of VitalSource, its affiliates or users, the Content Owners or the public, as required or permitted by law.
-
-**Assignment of your Information.** VitalSource reserves the right to disclose and transfer ownership of your Information, without payment to you, to third parties (such as purchasers, potential purchasers and their advisers) in connection with a merger, acquisition or sale of all, or components, of our business or in contemplation thereof (e.g., due diligence). . You acknowledge and agree that the third party may use your Information for the purposes described in this Policy and related uses without payment to you. 
-
-**Public forums**
-
-Some of the Products may, from time to time, make chat rooms, message boards, news groups and/or other public forums available to users. Any information that is disclosed in such forums is available to all other users of such features and may become publicly available.
-
-**Children’s' privacy**
-
-You must be 13 years of age or older to create a Bookshelf account.. VitalSource does not solicit orders or knowingly collect Information from children under the age of 13. If we have reason to believe that any Information has been submitted to us by a child under 13, we will delete that information after taking appropriate actions to prevent further Information submission and as required by law.
-
-**Security**
+## **6\. Security**
 
 VitalSource takes information security seriously and has taken various measures to keep your Information secure from unauthorized access or disclosure, whether that Information is stored physically or electronically. VitalSource has established administrative, technical, physical, electronic and managerial procedures to help prevent unauthorized access, maintain data security and use the Information collected from you in accordance with this Policy. VitalSource has security measures in place to protect against loss, misuse, or alteration of your Information. Despite these efforts, VitalSource cannot guarantee that unauthorized access or disclosure of Information will never happen. If you have concerns, do not use the Products.
 
-It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal data if you use a shared computer or a computer in a public place.
+## **7\. European Union Users**
 
-**International transfer of Information**
+### _EU-US, Swiss-US Privacy Shield Framework_
 
-Given that the Internet is a global environment, using the Internet to collect and process Information necessarily involves the transmission of data on an international basis. Therefore, by using any of the Products, you acknowledge and consent to the transfer of your Information outside your country of residence to any country (including the United States, Canada, the United Kingdom and Australia) where we have facilities or engage third parties (including but not limited to payment processors, cloud service or other IT providers and other companies that provide services to us). You understand that the countries to which we may transfer Information may not have as comprehensive a level of data protection as in your country. In relation to Australia’s Privacy Act, you agree that in the case of a breach of by the third party in relation to handling your personal data, we will not be accountable for the third party under the Privacy Act and you may not be able to seek redress under the Privacy Act.
+VitalSource Technologies LLC complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (the "Privacy Shield"), as adopted and set forth by the U.S. Department of Commerce regarding the processing of “personal data” (as defined under the Privacy Shield), within the scope of this Policy, from applicable European countries. VitalSource Technologies LLC commits to adhere to and has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity, access, and recourse, enforcement, and liability for such personal data. To learn more about the Privacy Shield, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-**Third-party links**
+As required under the principles, when VitalSource receives Personal Data under the Privacy Shield and then transfers it to a third-party service provider acting as an agent on VitalSource’s behalf, we have certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) VitalSource is responsible for the event giving rise to the damage.
+
+VitalSource remains liable for the protection of Personal Data that we transfer to these third parties within the scope of our Privacy Shield certification, except to the extent that we are not responsible for the event giving rise to any unauthorized or improper processing.
+
+Some users (including those whose information we collect under the Privacy Shield) have certain legal rights to access certain information we hold about them and to request its deletion:
+
+For Personal Data about European residents, when the purposes of processing are satisfied and we are not required to retain Personal Data to comply with applicable law, we will delete or anonymize your Personal Data within a maximum of twelve months.
+
+Given that the Internet is a global environment, using the Internet to collect and process Information necessarily involves the transmission of data on an international basis. Therefore, by using any of the Product(s), you acknowledge the transfer, storage or use of your Information outside your country of residence to any country (including the United States, Canada, the United Kingdom and Australia) where we have facilities or engage trusted third parties (such as payment processors, cloud service or other IT providers and other companies that provide services to us). You understand that the countries to which we may transfer Information may not have as comprehensive a level of data protection as in your country. In relation to Australia’s Privacy Act, you agree that in the case of a breach by the third party in relation to handling your personal data, we will not be accountable for the third party under the Privacy Act and you may not be able to seek redress under the Privacy Act.
+
+### **Legal Basis for Use (e.g., processing) of Your Information:**
+
+  * Where use of your Information is necessary to perform our obligations under a contract with you (for example, to comply with the terms of service of our Products which you accept by browsing the Products or registering; and/or our contract to provide our Products to you);
+  * Where use of your Information is necessary for our legitimate interests or the legitimate interests of others (for example, to provide security for our Products; operate our Products; make and receive payments; comply with legal requirements and defend our legal rights; prevent fraud); or
+  * With your consent; or
+  * Other grounds, as required or permitted by law in the specific respective context.
+
+
+
+If you have any questions or complaints about VitalSource’s privacy practices, including questions related to the Privacy Shield, you may contact us at the email address or mailing address set forth under “Contact Us.” We will work with you to resolve your issue.
+
+### _Dispute Resolution_
+
+If you are a resident of the European Union or Switzerland and your privacy complaint or dispute cannot be resolved through VitalSource’s internal processes, you may seek further assistance, at no cost to you, from our designated Privacy Shield independent recourse mechanism, the JAMS Privacy Shield Program, which you can learn more about by visiting <https://www.jamsadr.com/eu-us-privacy-shield>.
+
+### _Binding Arbitration_
+
+European Residents may elect to arbitrate unresolved complaints pursuant to the Privacy Shield’s Recourse, Enforcement and Liability Principle and Annex I of the Privacy Shield, but prior to initiating such arbitration, you must: (1) contact us and afford us the opportunity to resolve the issue; (2) seek assistance from our designated independent recourse mechanism above; and (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue. Each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the individual.
+
+### _Regulatory Oversight_
+
+VitalSource is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+
+## **8\. Childrens' privacy**
+
+Generally, our Products are for users 13 years of age or older, and users must be 13 or older to create an account for a Product. For Products offered to K-12 schools, we either provide that Product without collecting, using, or disclosing “personal information” (as defined in the Children’s Online Privacy Act (“COPPA”), except as permitted by COPPA, or we obtain consent from the school or a parent or guardian.   If we have reason to believe that any personal information has been submitted to us by a child under 13 in the United States or a child under 16 in the EU without legally-valid consent, we will take reasonable steps to delete that information as soon as possible.  We also comply with other age restrictions and requirements in accordance with applicable local laws.  Read more about VitalSource’s commitment to the [Privacy of Minors, including students](https://support.vitalsource.com/hc/en-us/articles/226228927). 
+
+## **9\. Links to Other Websites**
 
 You may find links to third-party websites from any of the Products. These websites may have their own privacy, cookies and/or other policies, which you should check. We do not accept any responsibility or liability for their policies because we have no control over them.
 
-**Your rights**
-
-You can contact us to request access to, correction, or to exercise the right to be forgotten with respect to the personal data  (as defined by applicable law) about you held by us, or to raise any concerns about our handling of that data.  An exercise of the right to be forgotten will result in your inability to use the Product(s), and will break any linkage between your prior account and your historical engagement data.
-
-You have a right to request a copy of or to correct errors in the personal data about you held by us. On request, we will provide you with a copy of this personal data.
-
-In the case of access and correction requests, please provide as much detail as you can about the particular personal data you seek, in order to help us locate it. We will provide our reasons if we deny any request for access to or correction of personal data. Where we decide not to make a requested correction to your personal data and you disagree, you may ask us to make a note of your requested correction with the data.
-
-We take your privacy concerns seriously. Where you express any concerns that we have interfered with your privacy, we will respond to let you know who will be handling your matter and when you can expect a further response. We may request additional details from you regarding your concerns, and may need to engage or consult with other parties in order to investigate and deal with your issue. We will keep records of your request and any resolution.
-
-As mentioned above, you have a right to prevent the use of your personal data for direct marketing purposes.
-
-**YOUR CALIFORNIA PRIVACY RIGHTS**
-
-California Law permits visitors who are California residents to request once per year certain information regarding our disclosure of personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please send an email to privacy@vitalsource.com or write to us at VitalSource Technologies, Inc. , Attn: Privacy, 227 Fayetteville Street, Suite 400 Raleigh NC, 27601.
-
-**Changes to this Policy**
+## **10\. Changes to this Policy**
 
 The information practices described in this Policy are current as of the effective date at the end of this document. VitalSource reserves the right to periodically update this Policy at its discretion. Notice of any revisions will be posted to this page and are effective once posted. If you are concerned about how your Information is used, bookmark this page and check back periodically.
 
-**Contacting us**
+## **11\. Contacting us**
 
 If you have any questions, comments, or requests regarding this Policy, please contact us by post or email using the following contact information:
 
-VitalSource Technologies, Inc. 
+  * VitalSource Technologies LLC
+  * ATTN: Info Data Sec and Privacy Officer
+  * 227 Fayetteville Street
+  * Suite 400 Raleigh NC, 27601
+  * [privacy@vitalsource.com](mailto:privacy@vitalsource.com)
 
-227 Fayetteville Street
 
-Suite 400 Raleigh NC, 27601
 
-[mailto:privacy@vitalsource.com](mailto:privacy@vitalsource.com)
+Please allow up to 5 business days for us to reply.
 
-Effective and last updated December 15, 2016.
+people found this useful. 
+
+Was this article helpful?
+
+0 out of 0 found this helpful
