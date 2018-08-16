@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212235242id_/http%3A//www.gates.com/utility/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816020700id_/http%3A//www.gates.com/us/en/utility/privacy-policy) for the most accurate reproduction.*
 
-# Gates Privacy Policy | Gates Corporation
+# Privacy Policy | Gates Corporation
 
 ### The Gates Corporation
 
@@ -14,7 +14,7 @@ We know that your privacy is important to you, and we work hard to earn and keep
 
 If you have any questions about this Policy or our privacy practices, please contact us  using the information provided below.
 
-###  Your Consent to This Policy
+### Your Consent to This Policy
 
 Please take a few minutes to review this Policy. By accessing or using this Site, you are agreeing to the terms of this Policy. IF YOU DO NOT AGREE TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL DATA AS SET FORTH IN THIS POLICY, PLEASE EXIT AND DO NOT USE THIS SITE.
 
@@ -67,7 +67,7 @@ _Generally_. We use the Personal Data we collect through this Site:
 
 _Direct Marketing_. If you receive any emails from us for direct marketing purposes, we will offer you the opportunity to “opt out”  from receiving further emails through an opt-out mechanism in the email.
 
-###  With Whom Do We Share Your Personal Data?
+### With Whom Do We Share Your Personal Data?
 
 _Service Providers._ We may share Personal Data collected through this Site with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as Web hosting services or job application processing services) or that help us market our products and services (such as third-party web analytics firms and marketing consultants).
 
@@ -84,7 +84,7 @@ _As Described in a Country-Specific Notice_. We reserve the right to disclose yo
 
 _In General._ We respect your right to make choices about the ways we collect, use and disclose your Personal Data. In most cases, we will ask you to indicate your choices at the time we collect your Personal Data.
 
-_General Opt-Out._ If at any time you wish to be taken off our mailing lists, you can click [here](https://web.archive.org/utility/unsubscribe) to send us an unsubscribe request. Please complete the information requested so that we can find you on our mailing lists. Once we have the information we need, we will remove you from our mailing lists as you have requested. Please give us a reasonable amount of time to honor your request.
+_General Opt-Out._ If at any time you wish to be taken off our mailing lists, you can click [here](mailto:CorpComm12@Gates.com) to send us an unsubscribe request. Please complete the information requested so that we can find you on our mailing lists. Once we have the information we need, we will remove you from our mailing lists as you have requested. Please give us a reasonable amount of time to honor your request.
 
 ### Security
 
@@ -106,7 +106,7 @@ This Policy is part of our Website [Terms of Use](https://web.archive.org/utilit
 
 As we add new features and functionality to this Site, we may need to update or revise this Policy. We reserve the right to do so, at any time and without prior notice, by posting the revised version on this Site. These changes will be effective as of the date we post the revised version on this Site. They will apply only to the Personal Data we collect after we have posted the revised version. Your use of this Site following any such change constitutes your consent to the terms of the revised Policy. For this reason, it is important to review this Policy regularly. If we modify this Policy, we will provide a notice at the top of this Policy for at least thirty days after the new effective date.
 
-###  Definitions
+### Definitions
 
 “Personal Data” means information that directly or indirectly identifies you personally, alone or in combination with other information available to us. Examples of Personal Data include your name, address, and e-mail address.
 
@@ -127,5 +127,5 @@ By email: [CorpComm12@Gates.com](mailto:CorpComm12@Gates.com)
 By mail:  
 Marketing Communications  
 Gates Corporation  
-1551 Wewatta Street  
+1144 Fifteenth Street  
 Denver, CO 80202
