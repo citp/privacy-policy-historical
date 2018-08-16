@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desidime.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522171550id_/https%3A//www.desidime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desidime.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816091800id_/https%3A//www.desidime.com/privacy) for the most accurate reproduction.*
 
 # Online Shopping India - Best Deals, Coupons, Freebies, Indian Online Shopping Community for Mobiles, Electronics, Games, Travel -- DesiDime
 
