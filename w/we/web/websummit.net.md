@@ -1,140 +1,165 @@
-> *The following text is extracted and transformed from the websummit.net privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502113231id_/http%3A//terms.websummit.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websummit.net privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816032910id_/https%3A//websummit.com/privacy-policy) for the most accurate reproduction.*
 
-# Web Summit Terms of Service
+# Privacy policy
 
-This document sets out the terms and conditions between Dublin Web Summit Ltd and you when you purchase a ticket or register for any event or conference organised by Dublin Web Summit Limited or participate in any survey of Dublin Web Summit Limited’s. By purchasing a ticket or registering for an event or conference organized by Dublin Web Summit Limited or participating in a survey you are agreeing to comply with and be bound by these terms and conditions. You should read this document carefully.
+Updated May 22, 2018
 
-Dublin Web Summit Limited reserves the right to change these terms and conditions at any time. Any amended terms and conditions will be posted to this website.
+### 1\. Scope
 
-## CONFERENCE ORGANISER
+Connected Intelligence Limited **(“CIL”, “we”, “us”, “our”)** , organisers of conferences including **“Web Summit”, “MoneyConf”, “Collision”, “f.ounders”, “SURGE”** and **“RISE”** (each, a “Conference”), is committed to protecting your personal information. We invite you to read this Privacy Policy, which explains the types of information collected and created in connection with the relevant Conference, how and why we use such information, who we share it with and your legal rights.
 
-Web Summit 2015 is being organized by Dublin Web Summit Limited, a wholly Irish-owned company, which is in the main business of organizing technology conferences including, but not exclusively, under the brand names (F.ounders, Collision, Dublin Web Summit, Web Summit, The Summit, START, Brand X) and builds summit or conference related software.
+Unless indicated otherwise, this Privacy Policy relates to our use of any personal information we collect or use in relation to the following services (collectively, the “Services”):  
+– the Conference   
+– the Conference websites and their related subdomains including those pertaining to registration for attendance at the Conference and to be a volunteer at the Conference;  
+– the Conference apps;  
+– online surveys relating to the Conference;  
+– messages sent via the Conference support portal; and  
+– the Conference official social media channels.
 
-## DECLARATION OF CONSENT
+Personal information processed in connection with the Services is controlled by Connected Intelligence Limited, an Irish company with offices located at Tramway House, 32 Dartry Road, Dartry, Dublin 6, Ireland.
 
-I hereby give my consent for Dublin Web Summit Limited (and its subsidiaries) to collect, process and use my personal data for the purposes of processing the purchase of my ticket and for any other use to which I have consented.
+* * *
 
-This information will be used for the purposes of processing ticket sales and compiling delegate lists which will be published on our websites and across any relevant online portals, websites or platforms, and circulated by email to our email database, which includes all past and current delegates. If you do not wish your name, photograph, country where based and company name to appear on the delegate list please email [tickets@websummit.net](mailto:tickets@websummit.net)
+### 2\. Information we collect
 
-### 1\. PURCHASING TICKETS
+When we provide the Services, we collect and receive information in several different ways. In many cases, you choose what information to provide, although some information is required for us to provide you the Services. 
 
-I hereby give my consent for the mandatory and voluntary data collected from me in the course of purchasing and or registering for tickets sold by Dublin Web Summit Limited (and subsidiaries). I further give my permission for my user account details to be stored. I acknowledge that I may provide Dublin Web Summit Limited a reasonable timeframe to remove my details at any time that I no longer wish them to be stored. I acknowledge and accept that my data will be used for commercial purposes in accordance with this Data Protection Policy and Declaration of Consent and will be retained and stored for this purpose. Should you wish your data to be removed you must request Dublin Web Summit Limited to do so in writing. Requests will be processed within a 30-day period. A processing fee of €6.35 may be required. Requests can be emailed to [tickets@websummit.net](mailto:tickets@websummit.net) or addressed to: The Office Manager, Dublin Web Summit Limited, Unit D Mount Pleasant Business Park, Mount Pleasant Avenue, Ranelagh, Dublin 6.
+##### 2.1 Directly from you, or approved third parties.
 
-### 2\. ONLINE SURVEYS
+We collect a variety of information from you when you provide it to us directly, when we request it from you, or when you give us permission to get it from a third party source.  
+**– Attendee registration information.** When you register to attend a Conference, you must provide us with basic information such as name, address, email address, telephone number, date of birth. We also give you the option to provide additional information.   
+– **Volunteer registration information.** When you register to volunteer at a Conference, you must provide us with basic information such as name, address, email address, telephone number, and date of birth. We also give you the option to provide additional information.   
+– **Payment and credit card information.** When purchasing tickets to attend a Conference, you must provide us with your name, address, telephone number, email address, credit card, debit card or bank information. This information will only be shared with third parties such as our ticketing partner, Ti.to, or Stripe, who perform tasks required to complete the purchase transaction.  
+– **Conference app profile information.** To attend a Conference, you are required to download a Conference app. You will have the option of providing us with additional profile information in the Conference app, such as name and email address, and whether you want your profile information to be discoverable within the app by other attendees and partners of the Conference.   
+– **Conference survey responses.** We may ask you to participate in optional surveys regarding your experience at the Conference in order to help us improve the event and for related commercial purposes.   
+– **Third party social media accounts.** If you choose to connect your social media account(s) with the Conference app, we may receive certain information from that account, such as your title, picture, and other information you authorize. We may use your friends or connections lists to make recommendations in the Conference app, for example to suggest mutual connections.
 
-I hereby give my consent for Dublin Web Summit Limited to store any voluntary information I may provide in the course of participating in an online survey. I acknowledge and accept that my data will be used for commercial purposes in accordance with this Data Protection Policy and Declaration of Consent and will be retained and stored for this purpose.
+##### 2.2 From your browser or device. 
 
-### 3\. TICKET REGISTRATION
+We automatically collect certain information from your browser or device when you use certain Services or read a message from us. For example, we collect data regarding the device you are using, such as its unique identifier and operating system; logs will be recorded by our servers based on the information sent from your app or browser; and information may be recorded by cookies and similar technologies when you use the Services. Please review our [cookie policy](https://web.archive.org/cookie-policy) for further detail on how we use cookies and similar technologies on our Services.
 
-I hereby give my consent for Dublin Web Summit Limited to use for the purposes of processing complimentary or otherwise ticket registration the mandatory data and any voluntary data I provide when registering a complimentary admission ticket. I further give my consent for the voluntary data provided. I acknowledge and accept that my data will be used for commercial purposes in accordance with this Data Protection Policy and Declaration of Consent and will be retained and stored for this purpose.
+##### 2.3 From public sources. 
 
-### 4\. USE OF PERSONAL DATA FOR ADVERTISING PURPOSES
+We also collect publicly available information from your social media accounts, such as the number of followers you have on your Twitter account.
 
-Dublin Web Summit Limited will not sell your name, address, e-mail address, credit card information or personal information to any third party without your permission.
+* * *
 
-I hereby give my consent for Dublin Web Summit Limited (and subsidiaries) to store the following types of data as a profile for internal purposes:
+### How we use your information
 
-  * Mandatory and voluntary data collected when purchasing tickets.
+We use your information in order to provide, operate, improve, understand, customize, support, and market our Services, including:
 
-  * Mandatory and voluntary data collected when registering a complimentary admission ticket as well as the date of the ticket registration.
+**3.1 Providing and improving the requested Services.** We use your personal information as necessary to run the Conference, such as to register attendees, issue tickets, facilitate information sharing with partners with whom you have consented for us to share information, and provide you with relevant connections and content during the Conference based on this information and your use of the Conference app.
 
-  * Voluntary disclosures when participating in online surveys.
+**3.2 Communicating with you.** We use your personal information to contact you regarding your registration to attend or volunteer at a Conference, to notify you of any changes to our policies and practices, and to respond to any requests or inquiries you may submit to us. If you subscribe to marketing, such as newsletters, we will use your information as described below. 
 
-  * If I have opted-in to receive email communication about related events I give consent for Dublin Web Summit Limited or subsidiary companies to analyse and use the data for the purpose of targeted advertising communications to me on relevant topics and products in connection with Dublin Web Summit Limited or subsidiary events and promotions.
+**3.3 Marketing.** If you opt-in to receiving marketing communications from us, we will use your personal information for outreach and marketing, such as to send you information about our future Conferences and to exhibit attending companies. You can opt-out of these communications by using the unsubscribe links in our communications or by changing your Conference app settings. We may also use your information in order to market the Conferences. For example, we sometimes use your image in our published list of Conference attendees. If you want to object to this use, please contact us here at [data.protection@websummit.com.](mailto:data.protection@websummit.com). 
 
-  * If I have provided my mobile telephone number I consent to Dublin Web Summit Limited or subsidiary companies to contact me by SMS in relation to events for which I am purchasing a ticket or registering an expression of interest.
+**3.4 Advertising.** We use your personal information to be able to show you advertising on other websites. Please also review our [cookie policy](https://web.archive.org/cookie-policy) for your options to control how we use cookies and similar technologies for advertising.
 
-  * I furthermore consent to the mathematical and statistical analysis of my personal data for advertising purposes (scoring). However, my e-mail address may be used for advertising purposes only with my express consent.
+* * *
 
-  * I also give my consent for my data to be updated and supplemented with additional data.
+### Legal bases for processing your information
 
-  * Accordingly, I give my consent for Dublin Web Summit Limited (and subsidiaries) to collect data relating to me personally from public domain sources and to store these along with my personal data that are already under the control of Dublin Web Summit Limited (and subsidiaries). I give my consent for Dublin Web Summit Limited (and subsidiaries) to analyse this newly collected data together with the data already under their control and to use the same for the purpose of targeted advertising communications to me on relevant topics and products in connection with trade fairs and/or exhibitors of interest.
+We rely on a number of bases to lawfully process your personal information for the purposes described in this Privacy Policy. We process your personal information: 
 
+– when necessary to perform the [Terms and Conditions](https://web.archive.org/terms-and-conditions) or to provide you with the Services;  
+– where you have consented to the processing, which you may revoke at any time;   
+– when necessary for us to comply with a legal obligation, a court order, or to exercise and defend legal claims;  
+– when necessary to protect your vital interests, or those of others, such as in the case of an emergency;  
+– where you have made the information manifestly public;   
+– where necessary in the public interest; and  
+– where necessary for the purposes of our, your, or a third party’s legitimate interests, such as those of partners or other attendees or volunteers.
 
+* * *
 
+### 5\. Our legitimate interests
 
-### Personal information
+As indicated above, in certain cases we use your information where necessary to pursue our, your and others’ legitimate interests, including where necessary to:
 
-When personal information (e.g. name, e-mail address, work address, phone numbers and other contact information) is provided through the Dublin Web Summit Limited website or directly to us by e-mail you give consent to Dublin Web Summit Limited for:
+**– Keep the Services safe and secure.** We use your information as it is necessary to pursue our legitimate interests, or those of our attendees, our volunteers or our partners in ensuring the Conference is a safe and secure event, such as enforcing our Terms and Conditions. We also act in the legitimate interests of these parties with respect to our Conference website, app and other Services, such as by implementing and enhancing security measures and protections and protecting against fraud, spam and abuse.  
+**– Provide, develop and improve the Services.** We process your information as necessary to pursue our legitimate interests in improving the Conference and our other Services, such as our Conference websites and apps. For example, we use your information in order to conduct access control and enforce security at the Conferences. We also use your information to conduct data analysis and analytics across our Services.  
+**– Market the Services.** We process your information in accordance with our legitimate interests of marketing the Conference and the Services to you. For example, we use your information to market future Conferences to you and to exhibit attending companies. We may also use your image in our marketing materials in order to highlight the attendees participating in the Conferences. We also use photos and audiovisual footage from past Conferences which may contain your image or voice. If you want to exercise your right to object to any of these uses please email us at [data.protection@websummit.com](mailto:data.protection@websummit.com).  
+**– Provide seamless Services with CIL group companies and affiliates.** We may share personal information amongst our parent company, subsidiaries, or affiliates for internal business purposes and to provide you with the Services in accordance with the [Terms and Conditions](https://web.archive.org/terms-and-conditions) and this Privacy Policy. If we share your information within our corporate group we will ensure that your information continues to be used only in accordance with this Privacy Policy and your expressed choices, and in accordance with applicable law.
 
-  * Processing and administering your personal data to perform all necessary actions to give effect to your request or instructions
+* * *
 
-  * Retaining a record of incoming and outgoing communications (e.g. email) to process your personal data as outlined in this Privacy Statement.
+### 6\. Sharing with third parties
 
-  * Dublin Web Summit Limited may also collect the following information about you:
+We share information with attendees, service providers, affiliates, partners, and other third parties where it is necessary to perform the [Terms and Conditions](https://web.archive.org/terms-and-conditions), to provide the Services, and for other purposes described in the Privacy Policy. 
 
-  * Information that you provide by filling in forms on our site.
+**6.1 Sharing with other attendees.** Our Services, such as the Conference app, provides attendees with the means of making connections with other attendees. For example, the profile information that you choose to provide us will be accessible to other attendees of the Conference, subject to your settings. QR code scanning functionality on your badge is activated by default. You can provide your information to other attendees and partners by allowing them to scan the QR code on your attendee badge. Once this happens, you may consent to the sharing of your contact information with these individuals and companies.
 
-  * Name and physical shipping, contact and payment addresses.
+**6.2 Marketing.** In order to further our legitimate interests in marketing the Services, we rely on third-party marketing platforms and service providers to assist us and perform certain marketing services for us. 
 
-  * Email address and telephone numbers
+**6.3 Advertising.** We share your personal information with common advertising platforms such as Facebook, Google and LinkedIn to show you advertising when you use those services. Please also review our [cookie policy](https://web.archive.org/cookie-policy) for your options to control how we use cookies and similar technologies for advertising. 
 
-  * Credit card, debit card or bank information.
+**6.4 Third party service providers.** We may share your personal information to help us operate, provide, improve, understand, customize, support, and market our Services. These third parties provide us with services including for customer support, data storage and website hosting, ticketing and payments processing, legal advice and compliance, and marketing and data analysis. These third parties are contractually required to use it only to provide their service to us, and prohibited from using it for their own purposes. 
 
-  * Date of birth
+**6.5 Business re-organisation.** In instances where CIL or its affiliates are subject to a re-organisation, such as a merger or acquisition of some or all of its assets, we may, in accordance with our legitimate interests, need to share information in the course of the transaction. In such circumstances, your information may be disclosed, where permitted by applicable law, in connection with such corporate restructuring, sale, or assignment of assets, merger, or other changes of control or financial status of CIL or its affiliate.
 
-  * Tax identification or VAT number (if applicable)
+**6.6 Legal and safety reasons.** We may retain, preserve, or share your personal information if we have a good-faith belief that it is reasonably necessary to (a) respond, based on applicable law, to a legal request (such as, a subpoena, search warrant, court order, or other request from government or law enforcement); (b) detect, investigate, prevent, and address fraud and other illegal activity, security, or technical issues; (c) protect our rights, property, or safety; (d) enforce our Terms and Conditions or any other agreements we have with you; or (e) prevent physical injury or other harm to any person or entity, including yourself and members of the general public. 
 
+**6.7 Aggregated information.** We may also share aggregated or de-identified information, such as counts of attendee job titles or their affiliated companies, with companies we do business with, including our advertisers, partners as well as other organisational members.
 
+* * *
 
+### 7\. Data retention
 
-If you contact us we may keep a record of that correspondence.
+We will retain your personal information for as long as is necessary, up to a period of three years after such information is collected, to achieve the purposes set out in this Privacy Policy, such as to provide you with the Services. We may also need to retain some of your information for a longer period to comply with our legal and regulatory obligations, to resolve disputes, and to enforce our Terms of Service.
 
-Information we receive from credit reference and fraud detection agencies or other third parties we may use to verify your information. We may ask you to complete surveys for research purposes, although you do not have to respond to them. Your personal preferences related to events and information that you share with us with your consent via third parties such as Facebook correspondence, testimonials, photos, blogs, writings, customer satisfaction surveys or customer service communications that you may send us.
+* * *
 
-### Right of Access
+### 8\. Data transfers
 
-You have a right to be given a copy of any of your personal data held by Dublin Web Summit Limited in accordance with section 4 of the Data Protection Acts subject to certain exceptions. Requests for a copy of your personal data can be emailed to Info or addressed to: The Office Manager, Dublin Web Summit, Unit D Mount Pleasant Business Park, Mount Pleasant Avenue, Ranelagh, Dublin 6.
+As a global business, we access and transfer information around the world. If you are based in the EU, this means that we access and transfer your personal information outside the EU, including in and to the United States. The privacy protections and the rights of authorities to access your personal information in some of these countries may not be the same as in your home country. We transfer your personal information in accordance with law, and take steps to ensure that your information is appropriately protected.
 
-### Right of rectification or erasure
+In particular, where we transfer information to countries that are not viewed as providing adequate protections, we generally rely on an approved mechanism known as the “standard contractual clauses” to protect the information transferred. These are template contracts published by the European Commission containing approved commitments to protect the privacy and security of the information transferred. To request a copy of the clauses, please contact us.
 
-If Dublin Web Summit Limited hold incorrect information about you which was originally submitted by you through this website, you have the right to have the data amended. Further, you have the right to have any information you have sent to us via this website erased. To request your right to rectification and/or erasure please send your request to [info@websummit.net](mailto:info@websummit.net) or in writing to: The Office Manager, Dublin Web Summit Ltd, Unit D Mount Pleasant Business Park, Mount Pleasant Avenue, Ranelagh, Dublin 6. Requests should include:
+* * *
 
-  * Your name and address.
+### 9\. Your rights
 
-  * A description of the specific personal data you wish rectified.
+You have a number of rights in relation to your information that we process. While some of these rights apply generally, certain rights apply only in certain limited cases. We describe these rights below. 
 
-  * Please note that Dublin Web Summit Limited is not required to rectify or erase your data where doing so would prevent you from meeting your contractual obligations to Dublin Web Summit Limited or where Dublin Web Summit Limited is required to process (including retaining) your personal data for a lawful purpose in accordance with the Data Protection Acts.
+**9.1 Access and Porting.** You can access much of your information by logging into your Conference profile. If you require access to additional information, or you do not have a Conference profile, please contact us. Where legally required, we will provide your information in an easily accessible format and assist in transferring some of this information to third parties.
 
+**9.2 Rectify, Restrict, Delete.** You can amend, update and delete some of your information by logging into your Conference profile. If you don’t have a Conference profile, or want us to amend, update or delete other information, please contact us.
 
+**9.3 Object.** Where we process your information based on the legitimate interests described above, or in the public interest, you can object to the processing in certain circumstances. We will generally stop processing your information unless we have compelling grounds to continue processing, such as where needed for legal reasons. Where we use your information for direct marketing, you can always object using the unsubscribe link in such communications, changing your profile settings or by contacting us.
 
+**9.4 Revoke consent.** If we have specifically asked for your consent to use your information, you have the right to withdraw your consent at any time. For example, if we ask for your consent for direct marketing purposes, you can revoke your consent using the unsubscribe link in such communications, changing your profile settings or by contacting us.
 
-## Security
+**9.5 Complain.** If you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority or CIL’s lead supervisory authority, the Irish Data Protection Commission.
 
-The security of your Personal Information is important to us. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, Dublin Web Summit Limited cannot guarantee its absolute security and cannot accept any liability where the security of your Personal Information is compromised. The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+* * *
 
-Dublin Web Summit Limited reserves the right to modify this Data Protection Policy and Declaration of Consent at any time. Any changes will be posted on our home page and other places we deem appropriate so that you are aware of the changes.
+### 10\. Security
 
-## REFUND AND CANCELLATION POLICY
+The security of your personal information is important to us. We strive to use appropriate technical and organisational to protect your personal information. Despite these measures, the Internet is not a fully secure environment and we cannot guarantee that your personal information won’t be intercepted or improperly accessed.
 
-**All purchases of tickets for conferences and events (including hotel rooms if applicable) are non-refundable in their entirety.** Your ticket remains the property of Dublin Web Summit Limited and is a personal revocable license, which may be withdrawn, and admission refused at any time upon a refund of the printed registration price.
+* * *
 
-In the unlikely event of cancellation of a conference or event the liability of Dublin Web Summit Limited is limited to the share of paid registration fees that remains after credit card and payment processing fees have been incurred and deducted.
+### 11\. Children
 
-It is strictly forbidden for any company, organisation or attendee to attempt to host or organise any event in conjunction with, contiguous to or purporting to be related to the Web Summit or its affiliates without the express prior permission and co-operation of Dublin Web Summit Limited. In the event of breach of these terms any tickets purchased by the organiser and their affiliates will be rendered null and void, without refund, and Dublin Web Summit Limited may also seek damages.
+Attendees under 18 years of age may attend the Conference if accompanied by an adult or guardian, depending on the age of the attendee. You can find further information our age limitations in our [Terms and Conditions](https://web.archive.org/terms-and-conditions). 
 
-The tickets purchased (including hotel rooms if applicable) are for your own personal use or that of your business only and may not be re-sold or transferred for commercial gain under any circumstances, including but not limited to use as part of any promotion or competition. Where there has been any re-sale or attempted re-sale of any tickets (or any other breach of this term), we reserve the right to cancel the relevant tickets with immediate effect.
+* * *
 
-We reserve the right to cancel any ticket purchase made by any person or body whom we reasonably believe to be associated with any ticket broker or tout.
+### 12\. Changes to this Privacy Policy
 
-Dublin Web Summit Limited reserves the right to refuse admission to any event or conference for any behavior, which it deems unacceptable, or for breach of the terms and conditions.
+We may update this Privacy Policy from time to time so please review it occasionally. If we make material changes, we will take steps to notify you. The date of the most recent revisions will appear on the top of this page. 
 
-Dublin Web Summit Limited will not be responsible for any tickets that are lost or stolen.
+* * *
 
-The unathorised use of photographic and recording equipment at events and conferences is prohibited. You consent to film and sound recording as attendees at any event or conference.
+### Contact us
 
-Dublin Web Summit Limited and its subsidiaries will not be liable for any loss injury or damage to any person or property howsoever caused (save for death or personal injury as a result of Dublin Web Summit Limited’s negligence or for any other type of liability that cannot by law be excluded or limited.)
+If you have any questions or concerns about this Privacy Policy or our privacy practices generally, or if you would like to exercise your statutory rights, you can contact us at:
 
-Name changes will be facilitated free of charge up to 90 days prior to the commencement of the event. Within 90 days of the commencement of the event the following handling charges will apply; A handling charge of €80 will apply for a name change within 90 days of the commencement of the event. The handling charge will be increased to €160 for a name change within 30 days of the event. No name changes will be facilitated 7 days prior to the commencement of the event and the ticket price will be forfeited.
+Tramway House  
+32 Dartry Road  
+Dartry  
+Dublin 6  
+Ireland
 
-For questions about registration or assistance with any registration problems, please contact us at [tickets@websummit.net](mailto:tickets@websummit.net)
-
-## EVENT CANCELLATION, POSTMENT & SUBSTITUTION POLICY
-
-Dublin Web Summit Limited is not responsible for any loss or damage as a result of a substitution, alteration, cancellation or postponement of an event. Dublin Web Summit Limited shall assume no liability whatsoever in the circumstances that an event is cancelled, rescheduled or postponed due to a fortuitous event, Act of God, unforeseen occurrence or any other event that renders performance of an event impracticable, illegal or impossible. For purposes of this clause, a fortuitous event shall include, but not be limited to: war, fire, labour strike, extreme weather or other emergency.
-
-Please note that while speakers and topics are confirmed at the time of publishing, circumstances beyond the control of the organisers may necessitate substitutions, alterations or cancellations of the speakers and/or topics. As such, Dublin Web Summit Limited reserves the right to alter or modify the advertised speakers and/or topics if necessary without any liability to you whatsoever. Any substitutions or alterations will be updated on our web page as soon as possible.
-
-Once a successful purchase transaction has been completed, tickets are delivered in electronic soft-copy via email to the email address nominated by the purchaser. For some ticket types it may be necessary to complete required information - such as attendee name - before the tickets can be issued. The ticket acts as a receipt for the transaction and can be used to redeem entry at the event listed on the ticket. A printed hard-copy ticket or an electronic soft-copy ticket detailing the reference number can be used to register at the event.
-
-Irish law governs these terms and conditions and any dispute are subject to the exclusive jurisdiction of the Irish Courts.
+[info@websummit.com ](mailto:info@websummit.com)  
+You can contact our Data Protection Officer at [data.protection@websummit.com](mailto:data.protection@websummit.com). 
