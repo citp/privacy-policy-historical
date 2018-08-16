@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfunapp.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917132742id_/https%3A//bestfunapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfunapp.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817013154id_/https%3A//bestfunapp.com/privacy.php) for the most accurate reproduction.*
 
 # Terms & Conditions - Best Fun Apps on Facebook
 
