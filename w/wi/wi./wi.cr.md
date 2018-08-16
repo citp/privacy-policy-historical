@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wi.cr privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530073205id_/http%3A//wi.cr/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi.cr privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816031531id_/https%3A//wicr.me/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
