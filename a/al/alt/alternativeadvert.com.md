@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternativeadvert.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172516id_/https%3A//www.alternativeadvert.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeadvert.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816194800id_/https%3A//www.alternativeadvert.com/privacy.html) for the most accurate reproduction.*
 
-# Online advertising company in Nigeria best digital marketing agency
+# Alternative Adverts Ltd
 
 The Information we collect
 
