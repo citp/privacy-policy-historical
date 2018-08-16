@@ -1,75 +1,109 @@
-> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205085518id_/http%3A//www.pregnancy.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816221510id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Pregnancy.org
+# Privacy policy
 
-**Introduction**
+## Optum Privacy– _it’s personal_ TM
 
-This privacy policy is designed to inform users of the Pregnancy.org website (the "Website") about how we gather and use personal information collected by us in connection with use of the Website. We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. In this policy, "user" or "you" means any person using the Website, whether by browsing the Website, submitting comments, videos, articles, blog entries or other content ("Content"), registering with us by creating an account, or participating in any other activities available through the Website. 
+Protecting our consumer and customer information is very important. We safeguard the information of those we serve. _ _ Optum handles and safeguards personal information, and we understand the information we hold represents real people and life events.
 
-NOTICE TO WEBSITE VISITORS FROM OUTSIDE THE UNITED STATES: Pregnancy.org and its servers are located in the United States and are subject to the applicable state and federal laws of the United States. All personal information shared with or collected by or in connection with the Website will be stored in the United States and may be accessed by law enforcement authorities in the United States and/or as may be required by law. If you choose to access or use the Website, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.
+Optum Privacy is dedicated to the responsible and compliant collection, use, maintenance and disclosure of information for the individuals and customers we serve.  The Optum Privacy Program is designed to protect information and to comply with applicable privacy rules and regulations. Our [Privacy Policy](https://www.optum.com/privacy-policy.html) explains how we handle information collected from optum.com. Additional privacy policies (such as our notice of privacy practices) may apply depending on the specific product or service and outline how we handle information collected in other ways.
 
-BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT FURTHER ACCESS OR USE THE WEBSITE.
+If you have questions about the Optum Privacy Program, please [e-mail](mailto:privacy@optum.com) or write to Optum Privacy Office, MN101-E013, 11000 Optum Circle, Eden Prairie, Minn., 55344.
 
-**What Information Do We Collect?**
+## Privacy policy
 
-Personal Information: We collect the following personal information in connection with the Website:  when you sign up to create a Pregnancy.org account, we collect the personal information you disclose on the account registration form, including your username, email address, password, first name, last name, address, gender, birthday, due date and date of conception for your pregnancy; (b) if you communicate with us by email, we will collect your email address; (c) when you visit the Website, our servers will automatically recognize your IP address; and (d) if you submit Content, you may, at your option, include information (such as your name or photograph) in the Content that can be used to identify you. All of this information is referred to in this Policy as "Personal Information". 
+### Introduction
 
-We may collect Personal Information from you in connection with sweepstakes, contests or other promotions which we may sponsor (collectively, “Promotions”) or make Personal Information available to Website visitors including your name, address, Promotion entrance information and any other Personal Information necessary to enter or be involved in a Promotion.
+We recognize that the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages.
 
-Web Tracking Information: We, and our third party service providers, may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Website efficiently and to collect data related to usage of the Website and to web and email marketing conducted by us or on our behalf. Such collected data ("Web Tracking Information") may include the address of the websites you visited before and after you visited the Website, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Website you visit and what links you clicked on, and whether you opened email communications we send to you. In order to collect Web Tracking Information and to make your use of the Website more efficient, we may store cookies on your computer. In addition, the third party ad networks ("Ad Networks") that we use to display advertising to you may also store their own cookies on your computer. We may also use web tracking technologies that are placed in web pages on the Website or in email communications to collect information about actions that users take when they interact with the Website or such email communications, and Ad Networks and Pregnancy.org's Contractors (as hereinafter defined) may also do so. We do not correlate Web Tracking Information to individual user Personal Information. Some Web Tracking Information may include data, such as IP address data, that is unique to you. You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Website, but this may affect the performance of the Website.
+This policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this policy, terms such as “we” or “our” and “Company” refer to Optum and its current and future affiliated entities, including our parent company UnitedHealth Group.
 
-**How Do We Use the Information We Collect?**
+This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
-Personal Information: We will use and store Personal Information for the purpose of delivering the Website to you, and to enhance and analyze the operation of the Website. We may also use Personal Information for the internal operational and administrative purposes of the Website and/or your ability to access or use certain parts of the Website.
+### Cookies and Tracking
 
-Promotions: Personal Information collected in connection with Promotions may be used to administer, monitor or run the Promotion (including prize winner verification of identity and other verifications and assessments that we may, in our discretion and from time to time, make for the purposes of confirming that the integrity of the Promotion has been maintained), to award prizes, to enforce the rules and regulations of the Promotion and/or protect our legal rights in connection with the Promotion. We may also use Personal Information for marketing/publicity purposes connected with the Promotion, to monitor and track the awarding of prizes, to publish a list of Promotion winners and to comply with any legal requirements associated with the Promotion.  
-Aggregate Information: We will also use customer information to create aggregated data for analytical purposes. This statistical information does not contain any Personal Information and is used to understand our customer base and to better serve our market.
+The Company uses various technologies, which may include “cookie” technology, to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. “Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” which generally record information during only a single visit to a website and then are erased, and “persistent” cookies, which are generally stored on a computer unless or until they are deleted or are set to expire.
 
-Web Tracking Information: We use Web Tracking Information to administer the Website and to understand how well our Website is working, to store your user preferences and customize the Website pages you see, and to develop aggregate, statistical information on usage of the Websites. This allows us to determine which features visitors like best to help us improve our Website, to personalize your user experience, and to measure overall effectiveness.
+You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of “flash” technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
 
-Legal Exception: Notwithstanding the above, we may use Personal Information and other information collected through the Website to the extent required by law or legal process, to resolve disputes, to enforce our agreements (including this Privacy Policy and the Terms of Service) with you, or if, in our reasonable discretion, use is necessary to protect our legal rights or to protect third parties. We may also use any information we collect in connection with the Website, including Personal Information for the purposes of any merger, acquisition, asset sale or similar transaction relating to the Website or our business; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.
+We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
 
-Email Communications: If you create an account and provide your email address, we will send you administrative and promotional emails. If you wish to opt out of promotional emails, you may do so by following the "unsubscribe" instructions in the email, or by editing your account settings as described below. All users receive administrative emails necessary for the management of your account or your access to the Website, and so you cannot opt out of them while you remain an accountholder.
+We may use analytics companies to gather information and aggregate data from our website visitors such as which pages are visited and how often they are visited, and to enable certain features on our websites. Information is captured using various technologies and may include cookies. If such technology is used, you may opt out of it by clicking on the “Opt Out” link at the bottom of the home web page.
 
-**What Information Do We Disclose to Third Parties?**
+We may use and disclose your activity information unless restricted by this policy or by law. Some examples of the ways we use your activity information include:
 
-Personal Information: We will not disclose your Personal Information to any third parties except as follows: 
+  * Customizing your experience on the website including managing and recording your preferences.
+  * Marketing, product development, and research purposes.
+  * Tracking resources and data accessed on the website.
+  * Developing reports regarding website usage, activity, and statistics.
+  * Assisting users experiencing website problems.
+  * Enabling certain functions and tools on this website.
+  * Tracking paths of visitors to this website and within this website. 
 
-(i) we may disclose your name, address and email address to third party direct marketing firms that will use the information to send you advertisements (such as email advertisements or catalogues) featuring products and services that may be of interest to you. 
 
-(ii) we will also disclose your Personal Information as noted above in connection with Promotions and to comply with legal requirements relating to our Promotions.
 
-(iii) to third party contractors engaged to provide services on our behalf ("Contractors"), such as performing marketing services, analyzing data and usage of the Website, operating the Website or providing support and maintenance services for the Website, or providing customer service. We use reasonable efforts to enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us.
+### Your Personal Information
 
-(iv) when we have your consent to share the information.
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
 
-Web Tracking Information: We disclose Web Tracking Information to third party advertisers, advertising agencies and Contractors, in order for us and such third parties to analyze the performance of the Website and the behavior of users, to operate and improve the Website, and to target advertising to users. We may also publish this information in order to promote the Website. In addition, Ad Networks may collect and use Web Tracking Information about your use of the Website and other websites to provide you with advertisements about goods and services that may be of interest to you; we do not control the manner in which Ad Networks use and disclose Web Tracking Information they collect. If you would like more information about Ad Networks, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We may use personal information for a number of purposes such as:
 
-Aggregate Information: We may disclose anonymous, aggregated information to third parties such as potential business partners, advertisers, and funding sources, in order to describe our business and operations.  
-Network Operators: Use of the Website may involve use of the services of third party telecommunications carriers. Such carriers are not our contractors, and any information that a carrier collects in connection with your use of the Website is not "Personal Information" and is not subject to this Privacy Policy. We are not responsible for the acts or omissions of telecommunications carriers.
+  * To respond to an email or particular request from you.
+  * To personalize the website for you.
+  * To process an application as requested by you.
+  * To administer surveys and promotions.
+  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.
+  * To perform analytics and to improve our products, websites, and advertising.
+  * To comply with applicable laws, regulations, and legal process.
+  * To protect someone's health, safety, or welfare.
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.
+  * To keep a record of our transactions and communications.
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
 
-Network Operators: Use of the Website may involve use of the services of third party telecommunications carriers. Such carriers are not our contractors, and any information that a carrier collects in connection with your use of the Website is not "Personal Information" and is not subject to this Privacy Policy. We are not responsible for the acts or omissions of telecommunications carriers.
 
-Additional Disclosures: We reserve the right to disclose any information we collect in connection with the Website, including Personal Information,  to any successor to our business as a result of any merger, acquisition, asset sale or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.
 
-**Notice of Privacy Rights to California or Canadian Residents** – We disclose Personal Information to certain third party marketing firms, who may use your Personal Information for direct marketing purposes. If you are a resident of California or Canada, you may request from us, not more than once per year, the following information:  a list of the categories of Personal Information that we disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year; and (b) the names and addresses of all third parties that received Personal Information from us in the preceding calendar year for direct marketing purposes, and examples of the products or Websites marketed by such third parties, if known. You may submit requests for such information to us by email to support@Pregnancy.org. If you do not want us to disclose your Personal Information for direct marketing purposes, you may notify us of that choice at any time.
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled “Our Online Communications Practices.”  
 
-**Privacy Settings/Opt Out**
+We may also share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.        
 
-If you would like your Personal Information permanently removed from our database, please contact us at support@Pregnancy.org. We will promptly delete your account and you will no longer receive email from Pregnancy.org. Your removal from the mailing list or database will not remove records of past transactions or delete information stored in our data backups and archives. Data on past transactions and data stored in backups and archives will be maintained and/or deleted in the ordinary course of Pregnancy.org's business.
+### Sharing Personal Information
 
-**Access and Updating of Information**
+We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law.
 
-Pregnancy.org is happy to allow you to review or amend your email address or contact details held in our database, at any time. Please contact us by sending an email to: support@Pregnancy.org or by using your settings panel in your account online.
+We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction.
 
-**General**
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting activities that are illegal, violate our rules, or may be harmful to other visitors.
 
-Security: We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law. However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.
+If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
 
-Links: The Pregnancy.org website may contain links to other websites. Pregnancy.org is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our website and review the privacy statements of each third party website before accessing, reviewing or providing any information to any other Website. The privacy policies and terms of use of other websites may not be the same as our Privacy Policy or as the Terms of Service for this Website. This Privacy Policy applies solely to information collected for our Website.
+We may also share personal information with other third party companies that we collaborate with or hire to perform services on our behalf. For example, we may hire a company to help us send and manage email, and we might provide the company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire companies to host or operate some of our websites and related computers and software applications.
 
-Amendments: Pregnancy.org may modify or amend this policy from time to time. If we make any material changes, as determined by Pregnancy.org, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Website. Notwithstanding any modifications we may make, any Personal Information collected by Pregnancy.org from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.
+This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
 
-Children: Pregnancy.org does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the Website is directed at persons under 13. If you are under 13 years of age, then please do not use the Website. If Pregnancy.org learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then Pregnancy.org will take the appropriate steps to delete this information. To make such a request, please contact us at support@Pregnancy.org. 
+### Website and Information Security
 
-Effective Date: September 1, 2011
+We maintain reasonable administrative, technical and physical safeguards designed to protect the information that you provide on this website. However, no security system is impenetrable and we cannot guarantee the security of our website, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet, and we are not liable for the illegal acts of third parties such as criminal hackers.
+
+#### Our Online Communication Practices
+
+We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications. 
+
+### Social Security Number Protection Policy
+
+Protecting personal information is important to Optum. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
+
+### Information for Children Under 13
+
+We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us. 
+
+### Contact Us
+
+To contact us regarding this policy and our related privacy practices, please email or write to us at: [privacy@optum.com](mailto:privacy@optum.com) or Optum Privacy Office, MN101-E013, 11000 Optum Circle, Eden Prairie, MN 55344. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse. 
+
+### Effective Date
+
+The effective date of this policy is September 30, 2016.
+
+### Changes to this Website Privacy Policy
+
+We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.   ****
