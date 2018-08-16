@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmtcenter.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121201916id_/http%3A//rmtcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmtcenter.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816020950id_/https%3A//rmtcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Robbins-Madanes Training
 
