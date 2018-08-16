@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faststore.org privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521125840id_/https%3A//faststore.org/%3Fop%3Dpage%26tmpl%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faststore.org privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816173033id_/https%3A//faststore.org/%3Fop%3Dpage%26tmpl%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Fast store - Fast store & easy Share your files
 
