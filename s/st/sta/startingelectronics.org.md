@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startingelectronics.org privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807173150id_/http%3A//startingelectronics.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startingelectronics.org privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816103748id_/http%3A//startingelectronics.org/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 It is that time of the year when we need to pay for web hosting and buy new components and equipment for new tutorials. You can help by making a donation. Contribute to this website by clicking the **Donate** button. The total will be updated once daily. (You may need to clear your browser cache to see the updates.)
 
 **Target Amount: $2000**  
-**Amount Raised: $605**
+**Amount Raised: $1159**
 
 Donations Received
 
