@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwnatural.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708053714id_/https%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwnatural.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816034729id_/https%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,7 +24,7 @@ Our website uses a variety of hardware and software, including firewalls, digita
 
 ### Customer information policy
 
-(Last updated June 11, 2010) NW Natural (the Company) maintains Customer Information on the customer’s behalf, for the purpose of providing utility services. As such, the Company will provide a customer with his/her Customer Information upon explicit request from the Customer. The customer’s positive identity must be verified to the Company’s satisfaction prior to its release. 
+NW Natural (the Company) maintains Customer Information on the customer’s behalf, for the purpose of providing utility services. As such, the Company will provide a customer with his/her Customer Information upon explicit request from the Customer. The customer’s positive identity must be verified to the Company’s satisfaction prior to its release. 
 
 The Company will not disclose Customer Information to a third party unless the disclosure is in accordance with an exception outlined below and is not otherwise prohibited by law.
 
