@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obsessedwithmyself.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701065717id_/http%3A//obsessedwithmyself.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obsessedwithmyself.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816154213id_/http%3A//obsessedwithmyself.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
