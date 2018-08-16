@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the myoptumhealth.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016194721id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoptumhealth.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816221510id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-#### Introduction
+## Optum Privacy– _it’s personal_ TM
+
+Protecting our consumer and customer information is very important. We safeguard the information of those we serve. _ _ Optum handles and safeguards personal information, and we understand the information we hold represents real people and life events.
+
+Optum Privacy is dedicated to the responsible and compliant collection, use, maintenance and disclosure of information for the individuals and customers we serve.  The Optum Privacy Program is designed to protect information and to comply with applicable privacy rules and regulations. Our [Privacy Policy](https://www.optum.com/privacy-policy.html) explains how we handle information collected from optum.com. Additional privacy policies (such as our notice of privacy practices) may apply depending on the specific product or service and outline how we handle information collected in other ways.
+
+If you have questions about the Optum Privacy Program, please [e-mail](mailto:privacy@optum.com) or write to Optum Privacy Office, MN101-E013, 11000 Optum Circle, Eden Prairie, Minn., 55344.
+
+## Privacy policy
+
+### Introduction
 
 We recognize that the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages.
 
@@ -10,7 +20,7 @@ This policy does not apply to information collected through other means such as 
 
 This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
-#### Cookies and Tracking
+### Cookies and Tracking
 
 The Company uses various technologies, which may include “cookie” technology, to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. “Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” which generally record information during only a single visit to a website and then are erased, and “persistent” cookies, which are generally stored on a computer unless or until they are deleted or are set to expire.
 
@@ -32,7 +42,7 @@ We may use and disclose your activity information unless restricted by this poli
 
 
 
-#### Your Personal Information
+### Your Personal Information
 
 This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
 
@@ -56,7 +66,7 @@ We may use personal information to contact you through any contact information y
 
 We may also share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.        
 
-#### Sharing Personal Information
+### Sharing Personal Information
 
 We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law.
 
@@ -70,7 +80,7 @@ We may also share personal information with other third party companies that we 
 
 This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
 
-#### Website and Information Security
+### Website and Information Security
 
 We maintain reasonable administrative, technical and physical safeguards designed to protect the information that you provide on this website. However, no security system is impenetrable and we cannot guarantee the security of our website, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet, and we are not liable for the illegal acts of third parties such as criminal hackers.
 
@@ -78,22 +88,22 @@ We maintain reasonable administrative, technical and physical safeguards designe
 
 We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications. 
 
-#### Social Security Number Protection Policy
+### Social Security Number Protection Policy
 
 Protecting personal information is important to Optum. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
 
-#### Information for Children Under 13
+### Information for Children Under 13
 
 We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us. 
 
-#### Contact Us
+### Contact Us
 
 To contact us regarding this policy and our related privacy practices, please email or write to us at: [privacy@optum.com](mailto:privacy@optum.com) or Optum Privacy Office, MN101-E013, 11000 Optum Circle, Eden Prairie, MN 55344. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse. 
 
-#### Effective Date
+### Effective Date
 
 The effective date of this policy is September 30, 2016.
 
-#### Changes to this Website Privacy Policy
+### Changes to this Website Privacy Policy
 
 We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.   ****
