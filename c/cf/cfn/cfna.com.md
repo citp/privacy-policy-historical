@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfna.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102002415id_/https%3A//www.cfna.com/cfna-fastload-content/images/personalservices/documents/privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfna.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816203234id_/https%3A//www.cfna.com/cfna-fastload-content/images/personalservices/documents/privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -93,7 +93,7 @@ companies. See the notice titled "IMPORTANT PRIVACY CHOICES FOR CONSUMERS.” If
 California or Vermont, we do not disclose your personal information for nonaffiliates to market to you. If your billing
 address is in Vermont, we do not disclose information about your creditworthiness for our affiliates’ everyday business
 purposes or to market to you.
-                                                                                                             CFNA 10/2017
+                                                                                                             CFNA 06/2018
 
 
 PRIVACY AND THE USE OF THIS WEBSITE:
