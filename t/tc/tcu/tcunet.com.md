@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tcunet.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229175915id_/https%3A//www.tcunet.com/home/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcunet.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817005955id_/https%3A//www.tcunet.com/home/about/privacy) for the most accurate reproduction.*
 
 # Teachers Credit Union - About TCU - Privacy Statement
-
-[](https://web.archive.org/home/personal/checking/checking-account)
-
-Rev. 9/2010
 
 FACTS | **WHAT DOES TEACHERS CREDIT UNION OR TCU DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -122,6 +118,4 @@ Other Important Information
 
 **For Vermont Members**. We will not share personal information with nonaffiliates either for them to market to you or for joint marketing - without your authorization, and we will not share personal information with affiliates about your creditworthiness without your authorization.  
   
-Rev 9/2010
-
 Back to Top
