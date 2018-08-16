@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621204957id_/http%3A//bodyartforms.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816051636id_/https%3A//bodyartforms.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -7,7 +7,7 @@ Effective May 21st, 2018
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from Bodyartforms.com.
 
-Protecting your private information is our priority. This Statement of Privacy applies to [www.bodyartforms.com](https://web.archive.org/web/20180621204957id_/http%3A//bodyartforms.com/www.bodyartforms.com) and Bodyartforms, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Bodyartforms, LLC include [www.bodyartforms.com](https://web.archive.org/web/20180621204957id_/http%3A//bodyartforms.com/www.bodyartforms.com) and Bodyartforms. The Bodyartforms website is an ecommerce site. By using the Bodyartforms website, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to [www.bodyartforms.com](https://web.archive.org/web/20180816051636id_/https%3A//bodyartforms.com/www.bodyartforms.com) and Bodyartforms, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Bodyartforms, LLC include [www.bodyartforms.com](https://web.archive.org/web/20180816051636id_/https%3A//bodyartforms.com/www.bodyartforms.com) and Bodyartforms. The Bodyartforms website is an ecommerce site. By using the Bodyartforms website, you consent to the data practices described in this statement.
 
 Bodyartforms does not sell, rent or lease its customer lists to third parties.
 
