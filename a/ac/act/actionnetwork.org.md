@@ -1,61 +1,60 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627184448id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816180528id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Action Network
+# Privacy Notice - Action Network
 
-## Privacy Policy
+## Privacy Notice
 
-_Last revised September 12, 2013_
+_Last revised May 25, 2018_
 
 #### Summary
 
-We value your privacy. We will never sell or share your personal information outside of what you allow through normal use of the site.
+Action Network ("we" or "us") values your privacy. This Privacy Notice explains who we are, how we collect, share and use Personal information about you, and how you can exercise your privacy rights. This Privacy Notice applies to Personal Information that we collect through our website at https://actionnetwork.org/ ("the Site"), We will never sell or share your Personal Information outside of what you allow through normal use of the Site.
 
-If you visit the site:
+If you have any questions or concerns about our use of your Personal Information, then please contact us using the contact details provided at the bottom of this Privacy Notice. 
 
-  * We may collect data on you like your IP address and other server logging info that helps us run the site smoothly and efficiently
-  * We may collect aggregate data that doesn't personally identify you that we may share with trusted partners and third parties
+##### Quick Links
 
+We recommend that you read this Privacy Notice in full to ensure you are fully informed. However, if you only want to access a particular section of this Privacy Notice, then you can click on the relevant link below to jump to that section.
 
-
-In addition, if you take action on the site:
-
-  * We may make public information like your name, city, state, and comments as part of your signing of a petition, RSVPing for an event, or the like
-  * We will share your personal information with the creators, sponsors, and referrers of the actions you take
-  * We will email you "transactional" email related to actions you take on the site (ex: sending a thank you email after you sign a petition), from which you can unsubscribe at any time
-  * We will not send you mass email updates
-  * We will allow the creators, sponsors, and referrers of the actions you take to send you mass email using our system, from which you can unsubscribe at any time
-
-
-
-In addition, if you sign up for an account on the site:
-
-  * We will email you directly from time to time with updates, new features, opportunities to participate in campaigns, and the like, from which you may unsubscribe at any time
-  * We will make available to you the personal information of users who take action on pages you create
-  * We will allow you to contact those users via our mass mailer
-
+  * Scope
+  * Partner Information
+  * Information We Collect
+  * How We Use Collected Information
+  * How We Share Collected Information
+  * Cookies And Other Similar Tracking Technologies
+  * How Does Action Network Keep My Personal Information Secure?
+  * Your Choices Regarding The Collection Of Your Information
+  * Your Rights
+  * Visitors From Outside The United States
+  * Information Retention
+  * Legal Basis For Processing Personal Information (For Visitors From The EEA)
+  * Children Under Age 13
+  * Changes To The Privacy Notice
+  * Contact Us
 
 
-**This summary is qualified in its entirety by the Legal Terms below, which shall govern your use of the site.**
-
-#### Legal Terms
-
-The Action Network, which operates www.actionnetwork.org and our other websites and mobile applications that link to that web address ("the Site"), takes your privacy very seriously. This policy is intended to inform you about how the Action Network gathers information from you when you visit the Site, uses and discloses that information, and how you can control the use and disclosure of your information, so you can make an informed decision about using the Site.
 
 ##### Scope
 
-This privacy policy (the "Policy") applies only to the Site. If you click on a link to another website from the Site, the Policy will not apply to the information collected on that website. You acknowledge that the Action Network has no control over such third party websites and will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to have been caused by or in connection with the use of or reliance on any content, advertising, products, or other materials on or available from such websites, nor from any information that you provide to such websites or that such websites collect from you. 
+This Privacy Notice (the "Notice") applies only to the Site. If you click on a link to another website from the Site, the Notice will not apply to the information collected on that website. Action Network has no control over such third party websites and will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to have been caused by or in connection with the use of or reliance on any content, advertising, products, or other materials on or available from such websites, nor from any information that you provide to such websites or that such websites collect from you. 
 
-The Policy applies to the collection and use of personal information, which means information that identifies, describes, or is capable of being associated with, a particular individual, including, but not limited to, an individual's name, address, email address, telephone number, Social Security Number, passport number, driver's license or state identification card number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information ("Personal Information"). 
+The Notice applies to the collection and use of Personal Information, which means any information relating to an identified or identifiable natural person, including, but not limited to, an individual's name, address, email address, telephone number, Social Security Number, passport number, driver's license or state identification card number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information ("Personal Information"). 
 
-Personal Information does not include "aggregate" information, which is data collected about the use of the Site or about a group or category of services or users, from which individual identities or other Personal Information has been removed. The Policy does not restrict or limit the Action Network's collection and use of aggregate information. 
+Personal Information does not include "aggregate" information, which is data collected about the use of the Site or about a group or category of services or users, from which individual identities or other Personal Information has been removed and cannot be identified. The Notice does not restrict or limit the Action Network's collection and use of aggregate information. 
 
-##### Information Collected by the Site
+##### Partner Information
+
+In most circumstances we are a data processor following the instructions of our partners, the data controllers, for example when you take action through the Action Network for a petition or other action organized by a third party partner, our partner will be the data controller and, information you submit through the Site as part of the form filling process will be made available to the data controller directly. The Action Network has no ability to control, and shall have no responsibility for, how such data controller uses your information. We will not review, share, distribute or reference any Personal Information except as provided in our agreement with our partners, or as may be required by law.
+
+##### Information We Collect
+
+**Information that you provide voluntarily when you use the Site**
 
 You may voluntarily provide Personal Information to Action Network when you:
 
-  * Create an account/profile
+  * Create an account/profile (e.g. your full name, address and email address)
   * Enter your username/password
-  * Make a donation
+  * Make a donation (e.g. bank account details)
   * Fill out a form
   * Send us an email
   * Fill out a survey
@@ -63,25 +62,27 @@ You may voluntarily provide Personal Information to Action Network when you:
   * Sign up to host an event
   * Create a group
   * Conduct searches on the Site
-  * Sign up to receive email or text message alerts/updates
+  * Sign up to receive email or text message alerts/updates (e.g. email address, phone number)
 
 
 
-##### Public Forums
+**Public Forums**
 
 If you disclose any information in comment boards, discussion pages or elsewhere on the Site, it becomes public information and can be read, collected, or used by others. Please exercise caution when disclosing any Personal Information, and refrain from publicly disclosing direct contact information such as your mailing address, phone number, or email address.
 
-##### Online Petitions, Events, and Forms
+**Online Petitions, Events, and Forms**
 
 When you sign an online petition, register for an event, or fill out a form, that action is public information. The Action Network may make the action, your name, city, state, and any comments you offer in connection with the action publicly available.
 
-In addition, when you take action through the Action Network for petition organized by a third party, information you submit through the Site as part of the form filling process will be made available to such third party. The Action Network has no ability to control, and shall have no responsibility for, how such third party uses your information it so obtains.
+**Interactive Features**
 
-##### Interactive Features
+When you create a profile, certain information regarding actions you take through the Site, such as joining a group, may be available to other users or be publicly available.
 
-When you create a profile, certain information regarding actions you take through the Site, such as joining a group, may be available to other users or be publicly available. 
+**Information automatically collected when you visit and use the Site**
 
-Information automatically collected when you visit and use the Site:
+When you visit the Site, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area ("EEA"), this information is considered Personal Information under applicable data protection laws.
+
+Specifically, the information we collect automatically may include:
 
   * Your computer's IP address
   * Your browser type and operating system
@@ -95,37 +96,38 @@ Information automatically collected when you visit and use the Site:
 
 
 
-This automatically collected information is considered aggregate information unless it is combined with Personal Information described above.
+**Information that we collect from other sources**
 
-##### Information that we collect from other sources
-
-The Action Network may access information about you from third-party sources and platforms, including:
+The Action Network may access information about you from third-party sources and platforms. This information may include:
 
   * If you access third-party social networking sites (such as Facebook, Twitter or Google Plus) through the Site, your username and contact lists for those services
-  * Demographic data, such as age, gender and interests
   * Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law
 
 
 
 ##### How We Use Collected Information
 
-We may use the collected information in various ways:
+We may use the collected information in various ways to provide our services, including:
 
-  * Send users email or other electronic communications
-  * Allow third parties who have created actions to send users who have filled out those actions email or other electronic communications
-  * Track users' involvements in community discussions and use of the Site
-  * Fulfill users' requests for services and information
-  * Prevent illegal activities, enforce the Site's Terms of Use, and otherwise protect our rights and the rights of our users
+  * To send users email or other electronic communications
+  * To allow our third party partners who have created actions to send users who have filled out those actions email or other electronic communications
+  * To track users' involvements in community discussions and use of the Site
+  * To fulfill users' requests for services and information
+  * To prevent illegal activities, enforce the Site's Terms of Use, and otherwise protect our rights and the rights of our users
+  * For internal analytics and to improve the quality and relevance of the Site to our visitors
+  * To maintain and improve the accuracy of the records we hold about you
   * Any other purposes disclosed to you at the time the information is collected or pursuant to your consent
 
 
 
 The Action Network will only make Personal Information about users available to third parties as described below:
 
-  * To give third parties who have created actions the information of users who have filled out those actions
-  * To trusted third parties including vendors, consultants, and volunteers employed to perform Site-related services, including database management, maintenance services, analytics, data processing, and email and text message distribution. These third parties have access to users' Personal Information only to perform these tasks on our behalf, and on the condition that they will maintain the confidentiality of all Personal Information.
-  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the site's Terms of Use, or as otherwise required by law.
+  * To give third party partners who have created actions through the Site the information of users who have filled out those actions. We are the data processor for our partners (who are data controllers) and as such we are merely following their instructions on how we process your Personal Information. Our processing is handled in accordance with the terms in place with our partners.
+  * To trusted third party service providers including vendors, consultants, and volunteers employed to perform Site-related services, including database management, web hosting, maintenance services, analytics, data processing, geolocation, technical support services, credit card processing, security services, and email and text message distribution. These third parties have access to users' Personal Information only to perform these tasks on our behalf, and on the condition that they will maintain the confidentiality of all Personal Information.
+  * To any competent law enforcement body, regulatory, government agency, court or other third party to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's Terms of Use, or as otherwise required by law.
   * When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal process or respond to lawful requests, claims or legal authorities, including lawful subpoenas, warrants, or court orders.
+  * to an actual or potential buyer (and its agents and advisers) in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Notice;
+  * to any other person with your consent.
 
 
 
@@ -135,77 +137,99 @@ To customize your experience on this Site and to simplify the Site's registratio
 
 We may use data that we receive from these third-party service providers to:
 
-  * Create relationships automatically within the Site (e.g., replicate Twitter relationships with other Site users)
-  * Suggest relationships (e.g., suggest you connect with Facebook friends)
-  * Populate a list of potential friends to whom you can send emails
-  * Enhance and personalize your experience on the Site (e.g., import your profile picture, identify stories that are popular in your network, what your friends are saying about an article)
+  * Enhance and personalize your experience on the Site (e.g., import your profile picture)
 
 
 
-We may provide Personal Information to third-party service providers to:
+Note that if the Action Network discloses Personal Information (including a user's name, address or email) to a third party for direct marketing purposes, under California law Action Network must allow California users to request certain information about the disclosure. The California statute excludes from the definition of direct marketing the use of Personal Information (a) by bona fide tax exempt charitable or religious organizations to solicit charitable contributions, or (b) to raise funds from and communicate with individuals regarding politics and government. Our understanding is that the Action Network does not intend to disclose users' Personal Information to third parties for direct marketing purposes as defined in the statute.
 
-  * Identify stories on which you have commented/which you have "liked" on the Site
-  * Identify events that you have indicated you will attend
+##### Cookies And Other Similar Tracking Technologies
 
+As is standard practice on many websites, we may set and access cookies, web beacons, Flash cookies, and other similar tracking technologies (collectively, “Cookies”) on your computer. Cookies are small amounts of information stored in files within your computer's browser. For further information about Cookies we use, why, and how you can control cookies please see our [Cookies Notice](https://web.archive.org/cookies).
 
+**Collection of Information by Third Parties**
 
-Note that if the Action Network discloses personal information (including a user's name, address or email) to a third party for direct marketing purposes, under California law Action Network must allow California users to request certain information about the disclosure. The California statute excludes from the definition of direct marketing the use of personal information (a) by bona fide tax exempt charitable or religious organizations to solicit charitable contributions, or (b) to raise funds from and communicate with individuals regarding politics and government. Our understanding is that the Action Network does not intend to disclose users' personal information to third parties for direct marketing purposes as defined in the statute.
+Please note that third party ad networks, advertising agencies, advertisers, and audience segment providers and other companies (e.g. Google DoubleClick, Yahoo Tremor and 24/7 RealMedia) may also set and access Cookies on your computer when you visit the Site. 
 
-##### Cookies
+These third parties may use this information to place ads on other websites or to better understand the usage and visitation of the Site and other websites tracked by these third parties. **This Notice does not apply to, and we are not responsible for, Cookies used by these third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies.**
 
-As is standard practice on many websites, we may set and access cookies, web beacons, Flash cookies, and other technologies on your computer. Please note that third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers, may also set and access cookies, web beacons, Flash cookies, and other technologies on your computer when you visit the Site.
+##### How Does Action Network Keep My Personal Information Secure?
 
-Cookies are small amounts of information stored in files within your computer's browser. Web sites can access only the cookies that they have stored on your computer. For example, if Acme computer company stores a cookie on your browser, Acme may access its own cookie but not that of another company.
+We use appropriate technical and organisational measures to protect the Personal Information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your Personal Information. Specific measures we use include encryption of data in transit, industry-standard development practices and software update policies to keep software up to date and secure, use of web application firewalls and other security tools, regular security audits and scans, and logging and monitoring of access to Personal Information.
 
-The Action Network uses cookies for the following purposes:
-
-  * To help us recognize you as a previous visitor and save and remember any preferences that may have been set while you were visiting the Site. For example, we may save your login information so you don't have to sign in every time you visit the site;
-  * To help us customize the content you see when you visit the Site;
-  * To help measure and research the effectiveness of our interactive online content, features, and other communications; and To track Site analytics and use, and to improve Site services.
-
-
-
-We may also use web beacons (known as clear GIFs, web bugs, pixels, or action tags). These technologies are strings of code that deliver a tiny graphic image on a web page or in an email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page on which the web beacon is placed.
-
-We use web beacons for various tracking purposes, like determining whether or not you are logged into the Site and whether or not you are connected to a third-party service.
-
-Third parties also may use web beacons on the Site to receive auditing, research, and reporting information, or to understand your interests and select and deliver to you advertisements that are tailored to your interests.
-
-Some of the Site's third-party partners may use Flash cookies, otherwise known as local shared objects (LSOs), to track user behaviors in various ways. LSOs keep collections of cookie-like data stored in a directory on a user's computer, and are installed through Adobe's Flash video player.
-
-##### Collection of Information by Third Parties
-
-Third party vendors, such as Google DoubleClick, Yahoo Tremor and 24/7 RealMedia, may automatically collect information about your visits to this and other websites, your IP address, your ISP, and the browser you use to visit the Site. They may collect this information using cookies, clear gifs, or other technologies. These third parties may use this information to place ads on other websites or to better understand the usage and visitation of the Site and other websites tracked by these third parties. This Policy does not apply to, and we are not responsible for, cookies, clear gifs or other technologies used by these third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technologies.
-
-##### Your Choices Regarding the Collection and Use of Your Information
+##### Your Choices Regarding The Collection And Use Of Your Personal Information
 
 To reduce the amount of Personal Information that the Action Network collects from you and limit its use, you can take one or more of the following steps:
 
-  * Opt-out of receiving emails from the Action Network
-  * Opt-out of receiving emails from third parties for whom you have filled out actions
-  * Change your browser to reject cookies
+  * Opt-out of receiving emails from the Action Network, by clicking the unsubscribe link in emails you receive from us
+  * Opt-out of receiving emails from our third party partners for whom you have filled out actions, by clicking the unsubscribe link in emails you receive from them, or by not opting in to email communication in the first place when you fill out one of their forms
   * Opt-out of allowing the Action Network to collect your geographic location by changing the location settings on your mobile device
-  * Opt-out of linking your activity on the Site to your social networking sites, such as Facebook, Twitter, and Google Plus
-  * De-activate your profile (but your comments will still remain on the Site)
+  * Opt-out of linking your activity on the Site to your social networking sites, such as Facebook, Twitter, and Google Plus by not creating an account with one of those services and creating an account directly with us instead
+  * De-activate your profile by editing it and clicking the delete button (but your comments will still remain on the Site)
 
 
 
-##### Changes to your Information
+You can find information about how to opt-out of or reject Cookies in our [Cookies Notice](https://web.archive.org/cookies).
+
+**Changes to your Information**
 
 To change any Personal Information that you provided as part of your account/profile, [click here](https://web.archive.org/users/edit).
 
+##### Your Rights
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. 
+
+As described in this notice, if you are using the Site through one of our partners (e.g. the organisation organising an action) then we are the processor of your Personal Information and our partner is the data controller. In such cases, if you want to exercise any data protection rights above or have questions or concerns about how your personal information is handled by Action Network as a processor on behalf of our partners, you should contact the relevant partner that has contracted with Action Network, and refer to their separate privacy notices. 
+
+Because Action Network has a limited ability to access Personal Information our partners submit to the Site or that you submit to the partner on the Site, if you wish to make your request directly to Action Network, please provide the name of the partner who submitted your Personal Information to the Site or who you submitted Personal Information to on the Site. We will refer your request to that partner, and will support them as needed in responding to your request within a reasonable timeframe.
+
+If you are a visitor from the EEA, you have the following data protection rights:
+
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can do so at any time by contacting the partner who you wish to delete your personal information, or by contacting us at [support@actionnetwork.org](mailto:support@actionnetwork.org) with the name of the partner and we will forward your request to them, as described above.
+  * In addition, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information. Again, you can exercise these rights by contacting the partner who controls your personal information, or by contacting us at [support@actionnetwork.org](mailto:support@actionnetwork.org) with the name of the partner and we will forward your request to them, as described above.
+  * Similarly, if we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local data protection authority. For UK users, this is the [Information Commissioner's Office](https://ico.org.uk/). Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
 ##### Visitors from Outside the United States
 
-The Site’s offices and data processing equipment are located in the United States. If you visit the Site from another country, please be aware that information you provide to us or that we obtain through your use of the Site may be transferred to and processed in the United States and will be subject to United States law. United States privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with information, you consent to the collection, transfer, storage, and processing of information to and in the United States, and acknowledge that Action Network is not bound by the privacy and data protection laws of any other country.
+The Site’s offices and data processing equipment are located in the United States. If you visit the Site from another country, please be aware that information you provide to us or that we obtain through your use of the Site may be transferred to and processed in the United States and will be subject to United States law. United States privacy and data protection laws may not be equivalent to the laws in your country of residence. 
+
+We have taken appropriate safeguards to require that your Personal Information will remain protected in accordance with this Notice. These safeguards include implementing the European Commission's Standard Contractual Clauses for transfers of Personal Information with our third-party service providers and partners, which require all parties to protect personal information they process from the EEA in accordance with European data protection law. Further details can be provided upon request.
+
+##### Information Retention
+
+We retain Personal Information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested, to provide our partners with a service they have requested, or to comply with applicable legal, tax or accounting requirements). 
+
+When we have no ongoing legitimate business need to process your Personal Information, we will either delete or anonymise it at our partner’s request or, if this is not possible (for example, because your Personal Information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+Where we our processing Personal Information on behalf of one of our partners are we are a data processor we will process Personal Information as instructed by our partner.
+
+##### Legal Basis For Processing Personal Information (For Visitors From The EEA)
+
+If you are a visitor from the EEA, our legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which we collect it.
+
+For all the data where Action Network is acting as processor, our partner makes that determination.
+
+Where Action Network is acting as a controller, we will normally collect Personal Information from you only (i) where we need the personal information to perform a contract with you, (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so. In some cases, we may also have a legal obligation to collect personal information from you.
+
+If we collect and use your Personal Information in reliance on our legitimate interests, this interest will normally be to operate the Site and service, communicating with you as necessary to provide our services, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities. 
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Information, please contact us using the contact details provided under the "Contact Us" heading below.
 
 ##### Children Under Age 13
 
 We encourage parents to monitor their children's Internet usage and to caution them about the dangers of sharing Personal Information on the Internet. Although we welcome children under age 13 to visit the Site with parental supervision, children under age 13 should not visit the site on their own and should not submit any Personal Information to the Site. We do not knowingly collect Personal Information from children under age 13. If we learn that we have collected any Personal Information from a child under age 13 without verifiable parental consent, we will delete that information from our database as soon as possible.
 
-##### Changes to the Privacy Policy
+##### Changes to the Privacy Notice
 
-The Action Network may update the Policy at any time to reflect changes in our practices. If we modify the Policy, we will place a prominent notice on the Site and/or send a notice to the primary email address provided in your registration with the Site. As part of any modification of the Policy, we will update the "last revised" date above.
+The Action Network may update the Notice at any time to reflect changes in our practices. If we modify the Notice, we will place a prominent notice on the Site and/or send a notice to the primary email address provided in your registration with the Site or take other appropriate measures to inform you, consistent with the significance of the changes we make. As part of any modification of the Notice, we will update the "last revised" date at the top of this Notice.
 
-##### Questions
+##### Contact Us
 
-If you have any questions about the Policy, please contact [support@actionnetwork.org](mailto:support@actionnetwork.org).
+If you have any questions or concerns about, or want to exercise your rights under the Notice, please contact [support@actionnetwork.org](mailto:support@actionnetwork.org).
+
+If you are a visitor from the EEA or otherwise need to get in touch with our Data Protection Officer, please contact [dataprotection@actionnetwork.org](mailto:dataprotection@actionnetwork.org).
+
+If you are an EEA visitor the data controller of your Personal Information is Action Network, LLC or our relevant partner.
