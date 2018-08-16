@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021054656id_/http%3A//www.schwans.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816024636id_/https%3A//www.schwans.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Schwan's
 
-Last updated: September 23, 2016
+Last updated: June 2, 2017
 
 * * *
 
 ## Privacy Policy
 
-Schwan's Home Service, Inc. is committed to maintaining your privacy as described in this Privacy Policy. Most of the information we collect is gathered during the initial registration process. This includes items such as name, address, telephone number or email address. Sharing information with Schwan's Home Service, Inc. is strictly voluntary. 
+Schwan's Home Service, Inc. is concerned about privacy issues and want you to be familiar with how we collect, use and disclose information as described in this Privacy Policy. Most of the information we collect is gathered during the initial registration process. This includes items such as name, address, telephone number or email address. Sharing information with Schwan's Home Service, Inc. is strictly voluntary. 
 
 Visitors who choose to browse our site without registering remain completely anonymous. Most of the site is accessible to all visitors located in geographic areas where delivery of SCHWAN'S® products is available. Registration is required to establish accounts, make purchases, change personal information, etc. 
 
@@ -45,6 +45,8 @@ All entries, posts, comments and reviews become the property of Schwan's Home Se
 ## Partners
 
 From time to time we may share customer information with carefully selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by contacting us by telephone, 1-888-724-9267; email: [contact us](https://www.schwans.com/secure/customer-service/contact-us); or by writing us at Schwan's Home Service, Inc., 115 West College Drive, Marshall, MN 56258. It may take up to eight weeks to remove your information from that which is shared with these providers. 
+
+Notwithstanding any other provision, we may also engage a third party partner for the purpose of identifying users and delivering to them interest-based content and advertisements. We may share information about you with our partners such as your name, postal address, email, or other identifier and may do so in non-human readable form to ensure the security of your information. Our partners also may collect information directly from your device, such as your IP address, device ID, and information about your browser or operating system; may combine our personal and non-personal information about you with information from other; and may place or recognize a unique cookie on your browser. To opt-out of third party cookies, please go to <http://www.aboutads.info/choices>. To opt-out of the use of your mobile device ID for targeted advertising, please see <http://www.aboutads.info/appchoices>. 
 
 ## California Privacy Rights
 
