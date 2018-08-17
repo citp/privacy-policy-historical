@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508005310id_/https%3A//media.geico.com/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818002501id_/https%3A//media.geico.com/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # GEICO Privacy Policy
 
@@ -143,7 +143,7 @@ GEICO
 One GEICO Plaza   
 Washington, DC 20076 
 
-or email us at **[privacypolicy@geico.com](mailto:privacypolicy@geico.com)**.
+or email us at **[privacypolicy@geicomail.com](mailto:privacypolicy@geicomail.com)**.
 
 This Privacy Policy applies to all of the following GEICO companies:
 
