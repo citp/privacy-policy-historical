@@ -1,54 +1,128 @@
-> *The following text is extracted and transformed from the camspot.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905012139id_/http%3A//camspot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camspot.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817121727id_/http%3A//camspot.com/privacy) for the most accurate reproduction.*
 
-# The Hottest Cam Community | Camspot.com
+# Privacy Policy - CamSpot.com
 
-Last updated: October 3, 2008
+This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
-Photimark Ltd ("ESS") has created this privacy statement in order to disclose to you the information gathering and dissemination practices for this web site. This privacy statement only applies to the practices for the free services offered via this web site, and does not apply to any other practices of ESS, for which other policies may apply. For example, if you sign up as a paying customer of ESS (e.g., as a subscribing member) or sign up for services which require a password or log-in, ESS may collect certain information from you. (Our terms of services with respect to services which we provide for which you require a password or log-in are set forth separately at <[Subscriber Agreement, Terms and Conditions](https://web.archive.org/subscriber_terms)>.) If you have questions about ESS's privacy practices with respect to products and services other than this web site (the "Site") e-mail support@camspot.com
+This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
-BROWSING OUR WEB SITE
+By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy. If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.
 
-If you browse the Site, you do so anonymously. You do not need to provide, and ESS does not collect, personal information, such as your e-mail address. When you visit the Site your browser supplies ESS with your IP address (the Internet address of your computer) but ESS does not link your IP address to any information that is personally identifiable. ESS uses your IP address to help diagnose problems with ESS's server, and to administer the Site.
+## About us
 
-COOKIES
+Multi Media, LLC operates the service located on Chaturbate.com (the "Site").
 
-Like most web sites, the Site uses "cookies." A cookie is a small string of text that a web site can send to your browser. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. Most browsers can be configured to inform you when a web site wants to place a cookie, and you can decide whether to accept the cookie. If you are just browsing the Site, you do not have to accept a cookie and you may still continue your visit. Please consult your browser's manual or help pages for information on how to set this preference. However, access to some portions of the Site may be restricted to registered users. To gain access to such areas you must accept cookies as they are needed for site administration and security.
+## Information we may collect and process about you
 
-E-MAILS AND OTHER COMMUNICATIONS FROM US OR OUR PARTNERS
+  * Information you provide to us
+  * Your IP address
+  * Information about accounts you've visited, products and services you've clicked on or shown an interest
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you
+  * Information about your interaction with the Site including any advertisements
+  * Information we collect using cookies stored on your device about your use of the Site and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Technical information from your device relating to the service you receive
+  * Information relating to the location of your device.
 
-If you provide ESS with your e-mail or postal address, or have done so in the past, ESS may send you updates on the latest ESS products and promotions. At any time, you may tell ESS to discontinue sending such information by simply replying to the e-mail and informing ESS of your preferences. By providing ESS with your e-mail address you consent to receive all electronic or paper messages and/or solicitations sent by ESS, and in so doing, you waive your rights under all state, federal or local laws regulating the transmission of unsolicited commercial paper mail and electronic mail (including but not limited to The CAN-SPAM Act of 2003 (Controlling the Assault of Non-Solicited Pornography and Marketing Act) and Washington's law regulating unsolicited commercial e-mail (RCW § 19.190.010, et seq.)).
 
-CHILDREN
 
-ESS does not solicit data from children. No information should be submitted to, or posted at, the Site by visitors under 18 years of age without the consent of their parent or guardian.
+## How we may use your information
 
-LINKS TO OTHER SITES
+By accessing the Site, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services you request or access, and developing our business.
 
-On the Site, we place links to other web sites operated by other parties. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this Privacy Policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+### Payment Processing
 
-OUR SECURITY PRECAUTIONS
+Please note that we contract with various third parties to carry out payment processing in connection with any purchases you may make through the Site. The processing and storage of any and all information you may provide to any such third-party payment processor, including information they may collect from you, is not governed by this Policy. You will need to review the Privacy and Cookie Policy for such third party on their website.
 
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. In the event you purchase a service through the Site, our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction.
+### Two Factor Authentication
 
-DISCLOSURE AND SHARING OF PERSONAL INFORMATION
+When you enable two factor authentication to protect your account, you may provide your phone number directly to a third party called Twilio. Their use of this information is outside of this Policy; however they do not receive any information regarding your account beyond the phone number you provide directly to them.
 
-Except as described in this privacy policy, ESS will not disclose your personal information that is collected through the Site to a third party, unless you request or otherwise consent to such disclosure or disclosure is required or authorized by law. (Again, if you access services using a password or log-in, separate privacy practices apply.)
+### Fraud Prevention Services
 
-ESS may share personal information with third parties engaged to assist ESS in providing services to you or to carry out one or more of the purposes described in this privacy policy. Our service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are required to protect personal information disclosed by us and to comply with the general privacy principles described in this privacy policy.
+We use third party services in connection with preventing fraud and other damage to our system. As such we may provide to such services with your IP and device data should your account be terminated for fraud or behavior which is damaging to our Site or service. This information will be retained indefinitely for the protection of our Site and users.
 
-Although ESS makes every effort to preserve user privacy, we may need to disclose personal information as follows:
+## How we may use your information in specific products or services
 
-(i) when required by law to comply with a judicial proceeding, a court order, or legal process served on ESS;   
-(ii) to enforce ESS's policies or agreements including the collection of amounts owed to us; and   
-(iii) to protect users of our sites and our sites from fraudulent or abusive use. 
+### Registration
 
-ESS also reserves the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal or financing of all or any portion of ESS or of any of the business or assets or shares of ESS or a division thereof.
+**General account registration:** You are not required to provide any information to use the Site. You may determine to create an account with the Site. In such event you will be required to provide a user name, birthdate to demonstrate you meet our minimum age requirements, and your gender. This information, together with any information you determine to provide in your account profile, will be publicly posted in connection with your username.
 
-UPDATES
+**Contributor registration:** Should you determine to create a "Contributor" account (which is an account that is permitted to receive digital currency from other users of the Site), you will be required to provide a color copy of your current government issued photo identification. This information is stored by us in compliance with United States Federal law. You will also be required to provide “pay to” information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service all moneys paid by us to Contributors as required by law.
 
-While other aspects of our privacy policy are subject to change at any time and without notice (i.e., we may revise this policy from time to time by posting an updated version), we will never give personally identifiable information about you to third parties without your prior consent. Please check here for updates.
+**Webmaster registration:** Should you determine to create a webmaster account with the Site, you will be required to provide "pay to" information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service moneys paid by us to webmasters as required by law.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with ESS, you may contact:
+### Message boards, blogs and other public forums
 
-Photimark Ltd  
-Charalampou Pettemeridi 4, 2042, Nicosa, PC, Cyprus 
+The Site may provide message boards, blogs and other user generated content facilities, in addition to user profiles. Anything that you share through any of these means is deemed public information. You should always be careful when deciding to disclose your personal information.
+
+### Location based services
+
+Where we provide services that utilize your device's location, we may permit other users of the service to block individuals in certain locations, based upon their IP, from accessing such users' content.
+
+## Certain Information Use Out of Our Control
+
+Should you determine to stream or upload any content to our Site, you understand that we cannot control the use of such content by any user/observer of our Site. Furthermore, we cannot control the use of any personal information you may determine to share with other users/observers of the Site. You should exercise caution in discussing your location, name, account information, and other identifying information. For privacy, we recommend using a unique username not in any way tied to any of your social media accounts or real name.
+
+## How we may share your information
+
+Your username will be associated with all activities you undertake on the Site including, without limitation, messages sent, content shared, and streamed content. Your gender information will be used to categorize your account and the content that you share so it is easier for site users to find. Your IP addresses, device data, and other use information is used by us in order to optimize our site for use. Your usage history may also be used to help our internal algorithm to recommend other Site users to you. Your "pay to" information, if provided to us, will be shared with third parties (such as, by way of example only, our bank) only as necessary to process payments to you using the "pay to" information you have provided to us. Your government identification, if provided to us, will be shared as required to comply with applicable law and as may be requested by you in writing. Notwithstanding the forgoing, we reserve the right to share any and all account information with law enforcement or agencies authorized by applicable governmental authorities either in response to their written request or should we believe, in our sole discretion, that you or your account may be involved with illegal activity, or if we determine in our sole discretion that such disclosure is necessary to protect the rights or property of Chaturbate, our users, or third parties.
+
+## Safeguards and security for your information
+
+We have measures in place to protect the security of your personal information from unauthorized access or use, such as by using encryption technology.
+
+## Information Deletion
+
+Should you request your personal data be deleted, it will be deleted in compliance with our data retention policy and applicable law and rules. In order to avoid abuse of our system, we will retain device and IP data relating to your account for a period of time to prevent you from creating a new account.
+
+You can request permanent deletion using our deletion tool [here](https://web.archive.org/security/privacy/delete/).
+
+## Cookies Policy
+
+You should be aware that when you use the Site we may collect information using cookies or similar technologies.
+
+### What are cookies and how do they work?
+
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognize you. This allows websites to tailor what you see on the screen.
+
+### Do we use other technologies which are similar to cookies?
+
+Our websites, apps and emails often contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used in a way similar to cookies, to understand when a particular part of a webpage is viewed. Our apps often use device identifiers in the same way as cookies. A device identifier is a unique number on your device which allow us to remember your device.
+
+### What do we use cookies for?
+
+Cookies make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+
+  1. Cookies that are needed to provide the service you have asked for. Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies gather information about you that can be used for remembering your browsing history or allowing you to stay logged in during your visit.
+  2. Cookies used to improve your browsing experience. These cookies allow the website to remember choices you make, such as your language or region and they provide improved features such as content provider recommendations and limiting the number of times a particular advertisement is shown to you.
+  3. Cookies used to understand how people use our products and services. This allows us to keep track of what pages are popular to help other users find such pages.
+  4. Cookies used to show advertising that is relevant to you based upon your viewing history.
+
+
+
+We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
+
+We may also use cookies on the Site and advertisers' sites to understand which customers reach a sale or other action page on an advertiser's site. This allows us to monitor how effective our advertising is.
+
+Some of our web pages will contain promotional links to other companies' sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. You will need to review the privacy policy of any website whose advertisement you click on as this Policy only applies to pages on our domain.
+
+## Contacting us and accessing your personal information
+
+If you have any queries or comments about this Privacy & Cookies Policy please contact us at:  
+[support@chaturbate.com](mailto:support@chaturbate.com)
+
+If you wish to review or receive a copy of the personal information we hold about you, we offer a self-serve tool [here](https://web.archive.org/security/privacy/data_export/), else please write to us at:
+
+> Attention: Data Protection Officer  
+>  Grizzly Empire Ltd  
+>  Unit 4 Studios  
+>  100 Bradford Road  
+>  Dewsbury, United Kingdom, WF13 2EF  
+>  [privacyquestions@chaturbate.com](mailto:privacyquestions@chaturbate.com)
+
+We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
+
+### Changes to this Privacy & Cookies Policy
+
+We reserve the right to make changes to our Privacy & Cookies Policy. Changes to this policy will be posted here and will become effective as of the updated effective date. Your continued use of our website or platform will signify your acceptance of these changes.
