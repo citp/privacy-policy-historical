@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the schneider-electric.us privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915165925id_/https%3A//www.schneider-electric.us/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.us privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817200436id_/https%3A//www.schneider-electric.us/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
 
 # Data Privacy Statement | Schneider Electric
+
+##  Schneider Electric Data privacy statement 
 
 1\. Schneider Electric commits to protect your personal information
 
@@ -52,7 +54,7 @@ All Schneider Electric entities ensure that these principles are observed.
 
 4\. Why we collect your personal information?
 
-Our primary goals in collecting information are to provide our customers and other users with superior service and a smooth, efficient and personalised experience while using the sites. For example, if you purchase products or request information on the sites, we use your personal information to fill your order or provide the requested information. 
+Our primary goals in collecting information are to provide our customers and other users with superior service and a smooth, efficient and personalized experience while using the sites. For example, if you purchase products or request information on the sites, we use your personal information to fill your order or provide the requested information. 
 
 Schneider Electric may collect personal Information from you to complete various transactions, such as: 
 
@@ -65,7 +67,7 @@ Schneider Electric may collect personal Information from you to complete various
 
 5\. What information is collected?
 
-Schneider Electric collects and uses your personal information to better serve you and personalise your experience and interaction with Schneider Electric. Such collection is done with appropriate notice and consent, along with required filings with data protection authorities, where applicable. 
+Schneider Electric collects and uses your personal information to better serve you and personalize your experience and interaction with Schneider Electric. Such collection is done with appropriate notice and consent, along with required filings with data protection authorities, where applicable. 
 
 Personal information (or personal data) means any information relating to an identified or identifiable natural person ('data subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. 
 
@@ -119,7 +121,7 @@ If you do provide personal information to us, either directly or through a resel
 > as required by law, for example, in response to a subpoena or search warrant;   
 > to outside auditors who have agreed to keep the information confidential;   
 > as necessary to enforce the Terms of Service;   
-> as necessary to protect the rights, safety, or property of Schneider Electric, its users, or others; this may include (for example) exchanging information with other organisations for fraud protection and/or risk reduction. 
+> as necessary to protect the rights, safety, or property of Schneider Electric, its users, or others; this may include (for example) exchanging information with other organizations for fraud protection and/or risk reduction. 
 
 7\. Your content
 
@@ -134,13 +136,13 @@ Using cookies enables us to provide you with certain features and provides us wi
 
 If you want to delete any cookies that are already on your computer or to stop cookies being accepted in future you should refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. More information is available at [www.AboutCookies.org](http://www.aboutcookies.org/). 
 
-**Third party cookies for analytics purpose**
+**Third party cookies for analytic purpose**
 
 In order to provide our visitors with a better service, we measure the number of page views, the number of visits, the different actions performed by visitors on our site, the geo-location of our visitors and the number of times visitors return to our site. For this purpose, we use two web analytics software tools: Analyzer and Google Analytics as well as the marketo Munchkin Cookie. 
 
 **Analyzer information** ( **AT Internet** \- [http://www.atinternet.com](http://www.atinternet.com/)) 
 
-As far as AT Internet is concerned “cookies” are used to carry out relevant and detailed statistical research. The “cookie” is used in addition to the JavaScript tag, and thanks to the use of “cookies” it becomes possible to refine the analyses of JavaScript tags, and they also enable AT Internet customers to recognise visitors each time they visit their site. These “cookies” store information relating to only one AT Internet user ID, and under no circumstances is this information used to collect personal data on the visitors. 
+As far as AT Internet is concerned “cookies” are used to carry out relevant and detailed statistical research. The “cookie” is used in addition to the JavaScript tag, and thanks to the use of “cookies” it becomes possible to refine the analyses of JavaScript tags, and they also enable AT Internet customers to recognize visitors each time they visit their site. These “cookies” store information relating to only one AT Internet user ID, and under no circumstances is this information used to collect personal data on the visitors. 
 
 All of the results which are obtained are then compiled, and are completely anonymous. The results provide information on the navigation and behaviour of Internet users on the websites of AT Internet customers, information such as: the number of visitors, the number of visits, the number of page viewed and other information that is necessary for the effective measurement of Internet user interests. With these results it is then possible to improve the ergonomics and content of such websites. 
 
@@ -148,7 +150,7 @@ Please visit <http://www.atinternet.com/en/company/data-protection/> in order to
 
 **Google Analytics information**
 
-This website uses as well Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. 
+This website uses as well Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. 
 
 In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-anonymisation is active on this website. 
 
@@ -189,7 +191,7 @@ However we cannot guarantee the security of any data you provide to us and you a
 
 10\. Links to third-party websites
 
-Schneider Electric sites or services may provide links to third-party applications, products, services, or websites for your convenience and information. If you access those links, you will leave the Schneider Electric site. Schneider Electric does not control those third party sites or their privacy practices, which may differ from Schneider Electric’s practices. We do not endorse or make any representations about third-party sites. The personal information you choose to provide to or that is collected by these third parties is not covered by the Schneider Electric Privacy Statement. We encourage you to review the privacy policy of any site you interact with before allowing the collection and use of your personal information. 
+Schneider Electric sites or services may provide links to third-party applications, products, services, or websites for your convenience and information. If you access those links, you will leave the Schneider Electric site. Schneider Electric does not control those third party sites or their privacy practices, which may differ from Schneider Electric practices. We do not endorse or make any representations about third-party sites. The personal information you choose to provide to or that is collected by these third parties is not covered by the Schneider Electric Privacy Statement. We encourage you to review the privacy policy of any site you interact with before allowing the collection and use of your personal information. 
 
 We may also provide social media links that enable you to share information with your social networks and to interact with Schneider Electric on various social media sites. Your use of these links may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. 
 
@@ -218,3 +220,64 @@ In this case, Schneider Electric will inform Schneider Electric candidates, Cust
 This statement and the policies referred herein are not intended to and do not create any contractual or other legal rights. 
 
 Last update:  13 May 2013 
+
+#### Cookie Notice
+
+A cookie is a piece of information in the form of a very small text file that is placed on an internet user's hard drive. It is generated by a webpage server, which is essentially the computer that operates a website. The information the cookie contains is set by the server and it can be used by that server whenever the user visits the site. A cookie can be thought of as an internet user's identification card, which tells a website when the user has returned. ( **[Source](https://www.aboutcookies.org/ "see more about Cookies definition")** ) . We may also use other similar technologies (e.g. pixel tags, web beacons...) when you visit our websites and use our mobile applications, which seek information stored on your device. For purposes of this notice, all such technologies are referred to as “Cookies”. 
+
+Using cookies enables us to provide you with certain features and provides us with information regarding website visits or use of our applications. We may also use cookies to allow us to make the sites and apps more user-friendly. Most browsers automatically accept cookies but you do not have to accept them. You can usually change your browser to prevent accepting them and you should still be able to enjoy most of the features on the sites. Your mobile device also provides tools to manage the application’s ability to access information contained on your terminal. 
+
+If you want to delete any cookies that are already on your computer or to stop cookies being accepted in future you should refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. Instructions for:
+
+• [Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform=Desktop&hl=en "Disable cookies on Chrome")   
+• [Mozilla](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences "Manage cookies on Mozilla")   
+• [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer "Delete cookies on Explorer")   
+• [Safari](https://support.apple.com/kb/ph21411?locale=en_US "Manage cookies on Safari").    
+
+
+**Third-party cookies for analytics purpose  
+**   
+In order to provide our visitors with a better service, we measure the number of page views, the number of visits, the different actions performed by visitors on our site, the geo-location of our visitors and the number of times visitors return to our site. For this purpose, we use two web analytics software tools: Analyzer and Google Analytics as well as the Marketo Munchkin Cookie. 
+
+Analyzer information ( **[AT Internet](https://www.atinternet.com/ "Get more about AT internet")** ) 
+
+As far as AT Internet is concerned, “cookies” are used to carry out relevant and detailed statistical research. The “cookie” is used in addition to the JavaScript tag, and through the use of “cookies” it becomes possible to refine the analyses of JavaScript tags, and they also enable AT Internet customers to recognize visitors each time they visit their site. These “cookies” store information relating to only one AT Internet user ID, and under no circumstances is this information used to collect personal data about the visitors. 
+
+All of the results which are obtained are then compiled and are completely anonymous. The results provide information on the navigation and behavior of internet users on the websites of AT Internet customers, information such as: the number of visitors, the number of visits, the number of pages viewed and other information that is necessary for the effective measurement of internet user interests. With these results it is then possible to improve the ergonomics and content of such websites. 
+
+Please visit **[AT Internet Data-protection chapter](https://www.atinternet.com/en/company/data-protection/)** in order to check your access rights, right to reply and right to remove data. 
+
+**Google Analytics information  
+**   
+This website also uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. 
+
+In case IP-anonymization is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the whole IP address first be transferred to a Google server in the USA and truncated there. The IP-anonymization is active on this website. 
+
+Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage. 
+
+The IP-address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt out from being tracked by Google Analytics with effect for the future by downloading and installing **[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en "Google Analytics Opt-out Browser Add-on")** for your current web browser. 
+
+**Marketo Munchkin Cookie  
+**   
+We use third-party marketing software from a company called Marketo to send our emails. We use cookies as part of tracking so we have information on email open rates and click through rates. We also track activity on the website. For example, visitors can download marketing white papers from the site and we use Marketo cookies to see who does this and if they then visit other parts of our website. For more information on Marketo’s privacy and cookie policy, please visit [**Marketo privacy policy**](https://www.marketo.com/company/legal/ "Understand how Marketo works with and protects its website visitors, customers, and partners."). 
+
+How does it work?
+
+• We embed a Munchkin Javascript snippet on your sites. When visitors come to a site, we place a cookie in the visitor’s web browser (if there wasn’t already one) and send messages to our servers about that visitor’s web activity   
+• This behavior is very functional and very similar to other web-tracking scripts such as Google Analytics   
+• Our cookie is a first-party cookie, and only visible to us.   
+
+
+What does Munchkin Capture?   
+When on a page, Munchkin automatically gathers the following information:
+
+• Page Visits   
+• Link Clicks   
+• IP Address   
+• Referrer   
+• Our cookie ID   
+
+
+If you prefer that we do not place this cookie on your web browser you may opt out by clicking on the “opt-out” button below. 
+
+Last update: 25 May 2018
