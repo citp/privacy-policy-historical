@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-topix.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026145756id_/http%3A//www.hot-topix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-topix.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817072337id_/http%3A//www.hot-topix.com/privacy.html) for the most accurate reproduction.*
 
 # Hot Topix.com | Hunter Fitness
 
