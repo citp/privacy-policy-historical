@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the korea-mmm.net privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617140429id_/http%3A//korea-mmm.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the korea-mmm.net privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817191316id_/http%3A//korea-mmm.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Freedownload For Everything
 
