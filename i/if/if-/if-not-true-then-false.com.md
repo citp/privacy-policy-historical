@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if-not-true-then-false.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613213013id_/https%3A//www.if-not-true-then-false.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if-not-true-then-false.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817234514id_/https%3A//www.if-not-true-then-false.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – If Not True Then False
 
@@ -48,7 +48,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ### Who we share your data with
 
-Your DNS and other requests go through [CloudFlare services](https://www.cloudflare.com/privacypolicy/). Your comments may be checked through [AKISMET spam detection service](https://automattic.com/privacy/). Ads are served using [Google Ads services](https://policies.google.com/technologies/ads) and [BuySellAds services](https://www.buysellads.com/about/privacy). Also we collect anonymous usage information on visitors through [Google Analytics](https://policies.google.com/privacy). Your Social Media shares go through [AddThis service](http://www.addthis.com/privacy/privacy-policy/). Third party services (CloudFlare, Akismet, Google Ads, Google Analytics, AddThis) may employ tracking cookies to gather anonymous browser, operating system, geographic, and website navigation information.
+Your DNS and other requests go through [CloudFlare services](https://www.cloudflare.com/privacypolicy/). Your comments may be checked through [AKISMET spam detection service](https://automattic.com/privacy/). Ads are served using [Google Ads services](https://policies.google.com/technologies/ads) and [BuySellAds services](https://www.buysellads.com/about/privacy). Also we collect anonymous usage information on visitors through [Google Analytics](https://policies.google.com/privacy). Your Social Media shares go through [AddThis service](https://www.addthis.com/privacy/privacy-policy/). Third party services (CloudFlare, Akismet, Google Ads, Google Analytics, AddThis) may employ tracking cookies to gather anonymous browser, operating system, geographic, and website navigation information.
 
 ### Third party links
 
