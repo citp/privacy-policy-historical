@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aniksingal.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629063751id_/http%3A//aniksingal.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aniksingal.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817082004id_/http%3A//aniksingal.com/privacy-policy-2) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Anik Singal - The Fighting Entrepreneur
 
