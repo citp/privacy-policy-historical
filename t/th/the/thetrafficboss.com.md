@@ -1,95 +1,147 @@
-> *The following text is extracted and transformed from the thetrafficboss.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029171239id_/http%3A//www.thetrafficboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficboss.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817154933id_/https%3A//thetrafficboss.com/privacy-policy) for the most accurate reproduction.*
 
-# The Traffic Boss - Privacy Policy
+# Privacy Policy - Buy your traffic like a boss!
 
-**The Traffic Boss  
-**
+At UPT Media, or our traffic subsidiaries, including ClickToRing, SquareVid, TheTrafficBoss or UptownTraction, (“UPT Media,” “we,” “us,” or “our”), we provide online advertising services. We conduct ourselves in a manner that protects user privacy and personalizes web experiences to provide significant benefits to Internet end users. In accordance with these beliefs, UPT Media creates results for advertisers and publishers in revolutionary ways without compromising individual privacy.  We have created this Privacy Policy in order to demonstrate our commitment to privacy as it pertains to **SERVICES** , **COMPANY WEBSITE** , **ADVERTISERS** and **PUBLISHERS**.
 
-**Privacy Policy**
+**I.   SERVICES**  
+This The purpose of this Privacy Policy (this “Policy”) is to inform you of regarding the use of data within UPT Media’s network as well as those affiliated with us, including data processors, sub-processors and third-party partners. This Policy shall also provide you information regarding how to manage certain data collected about you.
 
-**OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY.** We realize the sensitive nature of the information you provide to us. This site describes how we collect and use your personal information. The information collection, use, and dissemination practices of thetrafficboss.com, its owners, operators, partners and affiliates, ("Company") are discussed in this policy. This policy applies to Company's information collection (a) on the Company's websites, (b) on various third-party websites, and (c) to Company's other information collection practices, including the purchase of customer lists from third parties. This information may be used for three purposes: to customize the content you see, to fulfill your requests for certain services and information, and to contact you.
+**Definitions:**
 
-**COLLECTION OF INFORMATION**
-
-1.1 Survey Information. The Company collects information from individuals when they voluntarily complete a Company survey, order form, or registration page either online, in person, by mail, by telephone or other similar means (collectively, a "Survey"). In Surveys, the Company or third-party may ask an individual to provide various information to the Company, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). An individual may receive incentives from the Company or a third-party in exchange for providing Survey Information to the Company. If a login or password is generated, you are responsible for maintaining the confidentiality of your information and password.
-
-1.2 Third-Party List Information. The Company may collect information from individuals when they provide information to a third-party, and the Company subsequently purchases, licenses, or otherwise acquires the information from the third-party ("Third-Party Seller"). Such purchased information may include, but is not limited to, Survey information ("Third-Party Survey Information"). When acquiring Third-Party Survey Information, the Company seeks assurances from the Third-Party Seller that the Third-Party Seller has a right to transfer the Third Party Survey Information to the Company and that the Third-Party Seller has a right to provide offers from advertisers to the individuals included on the Third-Party Seller's list.
-
-1.3 Other Information. The Company may obtain other information in situations including, but not limited to (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by the Company or by a third-party, (2) when an individual requests assistance through Company's or affiliate customer service department, or (3) when an individual voluntarily subscribes to a Company service or newsletter (together, "Other Information"). The Company may also receive information about individuals from third-parties or from other sources outside of the Company including information located in public databases ("Outside Information").
-
-1.4 Cookies, Web bugs, and Other Technology. The Company currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. This information includes but is not limited to your IP address, the date and time you access the site, the URL that you just came from, which URL you go to next, which browser your are using and which operating system you are using. Additionally, the Company may use other new and evolving sources of information in the future (together, "Technology Information"). As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of technology.(a) Cookies. A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Company to identify the individual with his or her corresponding data that resides in Company's database. We may use cookie technology to improve your experience, remember your preferences, and customize the content you see, or authenticate our access to your personal information. You may read more about cookies at www.cookiecentral.com. Individuals who use our Websites need to accept cookies in order to use all of the features and functionality of the Websites.(b) Web bugs. A web bug, web beacon, or action tag is programming code that can be used to display an image on a web page (by using an programming function -- see www.w3.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. The Company currently contracts with online partners to help manage and optimize its Internet business and communications. It uses the services of a marketing company to help us measure the effectiveness of its advertising and how visitors use its site. To do this, it uses web beacons and cookies provided by its marketing company on this site. The type of information it collects includes the frequency, duration, and pages viewed by visitors, and the time on a page, their operating system, browser size, type, version and connection speed. By supplementing its records, this information helps it learn things like what pages are most attractive to its visitors, which of its products most interest its customers, and what kinds of offers its customers like to see. Although the marketing company logs the information coming from its site on its behalf, the Company controls how that data may and may not be used.
-
-1.5 Individual Information. As used herein, "Individual Information" means Survey Information, Third-Party Survey Information, Other Information, Technology Information, Outside Information, and any other information the Company gathers or receives about individuals.
-
-1.6 No Information Collected from Children. The Company's products and services do not solicit information or target information of any kind to children under the age of 13. The Company will not knowingly collect any personal information about children under the age of 13. It is possible by fraud or deception we may receive information pertaining to children under the age of 13. If the Company obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, the Company has no such information to use or to disclose to third parties. The Company has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
-
-1.7 Credit Card Information. The Company may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Company. When the Credit Card Information is submitted to Company, such information is encrypted and is protected with SSL encryption software. The Company will use the Credit Card Information for the purpose of processing and completing the purchase transaction, and the Credit Card Information may be disclosed to Third Parties only as necessary to complete the purchase transaction or to offer related products and services by trusted affiliates and partners. Credit Card Information is not included in the definition of "Individual Information" and is not shared with Third Parties, except as noted above. Specific opt-in requirements for sharing of financial information under various state laws such as Vermont and New Mexico do not apply.
-
-**USE OF INDIVIDUAL INFORMATION**
-
-2.1 Discretion to Use Information. THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION. The Company may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
-
-2.2 Email. The Company uses Individual Information to provide promotional offers by email to individuals. If email recipients wish to end their email subscription, they may do so as described in paragraph 5 below. In certain commercial email messages sent by Company, an advertiser's name will appear in the "From:" line, but hitting the "Reply" button will cause a reply email to be sent to Company. The "Subject:" line of Company email messages will usually contain a line provided from the advertiser to Company. The subject line will not usually contain phrases such as "ADV:" or "ADVERTISEMENT". The Company only sends email to individuals who have agreed on its websites to receive email from the Company or to individuals who have agreed on third-party websites to receive email from third-parties such as Company. The Company does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Company's email messages.
-
-2.3 Targeted Advertising. The Company uses Individual Information to target advertising to an individuals. The Company uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. Monitoring and Recording. You hereby give permission and consent to the Company or its affiliates to contact you via phone or email and agree to allow the Company or its affiliates to monitor or record your phone conversations. Verbal notice may not be provided of monitoring or recording.
-
-2.4 Storage of Individual Information. The Company stores the Individual Information in a database on Company computers. Our computers have security measures (such as a firewall and monitoring) in place to protect against the loss, misuse, and alteration of the information under Company's control. Notwithstanding such measures, even the most robust security systems are not foolproof and the Company cannot guarantee that its security measures will prevent the Company computers from being illegally accessed, and the Individual Information on them stolen or altered.
-
-2.5 Notification of Privacy Policy Changes. The Company's business is always changing and the Privacy Policy may change as well. The Company will post the changes here so its users are always aware of what information is collected, how it is used, and under what circumstances, if any, it may be disclosed. You can determine if this Privacy Policy has been revised since your last visit by referring to the "Last Updated" date at the top of this page
-
-. **DISSEMINATION OF INDIVIDUAL INFORMATION**
-
-3.1 Sale or Transfer to Affiliates or Third-Parties. THE COMPANY MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO AFFILIATES OR THIRD-PARTIES FOR ANY PURPOSE IN COMPANY'S SOLE DISCRETION. The Company will transfer Individual Information to third-parties when necessary to provide a product or service that a person orders from such third-party while using Company websites or when responding to offers provided by Company. The Company may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
-
-3.2 Other. The Company may disclose Individual Information to respond to subpoenas, court orders, regulatory requests and other legal process. The Company may also disclose or exchange Individual Information with other companies for fraud protection and credit risk reduction. The Company may disclose Individual Information to protect or defend the rights or property of the Company or its websites, its products, or services, the personal safety of its employees or in urgent circumstances, the safety of members of the public. The Company's websites are located in the United States. If you are located in the European Union or anywhere outside the United States, any information you provide will be transferred to the United States. Your use of our websites means that you consent to such transfers.
-
-3.3 Changes to Individual Information. Currently there are no processes or procedures which you can use to review and/or request changes to personally identifiable information.
-
-3.4 Persons or Parties Covered. This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons, who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller". **  
-**  
-3.5 Persons excluded from this website are still covered. In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
-
-3.6 Viewing and/or use and/or communications is construed as acceptance of the terms of the terms of this policy. Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website. If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
-
-**PRIVACY PRACTICES OF THIRD PARTIES**
-
-4.1 Advertiser cookies and web bugs. Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on their websites and on the Internet generally may use their own cookies, web bugs, and other technology to collect information about individuals. The Company does not control Advertisers' use of such technology, and the Company has no responsibility for the use of such technology to gather information about individuals.
-
-4.2 Links. The Websites and email messages sometimes contain hypertext links to the web sites of third parties. The Company is not responsible or liable for the privacy practices or the content of such other websites.
-
-**UNSUBSCRIBE**
-
-5.1 Unsubscribe Procedure. If you wish to discontinue receiving email messages from Company, you have several options:(a) Unsubscribe from one email list. To unsubscribe from a particular list follow the instructions in each promotional email message sent by the Company.(b) Unsubscribe from all Company email lists. We reserve the right to add Individual Information to multiple lists maintained by Company. To globally unsubscribe from all of Company's lists go to [UnSubscribe](http://www.thetrafficboss.com/unsubscribe.php) and complete the web form.
-
-**MORE INFORMATION**
-
-6.1 More Information. By using this website, you signify you acceptance of this Privacy Policy. If you do not agree to this policy, please do not use this site. Your use of this site following the posting of any changes means that you accept those changes. This Privacy Policy shall be maintained in conformity with any and all applicable privacy related laws and regulations. If you have questions about this policy, please contact us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy62967%20=%20'support'%20+%20'@';%20addy62967%20=%20addy62967%20+%20'thetrafficboss'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy62967%20+%20'\\'%3E'%20\);%20document.write\(%20addy62967%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[support@thetrafficboss.com](mailto:support@thetrafficboss.com) . THE COMPANY RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS POLICY FREQUENTLY.
-
-6.2 **** Visitors **** email inquiries. Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.6.3 Customer email or testimonials. If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you, give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit. Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes. 6.4 Information obtained from visitor interaction with Banners, Popups, or site advertisers. Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
-
-6.4 Information obtained from referring email or referring URLS **. **If you send a friend an email from this site or if you send the URL or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept full responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.  
- **  
-**6.5 Information obtained from voluntary visitor, subscriber, member or customer surveys **. **Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
-
-6.6 Information that is not shared. **** Credit card information or other financial information is not usually known to the website. However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies. However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
-
-6.7 Bulletin Boards and Public Forums. **** Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
-
-6.8 Spam. **** By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
-
-6.9 Data Security. **** This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
-
-6.10 California Residents. Under California law, California residents who have an established business relationship with the Company may choose to opt-out of the Company's disclosure of Individual Information to third-parties for marketing purposes. The Company discloses Individual information to companies for product fulfillment, to other companies in its sole discretion, and to Governmental and/or regulatory authorities. If, having provided your consent, you would like to revoke your consent to future disclosures of your Individual Information to third-parties, you may do so. This opt-out will not prevent the use of Individual Information that has already been disclosed to third parties with your consent and you should contact such third parties directly to opt-out from such. For requests sent by email, you must put the statement "Privacy Department - Your California Privacy Rights" in the subject field of your email. For requests sent by postal mail, you must address the letter to the attention of "Privacy Department – Your California Privacy Rights". For all requests, include your name, street address, city, the state of California, and zip code. The Company will not accept requests via the telephone or by facsimile. The Company is not responsible for notices that are mislabeled, misdirected or have incomplete information. Because the Company provides its California users with the ability to exercise his or her "opt-out" right, pursuant to Section 1798.83 (c)(2) of the California Civil Code, the Company is not obligated to provide California users with the names and addresses of all the third parties that received Individual Information for the third parties' direct marketing purposes during the preceding calendar year.
-
-**REVSIONS AND DISPUTES**
-
-7.1 Revisions to this privacy policy without notice. This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy or, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
-
-7.2 This Privacy Policy was last updated on: March 30, 2009
-
-7.3 Disputes. As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues. Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller. In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal. The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.
-
-7.4 Jurisdiction and venue. If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. You may direct questions, comments or reports to: [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy14607%20=%20'support'%20+%20'@';%20addy14607%20=%20addy14607%20+%20'thetrafficboss'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy14607%20+%20'\\'%3E'%20\);%20document.write\(%20addy14607%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[support@thetrafficboss.com](mailto:support@thetrafficboss.com) , or by calling 866-695-4430 In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.  
+  * **Company** – UPT Media, a Registered Company
+  * **Platform** – The services we provide to Clients
+  * **Clients** – Our primary clients are Advertisers and Publisher who utilize the Platform to create, edit and maintain advertising campaigns or to sell advertising placements.
+  * **User** – An individual who receives or otherwise interacts with an advertisement
+  * **Data Subject** – The person about whom personal data relates. This could be Clients or a User.
+  * **Processor** – Are the technology providers or sub processors who maintain a data processing agreement with the Company.
 
 
-7.5 Applicable Law. Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
+
+**Personally Identifiable Information  
+**Personally Identifiable Information (“PII”) is information about you that can be used to contact you or identify you as an individual. PII may include: your name, username, phone number, email address, and physical address. To the extent we obtain PII about you, such information shall be held for no more than one (1) year before it is deleted.
+
+**Personal Data  
+**Personal Data is information that is associated with an individual and enables that individual User to be singled out. Through the use of ad tags and cookies we collect information about you. Typically, the information obtained does not identify you directly (i.e. by name or email address), however, the information may indirectly identify your device or geolocate you for purposes of delivering targeted advertisements. Under European privacy law, some information transmitted by Cookies and Tags including Log Data are considered personal information. To the extent we obtain Personal Data about you, such information shall be held for no more than one (1) year before it is deleted.
+
+**What Information We Collect for Client’s Accounts:**
+
+  * **Registration information** – Your first and last name, mailing address, phone number, email address, Skype contact and other similar contact details.
+  * **Technical / Access information** – Details including your IP (Internet Protocol) Address, User-Agent and activity including pages accessed, information entered are stored for fraud prevention and security auditing.
+
+
+
+The information we collect and log, as outlined above, is necessary for secure account access and for securing the data systems of the platform. This information will not be sold or otherwise transmitted for commercial usage.
+
+**Information Collected Relating to Users and Advertising:**
+
+  * **Device and Connection Information** – Details including your IP (Internet Protocol) Address, User-Agent and activity including URLs of websites or names of applications accessed. The details of a User’s device and the context of where it is seen, as it related to URLs and applications is important for general ad targeting. These elements of a User’s browser or device are available for targeting, but are not made available to target a User individually.
+
+
+
+Where ads may be targeted directly to a user – commonly called “retargeting”, in service of an advertiser or merchant whose website or app a User may have interacted with previously, clear and informed consent will be collected before such retargeting techniques will be activated.
+
+**Your Rights as a Resident of the European Economic Area  
+**If you are located in the European Economic Area (“EEA”), you have certain rights with respect to your personal data, including the right to request access to, correct, amend, delete, port to another service provider, or object to certain uses of your personal data.
+
+Your data may be obtained to pursue the following legitimate interests, either for ourselves, our Clients, or other third parties.
+
+  * To provide Clients with services related to our Platform;
+  * To prevent risk and fraud on our Platform;
+  * To provide communications, marketing, and advertising via the Client’s Platform;
+  * To provide reporting and analytics;
+  * To help Clients integrate with third party publishers and advertiser platforms via our Platform;
+  * To provide troubleshooting, support services, or to answer questions;
+  * To test out features or additional services; and
+  * To improve our services, applications, and websites.
+
+
+
+When we process personal information to pursue these legitimate interests, we do so where we believe the nature of the processing, the information being processed, and the technical and organizational measures employed to protect that information can help mitigate the risks to the data subject.
+
+**Consent, Data Subject Requests, Opting-Out and Right of Access  
+**If you are a Client, at any time, you may revoke our permission by visiting [Settings](http://login.thetrafficboss.com/) inside your account, or request logs based on your personal access.
+
+If you are a User and a resident of the EEA who believes they may have PII recorded, please use the Contact section, at the bottom of the document, to direct your inquiries or requests based on your rights outlined above.
+
+**Children’s’ Online Privacy Protection Act Compliance (COPPA)  
+**The Platform and services are intended for general audiences and are not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us here: info@uptmedia.com.
+
+If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate any account linked to such underage minor.
+
+**Data Policies**
+
+**Data Retention  
+**If you are using the Platform as an advertiser or publisher, we will maintain your registration information for our records unless and until you ask the Client Platform to delete this information, or otherwise update said information.
+
+**Data Related to Advertisements  
+**We may retain other data within our databases, related to your connection, advertisements served or other related information that we process on behalf of our Clients for a period of up to six (6) months unless otherwise required specific legal obligations, dispute settlements or contract enforcement.
+
+After this period, The Company and its Processor may maintain and use such data in an aggregated format, as necessary for internal analytical purposes, to comply with its legal obligations, settle disputes and enforce contracts.
+
+**How do we protect your information?  
+**The Company and its Processor(s) uses both physical and technical security measures to maintain an accepted industry security standard to protect all data on the Platform from misuse and/or unauthorized access.
+
+**Physical Measures of Data Security  
+**The Company and its Processor maintains a private, physical “cloud” infrastructure of hardware to provide the Platform services.
+
+Access to this hardware is secured by twenty-four (24) hour, seven (7) days a week on site guards. Building access is secured by keycard entry into the rooms that store the infrastructure.
+
+Access to logs and other sensitive data is controlled and monitored to ensure employees of the Client and The Company and its Processor have a legitimate basis for accessing the data.
+
+**Technical Measures  
+**The Company and its Processor encrypts the data sent to and from Client Platforms using the HTTPs protocol.
+
+Access to this hardware is secured by twenty-four (24) hour, seven (7) days a week on site guards. Building access is secured by keycard entry into the rooms that store the infrastructure.
+
+**Data Breach  
+**While we cannot guarantee misuse of data and or unauthorized access will not occur; we make good faith efforts to prevent such occurrences. We do not warrant or represent that your account or any of your information will be protected against, any misuse, by third parties.
+
+In the case of a breach which we determine may have involved your personal information, there will be timely efforts to contact you and also alerts to the relevant local authorities.
+
+**Do we disclose any information to third parties?  
+**We may also share your information in the following circumstances:
+
+  * To prevent, investigate, or take action regarding illegal activities, suspected fraud, violations of Client Terms of Service or any other agreement related to the Platform, or as otherwise required by law.
+  * To conform to legal requirements, or to respond to lawful court orders, subpoenas, warrants, or other requests by public authorities (including to meet national security or law enforcement requirements).
+  * Personal information may also be shared with a company that acquires our business, whether through merger, acquisition, bankruptcy, dissolution, reorganization, or other similar transaction or proceeding. If this happens, we will post a notice on our home page.
+
+
+
+**Cookies  
+**We, and third parties with whom we partner, may use cookies, web beacons, tags, scripts, advertising identifiers (including mobile identifiers such as Apple’s IDFA or Google’s Advertising ID) and similar technology ( **“Cookies”** ) in connection with your use of the Platform, third party websites, and mobile applications. Cookies may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Platform, such as your browser type, search preferences, IP address, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. Cookies may be persistent or stored only during an individual session.
+
+The purposes for which we use Cookies in the Service include:
+
+**Purpose** | **Explanation**  
+---|---  
+Processes | Intended to make the service work in the way you expect. For example, we use a Cookie that tells us whether you have already signed up for an account.  
+Authentication, Security, and Compliance | Intended to prevent fraud, protect your data from unauthorized parties, and comply with legal requirements. For example, we use Cookies to determine if you are logged in.  
+Preferences | Intended to remember information about how you prefer the service over our Platform to behave and look. For example, we use a Cookie that tells us whether you have declined to allow us to send push notifications.  
+Advertising | Intended to make advertising more relevant to users and more valuable to advertisers. For example, we may use Cookies to serve you interest-based ads, such as ads that are displayed to you based on your visits to other websites, or to tell us if you have recently clicked on an ad.  
+Analytics | Intended to help us understand how visitors use the Platform. For example, we use a Cookie that tells us how our search suggestions correlate to your interactions with the search page.  
+  
+You can set some Cookie preferences through your device or browser settings, but doing so may affect the functionality of the service over the Platform. The method for disabling Cookies may vary by device and browser, but can usually be found in your device or browser preferences or security settings. For example, iOS and Android devices each have settings which are designed to limit forms of ad tracking. Please note that changing any of these settings does not prevent the display of certain advertisements to you.
+
+Click on any of the browser links below for specific instructions on deleting cookies.
+
+  * [**Microsoft Windows Explorer**](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
+  * [**Google Chrome**](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies)
+  * [**Mozilla Firefox**](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+  * [**Apple Safari**](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=en_US)
+
+
+
+**Changes to the Privacy Policy  
+**We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. The most current version of our privacy policy shall govern how we collect, use and disclose information about you. By continuing to use our services after changes to the privacy policy become effective, you acknowledge any such revised privacy policy.
+
+**How to Contact Us  
+**If you have any questions about this Privacy Policy, the practices of the UPT Media or your dealings with the UPT Media, you can contact us by e-mail at info [at] uptmedia.com.
+
+Or as follows:  
+UPT Media/ TheTrafficBoss  
+ATTN: DPO  
+PO Box 3774  
+Redondo Beach, CA 90277
+
+_This Privacy Policy was last updated on: May 25, 2018._
