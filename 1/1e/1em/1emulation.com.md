@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1emulation.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108072046id_/http%3A//www.1emulation.com/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1emulation.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817035702id_/http%3A//www.1emulation.com/forums/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - 1Emulation.com
 
