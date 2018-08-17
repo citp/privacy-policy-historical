@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinative.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628093409id_/http%3A//support-en.hinative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinative.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817151107id_/http%3A//support-en.hinative.com/privacy) for the most accurate reproduction.*
 
 # HiNative — Privacy Policy
 
