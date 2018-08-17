@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodluckbuy.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313063105id_/http%3A//www.goodluckbuy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodluckbuy.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817094548id_/https%3A//www.goodluckbuy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # - Electronic digital products and spare parts accessories wholesale goodluckbuy.com
 
@@ -16,6 +16,6 @@ We may use your personal information to provide you with important information a
 
  **Questions:**
 
-If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](http://www.goodluckbuy.com/index.php?target=forms&name=contact_us) form. 
+If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](https://www.goodluckbuy.com/index.php?target=forms&name=contact_us) form. 
 
 We may occasionally modify this privacy statement. All such changes will be reflected on this web page. 
