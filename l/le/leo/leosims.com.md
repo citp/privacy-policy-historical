@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leosims.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126221610id_/http%3A//leosims.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leosims.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817180343id_/http%3A//leosims.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Leosims.com
+# Privacy Policy | Leosims.com -New
 
 **leosims.com Privacy Policy**
 
