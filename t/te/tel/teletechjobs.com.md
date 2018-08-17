@@ -1,131 +1,175 @@
-> *The following text is extracted and transformed from the teletechjobs.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615070456id_/http%3A//www.teletechjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletechjobs.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817070230id_/https%3A//www.ttecjobs.com/en-US/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for TTEC
 
-## General
+**Effective Date: December 19, 2014**
 
-This privacy statement (together with any additional data privacy notices on our JOB SITES or in targeted e-mails) explains how TeleTech Holdings, Inc. and its subsidiaries (collectively "TeleTech") collects and uses the personal data of applicants for employment, clients and business contacts, including visitors to our websites. Any changes we may make to our privacy statement in the future will be posted on this page.
+* * *
 
-In plain language - we are committed to maintaining your privacy while providing you services and by creating a valuable, robust website to provide you with an effortless customer experience, as well as customized services and information.
+## Overview
 
-For purposes of this Privacy Policy, TeleTech shall include TeleTech branded companies and all of the other members of the TeleTech family of companies, including the following:
+CareerBuilder, LLC and its subsidiaries and divisions (collectively, “CareerBuilder”, “We” or “Our”) provides the Talent Network on behalf of the employer whose career and employment opportunities are promoted on this Talent Network. We have drafted this Privacy Policy to provide you notice of our data and security practices and policies as you use the Talent Network. This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase “Personal Information” refers to information that may be used to personally identify you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to help protect the security of your Personal Information and how you can contact us about our privacy practices. Please do not provide us with highly sensitive information such as Social Security Numbers, financial information or health records. This Privacy Policy incorporates by reference the [Terms and Conditions](https://web.archive.org/en-US/terms-and-conditions) for the Talent Network, which apply to this Privacy Policy. When you visit the Talent Network or provide us with information, you consent to our use and disclosure of the information we collect or receive as described in this Privacy Policy. 
 
-eLoyalty, LLC
+Please review this Privacy Policy periodically as we may update it from time to time without prior notice to reflect changes in our data practices. We will post a prominent notice on the Talent Network to notify you of any significant changes to our Privacy Policy and indicate at the bottom of the notice when it was most recently updated. If we make material changes to the policy that will affect previously collected Personal Information, you will be notified and asked to consent to the updated Privacy Policy. 
 
-Humanify, Inc.
+Click on one of the links below to jump directly to the listed section: 
 
-iKnowtion
+  
 
-Technology Solution Group
 
-Peppers & Rogers Group 
+  * Information We Collect
+  * How We Use the Information We Collect
+  * Information We Share
+  * Cookies and Third-party Advertisers
+  * Update Your Account Information 
+  * Links to Other Websites
+  * How We Protect Personal Information
+  * California Residents
+  * Children’s Privacy
+  * How to Contact Us
 
-Revana, Inc.
+  
 
-rogenSi
 
-Sofica Group
+* * *
 
-If you have any questions now or during your visit, please contact us at [privacy@teletech.com](mailto:privacy@teletech.com). 
+## Information We Collect
 
-We will post any changes to this privacy statement on our website. This privacy statement is effective March 2, 2015.
+We may obtain information about you that you upload to our Talent Network or that may be provided to us by the employer whose career and employment opportunities are promoted on this Talent Network. The types of information we may obtain include: 
 
-## What personal data do we collect?
-
-Personal data is information that identifies you as an individual. TeleTech collects certain types of personal data at [http://www.teletech.com](http://www.teletech.com/) (our "website") and offline in connection with the services we provide. 
-
-We collect personal data from you, such as your name, postal address, telephone number, e-mail address, credit card number or other payment account number, only when you voluntarily provide it to us. In order for you to take advantage of particular opportunities provided by us (for example, to subscribe to our newsletter, request information from us), we may require that you furnish personal data.
-
-## Your privacy on TeleTech’s websites
-
-The primary purpose of TeleTech’s website is to be a dynamic resource and business tool to help you learn more about TeleTech. We want you to feel secure when visiting our website and are committed to maintaining your privacy when doing so.
-
-## What information do we gather?
-
-TeleTech collects information at its website in two ways: (1) directly (for example, when you provide information to sign up for a newsletter or register to comment on a forum website); and (2) indirectly (for example, through our website's technology).
-
-We may collect and process the following information:
-
-  * Information that you provide by filling in forms on our website. This includes subscribing to services, newsletters and alerts. Pages that collect this type of information may provide further information as to why your data is needed and how it will be used. It is completely up to you whether you want to provide it.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Any postings, comments or other content that you upload or post to TeleTech’s website.
-  * Our website collects information about your computer, including (where available) your IP address, operating system and browser type, for system administration, to filter traffic, to look up user domains and to report on statistics.
-  * Details of your visits to our website, the pages you view and resources you access or download, including but not limited to, traffic data, location data, weblogs and other communication data. Please see the Cookies section below for more information.
+  * Your Personal Information, if you choose to provide it or if we obtain it in the manner described above. You do not have to give us any Personal Information in order to perform job searches or to read the content portions of the Talent Network.
+  * The name and email address of your friends or family members when you ask us to email a job posting on your behalf. Please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the job posting from you.
+  * Username and password for the account you may establish on the Talent Network.
+  * Your demographic information (such as zip or postal code, occupation, education and experience, and if you choose to provide it, age, gender and race or ethnicity). We collect this information either through the registration process, from your resume or in the manner described above.
+  * Job search behavior and preferences, and a record of the searches that you make on the Talent Network. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches.
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
 
 
 
-When this information relates to or identifies you, we will treat it as “personal data.”
+In addition, when you visit the Talent Network, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail below. The information we may collect by automated means includes: 
 
-## How do we use information that we collect from the site?
-
-We use personal data to provide you with information you request, process online job applications, and for other purposes which we would describe to you at the point where it is collected or which will be obvious to you. For example:
-
-  * To fulfill your requests articles, newsletters or other content. 
-  * For surveys or research questionnaires. 
-  * To personalize your experience at our website.
-  * To contact you for marketing purposes where you have agreed to this. 
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type).
+  * Pages and URLs that refer visitors to the Talent Network, also pages and URLs that visitors exit to once they leave the Talent Network.
+  * Dates and times of visits to the Talent Network.
+  * Information on actions taken on the Talent Network (such as page views, site navigation patterns and job view or application activity).
+  * A general geographic location (such as country and city) from which a visitor accesses the Talent Network.
+  * Search terms that visitors use to reach the Talent Network.
 
 
 
-We analyze your IP and browser information to determine what is most effective about our website, to help us identify ways to improve it and make it more effective. 
+(Return to Top)
 
-## What about "Cookies"?
+* * *
 
-The term "cookie" refers to files that are transferred from a website to your computer's hard drive. The purpose of cookies is to enable us to track your activities on our website. Cookies help us remember who you are. They work in the same fashion as the clerk in a store you visit on a regular basis. The store clerk may not necessarily know your name, but he or she recognizes that you have been in the store before and may remember what you usually purchase while you are in the store. Cookies permit us to gain the same kind of information about you and enable us to provide you with more efficient and personalized service. For example, for sites that require registration, a cookie file can be stored on your computer enabling you to skip the registration process on subsequent visits. Cookies are also frequently used to track the progression of a customer engaged in an online purchase to make sure that the transactional information remains intact.
+## How We Use the Information We Collect
 
-Some (usually newer) versions of Web browsers allow you to decide whether or not to accept cookie files and some programs notify you when a website is about to deposit a cookie file on your hard drive. If you decide not to accept cookies, you may not be able to successfully navigate some portions of a website.
+We may use the information we obtain about you to: 
 
-TeleTech uses cookie files for the customized presentation of Web pages. We do not use cookies to retrieve information from your computer that was not originally sent in the cookie, nor do we use information transferred through cookies for any promotional or marketing purposes, except as expressly set forth in this privacy statement.
-
-## Will we share your personal data with outside parties?
-
-TeleTech may store, use, and disclose personal information as authorized or required by applicable law, including making disclosures that are necessary or advisable to: (1) protect the rights, health, safety, or property of TeleTech or others; (2) to perform analysis that we may use to improve our website or services; (3) allow for lawful security related investigations or law enforcement investigations; and (4) comply with applicable laws, regulations, or other lawful requirements.
-
-Except as stated above, TeleTech will not transfer, exchange, license, sell, lease, or otherwise disclose your personal information without your approval; however, TeleTech may collect and/or provide aggregate statistics about TeleTech’s website and website visitors to other parties. We will not sell personal data to third parties. We may transfer personal data to our contracted service providers and advisors who may be located in other countries. Before we do so, we take steps to confirm that your personal data will be given adequate protection as required by relevant data protection laws and TeleTech’s internal policies.
-
-## What about sensitive personal data?
-
-We do not generally seek to collect sensitive personal data through this site. In the limited cases where we do seek to collect such data, we will do this in accordance with local data privacy law requirements. If you choose to provide us with unsolicited sensitive personal data, you consent to our using the data, subject to applicable law as described in this privacy statement. The term "sensitive personal data" refers to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories may include personal identity numbers, financial account information, racial or ethnic origin, political opinions, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, biometric or genetic data, sexual life, or criminal record (including information about suspected criminal activities). Sensitive personal data may be collected and used in the context of your employment application and relationship with TeleTech, to provide you with services you request, or to perform analysis that we may use to improve our website or services and may be shared with our service providers for these purposes. 
-
-## What about data security?
-
-We take reasonable steps to maintain the security of personal data collected via TeleTech’s websites. You should understand that the open nature of the Internet is such that information and personal data may flow over networks connecting you to our systems without security measures and may be accessed and used by people other than those for whom the data is intended.
-
-Our site may, from time to time, contain links to and from the sites of our partner networks, advertisers and affiliates. If you follow a link to any of these sites, please note that these sites have their own privacy policies and that we do not accept any responsibility or liability for these policies or sites. Please check these policies before you submit any personal data to these sites.
-
-## Where will your personal data be processed?
-
-As a global organization with global IT systems, personal data we collect may be routed, stored, or transferred internationally throughout TeleTech's worldwide organization. We have internal policies in place to provide an equivalent level of protection is in place across our organization.
-
-## Retention of your data
-
-We will retain your personal data for as long as needed to provide services to you and as further needed for us to comply with our global legal and contractual obligations.
-
-## Your rights
-
-You are entitled to know whether we hold personal data about you and, if we do, to have access to that personal data and require it to be corrected if it is inaccurate. In some circumstances, you may have the right to oppose the use of your data or have your data deleted. You can do this by contacting us at [privacy@teletech.com](mailto:privacy@teletech.com).
-
-We do not collect or maintain information from those we actually know are under 13 years old and no part of our website or services is intended for anyone under 13 years of age. By using the website, you represent that you are 13 years of age or older. 
-
-## Participation in Safe Harbor
-
-TeleTech adheres to the "Safe Harbor Agreement" concerning the transfer of personal data from the European Union ("EU") to the United States. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce ("Principles") with respect to all such data. If there is any conflict between the language in this privacy statement, the Principles will govern. 
-
-For information covered by the Principals, if a complaint is not satisfactorily addressed by TeleTech within a reasonable time frame, you may contact the Federal Trade Commission at [www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm), or via phone at 202-382-4357. Complaints may be submitted to TeleTech at the email or mailing address set forth in the Contacting Us section of this privacy statement. 
-
-## I have a question or complaint
-
-If you can’t find what you’re looking for here, or have a concern about our use of your personal data, please by contact us at [privacy@teletech.com](mailto:privacy@teletech.com).
-
-## Contacting Us
-
-If you have any questions regarding this privacy statement, please contact us by email at [privacy@teletech.com](mailto:privacy@teletech.com), or please write to the following address: 
-
-Legal Department  
-TeleTech Holdings, Inc.  
-9197 South Peoria Street  
-Englewood, Colorado 80112  
+  * Register, manage and maintain your account on the Talent Network.
+  * Maintain a record of the jobs you view or apply to on the Talent Network. 
+  * Inform you of relevant job postings that may be of interest to you.
+  * Provide administrative notices or communications applicable to your use of the Talent Network.
+  * Send job postings to your friends or family members on your behalf.
+  * Respond to your questions and comments and provide customer support.
+  * Enable the employer customer to contact you and deliver marketing and promotional communications to you by email, text message or other means that, in some cases, is targeted to your interests (such as relevant services, educational or other career development opportunities) and to solicit your feedback and input. These communications will contain links for preference management and, where appropriate, unsubscribe links should you decide you do not want to receive further communications. Please note that if you unsubscribe from receiving marketing and promotional communications, you may continue to receive transactional and operational emails from us. 
+  * Operate, evaluate and improve our business and the products and services we offer.
+  * Analyze and enhance our marketing communications and strategies (including by identifying when emails we have sent to you have been received and read).
+  * Analyze trends and statistics regarding visitors’ use of the Talent Network and the jobs viewed or applied to on the Talent Network. 
+  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users.
+  * Enforce the Talent Network’s [Terms and Conditions](https://web.archive.org/en-US/terms-and-conditions). 
+  * Comply with applicable legal requirements and industry standards and our policies. 
 
 
-TeleTech will work with you to resolve any concerns you may have about this privacy statement. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information in your email correspondence with us.
+
+We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network. We collect this information by automated means, such as cookies and web beacons, as described in more detail below. . 
+
+If we seek to use the information we obtain about you in other ways, we will provide specific notice and request your consent at the time of collection. 
+
+(Return to Top)
+
+* * *
+
+When you join the Talent Network or apply for a job through the Talent Network, we provide your Personal Information to the employer customer who has hired CareerBuilder to create and operate this Talent Network on its behalf, (including your e-mail address and other contact information that you publish on your resume). The employer customer may use your information to contact you directly. 
+
+Additionally, when you join the Talent Network or apply for a job through the Talent Network, the information supplied by you is stored by CareerBuilder on a dedicated database on behalf of the employer customer. In addition, the information supplied by you also may become part of the employer customer’s database. In that instance, the use of such information by the employer customer will be subject to the privacy policy of that company, and CareerBuilder is not responsible for that company’s use of your information. CareerBuilder is not responsible for what the employer customer, or any third party with whom you may share your Personal Information, subsequently does with your information. You should review the privacy policy of the employer customer to ensure that you are comfortable with how it intends to use and disclose your information. 
+
+The employer customer for whom we act as a service provider to operate this Talent Network will receive reports that contain non-personally identifiable information about its Talent Network. We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network. 
+
+Additionally, we may combine certain non-personally identifiable aggregate data about our users and use such anonymous aggregate data to prepare reports for our users (typically employers or educators). “Aggregate Data” is the demographic information (such as zip code, age, gender, race or ethnicity) and employment information (such as occupation, education and experience) of many individuals that is combined together. Aggregate data is used to analyze the characteristics of various populations and does not identify any specific individuals. For example, an employer may purchase a report from CareerBuilder that states the number of accountants with at least five year’s experience that live within a certain geographic area. All such reports sold only contain aggregate data which cannot be used to identify any individuals. 
+
+Other than instances where users opt to provide their Personal Information while registering to join the Talent Network, provide it via a job application, or otherwise provide permission to share it, we do not sell our users' Personal Information to anyone for any reason. All users should be aware, however, that when they choose to display or distribute Personal Information (such as their email address or other contact information) via the Talent Network or any other distribution method, that information can be collected and used by others. This may result in unsolicited messages, for which CareerBuilder is not responsible, from third parties. 
+
+  
+We also may share Personal Information with our service providers who help us in the delivery of our own products and services to you. These service providers may only use or disclose the information as necessary to perform services on our behalf or as otherwise required by law. 
+
+CareerBuilder also may disclose specific user information when we determine, in good faith, that such disclosure is necessary to comply with the law, to cooperate with or seek assistance from law enforcement, to prevent a crime or protect national security, or to protect the interests or safety of CareerBuilder or other users of the Talent Network. 
+
+In addition, Personal Information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy or other corporate reorganization of CareerBuilder. 
+
+(Return to Top)
+
+* * *
+
+## About Cookies, Tracking Choices and Third Party Advertisers
+
+A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” is also called a Web bug or a pixel tag or a clear GIF. Used in combination with cookies, a Web beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel, that is placed on a Web site or in an e-mail that is used to monitor the behavior of the user visiting the Web site or sending the e-mail. 
+
+CareerBuilder uses cookies and other similar technologies for the convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. CareerBuilder also uses cookies to store non-personally identifying information about you such as past Talent Network jobs viewed and job searches within the Talent Network conducted by your computer in a cookie that it places on your computer. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches. Lastly, CareerBuilder uses cookies to ensure the proper functioning and efficiency of the Talent Network. Most internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please be aware, however, that some CareerBuilder features or services may not function properly without cookies. 
+
+CareerBuilder permits third party cookies on its Talent Network. For example, third party tools located on the Talent Network may use cookies to remember user preference settings. CareerBuilder also uses web analytics services provided by third parties, which use cookies to collect non-personal information about details of our users’ visits to the Talent Network (including IP addresses) and the resources they access on the Talent Network. These third party web analytics services provide us with reports based on this information in order to help us understand how visitors engage with the Talent Network. 
+
+In addition, the employer that uses this Talent Network may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later became job applicants. 
+
+Our Site does not respond to web browser do not track signals. However, to obtain guidance regarding deleting or disabling cookies, and thereby preventing and limiting the automatic collection of information by such cookies, please click here. 
+
+(Return to Top)
+
+* * *
+
+## Update Your Account Information 
+
+You may access, update and amend some of the Personal Information in our custody and control at any time by logging into your account and making the necessary changes. Please note, however, that you will not be able to delete certain information, including your resume, once such information has been uploaded to the Talent Network. 
+
+(Return to Top)
+
+* * *
+
+## Links to Other Websites
+
+The Talent Network may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by CareerBuilder. These other sites or linked third-party sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by CareerBuilder, any use of those sites, or those sites’ privacy practices. 
+
+(Return to Top)
+
+* * *
+
+## How We Protect Personal Information
+
+CareerBuilder maintains administrative, technical and physical safeguards designed to assist us in protecting the Personal Information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. 
+
+Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard Personal Information will never be defeated or fail, or that those measures will always be sufficient or effective. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your Personal Information will always remain private. As a user of the Talent Network, you understand and agree that you assume all responsibility and risk for your use of the Talent Network, the internet generally, and the documents you post or access and for your conduct on and off the Talent Network. 
+
+To further protect yourself, you should safeguard your CareerBuilder account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to the Talent Network. Please note that we will never ask for your CareerBuilder account user name or password via email. You agree to notify CareerBuilder immediately of any unauthorized use of your account or password. 
+
+(Return to Top)
+
+* * *
+
+## California, USA Residents
+
+California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of any of the Talent Network, you can request a copy of this information from CareerBuilder by sending an email to [the Customer Service Center](https://www.fuzeqna.com/careerbuilder/ext/answer.aspx?md=3&dt=kb&widgetid=55) or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests. 
+
+(Return to Top)
+
+* * *
+
+## Children’s Privacy
+
+We do not knowingly collect or solicit information from anyone under the age of 13. If you are under 13, please do not use the Talent Network. In the event that we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as possible. 
+
+(Return to Top)
+
+* * *
+
+You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at [the Customer Service Center](https://www.fuzeqna.com/careerbuilder/ext/answer.aspx?md=3&dt=kb&widgetid=55) or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests. 
+
+(Return to Top)
