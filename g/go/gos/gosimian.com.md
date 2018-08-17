@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227040621id_/http%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817131611id_/http%3A//gosimian.com/privacy) for the most accurate reproduction.*
 
 # Simian - Media Sharing. Evolved!
 
@@ -6,9 +6,9 @@
 
   * [Features](https://www.gosimian.com/home#Features "Features")
   * [Apps & Integrations](https://www.gosimian.com/apps "Apps")
-  * [Resources](https://www.gosimian.com/resources "Resources")
   * [Pricing](https://www.gosimian.com/pricing "Pricing")
   * [Free Trial](https://www.gosimian.com/free-trial "Free Trial")
+  * 844.560.7666
 
 
 
