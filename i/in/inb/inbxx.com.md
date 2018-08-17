@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbxx.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427154207id_/http%3A//inbxx.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbxx.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817165347id_/http%3A//inbxx.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
