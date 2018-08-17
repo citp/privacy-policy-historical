@@ -1,60 +1,46 @@
-> *The following text is extracted and transformed from the thefashiontown.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930050414id_/http%3A//www.thefashiontown.com/%3Fpage_id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashiontown.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818005447id_/http%3A//thefashiontown.com/privacy-policy) for the most accurate reproduction.*
 
-# The Fashion Town | Privacy Policy
+# Privacy Policy
 
-Privacy Policy
+Our privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
-The fashion Town is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, [www.thefashiontown.com](http://www.thefashiontown.com/) on the World Wide Web (the “Site”), as well as for The fashion Town services that may be accessed through the normal use of our products (the “Services”). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete The fashion Town Privacy Policy.
+**When accessing our Website,Focus Gadgets will learn certain information about you during your visit.**
 
-  * General Information
-  * Information Collection and Use
-  * If You Opt to Receive Communications, How We Will Contact You
-  * Site Functionality
-  * Security of Your Information
-  * Correcting/Updating Personal Information
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
+**What Are Cookies?**
 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-1\. General Information
+**IP Addresses**
 
-The fashion Town may periodically update this Privacy Policy. If so, The fashion Town will post the updated Privacy Policy on this Site. The fashion Town encourages you to review this Privacy Policy from time to time for any changes.
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
-By using this Site or any products or services provided through the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY The fashion Town AT THIS SITE.
+**Email Information**
 
-Please note that the The fashion Town Users Forum (coming soon) is covered by its own privacy policy, which is available for review at any time.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-2\. Information Collection and Use
+**How Do We Use the Information That You Provide to Us?**
 
-You may decide whether to proceed with any activity that requests personally identifiable information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. We do not collect information from individuals under the age of 13. If you are under the age of 13, we ask that you do not submit any personal information through the Site. If we have specific knowledge that an individual under the age of 13 has submitted personally identifiable information to the Site, we will delete such information permanently and without notice.
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-Except as described below, The fashion Town will only disclose your personally identifiable information to third parties if acting under a good faith belief that such action is necessary (1) to conform to legal requirements; (2) to protect and defend the rights or property of The fashion Town; (3) to enforce the The fashion Town Terms of Conditions; or (4) in the event of a merger, acquisition or sale of all or substantially all The fashion Town assets relating to the business in connection with which the information was collected. The fashion Town collects personally identifiable information that can be divided into the following categories:
+We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.  
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-**The fashion Town Product Registration Information:**  Some The fashion Town products ask you for certain personally identifiable information as part of the installation/registration process (including but not limited to your name, email address, credit card information and connection type and number of computers). Certain of this information is necessary in order to conclude the transaction, and for applicable products, to be eligible to receive technical support. If you provide us with personally identifiable information, and select the “Inform me about important updates and news” option on the purchase confirmation page or in the in the “Registration Information” section located in the “Configuration Panel” of the “Control Panel” in the The fashion Town product, we use this information to send you communications, including informative emails/newsletters about The fashion Town product upgrades, product updates, new products, and services, and to provide you with special offers that may be of interest to you, including paid advertisements from third parties. In the event you no longer wish to receive such information, you may choose to opt out of receiving further communications by complying with the procedures listed in the “Updating/Unsubscribing Your Email Address” section of this Privacy Policy. Except in the case of Partner Products (see below), The fashion Town keeps personally identifiable information collected in the course of installation/registration of The fashion Town products confidential and does not sell, trade, or exchange mailing lists with any organization.
+**A Special Note About Children**
 
-**Credit Card Information** : If you use a credit card to purchase products via this Site, your name as it appears on the credit card, the credit card number, expiration date and billing address will be encrypted as it passes over the Internet. The fashion Town does not record or keep your credit card information for online credit-card transactions; rather such information is simply passed through to our contracted payment processing vendor. The fashion Town may access such information through the payment processing company, but does not do so except to process refunds or adjustments and to the extent necessary in the event of nonpayment or disputed payments, or as may be necessary for The fashion Town compliance, in The fashion Town discretion, with applicable law.
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
 
-**Technical Support** : If you request technical support online, we will ask you for information necessary to complete the transaction such as your name, email address and information about your computer hardware, software, and the nature of the problem you are experiencing. In the course of providing support, your data may be transmitted to service providers that are under contract to The fashion Town and have agreed to abide by the provisions of this privacy policy. Such transmissions of your data are encrypted and secure.
+**How Do We Protect Your Information and Secure Information Transmissions?**
 
-**Partner Application** : If you request participation in the partner program online, we will ask you for information necessary to complete the transaction such as company name, email address, and company profile.
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
 
-3\. If You Opt to Receive Communications, How We Will Contact You
+We may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-**Email** : With your permission, The fashion Town will send you communications, including informative emails/newsletters about product upgrades, product updates, new products, and services. These communications provide you with special offers that may be of interest to you. The fashion Town uses a third-party program of outbound email technology to send email from our servers and does not collect information about you but does collect requests to unsubscribe.
+For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-4\. Site Functionality
+**Policy Changes**
 
-**Cookies** : A “cookie” is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. Once you close your browser, the cookie simply terminates. For instance, by setting a cookie on our Site, you would not have to log in a password more than once, thereby saving time while on our Site. You may still use our Site if you reject the cookie. The only drawback to this is that you will be limited in some areas of our Site. For example, you will not be able to use certain features of our forum or other parts of the Site that offer customized settings.
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-**Log Files** : We (The fashion Town and/or our contracted web analytics provider(s)) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results ofour marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users’ movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information.
-
-**Links** : This Site contains links to other sites. Please be aware that we The fashion Town are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site.
-
-**Newsletter** : If you wish to subscribe to our newsletter, we ask for contact information such as name and email address.
-
-5\. Security of Your Information
-
-All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All The fashion Town employees, and all external service providers who may process and/or store customer data, are briefed about the company’s privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom The fashion Town contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.
-
-If you have any questions about the security at our Site, you can send an email to [info@thefashiontown.com](mailto:info@thefashiontown.com).
-
-Please note that this email address will reject messages with attachments of any kind.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
