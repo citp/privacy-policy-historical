@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artec3d.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712062152id_/https%3A//www.artec3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artec3d.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817230116id_/https%3A//www.artec3d.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Professional 3D scanning solutions | Artec3D
 
