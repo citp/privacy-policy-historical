@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shoptheroe.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119075031id_/https%3A//shoptheroe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptheroe.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817213649id_/https%3A//sonlet.com/privacy) for the most accurate reproduction.*
 
-# ShopTheRoe | Privacy
+# Sonlet | Privacy
 
-Welcome to ShopTheRoe (“ShopTheRoe”, “us”, “we”, or “our”). ShopTheRoe provides services that aim to help direct sales consultants navigate the world, life, the universe, and everything (our “Services”). Directangular LLC (“Directangular”) operates ShopTheRoe and https://shoptheroe.com (the "Site"). 
+Welcome to Sonlet (“Sonlet”, “us”, “we”, or “our”). Sonlet provides services that aim to help direct sales consultants navigate the world, life, the universe, and everything (our “Services”). Directangular LLC (“Directangular”) operates Sonlet and https://sonlet.com (the "Site"). 
 
 Our Privacy Policy explains how we use, share and protect information in relation to our Site. 
 
@@ -34,22 +34,22 @@ The security of your Personal Information is important to us. But, remember that
 
 ### Disclosure for Legal Reasons
 
-We may share Personal Information with companies, organizations or individuals outside of ShopTheRoe, if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+We may share Personal Information with companies, organizations or individuals outside of Sonlet, if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
   * Meet any applicable law, regulation, legal process or enforceable governmental request. 
   * Enforce applicable Terms of Service, including investigation of potential violations. 
   * Detect, prevent, or otherwise address fraud, security or technical issues. 
-  * Protect against harm to the rights, property or safety of ShopTheRoe, our Users or the public, as required or permitted by law. 
+  * Protect against harm to the rights, property or safety of Sonlet, our Users or the public, as required or permitted by law. 
 
 
 
 ### Storage and Processing
 
-Your information collected through the Services may be stored and processed in the United States or any other country in which ShopTheRoe, Directangular, or its service providers maintain facilities. 
+Your information collected through the Services may be stored and processed in the United States or any other country in which Sonlet, Directangular, or its service providers maintain facilities. 
 
-By registering for and using the Services you consent to the transfer of information to the U.S. or to any other country in which ShopTheRoe, Directangular, or its service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
+By registering for and using the Services you consent to the transfer of information to the U.S. or to any other country in which Sonlet, Directangular, or its service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
 
-We use commercially reasonable safeguards to help keep the information collected through the Site secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, ShopTheRoe cannot ensure the security of any information you transmit to our Site or guarantee that information on the Services may not be accessed, disclosed, altered, or destroyed. 
+We use commercially reasonable safeguards to help keep the information collected through the Site secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Sonlet cannot ensure the security of any information you transmit to our Site or guarantee that information on the Services may not be accessed, disclosed, altered, or destroyed. 
 
 Please do your part to help us! You are responsible for maintaining the secrecy of your unique password and account information. 
 
