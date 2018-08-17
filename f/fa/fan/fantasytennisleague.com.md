@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasytennisleague.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401200433id_/https%3A//fantasytennisleague.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasytennisleague.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817140901id_/https%3A//fantasytennisleague.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fantasy Tennis League
 
@@ -170,6 +170,6 @@ Each ATO is responsible for protecting the personal information that it holds ab
 
 If you would like to access the personal information that Tennis Australia or an ATO holds about you, have a complaint or would like further information about this privacy policy, you can contact Tennis Australia’s privacy officer either:
 
-by email to: privacy@tennis.com.au; or  
+by email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection); or  
 by writing to: Privacy Officer, Tennis Australia, Private Bag 6060 Richmond Victoria 3121 Australia.  
 Tennis Australia will investigate your queries and complaints within a reasonable period of time and will notify you of the outcome of our investigation. Tennis Australia may refer your correspondence to the relevant ATO.
