@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320211013id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817073204id_/https%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Games - Privacy Policy
-
-[](https://studentprivacypledge.org/)
 
 **We Commit To:**
 
