@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoola.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806225010id_/https%3A//www.schoola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoola.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818001847id_/https%3A//www.schoola.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Schoola
 
