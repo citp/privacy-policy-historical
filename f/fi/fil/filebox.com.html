@@ -1,267 +1,175 @@
-<!--The following is the downloaded HTML source of the filebox.com privacy policy that was archived on 2017-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171102014714id_/http%3A//filebox.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filebox.com privacy policy that was archived on 2018-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180817095840id_/http%3A//filebox.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>FileBox - Cloud Storage without limits!</title>
-
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
-	<link href="/css/style.css" rel="stylesheet">
-	<link rel="shortcut icon" href="favicon.png">
-	<!--[if lt IE 9]>
-	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	<![endif]-->
-
-
-
-  <link rel="stylesheet" type="text/css" href="http://filebox.com/static/css/wrapper.css">
-        <link rel="stylesheet" type="text/css" href="http://filebox.com/static/css/animate-custom.css">
-        <link rel="stylesheet" type="text/css" href="http://filebox.com/static/css/sections.css">
-        <link rel="stylesheet" type="text/css" href="http://filebox.com/static/css/csselements.css">
-        
-        <script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
-        <script type="text/javascript" language="javascript" src="http://filebox.com/static/javascript/jquery.cookie.js"></script> 
-        <script type="text/javascript" language="javascript" src="http://filebox.com/static/javascript/jquery.leanModal.min.js"></script> 
-        <script type="text/javascript" language="javascript" src="http://filebox.com/import/javascript/wrapper.js"></script>
-        <script type="text/javascript" language="javascript" src="http://filebox.com/static/javascript/jquery.validate.js"></script>
-        
-        
-        <script type="text/javascript">
-            if(self != top) { top.location.href = self.location.href; }            
-        </script>
-
-
-
-
-
-</head>
-<body>
-
-<div id="popup-login" class="popup-container popup-login">
-	<div class="popup-close-overlay"></div>
-	<div class="t">
-		<div class="tc">
-			<div class="popup">
-				<div class="popup-auth-tabs">
-					<ul class="nav nav-pills nav-justified">
-						<li class="active"><a href="#" data-popup="#popup-login">Login</a></li>
-						<li><a href="#" data-popup="#popup-register">Register</a></li>
-					</ul>
-				</div>
-				<div class="popup-content">
-
- <form action="http://filebox.com/login.html" method="post" id="LoginForm" onsubmit="RemoveBlanks();">
-
-					<div class="form-group">
-						<label for="login-email">Login</label>
-						<input type="text" class="form-control input-lg" name="user" id="login-email">
-					</div>
-					<div class="form-group">
-						<label for="login-password">Password</label>
-						<input type="password" name="password" class="form-control input-lg" id="login-password">
-					</div>
-					<div class="row">
-						<div class="col-sm-6">
-							<div class="checkbox remember-me">
-								<label><input type="checkbox" name="rememberlogin"> Remember me</label>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FileBox - Cloud Storage without limits!</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800">
+    <link rel="stylesheet" href="/css/static.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+    </head><body class="bg-white">
+<div id="login-signup" class="modal modal-middle fade modal-login-signup">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<ul class="nav nav-tabs">
+				<li class="active"><a href="#login-signup-login" data-toggle="tab">Login</a></li>
+				<li><a href="#login-signup-signup" data-toggle="tab">Sign Up</a></li>
+			</ul>
+			<div class="modal-body">
+				<div class="tab-content">
+					<div class="tab-pane active" id="login-signup-login">
+						<form action="http://filebox.com/login.html" method="post">
+							<div class="boxed-form">
+								<label class="form-group">
+									<input type="text" class="form-control" name="user" placeholder="Login">
+									<span class="boxed-input-icon s-main s-main-f-user"></span>
+								</label>
+								<label class="form-group">
+									<input type="password" class="form-control" name="password" placeholder="Password">
+									<span class="boxed-input-icon s-main s-main-f-pass"></span>
+								</label>
+								<div class="clearfix">
+									<div class="log-in-remember checkbox">
+										<label>
+											<input type="checkbox" name="rememberlogin" checked=""> Remember me
+										</label>
+									</div>
+									<div class="log-in-forgot-pass"><a href="http://filebox.com/lostpassword.html">Forgot Password?</a></div>
+								</div>
+								<div class="modal-btn"><button type="submit" name="submit" class="btn btn-primary btn-lg btn-block">Login</button></div>
 							</div>
-						</div>
-						<div class="col-sm-6">
-							<div class="forgot-password"><a href="#">Forgot password?</a></div>
-						</div>
+						</form>
 					</div>
-
-					<div class="popup-button"><button type="submit" class="btn btn-primary btn-lg">Login</button></div>
-    </form>
+					<div class="tab-pane" id="login-signup-signup">
+						<form action="/signup.html" method="post">
+							<div class="boxed-form">
+								<label class="form-group">
+									<input type="text" class="form-control" name="user" placeholder="Username" required="">
+									<span class="boxed-input-icon s-main s-main-f-user"></span>
+								</label>
+								<label class="form-group">
+									<input type="email" class="form-control" name="mail" placeholder="Email" required="">
+									<span class="boxed-input-icon s-main s-main-f-mail"></span>
+								</label>
+								<label class="form-group">
+									<input type="password" class="form-control" name="pass" placeholder="Password" required="">
+									<span class="boxed-input-icon s-main s-main-f-pass"></span>
+								</label>
+								<label class="form-group">
+									<input type="password" class="form-control" name="pass2" placeholder="Re-type password" required="">
+									<span class="boxed-input-icon s-main s-main-f-pass"></span>
+								</label>
+								<div class="checkbox">
+									<label>
+										<input type="checkbox"> I agree the <a href="http://filebox.com/terms.html" target="_blank">Terms of Service</a>
+									</label>
+								</div>
+								<div class="modal-btn"><button type="submit" class="btn btn-primary btn-lg btn-block" name="submit">Sign Up</button></div>
+							</div>
+						</form>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
-<div id="popup-register" class="popup-container popup-login">
-	<div class="popup-close-overlay"></div>
-	<div class="t">
-		<div class="tc">
-			<div class="popup">
-				<div class="popup-auth-tabs">
-					<ul class="nav nav-pills nav-justified">
-						<li><a href="#" data-popup="#popup-login">Login</a></li>
-						<li class="active"><a href="#" data-popup="#popup-register">Signup</a></li>
-					</ul>
-				</div>
-				<div class="popup-content">
-
-<div class="form-group">
-						<label for="reg-email">Name</label>
-						<input type="email" class="form-control input-lg" id="reg-name">
-					</div>
-<div class="form-group">
-						<label for="reg-email">Surname</label>
-						<input type="email" class="form-control input-lg" id="reg-surname">
-					</div>
-					<div class="form-group">
-						<label for="reg-email">E-mail</label>
-						<input type="email" class="form-control input-lg" id="reg-email">
-					</div>
-					<div class="form-group">
-						<label for="reg-password">Password</label>
-						<input type="password" class="form-control input-lg" id="reg-password">
-					</div>
-					<div class="form-group">
-						<label for="reg-password2">Re-type password</label>
-						<input type="password" class="form-control input-lg" id="reg-password2">
-					</div>
-
-					<div class="checkbox">
-						<label><input type="checkbox"> I accept <a href="http://filebox.com/terms.html">FileBox Terms</a> and <a href="http://filebox.com/privacypolicy.html">Privacy policy</a></label>
-					</div>
-
-					<div class="popup-button"><button type="submit" class="btn btn-primary btn-lg">Signup</button></div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-
-
-<!-- HEADER -->
-<div class="header">
-	<nav class="navbar navbar-default" role="navigation">
-		<div class="container">
-
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-nav"><i class="fa fa-bars"></i></button>
-				<a class="navbar-brand" href="http://filebox.com/">
-					<span class="logo-image"></span>
-					<span class="logo-text">File<strong>Box</strong></span>
-				</a>
-			</div>
-   
-	<!-- Nav -->
-			<div class="collapse navbar-collapse" id="header-nav">
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="http://filebox.com/">Home</a></li>
-					<li><a href="http://filebox.com/pricing.html">Pricing</a></li>
-					<li><a href="http://filebox.com/contact.html">Support</a></li>
-					<li><a href="http://filebox.com/apps.html">Apps</a></li>
-					<li><button class="btn btn-default navbar-btn" data-popup="#popup-login">Login</button></li>
-					<li><button class="btn btn-primary navbar-btn" data-popup="#popup-register">Sign Up</button></li>
-				</ul>
-			</div>
-			<!-- // Nav -->
-      
-
-
-		</div>
-	</nav>
-</div>
-<!-- // HEADER -->
+</div><nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-nav">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://filebox.com/">
+                    <span class="navbar-brand-img s-main s-main-logo"></span>
+                    <span class="navbar-brand-text">File<strong>Box</strong></span>
+                </a>
+            </div>
+    
+            <div class="collapse navbar-collapse" id="header-nav">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li><a href="http://filebox.com/">Home</a></li>
+                    <li><a href="http://filebox.com/pricing.html">Pricing</a></li>
+                    <li><a href="http://filebox.com/contact.html">Support</a></li>
+                    <li><a href="http://filebox.com/apps.html">Apps</a></li>
+                    <li><span><a href="#login-signup" class="btn btn-default navbar-btn btn-no-scale" data-toggle="modal" data-tab="1">Log In</a></span></li>
+                    <li><span><a href="#login-signup" class="btn btn-primary navbar-btn btn-no-scale" data-toggle="modal" data-tab="2">Sign Up</a></span></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
 
 <div class="wrapper">
 	<div class="wrapper-content">
-
-    
-
-
-
-		<!-- // PAGE CONTENT -->
-
-<div class="page-content">
-			<div class="container">
-				<div class="content-box">
-
-		<div class="page-header">
-					<h1 class="page-title">Privacy Policy</h1>
-						<!-- <div class="page-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div> -->
-				</div>
-
-<!-- <h1>Privacy Policy</h1> -->
-
-FileBox.com is a provider of online file storage service. Your use of the&nbsp;<a href="http://filebox.com/">FileBox.com</a>&nbsp;site is governed by FileBox.com Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.<br><br> FileBox.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.
-<br>
-<br><h4><strong>Your information during the registration</strong></h4>
-FileBox.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. FileBox.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions.&nbsp;
-<br><br><h4><strong>Your account password</strong></h4>
-Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving FileBox.com site. You are solely responsible for keeping your password inviolable.
-<br><br><h4><strong>Certain exceptional disclosures</strong></h4>
-We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials.
-<br><br><h4><strong>Your account at our service</strong></h4>
-When you upload a file to our server, we give you a unique URL to download the file. We do not share download URLs with anyone, however we will provide the file to any browser requesting the file by its unique URL address.<br> <br> We reserve a right to review your account content for violations of our Terms and Conditions. If we determine that your files violate the Terms and Conditions, we may ban your account and will attempt to contact you. We reserve the right to cancel your account and remove the files from our servers.<br> <br> We do not own your account content, and will access your files for troubleshooting only. All your files are allowed to be downloaded only according to the security settings you define. We guarantee safety of your files, for that purpose we make backups of all files.
-<br><br><h4><strong>Using cookies</strong></h4>
-FileBox.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.<br> <br> We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies.&nbsp;
-<br><br><h4><strong>Third party cookies</strong></h4>
-In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-<br><br><h4><strong>Access to your information</strong></h4>
-You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing linklists or file download links.<br> <br> If you want to change any personal information provided to us, feel free to contact our support team at Array.
-<br><br><h4><strong>How we protect your information</strong></h4>
-Any information collected and processed within FileBox.com is treated with the utmost confidentiality. FileBox.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to FileBox.com with VeriSign 256-bit SSL certificate.<br> <br> Automated and scheduled backups of your files make the service secure and safe for you.
-<br><br><h4><strong>Credit card security</strong></h4>
-All purchases on <a href="http://FileBox.com/"><span class="s1">FileBox.com</span></a>&nbsp;are handled by third party card processing company. <a href="http://FileBox.com/"><span class="s1">FileBox.com</span></a>&nbsp;does not arrange and/or save numbers or any information from your credit cards.
-<strong style="font-size: 1em; line-height: 12pt;">External links</strong>
-If any part of the FileBox.com website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.
-<br><br><h4><strong>Contact information</strong></h4>
-Should you have any questions or concerns regarding this Privacy Policy, please&nbsp;<a href="http://FileBox.com/contact.html">contact us</a>.
-
-
-				</div>
+		<div class="container">
+			<div class="inner-page-content">
+				<h1>Privacy Policy</h1>
+				<p>FileBox.com is a provider of online file storage service. Your use of the&nbsp;<a href="http://filebox.com/">FileBox.com</a>&nbsp;site is governed by FileBox.com Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.<br><br> FileBox.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.</p>
+					<br>
+					<br><h4><strong>Your information during the registration</strong></h4>
+					FileBox.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. FileBox.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions.&nbsp;
+					<br><br><h4><strong>Your account password</strong></h4>
+					Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving FileBox.com site. You are solely responsible for keeping your password inviolable.
+					<br><br><h4><strong>Certain exceptional disclosures</strong></h4>
+					We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials.
+					<br><br><h4><strong>Your account at our service</strong></h4>
+					When you upload a file to our server, we give you a unique URL to download the file. We do not share download URLs with anyone, however we will provide the file to any browser requesting the file by its unique URL address.<br> <br> We reserve a right to review your account content for violations of our Terms and Conditions. If we determine that your files violate the Terms and Conditions, we may ban your account and will attempt to contact you. We reserve the right to cancel your account and remove the files from our servers.<br> <br> We do not own your account content, and will access your files for troubleshooting only. All your files are allowed to be downloaded only according to the security settings you define. We guarantee safety of your files, for that purpose we make backups of all files.
+					<br><br><h4><strong>Using cookies</strong></h4>
+					FileBox.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.<br> <br> We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies.&nbsp;
+					<br><br><h4><strong>Third party cookies</strong></h4>
+					In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+					<br><br><h4><strong>Access to your information</strong></h4>
+					You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing linklists or file download links.<br> <br> If you want to change any personal information provided to us, feel free to contact our support team at Array.
+					<br><br><h4><strong>How we protect your information</strong></h4>
+					Any information collected and processed within FileBox.com is treated with the utmost confidentiality. FileBox.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to FileBox.com with VeriSign 256-bit SSL certificate.<br> <br> Automated and scheduled backups of your files make the service secure and safe for you.
+					<br><br><h4><strong>Credit card security</strong></h4>
+					All purchases on <a href="http://FileBox.com/"><span class="s1">FileBox.com</span></a>&nbsp;are handled by third party card processing company. <a href="http://FileBox.com/"><span class="s1">FileBox.com</span></a>&nbsp;does not arrange and/or save numbers or any information from your credit cards.
+					<strong style="font-size: 1em; line-height: 12pt;">External links</strong>
+					If any part of the FileBox.com website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.
+					<br><br><h4><strong>Contact information</strong></h4>
+					Should you have any questions or concerns regarding this Privacy Policy, please&nbsp;<a href="http://FileBox.com/contact.html">contact us</a>.
 			</div>
 		</div>
-		<!-- // PAGE CONTENT -->
-
-
-
-
-
-
-
-
-
-
-	
-		<!-- WAITING -->
 		<div class="waiting">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-7">
-						<div class="waiting-title-section">
-							<div class="waiting-title">What are you waiting for?</div>
-							<div class="waiting-descr">Signup now and get a <strong>FileBox for free!</strong></div>
-						</div>
-					</div>
-					<div class="col-md-5">
-						<div class="waiting-links-section">
-							<a class="btn btn-lg btn-inverse" data-popup="#popup-register">Sign up today!</a>
-							<a class="btn btn-lg btn-primary" data-popup="#popup-login">Log in now!</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- // WAITING -->
-
-	</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="waiting-title-section">
+                    <div class="waiting-title">What are you waiting for?</div>
+                    <div class="waiting-descr">Sign up now and get a Filebox for free!</div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="waiting-links-section">
+                    <a class="btn btn-lg btn-inverse" href="#login-signup" data-toggle="modal" data-tab="2">Sign up today!</a>
+                    <a class="btn btn-lg btn-primary" href="#login-signup" data-toggle="modal" data-tab="1">Log in now!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>	</div>
 </div>
 
-<!-- FOOTER -->
 <div class="footer">
-	<div class="container">
-		<div class="clearfix">
-			<div class="footer-copyright">Copyright FileBox 2017.</div>
-			<div class="footer-made-by"><a href="http://filebox.com/terms.html">Terms of Service</a> | <a href="http://filebox.com/privacy.html">Privacy Policy</a></div>
-		</div>
-	</div>
-</div>
-<!-- // FOOTER -->
+    <div class="container">
+        <div class="clearfix">
+            <div class="footer-copyright">Copyright FileBox 2018.</div>
+            <ul class="footer-nav">
+                <li><a href="http://filebox.com/terms.html">Terms of Service</a></li>
+                <li><a href="http://filebox.com/privacy.html">Privacy Policy</a></li>
+            </ul>
+        </div>
+    </div>
+</div><script src="/js/static.js"></script>
 
-<!-- Scripts -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="/js/main.js"></script>
-<!-- // Scripts -->
+
+
+
+
 
 
 </body></html>
