@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617160931id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817103608id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-RYI Enterprises, LLC, (RYI) owns and operates **AllEars.net®** , which comprises **the Unofficial Walt Disney World Information Guide** , the **ALL EARS®** weekly newsletter and its companion promotional newsletter **Ears the Deal™**.
+AllEarsNet LLC, (AllEarsNet) owns and operates **AllEars.net®** , which comprises **the Unofficial Walt Disney World Information Guide** , the **ALL EARS®** weekly newsletter and its companion promotional newsletter **Ears the Deal™**.
 
-RYI has created this **privacy statement** in order to demonstrate our firm commitment to the users' privacy. The following discloses the information gathering and dissemination practices for **AllEars.net** **®.**
+AllEarsNet has created this **privacy statement** in order to demonstrate our firm commitment to the users' privacy. The following discloses the information gathering and dissemination practices for **AllEars.net** **®.**
 
 **AllEars.net® is committed to your privacy, and does not sell, exchange, or release any of your individual personal information to a third party.**
 
@@ -16,17 +16,17 @@ This Privacy Policy applies only to **AllEars.net** **®**. This privacy policy 
 
 When you browse through any web site, certain personal information about you can be collected. Like most standard web site servers we use log files. We automatically collect and temporarily store information about your visit. We use this information for statistical purposes and to help us make our site more useful to visitors. The data collected may include Internet protocol (IP) addresses, domain name, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This data is used to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. Your IP number is visible to most of the websites that you visit. **AllEars.net** **®** may use IP numbers to help diagnose problems with our servers and to administer our Web site. 
 
-**AllEars.net®** utilizes **a number of outside vendors to operate portions of the website and/or newsletter. For instance,[mailermailer.com](http://mailermailer.com/)** is used for newsletter ( **ALL EARS®** and **Ears the Deal** ™) distribution, and **[adspeed.com](http://adspeed.com/)** for banner ad programs. Please see those sites for their privacy information.
+**AllEars.net®** utilizes **a number of outside vendors to operate portions of the website and/or newsletter. For instance,[campaigner.com](http://campaigner.com/)** is used for newsletter ( **ALL EARS®** and **Ears the Deal** ™) distribution, and **[adspeed.com](http://adspeed.com/)** for banner ad programs. Please see those sites for their privacy information.
 
 ### PERSONALLY PROVIDED INFORMATION
 
 The only personally identifiable information about you that is collected is that which you provide on a voluntary basis. We make every effort to ensure that whatever information you provide is maintained in a secure environment. 
 
-RYI will not knowingly or intentionally disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute. 
+AllEarsNet will not knowingly or intentionally disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute. 
 
 If you choose to subscribe to our weekly newsletter, **ALL EARS®** , you will have to provide an e-mail address. **ALL EARS®** is only delivered electronically.
 
-RYI utilizes **[adspeed.com](http://adspeed.com/)** for banner rotation and statistics. **[adspeed.com](http://adspeed.com/)** maintains information on each visitor and all associated data for the last 30 days. Other information is kept in compact forms. **[adspeed.com](http://adspeed.com/)** also tracks how many people are currently active on the site, where they are and came from, which ads were viewed at what time. AllEarsNet® webmasters have access to this information. 
+AllEarsNet utilizes **[adspeed.com](http://adspeed.com/)** for banner rotation and statistics. **[adspeed.com](http://adspeed.com/)** maintains information on each visitor and all associated data for the last 30 days. Other information is kept in compact forms. **[adspeed.com](http://adspeed.com/)** also tracks how many people are currently active on the site, where they are and came from, which ads were viewed at what time. AllEarsNet® webmasters have access to this information. 
 
 ### INFORMATION USE
 
@@ -42,11 +42,11 @@ If you disable cookies you may not be able to use certain features on the **AllE
 
 ### REGISTRATION FORMS 
 
-The only registration form is for subscription to **ALL EARS®** , the weekly newsletter sent to subscribers e-mail addresses. 
+The only registration form is for subscription to **ALL EARS®** , the weekly newsletter sent to subscribers' e-mail addresses. 
 
 The **ALL EARS®** registration form **requires** users to provide an e-mail address and **requests** demographic information (like zip code and country). Contact information from the registration forms is used to send out the newsletter and to gather aggregate demographic data. The demographic information is shared with advertisers and partners on an aggregate basis only.
 
-**ALL EARS®** subscribers have the option to sign up for **Ears the Deal™** : special offers and announcements pertaining to Disney World and Central Florida? By checking the yes box you agree to have your email address added to an **AllEarsNet®** special mailing list.
+**ALL EARS®** subscribers have the option to sign up for **Ears the Deal™** mailing, which is special offers and announcements pertaining to Disney World and Central Florida. By opting in to this mailing you agree to have your email address added to an **AllEarsNet®** special mailing list.
 
 **Individual information is never shared with any third party. AllEars.net® does NOT sell your email address or distribute it to any other entity.**
 
@@ -62,9 +62,9 @@ The requested information typically includes contact information (such as name a
 
 ### LINKS TO THIRD-PARTY SITES
 
-This site contains hyperlinks to web sites operated by parties other than RYI. Such hyperlinks are provided for your reference and convenience only. RYI does not control such web sites, has not reviewed such websites and is not responsible for their contents. The inclusion of hyperlinks to such web sites does not imply any endorsement of the material on such web sites or any association with their operators. Linking to any off-site pages is at your own risk.
+This site contains hyperlinks to web sites operated by parties other than AllEarsNet. Such hyperlinks are provided for your reference and convenience only. AllEarsNet does not control such web sites, has not reviewed such websites and is not responsible for their contents. The inclusion of hyperlinks to such web sites does not imply any endorsement of the material on such web sites or any association with their operators. Linking to any off-site pages is at your own risk.
 
-RYI is not responsible for the privacy practices of such other sites. We encourage you to be aware of this when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. **This privacy statement applies solely to information collected by this web site.**
+AllEarsNet is not responsible for the privacy practices of such other sites. We encourage you to be aware of this when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. **This privacy statement applies solely to information collected by this web site.**
 
 ### SECURITY
 
@@ -78,11 +78,11 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **IF YOU ARE UNDER 18 YEARS OLD, PLEASE HAVE YOUR PARENT/GUARDIAN READ THIS POLICY COMPLETELY. PLEASE ASK YOUR PARENT/GUARDIAN TO EXPLAIN IT TO YOU IF YOU HAVE ANY QUESTIONS. Ask your parent or guardian for permission before you send any personal information over the Internet.**
 
-Our policy, with respect to the collection by other organizations of personal information from children at our site is: RYI does not have any agreements with outside organizations to collect personal information at our site.
+Our policy, with respect to the collection by other organizations of personal information from children at our site is: AllEarsNet does not have any agreements with outside organizations to collect personal information at our site.
 
 ### DISCLOSURE EXCEPTIONS
 
-Notwithstanding the above policies, RYI reserves the right to disclose your personal information to appropriate third parties if required to do so by law or if RYI believes that such action is necessary:
+Notwithstanding the above policies, AllEarsNet reserves the right to disclose your personal information to appropriate third parties if required to do so by law or if AllEarsNet believes that such action is necessary:
 
 * To comply with legal process such as a search warrant, subpoena or court order;
 
@@ -90,16 +90,16 @@ Notwithstanding the above policies, RYI reserves the right to disclose your pers
 
 * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening or abusive messages;
 
-* To protect against misuse or unauthorized use of the RYI websites; or
+* To protect against misuse or unauthorized use of the AllEarsNet websites; or
 
-* During emergencies, such as when RYI reasonably believes someone's physical safety is at risk. 
+* During emergencies, such as when AllEarsNet reasonably believes someone's physical safety is at risk. 
 
 ### DATA ACCESS 
 
-At any time, you can change choices you have previously made as to the use of your personal information. Every ALL EARS® subscriber mailing will clearly contain an opt-out and/or unsubscribe link at the bottom of the email, allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank email to: admin@allearsnet.com and type "REMOVE" in the subject field. Permission changes will be honored as soon as possible after receipt. Please allow seven days for processing.
+At any time, you can change choices you have previously made as to the use of your personal information. Every ALL EARS® subscriber mailing will clearly contain an opt-out and/or unsubscribe link at the bottom of the email, allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank email to: admin@allears.net and type "REMOVE" in the subject field. Permission changes will be honored as soon as possible after receipt. Please allow seven days for processing.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, contact:
 
 [**admin@allears.net**](mailto:admin@allears.net)
 
-This Privacy Policy was last modified on June 20, 2017 
+This Privacy Policy was last updated on July 10, 2018.
