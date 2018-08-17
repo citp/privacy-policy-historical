@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockonomi.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629081654id_/https%3A//blockonomi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockonomi.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817143425id_/https%3A//blockonomi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Blockonomi.com
 
@@ -68,11 +68,42 @@ By using our site, you consent to our online privacy policy.
 
 ## GDPR Compliance
 
-To comply with the new [GDPR laws](https://ec.europa.eu/info/law/law-topic/data-protection_en) we have made some changes to our website.
+To comply with the new [GDPR laws](https://ec.europa.eu/info/law/law-topic/data-protection_en) for users in the European Economic Area (EEA) we have made some changes to our website.
 
 You will now be prompted whether you wish to retain your email and name when commenting, if you choose yes, a cookie will be stored on your computer to identify yourself next time you comment.  If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
 For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+Blockonomi may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Data Protection Rights (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Blockonomi aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.**  Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right of rectification.**  You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * **The right to object.**  You have the right to object to our processing of your Personal Data.
+  * **The right of restriction.**  You have the right to request that we restrict the processing of your personal information.
+  * **The right to data portability.**  You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * **The right to withdraw consent.**  You also have the right to withdraw your consent at any time where Niche Site Project relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
 
 ## Changes to our Privacy Policy
 
