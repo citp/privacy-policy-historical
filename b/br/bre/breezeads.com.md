@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breezeads.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619073740id_/http%3A//studads.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezeads.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817190850id_/http%3A//studads.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Marketing And Advertising NetWork - Get Traffic Get Website Visitors at Least cost and highest converisions
 
