@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flograppling.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204184437id_/http%3A//www.flosports.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flograppling.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817204744id_/http%3A//www.flosports.tv/privacy) for the most accurate reproduction.*
 
 # Privacy - FloSports
 
