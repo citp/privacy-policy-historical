@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dalidecals.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811233146id_/https%3A//dalidecals.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dalidecals.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817222911id_/http%3A//dalidecals.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Privacy Policy
 
