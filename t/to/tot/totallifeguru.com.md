@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallifeguru.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629221102id_/http%3A//totallifeguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallifeguru.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817041916id_/http%3A//totallifeguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
