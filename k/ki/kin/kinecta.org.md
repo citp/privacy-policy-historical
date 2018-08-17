@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192245id_/https%3A//www.kinecta.org/uploadedFiles/Retail/Discover_Kinecta/kinecta-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817140457id_/https%3A//www.kinecta.org/uploadedFiles/Retail/Discover_Kinecta/kinecta-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Choices
 
-                                                  Privacy Choices                                                      Rev. 07/11
+                                                 Privacy Choices                                                      Rev. 07/11
               WHAT DOES KINECTA FEDERAL CREDIT UNION DO WITH YOUR PERSONAL
 FACTS
               INFORMATION?
@@ -15,27 +15,27 @@ What?         The types of personal information we collect and share depend on t
               • Social Security number and Income
               • Account Balances and Account Transactions
               • Transaction History and Risk Tolerance
-How?          All financial companies need to share members’ personal information to run their everyday
-              business. In the section below, we list the reasons financial companies can share their members’
+How?          All fnancial companies need to share members’ personal information to run their everyday
+              business. In the section below, we list the reasons fnancial companies can share their members’
               personal information; the reasons Kinecta Federal Credit Union chooses to share; and whether you
               can limit this sharing.
-                                                                      Does Kinecta Federal
-Reasons we can share your personal information                                                      Can you limit this sharing?
-                                                                      Credit Union share?
+                                                                     Does Kinecta Federal
+Reasons we can share your personal information                                                     Can you limit this sharing?
+                                                                     Credit Union share?
 For our everyday business purposes such as to
 process your transactions, maintain your account(s),
-                                                                                YES                            NO
+                                                                               YES                            NO
 respond to court orders and legal investigations, or
 report to credit bureaus
 For our marketing purposes –
-to offer our products and services to you                                       YES                            NO
-For joint marketing with other financial companies                              YES                            NO
-For our affiliates’ everyday business purposes
-information about your transactions and experiences                             YES                            NO
-For our affiliates’ everyday business purposes
-information about your creditworthiness                                         YES                           YES
-For our affiliates to market to you                                             YES                           YES
-For non-affiliates to market to you                                             NO                             NO
+to offer our products and services to you                                      YES                            NO
+For joint marketing with other fnancial companies                              YES                            NO
+For our affliates’ everyday business purposes
+information about your transactions and experiences                            YES                            NO
+For our affliates’ everyday business purposes
+information about your creditworthiness                                        YES                           YES
+For our affliates to market to you                                             YES                           YES
+For non-affliates to market to you                                             NO                             NO
 To limit      • Call 800.854.9846 – our menu will prompt you through your choice(s)
 our sharing • Visit us online: www.kinecta.org or
               • Mail the form below
@@ -48,13 +48,13 @@ Questions? Call 800.854.9846 or go to www.kinecta.org
 Mail-in Form
                  Mark any/all you want to limit:
                  o For our affiliates to market to you
-                 o For our affiliates’ everyday business purposes information about your creditworthiness
-                  Name                                                                     Mail to:
-                  Address                                                                  Kinecta Federal Credit Union
-                                                                                           Attn: Account Services (M/S 42)
-                                                                                           P.O. Box 10003
+                 o For our affliates’ everyday business purposes information about your creditworthiness
+                  Name                                                                    Mail to:
+                  Address                                                                 Kinecta Federal Credit Union
+                                                                                          Attn: Account Services (M/S 42)
+                                                                                          P.O. Box 10003
                   City, State, Zip
-                                                                                           Manhattan Beach, CA 90267
+                                                                                          Manhattan Beach, CA 90267
                   Account #
 
 
@@ -65,13 +65,13 @@ Page 2
  What we do
  How does Kinecta Federal Credit           To protect your personal information from unauthorized access and use,
  Union protect my personal                 we use security measures that comply with federal law. These measures
- information?                              include computer safeguards and secured files and buildings.
+ information?                              include computer safeguards and secured fles and buildings.
  How does Kinecta Federal Credit           We collect your personal information, for example, when you
  Union collect my personal                 • open an account or deposit money
  information?                              • pay your bills or apply for a loan
                                            • seek advice about your investments
                                            We also collect your personal information from others, such as credit
-                                           bureaus, affiliates, or other companies.
+                                           bureaus, affliates, or other companies.
  Why can’t I limit all sharing?            Federal law gives you the right to limit only
                                            • sharing for affiliates’ everyday business purposes-information
                                              about your creditworthiness
@@ -82,9 +82,9 @@ Page 2
  What happens when I limit sharing         Your choices will apply to everyone on your account.
  for an account I hold jointly with
  someone else?
- Definitions
- Affiliates                                Companies related by common ownership or control. They can be
-                                           financial and non-financial companies.
+ Defnitions
+ Affliates                                 Companies related by common ownership or control. They can be
+                                           fnancial and non-fnancial companies.
                                            • Our affiliates include:
                                                       • Companies with Kinecta in the name
                                                       • Financial Companies such as: Kinecta Alternative Financial
@@ -92,11 +92,11 @@ Page 2
                                                         Financial Management Company
                                                       • non-financial companies such as Apollo Insurance Services
                                                       • and others, such as Nix Check Cashing, Nix Financial
- Non-Affiliates                            Companies not related by common ownership or control. They can be
-                                           financial and non-financial companies.
+ Non-Affliates                             Companies not related by common ownership or control. They can be
+                                           fnancial and non-fnancial companies.
                                            • Kinecta does not share with non-affiliated third parties so they can
                                              market to you
- Joint marketing                           A formal agreement between non-affiliated financial companies that
+ Joint marketing                           A formal agreement between non-affliated fnancial companies that
                                            together market financial products or services to you.
                                            • Our joint marketing partners include credit card companies, ID theft
                                              solution companies, mortgage companies, insurance companies.
@@ -106,4 +106,4 @@ Page 2
  give you additional rights to limit non-affiliate sharing. For residents of Alaska, California, Florida, Illinois, Maine,
  Maryland, North Dakota and Vermont, the information that you provide to us will not be shared with non-affiliated
  third parties, except as required or permitted by law, unless you contact Kinecta and request your information be
- shared with non-affiliated third parties.
+ shared with non-affliated third parties.
