@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026002014id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817035125id_/https%3A//www.cpasitesolutions.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy for CPASiteSolutions Websites for CPAs and Accountants
 
   1. [Home](https://web.archive.org/index.php)
-  2. [CPA Site Solutions' Privacy Policy](https://web.archive.org/web/20161026002014id_/http%3A//secure256.com/privacypolicy.php)
+  2. [CPA Site Solutions' Privacy Policy](https://web.archive.org/web/20180817035125id_/https%3A//www.cpasitesolutions.com/privacypolicy.php)
 
 
 
@@ -66,7 +66,7 @@ CPASiteSolutions uses the information we collect to notify you about your accoun
 
 * * *
 
-CPASiteSolutions uses advanced technical and physical security measures to prevent the loss, misuse, alteration or unauthorized disclosure of information under our control. See [CPASiteSolutions Security Measures](https://web.archive.org/whatyouget.php?page=h100).
+CPASiteSolutions uses advanced technical and physical security measures to prevent the loss, misuse, alteration or unauthorized disclosure of information under our control. See [CPASiteSolutions Security Measures](https://web.archive.org/youget/cpa-website-hosting/cpa-website-security.php).
 
 **_Account Protection_**  
 Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your CPASiteSolutions password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify CPASiteSolutions and change your password.
@@ -75,7 +75,7 @@ Your password is the key to your account. Use unique numbers, letters and specia
 Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
 **_Client Financial Information_**  
-The CPASiteSolutions' Portal enables your clients to store and share their personal and financial information with you. We take extreme measures to protect your client's data (See [CPASiteSolutions Security Measures](https://web.archive.org/whatyouget.php?page=h100)). However, as you probably know, third parties may unlawfully intercept or otherwise gain access to private data. Therefore, although we work very hard to protect your client's data, we do not promise, and you should not expect, that your client's personal information or private communications will always remain private. So, we encourage you to disclose your own privacy and security practices to your clients.
+The CPASiteSolutions' Portal enables your clients to store and share their personal and financial information with you. We take extreme measures to protect your client's data (See [CPASiteSolutions Security Measures](https://web.archive.org/youget/cpa-website-hosting/cpa-website-security.php)). However, as you probably know, third parties may unlawfully intercept or otherwise gain access to private data. Therefore, although we work very hard to protect your client's data, we do not promise, and you should not expect, that your client's personal information or private communications will always remain private. So, we encourage you to disclose your own privacy and security practices to your clients.
 
 ## General
 
@@ -85,5 +85,3 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 **Get your website up with only 10 minutes of your time.**  
 (We'll spend hours on it so you don't have to.)
-
-[Start Your Free Trial](https://web.archive.org/getstarted.php "Try CPA Site Solutions Free for 60 Days")
