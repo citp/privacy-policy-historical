@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemetals.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703203822id_/http%3A//www.onlinemetals.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemetals.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817174228id_/https%3A//www.onlinemetals.com/privacy.cfm) for the most accurate reproduction.*
 
 # Online Metal Store | Small Quantity Metal Orders | Metal Cutting, Sales & Shipping | Buy Steel, Aluminum, Copper, Brass, Stainless | Metal Product Guides at OnlineMetals.com
 
@@ -72,7 +72,7 @@ Google’s advertising requirements can be summed up by Google’s Advertising P
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is shared, and to comply with this policy. – See more at http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is shared, and to comply with this policy. – See more at https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 **According to CalOPPA we agree to the following:**
 
