@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awamipolitics.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617170148id_/http%3A//www.awamipolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awamipolitics.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817110511id_/http%3A//www.awamipolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY -
 
