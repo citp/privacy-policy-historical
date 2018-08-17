@@ -1,117 +1,323 @@
-<!--The following is the downloaded HTML source of the inventorylab.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625133545id_/https%3A//inventorylab.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inventorylab.com privacy policy that was archived on 2018-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180817071607id_/https%3A//inventorylab.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"3e7f311f8c","applicationID":"3028228","transactionName":"Y1xWYUJTVkVUVEFaDloWYUdZHUhEXEFUUBgaUUBYXA==","queueTime":0,"applicationTime":0,"ttGuid":"673E8CE053703409","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgAEVFBXGwAAVllQBQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-    <title>Inventory Lab - Terms Of Service</title>
-   <!-- CSS -->
-    <link href="includes/css/metro-bootstrap2.css" rel="stylesheet" type="text/css" media="all">
-    <link href="includes/css/styles2.css" rel="stylesheet" type="text/css" media="all">
-    <!-- Neuton Font -->
-    <link href="includes/css/font.css" rel="stylesheet" type="text/css" media="all">
-    <!-- JavaScript -->
-    <script src="includes/script/jquery-1.7.2.min.js"></script>
-    <script src="includes/script/interactions_sjm.js"></script>    
-    
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" href="images/sprite_favicon.png">  
+<!DOCTYPE html><html><head>
+		<title>InventoryLab - Privacy Policy</title>
+		<link rel="stylesheet" href="css/site.css">
+<link rel="icon" type="image/png" href="images/favicon.png">
+<script async="" src="https://dna8twue3dlxq.cloudfront.net/js/profitwell.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/lib.min.js"></script>
+<script type="text/javascript" src="js/libplugins.min.js"></script>
+<script type="text/javascript" src="js/site.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-34947603-2', 'inventorylab.com');
+  ga('create', 'UA-81750206-1', 'auto');
   ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+    function _gaLt(event) {
 
-</script>    
-  </head>
-	<body class="faq">
+        /* If GA is blocked or not loaded, or not main|middle|touch click then don't track */
+        if (!ga.hasOwnProperty("loaded") || ga.loaded != true || (event.which != 1 && event.which != 2)) {
+            return;
+        }
 
-    <!-- Header -->
-  <div id="header">
-    <div class="container">
-      <a href="index.html" class="logo">Inventory Lab</a>
-    </div>
-    <ul class="nav">
-      <span class="container">
-        <li class="index"><a href="index.html">Home</a></li>
-        <li class="solutions"><a href="solutions.html">Solutions</a></li>
-        <li class="faq"><a href="faq.html">FAQ</a></li>
-        <li class="about"><a href="about.html">About</a></li>
-        <!--<li class="about"><a href="/blog">Blog</a></li>-->
-        <span class="popup contact-us">
-          <li class="contact popup-trigger"><a>Contact</a></li>
-          <span class="popup-window contact-window">
-            <span class="arrow-top"></span>
-            <span class="padding30">
-              <h1>Business inquiries and account questions?</h1>
-              <p>Send us an email at <a href="mailto:admin@inventorylab.com">admin@inventorylab.com</a></p>
-              <p>Or, if you have more questions:</p>
-              <a class="btn" href="https://inventorylab.desk.com/">Click here for support</a>
-              <a class="btn btn-red popup-close mobile">Close</a>
-              <span class="hours">
-                <p>Support hours are Monday to Friday 9AM to 5PM (CST)</p>
-              </span>
-            </span>
-          </span>
-        </span>
-        <li class="login"><a href="login.aspx">Login</a></li>
-        <li class="signup"><a href="register.aspx">Sign up</a></li>
-      </span>
-    </ul>
-  </div> <!-- <div id="header"> -->
+        var el = event.srcElement || event.target;
 
-		<div class="container">
-           
-            <h2>Privacy Policy</h2>
-            <p style="font-size: 18px;
-    font-weight: 300;
-    line-height: 20px;">
-            
+        /* Loop up the DOM tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+        while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href)) {
+            el = el.parentNode;
+        }
 
-We respect your privacy 100%. Any information given to InventoryLAB is strictly for account and services use only. This document applies strictly to information collected by our website and application.     </p>
+        /* if a link with valid href has been clicked */
+        if (el && el.href) {
 
-    
+            var link = el.href;
 
-   <p>
-We collect your email account, contact information, amazon credentials and etc only for the sole purpose of using our service in an effective manner. Absolutely NO information is shared with outside parties and/or affiliates to InventoryLAB.</p>
+            /* Only if it is an external link */
+            if (link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i)) {
 
-<p>We do not use cookies for any reason outside of recognizing your computer to use InventoryLAB. Cookies are NEVER used for any other method such as tracking your behavior while using the service.
-</p>
+                /* Is actual target set and not _(self|parent|top)? */
+                var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;
 
-<p>We do send Emails to the your account only for the sole purpose of informing you of updates/ and or special offers and emails will only be sent by InventoryLAB, not 3rd parties or affiliates.</p>
+                /* Assume a target if Ctrl|shift|meta-click */
+                if (event.ctrlKey || event.shiftKey || event.metaKey || event.which == 2) {
+                    target = "_blank";
+                }
 
-<p>Any further questions to our privacy policy can be emailed to <a href="mailto:admin@inventorylab.com">admin@inventorylab.com</a></p>
-        	</div>
-		<div class="prefooter"></div>
-        <div class="prefooter"></div>
-        <div class="prefooter"></div>
-		<div template="footer">
-  <div id="footer">
-    <div class="container">
-      <a class="logo" href="#"></a>
-      <p class="copy">© 2012, InventoryLab</p>
-      <ul class="nav">
-        <li class="home"><a href="index.html">Home</a></li>
-        <li class="solutions"><a href="solutions.html">Solutions</a></li>
-        <li class="solutions"><a href="pricing.html">Pricing</a></li>
-        <li class="faq"><a href="faq.html">FAQ</a></li>
-        <li class="about"><a href="about.html">About</a></li>
-        <li class="help"><a href="https://inventorylab.desk.com/">Help</a></li>
-        <li class="login"><a href="login.aspx">Login</a></li>
-        <li class="signup"><a href="register.aspx">Sign up</a></li>
-      </ul>
-    </div>
-    <div class="disclaimer">
-      <div class="container">
-        <h5><strong>Disclaimer:</strong> InventoryLab is in no way affiliated with Amazon inc or any of it's subsidiaries.</h5>
-        <h5><a href="terms.html" target="_blank">user agreement</a> and our <a href="privacy.html" target="_blank">privacy policy</a></h5>
-        <div class="amazon-label"></div>
-      </div>
-    </div>
-  </div> <!-- End Footer -->
-</div>
+                var hbrun = false; // tracker has not yet run
+
+                /* HitCallback to open link in same window after tracker */
+                var hitBack = function() {
+                    /* run once only */
+                    if (hbrun) return;
+                    hbrun = true;
+                    window.location.href = link;
+                };
+
+                if (target) { /* If target opens a new window then just track */
+                    ga(
+                        "send", "event", "Outgoing Links", link,
+                        document.location.pathname + document.location.search
+                    );
+                } else { /* Prevent standard click, track then open */
+                    event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+                    /* send event with callback */
+                    ga(
+                        "send", "event", "Outgoing Links", link,
+                        document.location.pathname + document.location.search, {
+                            "hitCallback": hitBack
+                        }
+                    );
+
+                    /* Run hitCallback again if GA takes longer than 1 second */
+                    setTimeout(hitBack, 1000);
+                }
+            }
+        }
+    }
+
+    var _w = window;
+    /* Use "click" if touchscreen device, else "mousedown" */
+    var _gaLtEvt = ("ontouchstart" in _w) ? "click" : "mousedown";
+    /* Attach the event to all clicks in the document after page has loaded */
+    _w.addEventListener ? _w.addEventListener("load", function() {document.body.addEventListener(_gaLtEvt, _gaLt, !1)}, !1)
+        : _w.attachEvent && _w.attachEvent("onload", function() {document.body.attachEvent("on" + _gaLtEvt, _gaLt)});
+</script>
+<meta name="google-site-verification" content="gpsaVSZDUR9Wdjm6xHFt4zdVxUz8CyErGqhMbS63WzY">
+	</head>
+	<body data-page="Privacy Policy">
+		<header id="nav">
+	<nav id="main">
+		<a href="index.html" id="logo" title="Go Home"></a>
+		<input type="checkbox" id="nav-toggle">
+		<label class="button blue outline" for="nav-toggle"><i class="ion-navicon"></i><i class="ion-ios-close-empty"></i><span class="text">Menu</span></label>
+		<div class="nav-wrapper">
+			<ul>
+				<!--li><a href="index.html" title="Home">Home</a></li-->
+				<li><a href="solutions.html" title="Solutions">Solutions</a></li>
+				<li><a href="pricing.html" title="Pricing">Pricing</a></li>
+				<li><a href="http://blog.inventorylab.com" title="Blog">Blog</a></li>
+				<li><a href="faq.html" title="FAQ">FAQ</a></li>
+			</ul>
+			<ul class="ctas foo">
+				<li><a class="button lightblue outline" id="app-login" href="https://app.inventorylab.com">Login</a></li>
+				<li><a class="button blue" id="app-signup" href="https://app.inventorylab.com/signup">Try for Free</a></li>
+			</ul>
+		</div>
+	</nav>
+</header>
+		<section class="cta orangetopink-boxes hero">
+			<h1>Privacy Policy</h1>
+			<h3 style="margin-top:-40px;margin-bottom:20px">Last Updated 5/25/2018</h3>
+		</section>
+		<section class="content" id="legal">
+			<div class="container">
+				<p>Please note that InventoryLab Inc.'s business activity does not fall within GDPR guidelines; therefore, this privacy policy does not infer compliance with GDPR regulations.</p>
+				<p>This Privacy Policy describes InventoryLab's and its subsidiaries (collectively "InventoryLab"),  practices regarding the collection, and the use and disclosure of the information we collect from and about you when you use InventoryLab's web-based and mobile applications (the "Service"). We take our obligations regarding your privacy seriously and have made every effort to draft this Privacy Policy in a manner that is clear and easy for you to understand. By accessing or using the Service, you agree to this Privacy Policy and our End User License Agreement and Terms of Service.</p>
+				
+				<h4>Our Collection and Use of Information You Provide to Us</h4>				
+				
+				<p>In order to set up a user account for use of the Service, we collect personal information, such as your name, address, phone number, email address, payment information, and Amazon account data when you register for an account on the Service. You may also provide us with optional information such as a photograph, your user name, and any optional profile information that you elect to associate with your account is referred to herein as your "Profile Information." InventoryLab maintains this information indefinitely for record purposes.</p>
+				
+				<p>If you are a user of our paid Service, we will utilize a third party credit card payment processing company to collect payment information, including your credit card number, billing address, and phone number. We will share this payment information with the third party processing company as detailed below in "How We Share Your Information: With Trusted Service Providers And Business Partners." We do not store your payment information.</p>
+				
+				<p>We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). We may also use your email address to send you announcements and information about other products or services (including third-party services) that you may be interested in (together, the "Marketing Messages"). You may opt-out of receiving Marketing Messages at any time by following the instructions provided in the Marketing Message. Through your account interface, you may also opt-out of receiving categories of Service-related notices that are not deemed by InventoryLab to be integral to your use of the Service.</p>
+				
+				<p>Even if you are not a registered user of our Service, if you email us we may retain a record of such email communication, including your email address, the content of your email, and our response indefinitely.</p>
+				
+				<p>If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's contact information, which may include their email address or their social network identity, and automatically send an invitation. InventoryLab stores the information you provide to send the invitation, to register your friend if your invitation is accepted, and to track the success of our invitation service.</p>
+				
+				<h4>Your Content</h4>
+
+				<p>Your use of the Service will involve you uploading or inputting various content into the Service; including but not limited to: tasks, attachments, project names, team names, and conversations (together, the "Content").</p>
+
+				<p>You control how your Content is shared with others via your settings on the Service. InventoryLab may view your Content only as necessary (i) to maintain, provide and improve the Service; (ii) to resolve a support request from you; (iii) if we have a good faith belief, or have received a complaint alleging, that such Content is in violation of our Acceptable Use Guidelines; (iv) as reasonably necessary to allow InventoryLab to comply with or avoid the violation of applicable law or regulation; or (v) to comply with a valid legal subpoena or request that meets the requirements of our Law Enforcement Guidelines. We may also analyze the Content in aggregate and on an anonymized basis, in order to better understand the manner in which our Service is being used.
+				</p>
+				
+				<h4>Information We Collect Automatically</h4>
+
+				<p>We use technologies like cookies and pixel tags to provide, monitor, analyze, promote, and improve the Service. For example, a cookie is used to remember your user name when you return to the Service and to improve our understanding of how you interact with the Service. You can block cookies on your web browser; however, please be aware that some features of the Service may not function properly if the ability to accept cookies is disabled. While we collect this information automatically, at no time is your personal information ever used to make automated decisions for the Service provided or the Company as a whole.</p>
+
+				<h4>Embedded Content</h4>
+
+				<p>This site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+
+				<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.</p>
+				
+				<h4>Log Files</h4>
+
+				<p>When you use the Service, our servers automatically record certain information in server logs. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring/exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, mobile carrier, and other such information. Log files help us to monitor, analyze, improve, and maintain the Service and to diagnose and fix any Service-related issues.</p>
+				
+				<h4>Device Identifiers</h4>
+
+				<p>When you access the Service using a mobile device, we collect specific device information contained in your mobile device's "device identifier." This device identifier includes information such as the type of device you are using, its operating system, and mobile network information, which may include your mobile phone number. We may associate this device identifier with your Service account and will use data associated with your device identifier to customize our Services to your device and to analyze any device-related issues.</p>
+				
+				<h4>Location Information</h4>
+
+				<p>We may collect and process information about the location of the device from which you are accessing the Service. Location data may convey information about how you browse the Service and may be used in conjunction with personally identifiable information. You can disable location based services in settings associated with the Service, however, please be aware that some features of the Service may not function properly if location services are turned off.</p>
+				
+				<h4>How We Share Your Information</h4>
+
+				<p>We may share the information we collect from you with third parties as detailed below.</p>
+				
+				<h4>As Directed By You</h4>
+
+				<p>We will display your Profile information on your profile page and elsewhere on the Service in accordance with the preferences you set in your account. You can review and revise your Profile information at any time.</p>
+				
+				<h4>We Will Display Your Content Within The Service As Directed By You</h4>
+
+				<p>If you elect to give access to a third-party application, then we may share or disclose your account and Profile information and your Content with that third-party application as directed by you. Please remember that we are not responsible for the privacy practices of such third parties, so you should make sure you trust the application and that it has a privacy policy acceptable to you.</p>
+				
+				<h4>With Trusted Service Providers and Business Partners</h4>
+
+				<p>We may utilize trusted third party service providers to assist us in delivering our Service. For example, we may use third parties to help host our Service, send out email updates, or process payments. These service providers may have access to your information for the limited purpose of providing the service we have contracted with them to provide. They are required to have a privacy policy and security standards in place that are at least as protective of your information as is this Privacy Policy. We may also store personal information in locations outside the direct control of InventoryLab (for instance, on servers or databases co-located with hosting providers).</p>
+
+				<p>The US-based third-party service providers utilized by InventoryLab are as follows:</p>
+				<ul>
+					<li><a href="https://aws.amazon.com/compliance/data-privacy-faq/" target="_blank">Amazon Web Services</a> - cloud services provider</li>
+					<li><a href="https://www.braintreepayments.com/legal/payment-services-agreement-us" target="_blank">Braintree</a> - payment Processing Services</li>
+					<li><a href="https://www.zendesk.com/company/customers-partners/privacy-policy/" target="_blank">Zendesk</a> - help desk software</li>
+					<li><a href="https://www.godaddy.com/Agreements/Privacy.aspx" target="_blank">MadMimi</a> - email newsletter service</li>
+					<li><a href="https://policies.google.com/privacy?hl=en&amp;gl=us" target="_blank">Google Analytics</a> - web analytics service</li>
+					<li><a href="https://chartmogul.com/privacy/" target="_blank">ChartMogul</a> - web analytics service</li>
+					<li><a href="https://www.fullstory.com/legal/privacy/" target="_blank">FullStory</a> - session replay service</li>
+					<li><a href="https://basecamp.com/about/policies/privacy" target="_blank">Basecamp</a> - project management software</li>
+					<li><a href="https://www.atlassian.com/legal/privacy-policy" target="_blank">Atlassian/Jira</a> - bug reporting and tracking software</li>
+				</ul>
+				
+				<h4>With Law Enforcement or In Order to Protect Our Rights</h4>
+
+				<p>We may disclose your information (including your personally identifiable information) if required to do so by law or subpoena and if the relevant request meets our Law Enforcement Guidelines. We may also disclose your information to our legal counsel, governmental authorities, or law enforcement if we believe that it is reasonably necessary to do so in order to comply with a law or regulation; to protect the safety of any person; to address fraud, security or technical issues; or to protect InventoryLab's rights or property.</p>
+				
+				<h4>In an Aggregate and Non-Personally Identifiable Manner</h4>
+				
+				<p>We may disclose aggregate non-personally identifiable information (such as aggregate and anonymous usage data, platform types, etc.) about the overall use of our Service publicly or with interested third parties to help them understand, or to help us improve, the Service.</p>
+
+				<h4>In Connection With a Sale or Change of Control</h4>
+
+				<p>If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the Service can continue to operate. In such case, your information would remain subject to the promises and commitments contained in this Privacy Policy until such time as this Privacy Policy is updated or amended by the acquiring party upon notice to you.</p>
+
+				<h4>Specific Sensitive Information</h4>
+
+				<p>InventoryLab does not collect or process the following sensitive personal information at any time for any reason: Social Security number, gender, race or ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships, genetic or biometric data, health or mortality, sex life or sexual orientation.</p>
+				
+				<h4>How We Protect Your Information</h4>
+
+				<p>The security of your information is important to us. When you enter sensitive information (such as a credit card number) as part of our service, we encrypt the transmission of that information using industry-standard encryption.</p>
+
+				<p>InventoryLab uses commercially reasonable and industry-standard physical, managerial, and technical safeguards to preserve the integrity and security of your information. For example, we continuously and regularly back up your data to help prevent data loss and aid in data recovery. We also guard against common web attack vectors, host data in secure SAS 70 audited data centers, and implement firewalls and access restrictions on our servers to secure our network and better protect your information.</p>
+				
+				<p>If you have any questions about security on our Service, you can view our Security Overview Page or contact us at <a href="mailto:admin@inventorylab.com">admin@inventorylab.com</a>.</p>
+				
+				<h4>Risks Inherent in Sharing Information</h4>
+
+				<p>Although we allow you control over where you share your Content and what information is included in your Profile and take reasonable steps to maintain the security if the information associated with your account, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your Content and we are not responsible for third party circumvention of any privacy settings or security measures on the Service.</p>
+				
+				<h4>Your Choices About Your Information</h4>
+
+				<p>You may, of course, decline to submit personally identifiable information through the Service, in which case InventoryLab may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account.</p>
+				
+				<h4>InventoryLab Blogs/Facebook Page</h4>
+
+				<p>Information you provide in comments to our blogs/Facebook Page are public and may be read, collected, and used by others who view those sites. Your posts will remain even after you cancel your Service account. InventoryLab is not liable for any messages kept on personal social media pages either by the customer or any InventoryLab employee.</p>
+				
+				<h4>Children's Privacy</h4>
+
+				<p>Our Service is not directed to persons under 18. InventoryLab does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register for an account on the Service. If we become aware that we have collected personal information from a child under age 18 without verification of parental consent, we take steps to remove that information. If you believe that we might have any information from or about a child under 18, please contact us at <a href="mailto:admin@inventorylab.com">admin@inventorylab.com</a>.</p>
+
+				<h4>International Data Transfer</h4>
+
+				<p>We may transfer information that we collect about you, including personally identifiable information, to affiliated entities, or to other third parties (as provided herein) across borders and from your country or jurisdiction to other countries or jurisdictions around the world for customer service and support activities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Privacy Policy.</p>
+
+				<h4>Links to Other Websites</h4>
+
+				<p>We are not responsible for the practices employed by websites linked to from within the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect and your activities on that third party website is subject to such third party website's own rules and policies.</p>
+
+				<h4>Do Not Track Signals</h4>
+
+				<p>Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. We currently do not respond to "do not track" signals.</p>
+
+				<h4>Changes to Our Privacy Policy</h4>
+
+				<p>If we change our Privacy Policy, we will post those changes on this page to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+				<h4>Contact Us</h4>
+
+				<p>For questions about these or any InventoryLab terms or policies, email us at <a href="mailto:admin@inventorylab.com">admin@inventorylab.com</a>.</p>
+          </div>
+		</section>
+		<section class="cta redtoviolet-boxes" id="signup-cta">
+	<div class="trigger"></div>
+	<div class="info delay-quarter hide">
+		<h2>Start Your 30 Day Free Trial</h2>
+		<p>Not sure if InventoryLab is for you? Take us for a spin! We offer a risk-free 30 day trial for all new subscribers.</p>
+		<a href="https://app.inventorylab.com/signup" class="button gold">Sign Up Today</a>&nbsp;&nbsp;&nbsp;<a href="http://www.manula.com/manuals/inventorylab/inventorylab-user-guide/1/en/topic/recorded-webinars" target="_blank" class="button gold">Join a Webinar</a>
+	</div>
+	<div class="graphic hide">
+		<img style="border-radius:3px;" src="images/inventory-screen.jpg">
+	</div>
+</section>
+		<footer>
+	<div class="container">
+		<div class="column">
+			<h3>Navigate</h3>
+			<ul id="footer-main">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="solutions.html">Solutions</a></li>
+				<li><a href="pricing.html">Pricing</a></li>
+				<li><a href="http://blog.inventorylab.com">Blog</a></li>
+				<li><a href="faq.html">FAQ</a></li>
+				<li><a href="support.html">Support</a></li>
+				<li><a href="about.html">About Us</a></li>
+				<li><a href="careers.html">Join Our Team</a></li>
+			</ul>
+		</div>
+		<div class="column">
+			<h3>Communicate</h3>
+			<ul id="footer-communication">
+				<li><a href="contact.html">Contact Us</a></li>
+				<li><a href="https://app.inventorylab.com/signup">Sign Up</a></li>
+				<li><a href="affiliate.html">Become an Affiliate</a></li>
+				<li><a href="https://twitter.com/Inventory_Lab" target="_blank">Twitter</a></li>
+			</ul>
+		</div>
+		<div class="column">
+			<h3>Legal</h3>
+			<ul id="footer-legal">
+				<li><a href="termsofuse.html">Terms of Use</a></li>
+				<li><a href="useragreement.html">User Agreement</a></li>				
+				<li><a href="privacy.html">Privacy Policy</a></li>				
+			</ul>
+		</div>
+		<div class="copyright">
+			<img class="footer-logo" src="images/logo-rev.svg" title="InventoryLab">
+			<span class="statement">
+				InventoryLab is in no way affiliated with Amazon, Inc. or any of its subsidiaries.<br>
+				©2013-<span id="current-year"></span> InventoryLab
+			</span>
+			<img class="adc-logo" src="images/AMDC_HD_Dark@2x.png" title="Amazon Marketplace Developer Council">
+			<img class="aws-logo" src="images/aws-logo.svg" title="Powered by Amazon Web Services">
+		</div>
+	</div>
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['ProfitWellObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+  })(window,document,'script','https://dna8twue3dlxq.cloudfront.net/js/profitwell.js','profitwell');
+  profitwell('auth_token', '21133e48ba86605884f550b70bc116d1'); // Your unique Profitwell public API token
+</script>
+<!-- Start of inventorylab Zendesk Widget scripts -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="inventorylab.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+/*]]>*/</script>
+<script type="text/javascript"> window.zESettings = {   webWidget: {     contactOptions: {       enabled: true      }   } }; </script><script type="text/javascript"> window.zESettings = {   webWidget: {     contactOptions: {       enabled: true,       contactButton: { '*': 'Contact Us' },       chatLabelOnline: { '*': 'Live Chat' },       chatLabelOffline: { '*': 'Chat is unavailable' },       contactFormLabel: { '*': 'Email Us' }     }   } }; </script>
+<!-- End of inventorylab Zendesk Widget scripts -->
 	
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+</body></html>
