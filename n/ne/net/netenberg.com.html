@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netenberg.com privacy policy that was archived on 2017-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170616085548id_/https%3A//netenberg.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netenberg.com privacy policy that was archived on 2018-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180817114900id_/http%3A//netenberg.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -329,7 +329,7 @@ checkbox {
 .warning{
 	clear:left;
 	display:block;
-	margin-bottom:20px;
+	margin-bottom:30px;
 	background-color: #f2dede;
 	color: #555;
 	padding:10px 5px;
@@ -383,6 +383,16 @@ checkbox {
 	padding-bottom: 50px;
 	min-height:420px;
 	position:relative;
+}
+.page ul, .page ol {
+	margin-left: 20px;
+}
+.page ul li, .page ol li {
+	margin-bottom: 10px;
+}
+.page ul li,.page ol li, .page p {
+	line-height: 22px;
+	font-size: 15px;
 }
 
 #frontPopDiv .submit{
@@ -1750,7 +1760,7 @@ ul.historyItemsRevealed li span{
 }
 .jumbotron{padding:5px 0 0 0;color:inherit;}
 .jumbotron h1,.jumbotron .h1{font-family:"Neris-Black";color:#1eadff}
-.jumbotron p{font-family:"Neris-Light";margin-top:25px;font-size:24px;font-weight:200}
+.jumbotron p{font-family:"Neris-Light";margin-top:25px;font-size:24px!important;font-weight:200}
 .jumbotron>hr{border-top-color:#d5d5d5}
 .container .jumbotron{border-radius:0px}
 .jumbotron .container{max-width:100%}
@@ -1768,6 +1778,30 @@ ul.historyItemsRevealed li span{
 }
 .stamp img {
 	width: 100%;
+}
+.small_banner {
+	display: inline-block;
+	position:relative;
+    margin: 0 28px;
+    padding: 8px 12px 4px 12px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 3px 7px rgba(0,0,0,.3);
+}
+.small_banner img {
+	height: 28px;
+}
+
+.small_banner.cpanel {
+	position:relative;
+	top:-1px;
+}
+.small_banner.cpanel img{
+	height: 26px;
+}
+.small_banner.panelless {
+	position:relative;
+	top:1px;
 }
 .home_info {
 	font-family: "Neris-Black", Arial, serif;
@@ -2263,7 +2297,7 @@ p {margin: 5px 0px 10px 0;line-height:20px;}
 hr {margin: 18px 0;border-top: 1px solid #ddd;border-left: 1px solid #ddd;border-bottom: 1px solid white;}
 
 h1,h2,h3,h4,h5,h6{margin:0 0 9px 0;font-weight:400;line-height:18px;text-rendering:optimizelegibility}h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:400;line-height:1;color:#999}h1,h2{font-family: Trebuchet MS,Arial,sans-serif;line-height:35px}
-h1{color:#1dc6df;font-size:30px}h2{color:#1dc6df;font-size:25px}h3{font-size:18px}h4{color:#1dc6df;font-size:15px;}h5{font-size:14px;font-weight:600;}h6{font-size:12px;font-weight:600;}
+h1{color:#1dc6df;font-size:34px}h2{color:#1dc6df;font-size:27px}h3{font-size:19px}h4{color:#1dc6df;font-size:15px;}h5{font-size:14px;font-weight:600;}h6{font-size:12px;font-weight:600;}
 
 .align-left .btn{margin-right:5px}
 .align-right .btn{margin-left:5px}
@@ -2795,6 +2829,9 @@ a.dropdown-toggle .icon-arrow-down {
 .one-forth {
 	width:25%;
 }
+.one-fifth {
+	width:20%;
+}
 .collapse {
 	display: none;
 }
@@ -2821,7 +2858,7 @@ label {
 .form-inline label {width:85px;float: left}
 
 .footer {background-color: #333;-webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.05) inset;box-shadow: 0 1px 0 rgba(255,255,255,0.05) inset;color: #bbb;padding:20px 0 20px 0;clear:left;font-size:11px;}
-.footer ul{list-style:none;float:left;margin-right: 60px;}
+.footer ul{list-style:none;float:left;margin-right: 100px;}
 .footer ul>li{line-height:18px;}
 .footer ul>li>a{display:block;color:#666;}
 .footer ul>li>a:hover{color:#f2f2f2;}
@@ -4209,7 +4246,7 @@ function registerCustomer(){
 	var fax = $("#cust13").val();
 	var zipcode = $("#cust14").val();
 	var email = $("#cust15").val();
-	var invoiceEMail = $("#cust16").val();
+	var invoiceEmail = $("#cust16").val();
 	var retypePass = $("#custp2").val();
 	var taxID = $("#acN17").val();
 	var taxExempt = ($('#acN21:checked').val()==='on')?1:0;
@@ -4242,7 +4279,29 @@ function registerCustomer(){
 		$.ajax({
 			type: 'POST',
 			url: "customer.html",
-			data: "act=newCustomer&username="+username+"&password="+password+"&name="+name+"&surname="+surname+"&company="+company+"&address1="+address1+"&address2="+address2+"&country="+country+"&state="+state+"&city="+city+"&phone1="+phone1+"&phone2="+phone2+"&fax="+fax+"&zipcode="+zipcode+"&email="+email+"&invoiceEMail="+invoiceEMail+"&taxID="+taxID+"&taxExempt="+taxExempt+"&taxCountry="+taxCountry+"&newsletter="+newsletter,
+			data: {
+                act: "newCustomer",
+                username: username,
+                password: password,
+                name: name,
+                surname: surname,
+                company: company,
+                address1: address1,
+                address2: address2,
+                country: country,
+                state: state,
+                city: city,
+                phone1: phone1,
+                phone2: phone2,
+                fax: fax,
+                zipcode: zipcode,
+                email: email,
+                invoiceEmail: invoiceEmail,
+                taxID: taxID,
+                taxExempt: taxExempt,
+                taxCountry: taxCountry,
+                newsletter: newsletter
+            },
 			success: function(data){
 				$('.loading').hide(0,function(){$(this).remove()});
 				switch (data){
@@ -4931,6 +4990,28 @@ $.modal["edit"] = { title: "Modify IP", body: "<input value='' class='modal-inpu
 
 $.modal["delete"] = { title: "Delete License(s)", body: "<p>Are you sure you want to delete <span class='id-quantity'></span> license(s)?</p>" };
 	</script>
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+	<script>
+	window.addEventListener("load", function(){
+	window.cookieconsent.initialise({
+	  "palette": {
+	    "popup": {
+	      "background": "#000"
+	    },
+	    "button": {
+	      "background": "#f1d600"
+	    }
+	  },
+	  "content": {
+	    "message": "Netenberg uses cookies to provide necessary site functionality.\nBy using our website, you agree to our Cookie Policy and Privacy Policy.",
+	    "href": "https://netenberg.com/privacy.html"
+	  }
+	})});
+	</script>
+	<style>
+		.cc-window {font-size: 1em;}
+	</style>
 </head>
 <body><div class="header">
 	<div class="row one">
@@ -5035,63 +5116,85 @@ $.modal["delete"] = { title: "Delete License(s)", body: "<p>Are you sure you wan
 	<div class="container">
 		<div id="fullPageLoader" class="collapse"><h2>Loading...</h2></div>
 		<div id="pageContainer">
-			<h2>Privacy Policy</h2>
+			<div class="page">
+		<h1 class="align-center" style="color:#444;">Privacy Policy</h1>
+			<hr>
 			<p>This Privacy Policy governs the manner in which Netenberg collects, uses, maintains and discloses information collected from users (each, a "User") of the https://netenberg.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by Netenberg.</p>
 <br>
-<h3>Personal identification information</h3>
-<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
-<br>
-<h3>Non-personal identification information</h3>
-<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-</p>
-<br>
-<h3>Web browser cookies</h3>
-<p>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
-<br>
-<h3>How we use collected information</h3>
-<p>Netenberg may collect and use Users personal information for the following purposes:
-</p><ul style="margin-left:15px;">
-<li>To improve customer service
-        Information you provide helps us respond to your customer service requests and support needs more efficiently.</li>
-<li>To personalize user experience
-        We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
-<li>To improve our Site
-        We may use feedback you provide to improve our products and services.</li>
-<li>To process payments
-        We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</li>
-<li>To send periodic emails
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.</li>
-</ul>
-<p></p>
-<br>
-<h3>How we protect your information</h3>
 
-<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+<h2>1. Information We Collect</h2>
+<ol type="A">
+	<li> <h3>Information You Provide</h3> 
+		<ol type="I"> 
+		<li> <strong>Account Registration.</strong> When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. </li> 
+		<!--<li> <strong>Payment Information.</strong> When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor. </li>-->
+		<li> <strong>Communications.</strong> If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us. </li> 
+		</ol> <p> The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. </p> 
+	</li>
+	<li> <h3>Information We Collect When You Use Our Services.</h3> 
+		<ol type="I"> 
+			<li> <strong>Cookies and Other Tracking Technologies.</strong> As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.&nbsp; This information may include internet protocol (IP) addresses, browser type, referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws. </li>  
+		</ol> 
+	</li> 
+</ol>
+<hr>
+<h2>2. How We Use Information</h2> <p> We use the information we collect in various ways, including to: </p> 
+	<ul> 
+		<li> Provide, operate, and maintain our Services; </li> 
+		<li> Improve, personalize, and expand our Services; </li> 
+		<li> Understand and analyze how you use our Services; </li> 
+		<li> Develop new products, services, features, and functionality; </li> 
+		<li> Communicate with you, directly, including for customer service, to provide you with updates and other information relating to the Service, and for marketing and promotional purposes; </li> 
+		<li> Process your payments; We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. </li> 
+		<li> Send only necessary emails to generate invoices, monthly account statements, notifications about product renewals and to provide technical support;  If User decides to opt-in to our newsletter list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site. </li> 
+		<li> Find and prevent fraud; </li> 
+		<li> For compliance purposes, including enforcing our Terms of Service, or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency. </li> 
+	</ul>
+<hr>
+<h2>3. How we share information</h2> 
+	<p>We do not sell, trade, or rent Users personal identification information to others. 
+		<!--We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.-->
+		We may share the information we collect in various ways, including the following:</p>
+	<ol type="A"> 
+		<!--<li><strong><u>Vendors and Service Providers.</u></strong> We may share information with third-party vendors and service providers that provide services on our behalf, such as helping to provide our Services, for promotional and/or marketing purposes, and to provide you with information relevant to you such as product announcements, software updates, special offers, or other information. </li>--> 
+		<li> <strong><u>Aggregate Information.</u></strong> Where legally permissible, we may use and share information about users with our partners in aggregated or de-identified form that can’t reasonably be used to identify you. </li> 
+		<!--<li> <strong><u>Analytics.</u></strong> We use analytics providers such as Google Analytics. Google Analytics uses cookies to collect non-identifying information. Google provides some additional privacy options regarding its Analytics cookies at <a href="http://www.google.com/policies/privacy/partners/">http://www.google.com/policies/privacy/partners/</a>. </li>-->
+		<li> <strong><u>Business Transfers.</u></strong> Information may be disclosed and otherwise transferred to any potential acquirer, successor, or assignee as part of any proposed merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets. </li> 
+		<li> <strong><u>As Required By Law and Similar Disclosures.</u></strong> We may also share information to (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to your requests; or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. </li> 
+		<li> <strong><u>With Your Consent.</u></strong> We may share information with your consent. </li> </ol> 
 
-<p>Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p>
-<br>
+<hr>
+<h2>4. Legal Basis For Processing Personal Information</h2> <p> Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. </p> <p> However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you; (ii) where the processing is in our legitimate interests and not overridden by your rights; or (iii) where we have your consent to do so.&nbsp; We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities. </p> <p> In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person. </p> <p> If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). </p>
 
-<h3>Sharing your personal information</h3>
+<hr>
+<h2>5. Third-Party Services</h2> <p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.</p>
 
-<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</p>
-<br>
+<hr>
+<h2>6. Security</h2> <p> Netenberg is committed to protecting your information. To do so, we adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. However, please bear in mind that the Internet cannot be guaranteed to be 100% secure.</p>
 
-<h3>Third party websites</h3>
+<hr>
+<h2>7. Data Retention</h2> <p> We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements). </p> <p> When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. </p>
 
-<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.</p>
-<br>
+<hr>
+<h2>8. Access</h2> <p> If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing <a href="mailto:privacy@netenberg.com">privacy@netenberg.com</a>. </p> <p> To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit Netenberg's ability to comply with a legal obligation; inhibit Netenberg's ability to investigate, make or defend legal claims; result in disclosure of personal information about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to Netenberg or a third party. </p>
 
-<h3>Changes to this privacy policy</h3>
+<hr>
+<h2> 9. Your Data Protection Rights Under The General Data Protection Regulation (GDPR) </h2> <p> If you are a resident of the EEA, you have the following data protection rights: </p> <ul> <li> If you wish to <strong>access, correct, update, or request deletion</strong> of your personal information, you can do so at any time by emailing <a href="mailto:privacy@netenberg.com">privacy@netenberg.com</a>. </li> <li> In addition, you can <strong>object to the processing</strong> of your personal information, ask us to <strong>restrict the processing</strong> of your personal information, or <strong>request portability</strong> of your personal information. Again, you can exercise these rights by emailing <a href="mailto:privacy@netenberg.com">privacy@netenberg.com</a>. </li> <li> You have the right to <strong>opt-out of marketing communications</strong> we send you at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send you.&nbsp;To opt-out of other forms of marketing, please contact us by emailing <a href="mailto:privacy@netenberg.com">privacy@netenberg.com</a>. You cannot unsubscribe from our transactional emailing (which also includes Welcome, Forgot password, Confirmation, Billing plan-related emails, invoicing, as well as Critical Product updates), and other information which refers to your Netenberg.com account. </li> <li> Similarly, if we have collected and process your personal information with your consent, then you can <strong>withdraw your consent</strong> at any time.&nbsp; Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent. </li> <li> You have the <strong>right to complain to a data protection authority</strong> about our collection and use of your personal information. For more information, please contact your local data protection authority. </li> </ul> <p> We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. </p> 
 
-<p>Netenberg has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
-<br>
+<hr>
+<h2>10. Your Choices</h2> <p> You can use some of the features of the Services without registering, thereby limiting the type of information that we collect. </p> <p> You may unsubscribe from receiving certain notification emails from us. If you wish to do so, simply follow the instructions found at the end of the email. Even if you unsubscribe, we may still contact you for informational, transactional, account-related, or similar purposes. </p> <p> Many browsers have an option for disabling cookies, which may prevent your browser from accepting new cookies or enable selective use of cookies. Please note that, if you choose not to accept cookies, some features and the personalization of our Services may no longer work for you.</p>
 
-<h3>Your acceptance of these terms</h3>
+<hr>
+<h2>11. Children's Privacy</h2> <p> Netenberg does not knowingly collect information from children under the age of 16, and children under 16 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at <a href="mailto:privacy@netenberg.com">privacy@netenberg.com</a>. </p> 
 
-<p>By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
-<br>
+<hr>
+<h2>12. Changes To This Privacy Policy</h2> <p> This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal information previously collected from you through our Services, we will notify you through our Services, by email, or other communication. </p>
 
-<h3>Contacting us</h3>
+<hr>
+<h2>13. Your Acceptance Of These Terms</h2> <p>By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+
+<hr>
+<h2>Contacting Us</h2>
 
 <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
 Netenberg<br>
@@ -5100,11 +5203,13 @@ Kosmopolis Inc., LLC<br>
 501 Silverside Rd, Suite 105<br>
 Wilmington, DE 19809<br>
 USA<br>
-sales@netenberg.com<br>
-<br><br>
-This document was last updated on January 1st, 2014.
+privacy@netenberg.com<br>
 </p>
-<div class="spacer"></div>		</div>
+<p> The data controller of your personal information is Kosmopolis Inc., LLC </p>
+<p>This document was last updated on May 23rd, 2018.</p>
+
+<div class="spacer"></div>
+</div>		</div>
 	</div>
 </div>
 <div class="bounceInLeft" id="fixed-banner">
@@ -5145,43 +5250,34 @@ This document was last updated on January 1st, 2014.
 		<div class="row">
 			<ul>
 				<li><a href="http://www.buycpanel.com/" rel="nofollow" target="_blank"><strong>BuyCpanel</strong></a></li>
-				<li><a href="http://www.burst.net/" rel="nofollow" target="_blank"><strong>BurstNET</strong></a></li>
+				<li><a href="https://www.cogecopeer1.com/" rel="nofollow" target="_blank"><strong>Cogeco Peer 1</strong></a></li>
 				<li><a href="http://www.datapipe.com/" rel="nofollow" target="_blank"><strong>Datapipe</strong></a></li>
 			</ul>
 			<ul>
-				<li><a href="http://www.defenderhosting.com/" rel="nofollow" target="_blank"><strong>Defender</strong></a></li>
 				<li><a href="http://www.hostdime.com/" rel="nofollow" target="_blank"><strong>Hostdime</strong></a></li>
-				<li><a href="http://www.hostgator.com/" rel="nofollow" target="_blank"><strong>Hostgator</strong></a></li>
-			</ul>
-			<ul>
-				<li><a href="http://www.hostingzoom.com/" rel="nofollow" target="_blank"><strong>Hosting Zoom</strong></a></li>
 				<li><a href="http://www.inmotionhosting.com/" rel="nofollow" target="_blank"><strong>Inmotion Hosting</strong></a></li>
 				<li><a href="http://www.iweb.ca/" rel="nofollow" target="_blank"><strong>iWeb Technologies</strong></a></li>
 			</ul>
 			<ul>
 				<li><a href="http://www.joeswebhosting.net/" rel="nofollow" target="_blank"><strong>Joe's Web Hosting</strong></a></li>
 				<li><a href="http://www.knownhost.com/" rel="nofollow" target="_blank"><strong>Knownhost</strong></a></li>
-				<li><a href="http://www.liquidweb.com/" rel="nofollow" target="_blank"><strong>Liquidweb</strong></a></li>
-			</ul>
-			<ul>
-				<li><a href="http://www.serverbeach.com/" rel="nofollow" target="_blank"><strong>Serverbeach</strong></a></li>
 				<li><a href="http://www.servint.com/" rel="nofollow" target="_blank"><strong>Servint</strong></a></li>
-				<li><a href="http://www.singlehop.com/" rel="nofollow" target="_blank"><strong>SingleHop</strong></a></li>
 			</ul>
 			<ul>
+				<li><a href="http://www.singlehop.com/" rel="nofollow" target="_blank"><strong>SingleHop</strong></a></li>
 				<li><a href="http://www.softcom.com/" rel="nofollow" target="_blank"><strong>Softcom</strong></a></li>
 				<li><a href="http://www.softlayer.com/" rel="nofollow" target="_blank"><strong>Softlayer</strong></a></li>
-				<li><a href="https://www.totalserversolutions.com/" rel="nofollow" target="_blank"><strong>Total Server Solutions</strong></a></li>
 			</ul>
 			<ul>
-				<li><a href="http://www.wiredtree.com/" rel="nofollow" target="_blank"><strong>WiredTree</strong></a></li>
+				<li><a href="https://www.totalserversolutions.com/" rel="nofollow" target="_blank"><strong>Total Server Solutions</strong></a></li>
+				<li><a href="http://www.virtacore.com/" rel="nofollow" target="_blank"><strong>Virtacore</strong></a></li>
 			</ul>
 		</div>
 	</div>
 </div>
 <div class="footer black">
 	<div class="container">
-		<p>© 2002-2017, <strong>Kosmopolis Inc., LLC / netenberg.com</strong></p>
+		<p>© 2002-2018, <strong>Kosmopolis Inc., LLC / netenberg.com</strong></p>
 		<ul class="footer-ul">
 			<li><a class="ajax" ajax="ajax" href="/tos.html">Terms of Service</a></li>
 			<li><a class="ajax" ajax="ajax" href="/privacy.html">Privacy</a></li>
