@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119200701id_/https%3A//go.microsoft.com/fwlink/%3FLinkId%3D251732) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817160621id_/https%3A//go.microsoft.com/fwlink/%3FLinkId%3D251732) for the most accurate reproduction.*
 
 # Generic Product Privacy Statement Template
 
