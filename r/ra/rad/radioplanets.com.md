@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radioplanets.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316020626id_/http%3A//radioplanets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioplanets.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817053039id_/http%3A//radioplanets.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which EMG Service ApS collects, uses, maintains and discloses information collected from users (each, a "User") of the Radioplanets.com website ("Site"). This privacy policy applies to the Site and all products and services offered by EMG Service ApS.
+This Privacy Policy governs the manner in which Onlinepartner ApS collects, uses, maintains and discloses information collected from users (each, a "User") of the Radioplanets.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Onlinepartner ApS.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. No credit card information will be stored at all.
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**  
-EMG Service ApS may collect and use Users personal information for the following purposes:
+Onlinepartner ApS may collect and use Users personal information for the following purposes:
 
   * To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently. 
@@ -37,7 +37,7 @@ Users may find advertising or other content on our Site that link to the sites a
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
 
 **Changes to this privacy policy**  
-EMG Service ApS has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+Onlinepartner ApS has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 **Your acceptance of these terms**  
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
@@ -46,10 +46,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-EMG Service ApS / Radioplanets.com  
-Nyvej 17B  
-DK - 1851 Frederiksberg C  
+Onlinepartner ApS / Radioplanets.com  
+Enighedsvej 16, 5. 3.  
+DK - 2920 Charlottenlund  
 +45 88820663  
-info@RadioPlanets.com 
+info@radioplanets.com 
 
 _This document was last updated on October 20, 2014_
