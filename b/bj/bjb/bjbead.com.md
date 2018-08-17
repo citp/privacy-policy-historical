@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjbead.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709072813id_/http%3A//www.bjbead.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjbead.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818005135id_/http%3A//www.bjbead.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BJBead.com Online wholesale jewelry and handmade jewelry in China
 
