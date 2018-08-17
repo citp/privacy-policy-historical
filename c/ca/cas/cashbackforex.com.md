@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203072135id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817051553id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -44,4 +44,6 @@ CashBackForex will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-CashBackForex welcomes your comments regarding this Statement of Privacy. If you believe that CashBackForex has not adhered to this Statement, please contact CashBackForex by using the contact form. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+CashBackForex welcomes your comments regarding this Statement of Privacy. If you believe that CashBackForex has not adhered to this Statement, please contact CashBackForex by using the contact form. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+CashBackForex.com is owned and operated by Clear Markets Ltd 
