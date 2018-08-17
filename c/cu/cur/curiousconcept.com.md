@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curiousconcept.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205001522id_/https%3A//curiousconcept.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curiousconcept.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817151703id_/https%3A//curiousconcept.com/privacy) for the most accurate reproduction.*
 
 # Curious Concept | Privacy Policy
 
