@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the freevaluator.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508194625id_/http%3A//www.freevaluator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevaluator.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817225438id_/https%3A//www.freevaluator.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-##  [ Privacy policy](http://www.freevaluator.com/privacy)
-
-Details
-     Last Updated: Tuesday, 08 October 2013 10:16 
 
 This Privacy Policy governs the manner in which Free Valuator collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.freevaluator.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Free Valuator.
 
