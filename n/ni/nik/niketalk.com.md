@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niketalk.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326183739id_/https%3A//niketalk.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niketalk.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817041829id_/https%3A//niketalk.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NikeTalk
 
@@ -40,7 +40,7 @@ _Aggregate Information and Non-Identifying Information._ We may share aggregated
 
 _Service Providers._ We may employ third-party companies and individuals to facilitate and provide the Site and Services, including, without limitation, maintenance services, database management, web analytics and improvement of the features of the Site and Services, analyzing how the Site and Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such information. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [Opt-Out policy](http://www.networkadvertising.org/managing/opt_out.asp)
 
 _Compliance with Laws and Law Enforcement._ NikeTalk.com cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of NikeTalk.com or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity. 
 
@@ -48,7 +48,7 @@ _Business Transfers._ NikeTalk.com may sell, transfer or otherwise share some or
 
 **_Changing or Deleting Your Information_**
 
-All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
+All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at support@NikeTalk.com with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
 _Security_
 
@@ -68,6 +68,14 @@ The Site contains links to other websites. If you choose to visit an advertiser 
 
 This Site is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. 
 
+**_GDPR Compliance_**
+
+The European Union privacy law, the General Data Protection Regulation (GDPR), has taken effect on 25 May 2018. Pursuant to the GDPR, EU residents, may: 
+
+  * Access the data that we keep about you. We may need to ask you to provide us certain credentials to make sure that you are an EU resident and you are who you claim to be. If you find that the data is not accurate, complete or updated, then you may provide us with the necessary information to rectify it.
+  * Contact us if you want to withdraw your consent to the processing of your personal information. Exercising this right will not affect the lawfulness of processing based on your consent prior to its withdrawal.
+  * Request to delete any identifiable personal information. [Please note that any request to delete your personal information will not delete any forum content you made in the past, however your public user profile page will no longer be active and you will no longer be able to post to the forums.]
+Please [contact us via this form](https://niketalk.com/misc/contact) should you wish to exercise your rights under the GDPR. 
 **_Contacting Us_**
 
-If you have any questions about this Privacy Policy, please contact us by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, please contact us by emailing [support@NikeTalk.com](mailto:support@niketalk.com).
