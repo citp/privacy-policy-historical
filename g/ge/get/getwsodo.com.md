@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getwsodo.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618113840id_/http%3A//www.getwsodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getwsodo.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817193221id_/http%3A//www.getwsodo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – getWSOdownload – Download all the latest Internet Marketing products from one place!
 
