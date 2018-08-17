@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the filebox.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102014714id_/http%3A//filebox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filebox.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817095840id_/http%3A//filebox.com/privacy.html) for the most accurate reproduction.*
 
 # FileBox - Cloud Storage without limits!
 
 FileBox.com is a provider of online file storage service. Your use of the [FileBox.com](http://filebox.com/) site is governed by FileBox.com Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
-FileBox.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate. 
+FileBox.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.
 
 #### **Your information during the registration**
 
