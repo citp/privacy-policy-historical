@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820201444id_/http%3A//transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817175549id_/http%3A//www.transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
 
 # Transit & Travel Job Insider - Privacy Policy
 
@@ -125,3 +125,5 @@ If we make material changes to this Policy, we will post a notice on the home pa
 ### **Security**
 
 Transit & Travel Job Insider will take reasonable measures to secure the personally identifiable information Users provide to us. However, Transit & Travel Job Insider cannot guaranty the security of any information you submit to us and you do so at your own risk. All personally identifiable information is protected by password and accessible only to authorized Transit & Travel Job Insider personnel. However, there is a possibility that Internet transmissions containing a User's personally identifiable information may be intercepted by others. There is no way for us to ensure the privacy of User information before it arrives at the Site or after it leaves the Site.
+
+[ ](http://transittraveljobinsider.com/)
