@@ -1,107 +1,190 @@
-> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613233341id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817105133id_/https%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Contact Any Celebrity ::
+# Privacy Policy | Contact Any Celebrity
 
-Contact Any Celebrity is the property of Mega Niche Media LLC.
+Effective Date: June 1, 2018
 
-Contact Any Celebrity is very sensitive to the privacy and security concerns that individuals have expressed regarding personal information and it’s use. The following pages, presented in a question and answer format, outline general information about Contact Any Celebrity, our customers, and the information we distribute.
+**I. If You are Located In the EU**
 
-Our mailing address is:
+A. What Personal Data Do We Collect From You?
 
-Contact Any Celebrity  
-8721 Santa Monica Boulevard #431  
-West Hollywood, CA 90069-4507
+Personal data is information that can be used to identify you such as your name, IP address, and email address. As a business, we collect personal data from you in a number of ways including:
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address. We collect only the domain name (but not the e-mail address of visitors to our Web page), the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
+(1.) Opt-In To Emails: Your name and email address.
 
-The information we collect is used to improve the content of our Web page and used to notify consumers about updates to our Web site. It is not shared with other organizations for commercial purposes.
+(2.) Transaction: Your name, email address, billing information, and IP address.
 
-With respect to cookies: We only use cookies to allow access to our database once you have subscribeed.
+(3.) Submitting Questions: Your name, email address, and question.
 
-If you do not want to receive e-mail from us in the future, please contact us.
+B. What Is The Purpose of Processing Your Personal Data?
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please contact us.
+We collect the information above for the following purposes.
 
-If you supply us with your telephone number online you will only receive telephone contact from us regarding orders you have placed.
+(1.) Opt-In To Emails: To provide you with information and the topic in general.
 
-With respect to Ad Servers: we do not partner with or have special relationships with any ad server companies.
+(2.) Transaction: To process a purchase you make with us.
 
-Upon request we will provide you with access to all information (including proprietary information) that we maintain about you including financial information (credit card account information), unique identifier information (customer number or password), transaction information (dates on which customers made purchases, amounts and types of purchases), and contact information (name, address, phone number). You can access this information by contacting us.
+(3.) Submitting Questions: To answer questions you might have for us.
 
-With respect to security: we always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+C. What Legal Basis Do We Have For Collecting and Processing Your Information?
 
-If you feel that we are not following this stated information policy, please contact us, the state or local chapters of the Better Business Bureau, the state or local consumer protection office, or the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
+Websites must have a legal basis for collecting information from individuals located in the European Union. Our legal basis for each of the ways we collect information from you is as follows. Please note where consent forms the basis, you can withdraw consent at any time by opting out of any email message using the “unsubscribe” link.
 
-**What is Contact Any Celebrity?**
+(1.) Opt-In To Emails: We will ask for your consent first.
 
-Contact Any Celebrity is a reference service; a company that provides information used to help identify and locate public figures.
+(2.) Transaction: We will collect your information as part of a legal contractual transaction.
 
-Contact Any Celebrity provides information solutions for consumers and small businesses using public records and publicly-available information. Our products help people market their products to celebrities, solicit autographed memorabilia, get testimonials and endorsements, and send fan mail.  
-**  
-How do customers use the data they obtain from Contact Any Celebrity?**
+(3.) Submitting Questions: We have an allowed legitimate interest in providing a response to your questions and need to use your data to do so. We will not use the data for other purposes.
 
-Our customers are professionals who use our data for to locate public people for personal and professional reasons.
+“Legitimate interests” for processing your personal information exist where you submit the information with an expectation that it will be processed and there is no undue impact on you. If you disagree or have questions, please contact support@contactanycelebrity.com and we will cease the processing of your data under this legal basis.
 
-**Are their any restrictions on how customers can use Contact Any Celebrity’s data?**
+D. Who Has Access To The Data We Collect?
 
-Our customers do have restrictions on how they can use our information. Every customer enters into an agreement with Contact Any Celebrity that restricts the customer’s use of our data. Our customers agree to use our data only for legal purposes, and they also agree not to use our information in ways that might be harmful to others or intrusive.
+We process and access to the data we collect from you. However, we use third parties to assist us with processing your personal data including the following categories of recipients:
 
-Contact Any Celebrity takes these restrictions very seriously. In the event we believe a customer has misused our information, we will address the matter and terminate the customer’s subscription. Additionally, if a customer uses our information in a criminal or harmful manner, we will contact appropriate law enforcement agencies. Our customers agree we can disclose information about them and their searches to law enforcement agencies in the event we suspect they have misused our information.
+  * Financial transaction processors (processing your payments)
+  * Customer service communication platform
+  * Contest and survey platform
+  * Email communication manager
+  * Marketing funnel providers
+  * Website management services
+  * Website design and programming services
 
-**How can I remove my information from Contact Any Celebrity’s database?**
 
-In order for Contact Any Celebrity to remove your public information from being viewable on the Contact Any Celebrity Web site, we require faxed proof of identity. Proof of identity can be a state issued ID card or driver’s license. If you are faxing a copy of your driver’s license, cross out the photo and the driver’s license number. We only need to see the name, address and date of birth.
 
-Please fax information to our customer service department at 310-362-8771.
+These third parties have signed contracts with us in which they are prohibited from utilizing, sharing or retaining your personal data for any purpose other than we dictate.
 
-If you are not comfortable doing this you can send us a notarized form proving your identity and we will be glad to remove this public information.
+E. Cookies and Similar Technologies
 
-** Please note removing the data here does not prevent public records from sending us new information in the future. To permanently have your records sealed you will need to contact your county’s record department. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county’s land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available from the public records custodian, Contact Any Celebrity, or any other information provider.
+This site uses cookies and similar technologies to track particular aspects of you and other people who visit us. This tracking is done to provide us with information on how people move about the site, what is of interest to them and what is not, how our marketing is performing, and incidental items such as what percentage of users access the site from a personal computer versus a mobile phone. You may block most cookies by adjusting your browser settings.
 
-**Who do I contact if I have questions about Contact Any Celebrity?**
+F. How Long Do We Keep Your Data?
 
-If you have questions about Contact Any Celebrity’s information policies, privacy or related questions, please contact Jordan McAuley, CEO. His address is:
+We keep your personal data for different periods of time depending on the reason it was gathered in the first place.
 
-Jordan McAuley, CEO  
+(1.) Opt-In To Emails: 365 days, unless you click a link or open a message, in which case we may keep for up to 365 days after you take such action.
+
+(2.) Transaction: Five years for legal tax audit purposes.
+
+(3.) Submitting Questions: Five years.
+
+If a legal claim arises involving your data, we will store and disclose that data until the matter has been resolved.
+
+G. Your Right To Ask For Corrections, Erasure, And Export Of Your Data
+
+You have the right to control your personal data. Specifically, you have the following rights:
+
+  * The right to be informed: We are informing you now with this policy.
+  * The right of access: We’ll provide you with the data we have about you.
+  * The right to rectification: Request we fix incorrect data about you.
+  * The right to erasure: Request we erase certain data about you.
+  * The right to restrict processing: Ask us to restrict certain type of processing of your personal information.
+  * The right to data portability: Ask us to provide your personal data we have for export.
+  * The right to object: Object to how we use your data.
+  * Rights in relation to automated decision making and profiling: We don’t profile you, but keep in mind you have this right with other sites.
+
+
+
+To exercise any of these rights, please contact support@contactanycelebrity.com with your request.
+
+H. Your Right To Withdraw Consent
+
+Although this is mentioned above, we want to emphasize that wherever we’ve asked for your consent to collect or process your personal data, you have the right to withdraw that consent. If you receive email messages from us, you can use the “unsubscribe” link in each message to withdraw consent and stop the mailings. Alternatively, you can contact support@contactanycelebrity.com with your request.
+
+I. Do We Transfer Your Data To Third Countries?
+
+No. We are located in the United States. Your data is collected and held here.
+
+J. Privacy Concerns, Contacting Us, Complaints.
+
+You can contact support@contactanycelebrity.com with any questions or requests you have about these policies or your personal data.
+
+Data Controller
+
+Representative: Jordan McAuley
+
 Contact Any Celebrity  
 8721 Santa Monica Blvd. #431  
 West Hollywood, CA 90069-4507
 
-**Safe & Secure Online Transactions**
+You can also send correspondence by traditional mail to our mailing address above.
 
-Contact Any Celebrity is concerned about the safety and security of our customers. We have put a number of technological protections in place including state-of-the-art encryption to ensure that our transaction process is safe and that our customers’ information is secure.
+**II. For Our Friends Located In California**
 
-## **[Free 7-Day Trial on All Memberships!](https://contactanycelebrity.com/cac/checkout)**
+A. Do Not Track Signals.
+
+Pursuant to the California Online Privacy Protection Act, we hereby disclose that we do not currently honor “do not track” signals issued by browsers or other third party sources.
+
+B. California Eraser Law.
+
+If you are an individual under 18 and have provided personal information or content to us in some manner, you have the right to request the deletion of that information pursuant to the “California Eraser Law.” Contact us to make such a request at support@contactanycelebrity.com .
+
+III. For All Our Valued Friends Regardless of Location
+
+A. Privacy Policy Modifications and Updates.
+
+We may update and modify this Privacy Policy at any time. In doing so, we will post a notice on the site 30 days before the change goes into effect and forward an email message to you should we have an email address for you.
+
+B. Legal Disclosures of Personal Information.
+
+We may process, store, and disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or (3) act under exigent circumstances to protect the safety of the public or users of the site.
+
+C. DMCA Disclosures
+
+We comply with the Digital Millennium Copyright Act of 1998. As part of the compliance process, we may be required to disclose whatever information we have for you to a copyright holder who has submitted a complaint to us.
+
+D. Public Comments.
+
+You may leave comments on website or forum posts. Please remember that any information you provide is not private. The information can be viewed by anyone online including family, friends, the media, investigators, and potential employers conducting background checks.
+
+E. Third Party Websites.
+
+We link to other sites, but please keep in mind that we do not control the privacy policies of those sites. Make sure to review the policies of any such sites before providing your personal information.
+
+F. Sale of Business
+
+Should we sell this site or our business, your personal information will be an asset transferred to the new owner.
+
+If you have any questions about this Privacy Policy, please contact us at support@contactanycelebrity.com .
+
+**Also see:**
+
+  * [About Us](https://contactanycelebrity.com/cac/about/)
+  * [Cookie Policy](https://contactanycelebrity.com/cac/cookie-policy/)
+  * [Frequently Asked Questions (FAQ)](https://contactanycelebrity.com/cac/faq/)
+  * [Terms & Conditions](https://contactanycelebrity.com/cac/terms/)
+
+
+
+## [Contact 59,000+ Celebrities Now!](https://contactanycelebrity.com/cac/checkout/)
 
 Annual VIP Membership
 
 $197/year
 
-(most popular - best rate)
+Best Rate!
 
-Free 7-Day Full Trial 
+Free 7-Day Trial (All Access) 
 
-Celebrity Contacts Database Access: 
+Unlimited Celebrity Searches 
 
-59,200+ Celebrities & Public Figures 
+Full Database Access: 
+
+59,000+ Celebrities & Public Figures 
 
 14,000+ Representatives 
 
 (Agent, Manager, Publicist & Attorney) 
 
-7,300+ Entertainment Companies 
+7,000+ Entertainment Companies 
 
-USPS-Verified Mailing Addresses 
+Phone, Fax & Email 
 
-Representation Email Addresses 
-
-Unlimited Celebrity Searches 
-
-Private Online Database 
+Verified Mailing Addresses 
 
 Dynamic Lookup Technology 
 
-Lightning-Fast Hosted by Amazon 
+Lightning-Fast Online Database 
 
 Cross-Referenced Results 
 
@@ -111,55 +194,43 @@ VIP Member Concierge
 
 Free Research Requests 
 
-Postage Refunds 
+Fast Postage Refunds 
 
 Celebrity Causes Database 
 
-Free E-Books: 
-
-Celebrity Leverage 
-
-Help From Hollywood 
-
-Secrets to Contacting Celebrities 
-
 100% Satisfaction Guarantee 
 
-Monthly Insider Expert Teleseminars 
+Monthly Insider Expert Webinars 
 
-Cancel Anytime 
+Cancel Anytime
 
-Priority VIP Service 
+Monthly Membership
 
-Best Rate - No Monthly Charges
+$29.97/month
 
-Monthly (Basic) Membership
+Most Popular
 
-$47/month
+Free 7-Day Trial (All Access) 
 
-Free 7-Day Full Trial 
+Unlimited Celebrity Searches 
 
-Celebrity Contacts Database Access: 
+Full Database Access: 
 
-59,200+ Celebrities & Public Figures 
+59,000+ Celebrities & Public Figures 
 
 14,000+ Representatives 
 
 (Agent, Manager, Publicist & Attorney) 
 
-7,300+ Entertainment Companies 
+7,000+ Entertainment Companies 
 
-USPS-Verified Mailing Addresses 
+Phone, Fax & Email 
 
-Representation Email Addresses 
-
-Unlimited Celebrity Searches 
-
-Private Online Database 
+Verified Mailing Addresses 
 
 Dynamic Lookup Technology 
 
-Lightning-Fast Hosted by Amazon 
+Lightning-Fast Online Database 
 
 Cross-Referenced Results 
 
@@ -169,28 +240,17 @@ Member Concierge
 
 Free Research Requests 
 
-Postage Refunds 
+Fast Postage Refunds 
 
 Celebrity Causes Database 
 
-Free E-Books: 
-
-Celebrity Leverage 
-
-Help From Hollywood 
-
-Secrets to Contacting Celebrities 
-
 100% Satisfaction Guarantee 
 
-Monthly Insider Expert Teleseminars 
-
-Basic Support 
+Monthly Insider Expert Webinars 
 
 Cancel Anytime
 
-#### [Contact 59,200+ Celebrities & Public Figures Now!](https://contactanycelebrity.com/cac/checkout)
+  
+
 
 ## 5-Minute Database Demo:
-
-## **[Activate Your FREE 7-Day Trial!](https://contactanycelebrity.com/cac/checkout)**
