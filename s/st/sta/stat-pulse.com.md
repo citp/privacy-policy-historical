@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stat-pulse.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524174634id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stat-pulse.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817104243id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
 
 # Privacy Policy | SendPulse
 
@@ -34,7 +34,7 @@ While providing the Services, and as described in more detail below, we may coll
 
 This Privacy Policy covers our treatment of Personal Data that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage.
 
-By using or accessing the Service in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your data in the following ways.
+By using or accessing the Service in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, our Cookie Statement, and other documents, and you hereby consent that we will collect, use, and share your data in the following ways.
 
 Your use of the Service is at all times subject to the [Terms of Service](https://sendpulse.com/legal/terms), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Service.
 
@@ -44,7 +44,7 @@ If we learn that we have collected Personal Data from anyone under the legal age
 
 ## 3\. Contact us
 
-If you have any questions or comments, or if you want to update, delete, or change any Personal Data we hold, or you have a concern about the way in which we have handled any privacy matter, please contact our Customer Support staff at [support@sendpulse.com](mailto:support@sendpulse.com).
+If you have any questions or comments, or if you want to update, delete, or change any Personal Data we hold, or you have a concern about the way in which we have handled any privacy matter, please contact our Customer Support staff at support@sendpulse.com.
 
 You may also contact us by postal mail at:
 
@@ -92,6 +92,8 @@ We and our partners may use various technologies to collect and store informatio
 “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features.
 
 For more information about our use of cookies and other tracking technologies, please refer to our [Cookie Statement](https://sendpulse.com/legal/cookies).
+
+Be aware that our Cookie Statement is an integral part of this Privacy Policy.
 
 ## 5.4. List and email information
 
@@ -151,13 +153,22 @@ You may delete individual Subscribers upon their request at any time. In additio
 
 **Right to rectification** : You may access and update your SendPulse account settings at any time to correct or complete your account information/ subscriber/contact information upon their request at any time. You may also contact SendPulse at any time to access, correct, amend or delete information that we hold about you. In addition, any data subject (including your subscribers and contacts) may contact SendPulse directly to access, correct, and/or delete information that SendPulse may hold about the data subject.
 
-We will give an individual, either you or a Subscriber, access to any Personal Data we hold about them within 30 days of any request for that information. Individuals may request to access, correct, amend or delete information we hold about them by contacting our support ([support@sendpulse.com](mailto:support@sendpulse.com)). Unless it is prohibited by law, we will remove any Personal Data about an individual, either you or a Subscriber, from our servers at your or their request. There is no charge for an individual to access or update their Personal Data.
+We will give an individual, either you or a Subscriber, access to any Personal Data we hold about them within 30 days of any request for that information. Individuals may request to access, correct, amend or delete information we hold about them by contacting our support (support@sendpulse.com). Unless it is prohibited by law, we will remove any Personal Data about an individual, either you or a Subscriber, from our servers at your or their request. There is no charge for an individual to access or update their Personal Data.
 
 **Right of portability** : We will export your account data to a third party at any time upon your request.
 
 ## 9\. Data collected for and by our members
 
-As you use our Services, you may import into our system Personal Data you have collected from your Subscribers or other individuals. We have no direct relationship with your Subscribers or any person other than you, and for that reason, you are responsible for making sure you have the appropriate permission for us to collect and process information about those individuals. Consistent with the uses of Personal Data covered in previous Sections, we may transfer Personal Data of you or your Subscribers to companies that help us promote, provide, or support our Services or the services of our Members (“Service Providers”). All Service Providers enter into a contract with us that protects Personal Data and restricts their use of any Personal Data consistent with this policy. As part of our Services, we may use and incorporate into features information you have provided, we have collected from you, or we have collected about Subscribers. We may share this information, including Subscriber email addresses, with third parties in line with the approved uses in previous Section.
+As you use our Services, you may import into our system Personal Data you have collected from your Subscribers or other individuals. We have no direct relationship with your Subscribers or any person other than you, and for that reason, you are responsible for making sure you have the appropriate permission for us to collect and process information about those individuals (explicit consent).
+
+  * Consent must be specific to your purposes.
+  * Silence, pre-ticked boxes or inactivity does not constitute consent; data subjects must explicitly opt-in to the storage, use and management of their personal data.
+
+
+
+You should ensure that you are keeping accurate records of your subscribers’ and contacts’ consent permitting you and SendPulse to send them emails, store and use their personal data, and any other processing activities which you are undertaking.
+
+Consistent with the uses of Personal Data covered in previous Sections, we may transfer Personal Data of you or your Subscribers to companies that help us promote, provide, or support our Services or the services of our Members (“Service Providers”). All Service Providers enter into a contract with us that protects Personal Data and restricts their use of any Personal Data consistent with this policy. As part of our Services, we may use and incorporate into features information you have provided, we have collected from you, or we have collected about Subscribers. We may share this information, including Subscriber email addresses, with third parties in line with the approved uses in previous Sections.
 
 If you are a Subscriber and no longer want to be contacted by one of our Members, please unsubscribe directly from that Member’s newsletter or contact the Member directly to update or delete your data. If you contact us, we may remove or update your information within a reasonable time and after providing notice to the Member of your request.
 
@@ -187,7 +198,7 @@ However, if you wish to avoid receiving any future email news from SendPulse, pl
 We may disclose Personal Data to the following types of third parties for the purposes described in this policy:
 
   1. Service Providers. Sometimes, we share your information with our third party Service Providers, who help us provide and support our Services. For example, if it is necessary to provide you something you have requested (like enable a feature such as Social Profiles), then we may share your and/or your Subscribers’ Personal Data with a Service Provider for that purpose. Just like with the other third parties we work with, these third party Service Providers enter into a contract that requires them to use your Personal Data only for the provision of services to us and in a manner that is consistent with this policy.
-  2. Advertising partners. We may partner with third party advertising networks and exchanges to display advertising on our Websites or to manage and serve our advertising on other sites and may share Personal Data with them for this purpose. All third parties with which we share this information are required to use your Personal Data in a manner that is consistent with this policy. We and our third party partners may use cookies and other tracking technologies, such as pixels and web beacons, to gather information about your activities on our Websites and other sites in order to provide you with targeted advertising based on your browsing activities and interests. For more information about cookies and other tracking technologies, please see our Cookie Statement here.
+  2. Advertising partners. We may partner with third party advertising networks and exchanges to display advertising on our Websites or to manage and serve our advertising on other sites and may share Personal Data with them for this purpose. All third parties with which we share this information are required to use your Personal Data in a manner that is consistent with this policy. We and our third party partners may use cookies and other tracking technologies, such as pixels and web beacons, to gather information about your activities on our Websites and other sites in order to provide you with targeted advertising based on your browsing activities and interests. For more information about cookies and other tracking technologies, please see our Cookie Statement [here](https://sendpulse.com/legal/cookies).
   3. Social media as described above.
   4. CMS, CRM systems, other websites, integrated with our Services upon your request.
 
