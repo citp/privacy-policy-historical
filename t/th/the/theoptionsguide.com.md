@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627131018id_/http%3A//theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817101923id_/http%3A//theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Options Guide - Privacy Policy
 
