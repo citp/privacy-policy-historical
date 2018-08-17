@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502215447id_/http%3A//steep.tv/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817052646id_/http%3A//steep.tv/page/privacy) for the most accurate reproduction.*
 
 # Steep TV
 
-**Last updated:** August 3, 2015
+**Last updated:** May 24th, 2018
 
 We're always working to make our services even better. One of the ways we do that is by analyzing information we collect and receive about users in order to figure out what they might be interested in. This helps us develop more engaging content and provide more effective advertising, which enables us to keep most of our services free.
 
@@ -19,6 +19,10 @@ This Privacy Policy describes how we handle the information we collect and recei
 Harmless cookies that are designed to enhance your user experience of this website are stored on your device. These consist of small data files relating to you and this website. Information stored in cookies created by SteepTV are not shared with any third party unless required to do so by law.
 
 By continuing to browse this website you are consenting to the storage of its first party cookies on your device. Should you disagree to the storage of first party cookies from this website on your device please click here to remove them and discontinue browsing this website.
+
+##### Exponential GDPR Privacy Policy Update:
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com)
 
 ## Information We Collect and Receive
 
