@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mockquestions.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319132900id_/https%3A//www.mockquestions.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockquestions.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817043217id_/https%3A//www.mockquestions.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | MockQuestions
 
@@ -6,7 +6,7 @@ MockQuestions LLC, referred to here as (MockQuestions), is committed to protecti
 
 1\. How We Collect and Use Information 
 
-MockQuestions to its aware knowledge, does not collect any long lived personal information about you. We do create a session id that tracks your interview questions and answers and is only available for a brief amount of time, roughly 30 minutes. After the estimated 30 minutes, the information collected is no longer tied directly to you or your device so long as your submitted interview answers do not reveal personal information about you. We strongly encourage all users of MockQuestions not to submit personal information. MockQuestions uses the service of Google Analytics to help us understand how individuals use our service. MockQuestions may also use the services of other third party developers for analytical purposes. 
+MockQuestions to its aware knowledge, does not collect any long lived personal information about you. We do create a session id that tracks your interview questions and answers and is only available for a brief amount of time, roughly 30 minutes. After the estimated 30 minutes, the information collected is no longer tied directly to you or your device so long as your submitted interview answers do not reveal personal information about you. We strongly encourage all users of MockQuestions not to submit personal information. MockQuestions uses the service of Google Analytics to help us understand how individuals use our service. We do use Google Adsense that tracks users based on the information they collect about you, in order to display customized advertisements to you. MockQuestions may also use the services of other third party developers for analytical purposes. 
 
 2\. How To Avoid Submitting Personal Information 
 
