@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005225524id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817131021id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Connect for Health Colorado
+# Privacy Policy • Connect for Health Colorado
 
 ## **Connect for Health Colorado Privacy Policy**
 
@@ -95,10 +95,10 @@ ConnectforHealthCO.com links to other Colorado sites, other government sites, an
 If we change our privacy policy, the changes will be posted directly to this privacy notice. We reserve the right to modify this privacy statement at any time.  If you have questions or concerns regarding this privacy policy, please feel free to contact us via the methods below:
 
 Connect for Health Colorado  
-3773 Cherry Creek N. Dr. Suite 1025  
-Denver, CO 80209  
+4600 S. Ulster Street, Suite 300  
+Denver, CO 80237  
 1 (720) 496-2530
 
-Privacy@ConnectforHealthCO.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Effective Date: August, 2017
