@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evolutionscript.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002083808id_/https%3A//www.evolutionscript.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionscript.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817070309id_/https%3A//www.evolutionscript.com/privacy) for the most accurate reproduction.*
 
-# EvolutionScript.com - GPT/PTC Software
+# EvolutionScript - GPT/PTC Software
 
 EvolutionScript collects personal information when you purchase one of our products or services.
 
