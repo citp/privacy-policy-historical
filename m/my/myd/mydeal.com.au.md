@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325213529id_/https%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817051738id_/https%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ Please note that in using the Site you may be communicating with individuals and
 
 #### Secure Online Transactions
 
-If you purchase a Coupon through our Site, we process your credit card details securely over the Internet using eWAY’s bank-grade data centre (eWAY is an accredited Internet payment security system authorised as a third party processor for all major Australian banks). With the combination of transaction performed under 256 Bit SSL Certificate on our Site and a secure browser at your end, we take all measures to ensure that your credit card and anonymity are protected when you purchase online. 
+If you purchase Product(s) or Voucher(s) (as defined in our terms and conditions) through our Site, we process your credit card details securely over the Internet using eWAY’s bank-grade data centre (eWAY is a tier-one PCI DSS compliant payment gateway). We employ a 256 Bit SSL Certificate on our Site to ensure that your credit card and anonymity are protected when you purchase online. If you opt in to save your card, eWay will retain your credit card details on its servers for future purchases on MyDeal. MyDeal does not store your credit card details. 
 
 #### Non-customer information
 
