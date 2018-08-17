@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923004026id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817181732id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy, Policies & Notices
 
