@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeyourvideoviral.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022163434id_/http%3A//makeyourvideoviral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeyourvideoviral.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817065052id_/http%3A//www.makeyourvideoviral.com/privacy.html) for the most accurate reproduction.*
 
 # Your Video Source
 
