@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highpayingaffiliateprograms.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504200014id_/https%3A//www.highpayingaffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highpayingaffiliateprograms.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818131049id_/http%3A//highpayingaffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - High Paying Affiliate Programs
 
@@ -21,8 +21,5 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of  **High Paying Affiliate Programs** then you may contact us at beachroulette@gmail.com.  
-
-
-  *   *   *   *   *   * 
+If you have any questions regarding the privacy policy of  **High Paying Affiliate Programs** then you may contact us at beachroulette @ gmail.com.  
 
