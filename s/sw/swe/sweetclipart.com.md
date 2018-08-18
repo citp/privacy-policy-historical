@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sweetclipart.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622055027id_/http%3A//sweetclipart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetclipart.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818223609id_/http%3A//sweetclipart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Clip Art
 
 **Privacy Policy for** [Sweetclipart.com](http://sweetclipart.com/)
+
+_Specifics added for the GDPR law: [Updated May 2018] I use Google Analytics and Google Adsense on sweetclipart.com and m.sweetclipart.com, and a very limited version of Statcounter. My Google Analytics stats are retained for 14 months then are overwritten. My Statcounter stats are usually retained for about 1-2 days then are overwritten. Anonymous stats are also logged by my hosting account, Hostgator; I keep those logs for up to 1 year. I only use these stats for personal use, such as to analyze keyword trends, traffic, and backlinks, and to prevent abuse of my website (for example, to block bot IP addresses). These stats are mostly anonymous.  _ _I do not collect information that personally identifies any of my visitors, and I do not share my statistics logs with anyone._
 
 If you require any more information or have any questions about this privacy policy, please feel free to contact me at [sweetclipart.com/contact](http://sweetclipart.com/contact).
 
