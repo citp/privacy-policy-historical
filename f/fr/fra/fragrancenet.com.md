@@ -1,191 +1,277 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234524id_/http%3A//www.fragrancenet.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818042947id_/https%3A//www.fragrancenet.com/help/privacy%23privacy) for the most accurate reproduction.*
 
 # Discount Perfume, Cologne & Discounted Fragrances
 
 Privacy & Safety 
 
-At FragranceNet.com, our goal is to make your shopping experience safe, convenient and worry-free. Our privacy and security programs make sure that every transaction made at FragranceNet.com is 100% safe and guaranteed. 
+### Last Updated May 29, 2018
 
 ### Select a 'Privacy & Safety' sub category:
 
-  * Safety
-  * Your Privacy
-  * What information about you do we compile?
-  * What are "cookies" and "action tags" and how are they utilized?
-  * The Website
-  * Information collected from you and our use of it
-  * Facebook Application Privacy Policy
-  * Links
-  * Your Security
-  * How to limit the use of your information from Third Parties
-  * From the Company and its Affiliates
-  * Advertising
-  * Corrections
-  * Your Consent and Changes to this Policy
-  * Your Comments
+  * Introduction
+  * Why do we gather information?
+  * What information do we gather?
+  * How do we collect information from you?
+  * How we use/share the information we collect
+  * Where we store your information
+  * How long we keep your personal information
+  * How your information is secured
+  * How to limit the use of or modify your information
+  * Your California Privacy Rights
+  * What if I choose not to give you my personal information
+  * Links to other web sites
+  * How to contact us
+  * Changes to this privacy policy
 
 
 
-### Safety
+### Introduction
 
-At FragranceNet.com, all of your personal information is protected by our Secure Server Software (SSL) which fully encrypts and protects all of your personal data (name, address, credit card number) so that it cannot be read by anyone over the internet. 
+The FragranceNet.com, Inc. family of brands, recognizes and respects the importance of maintaining the privacy of our customers, registered members, gift recipients and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
 
-back to top
+  * the personal information we may collect from you when you visit our Website, respond to our emails, place orders via mail or fax, use our mobile applications, place orders through social media applications (such as our Facebook App), use our e-Gifting Service or otherwise contact us via telephone, text (SMS, MMS), email, fax or mail (collectively, our "Service"),
+  * why we gather information from you,
+  * how we collect it,
+  * how we use it (including with whom we may share it), and
+  * the choices you have regarding our use of, and your access to and correction of, personal information you have provided.
 
-### Your Privacy
 
-FragranceNet.com, Inc., because it respects the privacy of our customers, has established this Policy for our users and members to maintain their privacy as set forth below. What follows is the explanation of why, what and how we gather information from you. We also describe the way in which we use the information that we gather. There are also mechanisms set forth below on how you can let us know if you wish to limit the use of that information. Our Privacy Policy is part of the website located at www.FragranceNet.com, and governs your use of the website. The Website is owned by FragranceNet.com, Inc. (the "Company"). 
 
-All persons using this website or registering to be a member must be 18 years of age or older. 
+This Privacy Policy is part of the [Terms of Use](https://www.fragrancenet.com/help/terms_of_use), which governs your use of our website located at www.fragrancenet.com as well as the website of our Affiliated Brands linked to this Privacy Policy (the "Website") and the Service. The Service is operated by FragranceNet.com (the "Company"). This Privacy Policy does not cover information you provide to our Company-owned or franchised retail stores.
 
-Since we began on the internet, the Company has always provided our customers and users with the highest caliber of goods, coupled with excellent customer service. We have provided access to useful information about our products and we hope we have created a very pleasant internet experience. We need to retain your personal information to allow us and/or certain third parties to communicate with you. The information is also used to process your orders and provide a more personal experience. We use the information to let you take advantage of promotions and discounts. 
+**Please Note:**
 
-back to top
-
-### What information about you do we compile?
-
-Through our Website and any affiliated websites and emails, all information that you give us whether placing an order, emailing us, joining in a contest, membership and/or promotion or otherwise, is collected by us. We collect the following information: your name, address, telephone number, email address, birth date, billing information (credit card number, expiration date and billing address), products purchased, all appropriate promotion codes and information. If a gift is sent, the recipients' name, address, message and any other information you provide to us may also be collected. 
+You must be 18 years or older and the age of majority in your place of residence to use, subscribe or register as a member. The Service is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under 13 years of age.
 
 back to top
 
-### What are "cookies" and "action tags" and how are they utilized?
+### Why do we gather information?
 
-A "cookie" is a file stored on your computer by a website which identifies you by a particular identification code. This cookie allows us to know that you are a customer and retains information about your use of our website. It also allows us to make certain features available to you. If you wish to stop the use of cookies, you can do so by through the Help Menu on the toolbar of most web browsers. However, the cookies allow you to take full advantage of all features on the website. 
+The Company and the Service gathers personal information mainly to communicate with you and to process your orders, but also to help improve our products and customer service, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from the FragranceNet.com, Inc. family of brands, Company Affiliates (as that term is defined below and in our [Terms of Use](https://www.fragrancenet.com/help/terms_of_use)) and selected third parties.
 
-FragranceNet.com has certain relationships with third parties who may obtain non-personal information from the Cookies that are placed on the website which will assist in analyzing both our customers and our business. The website also uses web-based technology called "Action Tags" which are also referred to as web beacons or single pixel gifs. These Action Tags will anonymously track purchase usage and/or other web activity. Such Action Tags will are sometimes utilized by us or third parties to provide data for the purpose of tracking. In no event does the Action Tags collection or transfer personal information. 
+For individuals in the European Union (“EU”), our processing (i.e. use) of your personal data is justified on the following legal bases:
 
-Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behavior.   
-You can opt-out of interest based advertising by visiting the following websites: 
-
-  * <http://www.networkadvertising.org/choices/>
-  * <http://www.youronlinechoices.com/>
-
+  * the processing is necessary to perform a contract with you or take steps to enter into a contract at your request.
+  * the processing is necessary for us to comply with a relevant legal obligation.
+  * the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities.
+  * you have consented to the processing.
 
 
-We may share data, such as technical identifiers derived from your registration information on our website or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or <http://www.criteo.com/privacy/>. 
 
-back to top
-
-### The Website
-
-On occasion our website may carry advertisements from unrelated third parties. Some advertisements will be personalized to the online activities expressed by such user. You may opt out of receiving such advertising. Such opting out once again relies upon an opt out Cookie. Therefore, if you delete Cookies, you will have to repeat the process of opting out. This also applies should you use a different computer. You may opt out by going to our website clicking on the help menu and then clicking on the "unsubscribe from e-mail promotions" and then enter your e-mail address and click the submit button. Please remember if you opt out, you may still receive advertisements but they will not be delivered based upon the behavior data that is in the possession of the opted out companies. 
+This Privacy Policy applies to all visitors, including EU residents, Additional information on our privacy practices with respect to EU residents in particular can be viewed [here](https://www.fragrancenet.com/help/eu_privacy).
 
 back to top
 
-### Information collected from you and our use of it.
+### What information do we gather?
 
-All information collected from you is used by us to take orders, send emails to you and provide the most efficient and fast internet experience. It allows us to offer you special deals, discounts and promotions. We also make information available (but not credit card numbers or expiration dates, unless consented by you) to third parties including but not limited to, those who trade or rent information for direct marketing purposes. However, we do not make email addresses available to third parties (except to our Affiliates, subcontractors or agents acting on our behalf in compliance with this Privacy Policy) or any Successors to our business unless you have given your consent. If you do not want us to share your information follow the directions set forth below. 
+Depending on how you interact with us, we collect some or all of the following types of information:
 
-In the event we merge, consolidate, sell, or transfer all or substantially all of the assets of our Company by, with, or into another company (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers and users. However, the use of this information by any Successor would still be governed by the terms of this Privacy Policy, as amended from time to time, including any amendment after such transaction. You will continue to have the right to opt-out of sharing your information with third parties. 
+  * your name, address, telephone number, email address, user ID and contact information.
+  * billing information (credit/debit card number, expiration date, CVV code, alternate or additional billing information and billing address).
+  * gender and birth date, if you choose, or are otherwise required to, enter such information, and interests.
+  * products purchased and occasion type (for example, Valentines's Day).
+  * any promotion or gift card code and related information (for example, if you are claiming frequent flyer miles).
+  * Message and gift recipients' names, addresses, telephone numbers and email addresses.
+  * device information - information about your mobile device, including platform information, user identification number and device location.
+  * application information - application information, including which of your applications are used, how your applications are used and the duration of use of your applications.
+  * network information – network information, including IP address, network carrier and country code, browsing information, such as how you interact with the Services.
+  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://www.fragrancenet.com/help/terms_of_use) ).
 
-Information will be disclosed to comply with any law, regulation, governmental or law enforcement request, or judicial process. It will also be disclosed if the disclosure is needed or necessary for the proper operation of our website, including but not limited to the conduct of promotions and contests, etc. Disclosure may also be required to protect our rights, or the rights of our Affiliates, users, customers, etc. 
 
-Any user ID and password used in connection with our website is our property and is to be used by you for your use of our website. Each individual using our website is responsible for maintaining the confidentiality of their password. Since you are responsible for your password, any activities with the use of your password are your responsibility, whether or not authorized by you. We request that you immediately notify us of any unauthorized use of your password or any other information. 
 
-FragranceNet.com, Inc. is operated in the United States. If you are located in the European Union or elsewhere outside the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Website or providing us with your information, you hereby consent to this transfer. In addition, if you provide data to us about other individuals (such as your gift recipients), you agree that you have obtained consent from each such individual to the submission and processing of such information under the terms of this Privacy Policy, including without limitation the transfer of such data to the United States. Although we will collect and use your information only as stated in this Privacy Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions. 
-
-There are certain occasions when ads for our products and services may appear on third-party websites. On some occasions, such websites and services deliver the advertisements based upon a user's past behavior. This is commonly referred to as a targeted advertising, interest based advertising or behavioral online advertising. In general, such advertising is not based upon a user's personal information but upon a user's activities online. 
-
-With respect to such third-party websites, we do not control such third-parties. In addition, since the third-party websites are independent we could not and do not control how they collect and use data about your online activities. You have the ability to opt out and if you do so, you may still receive certain advertisements but they will not be delivered to you based upon the data possessed by third-party companies in which you have opted out. You may opt out by going to our website clicking on the help menu and then clicking on the "unsubscribe from e-mail promotions" and then enter your e-mail address and click the submit button. The process of opting out relies upon an opt out Cookie so if a user should delete all Cookies, you will have to repeat the process. 
-
-There are times when we might combine certain information received from a user on our website, e-mails, regular mail, fax and/or telephone from our affiliates and third parties. This material is utilized to create a better shopping environment and to communicate with you in accordance with our Privacy Policy. It is further to be noted that any personal user information entered on any of our public forums which is set forth in our Terms of Use including, but not limited to, contests, surveys, discussion groups, reviews, etc. are not protected by our Privacy Policy and same may be collected, shared or used by us and third parties, including contacting the user. Any information from a user that is posted on any of our public forums, the user discloses at their own risk. 
-
-Please be advised that we do not share e-mail addresses with third parties without your consent. If there is any additional information that you do not wish to be shared with third parties, please e-mail, write or call us. Any instructions you give us will be processed as soon as practicable and in accordance with the law. 
-
-back to top
-
-### Facebook Application Privacy Policy
-
-FragranceNet.Com, Inc. ("FragranceNet") respects your privacy and values the relationship we have with you. If you use this application it is subject to this Privacy Policy and the Privacy policy of the FragranceNet.com website. Your general use of Facebook and/or your relationship with Facebook is subject to Facebook's Privacy Policy and any other Facebook's terms and policies, which FragranceNet.com does not control. This Privacy Policy describes how we, at FragranceNet.com, may use and share the information we acquire with this application on Facebook. 
-
-#### Information We Collect
-
-Through our Website and any affiliated websites and emails, including Facebook applications, all information that you give us whether placing an order, emailing us, joining in a contest, membership and/or promotion or otherwise, is collected by us. We collect the following information: your name, address, telephone number, email address, birth date, billing information (credit card number, expiration date and billing address), products purchased, all appropriate promotion codes and information. If a gift is sent, the recipients' name, address, message and any other information you provide to us may also be collected. 
-
-#### Information We Receive From Facebook
-
-When you visit the application, it may collect any information you have made visible to "Everyone" on Facebook as well as the information Facebook designates as your publicly available information. This includes your name, profile picture, gender, current city, and networks. The application may ask you to allow it access to additional information. When you allow the application to access additional information, and when you use the application, the application will automatically collect other Information We Receive From Facebook about you. We use this information to operate the application. 
-
-#### Independent Information
-
-The application will ask you to explicitly provide certain information to us. This information may include but is not limited to your first and last name, and email address. We will use this information solely for the purpose of operating the application. As we use Information We Receive From Facebook, your information will not be shared or posted to the wall in any way. We generally use Independent Information for the same purposes as we use Information We Receive From Facebook. If you so elect, you may also opt-in to receive marketing emails from us, subject to our Privacy Policy located at <http://www.fragrancenet.com/f/net/privacy.html>
-
-We generally use Independent Information for the same purposes as we use Information We Receive From Facebook. We also may use Independent Information for other purposes mentioned in our Online Privacy Policy located at <http://www.fragrancenet.com/f/net/privacy.html> which applies to all Independent Information. For further details about Independent Information and our handling of it, please visit our Online Privacy Policy located at <http://www.fragrancenet.com/f/net/privacy.html>
-
-#### How We Share information We Receive From Facebook
-
-We may disclose Information We Receive From Facebook to our affiliates and service providers to the extent permitted by Facebook. We will not provide such information to third parties for their use in marketing their products or services to you without your consent, but we do not control Facebook's own use of content and information it collects in relation to your use of this application. We may share some Information We Receive From Facebook with other users of Facebook, including other users of the application, as described above. 
-
-We may disclose any Information We Receive From Facebook we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. In addition, we may disclose Information We Receive From Facebook when we believe, in our sole discretion, disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity. 
-
-#### Updates To This Privacy Policy
-
-This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice in the Info section of the application's profile to notify you of any significant changes to the Privacy Policy and indicate there and at the top of the Policy when it was most recently updated. 
-
-#### How To Contact Us
-
-If you have any questions or comments about this privacy notice, please contact us by email at [feedback@fragrancenet.com](mailto:feedback@fragrancenet.com)
+Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Other Members do not have the right to view and edit your Address Book entries.
 
 back to top
 
-### Links
+### How do we collect information from you?
 
-We want you to be aware that when you click on links and/or ad banners that take you to third-party websites, you will be subject to the privacy policies and terms of use of those third party websites, not ours. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other website. 
+#### **A. In general.**
+
+We collect information through our Website, emails, mail, fax, telephone, mobile devices and applications and social media applications (such as our Facebook App) including when you:
+
+  * visit our Website and use our Service,
+  * place an order,
+  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and
+  * engage in other activities, services, products and resources we make accessible to our customers, members or users.
+
+
+
+The information may be provided directly to us by you when placing an order or participating in a survey, etc. , or, as is true of most websites, we gather certain information automatically. This information may include internet protocol (IP) addresses, browser type, device information, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends and administer the Website. This information may be collected by us even if an order, registration, or other process is started but not completed or is otherwise cancelled.
+
+#### **B. How we use "Cookies" and "Action Tags."**
+
+A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the Services, such as the shopping basket, may not function properly.
+
+We have relationships with third parties who may collect or receive information directly from the cookies placed by our Service on your computer to assist in analyzing our business and customers.
+
+Our Service may also use a common web technology called "action tags" (also called single pixel gifs or web beacons) to track purchase, usage and other web activity information. Action tags may be used to provide data to third parties for tracking purposes. In addition, third parties may set their own cookies and tags through our Service (such as through interest-based advertising, described below). We do not control such third parties or their privacy practices. If you do not want third parties to be able to use such methods, you should modify your browser settings to limit such access.
+
+#### **C. Interest-based advertising.**
+
+  1. _Our Services_. We collect data from you for use in interest-based advertising when you use our Service. Other companies may serve interest-based advertisements on our Service. We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance ( aboutads.info).
+  2. _Other Services_. Advertisements for our products and services may appear on third party websites around the Internet. Some websites and services deliver these advertisements based upon data that has been previously collected about your past behavior online. For example, if you have viewed websites about gift baskets, these websites or services may display to you an advertisement for our gift baskets. This kind of targeted advertising is sometimes called interest-based or online behavioral advertising. It is generally not based upon your personal information (such as your name or email address), but rather, upon your online activities. We do not control such third party websites or services on which these advertisements appear. Further, we do not control how they collect and use data about your online activities.
+  3. _Consent_. You may opt-out of being tracked online by certain companies who are listed at [www.aboutads.info/choices/](https://web.archive.org/web/20180818042947id_/https%3A//www.fragrancenet.com/help/www.aboutads.info/choices/) OR [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20180818042947id_/https%3A//www.fragrancenet.com/help/www.networkadvertising.org/managing/opt_out.asp) and may also learn more about online behavioral advertising at such websites. If you opt-out, you will still receive generic advertisements, but they will not be delivered to you by such companies from whom you have opted out based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, for each browser and each device, so if you delete your cookies or use a different computer, you will have to repeat this process. We do not respond to or honor "do not track" (a/k/a DNT) signals or similar mechanisms transmitted by web browsers. 
+
+
+
+#### **D. Push Notifications.**
+
+As a user who has downloaded our Company’s mobile application, we may from time-to-time send you push notifications to your device in order to communicate with you and advise you of current offers and promotions. To ensure that you receive timely notification of such communications and promotions, we need to collect certain information from your device as indicated above. If at any time you do not wish to receive these types of communications, you may turn them off at the device level. 
+
+#### **E. Mobile Analytics.**
+
+We use mobile analytics software to allow us to better understand the functionality of our Company’s mobile application on your device. This software may record information such as how often you use the application, the events that occur within the application, usage, performance data, and the source from which the application was downloaded. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application. 
 
 back to top
 
-### Your Security
+### How we use/share the information we collect
 
-If you place an order our Website encrypts your credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer, Firefox or Chrome. However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us. 
+We use information we collect to communicate with you, to process your orders, to improve our products and services (such as by responding to your feedback), to conduct research (such as statistics on favorite -- i.e., most ordered -- products), to provide an enhanced and more personalized shopping experience (for instance, to provide event reminders, such as birthdays), to inform you and your gift recipients of offers and discounts from the FragranceNet.com® family of brands and Company Affiliates, and to enable you to receive credits for purchases under loyalty or buying programs which you have joined.
+
+We may also use your information, as necessary or appropriate in our view, to operate the Service, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in.
+
+We may combine information we receive from you via our Service with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us (for example, by keeping your profile up-to-date) and to communicate with you in accordance with this Privacy Policy.
+
+In addition, as provided below, the Company may use or share your data with both affiliated and unrelated third parties, for the purposes so identified.
+
+**
+  1. Affiliate Data Sharing.
+**
+
+We may provide your information to our Company Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Privacy Policy, they are required to comply with this Privacy Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, FragranceNet.com, Inc.
+
+**
+  2. Sharing with Others.
+**
+
+We may also share your information with our subcontractors, agents, consultants, financial institutions, credit/debit card payment processors, business partners, vendors and service providers, but we generally only authorize them to use such information for our benefit, for instance, to process your order and to better communicate and provide appropriate offers to you and your gift recipient.
+
+In addition, we may make such information (except for credit/debit card numbers, expiration dates and CVV codes, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes.
+
+We may use your information to match it with other public and private data sources (such as the U.S. Postal Service and publicly available consumer data warehouses) or the records of our business partners solely to enhance our records and keep them current (such as by updating your profile with a new address, interests, and the like). We also may work with other third parties who also possess your information in order to engage in advertising and other promotional services, for example, to enhance one or both of our advertising or promotional endeavors.
+
+**
+  3. Change of Business.
+**
+
+We may transfer your information in connection with the sale, lease, license, assignment (of part, or all, of our business), acquisition, merger, reorganization or change of control of the Company, our Affiliates, or the division responsible for the Service with which your information is associated, or as part of a bankruptcy proceeding.
+
+**
+  4. For Legal Purposes.
+**
+
+In certain situations, we may be required to disclose personal data in response to lawful requests from public authorities, including to comply with national security or law enforcement requirements. We reserve the right to disclose information we collect from you, or that you provide to us, as required by law, in response to legal process and law enforcement requests, when we believe, in good faith, that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, respond to a government request, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://www.fragrancenet.com/help/terms_of_use) ).
+
+**
+  5. Social Media.
+**
+
+**Please note that any personal information you reveal or post on one of our public forums (as defined in the[Terms of Use](https://www.fragrancenet.com/help/terms_of_use) ), such as a message board, chat room, blog, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us, and with third parties, including to contact you. Information you provide or post on our public forums, you disclose at your own risk.**
+
+
+
 
 back to top
 
-### How to limit the use of your information from Third Parties
+### Where we store your information
 
-If you prefer not to have us provide personal information about you to third parties (other than our Affiliates, subcontractors, or agents acting on our behalf in compliance with this Privacy Policy), please let us know by either: 
+Our Service is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us may be transferred to, and stored in, the United States. By using the Service or otherwise providing us with information, you hereby consent to this transfer. At times, for orders originating within the EU or UK or being delivered to the EU or UK, we may use third parties located within the EU or UK to process such orders. In so doing, we take steps to ensure those entities will process your information in a manner consistent with this Privacy Policy.
 
-1\. Writing us at:
+Although personal information collected by us through the Service will be used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries.
 
-Customer Service Department  
-FragranceNet.com, Inc.  
+back to top
+
+### How long we keep your personal information
+
+We may retain your information in accordance with our data retention policies and for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements, or until you request us to stop using it. We may, however, keep some of your personal information to ensure that we comply with your request not to use your personal information or comply with your right to erasure. For example, we must keep your request to be erased, even if it includes your personal data, until such time as you are no longer our customer.
+
+If you have questions about our data retention policies, or would like a copy of such, please contact us as noted below.
+
+back to top
+
+### How your information is secured
+
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [feedback@fragrancenet.com.](mailto:feedback@fragrancenet.com)
+
+If you place an order on our Website, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the website is viewed using Microsoft IE®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
+
+Portions of the Service (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Service (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts.
+
+back to top
+
+### How to limit the use of or modify your information
+
+We want to communicate with you only to the extent you want to hear from us.
+
+Any promotional email we send to you (or your gift recipient after consent) will include an “unsubscribe” link to use or a link to opt-out of receiving further promotional emails from the sender.
+
+If you wish to set your preferences concerning promotional communications, or you prefer not to have your personal information shared with third parties, please let us know by contacting us as noted below in the “How to Contact Us” section and identify your preferences regarding promotional communications and the sharing of your contact information. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
+
+back to top
+
+### Your California Privacy Rights
+
+California law permits customers, who are residents of California, to request information about their personal information, if any, that the FragranceNet.com, Inc. family of brands discloses to third parties for the third parties’ direct marketing purposes.
+
+To make such a request, please write to us at:
+
+FragranceNet.com  
+900 Grand Blvd.  
+Deer Park, NY 11729  
+Attn: General Counsel 
+
+If you would like to update or correct information previously provided to us, please contact us as indicated below in the “How to Contact Us” section. Upon your written request, we will provide you with information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe.
+
+Members can directly access, modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page.
+
+back to top
+
+### What if I choose not to give you my personal information
+
+You are not obligated to provide us your personal information. However, if the personal information is necessary in order to supply goods or services to you under a contract or an order between you and the Company and you do not give us your personal information, then we will not be able to enter into that contract or honor that order for goods or services.
+
+back to top
+
+### Links to other web sites
+
+FragranceNet.com, Inc. family of brands, wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party services you will be subject to the privacy policies and [Terms of Use](https://www.fragrancenet.com/help/terms_of_use) of those services, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other service.
+
+We may provide you with the ability to log into our Service using a social media account, such as Facebook Connect. We do not control the activities of such social media services and have no control over the data they collect or their privacy practices. You should review their privacy practices before using any such social media service.
+
+back to top
+
+### How to contact us
+
+The FragranceNet.com, Inc. family of brands welcomes feedback concerning this Privacy Policy. Please send your comments and questions to: [feedback@fragrancenet.com](mailto:feedback@fragrancenet.com)
+
+Please contact us by any method indicated below:
+
+  1. **Email** us at: [privacy@fragrancenet.com](mailto:privacy@fragrancenet.com) from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message;
+  2. **Write** to us at:
+  
+**Customer Satisfaction Department**  
+FragranceNet.com  
 900 Grand Blvd.  
 Deer Park, NY 11729  
 
 
-If you have a catalog, brochure or other mailing label from us, please include it with your request, otherwise just include your mailing address. 
+When contacting us, please include or tell us your mailing address, and if you have a catalog, brochure, email or other mailing label from us, please include it with your request or have it ready when you call.
 
-2\. Or emailing us at [privacy@fragrancenet.com](mailto:privacy@fragrancenet.com) (and include your mailing address). 
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to: [info@fragrancenet.com](mailto:info@fragrancenet.com)
 
-Note: If you opt-out from receiving further promotional emails from us, we will not share your email address with any third parties, including our Affiliates. 
+For further information about our Privacy Policy or our processing of data about you, please contact us at:
 
-back to top
-
-### From the Company and its Affiliates
-
-In addition, if you also prefer not to receive further product information and promotional mailings/emails from us based on information you provided to FragranceNet.com, Inc. please indicate this in your instructions to us and include your mailing address. Any email for which the primary purpose is the advertising or promotion of a product or service will contain contact information/link and a reply email address to which you may reply to opt-out from receiving similar future emails. Please note that your instructions do not govern the use of personal information you may have provided to third party merchants whose products and services may be displayed or accessible on or through the Website. The use of information you have provided to these third party merchants are governed by their privacy polices and terms. Also, your instructions do not apply to "transactional or relationship" email messages which include, but are not limited to, registration, order status, confirmation or reply emails. (These email messages may also contain promotional items and offers however, that is not their primary purpose). 
-
-Your instructions will only apply to our website, not to our Affiliates and their websites. Please refer to the policies and opt-out provisions of those other websites. 
-
-Your instructions to limit the use of your information will be processed as soon as reasonably practicable and in accordance with applicable law. 
+  
+FragranceNet.com  
+900 Grand Blvd.  
+Deer Park, NY 11729 Data Protection Officer – [DPO@fragrancenet.com](mailto:DPO@fragrancenet.com)
 
 back to top
 
-### Advertising
+### Changes to this privacy policy
 
-Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://owneriq.com/opt-out>
+The Company may change this Policy from time to time in the future. Any such changes will be posted here. We advise you to check back frequently to see any updates or changes.
 
-back to top
-
-### Corrections
-
-If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [info@fragrancenet.com](mailto:info@fragrancenet.com)
+By using the Website and the Service, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and [Terms of Use](https://www.fragrancenet.com/help/terms_of_use), of which this Policy is a part.
 
 back to top
-
-### Your Consent and Changes to this Policy
-
-Subject to the above provisions, by using our Website, you consent to the collection and use of information by us and the terms of this Privacy Policy. We may change our Privacy Policy from time to time. We will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like prior notice of changes to the Privacy Policy, email us at [info@fragrancenet.com](mailto:info@fragrancenet.com) from the email address to which you would like notice sent. By using FragranceNet.com, Inc. after such changes and posting, you agree to be legally bound to abide by the changes and other provisions contained in the Privacy Policy. 
-
-back to top
-
-lls 9�Mme Summer"},{"popularity":"19","term":"Blumarine Blugirl Jus De Fleurs"},{"popularity":"19","term":"D & G Light Blue Swimming In Lipari Pour Homme"},{"popularity":"19","term":"Boucheron Quatre"},{"popularity":"19","term":"Fantasy Stage Edition Britney Spears"},{"popularity":"19","term":"Mario Badescu"},{"popularity":"18","term":"All About Eve"},{"popularity":"18","term":"British Sterling Silver"},{"popularity":"18","term":"Dream Angels Divine"},{"popularity":"18","term":"L'Effleur"},{�M
