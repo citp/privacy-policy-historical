@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detectinvisible.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018231123id_/http%3A//detectinvisible.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detectinvisible.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818030856id_/http%3A//detectinvisible.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
