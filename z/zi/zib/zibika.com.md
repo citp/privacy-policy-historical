@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zibika.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526202139id_/https%3A//www.zibika.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibika.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818145036id_/http%3A//zibika.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zibika.com
 
