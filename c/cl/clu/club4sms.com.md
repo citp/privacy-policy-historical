@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the club4sms.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810083407id_/http%3A//solyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club4sms.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818031813id_/http%3A//solyz.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Cloud School Management
+# Privacy Policy – School Management Software
 
 Privacy Policy  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
