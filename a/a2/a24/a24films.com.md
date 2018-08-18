@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a24films.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604012104id_/https%3A//a24films.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a24films.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818085838id_/https%3A//a24films.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A24
 
@@ -8,7 +8,7 @@ Effective Date: June 6, 2017.
 
 This Privacy Policy describes how A24 Films LLC (“ **A24** ,” “ **we** ,” “ **our** ,” or “ **us** ”) collects, uses, and shares information about you and applies to your use of any online service location that posts a link to this Privacy Policy, including our website [www.a24films.com](https://a24films.com/), and all features, content, and other services that we own, control and make available through such online service location (collectively, the “ **Service** ”). This Privacy Policy does not apply to our information collection activities outside of the Service (unless otherwise stated below or at the time of collection).
 
-By using the Service, you agree to our [Terms of Use](https://a24films.com/shop/terms-of-use) and to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. If you do not agree and consent, discontinue use of the Service.
+By using the Service, you agree to our [Terms of Use](https://a24films.com/terms-of-use) and to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. If you do not agree and consent, discontinue use of the Service.
 
 2\. Information Collection.
 
