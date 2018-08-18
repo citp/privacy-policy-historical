@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420082834id_/http%3A//www.edgarcayce.org/about-us/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819012705id_/https%3A//www.edgarcayce.org/about-us/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Edgar Cayce's A.R.E.
 
@@ -6,7 +6,7 @@ Our physical address is:
 215 67th Street  
 Virginia Beach, VA 23451
 
-Use our [Contact Us](https://web.archive.org/content/about-us/contact-us/ "Contact Us") form to send us any issues or feedback, or you can reach us by telephone at 757-428-3588.
+Use our [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us") form to send us any issues or feedback, or you can reach us by telephone at 757-428-3588.
 
 **Website**
 
@@ -26,15 +26,15 @@ If you have purchased one of our apps, your name will not be sold to any other o
 
 **Email**
 
-If you have signed up for our enews and/or placed an order through our catalog and provided your email address, you will receive regular enews updates from us. If you do not wish to receive email from us in the future, please let us know by contacting us at the above postal address or telephone number or by completing our online [Contact Us](https://web.archive.org/content/about-us/contact-us/ "Contact Us") form.
+If you have signed up for our enews and/or placed an order through our catalog and provided your email address, you will receive regular enews updates from us. If you do not wish to receive email from us in the future, please let us know by contacting us at the above postal address or telephone number or by completing our online [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us") form.
 
 On occasion, Baar Products, our official supplier of Cayce Care remedies products, may also send you an email. However, we will not share your email address with any other outside companies or organizations.
 
 **Mailing Address**
 
-If you supply us with your postal address, you may receive periodic mailings from us with information on new products and services or upcoming events, A.R.E. membership, or Support Our Work mailings. If you do not wish to receive such mailings please let us know by contacting us at the above postal address or telephone number or completing our [Contact Us](https://web.archive.org/content/about-us/contact-us/ "Contact Us") form.
+If you supply us with your postal address, you may receive periodic mailings from us with information on new products and services or upcoming events, A.R.E. membership, or Support Our Work mailings. If you do not wish to receive such mailings please let us know by contacting us at the above postal address or telephone number or completing our [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us") form.
 
-In addition to mailings from our organization, you may receive mailings from other reputable like-minded companies. You can, however, have your name put on our “do-not-rent” list by contacting us at the above postal address or telephone number or completing our online [Contact Us](https://web.archive.org/content/about-us/contact-us/ "Contact Us") form. When doing so, please provide us with your exact name and address.
+In addition to mailings from our organization, you may receive mailings from other reputable like-minded companies. You can, however, have your name put on our “do-not-rent” list by contacting us at the above postal address or telephone number or completing our online [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us") form. When doing so, please provide us with your exact name and address.
 
 **Telephone Number**
 
@@ -52,6 +52,6 @@ We always use industry-standard encryption technologies when transferring and re
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us at the above postal address or telephone number or completing our online [Contact Us](https://web.archive.org/content/about-us/contact-us/ "Contact Us") form.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us at the above postal address or telephone number or completing our online [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us") form.
 
-If you feel that this site is not following its stated policy, please contact us at the above postal address or telephone number or complete our online [Contact Us](https://web.archive.org/content/about-us/contact-us/ "Contact Us") form; or contact the DMA's Committee on Ethical Business Practices at ethics@the-dma.org, or contact your state or local chapters of the Better Business Bureau.
+If you feel that this site is not following its stated policy, please contact us at the above postal address or telephone number or complete our online [Contact Us](https://web.archive.org/about-us/contact-us/ "Contact Us") form; or contact the DMA's Committee on Ethical Business Practices at ethics@the-dma.org, or contact your state or local chapters of the Better Business Bureau.
