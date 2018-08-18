@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotchronicle.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330170056id_/http%3A//www.patriotchronicle.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotchronicle.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818214801id_/http%3A//patriotchronicle.com/privacy-2) for the most accurate reproduction.*
 
 # Privacy - Patriot Chronicle
 
@@ -63,6 +63,10 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 Third-party vendors and ad networks serve ads on this site.
 
+Further information related to adsense ads on this site is located here. We are linking to these pages are they are often more up to date.
+
+https://policies.google.com/technologies/partner-sites
+
 Changes to this privacy policy
 
 Patriot Chronicle has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -81,7 +85,7 @@ main@patriotchronicle.com
 
 This document was last updated on February 27, 2015
 
-We welcome complaints pointing out errors that need correction (inaccurate information, grammatical errors, etc). To report a problem use our [Contact Form](http://www.patriotchronicle.com/contact-us/)
+We welcome complaints pointing out errors that need correction (inaccurate information, grammatical errors, etc). To report a problem use our [Contact Form](http://patriotchronicle.com/contact-us/)
 
 * Issue: *  
 
