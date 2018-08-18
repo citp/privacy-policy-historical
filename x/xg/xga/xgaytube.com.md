@@ -1,36 +1,71 @@
-> *The following text is extracted and transformed from the xgaytube.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313013550id_/http%3A//xgaytube.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xgaytube.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818065659id_/http%3A//xgaytube.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# X GayTube - Free Gay Tube
 
-* **Overview**
+## Privacy Policy
 
-Thank you for visiting www.xgaytube.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+##### Introduction
 
-* **What Type of Information We Collect**
+We collect and process your personal information in accordance with this privacy policy. This policy provides you with information regarding our obligations and your rights in compliance with the General Data Protection Regulation (GDPR).
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+##### Information That We Collect From You
 
-We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
+Information that you provide to us directly might include personal information such as your name, email address and other personal details.
 
-* **Uses May Include**
+We may also collect non personal information that may identify you such as location, IP address, browser type, operating system and other details about the device you are using.
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
+##### How we use your personal data
 
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
+We use your personal data to process your request when you contact us by email or through our content removal form. We respect your privacy at all times. Your information will never be disclosed or shared with others without your consent, unless required to do so by law.
 
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
+##### Sharing or Disclosing Your Personal Data
 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
+Whilst we will never disclose or share your data with others without your consent, we use third party processors to provide IT services; these companies will process or store your information on our behalf.
 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
+We ensure all processors acting on our behalf act in accordance with this privacy notice.
 
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+##### Your Rights
+
+Under GDPR you have the right to access personal information that we processes about you.
+
+You can request from us information about - 
+
+  1. The personal data we hold about you
+  2. The categories of personal data concerned
+  3. The purposes of the processing
+  4. Details to whom your personal data has/will be disclosed
+  5. How long we retain your personal data
+  6. If we did not collect the data directly from you, information about the source
 
 
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+You may also request from us the following-
+
+  1. That we update any incomplete or inaccurate data about you
+  2. Request that we delete your personal data in accordance with GDPR
+
+
+
+You may request we action your rights by contacting us by email at cjtubetrader (AT) gmail.com
+
+To ensure your data is protected, if we receive a request from you to exercise your rights, we will ask you to verify your identity before acting on the request.
+
+##### International Transfers
+
+Your personal data may be processed in countries outside your country of residence.
+
+Where these transfers take place, we will ensure the same high standard of protection for your personal data at all times.
+
+##### How Long We Retain Your Data
+
+We only retain personal information for as long as is necessary. For further details on our data retention periods please contact us.
+
+Where you have consented to us to use your details for direct marketing, we will keep this data until you notify us or otherwise withdraw your consent.
+
+##### Cookies
+
+A 'cookie' is a small text file sent from a website and stored on the user’s computer by the user’s web browser. Upon visiting a site that uses cookies, a cookie is downloaded onto your computer or mobile device. The next time you visit that site, your device will remember useful information such as preferences, visited pages or other options
+
+Cookies are widely used to add functionality to websites, or to ensure they work more efficiently. Our site relies on cookies to optimise the user experience and ensure the sites services function properly.
+
+Most web browsers allow some control to restrict or block cookies through the browser settings, however if you disable cookies you may find this affects your ability to use certain parts of our website or services. For more information about cookies please visit [https://www.aboutcookies.org](https://www.aboutcookies.org/).
