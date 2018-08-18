@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306165552id_/https%3A//www.styledrops.com/customers/index/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818210547id_/https%3A//www.styledrops.com/customers/index/6) for the most accurate reproduction.*
 
 # Prada Gucci Tod's Hogan Shoes Handbags and Clothing Made in Italy
 
 ## Privacy policy
 
-**Styledrops is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors.**
+**Information notice pursuant to Art. 13 of the Regulation (EU) 2016/679 (“GDPR”)**
+
+According to art. 13 of the Regulation (EU) 2016/679 (General Data Protection Regulation) we provide you with the due information concerning the processing of your personal data carried out through this website. 
+
+Our data controller is Wolfgang Cecchin for Droplet srl, the company is located in Moncalieri (To), Via Bogino13.
+
+**METHODS OF DATA PROCESSING – DATA RETENTION**
+
+The processing will be carried out with methods and tools aimed at ensuring the best security and confidentiality, by persons specifically appointed to perform such processing activities pursuant to articles 28 and 29 of the Regulation (EU) 2016/679. According to the provisions set forth in art. 5 par. 1 lett. e) of the Regulation (EU) 2016/679, collected personal data shall be kept in a form which permits identification of data subjects for a period not exceeding the purposes for which the personal data were collected and subsequently processed. Data retention periods depend on the purposes of the processing purpose of administrative / accounting / financial management: 10 years as as required by law for the conservation of administrative / accounting / financial documentation.
 
 STYLEDROPS.com is responsible for this privacy policy. Please note, that when you enter any sub-sites accessible through Styledrops.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each STYLEDROPS site.
 
@@ -29,9 +37,10 @@ We implement a variety of security measures to maintain the safety of your perso
 **Do we use "cookies"?**  
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service numbers:  
-**For US customers:**  310-878-9045 (Monday to Friday 8 am - 1.30 pm USA EST)  
-**For International Customers:** +390115096531 (Monday to Friday 2 pm - 7.30 pm CET)
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service numbers:
+
+**For US customers:**  +390115096531 (Monday to Friday 8 am - 1.30 pm USA EST)  
+**For International Customers:** +390115096531 (Monday to Friday 3 pm - 7 pm CET)
 
 **Do we disclose the information we collect to outside parties?**  
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include STYLEDROPS.com. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Styledrops's business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
@@ -42,7 +51,7 @@ However, non-personally identifiable visitor information may be provided to othe
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
 **Changes to our policy**  
-This policy was last modified on September 1, 2003. If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.
+This policy was last modified on May 23, 2018. If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.
 
 **Questions and feedback  
 ** We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
@@ -51,4 +60,6 @@ This policy was last modified on September 1, 2003. If we decide to change our p
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Your consent**  
-By using our site, you consent to our privacy policy. 
+By using our site, you consent to our privacy policy.
+
+ **This privacy policy has been updated on 23/05/2018.**
