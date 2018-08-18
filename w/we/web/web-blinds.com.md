@@ -1,53 +1,71 @@
-> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010112004id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818165726id_/https%3A//www.web-blinds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our privacy policy | Web-Blinds
 
-At Web-Blinds we take protecting your privacy very seriously. Here’s how we make sure your details are secure.
+Taking care of your personal information is as important to us as it is to you. That’s why we take every measure possible to do that carefully and sensitively. This Privacy Notice outlines the way we collect and use your personal information through Web-Blinds and its affiliate sites.
+
+### Personal Data That We Collect
+
+Web-Blinds collects essential data to be able to complete your order. When completing an order with us, we will take your name, billing address, contact telephone number, email address and where applicable, a separate delivery address. Payment details are also taken for orders where payment is required.
 
 * * *
 
-  * What information do we collect and how do we use it?
-  * How do we protect your information electronically?
-  * Who else has access to your information?
-  * What are Cookies?
-  * Where to contact us
+### How We Use Personal Data
+
+Web-Blinds uses the data that we collect to provide you with the product that you have ordered from our website. Your name is taken so we can address our communications to you and also so that your parcel is dispatched for your attention. Your billing address is taken to allow validation of your payment details and where applicable, a delivery address is taken so that the parcel can be delivered to the address that suits you best. We also take a contact telephone number so that we can contact you if there are any problems with your order and we take an email address so that we can send you order notifications and updates and any communications should we be unable to contact you by telephone. Your email address also serves as part of your log in to our order tracking service.
+
+* * *
+
+### Reasons We Share Personal Data
+
+We share your personal data as necessary to complete any transaction or provide any product you have requested or authorised. This data is shared with suppliers and couriers working on our behalf. It is also used when required by law or to respond to legal process, to protect our customers and to protect the rights or property of Web-Blinds. Access to your personal data is limited to information needed to perform these functions and may not be used for other purposes. Furthermore, all personal information is processed in accordance with this Privacy Notice and as permitted by applicable data protection laws.
+
+* * *
+
+### Will I be contacted for marketing purposes?
+
+Web-Blinds will only send you marketing emails where you have agreed to this.
+
+We offer regular emails to let you know about any promotions that may be running along with any new products that we have introduced into our ranges.
+
+Your consent to marketing emails and your email address are never shared outside of Web-Blinds and you can unsubscribe at any stage by clicking on the unsubscribe link in any marketing email you have received from our company.
+
+* * *
+
+### How Secure is Information About Me?
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not reveal any of your credit card details when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+
+We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+
+* * *
+
+### How can I see what information you have about me?
+
+It’s your right under the UK Data Protection Act to ask for a copy of your information.
+
+We’ll need to see two copies of your ID. Valid forms of ID include the following:
+
+  * Passport
+  * Driving licence
+  * Birth certificate
+  * Utility bill (from the last three months)
+  * Current vehicle registration document
+  * Bank statement (from the last three months)
+  * Rent book (from the last three months)
 
 
 
-### What information do we collect and how do we use it?
+To get in touch, email: [dpa.officer@web-blinds.com](mailto:dpa.officer@web-blinds.com)
 
-We collect information when you place an order, request free samples and save a quote – but **we only keep it with your permission**.
+### Or write to:
 
-  * We ask for your email address and phone number to process and deliver your order and to give you a more personal shopping experience.
-  * You don’t have to give us your name, address, telephone and payment details unless you place an order.
-  * We may use your details to tell you about goods and services we think you’ll be interested in from us and the Hillarys group of companies we’re part of – but **we always give you the option to tell us if you don’t want your information to be used in this way**. 
-  * If you want us to **stop sending you information** , just email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com)
-  * We sometimes link to sites not owned by us that we think might interest you. We’re not responsible for privacy or security on these sites.
+The Data Protection Officer   
+Web-Blinds   
+1 Longwall Avenue   
+Nottingham   
+NG2 1NA 
 
+If you wish to make changes to the data we hold, please let us know (using the contact details above) after you have received your copy of your data and we can make alterations or erase the data if appropriate.
 
-
-We use a secure server that encrypts the information you give us. We do not store your card details and all numbers are encrypted when we process your order 
-
-All our staff who have access to your personal data take respecting your confidentiality very seriously.
-
-### Who else has access to your information?
-
-Companies that perform tasks on our behalf such as delivering your packages and processing your credit card payments have access to the information they need to carry out their work – but they can’t use it for any other purposes.
-
-### What are Cookies?
-
-Cookies are small pieces of information sent from our web server to your web browser that enable us to identify you when you visit our website. They don’t contain any personal information, but they do allow us to store your details in the **my account** section of the site.
-
-If you don’t want to accept Cookies you can set up your browser to notify you when you receive one. To find out how to do this, see the help section in your browser toolbar.
-
-### Where to contact us
-
-Any questions or comments about our privacy policy? Just email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com) or call us on **0845 604 9611** if you live in the UK,  **1890 995009** if you live in Ireland or   **44   **115 852 0957** if you live in Europe**
-
-****You can also write to us at:****
-
- **
-
-**web-blinds.com, Unit 2 Churchill Park, Private Road No. 2, Colwick Business Park, Nottingham, NG4 2JR**
-
-**** **
+Of course, you can only request information regarding yourself and no other person.
