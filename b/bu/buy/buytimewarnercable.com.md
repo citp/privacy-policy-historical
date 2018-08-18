@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402225651id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818095703id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buy Time Warner Cable
 
