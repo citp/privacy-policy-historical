@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161231id_/https%3A//unzip-online.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unzip-online.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818073947id_/https%3A//unzip-online.com/en/privacypolicy) for the most accurate reproduction.*
 
 # unzip-online.com | Index
 
