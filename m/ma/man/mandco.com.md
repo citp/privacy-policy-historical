@@ -1,330 +1,210 @@
-> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430065624id_/http%3A//www.mandco.com/customer-service/privacy-and-security/privacy%252C-security-and-cookie-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818194836id_/https%3A//www.mandco.com/customer-service/privacy-and-security/privacy-and-security-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | M&Co ™
+# Privacy Policy | M&Co ™
 
-  * _1\. Using Your Information_
-  * _2\. Cookies_
-  * _3\. Providing Us with Information about Someone Else_
-  * _4\. Dealing with Your Personal Information Safely_
-  * _5\. Shopping Securely_
-  * _6\. Links to Third Party Websites_
-  * _7\. Requesting Information We Hold about You_
-  * _8\. Updating Your Details_
-  * _9\. Log In / Registration Information Usage_
-  * _10\. Contact Information_
+Welcome to M&Co’s privacy notice. M&Co respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below.
 
+Any questions relating to this policy and our privacy practices should be sent to [dataenquiries@mandco.com ](mailto:dataenquiries@mandco.com).
 
-## 1\. Using Your Information
+## 2\. Purpose of this Privacy Notice and Changes to this Privacy Notice
 
-Mackays Stores Limited, trading as M&Co, will use the personal information you supply and information we obtain from other sources to provide you with goods purchased from our website, for marketing, to analyse your purchasing preferences and the refunds and returns you make for service and quality reasons and to ensure that the content, goods and advertising that we offer are tailored to your needs and interests. We may keep your information for a reasonable period for these purposes. We may share your information with our service providers and agents for these purposes.
+This privacy notice aims to give you information on how M&Co collects and processes your personal data through your use of this website, including any data you may provide through this website when you fill in forms on our website, register for an account on our website, sign up for a loyalty card and place an order on our website.
 
-To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
+This version was last updated on 07/05/18. The data protection law in the UK will change on 25 May 2018. Although this privacy notice sets out most of your rights under the new laws, we may not yet be able to respond to some of your requests (for example, a request for the transfer of your personal data) until May 2018 as we are still working towards getting our systems ready for some of these changes.
+
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
+
+This website is not intended for children and we do not knowingly collect data relating to children.
 
 Back to top
 
-## 2\. Cookies
+## 3\. Who We Are and the Personal Information that We Collect From You
 
-A cookie is a small amount of data sent from our server and stored on your computer's hard drive. If you would prefer not to give your consent for us to use cookies you can use your web browser settings to disable them, a quick guide on how to do this is given below. Please be aware that by turning cookies off you may not be able to use all the features of our website.
+We are **Mackays Stores Limited** trading as **M &Co** (Company Number SC036368) (“ **we** ”, “ **our** ” and “ **us** ”). We are data controller of any personal data that you provide us.
 
-### Cookies that are strictly necessary for the operation of the Website:
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
-Some of the cookies we use are essential for parts of the Website to operate and are already set. These are strictly necessary for the sale of products requested by you and without them the Website cannot operate as intended.
+We may collect, use, store and transfer the following kinds of personal data about you:
 
-**Cookie Name**
+**_  \- Identity Data:_** _includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender._
 
-| 
+**_\- Contact Data:_** _includes billing address, delivery address, email address and telephone numbers._
 
-**Purpose**
+**_  \- Financial Data:_** _includes bank account and payment card details._
 
-| 
+**_  \- Loyalty Card Data:_** _includes your loyalty card account details, number of points and points usage._
 
-**Expiry**  
-  
----|---|---  
-  
-locn
+**_\- Transaction Data:_** _includes details about payments to and from you and other details of products and services you have purchased from us._
 
-| 
+**_\- Technical Data:_** _includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website._
 
-Collecting region code and setting user region
+**_\- Profile Data:_** _includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses._
 
-| 
+**_\- Usage Data:_** _includes information about how you use our website, products and services._
 
-Never  
-  
-lang
+**_\- Marketing and Communications Data:_** _includes your preferences in receiving marketing from us and our third parties and your communication preferences._
 
-| 
-
-Collecting language code and setting display language
-
-| 
-
-Never  
-  
-RFID
-
-| 
-
-User reference id + verification hash collected, for the purposes of session control.
-
-| 
-
-Never  
-  
-DWSID
-
-| 
-
-Collects session ID for the purposes of session control.
-
-| 
-
-Never  
-  
-RVI
-
-| 
-
-Collects list of recently viewed items for the purposes of displaying "recently viewed items" panel.
-
-| 
-
-One week  
-  
-vbmprods
-
-| 
-
-Collects list of recently viewed items for the purposes of displaying "recommended items" panel.
-
-| 
-
-One week  
-  
-vbmtracker
-
-| 
-
-Collects recommended items tracking code for the purposes of building "recommended items" data.
-
-| 
-
-One week  
-  
-newCurr
-
-| 
-
-Collects data on currency to rate against in order to provide an exchange rate
-
-| 
-
-One week  
-  
-referid
-
-| 
-
-Referral data to track sites that link to Demandware
-
-| 
-
-2 days  
-  
-httprefer
-
-| 
-
-Referral data to track sites that link to Demandware
-
-| 
-
-2 days  
-  
-Setview
-
-| 
-
-Keeps user's preference for the product information display page.
-
-| 
-
-1 week  
-  
-setViewPerPage
-
-| 
-
-Keeps user's preference for the number of products to view per page.
-
-| 
-
-1 week  
-  
-RSI
-
-| 
-
-Keeps last 3 keyword searches for the purpose of displaying the last 3 key words so users can quickly go back to them.
-
-| 
-
-1 day  
-  
-Tracking tags
-
-| 
-
-Analytical services
-
-| 
-
-Not disclosed  
-  
-dwanonymous_ | Collects session data for non-registered customers | Session  
-dwcustomer_ | Collects session data on registered customers | Session  
-  
-Other uses of cookies:
-
-We also use cookies and other such devices to compile anonymous, aggregated statistics that allow us to understand how users use our Website and to help us improve the structure of our Website (we cannot identify you personally in this way). We use cookies and other such devices to allow us to understand who has seen which pages and advertisements on the Website, to determine how frequently particular such pages and advertisements are visited, to determine the most popular areas of the Website and generally in order to monitor usage of the Website.
-
-### We may also use cookies and other such devices to:
-
-  1. allow you to carry information across pages of our website and avoid having to re-enter information.
-  2. allow you to access stored information within registration.
-  3. help us recognise you as a unique visitor when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.
-  4. speed up searches
-  5. ensure you are not invited to complete a questionnaire too often after you have already done so.
-
-
-
-**Cookie Name**
-
-| 
-
-**Purpose**
-
-| 
-
-**Lifetime**  
-  
----|---|---  
-  
-__utma, __utmb, __utmc, __utmz, _utmv, _utmx cookies
-
-| 
-
-These cookies are used by Google Analytics to gather information about customer usage of our site, such as number of visitors, pages visited, browser, location, keywords searched for and operating system. We use this information to monitor how customers are using the site, such that we can improve customer experience. Information about the site customers came from is also used to measure effectiveness of marketing campaigns. These cookies do not store sensitive information such as your name, payment details etc. More information on Google Analytics cookies can be found at [https://developers.google.com](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet)
-
-| 
-
-30 minutes – 2 years  
-  
-DoubleClick cookie
-
-| 
-
-The double click cookie collects information about the products that you have looked at on our site, which in turns allows to us ensure that any adverts we show you on other sites are as relevant as possible to the products that you are interested in. If you opt out of this cookie, you may still see M&Co adverts online, but these will be generic, and may be of products that are not of interest to you. This cookie does not store sensitive information such as your name, payment details etc. You can opt out of the double click cookie (which will apply to all sites, not just www.mandco.com). Find more information here[http://www.google.com](http://www.google.com/ads/preferences/plugin)
-
-| 
-
-Various – normally 120 days, but we change this based on the effectiveness of marketing campaigns.  
-  
-Affiliate Window Cookies
-
-| 
-
-Occasionally we will reward 3rd party sites for sending you to our site if you make a purchase. These sites are known as affiliates, and the cookies used by them are for the purposes of ensuring that in the event that you make a purchase from us, the appropriate site is rewarded for the sale. The information stored is only regarding the site you came from, and the cost of the items you purchased. These cookies do not store sensitive information such as your name, payment details etc. These cookies originate from a combination of affiliate window (the central partner for all of our affiliates) and us, and more information on exactly how this process works can be found here:[http://wiki.affiliatewindow.com](http://wiki.affiliatewindow.com/index.php/FAQ_Affiliate_Guide#How_does_Affiliate_Window_track_sales.3F)
-
-| 
-
-Various – normally 30 days  
-  
-Criteo
-
-| 
-
-We work with a marketing partner called Criteo who use information collected about the products that you have looked at on our site to ensure that any adverts we show you on other sites are as relevant as possible to the products that you are interested in. If you opt out of this cookie, you may still see M&Co adverts online, but these will be generic, and may be of products that are not of interest to you. This cookie does not store sensitive information such as your name, payment details etc. More information on Criteo, and details on how to opt out, can be found here:[ http://www.criteo.com/privacy/](http://www.criteo.com/privacy/)
-
-| 
-
-13 months  
-  
-Cheetahmail
-
-| 
-
-We work with an email partner called Cheetahmail. The cookies used by us in relation to this are only applicable if you have visited the site through one of our marketing emails (you are subscribed to our email newsletter). The information collected by these cookies is basic information to allow us to measure the effectiveness of our email marketing campaigns, such as pages visited, monetary value of a transaction, and currency of a transaction. This cookie does not store sensitive information such as your name, payment details etc. Further information regarding Cheetahmail can be found here:[www.experian.com/marketing-services](http://www.experian.com/marketing-services/cheetahmail.html)
-
-| 
-
-60 days  
-  
-### Browser settings:
-
-Most internet browsers are automatically set up to accept cookies, but you can set your browser to refuse a cookie or ask your browser to show you where a cookie has been set up. Certain services are only activated by the presence of a cookie and, if you choose to refuse cookies, particular features of this Website may not be available to you. Find out how to disable/enable cookies by clicking on the “Manage Cookies” section of the Interactive Advertising Bureau UK website on the following link [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-We may use Adobe Flash Player to display video or image content. It may not possible to block or restrict flash cookies using your browser settings. However information on how to control flash playerprivacy and security settings is available from the Adobe website at: <http://www.adobe.com/products/flashplayer/security>
+We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
 Back to top
 
-## 3\. Providing Us with Information about Someone Else
+## 4\. How is your personal data collected?
 
-If you provide us with information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data and that you have informed them of our identity and the purposes (as set out above) for which their personal data will be processed.
+We use different methods to collect data from and about you including through:
 
-Back to top
+**_\- Direct interactions:_** _You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:_
 
-## 4\. Dealing with Your Personal Information Safely
+_  \- apply for our products or services;_
 
-We offer the use of a secure server when you provide us with personal information as part of the website user registration process. SSL (the secure server software) encrypts your information before it is sent to us. We also take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+_  \- create an account on our website;_
 
-Back to top
+_  \- sign up for a loyalty card;_
 
-## 5\. Shopping Securely
+_  \- subscribe to our service or publications; _
 
-To ensure that shopping online is secure, your credit/debit details will be encrypted to minimise the possibility of someone being able to read your details as they are sent to us over the Internet.
+_  \- request marketing to be sent to you;_
 
-We take the security of your transaction very, very seriously. All online purchases take place in a safe environment using the latest security technology to protect all of our customers. We encrypt your credit card information to ensure your transactions with us are private and protected whilst online. We accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology - this means you cannot inadvertently place an order through an unsecured connection.
+_  \- enter a competition, promotion or survey; _
 
-In technical terms this means:  
-We use a state of the art payment platform; Customer credit card data is protected with the industry-standard Secure Sockets Layer (SSL) encryption when transferred over the Internet. SSL provides for a variety of encryption technologies including RSA, 3-DES and AES. Credit card details are encrypted with AES before being stored. The production network is partitioned into a proxy server tier, an application server tier, and a database server tier. Servers running at each tier are protected using ipchains/iptables firewalling, which is set to only permit the necessary network traffic and deny and log everything else. The front end of the entire infrastructure is protected with a virtual firewall rack from a company called Inkra (http://www.inkra.com/) which provides additional firewalling and DoS protection.
+_  \- give us some feedback; or_
 
-Back to top
+_  \- engage with us on social media_
 
-## 6\. Links to Third Party Websites
+**_\- Automated technologies or interactions:_** _As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our_[ _cookie policy_](http://www.mandco.com/customer-service/privacy-and-security/cookie-policy/-cookie-policy.html) _for further details._
 
-We link to a wide variety of other sites and are not responsible for the content or privacy policies of these sites, nor for the way in which information about their users is treated. In particular, unless expressly stated, we are not agents for these sites nor are we authorised to make representations on their behalf.
+**_\- Third parties or publicly available sources:_** _We may receive personal data about you from various third parties as set out below:_
 
-Back to top
+_  \- Data from analytics providers; _
 
-## 7\. Requesting Information We Hold about You
+_  \- Data from advertising networks; _
 
-You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. For quality control and training purposes, we may monitor or record your communications with us.
+_  \- Data from search information providers._
 
-Back to top
+_  \- Contact, Financial and Transaction Data from providers of technical, payment and delivery services; and _
 
-## 8\. Updating Your Details
+_  \- Identity and Contact Data from data brokers or aggregators._
 
-If your personal details change, if you change your mind about any of your marketing preferences or if you have any queries about how we use your information, please view our [Help & Support page](https://support.mandco.com/hc/en-us).
-
-Back to top
-
-## 9\. Log in / Registration Information Usage
-
-Please note that we have the ability to retain any data that you provide on this website, even if you do not complete your registration or transaction by clicking “Register” or “Continue”. Such contact details and data may be used to contact you to enquire why you did not complete your registration or transaction or for marketing purposes.
-
-This privacy policy may change and therefore you should review it regularly. We will of course notify you of any changes where we are required to do so.
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases, public or otherwise. By accepting these terms and conditions you acknowledge that such checks will be made. In performing these checks, personal information provided by you may be disclosed to a registered Credit Reference Agency that may keep a record of that information. A record of the decision made is available for us to retrieve for auditory purposes. These checks are performed only to confirm your identity and will leave a specific non-credit footprint. A credit check is not performed and your credit rating will be unaffected by these checks. All information provided by you will be treated securely and strictly in accordance with applicable data protection legislation.
 
 Back to top
 
-## 10\. Contact Information
+## 5\. Providing Us with Information about Someone Else
 
-We welcome your input on our privacy policy. If you have any questions or suggestions regarding our privacy policy, please contact us [here](https://support.mandco.com/hc/en-us/requests/new).
+If you provide us with information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data and that you have informed them of our identity and the purposes (as set out above) for which their personal data will be processed. We may ask you to provide proof of your identity and evidence that you have gained consent from the person that allows you to act on their behalf.
 
-M&Co Customer Services Team  
-ATTN: Privacy  
-5 Inchinnan Drive  
-Inchinnan, PA4 9AF  
- 
+Back to top
+
+## 6\. How we use your personal data
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+ \- Where we need to perform the contract we are about to enter into or have entered into with you;
+
+ \- Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests; and
+
+ \- Where we need to comply with a legal or regulatory obligation.
+
+We usually do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
+
+Generally, we need your information and use the information we collect about you:
+
+ \- to enable us to supply you with products and services that you have requested;
+
+ \- to help us with understanding more about how our website is used;
+
+ \- to be able to send you communications that may be of interest to you, either electronically or otherwise; and
+
+ \- to prevent fraudulent activity.
+
+Back to top
+
+## 7\. Sharing Your Information
+
+The information you provide to us will be treated by us as confidential and will be processed only by our employees within the UK/EEA. We may disclose your information to other third parties who act for us for the purposes set out in this notice or for purposes approved by you, including payment providers and marketing suppliers, who may be based outside of the EEA.
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+Back to top
+
+## 8\. Data Security
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+To ensure that your online data is secure, we do the following:
+
+**  \- Secure Server:** we use a secure server when you provide us with personal information as part of the website user registration process. SSL (the secure server software) encrypts your information before it is sent to us. We also take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+
+**  \- Encryption:** we encrypt your credit/debit details to minimise the possibility of someone being able to read your details as they are sent to us over the Internet.
+
+**  \- Secure Socket Layer (SSL):** we accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology - this means you cannot inadvertently place an order through an unsecured connection. In technical terms this means, we use a state of the art payment platform.
+
+**  \- Encryption Technologies:** We use a variety of encryption technologies including RSA, 3-DES and AES. Credit card details are encrypted with AES before being stored. The production network is partitioned into a proxy server tier, an application server tier, and a database server tier. Servers running at each tier are protected using ipchains/iptables firewalling, which is set to only permit the necessary network traffic and deny and log everything else. The front end of the entire infrastructure is protected with a virtual firewall rack from a company called Inkra (http://www.inkra.com/) which provides additional firewalling and DoS protection.
+
+Back to top
+
+## 9\. Your Rights
+
+You have the right at any time to:
+
+ \- Request access to your personal information (commonly known as a “data subject access request”).  This enables you to receive a copy of the personal information we hold about you and to check we are lawfully processing it. To make a Subject Access Request please fill in our [Subject Access Request Form](http://mandco-online.com/emails/Subject%20Access%20Request%20Form%20-%20MCo.pdf) and send a completed copy to [dataenquries@mandco.com](mailto:dataenquiries@mandco.com).
+
+ \- Request correction of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+
+ \- Request erasure of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below).
+
+ \- Object to processing of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
+
+ \- Request the restriction of processing of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+
+ \- Request the transfer of your personal information to another party.
+
+ \- Withdraw your consent to the processing of your personal information at any time. 
+
+If you wish to exercise any of the rights set out above, please contact [dataenquiries@mandco.com ](mailto:dataenquiries@mandco.com)
+
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+
+Back to top
+
+## 10\. How Long We Will Keep Your Information
+
+We review our data retention periods regularly and will only hold your personal data for as long as is necessary for the relevant activity, or as required by law (we may be legally required to hold some types of information), or as set out in any relevant contract we have with you.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+Back to top
+
+## 11\. Marketing
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can update your communication preferences at any time by contacting our customer services team [customer-services@mandco.com](mailto:customer-services@mandco.com). Registered users can also log in to their online account and update their communication preferences by selecting and unselecting the options found under Edit Profile in the [My Account](https://www.mandco.com/edit-profile) section of this website. All of our email and SMS campaigns contain clear instructions on how to unsubscribe from our marketing communications. An unsubscribe link is conveniently placed at the bottom of all of our marketing emails, in the event that you no longer wish to hear about our offers, promotions and events.
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or purchased products from us, registered for a loyalty card or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have opted in to receiving that marketing. We will also get your express opt-in consent before we share your personal data with other company.
+
+Back to top
+
+## 12\. Opting-Out
+
+You can ask us or our associated third parties to stop sending you marketing messages by contacting us at any time or by unsubscribing from our campaigns via the methods listed above.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of an attempted product purchase on our website, product experience/review or enquiry received by our customer services team.
+
+Back to top
+
+## 13\. Contact Information
+
+We have appointed a Data Protection Officer, who is responsible for overseeing questions in relation to this privacy notice. If you have any questions or suggestions about this privacy notice, including any requests to exercise your legal rights or if would like to make a complaint, please contact the Data Protection Officer using the details set out below.
+
+Online:                                                   <https://support.mandco.com/hc/en-us/requests/new>
+
+Postal address:                                    M&Co Customer Services Team  
+                                                             ATTN: Privacy  
+                                                             5 Inchinnan Drive  
+                                                             Inchinnan, PA4 9AF
+
+This privacy policy was last updated on 24th May 2018.
+
+Back to top
