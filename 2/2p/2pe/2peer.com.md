@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2peer.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813180813id_/http%3A//www.2peer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2peer.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818025506id_/http%3A//www.2peer.com/privacy) for the most accurate reproduction.*
 
 # 2Peer - Privacy Policy
 
