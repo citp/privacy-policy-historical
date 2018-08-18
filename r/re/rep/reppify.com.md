@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reppify.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154848id_/http%3A//reppify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reppify.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819005629id_/http%3A//reppify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reppify
 
@@ -22,7 +22,7 @@ We will not rent, sell, or share personal information about you with other peopl
 
 _Aggregate Information and Non-Identifying Information._ We may share aggregated information that does not include Personal Information and we may otherwise disclose non-identifying Information and Log Data with third parties for industry analysis, demographic and analytical profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
 
-_Service Providers._ We may employ third party companies and individuals to process your payments, facilitate our Service, to provide the Service on our behalf, to perform Services-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services' features) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications by setting the appropriate option in your user profile or by contacting us at [support [at] reppify.com](https://web.archive.org/web/20170606154848id_/http://reppify.com/privacy-policy/support%20\[at\]%20reppify.com).
+_Service Providers._ We may employ third party companies and individuals to process your payments, facilitate our Service, to provide the Service on our behalf, to perform Services-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services' features) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications by setting the appropriate option in your user profile or by contacting us at [support [at] reppify.com](https://web.archive.org/web/20180819005629id_/http://reppify.com/privacy-policy/support%20\[at\]%20reppify.com).
 
 _Reppify Clients._ We will share your Personal Information with Reppify clients requesting your Reppify Score only with your permission. If you have provided your Personal Information to the Services to enable Reppify to generate a Reppify Score for use by employers for employment screening purposes or other uses regulated by the Fair Credit Reporting Act (FCRA), Reppify will not create a Reppify Score about you for a Reppify client requesting your Reppify Score unless Reppify's client completes a certification required by the FCRA. In this certification, Reppify's client certifies to Reppify that the information obtained through the Services is sought to be used for (or to be provided for) employment purposes; tenant screening purposes; purposes related to a business transaction initiated by the consumer; other permissible purposes as defined by the FCRA); and no other purpose, and that it has, to the extent required by applicable law, obtained your informed consent to use such information, including, when applicable, your Personal Information.
 
@@ -32,7 +32,7 @@ _Business Transfers._ We may sell, transfer or otherwise share some or all of it
 
 ## Changing or Deleting Your Information
 
-All registered users may review, update, correct or delete the Personal Information in their registration profile by contacting us at [support [at] reppify.com](https://web.archive.org/web/20170606154848id_/http://reppify.com/privacy-policy/support%20\[at\]%20reppify.com) or by making the appropriate modifications in your user account preferences. If you completely delete all such information, then your account may become deactivated. If you deactivate your account as described in the Terms, we will lock down your Personal Information and will not share or sell it with other Reppify clients or third party providers; however, we may still incorporate non-identifying information into analytics provided for Reppify clients. If you would like us to remove your records from our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record.
+All registered users may review, update, correct or delete the Personal Information in their registration profile by contacting us at [support [at] reppify.com](https://web.archive.org/web/20180819005629id_/http://reppify.com/privacy-policy/support%20\[at\]%20reppify.com) or by making the appropriate modifications in your user account preferences. If you completely delete all such information, then your account may become deactivated. If you deactivate your account as described in the Terms, we will lock down your Personal Information and will not share or sell it with other Reppify clients or third party providers; however, we may still incorporate non-identifying information into analytics provided for Reppify clients. If you would like us to remove your records from our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record.
 
 ## Security
 
@@ -57,6 +57,7 @@ Reppify commits to cooperate with EU data protection authorities (DPAs) and the 
 o Reppify is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC)  
 o Under certain conditions, individuals may be able to invoke binding arbitration  
 o Reppify's liability in cases of onward transfers to third parties are covered here: <https://www.privacyshield.gov/article?id=3-ACCOUNTABILITY-FOR-ONWARD-TRANSFER>  
+o The [Recourse, Enforcement and Liability Principle](https://www.privacyshield.gov/article?id=7-RECOURSE-ENFORCEMENT-AND-LIABILITY) provides that “In the context of an onward transfer, a Privacy Shield organization has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. The Privacy Shield organization shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.”   
 
 
 ## Links to Other Sites
@@ -73,6 +74,6 @@ By using the Services, you agree to the current Privacy Policy and Terms, to whi
 
 ## Contacing Us
 
-If you have any questions about this Privacy Policy, please contact us at [support [at] reppify.com](https://web.archive.org/web/20170606154848id_/http://reppify.com/privacy-policy/support%20\[at\]%20reppify.com).
+If you have any questions about this Privacy Policy, please contact us at [support [at] reppify.com](https://web.archive.org/web/20180819005629id_/http://reppify.com/privacy-policy/support%20\[at\]%20reppify.com).
 
-**Last Updated:** October 28th, 2010
+**Last Updated:** April 25th, 2018
