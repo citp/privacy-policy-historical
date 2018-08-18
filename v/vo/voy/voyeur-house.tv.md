@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voyeur-house.tv privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001081250id_/https%3A//voyeur-house.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voyeur-house.tv privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818113838id_/http%3A//voyeur-house.tv/privacy) for the most accurate reproduction.*
 
 # Privacy policy of VH TV
 
@@ -32,7 +32,7 @@ The Site may contain links to other sites. Please be aware that we are not respo
 
 **Security**
 
-We agree to use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures. We encourage you to contact us if you are interested in learning more about our security measures.
+We agree to use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures. We encourage you to [contact us](https://voyeur-house.tv/support) if you are interested in learning more about our security measures.
 
 **Third Party Sources of Information**
 
@@ -40,7 +40,7 @@ From time to time and in order to enhance our services, we may supplement the in
 
 **Correction/Updating Personal Information**
 
-If a user’s personally identifiable information changes (such as e-mail address), or if a user no longer desires our service, you may contact us to correct or update this information. **Choice/Opt-out**
+If a user’s personally identifiable information changes (such as e-mail address), or if a user no longer desires our service, you may [contact us](http://voyeur-house.tv/support) to correct or update this information. **Choice/Opt-out**
 
 From time to time, we may send our users e-mail or other notices regarding new services, promotions, or other information which may be of general interest. Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us.
 
@@ -52,6 +52,6 @@ If we decide to use your personally identifiable information in a manner materia
 
 **Contact Information**
 
-If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your user name so we can service you quicker.
+If you have any questions about this Privacy Policy, or if you otherwise need to [contact us](http://voyeur-house.tv/support) regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your user name so we can service you quicker.
 
-For voyeur-house.tv and its related sites, please contact us.
+For voyeur-house.tv and its related sites, please [contact us](https://voyeur-house.tv/support).
