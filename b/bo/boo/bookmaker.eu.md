@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmaker.eu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000643id_/http%3A//www.bookmaker.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmaker.eu privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818151240id_/https%3A//www.bookmaker.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bookmaker.eu
 
@@ -16,7 +16,7 @@ We are proud of our reputation for fair play and our technology ensures the secu
 
 Most Web browsers allow use of an SSL connection. If your browser does not support use of an SSL connection, or if you prefer not to send your credit card number over the Internet, you can place your order by calling us toll free at **1-877-827-3978**
 
-For further information on how BookMaker uses, protects and stores information we receive from our site visitors and our customers please do not hesitate to contact our Technical team by sending an email to [cs@bookmaker.eu](mailto:cs@bookmaker.eu).
+For further information on how BookMaker uses, protects and stores information we receive from our site visitors and our customers please do not hesitate to contact our Technical team by sending an email to [contact@bookmaker.eu](mailto:contact@bookmaker.eu).
 
 ## BookMaker Privacy
 
