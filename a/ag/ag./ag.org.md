@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ag.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002010237id_/https%3A//ag.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ag.org privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818094252id_/https%3A//ag.org/Privacy) for the most accurate reproduction.*
 
 # Assemblies of God (USA) Official Web Site | Privacy
 
