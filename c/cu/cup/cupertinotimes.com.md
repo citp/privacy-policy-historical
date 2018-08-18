@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cupertinotimes.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226002126id_/http%3A//cupertinotimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupertinotimes.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818030116id_/https%3A//cupertinotimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cupertino Times
+# Privacy Policy - CupertinoTimes
 
 ### Privacy Policy: CupertinoTimes.com
 
