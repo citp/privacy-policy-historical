@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216052615id_/https%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818043822id_/https%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy and Information on Cookies
+# Privacy Policy | IT Jobs Watch
 
-## Privacy policy and information on cookies
+###  Cookies 
 
-### 1\. Cookies and other information gathering technologies
+The basis on which we use cookies and similar technologies is set out in our [Cookies Policy](https://web.archive.org/cookies-policy) . 
 
-We may collect information regarding your use of the website in order to help us develop the site and our services. This is done through the use of cookies, which enable our system to recognise you when you visit our site. We also use Google Analytics, provided by Google, Inc. Google will use the information they collect about your use of this website to evaluate your website usage, compile reports on website activity for website operators and to provide other related services. 
-
-You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
-
-We also use Google AdSense to serve ads when you visit our site. For more information visit [Google Privacy & Terms](http://www.google.com/policies/technologies/ads/). 
-
-### 2\. The information you send us and how we use it
+###  The information you send us and how we use it 
 
 When you contact us through our website (either by post, phone, email or through electronic forms) we need to know your name and e-mail address. We gather this information to allow us to consider and manage your correspondence. The relevant information is then used by us to process and respond to your correspondence and to communicate with you regarding the provision of our services in general. 
 
@@ -20,16 +14,8 @@ We will not keep your information longer than we reasonably believe is necessary
 
 We also delete any Curriculum Vitae that we receive and are unable to store or forward any such documents to any third party. 
 
-### 3\. How we protect your information
+###  How we Protect your Information 
 
 We have put in place various security procedures in accordance with the Information Commissioner's Office's requirements in order to prevent unauthorised access and ensure the correct use of information. 
 
-### 4\. Your consent
-
-By using this website or by submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. You will be deemed to agree to any such changes should you continue to use our services. 
-
 IT Jobs Watch Ltd is a Data Controller for the purposes of the Data Protection Act - Registration Number Z1386188 
-
-[](https://web.archive.org/)
-
-Copyright © 2004-2017 IT Jobs Watch Ltd. All rights reserved. 
