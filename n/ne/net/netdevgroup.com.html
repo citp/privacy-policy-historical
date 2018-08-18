@@ -1,0 +1,1332 @@
+<!--The following is the downloaded HTML source of the netdevgroup.com privacy policy that was archived on 2018-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180818033009id_/https%3A//www.netdevgroup.com/sitedocs/legal/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>NDG Privacy Policy</title>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/base.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/ndg.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/animate.css">
+    <link href="/static/css/gfont.css" rel="stylesheet" type="text/css">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/static/img/favicon.ico">
+    
+
+    <link rel="stylesheet" type="text/css" href="/static/css/cookieconsent-3.0.6.min.css">
+<script src="/static/js/cookieconsent-3.0.6.min.js"></script>
+
+
+<script>
+  function enableCookies() {
+    // Google Analytics
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-11306725-1', 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview');
+
+    // Mautic
+    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+        m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://mautic.netdevgroup.com/mtc.js','mt');
+
+    mt('send', 'pageview');
+
+    if (typeof MauticSDKLoaded === 'undefined') {
+      var MauticSDKLoaded = true;
+      var head            = document.getElementsByTagName('head')[0];
+      var script          = document.createElement('script');
+      script.type         = 'text/javascript';
+      script.src          = 'https://mautic.netdevgroup.com/media/js/mautic-form.js';
+      script.onload       = function() {
+          MauticSDK.onLoad();
+      };
+      head.appendChild(script);
+      var MauticDomain = 'https://mautic.netdevgroup.com';
+      var MauticLang   = {'submittingMessage': "Please wait..."}
+    }
+  }
+
+  function deleteCookie(cookiename) {
+    var d = new Date();
+    d.setDate(d.getDate() - 1);
+    document.cookie = cookiename + "=" + "" + ";expires=" + d + "; path=/";
+  }
+
+  function disableCookies() {
+    var cookies = document.cookie.split(";");
+    for (var i = 0; i < cookies.length; i++) {
+      var cookiename = cookies[i].split("=")[0].trim();
+      if (cookiename !== 'cookieconsent_status') {
+        deleteCookie(cookiename);
+      }
+    }
+    window.location.reload(true);
+  }
+
+  window.addEventListener("load", function(){
+  window.foo = window.cookieconsent.initialise({
+    type: "opt-in",
+    theme: 'block',
+    position: 'bottom-left',
+    palette: {
+      popup: {
+        background: "#edeff5",
+        text: "#838391",
+        link: '#16a085'
+      },
+      button: {
+        background: "#16a085"
+      }
+    },
+
+    layout: 'ndg',
+    layouts: {
+      ndg: '{{messagelink}} {{explanation}} {{compliance}}'
+    },
+    content: {
+      message: 'This website uses analytics cookies to help us provide you with a better user experience.',
+      deny: 'Decline',
+      href: "/legal/cookies.html"
+    },
+    elements: {
+      explanation: '<strong>Cookies Used</strong> <ul><li>Google Analytics</li> <li>Mautic: Marketing Automation </li> </ul><br/>'
+    },
+    compliance: {
+      'opt-in': '<div class="cc-compliance cc-highlight">{{deny}} {{allow}}</div>'
+    },
+
+    // we use a custom revoke/manage button
+    revokable: false,
+    revokeBtn: '<div class="cc-revoke"></div>',
+    animateRevokable: false,
+
+    onPopupClose: function() {
+      var self = this;
+      $('.cookie-settings').click(function() {
+        self.revokeChoice();
+      })
+    },
+
+    onInitialise: function (status) {
+      var self = this;
+      $('.cookie-settings').click(function() {
+        self.revokeChoice();
+      });
+
+      if (status === 'allow') {
+        enableCookies()
+      }
+    },
+
+    onStatusChange: function(status) {
+      if (status === 'allow') {
+        enableCookies()
+      }
+
+      if (status === 'deny') {
+        disableCookies()
+      }
+    }
+  })});
+</script>
+
+  <style></style></head>
+
+  <body><div class="cc-revoke" style="display: none;"></div><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-floating cc-type-opt-in cc-theme-block cc-bottom cc-left cc-color-override--211595202 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">This website uses analytics cookies to help us provide you with a better user experience. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="/legal/cookies.html" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span> <strong>Cookies Used</strong> <ul><li>Google Analytics</li> <li>Mautic: Marketing Automation </li> </ul><br> <div class="cc-compliance cc-highlight"><a aria-label="deny cookies" role="button" tabindex="0" class="cc-btn cc-deny">Decline</a> <a aria-label="allow cookies" role="button" tabindex="0" class="cc-btn cc-allow">Allow cookies</a></div><!--googleon: all--></div>
+
+    <!-- GO TOP -->
+    <div class="w-hidden-small w-hidden-tiny w-clearfix go-top" data-ix="move-top-btn" style="opacity: 1; transform: translateX(100px) translateY(0px); transition: opacity 400ms ease 0s, transform 400ms ease 0s;">
+      <a class="w-inline-block button btn-top" href="#top">
+        <i class="fa fa-arrow-up"></i>
+      </a>
+    </div>
+    <!-- END GO TOP -->
+
+    <!-- START HEADER -->
+    <header>
+
+      <!-- START NAVIGATION -->
+      <div class="w-nav normal-header" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1">
+        <!--<div id="netlab-alert" class="hidden hidden-sm hidden-xs">
+          <div class="w-row">
+            <div class="w-col na-icon text-center visible-lg">
+              <i class="fa fa-bullhorn"></i>
+            </div>
+            <div class="w-col w-col-11 na-message">
+              NETLAB+ Virtual Edition beta release is now available! <a href="/products/">Learn more about NETLAB+ Virtual Edition.</a>
+            </div>
+            <a class="pull-right na-close">X</a>
+          </div>
+        </div>-->
+        <div class="w-container">
+          <a class="w-nav-brand brand-logo" href="/index.html"><img src="/static/img/ndg_logo.svg" height="45" width="161">
+          </a>
+          <nav class="w-nav-menu w-clearfix nav-menu" role="navigation">
+            <!-- <div class="w-dropdown w-clearfix" data-delay="0" data-ix="move-dropdown-arrow">
+              <div class="w-dropdown-toggle nav-link">
+                <div>NDG Online</div>
+                <div class="w-icon-dropdown-toggle drop-arrow"></div>
+              </div>
+              <nav class="w-dropdown-list drop-down-list">
+                <a class="w-dropdown-link dropdown-link" href="/online/courses/"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;Overview</a>
+                <a class="w-dropdown-link dropdown-link" href="/online/courses/content_list.html"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;All Courses</a>
+                <a class="w-dropdown-link dropdown-link" href="/online/courses/ndg_linux_essentials.html"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;NDG Linux Essentials</a>
+                <a class="w-dropdown-link dropdown-link" href="/online/courses/ndg_introduction_to_linux_1.html"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;NDG Introduction to Linux I</a>
+                <a class="w-dropdown-link dropdown-link" href="/online/courses/ndg_introduction_to_linux_2.html"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;NDG Introduction to Linux II</a>
+              </nav>
+            </div> -->
+            <!-- <a class="w-nav-link nav-link" href="/index.html">Home</a> -->
+            <!-- mega menu -->
+            <div class="w-dropdown w-clearfix" data-delay="0" data-ix="move-dropdown-arrow" style="max-width: 1170px;">
+              <div class="w-dropdown-toggle nav-link">
+                <div>NDG Online</div>
+                <div class="w-icon-dropdown-toggle drop-arrow"></div>
+              </div>
+              <nav class="w-dropdown-list mm-online mega-menu">
+                <div class="w-row">
+                  <div class="w-col w-col-4 w-col-stack mega-tittle">
+                    <div class="element-tittle">
+                      <h5>About</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Overview</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/features.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Features</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/ordering/online_price_quote.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Get Price Quote</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/ordering/price.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Pricing</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/demo.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Instructor Trial Request</div>
+                          </a>
+                        </li>
+                        <div class="w-hidden-medium w-hidden-small w-hidden-tiny" style="height:256px;"></div>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="w-col w-col-4 w-col-stack mega-tittle">
+                    <div class="element-tittle">
+                      <h5>NDG Online Courses</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/courses/course_list.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Course List</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/content/linux/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG Linux Courses</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/courses/unhatched.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG Linux Unhatched</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/courses/ndg_linux_essentials.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG Linux Essentials</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/courses/ndg_introduction_to_linux_1.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG Linux I</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/courses/ndg_introduction_to_linux_2.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG Linux II</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/content/vmita/intro_virtualization.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Introduction to Virtualization</div>
+                          </a>
+                        </li>
+                        <div class="w-hidden-medium w-hidden-small w-hidden-tiny" style="height:220px;"></div>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="w-col w-col-4 w-col-stack mega-tittle with-no-line">
+                    <div class="element-tittle">
+                      <h5>NDG Online Labs</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/lab_list.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Lab List</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/ccna_cyberops.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Cisco CCNA Cyber Ops</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/emc_cis.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG EMC CIS1</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/emc_ism_v2.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG EMC ISMv2</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/ethical_hacking.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG Ethical Hacking</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/forensics.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG Forensics</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/security_plus.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG NISGTC Security+</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/content/paloalto/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Palo Alto Networks</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/content/vmita/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>VMware</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/vsphere_icm_v65.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG VMware vSphere ICM 6.5</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/vsphere_icm_v6.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG VMware vSphere ICM 6</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/vsphere_os_v6.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG VMware vSphere O&amp;S 6</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/labs/vca_dcv_v6.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>NDG VMware VCA DCV 6</div>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </nav>
+            </div>
+            <!-- end mega menu -->
+            <!-- mega menu -->
+            <div class="w-dropdown w-clearfix" data-delay="0" data-ix="move-dropdown-arrow" style="max-width: 1170px;">
+              <div class="w-dropdown-toggle nav-link">
+                <div>NETLAB+</div>
+                <div class="w-icon-dropdown-toggle drop-arrow"></div>
+              </div> 
+              <nav class="w-dropdown-list mega-menu mm-netlab">
+                <div class="w-row">
+                  <div class="w-col w-col-4 w-col-stack mega-tittle">
+                    <div class="element-tittle">
+                      <h5>About</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/products/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Overview</div>
+                          </a>
+                        </li>
+                         <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/products/requirements">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Requirements</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/products/compare.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Compare Versions</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/demo.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Instructor Trial Request</div>
+                          </a>
+                        </li>
+                        
+                        <!-- We don't need this older info accessed here (keep for now in case we rethink this).
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/products/features/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Features</div>
+                          </a>
+                        </li>
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/products/brochures/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Brochures</div>
+                          </a>
+                        </li>
+                        -->
+                        
+                        <div class="w-hidden-medium w-hidden-small w-hidden-tiny" style="height:398px;"></div>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="w-col w-col-4 w-col-stack mega-tittle">
+                    <div class="element-tittle">
+                      <h5>Content</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Content Overview</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/content_list.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Full Content List</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/cnap/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Cisco Networking Academy</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/vmita/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>VMware IT Academy</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/emc/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>EMC Academic Alliance</div>
+                          </a>
+                        </li>
+                         <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/paloalto/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Palo Alto Networks Academy</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/redhat/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Red Hat Academy</div>
+                          </a>
+                        </li>
+
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/cybersecurity/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Cyber Security</div>
+                          </a>
+                        </li>
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/aplus/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>A+</div>
+                          </a>
+                        </li>
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/linuxplus/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Linux+</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/networkplus/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Network+</div>
+                          </a>
+                        </li>
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/windows10/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Windows 10</div>
+                          </a>
+                        </li>
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/generalit/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>General IT</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/content/build/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Build Your Own</div>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="w-col w-col-4 w-col-stack mega-tittle with-no-line">
+                    <div class="element-tittle">
+                      <h5>Ordering</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/ordering/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>How to Order</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/ordering/pricing.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Pricing</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/price_quote">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Price Quote Request</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/ordering/resellers.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Resellers</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/ordering/renew.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Renew Maintenance</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/demo.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-angle-right"></i>
+                          </div>
+                          <div>Instructor Trial Request</div>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <!-- <div class="w-col w-col-3 w-col-stack mega-tittle with-no-line">
+                    <div class="element-tittle">
+                      <h5>Support</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Technical Support</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/faq.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>FAQ</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/documentation/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Documentation</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/tech_support.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Support Request</div>
+                          </a>
+                        </li>
+                        <div class="w-hidden-medium" style="height:288px;"></div>
+                      </ul>
+                    </div>
+                  </div> -->
+                </div>
+              </nav>
+            </div>
+            <!-- end mega menu -->
+            <!-- mega menu -->
+            <div class="w-dropdown w-clearfix" data-delay="0" data-ix="move-dropdown-arrow" style="max-width: 1170px;">
+              <div class="w-dropdown-toggle nav-link">
+                <div>Support</div>
+                <div class="w-icon-dropdown-toggle drop-arrow"></div>
+              </div>
+              <nav class="w-dropdown-list mega-menu mm-support">
+                <div class="w-row">
+                  <div class="w-col w-col-6 w-col-stack mega-tittle">
+                    <div class="element-tittle">
+                      <h5>NDG Online Support</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/support/courses/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Courses</div>
+                          </a>
+                        </li>
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/online/support/labs/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Labs</div>
+                          </a>
+                        </li>
+                        <div class="w-hidden-medium w-hidden-small w-hidden-tiny" style="height:108px;"></div>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="w-col w-col-6 w-col-stack mega-tittle with-no-line">
+                    <div class="element-tittle">
+                      <h5>NETLAB+ Support</h5>
+                    </div>
+                    <div class="space margin-bottom">
+                      <ul class="w-list-unstyled">
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Tech Support: NETLAB AE/PE</div>
+                          </a>
+                        </li>
+                        
+                       <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/netlabve_technical_support.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Tech Support: NETLAB+ VE</div>
+                          </a>
+                        </li>
+                        
+                     <!-- <li> Outdated -
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/faq.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>FAQ</div>
+                          </a>
+                        </li> -->
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/documentation/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Documentation: NETLAB AE/PE</div>
+                          </a>
+                        </li>
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/documentation/netlabve/">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Documentation: NETLAB+ VE</div>
+                          </a>
+                        </li> 
+                        
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/tech_support.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Support Request</div>
+                          </a>
+                        </li>
+                        <!--
+                        <li>
+                          <a class="w-clearfix w-inline-block mega-item-list" href="/support/remote_pc.html">
+                          <div class="li-ico-mega">
+                          <i class="fa fa-question-circle"></i>
+                          </div>
+                          <div>Remote PC Integration</div>
+                          </a>
+                        </li>
+                        -->
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </nav>
+            </div>
+            <!-- end mega menu -->
+            <div class="w-dropdown w-clearfix" data-delay="0" data-ix="move-dropdown-arrow" style="max-width: 1170px;">
+              <div class="w-dropdown-toggle nav-link">
+                <div>News</div>
+                <div class="w-icon-dropdown-toggle drop-arrow"></div>
+              </div>
+              <nav class="w-dropdown-list drop-down-list">
+                <a class="w-dropdown-link dropdown-link" href="https://blog.netdevgroup.com/" target="_blank"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;News/Blog</a>
+                <a class="w-dropdown-link dropdown-link" href="https://twitter.com/netdevgroup/" target="_blank"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;Twitter Feed</a>
+                <a class="w-dropdown-link dropdown-link" href="https://blog.netdevgroup.com/feed/" target="_blank"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;RSS Feed</a>
+                <a class="w-dropdown-link dropdown-link" href="https://www.youtube.com/user/netdevgroup" target="_blank"><i class="fa fa-angle-right"></i>  &nbsp;&nbsp;YouTube Channel</a>
+              </nav>
+            </div>
+            <a class="w-nav-link nav-link" href="/contact_form" style="max-width: 1170px;">Contact</a>
+          </nav>
+          <!-- END NAVIGATION -->
+
+          <div class="w-nav-button hamburger">
+            <div class="w-icon-nav-menu"></div>
+          </div>
+        </div>
+      <div class="w-nav-overlay" data-wf-ignore=""></div></div>
+
+    </header>
+    <!-- END HEADER -->
+
+    
+
+<!-- INNER BANNER -->              
+<div class="inner-banner" id="top" data-ix="show-top-btn">
+  <div class="w-container">
+    <div class="w-row">
+      <div class="w-col w-col-12">
+        <div class="breadcrumb">NDG Privacy Policy</div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END INNER BANNER -->
+
+<section class="section half-p">
+  <div class="w-container">
+    <div class="w-row">
+      <div class="w-col w-col-1 w-hidden-medium"></div>
+      <div class="w-col w-col-medium-12 w-col-10">
+        
+
+<p>
+	Network Development Group, Inc. (“NDG”) is committed to protecting the privacy of
+	personal information provided in connection with the delivery of our online
+	services and online courses and content (collectively, the “Services”)
+	made available at www.netdevgroup.com and/or other web sites owned or
+	controlled by NDG (the “Sites”). This Privacy Policy provides an overview
+	of the terms surrounding use of this information and discloses our information
+	gathering and dissemination practices in connection with the Services. It
+	does not apply to personal information that may be acquired by NDG in other ways.
+</p>
+<h4>Information Collected</h4>
+<p>
+	Users may be required to provide their first and last name, e-mail address, address, student ID, and other
+	information when registering and using the Services. For certain services, NDG reseller FastSpring may
+	require credit card and other payment information, but NDG does not retain credit card information. For
+	information about the Privacy Policy of our credit card processor, <a href="https://fastspring.com/privacy/" target="_blank">
+  please click here</a>. NDG may also collect information
+	regarding your use of the Services, including the results of assessments made through the Services.
+</p>
+<p>
+	If your Services are being provided as part of a course delivered by a school or other third party
+	providing training or education, then your information may be shared with that school or third party.
+	This information is intended for use by your course instructor in compliance with applicable laws regarding
+	privacy of student information and grades.
+</p>
+<p>
+	The Services may contain collaboration tools to allow for group projects and other communications.
+	These tools may allow users to see other users’ personal information including account/student name,
+	lab reservation time, and other information. Any additional personal information that you communicate
+	with other users of the Services through collaboration or communication tools is your own choice.
+</p>
+<p>
+	NDG uses "cookies" to identify users when they are logged into the Services. A cookie is a
+	data file that a web site writes and sends to your computer when you visit the Sites. The
+	Services may not be fully functional unless you accept use of Internet cookies. This
+	information is used to identify who you are when you make a request to the Services.
+	If you allow your browser to accept NDG cookies, a cookie is set and trusted when you
+	return to the Services after visiting an external site. After you log out of the
+	services, the cookie is deleted. We are not responsible for the use of cookies by
+	other web sites that may be accessed through us.
+</p>
+<p>
+	NDG gathers information about its users collectively and logs IP addresses, session sources, and
+	other data that track access to the Sites. We analyze these logs to better understand aggregate
+	behavior and to monitor performance of our Services. The logs are analyzed to ascertain the
+	overall aggregate trends they reveal about our users, but not as a means of tracking the behavior
+	of individual users outside our Sites. This information is used for the purposes of maintaining
+	and improving the Services, and expanding its capabilities.
+</p>
+<h4>Use and Disclosure of Collected Information</h4>
+<p>
+	We do not use or share your personal information with others except as indicated in
+	this Privacy Policy.
+</p>
+<p>
+	NDG will use your personal information to provide the Services to you, alert you of
+	new Services features and enhancements, enhance and test the Services, respond to
+	your support issues, respond to instructor’s questions, and/or notify you of
+	upgrade opportunities, promotions, and special offers. You agree that we may
+	communicate with you via email and similar technologies for any purpose relating
+	to the Sites or the Services.
+</p>
+<p>
+	We take diligent efforts to not divulge user information to unauthorized
+	individuals. We strive to ascertain whether authorized persons are able
+	to access the information correctly and to inform instructors how to access
+	it.
+</p>
+<p>
+	NDG may use aggregate information to determine the demographics of our
+	users and to distribute statistics and general marketplace information
+	about NDG. These demographics will always represent aggregate
+	information and will not identify a specific user.
+</p>
+<p>
+	NDG may disclose your information to NDG third-party partners who
+	provide related products and services. These partners may use your
+	information to issue you a badge for completion of a course or
+	provide your information about related products and services.
+	These partners are required to target their offers carefully.
+	You may withdraw your consent for disclosure of your personal
+	information to these third-party partners by providing notice to
+	NDG at the address or email address noted below.
+</p>
+<p>
+	NDG may also disclose personal information:
+</p>
+<ul>
+	<li>when we have your permission to do so; or</li>
+	<li>
+		to companies who work for NDG to provide one or more parts of the Services or that provide
+		related administrative functions (such as support Services, web analytics, and fraud detection).
+		These third parties may have access to your personal information; if they do, this access is
+		only so that they may perform these tasks on our behalf and they are obligated not to disclose
+		or use it for any other purpose; or
+	</li>
+	<li>
+		when we believe in good faith that disclosure is reasonably necessary to (1) comply with a
+		legal process or law, or to respond to a government request for information, (2) enforce
+		the terms of use or other agreements, (3) respond to claims that any content on the Sites
+		or Services violates the rights of third parties, or that otherwise arise from your use
+		of the Services, or (4) protect the rights, property, or personal safety of NDG, its users,
+		or the public.
+	</li>
+</ul>
+<h4>Children</h4>
+<p>
+	NDG does not knowingly allow children under the age of sixteen (16) to sign up for an
+	account on the Services or to otherwise disclose any of their personal information to
+	us. If you are under 16 years old, please do not use or access our Services. We do not
+	intend to collect information about children under the age of 16. If we later obtain
+	actual knowledge that a user is under 16 years of age, we will take steps to remove
+	that user’s information from our systems. If you are the parent or guardian of a child
+	under 16 whom you believe has disclosed personal information to us, please contact us at
+	<a href="mailto:support@netdevgroup.com">
+		<img src="https://www.netdevgroup.com/static/images/products/images/support_netdevgroup.png" style="margin-bottom: -3px;"></a>
+	, so that we may delete and remove the child’s information from our systems.
+</p>
+<h4>Opt-out</h4>
+<p>
+	We provide you the opportunity to opt-out of receiving certain communications from us,
+	by emailing us at
+	<a href="mailto:support@netdevgroup.com">
+		<img src="https://www.netdevgroup.com/static/images/products/images/support_netdevgroup.png" style="margin-bottom: -3px;"></a>
+	. In addition, all marketing e-mails from NDG will provide you with
+	the opportunity to unsubscribe from future marketing mailings. Even if you opt out of
+	such mailings, however, we reserve the right to send you e-mail and other communications
+	to disclose maintenance and other Services-related issues.
+</p>
+<p>
+	You may also let us know also if you want to opt-out of receiving marketing e-mails from
+	our business partners who have received information about you through our Services. We
+	will use best reasonable efforts to pass along this request to our partners, but it is
+	the sole responsibility of our partners to comply with your request.
+</p>
+<h4>Your Rights</h4>
+<p>
+	You may withdraw your consent for disclosure of your personal information to
+	NDG business partners by providing notice to NDG at the address or email
+	address noted below.
+</p>
+
+<p>
+	You have the right to access and edit, update or delete your personal
+	information by logging onto the Site and accessing your account information
+	through the account profile component of the Services.  You may contact us
+	with any questions or if you need assistance in updating or deleting your
+	personal information.
+</p>
+
+<p>
+	You can ask us for a copy of your personal data in machine readable form.
+</p>
+<h4>Third-party Sites and Services</h4>
+<p>
+	The Sites and Services may contain links and other connections to other web
+	sites, services or internet information. We have no responsibility for the
+	privacy practices of other web sites and services, including the web sites
+	and services of our advertisers or business partners.
+</p>
+<p>
+	The fact that we may link to a website or present an advertisement is not an
+	endorsement, authorization or representation of our affiliation with that
+	third party, nor is it an endorsement of their privacy or information
+	security policies or practices. We do not exercise control over any third
+	party website or service. Other web sites or services may place their own
+	cookies or other files on your computer, collect data or solicit personal
+	information from you. We encourage you to read the privacy policies or
+	statements of the other websites and services associated with the Services.
+</p>
+<h4>Legal Requirements</h4>
+<p>
+	We intend to protect your privacy to the fullest extent possible as described
+	in this policy while also fulfilling our responsibility to uphold all applicable
+	laws and regulations. Due to potential legal requirements and other possible
+	circumstances, we cannot ensure that all of your private communications and
+	other personally identifiable information will never be disclosed or accessed
+	in ways not otherwise described in this policy. We may be compelled under law
+	to disclose information to government or third parties under certain circumstances
+	or third parties may unlawfully intercept or access transmissions or private
+	communications. Further, we can, and you hereby authorize us to, disclose any
+	information to law enforcement or other government officials that we, in our
+	sole discretion, believe necessary or appropriate in compliance with the law
+	and/or government requests.
+</p>
+<h4>United States</h4>
+<p>
+	The Services is hosted in the United States. If you are accessing the Sites
+	or Services from outside the United States, please be advised that through
+	your continued use of the Sites or Services, which is governed by U.S. law
+	and this Privacy Policy, you are transferring your personal information to
+	the United States and you consent to that transfer.  The United States may
+	not have the same data protection laws as your country.  However, to the
+	extent that Regulation (EU) 2016/679, the General Data Protection Regulation
+	(“GDPR”) applies to you, NDG will comply with GDPR.
+</p>
+<h4>Security Measures</h4>
+<p>
+	We have implemented reasonable and industry standard security measures on
+	the Sites to help protect against the loss, misuse and alteration of the
+	personal information under our control. Additionally, NDG takes reasonable
+	steps to ensure that our third party business partners, including our
+	hosting partners, provide sufficient protection for personal information.
+</p>
+<p>
+	You acknowledge that no method of transmission over the Internet, or method
+	of electronic storage, is 100% secure, and that we cannot guarantee absolute
+	security. If you have any questions about security on our Sites and Services,
+	you may contact us.
+</p>
+<h4>Compliance With Laws</h4>
+<p>
+	NDG will take reasonable steps to avoid any violation any privacy rights of
+	users as established by the Family Educational Rights and Privacy Act of
+	1974 (FERPA), and any applicable US state law governing student privacy,
+	and other relevant state, federal, and international laws.
+</p>
+<h4>Changes</h4>
+<p>
+	NDG will post any changes to this Privacy Policy on the Sites. Your continued
+	use of the Sites and Services constitutes your agreement to this Privacy
+	Policy and any future revisions.
+</p>
+<p>
+	If you have any questions or complaints regarding this Privacy Policy,
+	please contact us or write to:
+</p>
+<p>
+	Network Development Group, Inc.<br>
+	PO Box 13169,<br>
+	2 Davis Drive<br>
+	Research Triangle Park, NC 27709<br>
+	<a href="mailto:support@netdevgroup.com">
+		<img src="https://www.netdevgroup.com/static/images/products/images/support_netdevgroup.png" style="margin: 3px 0 0 -3px;"></a>
+</p>
+
+<p>
+	If you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence:
+</p>
+<ul>
+	<li>
+		<a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080" target="_blank">
+			EU Data Protection Authorities (DPAs)
+		</a>
+	</li>
+	<li>
+		<a href="https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html" target="_blank">
+			Swiss Federal Data Protection and Information Commissioner (FDPIC)
+		</a>
+	</li>
+</ul>
+
+<p>Last Revised: May 2018</p>
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+      
+
+
+
+    <footer class="footer">
+
+      <div class="w-container">
+        <div class="w-row">
+
+          <div class="w-col w-col-4 col-footer">
+            <div class="footer-tittle">
+              <img src="/static/img/ndg_logo_light.svg" height="24" width="86">
+            </div>
+            <p class="p-lighter space x1">We develop training solutions that enable learners worldwide to develop IT skills and prepare for rewarding careers.
+            </p>
+            <p class="p-lighter">Our products, <a href="/online/courses/">NDG Online</a> and <a href="/products/">NETLAB+</a>, feature innovative, hands-on training environments where practice leads to success.
+            </p>
+          </div>
+
+          <div class="w-col w-col-4 col-footer">
+            <div class="footer-tittle">
+              <h5>Links</h5>
+            </div> 
+            <div class="space">
+              <ul class="w-list-unstyled">
+              
+                <li>
+                <a class="w-clearfix w-inline-block mega-item-list" href="/about_ndg.html">
+                
+                <div>About NDG</div>                  
+                </a>
+                </li>
+                <li>
+              
+                </li><li>
+                <a class="w-clearfix w-inline-block mega-item-list" href="/online/courses/">
+
+                <div>NDG Online Courses</div>
+                </a>
+                </li>
+                <li>
+                <a class="w-clearfix w-inline-block mega-item-list" href="/online/support/courses/">
+
+                <div>NDG Online Course Support</div>
+                </a>
+                </li>
+                <li>
+                <a class="w-clearfix w-inline-block mega-item-list" href="/products/">
+
+                <div>NETLAB+</div>
+                </a>
+                </li>
+
+                <li>
+                <a class="w-clearfix w-inline-block mega-item-list" href="/support/">
+
+                <div>NETLAB+ Support</div>
+                </a>
+                </li>
+
+                <li>
+                  <a class="cookie-settings w-clearfix w-inline-block mega-item-list" href="#">
+                    <div>Manage Cookie Settings</div>
+                  </a>
+                </li>
+
+                <li>
+                  <a class="w-clearfix w-inline-block mega-item-list" href="/sitedocs/legal/privacy_policy.html">
+                    <div>Privacy Policy</div>
+                  </a>
+                </li>
+
+                <li>
+                <a class="w-clearfix w-inline-block mega-item-list" href="/contact_form">
+
+                <div>Contact</div>
+                </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="w-col w-col-4 col-footer no-line">
+            <div class="footer-tittle">
+              <h5>Contact us</h5>
+            </div>
+            <div class="space x1">
+              <div class="w-row">
+              <div class="w-col w-col-4">
+                <p class="no-space p-lighter"><strong><i class="fa fa-map-marker"></i>&nbsp; Address:</strong></p>
+              </div>
+              <div class="w-col w-col-8">
+                <p class="no-space p-lighter">PO Box 13169<br>2 Davis Drive<br>Research Triangle Park<br>NC 27709 USA</p>
+              </div>
+            </div>
+            <div class="w-row space">
+              <div class="w-col w-col-4">
+                <p class="no-space p-lighter"><strong><i class="fa fa-envelope"></i>&nbsp; Email:</strong></p>
+              </div>
+              <div class="w-col w-col-8">
+                <p class="no-space"><img src="/static/images/email_light.png"></p>
+              </div>
+            </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="bottom-footer">
+        <div class="w-container">
+          <div class="w-row">
+            <div class="w-col w-col-6 w-clearfix">
+              <div class="copyright">
+                <div>
+                  © Copyright <a href="/index.html">Network Development Group</a> 2018.
+                  <a href="/support/legal_notice.html">Legal</a> |
+                  <a href="/legal/cookies.html">Cookie Policy</a>|
+                  <a href="/sitedocs/legal/privacy_policy.html">Privacy Policy</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="w-col w-col-6">
+              <div class="top-right-wrapper">
+                <a class="w-inline-block social-ico footer-soc" href="https://blog.netdevgroup.com/feed/" target="_blank">
+                  <i class="fa fa-rss"></i>
+                </a>
+                <a class="w-inline-block social-ico footer-soc" href="https://www.facebook.com/netdevgroup/" target="_blank">
+                  <i class="fa fa-facebook"></i>
+                </a>
+                <a class="w-inline-block social-ico footer-soc" href="https://twitter.com/netdevgroup/" target="_blank">
+                  <i class="fa fa-twitter"></i>
+                </a>
+                <a class="w-inline-block social-ico footer-soc" href="https://www.youtube.com/user/netdevgroup" target="_blank">
+                  <i class="fa fa-youtube"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </footer>
+
+    
+
+    <script type="text/javascript" src="/static/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="/static/js/jquery.browser.js"></script>
+    <!--[if lte IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.2/jquery.xdomainrequest.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="/static/js/svgeezy.min.js"></script>
+    <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/static/js/jquery.moutheme.js"></script>
+    <script type="text/javascript" src="/static/js/jquery.mixitup.min.js"></script>
+    <script type="text/javascript" src="/static/js/wow.min.js"></script>
+    <script type="text/javascript" src="/static/js/affix.js"></script>
+    <script type="text/javascript" src="/static/js/marked.js"></script>
+    <script type="text/javascript" src="/static/js/default.js"></script>
+    <!--[if lte IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script>
+    <![endif]-->
+
+    <script>
+      $(document).ready(function() {
+        markdown();
+      });
+
+      $("#rha-online-modal").modal();
+      $("#rha-admin-modal-btn").click(function () {
+        $("#rha-student-btn").hide();
+        $("#rha-admin-btn").show();
+        $("#rha-online-modal").modal('hide');
+      });
+      $("#rha-student-modal-btn").click(function () {
+        $("#rha-online-modal").modal('hide');
+      });
+    </script>
+
+    
+
+  
+</body></html>
