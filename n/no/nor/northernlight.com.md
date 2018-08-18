@@ -1,73 +1,88 @@
-> *The following text is extracted and transformed from the northernlight.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412024247id_/http%3A//northernlight.com/docs/acct_help_privacy_long.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northernlight.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818114353id_/https%3A//northernlight.com/privacy) for the most accurate reproduction.*
 
-# Northern Light® Account Help: Privacy Policy
+# Privacy - Northern Light - Machine learning powered knowledge management
 
-|    
-Northern Light® Online Privacy Policy  
-version 2.3
+### Onward Transfers to Third Party
 
-We, Northern Light, have created this privacy policy to describe the information gathering and dissemination practices for this Web site (the "Site"). Please take a moment to read our policy before you use our Site or submit any personal information to us. By using our Site, you are consenting to the information collection and use practices described in this policy as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and update the policy version. The revised policy will apply to all information that we have previously collected as well as information that we store or process on an ongoing basis. Therefore, we encourage you to check the version of our privacy policy whenever you visit this Site for any updates or changes. 
+In the context of an onward transfer, Northern Light has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. The Northern Light shall remain liable under the Privacy Shield if its agent processes such personal information in a manner inconsistent with the principles of the Privacy Shield, unless the Northern Light proves that it is not responsible for the event giving rise to the damage.
 
-  * Visiting Our Website
-  
+### FTC or court order based on non-compliance
 
-  * Information We Collect On-Line and How We Use It
-  
+If Northern Light becomes subject to an FTC or court order based on non-compliance, Northern Light shall make public any relevant Privacy Shield-related sections of any compliance or assessment report submitted to the FTC, to the extent consistent with confidentiality requirements. The Privacy Shield has established a dedicated point of contact for reporting any problems with compliance. The FTC will give priority consideration to referrals of non-compliance with the principles of the Privacy Shield, and will exchange information regarding referrals with any referring state authorities on a timely basis, subject to existing confidentiality restrictions.
 
-  * Strategic Allies
-  
+### Compliance Inquiries and Complaints
 
-  * Links to Other Sites
-  
+Northern Light, and our independent recourse mechanism provider, will respond promptly to inquiries and requests for information relating to the Privacy Shield. Northern Light , and our independent recourse mechanism provider, will respond expeditiously to complaints regarding compliance with the principles of the Privacy Shield.
 
-  * Updating and Access to Your Information
-  
+Northern Light is obligated to arbitrate claims, provided that an individual has invoked binding arbitration by delivering notice to the Northern Light and following the procedures and subject to conditions set forth in the Privacy Shield requirements.
 
-  * Opting Out
-  
+### Third Party Partners and Integrations
 
-  * Questions, Concerns or Complaints
-  
+The Site may contain links to third party the Sites or services, such as third party integrations, co-branded services, or third party-branded services (“Third Party Partners”).  Northern Light does not own or control these Third Party Partners and when you interact with them, you may be providing information directly to the Third Party Partner, Northern Light, or both. These Third Party Partners will have their own rules about the collection, use, and disclosure of information. We encourage you to review the privacy policies of the other the Sites you visit.
 
-  
-**Visiting Our Website**  
-  
-This Site enables users to search divine's Special Collection, a large collection of premium materials including books, magazines, databases, and newswires not available from any other search engine. The Site and our search services may be used by any user, but Special Collection materials generally are made available for a fee on a per document basis or as part of paid subscription. **Information We Collect On-Line and How We Use It**  
-  
-**PERSONALLY IDENTIFYING INFORMATION**  
-Personally identifying information is generally available to us only if you supply it voluntarily through our Web site or in connection with a purchase. For instance, in setting up your Member Account or a Promotional Account, we collect certain types of personal information such as your name, credit card number for Member Accounts, and e-mail address. For our corporate or Enterprise Accounts, we collect information such as name, phone number, fax number, company address, industry type, and number of potential users, related to the particular authorized user for billing and reporting purposes for the corporate account holder. Other information that identifies you personally may be collected by us through comments or suggestions submitted through our site. We do not collect any additional information from third parties.
+### Your Rights
 
-You are required to establish an account in order to fully access and purchase Special Collection materials or other pay-per-view content. Any personal information that you share with Northern Light® will be used for limited internal purposes, including processing your transactions, customer service, marketing, development, content processing, content classification and providing you with information regarding our services, and our monthly newsletter. Please note that if you do not wish to receive our monthly newsletter, you can opt out. With Member or Promotional Accounts, we do not share your name, e-mail address, credit card numbers, mailing address, purchasing history or any other personal identifying information that is collected from this Site with any third parties, except as necessary to process your transactions. However, you should be aware that for certain co-branded sites, some information may be shared with a Strategic Ally as further described below. For Enterprise Accounts, personal information such as the user name or identification and purchasing history may be shared with the Enterprise Account holder. 
+You may exercise any of the rights described in this section by sending an email to privacy@NorthernLight.com. Please note that we may ask you to verify your identity before taking further action on your request.
 
-We reserve the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, our employees, customers, or the public.
+  * Managing Your Information.  If you have created an Account, you may access and update some of your information through your Account settings. You are responsible for keeping your personal information up-to-date.
+  * Rectification of Inaccurate or Incomplete Information.  You have the right to ask us to correct inaccurate or incomplete personal information concerning you (and which you cannot update yourself within your account).
+  * Data Access and Portability. In some jurisdictions, applicable law may entitle you to request copies of your personal information held by us. You may also be entitled to request copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format and/or request us to transmit this information to another service provider (where technically feasible).
+  * Data Retention and Erasure.  We generally retain your personal information for as long as is necessary for the performance services we provide you from the Site to comply with our legal obligations.  We may store your personal information for longer periods for our own purposes including improving the performance of the Site and other items described above.  If you no longer want us to use your information to provide the Site, you can request that we erase your personal information and close your account. Please note that if you request the erasure of your personal information: 
+    * We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend an account for fraud or safety reasons, we may retain certain information from that account to prevent that user or customer from opening a new account in the future.
+    * We may retain and use your personal information to the extent necessary to comply with our legal obligations. For example, Northern Light may keep some of your information for tax, legal reporting and auditing obligations.
+    * Information you have shared with others (e.g., forum postings) may continue to be publicly visible on the Site, even after your account is cancelled. However, attribution of such information to you will be removed. Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers.
+    * Because we maintain redundant copies of the Site to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time.
+  * Withdrawing Consent and Restriction of Processing.  Where you have expressly provided your consent to the processing of your personal information by Northern Light you may withdraw your consent at any time by deleting your Account settings or by sending a communication to Northern Light specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally, in some jurisdictions, applicable law may give you the right to limit the ways in which we use your personal information, in particular where (i) you contest the accuracy of your personal information; (ii) the processing is unlawful and you oppose the erasure of your personal information; (iii) we no longer need your personal information for the purposes of the processing, but you require the information for the establishment, exercise or defense of legal claims; or (iv) you have objected to the processing pursuant to Section 5.6 and pending the verification whether the legitimate grounds of Northern Light override your own.
+  * Objection to Processing.  In some jurisdictions, applicable law may permit you to legally object to Northern Light’s processing. In these instances, you may require Northern Light not to process your personal information for specific purposes even where such processing is based on legitimate interest. If you object to such processing Northern Light will no longer process your personal information for these purposes unless we can demonstrate a legal basis for doing so or such processing is required for the establishment, exercise or defense of legal claims. At any time, regardless of applicable law, you may object to us processing your personal information for direct marketing purposes. You may, at any time, ask Northern Light to cease processing your data for these direct marketing purposes by sending an e-mail to [privacy@NorthernLight.com](mailto:privacy@NorthernLight.com).
+  * Lodging Complaints.  With respect to GDPR, you have the right to submit complaints about the data processing activities carried out by Northern Light before the appropriate commission in your jurisdiction.  Please seek your own legal counsel or appropriate government agency for instructions.  For complaints unrelated to GDPR, nothing in this Privacy Policy is intended to limit your right to file a complaint in the appropriate jurisdiction.
 
- **E-MAIL ADDRESSES**  
-We collect e-mail addresses as part of providing services. We may send you e-mails from time-to-time for customer service or our own marketing purposes. In limited circumstances, your e-mail address may be shared with our Strategic Allies, where Northern Light's technology is used to power the searches for the Web site of another company, as described further below. Except as is described in this policy, we will not disclose your email address to any third party without your consent. If you do not want us or one of the Strategic Allies listed below to contact you about any promotional opportunities you can let us know by opting out. **INFORMATION FROM CHILDREN**  
-We do not intend, and this site is not designed, to collect personal information from children under the age of 13. If you are under the age of 13, you should not provide information on this Site, and should ask a parent to do so for you. Member and Enterprise Accounts are only available for individuals that are 18 years old or older. **AGGREGATE AND "CLICK STREAM" INFORMATION**  
-We collect aggregate information about you and your use of our services, whether you have an account or not. For instance, we may collect various forms of click stream information such as IP address information, entry and exit points for our Site (i.e., referring URLs or domains), search terms, site traffic, page views, impressions, and operating system and browser type. Such aggregate information generally will not personally identify you or be correlated to you. If we do correlate any aggregate information to you specifically, we will do so for our internal use only and will not disclose such information to any third party. We may collect, compile, store, publish, promote, report, sell, or otherwise disclose or use any and all aggregate information, provided that, such information does not personally identify you. **COOKIES**  
-We may make use of "cookies" on our Site or those of our Strategic Allies. Cookies are small text files that are stored on a user's computer by the Web server through a user's browser. A cookie itself is not designed or intended to read any information from your computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of the site based on information stored in the cookie or host server. Therefore, cookies allow us to automate access and data entry functions of our Site such as login information, correlate online ordering information for purchases you may make while at the Site (if any), tailor the Site to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track usage of the Site to determine those areas of the Site which are useful or popular and those that are not thereby enabling us to improve and update the Site effectively. 
 
-You may adjust your Web browsers to either alert you of the use of cookies or refuse to accept cookies entirely. For Internet Explorer or AOL users, you can click on the "Start" button and then select Control Panel, Internet Options and the Security tab. If you click on the "Custom" button, you will be able to see the cookie options. For Netscape users, in the browser, select File, Preferences and then Advanced to view the cookie options. Be aware that if you elect not to accept cookies, some parts of the Site may not function properly or permit access.
 
-  
-**Strategic Allies**  
-  
-We have entered into a variety of strategic relationships with other organizations, such as those listed on our [Allies Page](https://web.archive.org/enterprise/clients.html), often to provide Northern Light's search and content technology. As part of our service, we may provide aggregate information for accounting purposes to our Strategic Allies. In addition, we may be required in limited circumstances to share some personal information with a Strategic Ally for certain custom sites or other specialty service offerings. Such sites and services typically are maintained under a different or sub-level domain name (e.g., usgovsearch.com or usgovsearch.northernlight.com). For such specialty sites or services, we will notify you as to whether personal information is shared with our Strategic Ally in a separate privacy policy on that specialty site or service. Therefore, whenever you access a new domain or sub-domain name or see a specialty site or service containing the Northern Light® name or logo and that of a third party, you should refer to the privacy policy for that site since its terms may vary from this policy.
+In compliance with the Privacy Shield Principles, Northern Light commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Northern Light at:
 
-In no event will we share any credit card or similar financial information that we collect from our Site with our Strategic Allies. Any personal information that is shared with a Strategic Ally is considered confidential information to be held in confidence by us and the Strategic Ally, and will not be sold, used or otherwise disclosed to a third party.
+[privacy@northernlight.com](mailto:privacy@northernlight.com)
 
-  
-**Links to Other Sites**  
-  
-A link from our Site to another site does not imply endorsement of that site. We do not control the sites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review all terms and conditions that apply to any site you access from our Site.   
-**Updating and Access to Your Information**  
-  
-You can update your account information, get a refund, review your transactions, close your account or log out of your account by clicking on the [Accounts](http://standard.northernlight.com/cgi-bin/acctsrvc.pl) button on the left hand side of the home page. After you enter your username and password, you will come to your personal information screen. Click on the Update Accounts button to update and access your account.    
-**Opting Out**  
-  
-If you are an account holder, and do not want us or any Strategic Ally to send you promotional material (material other than your billing statements and account information), you can either close your account.    
-**Questions, Concerns or Complaints**  
-  
-If you have any question about our Site, you should consult our [FAQ](https://web.archive.org/web/20030412024247id_/http%3A//northernlight.com/docs/gen_help_faq.html). If you have further questions or any concerns or complaints about how your personal information is used, please go to our [Questions and Comments](https://web.archive.org/web/20030412024247id_/http%3A//northernlight.com/docs/gen_help_comments.html) page and send us an email. 
+Northern Light Privacy Department  
+One Constitution Center  
+Boston, MA 02129
 
-|  | 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+### Unsubscribe or Opt-Out
+
+All users and/or visitors to the Site have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to the Site please send an email that you wish to unsubscribe to unsubscribe@northernlight.com.  If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+
+### Operating Globally
+
+To facilitate our global operations Northern Light may transfer, store, and process your information within our organization and facilities and to third party service providers based in countries in Europe or the United States. Laws in these countries may differ from the laws applicable to your Country of Residence. For example, information collected within the EEA may be transferred, stored, and processed outside of the EEA for the purposes and bases described in this Privacy Policy. Where we transfer, store, and process your personal information outside of the EEA we have ensured that appropriate safeguards are in place to ensure an adequate level of data protection.
+
+  * EU Model Clauses.  If your information is shared with corporate affiliates or third party companies or service providers outside the EEA, we have, prior to sharing your information with such corporate affiliate or third party company or service provider we have a reasonable basis for believing the third party company has an adequate level of data protection. This agreement may incorporate the basis of the EU Model Clauses (a set of clauses issued by the European Commission).
+  * California Privacy Rights.  California law permits users and customers who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those third parties. See the “Contact Us” section for where to send such requests. Northern Light does not share personal information with third parties for its own direct marketing purposes without your prior consent. Accordingly, you can prevent disclosure of your personal information to third parties for direct marketing purposes by withholding consent.
+
+
+
+### Security
+
+We are continuously implementing and updating administrative, technical, and physical security measures to help protect your information against unauthorized access, loss, destruction, or alteration. Some of the safeguards we use to protect your information are firewalls and data encryption, and information access controls. If you know or have reason to believe that your account credentials have been lost, stolen, misappropriated, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact us following the instructions in the Contact Us section below.
+
+### Changes to this Privacy Policy
+
+Northern Light reserves the right to modify this Privacy Policy at any time in accordance with this provision. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Site and update the “Last Updated” date at the top of this Privacy Policy. We will also provide you with notice of the modification by email at least thirty (30) days before the date the changes become effective. If you disagree with the revised Privacy Policy, you may cancel your Account and stop using the Site. If you do not cancel your Account before the date the revised Privacy Policy becomes effective and stop using the Site, your continued access to or use of the Site will be subject to the revised Privacy Policy.
+
+### Links to Other Web Sites
+
+The Site does contain links to affiliate and other websites. Northern Light does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by the Site.
+
+### How to Contact Us
+
+If you have any questions or concerns regarding the Privacy Policy Agreement related to the Site, please feel free to contact us at the following email, telephone number or mailing address.
+
+Email: [privacy@northernlight.com](mailto:privacy@northernlight.com)
+
+Telephone Number:    617 515-5771
+
+Mailing Address:
+
+Northern Light Privacy Department  
+One Constitution Center  
+Boston, MA 02129
