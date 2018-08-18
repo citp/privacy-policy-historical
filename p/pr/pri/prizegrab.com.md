@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629113923id_/http%3A//prizegrab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818160731id_/https%3A//prizegrab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 REVISION DATE: 05/24/15
 
-Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20170629113923id_/http://prizegrab.com/privacy/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
+Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20180818160731id_/http://prizegrab.com/privacy/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
 
 ### Collection of Information.
 
@@ -22,7 +22,7 @@ As is true of most websites, we gather certain information automatically and sto
 
 We may use Google Analytics on parts of our Website. If you prefer to not have your data used by Google Analytics you may visit the Google Analytics [opt-out page ](https://tools.google.com/dlpage/gaoptout)and install the add-on for your browser.
 
-The third party advertisers, vendors and ad networks may also use cookies to show advertisements to you. These third-party vendors may include Google DoubleClick, Media.net, and/or other ad networks. Each network uses cookies to enable it to serve ads to you based on your visit to our Website and/or other websites on the Internet. You may opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](https://web.archive.org/web/20170629113923id_/http://prizegrab.com/privacy/aboutads.info) at any time.
+The third party advertisers, vendors and ad networks may also use cookies to show advertisements to you. These third-party vendors may include Google DoubleClick, Media.net, and/or other ad networks. Each network uses cookies to enable it to serve ads to you based on your visit to our Website and/or other websites on the Internet. You may opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://optout.aboutads.info/#!/) at any time.
 
 ### Sharing Information With Third Parties.
 
@@ -61,7 +61,3 @@ We may decide to change this Privacy Policy from time to time. When we make mate
 ### Questions and Contact Information.
 
 If you have any questions or comments regarding this privacy policy or the use of personal data, please contact us at PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 
-
-NO PURCHASE NECESSARY. A purchase of payment of any kind will not increase your chances of winning. You do not need to click ads in order to enter or win. Void where prohibited. Sponsored by Prizegrab.com. See [Official Rules](https://web.archive.org/rules). 
-
-The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with PrizeGrab.com and do not sponsor or endorse any sweepstakes. 
