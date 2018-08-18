@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knightfrank.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/legals/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knightfrank.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818175724id_/https%3A//www.knightfrank.com/legals/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Legals | Knight Frank
 
@@ -14,7 +14,7 @@ This Privacy Statement applies to the use and processing of Personal Information
 
 The phrases “Knight Frank”, “us” or “we” shall, when used herein, mean those members of the Knight Frank Group on behalf of and in respect of whom this Statement is made.
 
-By using the Knight Frank websites and/or mobile applications or otherwise providing your Personal Information to Knight Frank, you agree to the collection, use and sharing of your information in accordance with this Privacy Statement. Please read this Privacy Statement carefully and [contact us](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/contact#/) if you have any questions.
+By using the Knight Frank websites and/or mobile applications or otherwise providing your Personal Information to Knight Frank, you agree to the collection, use and sharing of your information in accordance with this Privacy Statement. Please read this Privacy Statement carefully and [contact us](https://web.archive.org/web/20180818175724id_/https%3A//www.knightfrank.com/contact#/) if you have any questions.
 
 Personal information is information, or any combination of separate pieces of information, that could be used to identify you.
 
@@ -128,7 +128,7 @@ For example, we may rely on a 3rd party service provider to:
 
 Where permitted by law, we combine Personal Information about you that Knight Frank has collected with Personal Information about you that a business partner has collected so we can jointly send tailored promotional communications to you. In such instances, our business partner will not be permitted to use Knight Frank data or the combined data for its own, independent marketing purposes. Our service provider will only be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you. If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or through this Privacy Statement as indicated above.
 
-Please click [here ](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/legals/form.aspx)for how to obtain a list of Knight Frank third party service providers
+Please click [here ](https://web.archive.org/web/20180818175724id_/https%3A//www.knightfrank.com/legals/form.aspx)for how to obtain a list of Knight Frank third party service providers
 
 ### Other situations
 
@@ -175,7 +175,7 @@ To the extent provided for by applicable law, you have certain rights in respect
 
 We take steps to keep your personal information accurate. Many Knight Frank programs provide access to view or update personal information you provided when you registered online. Check where you registered to learn if you can view or update your information there.
 
-If information access and update are not available where you registered, [ click here ](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/) to select your country and to learn how to access and/or update the personal information you provide to Knight Frank. Knight Frank does not charge for this service and responds to reasonable requests in an appropriate timeframe.
+If information access and update are not available where you registered, [ click here ](https://web.archive.org/web/20180818175724id_/https%3A//www.knightfrank.com/) to select your country and to learn how to access and/or update the personal information you provide to Knight Frank. Knight Frank does not charge for this service and responds to reasonable requests in an appropriate timeframe.
 
 ### Data Deletion
 
