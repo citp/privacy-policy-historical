@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arklowgolflinks.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115131456id_/http%3A//www.arklowgolflinks.com/component/content/article/36-general/456-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arklowgolflinks.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818174147id_/http%3A//www.arklowgolflinks.com/component/content/article/36-general/456-privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
