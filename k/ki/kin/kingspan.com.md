@@ -1,34 +1,38 @@
-> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221900id_/https%3A//www.kingspan.com/group/website-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818163222id_/https%3A//www.kingspan.com/group/website-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy | Kingspan Group | Kingspan | Group
 
-Please read this privacy notice carefully as it sets out how Kingspan Holdings (Ireland) Limited and its affiliates (“ **Kingspan”** ) use your personal information. When you use our website, Kingspan Holdings (Ireland) Limited and the affiliates of Kingspan Holdings (Ireland) Limited that own the part of the website which you are accessing shall act as joint data controllers who processes your personal data. [Click here to access a list of those affiliates of Kingspan Holdings (Ireland) Limited.](https://www.kingspan.com/group/legal-entities)
+This page was last updated on 13/08/2018. Whenever this Notice is changed in a material way, you will be notified.
 
-If you have any questions about this privacy notice or do not agree with it, please contact us at [admin@kingspan.](mailto:admin@kingspan.ie)[com](mailto:admin@kingspan.com) or on +353 (0) 42 969 8000 before using this website. The [Terms and Conditions of  Website Use ](https://www.kingspan.com/group/terms-conditions)explain the terms on which you are allowed to use our website www.kingspan.com, which provides a gateway to our products and services, as well as lots of other useful information. 
+Please read this privacy notice carefully as it sets out how Kingspan Holdings (Ireland) Limited and its affiliates (“ **Kingspan”** ) use your personal information. When you use our website, Kingspan Holdings (Ireland) Limited and the affiliates of Kingspan Holdings (Ireland) Limited that own the part of the website which you are accessing shall act as joint data controllers who processes your personal data. Click here to access a list of those [Data Controllers](https://www.kingspan.com/group/data-controllers) and contact details for them. If you have any questions about this privacy notice, please contact us at [admin@kingspan.](mailto:admin@kingspan.ie)[com](mailto:admin@kingspan.com) or on +353 (0) 42 969 8000 before using this website. Our [Terms and Conditions of  Website Use ](https://www.kingspan.com/group/terms-conditions)explain the terms on which you are allowed to use our website www.kingspan.com, which provides a gateway to our products and services, as well as lots of other useful information. 
 
 Kingspan manufactures insulation and building envelope systems, allowing our customers to create world-class, high performing buildings in all sectors. Kingspan processes your personal data in accordance with data protection laws in the countries in which it operates. 
 
-We may change this privacy notice from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. 
+We may change this privacy notice from time to time by updating this page. We recommend that you should check this page from time to time to ensure you are happy with any changes. However, if these changes have a relevant impact on the way we process your personal data, we will inform you.  
 
-#### What is personal information?
+**What is personal information?**
 
-"Personal information" is information that identifies or makes identifiable an individual, which we collect when you use this website.  If you provide personal information of another person, please make sure that you have the right to share that information with us.
+"Personal information" is information relating to an identified or identifiable individual which we collect when you use this website. When using this website, it is important that you provide us with only your own personal information and ensure that the personal information you provide is accurate and up to date. Please note that you will be responsible for any inaccurate, third party or false personal information that you provide to us.
 
-#### What information do we collect?
+**What information do we collect?**
 
-When you use this website, please bear in mind that we may record: 
+When you use this website, and subject to your consent to the use of cookies as the case may be, please bear in mind that we may record: 
 
   * the areas of the website that you visit; 
-  * your activity on the website, such as products viewed, resources that you download and any information you provide to us; and 
-  * information about your computer, such as which browser you are using, your network location and the type of connection you are using (e.g. broadband, ADSL etc) and your IP address. 
+  * your language preferences;
+  * the campaign/URL from where you came to the website;
+  * your activity on the website, such as products viewed, resources that you download and any information you provide to us, including transcripts of any communications with you via online chat;
+  * information about your computer, such as which browser you are using, your network location and the type of connection you are using (e.g. broadband, ADSL etc) and your IP address; and
+  * technical and other information that does not personally identify you.
 
 
 
-We do this by using cookies. [See our document about Cookie Policy & Control ** __** for more information on what a cookie is and how we use them on our website.](https://www.kingspan.com/group/cookie-policy-control)
+We do this by using cookies. See our document about [Cookie Policy & Control ** __**](https://www.kingspan.com/group/cookie-policy-control)for more information on what a cookie is, how we use them on our website and how you can de-activate certain cookies.
 
-When you, amongst other activities, set up a user account, submit an online enquiry, request information from us, register for a newsletter, or register for an event, we may ask for some or all of the following information: 
+When you, amongst other activities, set up a user account, submit an online enquiry, request information from us, register for a newsletter, or register for an event, we may ask for some or all of the following information, in addition to such additional information as you may volunteer: 
 
-  * your name; 
+  * your name;
+  * account password;  
   * role;
   * company name; 
   * email address; 
@@ -38,67 +42,89 @@ When you, amongst other activities, set up a user account, submit an online enqu
 
 
 
-Once you create and log in to your user account for, or submit information through our website we will know who you are and your activities on this website and information about you and/or your company may be recorded on our systems.
+Once you create and log in to your user account for, or submit information through our website we will know who you are and you acknowledge that your activities on this website and information about you and/or your company may be recorded on our systems which includes cloud-based systems.
 
-Some mandatory information is required and you’ll see that indicated by a star (*), but other information is optional and if you don’t want to give it to us, don’t worry.  But it will help us to respond to your enquiry.
+Some mandatory information is required and you’ll see that indicated by a star (*), but other information is optional and if you don’t want to give it to us, don’t worry.  But it will help us to respond to your enquiry. If you don't provide mandatory information, we may refuse to accede to the request for which this information was requested. 
 
-We may also collect your personal data from telephone calls and/or other interactions with you.    
+You hereby agree with the collection of personal data as described above. 
 
-#### What do we do with the information we collect? 
+**What do we do with the information we collect?  **
 
-We use this information for many purposes. 
+We use this information for the purposes listed below:
 
-The main purpose for which we use this information is to provide you with the website and our products and services (whether available via the website or offline). We also use the information for: 
+  * to comply with our legal obligations;
+  * to investigate and respond to potential violations of law or of our website policies as well as to potential breaches of our or relevant third parties' systems and networks;
+  * to identify you and communicate with you, including communicating electronically via online chat;
+  * to provide you with this website and our products and services (whether available via the website or offline);
+  * to provide you with a user account;
+  * to keep internal records;
+  * to develop products and services;
+  * to develop our website;
+  * to fulfill your requests and answer your queries or complaints;
+  * for market research and to assess marketing strategies and campaigns;
+  * if you already are a customer or other contact of ours, to update our information about our contact with you on our customer relationship management system;
+  * to deliver our own products and services to you;
+  * to market our own products and services to you; through means such as newsletters and invitations to events; and
+  * sending information to contractors, distributors, merchants and retailers outside of Kingspan, so that they can contact you about their promotions, services, events and other activities in relation to Kingspan products and services (this purpose will only apply where you have given us your explicit consent).
 
-  * internal record keeping; 
-  * product and service development; 
-  * developing our website;
-  * fulfilling your requests and answering your queries or complaints; 
-  *  market research;
-  * if you are a customer or other contact of ours, updating our information about our contact with you on our customer relationship management system; and 
-  * marketing our own products and services to you. 
 
- 
 
-#### Marketing
+You acknowledge and confirm your acceptance for Kingspan to process your personal data for the purposes listed above.
+
+**Marketing**
 
 We would like to provide you with information about Kingspan’s products and services, and other information from Kingspan, which we think you may find interesting. We may send you such information by post, email, and/or telephone if you agree we can or unless you have asked us not to do so (see below). 
 
-If you are a customer of ours or you have previously asked us for information on our products and services, we may send you information by email unless you have asked us not to do so (see below).  
-We do not provide your personal information to external organisations (i.e. to merchants, distributors and retailers, which are outside of Kingspan) for their own direct marketing or other purposes without your explicit consent. 
+We do not provide your personal information to external organisations (i.e. to contractors, merchants, distributors and retailers, which are outside of Kingspan) for their own direct marketing in relation to Kingspan products and services without your explicit consent. 
 
-If at any time you do not want your information used for direct marketing purposes by a Kingspan company, please contact the relevant Kingspan company from which you have received marketing so that they can unsubscribe you from their marketing lists. If you have received email marketing from a Kingspan company and decide that you no longer wish to receive marketing emails from them, you will usually also be able to opt out of receiving further email marketing from them by following an unsubscribe link in the email, or by such other means as we may communicate to you.  Please note that as we do not as a group operate a global marketing database which means we are unable to unsubscribe you from marketing from all Kingspan companies centrally.
+If at any time you do not want your information used for direct marketing purposes by a Kingspan company, please contact the relevant Kingspan company from which you have received marketing so that they can unsubscribe you from their marketing lists. If you have received email marketing from a Kingspan company and decide that you no longer wish to receive marketing emails from them, you will be able to opt out of receiving further email marketing from them by following an unsubscribe link in the email, or by such other means as we may communicate to you.  Please note that as we do not as a group operate a global marketing database which means we are unable to unsubscribe you from marketing from all Kingspan companies centrally.
 
-#### Who do we share this information with? 
+**Who do we share this information with?  **
 
-As well as Kingspan Holdings (Ireland) Limited  (the Kingspan website operator) your personal information may be processed by the relevant affiliate of Kingspan Holdings (Ireland) Limited that owns the part of the website which you are accessing.  Thus, we may disclose your personal information to affiliates of Kingspan Holdings (Ireland) Limited or (if you have so permitted) third parties located in countries other than your own.   [Click here to access a list of those affiliates of Kingspan Holdings (Ireland) Limited.](https://www.kingspan.com/group/data-controllers)  Please bear in mind that the countries to which your personal data is sent/accessed from may have a different standard of data protection than the country in which you are situated. However, we have put in place protections to ensure that your information is safeguarded.
+As well as Kingspan Holdings (Ireland) Limited  (the Kingspan website operator) your personal information may be processed by the relevant affiliate of Kingspan Holdings (Ireland) Limited that owns the part of the website which you are accessing. Click [here](https://www.kingspan.com/group/data-controllers) to access a list of those affiliates of Kingspan Holdings (Ireland) Limited and the countries in which they are located.  
 
-Where organisations outside of Kingspan provide you with a service on our behalf (e.g. sending you a piece of literature that you have requested from us), we may share your personal information with those organisations who will only use the information to provide the relevant service. However, we will retain control of your personal information and any third party service provider that we use must act in accordance with our instructions. We may also share your personal information with a purchaser or potential purchaser of our business.
+We may disclose your personal information (if you have so permitted) to third parties located in your country and in countries other than your own, in due compliance with applicable laws. If we have your explicit consent, we may provide your personal information to external organisations (i.e. to contractors, merchants, distributors and retailers, which are outside of Kingspan) so that they can contact you about their promotions, services, events and other activities in relation to Kingspan products and services without your explicit consent.
+
+Please bear in mind that the countries to which your personal data is sent/accessed from may have a different standard of data protection than the country in which you are situated. However, we have put in place protections to ensure that your information is adequately protected. If you wish to know more about the protection we have put in place to keep your information safe, please contact our [Data Controllers.](https://www.kingspan.com/gb/en-gb/data-controllers)
+
+Where organisations outside of Kingspan provide you with a service on our behalf, or help us provide the service to you (e.g. sending you a piece of literature that you have requested from us or helping us respond to your request regarding the technical operation of the website), we may share your personal information with those organisations who will only use the information to provide the relevant service. However, we will retain control of your personal information and any third party service provider that we use must act in accordance with our instructions and protect the confidentiality and security of the personal information as appropriate. We may also share your personal information with a purchaser or potential purchaser of our business.
 
 In some circumstances, we may have to disclose your personal information by law, because a court or the police or other law enforcement agency has asked us for it.
 
-#### Retention of your information 
+**Retention of your information**
 
 We only retain your personal information for as long as is necessary for us to use your personal information as described above or to comply with our legal obligations.
 
-Where your personal information is processed with your consent (e.g. for the marketing purposes), such personal information is retained until you revoke the consent for such processing.
+Where your personal information is processed with your consent (e.g. for the marketing purposes), such personal information is retained until you revoke the consent for such processing, or until the time limit dictated by law is reached.
 
-#### Your rights, how to get copies of or amend the information we have collected and how make a  complaint.
+**Your rights, how to get copies of or amend the information we have collected and how make a complaint.**
 
-You may request details of the personal information that we hold about you under data protection laws. If you would like a copy of the information held about you please make your request to the relevant Kingspan company. If you think any information held by a Kingspan company about you is incorrect or incomplete, please write to the Kingspan company as soon as possible and they will delete, block, correct or update any information as soon as they can.
+You may request details of the personal information that we hold about you under data protection laws. If you would like a copy of the information held about you please make your request to the relevant [Kingspan company.](https://www.kingspan.com/group/data-controllers)
 
-If you wish to make a complaint about an alleged breach of the law, we ask that you send us your complaint in writing to [admin@kingspan.](mailto:admin@kingspan.ie)[com](mailto:admin@kingspan.com).  We endeavour to respond to complaints within a reasonable period (usually 30 days).  
+You may oppose the processing of your personal data when there are legitimate grounds to do so, provided that there is no legal obligation for us to carry out this processing, and provided that this right of opposition has not been excluded by an express clause in the document authorising this processing. For the avoidance of doubt, processing for marketing purposes may always be opposed.
 
-#### Security
+If you think any information held by a Kingspan company about you is incorrect, incomplete or is being processed improperly, please write to the [Kingspan company](https://www.kingspan.com/group/data-controllers) as soon as possible and it will delete, block, correct, update or cease to process any information subject to the terms provided for by the law.
+
+If you wish to make a directive about the handling of your personal information after your death, please let us know and we will oblige.
+
+If you wish to make a complaint about an alleged breach of the law, we ask that you send us your complaint in writing to the Kingspan company in question at the address shown [here](https://www.kingspan.com/group/data-controllers). We will respond to complaints and implement any remedies subject to the terms provided for by the law.
+
+S **ecurity**
 
 Kingspan is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures where relevant to safeguard and secure the information we collect. 
 
 If at any point you suspect or become aware of a security incident (e.g. your password for accessing your registered account on this website is stolen or you receive suspicious communication from someone holding themselves out to be a Kingspan employee or from a dupe website claiming to be affiliated with Kingspan), please forward the communication to us or report the incident by email to [admin@kingspan.](mailto:admin@kingspan.ie)[com](mailto:admin@kingspan.com) or in writing to Kingspan Holdings (Ireland) Limited, Dublin Road, Kingscourt, Co Cavan, A82 XY31 Republic of Ireland as soon as possible. 
 
-#### Linking to other websites
+**Linking to other websites**
 
-Our website or marketing email messages sometimes include links to other third party websites which are not within our control. Once you have left our website/marketing email message, we cannot be held responsible for the content of these third party websites or the protection and privacy of any information which you provide to those websites. You should exercise caution and look at the privacy policy applicable to the website in question. 
+Our website or marketing email messages sometimes include links to other third party websites which are not within our control. Once you have left our website/marketing email message, we cannot be held responsible for the content of these third party websites or the protection and privacy of any information which you provide to those websites. You should exercise caution and look at the privacy notice / policy applicable to the website in question.
 
-We use cookies on our website www.kingspan.com. To find out more about the cookies we use, or to change your cookie preferences i.e. to remove your consent to our use of certain categories of cookies, please visit our [Cookie Policy & Control](https://web.archive.org/group/cookie-policy-control) page.
+**Consent**
 
-Please click "Accept and close" to accept the use of cookies on our website. If you do not click "Accept and close" but continue to use this website: you thereby consent to the use of all Kingspan's cookies and third party cookies for the purposes of improving performance, improving functionality and audience measurement, in accordance with the terms laid out in our [Cookie Policy & Control](https://web.archive.org/group/cookie-policy-control) page; and we will assume that you have read and understood our [Cookie Policy & Control page](https://web.archive.org/group/cookie-policy-control).
+By using, or continuing to use, this website and / or providing your personal information after having reviewed this website, you will have consented to the terms and conditions presented to you in this privacy notice, so that the joint data controllers may continue to process said information unless and until you oppose to one or more of the purposes indicated above or revoke your consent therefor or altogether according to the terms and conditions herein. 
+
+We use cookies on our website www.kingspan.com. To find out more about the cookies we use, or to change your cookie preferences i.e. to remove your consent to our use of certain categories of cookies, please visit our [Cookie Policy & Control](https://www.kingspan.com/group/cookie-policy-control) page. 
+
+Please click "Accept and close" to accept the use of cookies on our website. If you do not click "Accept and close" but continue to use this website: you thereby consent to the use of all Kingspan's cookies and third party cookies for the purposes of improving performance, improving functionality and audience measurement, in accordance with the terms laid out in our [Cookie Policy & Control](https://www.kingspan.com/group/cookie-policy-control) page; and we will assume that you have read and understood our [Cookie Policy & Control](https://www.kingspan.com/group/cookie-policy-control) page.
+
+The Cookie Policy & Control and Website Privacy Notice were updated on 13 August 2018.
