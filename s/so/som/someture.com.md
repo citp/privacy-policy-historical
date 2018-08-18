@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the someture.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330085520id_/http%3A//someture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the someture.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818174659id_/http%3A//sometag.club/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
