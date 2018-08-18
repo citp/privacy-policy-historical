@@ -1,63 +1,55 @@
-> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203015423id_/https%3A//www.tafford.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818024849id_/https%3A//lydiasuniforms.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Security - Lydiasuniforms
 
-### Information Collection and Use
+LydiasUniforms.com values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. Lydiauniforms.com recognizes that it must maintain and use customer information responsibly. Complying with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a subscriber is under the age of 13 and has signed up without prior verifiable parental consent, we will remove his or her personally identifiable information from our files.
 
-At Tafford, we are committed to taking appropriate measures to ensure that all information you provide us is handled in accordance with this policy. The information you provide to us is used to process your order, service your account, facilitate your transactions with our third party marketing partners, and to improve our site's content and functionality and enhance your experience as a consumer, as further described below.
+The statements above describe the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, please call us at 800.942.3378 or send an e-mail to customerservice@lydiasuniforms.com. You may also write to us at:
 
-### Order Information
+Lydia’s Professional Uniforms  
+2121-E Distribution Center Dr.  
+Charlotte, NC 28269
 
-We request information from you as part of the order process, which requires you to provide contact information (such as your name and shipping address) and financial information (such as your credit card number and expiration date). All this information is used for billing purposes and to fill customer orders. If we have trouble processing an order, your contact information is used to get in touch with you.
+If our information practices change in the future, we will let you know by posting the policy changes on our website or by communication directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
 
-### Personal Information
+### SECURITY STATEMENT
 
-The information you provide is used to process and bill your orders and contact you when any problems are encountered. We may also send you information about our company's new services and special offers unless you elect not to receive such offers. We do not share email addresses for this purpose.
+Protecting the safety of your credit card information is important to us. We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. SSL is the gold standard in Internet encryption technology, which is a fancy way of saying that it is a highly sophisticated method of scrambling data as it travels from your computer to our website’s servers. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from “http” to “https.” If you’re not quite comfortable shopping online, or would prefer to make your purchase via telephone, just gives us a call at 800.942.3378. Our customer service representatives would be happy to take your LydiasUniforms.com order right over the phone
 
-### How We Use Email
+### GENERAL BROWSING
 
-When you provide us your email address, we may send you emails necessary to process your order, respond to a request, provide customer service, or promote products or services. For example, after you place an order at tafford.com, you will receive an email confirmation and, in most cases, an email with package tracking information. It is our intent to send promotional emails only to those persons who wish to receive them. We provide instructions on how to unsubscribe in each promotional email and within the "Contact Us" section of the Privacy Policy on the Tafford web site.
+LydiasUniforms.com gathers navigational information about where you go on our website. This information allows us to see which areas of LydiasUniforms.com are most visited and helps us better understand our customers’ experience at LydiasUniforms.com. This helps us improve the quality of visitors’ online shopping experiences by recognizing and delivering more of the features, services, and products our visitors prefer. Additional non-personally identifiable information (i.e. domain type, browser version, service provider, and IP address) may be collected which will provide information regarding your use of our website (such as the time of your last visit to a page on our site).
 
-### Cookies
+### COLLECTION, DISCLOSURE, AND USAGE OF PERSONAL INFORMATION
 
-A cookie is a small piece of data stored on a user's computer in the form of a text file. We use cookies in our system to provide a full featured user experience as well as to aid in other tracking capabilities. Use of a cookie is in no way linked to any personally identifiable information while on our site. For instance, our site will use an encrypted cookie that will allow the user to establish a logged in session. Once their session is established they will not need to re-log in there-after while browsing the site. The user's login credentials, such as their password, are not stored and are not vulnerable to compromise. We take all precautions to secure all account information. A user has complete control over a site's ability to create and store cookies. If, through browser settings or internet security software, the user disables the use of all types of cookies, the user may not be able to successfully complete an order on our web site.
+We do not provide e-mail addresses to third parties. However, if you purchase merchandise through LydiasUniforms.com or if you are added to our catalog mailing list, your name and mailing address will be added to the Lydia’s print catalog mailing list and database. Please be aware that we sometimes make our print catalog customer mailing and shipping lists available to companies whose products you may find of interest.
 
-We also use pixel tags - tiny graphic images - to tell us what parts of our Web site you have visited or to measure the effectiveness of our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us. We may also contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf.
+From time to time, we may also send you email to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience. If you make a purchase online or over the phone, we may also send you notice about our products, services and promotions through postal mail.
 
-### Log Files
+To serve you better, we may combine information you give us online and in our store as well as information about your product interests and purchase. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, and promotions that may be of interest to you. If you do not want us to use your information as described above, please contact customer service by calling 800.942.3378 or email customerservice@lydiasuniforms.com
 
-We use IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie in our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. However, we have no access to, or control over, these cookies.
+### TRANSFER OF INFORMATION
 
-### Data Sharing
-
-We share aggregated demographic information with our partners and advertisers. We may use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. When a customer enters an order on our website, we will share names, or other contact information that is necessary for the third party to proceed the services mentioned above. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or a legal process served on our website. We may also share information as explained above under the "Personal Information" section.
-
-### Links
-
-This web site contains links to other sites. Please be aware that Tafford is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
-
-### Security
-
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When you place an order with us, you are using our secure e-commerce server and secure server software (SSL). This means that all of the information you enter is encrypted before we receive it. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just "surfing". While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, our employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
-
-### Contact Us
-
-If you have any questions about the security at our website, wish to opt-out as described above under the "Personal Information" Section, or if you prefer not to receive catalogs or other communications from Tafford, please contact us at:
-
-CustomerService@tafford.com
-
-Please note that if you opt-out after we have provided your contact information to third parties for the purposes described above in "Personal Information," such opt-out will only apply to our handling and disclosure of your information and will not apply to those third parties to whom your information has already been provided. If you wish to no longer receive offers from such third parties, we suggest that you contact them directly. Moreover, as indicated in the Personal Information section, if you opt-out and later accept an offer from an advertiser or one of our third party marketing partners, we will share your information with that specific third party. Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because mailings are planned in advance, it may take several weeks for your request to become effective. If, due to human error, you continue to receive unwanted communications, please contact us again and we will make every effort to correct the situation as soon as possible.
-
-### Correction/Updating Personal Information
-
-If a user's personally identifiable information changes (such as your address), we will endeavor to provide a way to correct or update that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting our Customer Service Center.
-
-### Notification of Changes
-
-If we decide to change our privacy policy, we will prominently post a link to those changes on our Homepage so our users are always aware of what information we collect, how we use it, and the circumstances, if any, under which we disclose it. It is important to remember that by using our site or making any purchases from us, you agree t the terms of this privacy policy, including any changes that we may make from time to time.
-
-### Transfer of Information
+If another entity acquires us or substantially all of our assets, the personally identifiable information and non-personally identifiable information we have about you will be transferred to and used by this acquiring entity. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such, may be sold or transferred to third parties.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes. Any changes will be effective immediately upon posting of the revised policy. If you are concerned about how your information is used, you should check back at our Website periodically (we will maintain a last-updated date at the bottom of this web page). WHEN YOU USE OUR SERVICES, YOU AGREE TO THIS POLICY. IF YOU DO NOT AGREE TO THIS POLICY, OR TO ANY CHANGES WE SUBSEQUENTLY MAKE, IMMEDIATELY STOP USING OUR SERVICES.
+
+### LIST REMOVAL INSTRUCTIONS
+
+If you would like your name and email address removed from our email list, please e-mail us at customerservice@lydiasuniforms.com. If you would like to be removed from our catalog mailing list, please send your full name, address as it is printed on the catalog, and catalog keycode to customerservice@lydiasuniforms.com.
+
+You may also call 800.942.3378 or write to: 
+
+Lydia’s Professional Uniforms  
+2121-E Distribution Center Dr  
+Charlotte, NC 28269
+
+### USE OF COOKIES
+
+A cookie is a small data file that websites often store on your computer’s hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you’ve visited. We use cookies but do not store personally identifiable information in your cookie. We use cookies in order to improve your shopping experience. When you visit LydiasUniforms.com, your cookie helps us keep track of your order as you shop at our site. If you have saved your information with us, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you save your information or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not saved your information or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as we as our products, services, contests, and promotions. We also use cookies to track and maintain the identity of the website you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other websites. You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a signed up user to allow you access to your account information.
+
+### LINKS
+
+For your convenience, our website may contain links to other sites. LydiasUniforms.com is not responsible for the privacy practices or the content of such websites.
 
 Last Updated | 11-08-16
