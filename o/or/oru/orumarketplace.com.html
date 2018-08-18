@@ -1,78 +1,65 @@
-<!--The following is the downloaded HTML source of the orumarketplace.com privacy policy that was archived on 2016-01-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160104171326id_/http%3A//www.orumarketplace.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orumarketplace.com privacy policy that was archived on 2018-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180818145535id_/https%3A//www.orumarketplace.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-
+<!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
-<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">-->
 
-<meta name="generator" content="ORU Marketplace">
+<meta name="generator" content="ORU Market">
 <title>ORU Marketplace</title>
-<meta name="keywords" content="Ultimate Global Market Place">
-<meta name="description" content="Ultimate Global Market Place">
-<!-- <link href="" rel="stylesheet" type="text/css">
- -->
-<link href="http://www.orumarketplace.com//themes/Computers/style.css" rel="stylesheet" type="text/css">
-<link href="http://www.orumarketplace.com//styles/default.css" rel="stylesheet" type="text/css">
+<meta name="keywords" content=" The Ultimate Marketplace">
+<meta name="description" content="The Ultimate Marketplace">
 
-<link href="http://www.orumarketplace.com//styles/bootstrap.css" rel="stylesheet" type="text/css">
-<link href="http://www.orumarketplace.com//styles/new_style.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" src="./js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
-<script src="./includes/functions.js" language="javascript" type="text/javascript"></script>
-
-
+<link href="https://www.orumarketplace.com/themes/Computers/style.css" rel="stylesheet" type="text/css">
+<link href="https://www.orumarketplace.com/styles/default.css" rel="stylesheet" type="text/css">
+<link href="https://www.orumarketplace.com/styles/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="https://www.orumarketplace.com/styles/new_style.css" rel="stylesheet" type="text/css">
+<link href="https://www.orumarketplace.com/lib/Emoji/emoji.css" rel="stylesheet" type="text/css">
+<link href="https://www.orumarketplace.com/styles/new_phase2_style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://www.orumarketplace.com/js/jquery-2.1.4.min.js"></script>
+<script src="https://www.orumarketplace.com/includes/functions.js" language="javascript" type="text/javascript"></script>
 <script language="javascript" type="text/javascript">
+
  function validateLoginForm()
  {
      var frm = window.document.frmLogin;
      if(trim(frm.txtUserName.value) =="")
-	 {
+     {
         alert("Please enter a user name");
         frm.txtUserName.focus();
         return false;
-     }//end if
-	 else if(frm.txtPassword.value =="")
-	 {
+     }
+     else if(frm.txtPassword.value =="")
+     {
         alert("Please enter password");
         frm.txtPassword.focus();
         return false;
-     }//end else if
+     }
      return true;
- }//end function
+ }
 
-function WindowPop(InviteId)
-{
-    
-    
-	var currentTime = new Date();
-	var minutes = currentTime.getMinutes();
-        
-        //alert(InviteId);
-        
-        var winVarName = "OnlineChat_"+InviteId;
-        //alert(winVarName);
-        
-        if ((!window[winVarName] || window[winVarName].closed))
-        { 
-           
-            imgWindow= window.open('http://www.orumarketplace.com//chat/chat.php?requestid='+InviteId+'&','OnlineChat_'+InviteId,'scrollbars=yes,toolbar=no,resizable=1');
-	    imgWindow.moveTo(100,100);
-	    imgWindow.resizeTo(550,520);
-	    window[winVarName] = imgWindow;
-            
-                //window.open('http://www.orumarketplace.com//chat/chat.php?requestid='+InviteId+'&','OnlineChat_'+InviteId,'top=100,left=100,width=550,height=425,scrollbars=yes,toolbar=no,resizable=1');
+function WindowPop(InviteId) {
+    InviteId = InviteId.trim();
+    $('.friends').trigger('click');
+    if($('#friendslist [data-counterpart="'+InviteId+'"]').length)
+      $('#friendslist [data-counterpart="'+InviteId+'"]').trigger('click');
 
-        }//end if
-	else
-	{
-           
-		window[winVarName].focus();
-	}
+    /*var currentTime = new Date();
+    var minutes = currentTime.getMinutes();        //alert(InviteId);
+    var winVarName = "OnlineChat_"+InviteId;       //alert(winVarName);
+        
+    if ((!window[winVarName] || window[winVarName].closed)) { 
+      imgWindow= window.open('https://www.orumarketplace.com/chat/chat.php?requestid='+InviteId+'&','OnlineChat_'+InviteId,'scrollbars=yes,toolbar=no,resizable=1');
+      imgWindow.moveTo(100,100);
+      imgWindow.resizeTo(550,520);
+      window[winVarName] = imgWindow;
+            //window.open('https://www.orumarketplace.com/chat/chat.php?requestid='+InviteId+'&','OnlineChat_'+InviteId,'top=100,left=100,width=550,height=425,scrollbars=yes,toolbar=no,resizable=1');
+    }
+    else {
+        window[winVarName].focus();
+    }*/
 
-}//end function
+}
 
 var req = null;
 var reqOne = null;
@@ -85,11 +72,11 @@ function processReqChange() {
 
 function timersOne()
 {
-setInterval ( "getMoreOne()", 10000 );
+//setInterval ( "getMoreOne()", 10000 );
 }
 function getMoreOne()
 {
-  var url = "getchatrequests_one.php";
+  var url = "https://www.orumarketplace.com/getchatrequests_one.php";
   loadUrlOne( url );
 }
 function loadUrlOne( url ) {
@@ -109,125 +96,147 @@ function loadUrlOne( url ) {
   }
 }
 
-function ltrim(str)
-{
+function ltrim(str) {
     var whitespace = new String(" \t\n\r");
     var s = new String(str);
     if (whitespace.indexOf(s.charAt(0)) != -1) 
-	{
+    {
         var j=0, i = s.length;
         while (j < i && whitespace.indexOf(s.charAt(j)) != -1)
                 j++;
             s = s.substring(j, i);
-    }//end if
+    }
     return s;
-}//end function
+}
 
-function rtrim(str)
-{
+function rtrim(str) {
      var whitespace = new String(" \t\n\r");
      var s = new String(str);
      if (whitespace.indexOf(s.charAt(s.length-1)) != -1) 
-	 {
+     {
           var i = s.length - 1;       // Get length of string
           while (i >= 0 && whitespace.indexOf(s.charAt(i)) != -1)
                 i--;
             s = s.substring(0, i+1);
-     }//end if
+     }
      return s;
-}//end function
+}
 
-function trim(str)
-{
+function trim(str) {
      return rtrim(ltrim(str));
-}//end funciton
+}
 
 function processReqChangeOne() {
   if (reqOne.readyState == 4 && reqOne.status == 200 ) {
-  	if(reqOne.responseText!='')
-	{
-           
-            
-		var strValue=reqOne.responseText;
-		strValue=strValue.split("'chk'");
-		var url='';
+    if(reqOne.responseText!='')
+    {
+        var strValue = reqOne.responseText;
+        strValue = strValue.split("'chk'");
+        var url = '';
                 
-                
-		for(var i=0;i<strValue.length;i++)
-		{
-                    
-                    
-			if(trim(strValue[i])!='')
-			{
-				//imgWindow=window.open(strValue[i]);
-				//imgWindow.moveTo(100,100);
-				//imgWindow.resizeTo(550,520);
-				var invteid=strValue[i];      
+        for(var i=0;i<strValue.length;i++) {
+            if(trim(strValue[i])!='') {
+                //imgWindow=window.open(strValue[i]);
+                //imgWindow.moveTo(100,100);
+                //imgWindow.resizeTo(550,520);
+                var invteid=strValue[i];      
+                invteid=invteid.split("requestid");
                                 
-                                   
-				invteid=invteid.split("requestid");
-                                
-                                if (invteid[1]) invteid=invteid[1].split("&");
-				var id=invteid[0].substring(1,3);
-				var winVarName = "OnlineChat_"+id;
+                if (invteid[1]) invteid=invteid[1].split("&");
+                var id=invteid[0].substring(1,3);
+                var winVarName = "OnlineChat_"+id;
                              
-				if ((!window[winVarName] || window[winVarName].closed))
-				{ 
-					imgWindow=window.open(strValue[i],winVarName,'scrollbars=yes,toolbar=no,resizable=1');
-					imgWindow.moveTo(100,100);
-					imgWindow.resizeTo(550,520);
-					window[winVarName] = imgWindow;
-				}//end if
-				else
-				{
-					 window[winVarName].focus();
-				}//end else
+                if ((!window[winVarName] || window[winVarName].closed))
+                { 
+                    imgWindow=window.open(strValue[i],winVarName,'scrollbars=yes,toolbar=no,resizable=1');
+                    imgWindow.moveTo(100,100);
+                    imgWindow.resizeTo(550,520);
+                    window[winVarName] = imgWindow;
+                }
+                else
+                {
+                     window[winVarName].focus();
+                }
 
-			}//end if
-		}//end for loop
-	}//end if
-  }//end if
-}//end function
+            }
+        }
+    }
+  }
+}
 
-
-window.onLoad=setInterval ( "getMoreOne()", 10000 );
+  var temp = localStorage.getItem('promptUser');
+  window.localStorage.clear();
+  if(typeof temp == 'string')
+    localStorage.setItem('promptUser', temp);
+//window.onLoad=setInterval ( "getMoreOne()", 10000);
 </script>
-<link href="favicon.ico" type="image/x-icon" rel="icon"> 
+<link href="favicon.ico" type="image/x-icon" rel="icon">
 <link href="favicon.ico" type="image/x-icon" rel="shortcut icon">
-</head>
-<body onload="timersOne();">
-    
-
+</head><body onload="timersOne();" class="skin-blue sidebar-mini"><input type="hidden" name="csrf" value="x14mO60ZCVUWRsuYv3+9Me5V8nRtOxkfhtUTqCZUoAG7PXYkfEEmS7g7o/XVbRy5H0M3YEkXFDIcK5/z">
+<input type="hidden" name="siteURL" value="https://www.orumarketplace.com">
+<input type="hidden" name="chatsiteURL" value="https://www.oruchat.orumarketplace.com">
+<input type="hidden" name="CurrURL" value="http://www.orusocial.orumarketplace.com">
+<input type="hidden" name="ImgCdnURL" value="https://prod-orumarket-cdn.s3.amazonaws.com/">
 
 <script type="text/javascript">
-    jQuery(document).ready(function ($) {
-            $('.login_area_cnt').hide();
-    });
-</script>
-
-
-<script>
-	jQuery(document).ready(function ($) {
-		//$(".logout").hide();
-		$(".userSession").click(function(){
-				$(".logout").toggle();
-		});
-		$("#sign_indiv").click(function(){
-				$(".login_area_cnt").toggle();
-		});
-});
-
-/*	 jQuery(function() { 
-  			jQuery('#datepicker').datepicker({minDate: 0, dateFormat: 'mm-dd-yy'});
-  			jQuery('#datepickers').datepicker({maxDate: 0, dateFormat: 'mm-dd-yy'});
-  			//	jQuery('#datepickers').datepicker({minDate: new Date(2015, 10 - 1, 20), dateFormat: 'mm-dd-yy'});
+   /* jQuery(document).ready(function ($) {
+		$('.login_area_cnt').hide();
     });*/
-</script>	
-<!-- <script type="text/javascript" src="./js/jquery.datepick.js"></script>
-<link href="./styles/jquery.datepick.css" type="text/css" rel="stylesheet"> -->
-<script language="javascript">
+</script>
+<script>
+	var C=false;
+	jQuery(document).ready(function ($) {
+		if($('form[name="frmLoginDrop"] .warning').length) {
+			C=true;
+        	$(".login_area_cnt").show();
+        	$(".menu_user_icon").addClass('showthis');
+        } else {
+        	$(".login_area_cnt").hide();
+        	$(".menu_user_icon").removeClass('showthis');
+        }
+        $(".menu_user_icon").hover(
+        	function(e){
+	        	e.preventDefault();
+				if(!C) {
+					$(".login_area_cnt").show();
+        			$(".menu_user_icon").addClass('showthis');
+				}
+				C=false;
+			}, function(e){
+	        	e.preventDefault();
+				if(!C && !$('#txtUserName').is(':focus') && !$('#txtPassword').is(':focus')) {
+					$(".login_area_cnt").hide();
+        			$(".menu_user_icon").removeClass('showthis');
+				}
+				C=false;
+			}
+		);
 
-    function validateLoginDropForm(){ 
+		$(document).mouseup(function (e) {
+		   var container = $(".login_area_cnt");
+
+		   if (!container.is(e.target) // if the target of the click isn't the container...
+		       && container.has(e.target).length === 0) { // ... nor a descendant of the container
+		       container.hide();
+		   	$(".menu_user_icon").removeClass('showthis');
+		   }
+		});
+
+		$(document).mousedown(function (e) {
+			var container = $("#sideRightPushy");
+
+		    if (!container.is(e.target) // if the target of the click isn't the container...
+		       && container.has(e.target).length === 0 // ... nor a descendant of the container
+		       	&& !$('.cd-buttons').has(e.target).length) { // ... nor other situations
+					if($('#sideRightPushy').hasClass('pushy-right-open')) {
+		   				$('.side-right-pushy-button').trigger('click')										
+		   		}
+		    }
+		});
+
+	});
+
+    function validateLoginDropForm(){
         var frm = window.document.frmLoginDrop;
         if(trim(frm.txtUserName.value) ==""){
             alert("Please enter a user name");
@@ -241,62 +250,113 @@ window.onLoad=setInterval ( "getMoreOne()", 10000 );
         return true;
     }
 </script>
+<style>
+	.goog-te-menu2-item .text{
+	
+	color:#00FF00!important;
 
-<script type="text/javascript" src="http://www.orumarketplace.com//js/jquery.fancybox.js?v=2.1.5"></script>
-<link rel="stylesheet" type="text/css" href="http://www.orumarketplace.com//styles/jquery.fancybox.css?v=2.1.5" media="screen">
+}
+</style>
 
+<link href="./styles/jquery.fancybox.min.css" rel="stylesheet">
+<script src="./js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/modernizr_reset.css"> 
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/modernizr_style.css"> 
+<script src="https://www.orumarketplace.com/js/modernizr.js"></script> 
+<script src="https://www.orumarketplace.com/js/jquery.blockUI.js"></script> 
 
-    <link rel="stylesheet" href="./styles/modernizr_reset.css"> <!-- CSS reset -->
-    <link rel="stylesheet" href="./styles/modernizr_style.css"> <!-- Resource style -->
-    <script src="./js/modernizr.js"></script> <!-- Modernizr -->
+<script src="https://www.orumarketplace.com/js/modernizr_jquery.menu-aim.js"></script> 
+<script src="https://www.orumarketplace.com/js/modernizr_main.js"></script> 
 
-	<!--<script src="http://www.orumarketplace.com//js/jquery-2.1.1.js"></script>-->
-    <script src="http://www.orumarketplace.com//js/modernizr_jquery.menu-aim.js"></script> <!-- menu aim -->
-    <script src="http://www.orumarketplace.com//js/modernizr_main.js"></script> <!-- Resource jQuery -->
-    
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/chat_style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/masterslider.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/masterslider_skin_style.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/animate.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/owl.carousel.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/template_style.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/color-default.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/retina.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/responsive.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/font-awesome.css">
+<script src="https://www.orumarketplace.com/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/jquery.srcipts.min.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/masterslider.min.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/jquery.dlmenu.min.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/styleSwitcher.js"></script>
+<script type="text/javascript" src="https://www.orumarketplace.com/js/include.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+/* ]]> */
+</script>
+<div id="google_translate_element2" style="display: none;"></div>
+<script type="text/javascript">
+    function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".switcher a").click(function(){
+			var title = $(this).attr('title');
+			
+			$(".switcher a").removeClass('active');
+			$(this).addClass("active");				
+			$('.switcher').hide();
+		});
 
+		$("#languagechange").click(function(e){
+			e.preventDefault();
+			$('.language_list.switcher').slideToggle();
+		});
 
-<!-- Stylesheets -->
-<link rel="stylesheet" href="./styles/masterslider.css"><!-- Master slider css -->
-<link rel="stylesheet" href="./styles/masterslider_skin_style.css"><!-- Master slider default skin -->
-<link rel="stylesheet" href="./styles/animate.css"><!-- animations -->
-<link rel="stylesheet" href="./styles/owl.carousel.css"><!-- Client carousel -->
-<link rel="stylesheet" href="./styles/template_style.css"><!-- template styles -->
-<link rel="stylesheet" href="./styles/color-default.css"><!-- template main color -->
-<link rel="stylesheet" href="./styles/retina.css"><!-- retina ready styles -->
-<link rel="stylesheet" href="./styles/responsive.css"><!-- responsive styles -->
+		setTimeout( function(){ 
+		    // Do something after 1 second 
+		    
+		    var lang = $(".goog-te-banner-frame.skiptranslate").contents().find(".goog-te-menu-value").text();
+		  	
+		  	if(lang !="")
+		  		$(".switcher a[title='"+lang+"']").addClass("active");
+		  	
+		  	}  , 1000 );
+		});
 
-<link rel="stylesheet" href="./styles/font-awesome.min.css">
-<link rel="stylesheet" href="./styles/font-awesome.css">
-
-
-<script src="./js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
-
-<script type="text/javascript" src="./js/bootstrap.js"></script><!-- .bootstrap script -->
-<script type="text/javascript" src="./js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
-<script type="text/javascript" src="./js/owl.carousel.min.js"></script><!-- Carousels script -->
-<script type="text/javascript" src="./js/masterslider.min.js"></script><!-- Master slider main js -->
-<script type="text/javascript" src="./js/jquery.matchHeight-min.js"></script><!-- for columns with background image -->
-<script type="text/javascript" src="./js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
-<script type="text/javascript" src="./js/styleSwitcher.js"></script><!-- styleswitcher script -->
-<script type="text/javascript" src="./js/include.js"></script><!-- styleswitcher script -->
-
+</script>
+<style type="text/css">
+	.switcher .active{
+		color: #0094ca;
+	}
+</style>
 <script>
-	/* <![CDATA[ */
+	
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+    autoDisplay: false,
+    includedLanguages: 'en,af,sq,ar,hy,az,eu,be,bg,ca,zh-CN,zh-TW,hr,cs,da,nl,et,tl,fi,fr,gl,ka,de,el,ht,iw,hi,hu,is,id,ga,it,ja,ko,lv,lt,mk,ms,mt,no,fa,pl,pt,ro,ru,sr,sk,sl,es,sw,sv,th,tr,uk,ur,vi,cy,yi,'
+  }, 'google_translate_element');
+}
+</script>
+<script>
 	jQuery(document).ready(function ($) {
 		'use strict';
 
+		
 		function equalHeight() {
 			$('.page-content.column-img-bkg *[class*="custom-col-padding"]').each(function () {
 				var maxHeight = $(this).outerHeight();
 				$('.page-content.column-img-bkg *[class*="img-bkg"]').height(maxHeight);
 			});
 		};
-		
+
 		$(document).ready(equalHeight);
 		$(window).resize(equalHeight);
 
-		// MASTER SLIDER START 
+		// MASTER SLIDER START
 		var slider = new MasterSlider();
 		slider.setup('masterslider', {
 			width: 1140, // slider standard width
@@ -313,7 +373,7 @@ window.onLoad=setInterval ( "getMoreOne()", 10000 );
 		// adds Arrows navigation control to the slider.
 		slider.control('arrows');
 
-		// CLIENTS CAROUSEL START 
+		// CLIENTS CAROUSEL START
 		$('#client-carousel').owlCarousel({
 			items: 6,
 			loop: true,
@@ -399,23 +459,21 @@ window.onLoad=setInterval ( "getMoreOne()", 10000 );
 
 	});
 	/* ]]> */
-	
+
 	<!--  ADD CLASS  -->
-	jQuery(window).scroll(function() {    
+	jQuery(window).scroll(function() {
 
         var scroll = jQuery(window).scrollTop();
-   
+
         if (scroll > 100 ) {
             // jQuery(".inner_header").addClass("inner_header_fixed");
         }
 		else{
 			jQuery(".inner_header").removeClass("inner_header_fixed");
 		}
-		
+
     });
 </script>
-
-
 <script language="javascript" type="text/javascript">
     function Clear_text(obj,act)
     {
@@ -427,7 +485,7 @@ window.onLoad=setInterval ( "getMoreOne()", 10000 );
         {
             obj.value='Enter your text here..';
         }
-    }//end function
+    }
 
     function ValidSearch()
     {
@@ -437,570 +495,698 @@ window.onLoad=setInterval ( "getMoreOne()", 10000 );
             document.frmHSearch.txtHomeSearch.value='';
             document.frmHSearch.txtHomeSearch.focus();
             return false;
-        }//end if
+        }
         /*if(document.frmHSearch.txtHomeSearch.value=='')
         {
             alert("Search can't be blank");
             document.frmHSearch.txtHomeSearch.focus();
             return false;
-        }//end if
+        }
          */
-    }//end function
+    }
 </script>
 <script type="text/javascript">
     var $jqr=jQuery.noConflict();
-    $jqr(document).ready(function () { 
-        //jQuery.noConflict();
-       /* $jqr('.signin_btt').click(function () {
-            if ($jqr('#signin_menu').is(":visible")) {
-                $jqr('#signin_menu').hide()
-                $jqr('.signin_btt').removeClass('menu-open');
-            } else {
-                $jqr('#signin_menu').show()
-                $jqr('.signin_btt').addClass('menu-open');
-            }
-            
-            return false;
-        });
-        $jqr('#signin_menu').click(function(e) {
-            e.stopPropagation();
-        });*/
+    $jqr(document).ready(function () {
     var $jqrs=jQuery.noConflict();
         $jqrs(document).click(function() {
             $jqrs('#signin_menu').hide();
             $jqrs('.signin_btt').removeClass('menu-open');
         });
+
+        /*$jqr("body").on('click', '.chatconimage', function(event){
+    				event.preventDefault();
+    				var $gallery = $jqr('.gallery a').simpleLightbox();
+
+					$gallery.on('show.simplelightbox', function(){
+						console.log('Requested for showing');
+					})
+					.on('shown.simplelightbox', function(){
+						console.log('Shown');
+					})
+					.on('close.simplelightbox', function(){
+						console.log('Requested for closing');
+					})
+					.on('closed.simplelightbox', function(){
+						console.log('Closed');
+					})
+					.on('change.simplelightbox', function(){
+						console.log('Requested for change');
+					})
+					.on('next.simplelightbox', function(){
+						console.log('Requested for next');
+					})
+					.on('prev.simplelightbox', function(){
+						console.log('Requested for prev');
+					})
+					.on('nextImageLoaded.simplelightbox', function(){
+						console.log('Next image loaded');
+					})
+					.on('prevImageLoaded.simplelightbox', function(){
+						console.log('Prev image loaded');
+					})
+					.on('changed.simplelightbox', function(){
+						console.log('Image changed');
+					})
+					.on('nextDone.simplelightbox', function(){
+						console.log('Image changed to next');
+					})
+					.on('prevDone.simplelightbox', function(){
+						console.log('Image changed to prev');
+					})
+					.on('error.simplelightbox', function(e){
+						console.log('No image found, go to the next/prev');
+						console.log(e);
+					});
+				});*/
+
+
+
         $jqrs(".fancybox-manual-a").click(function(){
-               
+
                var oru_value ='1';
                 $.fancybox.open({
-                    href :"http://www.orumarketplace.com//view_oru.php?id="+oru_value,
+                    href :"https://www.orumarketplace.com/view_oru.php?id="+oru_value,
                     type : 'iframe',
                      width: 460,
                      height: 210,
 		          padding : 5
 		   });
-            });
+        });
+    });
 
-
-    }); 
-
-     
 </script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/bootstrap-drawer.css">
+<script>window.jQuery || document.write('<script src="jquery.min.js"><\/script>')</script><script src="jquery.min.js"></script>
+<script src="https://www.orumarketplace.com/js/drawer.js"></script>
+<script>
+	if ($.fn.drawer)
+		$('#drawerExample').drawer({ toggle: false });
+		$('#other-toggle').click(function() {
+			if ($.fn.drawer)
+				$('#drawerExample').drawer('toggle');
+			return false;
+		});
+	</script>
+<script>
+	if ($.fn.drawer)
+		$('#drawerExample_sub').drawer({ toggle: false });
+		$('#other-toggle').click(function() {
+			if ($.fn.drawer)
+				$('#drawerExample_sub').drawer('toggle');
+			return false;
+		});
+	</script>
+
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/AdminLTE.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/skin-blue.css">
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<nav id="sideRightPushy" class="pushy pushy-right" style="display:none;">
+<ul>
+<li role="presentation"><a href="swaplistdetailed.php">Products</a></li><li role="presentation"><a href="servicesdetailed.php">Services</a></li><li role="presentation"><a href="local.php">Stores</a></li> </ul>
+</nav>
+<div id="container">
 <div id="Layout">
-	<header style="position:relative; height:133px;">
-		<div class="inner_header">
-		
-			<div class="container">
-				<div class="col-xs-6 col-sm-7 col-md-3 col-lg-3 no_padding">
-					<div class="logo_outer">
-						<a href="./index.php"><img src="./images/main-logo.png" border="0" class="img-responsive" alt="ORU Marketplace" title="ORU Marketplace"></a>
-					</div>
-				</div>
-				<div class="col-xs-6 col-sm-5 col-md-3 col-lg-3">
-								</div>
-				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 no_padding">
-				<div class="col-xs-12 col-sm-6 col-md-12 col-lg-12 no_padding unlock_main_nav">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no_padding">
-						<nav class="navbar navbar-default nav-left" role="navigation">
-							<!-- MAIN NAVIGATION -->
-							<div class="navbar-collapse">
-								<ul class="nav navbar-nav main_nav">
-								<div class="clear"></div>                                     
-									<li class="home_icn"><a href="index.php">Home</a></li><li class="faq_icn"><a href="faq.php">FAQ</a></li><li class="contact_icn"><a href="contactus.php">Contact Us</a></li><li class="hlp_icn"><a href="help.php">Help</a></li><li class="stmap"><a href="sitemap.php">Navigate</a></li><li class="orucal"><a class="fancybox-manual-a">ORU PPE Calculator</a></li>                                                                <div class="btn-group pull-left">
-                                                                            
-                                                                            <select class="lang_btt btn-default dropdown-toggle" id="selectBox" name="cmbLanguage">
-                                                                              
-                                                                                 <option value=""> Change Language</option>
-                                                                                                                                                                    
-                                                                                   <option value="1" selected="">English</option>
-                                                                                                                                                                    
-                                                                                 
-                                                                            </select>
-                                                                </div>
-																
-																
-									<div class="user_secton">
-																					<a href="#" id="sign_indiv" class="sign_in"><span>Sign In</span></a>
-											<!-- <a href="register.php" ><span>Register</span></a>-->
+<div class="wrapper">
 
-									<div class="login_area_cnt" style="display:none;">
-									    <form method="post" action="" name="frmLoginDrop" onsubmit="return validateLoginDropForm();">
-										
-										<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no_padding">
-											<input type="hidden" name="btnLogin" value="Login">
-				 																
-											<div class="login_top">
-												<input name="txtUserName" type="text" class="form-control" placeholder="User Name" id="txtUserName" maxlength="50" size="15" tiptitle="Username">
-											</div>
-											<div class="login_top">
-												<input name="txtPassword" id="txtPassword" type="password" placeholder="Password" maxlength="50" size="15" class="form-control" tiptitle="Password">
-											</div>
-											<div class="login_top">
-												<input type="checkbox" name="chkInvisible" value="Y" tabindex="3" class="login_check"> Invisible Mode
-												<input type="checkbox" name="rememberme" value="Y" tabindex="3" class="login_check"> &nbsp; Remember Me                 
-											</div>
-											<div class="login_top">
-												<input type="submit" name="btnLogin" value="Login" class="orange_normal_btt_full">
-											</div>
-											<div class="login_top">
-												<a href="register.php" id="newSignUp"><b>New User Sign Up Here</b></a><br>
-									            <a href="forgotpass.php" id="forgotPass">Forgot Password?</a>
-											</div>
-										</div>
-										
-									
-									</form>
-									</div>
+<header class="main-header">
 
-																						
-										
-											<!-- <div class="login_secton">
-														
-																								<a href="login.php" class="signin_btt" id="sign_indiv"><span>Sign in</span></a>
-												<a href="register.php" class="reg_btt"><span>Register</span></a>
-												
-												
-																								
-												
-																								<div id="signin_menu" style="display: none;">
-																									</div>
-																								
-												
-																				
-												<div class="clear"></div>
-											</div> -->
-											
-									</div>
+<a href="https://www.orumarketplace.com/index.php" class="logo"><img src="https://prod-orumarket-cdn.s3.amazonaws.com/images/main-logo.png" border="0" class=" " alt="ORU Market" title="ORU Market"></a>
 
-									
-									<!--<div class="btn-group pull-right">
-										<button type="button" class="lang_btt btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-											Change Language <span class="caret"></span>
-										</button>
-										<ul class="lang_txt dropdown-menu">
-											<li><a href="#">English</a></li>
-											<li><a href="#">FrancÃ©s</a></li>
-											<li><a href="#">EspaÃ±ol</a></li>
-											<li><a href="#">AlemÃ¡n</a></li>
-										</ul>
-									</div>-->                        
-								</ul>
-								
-								<!-- RESPONSIVE MENU -->
-								
-								<div id="dl-menu" class="dl-menuwrapper pull-right" style="position:absolute; z-index:10000;">
-									<button class="dl-trigger">Open Menu</button>
-									<ul class="dl-menu"> 							
-										<li class="home_icn"><a href="index.php">Home</a></li><li class="faq_icn"><a href="faq.php">FAQ</a></li><li class="contact_icn"><a href="contactus.php">Contact Us</a></li><li class="hlp_icn"><a href="help.php">Help</a></li><li class="stmap"><a href="sitemap.php">Navigate</a></li><li class="orucal"><a class="fancybox-manual-a">ORU PPE Calculator</a></li> 
-									
-									
-									<li class="languange_head"><h2>Language</h2></li>
-																				<li class="languange_txt">
-												<span><a href="change_language.php?language_id=1&amp;redirect_url=%2Fprivacy.php">English</a></span>
-										
-											
-									</li>
-									<div class="clear"></div>
+<nav class="navbar navbar-static-top" role="navigation">
 
-										
-									<li class="respo_logout_section"><a href="login.php" class="login">Sign In</a></li>
-																	</ul>
-							</div>
-						</div>
-					
-						<div class="clear"></div>
-										
-						<!-- MAIN NAVIGATION END -->
-						
-					  </nav>
-				  </div>
-				  
-					  
-				</div>
-				
-				<div class="col-xs-12 col-sm-6 col-md-12 col-lg-12 no_padding lock_main_nav">
-					<div class="btn-group pull-right">
-						<button type="button" class="lock_main_icon btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							
-						</button>
-						<ul class="dropdown-menu">									
-							<li><h2>Main Menu</h2></li>									
-							<li class="home_icn"><a href="index.php">Home</a></li><li class="faq_icn"><a href="faq.php">FAQ</a></li><li class="contact_icn"><a href="contactus.php">Contact Us</a></li><li class="hlp_icn"><a href="help.php">Help</a></li><li class="stmap"><a href="sitemap.php">Navigate</a></li><li class="orucal"><a class="fancybox-manual-a" style="cursor:pointer">ORU PPE Calculator</a></li>								
-							<li><h2>Language</h2></li>
-						 <li class="lang_lock"><a href="change_language.php?language_id=1&amp;redirect_url=%2Fprivacy.php" title="English">English</a></li>
-
-							
-						
-						<div class="clear"></div>
-
-							
-						<li class="respo_logout_section"><a href="login.php" class="logout">Sign In</a></li>
-						
-						</ul>
-					</div>
-				</div>
-				
-				
-				  
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no_padding">
-<div class="tp_main_navs">
-	<div class="col-xs-9 col-sm-9 col-md-11 col-lg-11 sub_menu">
-	<nav class="navbar navbar-default nav-left nav_top_outer" role="navigation">                                    
-		<div class="navbar-collapse">
-			<ul class="nav navbar-nav nav_top">
-				<li><a href="index.php"></a></li><li><a href="wishlistdetailed.php"></a></li><li><a href="swaplistdetailed.php">Products</a></li><li><a href="servicesdetailed.php">Services</a></li><li><a href="local.php">Local</a></li><li><a href="allcategories.php">Category Display</a></li>				
-			</ul>	
-			<!-- RESPONSIVE MENU -->			
-			<div id="dl-menu_2" class="dl-menuwrapper">
-				<button class="dl-trigger">Open Menu</button>	
-				<ul class="dl-menu">
-					<li><a href="swaplistdetailed.php">Products</a></li><li><a href="servicesdetailed.php">Services</a></li><li><a href="local.php">Local</a></li><li><a href="allcategories.php">Category Display</a></li>				</ul>
-			</div>		
-		</div>
-	</nav>
-	</div>
-	
-	
-<div class="col-xs-3 col-sm-3 col-md-1 col-lg-1 no_padding">
-	<a href="javascript:void(0)" class="search_main_btt"> </a>
-</div>
-<div class="search_rightsection" id="search_rightsection" style="display:none;">
-	<form name="frmHSearch" method="post" action="search.php" onsubmit="return ValidSearch();">
-		<select name="selSearch" class="search_select_feild">
-			<option value="All">All</option>
-			<option value="All products">All products</option>
-			<!-- <option  value="Wished Products">Wished Products</option> -->
-						<option value="FAQ">FAQ</option>
-			<option value="Categories">Categories</option>
-			<option value="Countries and cities">Countries and cities</option>
-			<option value="Description">Description</option>
-			<option value="Brand">Brand</option>
-			<option value="Condition">Condition</option>
-		</select> 
-		
-		<input name="txtHomeSearch" type="text" class="search" value="Enter your text here.." onclick="javascript:Clear_text(this,'in');" onblur="javascript:Clear_text(this,'out');">
-			
-		<input type="submit" value="Search" height="21" class="search_btt">
-	</form>
-	<div class="clear"></div>
+<a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+<span class="sr-only">Toggle navigation</span>
+</a>
+<div class="col-xs-12">
+<div class="row">
+<div class="col-sm-12 col-lg-1"></div>
+<div class="col-sm-12 col-lg-11">
+<div class="header_inner_R no_margin">
+<div class="header_inner_R_cont_outer">
+<div id="google_translate_element"></div>
+<a href="" title="Offres spéciales" class="special_deals notranslate" id="languagechange">
+Select language
+<img src="https://prod-orumarket-cdn.s3.amazonaws.com/images/lang_arrow.png" border="0" class="lang_arrow" alt="Language">
+</a>
 </div>
 
+<div class="header_inner_R_cont_outer">
+<a href="javascript:void(0)" class="search_main_btt"><i class="fa fa-search" aria-hidden="true"></i></a>
+</div>
+<div class="header_inner_R_cont_outer">
+</div>
+<div class="header_inner_R_cont_outer">
+<a href="https://www.orumarketplace.com/special-deals.php" title="Special Deals" class="special_deals">
+<i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Special Deals
+</a>
+</div>
 
+<div class="header_inner_R_cont_outer">
+
+<div class="full_width">
+<ul>
+<li class="menu_user_icon without_login">
+<div href="javascript:void(0)" id="sign_indiv" class="new_sign_in">
+<i class="fa fa-user pull-left" aria-hidden="true"></i>
+<div class="login_outer_header ">
+<div class="login_inner_header">
+<a href="login.php">Sign in</a> |
+<a href="register.php">Sign up</a>
+</div>
+
+<div class="full_width" style="margin:0 0 00;">
+<a href="#" class="login_inner_header_text">My Oru</a>
 </div>
 </div>
-<input type="hidden" name="redirect-url" value="%2Fprivacy.php" id="redirectUrl">
-<script type="text/javascript">
-    $(".search_main_btt").click(function(){
-        $("#search_rightsection").toggle();
-    });
-    $("#selectBox").change(function(){
-     var langVal=$jqr(this).val();
-      var redirectUrl = $jqr("#redirectUrl").val(); 
-      var goLink =  'change_language.php?language_id='+langVal+'&redirect_url='+redirectUrl; 
-      window.location = goLink;
-    });
-</script>
 
-				  
-				</div>
-								
-			</div>
-		</div>
-		
-			
-
-</header>
-	
-
-
-
-
-	
-	<div class="full_width inner_cont_main_outer">
-	<div class="container">
-		<div class="cont_L_R_outer">
-			<div class="cont_L_R_row">
-				<!-- <div class="cont_L">
-					<div class="full_width">
-	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true"><h1>Most popular categories</h1>
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading1">
-		    <a 				 role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
-			Professional Services (21)</a>
-		</div>
-
-	 	<div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
-		<div class="panel-body">
-
-					<a href='catwiseproducts.php?catid=297'>Presentations (4) </a>
-					<a href='catwiseproducts.php?catid=310'>Coaching (2) </a>
-					<a href='catwiseproducts.php?catid=289'>Copy and Duplication Services (1) </a>
-					<a href='catwiseproducts.php?catid=308'>Lawn Care (1) </a>
-					<a href='catwiseproducts.php?catid=313'>Moving Services (1) </a>
-					<a href='catwiseproducts.php?catid=298'>Consulting (4) </a>
-					<a href="allcategories.php" class="view_all">View all</a>
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading2">
-		    <a 				 href="catwiseproducts.php?catid=22">
-			Hotels and Resorts (1)</a>
-		</div>
-
-	 	<div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
-		<div class="panel-body">
-
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading3">
-		    <a 				 href="catwiseproducts.php?catid=27">
-			Miscellaneous (1)</a>
-		</div>
-
-	 	<div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
-		<div class="panel-body">
-
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading4">
-		    <a 				 role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
-			Real Estate (2)</a>
-		</div>
-
-	 	<div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
-		<div class="panel-body">
-
-					<a href='catwiseproducts.php?catid=311'>Homes (1) </a>
-					<a href="allcategories.php" class="view_all">View all</a>
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading5">
-		    <a 				 href="catwiseproducts.php?catid=275">
-			Toys (0)</a>
-		</div>
-
-	 	<div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
-		<div class="panel-body">
-
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading6">
-		    <a 				 role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
-			Books and Magazines (5)</a>
-		</div>
-
-	 	<div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
-		<div class="panel-body">
-
-					<a href='catwiseproducts.php?catid=296'>Financial (3) </a>
-					<a href="allcategories.php" class="view_all">View all</a>
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading7">
-		    <a 				 role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="true" aria-controls="collapse7">
-			Entertainment (2)</a>
-		</div>
-
-	 	<div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
-		<div class="panel-body">
-
-					<a href='catwiseproducts.php?catid=302'>Faith Based (1) </a>
-					<a href='catwiseproducts.php?catid=303'>Action (1) </a>
-					<a href="allcategories.php" class="view_all">View all</a>
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading8">
-		    <a 				 href="catwiseproducts.php?catid=242">
-			Computers (2)</a>
-		</div>
-
-	 	<div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
-		<div class="panel-body">
-
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading9">
-		    <a 				 href="catwiseproducts.php?catid=278">
-			Social Services (2)</a>
-		</div>
-
-	 	<div id="collapse9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading9">
-		<div class="panel-body">
-
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading10">
-		    <a 				 role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse10" aria-expanded="true" aria-controls="collapse10">
-			Rentals (3)</a>
-		</div>
-
-	 	<div id="collapse10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading10">
-		<div class="panel-body">
-
-					<a href='catwiseproducts.php?catid=286'>Cabins (1) </a>
-					<a href='catwiseproducts.php?catid=312'>Events (1) </a>
-					<a href="allcategories.php" class="view_all">View all</a>
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading11">
-		    <a 				 role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="true" aria-controls="collapse11">
-			Sport and Recreation (3)</a>
-		</div>
-
-	 	<div id="collapse11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading11">
-		<div class="panel-body">
-
-					<a href='catwiseproducts.php?catid=285'>Horses (1) </a>
-					<a href='catwiseproducts.php?catid=288'>Baseball (0) </a>
-					<a href='catwiseproducts.php?catid=319'>Soccer (1) </a>
-					<a href="allcategories.php" class="view_all">View all</a>
-		</div> 
-	</div> 
-	</div>
-
-
-	<div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading12">
-		    <a 				 href="catwiseproducts.php?catid=73">
-			Games (1)</a>
-		</div>
-
-	 	<div id="collapse12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading12">
-		<div class="panel-body">
-
-		</div> 
-	</div> 
-	</div>
-
-
-    <div class="panel panel-default">
-		<div class="panel-heading" role="tab" id="heading1">
-		    <a href="allcategories.php">All Categories</a>
-		</div>
-	</div>
-
+<div class="tp-pad login_area_cnt icon-clr" style="display:none;">
+<div class="clear"></div>
+<form method="post" action="" name="frmLoginDrop" onsubmit="return validateLoginDropForm();">
+<input type="hidden" name="csrf-token" value="x14mO60ZCVUWRsuYv3+9Me5V8nRtOxkfhtUTqCZUoAG7PXYkfEEmS7g7o/XVbRy5H0M3YEkXFDIcK5/z"> <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no_padding">
+<input type="hidden" name="btnLogin" value="Login">
+<div class="login_top no_padding_B log-tp-mrg">
+<input name="txtUserName" type="text" class="login_popup_user_name" placeholder="User Name" id="txtUserName" maxlength="50" size="15" tiptitle="Username" value="" tabindex="1">
 </div>
+<div class="login_top">
+<input name="txtPassword" id="txtPassword" type="password" placeholder="Password" maxlength="50" size="15" class="login_popup_password" tiptitle="Password" tabindex="2">
 </div>
-				</div>  -->
-				<div class="cont_R">
-										<div class="col-xs-12 col-sm-1"></div>
-					<div class="full_width main_contant col-xs-12 col-sm-10">
-						<h1>PRIVACY POLICY</h1>
-						<div class="full_width"><p>This privacy policy relates to use of the <strong>ORU MARKET</strong> websites at <a href="http://www.orumarketplace.com">http://www.orumarketplace.com</a>&nbsp;and <a href="http://www.iamsport.org/">h</a><a href="http://www.orumarket.com">ttp://www.orumarket.com</a></p>
-
-<p>This privacy policy covers how the <strong>ORU Market</strong> (hereafter named "we") will treat personal information that we collect. Personal information is your information and includes identifiers like your name, address, email address, and phone number.</p>
-
-<p><strong>Our Commitment To Privacy</strong><br>
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
-
-<p><strong>The Information We Collect:</strong><br>
-This notice applies to all information collected or submitted on the <strong>ORU Market</strong> website. On several pages, you can buy products or services, make offers, counteroffers, negotiate,&nbsp;and make requests.&nbsp;&nbsp;The types of personal information collected at these pages are:</p>
-
-<p>Name<br>
-Address<br>
-Email address<br>
-Phone number</p>
-
-<p><strong>The Way We Use Information:</strong><br>
-We use the information you provide about yourself when executing a transaction,&nbsp;only to complete that transaction. We do not share this information with outside parties except to the extent necessary to complete that transaction, such as shipping and delivery companies.</p>
-
-<p>We use the information you provide about someone else when creating a transaction&nbsp;only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that transaction.</p>
-
-<p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
-
-<p>We use non-identifying and aggregate information to better design our website.&nbsp;</p>
-
-<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-
-<p><strong>Our Commitment To Data Security</strong><br>
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
-
-<p><strong>Our Commitment To Children's Privacy:</strong><br>
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 12, and no part of our website is structured to attract anyone under 12.</p>
-
-<p><strong>How You Can Access Or Correct Your Information</strong><br>
-You can access all your personally identifiable information that we collect online and maintain by logging into your <strong>ORU Market</strong> account and view your contact details. We use this procedure to better safeguard your information.</p>
-
-<p>You can correct factual errors in your personally identifiable information at any time by editing your market profile.&nbsp;</p>
-
-<p>We may update this policy at any time for any reason. If there are any significant changes to how we handle personal information, we will send a notice to the primary email address specified in your <strong>ORU Market</strong> account or by placing a prominent notice on our site.</p>
-
-<p><span style="color:#FF8C00"><strong>Thank you and have an Orutopian day!</strong></span></p>
+<div class="login_top_btt_outer">
+<input type="submit" name="btnLogin" value="Login" tabindex="3">
+<a href="register.php" id="newSignUp" tabindex="4">Sign Up</a>
+<div class="clearfix"></div>
 </div>
-					</div>
-					<div class="col-xs-12 col-sm-1"></div>
-					<div class="sub_banner_outer"></div>
-				</div>
-			</div>
-		</div>
-	</div>
+<div class="clearfix"></div>
+<div class="login_top">
+<span class="pull-left">
+<input type="checkbox" name="chkInvisible" value="Y" tabindex="5" class="login_check"> Invisible Mode
+</span>
+<span class="pull-right">
+<input type="checkbox" name="rememberme" value="Y" tabindex="6" class="login_check"> Remember Me </span>
+<div class="clearfix"></div>
+</div>
+<div class="login_bottom_link_outer">
+<h3><a href="#">My Oru</a></h3>
+<ul>
+<li><a href="usermain.php">My Account</a></li>
+
+<li><a href="securedmessage.php">ORU Mail</a></li>
+<li><a href="payMoney.php">ORU Pay</a></li>
+
+<li><a href="addsale.php">Add Product</a></li>
+<li><a href="storeNservice.php">Add Store / Service</a></li>
+<li><a href="oruadvertisement.php">Advertise</a></li>
+<li><a href="advertise-options.php">Preferences</a></li>
+</ul>
+</div>
+<div class="login_bottom_outer">
+<div class="pull-left">
+<a href="forgotpass.php" id="forgotPass">Forgot Password?</a>
+</div>
+<div class="pull-right">
+<a href="forgotusername.php" id="forgotUsername">Forgot Username?</a>
 </div>
 <div class="clear"></div>
-                
-	<div class="footer">
-		<div class="container">
-			<div class="full_width">
-				<div class="ftr_menu">
-						<a href="aboutus.php">About Us</a>&nbsp;|&nbsp;<a href="history.php">History</a>&nbsp;|&nbsp;<a href="sentinel.php">Sentinel</a>&nbsp;|&nbsp;<a href="privacy.php"><span>Privacy Policy</span></a>&nbsp;|&nbsp;<a href="terms.php">Terms</a>&nbsp;|&nbsp;<a href="glossary.php">Glossary</a>						
-					</div>
-					<div class="rssfeed_ftr">
-						 					</div>
-					
-					<div class="bmrknshare_ftr">
-						   					</div>
-			</div>
-			
-			<div class="full_width">
-							</div>
-			<div class="full_width"></div>
-			
-		</div>
-	</div>
-
-
+</div>
+</div>
+</form>
 
 </div>
+<div class="clear"></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="header_inner_R_cont_outer">
+<div class="side-right-pushy-button pushy_inner_page" style="margin:0 auto;float:right; color:#000000">menu <img src="https://prod-orumarket-cdn.s3.amazonaws.com/images/nav_img.png" border="0" class="img-responsive pull-right" alt=""></div>
+</div>
+</div>
+</div>
+</div>
+<div class="language_list switcher notranslate" style="display: none;">
+<a href="#" class="select_language">Select Language</a>
+<a href="#" onclick="doGTranslate('en|en');return false;" title="English" class="nturl"> English</a>
+<a href="#" onclick="doGTranslate('en|af');return false;" title="Afrikaans" class="nturl"> Afrikaans</a>
+<a href="#" onclick="doGTranslate('en|sq');return false;" title="Albanian" class="nturl"> Albanian</a>
+<a href="#" onclick="doGTranslate('en|ar');return false;" title="Arabic" class="nturl"> Arabic</a>
+<a href="#" onclick="doGTranslate('en|hy');return false;" title="Armenian" class="nturl"> Armenian</a>
+<a href="#" onclick="doGTranslate('en|az');return false;" title="Azerbaijani" class="nturl"> Azerbaijani</a>
+<a href="#" onclick="doGTranslate('en|eu');return false;" title="Basque" class="nturl"> Basque</a>
+<a href="#" onclick="doGTranslate('en|be');return false;" title="Belarusian" class="nturl"> Belarusian</a>
+<a href="#" onclick="doGTranslate('en|bg');return false;" title="Bulgarian" class="nturl"> Bulgarian</a>
+<a href="#" onclick="doGTranslate('en|ca');return false;" title="Catalan" class="nturl"> Catalan</a>
+<a href="#" onclick="doGTranslate('en|zh-CN');return false;" title="Chinese (Simplified)" class="nturl"> Chinese (Simplified)</a>
+<a href="#" onclick="doGTranslate('en|zh-TW');return false;" title="Chinese (Traditional)" class="nturl"> Chinese (Traditional)</a>
+<a href="#" onclick="doGTranslate('en|co');return false;" title="Croatian" class="nturl"> Croatian</a>
+<a href="#" onclick="doGTranslate('en|cs');return false;" title="Czech" class="nturl"> Czech</a>
+<a href="#" onclick="doGTranslate('en|da');return false;" title="Danish" class="nturl"> Danish</a>
+<a href="#" onclick="doGTranslate('en|nl');return false;" title="Dutch" class="nturl"> Dutch</a>
+<a href="#" onclick="doGTranslate('en|et');return false;" title="Estonian" class="nturl"> Estonian</a>
+<a href="#" onclick="doGTranslate('en|tl');return false;" title="Filipino" class="nturl"> Filipino</a>
+<a href="#" onclick="doGTranslate('en|fi');return false;" title="Finnish" class="nturl"> Finnish</a>
+<a href="#" onclick="doGTranslate('en|fr');return false;" title="French" class="nturl"> French</a>
+<a href="#" onclick="doGTranslate('en|gl');return false;" title="Galician" class="nturl"> Galician</a>
+<a href="#" onclick="doGTranslate('en|ka');return false;" title="Georgian" class="nturl"> Georgian</a>
+<a href="#" onclick="doGTranslate('en|de');return false;" title="German" class="nturl">German</a>
+<a href="#" onclick="doGTranslate('en|el');return false;" title="Greek" class="nturl"> Greek</a>
+<a href="#" onclick="doGTranslate('en|ht');return false;" title="Haitian Creole" class="nturl"> Haitian Creole</a>
+<a href="#" onclick="doGTranslate('en|iw');return false;" title="Hebrew" class="nturl"> Hebrew</a>
+<a href="#" onclick="doGTranslate('en|hi');return false;" title="Hindi" class="nturl"> Hindi</a>
+<a href="#" onclick="doGTranslate('en|hu');return false;" title="Hungarian" class="nturl"> Hungarian</a>
+<a href="#" onclick="doGTranslate('en|is');return false;" title="Icelandic" class="nturl"> Icelandic</a>
+ <a href="#" onclick="doGTranslate('en|id');return false;" title="Indonesian" class="nturl"> Indonesian</a>
+<a href="#" onclick="doGTranslate('en|ga');return false;" title="Irish" class="nturl"> Irish</a>
+<a href="#" onclick="doGTranslate('en|it');return false;" title="Italian" class="nturl"> Italian</a>
+<a href="#" onclick="doGTranslate('en|ja');return false;" title="Japanese" class="nturl"> Japanese</a>
+<a href="#" onclick="doGTranslate('en|ko');return false;" title="Korean" class="nturl">Korean</a>
+<a href="#" onclick="doGTranslate('en|lv');return false;" title="Latvian" class="nturl"> Latvian</a>
+<a href="#" onclick="doGTranslate('en|lt');return false;" title="Lithuanian" class="nturl"> Lithuanian</a>
+<a href="#" onclick="doGTranslate('en|mk');return false;" title="Macedonian" class="nturl"> Macedonian</a>
+<a href="#" onclick="doGTranslate('en|ms');return false;" title="Malay" class="nturl"> Malay</a>
+<a href="#" onclick="doGTranslate('en|mt');return false;" title="Maltese" class="nturl"> Maltese</a>
+<a href="#" onclick="doGTranslate('en|no');return false;" title="Norwegian" class="nturl"> Norwegian</a>
+<a href="#" onclick="doGTranslate('en|fa');return false;" title="Persian" class="nturl"> Persian</a>
+<a href="#" onclick="doGTranslate('en|pl');return false;" title="Polish" class="nturl"> Polish</a>
+<a href="#" onclick="doGTranslate('en|pt');return false;" title="Portuguese" class="nturl"> Portuguese</a>
+<a href="#" onclick="doGTranslate('en|ro');return false;" title="Romanian" class="nturl"> Romanian</a>
+<a href="#" onclick="doGTranslate('en|ru');return false;" title="Russian" class="nturl">Russian</a>
+<a href="#" onclick="doGTranslate('en|sr');return false;" title="Serbian" class="nturl"> Serbian</a>
+<a href="#" onclick="doGTranslate('en|sk');return false;" title="Slovak" class="nturl"> Slovak</a>
+<a href="#" onclick="doGTranslate('en|sl');return false;" title="Slovenian" class="nturl"> Slovenian</a>
+<a href="#" onclick="doGTranslate('en|es');return false;" title="Spanish" class="nturl"> Spanish</a>
+<a href="#" onclick="doGTranslate('en|sw');return false;" title="Swahili" class="nturl"> Swahili</a>
+<a href="#" onclick="doGTranslate('en|sv');return false;" title="Swedish" class="nturl"> Swedish</a>
+<a href="#" onclick="doGTranslate('en|th');return false;" title="Thai" class="nturl"> Thai</a>
+<a href="#" onclick="doGTranslate('en|tr');return false;" title="Turkish" class="nturl"> Turkish</a>
+<a href="#" onclick="doGTranslate('en|uk');return false;" title="Ukrainian" class="nturl"> Ukrainian</a>
+<a href="#" onclick="doGTranslate('en|ur');return false;" title="Urdu" class="nturl"> Urdu</a>
+<a href="#" onclick="doGTranslate('en|vi');return false;" title="Vietnamese" class="nturl">Vietnamese</a>
+<a href="#" onclick="doGTranslate('en|cy');return false;" title="Welsh" class="nturl"> Welsh</a>
+<a href="#" onclick="doGTranslate('en|yi');return false;" title="Yiddish" class="nturl"> Yiddish</a>
+</div>
+<div class="search_rightsection" id="search_rightsection" style="display:none;">
+<form name="frmHSearch" method="GET" action="search.php" onsubmit="return ValidSearch();">
+<select name="selSearch" class="search_select_feild">
+<option value="All">All</option>
+<option value="All Products">All Products</option>
+<option value="All Services">All Services</option>
+<option value="All Stores">All Business/Stores</option>
+
+<option value="FAQ">FAQ</option>
+<option value="Categories">Categories</option>
+<option value="Countries And Cities">Countries And Cities</option>
+<option value="Description">Description</option>
+<option value="Brand">Brand</option>
+<option value="Condition">Condition</option>
+</select>
+<input name="txtHomeSearch" type="text" class="search search_txt_feild" value="Enter your text here.." onclick="javascript:Clear_text(this,'in');" onblur="javascript:Clear_text(this,'out');" id="txtHomeSearch">
+<input type="submit" value="Search" height="21" class="search_btt">
+</form>
+<div class="clear"></div>
+</div>
+</div>
+</nav>
+</header>
+<div class="clear"></div>
+<div class="header_mob_outer">
+<div class="header_mob_top">
+<div class="container full_width">
+<div class="logo_outer pull-left">
+<a href="./index.php">
+<img src="https://prod-orumarket-cdn.s3.amazonaws.com/images/main-logo.png" border="0" class="img-responsive" alt="ORU Market" title="ORU Market">
+</a>
+</div>
+<div class="google_translate_element_mob_outer pull-right">
+<div id="google_translate_element_mob"></div>
+</div>
+</div>
+</div>
+<div class="header_mob_bottom">
+<div class="col-xs-4 col-sm-4">
+<div id="drawerExample" class="drawer dw-xs-10 dw-sm-6 dw-md-4 fold" aria-labelledby="drawerExample">
+<div class="drawer-controls">
+<a href="#drawerExample" data-toggle="drawer" aria-foldedopen="false" aria-controls="drawerExample" class="mob_nav_btt">
+<i class="fa fa-bars" aria-hidden="true"></i> <span>Menu</span>
+</a>
+</div>
+<div class="drawer-contents">
+<ul class="drawer-nav">
+<li role="presentation"><a href="swaplistdetailed.php">Products</a></li><li role="presentation"><a href="servicesdetailed.php">Services</a></li><li role="presentation"><a href="local.php">Stores</a></li> 
+<li> <a href="https://www.orumarketplace.com/special-deals.php">Special Deals</a></li>
+<li> <a href="login.php">Login</a></li>
+<li> <a href="register.php">Sign Up</a></li>
+<div class="clear"></div>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="col-xs-4 col-sm-4">
+</div>
+<div class="col-xs-4 col-sm-4">
+<a href="javascript:void(0)" class="search_main_btt_mob pull-right"> </a>
+<input type="hidden" name="redirect-url" value="%2Fprivacy.php" id="redirectUrl">
+<script type="text/javascript">
+						$(".search_main_btt").click(function(){
+							$("#search_rightsection").toggle();
+							$('.switcher').hide();
+						});
+						$("#selectBox").change(function(){
+						 var langVal=$jqr(this).val();
+						  var redirectUrl = $jqr("#redirectUrl").val();
+						  var goLink =  'change_language.php?language_id='+langVal+'&redirect_url='+redirectUrl;
+						  window.location = goLink;
+						});
+					</script>
+</div>
+<div class="search_rightsection" id="search_rightsection" style="display:none;">
+<form name="frmHSearch" method="GET" action="search.php" onsubmit="return ValidSearch();">
+<div class="col-xs-10 col-sm-5">
+<select name="selSearch" class="search_select_feild">
+<option value="All">All</option>
+<option value="All Products">All Products</option>
+<option value="All Services">All Services</option>
+<option value="All Stores">All Business/Stores</option>
+
+<option value="FAQ">FAQ</option>
+<option value="Categories">Categories</option>
+<option value="Countries And Cities">Countries And Cities</option>
+<option value="Description">Description</option>
+<option value="Brand">Brand</option>
+<option value="Condition">Condition</option>
+</select>
+</div>
+<div class="col-xs-10 col-sm-5">
+<input name="txtHomeSearch" type="text" class="search" value="Enter your text here.." onclick="javascript:Clear_text(this,'in');" onblur="javascript:Clear_text(this,'out');" id="">
+</div>
+<div class="col-xs-2 col-sm-2">
+<input type="submit" value="Search" height="21" class="search_btt">
+</div>
+</form>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('.search_main_btt_mob').click(function(){
+			$('.search_rightsection').toggle();
+			$(this).toggleClass('search_mob_finder');
+		});
+
+		$('.channel_login').click(function(eve){
+			eve.preventDefault();
+
+            						
+						var popClasses = window.document.getElementById("orusharepopup").classList;
+            			popClasses.add('is-visible');
+		                return false;
+		            
+						return false;
+			
+		})
+                
+                $('.oru_community').click(function(eve){
+			eve.preventDefault();
+
+                                                    window.open('https://www.orumarketplace.com/login.php?redirecturi=b3J1Y29tbXVuaXR5bG9naW4ucGhw', '');
+                            //window.location = https://www.orumarketplace.com/login.php?redirecturi=b3J1Y29tbXVuaXR5bG9naW4ucGhw;            
+						
+						//var popClasses = window.document.getElementById("orucommunitypopup").classList;
+            			//popClasses.add('is-visible');
+		                //return false;
+		            
+						return false;
+			
+		})
+
+		$('.closepopup').on('click', function(event){
+			
+			$("#orusharepopup").removeClass('is-visible');
+                        $("#orucommunitypopup").removeClass('is-visible');
+				
+		});
+
+		$('.pushy-right').show();
+
+		$('.fa-eye').each(function(){
+			$(this).parent().attr('data-toggle', 'tooltip')
+			$(this).parent().attr('data-placement', 'top')
+			$(this).parent().attr('title', 'View details')
+		})
+	});
+</script>
+
+<div class="cd-popup" id="orusharepopup" role="alert">
+<div class="cd-popup-container">
+<p>The ORU Share is a Premium Member benefit. In order to take advantage of these fantastic benefits, please upgrade to Premium Membership. Remember that Premium Membership also gives you access to the ORU Visa Card, ORU Travel and the ORU Protocol bonus program.</p>
+<ul class="cd-buttons">
+<li><a class="closepopup" href="#0">No, Thanks</a></li>
+<li><a class="2" href="../orucard.php">Go to Premium subscription</a></li>
+</ul>
+</div>
+</div>
+
+
+<div class="chatBoxCon" style="display:none;">
+<input type="hidden" name="selfimg" value="https://prod-orumarket-cdn.s3.amazonaws.com/pics/profile/online_mem_default_icon.png">
+<div id="chatbox">
+
+<div id="friendslist">
+<div class="topmenu">
+<span class="friends selected"></span>
+<span class="chats chats_u"></span>
+<div class="button__badge_1"></div>
+<span class="chats history"></span>
+<div class="button__badge_2"></div>
+<div class="close">
+<div class="cy"></div>
+<div class="cx"></div>
+</div>
+</div>
+<div class="friendscon"></div>
+<div class="searches">
+<input type="text" class="searchfield" placeholder="Search contacts..." data-parent="friendslist">
+</div>
+</div>
+
+<div id="chatview" class="p1">
+<div id="profile">
+<div class="close">
+<div class="cy"></div>
+<div class="cx"></div>
+</div>
+<img src="https://prod-orumarket-cdn.s3.amazonaws.com/images/trash.png" id="delHistory" data-tooltip="Trash">
+<p></p>
+<span></span>
+</div>
+<div class="chat-messages">
+<div id="docs-findbar-spinner">
+<div class="docs-loading-animation">
+<div class="docs-loading-animation-dot-1"></div>
+<div class="docs-loading-animation-dot-2"></div>
+<div class="docs-loading-animation-dot-3"></div>
+</div>
+</div>
+</div>
+<div id="chatimg-con" style="display:none;">
+<div class="chatimagebox_inner">
+<button type="button" class="close rm-chatimage" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" class="">
+<i class="fa fa-times" aria-hidden="true"></i>
+</span>
+</button>
+<img src="" class="chatpreview-img">
+<input type="hidden" value="" id="chatCimage">
+<i class="fa" id="sendChatimg" aria-hidden="true"></i>
+<p class="loadtext" style="margin-top:-10px;display: none;">Loading...</p>
+</div>
+</div>
+<div id="sendmessage">
+<a href="#" class="smilies">
+
+<i class="fa fa-smile-o" aria-hidden="true"></i>
+</a>
+<a class="button" id="photo" style="float:left;" title="Type in a message and choose image to send">
+<i class="fa fa-camera" aria-hidden="true"></i>
+
+</a>
+<div class="sendMsg" id="sendMsg" contenteditable="true" placeholder="Enter message..."></div>
+<button id="send"></button>
+</div>
+<div style="display: none;postion: absolute;" id="fileholder">
+<input type="file" id="photoFile" accept="image/*">
+</div>
+
+
+<script type="text/javascript">
+				// $("a.gallery").on('click', '.chatconimage', function(){
+
+				// 		console.log(12)
+				// 		var $gallery = jQuery('.gallery a').simpleLightbox();
+				// 		$gallery.open();
+				// 		return false;
+				// 	});	
+
+				// $('a.gallery').click(function(event) {
+    // 				event.preventDefault();
+    // 				console.log("P");
+				// });
+
+			</script>
+<div id="smilies_head">
+<a href="#Smileys_People" class="active"><svg id="emoji-input" width="24" height="24" x="1420" y="1450"><style>.bwst0{opacity:.5}.bwst1{fill:#263238}</style><title>assets</title><g class="bwst0"><path class="bwst1" d="M9.5 1.7C4.8 1.7 1 5.5 1 10.2s3.8 8.5 8.5 8.5 8.5-3.8 8.5-8.5-3.8-8.5-8.5-8.5zm0 15.9c-4.1 0-7.4-3.3-7.4-7.4s3.3-7.4 7.4-7.4 7.4 3.3 7.4 7.4-3.3 7.4-7.4 7.4z"></path><path class="bwst1" d="M6.8 9.8c.7-.1 1.2-.7 1.1-1.4-.1-.6-.5-1.1-1.1-1.1-.7 0-1.2.7-1.1 1.4 0 .6.5 1 1.1 1.1zm7.1 1.8c-1.4.2-2.9.3-4.4.4-1.5 0-2.9-.1-4.4-.4-.2 0-.4.1-.4.3v.2c.9 1.8 2.7 2.9 4.7 3 2-.1 3.8-1.2 4.8-3 .1-.2 0-.4-.1-.5h-.2zm-4.1 2c-2.3 0-3.5-.8-3.7-1.4 2.3.4 4.6.4 6.9 0 0 .1-.4 1.4-3.2 1.4zm2.4-3.8c.7-.1 1.2-.7 1.1-1.4-.1-.6-.5-1.1-1.1-1.1-.7 0-1.2.7-1.1 1.4.1.6.5 1 1.1 1.1z"></path></g></svg></a>
+<a href="#Animals_Nature"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" x="1444" y="1474"><style>.bxst0{fill:silver}</style><ellipse class="bxst0" cx="7.2" cy="13.6" rx="1.1" ry="1.4"></ellipse><ellipse class="bxst0" cx="16.9" cy="13.6" rx="1.1" ry="1.4"></ellipse><path class="bxst0" d="M21.5 11.1l-1.2-2.4c.9-.4 1.7-1.3 2-2.2.3-.7.4-2.1-1-3.5-1-.9-2-1.2-2.9-1-1.1.3-1.9 1.2-2.3 1.9-1.4-.7-2.9-.8-4.1-.8-1.5 0-2.8.3-4 .9-.5-.9-1.2-1.8-2.3-2.1-1-.2-2 .1-2.9 1-1 1-1.4 2.2-1 3.4.4 1.1 1.2 1.9 2 2.3-.2.5-.4 1-.6 1.6l-.2.2c-.3.7-.5 1.3-.8 1.9-.4 1-.9 1.9-.9 3.1 0 1.6.8 6.7 10.5 6.7 3.8 0 6.6-.7 8.5-2.2 1.9-1.5 2.2-3.4 2.2-4.3.2-2.1-.2-2.9-1-4.5zm-2.7-7.6c.4-.1.9.1 1.5.6.6.6.8 1.2.6 1.8-.2.6-.7 1.1-1.2 1.3-.6-1.2-1.3-2-2.1-2.6.2-.4.6-1 1.2-1.1zM3.3 5.9c-.2-.6 0-1.2.6-1.8.5-.5 1.1-.7 1.5-.6.5.1 1.1.7 1.3 1.2-.9.7-1.6 1.5-2.2 2.6C4 7 3.4 6.5 3.3 5.9zm17.8 9.7c0 .7-.2 2-1.6 3.1-1.5 1.2-4.1 1.8-7.5 1.8-8.3 0-8.9-3.9-8.9-5.1 0-.8.3-1.5.7-2.4.3-.6.6-1.2.8-2.1l.1-.2c.5-1.5 2-6.2 7.3-6.2 1.2 0 2.5.2 3.7.9.1.1.2.2.4.3h.1c.9.7 1.7 1.7 2.4 3.2.6 1.3 1 2.2 1.4 2.9.8 1.6 1.1 2.1 1.1 3.8z"></path><path class="bxst0" d="M14.6 17c-.1.1-.6.4-1.2.3-.4-.1-.7-.3-.9-.8 0-.1-.1-.1-.1-.2.8-.1 1.3-.6 1.3-1.3 0-.7-.7 0-1.7 0-.9 0-1.7-.7-1.7 0 0 .6.6 1.2 1.4 1.3l-.1.1c-.3.4-.5.7-.9.8-.5.1-1.1-.1-1.3-.3-.2-.2-.5-.1-.7.1-.2.2-.1.5.1.7.1.1.8.5 1.6.5.2 0 .4 0 .5-.1.4-.1.8-.3 1.1-.7.4.4.9.6 1.2.7.8.2 1.7-.2 2-.5.2-.2.2-.5 0-.7-.1 0-.4-.1-.6.1z"></path></svg></a>
+<a href="#Food_Drink"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" x="1372" y="1402"><style>.bust0{fill:silver}</style><path class="bust0" d="M7.4 11.4c-.4 0-.8.4-.8.8V14c0 .4.4.8.8.8s.8-.4.6-.8v-1.8c0-.6-.2-.8-.6-.8zm-2.8-1c-.4 0-.8.4-.8.8V15c0 .4.4.8.8.8s.8-.4.8-.8v-3.8c0-.6-.4-.8-.8-.8z"></path><path class="bust0" d="M23 7.2c-.6-.6-1.6-.8-2.8-.6-.2 0-.4.2-.6.2V4.2c0-.6-.6-1.2-1.2-1.2h-17C.8 3 .2 3.6.2 4.2v7.4c0 5.4 3.2 9.6 8.4 9.6h2.2c4.2 0 7-2.6 8-6h.4c2.2-.4 4-2.6 4.4-4.8.4-1.4.2-2.4-.6-3.2zm-4.8-2.8v3H1.6v-3h16.6zM11 19.8H8.8c-5.2 0-7-4.4-7-8.2V8.8h16.6v2.8c-.2 4-2.4 8.2-7.4 8.2zm8.4-6.2c.2-.6.2-1.4.2-2V8.4c.4-.2.6-.4 1-.4.6-.2 1.2 0 1.4.4.4.4.6 1 .4 1.8-.2 1.4-1.6 3-3 3.4z"></path></svg></a>
+<a href="#Activity"><svg xmlns="http://www.w3.org/2000/svg" id="emoji-activity" width="24" height="24" x="1324" y="1354"><style>.bsst0{fill:silver}</style><path class="bsst0" d="M14.8 15.3l1.3-3.8c.1-.2 0-.5-.2-.6l-3.3-2.4c-.2-.1-.5-.1-.6 0l-3.3 2.4c-.2.1-.3.4-.2.6l1.3 3.8c.1.2.3.4.5.4h4c.2 0 .4-.2.5-.4z"></path><path class="bsst0" d="M12 1.9C6.4 1.9 1.9 6.4 1.9 12S6.4 22.1 12 22.1 22.1 17.6 22.1 12 17.6 1.9 12 1.9zM9.8 20.3c.1-.2.1-.4 0-.6l-1.4-2.3c-.1-.1-.2-.2-.4-.3l-2.5-.6c-.2-.1-.5.1-.6.2-.9-1.3-1.4-2.9-1.5-4.5.2 0 .4 0 .5-.2l1.7-2c.1 0 .2-.2.2-.3l-.3-2.6c0-.2-.1-.3-.3-.4C6.2 5.4 7.5 4.5 9 4c0 .1.2.3.3.3l2.5 1.1c.1.1.3.1.4 0l2.5-1.1.3-.3c1.5.6 2.7 1.5 3.7 2.7-.1.1-.2.2-.2.4l-.2 2.6c0 .2 0 .3.1.4l1.7 2c.1.1.3.2.4.2 0 1.6-.5 3.1-1.3 4.4-.1-.1-.2-.1-.4-.1l-2.5.6c-.1 0-.3.1-.4.3l-1.4 2.3c-.1.2-.1.3 0 .5-.8.2-1.6.4-2.5.4-.7-.1-1.5-.2-2.2-.4z"></path></svg></a>
+<a href="#Travel_Places"><svg xmlns="http://www.w3.org/2000/svg" id="emoji-travel" width="24" height="24" x="1564" y="1594"><style>.ccst0{fill:silver}</style><path class="ccst0" d="M21.5 11.5c0-.7-.1-1.4-.3-2l-1.5-4.3C19.2 3.9 18 3 16.6 3H7.3c-1.4 0-2.6.9-3.1 2.2L2.6 9.9c-.1.4-.2.7-.2 1.1v8.6c0 .6.5 1.1 1.1 1.1h1.1c.6 0 1.1-.5 1.1-1.1v-1.1h12.7v1.1c0 .6.5 1.1 1.1 1.1h1.1c.6 0 1.1-.5 1.1-1.1v-7.4l-.2-.7zM4.1 10.4l1.6-4.7c.2-.7.9-1.2 1.7-1.2h9.2c.7 0 1.4.5 1.6 1.2l1.5 4.3c.1.3.2.6.2.8H4c-.1-.1 0-.3.1-.4zm1.4 5.7c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5 1.5.7 1.5 1.5c-.1.8-.7 1.5-1.5 1.5zm9.4-.6H9.3c-.5 0-1-.4-1-1 0-.5.4-1 1-1h5.6c.5 0 1 .4 1 1-.1.6-.5 1-1 1zm3.7.6c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5 1.5.7 1.5 1.5-.7 1.5-1.5 1.5z"></path></svg></a>
+<a href="#Objects"><svg xmlns="http://www.w3.org/2000/svg" id="emoji-objects" width="24" height="24" x="1468" y="1498"><style>.byst0{fill:silver}</style><path class="byst0" d="M18.8 6.7c-.9-2.6-3.2-4.6-6-4.9h-1.6c-2.8.3-5.1 2.2-6 4.9-1 3 .1 6.2 2.7 8H8c.2.1.3.4.3.6v2c0 .8.6 1.4 1.4 1.4h4.6c.8 0 1.4-.6 1.4-1.4v-2c0-.2.1-.5.3-.6l.1-.1c2.5-1.8 3.6-5 2.7-7.9zm-3.5 6.9l-.1.1c-.5.4-.9 1-.9 1.7v2s0 .1-.1.1H9.8s-.1 0-.1-.1v-2c0-.7-.3-1.3-.9-1.7l-.1-.1c-2-1.4-3-4-2.2-6.5.7-2.1 2.6-3.7 4.9-3.9h1.3c2.2.2 4.2 1.8 4.9 3.9.7 2.4-.2 5-2.3 6.5zm-6.1 7.6c0 .6.5 1 1 1h3.7c.6 0 1-.5 1-1v-1H9.2v1z"></path><path class="byst0" d="M13.6 10.5c-.4 0-.8.3-.8.8 0 .1 0 .2.1.3-.2.3-.5.5-.8.5-.3 0-.6-.2-.8-.5 0-.1.1-.2.1-.3 0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8 0 .4.3.7.7.8.3.4.7.7 1.1.8V15c0 .2.2.4.4.4s.4-.2.4-.4v-2.1c.4-.1.8-.4 1.1-.8.4 0 .8-.3.8-.8s-.3-.8-.7-.8z"></path></svg></a>
+<a href="#Symbols"><svg xmlns="http://www.w3.org/2000/svg" id="emoji-symbols" width="24" height="24" x="1540" y="1570"><style>.cbst0{fill:silver}</style><path class="cbst0" d="M14.5 12.9V11h2.2l-.2-1.3h-2V7.3H13v2.5h-2V7.4H9.5v2.4H7.2l.2 1.2h2.1v1.9H7.3l.2 1.3h2v2.4H11v-2.4h2v2.4h1.5v-2.4h2.3l-.2-1.3h-2.1zM11 11h2v1.9h-2V11z"></path><path class="cbst0" d="M16.1 2.6H7.9C5 2.6 2.6 5 2.6 7.9V16c0 3 2.4 5.3 5.3 5.3H16c3 0 5.3-2.4 5.3-5.3V7.9c.1-2.9-2.3-5.3-5.2-5.3zm3.8 13.5c0 2.1-1.7 3.8-3.8 3.8H7.9c-2.1 0-3.8-1.7-3.8-3.8V7.9c0-2.1 1.7-3.8 3.8-3.8H16c2.1 0 3.8 1.7 3.8 3.8v8.2z"></path></svg></a>
+<a href="#Flags"><svg xmlns="http://www.w3.org/2000/svg" id="emoji-flags" width="24" height="24" x="1348" y="1378"><style>.btst0{fill:silver}</style><path class="btst0" d="M5.5 3.8v-.2c0-.3-.2-.5-.5-.5h-.5c-.3 0-.5.2-.5.5V21c0 .3.2.5.5.5H5c.3 0 .5-.2.5-.5v-6.2c5 1.8 9.3-2.7 14.5.6V4.1C14.9 1 10.3 5.6 5.5 3.8zm10.3 8.8c-1.4 0-2.8.3-4.1.6-1.2.3-2.4.5-3.5.5-.9 0-1.8-.2-2.6-.5V5.4c.8.2 1.5.3 2.3.3 1.5 0 2.9-.4 4.3-.7 1.3-.3 2.5-.6 3.8-.6.9 0 1.7.2 2.5.5V13c-.9-.2-1.8-.4-2.7-.4z"></path></svg></a>
+</div>
+<div id="smilies">
+<div id="Smileys_People" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f600"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f601"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f602"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f603"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f604"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f605"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f606"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f607"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f608"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f609"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f60a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f60b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f60c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f60d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f60e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f60f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f610"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f611"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f612"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f613"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f614"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f615"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f616"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f617"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f618"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f619"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f61a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f61b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f61c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f61d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f61e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f61f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f620"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f621"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f622"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f623"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f624"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f625"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f626"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f627"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f628"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f629"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f62a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f62b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f62c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f62d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f62e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f62f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f630"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f631"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f632"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f633"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f634"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f635"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f636"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f637"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f638"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f639"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f63a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f63b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f63c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f63d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f63e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f63f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f640"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f641"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f642"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f643"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f644"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f645"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f646"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f647"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f648"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f649"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f64a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f64b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f64c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f64d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f64e"></span></span></div><div id="Animals_Nature" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4a6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4a7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4a8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f400"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f401"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f402"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f403"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f404"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f405"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f406"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f407"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f408"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f409"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f40a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f40b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f40c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f40d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f40e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f40f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f410"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f411"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f412"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f413"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f414"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f415"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f416"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f417"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f418"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f419"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f41a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f41b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f41c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f41d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f41e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f41f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f420"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f421"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f422"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f423"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f424"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f425"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f426"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f427"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f428"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f429"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f42a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f42b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f42c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f42d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f42e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f42f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f430"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f431"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f432"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f433"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f434"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f435"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f436"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f437"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f438"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f439"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f43a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f43b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f43c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f43d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f43e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f43f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f30d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f30e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f30f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f310"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f311"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f312"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f313"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f314"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f315"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f316"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f317"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f318"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f319"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f31a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f31b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f31c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f31d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f31e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f31f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f320"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f321"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f324"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f325"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f326"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f327"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f328"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f329"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f32a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f32b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f32c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f331"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f332"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f333"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f334"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f335"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f336"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f337"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f338"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f339"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f33a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f33b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f33c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f33d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f33e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f33f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f340"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f341"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f342"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f343"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f344"></span></span></div><div id="Food_Drink" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f345"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f346"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f347"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f348"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f349"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f34a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f34b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f34c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f34d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f34e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f34f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f350"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f351"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f352"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f353"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f354"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f355"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f356"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f357"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f358"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f359"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f35a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f35b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f35c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f35d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f35e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f35f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f360"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f361"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f362"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f363"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f364"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f365"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f366"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f367"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f368"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f369"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f36a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f36b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f36c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f36d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f36e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f36f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f370"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f371"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f372"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f373"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f374"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f375"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f376"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f377"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f378"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f379"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f37a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f37b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f37c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f37d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f37e"></span></span></div><div id="Activity" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3a4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3a5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3a6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3a7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3a8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3a9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3aa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ab"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ac"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ad"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ae"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3af"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3b9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ba"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3bb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3bc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3bd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3be"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3bf"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3c9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ca"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3cb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3cc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3cd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ce"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3cf"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d3"></span></span></div><div id="Travel_Places" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3d9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3da"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3db"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3dc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3dd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3de"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3df"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f3f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f680"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f681"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f682"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f683"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f684"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f685"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f686"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f687"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f688"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f689"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f68a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f68b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f68c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f68d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f68e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f68f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f690"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f691"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f692"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f693"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f694"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f695"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f696"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f697"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f698"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f699"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f69a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f69b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f69c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f69d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f69e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f69f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f6a0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f6a1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f6a2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f6a3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f6a4"></span></span></div><div id="Objects" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4c9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4ca"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4cb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4cc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4cd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4ce"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4cf"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4d9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4da"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4db"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4dc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4dd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4de"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4df"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4fd"></span></span></div><div id="Symbols" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f493"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f494"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f495"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f496"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f497"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f498"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f499"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f49a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f49b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f49c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f49d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f49e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f49f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f4a0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2139"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2194"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2195"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2196"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2197"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2198"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2199"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji21a9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji21aa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji231a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji231b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2328"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji23fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji25b6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji25c0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2622"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2623"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2626"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji262a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji262e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji262f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2638"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2648"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2649"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji264a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji264b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji264c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji264d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji264e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji264f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2650"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2651"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2652"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2653"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2660"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2663"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2665"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2666"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2668"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji267b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji267f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2692"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2693"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2694"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2696"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2697"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2699"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji269b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji269c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji26a0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji26a1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji26aa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji26ab"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji27a1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2934"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2935"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2b05"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2b06"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2b07"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2b1b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2b1c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2b50"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji2b55"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji3030"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji303d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji3297"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji3299"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f004"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f0cf"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f170"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f171"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f17e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f17f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f18e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f191"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f192"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f193"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f194"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f195"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f196"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f197"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f198"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f199"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f19a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f201"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f202"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f21a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f22f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f232"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f233"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f234"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f235"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f236"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f237"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f238"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f239"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f23a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f250"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f251"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f300"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f53c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f53d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f549"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f54a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f54b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f54c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f54d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f54e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f550"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f551"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f552"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f553"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f554"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f555"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f556"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f557"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f558"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f559"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f55a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f55b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f55c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f55d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f55e"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f55f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f560"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f561"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f562"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f563"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f564"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f565"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f566"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f567"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f56f"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f570"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f573"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f574"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f575"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f576"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f577"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f578"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f579"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f587"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f58a"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f58b"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f58c"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f58d"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f590"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f595"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f596"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5a5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5a8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5b1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5b2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5bc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5c2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5c3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5c4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5d1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5d2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5d3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5dc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5dd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5de"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5e1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5e3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5fd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f5ff"></span></span></div><div id="Flags" class="single-column"><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1f6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1fd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e61f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1e7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e71f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1f5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1fd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e81f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e91f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e91f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e91f1ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e91f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e91f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e91f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1e91f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ea1f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1eb1f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1eb1f1ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1eb1f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1eb1f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1eb1f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1eb1f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1e7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ec1f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ed1f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ed1f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ed1f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ed1f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ed1f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ed1f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ee1f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ef1f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ef1f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ef1f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ef1f1f5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1f5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f01f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1e7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f11f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1fd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f21f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1f5"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f31f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f41f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f51f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f61f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f71f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f71f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f71f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f71f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f71f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1e7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1fd"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f81f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1e9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1ed"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1ef"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1f1"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1f4"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1f7"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1fb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1fc"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1f91f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fa1f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fa1f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fa1f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fa1f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fa1f1fe"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fa1f1ff"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fb1f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fb1f1e8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fb1f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fb1f1ec"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fb1f1ee"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fb1f1f3"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fb1f1fa"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fc1f1eb"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fc1f1f8"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fd1f1f0"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fe1f1ea"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1fe1f1f9"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ff1f1e6"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ff1f1f2"></span></span><span class="emoji-outer emoji-sizer" contenteditable="false"><span class="emoji-inner emoji1f1ff1f1fc"></span></span></div> </div>
+</div>
+
+<div id="chathistoryview">
+<div class="topmenu">
+<span class="friends"></span>
+<span class="chats chats_u"></span>
+<div class="button__badge_1"></div>
+<span class="chats history"></span>
+<div class="button__badge_2"></div>
+<div class="close">
+<div class="cy"></div>
+<div class="cx"></div>
+</div>
+</div>
+<div class="friendscon"></div>
+<div class="searches">
+<input type="text" class="searchfield" placeholder="Search contacts..." data-parent="chathistoryview">
+</div>
+</div>
+</div>
+</div>
+<div class="full_width inner_cont_main_outer">
+<div class="cont_L_R_outer">
+<div class="cont_L_R_row">
+
+<div class="cont_R">
+<div class="col-xs-12 col-sm-1"></div>
+<div class="full_width main_contant col-xs-12 col-sm-10">
+<h1 class="inner_page_head">PRIVACY AND DATA PROTECTION POLICY</h1>
+<div class="full_width">
+<div class="static_main_outer">
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">This privacy policy relates to use of the <strong>ORU MARKET</strong> websites at <a href="https://www.orumarketplace.com">https://www.orumarketplace.com</a>&nbsp;and <a href="http://www.orumarket.com">http://www.orumarket.com</a></span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">This privacy policy covers how the <strong>ORU Market</strong> (hereafter named "we") will treat personal information that we collect. Personal information is your information and includes identifiers like your name, address, email address, and phone number.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Personal data is defined as any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">ORU Market does NOT collect information related to special categories of personal data which include information about an individual's racial or ethnic origin, political opinions, religious or similar beliefs, trade union membership (or non-membership), physical or mental health or condition, criminal offences, or related proceedings, and genetic and biometric information.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Our Commitment To Privacy</strong><br>
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>The Information We Collect:</strong><br>
+This notice applies to all information collected or submitted on the <strong>ORU Market</strong> website. On several pages, you can buy products or services, make offers, counteroffers, negotiate,&nbsp;and make requests.&nbsp;&nbsp;The types of personal information collected at these pages are:</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Name<br>
+Address<br>
+Email address<br>
+Phone number<br>
+Demographic information<br>
+IP Address information</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>The Way We Use Information:</strong><br>
+We use the information you provide about yourself when executing a transaction,&nbsp;only to complete that transaction. We do not share this information with outside parties except to the extent necessary to complete that transaction, such as shipping and delivery companies.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">We use the information you provide about someone else when creating a transaction&nbsp;only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that transaction.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">We use non-identifying and aggregate information to better design our website.&nbsp;</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Our Commitment To Data Security</strong><br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Our Commitment To Children's Privacy:</strong><br>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 12, and no part of our website is structured to attract anyone under 13.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>How You Can Access Or Correct Your Information</strong><br>
+You can access all your personally identifiable information that we collect online and maintain by logging into your <strong>ORU Market</strong> account and view your contact details. We use this procedure to better safeguard your information.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">You can correct factual errors in your personally identifiable information at any time by editing your market profile.&nbsp;</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">We may update this policy at any time for any reason. If there are any significant changes to how we handle personal information, we will send a notice to the primary email address specified in your <strong>ORU Market</strong> account or by placing a prominent notice on our site.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">A data controller is a natural of legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by law.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">This Privacy Policy and Data Protection Policy has been updated on: May 24, 2018</span></span></p>
+<p><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#ff8c00"><strong>Thank you and have an Orutopian day!</strong></span></span></span></p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-1"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="footer_outer">
+<div class="footer_inner">
+<div class="footer">
+<div class="full_width">
+<div class="ftr_menu col-xs-12">
+<div class="footer_logo"><img src="https://prod-orumarket-cdn.s3.amazonaws.com/images/footer_logo.png" alt="" class="img-responsive"></div>
+<div class="footer_link_outer"><ul><li><a href="aboutus.php">About Us</a></li><li><a href="sentinel.php">Sentinel</a></li><li><a href="oruvisa.php">ORUCARD</a></li><li><a href="privacy.php"><span>Privacy Policy</span></a></li></ul></div><div class="footer_link_outer"><ul><li><a href="terms.php">Terms</a></li><li><a href="allcategories.php">Category Display</a></li><li><a href="faq.php">FAQ</a></li><li><a href="contactus.php">Contact Us</a></li></ul></div><div class="footer_link_outer"><ul><li><a href="sitemap.php">Navigate</a></li></ul></div>
+<div class="footer_contact">
+<div class="footer_contact_inner">
+<p>ORU Market<br>
+&nbsp;</p>
+
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="rssfeed_ftr">
+</div>
+<div class="bmrknshare_ftr">
+</div>
+</div>
+<div class="full_width">
+</div>
+<div class="full_width"></div>
+<div class="clearfix"></div>
+</div>
+<div class="copy_right_outer">
+<p>© 2011-2018 ORU Market or its affiliates - All Rights Reserved</p>
+</div>
+</div>
+</div>
+
+<link rel="stylesheet" href="./styles/right_nav.css">
+<link rel="stylesheet" href="./styles/pushy.css">
+<script src="./js/pushy.js"></script>
+<script>
+		var optionSideRight = {
+			button: "side-right-pushy-button",
+			container: "container",
+			containerPush: true,
+			menuPosition: "right",
+			menuOpen: false,
+			overlayShow: false
+		};
+		$("#sideRightPushy").Pushy(optionSideRight);
+	</script>
+
+
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/AdminLTE.css">
+<link rel="stylesheet" href="https://www.orumarketplace.com/styles/skin-blue.css">
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+
+<script src="https://www.orumarketplace.com/js/app.min.js"></script>
 
 
 </body></html>
