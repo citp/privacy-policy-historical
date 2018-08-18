@@ -1,116 +1,78 @@
-> *The following text is extracted and transformed from the adsender.us privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121024304id_/http%3A//www.lucinilucini.com/p/privacy-14-p.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsender.us privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819001759id_/http%3A//www.lucinilucini.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Lucini&Lucini Communications - Email Marketing Leader
+# Privacy | Lucini & Lucini Communications
 
 ## Privacy
 
-THE PRIVACY POLICY OF THIS SITE
+This page describes the procedures of site management in relation to the processing of its Users’ personal data on this website: Lucinilucini.com. This policy only applies to this Website and not for other sites accessed via links present in the site.
 
-This page describes the procedures of site management in relation to the processing of its Users’ personal data.   
-This information follows article 13 of Legislative Decree number 196/2003 – Code on personal data protection of those who interact with the sites of the domain:
+This information is also based on Recommendation number 2/2001 adopted 17 May 2001 by the European authorities to protect personal data, grouped by article 29 of directive 95/46/CE and pursuant to the EU Regulation 2016/679 of 27 April 2016 (hereinafter referred to as Applicable Laws)
 
-lucinilucini.com
+THE “OWNER” OF THE PROCESSING (DATA CONTROLLER)
 
-  
-This policy only applies to this Website and not for other sites accessed via links.   
-This information is also based on Recommendation number 2/2001 adopted 17 May 2001 by the European authorities to protect personal data, grouped by article 29 of directive 95/46/CE, to identify the minimum requirements for collecting personal data on line and, particularly, the manner, timing and nature of the information provided to the Users at the time of logging on, regardless of the purpose of the link.
+Following consultation of this site, general data or personal data of persons may be processed, this Site and any services offered through this Site are reserved for individuals who are at least sixteen years old. The Data Controller therefore does not collect personal data relating to persons under the age of 16.
 
-NOTICE
+The “owner” of their treatment is Lucini & Lucini Communications Ltd. (hereinafter referred to as Lucini & Lucini) with its Headquarters in 19, Fitzwilliam Place, Dublin 2, Ireland.
 
-THE “OWNER” OF THE PROCESSING  
-Following consultation of this site, data on persons identified or identifiable may be processed.  
-The “owner” of their treatment is Lucini & Lucini Communications Europe S.r.l. with its Headquarters in Osnago (LC) - ITALY, via G. Marconi 14, 23875.
+PLACE OF DATA PROCESSING
 
-  
-PLACE OF DATA PROCESSING   
-The processing of personal data related to this site occurs in the Headquarters of Lucini & Lucini Communications Europe S.r.l. in Osnago (LC) - ITALY, via G. Marconi 14, 23875 and is only carried out by staff charged to do or by those eventually required to carry out occasional maintenance operations.  
-No personal information is communicated or disclosed.   
-Personal data provided by Users who contact Lucini & Lucini Communications Europe S.r.l. is only used to provide the information requested and shall only be provided to third parties when necessary.
+The processing of personal data related to this site occurs at Lucini & Lucini Communications Ltd. in 19, Fitzwilliam Place, Dublin 2, Ireland and is only carried out by staff in charge to do so or by those eventually required to carry out occasional maintenance operations.
 
-  
-TYPE OF DATA PROCESSED  
-Navigation Data   
-IT systems and software procedure software for running this site acquire, during normal activity, some personal data whose transmission is implicit in the communication protocols of the Internet.   
-This information is not collected to be linked to identified individuals but could, through processing and association with data held by third parties, allow Users to be identified.   
-This category of data includes IP addresses or domain names of computers of Users who are connected to the site, the URI (Uniform Resource Identifier) of resources requested, the time of the request, the method used to submit the request to the server, the size of the file obtained in reply, the numerical code indicating the status of the server’s response (successful, error etc) and other parameters relating to the operating system and User’s IT environment.  
+No personal information is communicated or disclosed.
+
+If the User provides their personal data, Lucini & Lucini will treat them with the only purpose of satisfying his request and sending him the information that the User requests, either by email, or by the means that he indicates.
+
+TYPE OF DATA PROCESSED
+
+Navigation Data
+
+IT systems and software procedure for running this site acquire, during normal activity, some personal data whose transmission is implicit in the communication protocols of the Internet.
+
+This information is not collected to be linked to identified individuals but could, through processing and association with data held by third parties, allow Users to be identified.
+
+This category of data includes IP addresses or domain names of computers of Users who are connected to the site, the URI (Uniform Resource Identifier) of resources requested, the time of the request, the method used to submit the request to the server, the size of the file obtained in reply, the numerical code indicating the status of the server’s response (successful, error etc) and other parameters relating to the operating system and User’s IT environment.
+
 This data is used purely to obtain anonymous statistical information on site usage and to control its correct functioning. It is deleted immediately after processing. Data can be used to ascertain responsibility in the case of hypothetical computer crimes to the detriment of the site. Apart from this eventuality, the data on Websites is not accessible for over seven days.
 
-Data provided voluntarily by the User  
+Data provided voluntarily by the User
+
 The optional, explicit and voluntary sending of e-mails to addresses listed on this site involves the sender’s acceptance to respond to messages, as well as any other personal data included in the message.
 
-COOKIES  
-Cookies are small text files that are sent to the User’s computer.   
-The Site uses different types of cookies:   
-Temporary session Cookies: the use of temporary session Cookies (which are not memorized permanently on the User’s computer and disappear when the browser is closed down) is strictly limited to the purpose of transmitting data sessions (consisting of random numbers generated by the server) necessary to enable a safe and efficient Website.  
-The use of DART cookies (<http://www.doubleclick.com/privacy/faq.aspx>) allows Google Inc to publish advertisements for Users based on their visit to the site and other Internet sites. Users can choose not to use DART cookies by consulting the relative pages on Google on privacy laws of content network and announcements: <http://www.google.co.uk/privacy_ads.html>.  
-Persistent cookies are used by third parties solely for statistical purposes. We remind you that should you not wish to receive cookies, you can set your browser to block them (consult your provider for clarification on setting cookies).  
-Such information is also provided by and in accordance with Directive 2002/58/CE.
+COOKIES
 
-OPTIONAL COMMUNICATION OF PERSONAL DATA  
-As well as that specified, the User may provide personal data when contacting THE PRIVACY POLICY OF THIS SITE
+Cookies are small text files that are sent to the User’s computer.
 
-This page describes the procedures of site management in relation to the processing of its Users’ personal data.   
-This information follows article 13 of Legislative Decree number 196/2003 – Code on personal data protection of those who interact with the sites of the domain:
+The Site uses different types of cookies:
 
-lucinilucini.com
+Temporary session Cookies: the use of temporary session Cookies (which are not memorized permanently on the User’s computer and disappear when the browser is closed down) is strictly limited to the purpose of transmitting data sessions (consisting of random numbers generated by the server) necessary to enable a safe and efficient Website.
 
-  
-This policy only applies to this Website and not for other sites accessed via links.   
-This information is also based on Recommendation number 2/2001 adopted 17 May 2001 by the European authorities to protect personal data, grouped by article 29 of directive 95/46/CE, to identify the minimum requirements for collecting personal data on line and, particularly, the manner, timing and nature of the information provided to the Users at the time of logging on, regardless of the purpose of the link.
+The use of DART cookies (http://www.doubleclick.com/privacy/faq.aspx) allows Google Inc to publish advertisements for Users based on their visit to the site and other Internet sites. Users can choose not to use DART cookies by consulting the relative pages on Google on privacy laws of content network and announcements: http://www.google.co.uk/privacy_ads.html.
 
-NOTICE
+Persistent cookies are used by third parties solely for statistical purposes. We remind that should Users not wish to receive cookies, they can set their browser to block them (consult their provider for clarification on setting cookies).
 
-THE “OWNER” OF THE PROCESSING  
-Following consultation of this site, data on persons identified or identifiable may be processed.  
-The “owner” of their treatment is Lucini & Lucini Communications Europe S.r.l. with its Headquarters in Osnago (LC) - ITALY, via G. Marconi 14, 23875.
+OPTIONAL COMMUNICATION OF PERSONAL DATA
 
-  
-PLACE OF DATA PROCESSING   
-The processing of personal data related to this site occurs in the Headquarters of Lucini & Lucini Communications Europe S.r.l. in Osnago (LC) - ITALY, via G. Marconi 14, 23875 and is only carried out by staff charged to do or by those eventually required to carry out occasional maintenance operations.  
-No personal information is communicated or disclosed.   
-Personal data provided by Users who contact Lucini & Lucini Communications Europe S.r.l. is only used to provide the information requested and shall only be provided to third parties when necessary.
+We do not record any Personal Data name, address, telephone number, email address or any other personal information of the User that may be voluntarily published in the “Contact Us”, ”Leave a message” or “Live Chat” section other than those that the User voluntarily provided, for example, as part of an enquiry or during an attempt to establish a contractual relationship.
 
-  
-TYPE OF DATA PROCESSED  
-Navigation Data   
-IT systems and software procedure software for running this site acquire, during normal activity, some personal data whose transmission is implicit in the communication protocols of the Internet.   
-This information is not collected to be linked to identified individuals but could, through processing and association with data held by third parties, allow Users to be identified.   
-This category of data includes IP addresses or domain names of computers of Users who are connected to the site, the URI (Uniform Resource Identifier) of resources requested, the time of the request, the method used to submit the request to the server, the size of the file obtained in reply, the numerical code indicating the status of the server’s response (successful, error etc) and other parameters relating to the operating system and User’s IT environment.  
-This data is used purely to obtain anonymous statistical information on site usage and to control its correct functioning. It is deleted immediately after processing. Data can be used to ascertain responsibility in the case of hypothetical computer crimes to the detriment of the site. Apart from this eventuality, the data on Websites is not accessible for over seven days.
+Users’ personal data are collected and processed for the sole purpose of processing their request. No other treatment will be carried out by the Data Controller in relation to the personal data of the Users. Notwithstanding the provisions elsewhere in this privacy statement, under no circumstances will the Data Controller make the personal data of the Users accessible to other Users and / or third parties except for those defined by law.
 
-Data provided voluntarily by the User  
-The optional, explicit and voluntary sending of e-mails to addresses listed on this site involves the sender’s acceptance to respond to messages, as well as any other personal data included in the message.
+PROCESSING METHODS
 
-COOKIES  
-Cookies are small text files that are sent to the User’s computer.   
-The Site uses different types of cookies:   
-Temporary session Cookies: the use of temporary session Cookies (which are not memorized permanently on the User’s computer and disappear when the browser is closed down) is strictly limited to the purpose of transmitting data sessions (consisting of random numbers generated by the server) necessary to enable a safe and efficient Website.  
-The use of DART cookies (<http://www.doubleclick.com/privacy/faq.aspx>) allows Google Inc to publish advertisements for Users based on their visit to the site and other Internet sites. Users can choose not to use DART cookies by consulting the relative pages on Google on privacy laws of content network and announcements: <http://www.google.co.uk/privacy_ads.html>.  
-Persistent cookies are used by third parties solely for statistical purposes. We remind you that should you not wish to receive cookies, you can set your browser to block them (consult your provider for clarification on setting cookies).  
-Such information is also provided by and in accordance with Directive 2002/58/CE.
+The Data Controller will process the personal data of Users using manual and IT tools, with logic strictly related to the purposes themselves and, in any case, in order to guarantee the security and confidentiality of the data.
 
-OPTIONAL COMMUNICATION OF PERSONAL DATA  
-As well as that specified, the User may provide personal data when contacting Lucini & Lucini Communications Europe S.r.l. under any request for information.   
-Failure to do so may make the service impossible to provide.
+Specific security measures are taken to prevent data loss, abuse or incorrect usage and non-authorized access.
 
-PROCESSING METHODS   
-Personal data is processed by automated tools purely for the time needed to achieve the original purpose of collating the aforementioned data.  
-Specific security measures are taken to prevent data loss, abuse or incorrect usage and non authorized access.
+The personal data of the Users of the Site will be kept for the time strictly necessary to carry out the primary purposes described above, or however as necessary for the protection in civil law of the interests of both the Users and the Data Controller.
 
-RIGHTS OF INTERESTED PARTIES   
-The afore-mentioned individuals have the right at any moment to obtain confirmation of the data and to know its origin, in order to verify the accuracy of request integration, updating or rectification (art. 7 of Directive n. 196/2003).  
-Under the same article, they have the right to request the cancellation, transformation into anonymity or blocking of data processed in violation of the Law and to oppose, in any case, for legitimate reasons, processing of the afore-mentioned data.   
-Requests are to be sent to [info@grifinteractive.com](mailto:info@grifinteractive.com)
+RIGHTS OF INTERESTED PARTIES
 
-   
- S.r.l. under any request for information.   
-Failure to do so may make the service impossible to provide.
+The afore-mentioned individuals have the right at any moment to obtain confirmation of the data, to know its origin, for updating or rectification. They also have the right to request the data portability, restriction or objection of processing, erasure or transformation into anonymity or any other rights granted by the Applicable Laws.
 
-PROCESSING METHODS   
-Personal data is processed by automated tools purely for the time needed to achieve the original purpose of collating the aforementioned data.  
-Specific security measures are taken to prevent data loss, abuse or incorrect usage and non authorized access.
+Requests can be made:
 
-RIGHTS OF INTERESTED PARTIES   
-The afore-mentioned individuals have the right at any moment to obtain confirmation of the data and to know its origin, in order to verify the accuracy of request integration, updating or rectification (art. 7 of Directive n. 196/2003).  
-Under the same article, they have the right to request the cancellation, transformation into anonymity or blocking of data processed in violation of the Law and to oppose, in any case, for legitimate reasons, processing of the afore-mentioned data.   
-Requests are to be sent to [info@lucinilucini.com](mailto:info@lucinilucini.com)
+  * By sending a registered letter with return receipt to the registered office of the Data Controller (19 Fitzwilliam Place, Dublin 2, Ireland)
+
+  * By sending an e-mail to the address info@lucinilucini.com
+
+
+
