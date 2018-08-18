@@ -1,86 +1,148 @@
-> *The following text is extracted and transformed from the poweredtemplate.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014004038id_/http%3A//www.poweredtemplate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweredtemplate.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818131138id_/https%3A//poweredtemplate.com/privacy-policy) for the most accurate reproduction.*
 
 # PoweredTemplate.com - Privacy Policy
 
-Powered Template Limited. (hereafter referred to as PoweredTemplate) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+Data protection is of a particularly high priority for the management of PoweredTemplate.com. When the processing of your personal data is necessary and if there is no basis for such processing, we will obtain your consent.
 
-**What this Privacy Policy Covers**
+Processing of personal data, including your name, address, email address, or phone number will always be in line with the General Data Protection Regulation (GDPR), and in accordance with other data protection regulations applicable to PoweredTemplate.com
 
-  * This privacy policy covers PoweredTemplate’s treatment of personally identifiable information collected by PoweredTemplate through a website owned and operated by PoweredTemplate. 
-  * This privacy policy does not apply to the practices of companies that PoweredTemplate does not own or control, or of persons that PoweredTemplate does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which PoweredTemplate websites link. 
+Via this data protection declaration, we are informing the general public of the nature, scope, and purpose of the personal data we collect, use, and process. Furthermore, you are informed, by this data protection declaration, of the rights to which you are entitled.
 
+As the data controller and data processor, PoweredTemplate.com has implemented numerous technical and organizational measures to ensure complete protection of your personal data throughout the website. Since Internet-based data transmissions may have security gaps, absolute protection is not guaranteed. This is why every data subject is free to transfer personal data to us via all available means, e.g. by email or phone support.
 
-
-**Collection and Use of Personal Information**
-
-  * You can visit the websites of PoweredTemplate without revealing any personal information. However, PoweredTemplate needs certain personal information if you wish to purchase our products, receive PoweredTemplate newsletter, or use certain PoweredTemplate services. 
-  * Where required, this information may include your personal contact information and/or your company contact information. PoweredTemplate will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member’s account, and to contact you regarding new products and services. 
-  * By accessing the services of PoweredTemplate and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy. 
+  
 
 
+### NAME AND ADDRESS OF THE CONTROLLER
 
-**Collection and Use of Non-Personal Information**
+Controller for the purposes of the General Data Protection Regulation (GDPR) is:
 
-  * PoweredTemplate automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. PoweredTemplate may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, PoweredTemplate does not connect this non-personal data to any personal information collected from you. 
-  * PoweredTemplate also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and PoweredTemplate assumes no responsibility or liability for this usage. 
+ **Powered Template Limited**  
+International House, 24 Holborn Viaduct, London  
+EC1A 2BN, United Kingdom
 
+Owner contact email: [privacy@poweredtemplate.com](mailto:privacy@poweredtemplate.com)
 
-
-**Information Sharing and Disclosure**
-
-  * PoweredTemplate may disclose your personal information to third parties who work on behalf of PoweredTemplate to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information 
-  * PoweredTemplate may otherwise disclose your personal information when:  
-
+  
 
 
+### IN THIS POLICY WE WILL EXPLAIN:
 
-  * We have your express consent to share the information for a specified purpose;
-  * We need to respond to subpoenas, court orders or such other legal process;
-  * We need to protect the personal safety of the users of our websites or defend the rights or property of PoweredTemplate; 
-  * We find that your actions on our websites violate the PoweredTemplate Terms of Use document or any of our usage guidelines for specific products or services. 
+  
 
 
+### WHAT TYPES OF INFORMATION DOES POWEREDTEMPLATE COLLECT?
 
-**User ID Tracking**
+We collect certain information about visitors and users of our websites.
 
-  * PoweredTemplate uses Google Analytics to track and analyze website visits and usage. Google Analytics uses a unique User ID when a user is authenticated and logged in. 
-  * On Behalf of PoweredTemplate, Google Analytics tracks users flow, location by country, language, browser and operating system, internet service provider and devices used to access PoweredTemplate. PoweredTemplate tracks this information to improve service to its clients. 
-  * PoweredTemplate will not upload any data that allows Google to personally identify an individual (such as name, Social Security Number, email address, or any similar data), or data that permanently identifies a particular device (e.g. IP address). 
-  * To opt-out of Analytics for the web, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser. 
+ **Information that we obtain from vendors**
 
+Name, company name, address, email address, phone number(s), payment details (like information relating to your credit card), the responses you give to the surveys initiated for research purposes, and support queries.
 
+This info is used to provide you with and/or improve our services; for example, paying commissions, verifying your identity, contacting you, providing you with advertising and marketing, and invoicing you. We are using this information to make sure that we comply with the legal requirements.
 
-**Display Advertising**  
+ **Information that we obtain from buyers**
 
+Names, member names, email address, phone number, other contact details, information about your computer and about your visits to and use of this website (including information about your browser, IP address, general location by your browser), responses to the surveys initiated for research purposes, transaction details, support queries, web analytics data and information that you provide when you fill in forms on our websites.
 
-  * PoweredTemplate has implemented Display Advertising and uses Remarketing with Google Analytics to advertise online. It means that third-party vendors, including Google, show our ads on sites across the Internet. 
-  * PoweredTemplate along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. 
-  * If you want to opt-out of Google Analytics for Display Advertising, just customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads) or using [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) that will instruct the Google Analytics JavaScript not to send any information about the website visit to Google Analytics. 
+We may use this information to respond to your requests or correspondence, to provide customer service (or for statistical purposes), analysis for management purposes in order to administer the website, improve products/services, send technical notices/updates, security alerts, changes in policy notifications, administrative messages, so we are able to prevent fraud, breach of policies/terms, and threats or harm.
 
+ **Information that we obtain from our partners**
 
+Name, company name, website URL, phone number(s), address, business type, email address, and information from merchant processors like PayPal email address or ID etc. We use this information to work with you, confirm your identity, contact you, pay you and to screen for risk, fraud, or other similar types of issues, to send you technical notices, updates, security alerts, information regarding changes to our policies, and support and administrative messages
 
-**Consent**
+ **Information that we obtain from website visitors**
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to PoweredTemplate. If you have provided personal information to PoweredTemplate and no longer consent to its use or disclosure as outlined herein, please notify PoweredTemplate at support@PoweredTemplate.com 
+The device type and browser you are using, network connection, IP address, information about the cookies installed on your device, support queries, and web analytics data. Also, we may collect personal information submitted by you via any feature available on any of our websites.
 
+ **Information that we obtain from users who referred to chat support**
 
+Name, email address, information about the device and browser you use, chat transcript, and other personal information you provide to us during our chat. Pursuant to our ToS, we may request additional documentation from you during our chat to verify your identity or for support purposes.
 
-**Security**
-
-  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your PoweredTemplate Information protected for your privacy and security. In certain areas of our websites, as identified on the site, PoweredTemplate uses industry-standard SSL-encryption to protect data transmissions. 
-  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures. 
-  * Further, PoweredTemplate retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law. 
-
+  
 
 
-**Changes to this Privacy Policy**
+### MARKETING CHOICES REGARDING YOUR PERSONAL INFORMATION
 
-  * PoweredTemplate may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of PoweredTemplate websites after any such amendments signifies your acceptance thereof. 
+In the event we have your consent we will send you marketing materials that will include information about products, services or discounts that we feel might be of interest to you. If you decide not to receive such email notification you can easily opt-out using the unsubscribe option.
+
+ **Cookies**
+
+PoweredTemplate.com and all websites and partners are using cookies to analyze user behavior and gather demographic info about our user base in general. A cookie is a small file that is placed on your device when you visit any website. Using the browser settings of your device you can eliminate the use of cookies but should you disable those, you can limit certain features on our websites.
+
+We are using functional and analytical cookies; for further information on the use of cookies, please see our [cookies policy](https://web.archive.org/lang/cookie-policy.html), or visit [www.allaboutcookies.org](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/www.allaboutcookies.org)
+
+ **Web Beacons**
+
+Another technology we are using is Web Beacons. It is a requirement to track your use of our website on occasions, like promotions or newsletter use. The data we collect via web beacons allow us to track the number of users who opened our newsletters. Also, web beacons help us to understand the behavior of our customers, members, and visitors.
+
+ **Google Analytics**
+
+PoweredTemplate websites are using Google Analytics, a web analytics service designed by Google, Inc. ("Google"). Google Analytics software uses cookies to analyze users' behavior. All data (i.e. your activity within PoweredTemplate websites) is gathered by cookies and stored on Google servers in the United States.
+
+Google, in turn, uses this data to evaluate user behavior in general, compile reports for site managers as well as providing data to services relating to website activity and Internet usage. Google may transfer various data to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
+
+In no way will Google associate your IP address with any other data held by Google. In the event you do not want to provide Google with the browsing data you can block the use of cookies via your browser settings. More information on Google analytics opt-out, [www.google.com/intl/en/policies/privacy/](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/www.google.com/intl/en/policies/privacy/), and [www.google.com/analytics/terms/us.html](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/www.google.com/analytics/terms/us.html). Google Analytics is explained under the following link [www.google.com/analytics/](https://web.archive.org/web/20180818131138id_/https://poweredtemplate.com/privacy-policy/wwww.google.com/analytics/) .
+
+  
 
 
+### PUBLIC INFORMATION AND THIRD PARTY WEBSITES
 
-**Questions or Suggestions**
+ **Testimonials**
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please leave us a note [here](https://web.archive.org/feedback.html). 
+In addition to various endorsements, we're displaying testimonials on our website. These are published only after receiving your consent, we post your testimonials specifying your name. If you want to delete or modify your existing testimonials feel free to contact us via email [info@poweredtemplate.com](mailto:info@poweredtemplate.com)
+
+ **Blog**
+
+PoweredTemplate.com offers users the option to leave individual comments on individual blog contributions on a blog, which is on the website of the controller. The information you add to your comments or publications can be read, collected or used by any visitor or user of our websites. Should you wish to remove some of your info from our blogs contact us via email [info@poweredtemplate.com](mailto:info@poweredtemplate.com). If we are unable to remove your information, we will tell you why.
+
+ **Social media platforms and widgets**
+
+All PoweredTemplate websites have social media features embedded, for example, Facebook "Like" button. These features, may collect your data like IP address or place a cookie in your browser in order to gather statistical information about your interactions with our websites. Social media features are hosted both on our website and servers of a specific social media network.
+
+Apart from these features, we maintain profiles on major networks including Facebook, Twitter Pinterest, Instagram, and Google+. Please be advised that any information you submit on these networks in public areas, like comments, can be easily read, collected or stored by all users of these networks. We are not able to control actions of other users of these platforms, or actions of these platforms. Your activity with those features and/or platforms is governed by privacy policies of the companies that provide them.
+
+ **Links to other websites**
+
+If you click on a link to a third party site, you will leave our site and go to the site you selected. Since we cannot control activities of third parties, we are not accepting responsibility for any use of your personal information by those parties. Please review the privacy policy of any other service provider from whom you request services.
+
+  
 
 
+### ROUTINE ERASURE AND BLOCKING OF PERSONAL DATA
+
+The information controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject.
+
+If the storage purpose isn't applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data will be blocked or erased.
+
+### CHILDREN'S PRIVACY
+
+All PoweredTemplate websites, as well as blogs and services, are not intended to be used by children under 13 years old. No one under age 13 years old can provide personal information to or on our websites. We are not collecting information from children under 13 years old. If you are under 13 years old you are not allowed to use any of our websites, buy products from our marketplace, comment on blog posts, social media posts or provide any personal information about yourself including your name, address, phone number and email. If we learn that you violated this term your account, as well as all information, will be deleted. If you believe that we may have some information provided by your child please contact us via email [privacy@poweredtemplate.com](mailto:privacy@poweredtemplate.com).
+
+  
+
+
+### CHANGES IN OUR PRIVACY POLICY
+
+As the data controller and data processor, we reserve the right to change or modify this Privacy Policy at any time. In the event of some changes being applied we will publish them in the Privacy Policy section and you will be notified via email that certain changes to our Policy were applied.
+
+### CONTACT INFORMATION
+
+Depending on the context of personal information you provide, PoweredTemplate.com is both data controller and data processor of your personal information under this policy. PoweredTemplate.com is a processor of personal information submitted to the services or collected through the services on behalf of or at the direction of subscribers.
+
+If you have any questions regarding this Privacy Policy, including processing of your personal information, or if you believe your privacy rights have been violated, please contact us at [privacy@poweredtemplate.com](mailto:privacy@poweredtemplate.com). We will respond to all requests, inquiries or concerns within fifteen (15) days.
+
+  
+
+
+### ENGLISH VERSION CONTROLS
+
+Non-English translations of this Policy are provided for convenience only. To avoid any conflicts in definitions the English version is the final arbiter.
+
+  
+
+
+### THE LEGAL BASIS FOR THE PROCESSING
+
+Art. 6(1) GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose.
