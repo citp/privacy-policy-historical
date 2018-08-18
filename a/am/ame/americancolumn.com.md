@@ -1,52 +1,39 @@
-> *The following text is extracted and transformed from the americancolumn.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629015930id_/http%3A//americancolumn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americancolumn.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818035154id_/http%3A//americancolumn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – American Column
+# Privacy Policy
 
-This privacy policy discloses the privacy practices for americancolumn.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+AmericanColumn (" **AmericanColumn** ") operates AmericanColumn.com and may operate other websites. It is AmericanColumn's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+### Website Visitors
 
-What choices are available to you regarding the use of your data.
+Like most website operators, AmericanColumn collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. AmericanColumn's purpose in collecting non-personally identifying information is to better understand how AmericanColumn's visitors use its website. From time to time, AmericanColumn may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-The security procedures in place to protect the misuse of your information.
+AmericanColumn also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on AmericanColumn.com blogs/sites. AmericanColumn only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-How you can correct any inaccuracies in the information.
+### Gathering of Personally-Identifying Information
 
-Information Collection, Use, and Sharing  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+Certain visitors to AmericanColumn's websites choose to interact with AmericanColumn in ways that require AmericanColumn to gather personally-identifying information. The amount and type of information that AmericanColumn gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [AmericanColumn.com](http://americancolumn.com/) to provide a username and email address. Those who engage in transactions with AmericanColumn are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, AmericanColumn collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with AmericanColumn. AmericanColumn does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+### Aggregated Statistics
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+AmericanColumn may collect statistics about the behavior of visitors to its websites. AmericanColumn may display this information publicly or provide it to others. However, AmericanColumn does not disclose personally-identifying information other than as described below.
 
-Your Access to and Control Over Information  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website:
+### Protection of Certain Personally-Identifying Information
 
-• See what data we have about you, if any.
+AmericanColumn discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on AmericanColumn's behalf or to provide services available at AmericanColumn's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using AmericanColumn's websites, you consent to the transfer of such information to them. AmericanColumn will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, AmericanColumn discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when AmericanColumn believes in good faith that disclosure is reasonably necessary to protect the property or rights of AmericanColumn, third parties or the public at large. If you are a registered user of an AmericanColumn website and have supplied your email address, AmericanColumn may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with AmericanColumn and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. AmericanColumn takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-• Change/correct any data we have about you.
+### Cookies
 
-• Have us delete any data we have about you.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. AmericanColumn uses cookies to help AmericanColumn identify and track visitors, their usage of AmericanColumn website, and their website access preferences. AmericanColumn visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using AmericanColumn's websites, with the drawback that certain features of AmericanColumn's websites may not function properly without the aid of cookies.
 
-• Express any concern you have about our use of your data.
+### Business Transfers
 
-Security  
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+If AmericanColumn, or substantially all of its assets, were acquired, or in the unlikely event that AmericanColumn goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of AmericanColumn may continue to use your personal information as set forth in this policy.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
+### Ads
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by AmericanColumn and does not cover the use of cookies by any advertisers.
 
-Updates
+### Privacy Policy Changes
 
-Our Privacy Policy may change from time to time and all updates will be posted on this page.
-
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at admin@americancolumn.com .
-
-UPDATE:
-
-Third party vendors, including Google, and other ad networks use cookies to serve ads based on a user’s prior visits to your website.
-
-Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. You can also check http://www.aboutads.info/ on how to opt out of third-party vendor’s use of cookies for interest-based advertising
+Although most changes are likely to be minor, AmericanColumn may change its Privacy Policy from time to time, and in AmericanColumn's sole discretion. AmericanColumn encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a AmericanColumn.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
