@@ -1,124 +1,133 @@
-> *The following text is extracted and transformed from the limesurvey.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711043551id_/https%3A//www.limesurvey.org/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limesurvey.org privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818043759id_/https%3A//www.limesurvey.org/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-##  Data protection statement for LimeSurvey.org 
+Welcome to the LimeSurvey website. Data protection is an important concern for us. In the following we would like to inform you about how we process your data. We therefore ask you to read the following information on data protection carefully.
 
-### Date: Aug 1, 2015
+* ### Name and contact details of the person responsible for processing and of the company data protection officer
 
-We take the protection of your personal data very seriously. When we process the personal data that is collected during your visits to our web site or when we store data you collect or enter using the Limesurvey.org Comfortupdate service, we always observe the rules laid down in the applicable data protection laws. Your data will not be disclosed publicly by us, nor transferred to any third parties without your consent.
+This data protection information applies to data processing by:
 
-In the following sections, we explain what types of data we record when you visit our web site, and precisely how they are used:
+Person responsible: LimeSurvey GmbH Survey Services & Consulting
 
-### Content
+Papenreye 63
 
-  1. Recording and processing of data in connection with access over the Internet
+22453 Hamburg
 
-  2. Use and transfer of personal data
+Phone: +49 40 22660066 (No telephone support)
 
-  3. Consent to use data in other contexts
+Email: [info@limesurvey.org](mailto:info@limesurvey.org), Support: [support@limesurvey.org](mailto:support@limesurvey.org)
 
-    * Add-On Packages (E.g. ComfortUpdate)
-    * Newsletters
-    * Orders
-  4. Security
+Web: www.limesurvey.org
 
-  5. Cookies
+The company data protection officer of LimeSurvey can be contacted at the above-mentioned address, for the attn. of Mr. Olaf Mangliers, or at www.datenschutzbeauftragter-hamburg.com
 
-  6. Links to web sites operated by other providers
+* ### Collection and storage of personal data as well as type and purpose of their use:
 
-  7. Right to information and contact data
+  1. When visiting the website 
 
-  8. Acceptance, validity and modification of data protection conditions
+When you visit our website, the browser used on your device automatically sends information to the server of our website. This information is temporarily stored in a so-called log file. The following information is recorded without your intervention and stored until it is automatically deleted:
+
+    * Anonymized (= Shortened) IP address of the requesting computer
+    * The date and time of access
+    * Name and URL of the downloaded file
+    * Size of the data transferred ,
+    * Indicates whether the download was successful,
+    * Website from which access is made (referrer URL),
+    * The browser used and, if applicable, the operating system of your computer as well as the name of your access provider.
+
+The data listed will be processed by us for the following purposes:
+
+    * ensuring a smooth connection to the website;
+    * ensuring comfortable use of our website;
+    * evaluation of system security and stability as well as
+    * for other administrative purposes.
+
+The legal basis for data processing is Art. 6 para. 1 Page. 1 lit. f GDPR. Our legitimate interest arises from the purposes listed above for data collection. Under no circumstances do we use the data collected for the purpose of drawing conclusions about you personally.
+
+In addition, we use cookies and analysis services when you visit our website. For further explanations, please refer to the section "Notes to the Consolidated Financial Statements". 4 and 5 of this data protection declaration.
+
+  2. When registering for our newsletter provided that, in accordance with Art. 6 para. 1 page 1 lit. a of the GDPR, you have expressly consented we will use your e-mail address to send you our newsletter on a regular basis. To receive the newsletter, all you need to do is provide your email address. 
+
+You can unsubscribe at any time, for example via a link at the end of each newsletter. Alternatively, you are welcome to send your request to unsubscribe at any time by e-mail to [info@limesurvey.org](mailto:info@limesurvey.org).
+
+  3. When using our contact form 
+
+If you have any questions, we offer you the opportunity to contact us using the form provided on the website. A valid e-mail address is required so that we know who sent the request and can respond to it. Further information can be provided voluntarily.
+
+Data processing for the purpose of contacting us is carried out in accordance with Art. 6 para. 1 page 1 lit. a GDPR on the basis of your voluntary consent.
+
+The personal data collected by us for the use of the contact form will be automatically deleted after your request has been processed.
 
 
 
+* ### Sharing of data
 
-### 1\. Recording and processing of data in connection with access over the Internet
+Your personal data will not be transmitted to third parties for reasons other than those listed below.
 
-When you visit our web site, our web server makes a temporary record of each access and stores it in a log file. The following data are recorded, and stored until an automatic deletion date:
+We will only disclose your personal data to third parties if:
 
-\- Anonymized (shortened) IP address of the requesting processor
+  * you have expressly consented to this under Art. 6 para. 1 page 1 lit. a GDPR,
+  * the disclosure in accordance with Art. 6 Para 1 page 1 lit. f DGPR is required to assert, exercise or defend legal claims and there is no reason to believe that you have an overriding interest in not disclosing your data,
+  * in the event that disclosure in accordance with Art. 6 para. 1 page 1 lit. c GDPR is a legal obligation, provided
+  * this is legally permissible and in accordance with Art. 6 para. 1 page 1 lit. b GDPR is required for the processing of contractual relationships with you.
 
-\- Date and time of access
 
-\- Name and URL of the downloaded file
+* ### Cookies
 
-\- Volume of data transmitted
+We use cookies on our site. These are small files that your browser automatically creates and that are stored on your device (laptop, tablet, smartphone, etc.) when you visit our site. Cookies do no damage to your end device, do not contain viruses, Trojans or other malware.
 
-\- Indication whether download was successful
+Information is stored in the cookie that results in each case in connection with the specifically used terminal device. However, this does not mean that we immediately become aware of your identity.
 
-\- Data identifying the browser software and operating system
+The use of cookies serves on the one hand to make the use of our offer more pleasant for you. For example, we use so-called session cookies to recognise that you have already visited individual pages of our website. These will be deleted automatically after leaving our site.
 
-\- web site from which our site was accessed
+In addition, we also use temporary cookies that are stored on your end device for a specified period of time to optimize user-friendliness. If you visit our site again to use our services, it will automatically recognise that you have already been with us and what entries and settings you have made so that you do not have to enter them again.
 
-The purpose of recording this data is to allow use of the web site (connection setup), for system security, for technical administration of the network infrastructure and in order to optimize our Internet service.
+On the other hand, we use cookies to statistically record the use of our website and to evaluate it for the purpose of optimising our offer for you (see Section 5). These cookies enable us to automatically recognise when you return to our site that you have already been with us. These cookies are automatically deleted after a defined period of time.
 
-On this website with Piwik, an open source web analysis tool (http://de.piwik.org), we collect and store data for marketing and optimization purposes. From this data, user profiles can be created under a pseudonym . Cookies might be used. Cookies are small text files that are stored locally in the cache of the Internet browser of the site visitor< Cookies enable recognition of the internet browser. The data collected with Piwik won't be used without the explicit consent of the person concerned to identify visitors to this website and will not be merged with personal data about the bearer of the pseudonym. 
+The data processed by cookies are required for the purposes mentioned for the protection of our legitimate interests as well as of third parties according to Art. 6 para. 1 page 1 lit. f GDPR.
 
-To opt in or out ouf this data collection please use the following setting:
+Most internet browsers accept cookies automatically. However, you can configure your browser so that no cookies are stored on your computer or a message always appears before a new cookie is created. Deactivating cookies, however, may result in your being unable to use all the functions in our portal.
 
-We do not compile personal profiles of users. The German Telemedia Act (TMG) states that user profiles are permissible under the condition that pseudonyms are used, and on condition that the user does not withhold consent. If we intend to make use of this option anywhere on our Internet site, a notice informing you of your right to withdraw consent will be posted on the corresponding page.
+* ### Analytical Tools
 
-Apart from the special cases cited above, we do not process personal data without first obtaining your explicit consent to do so.
+Our website uses Matomo analysis software. This data can be used to create pseudonymous usage profiles. Cookies may be used for this purpose. The data collected with the etracker technologies will not be used without the separate consent of the person concerned to personally identify visitors to our website and will not be combined with personal data about the bearer of the pseudonym. You can object to the collection and storage of your data at any time with future effect. In order to refuse consent to data collection and storage of your visitor data for the future, you can refer to an opt-out cookie from Matomo under the following link, which ensures that in future no visitor data will be collected from your browser and stored by LimeSurvey GmbH.
 
-### 2\. Use and transfer of personal data
+Please do not delete this cookie as long as you wish to maintain your objection.
 
-All use of your personal data is confined to the purposes stated above, and is only undertaken to the extent necessary for these purposes.
+We also respect the'Do-not-track' setting of your browser.
 
-Personal data, which includes data you collected with your LimeService installation, will not be transferred to government bodies or public authorities except in order to comply with mandatory national legislation or if the transfer of such data should be necessary in order to take legal action in cases of fraudulent access to our network infrastructure. Personal data will not be transferred to third parties for any other purpose.
+* ### Social media plug-ins
 
-### 3\. Consent to use data in other contexts
+We do not use social plug-ins on our website. Possible social media symbols are normally linked and do not transmit data to social media platforms.
 
-The use of certain services on our web site, such as usage of forums, orders or newsletters, requires prior registration and involves more substantial processing of personal data, such as longer-term storage of e-mail addresses, user Ids, passwords and address data. We only use such data insofar as they have been sent to us by you in person and you have given us your prior consent for this use.
+* ### Rights of the persons concerned
 
-### Forums
+You have the right:
 
-We do not transfer any content entered in a forum, nor your registration data to third parties nor we will use it for any other purposes. The LimeSurvey personnel will only access your data for maintenance or support reasons. Due to the way the survey service work automatic tasks will access your data to collect general usage information for invoicing purposes (number of updates, expiration check).
+  * to request information about your personal data processed by us in accordance with Art. 15 GDPR. In particular, you may obtain information about the purposes of processing, the category of personal data, the categories of recipients to whom your data has been or will be disclosed, the planned storage period, the existence of a right to correction, deletion, restriction of processing or objection, the existence of a right of appeal, the origin of your data, if this has not been collected by us, and requires the existence of automated decision-making including profiling and, where appropriate, meaningful information about its detail;
+  * to immediately request the correction of incorrect or complete personal data stored by us in accordance with Art. 16 GDPR;
+  * to request the deletion of your personal data stored by us in accordance with Art. 17 GDPR, unless the processing is necessary to exercise the right to freedom of expression and information, to fulfil a legal obligation, for reasons of public interest or to assert, exercise or defend legal claims;
+  * pursuant to Art. 18 GDPR to demand the restriction of the processing of your personal data, as far as the accuracy of the data is disputed by you, the processing is unlawful, but you reject its deletion and we no longer need the data, but you need this to assert, exercise or for the defence of legal claims or you have objected to processing in accordance with Art. 21 GDPR;
+  * pursuant to Art. 20 GDPR, to receive your personal data that you have provided to us in a structured, current and machine-readable format or to request its transfer to another responsible person;
+  * pursuant to Art. 7 para 3 GDPR to revoke your consent to us at any time. As a result, we are no longer allowed to continue processing data based on this consent in the future and
+  * to complain to a supervisory authority pursuant to Art. 77 GDPR. As a rule, you can contact the supervisory authority of your usual place of residence or workplace or our practice headquarters.
 
-**Newsletters**  
-In order to register for a newsletter service provided by LimeSurvey.org we need at least your e-mail address so that we know where to send the newsletter. All other information you supply is on a voluntary basis, and will be used in order to contact you directly or clear up questions concerning your e-mail address.
 
-As a general rule, you need to login and activate specifically in your profile that you want to receive a newletter. You can cancel subscriptions to our newsletters at any time. To do so, either send us an e-mail or follow the link at the end of the newsletter.
+* ### Right of objection
 
-**Orders**  
-When you order services on LimeSurvey.org , the address data you supply is used exclusively to process the order and the payment using a payment provider (e.g. Paypal and Skrill). Besides these we do not transfer such data to third parties. LimeService does not store any data related to your type of payment (e.g. no credit card or bank account numbers).
+If your personal data is processed based on legitimate interests in accordance with Art. 6 para. 1 sentence 1 lit. f GDPR, you have the right in accordance with Art. 21 GDPR to object to the processing of your personal data if there are reasons for this which arise from your particular situation or if the objection is directed against direct advertising. In the latter case, you have a general right to object, which we will implement without specifying a particular situation.
 
-### 4\. Security
+If you wish to exercise your right of revocation or objection, simply send an email to [info@limesurvey.org](mailto:info@limesurvey.org).
 
-The LimeSurvey service implements technical and organizational security measures to safeguard stored personal data against inadvertent or deliberate manipulation, loss or destruction and against access by unauthorized persons. Our security measures are continuously improved in line with technological progress.
+* ### Data security
 
-### 5\. Cookies
+We use the most common SSL (Secure Socket Layer) method in connection with the highest level of encryption supported by your browser. Usually this is a 256 bit encryption. If your browser does not support 256-bit encryption, we use 128-bit v3 technology instead. Whether a single page of our website is transmitted in encrypted form is indicated by the closed display of the key or lock symbol in the lower status bar of your browser.
 
-We don’t normally use cookies on our web site, but in certain exceptional cases we may use cookies which place technical session-control data in your browser’s memory. These data are automatically erased at the latest when you close your browser.
+We also use suitable technical and organisational security measures to protect your data against accidental or intentional manipulation, partial or complete loss, destruction or unauthorised access by third parties. When personal data is collected, their transfer will be encrypted in order to prevent misuse of data by third parties. Our security measures are continuously updated according to technological developments.
 
-Exceptionally our services usually requiree the storage of personal data in a cookie, for instance a user ID.
+* ### Updating and changing this privacy policy
 
-Of course, it is perfectly possible to consult our web site without the use of cookies. Please note, however, that most browsers are programmed to accept cookies in their default configuration. You can prevent this by changing the appropriate setting in the browser options. If you set the browser to refuse all cookies, this may restrict your use of certain functions on our web site.
+This privacy policy is currently valid as of May 2018.
 
-### 6\. Links to web sites operated by other providers
-
-Our web pages may contain links to other providers’ web pages. We would like to point out that this statement of data protection conditions applies exclusively to the web pages managed by LimeSurvey.org. We have no way of influencing the practices of other providers with respect to data protection, nor do we carry out any checks to ensure that they conform with the relevant legislation.
-
-### 7\. Right to information and contact data
-
-You have a legal right to inspect any stored data concerning your person, and also the right to demand their correction or deletion, and to withdraw your consent for their further use.
-
-If you wish to obtain information on your personal data, or want us to correct or erase such data, or if you have any other questions concerning the use of personal data held by us, please contact:
-
-LimeSurvey GmbH
-
-Barmbeker Str. 7a
-
-22303 Hamburg / Germany  
-[support@limesurvey.org](mailto:support@limesurvey.org)
-
-Phone: +49 40 22660066
-
-If you communicate with us by e-mail, please take note that the content of unencrypted e-mails can be intercepted and openly read by unintended parties. For this reason, we recommend that confidential information should be transmitted in encrypted form or sent by post in the traditional way.
-
-### 8\. Acceptance, validity and modification of data protection conditions
-
-By using our web site, you implicitly agree to accept the use of your personal data as specified above. This present statement of data protection conditions came into effect on August 1st, 2015.
-
-As our web site evolves, and new technologies come into use, it may become necessary to amend the statement of data protection conditions. LimeSurvey.org reserves the right to modify its data protection conditions at any time, with effect as of a future date. We recommend that you re-read the latest version from time to time.
+It may be necessary to change this privacy policy as a result of the further development of our website and offers thereof or due to changes in legal or official requirements. You can access and print out the current privacy policy at any time on our website.
