@@ -1,73 +1,65 @@
-> *The following text is extracted and transformed from the lacledegas.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129152544id_/http%3A//www.lacledegas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacledegas.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818232647id_/https%3A//www.spireenergy.com/privacy-policy) for the most accurate reproduction.*
 
-# Laclede Gas Company: Privacy Policy
+# Website Privacy Policy | Spire Inc.
 
-### Where am I?
+Skip to main content 
 
-  * Skip navigation and go to content
-  * [Home](https://web.archive.org/index.php "Home") /
-  * [Privacy Policy](https://web.archive.org/privacy/ "Privacy Policy") /
+#### Revised July 2017
 
+Spire Inc. is the parent company for individual public utility companies, among other affiliates. Each of these public utility companies and other affiliates is a separate and distinct legal entity. Each public utility subsidiary of Spire Inc. has its own service territory, federal, or state utility regulatory regimes, rate structures, and customers. Neither Spire Inc. nor any subsidiary or other affiliate of Spire Inc. will be liable for the obligations, or entitled to the benefits of, any other subsidiary or affiliate of Spire Inc., except as may be expressly provided by a duly authorized and executed, legally enforceable written agreement. Solely for reasons of convenience, the terms “Spire”, “Company”, “we”, “us”, and “our” are used herein to refer individually and collectively to Spire Inc. and its various affiliates and subsidiaries. For purposes of this Privacy Policy, the terms “Spire”, “Company”, “we”, “us”, and “our” may also refer to contractors and service providers engaged by Spire to support its business activities, as the context may require. The terms “you”, “your” and “yours” refer to any natural person who accesses or uses the Website for business, personal, family, or household purposes.
 
+Spire wants you to have a safe and secure experience at our Website, and wants to explain the steps we take that are aimed at preventing unauthorized disclosure of information you may provide as you visit the Website. Spire has adopted this privacy policy (the “Privacy Policy”) to explain our commitment to your privacy, and this Privacy Policy applies to the personal and other information Spire collects at the [www.spireenergy.com](https://web.archive.org/web/20180818232647id_/https%3A//www.spireenergy.com/%3Cfront%3E) website and other websites, apps, or online services owned, operated, or otherwise controlled by Spire that provide a link to this Privacy Policy, and all products, features, and content available on such websites, apps, or online services (collectively, the “Website”). This Privacy Policy will not apply to the extent that you navigate to a third-party website linked from the Website.. By using or accessing the Website, either as a casual visitor or by actively submitting information to it, you confirm your agreement to the terms of this Privacy Policy as may be in effect at that time. Please refer back to this link to review the contents of this Privacy Policy frequently, as we may change it from time to time to reflect changes in our services and our policies relating to customer Personal Information (as hereinafter defined). Changes and amendments are effective when posted on the Website. Spire will not provide you with a notice of any change in this Privacy Policy other than posting the amended Privacy Policy at this link. It is your responsibility to monitor and review any changes to the Privacy Policy.
 
-## Website Privacy Policy
+This Privacy Policy explains how we collect, maintain, share and protect your Personal Information collected through the Website. This Privacy Policy also lets you know about the privacy choices you have and how you can manage them to get the most from your relationship with us. This Privacy Policy does not apply to information you may have given us offline, such as by telephone or in person. This Privacy Policy also applies to web- and app-based programs, products and services that we make available or may make available in the future in partnership with third-party companies not affiliated with us. Third-party companies often have their own online privacy policies that will apply to those same programs. We encourage you to review all of the privacy policies associated with the programs, products and services you use on the web.
 
-(Revised December 2015)
+This Privacy Policy supplements, but does not replace, the general Website Terms of Use for the use of the Website. In the event of a conflict between the terms of this Privacy Policy and the terms of the general Website Terms of Use, the terms of this Privacy Policy will govern and control with respect to the matters addressed in this Privacy Policy. Certain websites of entities affiliated with Spire may have separate privacy notices or terms and conditions that are specific to those websites, and when you use or access such websites those separate privacy notices or terms and conditions will apply and will control in the event of a conflict with the terms of this Privacy Policy.
 
-Laclede Gas Company wants you to have a safe and secure experience at our Website, and wants to explain the steps it takes that are aimed at preventing unauthorized disclosure of information you may provide as you visit this website. Laclede has adopted this privacy policy (the “Privacy Policy”) to explain our commitment to your privacy, and this Privacy Policy applies to the personal and other information Laclede collects at the www.lacledegas.com website (the “Website”). For purposes of this Privacy Policy, the terms “Laclede”, “Company”, “we”, “us”, and “our” refer to Laclede Gas Company, which owns, operates, and controls the Website, and such terms may also refer to contractors and service providers engaged by Laclede to support its business activities, as the context may require. The terms “you”, “your” and “yours” refer to any natural person who accesses or uses the Website for personal, family, or household purposes. By using or accessing the Website, you confirm your agreement to the terms of this Privacy Policy as may be in effect at that time. Please refer back to this link to review the contents of this Privacy Policy frequently, as we may change it from time to time to reflect changes in our services and our policies relating to customer Personal Information (as hereinafter defined). Changes and amendments are effective when posted on the Website. Laclede will not provide you with a notice of any change in this Privacy Policy other than posting the amended Privacy Policy at this link. It is your responsibility to monitor and review any changes to the Privacy Policy.
+### 1\. Categories of Information We Collect and Why
 
-This Privacy Policy supplements, but does not replace, the general Website Terms of Use for the use of the Website. In the event of a conflict between the terms of this Privacy Policy and the terms of the general Website Terms of Use, the terms of this Privacy Policy will govern and control with respect to the matters addressed in this Privacy Policy. Certain websites of entities affiliated with Laclede may have separate privacy notices or terms and conditions that are specific to those websites, and when you use or access such websites those separate privacy notices or terms and conditions will apply and will control in the event of a conflict with the terms of this Privacy Policy.
+We may collect and use both Personal Information and Anonymous Information (as described below) by and through the Website. For purposes of this Privacy Policy, “Personal Information” means any information or combination of information that we collect or use by or through the Website that identifies you personally, and “Anonymous Information” means information that we collect or use by or through the Website that does not identify you personally or contain personal identifiers about you. Personal Information may include, for example, your name, home address, email address, telephone number, details of transactions you carry out through our Website, financial information or other personal information. Anonymous Information may include, for example, information about your device or internet browser, information obtained from cookies that have been placed on your device or internet browser at the Website or at other websites you have visited, demographic information, aggregated information, blind information about how you use our Website and about the transactions you perform using our Website, and other information obtained through your access to or use of the Website that does not identify you personally. We may supplement the information we collect from you with information we receive about you from other sources.
 
-### 1\. Categories of Information We Collect
+### 2\. How Spire Collects, Uses and Shares Your Personal Information
 
-We may collect and use both Personal Information and Anonymous Information (as hereinafter described) by and through the Website. For purposes of this Privacy Policy, “Personal Information” means any information or combination of information that we collect or use by or through the Website that identifies you personally, and “Anonymous Information” means information that we collect or use by or through the Website that does not identify you personally or contain personal identifiers about you. Personal Information may include, for example, your name, home address, email address, telephone number, details of transactions you carry out through our Website, financial information or other personal information. Anonymous Information may include, for example, information about your device or internet browser, information obtained from cookies that have been placed on your device or internet browser at the Website or at other websites you have visited, demographic information, aggregated information, blind information about how you use our Website and about the transactions you perform using our Website, and other information obtained through your access to or use of the Website that does not identify you personally. We may supplement the information we collect from you with information we receive about you from other sources.
+a. There may be instances where you may choose to communicate with us by e-mail. If you communicate with Spire by e-mail, then you agree that e-mail sent by Spire to you will be considered to be sent with your consent. You acknowledge and agree that any such email will be accessible to anyone who has access to your e-mail.
 
-### 2\. How Laclede Collects, Uses and Shares Your Personal Information
+b. You may register to access various services related to your residential or business account on the Website. If you register to access your account or engage in other contacts with Spire through the Website, you may be asked to submit Personal Information. You may also be asked to submit additional Personal Information or financial information in order to use certain specific services offered in these customer account transaction areas. We will protect all information you provide us on the Website, as set forth below and in accordance with Spire’s Terms of Use.
 
-**a.** The Personal Information you provide to Laclede enables us to enhance the services we may provide, and also lets you access Laclede’s online bill payment application on the Website. You may register to access Laclede’s online bill payment application on the Website. If you register to access Laclede’s online bill payment application or engage in other contacts with Laclede through the Website, you may be asked to submit Personal Information. You may also be asked to submit additional Personal Information in order to use the online bill payment application. We will protect all information you provide us on the Website, as set forth below and in accordance with Laclede’s Terms of Use. We collect Personal Information when you use the Website to make inquiries about our products and services. There may be instances where you may choose to communicate with us by e-mail. If you communicate with Laclede by e-mail, then you agree that e-mail sent by Laclede to you will be considered to be sent with your consent. You acknowledge and agree that any such email will be accessible to anyone who has access to your e-mail. In connection with your use of the Website, products and services, we may ask for, and you may provide, Personal Information in forms, surveys, applications, and online fields, or you may authorize us to collect Personal Information from third party sources. Personal Information also may be provided to us through other transactions and inquiries you make using the Website.
+c. We may use Personal Information for the following purposes:  
+(i) To contact you to respond to an inquiry that you send to us;  
+(ii) To keep you informed about Spire and the services we provide;  
+(iii) To send administrative information to you, such as information regarding the Website and changes to our terms, conditions and policies;  
+(iv) To send you marketing communications that we believe may be of interest to you;  
+(v) As you agree, authorize, or consent to agreements, or as you accept in connection with products and services you obtain from us;  
+(vi) For our business purposes, including (but not limited to) such purposes as (1) data analysis, (2) audits, (3) new product or service development, (4) enhancing, improving or modifying our products and services, (5) identifying usage trends, (6) determining the effectiveness of our promotional campaigns, and (7) operating and expanding our business activities; and  
+(vii) As we believe in our sole discretion to be necessary or appropriate (1) under applicable law, (2) to comply with legal process and otherwise to comply with applicable laws, rules and regulations, (3) to respond to lawful requests from public and government authorities, (4) to enforce our terms and conditions, (5) to protect our operations or those of any of our affiliates, (6) to protect our rights, privacy, safety or property, or that of our affiliates, you or others, and (7) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-**b.** We may use Personal Information for the following purposes:
+d. We do not sell, rent, trade, share, license or otherwise disclose your specific Personal Information to anyone other than to Spire’s affiliates, except:  
+(i) We also may disclose such information in response to requests from law enforcement officials conducting investigations; subpoenas; court orders; or, if we are otherwise required to disclose such information by law. We also will release Personal Information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use the Website for illegal reasons or to commit fraud.  
+(ii) We may also disclose such information to third parties in situations where such disclosure is necessary to (1) comply with our regulators, (2) enable Spire’s employees or consultants to provide service to you and to otherwise perform their duties, (3) comply with interchange functions, or (4) resolve customer disputes or inquiries. We do not sell your Personal Information to third parties for telemarketing, e-mail or direct mail solicitation of third-party products or services.
 
-  * (i) To contact you to respond to an inquiry that you send to us;
-  * (ii) To keep you informed about Laclede and the services we provide;
-  * (iii) To send administrative information to you, such as information regarding the Website and changes to our terms, conditions and policies;
-  * (iv) To send you marketing communications that we believe may be of interest to you;
-  * (v) As you agree, authorize, or consent to agreements, or as you accept in connection with products and services you obtain from us;
-  * (vi) For our business purposes, including (but not limited to) such purposes as (1) data analysis, (2) audits, (3) new product or service development, (4) enhancing, improving or modifying our products and services, (5) identifying usage trends, (6) determining the effectiveness of our promotional campaigns, and (7) operating and expanding our business activities; and
-  * (vii) As we believe in our sole discretion to be necessary or appropriate (1) under applicable law, (2) to comply with legal process and otherwise to comply with applicable laws, rules and regulations, (3) to respond to lawful requests from public and government authorities, (4) to enforce our terms and conditions, (5) to protect our operations or those of any of our affiliates, (6) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others, and (7) to allow us to pursue available remedies or limit the damages that we may sustain.
+e. You are responsible for all activity on the Website accessed by your user name and password. You agree that the protection of the confidentiality of your user name and password is your responsibility.
 
+f. Spire employees, as well as consultants engaged by Spire may have access to your Personal Information. That access to your Personal Information by such individuals is limited to only information necessary to allow such employees or consultants to perform their duties.
 
+### 3\. How Spire Collects, Uses and Shares Your Anonymous Information
 
- **c.** We do not sell, rent, trade, share, license or otherwise disclose your specific Personal Information to anyone other than to Laclede’s affiliates, except:
+a. How We Use IP Addresses. An Internet Protocol (“IP”) address is a number automatically assigned to your computer every time you browse the Internet. When you visit the Website, our servers log your current IP address. We may use your IP address to help diagnose problems with our servers and to administer the Website. While we gather data when our servers log your IP address, we do not tie your IP address to your Personal Information, and it is not used to identify you.
 
-  * (i) We also may disclose such information in response to requests from law enforcement officials conducting investigations; subpoenas; court orders; or, if we are otherwise required to disclose such information by law. We also will release Personal Information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use the Website for illegal reasons or to commit fraud.
-  * (ii) We may also disclose such information to third parties in situations where such disclosure is necessary to (1) comply with our regulators, (2) collect unpaid bills, (3) enable Laclede’s employees or consultants to provide service to you and to otherwise perform their duties, (4) comply with interchange functions, (5) obtain and provide credit reporting information, or (6) resolve customer disputes or inquiries. We do not sell your Personal Information to third parties for telemarketing, e-mail or direct mail solicitation of third-party products or services.
+b. How We Use Cookies and Tags. This website may involve use of a mechanism called “cookies.” A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive, if your browser settings permit it. This site may also involve use of “tags.” A tag is an object that is embedded in a web page or email and is usually invisible to the user but allows checking that a user has viewed the page or email. Tags are commonly used for email tracking and page tagging for Web analytics. THE WEBSITE’S COOKIES AND TAGS DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO GATHER A USER’S PERSONAL INFORMATION. Our cookies and tags are not “spyware.”
 
+We use cookies and tags to collect information about usage of the Website, such as the number of visitors to the Website and the number of users that click on certain links or that use certain services. We do not tie the Anonymous Information that we collect to your Personal Information. For example, we use cookies and tags to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and Website interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help Spire conduct and improve its business.
 
+If you do not agree to this use of cookies you can adjust your browser settings to reject all cookies (each browser is different, so check the “Help” menu of your browser to learn how to do this). However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Alternatively, you can choose not to use the Website.
 
- **d.** You are responsible for all activity on the Website accessed by your user name and password. You agree that the protection of the confidentiality of your user name and password is your responsibility.
+If you choose to reject all cookies using your browser settings, you will not be able to use Spire products, services or websites that require you to “sign in,” and you may not be able to take full advantage of all offerings on the Website. However, many Spire online services do not require that you accept cookies.
 
-**e.** Laclede employees, as well as consultants engaged by Laclede, may have access to your Personal Information. That access to your Personal Information by such individuals is limited to only information necessary to allow such employees or consultants to perform their duties.
+c. We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf. These companies may employ cookies and tags to measure advertising effectiveness (such as which web pages are visited). And, this data in an aggregate form may be used by Spire for marketing, advertising, or other uses. Any information that these third parties collect via cookies and tags is not linked to any personal information collected by us.
 
-### 3\. How Laclede Collects, Uses and Shares Your Anonymous Information
-
-**a.** How We Use IP Addresses. An Internet Protocol (“IP”) address is a number automatically assigned to your computer every time you browse the Internet. When you visit the Website, our servers log your current IP address. We may use your IP address to help diagnose problems with our servers and to administer the Website. While we gather data when our servers log your IP address, we do not tie your IP address to your Personal Information, and it is not used to identify you.
-
-**b.** How We Use Cookies and Tags. This website may involve use of a mechanism called “cookies.” A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive, if your browser settings permit it. This site may also involve use of “tags.” A tag is an object that is embedded in a web page or email and is usually invisible to the user but allows checking that a user has viewed the page or email. Tags are commonly used for email tracking and page tagging for Web analytics. THE WEBSITE’S COOKIES AND TAGS DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO GATHER A USER’S PERSONAL INFORMATION. Our cookies and tags are not “spyware.”
-
-We use cookies and tags to collect information about usage of the Website, such as the number of visitors to the Website and the number of users that click on certain links or that use certain services. We do not tie the Anonymous Information that we collect to your Personal Information. For example, we use cookies and tags to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and Website interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help Laclede conduct and improve its business.
-
-If you do not agree to this use of cookies you can adjust your browser settings to reject all cookies (each browser is different, so check the “Help” menu of your browser to learn how to do this). Alternatively, you can choose not to use the Website.
-
-If you choose to reject all cookies using your browser settings, you will not be able to use Laclede products, services and/or websites that require you to “sign in,” and you may not be able to take full advantage of all offerings on the Website. However, many Laclede online services do not require that you accept cookies.
-
-**c.** We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf. These companies may employ cookies and tags to measure advertising effectiveness (such as which web pages are visited). And, this data in an aggregate form may be used by Laclede for marketing, advertising, or other uses. Any information that these third parties collect via cookies and tags is not linked to any personal information collected by us.
-
-**d.** We may use, disclose, and share Anonymous Information as described in this Privacy Policy and/or for any other purpose, subject to the requirements and restrictions of applicable law. If we combine Anonymous Information with Personal Information (such as combining your name with your geographical location), we will treat that Anonymous Information as Personal Information for so long as it is combined with Personal Information.
+d. We may use, disclose, and share Anonymous Information as described in this Privacy Policy or for any other purpose, subject to the requirements and restrictions of applicable law. If we combine Anonymous Information with Personal Information (such as combining your name with your geographical location), we will treat that Anonymous Information as Personal Information for so long as it is combined with Personal Information.
 
 ### 4\. Links
 
-While browsing the Website, you may encounter links to other third-party operated websites. If you click on one of these hypertext links to view one of these third-party operated websites, then these other third-party websites may send their own cookies to you, log your IP address, and otherwise collect data or solicit Personal Information. LACLEDE DOES NOT CONTROL AND IS NOT RESPONSIBLE FOR WHAT THIRD PARTIES DO IN CONNECTION WITH THEIR WEBSITES, OR HOW THEY HANDLE YOUR PERSONAL INFORMATION. PLEASE EXERCISE CAUTION AND CONSULT THE PRIVACY POLICIES AND TERMS OF USE POSTED ON EACH THIRD-PARTY WEBSITE FOR FURTHER INFORMATION.
+While browsing the Website, you may encounter links to other third-party operated websites. If you click on one of these hypertext links to view one of these third-party operated websites, then these other third-party websites may send their own cookies to you, log your IP address, and otherwise collect data or solicit Personal Information. SPIRE DOES NOT CONTROL AND IS NOT RESPONSIBLE FOR WHAT THIRD PARTIES DO IN CONNECTION WITH THEIR WEBSITES, OR HOW THEY HANDLE YOUR PERSONAL INFORMATION. PLEASE EXERCISE CAUTION AND CONSULT THE PRIVACY POLICIES AND TERMS OF USE POSTED ON EACH THIRD-PARTY WEBSITE FOR FURTHER INFORMATION.
 
 ### 5\. Social Media
 
@@ -79,10 +71,50 @@ We understand children’s privacy is important. Our Website is not directed to 
 
 ### 7\. Security Regarding Online Services
 
-You may login to Laclede’s online services section of this Website or related sites to conduct online transactions with Laclede. When you login with your user name and password to Laclede’s online services, any account information you enter or that is otherwise displayed in your browser window is secured using an industry standard security technology known as Secure Sockets Layer (“SSL”). By using SSL, we attempt to safeguard the confidentiality of transmission of your Personal Information. Your browser must be capable of supporting SSL. Please check with your browser manufacturer for details.
+You may login to Spire’s Website to register for email alerts or request investor information. When you login with your user name and password to Spire’s online services, any information you enter or that is otherwise displayed in your browser window is secured using an industry standard security technology known as Secure Sockets Layer (“SSL”). By using SSL, we attempt to safeguard the confidentiality of transmission of your Personal Information. Your browser must be capable of supporting SSL. Please check with your browser manufacturer for details.
 
-You may direct any questions about this Privacy Policy to:
-
-The Laclede Group  
-700 Market Street  
+You may direct any questions about this Privacy Policy to:  
+Compliance Hotline  
+800-886-2553  
+700 Market St.  
 St. Louis, MO 63101
+
+  1. [Spire](https://web.archive.org/)
+  2. [Privacy Policy](https://web.archive.org/privacy-policy)
+
+
+
+## Footer menu
+
+  * [Natural gas energy __](https://web.archive.org/)
+    * [Why choose gas?](https://web.archive.org/why-choose-gas "Why gas is a good choice for home and business")
+    * [Benefits for home](https://web.archive.org/benefits-home "Benefits for home")
+    * [Benefits for business](https://web.archive.org/benefits-business "Benefits for business")
+    * [Commercial & industrial services](https://web.archive.org/commercial-industrial-services "Commercial & Industrial Services")
+    * [Information for builders](https://web.archive.org/information-builders "Information for builders")
+    * [Find a contractor](https://web.archive.org/find-contractor "Find a natural gas contractor")
+  * [Information __](https://web.archive.org/)
+    * [Ways to save](https://web.archive.org/tips-using-energy-wisely-aka-30-hot-tips "You can reduce energy costs")
+    * [Rebates and offers](https://web.archive.org/rebates-offers "Rebates and financing to help save money")
+    * [Safety](https://web.archive.org/articles?article-topics=111 "Safety")
+    * [If you smell gas](https://web.archive.org/if-you-smell-gas "If you smell gas")
+    * [Call before you dig](https://web.archive.org/call-you-dig "Call before you dig")
+  * [Customer Service __](https://web.archive.org/contact-us)
+    * [Contact us](https://web.archive.org/contact-us "Contact Us")
+    * [Ways to pay](https://web.archive.org/pay-my-bill "Ways to pay my bill")
+    * [My Account](https://myaccount.spireenergy.com/ "Access your Spire account online")
+    * [Start or stop gas service](https://web.archive.org/turn-my-gas-onoff "Turn my gas on/off")
+    * [DollarHelp](https://web.archive.org/dollarhelp "DollarHelp")
+    * [Pipeline upgrades](https://web.archive.org/upgrades "Pipeline upgrades")
+    * [Rates and tariffs](https://web.archive.org/rates-and-tariffs "Rates and tariffs")
+  * [Spire Inc. __](https://web.archive.org/)
+    * [About Spire](https://web.archive.org/about-spire "Company Info")
+    * [Jobs](https://jobs.spireenergy.com/ "Jobs")
+    * [Investors](https://web.archive.org/investor-story "Investor information")
+    * [Newsroom](http://investors.spireenergy.com/news-releases "Newsroom")
+    * [Spire Marketing](https://web.archive.org/spire-marketing "Natural gas trading service")
+    * [Spire STL Pipeline](https://web.archive.org/spire-stl-pipeline "Spire STL Pipeline project")
+    * [Spire Storage](https://web.archive.org/spire-storage "Information about Spire Storage")
+    * [Fueling solutions](https://web.archive.org/spire-natural-gas-fueling-solutions "CNG fueling solutions")
+
+
