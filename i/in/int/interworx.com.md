@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interworx.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610003031id_/http%3A//www.interworx.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interworx.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818213640id_/http%3A//www.interworx.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InterWorx
 
