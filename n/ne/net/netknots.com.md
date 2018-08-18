@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netknots.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702102622id_/https%3A//www.netknots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netknots.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818065625id_/https%3A//www.netknots.com/privacy) for the most accurate reproduction.*
 
 # netknots :: Privacy
 
@@ -82,3 +82,6 @@ J E Sherry Company, Inc.
 61533 American Loop
 
 Bend, OR 97702
+
+Disclaimer: Any activity involving rope can be dangerous and may even be life threatening! Knot illustrations contained in this web site are not intended for rock climbing instruction. Many knots are not suitable for the risks involved in climbing. Where failure could cause property damage, injury, or death, seek professional instruction prior to use. Many factors affect knots including: the appropriateness of knots and rope materials used in particular applications, the age, size, and condition of ropes; and the accuracy with which these descriptions have been followed. No responsibility is accepted for incidents arising from the use of this content.  
+[](http://chafehgraphics.com/cart/)
