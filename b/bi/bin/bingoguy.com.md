@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingoguy.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225072519id_/http%3A//bingoguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingoguy.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818104914id_/http%3A//bingoguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bingoguy
 
@@ -42,7 +42,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**
 
