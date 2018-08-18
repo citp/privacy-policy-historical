@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entranceexamresults.co.in privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123143203id_/http%3A//entranceexamresults.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entranceexamresults.co.in privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818045203id_/http%3A//entranceexamresults.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – My Blog
 
