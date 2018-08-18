@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183102id_/https%3A//www.lydiasuniforms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818024849id_/https%3A//lydiasuniforms.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Security - Lydiasuniforms
 
 LydiasUniforms.com values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. Lydiauniforms.com recognizes that it must maintain and use customer information responsibly. Complying with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a subscriber is under the age of 13 and has signed up without prior verifiable parental consent, we will remove his or her personally identifiable information from our files.
 
@@ -12,21 +12,21 @@ Charlotte, NC 28269
 
 If our information practices change in the future, we will let you know by posting the policy changes on our website or by communication directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
 
-### SECURITY STATEMENT 
+### SECURITY STATEMENT
 
 Protecting the safety of your credit card information is important to us. We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. SSL is the gold standard in Internet encryption technology, which is a fancy way of saying that it is a highly sophisticated method of scrambling data as it travels from your computer to our website’s servers. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from “http” to “https.” If you’re not quite comfortable shopping online, or would prefer to make your purchase via telephone, just gives us a call at 800.942.3378. Our customer service representatives would be happy to take your LydiasUniforms.com order right over the phone
 
-### GENERAL BROWSING 
+### GENERAL BROWSING
 
 LydiasUniforms.com gathers navigational information about where you go on our website. This information allows us to see which areas of LydiasUniforms.com are most visited and helps us better understand our customers’ experience at LydiasUniforms.com. This helps us improve the quality of visitors’ online shopping experiences by recognizing and delivering more of the features, services, and products our visitors prefer. Additional non-personally identifiable information (i.e. domain type, browser version, service provider, and IP address) may be collected which will provide information regarding your use of our website (such as the time of your last visit to a page on our site).
 
-### COLLECTION, DISCLOSURE, AND USAGE OF PERSONAL INFORMATION 
+### COLLECTION, DISCLOSURE, AND USAGE OF PERSONAL INFORMATION
 
-We do not provide e-mail addresses to third parties. However, if you purchase merchandise through LydaisUniforms.com or if you are added to our catalog mailing list, your name and mailing address will be added to the Lydia’s print catalog mailing list and database. Please be aware that we sometimes make our print catalog customer mailing and shipping lists available t companies whose products you may find of interest.
+We do not provide e-mail addresses to third parties. However, if you purchase merchandise through LydiasUniforms.com or if you are added to our catalog mailing list, your name and mailing address will be added to the Lydia’s print catalog mailing list and database. Please be aware that we sometimes make our print catalog customer mailing and shipping lists available to companies whose products you may find of interest.
 
 From time to time, we may also send you email to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience. If you make a purchase online or over the phone, we may also send you notice about our products, services and promotions through postal mail.
 
-To serve you better, we may combine information you give us online and in our store as well as information about your product interests and purchase. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, and promotions that may be of interest to you. If you do not want us to use your information as described above, please contact customer service by calling 800.942.3378 or email customerservicel@lydiasuniforms.com
+To serve you better, we may combine information you give us online and in our store as well as information about your product interests and purchase. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, and promotions that may be of interest to you. If you do not want us to use your information as described above, please contact customer service by calling 800.942.3378 or email customerservice@lydiasuniforms.com
 
 ### TRANSFER OF INFORMATION
 
@@ -34,15 +34,15 @@ If another entity acquires us or substantially all of our assets, the personally
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes. Any changes will be effective immediately upon posting of the revised policy. If you are concerned about how your information is used, you should check back at our Website periodically (we will maintain a last-updated date at the bottom of this web page). WHEN YOU USE OUR SERVICES, YOU AGREE TO THIS POLICY. IF YOU DO NOT AGREE TO THIS POLICY, OR TO ANY CHANGES WE SUBSEQUENTLY MAKE, IMMEDIATELY STOP USING OUR SERVICES.
 
-### LIST REMOVAL INSTRUCTIONS 
+### LIST REMOVAL INSTRUCTIONS
 
-If you would like your name and email address removed from our email list, please e-mail us at customerservice@lydiasuniforms.com. If you would like to be removed from our catalog mailing list, please send your full name, address as it is printed on the catalog, and catalog keycode to customerservice@lydiasuniforms.com. 
+If you would like your name and email address removed from our email list, please e-mail us at customerservice@lydiasuniforms.com. If you would like to be removed from our catalog mailing list, please send your full name, address as it is printed on the catalog, and catalog keycode to customerservice@lydiasuniforms.com.
 
 You may also call 800.942.3378 or write to: 
 
 Lydia’s Professional Uniforms  
 2121-E Distribution Center Dr  
-Charlotte, NC 28269 
+Charlotte, NC 28269
 
 ### USE OF COOKIES
 
