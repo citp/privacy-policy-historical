@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdbootstrap.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909232517id_/https%3A//mdbootstrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdbootstrap.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818170437id_/https%3A//mdbootstrap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Material Design for Bootstrap
 
@@ -101,7 +101,7 @@ We honor Do Not Track signals and Do Not Track, plant cookies, or use advertisin
 
 **Does our site allow third-party behavioral tracking?**
 
-It’s also important to note that we allow third-party behavioral tracking
+It’s also important to note that we allow third-party (Facebook Pixel, Google AdWords, BrandFlow) behavioral tracking which allows us to target more accurately both content as well as ads for you.
 
 **COPPA (Children Online Privacy Protection Act)**
 
@@ -124,6 +124,15 @@ We will notify the users via in-site notification
 **•** Within 7 business days
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**Other Data Protection Rights**
+
+You may have the following data protection rights:
+
+  * To  **access, correct, update or request deletion**  of your Personal Information. MailChimp takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about accessing, correcting, updating or deleting your Personal Information, or altering your data, by emailing us at [personaldatarequests@mdbootstrap.com](mailto:personaldatarequests@mailchimp.com). We will consider your request in accordance with applicable laws.
+  * In addition, if you are a resident of the EEA, you can  **object to processing**  of your Personal Information, ask us to  **restrict processing**  of your Personal Information or  **request portability**  of your Personal Information. Again, you can exercise these rights by emailing us at [personaldatarequests@mdbootstrap.com](mailto:personaldatarequests@mailchimp.com).
+
+
 
 **CAN SPAM Act**
 
@@ -158,6 +167,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 and we will promptly remove you from **ALL** correspondence.
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+We are using newsletter offered by MailChimp service from The Rocket Science Group, LLC which are processing data on our behalf. A user can at anytime unsubscribe from receiving further mails using link included in each message sent from us.
 
 StartupFlow S.C.
