@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910110917id_/http%3A//ratracerebellion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819220957id_/https%3A//ratracerebellion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Real Work From Home Jobs by Rat Race Rebellion
 
@@ -32,6 +32,12 @@ This site contains links to other sites. Staffcentrix is not responsible for the
 
 **Advertisers**  
 This site is supported, in whole or in part, by advertisements from outside companies. As noted above, these ads may contain cookies set by the advertiser, for their own purposes, and we do not have access to or control of the information they gather.
+
+**Testimonials**
+
+If you submit a testimonial to us using the contact form on our site, then you agree that we may publish your testimonial, together with your name (we may also use a first name- last initial format), on this website, on such page and in such position as we may determine in our sole discretion.
+
+You further agree that we may edit the testimonial and publish edited or partial versions of the testimonial. However, we will never edit a testimonial in such a way as to create a misleading impression of your views.
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at: cdurst (AT) staffcentrix.com.
