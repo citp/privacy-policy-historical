@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsmarked.info privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610044408id_/http%3A//newsmarked.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmarked.info privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819171006id_/http%3A//www.newsmarked.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - newsmarked.info | newsmarked.info
 
