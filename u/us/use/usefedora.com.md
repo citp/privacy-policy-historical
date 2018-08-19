@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usefedora.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610213625id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usefedora.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819233829id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
 
 # Teachable | Privacy Policy
 
 #### **PLEASE READ THIS DOCUMENT CAREFULLY**
 
-This Privacy Policy applies to the Teachable websites and related subdomains, mobile applications, and media (our "website") managed by Teachable, Inc. (“Teachable”, “we”, or “us”), and the online course creation platform that enables independent instructors (“Instructors”) to deliver live and recorded instruction and learning services as massive open online courses (“Courses”) to end-users (“Students”) through the Instructors’ schools (“Schools”). Our website, online course creation platform and related services are hereinafter collectively referred to as our "Services". 
+This Privacy Policy applies to the Teachable websites and related subdomains, mobile applications, and media (our "website") managed by Teachable, Inc. (“Teachable”, “we”, or “us”), and the online course creation platform that enables independent instructors (“Instructors”) to deliver live and recorded instruction, digital goods, and learning services as massive open online courses (“Courses”) to end-users (“Students”) through the Instructors’ schools (“Schools”). Our website, online course creation platform and related services are hereinafter collectively referred to as our "Services". 
 
 We respect your privacy and are committed to maintaining and using any information we collect through your use of our Services responsibly. 
 
@@ -12,7 +12,7 @@ Teachable is the data controller for the processing of personal data in relation
 
 This Privacy Policy only concerns the processing for which Teachable is data controller. If you have any questions regarding processing for which a School is data controller, please contact the relevant School. 
 
-Please read this Privacy Policy carefully prior to accessing or using our Services. If you have any questions, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please read this Privacy Policy carefully prior to accessing or using our Services. If you have any questions, please contact us at: privacy@teachable.com.
 
 **The Information We May Collect**
 
@@ -77,7 +77,7 @@ Teachable may also disclose any of your information, which in some cases include
 
   2. With our authorized service providers. Teachable may share your PII with our authorized service providers that perform certain services and process PII on our behalf. These services may include providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to PII needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-  3. Payment providers and your bank. For the purpose of administrating payments within our Services, we may disclose your PII to third party payment providers and your bank. 
+  3. Payment providers and your bank. For the purpose of administering payments within our Services, we may disclose your PII to third party payment providers and your bank. 
 
   4. With our business partners. When you make purchases, reservations or engage in promotions offered through our website, we may share PII with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
 
@@ -100,7 +100,7 @@ We will save your PII until you erase or delete your account or otherwise exerci
 
 You are, at any time and free of charge, entitled to receive a copy of the PII that we hold about you and information about the processing thereof. Please note that Teachable needs to be able to determine your identity in order to be able to respond to your request. 
 
-If you believe that any PII we are holding is incorrect or incomplete please send an email with your specific request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will work with you to make any corrections deemed necessary. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. Additionally, note that registered Instructors and Students may change visibility of their respective personal information throughout our website by editing their personal profiles.
+If you believe that any PII we are holding is incorrect or incomplete please send an email with your specific request to privacy@teachable.com. We will work with you to make any corrections deemed necessary. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. Additionally, note that registered Instructors and Students may change visibility of their respective personal information throughout our website by editing their personal profiles.
 
 You have the right to request that Teachable restricts the processing of your PII under certain conditions. For example, if you contest the accuracy of the PII, the processing may be restricted for a period enabling Teachable to verify the accuracy of the PII or if Teachable no longer needs the PII for the purposes of the processing but you require the PII for the establishment, exercise, or defense of legal claims.
 
@@ -116,11 +116,11 @@ You also have the right to withdraw your consent, if applicable. If you withdraw
 
 If you would like to exercise your rights, you may contact us on the contact details provided at the bottom of this Privacy Policy.
 
-If you are unhappy with our processing of your PII or of an alleged infringement of the General Data Protection or other applicable data privacy laws, you may lodge a complaint with a competent supervisory authority, for example in the country of your habitual residence, place of work.
+If you are unhappy with our processing of your PII or of an alleged infringement of the General Data Protection Regulation or other applicable data privacy laws, you may lodge a complaint with a competent supervisory authority, for example in the country of your habitual residence or place of work.
 
 **Our Policy Concerning Children**
 
-As stated in our Terms of Use, our website and Services are offered and available only to you if are 18 years or older, or if you are between 13 and 18 years old and have obtained the consent of a parent or legal guardian prior to accessing the website, registering an account, or using the Services. If you do not meet this eligibility requirement, you may not use our website or Services. Teachable does not knowingly collect or store any personal information from or about children under the age of 13. We will delete such information if we become aware that it has been submitted through our website. Parents or legal guardians who believe that Teachable might have any information from or about a child under the age of 13 may submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and request that such information be removed.
+As stated in our Terms of Use, our website and Services are offered and available only to you if are 18 years or older, or if you are between 13 and 18 years old and have obtained the consent of a parent or legal guardian prior to accessing the website, registering an account, or using the Services. If you do not meet this eligibility requirement, you may not use our website or Services. Teachable does not knowingly collect or store any personal information from or about children under the age of 13. We will delete such information if we become aware that it has been submitted through our website. Parents or legal guardians who believe that Teachable might have any information from or about a child under the age of 13 may submit a request to accounts@teachable.com and request that such information be removed.
 
 **Securing Your Information**
 
@@ -140,7 +140,7 @@ Note that any Do-Not-Track instructions from your browser or similar mechanism w
 
 **California Civil Code Section 1798.83 Compliance**
 
-Under California law, upon request Teachable is required to disclose to its California customers the identity of any third parties to whom we have disclosed PII within the previous calendar year, along with the type of PII disclosed, for the third parties' direct marketing purposes. Please note that under California law, we are only required to respond to a customer request once during any calendar year. If you are a California resident and would like to make such a request, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Under California law, upon request Teachable is required to disclose to its California customers the identity of any third parties to whom we have disclosed PII within the previous calendar year, along with the type of PII disclosed, for the third parties' direct marketing purposes. Please note that under California law, we are only required to respond to a customer request once during any calendar year. If you are a California resident and would like to make such a request, email us at accounts@teachable.com.
 
 **Users Outside of the United States**
 
@@ -162,7 +162,7 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 **Changes to the Privacy Policy**
 
-We may review and update this Privacy Policy from time to time in our sole discretion and will notify you of such changes. As such, your continued use of the Services after receipt of notification of changes to this Privacy Policy is deemed to be acceptance of those changes. 
+We may review and update this Privacy Policy from time to time in our sole discretion. As such, your continued use of the Services after receipt of notification of changes to this Privacy Policy is deemed to be acceptance of those changes. 
 
 **Contact Us**
 
@@ -174,4 +174,4 @@ Teachable, Inc.
 
 New York, New York 10010
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: privacy@teachable.com
