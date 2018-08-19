@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001025544id_/http%3A//www.kotulas.com/deals/PrivacyView%3FcatalogId%3D10602%26langId%3D-1%26storeId%3D10152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819225938id_/https%3A//www.kotulas.com/deals/PrivacyView%3FcatalogId%3D10602%26langId%3D-1%26storeId%3D10152) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,9 +24,11 @@ Kotula's
 Customer Service  
 2800 Southcross Drive West  
 PO Box 1219  
-Burnsville, MN 55306-6936
+Burnsville, MN 55306-6936
 
 ## Opting Out of Third-party Services
+
+To learn more about Adobe Marketing Cloud, their privacy policies or how to opt-out of their services, please see their [privacy overview](http://www.adobe.com/privacy/opt-out.html#5).
 
 To learn more about Google Analytics, their privacy policies or how to opt-out of their services, please see their [privacy overview](http://www.google.com/policies/privacy/partners/).
 
@@ -36,11 +38,11 @@ To learn more about Criteo, their privacy policies or how to opt-out of their se
 
 NO! Kotulas.com will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer service support, and to update you on Kotulas.com Internet specials that you have requested.
 
-If you purchase with Kotula's, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you. If you would not like us to share your information for this intent, please email us or call 1-800-771-3510.
+If you purchase with Kotula's, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you. If you would not like us to share your information for this intent, please email us or call 1-800-771-3510.
 
 You can also write us at:  
 Kotula's  
 Customer Service  
 2800 Southcross Drive West  
 PO Box 1219  
-Burnsville, MN 55306-6936
+Burnsville, MN 55306-6936
