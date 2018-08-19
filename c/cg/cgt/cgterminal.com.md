@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgterminal.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525160843id_/http%3A//cgterminal.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgterminal.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820010721id_/https%3A//cgterminal.com/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
