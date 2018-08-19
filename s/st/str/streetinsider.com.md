@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetinsider.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915133024id_/https%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetinsider.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819091830id_/https%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.*
 
 # StreetInsider.com
 
@@ -23,3 +23,5 @@ Links to Other Web Sites
 Our Web site contains links to other sites. StreetInsider.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites. 
 
 StreetInsider.com
+
+To opt-out please go to <http://optout.networkadvertising.org/#!/>
