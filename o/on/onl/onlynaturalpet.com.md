@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724093745id_/https%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819171841id_/https%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Only Natural Pet
 
@@ -35,7 +35,7 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to the data that you provide directly to us.
 
-We use Local Storage Objects (LSOs) such as HTML5 or Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
 
 **Do we disclose information we collect to outside parties?**
 
@@ -78,7 +78,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 **Third party advertising**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://www.networkadvertising.org/choices/#completed). Please note this does not opt you out of being served ads.  You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://www.networkadvertising.org/choices/#completed). Please note this does not opt you out of being served ads.  You will continue to receive generic ads. 
 
 **Children**
 
@@ -102,7 +102,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](http://www.onlynaturalpet.com/help/termsofuse.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://www.onlynaturalpet.com/help/termsofuse.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
