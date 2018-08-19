@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012545id_/http%3A//www.networx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819025728id_/https%3A//www.networx.com/privacy) for the most accurate reproduction.*
 
 # Networx Privacy Policy - Networx
 
@@ -114,8 +114,8 @@ All of our users’ personal information is restricted in our offices. Only empl
 If users have any questions or suggestions regarding this Privacy Policy, or our privacy practices, please email us at: [privacy@networx.com](mailto:privacy@networx.com); call us at (888) 612-8043; and/or send mail to:
 
 Networx Systems, LLC  
-1203 16th St  
-Wheatland, WY 82201  
+3399 Peachtree Road NE  
+Atlanta, Georgia 30326  
 
 
 **Filing a Complaint with the Federal Trade Commission**
