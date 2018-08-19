@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060415id_/https%3A//www.article.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819224553id_/https%3A//www.article.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Article - Article | Modern, Mid-Century and Scandinavian Furniture
 
