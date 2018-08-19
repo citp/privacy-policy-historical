@@ -1,42 +1,41 @@
-> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403173154id_/http%3A//www.phys.vt.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819062318id_/http%3A//www.vt.edu/about/privacy.html) for the most accurate reproduction.*
 
-# Virginia Tech Department of Physics - Privacy Statement
+# Privacy Statement | Virginia Tech
 
-Virginia Tech Physics has created this privacy statement in order demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
+Virginia Tech has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web page: www.vt.edu.
 
-Information Automatically Logged
+## Information Automatically Logged
 
-This site uses your IP address to help diagnose problems with our server and to administer our site.
+The server collects the IP address, date, time, page accessed, browser type, and the referring page if present. We use your IP address to help diagnose problems with our server and to administer our Web page. The date and time are used to track the load on the server and peak usage times. We record the browser type to monitor market penetration of various web browsers so we can better determine what Internet technologies we may utilize in the design of our pages. We use page referrer data--that is, information about the web page that pointed you to our page--to determine to what extent our page is referenced by other resources on the web. These data may be used to preserve the integrity of our computing resources.
 
-This site records the browser type to monitor market penetration of various web browsers so we can better determine the Internet technologies we may utilize in the design of our pages.
+### Logging of Quicklink Usage
 
-This site uses page referrer data - that is, information about the page that linked you to this page - to determine to what extent our page is referenced by other resources on the Web.
+The Virginia Tech website logs all usage of the quicklinks to assist us in determining the popularity of links. No personally identifiable information is recorded; only the time and date, and the quicklink used.
 
-This data may be used to preserve the integrity of our computing resources.
+## Use of Cookies
 
-Personal Information
+The Virginia Tech home page issues and reads cookies to track any customization options you may have selected. These include modifications to the list of Quicklinks, the campus image on the page, and whether drop-down menus are activated.
 
-Some of our webpages collect and use name/email address to send webserver responses back to the user via email.
+## Personal Information
 
-We do not share any personal information with any third parties nor do we use any personal information for any purposes beyond those stated here.
+This Web page does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted.
 
-Links to Virginia Tech Sites
+Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
+
+## Links to Virginia Tech Pages
 
 This site contains links to other Virginia Tech pages. The privacy practices of other pages may vary with the purposes of the page. Consult the privacy statement on each page.
 
-Links to External Sites
+## External Links
 
-This site contains links to other sites. Virginia Tech is not responsible for the privacy practices or the content of such web sites.
+This site contains links to other sites. Virginia Tech is not responsible for the privacy practices or the content of such Web sites.
 
-Security
+## Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Log file access is restricted to system administrators while stored on the server. Log files are rotated regularly and archived in a secure location.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Log file access is restricted to system administrators while stored on the server. Log files are rotated regularly and archived in a secure location. User and password information, if requested, is encrypted before it is transmitted across the network.
 
-Users should also consult Virginia Tech's policy on Acceptable Use.  
-<http://www.policies.vt.edu/acceptableuse.html>
+Users should also consult [Virginia Tech's policy on Acceptable Use](http://www.policies.vt.edu/7000.pdf). (PDF) Virginia Tech complies with all statutory and legal requirements with respect to access to information.
 
-Virginia Tech complies with all statutory and legal requirements with respect to access to information.
+## Contacting the Website
 
-Contact Information
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact [webmaster@phys.vt.edu](mailto:webmaster@phys.vt.edu)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@vt.edu](mailto:webmaster@vt.edu).
