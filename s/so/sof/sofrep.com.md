@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301065109id_/https%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819153320id_/https%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SOFREP
+# Privacy Policy | NEWSREP
 
 **Effective Date: July 22, 2015**
 
@@ -17,7 +17,7 @@ Guaynabo 00968
 Puerto Rico  
 USA  
 Toll-free: (877) 477-0623 (U.S. Only)  
-[support@sofrep.com](mailto:support@sofrep.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5969095958a9791a5918d808b809296978095cb868a88)
 
 * * *
 
@@ -77,9 +77,9 @@ The third party analytics companies who collect information on our Sites and/or 
 
 In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of Hurricane Sites and/or Services and to otherwise collect and use data about your use of Hurricane Sites and/or Services. For more information about this practice, please see the “Third Party Advertising Technologies” section below.
 
-You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout).
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
+Google has additional information available about their [Remarketing Privacy Guidelines](https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and [Restrictions](https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
 
 ## 2\. How We Use Information
 
@@ -135,7 +135,7 @@ In addition to using cookies and related technologies as described above, we als
 
 We do not knowingly seek or collect Personal Information from users under the age of 13, except to the extent that Hurricane may collect limited personal information from students (but not their email addresses), **but only where that student’s school, district, and/or teacher has contracted with Hurricane to collect the personal information from students for the use and benefit of the learning environment.** Children under 13 years old are not allowed to create an account without a parent’s or guardian’s express consent. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-We require schools, districts, and/or teachers to obtain parental or guardian consent from a students’ parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student’s school, district, or teacher has not obtained parental consent, please contact us at [support@sofrep.com](mailto:support@sofrep.com).
+We require schools, districts, and/or teachers to obtain parental or guardian consent from a students’ parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student’s school, district, or teacher has not obtained parental consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#42313732322d303602362a272c2735313027326c212d2f).
 
 Notwithstanding anything to the contrary contained in this Policy, if you are a student as described above, and your parent or guardian signed up for our Sites and/or Service with a password or access ID provided by your teacher, you understand that your parent or guardian may be able to view all information within or associated with your account, including, without limitation, messages between you and your teacher and grades you received on your assignment.
 
@@ -197,11 +197,11 @@ We encourage you to review this Policy periodically to stay informed about our c
 
 Hurricane Sites and/or Services may be hosted in the United States. If you utilize our Sites and/or Services from the European Union or Switzerland, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union, Switzerland and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States.
 
-The Personal Information practices set out in this Privacy Policy apply to all Hurricane Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [support@sofrep.com](mailto:support@sofrep.com).
+The Personal Information practices set out in this Privacy Policy apply to all Hurricane Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e1929491918e9395a19589848f849692938491cf828e8c).
 
 ## 15\. Enforcement
 
-Hurricane regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or Hurricane’s treatment of Personal Information by contacting us through this Site at support@sofrep.com or by writing to us at Hurricane Media, 930 Tahoe Blvd. Suite 802-543, Incline Village, NV 89451, USA. When Hurricane receives a formal written complaint at this address, it is Hurricane’s policy to contact the complaining party regarding his or her concerns. Hurricane will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by Hurricane and an individual.
+Hurricane regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or Hurricane’s treatment of Personal Information by contacting us through this Site at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by writing to us at Hurricane Media, 930 Tahoe Blvd. Suite 802-543, Incline Village, NV 89451, USA. When Hurricane receives a formal written complaint at this address, it is Hurricane’s policy to contact the complaining party regarding his or her concerns. Hurricane will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by Hurricane and an individual.
 
 ## 16\. No Error Free Performance
 
