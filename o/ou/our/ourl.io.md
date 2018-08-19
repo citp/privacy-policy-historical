@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourl.io privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225151616id_/https%3A//ourl.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourl.io privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819160015id_/https%3A//ourl.io/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 At ourl.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by ourl.io and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at **contact@ourl.io**.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**.
 
 ### **Log Files**
 
