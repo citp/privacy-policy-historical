@@ -1,0 +1,517 @@
+<!--The following is the downloaded HTML source of the learnoutloud.com privacy policy that was archived on 2018-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180819052647id_/https%3A//www.learnoutloud.com/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Privacy Policy</title>
+<link rel="alternate" type="application/rss+xml" title="BlogOutLoud, Our Audio &amp; Video Learning Blog" href="http://feeds2.feedburner.com/BlogOutLoud">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<!-- <link href="https://www.learnoutloud.com/include/learnout.css" rel="stylesheet" type="text/css"> -->
+<script type="text/javascript" src="https://www.learnoutloud.com/include/CommonFunctions.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function fnship_to_this(id)
+{
+document.frm.chkshipto.value=id;
+document.frm.txtfirstname.value="";
+document.frm.txtlastname.value="";
+document.frm.txtcity.value="";
+document.frm.txtaddr1.value="";
+document.frm.txtaddr2.value="";
+document.frm.txtzip.value="";
+document.frm.txtpno.value="";
+document.frm.selstate.value="";
+validate_selection();
+
+}
+function checkblank()
+{
+if ( trim(document.frm.txtfirstname.value)=="" 	&&  trim(document.frm.txtlastname.value)=="" &&  trim(document.frm.txtaddr1.value)=="" && 
+trim(document.frm.txtfirstname.value)=="" &&  trim(document.frm.txtaddr2.value)=="" &&  trim(document.frm.txtcity.value)=="" &&  
+trim(document.frm.txtzip.value)=="" &&  trim(document.frm.txtpno.value)=="" && (document.frm.selstate.value==0) && document.frm.chkalsobill.checked==false)
+	return true;
+else
+		return false;
+}
+function enable_chk(id,objthis)
+{
+
+obj=document.getElementById('shiptothis');
+flag=checkblank();
+	if(objthis.value!='')
+			obj.checked=true;
+	else
+	{
+	//obj.checked=false;
+		if(flag)
+			{
+				var done=0;
+				for(i=0;i<document.frm.chkshipto.length;i++)
+					{
+					if(document.frm.chkshipto[i].value==id)
+						{
+						document.frm.chkshipto[i].checked=true;
+						done=1;
+						}
+						if(done==1)
+							break;
+					}	
+			}
+	}
+
+}
+function validate_selection()
+{
+var addcnt='';
+var surl='';
+var objerror=document.getElementById("error");
+objerror.innerHTML="";
+var open_font="<font color=#ff0000 size=0.5 ><br>";
+var close_font="</font>";
+if ( trim(document.frm.txtfirstname.value)=="" 	&&  trim(document.frm.txtlastname.value)=="" &&  trim(document.frm.txtaddr1.value)=="" && 
+trim(document.frm.txtfirstname.value)=="" &&  trim(document.frm.txtaddr2.value)=="" &&  trim(document.frm.txtcity.value)=="" &&  
+trim(document.frm.txtzip.value)=="" &&  trim(document.frm.txtpno.value)=="" && (document.frm.selstate.value==0) )
+	{
+			
+			var err=0;
+				if(addcnt==0)
+					{
+					//alert('Select Shipping Address');
+					objerror.innerHTML=open_font+"Select Shipping Address"+close_font;
+					err=1;
+					}
+				else if	(addcnt==1)
+					{
+					 if(document.frm.chkshipto.value=="")
+					 {
+					 //alert("Select Shipping Address");
+					 objerror.innerHTML=open_font+"Select Shipping Address";
+					 err=1;
+					 }
+					 
+					}
+				/*else
+					{
+					var selected=0;
+					for(i=0;i<document.frm.chkshipto.length;i++)
+						{
+						 if(document.frm.chkshipto[i].checked==true)
+						 {
+						 selected=1;
+						 break;			 
+						 }
+						}
+						if(selected==0)
+						{
+						//alert("Select Shipping Address");
+						objerror.innerHTML=open_font+"Select Shipping Address</font>";
+						err=1;
+						}
+					}*/
+					var selected=0;
+					if(err==0)
+					{
+						for(i=0;i<document.frm.chkship.length;i++)
+								{
+								 if(document.frm.chkship[i].checked==true)
+								 {
+								 selected=1;
+								 break;
+								 }
+								}
+								if(selected==0)
+								{
+								//alert("Select Shipping Option");
+								objerror.innerHTML=open_font+"Select Shipping Option</font>";
+								err=1;
+								}
+					}
+			if(err==0)
+					{
+					document.frm.action="payment.php?"+surl;
+					document.frm.submit();
+					}
+		}//end of if 6 checks
+	else
+		{
+					
+		var id='';
+		var error= Fnvalidate(id);
+		//if(document.frm.chkbill.checked==false)
+		//error=false;
+		//if(document.frm.chkalsobill.checked==true)
+		//error=false;
+		if(error)
+				{
+					document.frm.action="payment.php?"+surl;
+					document.frm.submit();
+				}
+		}	
+		//else
+		//objerror.innerHTML="Incomplete informatiopn for Shipping Address";
+}
+
+
+function delete_address(id)
+{
+if(confirm("Are you sure"))
+	{
+	document.frm.txtaction.value="delete";
+	document.frm.txtaddressid.value=id;
+	document.frm.submit();	
+	}
+}
+function default_address(id)
+{
+	document.frm.txtaction.value="default";
+	document.frm.txtaddressid.value=id;
+	document.frm.submit();
+}
+function edit_address(id)
+{
+document.frm.txtaction.value="edit";
+document.frm.txtaddressid.value=id;
+document.frm.action="shipping.php#edit";
+document.frm.submit();
+}
+
+  function Fnvalidate(id)
+   {
+		objfn=document.getElementById('fn_error');objfn.innerHTML="";
+		objln=document.getElementById('ln_error');objln.innerHTML="";
+		objaddr1=document.getElementById('addr1_error');objaddr1.innerHTML="";
+		objaddr2=document.getElementById('addr2_error');objaddr2.innerHTML="";
+		objcity=document.getElementById('city_error');objcity.innerHTML="";
+		objstate=document.getElementById('state_error');objstate.innerHTML="";
+		objphone=document.getElementById('phone_error');objphone.innerHTML="";
+		objzip=document.getElementById('zip_error');objzip.innerHTML="";
+		var error=0;fset=0;
+		var open_font="<font color=#ff0000 size=1><br>";
+        if(trim(document.frm.txtfirstname.value)=="")
+        {
+			    //alert("First Name is required\n");
+				objfn.innerHTML=open_font+"First Name is required</font>";
+		        document.frm.txtfirstname.focus();
+				fset=1;
+				error=1;
+	  			//return false;
+        }
+        else
+        if(isAllCharacters(trim(document.frm.txtfirstname.value))==false)
+        {
+				//alert("First Name contains invalid characters\n");
+				objfn.innerHTML=open_font+"First Name contains invalid characters</font>";
+				if(fset==0)	{
+		        document.frm.txtfirstname.focus();
+				fset=1;	}
+				error=1;
+	  			//return false;
+
+        }
+		else
+		objfn.innerHTML="";
+		
+        if(trim(document.frm.txtlastname.value)=="")
+        {
+			    //alert("Last Name is required\n");
+				objln.innerHTML=open_font+"Last Name is required</font>";
+   				if(fset==0)	{
+				document.frm.txtlastname.focus();
+				fset=1; }
+				error=1;
+	  			//return false;
+        }
+        else
+        if(isAllCharacters(trim(document.frm.txtlastname.value))==false)
+        {
+				//alert("Last Name contains invalid characters\n");
+				objln.innerHTML=open_font+"Last Name contains invalid characters</font>";
+   				if(fset==0)	{
+		        document.frm.txtlastname.focus();
+				fset=1; }
+				error=1;
+	  			//return false;
+        }
+		else
+		objln.innerHTML="";
+
+
+	if(trim(document.frm.txtaddr1.value)=="")
+	{
+			//alert("First Name is required\n");
+			objaddr1.innerHTML=open_font+"Address is required</font>";
+			if(fset==0)	{
+			document.frm.txtaddr1.focus();
+			fset=1; }
+			error=1;
+			//return false;
+	}
+	else
+	if(isValidatechar('\\',document.frm.txtaddr1.value))
+	{
+	   // alert("Enter valid Address1 (Back slash not allowed)\n");
+		objaddr1.innerHTML=open_font+"Address contains invalid characters</font>";
+		if(fset==0)	{
+        document.frm.txtaddr1.focus();
+		fset=1; }
+		error=1;
+	  	//return false;
+	}
+	else
+		objaddr1.innerHTML="";
+		
+ if(isValidatechar('\\',document.frm.txtaddr2.value))
+	{
+	    //alert("Enter valid Address2 (Back slash not allowed)\n");
+		objaddr2.innerHTML=open_font+"Address contains invalid characters</font>";
+		if(fset==0)	{
+        document.frm.txtaddr2.focus(); 
+		fset=1; }
+		error=1;
+	  	//return false;
+	}		
+	else
+		objaddr2.innerHTML="";
+	
+	
+	if(trim(document.frm.txtcity.value)=="")
+	{
+			//alert("First Name is required\n");
+			objcity.innerHTML=open_font+"City is required</font>";
+			if(fset==0)	{
+			document.frm.txtcity.focus();				
+			fset=1; }
+			error=1;
+			//return false;
+	}
+	else	
+	if (!isAlphaNumeric_with_Quotes(document.frm.txtcity.value))
+	   {
+	      //alert("Enter valid City (Only alpha numeric characters with ')\n");
+			objcity.innerHTML=open_font+"City contains invalid characters</font>";
+  			if(fset==0)	{
+			  document.frm.txtcity.focus(); 
+			  fset=1; }
+			  error=1;
+			//return false;
+	}
+	else
+	objcity.innerHTML="";
+
+	if(document.frm.selstate.value==0 || document.frm.selstate.value==56)
+	{
+			//alert("First Name is required\n");
+			objstate.innerHTML=open_font+"State is required</font>";
+			if(fset==0)	{
+			document.frm.selstate.focus();				
+			fset=1; }
+			error=1;
+			//return false;
+	}
+	else	
+	objstate.innerHTML="";
+//////////////////////////////////
+	if(trim(document.frm.txtzip.value)=="")
+	{
+			//alert("First Name is required\n");
+			objzip.innerHTML=open_font+"Zip is required</font>";
+			if(fset==0)	{
+			document.frm.txtzip.focus();				
+			fset=1; }
+			error=1;
+			//return false;
+	}
+	else	
+	if(!isAllNumeric(document.frm.txtzip.value))
+			{
+			 //alert( "Enter valid zip number (Only numeric characters)");
+			objzip.innerHTML=open_font+"Zip contains invalid characters</font>";
+			  if(fset==0)	{
+			  document.frm.txtzip.focus();
+			  fset=1; }
+			  error=1;
+				//return false;	
+			}
+	else
+		objzip.innerHTML="";
+	if(trim(document.frm.txtpno.value)=="")
+	{
+			//alert("First Name is required\n");
+			objphone.innerHTML=open_font+"Phone is required</font>";
+			if(fset==0)	{
+			document.frm.txtpno.focus();				
+			fset=1; }
+			error=1;
+			//return false;
+	}
+	else			
+		if (!validatePhone(document.frm.txtpno.value))
+			   {
+				  //alert("Enter valid Phone Number (Only numeric characters with - ())");
+				objphone.innerHTML=open_font+"Phone contains invalid characters</font>";
+				 if(fset==0)	{
+				 document.frm.txtpno.focus();
+				 fset=1; }
+				  error=1;
+					//return false;
+				}
+			else
+				objphone.innerHTML="";
+	if(error==0)
+	{
+		if(id!="")	
+		{
+		document.frm.txtaction.value="update";
+		document.frm.txtaddressid.value=id;
+		}
+		else
+		{
+		document.frm.txtaction.value="add";
+		document.frm.txtaddressid.value="";
+		}
+		document.frm.submit();
+		//return true;
+	}
+	
+	return false;
+	
+   }
+
+    function Validate()
+ {
+  
+  if ((document.frm.selcountry.options[document.frm.selcountry.selectedIndex].value==37) || (document.frm.selcountry.options[document.frm.selcountry.selectedIndex].value==226))
+    {
+	  document.frm.selstate.disabled=0;  
+	  document.frm.txtstate.value="";	   
+	  document.frm.txtstate.disabled=1;
+	
+	  }
+  else 	 
+   {
+    document.frm.selstate.options[0].selected=true;
+   document.frm.selstate.disabled=1;
+  document.frm.txtstate.disabled=0;     
+  document.frm.txtstate.focus();
+  
+   }
+ }
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style>
+*{margin:0;}
+body{text-align:center;height:100%;}
+div, p{font-size:12px;line-height:1.3em;}
+.mb_15{margin-bottom:15px;}
+td {
+	font-family: Arial;
+	font-size: 12px;
+}
+</style>
+
+</head>
+
+<body style="font-family: Lucida Grande,Arial,sans-serif;">
+<form name="frm" method="post" onsubmit="return Fnvalidate('');">
+
+ <div style="background-color:#fff;">
+ <div style="width:612px;margin:0 auto;text-align:left;">
+	<div align="center">
+		<img align="center" src="https://www.learnoutloud.com/images/learnoutloudbighorizontalgif.gif" alt="Welcome to LearnOutLoud.com, Your Audio Learning Resource on the Internet."> 
+	</div>
+	<br>
+	<table>
+	<tbody><tr>
+	<td>&nbsp;</td>
+	<td>
+	<h1 style="color: #000000;font-size: 24px;font-weight: normal;line-height: 26px;margin-bottom: 15px;">Our Privacy Policy</h1>
+	
+	<input type="hidden" name="s" value="">
+	<p>
+	At LearnOutLoud.com we are firmly committed to the privacy of our customers. This privacy policy details what information we collect from users and why, as well as how we securely store personal customer information. By using the LearnOutLoud.com site you agree to the Privacy Policy detailed below. 
+	</p><p>
+	<br>
+	<b>How We Protect Personal Customer Information</b>
+	<br><br>
+	</p><p>
+	All personal customer information we collect is stored on our secured server. You can recognize when information you are entering in is secured when you see a lock in bottom right of your browser and when you see that the beginning of the URL you are on is https:// as opposed to the normal http://. Customer information you enter is immediately transferred to our secured server utilizing Secure Sockets Layer (SSL) encryption. This information is encrypted through Thawte's 128-bit SSL encryption, an industry leader in e-commerce encryption technology. 
+	<br><br>
+	</p><p>
+	<b>Information We Collect</b>
+	<br><br>
+	</p><p>
+	Anyone can set up an account with LearnOutLoud.com. By setting up an account you'll be able to purchase products, post in our forums, post reviews, create a Wishlist of products you'd like, and more. When registering for a new account we collect a Username, Email address, password, and your first and last name. Your Email address &amp; password are used for logging in to the site. Your username can also be used to log in and it is displayed when posting in our forums and your real name can be displayed when you post reviews. 
+	<br><br>
+	</p><p>
+	If you forget your password you can click the Forgot Password? link in the Log In box located in the left bar of each page and then enter in your Username and Email address so a temporary password can be sent to your Email account. We will also use your Email address for providing you with your order confirmation and other order updates. When registering you will have the option to receive occasional Emails from us including coupons and our E-Magazine. You may opt out of our e-mail list during registration or at any other time thereafter.<br><br>
+	</p><p>
+	You will also be registered for our Community Forums. By default, adminstrators of the forum can send you Emails but other users cannot. You can modify forum Email options through the "My LOL" link in the forums.
+	<br><br>
+	</p><p>
+	When you shop with us we collect your billing address, shipping address, and phone number. To place an order you must enter your credit card information, and it is instantly sent to our payment processor for immediate order confirmation. To protect the security of your credit card information we do not store any credit card-related information on our servers. Therefore you will have to re-enter it each time you place an order.
+	<br><br>
+	</p><p>
+	In addition to securely storing your customer information we also securely store your order history. By logging into your account you'll be able to change your customer information and review the details of your orders. All this information is stored on our secured server.
+	<br><br>
+	</p><p>
+	All customer information we collect is encrypted and stored securely and is not shared with other parties. LearnOutLoud.com links to many other sites for products and resources, but we are in no way responsible for the privacy practices of the websites we link to. 
+	<br><br>
+	</p><p>
+	<b>Our Use Of Cookies</b>
+	<br><br>
+	</p><p>
+	Cookies are small files that are transmitted to your computer through your web browser. LearnOutLoud.com uses cookies to allow you to remain logged in when you return to our site and to maintain items in your shopping cart as you use our site. No personal customer information is stored in these cookies. To ensure the proper functionality for using our site it is recommended that you accept cookies. Although if you turn cookies off you can still log in to our site and use our shopping cart.
+	<br><br>
+	</p><div align="center">
+	<!--<a href="#close" onClick="javascript:window.close();"><img src="images/close.gif" width="64" height="24" border="0"></a>-->
+	</div>
+	</td>
+	</tr>
+	</tbody></table>
+	</div>
+</div>	
+</form>
+
+
+</body></html>
