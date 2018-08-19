@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the vbridal.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609232914id_/http%3A//vbridal.com/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbridal.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819202256id_/http%3A//www.vbridal.com/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice-Vbridal.com
 
 **Privacy Policy**
 
-This privacy policy applies only to Vbridal, the website controlled by ZC Technologies (HK) Limited and/or its affiliated entities ("ZC," "we" or "us") ("Vbridal", the "Site"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE.
+This statment provides information on the policies of Vbridal, the website controlled by ZC Holding (HK) Limited and/or its affiliated entities ("ZC," "we" or "us") ("Vbridal", the "Site") under the Personal Data (Privacy) Ordinance (Cap.486) of Hong Kong (“Ordinance”). This privacy policy does not pertain to information that is collected offline. BY USING THE SITE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE.
 
  **A. Information Collected**
 
-This privacy policy applies only to information collected on the Site and does not apply to information collected by Vbridal through any other means.
+This statment provides information on the policies of Vbridal, the website controlled by ZC Holding (HK) Limited and/or its affiliated entities ("ZC," "we" or "us") ("Vbridal", the "Site") under the Personal Data (Privacy) Ordinance (Cap.486) of Hong Kong (“Ordinance”).
 
 We collect two types of information from visitors to the Site: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies.
 
