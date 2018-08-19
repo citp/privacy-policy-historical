@@ -1,22 +1,174 @@
-> *The following text is extracted and transformed from the jeepsunlimited.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623052011id_/http%3A//www.jeepsunlimited.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeepsunlimited.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819094706id_/https%3A//www.4wd.com/general-info/content.jsp%3FchildEventId%3Dprivacypolicy) for the most accurate reproduction.*
 
-# JeepsUnlimited Forums -- Privacy
+# 4Wheel Drive Hardware Policies | 4WD.com
 
-  
-JeepsUnlimited strongly believes in a consumer's right to privacy. All web user data collected by JeepsUnlimited as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. JeepsUnlimited does not conduct individual web user "profiling". 
+  * Ordering
+  * Payment Options
+  * Shipping Options
+  * Returns
+  * Catalog Information
+  * Privacy Policy
 
-**Cookies**  
-Remote "cookies" on web user computers and server databases at JeepsUnlimited facilities are used to store information by JeepsUnlimited. A cookie is a piece of data placed on the Web User's hard drive by our servers. Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase your hard drive or otherwise damage your computer. Usage of a cookie is in no way linked to any personally identifiable information. Cookies are used to ensure that when a web user clicks on an ad, they are sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to sequence the delivery of a series of ads to a web browser, and to limit the number of times a web browser receives any one advertisement.Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. 
 
-**Information Collection and Use**  
-As with all web content delivery systems, JeepsUnlimited records information about the interaction between a web user's browser and our servers. Those interactions include ad content (banner) delivery, counting click-throughs on an ad, and tracking webpage views after a click-through. Browsers typically provide the browser version, the operating system, and the IP address of the computer in use. This non-personally identifiable information is collected from web users to assist in the proper function of our service as well as the targeting of advertisements from our customers and the reporting of aggregate data to both advertisers and publishers. JeepsUnlimited does not collect, use, sell, or purchase web user information that is personally identifiable. 
 
-**Information Sharing**  
-Web user information (all of which is non-personally identifiable) is shared with our advertisers and publishers in aggregate fashion. This means, for example, that of the millions of web users we deliver banners to each month, an advertiser will know what percentage of those users viewed their advertisement with a certain browser. The sharing of this information is essential to providing the services we offer. JeepsUnlimited may augment web user information with additional non-personally identifiable information, such as an IP address to 5-digit postal code cross reference to aid in local targeting of advertising. IP addresses are not linked to personally identifiable information by JeepsUnlimited. 
+## Ordering
 
-  
-**Contacting JeepsUnlimited**  
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you may contact: 
+### By Phone
 
-JeepsUnlimited, LLC  P.O. Box 57  Columbiana, OH, USA 44408  [info@JeepsUnlimited.com](mailto:%20info@JeepsUnlimited.com) **If you are inquiring in regard to a matter related to your _forums account_ ,  
-PLEASE indicate your forum _member name_ in your correspondence.**
+Call Toll Free **800-555-3353** , or call our International Sales Department at **(1-330-482-4924 or 1-330-482-5560)**. We cannot accept collect phone calls.
+
+### Prices
+
+In our catalog printed beside each part listing is a price. However, this convenient information may become obsolete due to manufacturing cost increases. Therefore, we reserve the right to make price changes without notice. While the Internet tries to be accurate with pricing, there are times when products appear with inaccurate pricing. If you see a price you feel is incorrect, please call us before placing your order online. We charge tax in the following states: Alabama, Arizona, Arkansas, California, Colorado, Florida, Georgia, Hawaii, Idaho, Indiana, Louisiana, North Carolina, New Mexico, Nevada, Ohio, Oklahoma, Oregon, Tennessee, Texas, Utah, Virginia and Washington. Because we own businesses in these states, we are required by law to collect all state and local sales taxes based on the destination of the order. Tax rates are determined based on the delivery address of the order. TAX RATES ARE SUBJECT TO CHANGE AT ANYTIME.
+
+**Promotions and discounts cannot be combined.**
+
+**ALL SPECIAL ORDERS ARE FINAL**. Special order items will be charged $5.00 and Drop Ship items will be charged $1.50 for processing.
+
+## Payment Options
+
+### Credit Card
+
+We accept all major credit cards: Visa, MasterCard, American Express and Discover, as well as PayPal and Car Care One (Synchrony Financial). We also accept checks by phone and personal checks with your name, address, check number and bank imprinted on the front. If you have a P.O. Box on your check, please include your physical address. Personal checks will not be accepted for orders of $1,000 or more. Our 4Wheel Drive Hardware gift cards and promo cards can be used on our website, over the phone with one of our knowledgeable representatives and also in our retail showrooms across the country. 
+
+## Shipping Options
+
+All shipments are F.O.B. Columbiana, Ohio. Small items (under 150 pounds) will be shipped by ground service or express service if requested. Larger items will be shipped by truck freight. We do not ship C.O.D. orders to a P.O. Box, APO, or FPO. All orders must have complete shipping address and phone number. Truck freight is tailgate only, customer must have someone available to unload freight. If the condition of your package is questionable, please contact our Customer Service Department immediately at **800-913-8597, prompt 2**.
+
+Special orders & truck shipments can take approximately 2 to 4 weeks depending on the items. 
+
+### International Orders
+
+All international orders require payment in advance. Due to various rate differences and depending on which items are ordered, freight fees will vary. It is important that you contact our International Sales Department (1-330-482-4924 or 1-330-482-5560) regarding all international orders. All international orders must have a phone number. We have no control over value-added taxes or duty charges. These are the responsibility of the customer. All special orders and all international sales are final. We accept no backorders on international orders.
+
+### Damaged Shipments
+
+Upon receipt of an obviously damaged package, you have the option of refusing delivery and the order will be returned to 4Wheel Drive Hardware. This is the preferred method. If you are not able to refuse the delivery, please call our customer service department immediately so that we can assist you with your damage claim and possibly replace the product. Please be prepared to provide detailed information about your delivery and provide photographs (if possible). Keep the package and parts as close as possible to the condition in which you received them. The carrier might request a physical inspection of the package(s). Without the package, the carrier will void your claim. Please notify our customer service department as to what has occurred so that we may assist you and answer any questions you may have on your claim. Our Customer Service department can be reached at 800-913-8597 or via email at [custserv@4wd.com](mailto:custserv@4wd.com). All carrier damage claims must be filed within 5 days of receipt of the products.
+
+### Refused Shipments
+
+Any customer who refuses a C.O.D. delivery of an order (damaged shipment excluded) will be required to pay the additional return freight charges. These charges must be paid in full before any future orders will be shipped.
+
+Any customer who refuses delivery of an order (damaged shipment excluded) will be required to pay the additional return freight charges. The initial shipping charge will not be refunded.
+
+## Returns
+
+### Return Authorization
+
+You can download an RGA form here [RGA FORM](https://web.archive.org/images/static/4WDReturnPolicy.pdf). Please complete the RGA form in its entirety and include as much information as possible, including your invoice and/or order number. If you need additional assistance with a return, you can call 800-913-8597 prompt 2, to speak to one of our customer service representatives. You can also send an [email](mailto:custserv@4wd.com) request to our Customer Service Department. 
+
+### Warranty
+
+We warranty all merchandise for a minimum of 30 days against defects in workmanship or materials for normal use. Keep all manufacturer's warranties and owner's manuals you receive with the merchandise ordered. In the event an item becomes defective, please refer to the manufacturer's warranty information for proper procedure on returning the merchandise. All claims are started by calling our Customer Service Department for a Return Goods Authorization Number (RGA). Returned items will be inspected for warranty eligibility. We will not be responsible or liable for labor, or incidental or consequential damage of any kind. In no event shall our liability exceed the cost of the goods.
+
+**EXTREME WARRANTY:** If you purchased the Extreme Warranty, this is what will be covered:
+
+  * Your product will be covered due to a mishap. The broken component will be replaced at no charge to you upon inspection of the merchandise. You will, however, be responsible for shipping the broken component back to us and the return shipping of new product back to you.
+  * The Extreme Warranty can save you the expense of purchasing the product again if you are to break it. We will send a replacement component to replace the broken component on the product. After the warranty is used, it will be voided and a new warranty must be purchased.
+  * Coverage with the Extreme Warranty extends for the product life of the product. Wear items such as bushings, hiem joints, zippers, etc. are not covered. Certain products such as soft tops, seat covers, etc. will be subject to a prorated adjustment. Vandalism, theft, fire or accidents will not be covered under this warranty.
+
+
+
+### Backorders
+
+Sometimes it becomes necessary to cancel orders for a backorder or discontinued part. Therefore, we reserve the right to cancel these orders. Backorders will be billed at the time the order is received. There is no additional shipping charge on backorder shipments.
+
+### Product Installation Policy
+
+4Wheel Drive Hardware has no control over the use of any product. 4Wheel Drive Hardware therefore expects the customer to exercise good judgment as to the proper selection, installation, use and maintenance of any product. 4Wheel Drive Hardware assumes no responsibility for damage or injury of any kind due to any misuse or improper application of any products in any way by any person.
+
+## Catalog Information
+
+### Mail List Preference
+
+We occasionally make our mailing list available to carefully selected companies whose products or services might interest you. If you prefer to have your name withheld, please send your mailing label complete with name and address to:
+
+44488 State Route 14,  
+Columbiana, OH 44408 
+
+### Duplicate Catalogs
+
+If you are receiving more than one copy of our catalog, please send us both mailing labels or call our Customer Service Department 800-913-8597 and indicate which one is the most correct. Please share your extra catalog with a "jeeper" friend.
+
+### Printing Errors
+
+Although every effort is made to keep our catalog and website error free, mistakes sometimes occur. We are not responsible for typographical errors.
+
+Price, taxes and shipping rates are subject to change without notice.
+
+Your privacy is important to us. The following discloses our information gathering and dissemination practices for 4wd.com. 
+
+### Browsing
+
+We collect certain information when you visit 4wd.com to improve the quality of your experience. The information we may collect and store includes: 
+
+  * Name of the domain and host you use to access the Internet
+  * IP address of the computer 
+  * Browser software and operating system 
+  * Date and time you access our site
+  * The referral source that brought you to our site 
+
+
+
+We use this information to measure the number of visitors to areas of our site, and to help us make our site more useful and interesting to our visitors.
+
+### Cookies
+
+Our site relies on cookies to store your Jeep information and enhance your shopping experience. These cookies do not contain or track personally identifiable information.
+
+### Online registration request
+
+You may choose to provide personally identifiable information to us through our online registration. This information may include your email address, name, address, and telephone number (“Registration Information”). If you choose to store this information, you can use it to place future orders with us. 
+
+We may use your email address to send you offers that may suit your needs. You may opt out of email communication at any time, by sending an email to [webmaster@4wd.com](mailto:webmaster@4wd.com) with REMOVE in the subject line. 
+
+You may access and modify or remove your Registration Information by selecting the "Login/Register" button on our homepage. 
+
+### Product purchases
+
+If you choose to purchase a product from us, we will collect the following personally identifiable information: 
+
+  * Name
+  * Email address
+  * Billing postal address
+  * Shipping postal address
+  * Telephone number
+  * Credit card number
+  * Expiration date
+  * CVV number
+
+
+
+This information is collectively known as "Purchase Information". We use Purchase Information to process your order. You may not modify or remove your Purchase Information - even if you cancel or return your product order - as it is necessary to maintain a record of your initial product purchase.
+
+### Contest
+
+We periodically run contests on our site. These contests may ask you to provide certain contact information, such as email address. We use contact data from our contests to send offers that may suit your interests. You may opt out of email communication at any time, by sending an email to [webmaster@4wd.com](mailto:webmaster@4wd.com) with REMOVE in the subject line. 
+
+### Links to other sites
+
+This site contains links to other sites. 4wd.com is not responsible for the privacy practices or the content of such linked websites.
+
+### Third parties and affiliate companies 
+
+We do not share your email address with any third-party or affiliate company. 
+
+We may make our mailing list available to companies whose offerings may be of interest. If you prefer not to receive these mailings, please write to us at: Mail List Preference, 4Wheel Drive Hardware, 44488 State Route 14, Columbiana, OH, 44408.
+
+### Opt-out procedures 
+
+To be removed from the catalog mailing list: 
+
+  * Please write to us and let us know which catalog you would like to stop receiving.
+  * Our mailing address is: Mail List Preference, 4Wheel Drive Hardware, 44488 State Route 14, Columbiana, OH, 44408.
+  * Please allow three months for mailing change requests to be implemented. 
+
+
+
+To be removed from our email newsletter list: 
+
+  * Please send an email to [webmaster@4wd.com](mailto:webmaster@4wd.com) with REMOVE in the subject line.
+
+
+
+**NOTE: This policy may be modified from time to time. You are encouraged to review this policy monthly.**
