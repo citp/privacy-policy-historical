@@ -1,148 +1,89 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725063438id_/https%3A//www.rti.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819175032id_/https%3A//www.rti.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RTI
 
-This Privacy Statement (“Privacy Statement”) explains how RTI International (“RTI,” “us,” “our,” and “we”) uses your information and applies to all who use our website, mobile applications, electronic services, or social networking sites (collectively referred to as the “Site”).
+RTI International takes your privacy very seriously and is committed to protecting your personal information. This privacy policy sets out the ways in which any personal information you provide to us is used and kept secure by RTI. This policy applies whenever we collect your personal data (including when you use our website, mobile applications, electronic services, social networking sites or other digital platforms), so please read this policy carefully. By continuing to use this site, you agree to the terms of this Policy. If you do not agree with the terms of this Policy, please do not provide us with your personal information or interact with this site.
 
-Please read this Privacy Statement carefully and review it periodically for the latest information about our privacy practices. By using the Site, you agree to the terms of this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide us with your personal information or interact with the Site.
+**About us**  
+RTI International is an independent, nonprofit research institute dedicated to improving the human condition. We combine scientific rigor and technical expertise in social and laboratory sciences, engineering, and international development to deliver solutions to the critical needs of clients worldwide. This privacy policy applies to all companies owned by RTI International.
 
-We will routinely update this Privacy Statement to clarify our practices and to reflect new or different privacy practices, such as when we add new services, functionality or features to the Site. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the date it was “Last Updated” above.
+**About this privacy policy**  
+This privacy policy explains what information we may collect about you, how we may use it, and the steps we take to ensure that it is kept secure. We also explain your rights with respect to your personal data.
 
-## 1\. Types of Information We Collect
+Please note that our website and other digital platforms may contain links to third party websites / digital platforms which are provided for your convenience. We are only responsible for the privacy practices and security of our own digital platforms. We recommend that you check the privacy and security policies and procedures of each and every other website / digital platform that you visit.
 
-We will collect information, including Personal Information and Non-Identifying Information, when you interact with us and the Site, for example when you
+**How to contact us about your personal data or this privacy policy**  
+If you have any questions about this privacy policy or about your personal data, please email us at privacy@rti.org or write to us at the following address:
 
-  * Access or use the Site;
-  * Open or respond to our e-mails;
-  * Visit any page online that displays our content; and
-  * Connect or link to the Site via social networking sites.
-
-
-
-This Privacy Statement does not apply to the collection of information in any way other than by interacting with us or the Site.
-
-## 2\. Your Choices
-
-We think that you benefit from a more personalized experience when we know more about you and what you like. However, you can limit the information you provide to RTI, and you can limit the communications that RTI sends to you.
-
-You can manage your subscriptions by following subscription management instructions contained in the e-mails that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may update your subscription preferences at any time. Please note that even if you unsubscribe from promotional email messages, we may still need to contact you with important transactional information related to your account.
-
-You may manage how your browser handles Cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available.
-
-You may manage how your mobile device and mobile browser share certain Device Data with RTI, as well as how your mobile browser handles Cookies by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
-
-You may also manage the sharing of certain Personal Information with us when you connect with us through social networking platforms or applications. Please refer to the privacy policy and settings of the social networking website or application to determine how you may adjust our permissions and manage the interactivity between RTI and your social networking account or your mobile device.
-
-## 3\. How RTI Uses Information
-
-We (or our Vendors on our behalf), use information collected as described in this Privacy Statement to:
-
-  * Operate, maintain and improve the Site and our services;
-  * Answer your questions and respond to your requests;
-  * Perform analytics and conduct client research;
-  * Communicate and provide additional information that may be of interest to you about RTI, sometimes by combining your information with information from Other Sources;
-  * Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information;
-  * Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored by us;
-  * Manage our everyday business needs, such as administration of the Site, analytics, fraud prevention, enforcement of our Terms & Conditions, or to comply with the law;
-  * Allow you to apply for a job; and/or to
-  * Enhance other information we have about you directly or from Other Sources to help us better understand you and determine your interests.
-
-
-
-We also may use information collected as described in this Privacy Statement with your consent or as otherwise required or permitted by law.
-
-## 4\. When and Why RTI Discloses Information
-
-We (or our Vendors on our behalf) may share your Personal Information as required or permitted by law:
-
-  * with our Vendors to provide services for us and who are required to protect the Personal Information;
-  * with a purchaser of RTI;
-  * to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions;
-  * to combat fraud or criminal activity, and to protect our rights and users, or as part of legal proceedings affecting RTI;
-  * in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate; or
-  * with your consent.
-
-
-
-We may also disclose Non-Identifiable Information:
-
-  * for the same reasons we might share Personal Information; or
-  * to facilitate targeted content and ads.
-
-
-
-We do not share Personal Information with Third-Party Ad-Servers; however, Third-Party Ad-Servers may automatically collect Non-Identifying Information about your visit to the Site and other websites, your device address, your Internet Service Provider and the browser you use to visit the Site. They do this by using Cookies, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visits to the Site and the other websites tracked by these third parties. This Privacy Statement does not cover the collection methods or use of the information collected by Third-Party Ad-Servers, and RTI is not responsible for Cookies or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by third party advertisers, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
-
-## 5\. How RTI Collects Information
-
-You provide us with your Personal Information when you register, subscribe, or otherwise when you provide us with your Personal Information during your interaction with the Site. We also collect Personal Information when you contact us online for customer service and other support using self-help tools, such as email, or text.
-
-We also receive Personal Information and other online and offline information from Other Sources. RTI will use such information in accordance with applicable laws. Such information, when combined with Personal Information collected as provided in this Privacy Statement, will also be handled in accordance with this Privacy Statement. We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collect Non-Identifying Information, including Device Data and your interaction with the Site.
-
-We use Cookies that contain serial numbers that allow us to connect your Site activity with other information we store about you in your profile or as related to your interactions with the Site. We use session cookies on a temporary basis, such as to manage your view of pages on the Site. We use persistent cookies for a number of purposes, such as retrieving certain information you have previously provided, and storing your preferences. Information from Cookies also tells us about the website you were visiting before you came to the Site and the website you visit after you leave the Site.
-
-When you access these pages or open email messages, we use Pixel Tags and Web Beacons to generate a notice of that action to us, or our Vendors. These tools allow us to measure response to our communications and improve the Site’s pages.
-
-Device Data may be collected when your device interacts with the Site and RTI, even if you are not logged into the Site using your device. If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
-
-## 6\. Security
-
-We use commercially reasonable security procedures to protect personally identifiable information that you provide to us. While we consider these procedures to be adequate, no method of transmission over the Internet, or method of storage, is completely secure. Therefore, there is still a risk that your personally identifiable information could be misappropriated and we cannot guarantee its absolute security.
-
-## 7\. Accessing and Correcting Personal Information
-
-We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-## 8\. Privacy Practices of Third Parties
-
-This Privacy Statement only addresses the use and disclosure of information by RTI through your interaction with the Site. Other websites that may be accessible through links from the Site may have their own privacy statements and personal information collection, use, and disclosure practices. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information.
-
-## 9\. Notice to Residents of Countries outside the United States of America
-
-RTI is headquartered in the United States of America. We recognize that the European Community has established a data protection regime pursuant to Directive 95/46/EC (the “Directive”). The Directive applies to the European Economic Area (“EEA”). Switzerland has also established a data protection regime pursuant to the Federal Act on Data Protection (“FADP”). These regimes restrict companies in the EEA and Switzerland (collectively, "EEA/CH”) from transferring personal data about individuals in the EEA/CH to the United States, unless there is “adequate protection” for such personal data when it is received in the United States. To create such “adequate protection” and allow our Vendors to overcome the restriction on international data transfers established by the Directive and the FADP, we adhere to the Safe Harbor Privacy Principles published by US Department of Commerce (“Safe Harbor Principles” ) with respect to personal data about individuals in the EEA/CH that our subsidiaries and Business Partners in the EEA/CH send to us, (“EEA/CH Data”). More information on the Safe Harbor Principles and RTI’s scope of participation is available at http://export.gov/safeharbor/.
-
-If you live outside the United States (including in the EEA/CH), and you use the Site or provide us with Personal Information directly via the Site, your information will be handled in accordance with this Privacy Statement. By using the Site or giving us your Personal Information, you are directly transferring your Personal Information and Non-Identifiable Information to us in the United States. The United States may not have the same level of data protection as your jurisdiction. However, you agree and consent to our collection, transfer, and processing of your Personal Information and Non-Identifiable Information in accordance with this Privacy Statement. You are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the Site or provide us with Personal Information. Regardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement.
-
-## 10\. Children’s Privacy
-
-RTI does not intend that any portion of the Site will be accessed or used by children under the age of thirteen, and such use is prohibited. The Site is designed and intended for adults. By using rti.org, you represent that you are at least eighteen years old.
-
-## 11\. Contact Us; California Privacy Rights and Other Countries
-
-Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement. You can reach us via postal mail at the following address:
-
+Data Protection Officer  
 RTI International  
-3040 E. Cornwallis  
+P.O. Box 12194  
 Research Triangle Park, NC 27709
 
-If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to Vendors outside Canada. To find out more, please email us at [listen@rti.org](mailto:listen@rti.org?subject=Privacy%20Policy)
+**Information we collect and what we use it for**
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by RTI pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated above. Please allow 30 days for a response.
+  RTI may collect information, including both Personal Information and Non-Identifying Information. Information may be collected when you access or use this site, open or respond to our emails, enter your information into a form on this site and submit that form, visit any page online that displays our content; and link to the site via a social networking site.
 
-## 12\. Do Not Track
+All information that we collect about you will be recorded, used, and protected by us in accordance with applicable data protection legislation and this privacy policy. We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organizations, for example, our sponsors and partners.
 
-California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them at this time. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
+We use your data for the following purposes:
 
-## 13\. Glossary of Terms
-
-Cookie means a small amount of information that a web server sends to your browser that stores information about your account, your preferences, and your use of the Site. Some cookies are temporary, whereas others may be configured to last longer. “Session cookies” are temporary cookies used for various reasons, such as to manage page views. Your browser usually erases session cookies once you exit your browser. “Persistent cookies” are more permanent cookies that are stored on your computers or mobile devices even beyond when you exit your browser.
-
-Device Data means information concerning a device you use to access, use, or interact with the Site, such as operating system type or mobile device model, browser type, domain, and other system settings, the language your system uses and the country and time zone of your device, geo-location, unique device identifier or other device identifier, mobile phone carrier identification, and device software platform and firmware information.
-
-Non-Identifying Information means information that alone cannot identify you, including data from Cookies, Pixel Tags and Web Beacons, and Device Data. Non-Identifying Information may be derived from Personal Information.
-
-Other Sources means sources of information that legally provide RTI with your information, and which are outside the scope of this Privacy Statement at the time of collection.
-
-Personal Information means information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. This includes the following types of information:
-
-  * Contact Information: your name, postal addresses, email addresses, social networking website user account names, telephone numbers, or other addresses at which you are able to receive communications.
-  * Relationship Information: information you provide that enables us to determine lifestyle, interests, and activities, including location information related to your state/province, city, or neighborhood; and areas of interest, the types of deals that interest you, information collected through your interactions with social networks, demographic information (e.g., birth date, age, gender); and
-  * Financial Information: information collected from you as needed to process payments for RTI services that you buy, or as provided by you to administer your participation in optional services and programs, such as your payment card number, expiration date, and card verification number.
+  * to operate, maintain and improve the Site and our services;
+  * to provide information to you about our projects should you request information and answer any questions you may have;
+  * perform analytics and conduct client research;
+  * to communicate and provide additional information that may be of interest to you about RTI, sometimes by combining your information with information from other sources;
+  * to allow you to apply for a job with RTI
+  * to enable us to complete any pre-employment screenings such as background checks; employment applications using an online process, verification of education, review of any potential conflicts using third-party vendor;
+  * to administer human resources functions such as identification in RTI directories, correspondence, emails, and text communications, background check information (including criminal records, educational transcripts/records, past work history, credit records); payroll data (including pay/bonus/benefits information, social security or national identification number, salary and bank account data), citizenship information; diversity metrics data; performance evaluations; discipline records; information relevant to internal investigations and complaints; safety/accident records; facility security information; attendance records; language proficiencies; emergency contacts; insurance/benefits beneficiaries; physical/health accommodation information; personal information in technical policies; data relevant to compliance with all Federal, State and International laws; training records; employer program/affinity group/events registrations and data; business travel itineraries including geolocation services; expense reimbursement records; data within the “Human Capital Management,” “GEMS,” “RTI University” Learning Management System;
+  * to enable RTI to complete any post-employment screening;
+  * send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information;
+  * administer rewards, surveys, sweepstakes, contests, or other promotional activity or events sponsored by us;
 
 
 
-Pixel Tags and Web Beacons means tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions.
+When we use your data for the above-defined purposes, we may collect and store any personal information that you provide to us. For example: name, address, post office box, email address, telephone number, internet protocol (IP) address. We may also infer your country of location from the IP address you have used to access our digital platforms.
 
-Third-Party Ad-Servers means Vendors and other third parties that provide the technology to place ads on websites and track ad performance.
+**Notice to Residents of Countries outside of the United States of America**  
+In order to provide information to you or to otherwise fulfil contractual arrangements that we have with you, we may need to appoint other organizations to carry out some of the data processing activities on our behalf.
 
-Vendors mean, collectively, third parties that perform business operations on behalf of RTI, such as transaction processing, billing, mailing, communications services (e-mail, direct mail, etc.), marketing, data processing and analytics, servicing, collections, or ad management.
+These may include, for example, vendors who provide services for us such as payroll services, payment processing organizations, fraud prevention, or employment screening; to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions; if we are under a legal or regulatory duty to do so; if it is necessary to do so to enforce a contract with you; to lawfully assist the police with the prevention and detection of crime; where such disclosure is necessary to protect the safety or security of any persons, with your consent; and/or otherwise as permitted under applicable law.
+
+**Collection of Data from Individuals’ Outside the United States and California**  
+Please note that RTI is headquartered in the United States of America. If you are located outside the United States and provide your data to RTI, we will take proper steps to ensure that your information is protected in accordance with this privacy policy. In addition, RTI recognizes that the European Union has established a data protection policy effective May 25th, 2018 known as General Data Protection Regulation (GDPR). This regulation applies to countries within the European Union (EU) and governs the transfer of data outside of the EU. In addition, Switzerland has also established a data protection regime pursuant to the Federal Act on Data Protection (“FADP”). These regimes restrict companies in the EEA and Switzerland (collectively, “EEA/CH”) from transferring personal data about individuals in the EEA/CH to the United States, unless there is “adequate protection” for such personal data when it is received in the United States. To create such “adequate protection” and allow our Vendors to overcome the restriction on international data transfers established by GDPR and the FADP, we adhere to the Safe Harbor Privacy principles published by US Department of Commerce (“Safe Harbor Principles”) with respect to personal data about individuals in the EEA/CH that our subsidiaries and Business Partners in the EEA/CH send to us. More information on the Safe Harbor Principles and RTI’s scope of participation is available at <http://export.gov/safeharbor/>
+
+If you reside in Canada, you may have the right to be provided with access to Personal I information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to vendors outside Canada. To find out more, please email us at [listen@rti.org](mailto:listen@rti.org)
+
+Pursuant to Section 1798.83 of the California Civil Code, resident of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. The law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by RTI pursuant to Section 1798.83 of the California Civil Code, please contact us at [listen@rti.org](mailto:listen@rti.org) or the address stated above. Please allow thirty (30) days for a response.
+
+In all instances where we disclose your information to third parties, we will ensure that your information is appropriately protected.
+
+**Notification of a Disclosure of Your Information**
+
+**Cookies**  
+In common with many other website operators, we use standard technology called 'cookies' on our website. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.
+
+**Security of information**  
+We take the security of your personal information seriously and use commercially reasonable security procedures to protect personal information you provide to RTI. When you submit your information to us, we use industry standard Secure Sockets Layer (SSL) encryption technology to guard your information. In addition, we have security procedures in place to protect our paper-based systems and computerized databases from loss and misuse, and only allow access to them when it is necessary to do so, and then under strict guidelines as to what use may be made of the personal information contained within them.
+
+Where a password is required to access certain areas of our digital platforms, you are responsible for keeping your password secure and confidential. Please do not share or disclose your password to any other person.
+
+While RTI believes these security measures to be adequate, no method of transmission over the Internet, or method of storage is completely secure. Please know that while we will make every effort keep your information secure, there is still a risk that your personal information could be misappropriated, and we cannot guarantee its absolute security.
+
+**Monitoring**  
+We do not  monitor users of our site beyond the above-mentioned cookie tracking.
+
+  ** **Children’s Privacy****  
+In accordance with applicable regulations, we do not collect data from children and do not intend that any portion of the site will be accessed or used by children under the age of thirteen, and such use is prohibited. This site is designed and intended for use by adults. By using rti.org, you represent that you are at least eighteen years old.
+
+**More about your information—your rights**  
+You may correct or update your personal information at any time by emailing us at [privacy@rti.org](mailto:privacy@rti.org). Please include your name, address, date of birth and email address when you contact us as this helps us to ensure that we accept amendments only from the correct person. We encourage you to promptly update your personal information if it changes.
+
+We will securely retain your information for as long as is reasonably necessary and in accordance with applicable law. If you wish to submit a request that your data be deleted, please write to us at [privacy@rti.org](mailto:privacy@rti.org). You have the right to receive a copy of the personal information that we hold about you. Please write to us at the address above if you wish to exercise this right.
+
+**Changes to this privacy policy**  
+We aim to meet high standards and so our policies and procedures are constantly under review. From time to time we may change this privacy policy. Accordingly, we recommend that you check this page periodically in order to review the latest version.
+
+**Where to make a complaint**  
+If you have a complaint regarding any aspect of your personal data or this privacy policy, please write to us at the above address.  For individuals located in the European Union, you may contact the appointed Data Protection Authority (DPAs) for your country.
+
+A list of DPAsis available here: <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>
