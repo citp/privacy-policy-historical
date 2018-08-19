@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181027id_/http%3A//www.scientificsonline.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819224605id_/https%3A//www.scientificsonline.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy-ScientificsOnline.com
-
-## Privacy Statement
+# Privacy Policy - ScientificsOnline.com
 
 This Statement discloses the privacy practices for www.scientificsonline.com.
 
