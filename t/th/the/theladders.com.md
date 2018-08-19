@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512183206id_/https%3A//www.theladders.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819064259id_/https%3A//www.theladders.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ladders | Business News & Career Advice
 
@@ -157,5 +157,3 @@ If you have questions or concerns regarding this Privacy Policy, you should cont
 55 Water Street  
 New York, NY 10041  
 Phone: (866) 800-4640 
-
-#### Connect with us on social media
