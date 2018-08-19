@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trivok.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905131841id_/http%3A//www.trivok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivok.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819030215id_/https%3A//www.trivok.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
