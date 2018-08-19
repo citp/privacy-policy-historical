@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331134419id_/https%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819180553id_/https%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy
+# Privacy Policy - Health Ambition
 
 Health Ambition takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
@@ -28,4 +28,4 @@ We will not sell or share your personal information with third parties. We will 
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to mark@healthambition.com for further clarification.
+Concerns or questions about this privacy policy can be directed to support@healthambition.com for further clarification.
