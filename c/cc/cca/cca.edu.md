@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cca.edu privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630021543id_/https%3A//www.cca.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cca.edu privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819064220id_/https%3A//www.cca.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | California College of the Arts
 
