@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innisbrook.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016150227id_/https%3A//www.innisbrook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innisbrook.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820005152id_/https%3A//www.innisbrook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
