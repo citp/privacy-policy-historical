@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230204505id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819180641id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel Blog
+# Privacy Policy | Travel to Work
 
-Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.
-
-This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
+Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
 ## Collection and Use of Information
 
@@ -20,7 +18,7 @@ Our site may place a small file, called a cookie, on your hard drive to provide 
 
 Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
 
-Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy.](http://www.google.com/policies/technologies/ads/)
 
 ## Links to other Websites
 
@@ -28,6 +26,6 @@ Our site may contain links to other websites of interest. However, once you use 
 
 ## Privacy Contact Information
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us by email  directly at **webmaster @ traveltowork.net.**
+Should you have any questions, concerns, or comments about our privacy policy, please contact us by email  directly at **  webmaster @ traveltowork.net.**
 
-## I Travel to Work, Do You?
+Travel to Work is an useful travel blog sharing travel tips and travel destinations.
