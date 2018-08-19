@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stencyl.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219234730id_/http%3A//www.stencyl.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stencyl.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819104433id_/http%3A//www.stencyl.com/about/privacy) for the most accurate reproduction.*
 
 # Stencyl - Privacy Policy
 
