@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvideotalkusa.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412214644id_/http%3A//www.myvideotalkusa.com/PDF/MVT-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvideotalkusa.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819215601id_/http%3A//www.myvideotalkusa.com/PDF/MVT-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
