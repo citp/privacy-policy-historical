@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smarteranalyst.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314203622id_/https%3A//www.smarteranalyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarteranalyst.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819224644id_/https%3A//www.smarteranalyst.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Smarter Analyst
+# Privacy Policy
 
 SmarterAnalyst collects personal information to provide you, the user with the best and most personalized experience possible and to provide us with an efficient way to reach the right audience. In short, by knowing a little about you, SmarterAnalyst can deliver more relevant content and special offers.
 
@@ -39,6 +39,8 @@ SmarterAnalyst may use the personally identifiable information provided by users
  **Advertising Content**
 
 SmarterAnalyst’s services display links to other sites in the form of “contextual advertising.” SmarterAnalyst has no control over the content presented in such advertisements; third party advertisers provide them. The content of these advertisements is intended to show a high degree of relevance to the content you view. SmarterAnalyst parses the content of the URL visited, determines the relevant context and keywords and passes this information to the third party to obtain the advertisement to display.
+
+Smarter Analyst subscribers will be receiving emails from a third party from time to time. You can unsubscribe anytime via the unsubscribe links in the emails. Smarter Analyst does not endorse the products or services promoted in third-party marketing emails.”
 
  **Contacting the Web Site**
 
