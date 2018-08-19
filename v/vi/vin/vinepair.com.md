@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinepair.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126102555id_/https%3A//vinepair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinepair.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819092826id_/https%3A//vinepair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VinePair
 
@@ -35,6 +35,8 @@ Yes, we use both cookies and web pixels. Cookies are small files that a site or 
   * Keep track of advertisements.
 
 
+
+**View Cookie Settings**
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
