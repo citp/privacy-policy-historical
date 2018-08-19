@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the germancarscene.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026083329id_/http%3A//germancarscene.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germancarscene.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819095607id_/http%3A//germancarscene.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - German Car Scene
-
-## [Privacy Statement](http://germancarscene.com/privacy-statement/ "Permalink to Privacy Statement")
 
 Posted on 14th March, 2009 by admin  
 Filed in | [Leave a comment](http://germancarscene.com/privacy-statement/#comments)
