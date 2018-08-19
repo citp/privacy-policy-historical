@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emo-corner.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209061614id_/http%3A//emo-corner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emo-corner.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819092844id_/http%3A//emo-corner.com/privacy.html) for the most accurate reproduction.*
 
 # Emo Corner Privacy Statement
 
@@ -65,7 +65,7 @@ As you visit and browse our Web site, the site uses cookies to differentiate you
 
 
 **IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you. 
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as �traffic data� so that data (such as the Web pages you request) can be sent to you. 
 
   
 
