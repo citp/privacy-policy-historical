@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611230425id_/https%3A//generatorhostels.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819174428id_/https%3A//generatorhostels.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Generator Hostels
 
@@ -9,23 +9,33 @@ This privacy policy applies only to Generator Hostels Ltd and not to the website
 **GENERATOR HEAD OFFICE  
 Company name: **Generator Hostels Ltd.  
 **Office Address:  **Venture House, 27-29 Glasshouse Street, London W1B 5DF. UK  
-**Registered Address:  **MacNaughton House, Compton Place, London WC1H 9SD. UK  
+**Registered Address:  **MacNaughton House, Compton Place, London WC1H 9SE. UK  
 **Telephone number:  **+44 (0)207 432 7350  
 **Fax:  **+44 (0)207 388 7644  
 **Email:  **askus@generatorhostels.com  
 **Registry:  **Registered in England  
 **Registered number:  **3192617  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Andre Guettouche, Paul Slimming and Alastair Thomann  
 **VAT ID:  **GB 945 6083 04
+
+**GENERATOR AMSTERDAM**  
+****Company name:  ****Horizon Properties B.V.  
+**Address:  **Mauritskade 57, 1092 AD, Amsterdam  
+**Telephone number:  **+31207085600  
+**Email:  **f[inance.amsterdam@generatorhostels.com](mailto:finance.amsterdam@generatorhostels.com)  
+**Registry:  ** Chamber of Commerce  
+**Registered number:  **60538376  
+**Directors:  **Paul Slimming  
+**VAT ID:** NL853952590B01
 
 **GENERATOR BARCELONA  
 Company Name: **Generator BCN 1, S.L.  
 **Address:  **Carrer de Corsega 373, 08037 Barcelona. Spain  
 **Telephone number:  **+34 9322 00377  
-**Email:  **barcelona@generatorhostels.com  
+**Email:** ask.barcelona@generatorhostels.com  
 **Registry:  **registered in Spain  
 **Registered number:  **B65374811  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Elwin Meijvis and Paul Slimming  
 **VAT ID:  **ES B64888746
 
 **GENERATOR BERLIN MITTE  
@@ -33,10 +43,10 @@ Company name: **Generator Berlin Mitte GmbH
 **Address:  **Oranienburger Str. 65, 10117 Berlin. Germany  
 **Telephone number:  **+49 (0)30 92103 7680  
 **Fax:  **+49 (0)30 27580 996  
-**Email:  **berlinm@generatorhostels.com  
+**Email:  **ask.berlinmitte@generatorhostels.com  
 **Registry:  **Amtsgericht Berlin Charlottenburg  
 **Registered number:  **HRB 122701 B  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Paul Slimming and Alex Bunea  
 **VAT ID:  **DE 268310487
 
 **GENERATOR BERLIN PRENZLAUER BERG  
@@ -44,32 +54,32 @@ Company name: **Generator Hostel Berlin GmbH
 **Address:  **Storkower Str. 160, 10407 Berlin. Germany  
 **Telephone Number:  **+49 (0)30 417 2400  
 **Fax:  **+49 (0)30 417 24080  
-**Email:  **berlin@generatorhostels.com  
+**Email:  **ask.prenzlauerberg@generatorhostels.com  
 **Registry:  **Amtsgericht Berlin Charlottenburg  
 **Registered address:  **Amtsgericht Berlin Charlottenburg  
 **Registered number:  **HRB 83885  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Paul Slimming and Alex Bunea  
 **VAT ID:** DE 813 4097 37
 
 **GENERATOR COPENHAGEN  
 Company name: **Generator Hostel Copenhagen A/S  
 **Address:  **Adelgade 5-7, 1304 Copenhagen, Denmark  
 **Telephone number:  **+45 7877 5400  
-**Email:  **copenhagen@generatorhostels.com  
+**Email:  **ask.copenhagen@generatorhostels.com  
 **Registry:  **registered in Denmark  
 **Registered number:  **32778097  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Christopher Alm and Paul Slimming  
 **VAT ID:  **DK 32778097
 
 **GENERATOR DUBLIN  
 Company name: **Generator Properties Dublin Ltd  
 **Address:  **Smithfield Square, Dublin 7. Ireland  
 **Telephone number:  **+353 1 901 0222  
-**Email:  **dublin@generatorhostels.com  
+**Email:  **ask.dublin@generatorhostels.com  
 **Registry:  **Registered in Ireland  
 **Registered address:  **Registered in Ireland  
 **Registered number:  **480252  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Audrey Harte and Paul Slimming  
 **VAT ID:  **IE 9734900k
 
 **GENERATOR HAMBURG  
@@ -77,10 +87,10 @@ Company name: **Generator Hostel Hamburg GmbH
 **Address:  **Steintorplatz 3, 20099 Hamburg, Germany  
 **Telephone number:  **+49 (0)40 226 35 8460  
 **Fax:  **+49 (0)40 226 35 8451  
-**Email:  **hamburg@generatorhostels.com  
+**Email:  **ask.hamburg@generatorhostels.com  
 **Registry:  **Amtsgericht Hamburg  
 **Registered number:  **HRB 110518  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Paul Slimming and Alex Bunea  
 **VAT ID:  **DE 267 8330 80
 
 **GENERATOR LONDON  
@@ -88,20 +98,39 @@ Company name: **Generator Hostel London Ltd.
 **Address:  **MacNaughton House, Compton Place, London WC1H 9SD. UK  
 **Telephone number:  **+44 (0)207 388 7666  
 **Fax:  **+44 (0)207 388 7644  
-**Email:  **london@generatorhostels.com  
+**Email:  **ask.london@generatorhostels.com  
 **Registry:  **Registered in England  
 **Registered number:  **2799205  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Andre Guettouche, Paul Slimming and Alastair Thomann  
 **VAT ID:  **GB 945 6083 04
+
+**GENERATOR MADRID**  
+****Company name:  ****Generator Hostel Madrid Ltd.  
+**Address:  **Calle de San Bernardo 2, Madrid, Spain, 28013  
+**Telephone number:  **+34 9104 79800  
+**Email:** ask.[madrid@generatorhostels.com](mailto:madrid@generatorhostels.com)  
+**Registry:  **Registered in Spain  
+**Registered number:  **A78484961  
+**Directors:  **Elwin Meijvis and Paul Slimming  
+**VAT ID:  ** **ES-** A78484961
+
+**GENERATOR MIAMI**  
+**Company name:  **G 3120 Collins Operating Company LLC  
+**Address:  **3120 Collins Avenue, Miami Beach, Miami, USA, FL 33140  
+**Telephone number:**  +1 786 496 5730  
+**Email:  **miami@generatorhostels.com   
+**Registry:** Registered in USA  
+**Registered number:** 35-2631523  
+**Directors:** Paul Slimming
 
 **GENERATOR VENICE  
 Company name: **Ghostell srl  
 **Address:  **Fondamenta della croce 84-86, Isola della Giudecca, 30133 Venice, Italy  
 **Telephone number:  **+39 (0)418778288  
-**Email:  **venice@generatorhostels.com  
+**Email:  **ask.venice@generatorhostels.com  
 **Registry:  **registered in Italy  
 **Registered number:  **VE-357882  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:** Benedetta Cattuzzo, ** ** Fabio Moccia and Paul Slimming  
 **VAT ID:  **IT 04013800273
 
 **GENERATOR ROME  
@@ -111,18 +140,28 @@ Company name: **Albergo Principe Amedeo srl
 **Email:  **info@ambrapalacehotel.com or askus@generatorhostels.com  
 **Registry:  **Camera di Commercia, Roma, Italia  
 **Registered number:  **04955750486  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Benedetta Cattuzzo, ** ** Fabio Moccia and Paul Slimming  
 **VAT ID:  **IT 04955750486
 
 **GENERATOR PARIS  
 Company name: **Generator Hostels Paris Sas  
 **Address:  **9-11 Place du Colonel Fabien, 75010 Paris. France  
 **Tel:  **+33 (0)1 70 98 84 00  
-**Email:  **paris@generatorhostels.com  
+**Email:  **ask.paris@generatorhostels.com  
 **Registry:  **registered in France  
 **Registered number:  **2012 B15908  
-**Directors:  **Fredrik Korallus and Paul Harries  
+**Directors:  **Sheila Isabelle, Paul Slimming and Philippe Pellan   
 **VAT ID:  **FR 83753023084
+
+**GENERATOR STOCKHOLM  
+Company name: **Generator Hostels Sweden AB  
+**Address:  **Torsgatan 10, Stockholm, Sweden, 111 23  
+**Tel:  **+46 (0)8 505 323 70  
+**Email:** ask.stockholm@generatorhostels.com  
+**Registry:  **registered in Sweden  
+**Registered number:  **559017-4404  
+**Directors:  **Anne Oostindier, Alexander Bhatt and Paul Slimming  
+**VAT ID:  **SE 559017440401
 
 **USE OF YOUR INFORMATION**  
 We collect your information for the safety of our guests and to understand who we are accommodating at our properties for the safety of our staff. In addition, website user and guest data is collected for statistical purposes.
