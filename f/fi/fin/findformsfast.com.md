@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findformsfast.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110337id_/https%3A//legal.searchm3f.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findformsfast.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819225424id_/https%3A//legal.searchm3f.com/home/privacy) for the most accurate reproduction.*
 
 # 
 
