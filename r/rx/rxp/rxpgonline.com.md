@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxpgonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172805id_/http%3A//www.rxpgonline.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxpgonline.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819024011id_/http%3A//www.rxpgonline.com/docs/privacy) for the most accurate reproduction.*
 
 # Docs
 
