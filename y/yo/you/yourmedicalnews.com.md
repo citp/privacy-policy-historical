@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the yourmedicalnews.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120184145id_/http%3A//video.yourmedicalnews.com/privacyYMN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmedicalnews.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819123512id_/http%3A//video.yourmedicalnews.com/privacyYMN.html) for the most accurate reproduction.*
 
-# Privacy | Your Medical News
+# PRIVACY POLICY | Your Medical News
 
-**YOUR MEDICAL NEWS**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## YOUR MEDICAL NEWS
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
