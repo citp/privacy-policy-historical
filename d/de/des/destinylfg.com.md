@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinylfg.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003182113id_/https%3A//ftw.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinylfg.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819232508id_/https%3A//ftw.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - For The Win
 
@@ -99,7 +99,7 @@ The Site may contain links to other websites, and other websites may link to the
 
 ## **Your California Privacy Rights**
 
-Under California’s “Shine the Light” law, California residents who provide PII in connection with purchasing products or services from us may request a disclosure of what PII, if any, we have shared with other businesses for their own direct marketing purposes. Such a request may be made by sending an e-mail message to [contact@FTW.in](mailto:contact@ftw.in) with “Request for California Privacy Information” in the subject line of the message. In response to such a request, we will provide information as required by the California law for the previous calendar year concerning such other businesses and the categories of PII, if any, that we have shared with them.
+Under California’s “Shine the Light” law, California residents who provide PII in connection with purchasing products or services from us may request a disclosure of what PII, if any, we have shared with other businesses for their own direct marketing purposes. Such a request may be made by sending an e-mail message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#274448495346445367415350094e49) with “Request for California Privacy Information” in the subject line of the message. In response to such a request, we will provide information as required by the California law for the previous calendar year concerning such other businesses and the categories of PII, if any, that we have shared with them.
 
 California residents between the ages of 13 and 17 may view, correct, or delete information provided by you or publicly posted by you, by accessing your account through the Site or other product or service as applicable and editing/deleting your Information. You may also ask us to delete posted content, by contacting us as stated in the Contact Us section below. We will be happy to review, update or remove information and/or content as appropriate. Note, however, that we may retain your information to resolve disputes, enforce our user agreement, or comply with legal requirements.
 
@@ -131,7 +131,7 @@ Beerock Studios
 329 Warren St Apt 2F  
 Brooklyn, NY 11201  
 United States  
-[contact@FTW.in](mailto:contact@ftw.in)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#53303c3d27323027133527247d3a3d)
 
 ## **Notification of Changes to Policy**
 
