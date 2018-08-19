@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202401id_/https%3A//www.4wd.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819094706id_/https%3A//www.4wd.com/general-info/content.jsp%3FchildEventId%3Dprivacypolicy) for the most accurate reproduction.*
 
 # 4Wheel Drive Hardware Policies | 4WD.com
 
@@ -16,10 +16,6 @@
 ### By Phone
 
 Call Toll Free **800-555-3353** , or call our International Sales Department at **(1-330-482-4924 or 1-330-482-5560)**. We cannot accept collect phone calls.
-
-### By Mail
-
-When using the order form in the catalog please take the time to carefully fill in all the appropriate information (please print or type). Please complete both the billing and shipping information to avoid any delays. Include a daytime phone number. To avoid shipping errors we ask that you list your order by catalog part number and description. You can also print out this [order form](https://web.archive.org/aux_incl/files/OrderForm.pdf) and either email, fax or mail it in.
 
 ### Prices
 
@@ -59,7 +55,7 @@ Any customer who refuses delivery of an order (damaged shipment excluded) will b
 
 ### Return Authorization
 
-You can download an RGA form here [RGA FORM](https://web.archive.org/images/static/ReturnPolicy.pdf). Please complete the RGA form in its entirety and include as much information as possible, including your invoice and/or order number. If you need additional assistance with a return, you can call 800-913-8597 prompt 2, to speak to one of our customer service representatives. You can also send an [email](mailto:custserv@4wd.com) request to our Customer Service Department. 
+You can download an RGA form here [RGA FORM](https://web.archive.org/images/static/4WDReturnPolicy.pdf). Please complete the RGA form in its entirety and include as much information as possible, including your invoice and/or order number. If you need additional assistance with a return, you can call 800-913-8597 prompt 2, to speak to one of our customer service representatives. You can also send an [email](mailto:custserv@4wd.com) request to our Customer Service Department. 
 
 ### Warranty
 
