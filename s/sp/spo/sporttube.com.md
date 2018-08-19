@@ -1,22 +1,110 @@
-> *The following text is extracted and transformed from the sporttube.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430085119id_/http%3A//www.sporttube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporttube.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820003955id_/https%3A//www.sporttube.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
+
+[ ]()
+
+or Log In with email address
+
+Sign Up with Email
+
+Email adress Incorect or no email!
+
+Name Name field is required!
+
+Password The password must be at least 6 characters long, must contain uppercase, lowercase letters and least one number. Wrong or no password!
+
+Date of birth
+
+In order to register you must be 18 or over.
+
+Message
+
+The account has been created successfully.
+
+OK
+
+SportTube will send you a notification whenever this match is updated.
+
+Example notification
+
+This is an example notification
+
+SportTube.com
+
+You can unsubscribe anytime
+
+[ ]()
+
+No thanks
+
+Oops! It seems you have blocked notifications.
+
+Please allow notifications from browser preferences to receive a notification.
+
+OK
+
+Embed video
+
+The code has been copied to your clipboard.
+
+OK
+
+This video will be available in 9s.
 
 ### Privacy Policy
 
-We know that you care how information about you is used and shared, and your privacy is important to us. We thank you for visiting this web site (the "Web Site") and reviewing our Privacy Policy. This notice describes our privacy policy. **By visiting our website, you are accepting the practices described in this Privacy Notice.** Please note that this Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+This Privacy Policy - GDPR is an integral part of the Agreement about SportTube.com as set out in the provisions regarding processing of personal data in the Agreement about SportTube.com. 
 
-Collection of Information **Information You Give Us:** We receive and store any information you voluntarily provided us with on our website. We use the information that you provide for such purposes as responding to your requests, providing our services and communicating with you, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+The following Privacy Policy covers how any data directly or indirectly relates to the entity called the User in the Agreement (the "User") is handled and processed by SportTube.com (the "Website"), together referred to as the "Parties" and separately as a "Party". 
 
-**Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," other technologies to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising and we obtain certain types of information when your web browser accesses our sites. Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our website, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for ggregate use. Personal information is not being collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+#### Lawful basis
 
-Uses Distribution of Information We may use personal information to provide the services you've requested, including services that display customized content and advertising. We do share information but only as described below. Otherwise we will not provide your personal information without your consent. We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Furthermore we engage other companies and individuals to perform functions on our behalf or provide us with services . Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide us for any secondary purposes. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may share information with third parties when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services We may share aggregated non-personal information with third parties outside of The Web Site.
+In accordance with EU GDPR effective May 25th 2018 we follow the lawful basis of consent to collect and process the data described in this document. Each user on SportTube.com will be asked to give consent, allowing the Website to collect and process personal information related with privided features by SportTube.com. (for more information refer to: [http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN)) 
 
-Links The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+#### Collection of Personal Information
 
-Children The Web Site is not directed to children. If you are under 18, you may use our services only with involvement of a parent or guardian.
+The Website does not collect any Personal Data when Users simply browse the Website. However, the Website does require that Users supply some Personal Data when using additional or advanced services provided on the Website after the registration. On these occasions the Website will ask Users for their respective consent prior to the collection and use of the User's Personal Data. Upon registration or at other times the Website may ask Users to submit their personal information. 
 
-IndemnificationYou agree to indemnify, defend and hold harmless the Web Site and its members, managers, officers, employees, agents and the assigns of same, from and against any and all loss, costs, expenses (including reasonable attorneys' fees and expenses), claims, damages and liabilities related to or associated with your use of the Web Site and any violation of this Privacy Policy by you.
+#### What and why we collect about you?
 
-Conditions of Use, Notices, and Revisions If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of United States . If you have any concern about privacy at our web site, please send us a thorough description to information@trafficmedia.com, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use, but you should check our website frequently to see recent changes.
+Name | Account name  
+---|---  
+Email | Used for in regards to: 
+
+  * User authentication;
+  * Send Users forgotten password to their respective personal account;
+  * Send Users information which the Website thinks they will find useful, including information on new features, services information and commercial / advertising materials on offer by the Website / advertising materials on offer by third parties the Website cooperate with; 
+
+  
+Password | Used in regards to login. Encrypted  
+Date of birth | To verify that User is over 18 years old.  
+  
+#### How we share information we collect?
+
+The Website will never share any information with 3rd party without first notifying the User in order to obtain specific consent. The information is shared internally within the Website, but only to relevant people. This is done to ensure the User gets the best possible user experience. 
+
+#### How we store and secure information we collect?
+
+The Website have adopted various measures, both technical and organisational, to help protect against the destruction, loss, misuse and alteration of Personal Data which has been collected and used. Notwithstanding these efforts, the Website cannot guarantee that such event will not occur. The Personal Data is kept only for the time period required to meet the purposes for which it was collected. In case of user won't use the Website can request of account deleting. This can be done by submiting a request in the account profile settings. 
+
+#### Other important privacy information
+
+**Cookies**  
+Cookies are small text files which a website may put on Your device when You first visit a site or page. The cookie will help the website, or another website, to recognise Your device the next time You visit. We use cookies to store your session info and to analyse our traffic. We also share information about your use of our site analytics partners. See <http://www.google.com/policies/privacy/partners/>
+
+**Emails**  
+When you write to our support email, your message is stored in our ticket system. We store it so we can more easily see previous communication when you contact us. 
+
+**Log Files**  
+In order to better administer the Website and to collect broad demographic information of Visitors for aggregate use, the Website automatically logs the IP address of all Users and the pages viewed by each User respectively. 
+
+  
+
+
+**Site usage**  
+Like many other sites, we use Google Analytics. Google Analytics helps us to analyze how our site is used. We do not use information specifically about you, we use statistics about the general usage of our site. 
+
+Dated: May 2018
+
+The site is using cookies to make your surfing easier. 
