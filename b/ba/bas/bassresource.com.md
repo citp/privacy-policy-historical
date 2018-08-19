@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324115102id_/https%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819214236id_/https%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement & Anti-Spam Policy | The Ultimate Bass Fishing Resource Guide® LLC
 
@@ -14,7 +14,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 ## Cookies
 
-We use third-party advertising companies, including Google, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/policies/privacy/ads/)
+We use third-party advertising companies, including Google, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](https://www.google.com/policies/privacy/ads/)
 
 We also use _Google Analytics Demographics and Interest Reporting_  to better understand who our visitors are, which helps us make a better website for you. We will NOT facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie, meaning your privacy is safe with us.  You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
 
@@ -30,8 +30,8 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site gives users the following contact for removing their information from our database or to change and modify information previously provided.
 
-  * To Unsubscribe from our newsletter, please use [this form](http://www.bassresource.com/newsletter/?p=unsubscribe&id=1).
-  * To Unsubscribe from contest notifications, please use [this form](http://www.bassresource.com/newsletter/?p=unsubscribe&id=3).
+  * To Unsubscribe from our newsletter, please use [this form](https://www.bassresource.com/newsletter/?p=unsubscribe&id=1).
+  * To Unsubscribe from contest notifications, please use [this form](https://www.bassresource.com/newsletter/?p=unsubscribe&id=3).
   * To change your notification settings in the forums, including opting out of forum email announcements and notifications, log in, then click your name in the upper right, click "profile", then "edit profile".  You may customize your email notifications there.
 
 
@@ -58,11 +58,7 @@ In the unlikely event that you receive any message from BassResource.com or sent
 
 BassResource.com may amend this anti-spam policy at any time by publishing a new version on this website.
 
- **Contact us  **
-
-Should you have any questions about this anti-spam policy, please contact BassResource.com using [this form](http://www.bassresource.com/bass-fishing-forums/contact/)
-
-In addition to this notice, you encouraged to read the [Terms and Conditions](http://www.bassresource.com/fish/copyright.html) of this site. You are bound by such provisions and should therefore periodically visit this page.
+In addition to this notice, you encouraged to read the [Terms and Conditions](https://www.bassresource.com/fish/copyright.html) of this site. You are bound by such provisions and should therefore periodically visit this page.
 
 Grow your fishing skills and improve your angling effectiveness.   
-[Subscribe](https://www.bassresource.com/newsletter.html "Subscript") to the free weekly BassResource newsletter.
+[Subscribe](https://www.bassresource.com/sign-up.html "Subscript") to the free weekly BassResource newsletter.
