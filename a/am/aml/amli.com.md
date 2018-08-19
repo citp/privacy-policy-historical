@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123023717id_/https%3A//www.amli.com/legal.aspx%3Fref%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819175427id_/https%3A//www.amli.com/legal.aspx%3Fref%3Dprivacypolicy) for the most accurate reproduction.*
 
 # AMLI.com - Privacy Policy
 
@@ -6,9 +6,9 @@
 
 **AMLI Privacy Policy**
 
-**Effective Date:** 10.18.16 
+**Effective Date:** 8.24.18
 
-**Our Commitment To Privacy**
+ **Our Commitment To Privacy**
 
 Thank you for visiting the AMLI Residential (“ **AMLI** ”) website (including any AMLI-branded and affiliated websites that are both directly linked from this website and display a link to this Privacy Policy, the “ **Websites** ”). Your privacy is important to us. To help you better understand our privacy practices, we provide this Privacy Policy, which explains our online information practices and the choices you can make about the way your information is collected and used. 
 
@@ -138,6 +138,8 @@ If you found us through a locator service, please be aware that locator services
 Our third-party advertising partners may use certain information about your visits (e.g., excluding name, address, email address or telephone number, but including but not limited to geo-location information and Traffic Data) to this and other websites, mobile websites and/or mobile applications across your various devices, in order to provide content and advertisements about AMLI to you across those various devices. If you would like more information about this practice and to know your choices with respect to it, please: (1) visit the Digital Advertising Alliance’s opt-out page (currently available at <http://www.aboutads.info/choices/>) or the Network Advertising Initiative’s opt-out page (currently available at <http://www.networkadvertising.org/choices/>) to learn how to opt out of having your information collected in browsers for ad serving purposes; and (2) download the Ghostery Ad Control application, available for iOS and Android, to learn how to opt out of having your information collected in mobile apps.
 
  **Non-U.S. Residents**
+
+We provide services within United States. We do not provide services in the European Union. If you reside in the European Union and believe you have mistakenly entered information in our site and wish to have that data deleted, we will honor that request to the extent allowed by applicable law. Please forward any such request here: data-optout@amli.com .
 
 If you provide Personal Information to us, it may be transferred to and processed on computers in the U.S. and other countries. Do not provide Personal Information to us if you do not want this information to be transferred to the United States or to other countries, or if the laws in your country restrict these types of transfers. Your provision of Personal Information to us will be handled in accordance with this Privacy Policy. Your provision of Personal Information to us through the Website means that you agree to this Privacy Policy. 
 
