@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleset.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002084756id_/https%3A//www.callloop.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleset.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819201843id_/https%3A//www.callloop.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Call Loop
 
