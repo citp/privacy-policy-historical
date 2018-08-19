@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aircraftspruce.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529023652id_/http%3A//www.aircraftspruce.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aircraftspruce.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819212248id_/https%3A//www.aircraftspruce.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy from Aircraft Spruce
 
-This privacy statement covers the site www.Aircraft Spruce & Specialty Co. owned and operated by Aircraft Spruce & Specialty Co. 
+This privacy statement covers the site www.aircraftSpruce.com & www.aircraftspruce.ca owned and operated by Aircraft Spruce & Specialty Co. 
 
 This privacy statement explains 
 
@@ -41,6 +41,10 @@ We request information from the user on our order form. A user must provide cont
 **  
 Information Use**  
 Personal information such as email addresses, physical addresses and financial information are not disclosed to any third parties. This information is used exclusively by Aircraft Spruce & Specialty Co. The company may decide to use and communicate purchasing history and consumer behavior to third parties, but only in aggregate form, rendering personal identification impossible.
+
+**  
+Information about other**  
+If you request that your Aircraft Spruce and Specialty purchase be shipped to someone other than yourself (such as a gift recipient), we use the information you provide about the other person to fulfill the shipment. 
 
 **  
 Profile**  
@@ -133,19 +137,11 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 Security**  
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing. 
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. We are also PCI compliant. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our user's information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our user's information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
 
-If users have any questions about the security at our Web site, users can send an email to[ info@aircraftspruce.com](mailto:info@aircraftspruce.com) .
-
-**  
-Supplementation of Information**  
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
-
-**  
-Enhancement of Marketing Profile**  
-We purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance or overlay the profile of individual users. This aggregate marketing data is therefore tied to the users' personally identifiable information. See also the Profile
+If users have any questions about the security at our Web site, users can send an email to[ webmaster@aircraftspruce.com](mailto:webmaster@aircraftspruce.com) .
 
 **  
 Correcting/Updating/Deleting/Deactivating Personal Information**  
@@ -157,10 +153,21 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use user's personally identifiable information in a manner different from that stated at the time of collection we will notify users via email and by posting a notice on our Web site for 30 days. 
 
+**Children's Privacy**  
+The Services are intended for general audiences and not for children under the age of 13. If we become aware that we have collected “personal information” (as defined by the United States Children’s Online Privacy Protection Act) from children under the age of 13 without legally-valid parental consent, we will take reasonable steps to delete it as soon as possible. We do not knowingly process data of EU residents under the age of 16 without parental consent. If we become aware that we have collected data from an EU resident under the age of 16 without parental consent, we will take reasonable steps to delete it as soon as possible. We also comply with other age restrictions and requirements in accordance with applicable local laws. 
+
+**California Privacy Rights**  
+California law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined by applicable California law) with third parties for their direct marketing purposes. However, Aircraft Spruce and Specialty does not share your personal information with third parties for their own direct marketing purposes.
+
+  
+
+
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
 Aircraft Spruce & Specialty Co.  
-[info@aircraftspruce.com ](mailto:info@aircraftspruce.com)  
+[webmaster@aircraftspruce.com ](mailto:info@aircraftspruce.com) or [click here](https://web.archive.org/contactus.php)  
 Aircraft Spruce & Specialty Co.  
 PO Box 4000, Corona, CA 92880
+
+Last Edited on 2018-05-25
