@@ -1,11 +1,19 @@
-> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616210920id_/https%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819203910id_/https%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
 
-# ProfilePic.com - Find and chat with Single Girls or Single Guys
+# ProfilePic.com - No.1 UK Dating Site - 100% Free Dating
 
 ### This Application collects some Personal Data from its Users.
 
 Policy Date - **25th May 2018 00:01 AM** (GDPR Compliance).   
 Revision 2018.A - **3rd June 2018 at 01:54 AM**
+
+We offer our users an optional choice of importing contacts from Outlook, Google Mail, Yahoo mail and other services to send invitation emails to your recipients. 
+
+-Import E-mails from your e-mail provider 
+
+-Store contacts on our database for later use 
+
+-Send emails on your behalf as you to your contacts 
 
 Christopher James McGough <sumitgood[/at/]icloud.com>
 
@@ -86,3 +94,6 @@ In order for this service to be GDPR compliant the following are in effect since
 EOF 
 
 [Back](https://web.archive.org/)
+
+**ProfilePic.com - No.1 UK Dating Site - 100% Free Dating**   
+Chat to Single Women and Men on our FREE UK Dating Site, London Dating Site, Birmingham Dating Site, Nottingham Dating Site, Newcastle Dating Site, meet hot women, meet hot girls
