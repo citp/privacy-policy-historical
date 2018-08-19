@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the getmeregistered.com privacy policy that was archived on 2018-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180202071500id_/https%3A//secure.getmeregistered.com/privacy_policy.php%23top) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getmeregistered.com privacy policy that was archived on 2018-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180819095038id_/https%3A//secure.getmeregistered.com/privacy_policy.php%23top) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" dir="ltr"><!--[endif]----><head>
+<!DOCTYPE html><html lang="en" dir="ltr"><!--<![endif]--><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta charset="iso-8859-1">
 	<title>privacy policy at GetMeRegistered.com</title>
 	<meta name="description" content="privacy policy at GetMeRegistered.com">
 	<meta name="keywords" content="getmeregistered.com, get me registered, online registration, registration, events, running">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
 	<!-- Social Media meta tags -->
 	<meta property="fb:admins" content="1072390417">
 	<meta property="fb:app_id" content="497187273654506">
@@ -39,8 +38,8 @@
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/vendor/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/reset.min.css">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/layout.min.css">
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/main.min.css">
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/gmr-main.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/main.min.css?v=20180621220800">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/gmr-main.min.css?v=20180424173500">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/gmr-print.min.css" media="print">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/layout-responsive.min.css">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/mobile.min.css">
@@ -142,6 +141,11 @@
 		ga("send", "pageview");
 	</script>
 	<!-- End Google Analytics -->
+
+	<script>
+		GetMeRegistered.category = null;
+		GetMeRegistered.event = null;
+	</script>
 
 </head>
 <body id="gmr-body-privacy-policy">
@@ -330,7 +334,7 @@
 											<label for="password-menu">password</label>
 										</li>
 										<li>
-											<input type="text" name="password" id="password-menu" required="" autocomplete="off" placeholder="password" size="16" maxlength="64" class="input-box">
+											<input type="password" name="password" id="password-menu" required="" autocomplete="off" placeholder="password" size="16" maxlength="64" class="input-box">
 										</li>
 										<li>
 											<div>
@@ -341,55 +345,81 @@
 											</div>
 										</li>
 										<li class="stop-bot">
-											<label for="email_201832">Enter an email address unless you want this to work:</label>
+											<label for="email_2018230">Enter an email address unless you want this to work:</label>
 										</li>
 										<li class="stop-bot">
-											<input type="email" name="email_201832" id="email_201832" autocomplete="off" value="" placeholder="Enter an email address unless you want this to work" maxlength="64">
+											<input type="email" name="email_2018230" id="email_2018230" autocomplete="off" value="" placeholder="Enter an email address unless you want this to work" maxlength="64">
 										</li>
 									</ul>
-									<input type="hidden" name="gmr_csrf_token" value="08b2db6e1ca6ef2df30d86a92843fe8d04f70d63de33898e296012b69ea85517563c04e3add0ebf9d0de4ace52a8a79bf344f1ea00f1a8bfaa37e6d9492058bf">
+									<input type="hidden" name="gmr_csrf_token" value="b5dd3e66981c29a8c958dc35f0697963925ce53a8d004cc66354bc545946485796a6e93a49bd1f67beabcee1d5e749f861c75faf38b31135df4f93e7c2ba0f6d">
 								</fieldset>
 							</form>
 						</div>
 						<script type="text/javascript">
 							(function () {
 								try {
-									var usField = document.getElementById("username-menu"),
-										pwField = document.getElementById("password-menu"),
-										usFieldLabel = document.getElementById("username-menu-label"),
-										pwFieldLabel = document.getElementById("password-menu-label");
+									var usernameField = document.getElementById("username-menu"),
+										passwordField = document.getElementById("password-menu"),
+										usernameFieldLabel = document.getElementById("username-menu-label"),
+										passwordFieldLabel = document.getElementById("password-menu-label");
 
-									// these two statements will throw an exception if
-									// type-changing is not supported by the current browser
-									// (IE through version 8)
-									pwField.type = "password";
-									pwField.type = "text";
+									// Detect placeholder support.
+									// If placeholders are not supported, re-create
+									// their functionality dynamically.
+									if (!("placeholder" in usernameField)) {
 
-									// label the fields
-									usField.value = "username";
-									pwField.value = "password";
+										// Ensure type-switching is supported.
+										// In <= IE8, it is not, and will throw
+										// an exception.
+										var testInput = document.createElement("input");
+											testInput.type = "password";
+											testInput.type = "text";
 
-									// hide the text labels
-									usFieldLabel.style.display = "none";
-									pwFieldLabel.style.display = "none";
+										// Add event listeners to set default placeholders
+										// and change field types as appropriate.
+										addEventHandler(usernameField, "focus", function(ev) {
+											if ("username" === this.value) {
+												this.value = "";
+											}
+										});
+										addEventHandler(usernameField, "blur", function(ev) {
+											if ("" === this.value) {
+												this.value = "username";
+											}
+										});
 
-									// trigger the code to remove the label and switch the
-									// password field type when each form element is focused.
-									addEventHandler(usField, "focus", initializeSidebarUserField, false, false);
-									addEventHandler(pwField, "focus", switchSidebarPWFieldType, false, false);
+										addEventHandler(passwordField, "focus", function(ev) {
+											if ("text" === this.type
+											    && "password" === this.value) {
+												this.value = "";
+											}
+											this.type = "password";
+										});
+										addEventHandler(passwordField, "blur", function(ev) {
+											if ("" === this.value) {
+												this.type = "text";
+												this.value = "password";
+											}
+										});
+
+										// Initialize fields, but only if they're blank.
+										if ("" === usernameField.value) {
+											usernameField.value = "username";
+										}
+										if ("" === passwordField.value) {
+											passwordField.type = "text";
+											passwordField.value = "password";
+										}
+									}
+
+									// Hide the field labels.
+									usernameFieldLabel.style.display = "none";
+									passwordFieldLabel.style.display = "none";
 								}
-								catch (error) {
-									// alert(error.message);
+								catch (err) {
+									return false;
 								}
-							}) ();
-
-							function initializeSidebarUserField() {
-								if ("username" === this.value) { this.value = ""; }
-							} // end initializeSidebarUserField definition
-							function switchSidebarPWFieldType() {
-								if ("password" === this.value) { this.value = ""; }
-								if ("text" === this.type) { this.type = "password"; }
-							} // end switchSidebarPWFieldType definition
+							})();
 						</script>
 					</aside> <!-- end sidebar -->
 					<a name="top" id="top"></a>
@@ -456,7 +486,7 @@ service@getmeregistered.com
 								<img src="https://d2pe17571iz33b.cloudfront.net/images/cc-mastercard.png" alt="Mastercard" height="45" width="71" style="margin: 0 2px;">
 								<img src="https://d2pe17571iz33b.cloudfront.net/images/cc-visa.png" alt="Visa" height="45" width="49" style="margin: 0 2px;">
 							</li>
-							<li style="margin: 8px 0;">When this page loaded, the official time was 2:15:00 AM EST.</li>
+							<li style="margin: 8px 0;">When this page loaded, the official time was 5:50:38 AM EDT.</li>
 						</ul>
 					</div> <!-- end content-bottom -->
 				</div> <!-- end content -->
