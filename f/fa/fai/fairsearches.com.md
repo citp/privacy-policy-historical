@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fairsearches.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021132217id_/https%3A//www.fairsearches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairsearches.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820210103id_/https%3A//www.fairsearches.com/privacy-policy) for the most accurate reproduction.*
 
-# Fair serches Privacy Policy for Fair serches user 8750299299
+# Fairsearches Privacy Policy
 
 Fairsearches.com is a private registered company collaborated with "Personal Information", established with the objective of online information service, promotion and marketing and trading of various products and services.
 
