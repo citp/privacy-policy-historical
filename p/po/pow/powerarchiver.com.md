@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620185114id_/https%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820151933id_/https%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
 
 # PowerArchiver – Privacy Policy – PowerArchiver
 
@@ -72,11 +72,11 @@ Protecting your privacy online is an evolving area, and ConeXware is committed t
 
 ### U.S.-EU Privacy Shield Framework
 
-ConexWare complies with the US-EU Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Individual Customers in the European Union member countries and Switzerland. ConexWare has certified that it adheres to the Privacy Shield Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. If there are any conflict between the policies in this privacy policy and the Privacy Shield Privacy Principles, the Privacy Shield Privacy Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+ConexWare complies with the US-EU Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Individual Customers in the European Union member countries. ConexWare has certified that it adheres to the Privacy Shield Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. If there are any conflict between the policies in this privacy policy and the Privacy Shield Privacy Principles, the Privacy Shield Privacy Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
 The Federal Trade Commission (FTC) has jurisdiction over ConexWare’s compliance with the Privacy Shield. 
 
-All ConexWare employees who handle Personal Data from Europe and Switzerland are required to comply with the Principles stated in this Policy. 
+All ConexWare employees who handle Personal Data from Europe are required to comply with the Principles stated in this Policy. 
 
 ### Contact Information
 
