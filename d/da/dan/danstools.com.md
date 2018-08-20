@@ -1,100 +1,295 @@
-> *The following text is extracted and transformed from the danstools.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danstools.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820151854id_/https%3A//www.danstools.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Dans Tools - About the site.
 
-**Go Daddy Respects Your Privacy**
+### About the site.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+  
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+    
+    
+    DA Holdings Privacy Policy
+    
+    This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.danstools.com (the “Site”).
+    
+    PERSONAL INFORMATION WE COLLECT
+    
+    When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
+    
+    We collect Device Information using the following technologies:
+    
+        - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+    
+        - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+        - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+    
+    Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information, email address, and phone number.  We refer to this information as “Order Information.”
+    
+    When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+    
+    HOW DO WE USE YOUR PERSONAL INFORMATION?
+    
+    We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
+    Communicate with you;
+    Screen our orders for potential risk or fraud; and
+    When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+    
+    We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+    
+    
+    SHARING YOUR PERSONAL INFORMATION
+    
+    We share your Personal Information with third parties to help us use your Personal Information, as described above.  We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
+    
+    Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+    
+    BEHAVIOURAL ADVERTISING
+    As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+    
+    You can opt out of targeted advertising by:
+        FACEBOOK - https://www.facebook.com/settings/?tab=ads
+        GOOGLE - https://www.google.com/settings/ads/anonymous
+        BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+    
+    Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  http://optout.aboutads.info/.
+    
+    A list of potential third parties is here
+    
+    DO NOT TRACK
+    Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+    
+    YOUR RIGHTS
+    If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+    
+    Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+    
+    DATA RETENTION
+    When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+    
+    MINORS
+    The Site is not intended for individuals under the age of 13.
+    
+    CHANGES
+    We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+    
+    CONTACT US
+    For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at bootsnipp at gmail dot com.
+    
+    
+    AD NETWORK INFO
+    Google - <https://www.google.com/policies/technologies/partner-sites/>
+    Aarki - <http://corp.aarki.com/privacy>
+    Adacado - <https://www.adacado.com/privacy-policy-april-25-2018/>
+    Adara Media - <https://adara.com/2018/04/10/adara-gdpr-faq/>
+    AdClear - <https://www.adclear.de/datenschutzerklaerung/>
+    ADEX - [http://theadex.com](http://theadex.com/)
+    Adform - <https://site.adform.com/uncategorized/product-and-services-privacy-policy/>
+    Adikteev - <https://www.adikteev.com/eu/privacy/>
+    AdLedge - <https://adledge.com/data-privacy/>
+    Adloox - <http://adloox.com/disclaimer>
+    Adludio - <https://adludio.com/termsandconditions>
+    AdMaxim - <http://www.admaxim.com/admaxim-privacy-policy/>
+    Admedo - <https://www.admedo.com/privacy-policy>
+    Admetrics - <https://admetrics.io/en/privacy_policy/>
+    Adobe Advertising Cloud - <https://www.adobe.com/privacy/general-data-protection-regulation.html>
+    AdRoll, Inc. - <https://www.adroll.com/gdpr>
+    AdTriba - <https://privacy.adtriba.com/>
+    advanced STORE GmbH - <https://www.ad4mat.com/en/privacy/>
+    Adventori - <https://www.adventori.com/fr/avec-nous/mentions-legales/>
+    advolution.control - <http://advolution.de/privacy.php>
+    affilinet - <https://www.affili.net/uk/footeritem/privacy-policy>
+    Akamai - <http://www.akamai.com/compliance/privacy>
+    Amazon - <https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010>
+    Amobee - <https://www.amobee.com/trust/privacy-guidelines>
+    Analights - <https://analights.com/docs/analights-consent-to-the-processing-of-personal-data-en.pdf>
+    AppLovin Corp. - <https://www.applovin.com/privacy>
+    AppNexus - <https://www.appnexus.com/en/company/platform-privacy-policy>
+    Arrivalist - <https://www.arrivalist.com/privacy#gdpr>
+    AudienceProject - <http://privacy.audienceproject.com/for-users/>
+    Aunica - <http://www.aunica.com/privacy/privacy.html>
+    Avocet - <http://avocet.io/privacy-portal>
+    Batch Media - <http://batch.ba/datenschutzerklarung/>
+    BDSK Handels GmbH & Co. KG - <https://www.xxxlutz.de/ocms/privacy>
+    Beeswax - <https://www.beeswax.com/privacy.html>
+    Betgenius - <http://betting.geniussports.com/connextra-service-terms-conditions/>
+    Bidswitch - <http://www.bidswitch.com/privacy-policy/>
+    Blismedia - <http://www.blis.com/privacy/>
+    Bombora - <http://bombora.com/privacy>
+    Booking.com - <https://www.booking.com/content/privacy.en-gb.html>
+    C3 Metrics - <https://c3metrics.com/privacy>
+    Cablato - <http://cablato.com/privacy>
+    Celtra - <https://www.celtra.com/privacy-policy/>
+    Centro - <https://www.centro.net/privacy-policy/>
+    Cint - <https://www.cint.com/participant-privacy-notice/>
+    Clinch - <https://clinch.co/pages/privacy.html>
+    Cloud Technologies - <http://green.erne.co/assets/PolicyCT.pdf>
+    Cloudflare - <https://www.cloudflare.com/security-policy/>
+    Commanders Act - <https://www.commandersact.com/en/privacy/>
+    comScore - <https://www.comscore.com/About-comScore/Privacy-Policy>
+    Conversant/CJ Affiliate - <https://www.conversantmedia.eu/legal/privacy-policy>
+    Crimtan - <https://crimtan.com/privacy-ctl/>
+    Criteo - <https://www.criteo.com/privacy/>
+    CUBED - <http://cubed.ai/privacy-policy/gdpr/>
+    DataXu - <https://www.dataxu.com/gdpr/>
+    Delta Projects - <http://www.deltaprojects.com/data-collection-policy/>
+    Demandbase - <https://www.demandbase.com/privacy-policy/>
+    DENTSU - <http://www.dentsu.co.jp/terms/data_policy.html>
+    Dentsu Aegis Network - <http://www.dentsu.com/termsofuse/data_policy.html>
+    Digiseg - <http://www.digiseg.io/GDPR/>
+    DMA Institute - <https://www.dma-institute.com/privacy-compliancy/>
+    DoubleVerify - <https://www.doubleverify.com/privacy/>
+    Dstillery - <https://dstillery.com/privacy-policy/>
+    DTS - <https://client.adhslx.com/privacy.html>
+    EASYmedia - <https://www.rvty.net/gdpr>
+    eBay - <https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260#section12>
+    ebuilders - <http://ebuilders.nl/privacy>
+    Effinity - <https://www.effiliation.com/politique-confidentialite.html>
+    emetriq - <https://www.emetriq.com/datenschutz/>
+    Ensighten - <https://www.ensighten.com/privacy-policy/>
+    Essens - <https://essens.no/privacy-policy/>
+    ESV - <https://www.wizaly.com/terms-of-use#privacy-policy>
+    Evidon - <https://www.evidon.com/resources/privacy-statement/>
+    Exactag - <https://www.exactag.com/en/data-privacy/>
+    Exponential - <http://exponential.com/privacy/>
+    Facebook - <https://www.facebook.com/about/privacy/update>
+    Flashtalking - <http://www.flashtalking.com/first-party-ad-serving/>
+    Fractional Media - <https://www.fractionalmedia.com/privacy-policy>
+    FUSIO BY S4M - <http://www.s4m.io/privacy-policy/>
+    Gemius - <https://www.gemius.com/cookie-policy.html>
+    GfK - <https://sensic.net/>
+    GP One - <http://www.gsi-one.org/templates/gsi/en/files/privacy_policy.pdf>
+    GroupM - <https://www.groupm.com/privacy-policy>
+    gskinner - <https://createjs.com/legal/privacy.html>
+    Haensel AMS - <https://haensel-ams.com/data-privacy/>
+    Havas Media France - DBi - <http://www.centraltag.com/commercial/policy/index.action>
+    hurra.com - <http://www.hurra.com/impressum>
+    IBM - <https://www.ibm.com/customer-engagement/digital-marketing/gdpr>
+    Ignition One - <https://www.ignitionone.com/privacy-policy/gdpr-subject-access-requests/>
+    Impact - <https://impact.com/privacy-policy/>
+    Index Exchange - <http://www.indexexchange.com/privacy/>
+    Infectious Media - <https://impressiondesk.com/>
+    Innovid - <http://www.innovid.com/privacy-policy>
+    Integral Ad Science - <http://www.integralads.com/privacy-policy>
+    intelliAd - <https://www.intelliad.de/datenschutz>
+    Interpublic Group - <https://www.interpublic.com/privacy-notice>
+    Jivox - <http://www.jivox.com/privacy/>
+    Kantar - <https://www.kantarmedia.com/global/privacy-statement>
+    Kochava - <https://www.kochava.com/support-privacy/>
+    LifeStreet - <http://www.lifestreet.com/privacy>
+    Liftoff - <https://liftoff.io/privacy-policy/>
+    LiveRamp - <https://liveramp.com/service-privacy-policy/>
+    Localsensor - <https://www.localsensor.com/privacy.html>
+    LoopMe - <https://loopme.com/privacy/>
+    Lotame - <https://www.lotame.com/about-lotame/privacy/>
+    Macromill group - <https://www.metrixlab.com/privacy-statement/>
+    MainADV - <http://www.mainad.com/privacy-policy>
+    Manage.com - <https://www.manage.com/privacy-policy/>
+    Marketing Science Consulting Group, Inc. - <http://mktsci.com/privacy_policy.htm>
+    MBR Targeting Gmbh - [https://privacy.mbr-targeting.com](https://privacy.mbr-targeting.com/)
+    MediaMath - <http://www.mediamath.com/privacy-policy/>
+    Meetrics - <https://www.meetrics.com/en/data-privacy/>
+    MindTake Research - <https://www.mindtake.com/en/reppublika-privacy-policy>
+    Mobitrans - <http://www.mobitrans.net/privacy-policy/>
+    Mobpro - <http://mobpro.com/privacy.html>
+    Moloco Ads - <http://www.molocoads.com/private-policy.html>
+    MSI-ACI - <http://site.msi-aci.com/Home/FlexTrackPrivacy>
+    Nano Interactive - <http://www.nanointeractive.com/privacy>
+    Navegg - <https://www.navegg.com/en/privacy-policy/>
+    Neodata Group - <https://www.neodatagroup.com/en/security-policy>
+    NEORY GmbH - <https://www.neory.com/privacy.html>
+    Netflix - <http://www.netflix.com/google-3PAS-info>
+    Netquest - <https://www.nicequest.com/us/privacy>
+    Neuralone - <https://web.neural.one/privacy-policy/>
+    Neustar - <https://www.home.neustar/privacy>
+    Nielsen - <http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html>
+    Nordic Factory Solutions AB - <https://www.bannerflow.com/privacy>
+    numberly - <http://ads.1000mercis.com/us.html>
+    Oath - <https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/>
+    Objective Partners - <https://www.objectivepartners.com/cookie-policy-and-privacy-statement/>
+    Omnicom Media Group - <https://www.omnicommediagroup.com/disclaimer.htm>
+    On Device Research - <https://ondeviceresearch.com/GDPR>
+    OneTag - <https://www.onetag.net/privacy/>
+    OpenX Technologies - <https://www.openx.com/legal/privacy-policy/>
+    Optomaton - <http://optomaton.com/privacy.html>
+    Oracle Data Cloud - <https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html>
+    OTTO - <https://www.otto.de/shoppages/service/datenschutz>
+    PERMODO - <http://permodo.com/de/privacy.html>
+    Pixalate - <http://www.pixalate.com/privacypolicy/>
+    Platform161 - <https://platform161.com/cookie-and-privacy-policy/>
+    PMG - <https://www.pmg.com/privacy-policy/>
+    Protected Media - <http://www.protected.media/privacy-policy/>
+    Publicis Groupe - <https://www.publicismedia.de/datenschutz/>
+    PubMatic - <https://pubmatic.com/legal/privacy-policy/>
+    PulsePoint - <https://www.pulsepoint.com/privacy-policy>
+    Quantcast - <https://www.quantcast.com/privacy/>
+    Rackspace - <http://www.rackspace.com/gdpr>
+    Rakuten Marketing - <https://rakutenmarketing.com/legal-notices/services-privacy-policy>
+    Relay42 - <https://relay42.com/privacy>
+    Remerge - <http://remerge.io/privacy-policy.html>
+    Resonate - <https://www.resonate.com/privacy-policy/>
+    RevJet - <https://www.revjet.com/privacy>
+    RhythmOne LLC - <https://www.rhythmone.com/landing/gdpr>
+    RN SSI Group - <https://www.valuedopinions.co.uk/privacy>
+    Roq.ad - <https://www.roq.ad/privacy-policy>
+    RTB House - <https://www.rtbhouse.com/gdpr/>
+    Rubicon Project - <http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/>
+    Salesforce DMP - <https://www.salesforce.com/company/privacy/>
+    Scenestealer - <http://www.scenestealer.tv/privacy-policy>
+    Scoota - <http://scoota.com/privacy-policy/>
+    Seenthis - <https://seenthis.co/privacy-notice-2018-04-18.pdf>
+    Semasio GmbH - <http://www.semasio.com/privacy-policy/>
+    SFR - <http://www.sfr.fr/securite-confidentialite.html>
+    Sift Media - <https://www.sift.co/privacy>
+    Simpli.fi - <https://www.simpli.fi/site-privacy-policy2/>
+    Sizmek - <https://www.sizmek.com/privacy-policy/>
+    Smaato - <https://www.smaato.com/privacy/>
+    Smadex - <http://smadex.com/end-user-privacy-policy/>
+    Smart - <http://smartadserver.com/company/privacy-policy/>
+    Smartology - <https://www.smartology.net/privacy-policy/>
+    Sociomantic - <https://www.sociomantic.com/privacy/en/>
+    Sojern - <https://www.sojern.com/privacy/product-privacy-policy/>
+    Sovrn - <https://www.sovrn.com/privacy-policy/>
+    Spotad - <http://www.spotad.co/privacy-policy/>
+    SpotX - <https://www.spotx.tv/privacy-policy/>
+    TabMo - <http://static.tabmo.io.s3.amazonaws.com/privacy-policy/index.html>
+    Taboola - <https://www.taboola.com/privacy-policy>
+    TACTIC™ Real-Time Marketing - <http://tacticrealtime.com/privacy/>
+    Teads.TV - <https://teads.tv/privacy-policy/>
+    TEEMO - <https://teemo.co/fr/confidentialite/>
+    The Trade Desk - <https://www.thetradedesk.com/general/privacy-policy>
+    Tradedoubler - <http://www.tradedoubler.com/en/privacy-policy/>
+    travel audience – An Amadeus Company - <https://travelaudience.com/product-privacy-policy/>
+    TreSensa - <http://tresensa.com/eu-privacy/index.html>
+    TripleLift - <https://triplelift.com/privacy/>
+    TruEffect - <https://trueffect.com/privacy-policy/>
+    TrustArc - <https://www.trustarc.com/privacy-policy/>
+    Turbobytes - <https://www.turbobytes.com/gdpr/>
+    UDG - <https://www.udg.de/wp-content/uploads/2018/04/privacy_policy_EN.pdf>
+    usemax (Emego GmbH) - <http://www.usemax.de/?l=privacy>
+    Videology - <https://videologygroup.com/en/privacy-policy/>
+    Vimeo - <https://vimeo.com/cookie_policy>
+    Virtual Minds - <https://virtualminds.de/datenschutz/>
+    Vodafone GmbH - <https://www.vodafone.de/unternehmen/datenschutz-privatsphaere.html>
+    Waystack - <https://www.wayfair.com/customerservice/general_info.php#privacy>
+    Weborama - <https://weborama.com/e-privacy/>
+    White Ops - <https://www.whiteops.com/privacy>
+    Widespace - <https://www.widespace.com/legal/privacy-policy-notice/>
+    Yieldr - <https://www.yieldr.com/privacy/>
+    ZMS - <https://zms.zalando.com/#>
+    
+    
+    
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+#### Purchasing from Tesla?
 
-**Information Collection and Use**
+Get free Super Charging for life when you purchase a Model S, Model X, or Model 3 Performance, or a 5-Year warranty on a solar install.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Help the site out by using this referral like to purchase: <https://ts.la/daniel15856>
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+#### Supercharge Your SEO
+
+Competitive analytics is essential to any SEO strategy. Give Spyfu a try!
+
+* * *
