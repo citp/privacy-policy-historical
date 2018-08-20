@@ -1,71 +1,87 @@
-> *The following text is extracted and transformed from the voicelet.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505081801id_/http%3A//www.voicelet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicelet.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820063831id_/http%3A//lasikeyela.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Your Social Media Marketplace. VoiceLet.com
+# Privacy | Lasik Eye Center Los Angeles with Doctor Joseph Lee
 
-### 1\. Introduction
+**Legal Dislcaimer**
 
-Thank you for visiting Jobster and, if applicable, choosing to use our Service. We try to make our Privacy Policy easy to understand so that you are informed as to how we use your information. This Privacy Policy, like our Terms of Service, is an integral part of using our Service; therefore you must completely agree to our Privacy Policy in order to use our Site or Service. If you are under 18 please stop using our Service immediately.
+The materials available at this web site are for informational purposes only and not for the purpose of providing legal advice. You should contact your attorney to obtain advice with respect to any particular issue or problem. Use of and access to this Web site or any of the e-mail links contained within the site do not create an attorney-client relationship between Owerly and the user or browser. The opinions expressed at or through this site are the opinions of the individual author and may not reflect the opinions of the company or any individual.
 
-### 2\. Information Collected
+**Medical Disclaimer**
 
-Identifying Information Submitted by You
+Always read the label and take only as directed. These statements have not been evaluated by any medical authority, and are for educational purposes only. If you are on medication or suffer any major health concerns, review the product with your doctor first. If symptoms persist or you have side effects see your healthcare professional. These statements have not been evaluated by the FDA. This product is not a medicine, and is not intended to diagnose, treat, cure or prevent any disease. Nothing on this site is intended as medical advice.
 
-You will not be required to submit any information when visiting our Site. When creating an account, we may collect your name, email, address and country of origin. When purchasing Jobster Theme License you will be required to submit information to our third party payment processor – PayPal. We will not collect any of your payment information, this information will solely be collected and stored by our third party processor.
+Use Caution And Seek The Advice Of Qualified Professionals. Check With Your Accountant, Lawyer Or Professional Advisor, Before Acting On This Or Any Information. You Agree That We Are Not Responsible For The Success Or Failure Of Your Decisions Relating To Any Information Presented On This Website.
 
-Non-Identifying Information
+Liability Disclaimer
 
-Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, interactions with the Site and Service, referring URL, browser, operating system, cookie information, usage, data transferred and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party such as your wireless provider, this information alone cannot usually be used to identify you.
+Provider does not maintain any liability insurance for protection of individuals, business entities, groups, organizations, spectators, or others who may participate in network marketing, reading this website, consultations or recommendations.
 
-### 4\. Use of Your Information
+In consideration for participation in network marketing, reading this website, consultations or recommendations, the undersigned individual, business entity, group, organization, spectator, or other, does hereby release and forever discharge Provider, and its officers, directors, agents, and employees, jointly and severally, from any and all actions, causes of actions, claims, and demands for, upon, or by reason of any damage, loss or injury, of any kind or nature, which may be sustained by participating in network marketing, reading this website, consultations or recommendations.
 
-We will never sell, transfer or give your information to a third party without your permission. However, you agree that we may use your information:
+This Liability Release extends, applies to, covers, and includes, all unknown, unforeseen, unanticipated, and unsuspected injuries, damages, losses, and liabilities and the consequences thereof, as well as those now disclosed and known to exist.
 
-To enhance or improve our users’ experiences.  
-To provide our Service to you.  
-To contact you and to respond to inquiries.  
-To process transactions.  
-To register an account and use our Service.
+Participant hereby agrees, on behalf of his or her heirs, executors, administrators, and assigns, to indemnify Provider and its officers, directors, agents and employees, joint and severally from any and all actions, causes of actions, claims and demands for, upon or by reason of any damage, loss or injury, of any kind or nature which may be sustained by participating in network marketing, reading this website, consultations or recommendations.
 
-Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any US laws, EU laws or if a violation of the Terms of Service or Privacy Policy has occurred.
+It is further understood and agreed that participation in Activity is not to be construed as an admission of liability or acceptance or assumption of responsibility by Provider, its officers, directors, agents, and employees, jointly and severally, for any damages and/or expenses for which Provider, its officers, directors, agents, and employees, become liable as a result of any alleged act of the Participant.
 
-### 5\. Accessing, Editing, and Removing Your Information
+**Privacy Policy**  
+This privacy statement discloses the privacy practices for Lasikeyela.com  
+Information Collection and Use  
+Lasikeyela.com is the sole owner of information collected by this site. This Web Site (Site) collects general information from you that does not identify you personally. Information collected on this Site is used solely for the Purposes of offering the associated Activities, information and services to you as a visitor of the Site and to improve the Site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
-After creating an account you may be able to edit and/or delete information submitted by contacting [support](http://wpjobster.com/support/). However, you will be unable to opt of our data collection practices. If you want your information to be removed from our database please [contact us](http://wpjobster.com/contact/). We will generally endeavor to delete our database of user information at regular intervals, but we cannot guarantee that your information has been or will be deleted immediately. Although some changes may occur immediately, information may still be stored in a web browser’s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.
+We do not collect Personally Identifiable Information from you, other than what you supply to us on a voluntary basis. However, in order to participate in some Activities, you might be asked to voluntarily provide some Personally Identifiable Information. This could be in connection with the following  
+Activities  
+Contest registration  
+Subscription registration for sites or services which require subscription (such as e-mail newsletters).  
+Requests for membership information.  
+Fulfillment of your orders for merchandise.  
+Gathering your editorial comments and feedback.  
+Content submissions, comments and suggestions, or voting.  
+Online surveys. The information you may provide in these surveys is used only on an aggregate basis to describe our audiences and assist us in better serving you.  
+Participation in community postings, bulletin boards or “chat rooms.”  
+Making a donation or purchasing goods and services.  
+Registration for a course or similar educational experience, in which case handling and use of your personal information will be subject to MSU “Access to Student Information” policies.  
+This Site also collects Anonymous Traffic Data each time you interact with the Site. This Anonymous Traffic Data is collected from Cookies, 3rd-Party Tracking Cookies, and Server Logs.  
+Cookies  
+“Cookies” are small text files used to collect information about website activity. This Site uses cookies to remember if users have logged in while on our site. This Site also users cookies to allow users to automatically login to other Michigan State University sites to which this Site refers users through the login page at login.msu.edu. This allows users to avoid logging in more than once, thereby saving time. Closing all browser windows and tabs will log the user out of all Lasikeyela.com sites and remove these cookies.
 
-### 6\. Cookies
+In addition, users have the option of disabling or not accepting cookies by changing the preferences on their browsers. If users opt to disable cookies, they will still be able to use the public sections of our Web site. However, they will not be able to use any functionality requiring a login (e.g. accessing secured content, posting to the message boards, etc).
 
-We use cookies to save your preferences and to remember your shopping cart. For this reason, you must have cookies enabled in your browser to use our Site and Services. Additionally, some or all of our cookies may be accessible by third parties.
+No Personally Identifiable Information (e-mail address, name, etc.) is collected through our use of cookies. Accepting cookies while on this Site will not put the user at risk for direct marketing from other sites or entities.  
+Tracking Cookies and Web Statistics via Third-Party  
+This site also sets a persistent tracking cookie from Google.com, using Google Analytics, to aid our collection of Anonymous Tracking Data. Reports provided by Google Analytics aggregate this Anonymous Tracking Data allowing us to track usage of our site. This information helps us understand how users find our sites, which sections of the site are being read, and informs improvements to our content.
 
-### 7\. Third Party Access to Your Information
+Personally Identifiable Information  
+To ensure anonymity of our visitors, this Site does not connect or associate Personally Identifiable Information to the persistent tracking cookie used to generate Anonymous Traffic Data.
 
-Although you are entering into an Agreement with Jobster to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others. Throughout the course of our provision of our Services to you, we may delegate our authority to collect, access, use, and disseminate your information. For example, when you submit a form with personally identifiable information to us, that information will be disseminated or forwarded through our Service to your local law enforcement agency. It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. The following is a non-exhaustive list of other entities that we may store, share, or transfer your information with: PayPal.
+Our use of Google Analytics has been configured to not share data with other Google products and tools. By avoiding any link between Personally Identifiable Information and our gathering of web statistics, our use of Google Analytics is consistent with Google’s Terms of Service and Owerly.com  policies that protect student information . For more information about Google’s privacy practices or for information on how to opt-out of Google Analytics tracking of your web browsing please refer to the following page: <http://www.google.com/intl/en/analytics/privacyoverview.html>  
+Server Logs  
+Our Web servers will create log files which contain all or some of the following information:  
+The date, time and length of your visit.  
+The path taken through our Web site and the browser being used.  
+The list of files downloaded and the amount of time spent viewing any video or audio files.  
+The Internet Protocol Address (IP Address) of the computer accessing our Site. We use your IP address to help diagnose problems with our server and to administer our Web site.  
+Any errors encountered.  
+Your connection speed as it relates to your optimal speed for listening or watching video online (stored via a cookie).  
+Sharing and Retention of Information  
+If you choose to provide Personally Identifiable Information through this Site, we will not willfully disclose it to any third party without first receiving your permission. However, we may be required to release personal information if required to do so by law, Owerly.com  policy, or contractual obligation.
 
-### 8\. Law Enforcement
+We may use your Personally Identifiable Information for the Purposes and Activities associated with this Site and related services limited to the administrative unit offering this Site.
 
-You agree that we may disclose your information to authorities if compelled to by a court order. Additionally, you agree that we may disclose your information if we reasonably believe that you have violated a US law or the terms of our Terms of Service or Privacy Policy or if we believe that a third party is at risk of bodily harm. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, such as instances where we believe your publications violate any law of the United States or any other country having jurisdiction over us, our Site, Services, or our Terms of Service. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or Federal authorities within the United States, or elsewhere.
+We do not share, exchange, rent or sell any Personally Identifiable Information to political parties or candidates for political office.
 
-### 9\. Commercial and Non-Commercial Communications
+If you do not want personal information which you voluntarily supply used by us for the Purposes and Activities associated with this Site, you may “opt-out.” Please note, however, under certain circumstances, opting out may prevent your participation in Activities for which personal information is needed.
 
-By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from us, since you have agreed to such communication by providing your information to us. However, you may unsubscribe from certain communications by notifying Jobster that you no longer wish to receive solicitations or information and we will endeavour to remove you from our database where you have the right to request this under our Agreement, Privacy Policy, or applicable law, or where we voluntarily decide to grant the request.
+When you engage in financial transactions at our Site, you may be asked for a credit card number. The server that processes your credit card information is secure and your credit card number will be encrypted as it passes through the Internet. Such information is also saved in an encrypted format or in internal systems that are protected by an internal firewall system. This Site complies fully with Payment Card Industry Data Security Standards.
 
-### 10\. Third Parties
-
-Jobster may post links to third party websites on our Site or Service, which may include information that we have no control over. When accessing a third party site through our Site or Service, you acknowledge that you are aware that these third party websites are not screened for privacy or security issues by us, and you release us from any liability for the conduct of these third party websites.
-
-Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties. Jobster bears no responsibility for the information collected or used by any advertiser or third party website. You must review their Terms of Service and Privacy to understand how their information collection practices work.
-
-### 11\. Security Measures
-
-We use SSL Certificates and vulnerability scanning to enhance the security of our Site and Services. However, we make no guarantees as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, routine credit checks, firewalls, and other precautions to protect yourself from security and privacy threats.
-
-### 12\. Age Compliance
-
-We intend to fully comply with COPPA and international laws respecting children’s privacy. Therefore, we do not collect or process any information for any persons under the age of 18. If you are under 18 and using our Site or Service, please stop immediately and do not submit any information to us.
-
-### 13\. International Transfer
-
-Your information may be transferred to – and maintained on – computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. We may transfer personal information to the United States or elsewhere and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-### 14\. Amendments
-
-Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will place a note on our Site or we may contact you. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at support@wpjobster.com.
+We may share Aggregate Demographic information with partners to the extent necessary to facilitate provisioning service for this website/service . This information does not include and is not linked to any personal information that can identify any individual person. We only share this information so that we can secure funding and sponsorship to continue to support our effort to provide information freely to users and benchmark the growth of our Site. As a public institution, these aggregate statistics may be subject to release in accordance with requests made under the Freedom of Information Act.  
+Links  
+This Web site contains links to other sites. Please be aware that we do not control or claim any responsibility for the privacy practices or content of such other sites. We encourage users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects Personally Identifiable Information.  
+Security  
+This Web site takes reasonable precautions to protect our users’ information, and we have security measures in place to protect the loss, misuse, and alteration of information under our control.  
+Surveys  
+Occasionally, our Site requests information from users via Web surveys. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include demographic data (such as zip code and age), but no Personally Identifiable Information will be collected. Survey results will be used for purposes of monitoring or improving the use and performance of this Site.  
+Notification of Changes  
+If we decide to change our privacy statement, we will announce the changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy statement in effect when the information was collected. However, if at any point we wish to use Personally Identifiable Information in a manner different from that provided in the privacy statement in effect at the time it was collected, we will notify users by e-mail to request their consent. Users will decide whether or not we use their information in this different manner.  
+Consent  
+By using our Site you consent to our privacy statement.
