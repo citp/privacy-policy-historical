@@ -1,117 +1,61 @@
-> *The following text is extracted and transformed from the toponlineguides.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211055355id_/http%3A//www.toponlineguides.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toponlineguides.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820233518id_/http%3A//www.toponlineguides.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Of TopOnlineGuides.com
+# Privacy Policy | TopOnlineGuides.com
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+**Our Privacy Policy (dated 23.5.2018)**
 
-We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+We are committed to ensuring that your privacy is protected.
 
-**What Information Do We Collect?**
+This is our privacy policy (dated 23.5.2018). Our services and information provided, and therefore this policy are aimed at people aged over the age of 18.
 
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+**The information you need to know about us:**
 
-**1\. Personal Information You Choose to Provide:**
+We are called “TOP Online Guides”, doing business as TopOnlineGuides.com.
 
-**Registration Information**
+We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below:
 
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+**1\. What Personal Information Do We Collect?**
 
-**Credit Card Information**
-
-If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:
-
-  * Name
-
-  * Mailing address
-
-  * Email address
-
-  * Credit card number
-
-  * Name on credit card
-
-  * Credit card billing address
-
-  * Business and home phone number
+  * Information You Provide: We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in. Please see the “opt-in/opt-out” selection in Section 4 of this policy.
+  * Like many websites, we use “cookies”: Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
+  * Other Information: Every computer has an IP (Internet Protocol) address. IP addresses of computers used to visit this site are noted. In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
+  * Information from Other Sources: We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
 
 
+**2\. How Do We Use Your Information?**
 
-  
-**Email Information**
+  * Customized Shopping: We use your information to better serve you by providing a customized shopping experience. As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
+  * We employ other companies and individuals to perform functions on our behalf: Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * Special Offers: We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers. In addition, we may also send you special offers from other companies. Again, you may “opt-out”. If we send you offers from other businesses, we do not share your personal information with them. The offers come directly through us. Please see the “opt-in/opt-out” selection at the end of this policy.
+  * Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.
+  * Law Enforcement: If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-**2\. Web Site Use Information**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+**3\. Your Choice: Opt-in or Opt-out:**
 
-**How Do We Use the Information That You Provide to Us?**
+It is your choice whether to receive emails or special offers from us or others. The following section provides you with this choice. Please note the default settings:
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+  * Please send me email or other mail informing me of special offers of your products or services!
+  * Please do not send me email or other mail informing me of special offers of your products or services!
+  * Please send me email or other mail informing me of special offers of related products or services from other companies!
+  * Please do not send me email or other mail informing me of special offers of related products or services from other companies!
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-**What Are Cookies?**
+**4\. Children:**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
 
-**How Do We Use Information We Collect from Cookies?  
-**  
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+**5\. Other Websites:**
 
-**IP Addresses  
-**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
+Various Websites may be linked to or from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
 
-**Sharing and Selling Information**
+**6\. Contact Us:**
 
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may [contact us](http://www.toponlineguides.com/contact) for assistance at our Support Desk.
 
-**How Can You Access and Correct Your Information?**
+No portion of this website can be copied without written permission from the author.
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
-
-**What About Legally Compelled Disclosure of Information?**
-
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
-
-**What About Other Web Sites Linked to Our Web Site?**
-
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
-
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
-
-**Your Consent**
-
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
-
-**Our Commitment To Data Security:**
-
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**Choice/Opt-In/Opt-Out**
-
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
-
-**Surveys & Contests**
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-**A Special Note About Children**
-
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
-
-**Acquisition or Changes in Ownership**
-
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
-
-**Policy Modifications**
-
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
-
-Sincerely,
-
-Hooshmand Moslemi, The Owner & Author Of TopOnlineGuides.com
+**OfferShowcase.com Team**
