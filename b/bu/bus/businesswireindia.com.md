@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesswireindia.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209092739id_/https%3A//businesswireindia.com/web-content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesswireindia.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821004511id_/https%3A//businesswireindia.com/web-content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Business Wire India
 
