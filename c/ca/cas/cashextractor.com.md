@@ -1,113 +1,195 @@
-> *The following text is extracted and transformed from the cashextractor.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417052803id_/http%3A//www.firestartersystemsllc.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashextractor.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820223825id_/http%3A//www.firestartersystemsllc.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Firestarter Systems
+# 
 
-**Firestarter Systems, LLC**
+**PRIVACY POLICY** ** **
 
-**PRIVACY POLICY**
+**Last Updated May 25, 2018**
 
-**\-- IMPORTANT -- PLEASE READ**
+We are committed to keeping your personal information private.  Please review this Privacy Policy, our Cookie Policy, our End User Licensing Agreement (“EULA”) (if applicable), and our Terms and Conditions (“T&Cs”), and any other rules or policies posted to the Site which also govern your visit and use of the website [www.traffic-zombie](http://www.automatedads.com/)[.com](http://www.automatedads.com/)(the “Site”). This Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by us anytime you interact with Site, such as when you visit our Site, when you register an Account, download our Software, subscribe to our Services or when you contact our support services. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is processed and stored and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
-**LAST UPDATED: 12/11**
+Please read this Privacy Policy carefully before registering an account on the Site ("Account"), downloading our Software or using the various Services we provide, as defined below, so that you are aware of your legal rights and obligations with respect to the Site or Firestarter Systems, LLC. and any of its affiliates, parents and subsidiaries (individually and collectively, "we," "us," “our” or "FSS").
 
-This Privacy Policy (“Privacy Policy”) describes the commitment to your privacy on the part of Firestarter Systems, LLC (referred to collectively as “Firestarter Systems,” “we” and “us”). 
+Access to the Site is void and unauthorized where prohibited by applicable law or regulation.  
 
-**PERSONS OR PARTIES COVERED**
+**BY USING THE SITE OR USING OUR SERVICES, YOU (I) SIGNIFY YOUR IRREVOCABLE ACCEPTANCE OF THIS PRIVACY POLICY; AND (II) REPRESENT THAT** **YOU ARE AT LEAST 18 YEARS OF AGE AND ARE FULLY ABLE AND COMPETENT TO ENTER INTO THE TERMS, CONDITIONS, OBLIGATIONS, AFFIRMATIONS, REPRESENTATIONS, AND WARRANTIES SET FORTH IN THIS PRIVACY POLICY, AND TO ABIDE BY AND COMPLY WITH THIS PRIVACY POLICY. IN ANY CASE, YOU AFFIRM THAT YOU ARE OVER THE AGE OF 13, AS THE SITE IS NOT INTENDED FOR CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER THE AGE OF 13** **, YOU ARE NOT ALLOWED TO USE OR EVEN ACCESS THE SITE AND/OR THE SERVICES OR TO CREATE AN ACCOUNT.**
 
-This Privacy Policy applies to all visitors to any Firestarter Systems owned website (the “Website”), all subscribers to Firestarter Systems-sponsored lists and/or newsletters (whether paid or unpaid), all members and/or affiliates of memberships or membership sites sponsored by or owned by Firestarter Systems (whether paid or unpaid), all affiliates of any site sponsored or owned by Firestarter Systems (whether paid or unpaid), and all customers that purchase products and/or services via the Website or otherwise from Firestarter Systems. Persons who visit or view the Website, whether intentionally or unintentionally, whether solicited or unsolicited, are referred to herein as "Visitors" and are subject to this Privacy Policy. 
+Further **,** if you do not agree with this Privacy Policy, or any of its terms, please do not provide us with your personally identifiable information (“PII”) for example your full name, email address, mailing address, telephone number, or credit card number or any other personal information capable of being associated with you individually through one or more identifiers. 
 
-Subscribers to Firestarter Systems-sponsored lists and/or newsletters are referred to herein as "Subscribers" and are subject to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by and through the Website, or otherwise by Firestarter Systems are referred to herein as "Members" and are subject to this Privacy Policy. Individuals that order, attempt to order or receive products and/or services that are sold, advertised on or delivered from the Website, or otherwise by Firestarter Systems, even at no cost, are referred to herein as "Customers" and are subject to this Privacy Policy. 
+Our business changes constantly, and our T&Cs, any rules posted on the Site, as well as this Privacy Policy may change too.  You should check the Site frequently to see if there are recent changes.  FSS reserves the right to revise this Privacy Policy at any time. Your continued use of the Site shall be deemed an irrevocable acceptance of any such revisions. 
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: Support@goldwares.com. Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law. 
+Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. **  **The above sentence notwithstanding, this Privacy Policy only applies to information collected by FSS. 
 
-**MINORS**
+1)  **Description of the Site.** The Site provides its Users with access to information, resources, and, in some cases, the means of making a purchases of goods and/or services such as licensing Software and any associated Services. All activities and capabilities offered by or through the Site, Software and Services shall individually and collectively be referred to as “Services”.
 
-We do not knowingly collect information from individuals under eighteen (18) years of age, or persons who are otherwise covered by the provisions of the Children’s Online Privacy Protection Act of 1998, as amended (“COPPA”). No information should be submitted to, or posted at, the Website by individuals under eighteen (18) years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
+  * “Users” shall be defined as any visitor, Member or other user of the Site, Software or its Services
+  * Users may, where and if available, submit text, information, links, emails, videos, images, text, comments or other content to the Site (together, “Submission(s)”).
 
-**VIEWING, USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY**
 
-Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the Website. If you do not accept the terms of this Privacy Policy in their entirety, you have no right to visit the Website. 
 
-**ABOUT THE PERSONAL INFORMATION Firestarter Systems COLLECTS AND HOW IT IS USED**
+2)  **What information does the Site collect?**
 
-Firestarter Systems routinely collects information about Visitors, Subscribers, Members and Customers. This information is obtained in various ways, such as: 
+**Visitor Activity.   **Visitors to the Site may choose to browse, search and examine any publicly available information on the Site without registering with the Site or setting up an Account.  When you visit our Site as a non-registered visitor, we collect only information you provide or submit to the Site directly, information you send to us by email, information and messages you send or post through our accounts on third party social networks (such as Facebook, YouTube or Twitter), comments you post or messages you send through any service we may provide. The foregoing statement notwithstanding, our servers may recognize and collect non-registered visitors’ domain names, IP addresses and any information on pages visited.
 
-**VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER INFORMATION OBTAINED FROM REGISTRATION**
+**Account Activity**. In order to have access to certain services and features available on the Site, Users may be required to register and setup an Account.  We may ask for and collect some PII when you create an Account. When registering an Account with the Site, you agree to provide accurate, current and complete information about yourself ("Registration Data") as prompted by our registration form. Registration Data may include, but is not limited to, first and last name, phone number, address and e-mail address. After you setup an Account, we also collect a variety of information and PII depending on the services and features you use, including but not limited to your mobile phone number.
 
-For purposes of this Privacy Policy, “Registration” means that the Visitor, Subscriber, Member or Customer, as applicable, takes active, positive steps to communicate information to Firestarter Systems. This can include, without limitation, where the individual: (a) registers for a newsletter or subscribe to a mailing list; (b) participates in Visitor surveys; (c) participates in promotions, contests and/or sweepstakes offered by Firestarter Systems; (d) requests information from Firestarter Systems via an online form, email, mail or courier; (e) joins, or attempts to join, an affiliate program or other membership organization sponsored by Firestarter Systems; and/or (f) orders a product through the Website or otherwise from Firestarter Systems. 
+**Content Uploaded to the Site.   ** Any PII or Submission that you voluntarily disclose on the Site is collected by us.  This may include any information you submit as part of your Account profile as well as Submissions you make through our Software and Services. In addition, some information (for example, PII contained in your public or blog comments, messages or profile pages, if any) may become publicly available and can then be collected, viewed and used by third parties.
 
-The information that you must supply in connection with Registration (as further described below) may include, without limitation, some or all of the following: (i) your full name; (ii) company name; (iii) e-mail address; (iv) mailing address (and billing address if different); (v) home telephone number; (vi) work telephone number; (vii) telecopier number; (viii) credit card information; and/or (ix) any other information requested on the applicable Registration form. 
+**Usage Information.   **We may collect information about your usage of the Site, such as when you use the Site, the Submissions you make, the Services you use, the frequency and size of data transfers, as well as information you display or click on in the Site.  If you are logged in we may associate this information with your Account. 
 
-**VISITOR EMAIL INQUIRIES**
+**Software and Service Tools.** We collect information you submit while using our Software and Services. FSS may now or in the future collect and retain the result of any Services, tasks, tools or features you use.
 
-Website Visitors that wish to communicate with Firestarter Systems do so under the following conditions: (a) they give their permission to be contacted by Firestarter Systems; and (b) they are subject to any ‘submission’ provisions contained in the Firestarter Systems Terms of Use, 
+**Financial Information:** Usage of our Software and Services may require the payment of periodic (such as monthly or annual) fees. Such Service fees are processed through a third party payment processor. Please be aware that unless you specifically opt-out our servers or the third party payment processor servers collect and retain your credit card information.
 
-Firestarter Systems Purchase Agreement and/or this Privacy Policy. The email address that you use in connection with your inquiry shall be added to the Firestarter Systems database. 
+**Surveys & Newsletters.**  We may now or in the future send or run surveys or provide newsletters to our Users. At such time we may request certain PII such as name, email address and demographic information (such as mailing address).
 
-**CUSTOMER EMAIL OR TESTIMONIALS**
+**Click-Through URLs.** In some of our emails we may use a “click-through URL” linked to content on the Site. When Users click one of these URLs, they pass through our web server before arriving at the destination web page. We may track this click-through data to help us determine interest in particular topics and measure the effectiveness of our communications.
 
-If you are a Customer and you send an email to Firestarter Systems, or if you communicate with Firestarter Systems by phone or U.S. mail, Firestarter Systems shall collect information about your communication and by communicating with Firestarter Systems, you give your permission for Firestarter Systems to collect, archive, retrieve and otherwise use any information collected as Firestarter Systems sees fit. 
+3)   **How do we use the information you provide us?** We use PII such as your contact information to provide you with the various Services and features and to potentially serve you with advertising while on the Site. All information that you submit to us is governed by this Privacy Policy, the T&Cs and any other rules. 
 
-Any communication which, in its sole discretion, Firestarter Systems deems to be a testimonial, may be publicized for commercial purposes. 
+    * We may use the mobile phone number you provide to send text or SMS/MMS messages and notification to you for both system administration and operation as well as marketing purposes.
+    * We may share, sell or license your PII information (excluding financial information) to other marketers.
+    * We may share information collected including your PII with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card, e-mail origination, support services, customer relationship management services and order fulfillment.
+    * We may share information submitted including your PII with third party tools and websites enabled through the Services. For example, in order to submit articles to third party websites, the Software or Services, may submit the login information you directly provided.
+    * Unless you opt-out, we may use your e-mail or other PII to send commercial or marketing messages without your further consent.  Be advised that we use your e-mail address and other contact information provided by you to contact you regarding your Submissions.  We may also use your e-mail address without further consent for non-marketing or administrative purposes (such as notifying you of major Site or Service changes or customer service purposes). 
+    * You may opt-out at any time by changing your preferences, editing your profile online or unsubscribing to our emails.
+    * We use both your PII and certain non-PII (such as anonymous user data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of the Site, Software and Services and to create new features, promotions, functionality and services by storing, tracking, analyzing and processing User preferences and trends, as well as User activity and communications. 
+    * We use information collected during submission of Surveys and signups for Newsletters to send both the information as requested and additional information about our company, Site, Software or Services. Further, the information collected, including any demographics, is used to learn more about the types of people who visit our Site and improve our services.
 
-**INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
 
-Unless otherwise specified in the survey, you must assume that any information provided to Firestarter Systems as part of a survey in which you participate may be used as set forth herein below. 
 
-**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND COOKIES**
+If any financial information is collected it will be used only to bill you for Services or features you’ve requested.  If you used a credit card to pay for any Service, your credit card information may be subject to verification by the issuing credit card company or other third party company.  Unless you give us permission at the time such information is collected, this information will not be used for any purpose except for the fulfillment and record keeping of current and future transactions.
 
-We may collect certain non-personally identifiable information about you when you visit many of the sections of the Website. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Netscape, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). We use the non-personally identifiable information that we collect to improve the design and content of the Website and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Website usage, as well as to offer you products and services. We also reserve the right to use aggregate or group data about our Visitors for any and all lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of our visitors as a group. By visiting and/or supplying your personal information at the Website, you agree to allow us to provide such aggregate data to third parties. 
+Our Services connect with and rely on various third party websites and tools unrelated to FSS. In an attempt to provide increased value to our Users, we may also choose various third party web Sites, such as Google, Yahoo and Bing, to link to, connect with or frame within the Site. We also may participate in co-branding and other relationships to offer other services and features to our Users. We have no control over these linked Sites and third party services, each of which has separate privacy and data collection practices independent of us.  We encourage you to read the policies of these third party websites. By engaging with third party websites, services and tools through our Site, Software and Services, you consent to our providing your PII to those third parties. Data collected by our co-brand partners or third party websites (even if offered on or through our Site) may not be received by us. As such, we have no responsibility or liability for the independent policies or actions of third parties, and are not responsible for the privacy practices or the content of any such website or services. These linked sites, services and tools are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of the services and the links placed upon each of them and therefore request any feedback.
 
-"Cookies" is web jargon for bits of computer code placed on your hard drive. The Website uses cookies to keep you 'logged in,' to keep track of search criteria, to monitor use, to password protect use of the Website and/or to track use of products and/or services sold by and through the Website. Even in the case where a Visitor rejects a cookie, they may still use our Website. The only drawback to this is that the Visitor may be limited in what he/she can access in some areas on our Website. Cookies can also be used to obtain information about your computer configuration or your use of your computer. To find out more about cookies, including how to disable and/or remove cookies, please visit www.cookiecentral.com. 
+Further, any linking with any other website is neither an endorsement of that website nor any of the products or services that may be offered on that website. ** **
 
-**Do-Not-Track.** The Site does not currently respond to browser “do not track” signals or other similar mechanisms."
+**Note:**   Your PII or financial information may be passed on to a third party in the event of a transfer of ownership or assets of FSS or a bankruptcy. We may also disclose PII or financial information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of FSS or other Users of the Site or Services.  Whenever PII or financial information is disclosed under this paragraph, we may also disclose your demographic information on a non-anonymous basis.
 
-**HOW YOUR INFORMATION MAY BE USED**
+4)   **How does FSS Protect Users Personal Information?   **We implement a variety of security measures to ensure the security of your PII on our systems.  When you enter sensitive financial information, such as credit card numbers, we encrypt that information using secure socket layer technology (SSL). Please be aware that emails or other messages you send to us are not necessarily secure against interception and you should not include sensitive information in those messages. We generally will not ask for your credit or debit card number, password or other sensitive information in an email and you should assume that if you get such a request, it might be fraudulent.
 
-The personal information that you submit to us remains your property, but by submitting such information to us you grant us the right, subject to applicable state and federal law, to use the personal information (other than credit card information) for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all personal information with/to any third-party for any and all uses permitted by this Privacy Policy and applicable law. These third parties may include, but shall not be limited to: (a) providers of direct marketing services and applications, including 
+Except for SSL transmissions, the Site is not encrypted. Access to your Account profile is restricted by your password.
 
-lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); (d) SMS text-based marketers (where permitted by applicable law); and (e) direct marketers. We may also use your personal information for any promotion-related purpose, and/or marketing and survey purpose, on our own behalf and on behalf of our affiliates and subsidiaries. We may disclose personal information to third-party agents and independent contractors that help us create and/or operate any promotions, surveys or other offerings. You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website and any and all offerings made available therein, or otherwise by Firestarter Systems. 
+  
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, therefore, while we strive to use commercially acceptable means to protect your PII, we cannot guarantee its absolute security.  
 
-We are able to offer our products and services to you, in part, based on your willingness to be reached by our third-party advertisers. Your personal information (other than credit card information) will be shared with advertisers on an aggregate and non-aggregate basis. We also use contact information from your personal information to send you information about us, our products and services and to contact you about your billing account status. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our third-party advertisers. If you wish to stop receiving future communications from us and/or third party advertisers, or if you wish to prevent the transfer and/or sale of your personal information to third parties (subject to restrictions contained in applicable state and federal law), please see the Opt-Out/Unsubscribe section below. 
+Third parties may unlawfully attempt to intercept or access transmissions or private communications and other Users may abuse or misuse your personal information that they collect from the Site.  Although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-You agree that by submitting your personal information to Firestarter Systems, you agree to receive e-mail marketing from Firestarter Systems and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the “ATSR”). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the terms of the ATSR. 
+ 5)  **Individuals under 13 years of age.**
 
-In addition, by submitting your personal information to Firestarter Systems, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law. 
+Pursuant to the provisions of the 1998 Federal Children’s Online Privacy Protection Act (“COPPA”), our policy is to refuse individuals under 13 years of age access to the Site.  We therefore do not knowingly collect personal information from individuals under 13 years of age. 
 
-We reserve the right to release current or past personal information: (a) in the event that we believe that the Website, and any products, services or other offerings is/are being or has/have been used in violation of this Privacy Policy, the Firestarter Systems Terms of Use, Firestarter Systems Purchase Agreement, or to commit unlawful acts; (b) if the information is subpoenaed; or (c) if any entity comprising Firestarter Systems is sold or acquired. Moreover, you hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. Visitors should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personally identifiable information to be shared or transferred to third parties without permission. 
+6)  **Does FSS Use Cookies?** We use "cookies" (small pieces of data we store for an extended period of time on your computer, mobile phone, or other device) to make the Site and Services easier to use, to improve our advertising, and to protect both you, the Site and the Services. We also use cookies to record Users' preferences, record session information, customize Site and Service content and alert Users to new items of interest. We may store your email address or login ID to recognize you every time you return to the Site.  You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies.  If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see  
 
-We may also supplement the information we collect with information from other sources to assist us in evaluating and improving the Website, our products and/or services, and to determine your preferences so that we can tailor the Website and our products and/or services to your needs. 
+7)  **How do you change PII provided or OPT-OUT?   **FSS gives our registered Users an option for modifying or removing some of the information that we have about them from our database. To update, modify or delete some of the information that we have on file for you, you may edit your online Account profile, if you have one.  We will comply with your requests as reasonably as we can. Please note that we require some PII for billing purposes. If you wish to delete certain PII required for Account maintenance such as your name, e-mail address or billing information, you may be required to terminate your Account.  However, please note, that while you may remove some of your PII from the Site at any time, you acknowledge that we may retain archived or cached copies of your PII. The above notwithstanding, not all PII monitored, stored, tracked or submitted to us is controllable by you through your Account profile and may not be removed from the Site or our Services.  You may unsubscribe (opt-out) from any email list simply by clicking the unsubscribe link contained in every marketing message sent.
 
-**CREDIT CARD INFORMATION**
+8)   **How Long Do We Keep your Information?** Except as otherwise provided, User’s PII is maintained by us no longer than necessary for the purposes set out and in accordance with our legal obligations and legitimate business interests.  When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorized use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.  In some circumstances we may anonymize your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-Notwithstanding the foregoing, we will not use your credit card information for any marketing purposes, or transfer same to any third party, other than as set forth in this paragraph. Firestarter Systems may: (a) transfer your credit card information to third party sellers where necessary to effectuate the purchase of products and/or services that you requested on the Website or otherwise from Firestarter Systems; (b) disclose your credit card information pursuant to a court order, litigation and/or fraud investigation; and (c) share with third parties the fact that we have credit card information on file for specific individuals. 
+9)  **By visiting and using the Site, Software and Services,** you consent to the collection and use of information by us as set forth in this Privacy Policy.  If we decide to change our Privacy Policy, we will post those changes within this page so Users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-**INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS OR WEBSITE ADVERTISERS**
+Be sure to review our Privacy Policy, T&Cs and any rules regularly so that you will be aware of any changes to them.  Please remember that your continued use of this Site, and/or maintenance of an Account after changes or revisions have been made constitute your acceptance of such updates. 
 
-The Website may contain third party provided banners, pop-ups, hyperlinked advertising and links to other third-party owned and/or operated websites. Firestarter Systems is not responsible for the privacy practices associated with such third party advertisers and/or websites. In some cases, you may be required to provide certain information to register or complete a transaction via such advertisers and/or at such websites. These third-party websites and advertisers have separate privacy and data collection practices and Firestarter Systems has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of such advertisers and/or websites. These third party entities are independent third parties and are not affiliated with us. 
+10)  If you have any questions about the Privacy Policy of the Site, please contact us at:
 
-**OPT-OUT/UNSUBSCRIBE**
+Firestarter Systems, LLC.  
+3591 Richie Rd.  
+Verona, WI 53593
 
-When you submit personally identifiable information to us at the Website, you have opted-in to the sharing of your personal information with third parties to receive marketing communications. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out of having your information shared with third parties, please notify us by email at support@secureorderarea.com. To stop receiving future e-mail communications from Firestarter Systems, please notify us by email at support@secureorderarea.com. Firestarter Systems may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all Firestarter Systems e-mail lists, please notify us by email at support@secureorderarea.com. 
+[Privacy@FirestarterSystemsLLC.com](mailto:Privacy@FirestarterSystemsLLC.com)
 
-**DATA SECURITY**
+11)  This Section 11 only applies if you are a citizen of the European Union (EU):
 
-All collected information is stored in a technically and physically secure environment. When our registration/application process asks users to enter sensitive information (such as credit card number), and when we store and transmit such sensitive information, it is encrypted and protected with SSL encryption software. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect sensitive information and other personal information off-line. Unfortunately, no data transmission over the Internet, or otherwise, can be guaranteed to be 100% secure. As a result, while we strive to protect your sensitive information and other personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk. 
+WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT
 
-Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Access to this personal information is strictly limited, and not accessible to the public. All of our users’ personal information, not just sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personal information. Our employees are dedicated to ensuring the security and privacy of all Firestarter Systems user personal information. Employees not adhering to our written firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
+Personal data means any information capable of identifying an individual. It does not include anonymized data.
 
-**CONTACT US**
+We may process the following categories of personal data about you:
 
-If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: 
+  * Communication Data that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defense of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
 
-Support@firestartersystems.com 
 
-Firestarter Systems, LLC 
+  * Customer Data that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
 
-3591 Richie Rd. 
 
-Verona, WI 53593 
+  * User Data that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back-ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
 
-**REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
-We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
+  * Technical Data that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+
+
+  * Marketing Data that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free giveaways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+
+
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook advertisements or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
+
+
+  * Sensitive Data - We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
+  * Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
+  * We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary.  In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+  * We may process your personal data without your knowledge or consent where this is required or permitted by law.
+  * We do not carry out automated decision making or any type of automated profiling.
+
+
+
+MARKETING COMMUNICATIONS
+
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).
+
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
+
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or OR by emailing us at [Privacy@FirestarterSystemsLLC.com](mailto:Privacy@FirestarterSystemsLLC.com) at any time.
+
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
+
+DISCLOSURES OF YOUR PERSONAL DATA 
+
+We may have to share your personal data with the parties set out below:
+
+  * Other companies in our group who provide services to us.
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers
+  * Government bodies that require us to report processing activities.
+  * Fraud prevention agencies.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+
+
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+INTERNATIONAL TRANSFERS
+
+We share your personal data within our group of companies which involves transferring your data outside the European Economic Area (EEA).
+
+We are subject to the provisions of the General Data Protection Regulations that protect your personal data. Where we transfer your data to third parties outside of the EEA, we will ensure that certain safeguards are in place to ensure a similar degree of security for your personal data. As such:
+
+  * We may transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+  * If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place; or
+  * Where we use certain service providers who are established outside of the EEA, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+DATA SECURITY 
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorization. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+YOUR LEGAL RIGHTS
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+You can see more about these rights at:
+
+https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/
+
+If you wish to exercise any of the rights set out above, please email us at [Privacy@FirestarterSystemsLLC.com](mailto:Privacy@FirestarterSystemsLLC.com).
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
