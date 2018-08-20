@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerrenegade.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503130758id_/http%3A//careerrenegade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerrenegade.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820225821id_/https%3A//careerrenegade.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Career Renegade
 
