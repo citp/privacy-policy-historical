@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401021740id_/https%3A//www.surveypolice.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821000522id_/https%3A//www.surveypolice.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SurveyPolice
 
-**LAST UPDATED: November 15, 2016**
+**LAST UPDATED: May 14, 2018**
 
 ##  1\. Your Privacy
 
@@ -32,13 +32,13 @@ Affility may collect, store and use personal data such as name, email address, n
 
 ## 2.1.4. Other Purposes
 
-Additionally, Affility may collect, store, and use personal data such as name, username and email address to solicit Users’ feedback to help improve the Service and other Affility products, inform Users about new products or promotional material offered by Affility or its trusted third party business partners and affiliates, notify Users about changes to the Service or other products, provide Users with advertising and marketing material from Affility and its trusted business partners and communicate with Users for other commonly accepted purposes such as notifying them that they are a potential winner of a contest. 
+Additionally, Affility may collect, store, and use personal data such as name, username and email address to solicit Users’ feedback to help improve the Service and other Affility products, inform Users about new products or promotional material offered by Affility or its trusted third party business partners and affiliates, to detect fraud and abuses of the Service, notify Users about changes to the Service or other products, provide Users with advertising and marketing material from Affility and its trusted business partners and communicate with Users for other commonly accepted purposes such as notifying them that they are a potential winner of a contest. 
 
 Finally, Affility may collect and use personal data as required or permitted by applicable law. 
 
 ## 2.1.5. Mobile Devices
 
-If Users access the Service on mobile and tablet devices, Affility may collect mobile device identifiers, including MAC Address and IP Address, and Affility may assign to your device an identifier that is similar to an account number. Affility may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, character name, geo-location or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Service. 
+If Users access the Service on mobile and tablet devices, Affility may collect mobile device identifiers, including MAC Address and IP Address, and Affility may assign to your device an identifier that is similar to an account number. Affility may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, character name, geo-location or e-mail address. 
 
 ## 2.1.6. Data Storage
 
@@ -70,7 +70,7 @@ Affility may use and disclose to its affiliated companies, contractors or other 
 
 Affility may use “cookies” and other technologies such as pixel tags, locally shared objects, clear GIFs and web beacons. Affility treats information collected by cookies and similar technologies as non-personal data. 
 
-A “cookie” is a small bit of record-keeping information that is sent to the Users’ computer. Affility’s cookies do not include personal data and may be used to: (1) facilitate Users’ login authentication, (2) help Users navigate around the Affility’s websites, (3) monitor how many people are using the Service, and (4) store Users preferences and track trends. 
+A “cookie” is a small bit of record-keeping information that is sent to the Users’ computer. Affility’s cookies do not include personal data and may be used to: (1) facilitate Users’ login authentication, (2) help Users navigate around the Affility’s websites, (3) monitor how many people are using the Service, (4) store Users preferences and track trends, and (5) detect fraud and abuses of the Service. 
 
 Most browsers are initially set up to accept cookies, but you can disable cookies or set your browser to indicate when a cookie is being sent. However, disabling cookies may affect your ability to use the Service. 
 
@@ -148,7 +148,7 @@ Affility will use commercially reasonable efforts to honor your request. Affilit
 
 ##  7\. Retention of Personal Data
 
-Affility stores personal data collected pursuant to this Privacy Policy only as long as is reasonably required to fulfil the purposes for which it was collected or as required or authorized by law. 
+Affility stores personal data collected pursuant to this Privacy Policy only as long as is reasonably required to fulfill the purposes for which it was collected or as required or authorized by law. 
 
 Affility may still retain some of the data to the extent such retention is necessary to resolve disputes, enforce Affility’s user agreements, and comply with technical and legal requirements and constraints related to the security, integrity and operation of the Service. 
 
