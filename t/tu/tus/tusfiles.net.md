@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tusfiles.net privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802063134id_/https%3A//tusfiles.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusfiles.net privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820075047id_/https%3A//tusfiles.com/privacy) for the most accurate reproduction.*
 
 # TusFiles | Free File Storage
 
