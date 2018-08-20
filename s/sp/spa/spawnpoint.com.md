@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spawnpoint.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319221158id_/http%3A//spawnpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spawnpoint.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820080520id_/https%3A//spawnpoint.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy – SPAWNPOINT
+# SPAWNPOINT – Where gaming begins
+
+## Privacy Policy
 
 KNETIK, INC operates the www.spawnpoint.com website, which provides the SERVICE.
 
@@ -50,4 +52,4 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to [contact us](http://spawnpoint.com/#contact).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to [contact us]().
