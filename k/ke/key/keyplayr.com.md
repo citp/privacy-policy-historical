@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyplayr.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216180243id_/http%3A//www.keyplayr.com/1-privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyplayr.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820133230id_/http%3A//www.keyplayr.com/1-privacypolicy.htm) for the most accurate reproduction.*
 
 # KEYDOWNLOAD - Privacy Policy
 
