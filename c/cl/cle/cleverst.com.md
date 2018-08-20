@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverst.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621152949id_/http%3A//www.cleverst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverst.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820103622id_/http%3A//cleverst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleverst
 
@@ -118,4 +118,4 @@ We reserve the right to change this policy at any time, so visit this page frequ
 
 This Privacy Policy, its interpretation, and any claims and disputes related hereto, shall be governed by the laws of the State of Israel, without respect to its criminal law principles. Any and all such claims and disputes shall be brought in, and you hereby consent to them being litigated in and decided exclusively by a court of competent jurisdiction located in Tel Aviv, Israel.
 
-If you have any questions or comments concerning the Privacy Policy laid out, please feel free to email us at: info@smartadline.com and we will reply within a reasonable timeframe.
+If you have any questions or comments concerning the Privacy Policy laid out, please feel free to email us at: cleverstmedia@gmail.com and we will reply within a reasonable timeframe.
