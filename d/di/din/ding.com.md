@@ -1,199 +1,212 @@
-> *The following text is extracted and transformed from the ding.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406130711id_/https%3A//www.ding.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ding.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820140153id_/https%3A//www.ding.com/privacy-statement) for the most accurate reproduction.*
 
-# Ding Privacy and Cookies Statement – ding.com
+# Ding Privacy notice
 
-## Privacy and Cookies Statement
+We recognise that protecting personal information is very important to you and that you have an interest in how we collect, use, store and share such information. We always respect our customers’ privacy and personal information and we take this matter very seriously. We have worked very hard to earn our customers’ trust and keeping it is our top priority. That’s why we comply with the obligations that are laid out under data protection laws. 
 
-### About us
+This privacy notice sets out how we, as a data controller, will use and protect your information. We will use your personal information only for the purposes and in the manner set out in this privacy notice. We recommend that you read this privacy notice carefully. 
 
-[www.ezetop.com](http://www.ezetop.com/), [www.ding.com](http://www.ding.com/) and associated ezetop and Ding mobile applications (each the “ **Website** ”) are operated by, and the Top-up and Cheap Calls services (“ **Services** ”) are provided by, ezetop Unlimited Company (“ **ezetop** ”, “ **we** ” or “ **us** ”). We are registered in Ireland with registered number 422514 and we have our registered office at 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland. Our VAT number is 9576713i. Ding is a registered business name of ezetop.
+**Please note: you have the right to object to the processing of your personal data where that processing is carried out for our legitimate interests or for direct marketing purposes.**
 
-ezetop Online Services LLC is a wholly owned subsidiary of _ezetop_. All correspondence in relation to any _ezetop_ company should be sent to 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland. 
+**1.** **About us**
 
-### What is _ezetop_ ’s Privacy and Cookies statement?
+[www.ding.com](http://www.ding.com/) and its subsidiary sites (including [www.ezetop.com](http://www.ezetop.com/) and [www.recargasacuba.com](http://www.recargasacuba.com/)) ____ and any associated Ding mobile applications, present or future, (each the “ **Applications** ”) are operated by, and the top-up services (and any other services available on the Applications from time to time) (“ **Services** ”) are provided by, Ezetop Unlimited Company t/a Ding (“ **Ding** ”, “ **we** ” or “ **us** ”). We are registered in Ireland with registered number 422514 and we have our registered office at 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, D04C2Y6, Ireland. Our VAT number is 9576713i. Ding is a registered business name of Ezetop Unlimited Company. 
 
-At _ezetop_ , we always respect our customers’ privacy and personal information and we take this matter very seriously. We have worked very hard to earn our members’ trust and keeping it is our top priority. That’s why we comply with the obligations that are laid out under data protection laws. We want you to know our Privacy and Cookies Statement so that you can know exactly how we use any personal data that you provide us with. This Privacy and Cookies Statement will apply to your Personal Data collected through the Website. We recommend that you read the Privacy and Cookies Statement carefully. Please note that by visiting and clicking “Create Account” when registering on the Website, you are accepting the terms of this Privacy and Cookies Statement.
+All correspondence in relation to any Ding company should be sent to 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, D04C2Y6, Ireland. 
 
-Capitalised terms not defined here shall have the meaning given to them in the [terms and conditions](https://web.archive.org/terms-conditions).
+**2.** **How can you get in contact with Ding?**
 
-### What about other websites linked on this Website?
+If you have any questions about this privacy notice or any other queries or complaints, our customer care team is here to help – please contact us using one of the following options: 
 
- _ezetop_ is a unique company because we have partnerships with a variety of different mobile network operators around the world. We will frequently post links to some of our partners’ websites however, please note that ezetop is not responsible for the content or the privacy policies of these other websites.
+Email us: [customercare@ding.com](mailto:customercare@ding.com)
 
-## Data Collected
+Live chat: [https://support.ding.com](https://support.ding.com/)
 
-### What data does ezetop collect?
+**3.** **Scope of Ding’s privacy notice?**
 
-There are two types of data that we collect:
+Personal data is information that identifies a person or can be used to identify a person. For us to provide our Services to you, we need to collect and process personal data about you. Without this information, we may not be able to provide our Services to you. 
 
-" **Personal Data** ” – This is information that identifies you or can be used to identify you. We may collect and process the following Personal Data about you: 
+This privacy notice will apply to personal data about you collected by us through the Applications or otherwise. It also applies to any third parties whose personal data you provide to us in respect of which we are a data controller. You acknowledge that you have informed any such third party that their personal data may be collected and processed by Ding and made them aware of this privacy notice. 
 
-    * Your name;
-    * Your email address;
-    * Your billing address;
-    * Your credit or debit card details (however, we only retain certain digits);
-    * Your telephone number;
-    * Your IP address;
-    * Other information you provide by filling in forms on the Website. This includes information you provide at the time of registering on the Website;
-    * We may also ask for information if you report a problem with the Website;
-    * If you contact us we may keep a record of that correspondence;
-    * Details of the Top-up transactions you carry out on, and your visits to, the Website;
-    * Details of the Cheap Calls Credit you purchase through, and your visits to the Website.
+Any changes to Ding’s privacy notice will be posted clearly on our Applications. 
 
+**4.** **What data does Ding collect?**
 
+We may collect and process the following information about you: 
 
-We also collect and process the receive mobile telephone number that you provide to us. This is necessary to facilitate the sending of Top-up to that number.
+  * **_Contact Details_** : name; email address; telephone number; passport or national identification details (in limited circumstances); social media ID; 
+  * **_Payment Details_** _:_ cardholder name; credit or debit card details (however, we only retain certain parts); chargeback information; billing address (in limited circumstances); Paypal ID; 
+  * **_Transaction Details_** _:_ top-up transaction amount and currency; 
+  * **_Electronic Identifying Details_** _:_ IP address; SMS content; cookies; activity logs (e.g. user session recordings); online identifiers; device identifiers (e.g. the mobile device and/or the internet browser that you use) and geolocation data; 
+  * **_Correspondence and complaints_** _:_ any correspondence that you choose to send to Ding (including complaints); any information you provide to our customer care team; any information you publish about Ding (including on the app stores); 
+  * **_Transaction History_** : details of the top-up transactions you carry out on, and your visits to, the Applications. 
 
- **"Non-Personal Data”** \- Like most other websites, ezetop gathers statistical and analytical information. This is what we call Non-Personal Data. Unlike Personal Data, this information cannot be used to identify or contact you. Examples of Non-Personal Data include browser types and other anonymous statistical data involving the use of the Website.
 
-### How does ezetop collect this Non-Personal Data?
 
-At ezetop we are always looking to improve the Website and Services and help our customers as much as possible, and collecting this data is an important way of achieving this. We want to get a better understanding of where our customers come from, what they like and what improvements they want from ezetop. We are always looking to develop, grow and innovate. This data is a crucial part of the process.
+If you choose to grant the mobile applications access to contact information through your device, we may collect this information, including names, telephone numbers, email addresses and social media identifiers. We use this information to help us deliver the Services to your contacts in the most efficient manner and for the other purposes listed below. 
 
-## Use of Your Personal Data
+For more information on the cookies we use, please see our [Cookie Policy.](https://web.archive.org/cookie-policy)
 
-### How do we use your Personal Data?
+**5.** **How does Ding collect your personal data?** ****
 
-We may use this Personal Data for the following:
+You provide us with your personal data when you register for, or use our Services. We may also collect personal data about you from third parties (e.g. in the event of chargebacks or through third party direct marketing services). We also collect information about you through your use of our Applications, your visits to our Applications and details of the transactions you carry out on our Applications. When you visit our Applications, your device and/or browser may automatically disclose certain information (such as device type, operating system, browser type, browser settings, IP address, language settings, dates and times of connection to an Application or other technical communications information), some of which may constitute personal data. 
 
-  * To help you send the Top-up that you have requested and to process any payment connected with that Top-up request;
-  * To provide you with Cheap Calls Credit and to process any payment connected with that request;
-  * To contact you if it's required in relation to the Top-up that you have sent, Cheap Calls Credit you have purchased or to reply to any communications that you might have sent us;
-  * To provide you with information on products or services that might interest you;
-  * To notify you about any changes to the Website or Services;
-  * To ensure that content on the Website is presented in the most effective manner for you and your computer;
-  * To provide you with customer care;
-  * For marketing analysis; and
-  * For security and fraud prevention purposes.
+**6.** **Why do we process your personal data and what is our legal basis for doing so?** ****
 
+**Reason for processing personal data** |  **Legal Basis for processing your personal data**  
+---|---  
+  
+To help you purchase the Services that you have requested and to process any payment connected with that Services request 
 
+| 
 
-## Cookies
+The use is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering a contract ****  
+  
+To deliver the Services that you have requested to the recipient of the Services 
 
-### What is a Cookie?
+| 
 
-A cookie is a small text file of letters and numbers that is stored by the browser on your computer when you visit certain websites. A cookie allows a website to distinguish your computer from other users’ computers. 
+The use is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering a contract ****  
+  
+To contact you if it's required in relation to the Services that you have sent or to reply to any communications that you might have sent us 
 
-### Do Cookies hold my Personal Data?
+| 
 
-Generally speaking, cookies do not contain Personal Data unless you have already given this information to the Website.
+The use is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering a contract   
+  
+To provide you with information on products or services that might interest you 
 
-### What Type of Cookies Do the Websites Use and For What Purposes?
+| 
 
-[Click here](https://web.archive.org/cookies/) to view the first and third party cookies which are used on [www.ezetop.com](http://www.ezetop.com/) and [www.ding.com](http://www.ding.com/). ezetop may add cookies to, or delete cookies from, this table to reflect the cookies being used on the websites at a point in time.
+The use is necessary for the purpose of our legitimate interests   
+  
+To notify you about any changes to the Applications or Services 
 
-As detailed in the table, the websites use cookies which fall into the following categories:
+| 
 
- **Strictly Necessary Cookies**
+The use is necessary for the purpose of our legitimate interests   
+  
+To ensure that content on the Applications is presented in the most effective manner for you and your device 
 
-These allow you to remain logged in for the duration of your visit to the websites and enable you to take actions without having to login again.
+| 
 
- **Functional Cookies**
+The use is necessary for the purpose of our legitimate interests ****  
+  
+To provide you with customer care 
 
-These allow the websites to remember certain details about the choices you make (e.g. the language with which you are browsing the websites) to provide you with a better experience of using the websites.
+| 
 
- **Analytical Cookies**
+The use is necessary for the purpose of our legitimate interests   
+  
+For marketing analysis 
 
-These allow us to recognize and count the number of visitors to the websites. They also allow us to calculate how long you spend on the websites and to see how you arrived at the websites. They help _ezetop_ to improve the way the websites work.
+| 
 
-### What Type of Cookies Do the Mobile Applications Use?
+The use is necessary for the purpose of our legitimate interests   
+  
+For security and fraud prevention purposes 
 
- _The ezetop and Ding mobile applications do not use cookies. The apps do retrieve an advertising number from your device which is stored securely in the app itself - t_ _his number is used to identify how a user initially found the app (e.g. through which advertising campaign) and for app analysis purposes via third party analytics services._
+| 
 
-### Can I block or delete Cookies?
+The use is necessary for compliance with our legal obligations   
+  
+To help improve our Applications and our Services 
 
-Yes you can if that is what you choose to do. Note that this may make it less convenient for you to use our websites.
+| 
 
-### How to disable Cookies?
+The use is necessary for the purpose of our legitimate interests __  
+  
+We will also process personal data as is necessary to comply with any of our legal obligations. We will inform you in advance if we intend to further process your personal data for a purpose other than as set out above. We will also seek your specific consent to the processing of personal data for other specific purposes. You will have the right to withdraw such consent at any time. 
 
-[Click here](http://www.aboutcookies.org/) for information on how to disable cookies from some of the more popular web browsers.
+**7.** **Do we carry out any automated processing of your personal data?**
 
-## Third Parties
+We use automated statistical analysis of the personal data we collect about you in order to comply with our legal obligations to detect and prevent fraud, dishonesty and other crimes. We may use automated processing to screen for suspicious transactions, or to identify transactions that may be subject to international sanctions. 
 
- 
+When we make solely automated decisions that affect you in a legal or a significant way, you have the right to provide your point of view and have those decisions reviewed by a member of our staff. **__**
 
-### Does _ezetop_ give Personal Data to third parties?
+**8.** **What happens if you do not provide us with your personal data?**
 
-We will never disclose your Personal Data to any third party unless you have agreed to this or unless the third party is required to process the Personal Data in connection with Top-up or Cheap Calls service you have requested.
+If you do not provide us with your personal data or object to the use of certain personal data, we may not be able to provide the Services to you. We will tell you when we ask for information which is a contractual requirement or needed to comply with our legal obligations. 
 
-Your credit or debit card details are processed by a world leading provider of online payments processing which stores the card details if you request so that you do not need to enter them each time you visit the Website.
+**9.** **Who do we disclose your personal data to?**
 
-When you use the _ezetop_ Top-up service, we disclose the receive mobile telephone number to the relevant mobile operator (which may be located in a country outside of the EEA) in order to facilitate the sending of Top-up to that number.
+We currently share your personal data, where necessary, with the following recipients: 
 
-When you use the _ezetop_ Cheap Calls service, your Personal Data is disclosed to ezetop’s platform service provider (located in the U.S.) in order to facilitate your international long distance call. The following information is processed by the platform service provider:
+  * you and, where you request, any third party you ask us to share it with; 
+  * mobile operators (directly or via third parties); 
+  * anti-fraud service providers; 
+  * governmental, legal, regulatory, or similar authorities, on request or where required, including for the purposes of reporting any actual or suspected breach of applicable law or regulation; 
+  * third party payment processors; 
+  * direct marketing service providers; 
+  * data analytics service providers (e.g. Google Analytics); 
+  * third party service providers used for the delivery of some aspects of the Services (e.g. SMS delivery, email delivery, web notifications, app notifications and phone number lookup); 
+  * hosting infrastructure companies based in the EEA; 
+  * potential purchasers or bidders. 
 
-  * Date and time of the international long distance call;
-  * Telephone number making the call;
-  * Access number used;
-  * The region and telephone number called;
-  * Duration of the call;
-  * Customer Account balance before and after the call;
-  * Information provided in course of customer care;
 
 
+Our Applications may, interface with third party services that you have previously interacted with (e.g. Facebook and Google), or contain links to third party content (e.g. mobile operator content). Please note that Ding is not responsible for such services or content, or the privacy policies associated with those services or content. We recommend that you review any third party’s privacy policy before accessing such services or content. 
 
-We may disclose your Personal Data if we are required to comply with any applicable law, a summons, a warrant, a court or regulatory order, or other statutory requirement.
+**10.** **Does Ding transfer your personal data outside the EEA?**
 
- 
+Ding may be required to transfer your personal data outside the EEA for the purposes of providing the Services. To ensure that your personal data receives an adequate level of protection and is treated securely, we have put the appropriate safeguards in place to protect the privacy and integrity of such personal data when being transferred outside the EEA (e.g. EU-approved standard contractual clauses / U.S. Privacy Shield / binding corporate rules). 
 
-### Does _ezetop_ give Non-Personal Data to third parties?
+**11.** **What if Ding is bought by another company?**
 
-We may provide Non-Personal Data to third parties (for example mobile operators) regarding the number of unique users who visit our Website, the demographic breakdown of users of our Website, or the activities of users on our Website.
+We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company. The third party must only use your personal data for the purposes that you provided it to us in the first place and as set out in this privacy notice. You will be notified in the event of any such transfer. 
 
-### What can people learn from this Non-Personal Data?
+**12.** **Data Security**
 
-There are a lot of useful things to be learned from this information. For example, it can help potential advertisers, providers of advertising services, commercial partners, sponsors, licensees, researchers and other similar parties.
+We have implemented appropriate technical and organisational security measures designed to protect your personal data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with data protection laws. 
 
-### What if _ezetop_ is bought by another company?
+You are responsible for ensuring that any personal data that is sent to us is sent securely. 
 
-We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company. The third party must only use your Personal Data for the purposes that you provided it to us in the first place. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
+**13.** **How long do we keep your personal data?**
 
-### Can anything go wrong with the information sent?
+We will keep your personal data only for so long as is necessary to carry out the purposes set out above and to comply with any legal obligations. The criteria for determining the duration for which we retain your personal data are whether it is necessary: 
 
-As you will know, the nature of the internet is such that we cannot guarantee the security of the information that you send to us. This isn’t unique to _ezetop_ though because no data that is sent over the internet can be guaranteed to be 100% secure. Any company that tells you otherwise is talking nonsense. We do however take every step reasonably possible to protect your Personal Data.
+  * to maintain an ongoing relationship with you (e.g. to provide our Services to you or where you are lawfully included in our direct marketing lists and have not unsubscribed); 
+  * in connection with the lawful purposes set out in this policy, or where we have a valid legal basis; or 
+  * to comply with any applicable limitation period under applicable law, and a reasonable amount thereafter. 
 
- 
 
-## Direct Marketing
 
- 
+Once the periods above have concluded, we will either: 
 
-### Will _ezetop_ use my Personal Data for direct marketing purposes?
+  * permanently delete or destroy the relevant personal data; 
+  * archive your personal data so that it is beyond use; or 
+  * anonymise the relevant personal data. 
 
-Where you have consented, we may use your Personal Data to send you information by SMS or email relating to our products and services which may be of interest to you or similar products and services to those you have previously purchased from _ezetop_.
 
- _ezetop_ does not sell or share your Personal Data or CPNI data with subsidiary companies or third parties for marketing or profit purposes.
 
- 
+**14.** **Where does Ding hold your personal data?**
 
-### Can I opt-out/unsubscribe?
+Your personal data is held by us on secure servers which are hosted by Ding or by a third party hosting infrastructure company located within the EEA. 
 
-You will be provided with an opportunity to opt-out at the point of registration. You can also opt-out at any time, free of charge, by using the unsubscribe facility in the SMS or email that _ezetop_ sends to you or by sending an email to [customercare@ding.com](mailto:customercare@Ding.com)
+**15.** **Your Rights**
 
-## Other Questions
+You have a right to obtain a copy of, and the right to rectify any inaccuracies in, the personal data we hold about you by making a request to us in writing. You also have the right to request erasure, restriction, portability, or object to the processing, of your personal data or not to be subject to a decision based on automated processing, including profiling. You should inform us of any changes to your personal data. Any requests made under this section can be made using the contact details set out below. We will respond to your request in writing, or orally if requested, as soon as practicable and in any event not more than one month after receipt of your request. You have the right to lodge a complaint with the Office of the Data Protection Commission if unhappy with how your personal data is being handled by us. Their contact details are as follows: 
 
-### Where is my Personal Data held?
+Data Protection Commission, Canal House , Station Road , Portarlington , County Laois. 
 
-Your Personal Data is held on our secure servers which are hosted by a third party service provider in Ireland.
+Telephone: +353 (0)761 104 8000 
 
-### Can I update, correct or erase my Personal Data?
+Telephone: +353 (0)57 868 4800 
 
-Of course you can. Please tell us about any changes or inaccuracies in your Personal Data and we will update, correct or erase your Personal Data as requested. There is no charge for this and we will comply with your request as soon as practicable and in any event within not more than 40 days of receipt of your request.
+LoCall Number: 1890 252 231 
 
-Please contact us at [customercare@ding.com](mailto:customercare@Ding.com) or at _ezetop_ , 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland.
+Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
 
-### Can I access my Personal Data?
+If we are relying on your consent to allow us to process your information, you can withdraw your consent at any time. From that point on we would no longer be able to carry out the processing we were carrying out with your consent. Any processing we carried out before you withdrew your consent would remain valid. We do not generally rely on consent for processing personal data. 
 
-You may also request copies of your Personal Data held by us. We will provide you with a copy of the Personal Data held by us as soon as practicable and in any event within not more than 40 days of your request in writing. There may be a small charge for this (not exceeding €6.35) and we may also request proof of identification to verify your access request.
+Please contact us at [customercare@ding.com](mailto:customercare@Ding.com) or at Ding, 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, D04C2Y6, Ireland to exercise any of your rights under this section. 
 
-Please contact us at [customercare@ding.com](mailto:customercare@Ding.com) or at _ezetop_ , 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland.
+**16\. Will Ding use your personal data for direct marketing purposes?**
 
-### Can _ezetop_ change its Privacy and Cookies Statement?
+Where we have your consent to do so, we will use your personal data to send you information by SMS, email or app notifications relating to our products and services which may be of interest to you or similar products and services to those you have previously purchased from Ding. 
 
-Any changes to _ezetop_ 's Privacy and Cookies Statement will be posted clearly on our Website. We do this because we always want our customers to know exactly what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we ever decide to use Personal Data in a manner that is different from what has previously been stated then we will notify you by email. You will have a choice as to whether or not we can use your information in this new manner.
+**17\. Can you opt-out/unsubscribe from direct marketing?**
 
-### How can I get in contact with _ezetop_?
+You will be provided with an opportunity to opt-in at the point of registration. You can also opt-out at any time, free of charge, by: (i) for SMS and email, by using the unsubscribe facility in the SMS or email that Ding sends to you; (ii) for push notifications, by following the steps in the guide available at **** [support.ding.com](https://support.ding.com/hc/en-us); or (iii) by sending an email to [customercare@ding.com](mailto:customercare@Ding.com). 
 
-If you have any questions about your Personal Data, this Privacy and Cookies Statement or any complaints then please email us at [customercare@ding.com](mailto:customercare@Ding.com) or else you can call +353 1 630 6300 and ask to speak to someone in customer care.
-
-© _Ezetop Unlimited Company t/a Ding_ 2016
+Ding does not sell or share your personal data with subsidiary companies or third parties for marketing or profit purposes. 
