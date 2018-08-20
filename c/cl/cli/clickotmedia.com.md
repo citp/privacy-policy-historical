@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickotmedia.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609231239id_/http%3A//www.clickotmedia.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickotmedia.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820093806id_/http%3A//clickotmedia.com%3Fact%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy policy | Pubzooka
+# Clickotmedia | Free Videos Portal
 
   1. **Introduction**
 
@@ -201,5 +201,3 @@ _You must retain the above credit, unless you purchase a licence to use this doc
 (c)      in Chrome (version 41), you can delete all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Clear browsing data”, and then selecting “Cookies and other site and plug-in data” before clicking “Clear browsing data”.
 
 13.11  Deleting cookies will have a negative impact on the usability of many websites.
-
-[Contact us](https://web.archive.org/index.php/contact-us/)
