@@ -1,39 +1,52 @@
-> *The following text is extracted and transformed from the us.jobs privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012095737id_/http%3A//us.jobs/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us.jobs privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820191404id_/https%3A//find.jobs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | US.jobs
+# Privacy Policy | Find.jobs
 
-Personal Information
+Employ Media, LLC ("EM") recognizes that visitors and users this website (the "Website") value their privacy. This Privacy Policy details important information regarding the use and disclosure of information about our users collected on the Website. This Privacy Policy is incorporated into and is subject to the [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions) applicable to the Website. By using this Website, you consent to all terms contained in this Privacy Policy.
 
-There are several opportunities on our web site for you to provide us with personal information about you and your interests, such as name, mailing address and e-mail address. If you choose to share any personal information with us, we may store it and use it for internal marketing research and other marketing purposes. We will not sell or in any way distribute your personal information to other companies.
+### 1\. The Information EM Collects
 
-Resume Database
+User Provided Information: You may provide certain personally identifiable information (such as your resume/CV, your name, email address, payment information, contact information and other information required to create and manage your account) to EM when choosing to participate in various services or activities on the Website. You may also provide additional content while participating in various services or activities on the Website.  
+Cookies Information: When you visit the Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. EM may also use session cookies. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Website may not function properly if the ability to accept cookies is disabled. Please note that this information applies to the use of cookies by EM and does not cover the use of cookies or other tracking technology by any third parties.  
+Log File Information: When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-US.jobs provides a resume database for the convenience of job seekers and member companies as well as non-member companies and individuals who are charged a nominal fee to access the resumes. Neither US.jobs nor any other career site on the Internet can assure you that the information on your resume will not be collected and shared with others. US.jobs has a standard "[Terms and Conditions of Service](https://web.archive.org/web/20171012095737id_/http%3A//us.jobs/terms.asp "US.jobs Terms and Conditions of Service")" policy which governs the use of information, including resumes, obtained from the US.jobs site. Be aware that such "terms and conditions of use", although valid and enforceable, do not protect your resume from being collected and distributed in a manner you may not desire.
+### 2\. The Way EM Uses Information
 
-Non-Personal Information
+If you submit personally identifiable information or other user-provided information to us through the Website, then we may use such information to operate, maintain, and provide to you the features and functionality of the Website, including, when applicable, sending you information.  
+Any information or content that you voluntarily disclose for public posting to the Website may become available to the public and may be accessed, used and stored by others around the world. Accordingly, you should not post sensitive personal information or any other information that you would not want made public. You should never provide your social security number, national insurance number, financial information, passport number, and other sensitive information.  
+We may use cookies and log file information to: (a) monitor the effectiveness of our marketing campaigns; and (b) monitor aggregate metrics such as total number of visitors, pages viewed, etc.
 
-Sometimes, we may collect non-personal information about you that is anonymous data. The information we receive is for US.jobs’s use only and is not disclosed to any other party except in aggregate form. Examples of this information include the length and time of your visit, the pages you looked at on our site, the type of Internet Browser you have and the site you visited just before coming to ours. We use this information to develop ideas for improving our site and to measure site activity.
+### 3\. When EM Discloses Information
 
-Cookies
+We may release information we collect, including personally identifiable information and other user-provided information, if required to do so by law, or in the good faith belief that such action is necessary to comply with state and federal laws or respond to a court order, subpoena, or search warrant.  
+We also reserve the right to disclose information we collect, including personally identifiable information and other user-provided information, that we believe, in good faith, is appropriate or necessary to enforce our [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions); take precautions against liability; investigate and defend EM against any third party claims or allegations; assist government enforcement agencies; protect the security or integrity of our Website; and protect the rights, property, or personal safety of EM, our users or others.  
+We may also disclose the information we collect, including personally identifiable information and other user-provided information, with any EM subsidiaries or affiliates, vendors, sponsors, promoters, advertisers or other selected third party providers of services. We may also authorize third party vendors to collect such information on EM’s behalf. We will disclose such information to third parties to fulfill the purpose for which you provided it, such as sending your resume to prospective employers or forwarding your contact information to social connects. 
 
-Our web site makes use of 'cookie' files to customize information to your personal tastes. A cookie is an element of data that a web site can send to your Browser, which may store some information on your computer. Then, when you come back to our site, we can tailor information to suit your individual preferences. The goal is to save you time and provide you with a more meaningful visit. Most Internet Browsers will allow you to erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your Browser instruction.
+### 4\. Special Note to International Users
 
-Surveys
+The Website is hosted in the United States and is intended for and directed to users in the United States. If you are accessing the Website from any country outside the U.S., please be advised that through your continued use of the Website, which is governed by U.S. law, this Privacy Policy, and our [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions), you are transferring your personal information to the United States and you consent to that transfer.
 
-We request your input to evaluate potential features and services for US.jobs. The decision to be involved is completely yours. Also, we might e-mail you a survey, but your involvement is completely voluntary. We do not employ special tools or try to find any e-mail addresses that are not provided to us by you.
+### 5\. Service Providers
 
-Site Links 
+We use a credit card processing company to bill users for services. Credit card information that you or authorized persons provide when you make any payment by credit card via this Website will only be used to process the transaction(s) you request. The credit card processing company will not otherwise retain, share, or store any credit card information provided during payment. If you would like to know more about privacy policies of our credit card processing company, you may e-mail us at [legal@find.jobs](mailto:legal@find.jobs).
 
-US.jobs may establish relationships with reputable business partners that allow visitors to our site to link directly to sites operated by these partners. We choose our business partners carefully. However, US.jobs is not responsible for the content or privacy practices of third party web sites that may be linked to this site. These links are meant for the user's convenience only and do not constitute sponsorship, endorsement or approval by US.jobs of the content, policies or practices of such sites nor any products or services which may be offered through that site. Once you have left the US.jobs site via such a link, you should check the applicable privacy policy of the third party site.
+### 6\. Security
 
-The [NACElink](http://www.nacelink.com/ "NACElink") web site is owned and operated by the National Association of Colleges and Employers (NACE). NACE is committed to maintaining the privacy of personal information of the people who use NACElink. Since NACElink collects certain types of information about its users, you should fully understand the terms and conditions surrounding the capture and use of that information. NACElink's [privacy policy](http://www.nacelink.com/nl_privacy_policy.asp "NACElink's privacy policy") discloses what information is collected, how it is used, and how to correct and change it. NACE provides a link to this privacy policy on all pages on NACElink.com that ask for your personal information.
+EM uses industry standard efforts to make sure all information received from online visitors is secure from unauthorized access and use. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place the appropriate physical, electronic, and managerial procedures to safeguard and secure the information collected.  
+You should keep in mind, however, that no data transmission over the Internet is 100% secure and any information disclosed online can potentially be collected and used by parties other than the intended recipient.
 
-Children
+### 7\. Opt-Out Policy
 
-US.jobs has no intention of collecting any personal information from individuals under 18 years of age. If a child has provided us with personal information without the consent of a parent or guardian, a parent or guardian should contact us at: [info@us.jobs](mailto:info@us.jobs "email info@us.jobs"), if they would like us to delete this information from our files.
+If you do not wish to receive EM's promotional communications that are sent via e-mail, you will always have the opportunity to "unsubscribe" from receiving such communications.
 
-Contact Information
+### 8\. Links to Third-Party Websites
 
-US.jobs is a wholly owned and operated service of [DirectEmployers Association](http://www.directemployers.org/ "DirectEmployers Association Official Site"). If you have questions, comments, or need additional information about US.jobs's privacy policy or practices, please contact us at: [info@us.jobs](mailto:info@us.jobs "email info@us.jobs"). You may also call US.jobs at 1-866-268-6206, or send U.S. mail to: US.jobs, 9002 N. Purdue Road, Suite 100, Indianapolis, IN 46268.
+This Website may contain advertising or other links to third-party websites. EM does not control these third-party websites or their information collection practices. EM will not be responsible for the activities of these third parties. We encourage you to be aware of when you leave the Website and to read the privacy statements of any third-party website.
 
-NACElink is a wholly owned and operated service of the [ National Association of Colleges and Employers (NACE)](http://www.naceweb.org/ "NACEweb website"). If you have questions, comments, or need additional information about NACE or NACElink privacy policies or practices, please contact NACE at: [privacy@nacelink.com](mailto:privacy@nacelink.com "email NACElink"). You may also call NACE at 1-800-544-5272, or send U.S. mail to: National Association of Colleges and Employers, 62 Highland Avenue, Bethlehem, PA 18017-9085.
+### 9\. Changes and Updates to this Privacy Policy
+
+EM may change or amend this Privacy Policy at any time. Any change or amendment will be effective immediately upon posting to this Website. Please revisit this page to stay aware of any changes or amendments to this Privacy Policy.
+
+### 10\. Contact Information
+
+If you have any questions regarding this Privacy Policy, you can contact EM at: [legal@find.jobs](mailto:legal@find.jobs).
