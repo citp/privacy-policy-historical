@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119150026id_/https%3A//www.amplify.com/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820223026id_/https%3A//www.amplify.com/site-privacy) for the most accurate reproduction.*
 
 # Privacy | Amplify
 
