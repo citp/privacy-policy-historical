@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519014621id_/http%3A//www.hushhush.com/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820232318id_/http%3A//www.hushhush.com/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Hush Hush Daily Deals
 
-This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number 06327961 and having its registered office at Huxley House, Weyside Park, Catteshall Lane, Godalming, GU7 1XE ("we", "us", "our"). Our website is www.HushHush.com (the "Site").
+This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number 06327961 and having its registered office at 3000 Cathedral Hill, Guildford, GU2 7YB ("we", "us", "our"). Our website is www.HushHush.com (the "Site").
 
 By accessing the Site and/or by submitting personal data manually or in electronic form to us in connection with the Site you give your consent that all personal data that you submit will be processed by us in the manner and for the purposes described below. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it
 
-If you have any questions at all about this policy or the Site or about how we use and process your personal information, please do not hesitate to contact us by e-mail at info@markcomedia.co.uk or, alternatively, in writing to www.HushHush.com Huxley House, Weyside Park, Catteshall Lane, Godalming, GU7 1XE.
+If you have any questions at all about this policy or the Site or about how we use and process your personal information, please do not hesitate to contact us by e-mail at info@markcomedia.co.uk or, alternatively, in writing to www.HushHush.com 3000 Cathedral Hill, Guildford, GU2 7YB.
 
 ## 1\. Information Collection and Use
 
@@ -101,7 +101,7 @@ If you have any questions at all about this policy or the Site or about how we u
 
 3\. For more details about your rights under the Act, the rules we have to adhere to in collecting and storing your information, and how you can check your data records, please visit www.dataprotection.gov.uk.
 
-4\. You have a right to receive a copy of the information we hold about you by sending your request in writing, together with an administration fee of £10, to us at www.HushHush.com Huxley House, Weyside Park, Catteshall Lane, Godalming, GU7 1XE.
+4\. You have a right to receive a copy of the information we hold about you by sending your request in writing, together with an administration fee of £10, to us at www.HushHush.com 3000 Cathedral Hill, Guildford, GU2 7YB.
 
   
 
@@ -117,7 +117,7 @@ If you have any questions at all about this policy or the Site or about how we u
 
 ## 13\. Contact
 
-1\. If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please do not hesitate to contact us by e-mail atinfo@markcomedia.co.uk or, alternatively, in writing to www.HushHush.com Huxley House, Weyside Park, Catteshall Lane, Godalming, GU7 1XE.
+1\. If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please do not hesitate to contact us by e-mail atinfo@markcomedia.co.uk or, alternatively, in writing to www.HushHush.com 3000 Cathedral Hill, Guildford, GU2 7YB.
 
   
 
