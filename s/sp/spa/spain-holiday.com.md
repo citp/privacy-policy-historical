@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517151412id_/http%3A//www.spain-holiday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820052158id_/https%3A//www.spain-holiday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Spain-holiday.com
 
@@ -50,64 +50,24 @@ Spain-Holiday uses the following types of cookies:
 
 
 
-Spain-Holiday uses the following cookies:
+Spain-Holiday uses the following owned and third-party cookies:
 
-ASP.NET_SessionId
-
-CookieRef
-
-SHAdminLoginCookie
-
-SHApplicationCookie
-
-__qca
-
-__ssid
-
-__stripe_mid
-
-__utma
-
-__utma
-
-__utmc
-
-__utmc
-
-__utmv
-
-__utmz
-
-__utmz
-
-_ga
-
-_ga
-
-ajs_anonymous_id
-
-ajs_group_id
-
-ajs_user_id
-
-currentLanguage
-
-firstPageSeen
-
-intercom-id-yupbv94r
-
-intercom-lou-je5td1qt
-
-isSHAdmin
-
-newsletterPopShownThisVisit
-
-tms_VisitorID
-
-#### **Use of third-party cookies**
-
-Spain-Holiday uses third-party analytical/performance and tracking cookies.
-
+ASP.NET_SessionId, .AspNet.TwoFactorRememberBrowser |  Security |  Used to maintain an anonymised user session by the server. |  Spain-Holiday.com  
+---|---|---|---  
+SHAdminLoginCookie, SHApplicationCookie |  Authentication |  Used for our login system so the user does not have log login every time. |  Spain-Holiday.com  
+SHC_AdWords_AccountCampaign |  Advertising |  Used for collect information regarding our campaigns. |  Spain-Holiday.com  
+__qca |  Advertising |  They provide website rankings, and the data they collect is also used for audience segmentation and advertising. |  Quantcast  
+__ssid |  Site features |  Ensures that Google can collect user information for Google Maps and videos hosted by YouTube. |  Google  
+__stripe_mid, __stripe_sid |  Security/Authentication |  Generated session cookie for recognising a user. |  Stripe  
+__utma, __utmc, __utmv, __utmz, _ga |  Analytics |  Used for Google Analytics. |  Google  
+cookiePolicyAccepted |  Site features |  Used to check if the user accepted our cookie policy. |  Spain-Holiday.com  
+currentLanguage |  Site features |  Used to keep track of the current language selected on our page. |  Spain-Holiday.com  
+firstPageSeen |  Site features |  Used to get the first page visited. |  Spain-Holiday.com  
+intercom-* |  Site features / Support |  Used for our live support chat to remember the user and the conversations. |  Intercom  
+newsletterPopShownThisVisit |  Site features |  Used to not show the newsletter popup if the user has already seen it. |  Spain-Holiday.com  
+shortlistId |  Site features |  Used to save our short list (List of Holiday homes the user has marked as interesting) |  Spain-Holiday.com  
+tms_VisitorID |  Fresh Relevance |  Stores a unique id for the device. This is used to keep track of your shopping, to send/show you offers that relate to the products viewed, so you can be contacted by email if you seem to be having problems, or to help us improve the Website. |  Spain-Holiday.com  
+  
 #### **Access to cookie data by third parties**
 
 Only Spain-Holiday has access to Spain-Holiday cookies.
@@ -118,4 +78,46 @@ The cookies used by Spain-Holiday may have different lifespans. The maximum life
 
 #### **Removal of cookies**
 
-Spain-Holiday cookies can be removed from the user’s browser.
+#### **Instructions For Managing Cookies Internet Explorer 7, 8, and 9**
+
+Click on the Tools menu, and then select Internet Options.
+
+Click on the Privacy tab.
+
+Move the slider to choose your preferred settings.
+
+For more specialised cookie settings, click on Sites or Advanced.
+
+For instructions on deleting cookies in Internet Explorer, click [here](https://support.microsoft.com/en-gb/help/278835/how-to-delete-cookie-files-in-internet-explorer)
+
+#### **Google Chrome**
+
+Click on the Chrome menu, and then select Settings.
+
+Click Show advanced settings.
+
+Click on Content settings to choose your preferred settings.
+
+For instructions on deleting cookies in Chrome, click [here](https://support.google.com/chrome/answer/95647?hl=en-GB&hlrm=en&topic=14666&ctx=topic).
+
+#### **Mozilla Firefox**
+
+Click on the Firefox button (or Tools menu), and then select Options. For Mac OS X users, click on the Firefox menu, and then select Preferences.
+
+Click on the Privacy panel to choose your preferred settings.
+
+For more specialised cookie settings, set Firefox will: to Use custom settings for history.
+
+For instructions on deleting cookies in Firefox, click [here](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored).
+
+#### **Safari 5.1 and later**
+
+Click on the Safari menu, and then select Preferences.
+
+Click on the Privacy tab to display cookie settings.
+
+Choose your preferred settings.
+
+For more specialised cookie settings, click on Details.
+
+For instructions on deleting cookies in Safari, click [here](https://support.apple.com/kb/PH5049?locale=es_ES). 
