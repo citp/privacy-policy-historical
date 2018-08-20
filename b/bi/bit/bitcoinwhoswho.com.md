@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitcoinwhoswho.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217173629id_/http%3A//bitcoinwhoswho.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinwhoswho.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820162944id_/https%3A//bitcoinwhoswho.com/privacypolicy) for the most accurate reproduction.*
 
-# Bitcoin Address Lookup Checker and Alerts - BitcoinWhosWho
+# Bitcoin Address Lookup, Checker and Alerts - BitcoinWhosWho
 
 We care about your privacy so we put together this privacy policy.  
 This Policy is incorporated to and considered a part of our Terms of Use.
