@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eshghohal.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114220330id_/http%3A//eshghohal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshghohal.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820053728id_/https%3A//eshghohal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – eshghohal.com
 
@@ -39,3 +39,11 @@ We will always let you have a copy of personal information we have about you, sh
 **7\. Questions?**
 
 If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact  _us  [here](http://eshghohal.com/contact-us)._ We will endeavor to respond to you promptly.
+
+<div style=”display:none;”>  
+<a href=”http://www.omywigs.com/lace-front-wigs/glueless-silk-top-lace-front-wigs.html”>Silk Top Lace Wigs</a>  
+<a href=”http://www.omywigs.com/lace-front-wigs/deep-part-lace-front-wigs.html”>Deep Part Lace Front Wigs</a>  
+<a href=”http://www.omywigs.com/lace-front-wigs/deep-part-lace-front-wigs.html”>Deep Side Part Human Hair Front Lace Wigs</a>  
+<a href=”http://www.omywigs.com/celebrity-lace-wigs.html”>Celebrity Lace Wigs</a>  
+<a href=”http://www.omywigs.com/celebrity-lace-wigs.html”>Celebrity Style Wigs</a>  
+</div>
