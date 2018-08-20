@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relationblips.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429131000id_/http%3A//relationblips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationblips.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820134020id_/http%3A//relationblips.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Relation Blips
 
