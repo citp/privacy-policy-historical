@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vidxclusive.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609144600id_/http%3A//www.vidxclusive.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidxclusive.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820195719id_/https%3A//vidxclusive.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-###  Privacy Policy
 
 **Introduction**  
 Vidxclusive takes the private nature of your personal information very seriously.  
@@ -45,4 +43,4 @@ Any external address book data (email contacts, etc.) that a user voluntarily gi
 Although most changes are likely to be minor, Vidxclusive may change its privacy policy from time to time, and in Vidxclusive’s sole discretion. Vidxclusive encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
 
 **Contact Us**  
-If you have any questions about this privacy policy or our sites in general, please contact us. geektapes@yandex.com 
+If you have any questions about this privacy policy or our sites in general, please contact us. info@vidxclusive.com 
