@@ -1,121 +1,71 @@
-> *The following text is extracted and transformed from the askiyogi.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828130356id_/http%3A//www.askiyogi.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askiyogi.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820124433id_/http%3A//www.askiyogi.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Ask iYogi
+# Privacy Policy
 
-“This privacy policy explains how iYogi Inc (“iYogi”) collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the “Services”) in accordance with the Terms of Use (<http://www.iyogi.net/terms.html>). When you submit information through our website, email, chat session, provide it to our technicians or, use the Services, you(the “user”) agree to our use of this information consistent with this privacy policy.
+###  Privacy Policy 
 
-**HOW IYOGI COLLECTS INFORMATION**
+Privacy Policy This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of Askiyogi by the company and its affiliates.   
+Askiyogi is committed to abiding by this customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.   
+By your continued use of our services (including our web sites), you consent to the collection and use of your personal information for the purposes set out in this Customer 
 
-We provide user support services to consumers using web-based tools and software as well as through telephone support of our users. These tools may include software that enables us to remotely access and control a user’s computer with their permission. We require certain information and permissions from you to provide the Services.
+Collection & Use of Personal Information   
+We will generally let you know at the time of collection how we intend to use your personal information. Usually, we collect personal information about you which we require to respond to your enquiries for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available. 
 
-Some information we collect may be provided by the user directly such as when requested by a form or on the phone by a technician. Other technical information might be collected or accessed by or through our diagnostic and related tools as our computers work with yours to provide the Services.
+**Cookies Policy**   
+Your use of our web site indicates your consent to the cookies described in this policy. 
 
-**TYPES OF INFORMATION IYOGI COLLECTS**
+**What are Cookies?**   
+A web cookie, a commonly used data collection technology, is simply a piece of text which can be placed on the browser of your personal computer or mobile device and subsequently read as you visit a web site. A cookie may be a session cookie, that is, a cookie that remains on your browser while you are logged on to a particular web site and then disappears when you close your browser, or it may be a persistent cookie, a cookie that remains on your browser over a period of time. Information from a cookie may be collected and used in aggregate form. Or data may be collected into an individual profile or record. That individual record may either be unique but anonymous, or the profile can be linked with information that identifies you as an individual. You can learn more about cookies, generally, at www.allaboutcookies.org 
 
-Information You Provide
+**How do we use Cookies?**   
+We may use cookies for a number of purposes:  
+. We may use a limited number of cookies essential to particular services you have requested or for security purposes. A few of our sites use a cookie for a shopping cart function when you purchase services or offerings. In particular, if you have registered for a site or use a customer portal we may use a cookie to authenticate the pc or mobile device that you are using.   
+. We allow third parties to set analytics, or performance, cookies to collect and report aggregate information. These cookies provide reporting to us on an aggregate basis and so, do not identify you at all. We use the aggregate reports to understand how our web sites are used and improve their usefulness to our audiences.   
+.A number of cookies also support how our web sites function, identifying your pc or end device on a unique but anonymous basis. These cookies may, for example, remember your language preferences or recognize an individual’s activity within a single session.   
+. If you register for a site, we use a cookie to associate your presence with a specific user name and password or account. We may use a persistent cookie to recognize you automatically each time you return, but only if you ask us to do so. We may also use cookies to populate in advance your login or forms you fill out on the site with information you have already provided. Finally, we may use certain demographic information to enable third party ad servers (see below) to show you ads based on information about you in your business capacity, for example, your title within a company or the size of that company.   
+.Some of our sites may also allow third party ad servers to serve their own cookies to display advertising on our web sites. We do not determine, control or have access to their cookies. In addition, some of the ads they serve may generate their own cookies. We will list all cookies shortly so that you can review their privacy policies for more detail about their practices. 
 
-**PERSONAL INFORMATION:**
+**How you can Control Cookies**   
+The cookies we use are an accepted part of ecommerce and important to your use of our websites. Performance cookies allow us to understand our audiences as a whole and improve how our sites meet your needs and expectations. Many of the functional cookies are basic to how our sites and services work. The cookies we use for registration allow us to conduct our business onsite. Our sites and services, or parts of them, may not work properly without these cookies.   
+Your use of our websites indicates your consent to the cookies we have described in this Policy.   
+​ Should you wish to revoke that consent, or any part of it, at any time you may control cookies and third party ad targeting in the following ways.   
+**Browser Controls**   
+Most modern browsers offer you ways to control or block cookies. These browser controls will usually be found in the “options’ or “preferences” menu. For more help, you may take a look at the “Help” settings or review these website for more details - http://www.askiyogi.com   
+**Third Party Advertising and Targeting**   
+Some of our sites use third party advertising and ad targeting. You can find more information on how to turn off such targeting at http://www.askiyogi.com   
+**This Privacy Policy**   
+If our use of cookies changes, we will post the changes to this policy. Please check frequently as onsite data collection practices and our use of them continue to evolve. To contact us about this policy, When emailing please indicate which of our sites you question relates to.   
+**Third Party**   
+We will only disclose personal information about you internally and to third parties for processing purposes associated with payment processing, the supply of goods and services, for web site administration, or elsewhere when you have consented to such disclosures, or where such disclosures are required or permitted by law. These third parties we contractually bound only to use personal information to perform the services that we hire them to provide. Where you have agreed that we may do so, we may lease or rent your personal information to selected third parties for their postal or telephone marketing use.   
+**Transfer of Data**   
+Third party data processors, advertisers, exhibitors and other such business relationships are required to take adequate technical and organisational safeguards to protect personal information. We also take measures to ensure that personal information transferred by us is adequately protected.   
+Email Capture   
+We may from time to time send updates about this product and other relevant information on products and services. Your email will not be given to 3rd parties. By providing your email address you consent to being contacted by email for direct marketing purposes by Askiyogi   
+**Mobile Phone capture**   
+We may from time to time contact you about this product and other relevant information on our products and services. By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by Support Line Number.   
+**Security of Personal Information**   
+We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised uses, access or modifications. Certain areas of our web sites may be password protected. If you are a user of our web sites and have a password, you can help to preserve your privacy by ensuring that you do not share your password with anyone else.   
+Payments made via our web sites are processed in a secure environment using software provided by third party providers.   
+We take steps to regularly validate the personal information we hold to ensure that the information is accurate and, where necessary, up to date. Information that is no longer required for any valid business purpose, and that we are not required to keep pursuant to any applicable law, will be routinely destroyed by secure means.   
+​ **Making Automated Decisions**   
+We do not ordinarily use personal information for the purposes of automated decision making. However, may do so in order to fulfill compelling obligations imposed by law, in which case we will inform of any such processing and provide you with an opportunity to object.   
+**Access to Personal Information**   
+You may renew and update personal information that we hold about you by contacting us as detailed below. ​ 
 
-We will ask you when we need information that personally identifies you (“personal information”) or allows us to contact you. In order to use the Services, the user must first typically register or provide certain identifying information. For online registration, we ask you to provide contact details (such as First and Last name, E-mail address, Postal address, Personal identifier etc.). iYogi uses this information to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, special offers, and surveys on improving our Services.
-
-**PAYMENT INFORMATION:**
-
-If you register for the Services, iYogi may collect credit card information, and other payment information. Like many companies, iYogi may use third party payment processing, payment gateways transactions to process and verify credit cards on our behalf. iYogi uses payment information to complete your transactions.
-
-_Computer and System Information_
-
-**SUBSCRIBER( USER) COMPUTER INFORMATION:**
-
-We may also ask for information related to your (user) computer to provide the Service. As examples, this information may include:
-
-  * information about the date of purchase of your computer,
-  * type of computer
-  * identification number of your computer
-  * make and model of your computer and/or any computer hardware,
-  * software installed or peripherals attached to it,
-  * condition of the computer,
-  * system and registry data about software installations and hardware configurations, and error tracking files.
-
-
-
-Generally, this information is required to provide personalized technical support to you, and to help us update our support tools and enhance our supported products lists.
-
-**REMOTE ACCESS:**
-
-While requesting support you may request for the problem to be resolved by enabling iYogi technicians to have access to and take control of your computer. iYogi uses software tools which enable you to grant control of your computer to an iYogi technician remotely over the Internet. This allows the iYogi technician to diagnose or correct problems without ever coming to the location of your computer.
-
-iYogi does not use the Remote Access software to access and control your computer without your consent and we request that you remain present when our technicians are doing so.
-
-iYogi technicians are trained in the use of this software and we take steps to limit access to confidential or sensitive information stored on user computer or network, avoid deliberate destruction of information on user computers or networks, and help avoid system problems. iYogi maintains specific internal policy and technical controls to limit how and whether our remote access tools may be used to assist you.
-
-**DIAGNOSTIC TOOL:**
-
-iYogi uses some online diagnostic tolls that may collect a wide variety of useful information about the state of a computer system and your applications. This information is communicated to Yogi using security technologies over the Internet. iYogi analyzes this information to help diagnose and solve end-user problems. The iYogi diagnostic application is not designed to collect sensitive information including information such websites visited, e-mail messages, e-mail addresses sent to, passwords, profiles, etc.
-
-Use of the Remote Access and Diagnostic applications may be subject to the terms and conditions of the respective software license agreements.
-
-**LIVE HELP SESSION RECORDS:**
-
-iYogi reserves the right to monitor and record on-line and off-line sessions between users and iYogi technicians for quality control and service-related purposes. Some uses of this type of information include improving the Service, building a support knowledge base and conducting internal market research. We do not correlate session record data used for these purposes with personal information.
-
-**COOKIES:**
-
-We may use cookies and similar technologies to provide you with more personal service on our website and as you interact with iYogi. Cookies are small pieces of information stored by your browser on your computer’s hard drive or on your device. Cookies help us keep track of the preferences you specify. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you prefer not to store the information for future use. Each browser is different, so please check the help menu of your browser.
-
-**LOG FILES:**
-
-We use IP addresses to analyze trends, administer the website, track user movement, and gather broad demographic information for aggregate use.
-
-**SUPPLEMENTATION OF INFORMATION**
-
-In order to protect iYogi from fraud and otherwise ensure the integrity of our services and manage risk we may supplement personal information we collect with information we may get from others. For example, in connection with determining creditworthiness, we may use your name and other related information to request a credit report as permitted by law.
-
-**SHARING AND INFORMATION DISCLOSURE**
-
-We may share aggregated and de-identified information with our partners. This sharing is usually not linked to any personal information that can identify any individual person, unless specifically required to allow use of specific widgets within the Services.
-
-We may also share, disclose, or transfer your personal information as follows:
-
-  * To iYogi affiliates and subsidiaries to support business operations and sales, marketing, and customer support processes;
-  * To third party service providers and suppliers acting on our behalf to provide products or services to you; and
-  * To other third parties for purposes you have allowed.
+**Printer Issue**  
+Printer installation issue   
+Printer Driver issue   
+Printer connectivity with laptop, computer or phones   
+Wireless printer installation   
+Wired printer installation   
+Technical Support for printer   
+Network printer installation   
 
 
+**CONTACT US**
 
-Additionally, we may also disclose your personal information as we determine reasonably necessary to (a) comply with applicable law, regulations, legal processes, or enforceable governmental requests, (b) respond as necessary to actual or potential lawsuits, or (c) protect the rights and property of iYogi or others.
+4408 E MEADOW DR,PHOENIX, AZ, 85032-9322, United States  
+T: +1-844-445-5759  
+E: info@askiyogi.com 
 
-We reserve the right to retain, use, and disclose aggregate or anonymous information developed from personal information at any time.
-
-If we merge with, or are acquired by another company, or sell all or substantially all of our relevant assets, or file for bankruptcy, we may disclose and transfer personal information with the company or asset. We will seek appropriate protection for personal information disclosed or transferred in such transactions consistent with applicable law.
-
-**INTERNATIONAL USERS**
-
-Because iYogi operates globally, we make information we gather available to our worldwide business units. If you are in the European Economic Area, please note that the personal information you provide will be transferred outside the European Economic Area for use by iYogi and its affiliates and subsidiaries for any of the purposes described in this privacy policy. By using the the iYogi website, using the Services, or otherwise providing us with your personal information, you consent to the transfer and processing of your personal information.
-
-**SECURITY**
-
-We use a variety of security technologies, as well as administrative, managerial, and physical safeguards, to help protect personal information and other data we receive from unauthorized access, use, or disclosure. No data transmissions, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information and technical mistakes are possible. Therefore, we do not ensure or warrant the security of any data or information you transmit to us and you do so at your own risk.
-
-**SURVEYS**
-
-From time-to-time we may request information from users via surveys. Participation in these surveys is completely voluntary and users have a choice whether or not to participate. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Survey information will be used for purposes of monitoring or improving the use and satisfaction of Services.
-
-**CONTESTS**
-
-iYogi may offer contests, sweepstakes or other promotions. These promotions will be governed by applicable rules. Personal information collected through such promotions will be used as described at the time of collection.
-
-**CHILDREN**
-
-Our Services are not intended for use by anyone under the age of 13. Consistent with the Children’s Online Privacy Protection Act, we do not collect or maintain information at our website from or sell products to those we actually know are under the age of 13.
-
-**CORRECTION/UPDATING PERSONAL INFORMATION**
-
-If a user’s personal information changes (such as user zip code), or if a user no longer desires to use the Service. User may correct, update or remove user personal information provided to us through our website.
-
-**NOTIFICATION OF CHANGES**
-
-We reserve the right to change our privacy policy. Please check our website periodically for changes so that you are aware of our latest privacy practices. For changes that are materially less restrictive or protective of your personal information than the privacy policy in place at the time of collection, we will notify before implementing any such change.
-
-**QUESTIONS**
-
-If you have any questions about our privacy policy you may email questions or inquiries to [feedback@iyogi.net](mailto://feedback@iyogi.net) or [cpo@iyogi.com](mailto://cpo@iyogi.com)
+Copyright © 2018, AskIyogi and/or its affiliates. All rights reserved. 
