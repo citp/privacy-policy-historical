@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mouseflow.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624035637id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mouseflow.com privacy policy that was archived on 2018-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180820214932id_/https%3A//mouseflow.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -25,7 +25,7 @@
         <link href="https://cdn.mouseflow.net/static/css/formValidation.min.css" rel="stylesheet" type="text/css" media="all">
         <link href="//fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600" rel="stylesheet" type="text/css">
         
-        <link href="https://cdn.mouseflow.net/static/css/custom.css?6" rel="stylesheet" type="text/css" media="all">
+        <link href="https://cdn.mouseflow.net/static/css/custom.css?9" rel="stylesheet" type="text/css" media="all">
         <link rel="shortcut icon" href="https://cdn.mouseflow.net/static/img/favicon.ico">
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TGBLDV"></script><script type="text/javascript">
           var _mfq = _mfq || [];
@@ -269,18 +269,18 @@ Uerdinger Straße 62
                                 <ul class="recent-posts">
                                     
                                         <li>
-                                            <a href="/blog/2018/05/inside-the-flow-episode-one-adam-hempenstall-better-proposals/">Launching a brand new podcast: Inside the Flow EP1, feat. Adam Hempsenstall of Better Proposals </a>
-                                            <span class="date">May 15, 2018</span>
+                                            <a href="/blog/2018/08/introducing-friction-score-on-recordings/">Introducing Friction Score on Recordings!</a>
+                                            <span class="date">August 09, 2018</span>
                                         </li>
                                     
                                         <li>
-                                            <a href="/blog/2018/05/updates-to-our-privacy-policy/">Updates to our Privacy Policy</a>
-                                            <span class="date">May 10, 2018</span>
+                                            <a href="/blog/2018/07/introducing-friction-score-on-heatmaps/">Introducing Friction Score on Heatmaps!</a>
+                                            <span class="date">July 25, 2018</span>
                                         </li>
                                     
                                         <li>
-                                            <a href="/blog/2018/04/announcing-our-new-visual-privacy-tool/">Announcing our New Visual Privacy Tool</a>
-                                            <span class="date">April 05, 2018</span>
+                                            <a href="/blog/2018/07/under-the-cro-microscope-better-proposals/">Under the CRO Microscope: Better Proposals</a>
+                                            <span class="date">July 10, 2018</span>
                                         </li>
                                     
                                 </ul>
@@ -351,6 +351,60 @@ Uerdinger Straße 62
                     "href": "https://mouseflow.com/privacy/"
                   },
             })});
+        </script>
+        <script type="text/javascript">
+            function storageAvailable(type) {
+                try {
+                    var storage = window[type],
+                        x = '__storage_test__';
+                    storage.setItem(x, x);
+                    storage.removeItem(x);
+                    return true;
+                }
+                catch(e) {
+                    return false;
+                }
+            }
+
+            function getParameterByName(name, url) {
+                if (!url) url = window.location.href;
+                name = name.replace(/[\[\]]/g, "\\$&");
+                var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                    results = regex.exec(url);
+                if (!results) return null;
+                if (!results[2]) return '';
+                return decodeURIComponent(results[2].replace(/\+/g, " "));
+            }
+
+            if (storageAvailable('localStorage')) {
+
+                if(!localStorage.getItem('mf_referrer') && document.referrer.length > 0 || document.referrer.indexOf('mouseflow.com') == -1) {
+                    localStorage.setItem('mf_referrer', document.referrer.toLowerCase());
+                }
+
+                utm_string = ""
+
+                if(getParameterByName('utm_source')) {
+                    utm_string += 'utm_source=' + getParameterByName('utm_source');
+                }
+
+                if(getParameterByName('utm_medium')) {
+                    utm_string += '&utm_medium=' + getParameterByName('utm_medium');
+                }
+
+                if(getParameterByName('utm_campaign')) {
+                    utm_string += '&utm_campaign=' + getParameterByName('utm_campaign');
+                }
+
+                if(getParameterByName('utm_term')) {
+                    utm_string += '&utm_term=' + getParameterByName('utm_term');
+                }
+
+                if(!localStorage.getItem('mf_utms') && utm_string) {
+                    localStorage.setItem('mf_utms', utm_string.toLowerCase());
+                }
+                
+            }
         </script>
         
     
