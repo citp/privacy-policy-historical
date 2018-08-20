@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ealeo.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627095648id_/http%3A//ealeo.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ealeo.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820023825id_/http%3A//ealeo.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ealeo.com
 
