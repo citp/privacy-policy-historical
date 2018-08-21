@@ -1,69 +1,45 @@
-> *The following text is extracted and transformed from the awai.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204060436id_/http%3A//awai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awai.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821171801id_/https%3A//www.awai.com/about/privacy) for the most accurate reproduction.*
 
-# awai.com
+# American Writers & Artists Inc. Privacy Statement
 
-**Last updated November 15, 2010**
+American Writers & Artists Inc. takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that American Writers & Artists Inc. takes to ensure your privacy and security while giving you the best possible customer service as you use our websites.
 
-This Privacy Policy discloses the privacy practices of this domain (This Website and other websites where this privacy policy is displayed, collectively, the "Website"). Please read the following to learn what information we collect from customers and consumer visitors to our Website (the “User”) and how we use and share that information. In this Privacy Policy, personal information means information that is about an identifiable person. If you have any questions about our Privacy Policy, please use the contact us functionality on the site.
+## Ordering Online
 
-## 1\. Changes to Privacy Policy
+Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer encryption protocol and is kept in databases that cannot be accessed from outside.
 
-We may change this Privacy Policy at any time. If we make changes to this Privacy Policy, we will change the "Last Updated" date above. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy.
+In other words, any data you send us is encrypted, so in the unlikely event a hacker intercepts your data, it cannot be easily read. Our security mechanisms prevent access to our servers by anyone outside of the company.
 
-## 2\. Types of Information Collected and Uses of Collected Information
+## Email
 
-We collect information about you in various ways when you use our Website. We collect personal information you provide to us, when you request information about our services . If you decide to engage in these activities with us, we may ask you to provide us with certain personal information about yourself, such as your first and last name, email address. Please understand that if you publicly post personal information about yourself, this information may be accessible by other consumers and companies and may appear on other websites or web searches, and, therefore, this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other Users may do with the information you voluntarily post, so please use caution when posting any personal information.
+If you subscribe to The Golden Thread, or purchase any products from American Writers & Artists Inc., your name and email address will be placed in a database. As with all other personal information, only authorized employees of American Writers & Artists Inc. ever have access to this data. We do not give American Writers & Artists Inc. email addresses to outside companies.
 
-When you visit our Website, some information is also automatically collected, including the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags.
+American Writers & Artists Inc. does not sell or rent your email address to anyone. We may use your name and address to send you information on other American Writers & Artists Inc. products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.
 
-**_Cookies_**. To facilitate and customize your experience with the Website, we may store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect non-personal information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
+Any email you send to American Writers & Artists Inc. is completely confidential. We will not add your name to our email list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
 
-**_Other Tracking Devices_**. We may use other industry standard technologies like pixel tags and Web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and Web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates and/or marketing partners for the same purposes.
+If at any time you wish to be removed from our mailing list, please [contact our Member Services department](https://web.archive.org/contact/).
 
-## 3\. Use of Personal Information
+## Cookies
 
-We use personal information collected through our Website for purposes described in this Privacy Policy or disclosed to you on our Website or in connection with our services. For example, we may use your information to:
+American Writers & Artists Inc. (AWAI) uses cookies, tracking pixels and related technologies. Our site uses cookies dropped by us or third parties (such as Facebook) for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how you use the site and to target ads to you on other websites.
 
-  * analyze, operate and improve our Website;
-  * provide products and services to you;
-  * respond to your comments and questions and provide customer service;
-  * improve our marketing and promotional efforts;
-  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service; and
-  * troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
+If you would like to opt-out of the collection and use of information for ad targeting, please visit: [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
+## Discussion Board
 
+You are welcome to participate in the American Writers & Artists Inc. Discussion Board. Please note that submitting your email address or a URL is completely voluntary but you do so at your own risk. While American Writers & Artists Inc. does not harvest email addresses from the Discussion Board, there is nothing to prevent an unscrupulous company from doing so.
 
-## 4\. Disclosure of Personal Information
+You must submit a name to submit a message to the Discussion Board, but it does not have to be your name; aliases are completely acceptable as long as they are unique and not meant to impersonate another person. If you feel someone is impersonating you on our Discussion Board, please [contact us](https://web.archive.org/contact/) and we will take all necessary actions, including legal, to correct the matter.
 
-We will not disclose your personal information to other parties except as provided below:
+We reserve the right to remove any messages from the Board which are advertisements to buy or sell securities, are unrelated ads for other products, contain profanity or are otherwise illegal. But ultimately we cannot be held responsible for any claims made on our Discussion Board.
 
-  * with your consent; for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
-  * with third party vendors, consultants and other service providers (collectively, “Third Party Service Providers”) who are working on our behalf and need access to your information to carry out their work for us;
-  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
-  * (i) to comply with lawful requests, court orders or other legal process; (ii) to protect the rights and property of this website, our agents, customers, members, and others including to enforce our policies, Terms of Use or other agreements; or (iii) in an emergency to protect the personal safety of our employees, vendors, Users or any other person.
+If you have any questions or comments you can reach us via our contact page or with the information below.
 
+## Disclaimer
 
+American Writers & Artists Inc. does not act as personal career advisors or guarantee employment as a result of taking one of our programs. AWAI provides its members with information about improving their writing, design and photography skills. The executive staff and Board of Advisors who contribute to AWAI's programs are proud of the reputation AWAI has built since its inception in 1997. We believe the information presented to our members in our published resources and at our meetings and seminars is the best and most useful available to people interested in writing and graphic design today. The information presented in AWAI programs is for the exclusive use of AWAI members. Copying or disseminating any information published by AWAI, electronic or otherwise is strictly prohibited. Members should be aware that AWAI is not a school nor does it offer any degrees recognized by employers. Income results may vary.
 
-We may disclose information, including in an aggregated form, in ways that do not directly identify you.
-
-## 5\. Third Party Uses of Non-Personally Identifiable Information
-
-We may disclose or share non-personally identifiable information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any personally identifiable information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
-
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use non-personally identifiable information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to take steps to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp.
-
-We also use third party analytics service providers to track and analyze non-personally identifiable usage and volume statistical information from our Users to among other things help us administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or to describe a representative audience for Advertisers. Please note that this is not personally identifiable information, only general summaries of the activities of our Users. 
-
-## 6\. Updating and Correcting Information
-
-You may request to access or change your personal information by using the contact us functionality on this website. Please indicate your name, address and email address, and what information you would like to access or update when you contact us. We encourage you to promptly update your personal information if it changes. 
-
-## 7\. Choices on Use of Information
-
-As discussed above, you can always choose not to provide information, although it may be required to engage in certain activities on the Website.
-
-## 8\. Security of Information
-
-We take reasonable measures to help protect your personal information in an effort to prevent loss, misuse and unauthorized access, collection, use, disclosure, alteration and destruction. 
-
-* * *
+**American Writers & Artists Inc.**  
+101 SE 6th Avenue, Suite A • Delray Beach, FL 33483  
+Phone: (561) 278-5557
