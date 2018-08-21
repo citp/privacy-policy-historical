@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615093058id_/https%3A//www.teamapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821143841id_/https%3A//www.teamapp.com/privacy) for the most accurate reproduction.*
 
 # Team App Privacy Policy
 
-This policy provides information as to the kind of personal information that we collect in our business, including through the Website and/or the App (and or Club Apps as defined below), and the ways in which we use it.
+This policy details the kind of personal information that we collect in our business, including through the Website and/or the App (and or Club Apps as defined below), and the ways in which we use it.
 
 In this privacy policy, the terms **“we”** , **“us”** and **“our”** refers to Team Mates Pty Ltd ACN 159 770 537. The term “Website” means the website located at www.teamapp.com and the term “App” means our application for Android, iOS and any other operating systems referred to on our Website.
 
 ### Australian Privacy Principles
 
-In Australia, we are bound by the Australian Privacy Principles contained in the Privacy Act (1988) (Cth) which govern the handling of personal information. In this privacy policy, the term “personal information” has the meaning in the Privacy Act 1988 (Cth) and includes information about an identifiable individual, including their name, gender, date of birth, address, telephone and fax numbers, email address, drivers’ licence details, credit information and history, banking details, photographs, employment details and if and where applicable, information that constitutes “sensitive information”. “Personal information” includes an opinion about an identifiable individual.
+In Australia, the Australian Privacy Principles contained in the Privacy Act (1988) (Cth govern the handling of personal information. In this privacy policy, the term “personal information” has the meaning in the Privacy Act 1988 (Cth) and includes information about an identifiable individual, including their name, gender, date of birth, address, telephone and fax numbers, email address, drivers’ licence details, credit information and history, banking details, photographs, employment details and if and where applicable, information that constitutes “sensitive information”. “Personal information” includes an opinion about an identifiable individual.
 
 “Sensitive information” is a subset of personal information and includes information about a person’s racial or ethnic origin, health information, political opinions, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association or trade union, sexual preferences or practices and criminal record.
 
@@ -103,7 +103,7 @@ Except where otherwise stated by us in this privacy policy or the terms and cond
 
 We may disclose personal information, and you consent to us doing so, to our related entities for the purpose for which it was collected or otherwise advised under this policy.
 
-We may disclose personal information, and you consent to us doing so, to third parties who are engaged by us to perform functions or provide products and/or services on our behalf, such as financial services providers processing credit cards and our agents, business partners, joint venture entities or contractors, for the purpose of distributing materials that you have consented to receive. We may also need to disclose personal information if required to conduct any investigation into you or your activities, if for example there is reason to believe that you have committed a breach of our Website or App terms and conditions. We may also disclose such information as required or permitted by any law.
+We may disclose or make available personal information, and you consent to us doing so, to third parties who are engaged by us to perform functions or provide products and/or services on our behalf, such as third party hosting service providers and other providers of software products and related services (for the purpose of facilitating the operation of features of the Website and App and to collect and track certain data and information regarding the characteristics and activities of our users), In turn those providers may utilise the services of other third parties to assist in these functions, on the condition that they do not use or disclose any personal information for extraneous purposes. In addition we may disclose or make available some personal information to financial services providers processing credit cards and our agents, business partners, joint venture entities or contractors, for the purpose of distributing materials that you have consented to receive. We may also need to disclose personal information if required to conduct any investigation into you or your activities, if for example there is reason to believe that you have committed a breach of our Website or App terms and conditions. We may also disclose such information as required or permitted by any law.
 
 We may make some of your details or personal information available to third parties for advertising purposes. We may use and/or disclose limited information such as age, gender and location details in order to provide targeted advertising to users. This may involve using passing limited information to ad-servers, such as details of age, gender and sports played.
 
@@ -130,7 +130,7 @@ If you request us not to use personal information in a particular manner at all,
 
 Unless in using the Website or App you expressly or impliedly agree to make certain information available and able to be used and/or disclosed by use, all personal information which we collect is kept confidential to the best of our ability, subject to the terms of the App you use and this privacy policy. You will appreciate, however, that we cannot guarantee the security of transmission as there are always risks associated with transmitting information across the Internet.
 
-In addition, our employees and contractors who provide services related to our Website and App are obliged to respect the confidentiality of any personal information held by us.   
+In addition, our employees, contractors and other product/service providers who provide services related to our Website and App are obliged to respect the confidentiality of any personal information held by us.   
 Personal information which we collect may be aggregated for analysis but, except in circumstances where you expressly or impliedly indicate that you wish to make the information available to others and to identify you, we will use best endeavours to ensure that individuals remain unidentified.
 
 ### 5\. How Google uses data when you use the App
@@ -145,7 +145,7 @@ The App (and Club Apps) by their nature mean that other third party businesses, 
 
 ### 7\. Overseas disclosure
 
-We do not currently disclose personal information to businesses located outside Australia, except if and to the extent that our database being hosted by Amazon in the United States of America constitutes a disclosure.
+We may make some personal information available to businesses located outside Australia, for the purposes of those businesses providing hosting services and/or providing goods/services that enable the App and Website to function and for us to provide various features and track certain data and information. Those third party service providers agree with us that they will not to use or disclose the personal information for unrelated or extraneous purposes. These service providers are typically located in the United States of America. Apart from these uses we do not otherwise disclose information outside Australia.
 
 ### 8\. Security of personal information
 
