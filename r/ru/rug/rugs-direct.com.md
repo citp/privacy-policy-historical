@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugs-direct.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920231435id_/https%3A//www.rugs-direct.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugs-direct.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821213602id_/https%3A//www.rugs-direct.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rugs Direct
 
