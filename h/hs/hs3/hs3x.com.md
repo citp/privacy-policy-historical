@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hs3x.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035545id_/http%3A//hs3x.com/one/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hs3x.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821052855id_/http%3A//hs3x.com/one/privacy.html) for the most accurate reproduction.*
 
 # Receive SMS Online For Free - US,UK,Austria,Sweden,BELGIUM Free Virtual Numbers
 
