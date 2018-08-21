@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the art21.org privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726040758id_/https%3A//art21.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art21.org privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821161950id_/https%3A//art21.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Art21
 
-Art21, Inc. (herein known as “Art21”) values the privacy of the users of the Art21 website, located at [www.art21.org](https://web.archive.org/) (herein known as “Art21 Site”). Art21 does not collect personal information about you—such as name, address, phone number, or e-mail address—unless you voluntarily and knowingly provide it.
+Art21, Inc. (herein known as “Art21”) values the privacy of the users of the Art21 website, located at [art21.org](https://web.archive.org/) (herein known as “Art21 Site”). Art21 does not collect personal information about you—such as name, address, phone number, or e-mail address—unless you voluntarily and knowingly provide it.
 
 When you register to use certain areas on the Art21 Site, we do request that you provide personal information. The information you provide may be shared among internal staff at Art21. The information will not be shared with any other third parties.
 
@@ -20,8 +20,8 @@ Art21 reserves the right to change this Privacy Policy. Should we decide to make
 
 The Art21 Site provides links to third-party websites. Art21 is not responsible for the content or privacy policies of those linked sites.
 
-Please read the Copyright Notice and Terms of Use notice for the Art21 Site. Use of the Art21 Site is subject to both the Privacy Policy and the Copyright Notice and Terms of Use, which can be accessed by clicking the Terms of Use button in the About section of the Art21 Site.
+Please read the [Copyright Notice and Terms of Use](https://web.archive.org/terms-of-use/) notice for the Art21 Site. Use of the Art21 Site is subject to both the Privacy Policy and the Copyright Notice and Terms of Use, which can be accessed via the [Terms of Use](https://web.archive.org/terms-of-use/) link in the site-wide footer section of the Art21 Site.
 
-By accessing this Art21 Site, you accept without limitation or qualification the terms and conditions of this Privacy Policy and the Copyright Notice and Terms of Use.
+By accessing this Art21 Site, you accept without limitation or qualification the terms and conditions of this Privacy Policy and the [Copyright Notice and Terms of Use](https://web.archive.org/terms-of-use/).
 
-We encourage your suggestions and input regarding these privacy issues.
+We encourage your [suggestions and input](https://web.archive.org/about/contact-us/) regarding these privacy issues.
