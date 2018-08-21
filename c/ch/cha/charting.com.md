@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charting.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019204750id_/http%3A//charting.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charting.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821033537id_/http%3A//charting.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - charting.com
 
@@ -11,7 +11,7 @@ This privacy policy sets out how SafetyNet Systems Ltd uses and protects any inf
 
 SafetyNet Systems Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-SafetyNet Systems Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2008.
+SafetyNet Systems Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2018.
 
 **What we collect**
 
@@ -72,9 +72,9 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to our postal address which you can obtain from the Contacts page.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to our postal address which you can obtain from the Contacts page.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding about you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 * * *
 
