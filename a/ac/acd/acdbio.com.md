@@ -1,78 +1,166 @@
-> *The following text is extracted and transformed from the acdbio.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706161926id_/https%3A//acdbio.com/store/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdbio.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822000316id_/https%3A//acdbio.com/store/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to acdbio.com, which is owned and operated by Advanced Cell Diagnostic (“Advanced Cell Diagnostic” or “we”), 3960 Point Eden Way, Hayward, CA 94545. This Privacy Policy is designed to explain our practices regarding the collection and use of information received from you and/or your company.
+The purpose of this Privacy Notice (“Notice”) is to provide visitors to this website and Bio-Techne customers information regarding the Personal Data that Bio-Techne may collect, how Bio-Techne uses and safeguards that data, and with whom we may share it. By providing your Personal Data to us, you agree that we may collect and use such Personal Data and other information in accordance with the terms and conditions of this Notice.
 
-The Site provides an opportunity for investors, prospective employees, and other adults to learn more about our company. The Site is particularly geared to our customer base – biotechnology researchers and life scientists – and to providing them with content, products, and services focusing on their industry, to the role they play in their organizations, and to helping them accomplish biological procedures faster, more reliably, and in a cost-efficient manner.
+This Notice applies to all websites owned and operated by Bio-Techne Corporation (referred to as “we,” “us,” the “Company” or similar terms), including those with a homepage located at www.rndsystems.com (the “Website”). This Notice does not apply to any other websites, and we make no representations as to the privacy practices of other websites.
 
-Your use of the Site is subject to this Privacy Policy, which you may at any time print or download (or request a printed copy by contacting us as specified below). We reserve the right to change this Privacy Policy at any time by posting the revised policy at this location.
+Bio-Techne encourages our customers, suppliers, commercial visitors, business associates, investors and other interested parties to read this Notice. By using this website or submitting Personal Data to Bio-Techne by any other means, you acknowledge your understanding and agreement to the practices described in this Notice, including that Bio-Techne may collect, process, transfer, use and disclose Personal Data as described. If you have specific questions or comments regarding the processing of Personal Data, you may contact Bio-Techne as provided below.
 
-**Consent and Data Transfer:**  
-By giving your personal information to us, which includes information furnished during a pre-registration, other registration or data capture process, you agree that we may collect and use such personal information and other information in accordance with the terms and conditions of this Privacy Policy.
+#### What Data Do We Collect?
 
-For our customers in Switzerland and the European Union, please note that Advanced Cell Diagnostic (as a US based company) operates also through its direct and indirect subsidiaries in countries outside of Switzerland and the European Union (including the US) and may involve certain third parties (see section Third Parties below). If you use this Site, all information, including personal information, will be transferred to Advanced Cell Diagnostic (including subcontractors that may be maintaining and/or operating our Site) in the United States and elsewhere and may be transferred to third parties that may be located anywhere in the world (see section Third Parties below).  Although this may include recipients of information located in countries where there may be a lower level of legal protection for your personal information than in your location country, we will protect your information in accordance with requirements applicable to your information. By using this Site, you unambiguously consent to the transfer of your personal information and other information to the United States and elsewhere for the purposes and uses described herein.  
+We collect a variety of information about Website visitors and customers in order to provide superior customer service. Specifically, we collect information to process and track orders, update your account, respond to your requests, personalize your experience on the Website, administer promotions, send you information about new products, operate our business, as well as maintain and improve this Website and various features. This section describes both the Non-Personal Data and Personal Data we collect.
 
-**How we collect information about you:**
+#### Non-Personal Data.
 
-**Personally identifying information.  **  
-When you register via this Site, you will be asked to provide personally identifying contact information (e.g., name, organization, address, phone number, e-mail address, fax number, and so on) and other information. On this Site, for example, we may collect and retain personally identifying  and other information from you in a number of ways, such as when you place an order, request e-mail updates or other information, complete customer surveys, submit a feedback or contact form, or provide a resume.   Information about particular transactions, such as product purchases over the website, is maintained in our databases in the same or similar manner as such information is maintained for transactions which are done by telephone, fax, etc.  If any third parties provide information to us about you, we may combine that information with other information we have about you, and if and to the extent we do, we will treat such combined information in accordance with this Privacy Policy.
+Each time a computer visits this Website we may collect certain data from that computer. This data is automatically collected from the computer’s web browser and may include data such as the following (“Non-Personal Data”):
 
-**E-mail address.**  
-Your e-mail address is used to raise and respond to issues and inquiries of all types and to keep in contact with you generally. It is also used to distribute information about us and market our products and services as described herein.
+  1. the type of web browser software the computer uses (for example, Google Chrome or Internet Explorer)
+  2. the name of the domain from which the computer accessed the Internet
+  3. the Internet address of the website from which the computer linked directly to the Website
+  4. the date and time the computer accessed the Website
 
-**Use of cookies and website data.**  
-This Site collects various information from you in the course of your navigation of the Site, such as the URL of the site you just came from, the browser version you use, your Internet Protocol (IP) address, IP ports, date/time of access, size of data transferred, pages you visit, and other “clickstream” data. We are typically not able to relate such data to you as an individual if you merely browse our Site and do not disclose your identity to us, e.g., in connection with a registration. We also use "cookies" to enhance your Site visit. A “cookie” is information either temporarily or permanently stored in a file on your computer. You can set your internet browser to reject cookies (refer to your internet browser instructions if you wish to do so), but that may limit your use of some convenience features at this Site.
 
-**How we use information about you:**
 
-We use information collected by clickstream data collection and cookies to store your preferences, improve web site navigation, make personalized features and other services available to you, compile and analyze aggregate statistics and trends, and otherwise help administer and improve the Site. Where you provide registration information, cookies can also be used to identify you when you log onto the Site or portions of the Site.
+#### Non-Personal Data does not tell us who you are.
 
-Except as otherwise stated, we may use information we collect from you and others to respond to your request, improve the content, services, and products that we provide, customize this Site to your preferences, communicate information to you (where you have not expressed a preference otherwise), for our marketing and research analysis, and for other purposes identified to you. Some marketing and research analysis is conducted by third parties providing data collection and analysis services under contract with us, utilizing anonymous data collected from cookies. As noted above, you can reject such cookies by following your browser’s instructions. We reserve the right to make full use of information that is not in personally identifiable form.  
+Also, we may place a text file called a cookie in the browser files of computers that visit this Website. Cookies are pieces of data issued by a website that, among other things, allow your computer to utilize all the features on this Website. If and when your computer accepts a cookie, the cookie may be stored on the computer’s hard drive. You are always free to decline our cookies if your browser permits, but some parts of the Website may not work properly for you if you do so.
 
-From time to time, we use contact information obtained via this Site to send e-mail and postal mail supplying customers with the most recent product and service information, as well as other information we think may be useful to you.  If you order products or services via our Site, we may contact you by e-mail to send you information about your order (e.g., order confirmations, shipment notifications, etc.). We may also contact Site visitors via e-mail regarding their account status and about changes to any relevant agreements or policies.  We sometimes also use this data to establish a profile for your company, or collectively for some or all of our customers, to help us make business decisions, such as what kinds of new products we should be developing.   We will also use it for other internal business purposes including aggregating information, data warehousing and mining, cross matching databases and pooling data for effective data management, to understand your needs, improve security of data, for statistical analysis, devising, deploying and measuring marketing campaigns and group wide sharing and for such and other reasonable business purposes and operational efficiency improvement. We may remove information when it becomes out of date or inaccurate or when properly requested by you (subject to any legal duty or requirement we may have to preserve it).
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Bio-Techne website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-**How we share your information:  **
+In addition, third parties may place and read cookies on your browser, or use web beacons or similar technologies to collect data, including, where applicable, for the Google Trusted Stores program.
 
-**Third parties.**  
-Advanced Cell Diagnostic does not provide the personally identifiable information you supply to us to outside mailing lists. We may share information about you with employees, affiliates, successors, and agents/representatives (for example, consultants), which are required to treat the information in accordance with this Privacy Policy.  Except as specifically described in this Privacy Policy, we will not, without your specific prior consent, sell, trade or transfer your information to unaffiliated third parties other than authorized third parties (such as, for example, contractors supporting operation of this Site) and other third parties involved in the distribution chain (e.g., vendors, service providers, principals for whom we act as agents or subcontractors), which may need access to some of your personal information in order to directly or indirectly fulfill a contractual obligation with you or for some other legitimate purpose. We oblige such third parties to comply with our privacy policy, and limit their access and use of your personal information.
+#### Personal Data.
 
-**Mergers/acquisitions.**  
-In the event of any prospective or actual merger, business or asset sale, divestiture, other changes in control or financial status, or re-organization we may share or transfer personal information with the other party or parties involved. We will require the recipient to use the information in accordance with this Privacy Policy.
+We collect personal information from you when you register on our site, place an order, open or update an account, subscribe to our mailing list, and/or respond to our customer satisfaction survey. In the course of these and other activities on the Website, you may provide us with information such as your name, address, telephone number, purchase information and history, email address, credit card number, or similar information (“Personal Data”).
 
-**Disclosures required by law.**  
-Occasionally, we may be required by law enforcement, government contract administrators, and/or judicial authorities to provide personally identifiable information to the appropriate judicial, governmental or regulatory authorities under applicable law, regulation or the terms of government contracts. We will disclose personally identifiable information upon receipt of a court order, subpoena, or if required to co-operate with law enforcement investigations or government contract compliance reviews. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful to the extent permitted by law.
+#### How do We Share and Use Data?
 
-**How we protect your information:**
+The ways we share, use, and protect data depends upon the type of data involved.
 
-We take reasonable technical and organizational steps to safeguard the information you provide to us and protect it from unauthorized access, loss, destruction or alteration. For example, web page elements transmitting personal or financial information are encrypted from your client PC to our servers (which are located in the United States to the extent data on Canadian registered website visitors is concerned) using the standard known as SSL (Secure Sockets Layer). Beyond the SSL encryption your data is protected once it reaches our network through the use of secure network firewalls. Portions of your data may also be encrypted on our storage server for additional security.
+#### Non-Personal Data.
 
-Because no system is 100% secure or error-free despite taking commercially reasonable steps, Advanced Cell Diagnostic does not guarantee, and you should not expect, that information you provide shall remain private under all circumstances. It is your responsibility to safeguard any passwords, ID numbers, or other special access features associated with your use of the Site.
+We may use non-personal data to help us make the Website more useful to you and for other business purposes. For example, we may tell business partners how many computers visited this Website or what pages were most popular. We may prepare reports and other materials using non-personal data. We may use non-personal data for any other purpose and may share non-personal data with third parties.
 
-**Opting out:**
+#### Personal Data.
 
-If you do not wish to receive certain communications from us, or representatives, you may opt out by: (1) declining the service offered when registering or at other information collection points on the Site, or (2) informing us that you no longer wish to receive such communications. We will comply with such requests unless such communications from us are required by law or contract or do not require your consent under applicable laws. If you opt out of certain communications, you may not be able to access certain of our products or services. If you would like to opt-out of receiving communications from affiliates or other third parties with whom we shared data in accordance with this policy, please contact such third parties directly.
+If you submit Personal Data, you agree that we may keep a record of the Personal Data. For example, we may keep a record of your name, address, and credit card number in order to receive payment for your orders and in order to ship the orders. We also may use Personal Data to help us in our business, including but not limited to improving this Website and marketing and product development, or to contact you.
 
-**Access, blocking, deletion and correction of information you provide:**
+Also, in compliance with the laws and regulations of the relevant jurisdiction in order to support our relationship with you:
 
-You may at any time request access to a summary of your personal information held by us, and request corrections or updates to that information. We will make reasonable efforts to respond promptly to such requests for information in accordance with local laws. Our response to such requests may be limited to information under our direct control. 
+  1. we may share Personal Data with our worldwide affiliates to better understand your business needs and how we can improve our products and services;
+  2. we may use third party service providers to assist us in collecting, assembling or processing Personal Data in connection with services related to our business relationship, such as credit card companies and shipping companies;
+  3. if you complete the “Credit Reference” section you agree that we may contact the references and share your Personal Data with the references for the purpose of deciding whether to extend credit to you or to do business with you;
+  4. we (or a third party on our behalf) may use Personal Data to contact you about a Bio-Techne offer in support of your business needs or to conduct online surveys to understand better our customers’ needs;
+  5. we may use Personal Data for marketing and promotional activities; and
+  6. in the event of any prospective or actual merger, business or asset sale, divestiture, other changes in control or financial status, or re-organization, we may share or transfer personal information with the other party or parties involved.
 
-Please notify us of any changes in your name, address, title, telephone number or e-mail address. You can correct your personally identifiable information yourself by accessing your online profile, or by contacting us to request changes. You may ask to have the information on your account deleted or removed; however, because we keep track of certain transaction information, such as past purchases, and other similar information, for legal compliance purposes, we may not be able to delete certain information.  If information we hold appears to be inaccurate we will block its use until the position is verified to our satisfaction
 
-If you have any questions relating to this Privacy Policy or relating to the transfer of your personal data, please contact us at your local office. If you do not agree to this Privacy Policy, please do not provide us with your information. 
 
-**Other web site:**
+Any time your data is transferred to a third party who is not an affiliate of Bio-Techne, we will require the recipient to protect the data consistent with the law in your country and use the information in accordance with this Notice. If you choose not to have your Personal Data used to support our customer relationship (especially direct marketing or market research), we will respect your choice. We do not sell your Personal Data to third parties, nor share it with third parties except as set forth in this Notice.
 
-This Site contains links to the web site of other organizations. Advanced Cell Diagnostic is not responsible for the privacy practices or the content of other web sites, and unless otherwise specified, does not imply any relationship, sponsorship, or affiliation between Advanced Cell Diagnostic and these linked sites, or adoption or approval of the content of such sites.  Since we do not control these web sites, we encourage you to review the privacy policies posted on those, and all, third party web sites.  
+In addition, where consistent with the laws and regulations of the relevant jurisdiction, Bio-Techne may disclose Personal Data if such disclosure:
 
-**Children's Privacy:**
+  1. is a use of the Personal Data for an additional purpose that is directly related to the original purpose for which the Personal Data was collected;
+  2. is necessary to prepare, negotiate and perform a contract with you;
+  3. is required by law or the competent governmental or judicial authorities;
+  4. is necessary to establish or preserve a legal claim or defense;
+  5. is necessary to comply with a law, regulation, court order, or other legal process;
+  6. is part of a corporate restructuring, sale of assets, merger or divestiture;
+  7. is required to protect Bio-Techne’s rights or property, or
+  8. is necessary to prevent fraud or other illegal activities, such as willful attacks on Bio-Techne’s information technology systems.
 
-  We do not knowingly collect personal information from children under the age of 18.  
 
-**How to contact us:**
 
-For any requests or questions related to this Privacy Policy, or if you have concerns about how information you provide to Advanced Cell Diagnostic is being used, please contact us at the following address: [marketing@acdbio.com](mailto:marketing@acdbio.com?subject=Privacy%20Policy).  This Privacy Policy is effective December 5, 2014.
+#### Data Transfer
 
-**Revisions to Privacy Policy:  **
+For our customers in Switzerland and the European Union (EU), please note that Bio-Techne (as a US based company) operates also through its direct and indirect subsidiaries in countries outside of Switzerland and the EU (including the US) and may involve certain third parties (as described above). If you use this Website, all information, including personal information, will be transferred to Bio-Techne (including subcontractors that may be maintaining and/or operating our Website) in the United States and elsewhere and may be transferred to third parties that may be located anywhere in the world. Although this may include recipients of information located in countries where there may be a lower level of legal protection for your personal information than in your location country, we will protect your information in accordance with requirements applicable to your information. By using this Website, you unambiguously consent to the transfer of your personal information and other information to the United States and elsewhere for the purposes and uses described herein.
 
-Please check back for material revisions to this Policy, which will be described here.
+#### Email and Link Information.
+
+Using an email address you provide us, we may send you email newsletters or similar documents from time to time. These emails may include technology that permits us to track if and when an email has been opened, as well as whether the recipient clicked on any particular link or advertisement contained in the email. This information is tracked and used for statistical analysis, to generate sales leads, and to help us operate our business. The information gathered from these emails may result in a call or email from our sales staff to provide further information on products that our emails have identified you as having an interest in.
+
+#### Opt-In for Advertising and Other Communications.
+
+In certain circumstances, you agree that we, or the third parties who help us operate this Website and conduct business, may contact you for advertising or any other purposes through any and all contact information you provide to us, such as email, telephone, fax, or mail. If at any time you wish to opt-out of receiving such communication, you may amend your profile here or you may contact Bio-Techne at: [privacy@bio-techne.com](mailto:privacy@bio-techne.com)
+
+#### California Residents only - Disclosures to Direct Marketing Entities.
+
+This notice applies only to California residents and is made pursuant to California Civil Code § 1798.83. As noted above, we may disclose Personal Data about you, such as your email address, to third parties. If we disclose Personal Data about you to a third party and the third party will use that information for direct marketing purposes, you have the right to contact us at [privacy@bio-techne.com](mailto:privacy@bio-techne.com) to request that we notify you as to: (1) what categories of Personal Data we shared with the direct marketer; and (2) the name of the direct marketing businesses with whom we shared such information.
+
+#### Data Privacy Rights for EU Citizens
+
+#### Data Access, Correction, and Deletion for EU Citizens
+
+If you are a citizen of the EU, the General Data Protection Regulation grants you certain rights under the law. In particular, the right to access, correct, or delete the personal data Bio-Techne holds about you.
+
+Upon request, Bio-Techne will grant individuals reasonable access to Personal Data that it holds about them. In addition, Bio-Techne will take reasonable steps to permit individuals to correct, amend, or delete information it holds about them. Bio-Techne also relies upon each individual to assist in providing accurate updates of his or her Personal Data. In order to access, correct, amend, or delete the Personal Data Bio-Techne holds about an individual, the individual should contact the following: [privacy@bio-techne.com](mailto:privacy@bio-techne.com).
+
+#### Complaints to the Data Protection Authorities
+
+If you have a comment, question, or complaint about how Bio-Techne is handling your personal data, we hope that you contact us at [privacy@bio-techne.com](mailto:privacy@bio-techne.com) in order to allow us to resolve the matter. In addition, individuals located in the EU may submit a complaint regarding the processing of their personal data to the EU data protection authorities (DPAs). The following link may assist you in finding the appropriate DPA: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+
+#### What Happens if the Privacy Notice Changes?
+
+We may change this Privacy Notice at any time and for any reason. If we change this Privacy Notice we will post the change on this section of the Website.
+
+#### What About Privacy on Other Sites?
+
+This Website may contain links to other websites. We provide these links for your convenience, but we do not review, control, or monitor the privacy practices of websites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other websites is subject to the terms and conditions of those websites, including the privacy policies of those websites.
+
+#### Are There Special Rules About Children's Privacy?
+
+This Website is designed for an adult audience only, and anyone under 18 years old should not use this Website. We will not intentionally collect online any Personal Data (such as a child’s name or e-mail address) from children under the age of 13. If you think that we have collected Personal Data from a child under the age of 13, please contact us as described below or as described in the Data Privacy Rights for EU citizens section.
+
+#### Security
+
+Your information is stored on servers located in the United States. We and our agents who help us with hosting and security use a number of procedural and technical safeguards to protect your Personal Data against loss or theft as well as unauthorized access and disclosure, including use of encryption, "firewalls" and Secure Socket Layers. However, "perfect security" does not exist on the Internet.
+
+#### User Conduct
+
+You agree to follow the conduct rules listed below. If you fail to follow these conduct rules, Bio-Techne may, in its sole discretion, terminate or suspend your account without refund, in addition to pursuing any other legal and equitable remedies including but not limited to money damages.
+
+  1. You will not knowingly provide or post any false, misleading, or fraudulent information.
+  2. You will not use this Site or any products purchased from Bio-Techne for any illegal purpose.
+  3. You will not hold yourself out as someone you are not or otherwise impersonate any living person.
+  4. You will not interfere or tamper with the functioning of this Site, nor will you attempt to gain access to information or control of the Site not specifically granted to you.
+  5. You will not use this Site to transmit any virus or similar destructive program or code.
+
+
+
+#### Ownership and Use of Materials
+
+The materials on this Site belong to Bio-Techne or its third party licensors. There are some important rules about using and copying these materials. Bio-Techne grants you a limited, revocable, license to download or print one copy of the materials on this Site, but only for the purpose of ordering products on the Site. When you download or print a copy of the materials on this Site, you must also include all copyright and other notices that are in the materials, including the copyright notice on the bottom of the page.
+
+The materials on this Site are protected by United States and foreign copyright laws. If you use the materials in a way that is not clearly allowed by these Terms & Conditions and the license above, you are violating your contract with us and may be violating copyright, trademark, and other laws. In that case, Bio-Techne automatically revokes your limited license to use the materials and you must immediately destroy any copies you have made. Title to the materials remains with Bio-Techne or its third party licensors. All rights not expressly granted are reserved.
+
+#### Site Disclaimer and Limitation of Liability
+
+THE SITE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, BIO-TECHNE DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+THE SITE DOES NOT GUARANTEE THE CONTINUOUS, UNINTERRUPTED OR SECURE ACCESS TO THE SITE. THE OPERATION OF THE SITE MAY BE INTERFERED WITH BY NUMEROUS FACTORS OUTSIDE THE CONTROL OF THE SITE OR BIO-TECHNE.
+
+UNDER NO CIRCUMSTANCES SHALL BIO-TECHNE OR ANY OF ITS EMPLOYEES, DIRECTORS, OFFICERS, AGENTS OR SUPPLIERS BE LIABLE FOR ANY DIRECT OR INDIRECT LOSSES OR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THIS SITE.
+
+#### Password and Account Security
+
+If you have an account through the Site, you are responsible for (i) keeping your account password confidential and secured, (ii) restricting access to your computer and (iii) keeping the e-mail address associated with that account current. You accept full responsibility for all activities that occur within your Site account and/or using your password.
+
+If you forget your password you may request to have it reset. An email will be sent to the email address used to register your account with a link and instructions on how to change your password. We will not give passwords out over the phone, nor will we send them to a different e-mail address than the one used to register your account.
+
+#### Links to Other Websites
+
+This Site may contain links to websites operated by other parties. The linked websites are not under the control of Bio-Techne, and Bio-Techne is not responsible for the content available on any other websites linked from this Site. The appearance of the links does not imply Bio-Techne's endorsement of the material on any other website and Bio-Techne disclaims all liability with regard to your access to or use of such linked websites.
+
+#### Advertising
+
+This Site may include advertisements for products or services offered by other companies. Bio-Techne may receive payment from these advertisers. Although Bio-Techne believes you may find the information offered by advertisers to be helpful, Bio-Techne does not endorse or guarantee any product or service offered by advertisers.
+
+#### Choice of Law/Disputes
+
+Unless otherwise required by the laws in a particular jurisdiction, you hereby agree that the only proper jurisdiction and venue for any dispute with Bio-Techne, or in any way relating to your use of this Site or to products purchased from Bio-Techne, is in the state and federal courts in the State of Minnesota, U.S.A. You further agree and consent to the exercise of personal jurisdiction in these courts in connection with any dispute involving Bio-Techne or its affiliates, employees, officers, directors, agents and providers. Any claims relating to the information, services or products available on this Site will be governed by the laws of the State of Minnesota, excluding the application of its conflicts of law rules. You agree that any cause of action arising out of or relating to these Terms & Conditions or your use of the Site will be commenced by you within one (1) year after such cause of action arose. Actions not commenced by you within one (1) year are permanently barred. This paragraph survives expiration or termination of these Terms & Conditions.
+
+#### Contact Us
+
+If you have any questions or comments about this Notice or the services provided by our Website please contact Bio-Techne at: [privacy@bio-techne.com](mailto:privacy@bio-techne.com).
