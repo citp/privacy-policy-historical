@@ -1,69 +1,83 @@
-> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051325id_/http%3A//memset.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821163059id_/https%3A//www.memset.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Memset
 
-## Why Do We Collect Information About You?
+## Data for which Memset Ltd is the Data Controller
 
-We collect information about you for 2 reasons: firstly, to process your orders and second, to provide you with the best possible service.
+## Purpose and consent for collection
 
-We may e-mail you from time to time regarding the services you have purchased or for marketing / promotional purposes.
+Memset collects, stores, processes or transmits this data in order to provide Services to Customers, and its personnel may include Data Subjects. This may include marketing of the Services, the processing of orders for Customers and customer support activities, or for the purposes of conducting corporate activities such as interacting with suppliers, job applicants or other interested parties. (Collectively, the ‘Scope’.)
 
-We will give you the chance to refuse any marketing email from us or from another trader in the future with clear opt out instructions on mailings or contact details should they be received in any other manner.
+By providing personal information to Memset® in any of the ways described in this policy, by instructing or authorising another party to provide such information or by entering into a contact with Memset that requires such processing, the Subject is agreeing that they are authorised to provide the information and that they accept this privacy policy and that Memset is authorised to process it.
 
-The type of information we will collect about you includes:
+Memset will collect a range of information about the Subject, either via activity via our website or emails, ticketing systems, telephone, in person or at trade shows. This information includes:
 
-  * your name
-  * organisation
-  * address
-  * phone number(s)
-  * email address(s)
-  * credit/debit card details
-
-
-
-We will never collect sensitive information about you without your explicit consent.
-
-We will do our best to ensure that the information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
-
-The personal information which we hold will be held securely in accordance with our internal security policy and the law.
-
-We use technology to track the patterns of behaviour of visitors to our site, and to make our site easier to use. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
-
-Memset® will not use this information to transmit an automated recorded message for direct marketing purposes via a telephone, without your prior consent.
-
-## Will We Share Your Information?
-
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
-
-In some instances we may be required to share the information with service providers and business partners who are working on our behalf. On these occasions, information sharing is always kept to a minimum and we require any third party to agree to keep information confidential and only use the information for the sole purpose of performing their obligations to us.
-
-We reserve the right to pass on your personal information to any law enforcement agencies properly requesting it in connection with the commission of any offence once we are reasonably satisfied as to the circumstances surrounding the request.
-
-## Who Does This Privacy Policy Apply To?
-
-This policy applies to everyone who provides Memset® with personal information.
-
-Examples would be:
-
-  * Information provided to us when interacting with our websites
-  * Information provided for payments to our organisation
-  * Information provided to service providers and business partners
-  * Job applications
-  * Responses to marketing campaigns
+  * Name
+  * Organisation
+  * Job title
+  * Address of employment
+  * Phone number
+  * Email address
+  * IP address
+  * Username
+  * Credit/debit card details
 
 
 
-## Your Consent To The Privacy Policy
+We will not collect sensitive categories of Subject data without their explicit consent.
 
-By providing personal information to Memset® in any of the ways described above you are agreeing that you are authorised to provide the information and that you accept this privacy policy.
+Memset does not undertake any automated decision making relating to any Service activities except for third party fraud checking services that may automatically decline a credit or debit card transaction.
 
-If at any time you do not agree to our collection of personal information, please do not register, subscribe to our services, create an account or in any other way interact with our websites or mobile applications.
+Memset will not collect data relating to minors as defined under UK law. Minors as defined by UK law are not permitted to use Memset Services or interact with us as a corporate entity.
 
-If you would like to access, correct or delete the personal information that we hold about you please do not hesitate to contact us via the following means:
+Memset may from time to time contact the Customer via email regarding service related matters such as billing, account management and maintenance.
 
-  1. For existing customers or those who have registered an account with us, to opt out of our marketing communications or change any of the details on your account at any time you can do so via the [Memset® Control Panel](https://web.archive.org/control/update_details/). Please note that if you are a customer, we will still be required to update you with specific service information.
-  2. All others should contact Memset® via email or post. Full details can be found on our [contact page](https://web.archive.org/contact/).
+## Data retention
+
+We will keep your personal information for as long as you are a customer of Memset Ltd.
+
+After you stop being a customer, we may keep your data for up to 10 years for the following reasons:
+
+  * To respond to any questions or complaints.
+  * To comply with the legal requirements.
 
 
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/contact/).
+## Data transfers and the use of Data Sub Processors
+
+Memset will not share Subject data with a third party not directly associated with the provision of services without their explicit consent. Memset will also not transfer Subject data to a third party country outside of the UK or EEA that is not compliant with the applicable data protection laws via adequacy agreement, Binding Corporate Rules or other legally appropriate means as defined by the Information Commissioners Office without their explicit consent.
+
+Memset makes use of a number of third party organisations for the purposes of delivery of Services to the Customer.
+
+Whilst the following list is not intended to be exhaustive, Memset typically only transfers the personal data relating to our customers, where required for the activities set out below, to the following third parties or Data Processors:
+
+  * Salesforce.com, Inc – Customer Relationship Management and marketing activities
+  * Everest Ltd – Colocation data centre hosting
+  * Mimecast Ltd – Email resilience and security
+  * Microsoft Ltd – Email and internal document management
+  * Sagepay – Accounting
+  * dotMailer Inc. – Provision of bulk emailing services
+
+
+
+Memset will update this list from time to time as our systems and operations evolve and inform you accordingly.
+
+By interacting with Memset as defined in this policy, the Subject provides their consent for this transfer and use of our Data Processors and their Data Sub-Processors, and for transfer to any other appropriate third party Data Processor for the purposes of delivery of the Services and customer relationship management activities. No data transfer will be undertaken that is outside of the strict scope of the Purposes states in this policy, or that will materially degrade the security of the Subject’s data or the Data Subject’s rights and in any event the security provisions will be compliant with the applicable Data Protection Laws. Such Data Processors and Sub Processors will be contractually bound to process only in accordance with our instructions and to maintain technical and organisational controls in compliance with our security policy and the requirements of the GDPR. 
+
+## Commitment to confidentiality and security of processing
+
+Memset will use appropriate technical and organisational security measures within our sphere of responsibility to ensure an appropriate level of confidentiality, integrity and, where Memset is the Data Controller, availability of Subject data and to ensure its availability in the event of a business continuity incident. Memset will undertake security and data protection assessments of any third parties we elect to use prior to transfer of any Customer Data and regularly thereafter.
+
+Whilst Memset maintains configured encrypted endpoints for Control Panel and API HTTPS communication and appropriate internal security controls, the Subject retains sole responsibility for their data when outside of Memset systems.
+
+## Get in touch
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time, or discuss any other data protection matters with us, by contacting us at [dataprotection@memset.com](mailto:dataprotection@memset.com) or write to Memset, 87, Dunsfold Park, Stovolds Hill, Cranleigh GU6 8TB , for the attention of the Data Protection Officer. 
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+Under Data Protection Laws, Data Subjects can make certain choices in relation to how their personal data is processed. These include whether your personal data are disclosed to third parties, and preferences regarding the frequency, subject matter, and/or format of communications.
+
+Data Subjects, Controllers or any other concerned parties wishing to discuss matters relating to data protection, such as a Subject Access Request or concern over accuracy of collected data, please email [dataprotection@memset.com](mailto:dataprotection@memset.com) or write to Memset, 87, Dunsfold Park, Stovolds Hill, Cranleigh GU6 8TB , for the attention of the Data Protection Officer. The email address is monitored within working hours and you should receive a reply within two working days.
+
+Should there be a concern regarding a possible security incident or data breach, please email [security@memset.com](mailto:security@memset.com).
