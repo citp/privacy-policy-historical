@@ -1,0 +1,227 @@
+<!--The following is the downloaded HTML source of the getdrawings.com privacy policy that was archived on 2018-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180822012101id_/http%3A//getdrawings.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	<title>GetDrawings.com drawings</title>
+	<meta name="description" content="Getdrawings - Browse drawings">
+	<meta name="keywords" content="images, drawings, pictures">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.12&amp;appId=736139396418817&amp;autoLogAppEvents=1"></script><script src="http://getdrawings.com/assets/js/jquery.min.js"></script>
+  <script src="http://getdrawings.com/assets/js/popper.min.js"></script>
+  <script src="http://getdrawings.com/assets/js/bootstrap.min.js"></script>
+  <!--<script src="http://getdrawings.com/assets/js/jquery.waypoints.min.js"></script>-->
+  <script src="http://getdrawings.com/assets/jQuery-flexImages-master/jquery.flex-images.min.js"></script>
+  <link rel="stylesheet" href="http://getdrawings.com/assets/font-awesome-4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://getdrawings.com/assets/jQuery-flexImages-master/jquery.flex-images.css">
+  <link rel="stylesheet" href="http://getdrawings.com/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://getdrawings.com/assets/css/style.css">
+  <link rel="shortcut icon" type="image/png" href="http://getdrawings.com/favicon.png">
+  <script type="text/javascript" async="" defer="" src="//assets.pinterest.com/js/pinit.js"></script>
+<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+
+<script>
+$(document).ready(function(){
+      $(".flex-images .item img").fadeIn(3000);                             
+});
+</script>
+
+</head>
+<body>
+
+<header class="container-fluid bg-dark fixed-top px-md-5 pt-1">
+  <div class="header-item-wr container">
+	<!--<a class="navbar-brand float-left" href="http://getdrawings.com/">Cliparts.com</a>-->
+	<a class="navbar-brand float-left height40 p-0" href="http://getdrawings.com/">
+		<!--<img class="large-logo" src="http://getdrawings.com/assets/images/logo.png" />
+		<img class="small-logo" src="http://getdrawings.com/assets/images/logo-small.png" />-->
+	</a>
+	<form class="form-inline float-right mt-1" action="http://getdrawings.com/home/searchredirect" method="get">
+		<div class="custom-selects">
+			<select class="form-control" name="imagetype" id="selecttype">
+								<option>All Images</option>
+				<option>All Images</option>
+				<option>Drawings</option>
+				<option>Silhouettes</option>
+				<option>Cliparts</option>
+							</select>
+		<div class="select-selected">All Images</div><div class="select-items select-hide"><div>All Images</div><div>Drawings</div><div>Silhouettes</div><div>Cliparts</div></div></div>
+		<input class="form-control" type="text" placeholder="Search for images by keyword(s)" name="search" required="">
+		<button class="btn mt-0" type="submit"><i class="fa fa-search"></i></button>
+	</form>
+  </div>
+  <div class="header-item-wr container">
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark mx-auto py-0">
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+	    <ul class="navbar-nav mx-auto">
+		  <li class="nav-item">
+	        <a class="nav-link" href="http://getdrawings.com/drawings">Categories</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="http://getdrawings.com/tutorials">Drawing tutorials</a>
+	      </li>
+	      
+    		      <li class="nav-item">
+	        <a class="nav-link" href="http://getdrawings.com/userupload">Upload</a>
+	      </li> 
+	      <li class="nav-item" id="nav-auth-item">
+	        <a class="nav-link" href="http://getdrawings.com/login">Login</a> / <a class="nav-link" href="http://getdrawings.com/signup">Sign up</a>
+	      </li>
+			    </ul>
+	  </div>  
+	</nav>
+  </div>
+</header>
+<script>
+var x, i, j, selElmnt, a, b, c;
+/*look for any elements with the class "custom-select":*/
+x = document.getElementsByClassName("custom-selects");
+for (i = 0; i < x.length; i++) {
+  selElmnt = x[i].getElementsByTagName("select")[0];
+  /*for each element, create a new DIV that will act as the selected item:*/
+  a = document.createElement("DIV");
+  a.setAttribute("class", "select-selected");
+  a.innerHTML = selElmnt.options[selElmnt.selectedIndex].innerHTML;
+  x[i].appendChild(a);
+  /*for each element, create a new DIV that will contain the option list:*/
+  b = document.createElement("DIV");
+  b.setAttribute("class", "select-items select-hide");
+  for (j = 1; j < selElmnt.length; j++) {
+    /*for each option in the original select element,
+    create a new DIV that will act as an option item:*/
+    c = document.createElement("DIV");
+    c.innerHTML = selElmnt.options[j].innerHTML;
+    c.addEventListener("click", function(e) {
+        /*when an item is clicked, update the original select box,
+        and the selected item:*/
+        var y, i, k, s, h;
+        s = this.parentNode.parentNode.getElementsByTagName("select")[0];
+        h = this.parentNode.previousSibling;
+        for (i = 0; i < s.length; i++) {
+          if (s.options[i].innerHTML == this.innerHTML) {
+            s.selectedIndex = i;
+            h.innerHTML = this.innerHTML;
+            y = this.parentNode.getElementsByClassName("same-as-selected");
+            for (k = 0; k < y.length; k++) {
+              y[k].removeAttribute("class");
+            }
+            this.setAttribute("class", "same-as-selected");
+            break;
+          }
+        }
+        h.click();
+    });
+    b.appendChild(c);
+  }
+  x[i].appendChild(b);
+  a.addEventListener("click", function(e) {
+      /*when the select box is clicked, close any other select boxes,
+      and open/close the current select box:*/
+      e.stopPropagation();
+      closeAllSelect(this);
+      this.nextSibling.classList.toggle("select-hide");
+      this.classList.toggle("select-arrow-active");
+  });
+}
+function closeAllSelect(elmnt) {
+  /*a function that will close all select boxes in the document,
+  except the current select box:*/
+  var x, y, i, arrNo = [];
+  x = document.getElementsByClassName("select-items");
+  y = document.getElementsByClassName("select-selected");
+  for (i = 0; i < y.length; i++) {
+    if (elmnt == y[i]) {
+      arrNo.push(i)
+    } else {
+      y[i].classList.remove("select-arrow-active");
+    }
+  }
+  for (i = 0; i < x.length; i++) {
+    if (arrNo.indexOf(i)) {
+      x[i].classList.add("select-hide");
+    }
+  }
+}
+/*if the user clicks anywhere outside the select box,
+then close all select boxes:*/
+document.addEventListener("click", closeAllSelect);
+</script><div class="container" id="home-content">
+  <h1 class="ml-3 mr-3">PRIVACY POLICY</h1>
+
+<p>This document was last updated on April, 2018</p>
+
+<h3>PURPOSE OF POLICY</h3>
+
+<p>http://getdrawings.com (“us”, “we”, “the Site”) undertakes to respect the privacy rights of every visitors, users and others who use http://getdrawings.com. Accordingly, we have developed the current privacy policy to give you confidence as you visit and use the Site and to demonstrate our commitment to fair information practices. It explains how http://getdrawings.com collects, uses, maintains and discloses information collected from the visitors of the Site. The following outlines our privacy policy:</p>
+
+<h3>INFORMATION COLLECTION PRACTICES</h3>
+
+<p>AUTOMATIC COLLECTION: When you visit to http://getdrawings.com, the servers will automatically track basic information about your interaction with our website as well as information that your web browser sends. Such log information includes, but is not limited to, the details of the browser, IP addresses, timestamps, referring pages, the address of the website you visited before you came to http://getdrawings.com, the data about your operation system and language. Any of such information cannot personally determine concrete visitors to this site. This kind of information is traced for routine management and maintenance.</p>
+
+<p>COOKIES. Cookies are used to store your personal information while you are on the site and this also increases the security. This doesn't take much of your time as only one pop-up launches every time you come to the website. Some third party advertisements are also used to support our website http://getdrawings.com financially. Some advertisers may also use different technologies such as cookies and web beacons while they advertise on our site . This also sends these advertisers(such as Google through the Google AdSense account) some information which includes your IP, ISP and the version and name of the browser you've installed, and in some cases, the version of flash you've installed. The purpose of this is to achieve geotargeting (showing London real estate ads to someone in London, for example) or to show specific ads such as showing sports ads to someone who frequently visits sports websites.</p>
+
+<p>DoubleClick COOKIES. Cookies can also be used for ad serving through Google DoubleClick which stores a cookie on your PC while you are browsing a website and visit a site using DoubleClick advertising (this may also include some of the Google AdSense advertisements). Interest based targeting can also be enable through cookies which shows specific ads to you according to your preferences. Ads shown to you will be based on your previous browsing history so that only relevant ads are shown to you. (For example, if you have been visiting cooking sites, you may visit a cooking website while visiting a non-relevant site such as a sports website). It is to be made sure that it does NOT track your personal information such as your name, email address, physical address, IP address, telephone number, social security number, bank account number or credit card number etc. You also have the option to opt out of this ad-serving on all the sites using the link http://www.google.com/doubleclick/ . Here you can choose to disable or selectively turn on off your cookies or third party cookies in your browser settings.</p>
+
+<h3>Thank you for choosing GetDrawings.com!</h3>
+
+</div><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=736139396418817&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<footer class="container-fluid bg-dark">
+	<div id="footer-container" class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<span class="mr-3 footer-item1">© 2018 GetDrawings.com</span>
+			</div>
+			<div class="col-md-8 footer-container2">
+				<span class="mr-3 footer-item"><a rel="nofollow" href="http://getdrawings.com/privacy-policy">Privacy Policy</a></span>
+				<span class="mr-3 footer-item"><a rel="nofollow" href="http://getdrawings.com/license">License</a></span>
+				<span class="mr-3 footer-item"><a rel="nofollow" href="http://getdrawings.com/contacts">Contact Us</a></span>
+				<span class="footer-item"><a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a></span>
+				<div class="fb-like ml-3 footer-item" data-href="https://www.facebook.com/GetDrawingsCom" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+			</div>
+		</div>
+
+	</div>
+</footer>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48407729 = new Ya.Metrika({
+                    id:48407729,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48407729" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body></html>
