@@ -1,109 +1,175 @@
-> *The following text is extracted and transformed from the tangowire.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609031813id_/http%3A//us.tangowire.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tangowire.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821100556id_/http%3A//tangowire.com/privacy) for the most accurate reproduction.*
 
-# TangoWire :: TangoWire Member Privacy Policy
+# TangoWire - Online Dating Personals for Singles
 
-_Last updated on Monday, January 5th, 2015_
+## Privacy Policy effective for tangowire.com members
 
-### Proprietor
+## Who We Are?
 
-The owners and operators of this website including any mobile website (the "Website") and the dating and networking service offered via the Website (the "Service") is Venntro Inc., a corporation organized under the laws of the State of Delaware, whose registered office is 425 Boylston Street, Third Floor, Boston, MA 02116 ("we", "us" and "our").
+The tangowire.com web-site (hereinafter “Website”) and the service it provides to yourself as a member of the Dating Factory network, which is operated by Tyche Technologies AG (Hofstrasse 1A, CH-6300, Zug, Switzerland), a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
 
-We respect the privacy of each user accessing the Website ("User", "you", "your") and are committed to protecting your privacy. This Privacy Policy explains how we handle and protect personally identifiable information received from Users, and what Users can do to help protect that information.
+## Table of Contents
 
-### Submission and Processing of Information
-
-When you subscribe or sign up to the Website and/or the Service, we may ask you for certain personally identifiable information. This personally identifiable information may include information that can be used to identify or contact you, such as your name, email address, mailing address and telephone number ("Personal Information").
-
-If a User elects to subscribe for the Service or access one of our other fee-based services, the Personal Information of that User may also include certain financial information such as debit or credit card information provided by that User. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Website, you consent to our providing your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your debit or credit card issuer for their purposes. These third parties may include the debit/credit card companies, data processing companies and banking institutions used to process and support your transaction or activity.
-
-In addition, the Website automatically collects anonymous information about Users. For example, the Website automatically gathers a User's Internet Protocol address, which Internet Service Provider the User utilizes, statistics about how Users navigate through and use the Website, and information gathered through the use of a device known as a "cookie". Cookies are small pieces of removable data that are stored by the web browser on your computer, mobile phone or other device that identifies your computer, mobile phone or other device when you visit the Website. We use cookies to improve the Website and the services available to you.
-
-For more information about the cookies we use and the purposes for which we use them, please see our [Cookie Policy](https://web.archive.org/help/cookies.cfm).
-
-Personal Information collected on the Website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that Personal Information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer. 
-
-### User Postings
-
-Except as otherwise expressly described in this Privacy Policy, this policy only addresses the use and disclosure of Personal Information and other information we collect from you.
-
-In the course of your use of the Website or Service, including when you create a profile on the Website, you may elect to post or otherwise disclose information about yourself and others, which may include Personal Information or other personally identifiable information. You may also elect to communicate with others or upload content such as photographs. Such postings are governed by our [Terms of Use](https://web.archive.org/help/terms.cfm). Whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected or used by others. Such postings may also appear on other websites or when searches are executed on the subject of your posting.
-
-Furthermore, although we restrict access to portions of the Website to members of the Service, since the Service is offered through and accessible through a number of other websites in addition to the Website, any information that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different websites from the Website.
-
-You may also receive unsolicited messages from other parties as a result of such disclosure.
-
-Such activities are beyond our control and this Privacy Policy. You should therefore exercise discretion and extreme caution when disclosing any Personal Information or other information when using the Website or the Service.
-
-### Third Party Websites
-
-The Website contains links to other websites. We are not responsible for the privacy practices of such websites. It is the User's responsibility to review the privacy policies at those websites to confirm that they are acceptable prior to use. A link does not constitute an endorsement of the content, viewpoint or accuracy of such websites.
-
-### Marketing Communications
-
-By subscribing to the Services you agree that we may use your information to contact you by electronic mail (e.g. by email and SMS) ("Marketing Communications") about offers, events, competitions, items or related activities that you may find useful, as well as other similar products and services offered by us or any of our related entities from time to time. 
-
-You may receive Marketing Communications from us or any of our trading names, for example Venntro Inc., both during the term of your membership (whether full or basic) and after termination of your membership (or deletion of your account) unless you unsubscribe from receiving such Marketing Communications as set out below. 
-
-We do not sell, trade or rent Personal Information of Users to other companies and partners, but if you give us your express consent, we may share your Personal Information (other than credit card information) with affiliates of ours and with other carefully selected companies that we believe offer services and products that would potentially be of interest to you. In no event will the Company share any credit card information of any User. 
-
-If you wish to receive Marketing Communications from selected third parties, or if you would like to receive Marketing Communications from us about our non-dating related products and services or other third party products and services, you can indicate your consent by ticking the relevant opt-in tick box during the registration process. 
-
-#### How to unsubscribe from receiving Marketing Communications?
-
-If you have consented to receive Marketing Communications, you may always revoke that consent at any time by changing your settings at the Website or exercising the "unsubscribe" option in any Marketing Communications you get from us or from our marketing partners.
-
-### Confidentiality and Security of Personal Information
-
-Transmission of data and information via the Website is not a secure or encrypted transmission method for sending your Personal Information, unless otherwise indicated on the Website. Accordingly, your attention is drawn to the fact that any information and Personal Information carried over the Internet is not secure. Personal Information may be intercepted, lost, redirected, corrupted, changed and accessed by other people.
-
-Nevertheless, we are committed to using all reasonable efforts to protect Personal Information collected through the Website against unauthorized access, use or disclosure. Consequently, we limit employees' access to Personal Information collected through the Website to only those employees who need access to the information in the performance of their official duties. Employees who have access to this information are required to follow appropriate procedures in connection with any disclosures of Personal Information.
-
-The Company protects any debit or credit card information provided by the User by revealing only the last four digits of a User's debit/credit card number when confirming a subscription or order, but is required to transmit the entire debit/credit card number to its debit/credit card processor during processing. The Company will only store limited Credit Card or Debit Card information for the purpose of assisting with customer care enquiries. 
-
-In addition, we set strict security standards to prevent any unauthorized access to your Personal Information once we have received it and wherever possible we will use adequate security software and working procedures to ensure the security of your personal data. To prevent unauthorized access, maintain accuracy, and ensure proper use of Personal Information, we have employed physical, electronic, and managerial processes to safeguard and secure the Personal Information we collect online. These measures include limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections which guard against unauthorized access.
-
-### Disclosure of Personal Information
-
-We may disclose your Personal Information to any member of our group, which means our subsidiaries and our ultimate holding company and its subsidiaries and affiliates.
-
-We may disclose your Personal Information to third parties if you have consented to such disclosure. In addition, we may disclose or provide access to your Personal Information to third parties without your consent:
-
-  * if we sell or buy any business or assets, in which case we may disclose your Personal Information to the prospective seller or buyer of such business or assets;
-  * if we or substantially all of our assets are acquired by a third party, in which case Personal Information held by it about our customers will, in most instances, be one of the transferred assets;
-  * if we ask a third party to carry out data analysis, cleansing and/or market research on our behalf;
-  * for the purpose of validating the identity of the user and/or conducting background checks; or
-  * if we have a good faith belief that we are under a duty to disclose or share your personal data in order to comply with any legal obligation (such as in connection with a law enforcement request, judicial proceeding, court order or legal process), or in order to enforce or apply our cookie, or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  1. Summary of Privacy Policy
+  2. A special note about underage individuals
+  3. How We Collect Your Information
+  4. Legal Basis for Processing Personal Information
+  5. Information we collect
+  6. Our use of information we collect
+  7. Sharing and Disclosure of Personal information
+  8. Reviewing and Changing Your Information
+  9. Retention of Personal Information
+  10. Objection and Restriction of Personal Information
+  11. Links to third-party-websites
+  12. International Transfer of Personal Data
+  13. Policy changes and updates
+  14. Last revision and effective date
+  15. Security
+  16. Complaints and Concerns
 
 
 
-### Changes to Personal Information
+## 1\. Summary of Privacy Policy
 
-It is both in our interest and yours to store and process accurate Personal Information. If the Personal Information we hold about you is inaccurate in any way, where appropriate, you may have your Personal Information corrected by us on request. Please contact us to update any of your Personal Information by addressing the "Information Officer" via email at [ussupport@venntro.com](mailto:ussupport@venntro.com)
+This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners.
 
-### Children's Online Privacy
+The Website is committed to providing you with professional and high quality introductions and dating services and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the Website. The Website’s Privacy Policy applies to customer information we collect through our Website and is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues. 
 
-It is important to us that parents and guardians have control over what information is collected from their children online and how such information is or may be used. The Children's Online Privacy Protection Act of 1998 ("COPPA") imposes restrictions on commercial websites, including ours. It is our policy to be compliant with the requirements of COPPA and not to solicit or collect information about or from children age 13 and under.
+Your privacy is important to us and we want you to clearly understand how information provided by you, or collected during your use of the Website, is utilized to make your visit more enjoyable and to bring to you information and opportunities that may be of interest.
 
-Beyond the requirements of COPPA, we require that individuals be age 18 or over to register as a member of the Service and thus it is our policy not to solicit or collect information about or from anyone under the age of 18. Users are cautioned, however, that absent a clear indication an online communication has been submitted by a person under age 18, the collection of Personal Information submitted to the Website will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or state law, be subject to public access.
+By using the Website and/or our services, you signify your acceptance of our Privacy Policy and of our [Terms of use](https://web.archive.org/terms/). If you do not accept this Privacy Policy or do not accept our Terms of use, then we kindly ask you to leave the Website. 
 
-In the event that we receive an online communication clearly indicating that it has been submitted by a person under the age of 18, under no circumstances will any Personal Information be published on the Website, be used for a purpose not intended by its sender or shared with third parties.
+All references in this Policy to tangowire.com , “we”, “us”,“our” and like terms should be interpreted accordingly. 
 
-If you would like more information about COPPA, please visit the Federal Trade Commission's official COPPA page at [www.ftc.gov](http://www.ftc.gov/).
+Similarily, an reference to “you”, “your”, “yours” or “yourself” in this Privacy Policy is a reference to yourself as a a User of this Website unless otherwise stated.
 
-### Changes to this Privacy Policy and Transfers of Ownership
+## 2\. A special note about underage individuals
 
-You agree that if we transfer ownership or management of the Website or our business and/or assets to a third party we may also transfer your Personal Information and any other data or information you have provided to us to such third party, provided such third party agrees to observe this Privacy Policy.
+As stated in the Terms of use, we ask that persons under the age of 18 do not submit information to us. The Website does not knowingly collect information from children under 18 years of age. It shall be the responsibility of any parent or guardian to ascertain that children under their guardianship do not misuse any computer or electronic device in order to try to gain access or in any way make use of our website or service. Furthermore we expect and require that each user or member of our website and service undertakes that he shall protect the log-in information from any children or minors.
 
-We may change this Privacy Policy from time to time to accurately reflect how we gather and manage User information. We will post any changes to this Privacy Policy on the Website and, where appropriate and practicable, notify you by e-mail. All changes to the Privacy Policy will be effective upon posting to the Website. Please be sure to regularly check our Privacy Policy before using the Website. Continued use of the Website shall indicate your acceptance of any changes to this Privacy Policy.
+## 3\. How We Collect Your Information
 
-### Disclaimer
+Your personal information may be collected or accessed in a number of ways including: 
 
-The information provided in this Privacy Policy should not be construed as giving business, legal or other advice, or warranting as fail proof the integrity and security of information provided through this Website. While all reasonable attempts are made to provide accurate, current and reliable information, we recognize the possibility of human and/or mechanical error and the possibility that Users of the Site and other third parties may provide and/or publish information, graphics and images on the Site that are false, misleading, or inaccurate. Therefore, we make no representations as to the accuracy, completeness, currency or suitability of the information provided on this Website, and denies any expressed or implied warranty as to the same. For further disclaimers and limitations of liability regarding your use of the Website and Service, see our [Terms of Use](https://web.archive.org/help/terms.cfm).
+  * Directly from yourself (whether directly or verbally) when you set up a relationship with us, or you create an account and through any direct or indirect use of our Services; 
+  * Generated by us in correspondence etc;
+  * Received by third parties in relation to the services provided by ourselves following your permission, which may be obtained directly from you or indirecly through your actions. In such instances, we will make sure that such third parties are entitled to disclose such information to us.
 
-### California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties' or affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by addressing the "Information Officer" via email at [ussupport@venntro.com](mailto:ussupport@venntro.com). Please note that it may take up to 60 days from receipt of your email to receive this notice.
 
-### Further Information
+We may also obtain personal information about you through the use of our website (tangowire.com) or through the use of cookies on our website. 
 
-If you have any questions or comments about privacy or this Privacy Policy, please contact us by email at ([ussupport@venntro.com](mailto:ussupport@venntro.com)).
+## 4\. Legal Basis for Processing Personal Information
+
+We have the following lawful basis to process your personal information:
+
+Provide You with Our Services:  the legal basis for processing your personal information is the execution of the service requested from us or the execution of any agreement which you have with us. Your personal information may be used to maintain your account and profile so you will be able to connect with other users on our platform. 
+
+Consent:  In certain instances, we may ask for your consent or specific matters. When your consent is required for the collection, processing and disclosure of personal information, we will ensure that such consent is freely given. We may also ask you for your consent for us to periodically send you marketing material which we think may be suitable for you. Such marketing communications will only be sent to you if you have consented thereto through an ‘Opt-in’. You are hereby informed that, subject to legal or contractual restrictions, you may withdraw your consent to the processing of your personal information. Any communications with respect to such withdrawal or variation of consent shall be in writing and addressed at [privacy@datingfactory.com](mailto:privacy@datingfactory.com). 
+
+Legitimate Interests:  We may process your personal information on the basis of our legitimate interests including, to provide you with our service, analyzing users’ behaviour to improve our services and improve our content and for administration purposes 
+
+## 5\. Information we collect
+
+The different types of information we collect can include:
+
+5.1. Information provided by you in our online ANONYMOUS registration form such as your gender, age, type of relationship you are looking for, email, date of birth, billing information and credit card information. However, NONE of your personally identifiable information can be accessed or used by the public to identify a specific individual. 
+
+5.2. Information voluntarily supplied by you through the creation and completion of your profile, posting on or engaging in media such as messaging or chat on the Website. This may include but not limited to account credentials, dating matches age preferences, star sign, geographical location, photographs, videos, personal interests, physical characteristics and similar. 
+
+5.3. Information automatically collected when you visit or use our website, such as your IP address, email address, browser type and via cookies, analytic tools and third-party services. 
+
+5.4. Information obtained by others through our Website. We collect information which would have been provided to us by third party organisations. Such personal information may include contact details, demographic information and internet navigation details. 
+
+5.5. Information provided by Financial institutions or payment processors which may provide us with updates regarding your payment information or payment methods related to your paid account or paid subscription and services. 
+
+## 6\. Our use of information we collect
+
+We use your information to enhance our provision of services to you. Besides that, we also use your information to protect you, other users and the integrity of our website against fraud or as may be required by law.
+
+All the information you fill in about yourself on your profile will be displayed on your profile page. We may remove any inappropriate image, language or words and phrases that don’t contain any information or make sense in the interests of other members and with a view of providing a quality dating service to every member of the Website.
+
+We may internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
+
+We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners and promotions.
+
+We also use your information for administration purposes and to communicate with you in ways you want to hear from us.
+
+We may contact you regularly by e-mail for customer service purposes as well as to make you aware of specials, new services and opportunities for our customers. We will not contact you via phone or text message without your express consent (opt-in). We use an opt-out standard for all communications other than administrative communication concerning your account.
+
+## 7\. Sharing and Disclosure of Personal information
+
+Your personal information voluntarily provided by yourself is disclosed with other users through your public profile. Kindly note that once you share information publicly on the internet, we will have no control over as to how your information maybe used by others.However, we will NOT display any of your personal information such as your real name, e-mail address, full post code, mobile or landline phone number or IP-address, and they will be kept strictly private and confidential. In any case when we ask for such information we make it clear that it is not for display without your express consent.
+
+We may further disclose your personal information with our employees, partners and any other third parties which may require such information in order to be able to assist us in handling the relationship which we have with you. When we share your personal information with such third parties, we make sure that such parties make use of this data in a manner which ensures safety and security to your personal data. 
+
+This website is operated by Tyche Technologies AG which is part of a group of related companies, that are linked together and operate different parts of the business. We act as a group and henceforth we share information and data with other group companies as may be necessary. We confirm that all group companies adhere to the data protection obligations listed herein and subject to the extent and limitations imposed by any national laws of any particular company. By accepting our T&Cs, you confirm that you are bound by this Privacy Policy and also accept that we may share information with other group companies, and that any processing may be done by any one of the group companies. 
+
+We DO NOT sell or rent any personally identifiable information about you to any third party without your specific permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. In these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. 
+
+In order to maintain a healthy community, we cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+
+We will NOT share your personal information with any third party for marketing purposes without your consent. 
+
+We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the Website. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting.
+
+Your individual use of the Website and your interaction with other members through this site will be kept strictly private.
+
+Subject to your explicit consent, we may from time to time send you emails containing information about the system and site activity, notifications, promotions, as well as promotions by third-parties that we feel may be of interest to you. You may unsubscribe from the Website’s emails or emails sent by third-parties at any time by changing your profile settings or by following the unsubscribe link included in every email sent by the Website or by a third-party.
+
+In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by the Website to safely identify you each time you logon and use the Website, and to keep your session active when you don’t use the website for a period of time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous. For further information about cookies, kindly go through our Cookies Policy.
+
+## 8\. Reviewing and Changing Your Information
+
+We will employ reasonable means to keep your personal information accurate, complete and up to date for its intended use, however you must immediately inform us, if and when, your personal information changes. 
+
+In so far as your personal information in concerned, you shall have the right to receive confirmation that your personal information is being processed and may request access to the said personal information. You may further request a copy of such information obtained by ourselves \- such request may be made verbally or by electronic means. We will provide a copy of such in a structured, commonly used and machine-readable format.
+
+You have the following choices to modify or delete your information from our database: 
+
+  * Send an email to [Customer Support](https://web.archive.org/contacts/)
+  * Log in with your password and change/delete your profile
+
+
+
+If your profile is set for deletion from our database, after making it inactive, please note that we will keep the data associated with it for another three months (approximately ninety calendar days), in case the information is required in connection with the original purpose for which it was collected or otherwise permitted or required by law. In any case your profile will be rendered inactive and it will NOT be shown on the Website.
+
+## 9\. Retention of Personal Information
+
+We retain your personal information for as long as it is necessary to provide you with our services as outlined in this Policy, or until your account is deleted, unless a longer retention period is required or otherwise permitted by law. You have the right to obtain from us the erasure of your personal information however this is subject to our legal obligations which may require us to hold your personal information for a specified period of time. 
+
+## 10\. Objection and Restriction of Personal Information
+
+You have the right to object, on grounds relating to your particular situation to processing of your personal data. We shall no longer process your personal data unless we have a compelling legitimate ground for the processing. You have the right to object at any time to the processing of personal data concerning you for direct marketing purposes. You may unsubscribe from receiving email notifications to your external mailbox, please use the link at the bottom of each email or go to your [Profile >> Account details](https://web.archive.org/myprofile/update/) page manage your e-mail settings.
+
+We further recognise your right to restrict processing of personal data, in which case we will only keep them for the exercise or defense of complaints. 
+
+## 11\. Links to third-party websites
+
+Kindly note that when you access other third party websites from hyperlinks on our website, we will have no control over the content of those websites. These websites have their own privacy policies to which accept no responsibility or liability for. 
+
+## 12\. International Transfer of Personal Data
+
+Where we allow contractors or third parties to process your personal information outside the European Economic Area, we will make sure that there are the proper safeguards in place so as to safeguard your personal information. We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries
+
+## 13\. Policy changes and updates
+
+The Website reserves the right to update this Policy whenever it finds this necessary. Should any changes to the Policy occur, this will be marked via update of the date of last revision of the Policy present at the end of this document.
+
+## 14\. Last revision and effective date
+
+This Policy was last revised on May 20, 2018. For users who registered for the Services prior to May 20, 2018, this Policy will be effective on May 24, 2018.
+
+This Privacy Policy has been translated for your convenience. If there is any discrepancy between this version and the original English version, the English version shall apply.
+
+If you have questions or concerns, please use [Customer Support](https://web.archive.org/contacts/) form on the Website and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have.
+
+## 15\. Security
+
+Safeguarding the privacy of your personal data is of utmost importance to us and henceforth, all necessary technical and organisational measures will be taken in securing that your personal data is stored safely and all precautions will be carried out to ensure that no authorised or unlawful processing of personal data takes place. Kindly note that although we take all such necessary steps to secure your information, we do not promise, and you should not expect, that your personal information will always remain secure.
+
+## 16\. Complaints and Concerns
+
+If you have any concerns with regards to our privacy methods and processes, you have the right to contact us by telephone, in writing or by e-mail to make a complaint at [privacy@datingfactory.com](mailto:privacy@datingfactory.com). Your concerns will be dealt within the shortest time possible. In case you are not satisfied with our response, you may contact the Federal Data Protection and Information Commissioner in Switzerland. 
