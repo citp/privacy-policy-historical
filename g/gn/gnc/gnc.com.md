@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnc.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618003626id_/http%3A//www.gnc.com/Privacy%2520Statement/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnc.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821194444id_/https%3A//www.gnc.com/Privacy%2520Statement/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement | GNC
 
