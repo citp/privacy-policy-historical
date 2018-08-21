@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the healthwealthbridge.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526113909id_/http%3A//healthwealthbridge.com/about-me/healthwealthbridge-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwealthbridge.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821134555id_/https%3A//healthwealthbridge.com/about-me/healthwealthbridge-com-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-[Home](http://healthwealthbridge.com/) » [About me](http://healthwealthbridge.com/about-me/) » Healthwealthbridge.com Privacy Policy
+[Home](https://healthwealthbridge.com/) » [About me](https://healthwealthbridge.com/about-me/) » Healthwealthbridge.com Privacy Policy
 
-[Healthwealthbridge ](http://healthwealthbridge.com/)is governed by the following [Updated Privacy policy](http://healthwealthbridge.com/privacy-policy/) in compliance with [GDPR](http://healthwealthbridge.com/gdpr-compliance/).
+[Healthwealthbridge ](https://healthwealthbridge.com/)is governed by the following [Updated Privacy policy](https://healthwealthbridge.com/privacy-policy/) in compliance with [GDPR](https://healthwealthbridge.com/gdpr-compliance/).
 
-We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to [Healthwealthbridge ](http://healthwealthbridge.com/)  . This Website may contain third-party links to other websites which are not governed by this policy.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to [Healthwealthbridge ](https://healthwealthbridge.com/)  . This Website may contain third-party links to other websites which are not governed by this policy.
 
  ** _What Information Do We Collect and How Is This Information Used?_**
 
@@ -16,7 +16,7 @@ We respect your privacy and are committed to protecting it. The purpose of this 
   4. The Website uses **Google Analytics** to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics. [For more information on Google’s Analytics privacy policies, please visit this site](https://support.google.com/analytics/answer/6004245).
   5. This Website engages in **sponsored campaigns** with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
   6. The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described above.
-  7.  [Healthwealthbridge ](http://healthwealthbridge.com/) is a participant in the **Amazon Services LLC Associates** Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+  7.  [Healthwealthbridge ](https://healthwealthbridge.com/) is a participant in the **Amazon Services LLC Associates** Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
 
 
