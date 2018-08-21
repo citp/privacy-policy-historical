@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105190044id_/https%3A//www.fly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821222131id_/https%3A//www.fly.com/privacy) for the most accurate reproduction.*
 
-# Fly.com Privacy Policy
+# Cheap Flights Privacy Fly.com us
 
 The Fly.com website is made available by Fly Holdings, LLC. 
 
@@ -8,7 +8,7 @@ Fly Holdings, LLC. is committed to protecting your privacy. Please read our priv
 
 ### What This Privacy Policy ("Policy") Covers
 
-  * This Policy explains the privacy practices of Fly Holdings, LLC. and its family of related companies including licensees (collectively, "Fly Holdings") and applies to your use of Fly Holdings' products and services, including the websites and Mobile Applications that link to this policy (collectively, the "Services"). For more information on our Services, [click here](http://www.fly.com/).
+  * This Policy explains the privacy practices of Fly Holdings, LLC. and its family of related companies including licensees (collectively, "Fly Holdings") and applies to your use of Fly Holdings' products and services, including the websites and Mobile Applications that link to this policy (collectively, the "Services"). For more information on our Services, [click here](https://www.fly.com/).
   * This Policy covers how Fly Holdings treats the personal information we collect and receive related to your use of our Services and Mobile App.
   * When we refer to "personal information", what we mean is any information about you that is personally identifiable like your name, address, e-mail address, credit card information, precise location data, or phone number, and any other information that is not otherwise publicly available.
   * This Policy does not apply to the practices of people or companies that Fly Holdings does not own, control, employ or manage, except where incorporated by reference within licensing arrangements with third parties.
@@ -18,9 +18,9 @@ Fly Holdings, LLC. is committed to protecting your privacy. Please read our priv
 
 ### Information Collection
 
-  * Fly Holdings may collect personal information about you when you visit and use our websites or Mobile App, when you register or subscribe for and sign in to our Services, when you open our e-mail newsletters or use Fly Holdings software widgets, when you visit the websites of some Fly Holdings partners, when you participate in a member review, and when you enter promotions or sweepstakes sponsored by or in connection with Fly Holdings. For more information on Promotions, [click here](http://www.fly.com/).
+  * Fly Holdings may collect personal information about you when you visit and use our websites or Mobile App, when you register or subscribe for and sign in to our Services, when you open our e-mail newsletters or use Fly Holdings software widgets, when you visit the websites of some Fly Holdings partners, when you participate in a member review, and when you enter promotions or sweepstakes sponsored by or in connection with Fly Holdings. For more information on Promotions, [click here](https://www.fly.com/).
   * Fly Holdings may combine the information that we collect about you with information that we obtain from business partners or other sources.
-  * When you subscribe to or use our Services, we may ask you to provide personal information such as your name, credit card information, mailing address (including country of residence), e-mail address, telephone number, Instant Messaging address, birth year, gender, preferred airport, occupation, and other personal interests. In addition, when you subscribe to or use our Services, we collect and store your IP address and, when using our Mobile Application, data such as device type and OS version. Note, you are not anonymous to us when you sign in to our Services. For more information on IP Addresses, [click here](http://www.fly.com/).
+  * When you subscribe to or use our Services, we may ask you to provide personal information such as your name, credit card information, mailing address (including country of residence), e-mail address, telephone number, Instant Messaging address, birth year, gender, preferred airport, occupation, and other personal interests. In addition, when you subscribe to or use our Services, we collect and store your IP address and, when using our Mobile Application, data such as device type and OS version. Note, you are not anonymous to us when you sign in to our Services. For more information on IP Addresses, [click here](https://www.fly.com/).
   * Fly Holdings may collect information about your transactions with us and our business partners through our Services.
   * By signing up for our mobile services, downloading our mobile application or providing your phone number, you consent to receiving push notifications, advertising messages and text messages from Fly Holdings relating to our products and services.
   * When using our Mobile App, if you tell Fly Holdings where you are located (e.g., by allowing your mobile device to send Fly Holdings your location), Fly Holdings may use that information to provide you with location-based information, tailored offers and advertising. If you wish to deactivate this feature, you can disable location services on your mobile device.
@@ -35,7 +35,7 @@ Fly Holdings, LLC. is committed to protecting your privacy. Please read our priv
   * Fly Holdings may use the data we collect about you for the following purposes: 
     * To provide you with the products or services you have requested from us or through our Services;
     * To provide personal information, when required by law, in connection with security-related or law enforcement investigations, to comply with legal requirements, orders, or proceedings, to perform credit checks, report or collect debts owed, or to protect the rights or property of Fly Holdings, our employees, our members, and our Services;
-    * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Fly Holdings' [Terms & Conditions](http://www.fly.com/), or as otherwise required by law;
+    * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Fly Holdings' [Terms & Conditions](https://www.fly.com/), or as otherwise required by law;
     * To customize the content and provide targeted advertising for our Services and to improve our Services;
     * To contact you with offers by Fly Holdings and/or third parties that we think may be of interest to you;
     * To conduct research and provide anonymous reporting for internal and external clients;
@@ -56,17 +56,17 @@ Fly Holdings, LLC. is committed to protecting your privacy. Please read our priv
 
 ### Cookies and Other Technologies
 
-  * We use cookies and other technologies, such as web beacons, pixel tags, and clear gifs, to personalize our Services to your preferences and to provide an automatic log-in process. For more information about our use of cookies, [click here](http://www.fly.com/).
+  * We use cookies and other technologies, such as web beacons, pixel tags, and clear gifs, to personalize our Services to your preferences and to provide an automatic log-in process. For more information about our use of cookies, [click here](https://www.fly.com/).
   * Fly Holdings may use web beacons to access Fly Holdings cookies in connection with our Services. 
     * A web beacon is activated as part of a web page or e-mail and allows us to count visitors to our websites and to recognize users by accessing Fly Holdings cookies which help us personalize your experience when you use our Services.
-    * Fly Holdings also uses web beacons to conduct research on behalf of our partners and for auditing purposes. No personally identifiable information about you is shared with partners from this research. For more information about our use of web beacons, [click here](http://www.fly.com/).
-    * We may partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+    * Fly Holdings also uses web beacons to conduct research on behalf of our partners and for auditing purposes. No personally identifiable information about you is shared with partners from this research. For more information about our use of web beacons, [click here](https://www.fly.com/).
+    * We may partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 
 
 ### Your Account Information and Preferences
 
-  * Fly Holdings respects your right to control how your personal information is used. Fly Holdings may give you the opportunity to request communications from vendors, partners, advertisers, and other service providers. For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Fly Holdings services you previously requested, update your account or to terminate your account, please visit your [User Profile](http://www.fly.com/). To unsubscribe from receiving Fly.com marketing emails, please [click here](http://www.fly.com/unsubscribe). Users can access their account by going to their profile page. If you have any issue accessing your profile page to update or delete your account, or to request deletion of information you have provided to us, please use the feedback form below. We will respond to your deletion requests within ten business days. Users may also follow unsubscribe instructions included in each promotional email.
+  * Fly Holdings respects your right to control how your personal information is used. Fly Holdings may give you the opportunity to request communications from vendors, partners, advertisers, and other service providers. For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Fly Holdings services you previously requested, update your account or to terminate your account, please visit your [User Profile](https://www.fly.com/). To unsubscribe from receiving Fly.com marketing emails, please [click here](https://www.fly.com/). Users can access their account by going to their profile page. If you have any issue accessing your profile page to update or delete your account, or to request deletion of information you have provided to us, please use the feedback form below. We will respond to your deletion requests within ten business days. Users may also follow unsubscribe instructions included in each promotional email.
   * We reserve the right to send you certain communications relating to the Fly Holdings Services or your account, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.
   * Information about how to opt out of receiving communications to which you are currently subscribed is included in the communications we send to you.
   * If you request termination of your Fly Holdings account, it is our practice to deactivate your account and block further e-mail deliveries to you in approximately ten business days. This delay is necessary to discourage users from engaging in fraudulent activity.
@@ -76,9 +76,9 @@ Fly Holdings, LLC. is committed to protecting your privacy. Please read our priv
 
 ### Confidentiality and Security of Your Personal Information
 
-  * Fly Holdings takes reasonable security measures to protect your user information under our company's control against loss, misuse, or alteration. For more information on Security at Fly Holdings, [click here](http://www.fly.com/)
+  * Fly Holdings takes reasonable security measures to protect your user information under our company's control against loss, misuse, or alteration. For more information on Security at Fly Holdings, [click here](https://www.fly.com/)
   * Fly Holdings reserves the right to enhance information about you with appropriate and legal data that may be obtained to serve you better and present you more relevant information, for example by using Geo-IP maps. In addition, Fly Holdings reserves the right to take proactive steps to unsubscribe users for a variety of reasons at Fly Holdings' discretion, for example if an e-mail address stops accepting e-mail.
-  * Fly Holdings complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Fly Holdings has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Fly Holdings' certification, please visit <http://www.export.gov/safeharbor/>
+  * Fly Holdings complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Fly Holdings has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Fly Holdings' certification, please visit <https://www.export.gov/safeharbor/>
 
 
 
@@ -109,7 +109,7 @@ Fly Holdings, LLC. is committed to protecting your privacy. Please read our priv
 
 ### Questions/Your Privacy Rights
 
-  * If you have questions about this Privacy Policy, regarding disclosure of personal information to third parties should it ever occur, or about data we may hold about you, please complete a [feedback form](http://www.fly.com/).
+  * If you have questions about this Privacy Policy, regarding disclosure of personal information to third parties should it ever occur, or about data we may hold about you, please complete a [feedback form](https://www.fly.com/).
 
 
 
