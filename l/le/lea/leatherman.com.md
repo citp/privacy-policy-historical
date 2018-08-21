@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924230455id_/http%3A//www.leatherman.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821085615id_/https%3A//www.leatherman.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Leatherman
 
-## Last Updated: September 5, 2013
+## Last Updated: May 15, 2018
 
 Leatherman Tool Group, Inc. (“Leatherman,” “we,” “our,” or “us”) recognizes that you care about how information about you is used and shared and respects your privacy. This notice of privacy practices (“Notice”) informs you of how information is collected on and through this Leatherman website, located at http://www.leatherman.com (the “Website”), how we may use the information and with whom we may share it. This Notice also describes (i) the measures we take to safeguard the information we collect and (ii) your rights concerning our collection, use and disclosure of information about you. Information collected on or through this Website may be collected by Leatherman or by third-party service providers acting on our behalf. The term “we,” as used in this Notice, may include our third-party service providers. 
 
@@ -43,6 +43,12 @@ How We May Use the Information We Collect. We use the personal information we co
 
 We use non-personally identifiable information collected through automated means for purposes such as: (1) customizing visits to the Website based on observable user preferences and actions; (2) delivering content (including advertising) correlating to our users’ interests based on the ways in which our users interact with the Website; (3) to perform data analyses, including market and consumer search, trend analysis, demographic analysis, and financial analysis; (4) diagnosing technical and service problems; and (5) administering the Website. 
 
+_Google Analytics_
+
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify users or associate your IP address with any other data held any Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
+
+Read more about how Google uses data when you use our site: <https://policies.google.com/privacy/partners>
+
 Information We Share. Except with your consent or as described in this Notice, we do not sell or otherwise share personal information collected on this Website with third parties. We may share and disclose your personal information to third parties in the following ways: 
 
   1. Affiliates. We may share your personal information with our Affiliates so long as the disclosure and use of your personal information by such entities is consistent with this Notice. 
@@ -80,7 +86,7 @@ How to Contact Us. If you have any questions or comments about this Notice, or i
 
 You also may write to us at:
 
-Leatherman Tool Group, Inc.  
-P.O. Box 20595  
-Portland, OR 97294  
+Leatherman Tool Group, Inc.   
+P.O. Box 20595   
+Portland, OR 97294   
 
