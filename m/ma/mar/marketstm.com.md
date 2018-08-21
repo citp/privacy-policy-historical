@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketstm.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619080211id_/http%3A//www.marketstm.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketstm.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821071946id_/http%3A//www.marketstm.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MTM - Markets Trade Media - Privacy Policy
 
@@ -36,7 +36,7 @@ This online privacy policy applies only to information collected through our web
 
 ##### Terms and Conditions
 
-Please visit our [Terms and Conditions](https://web.archive.org/web/20180619080211id_/http%3A//www.marketstm.com/terms-conditions.html) section establishing the use, disclaimers, and limitations of liability governing the use of our service.
+Please visit our [Terms and Conditions](https://web.archive.org/web/20180821071946id_/http%3A//www.marketstm.com/terms-conditions.html) section establishing the use, disclaimers, and limitations of liability governing the use of our service.
 
 ##### Your Consent
 
@@ -50,6 +50,6 @@ _This policy was last modified on June 28, 2015._
 
 ##### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the form on the [CONTACT US](https://web.archive.org/web/20180619080211id_/http%3A//www.marketstm.com/index.html#contact) page.
+If there are any questions regarding this privacy policy you may contact us using the form on the [CONTACT US](https://web.archive.org/web/20180821071946id_/http%3A//www.marketstm.com/index.html#contact) page.
 
-[Back to main](https://web.archive.org/web/20180619080211id_/http%3A//www.marketstm.com/index.html)
+[Back to main](https://web.archive.org/web/20180821071946id_/http%3A//www.marketstm.com/index.html)
