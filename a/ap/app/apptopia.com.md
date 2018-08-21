@@ -1,65 +1,104 @@
-> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119073946id_/https%3A//apptopia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptopia.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821141141id_/https%3A//apptopia.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apptopia
 
-Apptopia.com is owned and controlled by Apptopia, Inc. (“Apptopia”, “we”, “us” or “our”). We are sensitive to your concerns about how we use the personal information we collect from someone that accesses, browses, or in any way uses the Services (“You”, “you”, or “User”) through Apptopia.com website(s), domains, Applications, or any of its Services (the “Site”). We have implemented this privacy policy (the “Privacy Policy”) and practices to keep your personal information secure, and it describes how we collect and use such information, and the choices you have regarding our use. This Privacy Policy is incorporated into our Terms of Services and therefore governs your use of the Services. BY ACCESSING OR USING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR USE THE SERVICES.
+### Last Updated: May 21st, 2018
 
-## The Information We Collect
+This privacy policy (" **Privacy Policy** ") describes how Apptopia, Inc. and its related companies (" **Apptopia,** " " **we,** " and " **us** "), acting as data controllers, collect, use and share information when a person or business (" **you,** " " **your** ") accesses our website or uses in any manner any Apptopia mobile application, product, service, feature, technology, content, or website (collectively, the " **Services** ").
 
-We may collect the following personal information during the registration process (e.g. name, email address, and company name) (“Personally Indentifiable Information” or “PII”). We also collect a variety of non-identifying visitor data, much of it automatically, such as IP addresses, browser settings and history, ISP information, referring/exit pages, operating systems, date/time stamps, search inquiries, and clickstream data (collectively “Non-Personal Information”). We use Non-Personal Information to analyze trends, to administer the site, to measure users’ activity on the site and to gather demographic information about our user base as a whole. We do link this automatically collected data to PII. When referring to both PII and Non-Personal Information collectively, we will refer to it as “User Information”.
+BY CLICKING A BOX INDICATING YOUR ACCEPTANCE, BY USING OR BY REGISTERING TO THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE LEGALLY BOUND BY THE TERMS OF THIS PRIVACY POLICY AND ARE CONSENTING TO APPTOPIA'S PRACTICES RELATED TO YOUR INFORMATION AND THIS PRIVACY POLICY. YOUR CONTINUED USE OF THIS SITE OR SERVICES AFTER APPTOPIA MAKES A CHANGE IS DEEMED TO BE ACCEPTANCE OF THOSE CHANGES.
 
-## Cookies, Web Beacons, and Other Technologies
+YOU REPRESENT AND WARRANT THAT (I) YOU ARE 16 YEARS OF AGE OR OLDER, AND (II) YOU HAVE READ AND UNDERSTOOD THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE, WITH THIS PRIVACY POLICY AND PRACTICES, DO NOT USE, VISIT, REGISTER OR OTHERWISE ACCESS THE SITE, THE SERVICES AND CONTENT CONTAINED ON THE SITE OR SERVICES.
 
-We may use the standard cookie feature of major browser applications and third-party provides, or employ internally developed cookies and tracking codes, that allows Apptopia to store a small piece of data on a User’s computer (or any other device used to access the Services, including a mobile device) about the User’s use of the Site. It’s a text-only string of information that allows us to distinguish you from other Users, but not in a personally identifiable way. We do capture PII in cookies or use cookies to mine PII. If you do not want us to use cookies, you must disable them in your browser. If you choose to do so, you may still use the Site, but your ability to use some of areas and features of the Site may be limited.
+## WHAT WE COLLECT
 
-We employ technologies such as clear gifs (a.k.a. Web Beacons), tags and scripts to help us better manage content by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track online usage metrics. In contrast to cookies, which are stored on a user’s computer or device, clear gifs are embedded invisibly on web pages. We do tie the information gathered by clear gifs to PII.
+We get information about you in a range of ways.
 
-Our Services may include links, features or components supplied by third parties, such as the social media links, Google Analytics, or other interactive and customizable tools. Such third parties may have information practices different than those set forth herein and their use of cookies and other technologies is not covered by this Privacy Policy. We do not have access to or control over such third parties, nor are we responsible for it or endorse it. We strongly encourage you to consult the privacy notices provided by those third parties.
+### Information You Give Us.
 
-## How We Use and Share the Information We Collect
+We collect your account data, which may include your‎ name, postal address, email address, phone number, username and password (“ **Account Data** ”). The Account Data may be processed for the purposes of providing to you our Services and of ensuring their security, maintaining back-ups of our databases and communicating with you.
 
-We use PII in solely our ordinary course of business with you, such as communicating with you, processing your requests or orders, or give you access to the Services. We may also use PII to contact you about our products and services, such as promotional emails and technical announcements about the Site. Please note you may opt-out of promotional emails but not technical or service-related emails (unless you terminate your account).
+We may process information included in your personal profile, which may include your demographic information, location, time zone and website (“ **Profile Data** ”). The Profile Data may be processed for the purposes of providing you a better user experience when using the Services.
 
-We use Non-Personal Information for our internal business purposes including, without limitation, to provide Apptopia with statistics on how the Services are used, to help us detect and measure errors in the Services, to provide, understanding, and enhance the Services for you (including improving your individual experience with the Services), and for marketing purposes.
+We may process financial information such as credit card or PayPal information when you order Services in order to facilitate the processing of payments (“ **Payment Information** ”).
 
-We may share some of all of your User Information (collectively with our subsidiaries, joint ventures, affiliates, or other companies under common control that we have or may have in the future, provided such party undertakes to protect your privacy in accordance with this Privacy Policy. We may also share your Information with third parties who perform services for Apptopia (“Service Providers”), as specified below. Such Service Providers are prohibited from using your Information other than to provide services to Apptopia.
+We may process information contained in or relating to any communication that you send to us (“ **Correspondence Data** ”). The Correspondence Data may include the communication content and metadata associated with the communication. The correspondence data may be processed for the purposes of communicating with you, provide customer service and record-keeping.
 
-We may disclose your User Information without notice to you if we conclude that it is required by law, such as to comply with a subpoena or similar legal process, or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. Notwithstanding anything herein, we reserves the right to use and disclose anonymous data to third parties in our discretion. We may also transfer User Information if Apptopia is merged, acquired, sold, or if some or all of our assets or equity are transferred.
+### Information Automatically Collected.
 
-We do not response to Do Not Track (“DNT”) signals, and we do not store credit card details with any third parties. If you have questions or concerns about such information, please see Stripe’s [Privacy Policy](https://stripe.com/us/privacy).
+We automatically log information about you, your computer or your mobile device when you visit our website or access the Services (“ **Usage Data** ”). For example, when visiting our website, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our website, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our website. If you use a mobile device to access the Services we may collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address. The Usage Data is processed for the purpose of providing our Services.
 
-Other than as set forth herein, we will not share, rent or sell your User Information to a third party.
+### Information We Get From Others.
 
-## Service Providers
+We may get information about you from other sources. We may add this to information we get from our website or your use of the Services
 
-We work with third parties to provide Users with the best customer experience. As such, User Information may be provided in certain circumstances to third parties to carry out tasks on our behalf for the purpose of maintaining, operating, providing and improving the Services (e.g., billing, emailing, CRM, support, analytics, and data storage). When third parties carry out task on our behalf, we implement restrictions that prevent such User Information from being used or shared except as directed by us, including that they are subject to and in compliance with our Terms, Privacy Policy and have appropriate confidentiality and security measures in place. These companies are authorized to use User Information only as necessary to provide services to us. You hereby acknowledge and consent to such use by using the Services.
+In particular, we may use third-party service providers such as Google Analytics to provide anonymous site metrics and other analytics services (the “ **Analytics Data** ”). These third parties may use cookies, web beacons, and other technologies to collect information, such as your IP address, identifiers associated with your device, other applications on your device, the browsers you use to access our Services, webpages viewed, time spent on webpages, links clicked, and conversion information (e.g., transactions entered into). The Analytics Data may be used by us and third-party service providers on our behalf to analyze and track usage of and better understand how you use the Services. You can find information about Google Analytics’ privacy policy at [https://support.google.com/analytics/answer/6004245.](https://support.google.com/analytics/answer/6004245)
 
-## Third Party Websites
+When you connect your iTunes Connect and Google Play accounts with our Services, we retrieve key metrics information about your mobile application, such as downloads, installs and uninstalls, advertising revenues and in app purchases (the “ **App Metrics Data** ”). We then use anonymized, aggregate trends of the App Metrics Data to optimize our Service offering to our clients.
 
-We may maintain links to other websites and other websites may maintain links to Apptopia. Our inclusion of such links on the Site is not an endorsement, authorization or representation of our affiliation with any such third parties, and we are not responsible for any information you may share with such third parties, nor are we responsible for their privacy practices or policies, which you agree to by accessing their sites.
+## SHARING OF INFORMATION
 
-## Processing or Transfer to Other Countries
+We may share Personally Identifiable Information as follows:
 
-Your Information may be processed by Apptopia or Service Providers in the country in which it was collected or entered (“Original Country”). Apptopia or Service Providers may also transfer your Information to countries other than the Original Country. Such other countries may have different data protection laws than the Original Country and you expressly agree to such processing and transfer.
+  * We will only share Account Data or Profile Data with your explicit consent and you have the right to withdraw this consent at any time by simply sending us an email at [privacy@apptopia.com](mailto:privacy@apptopia.com). For example, you may let us share personally identifiable information with others for their own marketing uses. We would immediately stop sharing your Account Data or Profile Data upon receipt of your email instructing us to do so.
+  * We may share Account Data or Profile Data for legal, protection, and safety purposes.
+    * We may share information to comply with laws.
+    * We may share information to respond to lawful requests and legal processes.
+    * We may share information to protect the rights and property of Apptopia, Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+    * We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
+  * We may disclose Usage Data and Analytics Data to a variety of third party service providers insofar as reasonably necessary to improve the functionalities of the Services. For example, we may disclose Service Data to obtain useful analytics, provide in-app support to mobile app users, determine location data and provide search engine functionality to our users.
+  * We share App Metrics Data with our clients for their own uses.
+  * We may share information with those who need it to do work for us. This disclosure will be subject to these third parties entering into confidentiality covenants with respect to your information.
+  * We may share personally identifiable information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding. In this event, we will notify you before your personal information is transferred and becomes subject to a different privacy policy.
 
-## Information Security
 
-Apptopia employs a variety of security technologies and procedures designed to help prevent unauthorized disclosure of, access to and use of Information that we collect or receive. However, we cannot guarantee the security of your Information. ACCORDINGLY, WE EXPRESSLY DISCLAIM ANY AND ALL LIABILITY FOR THE THEFT, LOSS, OR INTERCEPTION OF, OR UNAUTHORIZED ACCESS OR DAMAGE TO, YOUR DATA OR COMMUNICATIONS BY USING THE SITE AND OUR SERVICES. YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND ASSUME THESE RISKS.
 
-IF YOU BELIEVE YOUR PRIVACY HAS BEEN BREACHED THROUGH USE OF OUR SITEOR OTHER SERVICES PLEASE CONTACT US IMMEDIATELY.
+## INFORMATION CHOICES AND CHANGES
 
-## Accessing, Changing and Deleting Your Account
+Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
 
-You can update or correct personal information (e.g., your email address) by accessing your account. You can also access, or delete, your information by reaching out to us at [privacy@apptopia.com](mailto:privacy@apptopia.com). We will respond to your request within 30 days. Please note that we have the right to reject deletion requests that are unduly burdensome or repetitive or that cannot be honored in light of legal obligations or ongoing disputes, or where retention is necessary to enforce our agreements or protect our or another party’s rights, property, safety, or security.
+You can typically remove and reject cookies from our website with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our website works for you.
 
-## Our Policy Towards Children
+You may access, review, change, delete and update the Account Data, Profile Data, Payment Information and Correspondence Data at any time via our website, by email at [privacy@apptopia.com](mailto:privacy@apptopia.com) or otherwise via the Services.
 
-We do not offer products or services for anyone under 18 (“Child”). If you are a Child, you may not access the Site or Services without the consent of a parent or guardian. We do not knowingly collect PII from any Child. If a parent or guardian becomes aware that a Child has provided use with PII, he or she should contact us immediately at [privacy@apptopia.com](mailto:privacy@apptopia.com). If we become aware that a Child has provided us with PII, we will delete such information from our files.
+You may choose to close or request that we delete your Apptopia account at any time. We will use commercially reasonable efforts to remove the Account Data, Profile Data, Payment Information and Correspondence Data, although some information may be retained. For example, some information may be retained on a backup server or media, which is necessary to help ensure the continued availability of the Services.
 
-## Updates
+You have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
 
-We reserve the right to revise this Privacy Policy or any part of it from time to time. We will provide notice (e.g., via email or our website) of material changes before any such changes take effect. Changes to this Privacy Policy may affect User Information provided to Apptopia before the revised Privacy Policy. Please review the Privacy Policy periodically for changes. You acknowledge and agree that your use of the Services after Apptopia posts an updated privacy policy will constitute notice of, and consent to, the updated policy.
+## LINKS
+
+The Services may contain references, frames, links and other functionality that connect with certain internet websites, applications or resources, or social media platform or services maintained by third parties (" **Links** "). These Links are provided for your convenience only. You acknowledge and agree that we are not responsible or liable for: (i) the availability or accuracy of such websites or resources; or (ii) the content, features, products, services, privacy policies or terms of service on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by us of such websites or resources or the content, products, or services available from such websites or resources, or its owners, sponsors or operators.
+
+This Privacy Policy applies only to the Services This Services may contain links to other websites not operated or controlled by us (“ **Third Party Sites** ”). The Privacy Policy does not apply to Third Party Sites.
+
+You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources or the content, products or services on or available from such websites or resources, privacy policies or terms of service of any other third party, including, without limitation, any social media platform.
+
+## SECURITY
+
+We are very serious about keeping your personally identifiable information safe. We provide reasonable and appropriate security measures to protect the personally identifiable information submitted to us, both during transmission and upon receipt. However, the Internet is not a secure environment and we do not warrant that personally identifiable information may not be accessed, copied, disclosed, altered, or destroyed by breach despite the security protections undertaken by us. We cannot guarantee the absolute security of your personally identifiable information. No data transmission or storage system can be guaranteed to be 100% secure. If you have any questions about security on our website and the Services, you can email us at [privacy@apptopia.com](mailto:privacy@apptopia.com).
+
+## Cookies and Web Beacons.
+
+We may use the standard cookie feature of major browser applications and third-party providers, or employ internally developed cookies and tracking codes, that allows Apptopia to store a small piece of data on a User’s computer (or any other device used to access the Services, including a mobile device) about the User’s use of the Site. It’s a text-only string of information that allows us to distinguish you from other Users, but not in a personally identifiable way. We do capture personally identifiable information in cookies or use cookies to mine personally identifiable information. If you do not want us to use cookies, you must disable them in your browser. If you choose to do so, you may still use the Site, but your ability to use some of areas and features of the Site may be limited.
+
+We employ technologies such as clear gifs (a.k.a. Web Beacons), tags and scripts to help us better manage content by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track online usage metrics. In contrast to cookies, which are stored on a user’s computer or device, clear gifs are embedded invisibly on web pages. We do tie the information gathered by clear gifs to personally identifiable information.
+
+## POLICY TOWARD CHILDREN
+
+We do not knowingly collect personally identifiable information from children under the age of 16, and you must be 16 years of age or older in order to establish an account with Apptopia or otherwise use the Services. In the event you become aware that an individual under the age of 16 has enrolled, please contact us immediately at privacy@apptopia.com and we will remove their information from our system immediately.
+
+## EU-US PRIVACY SHIELD FRAMEWORK INFORMATION
+
+Apptopia complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information transferred from the European Union to the United States. Apptopia has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+Individuals may file a complaint concerning Apptopia’s processing of their personally identifiable information. Apptopia will take steps to remedy issues arising out of its alleged failure to comply with the Privacy Shield Principles. Individuals may contact Apptopia as specified below about complaints regarding the company’s personally identifiable information practices.
+
+If an Individuals’ complaint cannot be resolved through Apptopia's internal processes, Apptopia will cooperate with JAMS pursuant to the JAMS International Mediation Rules, available on the JAMS website at [www.jamsadr.com/international-mediation-rules](https://web.archive.org/web/20180821141141id_/https%3A//apptopia.com/legal/www.jamsadr.com/international-mediation-rules). Individuals may launch a Privacy Shield case by visiting <https://www.jamsadr.com/eu-us-privacy-shield>. JAMS mediation may be commenced as provided for in the relevant JAMS rules. The mediator may propose any appropriate remedy, such as deletion of the relevant personally identifiable information, publicity for findings of noncompliance, payment of compensation for losses incurred as a result of noncompliance, or cessation of processing of the personally identifiable information of the Individual who brought the complaint. The mediator or the individual also may refer the matter to the U.S. Federal Trade Commission, which has Privacy Shield investigatory and enforcement powers over Apptopia. Under certain circumstances, Individuals also may be able to invoke binding arbitration to address complaints about Apptopia’s compliance with the Privacy Shield Principles.
+
+## CONTACT INFORMATION
 
 If you have any questions or concerns about this Privacy Policy or its implementation, you may contact Apptopia via [privacy@apptopia.com](mailto:privacy@apptopia.com) or at the following address: Apptopia, Inc., 132 Lincoln St, 3rd Floor, Boston, MA 02111.
 
-This Policy was last Updated on September 21, 2016.
+## CHANGES TO THIS PRIVACY POLICY
+
+We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
