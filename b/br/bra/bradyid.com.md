@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101164806id_/https%3A//www.bradyid.com/en-us/general-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821221700id_/https%3A//www.bradyid.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# BradyID.com Privacy Policy - BRADY
+# Privacy Policy
 
 ### BradyID.com Privacy Policy
 
@@ -79,8 +79,7 @@ We may disclose Personal Information collected on this Site to all of our affili
   * if we believe in good faith that the law requires it; or
   * in connection with any sale, assignment, or other transfer of all or a part of our business or company or any business or our affiliated companies.
 
-
-
+  
 The disclosure of Personal Information as contemplated in this Policy may be to a party outside your jurisdiction. By accepting the terms of this Policy, you consent to the transfer of Personal Information you have submitted through this Site to us, to our affiliated companies, and to any other third parties described in this Policy, all or some of which may be located in foreign jurisdictions that may not provide "adequate protection" for Personal Information.  
 **  
 Access**
