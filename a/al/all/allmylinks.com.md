@@ -1,66 +1,53 @@
-> *The following text is extracted and transformed from the allmylinks.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628041229id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmylinks.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822000231id_/https%3A//allmylinks.com/privacy) for the most accurate reproduction.*
 
-# DomainNameSales.com
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Domain Name Sales Corp. collects, uses, maintains and discloses information collected from users (each, a "User") of the DomainNameSales.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Domain Name Sales Corp. via DomainNameSales.com.
+It is AllMyLinks.com’s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to [https://allmylinks.com](https://web.archive.org/) (hereinafter, "us", "we", or "https://allmylinks.com"). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 
-## Personal identification information
+This Privacy Policy, together with the Terms and conditions posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+###### Website Visitors
 
-## Non-personal identification information
+Like most website operators, AllMyLinks.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. AllMyLinks.com’s purpose in collecting non-personally identifying information is to better understand how AllMyLinks.com’s visitors use its website. From time to time, AllMyLinks.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+AllMyLinks.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://allmylinks.com posts. AllMyLinks.com only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-## Web browser cookies
+###### Gathering of Personally-Identifying Information
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Certain visitors to AllMyLinks.com’s websites choose to interact with AllMyLinks.com in ways that require AllMyLinks.com to gather personally-identifying information. The amount and type of information that AllMyLinks.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at https://allmylinks.com to provide a username and email address.
 
-## How we use collected information
+###### Security
 
-DomainNameSales.com collects and uses Users personal information for the following purposes:
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-  * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  * _To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you. 
-  * _To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs. 
-  * _To process transactions_  
-We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry. 
-  * _To share your information with third parties_  
-We may share information with third parties for marketing or other purposes.
-  * _To send periodic emails_  
-The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+###### Links To External Sites
 
+Our Service may contain links to external sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy and terms and conditions of every site you visit.
 
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.
 
-## How we protect your information
+###### Protection of Certain Personally-Identifying Information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+AllMyLinks.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on AllMyLinks.com’s behalf or to provide services available at AllMyLinks.com’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using AllMyLinks.com’s website, you consent to the transfer of such information to them. AllMyLinks.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, AllMyLinks.com discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when AllMyLinks.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of AllMyLinks.com, third parties or the public at large.
 
-## Sharing your personal information
+If you are a registered user of https://allmylinks.com and have supplied your email address, AllMyLinks.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with AllMyLinks.com and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. AllMyLinks.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+###### Aggregated Statistics
 
-## Third party websites
+AllMyLinks.com may collect statistics about the behavior of visitors to its website. AllMyLinks.com may display this information publicly or provide it to others. However, AllMyLinks.com does not disclose your personally-identifying information.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+###### Cookies
 
-## Advertising
+To enrich and perfect your online experience, AllMyLinks.com uses "Cookies", similar technologies and services provided by others to display personalized content and store your preferences on your computer.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. AllMyLinks.com uses cookies to help AllMyLinks.com identify and track visitors, their usage of https://allmylinks.com, and their website access preferences. AllMyLinks.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using AllMyLinks.com’s websites, with the drawback that certain features of AllMyLinks.com’s websites may not function properly without the aid of cookies.
 
-## Changes to this privacy policy
+By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to AllMyLinks.com's use of cookies.
 
-DomainNameSales.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+###### E-commerce
 
-## Your acceptance of these terms
+Those who engage in transactions with AllMyLinks.com – by purchasing AllMyLinks.com's services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, AllMyLinks.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with AllMyLinks.com. AllMyLinks.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+###### Privacy Policy Changes
 
-## Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact)
-
-This document was last updated on April 03, 2012
+Although most changes are likely to be minor, AllMyLinks.com may change its Privacy Policy from time to time, and in AllMyLinks.com’s sole discretion. AllMyLinks.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
