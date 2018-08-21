@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4bucks.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626115519id_/https%3A//www.cam4bucks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4bucks.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821035406id_/https%3A//cam4bucks.com/privacy-policy) for the most accurate reproduction.*
 
 # Cam4bucks - Become a webcam model for Cam4 and earn money!
 
@@ -16,7 +16,7 @@ Non-personally identifiable information: When visitors come to our web site, we 
 
 We also use cookies - that is, small text files placed on a users computer hard drive to help us determine the type of content and sites to which a visitor to Cam4.com links, the length of time each visitor spends at any particular area of Cam4.com and the Cam4.com services visitors choose to use. Cookies also tell us which advertising a visitor has seen on our site. Essentially, cookies are a visitors identification card for the Surecom Corporation, NV computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow Surecom Corporation, NV to serve you better and more efficiently, and to personalize your experience at Cam4.com. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
 
-Dane osobowe: W niektórych obszarach Cam4.com możemy wymagać pokazanie nam danych osobowych (w tym np. nazwy użytkownika, adresu lub adresu e-mail ).
+Personally identifiable information: In certain areas of Cam4.com, we may require that you provide us with personally identifiable information (including for example a username, address, or email address).
 
 **How We Use (and Do Not Use) the Information We Gather.**
 
