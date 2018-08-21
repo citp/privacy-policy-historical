@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the videogamearea.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116220848id_/http%3A//video.videogamearea.com/privacyVGA.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamearea.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821022525id_/http%3A//video.videogamearea.com/privacyVGA.html) for the most accurate reproduction.*
 
-# Privacy | Video Game Area
+# PRIVACY POLICY| Video Game Area
 
-**VIDEO GAME AREA**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## VIDEO GAME AREA
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
