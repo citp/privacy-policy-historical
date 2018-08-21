@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwon.cam privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621184557id_/http%3A//hdwon.cam/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwon.cam privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821071904id_/http%3A//lodowap.xyz/privacy.php) for the most accurate reproduction.*
 
 # Privacy & Policy - HDWon.Com
 
