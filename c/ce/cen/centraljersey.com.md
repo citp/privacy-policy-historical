@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraljersey.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212959id_/http%3A//www.centraljersey.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraljersey.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821141522id_/http%3A//www.centraljersey.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | centraljersey.com
 
@@ -54,10 +54,14 @@ If your children disclose information about themselves in publicly accessible ar
 
 If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
 
-Online Department
+ **centraljersey.com**
 
-The Princeton Packet Inc
+198 Route 9 N, Suite 100
 
-300 Witherspoon St
+Manalapan, NJ 07726 
 
-Princeton, NJ 08542
+ **Phone:**  Packet Media: 609-924-3244 
+
+or Greater Media: 732-358-5200
+
+ **Email:**  [feedback@centraljersey.com](mailto:feedback@centraljersey.com)
