@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930160158id_/https%3A//www.myon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821091041id_/https%3A//www.myon.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - myON®
 
@@ -34,7 +34,7 @@ You may access the data collected by myON about you by sending a request to the 
   * sending a letter via the U.S. Mail to:
 
 Manager of Web Site Development  
-myON Suite 200, 5050 Lincoln Drive Edina, MN 55436
+myON Suite 220, 6625 West 78 Street Bloomington, MN 55439
 
 
 
