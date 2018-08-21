@@ -1,61 +1,129 @@
-> *The following text is extracted and transformed from the cmscritic.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118011824id_/http%3A//www.cmscritic.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmscritic.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821051103id_/https%3A//www.cmscritic.com/privacy-policy-and-data-protection) for the most accurate reproduction.*
 
-# Privacy Policy | CMS Critic - Content Management Reviews
+# Privacy Policy and Data Protection - CMS Critic
 
-This privacy policy sets out how CMS Critic uses and protects any information that you give while using www.cmscritic.com Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Here at CMS Critic we value and protect your privacy
 
-CMS Critic may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Wednesday, September 15, 2010.
+This policy explains when and why we collect information about you, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
 
-**What we collect**
+We may change this Policy from time to time so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you’re agreeing to be bound by this Policy.
 
-We may collect the following information:
+Any questions regarding this Policy and our privacy practices should be sent by email to mike@cmscritic.com
 
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+## Who are we?
+
+CMS Critic is an online blog founded in 2008 by Mike Johnston. We share articles and editorials as well as other blog content. We are based in Canada but have contributing authors from around the world.
+
+## How we Collect Information About You
+
+Information is collected via log files, cookies, leaving comments on the site or subscribing to our newsletter.
+
+## What Information do we Collect About You
+
+We collect information on your name, email address, website (if you leave this in a comment), IP address and the pages that you visited and when you visited them on the site.
+
+Any financial details are collected via PayPal which does not retain any financial information once the transaction has been processed.
+
+## How and Why we Track your Visit
+
+Like most websites around the world we use Google Analytics (GA) to process information about the number of visitors on our site, and their behavior
+
+We use this information to record the number of people using CMS Critic and to better understand where you discover our site (from social media, google or another site) and how you use it as well as to see how people move throughout the site.
+
+GA records your approximate location down to town level, the type device you are using e.g. Mobile or Table, Name of device e.g. iPad, iPhone etc…, operating system e.g. Windows 10 or iOS and browser e.g. Firefox or Chrome none of this data can be used to identify you.
+
+Google does record your IP address however, we don't have access to this information and it modifies it so that you can not be identified specifically just the area that you are in.
+
+### Google Analytics Demographics
+
+We are committed to ensuring that our website contains content that is valuable and useful to our readers.
+
+To help us with this we have implemented the Google analytics demographics and interest reporting features on our website.
+
+These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs.
+
+Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.
+
+You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads using the [Google Ad settings](https://adssettings.google.ca/anonymous?sig=ACi0TCim925cB07-7cpwU1t82Zih-cyZJ-z258Rhs2_ob_VD9-KN0PF7SNjosxPqWAnMkL5o3KkIzcaiKhInpLNrtrjGb3FOZ2AF3COImtlEVfU_oOnno0I&hl=en) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+To do this Google Analytics uses a “cookie” on your machine read more about Cookies below.
+
+## Leaving a Comment on our Site
+
+Here are CMS Critic we love hearing from you and we do this by giving you the option of leaving a comment.
+
+To leave a comment you can use our commenting platform, Disqus. You can read their privacy policy [here](https://help.disqus.com/terms-and-policies/disqus-privacy-policy).
+
+We only use this information to identify you as the comment maker and do not pass this on to any third party.
+
+Your email address will never be shown in the comment section of the site.
+
+Your details will remain in the database unless we remove it or the article is removed from the site.
+
+You may request that we delete the comment and remove you details at any time. Please email us at mike@cmscritic.com to ask for this to be carried out.
+
+If you are under 16 you must obtain your parents permission before leaving a comment.
+
+**IMPORTANT: In your comment you should avoid leaving information of a personal nature and it is recommended that you do this on any website you comment on.**
+
+## Subscriber Newsletter
+
+If you choose to join one of our regular newsletters then your email address is required so that you can be sent the emails.
+
+Your data is collected and then passed to our Email Service Provider, Mail Chimp.[  
+](https://www.activecampaign.com/)
+
+You may unsubscribe at any time from our newsletters using the unsubscribe link at the bottom of the email or you can email us and ask that you be removed. _Please make sure that you are using the same email address as you receive the emails from to do this._
+
+Within the Email Service Provider we use tags to track the pages that you visit and actions that you take within the emails so that we can provide a more personalized email service to you.
+
+We may send emails 1 – 3 times a week and with our tracking try and make these as relevant to you as possible. From time to time we may include promotions for products.
+
+## Advertisements on CMS Critic
+
+We use third party advertisements on CMS Critic to support our site.
+
+  * Google Double Click
+  * Affiliate Links
+  * Direct Advertising
 
 
 
-**What we do with the information we gather**
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+## Cookies
 
+Cookies are pieces of code that we use to track your use of our site and provide the best possible experience for you.
 
+Specifically we use them for
 
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Advertising**
-
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is http://www.google.com/adsense. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
-**  
-Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+  * Our commenting system so that you don’t have to always enter you details
+  * Collect data as part of Google Analytics so that we can see who has visited our website
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in your browser.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us. ﻿
+However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+  * Google, as a third party vendor, uses cookies to serve ads on  cmscritic.com
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to cmscritic.com and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <https://policies.google.com/technologies/ads>
+
+
+
+## If you are Under 16
+
+Please obtain your parents permission before entering any personal information on our website, we are concerned with your privacy as much as an adults.
+
+## When we may Transfer your Personal Data
+
+We will not transfer your personal data unless we are under legal obligation to do so.
+
+## If you wish to be Removed from our Data
+
+At any point you may ask that we remove your information from our systems. Please contact us with your requirements and we will do so within a month.
+
+The same applies for what information we hold about you and can be identified as being about you.
