@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaregoldclub.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024212148id_/http%3A//softwaregoldclub.com/legally/page.php%3Fp%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaregoldclub.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821130140id_/https%3A//softwaregoldclub.com/legally/page.php%3Fp%3D3) for the most accurate reproduction.*
 
 # General Privacy Policy for All Websites Owned by AX Gold Software Limited
 
@@ -66,4 +66,4 @@ These policies may be amended by us at any time and without notice, but will be 
 
 You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
 
-This legal document copyright © 2006 [LegallyClear.com](http://legallyclear.com/). All rights reserved
+This legal document copyright © 2006 [LegallyClear.com](https://legallyclear.com/). All rights reserved
