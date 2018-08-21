@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119112321id_/http%3A//www.tribstar.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821172141id_/http%3A//www.tribstar.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | tribstar.com
 
@@ -34,6 +34,10 @@ In the event you do not wish to receive promotional or editorial content e-mail(
 
 When you visit the Site, we or a third party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file that provides an opportunity for a better user experience for you and better programming from us. A "cookie" is a small computer file that is transferred to a computer's hard drive and which permits us to know about site visits. We may use cookies to improve your experience on the Site by making it easier for you to navigate through the Site or to make a site feature work better. Information collected from a "cookie" might include information regarding your browser, type of computer, operating system, Internet service provider and other similar information. Cookie technology may also gather information about the areas you visit on our Site and about the links you may select from within our Site to other areas of the Internet. We use such information in the aggregate to understand which services and resources our visitors prefer and how those services and resources are used. Cookies also allow us to remember you between visits, for example, they may be used for any auto-login feature on the Site or to save any customized preference settings for future visits. We do not extract Personal Information during this process. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions. If you reject cookies, functionality of the Site may be limited, and you may not be able to take advantage of many of the Site's features.
 
+In order to provide a more relevant online experience, some of the ads that you see across our Services as well as third party websites and applications are customized based on your previous online activity. For more general information about interest-based ads and your choices, visit these sites: the [Digital Advertising Alliance](http://optout.aboutads.info/?c=2&lang=EN) or the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/).
+
+For our mobile applications, you can opt-out of the use of this information to tailor the ads you are shown, by using the "Limit Ad Tracking" settings on your mobile device. You will continue to see ads, but they will not be selected based on your activity across unrelated web sites or apps.
+
  **Links**
 
 The Site may contain links to Third Party Sites. CNHI is not responsible for the collection or use of your Personal or Anonymous Information at any Third Party Sites. Therefore, CHNI disclaims any liability for any third party's use of your Personal or Anonymous Information obtained through using the Third Party Site.
@@ -58,6 +62,10 @@ We have policies and procedures in place to protect the privacy and confidential
 
 Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104.
 
+ **Prohibited Uses**
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at digital@cnhi.com. If you continue to use this Site in violation of this provision, your continued use, including the collection of any data, will be governed by US law.
+
  **Access and Corrections**
 
 We strive to keep your Personal Information accurate. You can access and update the Personal Information that you have provided to us at any time. If you wish to update Personal Information provided to us, please access your account where you may view, update or correct your information online. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access to your data or enabling you to make corrections.
@@ -70,4 +78,15 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[](https://visitor.r20.constantcontact.com/d.jsp?llr=r8oml49ab&p=oi&m=1128481045361&sit=erlwgcwlb&f=a067509d-6761-4377-b6e8-913b42254d90)
+[ ](http://tribstar.com/bingo)
+
+  * [ GIRTON, James Mar 30, 1941 - Aug 20, 2018](http://obituaries.tribstar.com/obituary/james-girton-1941-2018-1067641907)
+  * [ GINDELE, Albert Dec 18, 1924 - Aug 16, 2018](http://obituaries.tribstar.com/obituary/albert-gindele-1924-2018-1067641035)
+  * [ SEWARD JR., Alphus Jan 27, 1946 - Aug 14, 2018](http://obituaries.tribstar.com/obituary/alphus-seward-jr-1946-2018-1067640913)
+  * [ SHAW, Lewis Jan 5, 1925 - Aug 18, 2018](http://obituaries.tribstar.com/obituary/lewis-shaw-1925-2018-1067617405)
+  * [ DAVIS JR., Woodrow Dec 12, 1946 - Aug 17, 2018](http://obituaries.tribstar.com/obituary/woodrow-davis-jr-1946-2018-1067605215)
+  * [ GRISSEN, Kenneth Dec 10, 1947 - Aug 14, 2018](http://obituaries.tribstar.com/obituary/kenneth-grissen-1947-2018-1067605165)
+  * [ PAGE, Arnold Oct 10, 1924 - Aug 17, 2018](http://obituaries.tribstar.com/obituary/arnold-page-1924-2018-1067605106)
+  * [ TAYLOR, Wilbur Aug 8, 1936 - Aug 16, 2018](http://obituaries.tribstar.com/obituary/wilbur-taylor-1936-2018-1067590963)
+
+
