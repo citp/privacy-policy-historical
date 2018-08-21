@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elearningindustry.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627045003id_/https%3A//elearningindustry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearningindustry.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821091635id_/https%3A//elearningindustry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eLearning Industry
 
