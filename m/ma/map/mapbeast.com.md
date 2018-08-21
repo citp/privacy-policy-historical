@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapbeast.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120110id_/http%3A//legal.mapbeast.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapbeast.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821213749id_/http%3A//legal.mapbeast.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -69,7 +69,7 @@ Any time you receive files over the Internet from third parties, regardless of t
 Our Services are international in scope. By using the Services you consent to your Anonymous Information, your Search Data and any personal information that you provide to us being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws.
   8. **Minors Under Age 18  
 **  
-The Resources are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Resources, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us at: customersupport@polarity.com.cy and we will remove it. If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
+The Resources are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Resources, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us at: support@polarity.com.cy and we will remove it. If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
   9. **Changes to this Privacy Policy  
 **  
 Polarity may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently by clicking on the “Privacy Policy” link at the bottom of your new tab page, or visiting this link which you can bookmark:  _[Privacy Policy](http://iis%20apppool/privacy.html)_. In the event that we make Material Changes to this Privacy Policy, we will notify users by posting a notice on our homepage, and on the web page where our Privacy Policy is posted,  _[Privacy Policy](http://iis%20apppool/privacy.html)_.
@@ -83,7 +83,7 @@ For more information about protecting your privacy, you may wish to visit http:/
 Polarity Technologies LTD  
 Nora Court, 3rd floor, office 301  
 Limassol, Cyprus 3040  
-customersupport@polarity.com.cy
+support@polarity.com.cy
 
 
 
