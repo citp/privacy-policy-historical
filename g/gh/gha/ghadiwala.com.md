@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghadiwala.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120080928id_/http%3A//ghadiwala.com/content/show/5677d886b76035c580548f43) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghadiwala.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821083019id_/http%3A//www.ghadiwala.com/content/show/5677d886b76035c580548f43) for the most accurate reproduction.*
 
 # Privacy Policy
 
