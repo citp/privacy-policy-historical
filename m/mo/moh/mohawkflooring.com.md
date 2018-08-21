@@ -1,142 +1,164 @@
-> *The following text is extracted and transformed from the mohawkflooring.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920044252id_/https%3A//www.mohawkflooring.com/about-mohawk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohawkflooring.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821064814id_/https%3A//www.mohawkflooring.com/about-mohawk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Security Practices & Information | Mohawk Flooring
+# Privacy Policy, Security Practices & Information Collection | Mohawk Flooring
 
-Effective Date: October 22, 2013 This Privacy Policy discloses the privacy and security practices for the following sites (collectively and separately, the “sites”) operated by Mohawk Industries, Inc. (“Mohawk”, “we”, “us”, “our” as appropriate):
+We updated our Privacy Policy, which explains our use of cookies and similar technologies. If you do not agree with our [Privacy Policy](https://web.archive.org/about-mohawk/privacy-policy) or [Terms of Use](https://web.archive.org/about-mohawk/terms-of-use), please close your browser. 
 
-  * MohawkFlooring.com
+## Privacy Policy
 
-  * Karastan.com
+This Privacy Policy explains the privacy and security practices for any website, application, mobile browser, social media account, or service operated by Mohawk Industries, Inc., or any of its subsidiaries, divisions, affiliates, or related companies (“Mohawk”, “we”, “us”, “our” as appropriate) that links to this Privacy Policy (collectively, our “sites”), and it applies to any individual that uses or accesses any site.
 
-  * MohawkHome.com
-
-  * AmericanRugCraftsmen.com
-
-  * MohawkGroup.com
-
-  * Durkan.com
-
-  * MohawkHomeScapes.com
-
-  * AtCreativeHome.com
-
-
-
-
-Mohawk wants you to understand the terms and conditions surrounding Mohawk's collection and use of your information through the sites. Our sites are also designed for access through mobile browsers and we may offer mobile apps. This Privacy Policy also applies to information collected through mobile apps and mobile browsers.
+We are the world’s largest flooring company with flooring options in over 30 categories. This policy applies to our corporate operations and our businesses that are headquartered in the United States. Our businesses located outside of the United States maintain their own privacy policies that are subject to local law. Please refer to the policy of the local business whenever you are engaging with a Mohawk affiliate that is headquartered outside of the United States. We want you to understand the terms and conditions surrounding our collection, use, sharing, storage, and retention of your information through the sites. By visiting any site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 #### Information Collection
 
-Mohawk collects personally identifiable information when you visit the sites' pages or when you voluntarily provide information to Mohawk through the sites. Entering the sites constitutes your acceptance and agreement to this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not enter the sites.
+**What Types of Information We Collect**
 
-The sites automatically log information about you from your browser when you visit the sites, such as your IP address, the pages you visit and similar information. You may also choose to voluntarily provide us with information about you at various places on the sites. Personal information that we may ask you to provide includes:
+While not all information that you provide or that we collect is personally identifiable information, this policy includes all information that we collect, that you provide, or that is provided to us by a third party, including personally identifiable information. Personally identifiable information includes, but is not limited to, your name, address, phone number, email address, user name and password for restricted access portions of our sites and those of our partners, and information about your devices used to access the sites. While providing some requested information on our sites is completely voluntary (for example, participating in surveys), certain parts of our sites require your personally identifiable information to either access the site or to permit the site to process correctly. This policy covers both mandatory information that you provide, as well as any voluntary information that you provide.
 
-Your name,  
-Billing and delivery address,  
-E-mail address,  
-Telephone numbers,  
-Your credit/debit card number and verification information,  
-Your purchase/return/exchange information, and  
-Other similar information.  
-Personal information may be collected when you choose to: 
+Additional examples of information that we collect include:
 
-Purchase, order, return, exchange, review, or request information about our products on the sites;  
-Create an account;  
-Contact customer service;  
-Participate in interactive features on the sites;  
-Connect with the sites through a social media service;  
-Sign up for emails, mobile messages or social media notifications;  
-Enter a contest or sweepstakes or participate in a survey or a focus group; and  
-Make comments, suggestions or provide other input  
-The sites use tracking pixels, web beacons, cookies and other technology to get and store information like your IP addresses, clickstream data, date and time of visits, and browser, Operating System and Internet Service Provider information. Our sites use this information as a way to measure activity and traffic patterns on the sites, manage customer service, improve the functionality of the sites, and help reduce fraud. 
-
-Cookies enable us to offer secure pages to you without asking you to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you may need to re-enter your original user ID and password to gain access to certain parts of the sites.
-
-Web beacons allow us and our authorized third parties to monitor and collect certain information about users of the sites, web-based documents, e-mail messages or other communications, such as the type of browser requesting the web beacon, the device identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Our use of web beacons on the sites, include without limitation, the following:
-
-  * Counting unique users/browsers, visits and page views;
-
-  * Monitoring traffic and conversion patterns through our various product and service offerings on the sites. For example, web beacons may be integrated into a merchandise product page as well as the shopping cart, transaction and verification pages;
-
-  * Personalizing your experience when you visit the sites, including the advertising and content you see; and
-
-  * Determining whether or not messages were opened, links were clicked or notifications/offers were acted upon.
+  * User content, created by you during your use of a site
+  * Payment information, when purchasing a product or service from us
+  * Device information, such as your type of device, your IP address, and your service provider
+  * Usage information and browsing history while you are accessing any of our sites
+  * Location data
+  * Demographic information
 
 
 
+**How We Collect Information**
 
-From time-to-time our sites may request additional information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose additional information that may be requested. Information requested via surveys and contests may include shopping preferences and additional demographic information.
+We receive and store any information you knowingly enter on a site, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. We also receive and store information that is automatically collected through the technology. In addition, we receive and store information that is provided by third parties. We explain each method for collecting information and the types of information collected through each method in greater detail below. This policy does not apply to websites, services or practices of companies that we do not own or control, which are subject to their own terms and conditions, even if they help us operate our sites or even if you interact with us. However, this policy does apply to information that is collected by us through third-party websites, social media sites, or services.
 
-#### Information Use
+**Information That You Provide**
 
-Mohawk may use the information collected through the sites to:
+You may choose to voluntarily provide us with information about you at various places on the sites. Information, including personal information, may be collected at any point on our sites. You may provide information to us when you engage in any of the following activities:
 
-Send you information and promotional material,  
-Deliver coupons, mobile coupons, newsletters and marketing communications, receipt messages, emails and mobile messages,  
-Process your requests for products, information or services,  
-Fulfill and manage purchases, orders, payments, and returns/exchanges,  
-Administer contests, sweepstakes and promotions,  
-Conduct research and analysis, and  
-Customize and improve the effectiveness of the sites for your future visits.  
-In addition, Mohawk may use the information collected through the sites to help prevent fraudulent transactions, monitor against theft and otherwise protect customers and our business, and to assist law enforcement and respond to subpoenas. 
+  1. Purchase, order, return, exchange, or request information about our products or the sites;
+  2. Create an account;
+  3. Contact customer service;
+  4. Participate in interactive features on the sites;
+  5. Connect, discuss, tag, tweet, post, pin, or otherwise mention us or the sites through a social media service;
+  6. Sign up for emails, mobile messages or social media notifications;
+  7. Enter a contest or sweepstakes;
+  8. Participate in a survey or a focus group;
+  9. Provide a review, an image, an opinion, or similar content;
+  10. Apply for employment; and
+  11. Make comments, suggestions or provide other input on any of the sites.
 
-#### Sharing and Disclosure
 
-We are not in the business of selling or renting your personally identifiable information. We may gather information about you from third parties and share information about you with third parties under the following circumstances:
 
-  * when necessary for third parties that provide support services to Mohawk to process your orders and requests;
+We may choose to collect the information that you provide, which we may then use according to this Privacy Policy.
 
-  * to help us market our products (for example, special offers);
+YOU ARE SOLELY RESPONSIBLE FOR THE CONTENT OF THE INFORMATION YOU PROVIDE ON THE SITES AND AGREE TO PERMIT US TO ACCESS, USE OR REUSE SUCH CONTENT AS PERMITTED IN THIS POLICY AND IN OUR USER GENERATED CONTENT POLICY, IF APPLICABLE.
 
+**Automatically Collected Information**
+
+The sites automatically log information about you from your browser or mobile device when you visit the sites. The sites may use tracking pixels, web beacons, cookies and other technology to get and store information like your IP addresses, clickstream data, date and time of visits, and browser, Operating System and Internet Service Provider information, as well as other information.
+
+Cookies enable us to offer secure pages to you without asking you to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, and you can also set how you wish the browser to delete cookies. Disabling cookies may affect the functionality of a site or may require that you reenter data each time you visit a site, however.
+
+Web beacons and other technologies like pixels allow us and our authorized third parties to monitor and collect certain information about users of the sites, web-based documents, e-mail messages or other communications, such as the type of browser requesting the web beacon, the device identifier of the device that the web beacon is sent to and the time the web beacon was viewed.
+
+**Information Provided By Third Parties**
+
+We engage with service providers that we use, data management or analytics companies, advertising networks, demographics companies, third parties that provide us information about you and your devices, and other collaborative third parties. We also receive information about you from our family of companies, including subsidiaries, affiliates, and parent, that you have interacted with.
+
+**How We Use the Information That We Collect and Store**
+
+We and authorized third parties engaged by us to provide services may use the information on the basis of various legal grounds, which are more fully explained in this section. We may use the information for compliance purposes, in situations where you provide consent for its use, as might be required to perform a contract with you, or for legitimate business purposes. More specifically, legitimate business purposes may include the following:
+
+  1. Authenticate your identity,
+  2. Associate your data with a unique identifier,
+  3. Send you information,
+  4. Deliver promotional material, including coupons, mobile coupons, newsletters and marketing communications, receipt messages, emails mobile messages, and other electronic forms of communication,
+  5. Process and respond to requests for products, information or services,
+  6. Fulfill and manage purchases, orders, payments, returns, or exchanges,
+  7. Administer contests, sweepstakes and promotions,
+  8. Conduct research and analysis, 
+  9. Manage customer service,
+  10. Create aggregate reports that do not identify you personally,
+  11. Customize or tailor your experience on any of our sites,
+  12. Combine the various pieces of information that we have about you,
+  13. Improve the sites, 
+  14. Improve or inspire our products,
+  15. Market our products;
+  16. Improve our internal operations (including troubleshooting, testing and analyzing usage), 
+  17. Count unique users/browsers, visits and page views;
+  18. Monitor traffic and conversion patterns through our various product and service offerings on the sites,
+  19. Determine whether messages were opened, links were clicked or notifications/offers were acted upon,
+  20. Other uses consistent with our legitimate business purposes;
+  21. Help prevent fraudulent transactions, and
+  22. Assist law enforcement, monitor against theft or other crime or breach, and respond to subpoenas (Such disclosures may be carried out without notice to you.).
+
+
+
+**How We Share Information**
+
+We are not in the business of selling or renting your personally identifiable information. We may share information about you with third parties under the following circumstances; however, these third parties are not permitted to share or use the information for any purposes, except providing services to us:
+
+  * when necessary for third parties that provide support services to us, provided that such sharing is subject to this Privacy Policy and any applicable laws;
+  * to help us market our products (for example, special offers) and some third party marketing or advertising purposes, though we do not share personally identifiable information about you with third parties for third party marketing or advertising purposes not consistent with the terms of this policy and applicable law;
   * to provide data analysis and strategy services;
-
   * when you consent to disclosure;
-
   * with our parent, subsidiaries, divisions, and affiliates; and
-
-  * to enforce or apply Mohawk's agreements or protect Mohawk's rights.
-
+  * to enforce or apply our agreements or protect our rights.
 
 
 
-In addition, Mohawk may disclose your contact information in special cases where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities. We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the sites and applicable laws; to protect the legal rights, interests, or safety of the sites, our users or others; or when your actions violate our terms. Such disclosures may be carried out without notice to you.
+We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the sites and applicable laws; to protect the legal rights, interests, or safety of the sites, our users or others; or when your actions violate our terms. Such disclosures may be carried out without notice to you.
 
 We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
 
-ANY PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN FORUMS SUCH AS A BULLETIN BOARD, CHAT ROOM OR ANY OTHER PUBLICLY ACCESSIBLE AREA OF THE SITES CAN BE READ, COLLECTED, OR USED BY US AND OTHERS. YOU ARE SOLELY RESPONSIBLE FOR THE INFORMATION YOU CHOOSE TO SUBMIT IN THESE FORUMS.
+**How We Secure Information**
 
-#### Third Party Use of Information
+The sites take appropriate organizational, technical, administrative, and physical precautions to protect your personally identifiable information in compliance with applicable laws. We have in place a team that is responsible for implementing information security controls that are appropriate for the nature of the data involved. Our information security procedures are reviewed regularly and updated as necessary to meet the sensitivity of the information we handle, our legitimate business needs, and regulatory changes, as well as to respond to changing technology. While we believe our measures reduce the likelihood of security problems to a level consistent with the type of data involved, we cannot guarantee the security of your personal information.
 
-Advertisements appearing on the sites may be delivered to you by Mohawk or one of our advertising partners. Our advertising partners may set cookies or use web beacons. Doing this allows the advertising partners to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of interest to you. Mohawk does not have access to or control of the cookies or web beacons that may be placed by the third party advertising servers of ad partners. This privacy policy covers the use of cookies and web beacons by Mohawk and does not cover the use of cookies and web beacons by any of its advertising partners. When you are on the sites you may be directed to other websites and applications that are operated and controlled by third parties that are beyond our control. For example, if you “click” on a banner advertisement, the “click” may take you off the sites onto a different website. This includes links from advertisers, sponsors and partners that may use the sites' logo as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked from our sites, you should consult that website's privacy policy before providing any personal information.
+**How We Retain Information**
 
-#### Social Media
+We retain your information in accordance with our records retention schedule. Our retention schedule for information will vary based upon the nature of the data and the purposes for which it was collected, as well as any applicable laws, rules, or regulations that require us to retain information for specific time periods. In addition, we may retain information to comply with other legal requirements or as is otherwise described in this Privacy Policy. We regularly review our retention schedules for compliance purposes.
 
-The sites include social media functionality, such as for Instagram, Pinterest, Twitter, and Facebook. These features may collect information about your IP address and page visits. They may set a cookie to make sure their platform features are functioning properly. These features are either hosted by a third party or hosted directly on the sites. Your use of those features is governed by the policies of the social media platforms that provide them.
+**Online Advertising**
 
-#### Security
+Advertisements appearing on the sites may be delivered to you by us or by a third party. We work with third party companies for purposes of advertising online. These purposes may include serving advertisements, including our own, across the various platforms across the Internet; tracking and categorizing your activity and interests over time on our sites and mobile applications and on third party websites and mobile applications; and identifying the different device(s) you use to access the sites and mobile applications. We share information with these companies, and these companies may collect information—including automatically collected information when you use our sites or mobile applications—through the methods described in the “Information Collection” section above. These third party companies also may possess or obtain information about you from other sources, including, for example, your interactions directly with the third party companies; with other websites or mobile applications, with companies that the third party companies work with, or from your interactions with advertisements the third party companies help to display to you. The information that these companies collect or that we share may be used for various purposes, including, for example, to customize or personalize the advertisements that are displayed to you. We do not have access to or control of the information that may be collected by these third parties, nor the tracking or categorization technologies that may be placed by the third party advertising servers, all of which are subject to the privacy policies of those various third parties. Please consult the applicable privacy policy before providing any personal information.
 
-The sites take administrative, technical, and physical precautions to protect your personally identifiable information. In certain areas of the site, your information, including your credit card number, is protected using standard Secure Sockets Layer (SSL) encryption technology. Your credit card number is not stored on any computer system or electronic storage device at Mohawk. It is processed directly by the payment gateway. We use SSL encryption to protect sensitive information online and also take appropriate steps to protect user-information off-line. However, no computer system is completely secure, and while we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved, Mohawk cannot ensure or warrant the security of any information you transmit via the sites and you do so at your own risk.
+**Social Media Platforms**
 
-Email is not encrypted and is not a secure means of submitting credit card information. If you receive an email that looks like it is from Mohawk asking you for sensitive information, do not respond. We will never request your password, credit card information or other information via email.
+The platforms include social media functionality, such as Instagram, Pinterest, Twitter, Google and Facebook, that you use in connection with our sites, including our mobile applications, or that share or allow you to share information about or with us. If you choose to connect to our sites using a social networking or similar service, we may receive and store authentication information from that service to enable you to log in. We may also receive other information that you may choose to share when you connect or are connected with these services. For example, if you use functionalities, like plugins or widgets or other available tools from others websites, platforms or networks in connection with our sites, including mobile applications to log into an account or to share content and images (for example, purchases or inspirations) and other content with others on social media, we will collect the information that you share with us, or that those social media platforms or networks share with us. Our use of that information is governed by this Privacy Policy and by the terms our User Generated Content License. In addition, these services may collect information, such as the web pages you visited and IP addresses, and may set cookies to enable features to function properly. We are not responsible for the security or privacy of any information collected by these third parties. Your use of service features is governed by the policies of the social media platform that provides them. Please review the privacy settings and available options on the various social media platforms to understand your choices about how information that is collected, shared, and protected on each social media platform. If you do not want information shared from or with your social media account or other users of a social media service, please do not connect your social media account with your account or participate in social sharing on the sites or otherwise share information via the functionalities.
 
-If you experience any unexpected activity related to your account, please contact us immediately, as well as your issuing bank or credit card company.
+**International Customers**
 
-#### Updating Information
+We store your information in the United States. In addition, we may use or process your information in the United States or any other country in which we or our service providers operate. Because we operate with a technical infrastructure that is located in the United States, we need to transfer your personal information to the United States for storage and as may be otherwise necessary, consistent with the terms of this Privacy Policy. Our use and storage of your information outside of the country in which you reside may subject your information to laws of other jurisdictions that may be different from the laws of the country in which you reside. You may choose not to access any site and may, with respect to your information, choose to exercise your rights under applicable data protection laws.
 
-We provide mechanisms for updating and correcting your personal information on the sites. You may update your personal information at any time by logging into your account.
+**Your Rights**
 
-#### Notifications
+You may have rights under various United States and other laws. We will honor your rights under applicable data protection laws. Your rights may vary under the laws of each country. Please contact us using the information in the “Contact Information” Section below to make a request to access your information for a permitted purpose under applicable law. If you are not satisfied with our handling of your access request, you may have the ability to lodge a complaint with the appropriate supervisory authority if you live, work, or were infringed upon within the European Economic Area.
 
-We will email order confirmations to you after you submit an order. We may send mobile coupons and text messages to mobile devices if you have opted in to receive these messages. We may send email messages with information about Mohawk or the sites. If you no longer wish to receive updates or notifications you may opt out of receiving these communications by changing your email notification settings in your account or by opting out of a mobile messaging campaign. You also may unsubscribe to promotional e-mails via the opt-out link included in each e-mail. It may take up to five (5) business days before you stop receiving promotional e-mails.
+**Accessing Information**
 
-#### Children's Privacy and Parental Controls
+We provide mechanisms for updating and correcting your personal information on the sites. If you have registered for an online account, you may access and update certain personal information that you have provided to us by logging into your online account and using the features and functionalities available there.
 
-If you are not 13 or older, you are not authorized to use the sites. We do not solicit or knowingly collect any personal information from children and we will delete any information later determined to be from a user younger than 13. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
+In addition, you may also make a request for access to, to rectify or remove, or to restrict use of your personal information by sending an email at onlineprivacy@mohawk-email.com. You may also have rights to object to your personal information being used, to ask for the transfer of personal information you have made available to us and to withdraw consent to the use of your personal information. Please contact us at onlineprivacy@mohawk-email.com to make a request.
 
-#### Notification of Changes
+We may request additional information from you in order to verify your identity before accommodating an access request. If we are unable to honor a request, we will explain why.
 
-Mohawk reserves the right to change this Privacy Policy from time to time in its sole discretion. We will post significant changes in this Privacy Policy by placing a prominent notice on our sites in advance of the changes taking effect. Your continued use of the sites indicates your agreement to the Privacy Policy as posted. You should periodically check the sites to review changes.
+**Opting Out of Certain Contact**
 
-#### Contact Information
+We may contact you if you have opted in to receive messages from us. If you no longer wish to receive messages, you may opt out of receiving these communications by changing your notification settings in your account or by opting out of a mobile messaging campaign or by unsubscribing via the opt-out link included in each e-mail or by otherwise following the instructions in the applicable technology. You may also opt out at any time by emailing onlineprivacy@mohawk-email.com. You may also manage some third party advertising preferences through third party opt-out and do-not-call programs. In addition, you may choose not to provide your location to us in connection with your use of our mobile applications by declining any prompt requesting location information and by customizing your mobile device settings to prevent sharing of location information. If you turn off ad tracking or location tracking, we will no longer use information collected from your device’s advertising identifier for the purposes of advertising.
 
-If you have any questions or concerns regarding this Privacy Policy please email [customercare@mohawkind.com](mailto:customercare@mohawkind.com) or call 1-800-2MOHAWK (800-266-4295). 
+**Children’s Privacy**
+
+If you are not 16 or older, you are not authorized to use the sites. We do not solicit or knowingly collect any personal information from children, and we will delete any information later determined to be from a user younger than 16.
+
+**Notification of Changes**
+
+We reserve the right to change this Privacy Policy from time to time in its sole discretion. Changes will apply to all information that we possess, including your information already in our possession, unless prohibited by law. We will post changes in this Privacy Policy by posting the updated Privacy Policy on our sites and update the effective date at the end of this Privacy Policy. Your continued use of the sites indicates your agreement to the Privacy Policy as posted. You should periodically check the sites to review changes.
+
+**Contact Information**
+
+If you have any questions or concerns regarding this Privacy Policy, please email onlineprivacy@mohawk-email.com.
+
+**Effective Date**
+
+This Policy is effective June 15, 2018.
