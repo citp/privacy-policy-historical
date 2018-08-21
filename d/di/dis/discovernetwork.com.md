@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the discovernetwork.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626102050id_/https%3A//www.discovernetwork.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovernetwork.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821224440id_/https%3A//www.discovernetwork.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DiscoverNetwork
+# Privacy Policy | Discover Global Network
+
+We use cookies on this site to provide you with an optimal experience and relevant information. By using this site, you accept the use of cookies. Review our [privacy policy](https://web.archive.org/en-us/privacy-policy "Privacy Policy") for details. 
 
 [ ](https://web.archive.org/en-us/ "Discover Global Network")
 
