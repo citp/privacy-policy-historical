@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netdna-storage.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719214919id_/http%3A//netdna-storage.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdna-storage.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821172601id_/http%3A//netdna-storage.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | netDNA Storage
 
