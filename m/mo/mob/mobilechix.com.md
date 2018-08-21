@@ -1,100 +1,220 @@
-> *The following text is extracted and transformed from the mobilechix.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilechix.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821210114id_/https%3A//mobilechix.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - MOBILECHIX.COM
 
-**Go Daddy Respects Your Privacy**
+**Last Updated: 2017-06-19**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Kick Online Entertainment S.A. (the “Company”) respects your privacy and is committed to protecting it through this privacy policy (the “policy”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at www.mobilechix.com (the “Website”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This policy applies to information the Company collects:  
+On the Website (including desktop and mobile versions).  
+In email, text, and other electronic messages between you and the Company.  
+When you interact with the Company’s advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.  
+When you interact with the Website through third-party social media platforms.  
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+It does not apply to information collected by:  
+the Company offline or through any other means, including on any other website operated by the Company or any third party (including the Company’s affiliates and subsidiaries); or  
+any third party (including the Company’s affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website.  
+Important: Please read this policy carefully to understand the Company’s policies and practices regarding your information and how the Company will treat it. If you do not agree with the Company’s policies and practices, your choice is not to use the Website. By accessing or using the Website, you agree to this policy and consent to the Company’s collection, use, disclosure, retention, and protection of your personal information as described in this policy. The Company may change this policy on one or more occasions. The Company will consider your continued use of the Website after the Company makes changes as your acceptance of the changes, so please check this policy frequently for updates.  
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+##  1\. Are minors welcome? 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+The Website is not intended for persons under 18-years old. You will only access the Website or register if (1) you are at least 18-years old and (2) have reached the age of majority where you live. The Company prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services. The Company does not knowingly collect any information about children, minors, or anyone under the age of majority. Nor does the Company knowingly market to children, minors, or anyone under 18-years old. If you are under 18-years old, you must not submit information to the Company and must leave the Website. If the Company becomes aware that a child, minor, or anyone under 18-years old has registered with the Website and provided the Company with personal information, the Company will take steps to cancel that account. If the Company cancels your account because you are under 18-years old, the Company may keep your email and IP address to make sure that you do not try to get around the rules by creating a new account. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Legal Notice:** In accordance with 47 U.S.C. § 230(d), you are notified that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products, which the Company provides for informational purposes only and does not endorse: CYBERsitter™ | Net Nanny® | CyberPatrol | ASACP. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+##  2\. What types of information does the Company collect about you and how is it collected? 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The Company may collect several types of information from and about users of the Website, including information: 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  * by which you may be personally identified, including your username, email address, birthdate, or any other information that the Company collects that is defined as personal or personally identifiable information under law (“personal information”);  
 
-**Security**
+  * that is about you but individually does not identify you, including your age, gender, sexual orientation, relationship status, location, and any other optional information you provide about yourself; or  
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * about your Internet connection, the equipment you use to access the Website, and usage details.  
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+The Company collects this information: 
 
-      iii.      You may call us at: (480) 505-8800
+  * Directly from you when you provide it to the Company.
+  * Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies. 
+  * From third parties, for example, the Company’s business partners. 
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+##  Information You Provide to the Company 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+The information the Company collects on or through the Website may include: 
 
-**Compliance with Laws and Law Enforcement**
+  * Information that you provide by filing in forms on the Website. This includes information provided at the time of signing up for an account or requesting further services. The Company may also ask you for information when you report a problem with the Website or a service. 
+  * Records and copies of your correspondence (including email addresses), if you contact the Company. 
+  * Your responses to surveys that the Company might ask you to complete for research purposes. 
+  * Details of transactions you carry out through the Website and of the fulfillment of your requests. You may be required to provide financial information before placing an order through the Website. Please note that the Company itself does not process credit cards, and the Company does not collect or store complete credit card information. The Company relies on trusted third-party payment processors, providers, and gateways to process transactions for the Website. The Company does not have access to your complete credit card information. 
+  * Your search queries on the Website. 
+  * You also may provide information to be published or displayed (“posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “user contributions”). Your user contributions are posted on the Website and transmitted to others at your own risk. Although you may set certain privacy settings for this information by logging into your account, please be aware that no security measures are perfect or impenetrable. Additionally, the Company cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Thus, the Company cannot and does not guarantee that your user contributions will not be viewed by unauthorized persons. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Information the Company Collects through Automatic Data Collection Technologies
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+As you navigate through and interact with the Website, the Company may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
 
-**Supplementation of Information**
+  * Details of your visits to the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website. 
+  * Information about your computer and Internet connection, including your IP address, operating system, and browser type. 
+  * Information about your mobile device and Internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+The Company also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+The information the Company collects automatically is statistical data and does not include personal information, but the Company may keep it or associate it with personal information the Company collects in other ways or receive from third parties. It helps the Company to improve the Website and to deliver a better and more personalized service, including by allowing the Company to: 
 
-**Tell-A-Friend**
+  * Estimate the Website’s audience size and usage patterns. 
+  * Store information about your preferences, thus allowing the Company to customize the Website according to your individual interests. 
+  * Speed up your searches. 
+  * Recognize you when you return to the Website. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+The technologies the Company uses for this automatic data collection may include: 
 
-**Transfer of Data Abroad**
+  * Cookies (or browser cookies)*. A cookie is a small file placed on the hard drive of your computer. Your browser stores cookies in a manner associated with each website you visit. The Company uses cookies to enable its servers to recognize your browser and tells the Company how and when you visit the Website and use the services. For example, the Company uses session ID cookies, which makes it easier for you to navigate the Website. A session ID cookie expires when you close your browser. The Company also uses persistent cookies, which remain on your hard drive for an extended period. Persistent cookies may be used to store your login information and preferences. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser settings so that it will refuse cookies, the Company’s system will issue cookies when you direct your browser to the Website. If you want to learn more about cookies, please visit allaboutcookies.org or youronlinechoices.eu 
+  * Flash Cookies.* Certain features of the Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on the Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, you can access your Flash management tools from Adobe’s website 
+  * Web Beacons.* Pages of the Website (and the Company’s emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please visit allaboutcookies.org/web-beacons 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+The Company does not collect personal information automatically, but it may tie this information to personal information about you that the Company collects from other sources or you provide to the Company. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+##  Third-party Use of Cookies and Other Tracking Technologies 
 
-**Contacting Our Site**
+Some content or applications on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. 
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+The Company does not control third-party tracking technologies or how third parties’ use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. 
 
-* * *
+##  Social Networks and Third-Party Plug-ins 
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The Website may include plugins from social networks and other third parties. An example of a plugin is the Facebook® “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on the Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin. 
+
+##  3\. How does the Company use your information? 
+
+The Company may use information that it collects about you or that you provide to the Company, including any personal information: 
+
+  * To present the Website and its contents to you. 
+  * To provide you with information, products, or services that you request from the Company. 
+  * To fulfill any other purpose for which you provide it. 
+  * To process and complete transactions, and send you related information, including purchase confirmations. 
+  * To send transactional messages and provide you with notices about your account, including expiration and renewal notices. 
+  * To carry out the Company’s obligations and enforce its rights arising from any contracts entered into between you and the Company, including for billing and collection. 
+  * To notify you about changes to the Website or any products or services the Company offers or provides through the Website. 
+  * To allow you to participate in any interactive features on the Website. 
+  * To send promotional communications, including providing you with information about services, features, newsletters, offers, promotions, contests, events, and updates. 
+  * To monitor and analyze trends, usage, and activities in connection with the Website and for marketing or advertising purposes. 
+  * To investigate and prevent fraudulent transactions, unauthorized access to the Website, and other illegal activities. 
+  * To personalize the Website content, features, or advertisements. 
+  * In any other way the Company may describe when you provide the information. 
+  * For any other purpose with your consent. 
+
+
+
+The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. 
+
+The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria. 
+
+##  4\. With whom does the Company share your information? 
+
+The Company may disclose aggregated information about its users, and information that does not identify any individual, without restriction. 
+
+The Company may disclose personal information that it collects or you provide as described in this policy: 
+
+  * To the Company’s subsidiaries and affiliates. 
+  * To contractors, service providers, and other third parties the Company uses to support its business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. 
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by the Company about the Website’s users is among the assets transferred. 
+  * To third parties to market their products or services to you. The Company contractually requires these third parties to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. 
+  * To fulfill the purpose for which you provide it. 
+  * For any other purpose disclosed by the Company when you provide the information. 
+  * With your consent.
+
+
+
+The Company may also disclose your personal information: 
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request. 
+  * To enforce or apply the Terms of Use and other agreements, including for billing and collection purposes. 
+  * If the Company believes disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, its customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
+
+
+
+##  5\. When you put information about yourself on the Website, what do the other users see? 
+
+Other users get to see your username and any information you post on your profile, including photos and videos. Any information you choose to provide should reflect how much you want other users to know about you. You can adjust how much information other users see about you by adjusting your [privacy settings](https://motherless.com/account/privacy "Privacy Settings") in your "account settings"https://mobilechix.com/account page. 
+
+The Company recommends and encourages you (and all users) to think carefully about the information you disclose about yourself. The Company does not recommend that you put email addresses, URLs, phone numbers, full name, postal address, credit card details, national identity numbers, drivers’ license details, or other sensitive information in your profile, which is open to abuse and misuse. 
+
+Please be careful about posting sensitive details about yourself on your profile. While you may voluntarily provide this information to the Company when you create your profile, there is no requirement to do so. Please remember that photographs or any video clips that you post on the Website may reveal these kinds of sensitive personal data. Where you do upload and choose to tell the Company sensitive information about yourself, you are expressly consenting to the Company processing your information and making this public to other users. 
+
+When you post information about yourself or use the chat system or the boards, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with the Terms of Use, the Company may terminate your account. 
+
+**Warning:** Any personally identifiable information or personally sensitive data that you disclose through the communities, forums, message boards, chatrooms, or other public online forums hosted on the Website, may be collected and used by others. The Company recommends caution when giving out personal information to others in these public online forums. 
+
+##  6\. What choices do you have about how the Company uses and discloses your information? 
+
+The Company strives to provide you with choices about the personal information you provide to the Company. The Company has created mechanisms to provide you with the following control over your information: 
+
+  * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. To learn how you can manage your other cookies, visit www.allaboutcookies.org/manage-cookies/. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly. 
+
+
+
+The Company does not control third parties’ collection or use of your information to serve interest-based advertising. But these third parties may provide you with ways to choose not to have your information collected or used in this way. 
+
+##  7\. How do you access and correct your information? 
+
+You can review and change your personal information by logging into the Website and visiting your account settings page. The Company cannot delete your personal information except by also deleting your account. If you want to delete your account, you can click “Delete My Account” in the account settings page. The Company will not accommodate a request to change information if it believes the change would violate any law or legal requirement or cause the information to be incorrect. 
+
+If you delete your user contributions from the Website, copies of your user contributions might remain viewable in cached and archived pages, or might have been copied or stored by other users of the Website. The Website’s Terms of Use govern proper access and use of information provided on the Website, including user contributions. 
+
+Please note that even when you remove information, the Company will retain in its files certain data, including information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with applicable law, or to enforce any agreements, policies, and rules governing your use of the Website. Removed information also may persist in backup copies or other users’ caches. 
+
+##  8\. How does the Company protect your personal information? 
+
+The Company has implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, change, and disclosure. All information you provide to the Company is stored on its secure servers behind firewalls. All payment transactions are encrypted using SSL technology. 
+
+The safety and security of your information also depends on you. Where the Company has given you (or where you have chosen) a password for access to certain parts of the Website, you are responsible for keeping this password confidential. The Company asks you not to share your password with anyone. In addition, the Company urges you to be careful about giving out information in public areas of the Website. The information you share in public areas may be viewed by any user of the Website. 
+
+**Warning:** The transmission of information over the Internet is not completely secure. Although the Company does its best to protect your personal information, the Company cannot guarantee the security of your personal information transmitted to the Website. Any transmission of personal information is at your own risk. The Company is not responsible for circumvention of any privacy settings or security measures contained on the Website. 
+
+##  9\. Where is your personal information kept? 
+
+This policy is intended to cover collection of information on or through the Website from residents of the Netherlands. If you are visiting the Website from outside the Netherlands, please be aware that your information may be transferred to, stored, and processed in the Netherlands where the Company’s servers are located and the Company’s central database is operated. The data protection and other laws of the Netherlands and other countries might not be as comprehensive as those in your country. Please be assured that the Company seeks to take reasonable steps to make sure that your privacy is protected. 
+
+By using the Website, you acknowledge that your information may be transferred to the Company’s facilities and those third parties with whom the Company shares it as described in this policy. When you provide personal information to the Company through the Website, you consent to the processing of your data in, and the transfer of your data to, the Netherlands or any other country in which the Company or its affiliates, subsidiaries, or service providers host these services, including the United States. 
+
+##  10\. Do Not Track Policy 
+
+Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. But the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit [allaboutdnt.com](http://allaboutdnt.com/ "allaboutdnt.com")
+
+##  11\. Links to Other Websites 
+
+The Website contains links to other websites. Please be aware that the Company is not responsible for the content or privacy practices of those other websites. The Company encourages its customers to be aware when they leave the Website and to read the privacy statements of any other website that collects personally identifiable information. 
+
+##  12\. No Rights of Third Parties 
+
+This policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Website. 
+
+##  13\. DMCA Takedown Requests 
+
+The Website complies with the Digital Millennium Copyright Act (DMCA). If you reasonably believe that your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions [here](https://motherless.com/dmca "DMCA") on how to report it. 
+
+By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, to facilitate a prompt resolution. The Company may forward DMCA infringement notices (including any personally identifying information contained in the notices) as submitted to the Company without any deletions. 
+
+##  14\. Changes to Privacy Policy 
+
+The Company will post any changes it makes to this policy on this page. If the Company makes material changes to how it treats your personal information, the Company will notify you by email to the email address identified in your account or through a notice on the Website homepage. This policy identifies when the Company last updated it at the top of the page. You are responsible for making sure the Company has an up-to-date active and deliverable email address for you, and for frequently visiting the Website and this policy to check for any changes. 
+
+##  15\. Contact Information 
+
+To ask questions or comment about this policy and the Company’s privacy practices, contact the Company through our [contact form](https://motherless.com/contact "Contact"). 
