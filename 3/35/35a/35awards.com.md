@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 35awards.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607030513id_/https%3A//2017.35awards.com/page/private_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 35awards.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821175736id_/https%3A//2018.35awards.com/page/private_privacy) for the most accurate reproduction.*
 
-# International photo contest 2017 - 100 BEST PHOTOS of the year
+# International photo contest 2018 - 100 BEST PHOTOS of the year
 
 35AWARDS is founded on the principle of helping people discover new photos and photographers. 
 
