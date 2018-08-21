@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrodeal.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325104945id_/http%3A//www.metrodeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodeal.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821024538id_/https%3A//www.metrodeal.com/privacy-policy) for the most accurate reproduction.*
 
 # MetroDeal Privacy Policy
 
