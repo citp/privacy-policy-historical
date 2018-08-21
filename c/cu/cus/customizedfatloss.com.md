@@ -1,139 +1,148 @@
-> *The following text is extracted and transformed from the customizedfatloss.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602165551id_/http%3A//www.customizedfatloss.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customizedfatloss.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821211306id_/http%3A//customizedfatloss.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Customized Fat Loss
+# Customized Fat Loss
 
-Customized Fat Loss and all its related web sites (Customized Fat Loss) Privacy Policy PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. Customized Fat Loss DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE.
+## Privacy Policy (the "Policy")
 
-IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO Customized Fat Loss OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED TO IN THIS PRIVACY POLICY.
+Customized Fat Loss and all its related websites (" **CFL** ", “ **we** ” or “ **us** ”) is the “data controller” in respect of your personal information. We take our relationship with all our users seriously, and this includes how we handle your personal information. CFL is committed to protecting the privacy of our customers’ personal information. This Policy sets out the ways we process any personal data relating to you. Please check back frequently as it is your sole responsibility to be aware of any changes. CFL does not provide notices of changes in any manner other than by posting changes at our website.
 
-The information collection, use, and dissemination practices of Customized Fat Loss This policy applies to Customized Fat Loss’s collection, use, storage and disclosure of information by Customized Fat Loss on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the “Websites”), (b) on various third party websites, and (c) to Customized Fat Loss’s other information collection, including the purchase of customer lists from third parties. Customized Fat Loss is not responsible for the information collection or privacy practices of third web sites or applications.
+### 1\. The personal data we collect about you
 
-## 1\. Collection of Information.
+Through your use of our websites and our social media channels, surveys (online and offline), order form, registration pages, including registration pages operated by third parties, or where we communicate with you (e.g. by telephone, regular mail, or email), we may collect and process the following information about you:
 
-###### 1.1 Survey Information.
+  * (a) your full name, age, date of birth and sex;
+  * (b) your contact details (e.g. address, phone number and e-mail);
+  * (c) where you have registered a user account with us, your user name and password;
+  * (d) your communication and shopping preferences and interests;
+  * (e) your browsing and shopping activities;
+  * (f) feedback and survey responses;
+  * (g) information about your device (e.g. IP address, operating system and browser type);
+  * (h) credit card information;
+  * (i) your location;
+  * (j) correspondence with us; and
+  * (k) other personal information (such as suggestions, inquiries, feedback, photographs, messages or other materials) (" **User Content** ") that you post, e-mail, share, reproduce or otherwise make available to us.
 
-Customized Fat Loss collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a Customized Fat Loss survey, order form, or a registration pages either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a “Survey”). (As used herein, “online” means using the Internet, including the Websites, and related technologies, and “offline” means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Customized Fat Loss or a third party (a “Third Party”) may ask an individual to provide various information to Customized Fat Loss , which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, “Survey Information”). Customized Fat Loss may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Customized Fat Loss or Third Party, but an individual may receive incentives from Customized Fat Loss or a Third Party in exchange for providing Survey Information to Customized Fat Loss.
 
-###### 1.2 Third Party List Information.
 
-Customized Fat Loss collects information from individuals when an individual provides information to a third party and Customized Fat Loss subsequently purchases, licenses, or otherwise acquires the information from the third party (the “Seller”). Such purchased information may include, but is not limited to, an individual’s name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, credit card information, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, “Third Party List Information”). When acquiring Third Party List Information, Customized Fat Loss seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to Customized Fat Loss and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller’s list.
+Where lawful to do so we may also obtain personal information about you from (or combine it with information from) public sources, third party service providers, individuals who have indicated you have agreed for them to provide your personal information, government authorities and other third parties. For example, if you are on another website and you opt-in to receive information from CFL, that website may submit to us your email address and other information about you so that we may contact you as requested. You may also use a third party app or feature (such as Facebook or Twitter) through which you allow us to collect (or the third party to share) information about you (such as details of your friends/connections, "likes", comments you have shared, groups and location). In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their friends/connections or information about you is otherwise accessible through your friends’/connections´ web page, profile page, or similar page.
 
-###### 1.3 Other Information.
+We may supplement the information we collect about you directly with the information we receive from third parties in order to improve our products/services, to tailor our content to you and send you details of promotions and/or offers which we believe may be of interest to you.
 
-Other occasions when Customized Fat Loss obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Customized Fat Loss or by a third party, (2) when an individual requests assistance through Customized Fat Loss’s customer service department, and (3) when an individual voluntarily subscribes to a Customized Fat Loss service or newsletter (together, “Other Information”).
+We will indicate where any personal information we have requested is mandatory or optional. We will also explain the consequences should you decide not to provide information which we have indicated is mandatory. In some circumstances this may mean we are unable to provide you with a certain service or product.
 
-###### 1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.
+### 2\. How do we use information about you?
 
-Customized Fat Loss currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Customized Fat Loss may use other new and evolving sources of information in the future (together, “Technology Information”).
+We may use your personal information for the following purposes:
 
-**(a) Cookies.**
+  * (a) to process an order placed via our websites or over the telephone;
+  * (b) to respond and/or deal with your request or enquiry;
+  * (c) to enter you in contests and notify you of results;
+  * (d) to administer our websites and social media channels and personalise content for you; to process payments;
+  * (e) for internal record keeping;
+  * (f) to provide you with information at your request, or as a result of searches undertaken using our websites;
+  * (g) to provide marketing that you have requested or agreed to receive or which we are otherwise lawfully entitled to undertake with you as a customer or prospective customer and provided you have not opted out;
+  * (h) to record your marketing preferences;
+  * (i) to personalise offers, promotions and advertising provided to you based on our understanding of your browsing and shopping habits or purchase history;
+  * (j) to register you for certain features on our websites;
+  * (k) to improve our products and services (for example to speed up your searches, recognise you when you return to our websites, respond to your feedback, respond to problems, and tailor what we do to suit your requirements further);
+  * (l) in relation to User Content, on our websites, social media channels and marketing communications to promote our products, provided in each case that we have your permission;
+  * (m) where necessary as part of any restructuring of CFL or sale of CFL’s business or assets;
+  * (n) management analysis, audit, forecasting, business planning and transactions, ensuring our compliance with applicable laws, regulatory requirements, and CFL policies, and dealing with legal claims and related administrative activities and related records retention requirements; or
+  * (o) to establish or exercise our legal rights and to comply with law enforcement or other government agency requests or court orders.
+  * (p) We may also anonymise your personal data and use it for the purposes described above as part of aggregated non personal data for research, statistical and other purposes (such as improving our websites, products and services) or measuring the effectiveness of our advertising.
 
-A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows Customized Fat Loss to identify the individual with his or her corresponding data that resides in Customized Fat Loss’s database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites.
 
-**(b) Web Beacons.**
 
-A web beacon is programming code that can be used to display an image on a web page (by using an programming function — see http://truste.org for more information), but can also be used to transfer an individual’s unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Customized Fat Loss to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Customized Fat Loss might place, with the consent of a third party website, a web beacon on the third party’s website where fishing products are sold. When Bill, an individual listed in Customized Fat Loss’s database, visits the fishing website, Customized Fat Loss receives notice by means of the web beacon that Bill visited the fishing site, and Customized Fat Loss would then update Bill’s profile with the information that Bill is interested in fishing. Customized Fat Loss may thereafter present offers of fishing related products and services to Bill. In addition to using web beacons on web pages, Customized Fat Loss also uses web beacons in email messages sent to individuals listed in Customized Fat Loss’s database.
+### 3\. Who does CFL share your personal data with?
 
-**(c) New Technology.**
+We may share your personal data with third party companies (such as advertising and marketing agencies, social media agencies and platforms, software providers, and service providers such as couriers, customer services and payment services providers) for the purposes set out in this Policy including for example to complete your order, to facilitate your experience of our websites, enable offers, advertising or other promotional activity or materials about our products and services to be provided to you, to operate recognition or reward programmes, respond to your queries and / or to provide you with certain services such as aftercare services.
 
-The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Customized Fat Loss’s use of new and evolving technology. As a result, Customized Fat Loss strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
+We may also share your personal data with:
 
-###### 1.5 Outside Information.
+  * (a) individuals and/or companies within the CFL group of companies as required for management, analysis, planning and decision making, including in relation to taking decisions regarding the expansion and promotion of our product and/or service offering, order or customer request fulfillment and for use by those companies for the other purposes described in this policy;
+  * (b) government authorities, law enforcement and regulatory authorities where required or permitted by law and for tax or other purposes;
+  * (c) external parties in response to legal process, and when required to comply with laws, to respond to an emergency or to enforce our agreements, corporate policies and terms of use, or to protect the rights, property or safety of CFL, our employees, agents, customers and others;
+  * (d) parties to whom you authorise CFL to release your personal data; and
+  * (e) other entities (including actual or prospective buyers and our affiliates) in the event that CFL is involved in a bankruptcy, merger, reorganization or sale of any of its group company businesses and/or assets.
 
-Customized Fat Loss may receive information about individuals from third parties or from other sources of information outside of Customized Fat Loss including information located in public databases (“Outside Information”).
 
-###### 1.6 Individual Information.
 
-As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information Customized Fat Loss gathers or receives about individuals.
+If you give us consent then we may share your personal data with our partners or subsidiary companies in order that they can contact you with information, promotions, products, services and offers that may be of interest to you.
 
-###### 1.7 No Information Collected from Children.
+In certain commercial email messages sent by CFL, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to CFL. The "Subject:" line of CFL email messages will usually contain a line provided from the advertiser to CFL.
 
-Customized Fat Loss will never knowingly collect any personal information about children under the age of 13. If Customized Fat Loss obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, Customized Fat Loss has no such information to use or to disclose to third parties. Customized Fat Loss has designed this policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”).
+### 4\. Legal Basis for processing your personal data
 
-###### 1.8 Credit Card Information.
+We will only process your personal information where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your personal information. In almost every case the legal basis will be one of the following:
 
-Customized Fat Loss may in certain cases collect credit card numbers and related information, such as the expiration date of the card (“Credit Card Information”) when an individual places an order from Customized Fat Loss. When the Credit Card Information is submitted to Customized Fat Loss, such information is encrypted and is protected with SSL encryption software. Customized Fat Loss will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
+**Consent:** For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the “unsubscribe” link at the bottom of any marketing email we send you.
 
-## 2\. Use of Individual Information.
+**Performance of a contract with you:** For example, where you have purchased goods from our website and we need to use your contact details and payment information in order to process your order and send the goods to you.
 
-###### 2.1 Discretion to Use Information.
+**Compliance with law:** Where we are subject to a legal obligation and need to use your personal information in order to comply with that obligation.
 
-THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY’S SOLE DISCRETION. The following paragraphs in Section 2 describe how Customized Fat Loss currently uses Individual Information, but Customized Fat Loss may change or broaden its use at any time. As noted below, Customized Fat Loss may update this policy from time to time. Customized Fat Loss may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
+### 5\. Your rights
 
-###### 2.2 Email.
+You have certain rights in relation to your personal information. These include: the right to object to the processing of your information for certain purposes, the right to access your personal information, and the ability to erase, restrict or receive a machine-readable copy of your personal information.
 
-Customized Fat Loss uses Individual Information to provide promotional offers by email to individuals. Customized Fat Loss may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.
+We will handle any request to exercise your rights in accordance with applicable law and any relevant legal exemptions. If you wish to exercise any of these rights please contact us using the contact details below.
 
-###### 2.2(a) Content of Email Messages.
+You may also have the right to complain to a data protection authority if you think we have processed your personal information in a manner which is unlawful or breaches your rights. If you have such concerns we request that you initially contact us (using the contact details below) so that we can investigate, and hopefully resolve, your concerns.
 
-In certain commercial email messages sent by Customized Fat Loss, an advertiser’s name will appear in the “From:” line but hitting the “Reply” button will cause a reply email to be sent to Customized Fat Loss. The “Subject:” line of Customized Fat Loss email messages will usually contain a line provided from the advertiser to Customized Fat Loss.
+### 6\. Use of Cookies, Web Beacons and Other Info Collected Using Technology
 
-###### 2.2(b) Solicited Email.
+CFL currently uses cookie and web beacon technology to associate certain internet related information about an indiviudual with information about the individual in our database. CFL uses in order to provide a better service or identify which pages on our website are of special interest.
 
-Customized Fat Loss only sends email to individuals who have agreed on the Websites to receive email from Customized Fat Loss or to individuals who have agreed on third party websites to receive email from third parties such as Customized Fat Loss. Customized Fat Loss does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Customized Fat Loss’s email messages.
+A cookie is a small piece of information which a website stores via your web browser and which can later be retrieved. The main objective is to identify users and personalise their visit by customising web pages for them, for example by welcoming them by name next time they visit the same website. You can find more information about cookies at http://cookiecentral.com. Individuals who use our websites need to accept cookies in order to uae all of the features and functionality of the websites.
 
-###### 2.3 Targeted Advertising.
+A web beacon is programming code that can be used to display an image on a web page (by using an programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows CFL to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, CFL might place, with the consent of a third party website, a web beacon on the third party's website where fishing products are sold. When Bill, an individual listed in CFL's database, visits the fishing website, CFL receives notice by means of the web beacon that Bill visited the fishing site, and CFL would then update Bill's profile with the information that Bill is interested in fishing. CFL may thereafter present offers of fishing related products and services to Bill.
 
-Customized Fat Loss uses Individual Information to target advertising to an individual. When an individual is using the Internet, Customized Fat Loss uses Technology Information (see also Section 2.5 below) to associate an individual with that person’s Individual Information, and Customized Fat Loss attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Customized Fat Loss may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
+In addition to using web beacons on web pages, CFL also uses web beacons in email messages sent to individuals listed in CFL's database.
 
-###### 2.4 Direct Mail and Telemarketing.
+The use of technology on the internet, including cookies and web beacons, is rapidly evolving, as is CFL’s use of new and evolving technology. As a result, CFL strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
-Customized Fat Loss uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones.
+### 7\. What do we do to safeguard personal data?
 
-###### 2.5 Use of Technology Information.
+We use appropriate physical (e.g. secure cabinets), technical (e.g. passwords, firewalls, encryption) and organisational (e.g. access controls) security measures that are proportionate to the nature and the sensitivity of the personal data and the risks of unauthorised access to, accidental loss of, destruction of, or damage to such information. We have put in place safeguards to check that our internal procedures meet our high policy standards. We also use reasonable efforts to ensure that our service providers agree to protect your personal data.
 
-Customized Fat Loss uses Technology Information (1) to match a person’s Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person’s online browsing habits on the Internet, (3) to determine which areas of Customized Fat Loss’s web sites are most frequently visited. This information helps Customized Fat Loss to better understand the online habits of individuals so that Customized Fat Loss can target advertising and promotions to them.
+CFL may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from CFL. When the Credit Card Information is submitted to CFL, such information is encrypted and is protected with SSL encryption software. CFL will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction
 
-###### 2.6 Profiles of Individuals.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your personal data transmitted to our website(s) and/or social media channels; any transmission is at your own risk.
 
-Customized Fat Loss uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases.
+Our websites are not intended for children under the age of 13 and do not knowingly collect personally information online from visitors of this age group.
 
-###### 2.7 Storage of Individual Information.
+### 8\. How long will we store your personal data?
 
-Customized Fat Loss stores the Individual Information in a database on Customized Fat Loss computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Customized Fat Loss’s control. Not withstanding such measures, Customized Fat Loss cannot guarantee that its security measures will prevent Customized Fat Loss computers from being illegally accessed, and the Individual Information on them stolen or altered.
+We take steps to ensure that your personal information is retained for only as long as it is necessary for the purpose for which it was collected. After this period it will be deleted or in some cases anonymised.
 
-## 3\. Dissemination of Individual Information.
+Where we have collected the personal information based on your consent and we have no other lawful basis to continue with that processing, if you subsequently withdraw your consent then we will delete your personal information.
 
-###### 3.1 Sale or Transfer to Third Parties.
+### 9\. Where do we store your personal data?
 
-Customized Fat Loss MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN Customized Fat Loss’S SOLE DISCRETION. If you do not wish us to use personal information about you to promote or sell our products and services or to sell, transfer or otherwise provide personal information about you to third parties, please inform us by sending us an email and we will certainly honor your request.
+The personal information that we collect may be transferred to, and stored at, a destination outside the European Economic Area (the “ **EEA** ”) and Canada, including countries which have less strict or no data protection laws, when compared to the jurisdiction in which the personal information was collected.
 
-###### 3.2 Order Fulfillment.
+Whenever we transfer your information as described in the paragraph above, we will take steps which are reasonably necessary to ensure that adequate safeguards are in place to protect your personal information and to make sure it is treated securely and in accordance with this Policy. In these cases, we rely on approved data transfer mechanisms (such as the EU “Standard Contractual Clauses”) to ensure your information is subject to adequate safeguards in the recipient country. If you are located in the EEA, you may contact us for a copy of the safeguards which we have put in place to protect your personal information and privacy rights in these circumstances.
 
-Customized Fat Loss will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using Customized Fat Loss web sites or when responding to offers provided by Customized Fat Loss.
+### 10\. Other Websites and Services
 
-###### 3.3 Legal Process.
+We may offer links to third party websites and you may see our advertising on third party websites (such as social media platforms). However, we are not responsible for the information collection policies of any such third party websites. If you visit a third party website, we advise you to review their privacy and other policies before you submit any personal data to them. We do not accept any responsibility or liability for these policies.
 
-Customized Fat Loss may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.  
+### 11\. Changes to this Policy
 
+We may change this Policy at any time. Any changes to this Policy will be posted on our websites. The date this Policy was last updated appears at the bottom.
 
-###### 3.4 Summary Data.
+### 12\. Unsubscribe Procedures.
 
-Customized Fat Loss may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
+If you wish to discontinue receiving email messages from CFL please just click on the unsubscribe link on the bottom of the email message.
 
-###### 3.5 Access.
+We reserve the right to add Individual Information to multiple lists maintained by CFL.
 
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting customer service at the number on the order page. Customized Fat Loss may also grant advertising clients and email services providers access to an individual’s email address to verify the origin of the Individual Information collected.
-
-## 4\. Privacy Practices of Third Parties.
-
-###### 4.1 Advertiser cookies and web beacons.
-
-Advertising agencies, advertising networks, and other companies (together, “Advertisers”) who place advertisements on the Websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Customized Fat Loss does not control Advertisers’ use of such technology and Customized Fat Loss has no responsibility for the use of such technology to gather information about individuals.
-
-###### 4.2 Links.
-
-The Websites and email messages sometimes contain hypertext links to the web sites of third parties. Customized Fat Loss is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by third parties. Such links are provided for your convenience and reference only. Customized Fat Loss does not operate or control in any respect any information, software, products or services available on such third party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
-
-###### 4.3 Affiliated Companies.
-
-Customized Fat Loss may disclose, transfer, and sell Individual Information to entities affiliated with Customized Fat Loss in Customized Fat Loss’s discretion.
-
-## 5\. Unsubscribe Procedures.
-
-If you wish to discontinue receiving email messages from Customized Fat Loss please just click on the unsubscribe link on the bottom of the email message.
-
-We reserve the right to add Individual Information to multiple lists maintained by Customized Fat Loss  
 For more information about protecting your privacy, you may wish to visit: www.ftc.gov If you have questions about this policy, please feel free to contact us at the number on the order page.
+
+### 13\. Contact us
+
+If you have any questions regarding this Policy, please contact us at [privacy@customizedfatloss.com](mailto:privacy@customizedfatloss.com), to the attention of the Data Privacy Officer.
+
+This Policy was last updated on 15 May 2018
 
 All Rights Reserved. * These statements have not been reviewed by the Food and Drug Administration. This site or products are not intended to diagnose, treat, cure, or prevent any disease.
