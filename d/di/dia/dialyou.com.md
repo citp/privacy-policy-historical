@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialyou.com privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804230343id_/https%3A//dialyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialyou.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821074940id_/http%3A//www.dialyou.com/privacy-policy) for the most accurate reproduction.*
 
 # DialYou - Privacy Policy
 
