@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climaterealists.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706120242id_/http%3A//climaterealists.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climaterealists.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822211605id_/http%3A//climaterealists.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Climate Realists
 
