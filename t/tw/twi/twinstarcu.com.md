@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113191123id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822044234id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TwinStar Credit Union
 
@@ -27,7 +27,7 @@ When you are _no longer_ our member, we continue to share your information as de
 
 All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons TwinStar Credit Union chooses to share; and whether you can limit this sharing.
 
-**Reasons we can share your personal information** | **Does TwinStar Credit Union share?** | **Can you limit this sharing?**  
+How TwinStar CU uses your data **Reasons we can share your personal information** | **Does TwinStar Credit Union share?** | **Can you limit this sharing?**  
 ---|---|---  
 For our everyday business purposes— such as to process your transactions, maintain your account(s), respond to court orders and legal Investigations, or report to credit bureaus | Yes | No  
 For our marketing purposes— to offer our products and services to you | Yes | No  
