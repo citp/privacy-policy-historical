@@ -1,96 +1,206 @@
-> *The following text is extracted and transformed from the krrb.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120092056id_/https%3A//marketplace.apartmenttherapy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krrb.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822212632id_/http%3A//www.krrb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ~ Apartment Therapy Marketplace Classifieds
+# Privacy Policy – tobealmostfabulous.com
 
-This Privacy Policy governs your access to and use of the website and mobile applications owned and operated by Apartment Therapy Marketplace, LLC (“Apartment Therapy Marketplace," "we," or "us") and third-party websites powered by Apartment Therapy Marketplace (collectively, our "Service"). Your privacy is of the utmost importance to us and we respect your right to privacy in everything we do. Our aim in creating this Privacy Policy is to give you confidence as you use our Service and to demonstrate our commitment to transparency, fair information practices and the protection of your privacy. This Privacy Policy describes the ways we collect, store, use and protect your personally identifiable information ("Personal Information") and other data that Apartment Therapy Marketplace gathers (“Non-Personal Information”) when you are accessing our Service. All capitalized terms used herein but not defined herein shall have the meanings given to them in our [Terms of Use](https://web.archive.org/terms-of-use/).
+**To Be Almost Fabulous** (“we” or “our”) has developed this Privacy Policy to demonstrate our commitment to your privacy on the Internet. This Privacy Policy applies to the information gathering and dissemination practices for the websites and applications operated by To Be Almost Fabulous and its affiliates that link to it (collectively, the “Web Services”).
 
-## Collection of Information
+This Privacy Policy is designed to inform you about the types of information that we may collect from or about you when you use our Web Services. It explains how we use and disclose that information and your rights in relation to such information. The process for notifying you of any changes to our Privacy Policy is discussed at the end of this document. Each time you use the Web Services, the current version of this Privacy Policy will apply. We encourage you to frequently review our Privacy Policy and note the effective date listed at the bottom.
 
-#### Information You Provide Us
+This Privacy Policy only applies to the information we collect relating to your access and use of the Web Services through a computer or other electronic device including, but not limited to, a mobile phone or tablet. Our Web Services are not intended for children under the age of 13. Our Special Information for Parents section contains more information regarding our policies regarding use of our Web Services by children.
 
-We receive and store any information you enter on our Service or provide to us in any other way, including by visiting our Service or by connecting your account with Facebook, Twitter or any other third-party service. The types of Personal Information collected may include your name, email address, physical address, phone number, birthday, Twitter and/or Facebook usernames, and any other information you may enter into your account settings or provide during your use of our Service.
+The Web Services may also contain links to websites or applications operated by others. This Privacy Policy does not reflect the privacy practices of those sites and applications, and we encourage you to consult their respective privacy policies to learn about their privacy practices. Other To Be Almost Fabulous affiliate websites and Web-enabled and accessible products and services may operate under separate privacy policies.
 
-#### Information Collected Automatically
+By entering or using our Web Services, you are consenting to our collection and use of your data in accordance with the terms of this Privacy Policy. The terms and conditions of this Privacy Policy apply only to the extent that they are compliant with the applicable laws, including current and future European Union regulations, governing the processing of personal data, the use of cookies, and direct marketing.
 
-When you use our Service, Apartment Therapy Marketplace automatically receives and records information on our server logs from your browser or mobile platform, including your IP address, geolocation, referring/destination URLs, usage information, cookie information and the pages you requested. You must accept cookies to access our Service. We treat this data as Non-Personal Information, except where we are required to do otherwise under applicable law.
+**Information We Collect**
 
-#### Children's Information
+**Personal Information**  
+When you use the Web Services, we may ask for or receive “Personal Information” about you. Personal Information is information that enables us to identify you or information that relates to you. Personal Information may include your name, date of birth, physical address, email addresses, telephone numbers, online identifiers, location data, behavioral or demographic attributes, past transactional behavior on the Web Services, and information obtained from third parties. Information that is publicly available or viewable (e.g., in online forums or publicly available in social media) is not considered Personal Information under this Privacy Policy.
 
-Individuals must be at least 18 years of age in order to use our Service. Apartment Therapy Marketplace is not intended for children under the age of 13 and we do not knowingly collect Personal Information from children in that age group. If you learn that a minor child has provided us with personal information, please contact us at [marketplace@apartmenttherapy.com](mailto:marketplace@apartmenttherapy.com%E2%80%9D).
+You are under no obligation to provide us with Personal Information, but your refusal to do so may prevent you from accessing and using the Web Services or using certain Web Service features.
 
-## Use of Information
+**Other Information**  
+Like most websites, when you use the Web Services we collect “Other Information” which does not, on its own, reveal your specific identity or directly relate to you as an individual. We use this Other Information to provide you with a personalized Web Service experience, to deliver the information, services, resources and products that are most relevant and useful to you and as described below.
 
-#### How We Use Your Information
+In some instances, we may combine the Other Information we collect with Personal Information to better understand your interests and to help us maintain data accuracy and provide and enhance the Web Service. If we combine Other Information with Personal Information, we will treat the combined information as Personal Information.
 
-The Personal Information you provide is used for such purposes as allowing you to use our Service, including setting up your User account and profile that can be used to process transactions and interact with other Users through our Service. We may draw upon Personal Information and Non-Personal Information and other server usage information to analyze User behavior in order to improve our Service, customize the advertising and content you see, communicate with you about our Service, troubleshoot technical problems, resolve disputes, address complaints and generate reports of aggregated Non-Personal Information and activity that we may share with others.
+We only share Personal Information as described in this Privacy Policy or as required by law.
 
-#### Public Display of Information
+**How We Collect Information**
 
-Personal Information about our Users is a central part of our business. One of the primary reasons people use Apartment Therapy Marketplace is to connect with trusted individuals and businesses. In order to build trust, certain Personal Information is shared publicly. Apartment Therapy Marketplace may share your Personal Information only as described below.
+We and our third-party service providers may collect both Personal Information and Other Information from the following sources:
 
-  * _Profile:_ Any information you add to your “About Me” and “Corner” settings will be displayed publicly, including information automatically added from Facebook or Twitter. You can edit or remove any of this information in your account settings.
-  * _Activity:_ By default, your activity will display publicly, including your posts, generalized locations and people you follow. You may choose to publicly display other information. This option can be managed in your account settings.
-  * _Locations:_ By default, your exact address is concealed and will never be shared publicly or privately. Instead, a small radius around you is displayed with the exact center-point randomly displaced for further privacy. You may choose to display publicly your exact location, which we do not recommend unless you are a business.
-  * _Stats and Verifications:_ In order to help you build trust with other Users, your stats and verifications will be displayed on your posts and corner, including join date, city and country from which you last signed in, account certification, email verification, number of Facebook friends, number of Twitter followers, number of member referrals, number of posts published, number of posts closed, number of conversations, response rate and average response time. Other stats and verifications may be added at any time. You do not have the ability to hide your stats and verifications.
-  * _Closed Listings:_ By default, your closed listings will display publicly. You can disable this feature in your account settings.
-  * _Email Address:_ Your email address is kept private and it is a violation of our Terms of Use to share it publicly or privately.
+**Direct Interactions**  
+We may require you to register before purchasing or using certain Web Services. You may be asked to provide us with Personal Information to complete the registration. We may also collect Personal and/or Other Information from your use of the Web Services as well as other activities such as account creation, account login, progress through certain content, submission of forms, notes, questions and surveys, or other transactions.
 
+**Data from Third Parties**  
+We may use information from automated tracking technologies on third party websites, other data you may have made publicly available or data provided by third party sources, such as marketing opt-in lists or data aggregators. When your use of the Web Services is through a subscription obtained by your employer, healthcare provider, health plan or other organization, we may receive certain information about you from that subscribing organization.
 
+**Third Party Collection of Information**  
+We use various third-party vendors for risk analytics and compliance purposes, to track and analyze usage and volume statistical information of our Web Services and to process commercial transactions. We may use services provided and/or hosted by third parties, such as analytics services, to assist in providing our services and to help us understand how you use the Web Services. This information about your use of Web Services (including your IP address) may be transmitted to, and stored at, our data warehouses or our vendors’.
 
-#### How Long We Keep Your Information
+We may send you emails which could contain certain cookies, web beacons and tokens which enable us to, among other things, determine whether you have opened or forwarded the email and/or clicked on links contained in the email. We use this information to customize messages you may receive, even after you have closed the email, and to determine whether you have made any inquiries or purchases in response to the email. These technical methods may enable us or our third party vendors to collect and use information in a form that is personally identifiable.
 
-Following termination or deactivation of your account, or if you remove any data from our Service, we may retain your User Information and/or User Content for a commercially reasonable period of time for backup, archival or audit purposes. Furthermore, Apartment Therapy Marketplace and its Users may retain and continue to use, store, display, reproduce, modify, create derivative works, perform and distribute any of your User Content that other Users have stored or shared through our Service.
+Our partners may collect information directly from your device, such as your IP address, device ID and information about your browser or operating system, may combine the Personal Information and Other Information we have about you with information from other sources, and may place or recognize a unique cookie on your browser.
 
-#### Information Changes or Removal
+**Automated Tracking Technologies**  
+We may automatically collect information about your use of the Web Services through the technologies described below. The following descriptions are designed to provide you with additional detail about our current approach to information collected from automated tracking technologies.
 
-To the extent you are able to modify or delete information as defined in this Privacy Policy, it will usually be changed or removed immediately, but in some cases, such as cached content, the update will take time and some or all information may remain indefinitely in our database. Even after you remove information from your account or profile, copies of that information may remain viewable elsewhere to the extent it has been indexed by search engines, shared with others, copied or stored by other Users, or it was otherwise distributed as defined in this Privacy Policy.
+Web Utilization Data. Our servers automatically capture and save Web Utilization Data. Examples of such information include:
 
-## Disclosure of Information
+Your unique Internet protocol address;  
+The name of your unique Internet service provider;  
+The city, state, and country of the IP location from which you access our sites;  
+The type of browser or computer you use;  
+The number of, and specific, links you click within the sites;  
+The date and time of your visit;  
+The web page from which you arrived to our sites;  
+The web page to which you depart to from our sites;  
+The pages and content you viewed on the sites;  
+Your progress through any interactive content on the Web Services; and  
+Certain searches/queries that you conducted via our sites, the activities performed, and actions taken on our sites.  
+Web Beacons. We use Web beacons, HTML5 local storage and other similar technologies to (i) manage access to, and use of, the Web Services, (ii) provide personalization, and (iii) help us understand what services our visitors are accessing and how much time they spend accessing them.
 
-We neither rent nor sell your Personal Information to anyone. Apartment Therapy Marketplace may share your Personal and Non-Personal Information only as described below.
+Device Information. We may collect information about the computer, mobile phone, tablet or other device you use to access the Web Services. Such information may include your IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
-  * _Our Corporate Family:_ We may share your information with any parent company, subsidiary, joint venture other entity under common control with Apartment Therapy Marketplace or with third-party acquirers, including Apartment Therapy Media.
-  * _Our Agents:_ We employ other companies, organizations, people (including outside of your country of residence) to perform tasks (e.g., fraud and spam protection) on our behalf and need to share your information with them to provide our Service to you. Our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us, and they are required to provide a comparable level of protection for your Personal Information.
-  * _Business Transfers:_ If Apartment Therapy Marketplace or substantially all of its assets are acquired, or in the unlikely event that Apartment Therapy Marketplace goes out of business or enters bankruptcy, User information would be one of the assets that is transferred or acquired by a third-party.
-  * _Law Enforcement:_ In accordance with our Law Enforcement Policy, we may release Personal Information when we believe in good faith that release is necessary to: (i) comply with the law, including laws outside your country of residence; (ii) enforce or apply our Terms of Use and other agreements; or (iii) protect the rights, property or safety of Apartment Therapy Marketplace, our employees, our Users or others.
-  * _Our Partners:_ In addition to the data-sharing described above, we enter into relationships with a variety of companies, organizations and people and work closely with them. We may provide aggregate Non-Personal Information and activity to our partners about how our Users, collectively, use our Service. If you register through an Apartment Therapy Marketplace partner site or joint initiative, we might share your Personal Information and Non-Personal Information with that partner, in which case your data is also governed by that entity's privacy policies, in addition to ours.
+Location Information. If you enable certain location-based features, our Web Services may be able to deliver content based on your current location. If you choose to enable the feature, your current location will be stored locally on your device, which will then be used by our application. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an application does not contain that feature, the application will not transmit to us, and we will not collect or store, location information.
 
+“Do Not Track” Signals. Some Web browsers incorporate a “Do Not Track” feature that signals to Web sites that you do not want to have your online activity tracked. However, these Web browsers communicate “Do Not Track” signals differently, making it unworkable to consistently honor such requests. As a result, our Web Services are not designed to respond to “Do Not Track” signals.
 
+**Cookies**  
+In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you. Cookies are pieces of data that are sent to your browser from a web server and stored on your computer’s hard drive.
 
-## Email and Notification Preferences
+However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. You can also choose to delete our cookies after visiting our sites or browse our websites using your browser’s anonymous usage setting.
 
-Sending emails to our Users is a central part of our business. One of the primary reasons people use Apartment Therapy Marketplace is to be notified and receive updates on activity that is relevant to them. Apartment Therapy Marketplace may send you emails and notifications only as described below.
+For detailed guidance on how to control or delete cookies, we recommend you visit https://www.aboutcookies.org/. Some features of our sites and applications may not function properly if you decline or disable Internet cookies while using the Web Services.
 
-  * _Success:_ You will receive a success notification email after you join, create a listing or promote a listing. These emails cannot be turned off.
-  * _Inbox Messages:_ You will receive email notifications when someone contacts you. These emails cannot be turned off.
-  * _Credit Deposit:_ You will receive email notifications each time credits are deposited into your account. These emails cannot be turned off.
-  * _Apartment Therapy Marketplace Alerts:_ You may choose to receive email alerts for one, many or all of your locations and we will send you a weekly digest email of this activity. You can unsubscribe to Apartment Therapy Marketplace alerts at any time in your account settings.
-  * _Following People:_ By default, you will receive email alerts for the people you follow and we will send you a weekly digest of this activity. You can turn this off in your account settings.
-  * _Newsletter Emails:_ You can opt-in to receive our newsletter emails and you can unsubscribe at any time via a link in the emails you receive or in your account settings.
-  * _Support:_ From time to time, we will send you emails to help you with our Service and offer our support. You can unsubscribe to these emails via a link in the emails you receive. If you contact support or we need to contact you directly because of a problem, we will send you emails related to the issue. Once the issue is closed, you will no longer receive emails from us about the issue unless the matter is reopened or the issue arises again.
-  * _Security:_ You will receive an email if we detect potentially problematic activity in order to protect your privacy or alert you of suspicious activity or changes to your account. These emails cannot be turned off.
-  * _Administrative Emails:_ From time to time, we may send you emails regarding our Service, new features of our Services or other important news. You can unsubscribe to these emails via a link in the emails you receive.
+Some of the types of cookies we may use are:
 
+Absolutely necessary cookies. These are cookies that are required for the operation of the Web Services. They include cookies that enable you to log into the Web Services’ secure areas, use a shopping cart or make use of electronic payment services.
 
+Performance Cookies. These are cookies that allow us to recognize and count the number of visitors and to see how visitors move around the Web Services. This helps us to improve how the Web Services work.
 
-## Cookies and Similar Technologies
+Functionality Cookies. These are cookies that are used to recognize you when you return to the Web Services. This enables us to personalize our content and remember your preferences (for example, your choice of language or region).
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our website, marketplace.apartmentherapy.com, and other websites we power (the “Site”) are visited and by how many people. Apartment Therapy Marketplace cookies do not collect Personal Information. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you refuse cookies, you will not be able to use our Service. Ads appearing on our Service may be delivered to Users by our advertising partners who may set cookies. These cookies allow the ad server to recognize your computer each time it sends you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Apartment Therapy Marketplace and its service providers and does not cover the use of cookies by any advertisers. You may opt out of advertiser cookies and continue to use our Service.
+Targeting and Advertising Cookies. These are cookies that record your visits to the Web Services, the pages you have visited and the links you have followed. Our targeting and advertising cookies collect information about your Web Services browsing history in order to make advertising of our services more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. Please see our “Interest-based Advertising” section below for more information about your choices regarding our, and our vendors’, use of these cookies.
 
-Apartment Therapy Marketplace uses analytics software to better understand who is using our Service, and how people are using it. Analytics software uses cookies to collect and store anonymous information such as time of visit, pages visited, time spent on each page of the Site, IP address and type of operating system used. We use this information to improve our Service and make it appealing to as many Users as possible.
+The information stored in the Cookies from our Web Services (i) is used internally by us and our affiliates, and (ii) may be used and managed by third parties at our request to provide services, including advertising services relating to our products and services, and to improve the Web Services and the experience of the user browsing our Web Services.
 
-## Third-Party Apps Using Our API
+**How We Use Information**
 
-Third-party app and website developers using our API are subject to our Terms of Use, Privacy Policy and any other policies posted to our Service. Any developer that does not follow our policies may have their API access revoked at any time. The use of third-party apps developed using our API may be subject to the Terms of Use and Privacy Policies of such third-party developers. Certain Personal Information may be made available to third-party developers if you use these third-party apps. You should review the policies of third-party apps to ensure that you are comfortable with the ways in which they use the information you share with them.
+**Personal Information**  
+We use Personal Information (unless otherwise restricted by law), for the following purposes:
 
-## International Users
+Engage in and Process Transactions. We may use Personal Information along with financial and payment information to engage in and process your transactions. We may also use your Personal Information to keep you updated about the status of your orders.
 
-If you are located outside of the United States, please note that our Service is hosted on our computer servers in the United States. Therefore, your information may be processed and stored in the United States. As a result, United States federal and state governments, courts or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of our Service or your submission of any Personal Information to us will constitute your consent to the transfer of your Personal Information outside of your home country, including to the United States, which may provide for different data protection rules than in your country.
+Provide and Personalize the Web Services. We may use your Personal Information to help create and personalize content on the Web Services, facilitate your use of the Web Services, improve quality, track marketing campaign responsiveness, and evaluate page response rates.
 
-## Modifications of this Privacy Policy
+Reporting. We may use your Personal Information to create utilization reports regarding the usage of the Web Services.
 
-We may revise this Privacy Policy from time to time and the most current version will always be posted on the Site. If a revision, in our sole discretion, is material, we will notify you, and you agree to receive legal notices electronically. By continuing to access or use our Service after revisions become effective, you agree to be bound by the revised Privacy Policy. If you do not agree to the new terms, please stop using our Service.
+Provide Targeted Advertising. We may use your Personal Information, including demographic preference and other similar information, to allow targeted advertising of our services to you. This means users see advertising that is most likely to interest them. This improves both the viewer’s experience and the effectiveness of the ads. Please see our “Interest-based Advertising” section below for more information.
 
-## Questions or Concerns
+Surveys and Polls. We may use the Personal Information you provide us when participating in a survey or poll for marketing or market research purposes.
 
-If you have any questions or concerns regarding privacy using our Service, please send a detailed message to [marketplace@apartmenttherapy.com](mailto:marketplace@apartmenttherapy.com%E2%80%9D) and we will make every effort to answer your questions or resolve your concerns.
+Research, Development and Internal Purposes. We may use your Personal Information for internal purposes such as system administration, risk analytics, compliance, auditing, and data analysis. We may use your Personal Information for internal research and development purposes, to create new products and services, and to test and improve the quality of our Web Services.
+
+Customer Support. If you contact us for customer support, we may ask you to provide Personal Information to verify your identity and other information about your computer, mobile phone, tablet or other device and about the issue you are trying to resolve. This information may be necessary to help us address the issue you are experiencing. We may record your requests and our responses for quality control purposes.
+
+Provide To Be Almost Fabulous Online Communities. For some Web Services, we may make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these forums is public. We encourage you to exercise caution when disclosing Personal Information in these forums, as this information is made available to other users. Do not disclose information in these public forums that might be considered confidential or proprietary or that you do not wish to be publicly available or that you are prohibited from disclosing.
+
+Legal Obligations. We may disclose your Personal Information as we believe necessary or appropriate: (i) under applicable law, including laws outside your country of residence, (ii) to comply with legal process, either within or outside your country of residence, (iii) to respond to requests from public and government authorities, including public and government authorities outside your country of residence, for national security and/or law enforcement purposes, (iv) to enforce our terms and conditions, and (v) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+**Other Information**  
+We may use, transfer, and disclose Other Information we collect for any purpose, except where applicable law requires otherwise. If we are required to treat Other Information as Personal Information under applicable law, then we will only use it in the same way that we are permitted to use and disclose Personal Information.
+
+**How We Share Information**
+
+**Personal Information**  
+We share Personal Information to further our business operations and as described below. We may share Personal Information with the following third parties:
+
+Service Providers. We may disclose your Personal Information to third parties that perform certain functions on our behalf, such as to provide analytics and site usage information, process transactions and payments, provide outsourced help with the operations of the Web Service functions, provide marketing and promotional assistance, and provide other services related to the operation of our business. In such cases, however, we require that such authorized third-party service providers institute safeguards to protect the confidentiality of your Personal Information.
+
+Marketing Partners and Vendors. We may share your Personal Information with third parties to develop, deliver and report on targeted advertising of our services either online or in emails sent by us, or our marketing partners, to you. Please see our “Interest-based Advertising” section for more information on how these third parties may use your information. We may also share your Personal Information with third parties for suppression purposes so that you will not receive advertising materials or otherwise be contacted by such vendors if you have requested not to receive marketing communications from us or if certain marketing campaigns are not otherwise applicable to you. In such cases, however, we require that such authorized third-party service providers institute safeguards to protect the confidentiality of your Personal Information and use it only for suppression purposes.
+
+Affiliates. We rely on our affiliates to support our products and services and we share some of our back-office functions with these affiliates. Our affiliates all agree to follow applicable law and our privacy policies related to the treatment of any Personal Information they may access or receive from us.
+
+Legally Required Sharing. We may disclose information about you (i) if we believe in good faith that we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
+
+Business Transfers. We reserve the right to transfer Personal Information to a purchaser or successor entity in the event of a sale or any other corporate transaction involving some or all of our business.
+
+Subscribing Organizations. When your use of the Web Services is through a subscription obtained by your employer, healthcare provider, health plan or other organization, that subscribing organization may be provided access to your Personal Information and certain utilization data about the Web Services consistent with the terms of such organization’s subscription agreement.
+
+Accrediting Organizations: To the extent a Web Service is capable of tracking and redeeming credits for professional accreditation, such as Continuing Medical Education (CME) credits, upon your valid request through the Web Services, we may disclose Personal Information to accrediting organizations so that you may redeem your accumulated CME credits.
+
+Professional Organizations. If you are a member of a professional organization, including any professional association or society, and you register for or purchase a subscription to a Web Service through a promotion offered to the members of such professional organization, then we may share your Personal Information with such professional organization.
+
+**Other Information**  
+We may share Other Information we collect for any purpose unless prohibited by law. We may share aggregated, anonymous Other Information, such as aggregated statistics, usage information and demographic data with third parties, including advisors and advertisers. When we provide this Other Information, we perform appropriate procedures so that the data does not identify you.
+
+**Interest-based Advertising**
+
+We use cookies, Web beacons and other similar automated tracking technologies to show targeted ads of our services on your device(s). These ads are more likely to be relevant to you because they are based on inferences drawn from location data, web viewing data collected across non-affiliated sites over time, and/or other application use data. This is called “Interest-based Advertising”. In addition, we may engage third parties to collect data on our website and combine this data with information collected from other websites for purposes set forth herein, including Interest-based Advertising as described above in our “Third Party Collection of Information” section.
+
+**“Share”, “Social Media”, or “Email a Friend” Functions and Public Forums**
+
+We may offer certain “share”, “social media” or “email a friend” functionality on some of our Web Services. If you choose to use any of these functions, we and/or the third party social media network may collect certain information about you depending on the function you use. With respect to the “email a friend” function, we will collect the contact information that you enter for your friend in order to send your friend a one-time email with the information you specified or inviting him or her to use the Web Service. We use your friend’s contact information for the sole purpose of sending this one-time email and we do not retain the information. With respect to the social media function (such as allowing you to post information about your activities or share your information with others on a social media site), the collection and use of information by and your interactions with the third party social media network will be governed by the privacy policy of the company providing those social media features.
+
+Some of our Web Services may provide public forums or other areas where you can communicate with others and publicly post information. All the information (including any of your personal data) that you post will not be private and will be accessible to anyone with Internet access, and may be read, collected, and used by others. You should use caution when posting any personal data to these public areas.
+
+**Security Measures**
+
+We have implemented numerous security features designed to help protect your Personal Information from accidental loss and from unauthorized access, use, or disclosure. For example, when a user places an order on our website or application or accesses their account information, that user may be offered the use of a secure server. A secure server encrypts information a visitor inputs before it is sent to us and is also used to securely store Personal Information. Please be advised, however, that while we have endeavored to create secure and reliable Web Services for users, the confidentiality of any communication or material transmitted to/from us via the Web Services or e-mail cannot be guaranteed. We cannot guarantee that unauthorized persons will always be unable to defeat our security measures. Accordingly, we, and our affiliates, are not responsible for the security or confidentiality of information transmitted or accessible via Web Services, email or the Internet.
+
+Your access to many of the Web Services and content may be password protected. You should take precautions to protect your user names and passwords, and we recommend that you refrain from disclosing your usernames and passwords to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
+
+**Data Storage**
+
+We store your Personal Information in a data center with restricted access and appropriate monitoring and use a variety of technical security measures designed to secure your data. Additionally, we use intrusion detection and virus protection software. We maintain policies and practices designed to limit access to your personal information to employees who need such access to carry out their job responsibilities.
+
+We may store and process your Personal Information in systems located outside of your home country. Regardless of where storage and processing occurs, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Privacy Policy.
+
+**Retention and Deletion**
+
+We keep your Personal Information: (i) for as long as your account is active, (ii) as needed to provide you with our products or services, (iii) as needed for the purposes outlined in this Privacy Policy, (iv) as necessary to comply with our legal obligations (such as to honor opt-outs), resolve disputes, and enforce our agreements, and (v) to the extent permitted by law.
+
+**International Transfer**
+
+Please note that, unless otherwise prohibited, Personal Information may be transferred, accessed and stored globally as necessary for the uses and disclosures stated above in accordance with this Privacy Policy. By providing your Personal Information you give express consent to transfer your Personal Information to our affiliates globally and to third party entities that provide services to us.
+
+**Special Information for Parents**
+
+The Children’s Online Privacy Protection Act (COPPA) protects the online privacy of children under 13 years of age. We do not knowingly collect or maintain information from anyone under the age of 13, unless or except as permitted by law. Any person who provides information through the Web Services represents to us that he or she is 13 years of age or older. If we learn that information has been collection from a user under 13 years of age on or through the Web Services, then we will take the appropriate steps to cause this information to be deleted. If you are the parent or legal guardian of a child under 13 who has become a member of the Web Services or has otherwise transferred information to the Web Services, please contact us using our contact information below to have that child’s account terminated and information deleted.
+
+**Your Choices About Collection and Use of Your Information**
+
+**Opt-Out Right**  
+You may opt out of having your Personal Information (i) collected by us, (ii) used by us for certain secondary purposes, or (iii) used by us to send you promotional correspondences, by contacting us via postal mail, email, or telephone at the addresses and telephone number below, or by unchecking the appropriate box while accessing your email preferences (if available); provided, however, (a) if you do not provide such information to us then you may be precluded from accessing and using the Web Services or using certain Web Services features, and (b) you may still receive automatically-generated product emails regarding the maintenance of your account, such as emails concerning passwords or suspension or expiration of your account, to the extent applicable.
+
+**Access to and Ability to Correct Personal Information**  
+We strive to maintain the accuracy of the personal information collected through our Web Services. We will provide you with access to the Personal Information you provide through the Web Services for as long as we maintain that information in a readily accessible and retrievable format. We will also work with you to correct any information you submitted to us.
+
+There are additional means to correct, amend or delete (if applicable) your Personal Information or update your preferences. For example, you may update your preferences at any time. Or, if you no longer wish to receive information about our products or services, you may update your account preferences (where available), check the appropriate box when registering and/or utilize the “unsubscribe” mechanism within the communications that you receive from us.
+
+**For Users in the European Economic Area (“EEA”)**
+
+You can request that we send you the Personal Information you provided to us in a structured, commonly used and machine-readable format, enabling you to transfer such information to another data controller. Where technically feasible, we will handle such transfer directly.
+
+In certain countries, including all the Member-States of the European Union, you can lodge a complaint with a supervisory authority if you believe your Personal Information has been unlawfully processed.
+
+The access and correction provisions of this Privacy Policy only apply to Personal Information collected from you through the Web Services.
+
+**Your Privacy Rights Under California Law**
+
+Residents of California who have provided Personal Information to us have the right to request from us a list of the third parties with whom we have shared certain Personal Information, as defined under California Civil Code Section 1798.90(e) during the preceding year for third party direct marketing purposes. We will respond to one request per California resident per calendar year, in accordance with California Civil Code Section 1798.83.
+
+**Our Right to Change this Privacy Policy**
+
+We reserve the right to change this Privacy Policy at any time by posting a new or revised statement. This Privacy Policy was last revised and is effective as of May 15, 2018.
+
+**How to Contact Us**
+
+If you have any questions, concerns, or suggestions regarding our Privacy Policy, we can be contacted at:
+
+**Address:  **8456 Gonzales Ave. Manitowoc, WI 54220  
+******Contact By Email:  **info@tobealmostfabulous.com  
+**By Phone:   **455-2011-762  
+**Opening Hours:  **7AM – 4PM
