@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oydad.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605015926id_/http%3A//www.oydad.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oydad.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823000613id_/http%3A//oydad.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | OyDad
+# Privacy Policy – OyDad
 
 The privacy and security of visitors to OyDad (“we, “our” or “us”) is of vital importance to us. Therefore, we have put together an in-depth Privacy Policy to better explain how the information provided to OyDad (the “site”) is collected, used and disclosed, along with your choices about the collection and use of your information. We ensure that any personal information collected from site visitors (identifiable or non-personally identifiable) is used solely for the purposes as laid out in this Privacy Policy. No information collected will be rented or sold to any  third parties.
 
