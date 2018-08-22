@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912124817id_/http%3A//halldata.omeda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822200002id_/https%3A//halldata.omeda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hallmark Data Systems
 
