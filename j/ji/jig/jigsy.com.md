@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsy.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529194431id_/http%3A//jigsy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsy.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822100255id_/http%3A//jigsy.com/about/privacy) for the most accurate reproduction.*
 
 # The Easy Website Builder, it's free! Jigsy.com
 
