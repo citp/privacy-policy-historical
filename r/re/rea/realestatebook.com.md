@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021145538id_/https%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822170638id_/https%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Estate Book
 
@@ -97,6 +97,6 @@ We encourage parents to create a safe place for children on the Internet. Parent
 
 #### Where can you get additional information about us or our Websites?
 
-Our Websites are owned and operated by NewPoint Media Group, LLC, 2305 Newpoint Parkway, Lawrenceville, GA 30043. For further information about our company, please visit our company's Website. 
+Our Websites are owned and operated by NewPoint Media Group, LLC, 1550 North Brown Road, Suite 155, Lawrenceville, GA 30043. For further information about our company, please visit our company's Website. 
 
 Additionally, if you have any questions about this Privacy Policy, please contact [webmaster@realestatebook.com](mailto:webmaster@realestatebook.com)
