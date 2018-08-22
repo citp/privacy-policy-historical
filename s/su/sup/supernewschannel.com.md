@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supernewschannel.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210041141id_/http%3A//video.supernewschannel.com/privacySNC.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supernewschannel.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822032255id_/http%3A//supernewschannel.com/privacySNC.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Super News Channel
 
