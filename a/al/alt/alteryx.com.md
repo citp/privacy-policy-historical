@@ -1,75 +1,102 @@
-> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911124531id_/https%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822201745id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
 
-# Alteryx Privacy Policy | Alteryx
+# Privacy Policy | Alteryx
 
-Updated January 2017.
+If you have any questions or concerns about our use of your personal information, then please contact us using the contact details provided at the bottom of this Privacy Policy.
 
-This policy describes Alteryx's privacy practices in its collection, receipt, and use of Personally Identifiable Information ("PII"). This Privacy Policy applies to PII collected by Alteryx through software installation, use or visitation to our public gallery or visitation to the website where this Privacy Policy is posted or referenced, and does not apply to any other information collected by Alteryx or its affiliated entities through any other means. Alteryx and its affiliated entities may be collectively referred to in this Privacy Policy as "Alteryx," "we," "us" or the "Site." The Site may contain links to third parties. When you navigate away from our Site to such third-party websites, our Privacy Policy no longer applies. This Privacy Policy may be updated from time to time without prior notice to you. By using this Site, you agree to our Privacy Policy
+Alteryx and its affiliated entities may be collectively referred to in this Privacy Policy as “Alteryx,” “we,” or “us”.  Alteryx’s websites (“Website”) may contain links to third parties.  When you navigate away from our Website to such third-party websites, our Privacy Policy no longer applies. If you have any questions or concerns about our use of your personal information, then please contact us using the contact details provided at the bottom of this Privacy Policy.
 
-This Privacy Policy covers the following topics:
+#### What does Alteryx do?
 
-  * The information we collect
-  * How we use your personal information
-  * What cookies and web beacons are and how we use them
-  * What internet protocol addresses are
-  * Collection of information by third-party sites and sponsors
-  * How we secure your information
-  * Your rights if you are a California resident
-  * Use of our online forums
-  * What to do if you want to correct or review your personal information
-  * How we may update our privacy policy
-  * How to contact us 
+Alteryx is a computer software company headquartered in Irvine, California but with group companies all around the world.  Our end-to-end platform unifies the analytic experience, enabling organizations to break data barriers. The Alteryx Platform provides the analytic flexibility that business analysts, data scientists and IT need to discover, prep, analyze, and operationalize analytic models through a collaborative and governed platform.
+
+For more information about Alteryx, please see the [“About Us”](https://web.archive.org/company/about-us "About Us") section of our Website at [https://www.alteryx.com/about-us](https://web.archive.org/company/about-us "About Us")
+
+#### What Personal Information Do We Collect and Why?
+
+###### Information that you provide voluntarily
+
+Certain parts of our Website may ask you to provide personal information voluntarily: for example, Alteryx may collect personal information when you register with Alteryx and/or use Alteryx products or services and/or to submit enquiries to us. You may be required to provide us with your real name, e-mail address, phone number, business address, and shipping address. For certain licensees, Alteryx may require additional information or other verification information. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+
+###### Information that we collect automatically
+
+Whenever you visit the Website Alteryx may collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.  
+Specifically, the information we collect automatically may include information like server logs from your browser, including your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information.  We may also collect information about how your device has interacted with our Website, including the pages accessed and links clicked.   
+Collecting this information enables us to better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them.  We use this information for our internal analytics purposes and to improve the quality and relevance of our Website to our visitors.
+
+Some of this information may be collected using  cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology”  below. 
+
+Some information may include usage data related to Alteryx software; and relates such information to the PII you provide. 
+
+###### Information that we obtain from third party sources
+
+From time to time, we may receive personal information about you from third party sources. The types of information we collect from third parties include and we use the information we receive from these third parties to make interactions with our Web sites easy and meaningful, and to maintain and improve the accuracy of the records we hold about you.
+
+#### How We Use Your Personal Information
+
+We may use PII to (a) fulfill your requests for products and services, (b) improve our products and services, (c) contact you to conduct research, (d) provide anonymous reporting for internal and external clients, and/or (e) offer products and/or services to you. Once you have registered or have purchased Alteryx products or services, we may send you certain communications relating to the Alteryx service that are considered part of your Alteryx account.  You may opt out of receiving communications from us upon a receipt of an email from us after you register on our Website or upon installation of software.
+
+We also use PII for internal and product/service-related purposes only. We do not rent, sell, or share PII about you with third parties or nonaffiliated companies, except (a) to provide products or services you have requested and (b) to our partners who may provide you with information regarding certain products and services in connection with your use of the Alteryx products or services, and who are under confidentiality obligations. These companies may use your PII to help Alteryx communicate with you about offers from Alteryx and our marketing partners. However, these companies do not have any other independent right to use or share this information.  If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by clicking here:  Unsubscribe. Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a purchase is not used for any other purpose by our financial services providers or us.
+
+  We may disclose PII in response to legal process in response to a court order or a subpoena. We also may disclose PII in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service or End User License Agreements (EULA) to verify or enforce compliance with the policies governing our products and applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer PII about you if we are acquired by, sold to, or merged with another company.
+
+#### Cookies and Other Similar Technologies.
+
+We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, including to serve interest-based advertising.  For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice at [https://www.alteryx.com/cookie-policy](https://web.archive.org/cookie-policy "Cookie Policy")
+
+#### Internet Protocol Addresses 
+
+An Internet protocol (“IP”) address is the unique number assigned to your server or Internet Service Provider (“ISP”). Alteryx may track such IP addresses for system administration, usage information, to report aggregate information, site tracking, or to prevent our servers from being abused.
+
+#### Collection of Information by Third-Party Sites and Sponsors
+
+Our Website contains links to other Web sites, including those of our partners and sponsors, whose information practices may be different from ours. Sometimes these third party websites may conduct contests or sweepstakes that are promoted on our Website and you may be directed away from our Website in order to participate in such contests or sweepstakes. In such case, you should consult these third party websites' privacy notices.
+
+#### How We Secure Your Information
+
+We have taken steps to assure that all information collected will remain secure and in its original form.  As such, access to all personal information is strictly controlled. We have established appropriate physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+To verify the security of your PC's web connection at our Service, check the lower left corner of your browser window after accessing the server. If you see an unbroken or a closed lock, then SSL is active and the server is secure. You may also check by looking at the URL line of your browser. When accessing a secure server, the Website address will change from "http" to "https".
+
+#### International data transfers
+
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident.  These countries may have data protection laws that are different to the laws of your country.  
+Specifically, our Website servers are located in the United States of America, and our group companies and third party service providers and partners operate around the world / including but not limited to the United Kingdom, Germany, France, Australia, Singapore, Czech Republic, Japan and Canada. This means that when we collect your personal information we may process it in any of these countries.
+
+ However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy. or transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law. 
+
+#### Data retention
+
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).  
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+#### Use of Our Online Forums
+
+We may provide blogs, bulletin boards, forums or chat rooms (“Forum”) on the Website.  Any personal information you submit in a Forum may be read, collected or used by other users who visit the Forum.  Alteryx is not responsible for any use or disclosure of the PII in your posts or during any other communication with other site users.  You must evaluate, and bear the risk associated with, the accuracy, completeness or usefulness of a Forum. We do not pre-screen postings in such Forum and reserve the right to remove any content posted.
+
+#### Your Data Protection Rights 
+
+  * If you are in the European Economic Area you have the following data protection rights:
+  * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us using the contact details provided under the “How to contact us” heading below.
+  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “How to contact us” heading below.
+  * You have the right to opt-out of marketing communications we send you at any time.  You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us by clicking here:  [Unsubscribe](http://visit.alteryx.com/u/u7v000KAbb100m03IWIWC60).
+  * Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information.  For more information, please contact your local data protection authority. 
 
 
 
-### The Information We Collect
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
-Alteryx may collect personal information when you register with Alteryx and/or use Alteryx products or services. You may be required to provide us with your real name, e-mail address, phone number, and shipping address. For certain licensees, Alteryx may require additional information, such as date of birth or other verification information. Whenever you visit the Site and/or when you use our Software, Alteryx also receives and records information on our server logs from your browser, including your IP address, Alteryx cookie information, and the pages you request, as well as usage data related to Alteryx software; and relates such information to the PII you provide.
+#### How We Update our Privacy Policy
 
-### How We Use Your Personal Information
+We may update this Privacy Policy from time to time in response to changing legal, technical or business developments. When we update our Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Policy changes if and where this is required by applicable data protection laws. 
 
-We may use PII to (a) fulfill your requests for products and services, (b) improve our products and services, (c) contact you to conduct research, (d) provide anonymous reporting for internal and external clients, and/or (e) offer products and/or services to you. Once you have registered or have purchased Alteryx products or services, we reserve the right to send you certain communications relating to the Alteryx service that are considered part of your Alteryx account. You may opt out of receiving communications from us upon a receipt of an email from us after you register on our site or upon installation of software.
+You can see when this Privacy Policy was last updated by checking the “last updated” date displayed at the top of this Privacy Policy.
 
-We also use PII for internal and product/service-related purposes only. We do not rent, sell, or share PII about you with third parties or nonaffiliated companies, except with your permission (a) to provide products or services you have requested and (b) to our partners who may provide you with information regarding certain products and services in connection with your use of the Alteryx products or services, and who are under confidentiality obligations. These companies may use your PII to help Alteryx communicate with you about offers from Alteryx and our marketing partners. However, these companies do not have any other independent right to use or share this information. If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by clicking here: [Unsubscribe](http://pages.alteryx.com/UnsubscribePage.html). Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a purchase is not used for any other purpose by our financial services providers or us.
+#### How to Contact Us
 
-We may disclose PII in response to legal process in response to a court order or a subpoena. We also may disclose PII in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service or [End User License Agreements (EULA)](https://web.archive.org/end-user-license-agreement) to verify or enforce compliance with the policies governing our products and applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer PII about you if we are acquired by, sold to, or merged with another company. We reserve the right to assign and/or transfer all PII in our system in the event that Alteryx is sold to or merged with another party.
+If you have questions or suggestions, please email Alteryx at [privacyinfo@alteryx.com](mailto:privacyinfo@alteryx.com "E-mail privacyinfo@alteryx.com"). Written communication should be sent to Alteryx, Inc., Attn:  General Counsel, 3345 Michelson Drive, Suite 400, Irvine, CA 92612 USA. 
 
-### What Cookies and Web Beacons Are and How We Use Them
-
-Our Site uses "cookies," which are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any PII. "Web beacons" are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on our Site from time to time for this purpose. We may also use a "phone-home" technology to gather data for the purpose of improving our products and marketing products and services to you.
-
-### Internet Protocol Addresses
-
-An Internet protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). Alteryx may track such IP addresses for system administration, usage information, to report aggregate information, site tracking, or to prevent our servers from being abused.
-
-### Do Not Track Option
-
-Various internet browsers offer a "do not track" or "DNT" option that relies on a technology known as a DNT header that sends a signal to Websites' visited by the user about the user's browser DNT preference setting. Alteryx does not currently respond to browsers' DNT signals with respect to the Site, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators. Alteryx takes privacy seriously and will continue to make efforts to monitor developments around DNT browser technology and the implementation of a standard.
-
-We may use AdRoll's services to offer you Alteryx products and services. You may opt-out of AdRoll cookies at the NAI opt-out tool at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) or via the DAA website at <http://www.aboutads.info/choices>.
-
-### Collection of Information by Third-Party Sites and Sponsors
-
-Our Site contains links to other Web sites, including those of our partners and sponsors, whose information practices may be different from ours. Sometimes these third party websites may conduct contests or sweepstakes that are promoted on our Site and you may be directed away from our Site in order to participate in such contests or sweepstakes. In such case, you should consult these third party websites' privacy notices.
-
-### How We Secure Your Information
-
-We have taken steps to assure that all information collected will remain secure and in its original form. As such, access to all personal information is strictly controlled. We have established appropriate physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-
-To verify the security of your PC's web connection at our Service, check the lower left corner of your browser window after accessing the server. If you see an unbroken or a closed lock, then SSL is active and the server is secure. You may also check by looking at the URL line of your browser. When accessing a secure server, the Site address will change from "http" to "https".
-
-### Use of Our Online Forums
-
-We may provide blogs, bulletin boards, forums or chat rooms ("Forum") on the Site. Any personal information you submit in a Forum may be read, collected or used by other users who visit the Forum. Alteryx is not responsible for any use or disclosure of the PII in your posts or during any other communication with other site users. You must evaluate, and bear the risk associated with, the accuracy, completeness or usefulness of a Forum. We do not pre-screen postings in such Forum and reserve the right to remove any content posted.
-
-### How to Correct or Review Your Personal Information
-
-Upon request and subject to identity verification, we will provide you with access to identifying information that we have collected about you. We offer you the ability to have inaccuracies corrected regarding your contact information. This information and any corrections can be requested by sending us an e-mail through the e-mail link provided above or writing to us at the above address.
-
-### How We Update our Privacy Policy
-
-From time to time, we may use PII for new, unanticipated uses not previously disclosed in our Privacy Policy. In such event, we will post any the changes to our policy on this website without prior notice to you.
-
-### How to Contact Us
-
-If you have questions or suggestions, please email Alteryx at [legal@alteryx.com](mailto:legal@alteryx.com), or fax to [+1.714.602.3798](tel:+1-714-602-3798). Written communication should be sent to Alteryx, Inc., Attn: General Counsel, 3345 Michelson, Suite 400, Irvine, CA 92612.
+The data controller of your personal information is Alteryx, Inc.  
+ 
