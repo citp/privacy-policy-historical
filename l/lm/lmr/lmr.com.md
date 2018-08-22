@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lmr.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128113453id_/https%3A//lmr.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmr.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822114632id_/https%3A//lmr.com/page/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - LMR.com - LMR.com ®
+# Privacy Policy - LMR.com
 
 The Late Model Restoration privacy policy explains the security of important customer information.
 
