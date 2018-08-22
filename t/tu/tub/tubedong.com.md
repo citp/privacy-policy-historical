@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubedong.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619043815id_/http%3A//www.tubedong.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubedong.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822072536id_/http%3A//www.tubedong.com/static/privacy) for the most accurate reproduction.*
 
 # Free Porn Tube for guys who love big dongs
 
