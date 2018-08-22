@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xem16.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622062537id_/http%3A//xem16.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xem16.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822020956id_/http%3A//xem16.com/privacy) for the most accurate reproduction.*
 
 # Site Information - Privacy Policy
 
