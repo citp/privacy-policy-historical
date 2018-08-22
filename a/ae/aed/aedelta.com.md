@@ -1,36 +1,17 @@
-> *The following text is extracted and transformed from the aedelta.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326153823id_/http%3A//www.aedelta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aedelta.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822114449id_/http%3A//www.aedelta.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Page on AeDelta.com
+# Privacy | Aedelta
 
-**Privacy Policy for www.aedelta.com**
+Your privacy is critically important to us. Our Website will work to protect your information in accordance with this privacy policy.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at aedelta.com@gmail.com.
+1\. **Use of personal information.** Our Website collects only information necessary for the operation of the site. This information includes, but not limited to; email address, internet protocol (IP) address, browser statistics, visitor trending and date/time of visits. This information will not be sold or shared with any other party, except to comply with any laws.
 
-At www.aedelta.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.aedelta.com and how it is used.
+2\. **Aggregated Statistics.** Our Websitemay collect statistics about the behavior of visitors to its websites. For instance, Our Websitec may monitor the most popular content on the Crooksandliarscom . Our Website may display this information publicly or provide it to others. However, Our Website does not disclose personally-identifying information other than as described below.
 
-**Log Files**  
-Like many other Web sites, www.aedelta.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**3.** **Protection of Certain Personally-Identifying Information.** Our Website discloses potentially personally-identifying and personally-identifying information only to those of its employees, volunteers, contractors and affiliated organizations that (i) need to know that information in order to process it on Our Website’s behalf or to provide services available at Our Website’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, volunteers, contractors and affiliated organizations may be located outside of your home country; by using Our Website’s websites, you consent to the transfer of such information to them. Our Website will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, volunteers, contractors and affiliated organizations, as described above, Our Website discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Our Website believes in good faith that disclosure is reasonably necessary to protect the property or rights of Our Website, third parties or the public at large. If you are a registered user of a Our Website and have supplied your email address, Our Website may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Our Website and our products. Our Website takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. ****
 
-**Cookies and Web Beacons**  
-www.aedelta.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**4.** **Cookies.** Our Website uses cookies to help Our Website identify and track visitors, their usage of Our Website website, and their website access preferences. Our Website visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Our Website’s websites, with the drawback that certain features of Our Website’s websites may not function properly without the aid of cookies. Third party services may also use cookies to help identify users. It is the end users responsibility to check with those third party sites for their own privacy policies. ****
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.aedelta.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.aedelta.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+**5.** **Advertising.** We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Amazon
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.aedelta.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.aedelta.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.aedelta.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-* * *
-
-AeDelta.com Team
+**6.** **Privacy Policy Changes.** Although most changes are likely to be minor, Our Website may change its Privacy Policy from time to time, and in Our Website’s sole discretion. Our Website encourages visitors to frequently check this page for any changes to its Privacy Policy. You should check this page from time to time for any changes that may occur. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
