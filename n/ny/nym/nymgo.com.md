@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015050909id_/https%3A//www.nymgo.com/en/nymgo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823012108id_/https%3A//www.nymgo.com/en/nymgo/privacy-policy) for the most accurate reproduction.*
 
 # NYMGO
 
@@ -116,7 +116,7 @@ Registered in Luxembourg
 Registration Number: B 161 457  
 VAT Number: LU24906139
 
-Telephone: +352 20880365  
+Telephone: +44 (20) 33553209  
 Fax: +352 24611970  
 Email: [_info@nymgo.com_](mailto:info@nymgo.com)  
 © NYMGO - Last revised: March 14 2012
