@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soldoutaftercrisis.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921214721id_/http%3A//soldoutaftercrisis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soldoutaftercrisis.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822073827id_/http%3A//www.soldoutaftercrisis.com/privacy.php) for the most accurate reproduction.*
 
 # 37 Critical Items
 
