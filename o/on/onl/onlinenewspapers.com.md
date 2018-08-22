@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinenewspapers.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326121209id_/http%3A//www.onlinenewspapers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinenewspapers.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822195738id_/http%3A//www.onlinenewspapers.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy OnlineNewspapers & OnlineMagazines Directories
 
