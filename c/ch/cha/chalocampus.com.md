@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the chalocampus.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018085115id_/http%3A//www.chalocampus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalocampus.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822223356id_/http%3A//www.chalocampus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | INDIAN EDUCATION BLOG
+# Privacy Policy - Chalo Campus
 
 **Privacy Policy for www.chalocampus.com**
 
-At www.chalocampus.com, the privacy of our visitors is of utmost importance to us. This privacy policy gives details on what kind of personal information is received and collected by www.chalocampus.com and how do we use/safeguard that information.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@chalocampus.com.
 
-Log Files  
-www.chalocampus.com makes use of the data contained in log files like most of the other websites. This data includes internet protocol ( IP ) addresses, type of website browsers( such as Internet explorer or Firefox or chrome), Internet Service Provider( ISP like Airtel or Tata Indicom ), date/time stamp of user’s visites, entry/exit pages, number of pageviews per use & and total number of users to gather statistics about the website’s users in order to administer the site effectively.
+At www.chalocampus.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.chalocampus.com and how it is used.
 
-Cookies and Web Beacons  
-www.chalocampus.com does use cookies to store information about user’s preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Log Files**  
+Like many other Web sites, www.chalocampus.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on your site.  
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+**Cookies and Web Beacons**  
+www.chalocampus.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.chalocampus.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.chalocampus.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
@@ -27,5 +29,3 @@ www.chalocampus.com has no access to or control over these cookies that are used
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.chalocampus.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-If have any questions about our privacy policy or you need more information, please feel free to [contact us](http://www.chalocampus.com/contact/).
