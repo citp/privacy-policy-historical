@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123230614id_/http%3A//www.blacksexfinder.com/page_static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822212206id_/https%3A//www.blacksexfinder.com/page_static/privacy.html) for the most accurate reproduction.*
 
-# Your Privacy at Black Sex finder
+# Your Privacy - BlackSexFinder
 
   * **Information Obtained**
 
-When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. All profiles, pictures and videos are publicly available to Search Engines. DO NOT PUT YOUR REAL NAME, PHONE NUMBER, TWITTER, FACEBOOK, ETC. ANY INFO YOU DO NOT WANT TO BE SHARED WITH THE PUBLIC AUDIENCE. 
+When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. All profiles, pictures and videos are publicly available to Search Engines. DO NOT PUT YOUR REAL NAME, PHONE NUMBER, TWITTER, FACEBOOK, ETC. ANY INFO YOU DO NOT WANT TO BE SHARED WITH THE PUBLIC AUDIENCE. ALL INFORMATION YOU POST/UPLOAD OR SHARE CAN BE AVAILABLE TO THE PUBLIC/SEARCH ENGINES/3RD PARTY WEBSITES. THIS MEANS ANYONE AND EVERYONE MAY HAVE ACCESS OUTSIDE OF BLACKSEXFINDER.COM. 
+
+**The Data We Collect About You**
+
+Personal data, or personal information, means any information about an individual from which that person can be identified by (“Personal Information”). It does not include data that has been anonymized or pseudonymized. We may collect, use, store and transfer different kinds of personal data about you, which we have grouped together as follows: Persons who visit the Website without logging in or registering “unregistered users” · Technical Data includes internet protocol (IP) address, which we pseudonymize (a technique that replaces or removes information in the dataset that identifies an individual), browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. · User Submitted Data includes data collected at your direction for a specific function, for example a contest or survey. · Usage Data includes aggregated information about how you use our Website, products and services. Persons who choose to create an account “registered users” · Identity Data includes, username or similar identifier, date of birth and gender. · Contact Data includes email address. · Financial Data in case of purchases includes payment card details. · Transaction Data in case of purchases, it may include details about payments to and from you and other details of products and services you have purchased or received from us. · Technical Data includes pseudonymized internet protocol (IP) address, your login data, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. · User Submitted Data includes data collected at your direction for a specific function, for example your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses. · Usage Data includes information about how you use our Website, products and services. · Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences. 
+
+**Unsolicited Mail**
+
+We prohibit all advertising or promotion of blacksexfinder.com through unsolicited messages and/or emails. 
 
 **Minors**
 
@@ -12,7 +20,7 @@ Individuals under the age of 18 should not access this site. If we discover that
 
 **Use of Cookies**
 
-We use Ã¢??cookiesÃ¢?? to identify how individuals use our site and to facilitate modifications and improvements to our site for your benefit. A Ã¢??cookieÃ¢?? is a small piece of information that is placed on the hard drive of your computer so we can identify you when you access the site. The use of cookies is a common practice on the Internet. You can avoid the use of cookies on your site by disabling all cookies, typically by accessing the Internet options bar on your browser. 
+We use cookies to identify how individuals use our site and to facilitate modifications and improvements to our site for your benefit. A cookie is a small piece of information that is placed on the hard drive of your computer so we can identify you when you access the site. The use of cookies is a common practice on the Internet. You can avoid the use of cookies on your site by disabling all cookies, typically by accessing the Internet options bar on your browser. 
 
 **Security**
 
@@ -24,7 +32,7 @@ We do NOT sell, share or give away any information regarding your credit card or
 
 **Email Information**
 
-From time-to-time, we may forward information to you regarding site developments, special promotions, members that may match your interests. By subscribing to this site, you are Ã¢??opting-inÃ¢?? to our email list and agree to receive such mailings. Should you prefer to avoid such email messages, please do not join this site. 
+From time-to-time, we may forward information to you regarding site developments, special promotions, members that may match your interests. By subscribing to this site, you are opting-in to our email list and agree to receive such mailings. Should you prefer to avoid such email messages, please do not join this site. 
 
 **Linking to Third Party Sites**
 
