@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701201347id_/https%3A//www.glwiz.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822043601id_/https%3A//www.glwiz.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GLWiZ
 
