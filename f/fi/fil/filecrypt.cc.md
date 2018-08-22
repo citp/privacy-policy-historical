@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecrypt.cc privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704145551id_/https%3A//www.filecrypt.cc/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecrypt.cc privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822182023id_/http%3A//filecrypt.cc/priv.html) for the most accurate reproduction.*
 
 # Filecrypt
 
