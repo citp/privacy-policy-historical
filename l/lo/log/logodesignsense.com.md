@@ -1,53 +1,66 @@
-> *The following text is extracted and transformed from the logodesignsense.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209000354id_/http%3A//www.logodesignsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignsense.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822181428id_/http%3A//www.logodesignsense.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement of LogoDesignSense – Complete Branding Solutions | LogoDesignSense
+# Privacy policy | BA Services
 
-LogoDesignSense is highly committed to keeping client's personal information safe and secure and we collect only essential and inevitable information to process your order. We never share any of your information with any individual outside our company in any way until you agree to permit us for doing so.
+We are BA Services ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/).
 
-  
+## What information we hold about you
 
+The type of data that we collect and process includes:
 
-#### INFORMATION COLLECTION
-
-We collect clients’ information via Email, Phone and Contact Us and Order Form and it is protected as per privacy policy set by LogoDesignSense. Clients’ information is never disclosed, shared or sold to any third party services.
-
-Initially, the personal information we require is about clients’ name, company’s name, billing address, email address, secondary email, phone and fax numbers, order details and place of residence and some of which is optional. Along with this, we need information in creative brief in order to start working on your order.
-
-Additionally, collection of information includes opinions pertaining to complaints, appreciation and comments about the product.
-
-Technical information which is collected and recorded includes your IP address, browser version, operating system and the date and time when you visit. Google Analytics or some similar tool or service is also used for collecting this data.
-
-  
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
 
-#### USAGE OF COLLECTED INFORMATION
 
-First of all, the information we collect helps us to understand exactly what product you need and what special things would you require in it and secondly the billing information is inevitable for payment process.
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-The email addresses are used for communication about order status, comments and opinions and delivery of the finalized product.
+We collect some or all of this information in the following cases:
 
-Moreover, we may send emails of update on the website, promotional offers, launch of a new product/service and the latest news in the industry.
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
-This information also helps us to improve our marketing strategies and compile the record of the most selling products.
 
-#### PRIVACY OF PAYMENTS
 
-To make sure the practice of the best privacy for payments, we offer acceptance from multiple payment options. The payment processor where the clients put their billing information uses Secure Sockets Layer (SSL) which is indicated in the domain as “https://”. Therefore, we assure that there is no issue at all with the privacy of payment process and billing information.
+## How your personal information is used
 
-#### CONFIDENTIALITY
+We may use your personal information in the following ways:
 
-Confidentiality is surely a serious concern and we are fully aware of the fact and this is why we never compromise over the confidentiality of our clients’ information.
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
 
-We use your personal information in order to keep in touch with you so that we can have smooth communication about the order process. Therefore, your entire information like name, billing address, e-mail address, telephone number, fax, etc. is treated as confidential and saved at a secure location which is accessible by the designated members only ensuring that it stays safe and there is no threat of its being stolen or hacked. We reassure that your personal information will never be released to any third party in any circumstances until you allow or we are forced by law.
 
-#### AMENDMENTS
 
-LogoDesignSense may amend its privacy policy for more strict security concerns if needed. However, the entire amendments about personal information security concerns will be declared with a prior notice of the effective date of amended or updated privacy policies.
+## Other ways we may use your personal information.
 
-#### CONDITIONS OF INFORMATION DISCLOSURE
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
 
-In the first place, it is our top priority to avoid the information disclosure. However, the information disclosure can only take place if we are to abide by the country law for judicial proceeding, court order, or any other legal procedure.
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
 
-#### CONTACT US
+## Keeping your data secure
 
-If you have any confusion or concerns regarding our privacy policies, you can [contact us](http://logodesignsense.com/contact-us) via our contact us form.
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/misc/contact/) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/misc/contact/) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
