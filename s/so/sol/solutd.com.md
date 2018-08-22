@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the solutd.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208044922id_/http%3A//solutd.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutd.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822165200id_/http%3A//www.solutd.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement page on SOL United
+# privacy
 
-(Dit PRIVACY STATEMENT is tevens beschikbaar in het [Nederlands](https://web.archive.org/page/privacy?language=nl))
+(Dit PRIVACY STATEMENT is tevens beschikbaar in het [Nederlands](https://web.archive.org/web/20130725183519/http://solutd.com:80/page/privacy?language=nl))
 
-SOL United takes the privacy of its users very seriously, and will ensure that all data and information about you in the possession of SOL United is processed and used securely. This document outlines the Privacy Policy of SOL United. We advise you to read this Privacy Policy very carefully. Words in this Privacy Policy written with an initial capital letter are defined in the SOL United terms of use (which can be found at http://solutd.com/termsofuse).
+Our Privacy Statement for Advertisement is located [here](http://ads.solutd.com/adsprivacy.html).
+
+SOL United takes the privacy of its users very seriously, and will ensure that all data and information about you in the possession of SOL United is processed and used securely. This document outlines the Privacy Policy of SOL United. We advise you to read this Privacy Policy very carefully. Words in this Privacy Policy written with an initial capital letter are defined in the SOL United terms of use (which can be found [here](https://web.archive.org/web/20180822165200id_/http%3A//www.solutd.com/terms.html)).
 
 ### 1\. Who is SOL United? 
 
@@ -106,4 +108,4 @@ This privacy policy can be changed. Any such changes will be announced through t
 
 ### 12\. Any questions?
 
-Should you still have any questions about this Privacy Policy, please send an e-mail to [privacy@solutd.com](mailto:privacy@solutd.com).
+Should you still have any questions about this Privacy Policy, please send an e-mail to [privacy@solutd.com](https://web.archive.org/web/20130725183519/mailto:privacy@solutd.com).
