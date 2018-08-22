@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fsastore.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928212710id_/https%3A//fsastore.com/Help/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsastore.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822130223id_/https%3A//fsastore.com/Help/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated on April 9, 2015
+Last updated on May 3, 2018
 
-This privacy policy describes how FSA Store Inc. ("FSA Store") collects and uses the personal information you provide on our Web site: [fsastore.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy describes how FSA Store Inc. ("FSA Store") collects and uses the personal information you provide on our Web site: fsastore.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 ### Collection and Use of Personal Information
 
@@ -38,6 +38,10 @@ We use this information to:
 
 
 
+### SMS Opt-In and Out
+
+By providing your mobile phone number and deadline information, you hereby affirmatively consent to FSA Store’s use of your mobile phone number for calls and texts (including prerecorded and/or by automatic telephone dialing systems) in order to provide you with (i) reminder notifications regarding your account deadline; (ii) information and reminders regarding certain eligible product offerings and promotions; and (iii) any push notifications delivered by us. We will not assess any charges for calls or texts, but standard message charges or other charges from your wireless carrier may apply. Deadline information provided is based solely on your input; we cannot confirm the validity of the information provided. You may opt-out of receiving text messages from us by texting “STOP” in response to any texts. You may opt-out of receiving calls from us by stating that you no longer wish to receive calls during any call with us, or by emailing [opt-out-calls@fsastore.com](https://web.archive.org/web/20180822130223id_/https%3A//fsastore.com/Help/opt-out-calls@fsastore.com) and specifying you want to opt-out of calls. You understand that we may send you a text confirming any opt-out by you.
+
 ### Choice/Opt-Out
 
 You may choose to stop receiving our newsletter, marketing emails or other communications by following the instructions included in these communications or you can access your account at My Account, located [here](https://web.archive.org/Members/MyOrderHistory.aspx). 
@@ -62,7 +66,7 @@ We may also disclose your personal information:
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from Web sites or to remove cookies from your hard drive, but if you do, you may not be able to access or use portions of our Web site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase.
+Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from Web sites or to remove cookies from your hard drive, but if you do, you may not be able to access or use portions of our Web site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. You are responsible for maintaining the confidentiality of activities that occur under your usage of the Web site, including products stored in your cart.
 
 We may use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our Web site.
 
@@ -74,7 +78,9 @@ We use third parties to gather information about how you and others use our Web 
 
 #### Links to Other Web Sites
 
-Our Web site includes links to other Web sites whose privacy practices may differ from those of FSA Store. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of FSA Store. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit, as it may differ substantially from that of this privacy statement. FSA Store makes no representations or warranties nor is FSA Store responsible for the privacy policies of any third party. If you decide to access any third party links appearing on the Site, you do so at your own risk.
+
+Our Site includes in particular a hyperlink to https://phil.us/ (the “Phil Site”), a pharmacy prescription fulfillment website owned and operated by Phil, Inc. The FSA Store terms and conditions and this privacy statement do not extend to the Phil Site and we therefore encourage you to review the Phil Site terms and conditions and privacy policy before accessing, using or providing any information to the Phil Site. Any personal information, including prescription and credit card information, that you provide via the Phil Site, will be governed by the Phil, Inc. terms and conditions and privacy policy. FSA Store does not receive or access any personal or health information that you may provide to Phil, Inc. via the Phil Site and Phil, Inc. is prohibited from sharing your information with FSA Store.
 
 ### Security
 
