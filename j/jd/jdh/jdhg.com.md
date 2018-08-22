@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdhg.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707153930id_/http%3A//jdhg.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdhg.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822035959id_/http%3A//jdhg.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Jdhg.com - Privacy Policy
 
