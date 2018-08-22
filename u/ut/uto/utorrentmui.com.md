@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utorrentmui.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717040521id_/https%3A//utorrentmui.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrentmui.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822111927id_/https%3A//utorrentmui.com/priv.html) for the most accurate reproduction.*
 
 # Privacy Policy - UTorrentMui
 
