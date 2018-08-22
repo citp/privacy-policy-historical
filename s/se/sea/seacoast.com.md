@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seacoast.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707124305id_/https%3A//seacoast.com/terms-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacoast.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822233936id_/https%3A//seacoast.com/terms-privacy.php) for the most accurate reproduction.*
 
 # Seacoast Vitamins Privacy Policy
 
@@ -94,4 +94,4 @@ USA
 orders@seacoastvitamins.com  
 1 (800) 555-6792
 
-1\. Statements and claims on Seacoast.com have not been evaluated by the FDA and are not intended to treat or diagnose any ailment or disease.
+1\. Statements and claims on Seacoast.com have not been evaluated by the FDA and are not intended to treat or diagnose any ailment or disease. 
