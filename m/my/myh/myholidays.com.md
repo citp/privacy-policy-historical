@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the myholidays.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716110856id_/https%3A//us.myholidays.com/common/EN/UI/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myholidays.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822034615id_/https%3A//us.myholidays.com/common/EN/UI/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # myholidays-PrivacyPolicy
+
+## Privacy Policy
 
 ####  Privacy Policy and Cookies
 
 At myholidays.com (MH) we respect your need to understand how your personal information is dealt with. We have set out this Privacy Policy to familiarize you with our practices and demonstrate our commitment to your privacy. We may change the content of this website at any time whenever it deems appropriate and necessary in our opinion without prior notice and consequently our privacy policy may change at any time in the future. You agree to revisit the privacy policy page regularly and your continued access to or use of the website will mean that you agree to the changes.
 
-  
-
-
 ####  Personal Information
-
-  
-
 
 Personal information means data that can be used to identify any individual such as name, address, mailing address, telephone number, e - mail address, credit card number, cardholder name, expiration date, information about the travel, bookings and all details that may be requested while any customers visits or uses the website.
 
@@ -33,9 +29,6 @@ The personal information collected is primarily used to pass on to third party s
 The personal information we collect helps us to keep you posted about MH’ latest product announcements, offers, promotions and events. It also allows us to improve our services, content and advertising. We may also use the personal information to improve our product offering, develop, and deliver products, services, content and advertising.
 
 We may use personal information to send you important notices and communications regarding our products and services availed or changes to the terms and conditions and policies. Personal information may also be used internally for research, analysis and auditing.
-
-  
-
 
 ####  Cookies and Other Tracking Technologies
 
