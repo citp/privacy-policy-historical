@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycity.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116110600id_/http%3A//www.mycity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycity.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823010156id_/https%3A//mycity.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - MyCity
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy: Any sensitive information that you provide will be secured with all industry standard protocols and technology Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use Edge Up Network & Mycity.com after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices. 
 
