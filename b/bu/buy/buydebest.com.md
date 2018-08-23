@@ -1,73 +1,83 @@
-> *The following text is extracted and transformed from the buydebest.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021043600id_/http%3A//buydebest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buydebest.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823224605id_/https%3A//www.buydebest.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# buydebest.com
 
-We are buydebest.com, a service provided by Global eTree Services Pvt.Ltd. from, Delhi, India. In this Privacy Policy, references to “you” mean any person submitting any data to us or the Site.
+### Privacy Policy
 
-If you have any comments or suggestions, we would be pleased to receive them at our Delhi address or by emailing us at customercare@ buydebest.com
+We value the trust you have placed in us. That`s why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
-Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
+**Note:**
 
-We will only keep your information for, as long as we are either required to by law or as is relevant for the purposes for which it was collected.
+Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy at the time of making a transaction and in any case periodically.
 
-You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
+By visiting this Website (buydebest.com) you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
 
-**Data that we collect**
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
-We may collect various information if you seek to place an order for a product to us on the Site.
+1\. Collection of Personally Identifiable Information and other Information
 
-We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.
+When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
 
-We need this information in order to allow you to go ahead with placing your order for a product. We may use that data to process payment for the product and deliver the product to you. We also use that data to inform you when the product is about to be delivered.
+In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. We may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users` demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.
 
-We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
+We use data collection devices such as "cookies" on certain pages of the Website to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie".
 
-We may also share your data with our franchisor. You further authorise the franchisor to use this information to sell products to you, directly or indirectly.
+We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session.
 
-We may also use your data in order to manage the Site, collect payment from you, enable you to subsequently use parts of the Site, detect any fraud or Site abuses, send you information relevant to the Site or our products, and in case we have any queries. Payments that you make through the Site will be processed by our company Global eTree Services Private Limited, a company registered in India under the company rule act.
+Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.
 
-You must only submit to us or our agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
+If you choose to buy on the Website, we collect information about your buying behaviour.
 
-Your actual order details may be stored with us and you may access this information by logging into 
+If you transact with us, we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.
 
-your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
+If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
 
-We shall not share any of your personal information with third parties without your explicit consent. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process Your Information on computers located in the India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in this way please do not use the site.
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.
 
-Under no circumstances do we rent, trade or share your personal information that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.
+We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
-**Credit Check and Fraud Prevention**
+2\. Use of Demographic / Profile Data / Your Information
 
-We use standard and authorized payment services and our Credit Check and Fraud Prevention policies are aligned to these companies. All disputes would be handled by New Delhi courts exclusively.
+We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
 
-Other uses of your personal information
+In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users` activity on our Website.
 
-We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, SMS updates, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the “unsubscribe” link in any email that we send to you or follow the unsubscription process as detailed in the SMS. Kindly note that unsubscribing from one medium does not automatically lead to unsubscription from the other.. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
+We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
 
-**Competitions**
+We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences.
 
-For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
+Cookies
 
-**Third Parties and Links**
+A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer`s hard drive. The cookies do not contain any of your personally identifiable information.
 
-We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
+3\. Sharing of personal information
 
-  **Cookies**
+You agree to us sharing your personal information with our other corporate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
 
-The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to http://www.allaboutcookies.org or to find out about removing them from your browser, go to http://www.allaboutcookies.org/manage-cookies/index.html.
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
-The Site uses technology from Google Analytics and  through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
+You further agree to us sharing some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
-Security
+4\. Links to Other Sites
 
-We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorised access to your password and to your computer.
+Our Website links to other websites that may collect personally identifiable information about you. Buydebest.com is not responsible for the privacy practices or the content of those linked websites.
 
-Consent
+5\. Security Precautions
 
-By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy.
+Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-Copyright
+6\. Choice/Opt-Out
 
-We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
+We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
-This Privacy Policy can change at any time to include / exclude clauses and buydebest.com does not bear responsibility for updating Users on the same.
+If you want to remove your contact information from all flipkart.com lists and newsletters, please visit   [https://www.Buydebest.com/unsubscribe](https://www.buydebest.com/unsubscribe)
+
+7\. Advertisements on [www.Buydebest.com](https://web.archive.org/web/20180823224605id_/https%3A//)
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+8\. Your Consent
+
+By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.
+
+If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
