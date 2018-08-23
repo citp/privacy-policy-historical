@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the address007.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623132126id_/http%3A//address007.com/StaticPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the address007.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823151943id_/http%3A//address007.com/StaticPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Address007.com Privacy policy Page
 
