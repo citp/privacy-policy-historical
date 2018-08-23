@@ -1,32 +1,96 @@
-> *The following text is extracted and transformed from the therealreal.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403095239id_/https%3A//www.therealreal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealreal.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823044353id_/https%3A//www.therealreal.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The RealReal
 
-Effective Date: February, 2016 
+Effective Date: July 28, 2016; updated may 25, 2018 
 
-The RealReal, Inc. ("The RealReal", "us", or "we") is committed to respecting and protecting the privacy of our Users. This Privacy Policy, which is part of our overall Terms of Service, covers personal information collected about our Users, which includes users of The RealReal Service (as defined in our Terms of Service), visitors to our web Site (www.therealreal.com, or "the Site"), and Consignors to The RealReal (who are subject to additional Consignment Terms). 
+The RealReal, Inc. ("The RealReal", "us", or "we") is committed to respecting and protecting the privacy of our Users. This Privacy Policy, which is part of our overall Terms of Service, covers personal information collected about our Users, which includes users of The RealReal Service (as defined in our Terms of Service), visitors to our web site (www.therealreal.com, or "the Site"), and Consignors to The RealReal (who are subject to additional Consignment Terms). 
 
-Please review this Privacy Policy to better understand our practices as they apply to personal information. By using The RealReal Service or accessing the Site, you consent to the data practices described in this Privacy Policy. If you do not agree to this Privacy Policy, or any of the terms in the Terms of Service (including the Consignment Terms if you are a Consignor), you may not continue to use The RealReal Service or visit the Site. 
+This Privacy Policy describes: 
+
+  * the information identifying you that we collect;
+  * how we use this information;
+  * the legal basis upon which we process it;
+  * with whom it is shared; and
+  * how it is stored.
+
+
+
+This policy also describes other important topics relating to your personal information and privacy.
+
+Please review this Privacy Policy to better understand our practices as they apply to your personal information. By using The RealReal Service or accessing the Site, you confirm that you have read and understood the entirety of this Privacy Policy.
+
+Our Terms of Service (including Consignment Terms if you are a Consignor) apply to The RealReal Service and this Site. If you do not agree to them, then you should not continue to use the The RealReal Service or the Site.
 
 ## Changes to our Privacy Policy
 
-From time to time, we may modify this Privacy Policy in our sole discretion. If we make any updates or changes to this Privacy Policy, all modifications will be posted to this Site, and will be effective immediately upon our posting. Using The RealReal Service, or using the Site, after updates are posted and effective constitutes acceptance of any changes. 
+From time to time, we may modify this Privacy Policy in our sole discretion. If we make any updates or changes to this Privacy Policy, all modifications will be posted to this Site, and will be effective immediately upon our posting and, where appropriate, notified to you by post or email. By continuing to use The RealReal Service, or using the Site, after updates are posted and effective you are confirming that you have read and understood the latest version of the Privacy Policy. 
 
 ## What Personal Information Do We Collect?
 
-We collect personal information of all Users of The RealReal (including visitors to its Site), which may include name, phone number, address, email address, and payment information. We may require you to provide personal information to interact with or register for the Site. We require you to register for the Site in order to use The RealReal Service or to act as a Consignor to The RealReal. If you participate in our opinion polls, surveys, contests, or sweepstakes, we may collect additional personal information about you in connection with your response or entry. 
+We collect personal information of all Users of The RealReal, which includes: 
 
-Additionally, you may choose to make other personal information available to us in connection with the consignment of an item, when you submit a video or blog for publication on the Site, email us, or invite a friend to join the Site. 
+  * your name;
+  * phone number;
+  * postal address;
+  * email address.
+
+
+
+We collect personal information of all visitors to the Site (see the Online Tracking section below), which includes; 
+
+  * Internet Protocol (IP) address;
+  * browser type;
+  * your Internet Service Provider (ISP);
+  * website referring/exit pages;
+  * platform type;
+  * date/time stamp;
+  * other information related to your use of the Site.
+
+
+
+We may receive some personal information about you from third parties such as public websites and social media platforms.
+
+We require you to register for the Site in order to use The RealReal Service or to act as a Consignor to The RealReal.
+
+We collect the following information about The RealReal Service that we provide to you:
+
+  * information about your use of The RealReal Service (including account related information such as payment information, purchase history, consign history);
+  * customer services information; and
+  * customer relationship management and marketing information.
+
+
+
+If you participate in our opinion polls, surveys, contests, or sweepstakes, we may collect additional personal information about you in connection with your response or entry.
+
+Additionally, you may choose to make other personal information available to us in connection with the consignment of an item, when you submit a video or blog for publication on the Site, email us, or invite a friend to join the Site. See the Invitations section below for more information.
+
+Please note that we need certain types of personal information so that we can provide The RealReal Service to you or so that you can be a Consignor. If you do not provide us with such personal information, or ask us to delete it, you may no longer be able to access our services or provide goods and services to us.
 
 ## Use of Personal Information We Collect
 
-We use the personal information we collect to provide you with information, products, and services that you request and that we believe may be of interest to you. We use the personal information that we collect to register users, process requests and orders (including membership registration), communicate with you, provide you with other services, offers, and updates, as well as to administer our Site and comply with applicable laws. 
+We, or third party data processors acting on our behalf, collect, use and store the personal information we collect to: 
+
+  * allow you to access and use our Site;
+  * communicate with you (see Communicating With You section below);
+  * register users;
+  * process requests and orders (including membership registration);
+  * provide technical support;
+  * store information about your preferences;
+  * recognize you when you return to our Site;
+  * enable you to participate in our opinion polls, surveys, contests, or sweepstakes;
+  * administer our Site;
+  * ensure the security of our services and our Site;
+  * comply with any procedures, laws and regulations which apply to us – this may include where we reasonably consider it is in our legitimate interests or the legitimate interests of others to comply, as well as where we are legally required to do so; and
+  * establish, exercise or defend our legal rights – this may include where we reasonably consider it is in our legitimate interests or the legitimate interests of others, as well as where we are legally required to do so.
+
+
 
 ### Communicating with You
 
-We may communicate with you about topics we believe you may be interested in, including through newsletters, alerts, and reminders about recurring event sales. From time to time we may send you service-related emails, such as a welcome email when you register for the Site. 
+We will contact you (including by email or post) with information about our products, services and offers which either you request, or which we believe you may be interested in (including through newsletters, alerts, and reminders about recurring event sales), unless you have told us that you don’t want to receive these message, or, otherwise, if it is in our legitimate interests, for business development and marketing purposes. From time to time we will send you service-related emails, such as a welcome email when you register for the Site. 
 
-If you provide us personal information when you communicate with us (including in person, by phone, or via email) this information may be shared with a Customer Care representative, employee, or expert that is most likely to be able to address your inquiry. This information will be used only for the purpose of responding to your inquiry. 
+If you provide us personal information when you communicate with us (including in person, by phone, or via email) this information may be shared with a Consignor or Customer Relations representative, employee, or expert that is most likely to be able to address your inquiry. This information will be used only for the purpose of responding to your inquiry. 
 
 ### Invitations
 
@@ -42,45 +106,102 @@ If you enter a contest or sweepstakes conducted by The RealReal and/or one of ou
 
 ### Online Tracking
 
-Like most websites, we, our service providers, and our third-party partners may collect certain information about your interaction with our Site. This information may be stored in log files. Information stored in log files may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and other information. 
+Like most websites, we, our service providers, and our third-party partners may collect certain information about your interaction with our Site. This information may be stored in log files. Information stored in log files may include IP addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and other information. 
 
 We collect this information through the use of cookies and other similar technologies. We use this information to analyze demographic and other trends, administer the site, track aggregate usage of the Site, and provide you with relevant advertising. 
 
 Because an industry-standard Do-Not-Track protocol is not yet established, the choices we offer will continue to operate as described in this Privacy Policy independent of any Do-Not-Track signals. 
 
-Your Privacy Choices, and right to control our use of your personal information, are described below. 
+Where we use cookies on our Site, you may block these at any time. To do so, you can activate the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies), you will not be able to access all or parts of our Site or to use all the functionality provided through our Site. 
+
+For detailed information on the cookies we use and the purposes for which we use them, please refer to our cookies policy. By continuing to use our Site and/or our services, you are agreeing to our use of cookies as described in our cookies policy. 
+
+Your Privacy Choices, the legal basis on which we use your personal information and right to control our use of your personal information, are described below.
+
+### Legal basis for use of your personal information
+
+In order to comply with European data privacy laws we are required and have considered the legal bases for using your personal information as set out in this Privacy Policy, which are as follows:
+
+  * our use of your personal information is necessary to perform our obligations under any contract with you (for example, to comply with the terms of use of our Site which you accept by browsing our Site and/or to comply with our contract to provide The RealReal Services); or
+  * our use of your personal information as is necessary to complying with our legal obligations;
+  * where none of the above apply, use of your personal information is necessary for our legitimate interests or the legitimate interests of others (for example, to ensure the security of our Site).
+
+
+
+Our legitimate interests are to:
+
+  * run, grow and develop our business;
+  * operate our Site;
+  * carry out marketing, market research and business development;
+  * provide goods and services to our customers and consignors, make and receive payment, provide customer services and to know the identity of the customer that we are providing services to; and
+  * place, track and ensure fulfilment of orders with our vendors.
+
+
 
 ## Sharing of Personal Information
 
 ### Third Parties
 
-We may provide contractors access to your personal information in the course of assisting in operating our business and providing products or services to you. These contractors include vendors and suppliers that provide us with technology, services and/or content for the operation and maintenance of our Site or Service. Access to your personal information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. We require our contractors to keep the personal information they are provided confidential and to comply with the terms of this Privacy Policy. 
+We may need to share your personal information with our contractors in the course of operating our business and providing products or services to you. These contractors include vendors and suppliers, including but not limited to payment processors, suppliers of technical and support services, logistic providers, and cloud service providers that provide us with technology, services and/or content for the operation and maintenance of our Site or Service. We will also share your personal information with companies that assist us in our marketing, advertising and promotional activities and analytics and search engine providers that assist us in the improvement and optimization of our Site. 
 
-We will not rent, sell or share your personal information with third parties without your consent except to provide you with a product or service you request or as described in this Privacy Policy. 
+Access to your personal information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. We require our contractors to keep the personal information they are provided confidential and to comply with the terms of this Privacy Policy and applicable laws. 
 
-### Legal Disclaimer
+We will not rent, sell or share your personal information with third parties without your consent except to provide you with a product or service you request or as described in this Privacy Policy. If you have given your consent for us to use your personal information in a particular way, but later change your mind, you should contact us and we will stop doing so. 
+
+We may also disclose and use anonymized, aggregated reporting and statistics about users of our website and apps or our goods and services and from interactions with us and our brands on social media for the purpose of internal reporting or reporting to our group or other third parties, and for our marketing and promotion purposes. None of these anonymized, aggregated reports or statistics will enable our users to be personally identified. 
+
+### Disclosures required by law or for business purposes
 
 We may disclose personal information pursuant to a request from law enforcement or pursuant to other legal or regulatory process, or as otherwise required by law, or, in our sole discretion, to protect our rights, property or interests, including to enforce this Privacy Policy or our Terms of Service. In the event that we are legally compelled to disclose your personal information to a third party, we will make reasonable efforts to notify you unless doing so would violate the law or court order. 
 
-In our sole discretion, we may also disclose information we collect to a third party when we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, or illegal conduct. 
+In our sole discretion, we may also disclose information we collect to a third party when we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, or illegal conduct, including to enforce or apply our terms and conditions or any other agreement or to respond to any claims, or to protect our rights or the rights of a third party. 
 
-Information collected from this site may also be transferred as part of a merger or other combination, or as part of a restructuring, bankruptcy, transfer of assets, or to our successors in interest. 
+We will also disclose your personal information to third parties where it is in our legitimate interests to do so to run, grow and develop our business. Information collected from this Site may also be transferred as part of a merger or other combination, or as part of a restructuring, bankruptcy, transfer of assets, or to our successors in interest. 
+
+### Retention of personal information
+
+We keep your personal information for no longer than necessary for the purposes for which the personal information is processed. The length of time we retain personal information for depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights. 
+
+In order to enforce the terms of this Privacy Policy, resolve disputes, or provide information to satisfy applicable governmental laws, regulations, investigations or proceedings, we may need to retain your personal information in our files. We will do so in compliance with applicable law. 
 
 ## Your Privacy Choices
 
 ### Updates to Your Information
 
-At your request, we will make efforts to update, change or delete personal information The RealReal maintains about you. In order to enforce the terms of this Privacy Policy, resolve disputes, or provide information to satisfy applicable governmental laws, regulations, investigations or proceedings, we may need to retain your personal information in our files. 
+You can contact us at any time to update, change or delete personal information The RealReal maintains about you. 
 
 ### Choice/Opt-out
 
-Users who no longer wish to receive our newsletters, alerts, or promotional communications may opt-out of receiving these communications. 
+Users who no longer wish to receive our newsletters, alerts, or promotional communications may opt-out of receiving these communications at any time. 
+
+### Rights if you are located in the European union
+
+If you are accessing our Site and The RealReal Services from the European Union, then you have certain rights in relation to your personal information which are set out below. If you would like further information in relation to these or would like to exercise any of them, please contact us by email using the details below at any time. You have the right to request that we: 
+
+  * provide access to any personal information we hold about you;
+  * update any of your personal information which is out of date or incorrect;
+  * delete any personal information which we are holding about you;
+  * restrict the way that we process your personal information;
+  * stop processing your personal information for direct-marketing purposes;
+  * provide your personal information to a third party provider of services;
+  * provide you with a copy of any personal information which we hold about you; or
+  * consider any valid objections which you have to our use of your personal information.
+
+
+
+We will consider all such requests and provide our response within a reasonable period (and in any event any time period required by applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances. If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make. 
 
 ### How to Exercise Your Choices
 
 You may notify us of your choices or preferences by accessing your “Account Info” on the Site, or by contacting us as set forth in the “How to Contact Us” section below. 
 
 ## Additional Information
+
+### Transfers of Personal Information
+
+The RealReal is based in the United States and therefore personal information collected from this Site and provided in connection with The RealReal Services will be transferred to and processed in the United States, and may be transferred and processed to other countries outside of your country of residence. We may also transfer personal information to service providers or other third parties with whom we have contractual agreements. Other countries where your personal information may be processed may have different legal protections for personal information than your country of origin, including different standards for access by law enforcement, courts, or other governmental authorities. 
+
+Further details on the steps we take to protect your personal information in these cases is available from us on request by contacting us at any time. 
 
 ### Third Party Websites
 
@@ -100,9 +221,11 @@ Our Site is not directed to children under the age of 13, and our Terms of Servi
 
 ### Security
 
-We take precautions to protect information that we collect from our Users. We protect the information entrusted to us through physical, technical and administrative safeguards. These protections include restricting access to personal information to employees who need the information to perform a specific job. The RealReal provides its employees training on its security and privacy practices. 
+We take precautions to protect information that we collect from our Users. We protect the information entrusted to us by taking all reasonable precautions to safeguard the confidentiality of personal information, including through use of appropriate physical, technical and administrative safeguards and measures. These protections include restricting access to personal information to employees who need the information to perform a specific job. The RealReal provides its employees training on its security and privacy practices. Technical safeguards and measures include use of encryption, passwords for access to our systems and use of anti-virus software. 
 
-However, no information security safeguards can be guaranteed to be completely secure, so you should use caution whenever providing personal information online, electronically or otherwise. 
+However, in the course of provision of your personal data to us, your personal information may be transferred over the internet. Although we make every effort to protect the personal information which you provide to us, no information security safeguards can be guaranteed to be completely secure, so you should use caution whenever providing personal information online, electronically or otherwise. Once we have received your personal information, we will use strict procedures and security features to prevent unauthorized access to it. 
+
+Where we have given you (or where you have chosen) a password which enables you to access your online account, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
 
 ## How to Contact Us
 
@@ -112,5 +235,75 @@ You also may write to us at:
 
 The RealReal  
 Attn: Legal Department  
-660 4th St. #601   
-San Francisco, CA 94107 
+55 Francisco St. 6th floor   
+San Francisco, CA 94133 
+
+As we do not have any presence in the European Union, we have appointed an EU based representative who can be contacted at the following address: therealreal@mcf.ie; MCF Legal Technology Solutions Limited, McCann FitzGerald, Riverside One, Sir John Rogerson's Quay, Dublin 2, D02 X576. 
+
+You may also make a complaint to the data protection authority in the European Union country where we you are based. If you are unsure which data protection authority to contact, please contact us. Alternatively you may seek a remedy through local courts if you believe your rights have been breached. 
+
+Effective Date: May 25, 2018 
+
+Our website uses cookies. This policy explains what cookies are, why we use them, and how you can manage their use. 
+
+##  What are cookies? 
+
+Cookies are small text files which are sent to your browser when you visit our website. When you visit our website again, the cookie allows our website to recognise your browser. When you visit our website, cookies may also be sent to your browser by other websites that are used for advertisements on other sites you may visit. 
+
+Cookies are useful because they help us make your website experience more enjoyable. They allow us to recognise your device (e.g. your laptop or mobile device) so that we can tailor your experience of our website. You can find out more about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+##  Why do we use cookies? 
+
+Cookies do lots of different jobs on this website, such as letting you navigate between pages efficiently, remembering your preferences, remembering your username and password, enabling you to keep goods in your shopping basket, letting us analyse how well our website is performing, and improving your experience. They also help ensure that advertisements you see while you are on other websites are more relevant to you and your interests. 
+
+##  What types of cookies do we use? 
+
+We want you to understand the different types of cookies that we use on our website. Some of these cookies are essential to the operation of our website. Others are not essential but help to improve our website by collecting user information or try and improve your experience of our website by remembering your choices. 
+
+Generally, our cookies perform up to four different functions: 
+
+###  Type 1 – Strictly necessary cookies – which enable services you have specifically asked for 
+
+We use several cookies which are essential to the operation of this website. For example, these types of cookies let us identify subscribers and ensure they can access the subscription-only areas of this website, enable our website to remember the goods that you add to your shopping cart, provide the necessary security your visit to our website requires, and help ensure the content of the pages you request load quickly. Without these cookies, services that you have asked for cannot be provided. 
+
+###  Type 2 – Performance cookies – which collect anonymous information about the web pages you visit 
+
+These cookies collect information about how visitors use our website, for example, which pages our visitors go to most often, and if they get error messages on those pages. These performance cookies don't collect information that identifies you as an individual – all information they collect is aggregated and anonymous. The information gathered is only used to improve how our website works. 
+
+We use Google Analytics on our website to help us analyse how our website is used. You can find out more about this popular website analytics tool here: <http://www.google.com/analytics/index.html>. Google Analytics uses performance cookies to track visitor interactions. For example, by using cookies Google can tell us which pages our users view, which are most popular, what time of day our website is visited, whether visitors have been to our website before, what website referred the visitor to our website, and other similar information. All this information is anonymised. Google takes the privacy and security of your Google Analytics data seriously and you can find out more about how it protects your data here: <http://www.google.com/analytics/learn/privacy.html>. 
+
+###  Type 3 – Functionality cookies – which remember your choices to improve your experience. 
+
+These cookies allow our website to remember choices you make, such as, remembering your username, the region you are in, and changes you make to various other parts of our website which you can customise, such as your MySales page. The aim of these cookies is to provide you with a more personal experience so that you don't have to reset your preferences each time you visit us. 
+
+###  Type 4 – Targeting or advertising cookies which remember your browsing habits to try and display relevant advertising when you visit other online sites. 
+
+These cookies track your browsing habits so that we can show you advertising which we hope is relevant to your interests. We believe it is useful to show you advertisements that are tailored to your interests. These advertising cookies use information about your web browsing activity to group you with other users who have similar interests and show you advertisements based upon those interests. For example, these cookies may remember that on our website you viewed pages relating to particular products. Based on that information, with our permission, third party advertisers can place cookies on your browser to enable them to show you those products while you visit other sites. 
+
+These types of cookies are also used to limit the number of times you see an advertisement as well as to help measure the effectiveness of advertising campaigns. 
+
+##  We may track whether you open emails that we send 
+
+Our emails may contain a web beacon to track who opens an email, when, and whether that user clicks on any of the links in the email. We may use this information to help us analyse which of our users are interested in particular topics. When you delete the email, the web beacon will be deleted. 
+
+##  How to manage cookies on our website 
+
+Cookies do lots of important jobs on our website and help to make your online experience more personal and more enjoyable. 
+
+By using our website, you are deemed to consent to the use of cookies as described in this cookie policy. 
+
+However, you can disable all our cookies if you choose. If you do so, you may find that significant parts of our website do not work at all, or do not work correctly. 
+
+##  Disabling Cookies 
+
+If you would like to disable targeting, advertising or cookies, which remember your browsing habits and try and display relevant advertising when you are online, you can visit <http://www.youronlinechoices.com/uk/your-ad-choices>. If you choose to turn off these cookies you will still see advertising on the internet, but it may not be tailored to your interests. It does not mean that you won't be served any advertisements whilst you are online. Whilst many companies involved in using targeting, advertising or cookies and serving online behavioural advertising appear at the above link, not all do. Therefore, even if you choose to turn off cookies used by all the companies listed, you may still receive some targeting, advertising or cookies and some tailored advertisements from other companies. 
+
+You can also manage this type of cookie in the privacy settings on the web browser you are using. Please see below for more information. 
+
+##  Disabling other cookies 
+
+You can disable and/or delete all types of cookies by using your browser settings. Cookies are generally easy to disable and/or delete but how you do so varies from browser to browser. The "help" function within your browser should tell you how to do it. The best way may be to close your browser and then search for "cookie folder" or "cookie manager" or simply "cookie". 
+
+##  Further information 
+
+If you have any questions relating to this Cookie Policy, please contact us at: [contact@TheRealReal.com](mailto:contact@therealreal.com). 
