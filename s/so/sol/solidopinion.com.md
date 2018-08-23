@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidopinion.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617222932id_/http%3A//solidopinion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidopinion.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823124523id_/http%3A//solidopinion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – solidopinion.com
 
