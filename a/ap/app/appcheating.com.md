@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the appcheating.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173119id_/https%3A//appcheating.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcheating.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823042805id_/https%3A//appcheating.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AppCheating
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/appcheating.com).  
+
+
+* * *
 
 ### Your privacy is critically important to us.
 
