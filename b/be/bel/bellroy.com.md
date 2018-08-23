@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623043617id_/https%3A//bellroy.com/customer-care%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823103615id_/https%3A//bellroy.com/customer-care%23privacy-policy) for the most accurate reproduction.*
 
 # Customer Care: Shipping, Delivery, Warranty & Exchanges | Bellroy
 
@@ -199,7 +199,7 @@ We do this via multiple digital channels, but we don’t offer phone support for
 
 
 
-This doesn't mean we are completely unavailable via phone. If you have contacted us using one of our five support channels and feel you have an issue that requires a phone conversation, you can request a call. We’ll do what we can to make it happen. 
+If you have any further questions please contact us via support@bellroy.com or one of our other channels. 
 
 Welcome to bellroy.com (the 'Site'). Here are some details about how we work.
 
