@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddstuffmagazine.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627233901id_/http%3A//oddstuffmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddstuffmagazine.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823042958id_/https%3A//oddstuffmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -39,7 +39,7 @@ CloudFlare
 Personal Data: Cookies and various types of Data as specified in the privacy policy of the service
 
 Contact Owner and Data Controller  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacy@oddstuffmagazine.com
 
 Odd Stuff Magazine respects your privacy. Any personal information you provide to us including and similar to your name & e-mail address will not be released, sold, or rented to any entities or individuals outside of Odd Stuff Magazine.
 
@@ -78,7 +78,7 @@ CloudFlare
 Personal Data: Cookies and various types of Data as specified in the privacy policy of the service
 
 Contact Owner and Data Controller  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacy@oddstuffmagazine.com
 
   
 
