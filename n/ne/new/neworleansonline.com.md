@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neworleansonline.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520083010id_/http%3A//www.neworleansonline.com/notmc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleansonline.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823040142id_/https%3A//www.neworleansonline.com/notmc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -102,7 +102,7 @@ Unfortunately, no system or online transmission of data can be guaranteed to be 
 
 ### How We Use Cookies
 
-NOTMC and its agents use Cookies so that we can improve your online experience â€“ for example, by remembering you when you come back to visit the Websites, and making the content you see more relevant to you. Cookies also enable us to track online purchases made through our Online Services.
+NOTMC and its agents use Cookies so that we can improve your online experience – for example, by remembering you when you come back to visit the Websites, and making the content you see more relevant to you. Cookies also enable us to track online purchases made through our Online Services.
 
 ### Your Options for Cookies
 
