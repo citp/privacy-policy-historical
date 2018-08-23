@@ -1,96 +1,203 @@
-> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190526id_/https%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823103052id_/https%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice | WP Site Care
+# Privacy Policy for WP Site Care | WP Site Care
 
-*** Updated February 2, 2017 ***
+This Privacy Policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in U.S. privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**Privacy Policy for** **WP Site Care, LLC (“we” and “us”)**
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**Scope of this Policy**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience. We will store this information for as long as needed or when it is asked to be removed by the individual themselves.
 
-We understand you care about how information about you is collected and used. We are committed to protecting the privacy of individuals who interact with us. This Privacy Policy describes our privacy practices for our website and, as applicable, to other resources we link to.
+**When do we collect information?**
 
-**Form submission information**
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form, open a Support Ticket, enter information on our site, and when you provide us with feedback on our products or services.
 
-You may choose to provide us information when you fill out a form on the website or otherwise contact us. When you do so, we collect information that identifies you personally. For example, we may collect your name, company name, address, email address, phone number, position, title, and similar information.
+**How do we use your information?**
 
-**Use of cookies**
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Through the use of first-party and third-party cookies, web beacons, and similar technologies, we receive and store certain information about how you use our websites and when you visit them. This includes information that your browser or device sends to our servers whenever you visit one of our websites. Your browser or device may tell us your internet protocol (IP) address used to connect your computer to the Internet, and connection information such as browser type, version, language, time zone setting, browser plug-in types, operating system, and type of device you are using. When you visit our websites, your browser may also tell us information such as the actions you take on our website, the page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website.
-
-**Buttons, tools, and content from other parties**
-
-Our website includes content that links to other companies’ services (e.g., a Facebook “Like” button). We may collect information about your use of these features. In addition, when you see or interact with such content, some information from your browser may automatically be sent to the other company. Please read that company’s privacy policy for more information regarding its use of that information. Our website also includes links that will direct you away from our website to third-party websites (e.g., billingportal.com). By accessing those third-party websites, you will be obligated to comply with their respective privacy policies and we encourage you to read them carefully.
-
-**Social networking pages**
-
-We maintain our own pages on multiple social networking sites and may collect information when you interact with these sites.
-
-**Online advertising**
-
-When we advertise online, we collect information about which ads are displayed to you, which ads you click on, and on which web page the ad was displayed to you.
-
-**User postings**
-
-You may choose to provide personal information through your public participation in our open communications tools or other interactive webpages (e.g., blogs, comments, etc.). Such information may be available to anyone who has access to the website.
-
-**Use of the information we collect**
-
-We use the information we collect about you to:
-
-  * Provide you website content and other services, support, or information you have requested
-  * Operate and improve our websites and diagnose related problems
-  * Personalize our websites and communications to your likely interests and needs
-  * Send you business messages
-  * Send you information about us, special offers, and similar marketing information
-  * Conduct market research about our customers, their interests, and the effectiveness of our marketing campaigns
-  * Display personalized ads to you across the Internet
-  * Combine information we collect about you with other public or private information sources in order to provide you with communications that may be relevant to you
-  * Contact you via telephone to discuss our services and related offers with you
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To quickly process your transactions.
+  * To ask for ratings and reviews of services or products
+  * To follow up with them after correspondence (email or phone inquiries)
 
 
 
-**Subscription information**
+**How do we protect your information?**
 
-From time to time, we provide information to our customers and potential customers in the form of electronic newsletters / updates. When you subscribe to these updates, you will be added to our mailing list and will receive announcements and information about us. These will be emailed to the address(es) that you provide when you subscribe.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We use regular malware scanning services.
 
-**Sharing information collected by us**
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-We work with companies that help us run our business. These companies may provide services such as delivering customer support, processing payments, and sending emails on our behalf. In some cases, these companies may have access to your personal information as required to help us run our business. They are not permitted to access or use your information for their own purposes.
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-We may also share your personal information:
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-  * When you have consented to the sharing
-  * With companies affiliated with us
-  * With our resellers and other sales partners
-  * When we are required to provide information in response to a subpoena, court order, applicable law, government statute, regulation or other legal process
-  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our websites against attacks, or to protect customers, users or our property and security
-  * To the extent necessary to meet national security, law enforcement, or public interest requirements
-  * If we merge with or are acquired by another company, we sell one of our websites or business units, or all or a substantial portion of our assets are acquired by another company. In those cases, your information may be one of the assets that is transferred
-  * When we hire companies to help us market our websites and services and provide you with information and offers related to us, including displaying ads to you across the Internet
+**Controlling your personal information**
 
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * If you have previously agreed to us using your personal information for direct marketing or billing purposes, you may opt-out at any time by writing to or emailing us via the contact us page
+  * You may request details of personal information which we hold about you under the Data Protection Act 1998.
+  * If you believe that any information we are holding about you is incorrect or incomplete, please write to, call or email us as soon as possible at the phone number or address detailed at the bottom of this page. We will promptly correct any information found to be incorrect.
 
 
-**Information security and storage**
 
-We understand that the security of your personal information is important. We provide reasonable administrative, technical, and physical security controls to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, or destruction. However, despite our efforts, no security controls are completely fail proof and we cannot ensure or warrant the security of your personal information. Your personal information and data files are stored on our servers and the servers of companies we hire to provide services to us.
+**Do we use ‘cookies’?**
 
-**Reviewing, updating or deleting your personal information**
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-You have the ability to accept or reject cookies and similar technologies through your web browser settings. You can also use your web browser settings to prompt you each time a cookie is offered. Please review the instructions provided by the provider of your web browser for more information.
+We use cookies to:
 
-You may also submit a request to us to review, edit, or delete your personal information by emailing your request to hello@wpsitecare.com. We will assist you with your request once your identity has been verified.
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-We will retain your personal information for as long as necessary to provide you with the websites and services you are eligible to use or as needed to comply with our legal obligations or enforce our agreements. For example, we may retain certain records for legal or internal business reasons, such as fraud prevention. Some of your information may also remain on backup systems, in compliance with applicable law.
 
-**Opting out of our communications**
 
-You may opt out of receiving certain communications by unsubscribing from the marketing, mailings or newsletters you no longer desire. To unsubscribe, please follow the “Unsubscribe” instructions that are contained within the email, newsletter, or other communication that we send to you.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s help instructions to learn the correct way to modify your cookies.
 
-**Changes to this Privacy Policy**
+If you turn cookies off, some features will be disabled. Some of the features that make your site experience more efficient and may not function properly.
 
-Occasionally, we may change or update this Privacy Policy to allow us to use or share your previously collected personal information in a materially different way. We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices.
+However, you will still be able to receive assistance over the telephone by contacting customer service.
 
-**Questions or concerns**
+**Third-party disclosure**
 
-If you have any questions related to this Privacy Policy, please email us at hello@wpsitecare.com.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google Advertising**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles and reviewed on Google website (https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users.
+
+**We use Google AdSense Advertising on our website.**
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+We have implemented the following:
+
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
+
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared.
+
+According to CalOPPA, we agree to the following:
+
+  * Users can visit our site anonymously.
+  * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+
+
+You will be notified of any Privacy Policy changes on our Privacy Policy page.
+
+You can change your personal information:
+
+  * By emailing us
+  * By calling us
+
+
+
+**How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?  
+**  
+It’s also important to note that we allow third-party behavioral tracking.
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+  * We will notify you via email within 7 business days
+  * We will notify you via letter within 7 business days
+
+
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**International Users**
+
+If you are accessing the Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use, which is governed by the law of the United States and this Privacy Policy, you will be transferring your personal information into the United States and you consent to that transfer.
+
+**Third-Party Services**
+
+We utilize third parties and their platforms or services to power and support the Site, including the following (collectively, “ **Third-Party Services** ”):
+
+  * For hosting, Amazon Web Services.
+  * For analytics, to monitor how the Site is being used and to identify potential issues, Mixpanel, Intercom, and Google Analytics.
+
+
+
+The Third-Party Services and your provision of information to and storage of your data with such services are subject to their applicable terms and policies.
+
+**CAN-SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+  * Send information, respond to inquiries, and/or other requests or questions
+  * Send information and updates pertaining to work orders.
+  * Send you additional information related to your product and/or service
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+To be in accordance with CAN-SPAM, we agree to the following:
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at support@southernweb.com or follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Southern Web, LLC  
+3565 Piedmont Road, NE  
+Building Four, Suite 360  
+Atlanta, Georgia 30305  
+United States  
+[support@southernweb.com](mailto:support@southernweb.com)  
+[https://southernweb.com](https://southernweb.com/)  
+404-848-9440
+
+* * *
+
+**Last Updated:** July 16, 2018
