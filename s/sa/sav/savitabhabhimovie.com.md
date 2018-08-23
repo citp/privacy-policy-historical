@@ -1,63 +1,142 @@
-> *The following text is extracted and transformed from the savitabhabhimovie.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520182813id_/http%3A//www.savitabhabhimovie.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savitabhabhimovie.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823144327id_/https%3A//www.savitabhabhimovie.com/privacy-policy-3) for the most accurate reproduction.*
 
-# privacy-policy - Savita Bhabhi Movie
+# Privacy Policy - Savita Bhabhi Movie
 
-Privacy Policy
+**Welcome, and thank you for your interest in Savita Bhabhi Movie  ** **(“** **site”** **, “we” or “us”) and all related websites, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to this Privacy Policy is displayed, and all other communications with individuals through email.**
 
-Please read this privacy policy statement carefully. By your subscription to and use of this site you will be expressly signifying that you agree with the policies and practices set forth in the present privacy policy statement and that you assent to the use of any personal information that you supply or that is collected about you as detailed in this privacy policy statement.
+This Privacy Policy (“Policy”) describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. By visiting the Site, or by purchasing or using the Service, you accept the privacy practices described in this Policy.
 
-If you do not expressly agree with all of the terms of this privacy policy statement you should not subscribe to or use this site.
+## Definition
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (“you”) and members of Kirtu network (“our”, “we”, “us” the “site”) websites including but not limited to, www.savitabhabhi.com, Kirtu.com and Velamma.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
+  * **User:** The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
+  * **Personal Data:** means any information relating to an identified or identifiable natural person.
+  * **Public Area:** means the area of the Site that can be accessed both by Users and Visitors, without needing to log in.
+  * **Restricted Area:** means the area of the Site that can be accessed only by Users, and where access requires logging in.
+  * **Visitor:** means an individual other than a User, who uses the public area, but has no access to the restricted areas of the Site or Service.
+  * **Cookies:** Cookies are small pieces of data stored on a User’s device.
 
-USE  
-This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice or delay.
 
-INFORMATION COLLECTED FROM SUBSCRIBERS  
-Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber’s name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address(es), referring website information, browser information, and other related data may be collected.
 
-USE OF PERSONAL SUBSCRIBER INFORMATION  
-If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.
+## 1\. What information do we collect?
 
-If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database.
+### 1.1 Personal Data
 
-The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of “cookies” or other programming means – any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
+While using our site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to: Email address, Name, “About you” information, your submitted content, Cookies and Usage Data.
 
-DISCLAIMER  
-By the subscriber’s use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send. 
 
-By the subscriber’s use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
+If you want to create an account on our sites you have to provide your email and pick a username. If you don’t provide this data you can’t create the account. 
 
-All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
+### 1.2 Usage Data
 
-The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
+We may also collect information on how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.  
-All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals.
+### 1.3 Tracking & Cookies Data
 
-A subscriber’s IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites.
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-SECURITY OF INFORMATION COLLECTED BY THE SITE  
-The site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-While the website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. The website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information.
+Examples of Cookies we use: **session cookies** (we use these cookies to operate our Service) and **preference cookies** (we use these cookies to remember your preferences and various settings).
 
-FINANCIAL INFORMATION  
-All financial data will only be shared with the site’s third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.
+## 2\. How We Use the Information We Collect
 
-Subscriber’s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
+We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
 
-“OPT-IN” & “OPT-OUT” PROVISIONS  
-“OPT-IN AND USER COMMUNICATION” – Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber’s preference by either clicking or entering “accept” (alternatively “yes”) or “decline” (alternatively “no”). By selecting or clicking the “accept” or “yes”, the subscriber indicates that the subscriber “OPTS-IN” to that offer and thereby agrees and assents that the subscriber’s personal information, including its email address and data may be used for that matter or disclosed to third-parties.”
+### 2.1 Operations
 
-“OPT-OUT AND USER COMMUNICATION” – Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. “OPT-OUT” of the offer) then the site may transfer the subscriber’s personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+We use the information to operate, maintain, enhance and provide all features of the Service, to provide the services and information that you request, to respond to comments and questions and to provide support to users of the Service.
 
-CHANGES/MODIFICATIONS TO PRIVACY POLICY  
-This privacy policy may be changed, modified or edited at any time. It is the subscriber’s responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise.
+### 2.2 Improvements
 
-TERMS AND CONDITIONS OF MEMBERSHIP  
-Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
+We use the information to understand and analyze the usage trends and preferences of our Visitors and Users, to improve the Service, and to develop new products, services, feature, and functionality. 
 
-Third-Party Analytics: We use third-party analytics from Google to help analyze where visitors go and what they do while visiting our website. Google may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, click here
+### 2.3 Communication
+
+We may use your email address to contact you for administrative purposes such as customer service, to address intellectual property infringement, the right of privacy violations or defamation issues related to the Personal Data. You have the ability to opt-out of receiving any promotional communications.
+
+### 2.4 Cookies and Tracking Technologies
+
+We use automatically collected information and other information collected on the Service through cookies and similar technologies to: (i) personalize our Service, such as remembering a User’s or Visitor’s information so that the User or Visitor will not have to re-enter it during a visit or on subsequent visits; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of Service and third-party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service. You can obtain more information about cookies by visiting [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+### 2.5 Analytics
+
+We use Google Analytics to measure and evaluate access to and traffic on the Site and create user navigation reports for our Site administrators. Google operates independently from us and has its own privacy policy, which we strongly suggest you review. Google may use the information collected through Google Analytics to evaluate Users’ and Visitors’ activity on our Site. For more information, see [Google Analytics Privacy and Data Sharing](https://support.google.com/analytics/answer/6004245).
+
+We take measures to protect the technical information collected by our use of Google Analytics. The data collected will only be used on a need to know basis to resolve technical issues, administer the Site and identify visitor preferences; but in this case, the data will be in non-identifiable form. We do not use any of this information to identify Visitors or Users.
+
+## 3\. To Whom We Disclose Information
+
+Except as described in this Policy, we will not intentionally disclose the Personal Data that we collect or store on the Service to third parties without the consent of the applicable Visitor or User. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
+
+### 3.1 Unrestricted Information
+
+Any information that you voluntarily choose to include in a Public Area of the Service, such as a public profile page, will be available to any Visitor or User who has access to that content.
+
+### 3.2 Service Providers
+
+We work with third-party service providers who provide a website, application development, hosting, maintenance, and other services for us. These third parties may have access to, or process Personal Data as part of providing those services for us. We limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and our contracts with them require them to maintain the confidentiality of such information.
+
+### 3.3 Non-Personally Identifiable Information
+
+We may make certain automatically-collected, aggregated, or otherwise non-personally-identifiable information available to third parties for various purposes, including (i) compliance with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our Users’ and Visitors’ interests, habits, and usage patterns for certain programs, content, services, and/or functionality available through the Service.
+
+## 4\. Your Rights
+
+We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the right:
+
+  * To access and receive a copy of the Personal Data we hold about you
+  * To rectify any Personal Data held about you that is inaccurate
+  * To request the deletion of Personal Data held about you
+
+
+
+You have the right to data portability for the information you provide to us. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+## 5\. Third-Party Services
+
+The Service may contain features or links to websites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Service. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the site. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
+
+## 6\. Data Retention
+
+We only retain the Personal Data collected from a User for as long as the User’s account is active or otherwise for a limited period of time as long as we need it to fulfil the purposes for which we have initially collected it unless otherwise required by law. 
+
+## 7\. Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## 8\. Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked websites. Nonetheless, we seek to protect the integrity of our website and welcome any feedback about these websites.
+
+## 9\. Do we disclose any information to outside parties?
+
+The site does not sell, trade or otherwise transfer to outside parties any personally identifiable information.
+
+This does not include trusted third parties or subcontractors who assist us in operating our website, conducting our business, or servicing you. Such trusted parties may have access to personally identifiable information on a need-to-know basis and will be contractually obliged to keep your information confidential.
+
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. Furthermore, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## 10\. Data controller
+
+We are Data controller of your data as defined in terms of the European Union’s General Data Protection Regulation (Regulation (EU) 2016/679).
+
+## 11\. Changes and Updates to this Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+## 12\. How to contact us
+
+Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, or your consent choices by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).
+
+Last update: 11.5. 2018 
