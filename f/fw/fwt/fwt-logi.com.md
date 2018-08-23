@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwt-logi.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122230351id_/http%3A//fwt-logi.com/subpages/private_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwt-logi.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823130900id_/http%3A//fwt-logi.com/subpages/private_policy.php) for the most accurate reproduction.*
 
 # FWT Logistics Japan - Shipping and Booking Agent
 
@@ -36,8 +36,8 @@ Contact
 
 If you have any questions or comments about privacy, the use of this web site, or your dealings with this web site you can contact:   
 FWT Logistics Japan   
-746-1, Shimoimaizumi   
+2-12-5, Izumi   
 Ebina-Shi   
 Kanagawa-ken   
-243-0435   
+243-0437  
 JAPAN 
