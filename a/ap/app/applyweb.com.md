@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the applyweb.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627013502id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applyweb.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823235743id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
 
 # CollegeNET - Privacy
 
-  * [ Print Page](https://web.archive.org/web/20180627013502id_/http%3A//corp.collegenet.com/Privacy.pdf)
-  * [ Expand All](https://web.archive.org/web/20180627013502id_/http%3A//corp.collegenet.com/.collapse)
+  * [ Print Page](https://web.archive.org/web/20180816200742id_/https://corp.collegenet.com/Privacy.pdf)
+  * [ Expand All](https://web.archive.org/web/20180816200742id_/https://corp.collegenet.com/.collapse)
 
 
 
