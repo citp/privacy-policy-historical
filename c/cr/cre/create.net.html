@@ -1,598 +1,679 @@
-<!--The following is the downloaded HTML source of the create.net privacy policy that was archived on 2016-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161109152545id_/https%3A//www.create.net/privacy.phtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the create.net privacy policy that was archived on 2018-08-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180823032428id_/https%3A//www.create.net/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="js not-ie details" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en"><head>
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"><script type="text/javascript" async="" src="https://widget.intercom.io/widget/frmvy6h1"></script><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAHU1ZTGwsEXFFRDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-		<!-- Modernizr JS -->
-		<script type="text/javascript" async="" src="https://widget.intercom.io/widget/frmvy6h1"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>/*! modernizr 3.3.1 (Custom Build) | MIT *
- * http://modernizr.com/download/?-details-setclasses !*/
-!function(e,n,t){function s(e,n){return typeof e===n}function o(){var e,n,t,o,a,i,r;for(var l in d)if(d.hasOwnProperty(l)){if(e=[],n=d[l],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(t=0;t<n.options.aliases.length;t++)e.push(n.options.aliases[t].toLowerCase());for(o=s(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)i=e[a],r=i.split("."),1===r.length?Modernizr[r[0]]=o:(!Modernizr[r[0]]||Modernizr[r[0]]instanceof Boolean||(Modernizr[r[0]]=new Boolean(Modernizr[r[0]])),Modernizr[r[0]][r[1]]=o),f.push((o?"":"no-")+r.join("-"))}}function a(e){var n=p.className,t=Modernizr._config.classPrefix||"";if(u&&(n=n.baseVal),Modernizr._config.enableJSClass){var s=new RegExp("(^|\\s)"+t+"no-js(\\s|$)");n=n.replace(s,"$1"+t+"js$2")}Modernizr._config.enableClasses&&(n+=" "+t+e.join(" "+t),u?p.className.baseVal=n:p.className=n)}function i(){return"function"!=typeof n.createElement?n.createElement(arguments[0]):u?n.createElementNS.call(n,"http://www.w3.org/2000/svg",arguments[0]):n.createElement.apply(n,arguments)}function r(){var e=n.body;return e||(e=i(u?"svg":"body"),e.fake=!0),e}function l(e,t,s,o){var a,l,f,d,c="modernizr",u=i("div"),h=r();if(parseInt(s,10))for(;s--;)f=i("div"),f.id=o?o[s]:c+(s+1),u.appendChild(f);return a=i("style"),a.type="text/css",a.id="s"+c,(h.fake?h:u).appendChild(a),h.appendChild(u),a.styleSheet?a.styleSheet.cssText=e:a.appendChild(n.createTextNode(e)),u.id=c,h.fake&&(h.style.background="",h.style.overflow="hidden",d=p.style.overflow,p.style.overflow="hidden",p.appendChild(h)),l=t(u,e),h.fake?(h.parentNode.removeChild(h),p.style.overflow=d,p.offsetHeight):u.parentNode.removeChild(u),!!l}var f=[],d=[],c={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var t=this;setTimeout(function(){n(t[e])},0)},addTest:function(e,n,t){d.push({name:e,fn:n,options:t})},addAsyncTest:function(e){d.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=c,Modernizr=new Modernizr;var p=n.documentElement,u="svg"===p.nodeName.toLowerCase(),h=c.testStyles=l;Modernizr.addTest("details",function(){var e,n=i("details");return"open"in n?(h("#modernizr details{display:block}",function(t){t.appendChild(n),n.innerHTML="<summary>a</summary>b",e=n.offsetHeight,n.open=!0,e=e!=n.offsetHeight}),e):!1}),o(),a(f),delete c.addTest,delete c.addAsyncTest;for(var m=0;m<Modernizr._q.length;m++)Modernizr._q[m]();e.Modernizr=Modernizr}(window,document);
-</script>
+          <title>Privacy and Cookies Policy | Create</title>
+              <meta name="description" content="Here is the best place for any queries about how we protect our customers information, data protection and how cookies affects our business.">
+              <meta name="keywords" content="build a website, ecommerce store, create, design, manage your own site, build a website, online shop, online business">
+    
+    <!-- Icons -->
+    <link href="/favicon.ico" rel="icon">
+    <link href="/img/fav-16x16.png" rel="icon" type="image/png">
+    <link href="/img/create-icon/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="/img/create-icon/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+    <link href="/img/create-icon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+    <link href="/img/create-icon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+    <link href="/img/create-icon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+    <link href="/img/create-icon/icon-hires.png" rel="icon" sizes="192x192">
+    <link href="/img/create-icon/icon-normal.png" rel="icon" sizes="128x128">
 
-			<script src="//cdn.optimizely.com/js/2205490679.js"></script>
+    <link rel="canonical" href="https://www.create.net/about/privacy-policy">
+    <meta name="wot-verification" content="a1128ee1a8c4a0b9c9a8">
+<meta name="p:domain_verify" content="ce6b3931bbebf22cff5f9ddd92f039f3">
+<meta name="p:domain_verify" content="b5c5e8f520e48c31fb429240e03873c2">
+<meta name="google-site-verification" content="dRv4jPSu93iK9vYEw0RzvRK1KV7BPGq1zkvaYL4Iygw">
 
-	
+<meta property="og:title" content="Create Your Own Website | Ecommerce Platform UK | Create">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.create.net/about/privacy-policy">
+<meta property="og:site_name" content="Create">
+<meta property="og:description" content="Create your own beautiful, responsive website or online shop, using easy drag and drop features, with a variety of stunning templates and an attentive customer support team.">
+<meta property="og:image" content="https://www.create.net/_assets/public/img/logo-schema.jpg">
 
-		<title>Our privacy and cookies policy</title>
+    <!-- Web Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Ubuntu:400,700" rel="stylesheet">
 
-		<meta charset="utf-8">
+    <!-- Vendor Styles -->
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="/vendor/animate.min.css" rel="stylesheet" type="text/css">
+        <link href="/vendor/themify/themify.css" rel="stylesheet" type="text/css">
+    <link href="/vendor/scrollbar/scrollbar.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- Styles -->
+    <link href="/css/style.css?id=765a413da6d9492d1e00" rel="stylesheet" type="text/css">
+    <link href="/css/global/global.css?id=50782873ef6bf775a114" rel="stylesheet" type="text/css">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!--[if lt IE 9]>
+  		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  	<![endif]-->
 
-		<meta name="description" content="Want to make a website and ecommerce store? Use Create to design, build and manage your own successful website and online shop.">
-		<meta name="keywords" content="build a website, ecommerce store, create, design, manage your own site, build a website, online shop, online business">
+    <!-- Hotjar Tracking Code for Create.net Website -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:2871,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="https://static.hotjar.com/c/hotjar-2871.js?sv=6"></script>
 
-		<!-- Icons etc -->
-		<link href="/_assets/public/img/fav-16x16.png" rel="icon" type="image/png">
-		<link href="/_assets/public/img/create-icon/apple-touch-icon.png" rel="apple-touch-icon">
-		<link href="/_assets/public/img/create-icon/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
-		<link href="/_assets/public/img/create-icon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
-		<link href="/_assets/public/img/create-icon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
-		<link href="/_assets/public/img/create-icon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
-		<link href="/_assets/public/img/create-icon/icon-hires.png" rel="icon" sizes="192x192">
-		<link href="/_assets/public/img/create-icon/icon-normal.png" rel="icon" sizes="128x128">
-
-
-		<link rel="canonical" href="https://www.create.net/privacy.phtml">
-
-		<meta name="wot-verification" content="a1128ee1a8c4a0b9c9a8">
-		<meta name="p:domain_verify" content="ce6b3931bbebf22cff5f9ddd92f039f3">
-		<meta property="og:title" content="Our privacy and cookies policy">
-		<meta property="og:type" content="company">
-		<meta property="og:url" content="https://www.create.net/privacy.phtml">
-		<meta property="og:site_name" content="Create">
-		<meta property="og:description" content="Want to make a website and ecommerce store? Use Create to design, build and manage your own successful website and online shop.">
-		<meta property="og:image" content="https://www.create.net/_assets/public/img/logo-schema.jpg">
-		<meta name="p:domain_verify" content="b5c5e8f520e48c31fb429240e03873c2">
-		<meta name="google-site-verification" content="dRv4jPSu93iK9vYEw0RzvRK1KV7BPGq1zkvaYL4Iygw">
-
-		<!-- TODO build a shared version of html5shiv -->
-		<!--[if lt IE 9]>
-			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-
-
-				<!--TODO: REMOVE THIS AGAIN-->
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<!--[if lt IE 7]><script defer type="text/javascript" src="/js/pngfix.js"></script><![endif]-->
-
-
-<!-- Webfont loader -->
-
-<!-- Google Content Experiments -->
-<!-- End Google Content Experiments -->
 
 <!-- Google Analytics -->
 <script>
-
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
 	ga('create', 'UA-227265-11', { cookieDomain: 'create.net', legacyCookieDomain: 'create.net' });
 	ga('create', 'UA-227265-23', { cookieDomain: 'create.net', legacyCookieDomain: 'create.net', name: 'createcombined' } );
-
 	ga('require', 'displayfeatures');
 	ga('require', 'linkid', 'linkid.js');
-
 	ga('createcombined.require', 'displayfeatures');
 	ga('createcombined.require', 'linkid', 'linkid.js');
-		ga('send', 'pageview');
-	ga('createcombined.send', 'pageview');
-
+		ga('send', 'pageview' );
+	ga('createcombined.send', 'pageview' );
 	function trackOutboundLink(link, category, action) {
-
 		try {
 			ga('send', 'event', { eventCategory: category, eventAction: action });
 			ga('createcombined.send', 'event', { eventCategory: category, eventAction: action });
 		} catch(err){}
-
 		setTimeout(function() {
 			document.location.href = link.href;
 		}, 100);
-
 	}
-
 </script>
 <!-- End Google Analytics -->
 
+<!-- Bing! -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5549030"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5549030&Ver=2" height="0" width="0" /></noscript>
+<!-- Bong! -->
 
-<script>(function() {
-var _fbq = window._fbq || (window._fbq = []);
-if (!_fbq.loaded) {
-var fbds = document.createElement('script');
-fbds.async = true;
-fbds.src = '//connect.facebook.net/en_US/fbds.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(fbds, s);
-_fbq.loaded = true;
-}
-_fbq.push(['addPixelId', '689960184464896']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1645411655752450');
+fbq('track', 'PageView');
 </script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=689960184464896&amp;ev=PixelInitialized" /></noscript>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1645411655752450&ev=PageView&noscript=1"
+/></noscript>
 
+  </head>
+  <body class="">
+    <!-- Site Wrapper -->
+    <div class="s-wrapper">
 
+      <div class="s-wrapper__bg"></div>
 
-	
-	<!--[if lt IE 9]>
-	<link rel="stylesheet" href="/_assets/public/css/lt-ie9-style.css?v=1603233741" title="" type="text/css" media="screen" charset="utf-8">
-	<![endif]-->
+      <!-- Site Wrapper Page -->
+      <div class="s-wrapper__page">
 
-<script>(function(h,o,t,j,a,r){
-	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-	        h._hjSettings={hjid:2871,hjsv:5};
-	        a=o.getElementsByTagName('head')[0];
-	        r=o.createElement('script');r.async=1;
-	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-	        a.appendChild(r);
-	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');</script><script async="" src="//static.hotjar.com/c/hotjar-2871.js?sv=5"></script><link rel="stylesheet" type="text/css" href="https://create-cdn.net/_assets/public/core.min.css?101607071051" media="screen">
-
-	</head>
-	<body class="">
-
-			<!-- Nav -->
-		<div class="nav-wrapper--top">
-			<div class="inner-constraint">
-
-				<div itemscope="" itemtype="http://schema.org/Organization">
-					<a class="logo" href="/" id="top-nav__logo" itemprop="url">
-						<img class="logo__blue" src="/_assets/shared/core/create-logos/logo.svg" alt="Create Logo" itemprop="logo">
-						<img class="logo__white" src="/_assets/shared/core/create-logos/logo-white.svg" alt="">
-					</a>
-				</div>
-
-				<button class="nav-toggle-wrapper reset-button" id="js-dropdown-toggle">
-					<span class="nav-toggle-text">Menu</span>
-					<span class="i i-list nav-open"></span>
-					<span class="i i-cross nav-close"></span>
-				</button>
-
-				<nav class="nav-wrapper--links">
-
-					<ul class="nav-main reset-list">
-													<li class="nav-main__item ">
-								
-									<a href="/themes.phtml" class=" nav-main__item__link">
-										Themes									</a>
-
-															</li>
-													<li class="nav-main__item ">
-								
-									<a href="/examples.phtml" class=" nav-main__item__link">
-										Success Stories									</a>
-
-															</li>
-													<li class="nav-main__item ">
-								
-									<a href="/features-pricing.phtml" class=" nav-main__item__link">
-										Features &amp; Pricing									</a>
-
-															</li>
-													<li class="nav-main__item nav-main__item--has-sub js-dropdown-sub-nav">
-								
-									<a class="sub-item nav-main__item__link" href="#" aria-haspopup="true">Resources										<span class="i i-arrow-right--thin"></span>
-									</a>
-									<ul class="nav-main__dropdown" id="top-nav__dropdown">
-																					<li><a href="/blog.phtml" target="" class="nav-main__item__link">Blog</a></li>
-																					<li><a href="/support" target="" class="nav-main__item__link">Help and Guides</a></li>
-																					<li><a href="/contact.phtml" target="" class="nav-main__item__link">Contact</a></li>
-																					<li><a href="/web_designers_kit.phtml" target="" class="nav-main__item__link">Web Designer's Kit</a></li>
-																					<li><a href="/subscribe-newsletter.phtml" target="" class="nav-main__item__link">Create News</a></li>
-																			</ul>
-
-															</li>
-												<li class="nav-main__item">
-							<a href="https://login.create.net/login.phtml" onclick="trackOutboundLink(this, 'Outbound Link', 'Login'); event.preventDefault(); return false;" class=" nav-main__item__link">Log in</a>
-						</li>
-						<li class="nav-main__item">
-							<a href="/signup.phtml" class="button button-primary">Start your free trial</a>
-						</li>
-
-					</ul>
-
-				</nav>
-
-
-
-			</div><!-- end inner-constraint -->
-		</div><!-- end nav-wrapper -->
-
-	
-
-<!-- Hero -->
-<section id="hero" class="hero border">
-	<div class="group">
-		<h1 class="heading heading--primary text-align--center">Privacy and cookies policy</h1>
-			</div>
-</section>
-<!-- / Hero -->
-
-<div class="inner-constraint">
-  <div class="content-section">
-    <div class="grid">
-        <div class="grid__item">
-
-                <h2 class="heading heading--primary">The Privacy Policy below describes how we treat personal information when you use our products and services.</h2>
-
-                <p>Create Internet Ltd a company registered in England and Wales under company number 03821624 and with our registered office at Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN  ("We") are committed to protecting and respecting your privacy.</p>
-
-                <p>This policy together with any other documents referred to on it sets out the basis upon which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
-
-                <p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Create Internet Ltd of Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN.</p>
-
-                <p><strong>Information we may collect from you</strong></p>
-
-                <p>We may collect and process the following data about you:</p>
-                <ul class="bullets">
-                    <li>
-                      Information that you provide on www.create.net (our "Site"). This includes information provided at the time of registering to use our Site, whilst subscribing to our services and when posting material or requesting further services. We may also ask you for information when you report a problem with our Site.
-                    </li>
-                    <li>
-                      We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-                    </li>
-                    <li>
-                      Details of transactions you carry out through our Site and of the fulfilment of your orders.
-                    </li>
-                    <li>
-                      Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.
-                    </li>
-                    <li>
-                      If you contact us, we may keep a record of that correspondence.
-                    </li>
-                </ul>
-
-                <p><strong>IP addresses and cookies</strong></p>
-
-                <p>
-                  We may collect information about your computer, including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-                </p>
-                <p>
-                  Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. By continuing to browse the Site, you are agreeing to our use of cookies.
-                </p>
-                <p>
-                  A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree.
-                </p>
-
-                <p><strong>We use the following cookies:</strong></p>
-
-                <ul class="bullets">
-                    <li>
-                      Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas of our Site, use a shopping cart or make use of e-billing services.
-                    </li>
-                    <li>
-                      Analytical / performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our Site when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily.
-                    </li>
-                    <li>
-                      Functionality cookies. These are used to recognise you when you return to our Site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-                    </li>
-                    <li>
-                      Targeting cookies. These cookies record your visit to our Site, the pages you have visited and the links you have followed. We will use this information to make our Site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
-                    </li>
-                </ul>
-
-                <p>
-                  Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised service. You can find more information about the cookies we use and the purposes for which we use them below:
-                </p>
-
-                <ul class="bullets">
-                    <li>
-                      To estimate our audience size and usage pattern.
-                    </li>
-                    <li>
-                      To store information about your preferences, and so allow us to customise our site according to your individual interests.
-                    </li>
-                    <li>
-                      To speed up your searches.
-                    </li>
-                    <li>
-                      To recognise you when you return to our Site.
-                    </li>
-                </ul>
-
-                <p><strong>Where we store your personal data</strong></p>
-
-                <p>
-                 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
-                </p>
-                <p>
-                  By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-                </p>
-                <p>
-                  Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential in accordance with our website Terms and Conditions which can be found at http://www.create.net/terms.phtml. We ask you not to share passwords with anyone and to inform us immediately if you think a third party may have access to your password.
-                </p>
-                <p>
-                  Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-                </p>
-
-                <p><strong>Uses made of the information</strong></p>
-
-                <p>We use information held about you in the following ways:</p>
-
-
-                <ul class="bullets">
-                    <li>
-                      To ensure that content from our Site is presented in the most effective manner for you and for your computer.
-                    </li>
-                    <li>
-                      To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-                    </li>
-                    <li>
-                      To carry out our obligations arising from any contracts entered into between you and us.
-                    </li>
-                    <li>
-                      To allow you to participate in interactive features of our service, when you choose to do so.
-                    </li>
-                    <li>
-                      To notify you about changes to our service.
-                    </li>
-                </ul>
-
-
-                <p>
-                  We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you.
-                </p>
-                <p>
-                  If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous dealings with you.
-                </p>
-                <p>
-                  If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-                </p>
-                <p>
-                  If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please <a href="/contact.phtml">contact us</a>.
-                </p>
-                <p>
-                  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in the BN1 postal area). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-                </p>
-
-            <p><strong>Disclosure of your information</strong></p>
-
-           <p>
-            We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159  of the UK Companies Act 2006.
-          </p>
-           <p>
-            We may disclose your personal information to third parties:
-          </p>
-
-           <ul class="bullets">
-            <li>
-              In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-            </li>
-            <li>
-              If Create Internet Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-            </li>
-            <li>
-              Who are domain name registries, in order to register domains on your behalf.
-            </li>
-            <li>
-               Who facilities payment (for example WorldPay).
-            </li>
-            <li>
-              If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce our terms and conditions and other agreements; or to protect the rights, property, or safety of Create Internet Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-            </li>
-            <li>
-                In addition to the above, we have pages on our Site which link to third party websites and which will require you to input data that will be received by a third party. If you consent to this, you will be asked to enter details in a Captcha code, to give your express consent.
-            </li>
-           </ul>
-
-
-
-           <p><strong>Your rights</strong></p>
-
-           <p>
-            You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by <a href="/contact.phtml">contacting us</a> at any time.
-          </p>
-           <p>
-            Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-          </p>
-
-           <p><strong>Access to information</strong></p>
-
-           <p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-
-           <p><strong>Changes to our privacy policy</strong></p>
-
-           <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
-
-           <p><strong>Contact</strong></p>
-
-           Your questions, comments and requests regarding this privacy policy are welcomed and can be sent to us through our <a href="contact.phtml">Contact Form</a>.<p></p>
-
-          </div><!--/#content-->
+        <!--===== HEADER =====-->
+                  <header class="navbar-fixed-top s-header js__header-sticky js__header-overlay">
+  <!-- Navbar -->
+  <div class="s-header__navbar">
+    <div class="s-header__container">
+      <div class="s-header__navbar-row">
+        <div class="s-header__navbar-row-col s-header__navbar-row-col-width--180">
+          <!-- Logo -->
+          <div class="s-header__logo">
+            <a href="/" class="s-header__logo-link">
+            <img class="s-header__logo-img s-header__logo-img-default" src="/img/logo.svg" alt="Create Logo">
+            <img class="s-header__logo-img s-header__logo-img-overlay" src="/img/logo-white.svg" alt="Create Logo">
+          </a>
+          </div>
+          <!-- End Logo -->
+        </div>
+        <div class="s-header-v2__navbar-row-col s-header__navbar-row-col--sub-menu">
+          <!-- Sub Menu -->
+          <ul class="s-header__sub-menu">
+            <li class="s-header__sub-menu-item"><a href="/features" class="s-header__sub-menu-link">Features</a></li>
+            <li class="s-header__sub-menu-item"><a href="/pricing" class="s-header__sub-menu-link">Pricing</a></li>
+            <li class="s-header__sub-menu-item"><a href="/success-stories" class="s-header__sub-menu-link">Examples</a></li>
+            <li class="s-header__sub-menu-item"><a href="javascript:void(0);" class="s-header__sub-menu-link js__trigger">More</a></li>
+            <li class="s-header__sub-menu-item" id="s-header__sub-menu-item--login"><a href="https://app.create.net/login.phtml" onclick="trackOutboundLink(this, 'Outbound Link', 'Login'); event.preventDefault(); return false;" class="s-header__sub-menu-link s-header__sub-menu-link--divider">Log In</a></li>
+            <li class="s-header__sub-menu-item" id="s-header__sub-menu-item--signup"><a href="/free-trial-signup" class="s-header__sub-menu-link s-header__sub-menu-link--highlight">Start Your Trial</a></li>
+          </ul>
+          <!-- End Sub Menu -->
+        </div>
+        <div class="s-header__navbar-row-col s-header__navbar-row-col--trigger">
+          <!-- Trigger -->
+          <a href="javascript:void(0);" class="s-header__trigger js__trigger">
+          <span class="s-header__trigger-icon"></span>
+          <svg x="0rem" y="0rem" width="3.125rem" height="3.125rem" viewBox="0 0 54 54">
+              <circle fill="transparent" stroke="#fff" stroke-width="1" cx="27" cy="27" r="25" stroke-dasharray="157 157" stroke-dashoffset="157"></circle>
+          </svg>
+        </a>
+          <!-- End Trigger -->
+        </div>
       </div>
-    </div><!--/#contentWrapper-->
+    </div>
+  </div>
+  <!-- End Navbar -->
+
+  <!-- Overlay -->
+  <div class="s-header-bg-overlay js__bg-overlay">
+    <!-- Nav -->
+    <nav class="s-header__nav js__scrollbar mCustomScrollbar _mCS_1 mCS-autoHide mCS_no_scrollbar" style="position: relative; overflow: visible;"><div id="mCSB_1" class="mCustomScrollBox mCS-minimal mCSB_vertical mCSB_outside" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+      <div class="g-hor-divider__dashed--white-opacity-lightest g-display-none--xxl"></div>
+      <div class="g-container--xs g-text-center--xs g-margin-t-0--xs g-margin-t-25--sm g-margin-b-20--xs">
+        <a href="https://app.create.net/login.phtml" onclick="trackOutboundLink(this, 'Outbound Link', 'Login'); event.preventDefault(); return false;" class="s-header__nav-cta-item">Log In</a>
+        <a href="/free-trial-signup" class="s-header__nav-cta-item s-header__nav-cta-item--highlight">Start Your Trial</a>
+      </div>
+      <div class="g-container--sm g-hor-divider__dashed--white-opacity-lightest g-display-none--xs g-display-block--xxl g-margin-b-25--xs g-margin-b-25--xs"></div>
+      <div class="container-fluid">
+        <!-- Menu List -->
+        <ul class="list-unstyled s-header__nav-menu">
+          <li class="s-header__nav-menu-item"><a href="/" class="s-header__nav-menu-link s-header__nav-menu-link-divider">Home</a></li>
+          <li class="s-header__nav-menu-item"><a href="/success-stories" class="s-header__nav-menu-link s-header__nav-menu-link-divider" title="Examples">Examples</a></li>
+          <li class="s-header__nav-menu-item"><a href="/features" class="s-header__nav-menu-link s-header__nav-menu-link-divider" title="Features">Features</a></li>
+          <li class="s-header__nav-menu-item"><a href="/pricing" class="s-header__nav-menu-link s-header__nav-menu-link-divider" title="Pricing">Pricing</a></li>
+          <li class="s-header__nav-menu-item"><a href="/about" class="s-header__nav-menu-link s-header__nav-menu-link-divider">About Us</a></li>
+        </ul>
+        <!-- End Menu List -->
+
+        <!-- Menu List -->
+        <ul class="list-unstyled s-header__nav-menu">
+          <li class="s-header__nav-menu-item"><a href="/support" class="s-header__nav-menu-link s-header__nav-menu-link-divider">Help &amp; Guides</a></li>
+          <li class="s-header__nav-menu-item"><a href="/features/web-designers-kit" class="s-header__nav-menu-link s-header__nav-menu-link-divider">Web Designer's Kit</a></li>
+          <li class="s-header__nav-menu-item"><a href="/blog" class="s-header__nav-menu-link s-header__nav-menu-link-divider" title="Blog">Blog</a></li>
+          <li class="s-header__nav-menu-item"><a href="/contact-us" class="s-header__nav-menu-link s-header__nav-menu-link-divider">Contact Us</a></li>
+          <li class="s-header__nav-menu-item"><a href="/domains" class="s-header__nav-menu-link s-header__nav-menu-link-divider" title="Blog">Domains</a></li>
+        </ul>
+        <!-- End Menu List -->
+      </div>
+    </div></div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-minimal mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; height: 0px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></nav>
+    <!-- End Nav -->
+
+    <!-- Social -->
+    <div class="s-header__social">
+      <ul class="list-inline s-header__action">
+        <li class="s-header__action-item">
+          <a class="s-header__action-link" href="https://www.facebook.com/create" target="_blank" title="Create Facebook">
+            <i class="g-padding-r-5--xs ti-facebook"></i>
+            <span class="g-display-none--xs g-display-inline-block--md">Facebook</span>
+          </a>
+        </li>
+        <li class="s-header__action-item">
+          <a class="s-header__action-link" href="https://twitter.com/create" target="_blank" title="Create Twitter">
+            <i class="g-padding-r-5--xs ti-twitter"></i>
+            <span class="g-display-none--xs g-display-inline-block--md">Twitter</span>
+          </a>
+        </li>
+        <li class="s-header__action-item">
+          <a class="s-header__action-link" href="https://www.instagram.com/createdotnet" target="_blank" title="Create Instagram">
+            <i class="g-padding-r-5--xs ti-instagram"></i>
+            <span class="g-display-none--xs g-display-inline-block--md">Instagram</span>
+          </a>
+        </li>
+        <li class="s-header__action-item">
+          <a class="s-header__action-link" href="https://www.linkedin.com/company/880521" target="_blank" title="Create LinkedIn">
+            <i class="g-padding-r-5--xs ti-linkedin"></i>
+            <span class="g-display-none--xs g-display-inline-block--md">LinkedIn</span>
+          </a>
+        </li>
+        <li class="s-header__action-item">
+          <a class="s-header__action-link" href="https://www.youtube.com/user/createdotnet" target="_blank" title="Create Youtube">
+            <i class="g-padding-r-5--xs ti-youtube"></i>
+            <span class="g-display-none--xs g-display-inline-block--md">Youtube</span>
+          </a>
+        </li>
+        <li class="s-header__action-item">
+          <a class="s-header__action-link" href="https://www.pinterest.co.uk/createdotnet" target="_blank" title="Create Pinterest">
+            <i class="g-padding-r-5--xs ti-pinterest"></i>
+            <span class="g-display-none--xs g-display-inline-block--md">Pinterest</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <!-- End Social -->
+  </div>
+  <!-- End Overlay -->
+</header>
+                <!--===== END HEADER =====-->
+
+        <!--===== HERO BLOCK =====-->
+        <!--===== HERO BLOCK =====-->
+            <div class="s-waves__bubbles parallax-window js__parallax-window--bubbles" style="background-position: 50% 0px;">
+  <div class="s-waves-block g-padding-y-130--xs g-padding-y-200--xxl">
+    <div class="container g-container--sm">
+      <div class="row g-margin-b-40--md g-margin-b-80--lg wow pulse animated" data-wow-duration=".3" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: pulse;">
+        <div class="col-xs-12 g-text-center--xs">
+          <h1 class="g-font-size-30--xs g-font-size-40--lg g-margin-b-15--xs g-margin-b-35--lg">Privacy &amp; Cookies Policy</h1>
+          <p class="g-margin-b-0--xs"></p>
+                            </div>
+      </div>
+    </div>
+          <div class="s-scroll-to-section g-display-none--xs g-display-block--lg">
+        <a href="#js__scroll-to-section">
+          <span class="s-icon s-icon--md s-icon--white-bg g-radius--circle ti-angle-double-down"></span>
+        </a>
+      </div>
+      </div>
 </div>
+        
+  <div class="s-waves__curve g-bg-color--warm-gray-light"></div>
+        <!--===== END HERO BLOCK =====-->
 
-						<!-- Sign up form -->
-<section class="sign-up-form border">
-	<form class="group grid grid--center">
-		<h3>Create your store now with a free 30 day trial.</h3>
-		<a href="/signup.phtml" class="button button-primary" id="signupbar1">Start your free trial</a>
-	</form>
-</section>
-<!-- / sign up form -->			<!-- Footer -->
-			<footer class="footer">
+        <!--===== PAGE CONTENT =====-->
+        <div id="js__scroll-to-section">
+            <!-- Section -->
+  <div class="s-section g-bg-color--warm-gray-light">
+    <div class="s-section-curve s-section-curve--bottom"></div>
+    <div class="container g-container--sm g-padding-y-80--xs g-padding-y-120--xxl  wow fadeIn animated" data-wow-duration=".3" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
 
-				<div class="footer__featured">
-					<div class="inner-constraint">
-						<div class="grid">
-							<div class="grid__item one-third lap--one-fifth desk--one-fifth">
-								<img src="https://create-cdn.net/_assets/public/img/guardian-logo.jpg" class="featured-logo" alt="Guardian newspaper logo.">							</div><!--
-							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
-								<img src="https://create-cdn.net/_assets/public/img/independent-logo.jpg" class="featured-logo" alt="Independent newspaper logo.">							</div><!--
-							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
-								<img src="https://create-cdn.net/_assets/public/img/mashable-logo.png" class="featured-logo" alt="Mashable logo.">							</div><!--
-							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
-								<img src="https://create-cdn.net/_assets/public/img/SUL-logo.jpg" class="featured-logo" alt="Start Up Loans logo.">							</div><!--
-							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
-								<img src="https://create-cdn.net/_assets/public/img/argus-logo.jpg" class="featured-logo" alt="Argus newspaper logo.">							</div>
-						</div>
-					</div>
-				</div>
+        <p>Create Internet Ltd, a company registered in England and Wales under company number 03821624 and with our registered office at Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN ("We" or “Us”) are committed to protecting and respecting your privacy. For the purpose of this Policy, Create Internet Ltd is the data controllerand where applicable, the data processor of your information. </p>
 
-				<div class="footer__nav">
-					<div class="inner-constraint">
-						<div class="grid">
-							<section class="grid__item one-quarter palm--one-half">
-								<h3>Product</h3>
-								<ul id="footer__product">
-									<li><a href="/signup.phtml">30 Day Free Trial</a></li>
-									<li><a href="/features-pricing.phtml">Pricing</a></li>
-									<li><a href="/api.phtml">Create API</a></li>
-									<li><a href="/accepting-credit-cards.phtml">Ecommerce Payments</a></li>
-									<li><a href="/examples.phtml">Examples</a></li>
-								</ul>
-							</section><!--
-							--><section class="grid__item one-quarter palm--one-half">
-								<h3>Features</h3>
-								<ul id="footer__features">
-									<li><a href="/themes.phtml">Themes</a></li>
-									<li><a href="/create-payments.phtml">Create Payments</a></li>
-									<li><a href="/facebook-shop.phtml">Facebook Shop</a></li>
-									<li><a href="/web_designers_kit.phtml">Web Designer's Kit</a></li>
-									<li><a href="/affiliate.phtml">Affiliate Program</a></li>
-								</ul>
-							</section><!--
-							--><section class="grid__item one-quarter palm--one-half">
-								<h3>About Create</h3>
-								<ul id="footer__about">
-									<li><a href="/who.phtml">Who We Are</a></li>
-									<li><a href="/examples.phtml">Examples</a></li>
-									<li><a href="/create-event/">Create Meetups</a></li>
-									<li><a href="/press.phtml">Press Enquiries</a></li>
-								</ul>
-							</section><!--
-							--><section class="grid__item one-quarter palm--one-half">
-								<h3>Support</h3>
-								<ul id="footer__support">
-									<li><a href="/support">Help Centre</a></li>
-									<li><a href="/webinar.phtml">Webinars</a></li>
-									<li><a href="/blog.phtml">Create Blog</a></li>
-									<li><a href="https://login.create.net/community/index.php" target="_blank">Community Forum</a></li>
-									<li><a href="/contact.phtml">Contact Us</a></li>
-								</ul>
-							</section>
-						</div><!-- end .grid -->
-					</div>
-				</div>
+        <p>This Policy together with any other documents referred to on it sets out the basis of:</p>
 
-				<div class="footer__social">
-					<div class="inner-constraint">
+        <ul>
+          <li>What personal data we collect and why</li>
+          <li>What we do with your personal data</li>
+          <li>How we secure your personal data</li>
+          <li>How you can change or delete your personal data</li>
+        </ul>
 
-						<ul class="">
-							<li>
-								<a class="social-icon" alt="facebook" href="https://www.facebook.com/create" target="_blank">
-									<span class="i i-facebook"></span>
-									<span class="utility-off-screen">Facebook</span>
-								</a>
-							</li>
-							<li>
-								<a class="social-icon" alt="twitter" href="https://twitter.com/create" target="_blank">
-									<span class="i i-twitter"></span>
-									<span class="utility-off-screen">Twitter</span>
-								</a>
-							</li>
-							<li>
-								<a class="social-icon" alt="instagram" href="https://instagram.com/createdotnet" target="_blank">
-									<span class="i i-instagram"></span>
-									<span class="utility-off-screen">Instagram</span>
-								</a>
-							</li>
-							<li>
-								<a class="social-icon" alt="googleplus" href="https://plus.google.com/104454595827661359417/about" target="_blank">
-									<span class="i i-googleplus"></span>
-									<span class="utility-off-screen">Google Plus</span>
-								</a>
-							</li>
-							<li>
-								<a class="social-icon" alt="linkedin" href="https://www.linkedin.com/company/880521" target="_blank">
-									<span class="i i-linkedin"></span>
-									<span class="utility-off-screen">Linkedin</span>
-								</a>
-							</li>
-							<li>
-								<a class="social-icon" alt="youtube" href="https://www.youtube.com/createdotnet" target="_blank">
-									<span class="i i-youtube"></span>
-									<span class="utility-off-screen">Youtube</span>
-								</a>
-							</li>
-							<li>
-								<a class="social-icon" alt="pinterest" href="https://www.pinterest.com/createdotnet" target="_blank">
-									<span class="i i-pinterest"></span>
-									<span class="utility-off-screen">Pinterest</span>
-								</a>
-							</li>
-						</ul>
-
-					</div>
-				</div>
-
-				<div class="footer__small-print">
-					<div class="inner-constraint">
-
-						<div class="grid">
-							<div class="grid__item one-sixth">
-								<a class="footer__logo" id="footer__logo" href="/">Create</a>
-							</div><!--
-							--><div class="grid__item four-sixths palm--one-whole lap--five-sixths desk--four-sixths">
-								<p class="copyright" id="footer__copyright">
-									© Copyright 2001 - 2016 Create. All Rights Reserved. <a href="/privacy.phtml">Privacy</a> &amp; <a href="/terms.phtml">Terms of Use</a>.
-								</p>
-							</div><!--
-							--><div class="grid__item one-sixth palm--one-whole lap--one-sixth desk--one-sixth nominet-logo">
-								<img src="https://create-cdn.net/_assets/public/component/partner-logos/nominet.png" alt="Nominet logo.">							</div>
-						</div>
-
-					</div>
-				</div>
-
-			</footer>
-
-							<!--[if (IE 9)|(IE 8)  ]>
-					<script src="/_assets/shared/polyfills/classlist.min.js"></script>
-				<![endif]-->
-			<script src="https://create-cdn.net/_assets/public/component/web-font-loader/web-font-loader.min.js?b981e1aedbfefe5ea422265d06ab4de8"></script><script>
-		WebFont.load({
-			custom: {
-				families: ['magallanes:n7', 'pt-serif']
-			}
-		});
-	</script><script src="https://create-cdn.net/_assets/public/component/toggle/toggle.min.js?65ac6a75877f8a97dfe2b8c52e520cae"></script><script>
-				function gaTrackEvent( category, action, label, value ){
-					try {
-						ga('send', 'event', category, action, label, value);  // value is a number.
-						ga('createcombined.send', 'event', category, action, label, value);  // value is a number.
-					} catch(err){}
-				}
-			</script>
-
-				<!-- Twitter universal website tag code -->
-		<script>
-		!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-		},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-		a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-		// Insert Twitter Pixel ID and Standard Event data below
-		twq('init','nvobr');
-		twq('track','PageView');
-		</script>
-		<!-- End Twitter universal website tag code -->
-
-		<!-- Intercom -->
-		<script>
-		  window.intercomSettings = {
-		    app_id: "frmvy6h1"
-		  };
-		</script>
-		<script>
-			(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/frmvy6h1';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
-		</script>
+        <p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
 
 
-		
+
+
+        <h4 class="g-padding-t-20--xs">Definitions</h4>
+
+        <p><strong>‘Site’</strong> - means the public area of create.net.</p>
+
+        <p><strong>‘Service’</strong> - means the restricted area of create.net accessible via registration.</p>
+
+        <p><strong>‘User’</strong> - means a person who uses our Site or has registered to use our Service.</p>
+
+        <p><strong>‘Personal Data’</strong> - means any information that can personally identify an individual. </p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">What Information We Collect</h4>
+
+        <p>The legal basis in which we process information we collect is in order for us to provide the Service outlined in our <a href="https://www.create.net/about/terms-and-conditions" target="_blank">Terms and Conditions</a> and is in our (Create’s) legitimate interests which are further explained in ‘How We Use The Information Collected’ section of this Policy. </p>
+
+        <p>We may collect and process various forms of information when you use our Site or Service:</p>
+
+          <p><strong>‘User-Provided’ Information</strong> - When you use our Site or Service, you may provide Personal Data and we as a result, may collect this. Personal data is any form of information that can identify an individual for example, name, email address, mailing address, and credit card or other billing information. Examples of when this information may be provided include, but are not limited to, when you register to our site, subscribe to our services, complete surveys you have consented to and when you have contacted us. </p>
+
+          <p><strong>‘Automatically Collected’ Information</strong> - If you use our Site or Service we may automatically collect information about your computer, including, where available, your IP address, operating system and browser type. We achieve this by using cookies and other forms of technology. All of the information that is automatically collected is statistical data about our Users browsing actions and patterns. Some of this information is stored for security purposes so we can alert you of any suspicious activity on your account. </p>
+
+          <p><strong>‘User Collected’ Information</strong> - We may collect personal data to ensure full functionality of the features provided depending on how you, the User, use our Service. For example, we may store names, mailing addresses and contact numbers (amongst other information) of your customers so you can can fulfil any orders that are placed through our Service. For this purpose, Create Internet Ltd is the data processor. Each User is responsible for providing notice to their customers or users detailing what Personal Data may be stored and processed through our Service, and the reasons for doing so. </p>
+
+          <p><strong>‘Third-Party’ Information</strong> - Integrations from third-party services available through our Service will give us access to certain personal data in order for us to provide full functionality of the respective integration. For example, the eBay integration tool will give us access to your name, email and other personal information required by the service. Certain integrations may also require us to receive and store data of your customers or users depending on the functionality of the service. By agreeing to this Policy, you authorise us to access and store any Personal Data, including that of your users or customers, that may be required. As mentioned above, each User is responsible for providing notice to their customers or users detailing what Personal Data may be stored and processed through our Service, and the reasons for doing so. We will only have access and thus use any Personal Data that is essential and will not disclose any of the information shared via these integrations. Please be aware that each third-party service will have their own privacy policy so be sure to check with each service for exactly what information they make available to us. </p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">How We Use The Information Collected</h4>
+
+        <p>We use the information that we collect in a variety of ways during the provision of our services and operation of our business, including the following:</p>
+
+          <h5 class="g-padding-t-10--xs">Operations</h5>
+          <ul>
+            <li>To ensure that all the features we provide are available, functional and maintained as per the specifications advertised</li>
+            <li>To carry out our obligations arising from any contracts entered between you and us</li>
+            <li>To carry out any business essential administrative processes</li>
+            <li>To allow you to participate in interactive features of our Service, when you choose to do so</li>
+            <li>To enhance the Service we provide by developing new features, and improving functionality of existing features</li>
+          </ul>
+          <h5 class="g-padding-t-10--xs">Communications</h5>
+          <ul>
+            <li>To enable our team to provide support to Users when requested or required to do so</li>
+            <li>Investigate any issues that arise from using our Service</li>
+            <li>To notify you of any changes to our Service</li>
+            <li>To provide any information you have requested or that we feel may be of genuine interest to you. These include updates about the services we offer, promotions and general business information which may or may not be connected to third parties we work with. You have the right to opt-out of receiving any promotional information as detailed below under ‘Your Rights’ of this policy. </li>
+          </ul>
+
+          <h5 class="g-padding-t-10--xs">Cookies </h5>
+          <p>A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised Service. By using our Site or Service, you agree to the use of cookies. You can find more information about the cookies we use and the purposes for which we use them below:<br></p>
+
+          <p>We use the following cookies:<br></p>
+
+          <ul>
+
+            <li><strong>Strictly Necessary cookies</strong> - These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas of our Site, use a shopping cart or make use of e-billing services.</li><br>
+
+            <li><strong>Analytical / Performance cookies</strong> - They allow us to recognise and count the number of visitors and to see how visitors move around our Site when they are using it. These cookies enable us, Create, to monitor the performance of your site (page loading speeds, etc) to ensure that everything is functioning correctly. This also helps us to improve the way our Site works, for example, by ensuring that Users are finding what they are looking for easily. </li><br>
+
+            <li><strong>Functionality cookies</strong> - These are used to recognise you when you return to our Site. This enables us to personalise our content for you. For example, greet you by name and remember your preferences within the application. </li><br>
+
+            <li><strong>Targeting cookies</strong> - These cookies record your visit to our Site, the pages you have visited and the links you have followed. We will use this information to make our Site and the advertising displayed on it more relevant to your interests.
+            We may also share this information with third parties for this purpose.</li>
+
+          </ul>
+
+          <p>You can find out more information about cookies by visiting <a href="https://cookiesandyou.com/" target="_blank">https://cookiesandyou.com</a>.</p>
+
+
+          <h5 class="g-padding-t-10--xs">Analytics </h5>
+
+          <p>We use Google Analytics to measure traffic to our Site and understand how Users move around and use our Service. We use this information to enhance the Site and Service we provide to ensure that Users get the best experience possible. We also use Google Analytics to monitor aggregate information of your website which helps us monitor the performance of features we offer within our Service to ensure full functionality. The information gathered also enables us to improve these features in the future. All of the information we collect from Google Analytics is aggregate and will not be disclosed with any other third parties. </p>
+
+          <p>By agreeing to this Privacy Policy, you agree to the use of Google Analytics. Google may use the data collected to assess activity on our site. As Google is a separate entity to us, it has its own <a href="https://policies.google.com/privacy" target="_blank">privacy policy</a> which we recommend you review. Further information specific to Google analytics and how they secure the data collected can be found <a href="https://support.google.com/analytics/answer/6004245" target="_blank">here</a>. <br></p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">How We Store the Information We Collect </h4>
+
+          <p>When your information is submitted to us, we use it to ensure that appropriate security measures are in place to ensure your information is protected. These safeguards are implemented to ensure that personal data in our possession is not subject to any unlawful forms of processing which include accidental loss, unauthorised access or disclosure. Our Site and Service have Secure Socket Layer (SSL) encryption present amongst other general security measures such as firewalls and password protection to certain areas of our Service. Our employees are trained to ensure that all administrative processes are followed to ensure that your data is handled and processed accordingly. These measures are regularly reviewed to ensure that your personal data is being stored in the most secure way possible. <br><br>The data we collect from you may be processed, transferred and stored using various services integral to our business operations. These services may be based in locations outside of the European Economic Area (EEA) and only the essential and necessary data will be provided to them for them to fulfill their purpose. Data may also be processed by a member of staff operating outside of the EEA who works for us. Such staff may be engaged in, amongst other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data to us, you agree to this transfer, storing or processing. </p>
+
+          <p>We have ensured that all services we use to transfer, store and/or process data, in or outside EEA, have been verified to ensure that they are compliant with the European Union’s General Data Protection Regulation (GDPR) and any other respective legal framework that applies to that particular service.</p>
+
+          <p>Further to this, we will continually monitor said services to ensure compliance is still being achieved at any given time and the data they hold is stored in a safe and satisfactory manner using the most up to date security measures. We will, to the best of our knowledge, not process, store or transfer any data to any service that does not comply with the GDPR or have adequate security measures in place to protect your personal data. </p>
+
+          <p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">Disclosure Of Information</h4>
+
+          <p>We will only disclose your information to any third-parties as detailed in this Policy and under the following circumstances:<br></p>
+          <ul>
+
+            <li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+
+            <li>If Create Internet Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+
+            <li>To ourdomain name registries, in order to register domains on your behalf.</li>
+
+            <li>To facilitate payment (for example, Worldpay).</li>
+
+            <li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce our <a href="https://www.create.net/about/terms-and-conditions" target="_blank">Terms and Conditions</a> and other agreements; or to protect the rights, property, or safety of Create Internet Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+
+            <li>In order for them to provide you with information about goods and services which may be of interest to you.<br></li>
+
+          </ul>
+
+          <p>If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, you can do so by contacting <a href="mailto:support@create.net">support@create.net</a>. For more information, please see the ‘Your Rights’ section of this Policy.</p>
+
+          <p>We do not disclose any personally-identifiable information about individuals to our advertisers, but we may provide them with aggregate
+          information about our Users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience
+          they want to target (for example, men in the BN1 postal area). We may make use of the Personal Data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target
+          audience.<br></p>
+
+          <p>Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">Children's Privacy</h4>
+
+          <p>Protecting the privacy of children is particularly important in data protection. As stated in our <a href="https://www.create.net/about/terms-and-conditions" target="_blank">Terms and Conditions</a>, anyone under the age of 18 is not eligible to use our Service. We do not knowingly collect any Personal Data of anyone younger than 18 unless parental consent has been obtained prior to using our Service. If you are under the age
+          of 18 and we have not been provided clear parental consent, then please do not use or access our Service at any time.</p><p>
+
+          </p><p>If we become aware of any personal data that has been gathered on a child who is under the age of 18 without
+          parental consent, we will take the appropriate action to ensure it is removed from our system. <br>
+          </p>
+
+          <p>If you, as a parent or guardian, discover that your child (under the age of 18) is using our Service without your consent, please notify us at <a href="mailto:support@create.net">support@create.net</a> and will we take the relevant action to ensure the Personal Data of the child is erased.</p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">Access To Information &amp; Your Rights</h4>
+
+          <p>We are committed to protecting and respecting your privacy within your account. Under the GDPR, as a User of our Service, you have several rights in relation to your personal data which include:</p>
+
+          <p><strong>The right of access</strong> - you have the right to know exactly what information we hold about you and how we process it. <br></p>
+
+          <p><strong>The right of rectification</strong> - you have the right to have your personal data rectified if it is incorrect or incomplete. </p>
+
+          <p><strong>The right to be forgotten</strong> - You have the right to have your personal data removed or deleted without a specific reason for doing so. This is also known as ‘the right to erasure’. <br></p>
+
+          <p><strong>The right to restrict processing</strong> - an individual's right to block or suppress processing of their personal data. You have the right to block your personal data from being processed.<br></p>
+
+          <p><strong>The right to data portability</strong> - you have the right to request the personal data we hold about you for your own use. <br></p>
+
+          <p>As a User, you can access, change and delete certains types of data that we hold about you within your account. For more information on what personal information you can access in your account, please contact <a href="mailto:support@create.net">support@create.net</a>If you wish to exercise any of your rights in accordance with the GDPR, please contact us with the specific request using the contact details located under the ‘Contact Us’ section of this Policy. The action taken will be free of charge, provided in an easily accessible format (if applicable) and actioned within 30 days, where possible. </p>
+
+          <p>If you have concerns about the way we handle your personal data, you can contact the <a href="https://www.ico.org.uk/concerns/" target="_blank">ICO</a> or raise a complaint by contacting <a href="mailto:privacy@create.net">privacy@create.net</a>and we will investigate accordingly. <br></p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">Data Retention</h4>
+
+          <p>We will continue to retain any information collected from a User of our Service as long as the Users account is deemed active. When a Users account is deemed inactive, we will remove information as set out below:<br></p>
+          <ul>
+            <li>Content of trial accounts, that have been inactive (no log in) for 6 months, will be automatically deleted.</li>
+            <li>Content of closed accounts that were once subscribed to our Service, that have been inactive for 12 months, will be automatically deleted. <br></li>
+          </ul>
+
+          <p>We may still hold personal information of inactive accounts under the following conditions: <br></p>
+          <ul>
+            <li>If required to do so in order for us to continue our duties as a domain registrar or other domain hosting services</li>
+            <li>If required for financial records in line with UK accounting and taxation laws (for a period of at least 6 years, plus the current year)</li>
+            <li>If deemed necessary due to any legal obligations or regulatory investigations that may arise</li>
+          </ul>
+
+          <p>In regards to prospective employment with Create Internet Ltd, by applying for any vacancy through the various channels, you agree to the processing of your personal data that is required in order for us to complete the employment process accordingly and thus, agree to this Policy. If you’re unsuccessful in your application to work at Create Internet Ltd, we must retain your personal information for 6 months in accordance with UK employer law. After 6 months, we will remove your personal information unless explicitly agreed otherwise. As set out in the ‘Your Rights’ section of this policy, if you wish to correct or request deletion of your information before the 6 month time frame has expired, please contact <a href="mailto:support@create.net">support@create.net</a>with the relevant request. <br></p>
+
+
+
+
+        <h4 class="g-padding-t-20--xs">Contact Us</h4>
+
+          <p>You can contact us at any time if you have any questions, comments or requests regarding this Privacy Policy using the following information:<br><br>Unit 5 Westergate Business Centre, Westergate Road, Brighton, East Sussex, BN2 4QN.</p>
+
+          <p><a href="mailto:privacy@create.net">privacy@create.net</a> or <a href="mailto:support@create.net">support@create.net</a></p>
+
+          <p>Alternatively, you can use the <a href="https://www.create.net/contact-us" target="_blank">Contact Us</a> page on our site.</p>
+
+          <h4 class="g-padding-t-20--xs">Changes to this Policy</h4>
+
+          <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.<br></p>
+
+          <p><small>Last edited: 10/05/18</small></p>
+    </div>
+  </div>
+
+
+  <!-- End Section -->
+
+        </div>
+        <!--===== END PAGE CONTENT =====-->
+
+      </div>
+      <!-- End Site Wrapper Page -->
+
+      <!--===== PRE FOOTER WAVES =====-->
+              <div class="s-section s-waves-block s-waves-block--footer g-padding-y-80--xs g-padding-y-120--xxl">
+  <!-- Footer CTA -->
+  <div class="container g-container--sm">
+    <div class="row g-margin-b-30--xs g-margin-b-60--lg g-margin-b-80--xxl wow fadeIn" data-wow-duration=".3" data-wow-delay=".3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+      <div class="col-xs-12 g-text-center--xs">
+        <p class="s-section__sub-heading">Get Started Today</p>
+        <h3 class="s-section__heading g-margin-b-35--xs">Create your Website<br>with a 30 Day Free Trial</h3>
+        <a href="/free-trial-signup" role="button" class="s-btn s-btn--md s-btn--primary-bg">Start My Trial</a>
+      </div>
+    </div>
+  </div>
+  <!-- End Footer CTA -->
+</div>
+<div class="s-waves__curve" style="margin-bottom: 252px;"></div>
+            <!--===== END PRE FOOTER WAVES =====-->
+
+      <!--===== FOOTER =====-->
+              <!-- Credit to Jack Corpe for design input on making the footer better -->
+<footer class="s-section s-footer g-bg-color--dark js__reveal-footer" style="z-index: -100; position: fixed; bottom: 0px; width: 1366px;">
+  <!-- Links -->
+  <div class="g-hor-divider__dashed--white-opacity-lightest">
+    <div class="container g-padding-y-80--xs g-padding-y-120--xxl g-text-center--xs g-text-left--md">
+      <div class="row">
+        <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
+          <h3 class="s-section__sub-heading g-color--white">Product</h3>
+          <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
+            <li><a class="s-footer__link" href="/free-trial-signup">30 Day Free Trial</a></li>
+            <li><a class="s-footer__link" href="/pricing">Pricing</a></li>
+            <li><a class="s-footer__link" href="/features/api">Create API</a></li>
+            <li><a class="s-footer__link" href="/payment-gateways">Payment Gateways</a></li>
+            <li><a class="s-footer__link" href="/success-stories">Success Stories</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
+          <h3 class="s-section__sub-heading g-color--white">Features</h3>
+          <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
+            <li><a class="s-footer__link" href="/features/overview">Overview</a></li>
+            <li><a class="s-footer__link" href="/payment-gateways/create-payments">Create Payments</a></li>
+            <li><a class="s-footer__link" href="/features/facebook-shop">Facebook Shop</a></li>
+            <li><a class="s-footer__link" href="/features/web-designers-kit">Web Designer's Kit</a></li>
+            <li><a class="s-footer__link" href="/features/affiliates">Affiliate Program</a></li>
+            <li><a class="s-footer__link" href="/recommend-a-friend">Recommend A Friend</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
+          <h3 class="s-section__sub-heading g-color--white">About Us</h3>
+          <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
+            <li><a class="s-footer__link" href="/about">About Create</a></li>
+            <li><a class="s-footer__link" href="/about/meet-the-team">Meet The Team</a></li>
+            <li><a class="s-footer__link" href="/about/newsletter-signup">Newsletter Sign-Up</a></li>
+            <li><a class="s-footer__link" href="/about/press-enquiries">Press Enquiries</a></li>
+            <li><a class="s-footer__link" href="/about/careers">Careers</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
+          <h3 class="s-section__sub-heading g-color--white">Support</h3>
+          <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
+            <li><a class="s-footer__link" href="/support">Help Centre</a></li>
+            <li><a class="s-footer__link" href="/domains">Domains</a></li>
+            <li><a class="s-footer__link" href="/blog">Create Blog</a></li>
+            <li><a class="s-footer__link" href="/contact-us">Contact Us</a></li>
+          </ul>
+        </div>
+        <div class="col-md-4 col-sm-4">
+          <h3 class="s-section__sub-heading g-color--white">Company Details</h3>
+          <p class="g-color--white-opacity-light g-font-weight--300">© Copyright 2001
+            <script>
+              new Date().getFullYear() > 2001 && document.write("-" + new Date().getFullYear());
+            </script>-2020 Create. All Rights Reserved. <a href="/about/privacy-policy" class="g-color--white" title="Privacy">Privacy</a> &amp; <a href="/about/terms-and-conditions" class="g-color--white" title="Terms of Use">Terms of Use</a>. Registered
+            office: Unit 5 Westergate Business Centre, Westergate Road, Brighton, East Sussex, BN2 4QN.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Links -->
+
+  <!-- Copyright -->
+  <div class="container g-padding-y-50--xs">
+    <div class="row">
+      <div class="col-xs-4">
+        <a href="/">
+            <img class="g-width-100--xs g-height-auto--xs" src="/img/logo-white.svg" alt="Create Logo">
+        </a>
+      </div>
+      <div class="col-xs-8 g-text-right--xs">
+        <ul class="list-inline">
+          <li><a href="https://www.facebook.com/create" target="_blank" class="s-footer__link" title="Create Facebook"><i class="g-padding-r-5--xs ti-facebook"></i></a></li>
+          <li><a href="https://twitter.com/create" target="_blank" class="s-footer__link" title="Create Twitter"><i class="g-padding-r-5--xs ti-twitter"></i></a></li>
+          <li><a href="https://www.instagram.com/createdotnet/" target="_blank" class="s-footer__link" title="Create Instagram"><i class="g-padding-r-5--xs ti-instagram"></i></a></li>
+          <li><a href="https://www.linkedin.com/company/880521" target="_blank" class="s-footer__link" title="Create LinkedIn"><i class="g-padding-r-5--xs ti-linkedin"></i></a></li>
+          <li><a href="https://www.youtube.com/user/createdotnet" target="_blank" class="s-footer__link" title="Create Youtube"><i class="g-padding-r-5--xs ti-youtube"></i></a></li>
+          <li><a href="https://www.pinterest.co.uk/createdotnet/" target="_blank" class="s-footer__link" title="Create Pinterest"><i class="g-padding-r-5--xs ti-pinterest"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- End Copyright -->
+</footer>
+            <!--===== END FOOTER =====-->
+
+      <!-- Back To Top -->
+      <a href="javascript:void(0);" class="s-back-to-top js__back-to-top"></a>
+
+    </div>
+    <!-- End Site Wrapper -->
+
+    <!--========== JAVASCRIPT (Load javascripts at bottom, this will reduce page load time) ==========-->
+    <!-- Vendor -->
+    <script type="text/javascript" src="/js/vendor/vendor.js?id=5bfe9b0a045154cbfc40"></script>
+    
+    <!-- General Components and Settings -->
+    <script type="text/javascript" src="/js/global.js?id=6df930610ce141b683a6"></script>
+    
+    <script>
+function gaTrackEvent( category, action, label, value ){
+    try {
+        ga('send', 'event', category, action, label, value);  // value is a number.
+        ga('createcombined.send', 'event', category, action, label, value);  // value is a number.
+    } catch(err){}
+}
+</script>
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nvobr');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<!-- Intercom -->
+<script>
+window.intercomSettings = {
+app_id: "frmvy6h1"
+};
+</script>
+<script>
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/frmvy6h1';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+</script>
+
+    <!-- Cookie Notice -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<style>
+.cc-banner {
+    border-top: 1px solid #f0e9df;
+    margin: 0 auto;
+    max-width: 1600px;
+}
+</style>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#ffffff",
+      "text": "#757575"
+    },
+    "button": {
+      "background": "#73c146",
+      "text": "#ffffff"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "We use essential cookies to ensure you get the best user experience on our website. By continuing to use this site, you agree to the use of these cookies.",
+    "dismiss": "Agree",
+    "link": "Find out more",
+    "href": "https://www.create.net/about/privacy-policy"
+  }
+})});
+</script>
+    <!--========== END JAVASCRIPT ==========-->
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6126a1bc31","applicationID":"848039,828321","transactionName":"M1ZVNUQEWUZRUkdRWAocdgJCDFhbH0pDWUMMTg==","queueTime":0,"applicationTime":106,"atts":"HxFWQwweSkg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  <!-- End Body -->
+
 
 </body></html>
