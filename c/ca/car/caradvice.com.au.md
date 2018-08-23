@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404173031id_/https%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823151322id_/https%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,6 +90,8 @@ If you choose, you should be able to configure your computer so that it disables
 
 Please note however that turning off cookies will restrict your use of our website.
 
+We delete cookie information after 26 months.
+
 Upon viewing or subscribing to the Site, our servers will collect log file information such as your web request, IP address, browser type, number of clicks, domain names, pages viewed and other browsing information. This information is used to improve our Site and the Services we provide to you.
 
 Both the Site and our emails to you may also use ‘clear gifs’, which track your online usage patterns and the emails from us that you open. Please note that clear gifs do not collect any personal information from you.
@@ -148,3 +150,5 @@ If you are not satisfied with the outcome of our assessment of your complaint, y
 ### 13\. Contact us
 
 CarAdvice Network aims to provide an exceptional level of service to our customers at all times. If you have any questions, or believe that a violation of this Privacy Policy may have occurred, please email us at privacy@caradvice.com.au or call us on (02) 9002 5233 and we will endeavour to respond to you within 5 business days.
+
+_Updated at 23rd May 2018_
