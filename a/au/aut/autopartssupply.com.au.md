@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autopartssupply.com.au privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510100558id_/http%3A//www.autopartssupply.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopartssupply.com.au privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823081849id_/http%3A//www.autopartssupply.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
