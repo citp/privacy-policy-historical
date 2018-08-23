@@ -1,189 +1,178 @@
-> *The following text is extracted and transformed from the mindbodyonline.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719133015id_/https%3A//www.mindbodyonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbodyonline.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823115319id_/https%3A//www.mindbodyonline.com/privacy-policy) for the most accurate reproduction.*
 
 # MINDBODY: Privacy Policy
 
-_Last Updated: October 18, 2016_
+_Last Updated: August 21, 2018_
 
-At MINDBODY, we respect your privacy and are committed to maintaining your trust. This Privacy Policy describes our policies on the collection, use, and disclosure of information in connection with your use of our products and services, including our consumer-facing mobile application (“MINDBODY App”), our online business management software (“Software Service”), and any other MINDBODY products and services offered through any other websites and mobile applications that direct you to this Privacy Policy (collectively, the “Service”). When you access or use the Service, you agree to the terms and conditions of this Privacy Policy. 
+At MINDBODY, Inc. and our affiliates (“MINDBODY”), we respect your privacy and are committed to maintaining your trust.
 
-The following terms will have the meanings indicated below. Please refer to our [Terms of Service](https://www.mindbodyonline.com/terms-of-service) for any capitalized terms that are not defined in this policy. 
+[](https://privacy.truste.com/privacy-seal/validation?rid=410762eb-4f24-4e0b-bc94-86d0d4a8224b)
 
-“ **End User** ” means any individual who interacts with the Service, including users of our mobile applications such as the MINDBODY App, and individuals who book appointments, purchase services and otherwise interact with our Subscribers through the Service.
+This Privacy Policy describes our practices in connection with information that we collect through:
 
-“ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an individual, such as browser and device information, app usage data, information collected through cookies, pixel tags and other technologies, demographic information and other information provided by you, and aggregated information.
-
-“ **Personal Information** ” is information that identifies you as an individual or relates to an identifiable person, such as name, postal address, telephone number, email address, credit card number, and social media account ID. It does not include strings of code such as browser cookie IDs or mobile device identifiers.
-
-“ **Subscriber** ” is any business or entity that subscribes to (or otherwise accesses or uses) our Software Service. 
-
-We may collect information about you whenever you use the Service, for example:
-
-  * When you create an account on the MINDBODY App, we may ask for Personal Information such as your name, email, mailing address, social media account ID, and other information you may provide with your account. You can edit certain information in your account through the My Info tab in the app. 
-  * If you’re a customer of one of our Subscribers, we collect information about you when you interact with their business through the Service. For example, if you initiate a transaction with the Subscriber through the Service, such as an appointment or purchase, we may collect information about you, such as your name, email, credit card information, as well as any other information you provide in order to process the transaction. 
-  * If you’re a Subscriber, we collect information about your business that is submitted to the Service under your account. When you sign up for our Software Service, we ask for your company name, address, phone number, email, credit card information, tax identification number, and other information about your business, as well as names and email addresses of authorized individuals on your account. We also collect Personal Information about your customers that they provide to the Service when they initiate a transaction with you, such as an appointment or purchase.
-  * We may store information that your computer or mobile device provides to us in connection with your use of the Service, such as type of computer or mobile device, unique device identifier, IP Address, MAC address, device’s operating system and physical location (including geolocation, beacon based location, and GPS location).  You may disable our use of certain location data through your device or browser settings, for example by disabling “Location Services” for the MINDBODY App in iOS privacy settings.  We may also store usage data such as the date and time the application on your device accesses our servers, and what information and files have been downloaded to the application based on your device number. 
-  * We may deploy and read identifiers (generally, strings of code) that we have associated with a browser, and we may collect mobile identifiers such as Apple IDFAs or Google Android Ad IDs. We generally use and share these identifiers to help tailor more relevant ads to you both on our properties and when you interact with other websites and mobile apps.
-  * If you initiate a transaction through the Service, such as an appointment or purchase, we may collect and store information, including your name, phone number, address, email, and credit card information as well as any other information you provide to us, in order to process your transaction. This information may be shared with third parties for the same purposes. We encrypt credit card numbers using industry standard technology. We may also collect other Personal Information at the request of the business you are transacting with.
-  * We may receive information about you from other sources, such as public databases, strategic and joint marketing partners, social media platforms, people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your MINDBODY App account, certain information from your social media account may be shared with us, including information that’s part of your profile or your friends’ profiles. ****
-  * We may collect other Personal Information through the Service under the direction of our Subscribers. 
+  * our consumer-facing mobile application (“MINDBODY App”),
+  * our online business management software (“Software Service”),
+  * our social media pages,
+  * HTML-formatted email messages that we send to you that link to this Privacy Policy,
+  * and any other MINDBODY products and services offered through any other venues, websites and mobile applications that direct you to this Privacy Policy
 
 
 
-We may use your Personal Information:
+Collectively the “MINDBODY Services”.
 
-  * To respond to your inquiries and fulfill your requests.
-  * To send administrative information to you, for example, information regarding our services and changes to our terms, conditions, and policies. 
-  * To complete and fulfill your purchase or class registration, for example, to process your payments, communicate with you regarding your purchase and provide you with related customer service.
-  * To send you marketing communications that we believe may be of interest to you, such as to send you newsletters.
-  * To personalize your experience on the Service by presenting products and offers tailored to you, including complementary products and services of our partners.
-  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
-  * To facilitate social sharing functionality.
-  * To allow you to send messages to a friend through our services, as described in the section below titled “Referral Contact Information.” 
-  * Our mobile applications may also send push notifications to your mobile device. If you have previously consented to receiving push notifications and no longer wish to receive them, you can also turn push notifications off at the device level. The applications may also request access to your device's calendar application, camera, and microphone. If you have previously allowed access to your device's calendar and no longer wish to allow access, you may edit the application settings at the device level. 
-  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products and services, enhancing, improving or modifying our products and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities. 
-  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. ****
+When you access or use the MINDBODY Services, you agree to the terms and conditions of this Privacy Policy.
+
+The following terms will have the meanings indicated below. Please refer to our [Subscriber Terms of Service](https://web.archive.org/terms-of-service) or the [MINDBODY Consumer Agreement](https://web.archive.org/mobile-app-user-agreement) for any capitalized terms that are not defined in this policy.
+
+“End User” means any individual who interacts with the MINDBODY Services, including users of our mobile applications such as the MINDBODY App, and individuals who book appointments, purchase services and otherwise interact with our Subscribers through the MINDBODY Services.
+
+“Other Information” is any information that does not reveal your specific identity or does not directly relate to an individual, such as MINDBODY App usage data.
+
+“Personal Information” is information that identifies you as an individual or relates to an identifiable person, such as name, postal address, telephone number, email address, credit card number, and social media account ID. It does not include strings of code such as browser cookie IDs.
+
+“Subscriber” is any business or entity that subscribes to (or otherwise accesses or uses) our Software Service.
+
+Sometimes, we use the term “information” in this Privacy Policy, which may refer to either Personal Information or Other Information.
+
+Personal Information we collect or obtain includes:
+
+  * Contact details (e.g., name, address, email, telephone number),
+  * Personal details (e.g., date of birth, education, nationality),
+  * Financial and transaction data (e.g., purchase history, account information, shipping and billing information, etc.), and
+  * Other MINDBODY Services related data (e.g., customer requests, statistics, etc.).
 
 
+
+  * Through the MINDBODY Services 
+
+We collect information about you whenever you use the MINDBODY Services, for example:
+
+    * If you are a customer of a Subscriber or simply a MINDBODY App user, when you create an account on the MINDBODY App, we may ask for Personal Information such as your name, email and postal address, social media account ID, and Other Information you may provide with your account.
+    * If you are a Subscriber, when you sign up for our Software Service, we ask for your company name, address, phone number, email, credit card information, tax identification number, and other information about your business, as well as names and email addresses of authorized individuals on your account. We also collect Personal Information about your customers that they provide to the MINDBODY Services when they initiate a transaction or otherwise interact with you, such as to book an appointment or make a purchase. If you attend one of our events (e.g., a tradeshow, webinar, or training), we may ask for your feedback, contact details or other information to follow-up with you, such as send you marketing communications consistent with your choices.
+    * We collect information about you when you interact with the MINDBODY Services. For example, if you initiate a transaction through the MINDBODY Service, such as a purchase, we may collect information about you, such as your name, email, phone number, address, credit card information, as well as any other information you provide in order to process the transaction. This information may be shared with third parties for the same purposes. We encrypt credit card numbers using industry standard technology. We may also collect other Personal Information at the request of the Subscriber you are transacting with or through. We may also store information that your computer or mobile device provides to us in connection with your use of the MINDBODY Services, such as IP address.
+  * From other sources 
+    * In addition to the information we collect from you through MINDBODY Services, we may receive information about you from other sources, such as public databases, strategic and joint marketing partners, social media pages and platforms, people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your MINDBODY App account, certain information from your social media account may be shared with us, including information that’s part of your profile or your friends’ profiles. We may also collect other Personal Information through the MINDBODY Services under the direction of our Subscribers.
+
+
+
+We need to collect Personal Information in order to provide the requested MINDBODY Service to you. If you do not provide or enable us to collect the necessary information, we may not be able to provide the MINDBODY Service. If you disclose any Personal Information relating to other people to us or to our service providers in connection with the MINDBODY Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
+
+We may use your Personal Information for legitimate business purposes, including:
+
+  * **To provide the functionality of MINDBODY Services and related support.**
+    * To create, and administer accounts, fulfil and record transactions, and provide you with related assistance (e.g., technical help, answer inquiries relating to Personal Information, etc.).
+    * To send administrative information to you, for example, information regarding our services and changes to our terms, conditions, and policies.
+
+We will engage in these activities to manage our contractual relationship with you, with your consent, and/or to comply with a legal obligation.
+
+  * **To provide you with marketing and promotional materials and opportunities, and facilitate social sharing.**
+    * To send you marketing communications and offer other materials that we believe may be of interest to you, such as to send you newsletters or other direct communications.
+    * To share information with other marketers (and their service providers) to permit them to send you marketing communications, consistent with your choices.
+    * To allow you to participate in sweepstakes, contests or similar promotions.
+    * To facilitate social sharing functionality if you choose to do so.
+
+We will engage in this activity with your consent, to manage our contractual relationship with you, or where we have a legitimate interest.
+
+  * **For reporting and trending.**
+    * To better understand you and our other users, so that we can tune and personalize our offering.
+    * For trending and statistics, and to improve our products and services
+
+We will engage in this activity because we have a legitimate interest.
+
+  * **To accomplish our business purposes.**
+    * For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory or contractual requirements.
+    * For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft.
+    * For responding to legal duties, such as requests from public and government authorities.
+
+We will engage in these activities to comply with a legal obligation or because we have a legitimate interest.
+
+
+
+
+To the extent that we process your Personal Information based on your consent, you may withdraw your consent at any time.
 
 We may disclose your Personal Information:
 
-  * To our affiliates for the purposes described in this Privacy Policy. 
-  * To our strategic partners and third-party service providers who provide services such as website hosting, data analysis, payment processing services, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services. 
-  * To our Subscribers if you are an End User and are using our Service to interact with that Subscriber. Please contact the Subscriber you interact with directly for more information on that Subscriber’s privacy practices.
-  * To third parties to permit them to send you marketing communications, consistent with your choices. 
-  * To third-party sponsors of sweepstakes, contests and similar promotions.
-  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials, including as described in the sections below titled “Testimonials, Ratings and Reviews” and “Public Forum.”
-  * To your friends associated with your social media account, to other Website users and as well as to your social media account provider, in connection with your social sharing activity, such as if you connect your Facebook account to your MINDBODY App account.
-  * For legal purposes described in the section below titled “Legal Disclosure.” ****
+  * To our affiliates for the purposes described in this Privacy Policy. MINDBODY, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our strategic partners and third-party service providers who provide services such as website hosting, data analysis, payment processing services, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.
+  * To our Subscribers if you are an End User and are using our MINDBODY Services to interact with that Subscriber. Please contact the Subscriber you interact with directly for more information on that Subscriber’s privacy practices.
+  * To third parties to permit them (or their own customers) to send you marketing communications, consistent with your choices. 
+  * To third-party sponsors of sweepstakes, contests and similar promotions, consistent with your choices.
+  * To you, through message boards, chat, profile pages and blogs and other services to which you are able to post information and materials, including as described in the sections below titled “Testimonials, Ratings and Reviews” and “Public Forum.”
+  * To your friends associated with your social media account, to other website users and as well as to your social media account provider, in connection with your social sharing activity, such as if you connect your Facebook account to your MINDBODY App account or our social media pages.
+  * To business partners in the context of a corporate transaction. If MINDBODY is involved in a sale or business transaction (e.g., merger or acquisition), MINDBODY will retain a legitimate interest in disclosing or transferring your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). Such third parties may include, for example, an acquiring or target entity and its advisors.
 
 
 
-Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information. In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, we will treat the combined information as Personal Information.
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information. In some instances, we may combine Other Information with Personal Information. If we combine any Other Information with Personal Information, we will treat the combined information as Personal Information.
 
-If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided by you, you may contact us by logging into your account and making the appropriate changes or by emailing our customer support at [support@mindbodyonline.com](mailto:support@mindbodyonline.com).   ****
+California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. If you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes offline, please follow the instructions in Section 8 below.
 
-In your request, please make clear what Personal Information you would like to have changed or removed from our database. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. 
+Where applicable law allows for such a request, if you would like to request to access, correct, object to the use, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact MINDBODY at [privacy@mindbodyonline.com](mailto:privacy@mindbodyonline.com) with the subject line “Data Subject Request.” We will respond to your request consistent with applicable law.
 
-Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase, you may not be able to change or delete the Personal Information provided until after the completion of such purchase).  There may also be residual information that will remain within our databases and other records, which will not be removed.
+For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. Moreover, where you are an End User, MINDBODY may need to forward your request and refer you to your Subscriber who may be better placed to address your request.
 
-If you are under 18 and a user of our Service, you may ask us to remove content or information that you have posted to the Service by submitting a request to [privacy@mindbodyonline.com](mailto:privacy@mindbodyonline.com).  Please note that your request does not ensure complete or comprehensive removal of the content or information. ****
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
 
-If you are a customer of one of our Subscribers and would no longer like to be contacted by one of our Subscribers, or would like to access, correct, amend, or delete inaccurate Personal Information held by a Subscriber, please contact the Subscriber that you interact with directly. 
+If you are under 18 years of age and a user of the MINDBODY Services, you may also be entitled to ask us to remove content or information that you have posted to the MINDBODY Service by submitting a request to [support@mindbodyonline.com](mailto:support@mindbodyonline.com). Please note that your request does not ensure complete or comprehensive removal of the content or information.
 
-**Your choices regarding our use and disclosure of Personal Information**
+If you are a customer of one of our Subscribers and would no longer like to be contacted by one of our Subscribers, or would like request the exercise of a right as set out above in relation to Personal Information held by a Subscriber, please contact the Subscriber directly.
 
-Information you provide may be used by MINDBODY for marketing purposes, including but not limited to, one-off promotional e-mailing, direct mail, and sales contacts. We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from: 
+Information you provide may be used by MINDBODY for marketing purposes such as one-off promotional emailing, mobile text messages, direct mail, and sales contacts. We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-  * **Receiving electronic communications from us** :  If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by sending a request for list removal to [unsubscribe@mindbodyonline.com](mailto:unsubscribe@mindbodyonline.com). If you provide your information to MINDBODY, at any time you can opt-out, which will allow you to save your information with MINDBODY, but MINDBODY will not use your information for marketing purposes. 
-  * **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes** :  If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by emailing [unsubscribe@mindbodyonline.com](mailto:unsubscribe@mindbodyonline.com). 
+  * **Receiving electronic communications from us:** If you are a user of the MINDBODY App and no longer want to receive marketing-related emails or mobile text messages from us on a going-forward basis, you may opt-out of receiving these marketing-related emails or mobile text messages by sending a request for list removal to [unsubscribe@mindbodyonline.com](mailto:unsubscribe@mindbodyonline.com) or changing your preferences in the MINDBODY App. If you have provided your information to MINDBODY, and opt-out, MINDBODY will put in place processes to honor your request. This may entail keeping some information for the purpose of remembering that you have opted-out.
+  * **Our sharing of your Personal Information with unaffiliated third parties for their (or their customers’) direct marketing purposes:** If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by emailing [unsubscribe@mindbodyonline.com](mailto:unsubscribe@mindbodyonline.com) from the email that you have signed up or used in receiving the MINDBODY Services.
 
 
 
-We will try to comply with your request(s) as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related emails from us, we may still send you messages for administrative or other purposes directly relating to your use of the Service, and you cannot opt-out from receiving those messages.
+We will try to comply with your request(s) as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related emails from us, we may still send you messages for administrative or other purposes directly relating to your use of the MINDBODY Services, and you cannot opt-out from receiving those messages.
 
-We and our third party service providers may collect Other Information in a variety of ways.  We and/or our third party partners may employ various tracking technologies, such as cookies, web beacons and analytics software, that help us better manage content on our Service by informing us what content is effective. 
+Our mobile applications may also send push notifications to your mobile device. If you have previously consented to receiving push notifications and no longer wish to receive them, you can also turn push notifications off at the device level. The applications may also request access to your device’s calendar application, camera, and microphone. If you have previously allowed access to your device’s calendar and no longer wish to allow access, you may edit the application settings at the device level.
 
-**Cookies**
+We and our third party service providers may collect Other Information in a variety of ways. We and/or our third party partners may employ various tracking technologies, such as cookies, web beacons and analytics software, that help us better manage content on the MINDBODY Services by informing us what content is effective. For more information on our use of cookies and similar technologies, please refer to our [Cookies Policy](https://web.archive.org/cookies-and-similar-technologies-policy).
 
-When you visit our website or otherwise interact with the Service we (or third party data or ad networks we work with) may send one or more “cookies” to your computer or other devices. Cookies are alphanumeric identifiers stored on your computer through your web browser and are used by most websites to help personalize your web experience. Some cookies may facilitate additional site features for enhanced performance and functionality such as remembering preferences, allowing social interactions, analyzing usage for site optimization, providing custom content, allowing third parties to provide social sharing tools, and serving images or videos from third party websites. Some features on this site will not function if you do not allow cookies. We may link the information we store in cookies to any Personal Information you submit while on our site. ****
+The MINDBODY Services includes social media features such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our websites. These features may collect your IP address, which page you are visiting on our websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these features are governed by the privacy policy of the company providing it. See Section 24 for a list of third parties and their applicable privacy policies.
 
-We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies enable us to track and target the interest of our users to enhance the experience on our site. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site.  You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>.  If you reject cookies, you may still use our site, but some features on the site will not function properly.
+Our websites offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose Personal Information through MINDBODY public message boards, blogs, or forums, this information may be collected and used by others. To request removal of your Personal Information from our blog or community forum, contact us at [support@mindbodyonline.com](mailto:support@mindbodyonline.com). In some cases, we may not be able to remove your Personal Information or some content (if, for example, it is reposted by another user), in which case we will let you know if we are unable to do so and why.
 
-Functional cookies, persistent and session type, store information to enable core site functionality, such as Live Chat and Client ID remembrance.
+You can log in to some of the MINDBODY Services using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign up form. Some services like Facebook Connect give you the option to post information about your activities on our websites to your profile page to share with others within your network. In addition, when using some of our mobile applications we may allow you a chance to tell friends about our services by accessing the contacts in your Facebook or other social media account.
 
-Analytics cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site and our marketing campaigns. 
+If you submit testimonials, ratings or reviews to the MINDBODY Services, any Personal Information you include may be displayed in the Service. If you want your testimonial removed, please contact us at [support@mindbodyonline.com](mailto:support@mindbodyonline.com).
 
-Advertising cookies may be set through our website by our advertising partners. Data may be collected by these companies that enable them to serve up advertisements on other sites that are relevant to your interests. 
+We also partner with third-party service providers to collect and display ratings and review content on our web site.
 
-**Web Beacons**
+We currently use third party payment processors as a Third Party Offering for internet based payment services. If you wish to make a payment through MINDBODY Services, your Personal Information may be collected by such processors directly and not by us, and will be subject to the third party’s privacy policy. See Section 24 for a list of third parties and their applicable privacy policies. We have no control over, and are not responsible for, third parties’ collection, use and disclosure of your Personal Information.
 
-We (or third party data or ad networks we work with) may use Web Beacons alone or in conjunction with cookies to compile information about our Service, or other information we or they have collected. Web Beacons are tiny graphic objects that are embedded in a web page or email and are usually invisible to the user but allow checking that a user has viewed the page or email. Web Beacons may be used within the Service to track email open rates, web page visits or form submissions. In some cases, we tie the information gathered by Web Beacons to our Subscribers’ and End Users’ Personal Information. For example, we use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including our Subscribers and any third party operating any Third Party Offering, site or other products and services used in connection with the MINDBODY Services. The inclusion of a link does not imply endorsement of the linked site or service by us or by our affiliates.
 
-**Flash and HTML5 Storage**
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the MINDBODY Services, including our social media pages.
 
-We use Local Shared Objects, such as Flash cookies, AND/OR Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We will retain your Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law. The criteria used to determine our retention periods include:
 
-**Do Not Track Signals**
+  * The length of time we have an ongoing relationship with you and provide the MINDBODY Services to you (for example, for as long as you have an account with us or keep using the MINDBODY Services);
+  * Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+  * Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
 
-At this time we do not respond to browser ‘do not track’ signals. **  **
 
-**Analytics Software**
 
-We and our third party tracking-utility partners use log files on our Service to gather certain information automatically and store it for analytical purposes. This information includes internet protocol (“IP”) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use Google Analytics, which uses cookies and other, similar technologies to collect and analyze information about use of the Service and report on activities and trends.  This service may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. ****
+The security of Personal Information is a high priority at MINDBODY. We seek to use reasonable technical, administrative and physical safeguards to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have any questions about the security of your interaction with us please refer to our [Security Policy](https://web.archive.org/security-policy)
 
-We use this information to track and aggregate Other Information to analyze trends, administer the site, track users’ movements around the Service and to gather demographic information about our user base as a in the aggregate.
+The MINDBODY Services are not directed or targeted at children under the age of sixteen (16), and we request that they do not provide Personal Information through the MINDBODY Services.
 
-**Advertising Networks**
+The MINDBODY Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the MINDBODY Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
 
-We may partner with third party data or ad network(s) and other service providers to show you relevant ads, including ads displayed on the Service and on other companies’ websites or apps, on any of your devices. We and our service providers may use cookies and web beacons to deploy and read cookie identifiers and Mobile Ad IDs, associated with your activities on the Service, third party web sites, mobile apps or other information we collect, to provide you targeted advertising based upon your interests. They may also use these technologies, along with activity information they collect, to recognize you across the devices you use, such as a mobile device and a laptop or other computer. These ad networks and their customers may also use any of this information to measure ad performance, understand their (or our) audience, or otherwise improve and enhance their marketing.
+Some of the non-European Economic Area (“EEA”) countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available at <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en>. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses with our vendors (based on the clauses published at <http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087>, a copy of which can be obtained by Contacting Us, see below) and/or participation in the E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield to protect your Personal Information in the U.S as further explained below. You can consult our Privacy Shield certification at [https://www.privacyshield.gov/participant?id=a2zt0000000TOHGAA4&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TOHGAA4&status=Active).
 
-Similarly, we or a third party data partner may associate cookies with hashed (non-human readable) versions of your registration data (e.g., your email address), along with other interest-based or demographic data. You can learn more about or opt out of this type of advertising through the links in the following paragraph.
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g. information related to racial or ethnic origin, political opinions, religion or other beliefs, biometrics or genetic characteristics, trade union membership or criminal background) on or through the MINDBODY Services or otherwise to us, except where explicitly requested or consented to.
 
-_Mobile Opt Out_ : You can opt out of having your Mobile Ad IDs used for interest-based mobile advertising by accessing the settings on your Apple or Android mobile device, as follows:
+MINDBODY participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List.
 
-  * **Apple Devices** : If you have an Apple device, you can opt out of most cross-app advertising by updating to iOS 6.0 or higher and setting Limit Ad Tracking to ‘ON.’ You can do this by clicking on Settings > General > About > Advertising, and toggling Limit Ad Tracking to ‘ON.’
-  * **Android Devices** : If you have an Android device, you can opt out of most cross-app advertising by clicking on Google Settings > Ads, and selecting the option to opt-out of interest-based ads.
+MINDBODY is responsible for the processing of personal data it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. MINDBODY complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, MINDBODY is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Please note that these platforms control how these settings work, so the above instructions may change. Likewise, if your device uses other platforms not described above, please check the settings for those devices.
+Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-_Web-Based Opt Out_ : If you wish to opt-out of many of the ad platforms that serve or support interest-based advertising (or learn more about this type of advertising), go to <http://www.networkadvertising.org/managing/opt_out.asp>, <http://www.aboutads.info/choices> and <http://preferences-mgr.truste.com/> to opt out in desktop and mobile web browsers.  You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt out in mobile apps.  For individuals in the EU, please also visit <http://www.youronlinechoices.eu/>.  Please note that opting out does not opt you out of being served advertising. You will continue to receive generic ads.
-
-**Social Media Features and Widgets**
-
-The Service includes social media features such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our Website. These features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly.  Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.
-
-Our Website offers publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose Personal Information through MINDBODY public message boards, blogs, or forums, this information may be collected and used by others. To request removal of your Personal Information from our blog or community forum, contact us at [support@mindbodyonline.com](mailto:support@mindbodyonline.com). In some cases, we may not be able to remove your Personal Information or some content (if, for example, it is reposted by another user), in which case we will let you know if we are unable to do so and why.
-
-You can log in to some of our Service using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Website to your profile page to share with others within your network. 
-
-In addition, when using some of our mobile applications we may allow you a chance to tell friends about our services by accessing the contacts in your Facebook or other social media account. 
-
-If you choose to use our referral service to tell a friend about the MINDBODY App via SMS or email, we will ask for your friend’s email address or telephone number. We will automatically send your friend a one-time email or SMS message inviting them to visit the mobile application. MINDBODY stores this information for the sole purpose of sending this one-time message and tracking the success of the referral program. Your friend may contact us at [unsubscribe@mindbodyonline.com](mailto:unsubscribe@mindbodyonline.com) to request that we remove this information from our database.
-
-When using this feature we will access the contact list of your device for the sole purpose of assisting you in finding individuals to whom you wish to send these communications. If you submit any Personal Information relating to other people to us or to our service providers in connection with the Service, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.  Please also note that when using the SMS feature charges from your carrier may apply.
-
-Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering.
-
-If you submit testimonials, ratings or reviews to the Service, any Personal Information you include will be displayed in the Service. If you want your testimonial removed, please contact us at [testimonial@mindbodyonline.com](mailto:testimonial@mindbodyonline.com). 
-
-We also partner with third-party service providers to collect and display ratings and review content on our web site. If the content collected by a third party for display includes Personal Information, it will not be posted unless consent is provided by the individual. ****
-
-We reserve the right to disclose Personal Information that we believe to be necessary or appropriate in the following circumstances: 
-
-  * As required by law, including laws outside your country of residence, such as to comply with a subpoena, or similar legal process.
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request including a request from authorities outside your country of residence.
-  * To enforce our terms and conditions.
-  * To allow us to pursue available remedies or limit the damage we may sustain.
-  * If MINDBODY is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice within the software and/or on our Website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
-
-
-
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including our Subscribers and any third party operating any Third Party Offering, site or other products and services used in connection with our Service.  The inclusion of a link does not imply endorsement of the linked site or service by us or by our affiliates. 
-
-Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Service. 
-
-We will retain your Personal Information for as long as needed to provide the applicable Service you use, unless a longer retention period is required or permitted by law.
-
-The security of Personal Information is a high priority at MINDBODY. We maintain our Service and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have any questions about the security of your interaction with us (if, for example, you feel that the security of any account you might have with us has been compromised), you can contact us at [privacy@mindbodyonline.com](mailto:privacy@mindbodyonline.com).
-
-The Service is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Service.  ****
-
-The Service is controlled and operated by us from the United States, and is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.  Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Service you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country.
-
-We ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, trade union membership or criminal background) on or through the Service or otherwise to us, except where explicitly requested.
-
-MINDBODY participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  We are committed to subjecting all personal data received from European Union (EU) member countries in reliance on the Privacy Shield Framework to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
-
-MINDBODY is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. MINDBODY complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, MINDBODY is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-Individuals whose personal data we receive under the Privacy Shield have certain rights to request access to or correction, amendment or deletion of their personal data. If you have questions or concerns regarding this policy, or for assistance exercising your rights, please contact us at [privacy@mindbodyonline.com](mailto:privacy@mindbodyonline.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
-
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.  
-
-MINDBODY complies with U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view MINDBODY’s certification, please visit <http://www.export.gov/safeharbor/>.  
-
-MINDBODY reserves the right to change this Privacy Policy. ** ** Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Service.  Your use of the Service following these changes means that you accept the revised Privacy Policy.
+MINDBODY may make changes to this Privacy Policy from time to time. Any changes we make will become effective when we post a modified version of the Privacy Policy to <https://www.mindbody.com/privacy-policy>. If we make any material changes to the Privacy Policy, we may also notify you by posting notice on our websites or within the applicable MINDBODY Services, or by sending you an email. If you continue using the MINDBODY Services after any notice of any such changes, it means you have accepted them. If you do not agree to any changes, you must stop using the MINDBODY Services, as applicable. It is your obligation to ensure that you read, understand and agree to the latest version of The Privacy Policy. The “Last Updated” legend at the top of the Privacy Policy indicates when it was last updated.
