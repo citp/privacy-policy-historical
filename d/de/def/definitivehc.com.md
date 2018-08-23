@@ -1,49 +1,52 @@
-> *The following text is extracted and transformed from the definitivehc.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513110529id_/http%3A//www.definitivehc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivehc.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823135503id_/https%3A//www.definitivehc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Definitive Healthcare
+# Privacy Policy
 
 Privacy Policy
 
 This website (“Website”) and associated websites are maintained by:
 
 Definitive Healthcare  
-5 Strathmore Road  
-Natick, MA 01760
+550 Cochituate Rd  
+Framingham, MA 01701
 
-The publisher of this Website (“Publisher”) collects personally identifying information and data about individuals, their company, and their company’s demographics (personally identifying information and data) including (i) when you provide information to us, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with the Publisher, (ii) when you register or sign up on one of our Websites, or when you register for any other Definitive Healthcare products individually or through auto register, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
+**Overview**
 
-Below is the current policy regarding the usage of personally identifying information and data collected by the Publisher. We reevaluate this policy on an ongoing basis based on feedback from readers. The Publisher reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Website.
+Definitive Healthcare LLC operates the [www.definitivehc.com](https://www.definitivehc.com/) website, which provides the SERVICE. This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Definitive Healthcare website.  If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at www.definitivehc.com, unless otherwise defined in this Privacy Policy.
 
-The Publisher or one of our affiliated companies, or third party partners or advertisers may place online tracking technology such as a “cookie” in the browser files of a user’s computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user. In addition, cookies placed in the browser files of a user’s computer by a third party advertiser, may be used by the advertiser to collect web viewing data to serve further online interest-based advertising, also known as online behavioral advertising.
+**Information Collection and Use**
 
-If you have registered with our Website, the information in your cookie is used to provide a more personalized experience on our Website.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
-If you haven’t registered with our Website, we may place a cookie on your system to help provide a more personalized experience. This cookie identifies you as a unique user by means of a tracking ID. However, if you have not registered on our Website, we cannot link that user ID with personally identifying information and data about you such as your name or e-mail address.
+**Log Data**
 
-Other cookies without personally identifying information and data are used to enable the Publisher to manage the banner advertisements presented or personalized information to the user.
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-Browsers or third-party software can allow you to block the use of cookies while you surf our site. The aggregated information we collect is used for a number of purposes including the following :
+**Service Providers**
 
-1\. to improve the content and design of our Website
+We may employ third-party companies and individuals due to the following reasons:
 
-2\. to enable our audit bureau to verify our claims of traffic to our Website
+  * To facilitate our Service;
+  * To provide the Service on our behalf;
+  * To perform Service-related services; or
+  * To assist us in analyzing how our Service is used.
 
-3\. to help advertisers, potential advertisers or marketers assess the suitability of our Website for their ad campaigns
 
-4\. as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFS let our ad-serving company recognize a browser’s cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address).
 
-5\. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of the Publisher or select organizations.
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Postal addresses, and other personally identifying information and data may be collected from our online users (and, as applicable, our print subscribers) and may be used to promote the Publisher’s and companies’ products and services, and may be rented and/or licensed to select outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.
+**Security**
 
-Telephone numbers may be collected from our online users (and, as applicable, our print subscribers) and may be used by the Publisher to collect re-qualification data, and may be used by Definitive Healthcare, affiliates and its advertisers for promotional purposes. The Publisher may rent and/or license for use phone numbers to select outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully.
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of electronic transmission, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-E-mail addresses may be collected from our online users (and as applicable, our print subscribers), and may be used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote the Publisher’s products and services, and they may be rented to select outside firms* and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from outside firms and the Publisher. With each e-mail use of the user’s address you can individually opt-out of receiving further e-mail from outside firms and the Publisher. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.
+**Links to Other Sites**
 
-Our Website makes available a large library of content provided to us from third parties. In return for access to this content, we may ask you to provide us with personally identifying information. Once you have submitted your information, you will have access to the full library of third party content and will not be asked to provide that information again (unless you disable or otherwise modify your cookies). When accessing content contributed by a third party, your personally identifying information may be shared with those third parties, and the information will be governed by those parties’ privacy policies as well as ours. The Publisher, nor its parent company, or any of its subsidiaries or affiliates, does not bear any responsibility for any actions or policies of such third parties. If you do not wish to have your information shared with a third party, please do not access third party content on our site.
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Our Website users should be aware that when they disclose personally identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. Neither the Publisher, nor its parent company or any of its subsidiaries or affiliates are responsible for any information that you provide in the above areas.
+**Children’s Privacy**
 
-In the event that the ownership of this Website and/or any of the Publisher’s other products and/or assets are sold or transferred, all lists and data which contain personally identifying information and data including for example user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.
 
-We may use or disclose personally identifying information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the Publisher, or our employees or customers.
+**Changes to this Privacy Policy**
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
