@@ -1,36 +1,31 @@
-> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105846id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823125739id_/https%3A//xisto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Announcements - Open Discussion & Free Web Hosting
+# Privacy Policy
 
-###  [ #1  ](http://www.astahost.com/topic/2283-privacy-policy/#entry13648 "Privacy Policy: post #1")
+Computing Host has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.computinghost.com (Xisto Corporation)
 
-OpaQue
+We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
-Administrator
+Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
 
-  * [ ](http://www.astahost.com/user/1-opaque/ "View Profile: OpaQue")
-  * **Admin**
-  *   * 528 posts 
+This site contains links to other sites. Computing Host is not responsible nor can it be held liable for the privacy practices or the content of such Web sites.
 
+We will not disclose or distribute your information to or with any third-parties, for whichever purpose it may be. Never will any third-party consciously gain access to your personal information.
 
-  * myCENTs:[ **27.03**](http://www.xistosupport.com/billing/index.php "web hosting support and billing")  
+Our site uses an order form for customers to request information, products, and services. We collect visitor’s contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer’s contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users’ qualifications and bill the user for products and services
 
+PUBLIC FORUMS
 
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
+SECURITY
 
-Posted 23 January 2005 - 11:17 AM
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have excellent anti-hacking software in place that was either purchased from third-parties and or programmed by our in-house developers. There is hardly any risk of information being compromised or accessed by any unauthorized parties.
 
-Due to the nature of our service, for security reasons, Xisto Corporation. does collect personally identifiable information about individuals.
+CHOICE/OPT-OUT
 
-Personally identifiable information on individual users will not be sold or otherwise transferred to either affiliated, or unaffiliated third parties except when such individuals specifically provide such instruction on a voluntary basis at the time of collection. Further, Xisto Corporation reserves the right to contact a user by email, regarding matters relevant to the underlying service and/or information collected. Xisto Corporation will never contact users directly through a physical address or by phone, and such information is securely stored after being reviewed.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send a ticket at http://www.xistosupport.com
 
-Users should be aware that Xisto Corporation is lawfully required to provide personally identifiable information to law authorities, such as the Internet Police as requested, if a criminal offence whether related or non-related to Xisto Corporation and/or its community has been committed. Additionally upon breach of Xisto Corporation's Terms Of Service, Xisto Corporation is required to contact and report the offence to all parties involved in the violation, including but not limited to the violator's Internet Service Provider and Internet Police.
+CORRECT/UPDATE
 
-Users also should be aware that non personal information and data may automatically be collected through the standard operation of Xisto Corporation internet servers or through the use of "cookies." Information about "Cookies" is usually available in the help section of most browsers.
-
-If you do not want to receive email from us in the future, please let us know by sending an email message stating you do not want to receive e-mail from our company. Users should be aware that it may lead to termination of their specific services associated with Xisto Corporation and it may be impossible to delete all references to a user without some residual information remaining because of backups and deleted records. We asure you, however, that such residual information - if any - remains secure and covered by this private policy.
-
-Xisto Corporation reserves the right to change this policy at any time by notifying users of the existance of a new privacy statement.
-
-The policies described herein are effective as of the year 2005. 
-  *[23 January 2005 - 11:17 AM]: 2005-01-23T11:17:40+00:00
+This site gives users the following options for changing and modifying information previously provided. You can send a ticket at http://support.xisto.com/
