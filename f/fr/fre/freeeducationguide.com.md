@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027111635id_/http%3A//freeeducationguide.com/privacy.html%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823160208id_/http%3A//www.freeeducationguide.com/privacy.html%23privacy-policy) for the most accurate reproduction.*
 
 # None
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=0567b4be-360c-4947-8689-09ddfb54b198)
 
 Effective: 5/8/2017
 
