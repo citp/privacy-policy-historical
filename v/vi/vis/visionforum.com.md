@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionforum.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826161546id_/http%3A//visionforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionforum.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823034846id_/http%3A//visionforum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Vision Forum
 
