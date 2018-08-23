@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uflash.tv privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622131343id_/http%3A//www.uflash.tv/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uflash.tv privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823140124id_/http%3A//www.uflash.tv/static/privacy) for the most accurate reproduction.*
 
 # UFLASH.TV - Daily Exhibitionist Videos |
 
