@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520151056id_/http%3A//www.presentjobs.com/p/privacy-policy-of-presentjobs.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823180527id_/https%3A//www.presentjobs.com/p/privacy-policy-of-presentjobs.html) for the most accurate reproduction.*
 
-# Privacy Policy - Present Jobs - Jobs For Freshers & Experienced
+# Privacy Policy - Present Jobs - Jobs For Freshers & Experienced | Fresher Jobs | Fresher Walkins
 
 **Please read carefully the below privacy policy of presentjobs.com**
 
@@ -22,11 +22,11 @@ We may access and set cookies using Web beacons, also known as single-pixel GIFs
 **IMP Note :**  
 – Google, as a third party vendor, uses cookies to serve ads on our website.  
 – Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
-– Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html).  
+– Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](https://www.google.com/privacy_ads.html).  
 – You can [Check Here](http://www.doubleclick.com/privacy/faq.aspx) to know more details about DoubleClick DART Cookie  
 Third Party Advertisements
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies (such as Google’s Adsense) may collect information such as your domain type, your IP address and clickstream information. It could also access and set cookies in your browser, use web beacons as mentioned above. For further information, please consult the [Privacy Policy of Google (Adsense)](http://www.google.com/privacy.html).
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies (such as Google’s Adsense) may collect information such as your domain type, your IP address and clickstream information. It could also access and set cookies in your browser, use web beacons as mentioned above. For further information, please consult the [Privacy Policy of Google (Adsense)](https://www.google.com/privacy.html).
 
 **Privacy policy subject to change:**
 
