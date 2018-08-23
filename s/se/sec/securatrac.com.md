@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securatrac.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403073246id_/http%3A//www.securatrac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securatrac.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823124251id_/http%3A//www.securatrac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Secura Trac
 
