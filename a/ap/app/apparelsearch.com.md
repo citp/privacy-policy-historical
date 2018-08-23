@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608025347id_/http%3A//www.apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823064232id_/http%3A//www.apparelsearch.com/privacy-policy.html%3Fez_orig%3D1) for the most accurate reproduction.*
 
 # Privacy Policy for Fashion Industry
 
@@ -8,7 +8,7 @@ The Fashion Privacy Policy is that you should always _dress well_ when you go ou
 
 [Apparel Search](http://www.apparelsearch.com/) is wholly owned and operated by the Apparel Search Company LLC.  As you know, our website is regarding clothing, shoes, style, and every other topic relevant to the fashion industry.
 
-By using Apparel Search content, you accept our  [Terms and Conditions](http://www.apparelsearch.com/legal_notice.htm) which includes this Privacy Policy. If you do not want to be bound by Apparel Search's Privacy Policy, or Terms and Conditions, you should stop using ApparelSearch.com or our other websites content.
+By using Apparel Search content, you accept our  [Terms and Conditions](http://apparelsearch.com/legal_notice.htm) which includes this Privacy Policy. If you do not want to be bound by Apparel Search's Privacy Policy, or Terms and Conditions, you should stop using ApparelSearch.com or our other websites content.
 
 ###  Information Sharing
 
@@ -54,5 +54,5 @@ If you have any questions about our Privacy Policy, feel free to contact us by e
 
 If you are done reading about privacy policies, you may want to actually learn more about fashion & style by reading our [fashion blog](http://www.blog.apparelsearch.com/).  You may find that to be much more enjoyable.
 
-[Apparel Search](http://www.apparelsearch.com/)   [Add Your Company](http://www.apparelsearch.com/addyour.htm)   [ Contact Us](http://www.apparelsearch.com/contact_us.htm)   [About Us](http://www.apparelsearch.com/about_us.htm)   [News Letter](http://www.apparelsearch.com/news_letter_fashion_industry.htm)   [Legal](http://www.apparelsearch.com/legal_notice.htm)   [ Help  
-](http://www.apparelsearch.com/help.htm)Copyright © 1999-2018  Apparel Search Company.  All Rights Reserved. 
+[Apparel Search](http://www.apparelsearch.com/)   [Add Your Company](http://apparelsearch.com/addyour.htm)   [ Contact Us](http://apparelsearch.com/contact_us.htm)   [About Us](http://apparelsearch.com/about_us.htm)   [News Letter](http://apparelsearch.com/news_letter_fashion_industry.htm)   [Legal](http://apparelsearch.com/legal_notice.htm)   [ Help  
+](http://apparelsearch.com/help.htm)Copyright © 1999-2018  Apparel Search Company.  All Rights Reserved. 
