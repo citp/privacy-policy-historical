@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the whoisology.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232147id_/https%3A//whoisology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisology.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823021546id_/https%3A//whoisology.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Whoisology
 
-Last updated: October 13, 2015
+Last updated: May 15, 2018
 
-This Privacy Policy governs the manner in which Whoisology collects, uses, maintains and discloses information collected from users (each, a "User") of the Whoisology.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Whoisology directly, it does not apply to the data within the whois records displayed upon the Site.
+This privacy policy applies to the Site and all products and services offered by Whoisology directly, it does not apply to the data within the Whois records displayed upon the Site.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Users may also visit our Site anonymously.
+
+We will collect personal identification information from Users only if they voluntarily authorize submission of such information.
+
+Users can always refuse to supply personal identification information. Please not that refusal to submit certain information may prevent the User from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and IP address the User uses to connect to our Site. Gathering this information can assist us with on our Site. Internet Service Providers typically use Dynamic IP addresses that change when you access different web sites as an added protection feature. Contact your Internet Service Provider to learn more about IP addresses, Dynamic IP addresses, and how they work to protect you and your use.
 
 **Web browser cookies**
 
@@ -22,62 +26,53 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 Whoisology may collect and use Users personal information for the following purposes:
 
-  * To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * **To improve customer service.** Information you provide helps us respond to your customer service requests and support needs more efficiently.
   
 
-  * To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-
-  
-
-  * To improve our Site. We may use feedback you provide to improve our products and services.  
+  * **To personalize user experience.** We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
 
   
 
-  * To process payments. We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+  * **To improve our Site.** We may use feedback you provide to improve our products and services.  
 
   
 
-  * To run a promotion, contest, survey or other Site feature. To send Users information they agreed to receive about topics we think will be of interest to them.
+  * **To process payments.** We may use the information. Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+
   
 
-  * To send periodic emails. We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via email.
+  * **To run a promotion, contest, or survey.** We may use personal User information to send you material you have agreed to receive regarding topics we think will be of interest to you, this includes periodic emails. We may use the User’s email address to send User information and updates pertaining to their order. The User’s email address may also be used to respond to their inquiries, questions, and/or other requests. If the User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of **_each_** email, or the User may contact us via email.
 
 
 
 **How we protect your information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+We adopt safe and applicable data collection, storage and processing practices, and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, or data stored on our Site.
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We may share generic aggregated demographic information that is not personally identifiable and not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+We may share your information such as email address with these third parties for such limited purposes, provided that you have given us your express consent.
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Browsing and interacting on any other website....
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer.
 
-**Google Adsense**
-
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
+This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 **Compliance with children's online privacy protection act**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Protecting the privacy of every youth is especially important. For that reason, we never collect or maintain information knowingly or willfully from anyone under the age or 13, and no part of our website is structured to attract anyone under the age of 13. Please note as mentioned above that our Site allows users to interact anonymously.
 
 **Changes to this privacy policy**
 
-Whoisology has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+Whoisology has the discretion to update this Privacy Policy at any time.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: contact@whoisology.com
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed as your acceptance of those changes.
