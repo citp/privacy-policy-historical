@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yabuka.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920175847id_/http%3A//yabuka.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yabuka.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823210929id_/http%3A//yabuka.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Yabuka
 
