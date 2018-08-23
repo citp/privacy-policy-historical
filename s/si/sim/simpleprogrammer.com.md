@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleprogrammer.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216071123id_/https%3A//simpleprogrammer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleprogrammer.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823020247id_/https%3A//simpleprogrammer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simple Programmer
 
