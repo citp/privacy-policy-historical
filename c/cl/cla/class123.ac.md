@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the class123.ac privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020052645id_/https%3A//class123.ac/term%3Fterm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the class123.ac privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823052504id_/https%3A//class123.ac/term%3Fterm%3Dprivacy) for the most accurate reproduction.*
 
-# Class123
+# Privacy Policy - Class123
 
 ## 1. Personal information collected and the methods to collect
 
