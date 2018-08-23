@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the wafflesatnoon.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703092149id_/http%3A//wafflesatnoon.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wafflesatnoon.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823030437id_/http%3A//wafflesatnoon.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - wafflesatnoon.com
+
+Sponsored links  
+
 
 Privacy Policy for wafflesatnoon.com
 
