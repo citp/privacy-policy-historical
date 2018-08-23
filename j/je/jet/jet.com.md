@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the jet.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129093740id_/https%3A//jet.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823132635id_/https%3A//jet.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Jet.com
 
-_Effective June 30, 2016_
+### Last Updated: July 13, 2017
 
 At Jet, we take your privacy seriously. This Privacy Notice describes how we use the information we collect or that you provide to us through the Jet Sites and other electronic communications.
 
-In this Privacy Notice: 
+In this Privacy Notice:
 
-  * When we say 'Jet', we mean Jet.com, Inc. and any subsidiaries and affiliates of Jet (including any that Jet may form or acquire in the future). We also refer to Jet as 'we', 'us' or 'our' - we hope this Privacy Notice reads better that way. Notwithstanding the foregoing, 'Jet' does not include Hayneedle, Inc., which is governed by the privacy policy located at www.hayneedle.com.
-  * When we say 'Jet Sites', we mean [www.jet.com](https://jet.com/), the Jet.com apps, and all related services, content, functionality, and transactions offered by Jet on or through [www.jet.com](https://jet.com/) and the Jet.com apps.
+  * When we say **'Jet'** , we mean Jet.com, Inc. and any subsidiaries and affiliates of Jet (including any that Jet may form or acquire in the future). We also refer to Jet as 'we', 'us' or 'our' - we hope this Privacy Notice reads better that way. Notwithstanding the foregoing, 'Jet' does not include Hayneedle, Inc., which is governed by the privacy policy located at www.hayneedle.com.
+  * When we say **'Jet Sites'** , we mean [www.jet.com](https://jet.com/), the Jet.com apps, and all related services, content, functionality, and transactions offered by Jet on or through [www.jet.com](https://jet.com/) and the Jet.com apps. Jet Sites do not include the websites of our affiliates, including without limitation www.hayneedle.com, which website is governed by their respective terms of use.
   * When we say “you” or “your” we mean users of the Jet Sites (like you!).
 
 
 
 If you have any questions or comments about this Privacy Notice, or if you would like us to update your information, please contact us at [privacy@jet.com](mailto:privacy@jet.com) or Jet.com, Inc., Attention: Privacy, 221 River Street, 8th Floor, Hoboken, NJ 07030.
 
-## Information We Collect and How We Collect It
+Information We Collect and How We Collect It
 
 ### Information You Provide Directly to Us
 
 You provide information to us when you interact with the Jet Sites, including when you join our mailing list, create an account, place an order on Jet, contact us (via email, telephone, or otherwise), respond to a survey or questionnaire, or enter a contest, sweepstakes, or other promotion sponsored by us. The information you provide to us may include:
+
+### In this Privacy Notice:
 
   * Your contact and shipping information, such as your name, address, telephone number, and email address
   * Your payment information (for example, credit card, banking and/or payment details, banking and your billing address)
@@ -34,9 +36,9 @@ When you interact with Jet using an external social network (for example, your F
 
 When you use the Jet Sites, we and third parties may collect certain information by automated means, using technologies such as cookies, Web server logs, Web beacons, JavaScript, and components of our apps. We may tie this information to personal information about you that we collect from other sources or that you provide to us.
 
-## Cookies
+### Cookies
 
-Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Without cookies, you may not be able to use all of the features of the Jet Sites. 
+Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Without cookies, you may not be able to use all the features of the Jet Sites. 
 
 The Jet Sites may use HTTP cookies, HTML5 cookies, Flash cookies, and other types of local storage (such as browser-based or plugin-based local storage). Your browser may allow you to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash Website Storage Settings Manager by following Adobe's instructions [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) (instruction vary depending on your operating system and version of Flash).
 
@@ -68,7 +70,7 @@ We may use the information you provide directly to us and information we collect
 
 
 
-We use third-party Web analytics services, such as those of Google Analytics and Atlas, to help us analyze how users use the Jet Sites. These service providers use cookies and other automated technologies to collect information about you when you visit the Jet Sites. Learn about Google Analytics and its opt-out choices [here.](https://tools.google.com/dlpage/gaoptout)
+We use third-party Web analytics services, such as those of Google Analytics and Atlas, to help us analyze how users use the Jet Sites. These service providers use cookies and other automated technologies to collect information about you when you visit the Jet Sites. Learn about Google Analytics and its opt-out choices [ here](https://tools.google.com/dlpage/gaoptout).
 
 The ad services we use to collect information from you may track your online activities over time and across websites. If we use a third party to collect this information, they may use this information to show you advertisements for Jet or others that are tailored to your individual interests or characteristics and/or based on prior visits to our Sites. We and third-party vendors may use these cookies together, and may combine them with other data we collect from you, (1) to inform, optimize, and serve ads (including ads based on past visits to the Jet Sites) and (2) to report on our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services (including how they are related to visits to the Jet Sites). To learn more about interest-based advertising generally, including how to opt out from the targeting of interest-based ads by some of our current ad service partners, [click here](http://www.aboutads.info/choices).
 
@@ -92,7 +94,7 @@ Third parties may collect personal information about your online activities over
 
 ### Your Choices
 
-If you would like to update or modify your personal information, you may contact us as described in the How To Contact Us section below or, where applicable on certain Jet Sites, you may make these choices directly by logging into your account. You may unsubscribe from any of our promotional emails by clicking on the “unsubscribe” link at the bottom of any promotional email you receive from us.
+If you would like to update or modify your personal information, you may contact us as described in the  How To Contact Us  section below or, where applicable on certain Jet Sites, you may make these choices directly by logging into your account. You may unsubscribe from any of our promotional emails by clicking on the “unsubscribe” link at the bottom of any promotional email you receive from us.
 
 ### Information Security
 
@@ -101,9 +103,9 @@ We take many steps to protect your information, but we can’t promise that our 
 But we do ask you to please help protect your information. There are a number of things you can do, such as:
 
 1\. Using a unique password for the Jet Sites that never has or will be used anywhere else - please think up a new one that you never used before, and please only use that password with us;  
-2\. Protecting the confidentiality of your login information - don’t give your username or password to anyone, anywhere, anytime;  
+2\. Protecting the confidentiality of your login information- don’t give your username or password to anyone, anywhere, anytime;  
 3\. Accessing the Jet Sites only from devices that have an up-to-date operating system and up-to-date security software (this makes the Jet Sites work better anyway); and  
-4\. Notifying us of any suspected unauthorized activity by emailing us at privacy@jet.com.  
+4\. Notifying us of any suspected unauthorized activity by emailing us at [ privacy@jet.com](mailto:privacy@jet.com).  
 
 
 Taking these steps will not guarantee security but may help lower the risk or impact of certain security threats. For further information about protecting your security, visit <http://www.consumer.ftc.gov/topics/computer-security>.
@@ -115,6 +117,10 @@ The Jet Sites may provide links to other third party websites and online service
 ### Updates to Our Privacy Notice
 
 We may update this Privacy Notice periodically to reflect changes in our practices or relevant laws as we grow. (We’re still a pretty new company, after all!) To notify you of any changes that we make, we will post the updated version on [www.jet.com](http://www.jet.com/) and indicate at the top of the Privacy Notice when it was last updated.
+
+###  Your Privacy Rights (For California Users)
+
+California's "Shine the Light" law, Cal. Civil Code section 1798.83, requires certain businesses to respond to California customers' inquiries about the categories of personal information that are shared for third parties’ direct marketing purposes, over the prior calendar year. We share personal information with our corporate affiliates, including Walmart and Hayneedle. You may send those inquiries to us by email, at [shinethelight@Jet.com](mailto:shinethelight@Jet.com), to learn the categories of personal information that we may have shared during the prior calendar year.
 
 ### How to Contact Us
 
