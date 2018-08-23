@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chunkbase.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123339id_/http%3A//chunkbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chunkbase.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823142906id_/http%3A//chunkbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,16 +23,6 @@ We use this to understand how the site is being used in order to improve the use
 **Disqus**
 
 This is a tool we use on the website to enable users to add comments to articles. Find out more about the cookies used by Disqus and their privacy policy here: [](http://docs.disqus.com/help/30/)<http://docs.disqus.com/help/30/> and [](http://docs.disqus.com/help/26/)<http://docs.disqus.com/help/26/>
-
-**Social buttons**
-
-On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, and Facebook ‘Like’. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our own website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on our website. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting our website, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
-
-  * Twitter: [](http://twitter.com/privacy)<http://twitter.com/privacy>
-  * Google: [](http://www.google.com/policies/privacy/partners/)<http://www.google.com/policies/privacy/partners/>
-  * Facebook: [](https://www.facebook.com/policy.php)<https://www.facebook.com/policy.php>
-
-
 
 **DoubleClick DART Cookie**
 
