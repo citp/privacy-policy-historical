@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatmlmbeat.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206080233id_/http%3A//thatmlmbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatmlmbeat.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823040018id_/http%3A//thatmlmbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - thatMLMbeat - MLM Company News, TIps and Training
 
