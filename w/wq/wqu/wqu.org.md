@@ -1,103 +1,106 @@
-> *The following text is extracted and transformed from the wqu.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230202915id_/http%3A//www.chowcow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqu.org privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823124401id_/https%3A//wqu.org/privacy_policy) for the most accurate reproduction.*
 
-# Chowcow.Com - Privacy Policy
+# WorldQuant University | Tuition-Free Financial Engineering MSc
 
-###  Welcome
+## WorldQuant University Web Site Privacy Policy
 
-Welcome to the Chowcow.com Privacy Policy page. Chowcow.com is brought to you by Click Busy Media, Inc.
+The Web Site (the “Web Site”) located at www.wqu.org, is published and maintained by WorldQuant University (“we,” “us,” “our,” or other similar pronouns).
 
-###  Summary
+This Privacy Policy explains, in general, what Personal Information (as defined below) is collected on the Web Site, how the information is used, and with whom we may share such information. By visiting the Web Site, and/or using any capability, software or service that may be made available through the Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Web Site Terms of Use and any Agreement posted by us with respect to any capability, software or service that may be made available through the Web Site, which also governs your use of the Web Site and such other capability, software or service in general. This Privacy Policy does not apply (i) to information that you may provide to us, or that we may obtain, other than through the Web Site or such capability, software or service, such as by phone, through postal mail and through other live and print media or (ii) to information that is not Personal Information.
 
-Our Privacy Policy explains how we use personal information submitted by you through our website. This Privacy Policy applies solely to the Chowcow.com website. It does not apply to any third party websites that you may visit through a link you find on Chowcow.com. 
+##### 1\. Purpose
 
-By accepting the Privacy Policy during the account creation process, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on May 25, 2010.
+Your privacy is important to us. In order to make your visits to the Web Site and use of any capability, software or service that may be made available through the Web Site as worthwhile as possible, we may ask you for Personal Information and we may collect certain information from your computer when you visit us.
 
-**Data Capture**
+##### 2\. Personal Information
 
-You can browse Chowcow.com and view listings without providing us with any of your personal information. If you choose to become a [Registered User](https://web.archive.org/web/20111230202915id_/http%3A//create_account.php), the personal information you provide us will be stored on our servers located in the United States. By becoming a Registered Member of our website, you hereby consent to the storage of such information.
+“Personal Information” is information that can be used to identify, locate, or contact an individual, including, for example, the individual’s name, postal address, e-mail address, telephone, wireless and/or fax number, demographic information, employment or education-related information, and/or other information that may identify the individual or allow online or offline contact with him/her. It also includes other information to the extent that it is associated with Personal Information.
 
-**The Information We Collect**
+##### 3\. Sharing of Directory Information and Educational Records
 
-  1. Your first and last name, your physical address (should you choose to provide it), your email address, your gender and your age (should you choose to provide them).
-  2. If you sign up for one of our paid services (i.e. [Job Listings](https://web.archive.org/web/20111230202915id_/http%3A//jobs.php)), we may also store your financial information, including your credit card number and billing address.
-  3. We may also collect transactional information based on your activities which may include your posts and listings, content, and feedback.
-  4. We collect information from your interaction with Chowcow.com, use of our services, and your response to content and advertising.
-  5. We further gather browser and connection information, page view stats, inbound and outbound traffic stats, IP addresses and standard web log information;
+We follow the guidelines of the Family Educational Rights and Privacy Act (FERPA). Under FERPA, directory information may be shared to third parties. Directory information includes, name, address, program, dates of attendance, graduation date, and award received. Beyond the directory information, we will not disclose applicants’ or students’ education records without obtaining your prior written consent, except in certain instances where an applicant’s or student's educational records may be disclosed to school administrators with a legitimate interest, including third-parties under contract to provide professional services related to our mission. If you want more information, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
+##### 4\. What Personal Information is Collected on the Web Site?
 
+Personal Information is collected as part of the application process on the Website. Personal Information includes, but is not limited to, family name, given name, address, email, phone number, along with education and employment details to determine program eligibility. Additionally, we collect certain information by automated or electronic means, using technologies such as cookies, pixel tags and web beacons, browser analysis tools, and web server logs (“Web Site Usage Information”).
 
-**How We Use the Information We Collect**
+##### 5\. User-Provided Personal Information
 
-We collect personal information primarily to protect your safety and the safety of others using our website. In an effort to prevent fraud and scams, we want to make sure that our Registered Users are not anonymous to us. In addition, we use your information to continually improve Chowcow.com and the quality of the services we provide you.
+We collect Personal Information from users of the Web Site and persons who register for use of or who access or use any capability, software or service that may be made available through the Web Site, through such users’ activities, submission of information or materials or completion of online forms on the Web Site and/or registration for use of or access or use of any such capability, software or service, including, for example, when users submit an application on the Web Site, and/or other information or materials on or through the Web Site or such other capability, software or service, send us an e-mail, or in any other way submit Personal Information to us via the Web Site.
 
-You hereby concent to our use of your personal information to:
+##### 6\. How is the Personal Information used?
 
-  1. Provide you with the support and services you request.
-  2. Protect your safety and the safety of others usinc Chowcow.com.
-  3. Prevent fraud, scams, and to respolve disputes.
-  4. Prevent prohibited and illegal activities and uphold the law.
-  5. Enforce our [Terms of Use](https://web.archive.org/web/20111230202915id_/http%3A//terms.php) and Intellectual Property Policies.
-  6. Improve our services, content, and advertising.
-  7. Inform you about our services, sister companies, and updates to our services.
-  8. Offer you occassional promos and discounts (if you have authorized use to do so); and
-  9. Comply with laws and regulations.
+We may use your Personal Information
+
+  * to operate, maintain or improve the Web Site, any capability, software or service that may be made available through the Web Site or our business;
+  * to respond to your requests or inquiries;
+  * to determine your eligibility for admission;
+  * to support auditing, legal or compliance functions;
+  * to contact you and evaluate you in connection therewith; and/or
+  * to maintain our internal record keeping.
 
 
 
-###  Disclosure of Your Information
+We may also link this information with other information that you provide to us or that we obtain from other sources and Web Site Usage Information (as defined below). We may analyze user behavior as a measure of interest in, and use of, the Web Site and/or any capability, software or service that may be made available through the Web Site and e-mails, both on an individual basis and in the aggregate.
 
-We may disclose your personal information when required by law, to enforce our terms of use and policies, respond to claims of fraud or scams, to protect anyone's rights, property, or safety. If required, your information will only be disclosed in accordance with applicable laws and regulations.
+##### 7\. Do we share Personal Information and Web Site Usage information with others?
 
-**Other Uses of Your Information**
+As stated above, we follow the guidelines of the Family Educational Rights and Privacy Act (FERPA).
 
-We may also use your personal information in the following manners:
+Web Site Usage Information is not considered an educational record and may be shared with third parties to operate the Web Site or to understand and optimize its usage patterns.
 
-  1. Provide such information to service providers that assist us with the operation of Chowcow.com for purposes such as collections, fraud investigation, and compliance with regulations and laws.
-  2. Law enforcement, regulatory agencies, or other government agencies in response to court orders, subpoenas, or similar legal obligation, pretaining to criminal investigations, illegal activity, or civil matters. We will only share your information with government agencies when required to do so by one of the aforementioned methods, unless we, in our sole and absolute discretion, feel that the disclosure of your information is necessary to prevent harm or financial loss to anyone or to report suspected illegal activity conducted by you.
-  3. Entities or organizations that we may merge with or that may acquire our business.
+##### 8\. Service Providers
 
+We may use third-party partners to help operate the Web Site and/or any capability, software or service that may be made available through the Web Site, and may share your information with our affiliates and related entities, service providers and other third parties that provide products or services for or through the Web Site and/or any capability, software or service that may be made available through the Web Site or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).
 
+##### 9\. Cookies and Related Technologies and Web Site Usage Information
 
-###  No Solicitation 
+When you use the Web Site and/or any capability, software or service that may be made available through the Web Site, we collect Web Site Usage Information. As you use the Web Site and/or any such capability, software or service, your browser and devices communicate with servers operated by us and services providers to coordinate and record the interactivity and fill your requests for services and information. The information from cookies and related technology is stored in web server logs and also in web cookies kept on your computers or mobile devices, which are then transmitted back to us by your computers or mobile devices. These servers are operated and the cookies managed by us, our business partners or our service providers. For example, when you access the Web Site and/or any such capability, software or service, we and our service providers may place cookies on your computers or mobile devices. Cookies allow us to recognize you when you return so you will not be required to register again for use of the same and track your use of the Web Site and/or any such capability, software or service. They also help us to detect certain kinds of fraud. A “cookie” is a small amount of information that a web server sends to your browser that stores information about your registration and your use of the Web Site and/or any such capability, software or service. Some cookies contain numbers that allow us to connect the Web Site and/or any such capability, software or service activity with other information we store about you in your profile or as related to your interactions with the Web Site and/or any such capability, software or service. Some cookies are temporary, whereas others may be configured to last longer. “Session” cookies are temporary cookies used for various reasons, such as to manage page views. Your browser usually erases session cookies once you exit your browser. “Persistent” cookies are more permanent cookies that are stored on your computers or mobile devices even beyond when you exit your browser. We use persistent cookies for a number of purposes, such as retrieving certain information you have previously provided and storing such information.
 
-We don't sell or rent your personal information to third parties for solicitation purposes without your written consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and website performance. 
+Pixel tags and web beacons are tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions. When you access these pages or open email messages, the pixel tags and web beacons generate a notice of that action to us or our service providers. These tools allow us to measure response to our communications and improve the Web Site and/or any such capability, software or service.
 
-**Public Information**
+We collect many different types of Web Site Usage Information. For example, we may collect information from the devices you use to access the Web Site and/or any capability, software or service that may be made available through the Web Site, your operating system type or mobile device model, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone of your device. Browsers routinely send these types of information to web servers. Our server logs also record the Internet Protocol (“IP”) addresses of the devices you use to interact with the Web Site and/or any such capability, software or service. An IP address is a unique identifier that devices use to identify and communicate with each other on the Internet.
 
-Your User Name on Chowcow.com is public information. Your User Name is displayed on all of your listings and throughout the website. As such, if you use your real name as your User Name, anyone who knows your real name will be able to track your listings and activities on Chowcow.com. We recommend that you do not use your real name for your User Name. 
+In many cases, the information we collect using cookies and other tools is used in non-identifiable ways, without any reference to Personal Information. For example, we use information we collect about users of the Web Site and/or any such capability, software or service to optimize same and understand its usage patterns. In other cases, we may associate the information we collect using cookies and related technologies with Personal Information. In that case, this Privacy Statement governs how we use that information.
 
-When creating a listing, any information you put in the "Listing Details" section of your ad is public information. As such, if you choose to put your contact phone number or email address, such information will become accessible by anyone using or visiting Chowcow.com. 
+##### 10\. Aggregate Statistics
 
-If you choose to place any personal information in the "Listing Details" section, you hereby agree to release Chowcow.com and Click Busy Media, Inc., including our officers, agents, subsidiaries, affiliates and employees harmless for any misuse or abuse of such information. 
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, the Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
 
-Our system has an internal communication tool that is automatically added to every listing and activated by clicking on the "Contact Lister" link on top of each ad. Users who wish to contact you can use this system to email you without ever seeing your email address. When you respond to them, however, your email address WILL be visible to them and they will be able to contact out outside of the Chowcow.com system. 
+##### 11\. Legally Compelled Disclosures
 
-**No Tolerance Policy**  
- 
+We may disclose Personal Information to government authorities, and to other third parties when compelled to do so by government authorities or regulators, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas, regulator requests or to enforce our legal rights or agreements with you or others. We also may disclose Personal Information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities.
 
-Chowcow.com has a strict No Tolerance Policy for Spam and Spoofing. If you spam or spoof using Chowcow.com, your account will immediately be terminated without notice to you. You are strictly prohibited from adding Users, even those who have made purchases from you, to your physical or digital mailing lists without the prior written approval of that User.  If you are a Chowcow.com user and another user is sending you Spam or Spoofing, you should immediately report such user by sending an email to [spam@chowcow.com](mailto:spam@chowcow.com?subject=Spam%20Issue%20Report).
+##### 12\. Business Transfer
 
-**Account Security and Your Password**
+In the event that we, or substantially all of our assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.
 
-You must protect your Password at all times. Anyone who has access to your password, has complete access to your account and personal information. We strongly recommend that you carefully choose your Password using a combination of upper and lower case letters and numbers. 
+##### 13\. Security
 
-We advise you not to share your Password with anyone. If you do share your Password with third parties, you hereby agree that you are fully responsible for any and all actions taken by such person(s) using your account. Granting third parties access to your Password gives them the ability to access, change, use, misuse, or abuse your information or commit fraud, which may subject you to liability and legal issues. 
+While we will endeavor to protect the security and integrity of sensitive Personal Information provided to the Web Site and/or any capability, software or service that may be made available through the Web Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information will be absolutely safe from intrusion by others, such as hackers, during transmission through the Internet or while stored on our system or otherwise in our care.
 
-If at anytime your Password becomes jeopardized, or you think it may have been jeopardized, please notify us by emailing [security@chowcow.com](mailto:security@chowcow.com?subject=Security%20Issue%20Report) and change your Password immediately. 
+If you contact us by e-mail or a “contact us” or similar feature on the Web Site and/or any capability, software or service that may be made available through the Web Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
 
-**Modifying or Deleting Your Account**
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification.
 
-For security reasons, Chowcow.com cannot modify your personal information for you. If you want to modify your personal (account) information, you must log in to your account, click on "Edit Profile," and make the changes yourself. 
+##### 14\. Consent to Worldwide Transfer and Processing of Personal Data
 
-You are required to keep your personal and contact information current at all times. Chowcow.com may send you occasional emails to make sure that your contact information is current. 
+By providing Personal Information to us through the Web Site and/or when you register for use of or use any capability, software or service that may be made available through the Web Site, you understand that it may be used by us and our affiliates for the purposes described herein, and you further understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, which may have different privacy laws from your country of residence and which may afford varying levels of protection for your Personal Information, and such laws may not be as comprehensive as those that exist in your country or residency (including for example, the European Economic Area). Regardless of the laws in place in these countries, we will treat the privacy of your information in accordance with this Privacy Policy. By providing your personally identifiable information to the Web Site, you consent to our transmission to, and processing of your information in, any jurisdiction, in accordance with this Privacy Policy.
 
-If you wish to delete your account with Chowcow.com, you may do so by sending our Membership Department an email to [membership@chowcow.com](mailto:membership@chowcow.com?subject=Membership%20Inquiry). Within a reasonable timeframe, we will remove your account from our viewable system but will retain your personal information solely for legal compliance reasons and to prevent fraud, resolve disputes, collect unpaid balances, and enforce our Terms of Use and legal rights. 
+##### 15\. Privacy Policies of Third Party Websites
 
-**Disclaimer**
+This Privacy Policy only addresses the use and disclosure of Personal Information we collect from you. Other websites that may be accessible through the Web Site have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you to review its privacy policy. We are not responsible for the policies or practices of third parties.
 
-We go to great lengths to protect your private information. We use security tools and take all the necessary steps to insure that your information is not jeopardized. However, third parties may be able to unlawfully access our servers and your information by using criminal tactics to hack into our system. As such, by using Chowcow.com, you indicate that you understand and agree that we do not promise that your private information will never be jeopardized. 
+##### 16\. Children
 
-**Amendments to Privacy Policy**  
- 
+Minors under the age of 18 may not use the Web Site. We do not collect or maintain information from anyone known to be under the age of 13, and no part of the Web Site is designed to attract anyone under the age of 13.
 
-We may amend this Privacy Policy at any without notice to you. Amended terms take effect immediately. If your questions are not answered online, you may contact us by mailing your correspondence to Click Busy Media, Inc., Privacy Department, 25061 Avenue Stanford, Suite 30, Valencia, CA 91355. You can also send us an email at anytime by [clicking here](mailto:privacy@chowcow.com?subject=Privacy%20Policy%20Inquiry).
+##### 17\. Changes to this Privacy Policy
+
+We reserve the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of the Web Site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to the Web Site. Under certain circumstances, we may also elect to notify you of any changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of the Web Site to sending you an email.
+
+##### 18\. Contact Us
+
+If you have any questions or comments regarding our privacy practices, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Effective Date: Mar 9, 2014
