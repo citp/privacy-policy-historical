@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the theinnerbeast.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623170902id_/http%3A//theinnerbeast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinnerbeast.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823110816id_/http%3A//theinnerbeast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Inner Beast
 
 ### 1\. INTRODUCTION
 
-**1.1. PURPOSE OF POLICY.**  The Inner Beast (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of The Inner Beast (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+**1.1. PURPOSE OF POLICY.**  The Inner Beast (“us”, “we,” “Company”) is committed to respecting the data privacy rights of visitors and other users of The Inner Beast (the “Site”).
+
+We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 **1.2. NOTICE CONCERNING CHILDREN**
 
@@ -14,21 +16,25 @@ PLEASE NOTE: We are a general audience site, and do not direct any of our conten
 
 **2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
 
-In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site.
+In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site. We require this information in order to be able to communicate with you e.g. to reply to any queries you might have.
 
 **2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). The Site may also gather anonymous “traffic data” that does not personally identify you. This information is gathered for  marketing purposes and to  improve the services we offer to you.
 
-(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
+(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics.
 
-(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us.
+We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
+
+(c) SPONSORS AND ADVERTISERS. We may use cookies to deliver content, including ads, relevant to your interests on our and third party sites based on how you interact with our advertisements or content. We have set out further information about the use of cookies by our Ad Network partners below.
+
+Your use of our site indicates your consent to such use of cookies.
 
 **2.3. GDPR Compliance**
 
-(a) Our data collection process is based upon Web Analytics, this data collection process may include anonymous, individual visitor click behavior. However, no personally identifiable information is obtained or shared with the Web Analytics company. Partners that may obtain this anonymous information are Google Analytics, Google AdSene, Taboola, Revcontent and Sulvo. Our Policies are in compliance with the updated General Data Protection Regulations applied by the European Union.
+(a) Our data collection process is based upon Web Analytics, this data collection process may include anonymous, individual visitor click behavior. However, no personally identifiable information is obtained or shared with the Web Analytics company. Partners that may obtain this anonymous information are Google Analytics, Google AdSense, Taboola, Revcontent and Sulvo. Our Policies are in compliance with the updated General Data Protection Regulations applied by the European Union.
 
-(b) In depth information can be found here [GDPR](https://gdpr-info.eu/). To unsubscribe from data collection services please visit this [Google](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008)
+(b) In depth information can be found here [GDPR](https://gdpr-info.eu/). To unsubscribe from data collection services please visit this [Google](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008)
 
 ### 3\. USE AND SHARING OF INFORMATION
 
