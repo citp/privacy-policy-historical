@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolquzz.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807111359id_/http%3A//coolquzz.com/terms/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolquzz.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823051135id_/http%3A//coolquzz.com/terms/privacyPolicy) for the most accurate reproduction.*
 
-# Cool Quzz
+# Cool Quzz Psychological Test
 
 1\. General
 
