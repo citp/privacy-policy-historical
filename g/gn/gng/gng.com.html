@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the gng.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231185717id_/https%3A//gng.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gng.com privacy policy that was archived on 2018-08-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180823033735id_/https%3A//gng.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3">
@@ -11,6 +11,7 @@
 
     
     <title>Privacy Policy | Georgia Natural Gas®</title>
+    <base href="/">
         <meta name="description" content="View the Privacy Policy of GNG.com. Georgia Natural Gas® is the Leading Provider of Natural Gas for Atlanta and Most of Georgia.">
         <link rel="canonical" href="https://gng.com/privacy">
 
@@ -18,23 +19,15 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="https://gng.com/favicon.ico" type="image/vnd.microsoft.icon">
 
-    <link href="/css/gng.css" rel="stylesheet">
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6ZS9"></script><script src="/js/jquery-1.12.3.min.js"></script>
-    <!-- <script src="<//?= CTX . 'js/bootstrap-3.3.6.min.js' ?>"></script> -->
-    <script src="/js/main.js"></script>
-    <!--[if lte IE 9]>
-      <script src="/js/ie9.js"></script>
-    <![endif]-->
+    <link href="/css/gng.css?v=02" rel="stylesheet">
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
 
-
-</head>
-
-<body>
-
+    <link rel="stylesheet" type="text/css" href="/css/angular-moment-picker.min.css">
+    <!-- GA: gng.com  -->
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-6ZS9"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1092897997"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6ZS9"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -54,77 +47,130 @@
 </script>
 <!-- End Google Analytics -->
 
-<div class="header">
+    <script src="/js/jquery-1.12.3.min.js"></script>
+
     <script type="application/javascript">
-        LOGIN = {
-            result : {},
-            mygngLogin : function() {
-                //alert("Login Attempt");
-                var form = $('#mygng_login');
-                var loginName = form.find('input[name="/loginName"]').val();
-                var password = form.find('input[name="/password"]').val();
-                var upload = { f: 'login', loginName: loginName, password: password };
-                $.ajax({ method: 'POST', url: '/api', data: upload })
-                    .done(function(resp) {
-                        LOGIN.result = resp;
-                        if(LOGIN.result.success) {
-                            $('.login-error').removeClass("show");
-                            $('#mygng_login').unbind('submit');
-                            setTimeout(function() { document.getElementById('mygng_login').submit(); }, 200);
-                        } else {
-                            $('.login-error').addClass("show");
-                        }
-                    });
-                return false;
+      APP  = {
+        plans: {"MVS":{"name":"Variable Select","content":"No deposits, no long-term contract, no cancellation fees. Enjoy the flexibility of our standard variable price plan. The monthly price per therm may change or remain the same depending on market conditions.","link":"Additional Information","additional":["GNG Signature Service Charge of only $0.99 per month.","Lasts for 12 months, but you can cancel at any time.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>3.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>6.99 \/mo.","CSC is based on credit criteria and payment history.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","variable"],"ppt":"1.269"},"CSV":{"name":"Variable Select w\/ Price Protection Guarantee","content":"Protect yourself from potentially rising natural gas rates with our Price Protection Guarantee for just 99\u00a2\/mo.","link":"Additional Information","additional":["Ideal if you value flexibility and the freedom of not being under a long-term contract with your natural gas provider.","Add our Price Protection Guarantee for just 99\u00a2\/mo.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>3.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>6.99 \/mo.","CSC is based on credit criteria and payment history.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","lp_prices","rate","variable","featured"],"ppt":"1.269"},"CVS":{"name":"Commercial Variable Select","content":"No long-term contract and no cancellation fees. Enjoy the flexibility of our variable price plan. The monthly price per therm may change or remain the same depending on market conditions.","link":"Additional Information","additional":["GNG Signature Service Charge of only $1.99 per month.","Lasts for 12 months, but you can cancel at any time.","Plus <span class=\"dollar-symbol\">&#36;<\/span>8.50 per DDDC.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>6.95 \/mo.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","business","variable"],"ppt":"1.269"},"CCV":{"name":"Commercial Variable Select w\/ Price Protection Guarantee","content":"Protect yourself from rising natural gas rates with our Price Protection Guarantee for just 1.99\u00a2\/mo.","link":"Additional Information","additional":["Ideal if you use at least 1,000 therms per year (but no minimum usage is required to enroll).","Plus <span class=\"dollar-symbol\">&#36;<\/span>8.50 per DDDC.","Customer Service Charge (CSC): <span class=\"dollar-symbol\">&#36;<\/span>6.95 \/mo.","CSC is based on credit criteria and payment history."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","business","variable"],"ppt":"1.269"},"MI":{"id":"MI","name":"Market Intro Plan","content":"New customers enjoy our lowest rate and no Customer Service Charge for the first two months.\u00a0After two months, you will be billed under the Variable Select plan with the option to change plans at any time.","link":"Additional Information","additional":["Available only for qualified new GNG customers.","Customer Service Charge (CSC) range: 00<span class=\"cent-symbol\">&cent;<\/span> \/mo.","CSC is based on credit criteria and payment history.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","variable","movers","lp_prices"],"ppt":"0.399"},"RGB":{"name":"Guaranteed Bill Plan","content":"Pay the same bill amount every month, regardless of changes in weather or natural gas prices. It\u2019s a weatherproof plan designed for peace of mind.","link":"Additional Information","additional":["Ideal if you are on a fixed budget and\/or do not like surprises in your monthly natural gas bill.","Your Guaranteed Bill amount is premises and customer specific, and includes AGLC Base Charge, Customer Service Charge (CSC), all per-therm Gas Charges, and ,if applicable, the Interstate Capacity Charge. Amount may be prorated if the service period falls outside of the standard 27-33 day service period. This amount does not include taxes or one-time charges such as connection or late charges.","If a customer terminates the Guaranteed Bill Plan before the end of the agreement, an early termination charge may apply. The current early termination charge for customers who sign up on the 12-month Guaranteed Bill Plan is <span class=\"dollar-symbol\">&#36;<\/span>150 if cancelled during the first 6 months, and <span class=\"dollar-symbol\">&#36;<\/span>75 if cancelled during the last 6 months.","<a target=\"_blank\" href=\"\/faq#guaranteedbill\">Guaranteed Bill FAQ &raquo;<\/a>"],"show_cta":true,"button_text":"get my free estimate","cta":"shop-for-service\/guaranteedbill","add_class":"","image":"img\/content\/gbp-seal-md.png","filters":["all","residential","rate","featured","lp_retention","lp_anv_mychoice17"],"ppt":null},"GB6":{"name":"Winter Guaranteed Bill Plan","content":"Pay the same bill amount every month regardless of unpredictable winter weather or changing natural gas prices. This 6 month version of our Guaranteed Bill plan is available for a limited time only.","link":"Additional Information","additional":["Ideal if you are on a fixed budget and\/or do not like surprises in your monthly natural gas bill.","Your Guaranteed Bill amount is premises and customer specific, and includes AGLC Base Charge, Customer Service Charge (CSC): all per \/mo.-therm Gas Charges, and if applicable the Interstate Capacity Charge. Amount may be prorated if the service period falls outside of the standard 27-33 day service period. This amount does not include taxes or one-time charges such as connection or late charges.","The early termination charge for customers who sign up the Winter Guaranteed Bill plan is $75","<a target=\"_blank\" href=\"\/faq#guaranteedbill\">Guaranteed Bill FAQ &raquo;<\/a>"],"show_cta":true,"button_text":"get my free estimate","cta":"shop-for-service\/guaranteedbill","add_class":"","image":"img\/content\/winter_shield.png","filters":[],"ppt":null},"CMI":{"name":"Commercial Market Intro","content":"New customers enjoy our lowest rate and no Customer Service Charge for the first two months.\u00a0After two months, you will be billed at the Variable Select rate with the option to change plans at any time.","link":"Additional Information","additional":["Available only for new GNG customers.","Customer Service Charge (CSC): 00<span class=\"cent-symbol\">&cent;<\/span> \/mo.","CSC is based on credit criteria and payment history."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","business"],"ppt":"0.399"},"CGB":{"name":"Commercial Guaranteed Bill Plan","content":"Pay the same bill amount every month, regardless of changes in weather or natural gas prices. It\u2019s a weatherproof plan designed for peace of mind.","link":"Additional Information","additional":["Ideal if you are on a fixed budget and\/or do not like surprises in your monthly natural gas bill.","Your Guaranteed Bill amount is premises and customer specific, and includes AGLC Base Charge, Customer Service Charge (CSC), all per-therm Gas Charges, and ,if applicable, the Interstate Capacity Charge. Amount may be prorated if the service period falls outside of the standard 27-33 day service period. This amount does not include taxes or one-time charges such as connection or late charges","If a customer terminates the Guaranteed Bill Plan before the end of the agreement, an early termination charge may apply. The current early termination charge for customers who sign up on the 12-month Guaranteed Bill Plan is <span class=\"dollar-symbol\">&#36;<\/span>150 if cancelled during the first 6 months, and <span class=\"dollar-symbol\">&#36;<\/span>75 if cancelled during the last 6 months.","<a target=\"_blank\" href=\"\/faq#guaranteedbill\">Guaranteed Bill FAQ &raquo;<\/a>"],"show_cta":true,"button_text":"get my free estimate","cta":"shop-for-service\/guaranteedbill","add_class":"","image":"img\/content\/gbp-seal-md.png","filters":["all","business"],"ppt":null},"GPP":{"name":"12-Month Fixed Plan","content":"Lock in your rate and enjoy knowing your rate will remain the same for an entire year. We will send you a reminder before your contract is up so you can choose the plan that works best for you.","link":"Additional Information","additional":["Ideal if you are not moving over the next 12 months and want the peace of mind that comes with locking in a fixed rate.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>5.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>8.99 \/mo.","CSC is based on credit criteria and payment history.","Early Termination Charge: $100 during first half of agreement, $50 during second half."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","fixed","featured","movers","lp_prices","lp_retention","lp_anv_mychoice17"],"ppt":"0.569"},"RF6":{"name":"6-Month Fixed Plan","content":"The shortest of our fixed rate gas plans so we\u2019ll keep this brief: get service so great you\u2019ll be back for more. We\u2019ll send you a reminder before your contract is up.","link":"Additional Information","additional":["Ideal if you are moving soon, need a temporary solution or just want to keep your options open.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>4.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>7.99 \/mo.","CSC is based on credit criteria and payment history.","Early Termination Charge: $50."],"show_cta":true,"button_text":"sign up","cta":"","add_class":"","image":"","filters":["all","residential","rate","fixed","featured","movers","lp_prices","lp_retention","lp_anv_mychoice17"],"ppt":"0.579"},"18M":{"name":"18-Month Fixed Plan","content":"Set your rate and forget about it because it is not changing for a solid year and a half. Not to worry, we will send you a reminder before your contract is up.","link":"Additional Information","additional":["Ideal if you like to play it safe and want the convenience of locking in your natural gas rate for a longer term.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>6.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>9.99 \/mo.","CSC is based on credit criteria and payment history.","Early Termination Charge: $150 in the first 6 months of the plan, $100 in the second 6 months and $50 in the final 6 months."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","fixed","featured","movers","lp_prices","lp_retention","lp_anv_mychoice17"],"ppt":"0.599"},"PRP":{"name":"Pre-Pay Plan","content":"Our Pre-Pay Plan may be a great option for anyone on a budget or who has credit challenges.","link":"Additional Information","additional":["The Pre-Pay Plan requires that new customers simply pay in advance for the expected costs of the gas service, and GNG will adjust the amount owed on the next bill once the gas meter is read and the actual gas usage for the billing period is known.","Customer Service Charge (CSC): <span class=\"dollar-symbol\">&#36;<\/span>8.99.","No deposit required but customer must make initial payment before service begins."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","prepay"],"ppt":"1.349"},"TRD":{"name":"Volume Discount","content":"Tier 1 rate (1-74 therms in billing cycle) is guaranteed to be no higher than our Variable Select rate. Tier 2 rate (75+ therms in billing cycle) is guaranteed to be at least $0.10 per therm lower than Tier 1 rate.","link":"Additional Information","additional":["Ideal if you use at least 1,000 therms per year (but no minimum usage is required to enroll).","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>5.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>8.99 \/mo.","CSC is based on credit criteria and payment history.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","variable"],"ppt":["1.269","1.169"]},"MVS_2":{"name":"Senior Discount","content":"A specially discounted variable select plan just for Seniors.","link":"Additional Information","additional":["Eligibility based on age and income qualification.","Available to customers 65 years of age or older and have a total annual combined gross income of $14,355 or less.","Download and submit the <a href=\"\/downloads\/Senior-Discount-Form.pdf\">Senior Discount Application<\/a> to apply.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>3.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>6.99 \/mo.","CSC is based on credit criteria and payment history.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","variable"],"ppt":"1.169"},"MAP":{"name":"Market Advantage","content":"Per-therm rate guaranteed to be at least $0.05 per therm lower than our Variable Select rate.","link":"Additional Information","additional":["Ideal if you want to keep your options open.","Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>4.99 &mdash; <span class=\"dollar-symbol\">&#36;<\/span>7.99 \/mo.","CSC is based on credit criteria and payment history.","Not available for online enrollment.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":false,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","variable"],"ppt":"1.199"},"VML":{"name":"Variable Market Limited","content":"This plan is available to customers based on credit criteria\/payment history. Customer can change to another price plan for which he or she qualifies after 12 consecutive months of timely payment.","link":"Additional Information","additional":["Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>9.99 \/mo.","CSC is based on credit criteria and payment history.","Not available for online enrollment.","GNG&apos;s variable prices listed here apply to customers with a beginning meter reading date ( which appears as the &apos;Prior Meter Reading Date&apos; on their bill ) on or after August 5, 2018."],"show_cta":false,"button_text":"sign up","add_class":"","image":"","filters":["all","residential","rate","variable"],"ppt":"1.399"},"MKT":{"name":"Variable Market","content":"Applicable only to current Georgia Natural Gas\u00ae customers enrolled on plan. No longer open to new enrollments. *Customers who enrolled on the Variable Market plan before 9\/11\/06 have a CSC of $5.95. All others who enrolled on this plan between 9\/11\/06 and 12\/4\/06 have a CSC between $3.99 and $5.95.","link":"Additional Information","additional":["Customer Service Charge (CSC) range: <span class=\"dollar-symbol\">&#36;<\/span>5.95* \/mo.","CSC is based on credit criteria and payment history."],"show_cta":false,"button_text":"sign up","add_class":true,"image":"","filters":["all","residential","rate","legacy"],"ppt":"1.309"},"MVC":{"name":"Variable Combo","content":"Available only to GNG customers who were previously Commerce Energy customers; carries an Interstate Capacity Charge of <span class=\"dollar-symbol\">&#36;<\/span> per DDDC. No longer open to new enrollments.","link":"Additional Information","additional":["Customer Service Charge (CSC): <span class=\"dollar-symbol\">&#36;<\/span>4.95 \/mo."],"show_cta":false,"button_text":"sign up","add_class":true,"image":"","filters":["all","residential","rate","legacy"],"ppt":"1.249"},"CFM":{"name":"Commercial 12-Month Fixed","content":"Lock in your rate & enjoy how good it feels to be set for the year. We will send you a reminder before your contract is up. Call <a href=\"tel:7708506200\">770.850.6200<\/a> or toll-free <a href=\"tel:+18008506200\">1.800.850.6200<\/a> to find out current price per therm and eligibility requirements. 12-month contract.","link":"Additional Information","additional":["Ideal if you are not moving over the next 12 months and want the peace of mind that comes with locking in a fixed rate.","Plus <span class=\"dollar-symbol\">&#36;<\/span>8.50 per DDDC.","Customer Service Charge (CSC): <span class=\"dollar-symbol\">&#36;<\/span>5.95 \/mo.","CSC is based on credit criteria and payment history.","Early Termination Charge: $300 during first 6 months; $150 during final 6 months."],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","business","fixed"],"ppt":"0.599"},"CF6":{"name":"Commercial 6-Month Fixed","content":"Finally a break for your business! Lock in the protection of a fixed gas rate for a shorter term. This commercial fixed rate is guaranteed and won\u2019t change for 6 months.","link":"Additional Information","additional":["Ideal if you want to keep your options open or need a temporary solution.","Plus\u00a0<span class=\"dollar-symbol\">&#36;<\/span>8.50 per DDDC.","Customer Service Charge (CSC):\u00a0<span class=\"dollar-symbol\">&#36;<\/span>5.95 \/mo.","Early Termination Charge: $150"],"show_cta":true,"button_text":"sign up","add_class":"","image":"","filters":["all","business","fixed"],"ppt":"0.579"}},
+        offers: false,
+        entry_data: {"messages":[]},
+        api: '/api',
+        enroll_api: '/enroll/api',
+        ctx: '/',
+        ext: '',
+        renewal_url: 'https://renew.gng.com/',
+        business_services: 'http://biz.gng.com/',
+        skymiles_enroll: 'https://www.delta.com/profile/enrolllanding.action?mkcpgn=DP_ALL_DRCT_ALL_SP_150915_PRTNER16',
+        price_start_date: '08/05/2018',
+        price_end_date: '09/04/2018',
+        price_start_date_nice: 'August 5, 2018',
+        price_end_date_nice: 'September 4, 2018',
+        showSpinner: function() { $('.full-page-spinner').show(); },
+        hideSpinner: function() { $('.full-page-spinner').hide(); }
+      };
+      if(APP.entry_data) {
+        APP.offer_cache_key = APP.entry_data.customerType + "-" + APP.entry_data.transactionType + "-" + APP.entry_data.mktgPromoCode;
+      }
+      LOGIN = {
+        result : {},
+        mygngLogin : function() {
+          //alert("Login Attempt");
+          var form = $('#mygng_login');
+          var loginName = form.find('input[name="/loginName"]').val();
+          var password = form.find('input[name="/password"]').val();
+          var upload = { f: 'login', loginName: loginName, password: password };
+          $.ajax({ method: 'POST', url: '/api', data: upload })
+          .done(function(resp) {
+            LOGIN.result = resp;
+            if(LOGIN.result.success) {
+              $('.login-error').removeClass("show");
+              $('#mygng_login').unbind('submit');
+              setTimeout(function() { document.getElementById('mygng_login').submit(); }, 200);
+            } else {
+              $('.login-error').addClass("show");
             }
-        };
-        SEARCH = {
-            doSearch: function() {
-                var query = $.trim($('#search_box').val());
-                if(query.length != 0) {
-                    var form = $('#cse-search-box');
-                    form.find('input[name="q"]').val(query);
-                    form.submit();
-                }
-            }
-        };
-        $(document).ready(function(){
-            var si = $('.search-icon img');
-            var sf =  $('input.search-field');
-            si.click(function (event) {
-                if(!event) event = window.event;
-                event.stopPropagation();
-                if(sf.is(".active")) {
-                    SEARCH.doSearch();
-                } else {
-                    sf.addClass("active");
-                    sf.focus();
-                }
-            });
-            sf.click(function(event){
-                if(!event) event = window.event;
-                event.stopPropagation();
-            });
-            $('html').click(function() {sf.removeClass('active');});
-            sf.keypress(function(e) {
-                if(!e) e = window.event;
-                if (e.which == 13) {
-                    e.preventDefault();
-                    SEARCH.doSearch();
-                }
-            });
-            // Bind the form's submit to the login call to block the
-            // real submit until we are sure credentials are good.
-            //alert("binding submit");
-            $('#mygng_login').submit(LOGIN.mygngLogin);
-            $('#mygng_login_button').click(LOGIN.mygngLogin);
+          });
+          return false;
+        }
+      };
+      SEARCH = {
+        doSearch: function() {
+          var query = $.trim($('#search_box').val());
+          if(query.length != 0) {
+            var form = $('#cse-search-box');
+            form.find('input[name="q"]').val(query);
+            form.submit();
+          }
+        }
+      };
+      $(document).ready(function(){
+        var si = $('.search-icon img');
+        var sf =  $('input.search-field');
+        si.click(function (event) {
+          if(!event) event = window.event;
+          event.stopPropagation();
+          if(sf.is(".active")) {
+            SEARCH.doSearch();
+          } else {
+            sf.addClass("active");
+            sf.focus();
+          }
         });
+        sf.click(function(event){
+          if(!event) event = window.event;
+          event.stopPropagation();
+        });
+        $('html').click(function() {sf.removeClass('active');});
+        sf.keypress(function(e) {
+          if(!e) e = window.event;
+          if (e.which == 13) {
+            e.preventDefault();
+            SEARCH.doSearch();
+          }
+        });
+        // Bind the form's submit to the login call to block the
+        // real submit until we are sure credentials are good.
+        //alert("binding submit");
+        $('#mygng_login').submit(LOGIN.mygngLogin);
+        $('#mygng_login_button').click(LOGIN.mygngLogin);
+      });
     </script>
+
+    <!-- <script src="<//?= CTX . 'js/bootstrap-3.3.6.min.js' ?>"></script> -->
+    <script src="/js/main.js"></script>
+    <!--[if lte IE 9]>
+      <script src="/js/ie9.js"></script>
+    <![endif]-->
+
+
+    <script src="/js/angular-1.6.2.min.js"></script>
+    <script src="/js/angular-sanitize-1.6.2.min.js"></script>
+    <script src="/js/angular-ui-router-1.0.3.min.js"></script>
+    <script src="/js/services/BaseService.js"></script>
+    <script src="/js/services/APIService.js"></script>
+    <script src="/js/services/PlansService.js"></script>
+    <script src="/js/services/EnrollService.js"></script>
+    <script src="/js/planView.js"></script>
+    <script src="/js/ng-app.js"></script>
+    <script src="/js/plan-list-ng-app.js"></script>
+    <script src="/js/moment-2.10.3.min.js"></script>
+    <script src="/js/angular-moment-picker.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="full-page-spinner">
+    <div class="spinner-wrap">
+        <div class="spinner"></div>
+    </div>
+</div>
+<div class="header">
     <div class="inner">
         <div class="upper">
             <div class="mobile-upper visible-sm visible-xs">
                 <a href="https://myaccount.gng.com/OnlinePayment" class="link">PAY<br>MY BILL</a>
-                <a href="/plan-signup?ct=new&amp;pi_f=true" class="link">SIGN UP FOR<br>SERVICE</a>
+                <a href="/shop-for-service/georgia-natural-gas-rates-plans" class="link">SIGN UP FOR<br>SERVICE</a>
                 <a href="tel:8778506200" class="link">CALL US<br>877.850.6200</a>
             </div>
             <div class="desktop-upper visible-md visible-lg">
@@ -135,7 +181,7 @@
                   <span class="text-link hidden-xs hidden-sm">877.850.6200</span>
                     <a href="tel:8778506200" class="text-link hidden-md hidden-lg">CONTACT US 877.850.6200</a>
                     <a href="https://myaccount.gng.com/OnlinePayment" class="text-link">PAY MY BILL</a>
-                    <a href="/plan-signup?ct=new&amp;pi_f=true" class="text-link">SIGN UP FOR SERVICE</a>
+                    <a href="/shop-for-service/georgia-natural-gas-rates-plans" class="text-link">SIGN UP FOR SERVICE</a>
                     <form id="mygng_login" name="mygng_login" method="POST" action="https://myaccount.gng.com/Remote.Login/">
                         <div class="login">
                             <input type="text" name="/loginName" class="login-field" placeholder="User ID" tabindex="1">
@@ -157,7 +203,7 @@
             </div>
         </div>
         <div class="lower">
-            <a href="http://gng.com/" class="logo">
+            <a id="site-url" href="http://gng.com/" class="logo">
                 <img src="/img/logo/logo.svg" alt="Georgia Natural Gas Company Logo">
             </a>
             <div class="nav">
@@ -192,7 +238,7 @@
             <div class="left-content">
                 <ul class="menu-links">
                     <li>
-                        <a href="/plan-signup?ct=new&amp;pi_f=true">
+                        <a href="/shop-for-service/georgia-natural-gas-rates-plans">
                             <p class="white">Sign up for service</p>
                             <img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow">
                         </a>
@@ -233,28 +279,33 @@
             </div>
         </div>
         <div class="right">
-            <div class="title">Featured Plans</div>
-            <div class="subcontent">
-                <div class="sub-block promo" style="cursor: pointer" onclick="window.location='/shop-for-service/featured-natural-gas-service-plans#RF6'">
-                    <div class="price-display">
-                        <div class="price"><div class="amount">59<small>9/10</small></div><div class="cent">¢</div></div>                        <p style="top: initial;font-size: 10px;">Per therm*</p>
-                    </div>
+                            <div class="title">Featured Plans</div>
+                        <div class="subcontent">
+            <!--Two Plan layout-->
+                                            		                    <div class="sub-block promo" style="cursor: pointer" onclick="window.location='/shop-for-service/georgia-natural-gas-rates-plans?promo='">
+		                                    <div class="price-display">
+                        <div class="price"><div class="amount">39<small>9/10</small></div><div class="cent">¢</div></div>                        <p style="top: initial;font-size:10px;">Per therm*</p>
+                                            </div>
                     <div class="description">
-                        6-Month Fixed
-                    </div>
+                                                Market Intro Plan                    </div>
                 </div>
-                <div class="sub-block promo" style="cursor: pointer" onclick="window.location='/shop-for-service/guaranteedbill'">
-                    <div class="g-bill"><img src="/img/content/gbp-seal-md.png" alt="Guaranteed Bill Pay Seal Image"></div>
-                    <div class="description">Guaranteed Bill Plan</div>
+                                <div class="sub-block promo" style="cursor: pointer" onclick="window.location='/shop-for-service/guaranteedbill'">
+                    <!--Hack because still in winter mode-->
+                                        <div class="g-bill"><img src="/img/content/gbp-seal-md.png" alt="Guaranteed Bill Pay Seal Image"></div>
+                    <!--Reset winter mode-->
+                                        <div class="description">Guaranteed Bill Plan</div>
                 </div>
                 <div class="sub-block link">
                     <a href="/shop-for-service/featured-natural-gas-service-plans" class="menu-link">
                         View all featured plans
                         <img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow"></a>
                     <div class="disclaimer">Prices effective:<br>
-                      12/05/2016                      to
-                      01/04/2017                    </div>
+                      08/05/2018                      to
+                      09/04/2018                    </div>
                 </div>
+                        <!--END Two Plan layout-->
+            <!--One Plan layout-->
+                        <!--END One Plan layout-->
             </div>
         </div>
     </div>
@@ -320,7 +371,7 @@
                 </div>
                 <div class="sub-block long-copy">
                     <p class="white">As part of our TrueBlue Advantage, we’re always offering up great ways to save on your natural gas.</p>
-                    <a href="https://enroll.onlygng.com/gngpublicenroll/Step1.aspx?mkt_pgm_code=GNG100&amp;plan_code=other&amp;svc_type=res&amp;cust_type=new" class="btn orange fade">SIGN UP FOR SERVICE</a>
+                    <a onclick="window.location='/shop-for-service/featured-natural-gas-service-plans?promo=GNG100'" class="btn orange fade">SIGN UP FOR SERVICE</a>
                 </div>
             </div>
         </div>
@@ -355,9 +406,10 @@
                     </li>
                 </ul>
                 <ul class="menu-links">
-                    <li><a href="https://renew.gng.com/Step1.aspx"><p class="white">Renew / change plan</p><img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow"></a></li>
+                    <li><a href="https://renew.gng.com/"><p class="white">Renew / change plan</p><img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow"></a></li>
                     <li><a href="/my-gng/understand-bill"><p class="white">Understand my bill</p><img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow"></a></li>
                     <li><a href="https://myaccount.gng.com/PaymentNotification"><p class="white">Report a payment</p><img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow"></a></li>
+                    <li><a href="/refer/"><p class="white">Refer-a-Friend</p><img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow"></a></li>
                     <li><a href="/faq#account"><p class="white">Account FAQ</p><img class="right-arrow" src="/img/header/right-arrow-white.svg" alt="Atlanta Georgia Natural Gas Right Arrow"></a></li>
                 </ul>
             </div>
@@ -418,7 +470,7 @@
                 <li><a href="/shop-for-service/payment-options">Payment options</a></li>
                 <li><a href="/shop-for-service/georgia-natural-gas-rates-plans">View All Rates &amp; Plans</a></li>
                 <li><a href="/my-gng/transfer">Transfer / stop service</a></li>
-                <li><a href="https://renew.gng.com/Step1.aspx">Renew / change plan</a></li>
+                <li><a href="https://renew.gng.com/">Renew / change plan</a></li>
                 <li><a href="/my-gng/understand-bill">Understand my bill</a></li>
                 <li><a href="https://myaccount.gng.com/PaymentNotification">Report a payment</a></li>
                 <li><a href="/faq">Account FAQ</a></li>
@@ -432,7 +484,7 @@
             <ul class="util-links">
                 <li><a href="/contact-us">Contact us</a></li>
                 <li><a href="https://myaccount.gng.com/OnlinePayment">Pay my bill</a></li>
-                <li><a href="/plan-signup?ct=new&amp;pi_f=true">Sign up for service</a></li>
+                <li><a href="/shop-for-service/georgia-natural-gas-rates-plans">Sign up for service</a></li>
                 <li><a href="https://myaccount.gng.com/Login">Login</a> / <a href="https://myaccount.gng.com/Registration">Register</a></li>
             </ul>
         </div>
@@ -440,7 +492,7 @@
         <div class="menu-section">
             <ul class="footer-links">
                 <li><a href="/about-us">About us</a></li>
-                <li><a href="http://gng.com/reap">REAP-Real Estate Professionals</a></li>
+                <li><a href="http://gng.com/gnghub">REAP-Real Estate Professionals</a></li>
                 <li><a href="/privacy">Privacy Policy</a></li>
                 <li><a href="/terms-of-use">Terms of Use</a></li>
                 <li><a href="/terms-of-service">Terms of Service</a></li>
@@ -651,7 +703,7 @@ CONTENT_COLLAPSER = {
 
     <div id="cc_expand_faq_0" class="bottom expandable cc">
         <div class="cc-content">
-            <p class="darker">SouthStar Energy Services LLC ("SouthStar", "we", "us" or "our") respects your privacy and is committed to complying with this privacy policy ("Privacy Policy"), which describes what information we collect about you, including how we collect it, how we use it, with whom we may share it and what choices you have regarding our use of your information.  This Privacy Policy applies to information collected on our websites, which include, but are not limited to, southstarenergy.com, gng.com, gngsavings.com, guaranteedbill.com, www.newjerseyenergy.com, trueblueschools.com, gngconnections.com, sseenrollment.com, onlygng.com, onlyfng.com, grandrapidsenergy.com, marylandenergy.com, newyorknatgas.com, nicorsolutions.com, nicoradvancedenergy.com, onlyong.com and gnggivesback.com (each, individually, a "Website" and, collectively, the "Websites"), any mobile applications associated with these Websites (the "Mobile Applications"), all interactive features, applications, widgets, blogs, social networks and social network "tabs", and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology or any associated content, material, or functionality contained on the Websites or Mobile Applications (collectively, the "Services" and, together with the Website and the Mobile Applications, the "System"). SouthStar operates as a natural gas marketer under the names "SouthStar Energy Services", "Georgia Natural Gas", "Ohio Natural Gas", "Maryland Energy", "Florida Natural Gas", "Grand Rapids Energy", "New York Natural Gas" and "New Jersey Energy". For the purposes of this Privacy Policy, references to "SouthStar" shall include SouthStar Energy Services LLC and all of its members, affiliates, subsidiaries (Prairie Point Energy, L.L.C. d/b/a Nicor Advanced Energy LLC and Nicor Solutions, L.L.C.), directors, officers, agents, and employees.<br><br>This Privacy Policy is incorporated into and is a part of the terms of use of the System located here (the "Terms of Use"). We encourage you to become familiar with the terms and conditions of both this Privacy Policy and the Terms of Use. By accessing and using the System, or any part thereof, you agree that you have read and understand this Privacy Policy, and that in exchange for access to the System, you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.</p>
+            <p class="darker">SouthStar Energy Services LLC ("SouthStar", "we", "us" or "our") respects your privacy and is committed to complying with this privacy policy ("Privacy Policy"), which describes what information we collect about you, including how we collect it, how we use it, with whom we may share it and what choices you have regarding our use of your information.  This Privacy Policy applies to information collected on our websites, which include, but are not limited to, southstarenergy.com, gng.com, newjerseyenergy.com, onlyfng.com, grandrapidsenergy.com, marylandenergy.com, newyorknatgas.com,illenergysolutions.com, nicoradvancedenergyillenergy.com, onlyong.com and virginiaretailenergy.com (each, individually, a "Website" and, collectively, the "Websites"), any mobile  applications associated with these Websites, including without limitation Google Contacts (the "Mobile Applications"), all interactive features such as Refer-A-Friend and other referral features, applications, widgets, blogs, social networks and social network "tabs", and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other  technology or any associated content, material, or functionality contained on the Websites or Mobile  Applications (collectively, the "Services" and, together with the Website and the Mobile Applications, the "System"). SouthStar operates as a natural gas marketer under the names "SouthStar Energy Services", "Georgia Natural Gas", "Ohio Natural Gas", "Maryland Energy", "Florida Natural Gas", "Grand Rapids Energy", "New York Natural Gas", "New Jersey Energy" and "Virginia Retail Energy." For the purposes of this Privacy Policy, references to "SouthStar" shall include SouthStar Energy Services LLC and all of its members, affiliates, subsidiaries (Illinois Energy, USA, LLC and Illinois Energy Solutions, USA, LLC) , directors, officers, agents, and employees.<br><br>This Privacy Policy is incorporated into and is a part of the terms of use of the System located here (the "Terms of Use"). We encourage you to become familiar with the terms and conditions of both this Privacy Policy and the Terms of Use. By accessing and using the System, or any part thereof, you agree that you have read and understand this Privacy Policy, and that in exchange for access to the System, you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.</p>
         </div>
     </div>
 </div>
@@ -674,7 +726,7 @@ CONTENT_COLLAPSER = {
 
     <div id="cc_expand_faq_1" class="bottom expandable cc">
         <div class="cc-content">
-            <p class="darker">As described in detail below, we may collect certain identifying information from or about you in connection with your use of, or your submissions to, the System (collectively, the "Collected Information").  Collected Information may include identifying information provided to the System on your behalf by one of our call center employees when you call our call centers to make a payment or enroll in one of our products or services.  Collected Information includes, without limitation, any information that may be used to identify an individual, including, but not limited to, a first and last name, a home, business, service or other physical address, geographic location, business name, a phone number, a Social Security number, an email address, tax identification number, employer name, employer information (i.e., company size, industry, number of employees), utility account number or other identifier, credit or debit card number (and related information such as expiration date), bank account information, and account number or other identifier used in connection with our marketing alliances (e.g., your Delta SkyMiles number pursuant to our alliance with Delta). SouthStar uses the information we collect to provide natural gas and other products and services to you; to provide required regulatory communications to you; to open, maintain, and close accounts; for payment processing; for marketing activities; for fulfillment; for provision of quotes and other pricing information; to improve the System's content, materials, and services; and to more effectively and efficiently respond to both current and future customer inquiries.<br><br> Some of our promotional offers have a refer-a-friend feature that allows you to have the offer sent to a friend with your comment. If you choose to use this feature, we may collect and use the email address of your friend(s) to facilitate the referral but do not store it for other uses.  If your friend becomes a customer of ours, we may tell you or otherwise make that information available to you.</p>
+            <p class="darker">As described in detail below, we may collect certain identifying information from or about you in connection with your use of, or your submissions to, the System (collectively, the "Collected Information").  Collected Information may include identifying information provided to the System on your behalf by one of our call center employees when you call our call centers to make a payment or enroll in one of our products or services.  Collected Information includes, without limitation, any information that may be used to identify an individual, including, but not limited to, a first and last name, a home, business, service or other physical address, geographic location, business name, a phone number, a Social Security number, an email address, tax identification number, employer name, employer information (i.e., company size, industry, number of employees), utility account number or other identifier, credit or debit card number (and related information such as expiration date), bank account information, and account number or other identifier used in connection with our marketing alliances (e.g., your Delta SkyMiles number pursuant to our alliance with Delta). SouthStar uses the information we collect to provide natural gas and other products and services to you; to provide required regulatory communications to you; to open, maintain, and close accounts; for payment processing; for marketing activities; for fulfillment; for provision of quotes and other pricing information; to improve the System's content, materials, and services; and to more effectively and efficiently respond to both current and future customer inquiries.<br><br> Some of our promotional offers have a referral feature that allows you to have the offer sent to a friend or contact with your comment. If you choose to use this feature, we may collect from you and use the email address of your friend(s) and contact(s) to facilitate the referral. For your convenience, we offer you the option of accessing online contact sources, including, but not limited to the Google Contacts API feature, which will allow you to import the email addresses of your contacts solely for the purpose of selecting recipients with whom you wish to share a promotional offer. Any information provided to us through the referral feature will not be shared with any third parties or stored for other uses.</p>
         </div>
     </div>
 </div>
@@ -812,7 +864,7 @@ CONTENT_COLLAPSER = {
 
     <div id="cc_expand_faq_7" class="bottom expandable cc">
         <div class="cc-content">
-            <p class="darker">In addition to the uses mentioned or described elsewhere in this Privacy Policy or in the Terms of Use, we may catalog and add Collected Information to our database. We may also share your information with any of our affiliates, trusted business partners and third party service providers for the purpose of providing the System, for any other purpose described in this Privacy Policy or the Terms of Use, or for any other lawful purposes. Also, we may, from time to time, utilize a number of trusted business and marketing partners in delivering the content, materials, and opportunities available on or through the System. For example, we may provide your Collected Information to an affiliate or third party provider to re-target certain advertising to you on different portions of the System, for market or user modeling, or use in direct advertising through the System or via direct mailing. To the extent necessary for purposes of communicating with you or fulfilling your requests for such content, materials, and opportunities, we may share Collected Information with our affiliates, third party service providers or business partners. We, or our respective trusted business parties and third party services providers may also produce reports on the System's traffic or usage patterns and share these reports with us, or our business partners and others, but the information contained in these reports is anonymous and does not allow identification of any specific individual. SouthStar also may release Collected Information in connection with joint marketing efforts and strategic alliances.<br><br>We do not sell, rent, or lease our user lists or the identity of individual users to third parties. However, SouthStar may use and disclose certain aggregated, anonymized information, such as System usage data, to our affiliates, third party service providers or trusted business partners. Such information may also be shared with other users or the general public for advertising, informational, or comparison purposes. However, such information shall not be personally identifiable to any user.<br><br>We may also disclose Collected Information if we become subject to a subpoena or court or regulatory order, or if we are otherwise legally required to disclose information. We may also use and disclose Collected Information to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.<br><br>As SouthStar grows and develops its business, it is possible that its corporate structure or organization might change or that it might merge or otherwise combine with, or that it or portions of its business might be acquired by, another company. In any such transactions, customer information generally is, and should be expected to be, one of the transferred business assets.</p>
+            <p class="darker">In addition to the uses mentioned or described elsewhere in this Privacy Policy or in the Terms of Use, we may catalog and add Collected Information to our database. We may also share your information with any of our affiliates, trusted business partners and third party service providers for the purpose of providing the System, for any other purpose described in this Privacy Policy or the Terms of Use, or for any other lawful purposes.When you submit a payment using the System, we may use third party payment processors to collect and process the Collected Information that is necessary to process your payment on our behalf, such as credit card information and billing address.<br><br> We, may from time to time, utilize a number of trusted business and marketing partners in delivering the content, materials, and opportunities available on or through the System. For example, we may provide your Collected Information to an affiliate or third party provider to re-target certain advertising to you on different portions of the System, for market or user modeling, or use in direct advertising through the System or via direct mailing. To the extent necessary for purposes of communicating with you or fulfilling your requests for such content, materials, and opportunities, we may share Collected Information with our affiliates, third party service providers or business partners. We, or our respective trusted business parties and third party services providers may also produce reports on the System's traffic or usage patterns and share these reports with us, or our business partners and others, but the information contained in these reports is anonymous and does not allow identification of any specific individual. SouthStar also may release Collected Information in connection with joint marketing efforts and strategic alliances.<br><br>We do not sell, rent, or lease our user lists or the identity of individual users to third parties. However, SouthStar may use and disclose certain aggregated, anonymized information, such as System usage data, to our affiliates, third party service providers or trusted business partners. Such information may also be shared with other users or the general public for advertising, informational, or comparison purposes. However, such information shall not be personally identifiable to any user.<br><br>We may also disclose Collected Information if we become subject to a subpoena or court or regulatory order, or if we are otherwise legally required to disclose information. We may also use and disclose Collected Information to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person. In an effort to protect the security of our critical infrastructure, any use of a Website or information relating to such use may be monitored and disclosed to federal authorities or agencies.<br><br>As SouthStar grows and develops its business, it is possible that its corporate structure or organization might change or that it might merge or otherwise combine with, or that it or portions of its business might be acquired by, another company. In any such transactions, customer information generally is, and should be expected to be, one of the transferred business assets.</p>
         </div>
     </div>
 </div>
@@ -1042,7 +1094,7 @@ CONTENT_COLLAPSER = {
 
     <div id="cc_expand_faq_17" class="bottom expandable cc">
         <div class="cc-content">
-            <p class="darker">BY ACCESSING OR USING THE SYSTEM, OR ANY PORTION THEREOF, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO THE PRIVACY POLICY, AND TO THE USES AND DISCLOSURES OF COLLECTED INFORMATION ABOUT YOU, THAT ARE DESCRIBED IN THIS PRIVACY POLICY AND YOU AGREE TO BE BOUND BY THE TERMS OF USE REFERENCED ABOVE.<br>This Privacy Policy was last updated on September 10, 2015.</p>
+            <p class="darker">BY ACCESSING OR USING THE SYSTEM, OR ANY PORTION THEREOF, YOU ACKNOWLEDGE THAT YOU HAVE READ,   UNDERSTAND, AND CONSENT TO THE PRIVACY POLICY, AND TO THE USES AND DISCLOSURES OF COLLECTED INFORMATION ABOUT YOU, THAT ARE DESCRIBED IN THIS PRIVACY POLICY AND YOU AGREE TO BE BOUND BY THE TERMS OF USE REFERENCED  ABOVE.<br>This Privacy Policy was last updated on June 14, 2018.</p>
         </div>
     </div>
 </div>
@@ -1063,12 +1115,12 @@ CONTENT_COLLAPSER = {
         <div class="footer-section second visible-md visible-lg">
             <ul>
                 <li class="med"><a href="/about-us">About Us</a></li>
-                <li class="med"><a href="http://gng.com/reap">Real Estate Professionals (REAP)</a></li>
+                <li class="med"><a href="http://gng.com/gnghub">Real Estate Professionals (gngHub)</a></li>
                 <li class="med"><a href="/for-business">For My Business</a></li>
                 <li><a href="/faq">FAQ</a></li>
                 <li><a href="/media-contact">Media Contact</a></li>
             </ul>
-            <div class="sub-links">©2016                Georgia Natural Gas &nbsp; | &nbsp;
+            <div class="sub-links">©2018                Georgia Natural Gas &nbsp; | &nbsp;
                 <a href="/terms-of-use">Terms of Use</a> &nbsp; | &nbsp;
                 <a href="/privacy">Privacy Policy</a> &nbsp; | &nbsp;
                 <a href="/terms-of-service">GNG Terms &amp; Conditions of Service</a>
@@ -1091,25 +1143,42 @@ CONTENT_COLLAPSER = {
             <h2 class="white">To Report a Gas Leak or Emergency</h2>
             <ul>
                 <li class="med">
-                  <a href="tel:7709074231">770.907.4231 <br class="visible-xs visible-sm">(inside metro Atlanta)</a>
+                  <a href="tel:7709074231">770.907.4231 <br>(inside metro Atlanta)</a>
                 </li>
                 <li class="med">
-                  <a href="tel:18774274321">1.877.427.4321 <br class="visible-xs visible-sm">(outside metro Atlanta)</a>
+                  <a href="tel:18774274321">1.877.427.4321 <br>(outside metro Atlanta)</a>
                 </li>
             </ul>
         </div>
+
+
+        <div class="footer-section fifth">
+
+            <img src="/img/content/GNG-20th-LOGO-FINAL-CMYK_NEW_white.png" alt="" style="width:180px;">
+            <div class="clearfix"></div>
+        </div>
+
+
     </div>
 </div>
 
 <div class="mobile-bottom visible-xs visible-sm">
     <div class="links">
-        <div class="mobile-terms">©2016 Georgia Natural Gas</div>
+        <div class="mobile-terms">©2018 Georgia Natural Gas</div>
         <a class="mobile-terms" href="/privacy">Privacy Policy</a>
         <a class="mobile-terms" href="/terms-of-use">Terms of Use</a>
     </div>
 </div>
 </div>
 
-
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1092897997';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 
 </body></html>
