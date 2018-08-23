@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313224013id_/https%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823145820id_/https%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
 
 # AmmoLand Privacy Policy
 
@@ -58,6 +58,6 @@ NEVER, under any circumstance, will AmmoLand share, sell, or rent individual per
 
 We reserve the right to change this policy at any time without notifying guests of the existence of a new privacy policy.
 
-[](http://monitor4.sucuri.net/verify.php?r=bc15b0fe288720de9dd7309ee00ad9b95cca42f6a7)Sucuri
+[](https://sitecheck.sucuri.net/results/www.ammoland.com)Sucuri
 
 © 2015 AmmoLand.com – All Rights Reserved.
