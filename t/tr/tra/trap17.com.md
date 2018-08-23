@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the trap17.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615135031id_/http%3A//www.knowledgesutra.com/forums/topic/5770-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trap17.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823125739id_/https%3A//xisto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Discuss Anything
+# Privacy Policy
 
-###  [#1](http://www.knowledgesutra.com/forums/topic/5770-privacy-policy/page__view__findpost__p__40138 "Link to post #1")  
+Computing Host has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.computinghost.com (Xisto Corporation)
 
-Posted 07 January 2005 - 02:17 AM
+We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
-Due to the nature of our service, for security reasons, KnowledgeSutra. does collect personally identifiable information about individuals.
+Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
 
-Personally identifiable information on individual users will not be sold or otherwise transferred to either affiliated, or unaffiliated third parties except when such individuals specifically provide such instruction on a voluntary basis at the time of collection. Further, KnowledgeSutra reserves the right to contact a user by email, regarding matters relevant to the underlying service and/or information collected. KnowledgeSutra will never contact users directly through a physical address or by phone, and such information is securely stored after being reviewed.
+This site contains links to other sites. Computing Host is not responsible nor can it be held liable for the privacy practices or the content of such Web sites.
 
-Users should be aware that KnowledgeSutra is lawfully required to provide personally identifiable information to law authorities, such as the Internet Police as requested, if a criminal offence whether related or non-related to KnowledgeSutra and/or its community has been committed. Additionally upon breach of KnowledgeSutra's Terms Of Service, KnowledgeSutra is required to contact and report the offence to all parties involved in the violation, including but not limited to the violator's Internet Service Provider and Internet Police.
+We will not disclose or distribute your information to or with any third-parties, for whichever purpose it may be. Never will any third-party consciously gain access to your personal information.
 
-Users also should be aware that non personal information and data may automatically be collected through the standard operation of KnowledgeSutra internet servers or through the use of "cookies." Information about "Cookies" is usually available in the help section of most browsers.
+Our site uses an order form for customers to request information, products, and services. We collect visitor’s contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer’s contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users’ qualifications and bill the user for products and services
 
-If you do not want to receive email from us in the future, please let us know by sending an email message stating you do not want to receive e-mail from our company. Users should be aware that it may lead to termination of their specific services associated with KnowledgeSutra and it may be impossible to delete all references to a user without some residual information remaining because of backups and deleted records. We asure you, however, that such residual information - if any - remains secure and covered by this private policy.
+PUBLIC FORUMS
 
-KnowledgeSutra reserves the right to change this policy at any time by notifying users of the existance of a new privacy statement.
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-The policies described herein are effective as of the year 2005. 
+SECURITY
 
-0 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have excellent anti-hacking software in place that was either purchased from third-parties and or programmed by our in-house developers. There is hardly any risk of information being compromised or accessed by any unauthorized parties.
 
-##  1 User(s) are reading this topic  
-0 members, 1 guests, 0 anonymous users
-  *[07 January 2005 - 02:17 AM]: 2005-01-07T02:17:23+00:00
+CHOICE/OPT-OUT
+
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send a ticket at http://www.xistosupport.com
+
+CORRECT/UPDATE
+
+This site gives users the following options for changing and modifying information previously provided. You can send a ticket at http://support.xisto.com/
