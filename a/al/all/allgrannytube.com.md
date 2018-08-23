@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgrannytube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101833id_/http%3A//allgrannytube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgrannytube.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823042452id_/http%3A//allgrannytube.com/privacy) for the most accurate reproduction.*
 
 # Privcacy Policy
 
