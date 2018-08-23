@@ -1,98 +1,98 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623182054id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823103222id_/https%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
 
 # TextMarks SMS Service, Mass Text Messaging | Privacy Policy
 
-## TextMarks Privacy Policy  
-(Last Updated September 19, 2012)  
+This Privacy Policy explains how TextMarks, Inc. and its affiliated companies (“ ** _TextMarks_** ”, “ ** _our_** ”, “ ** _us_** ”, and “ ** _we_** ”) collect, use, and disclose information about you. This Privacy Policy applies to information we collect when you use our website, messaging platform, any mobile application we may offer, and other online products and services (collectively, the “ ** _Services_** ”) or when you otherwise interact with us. 
 
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy before you use or submit any information on or through the TextMarks Services to stay informed about our information practices and the ways you can help protect your privacy. By using the Services, you consent to the collection, use, disclosure and sharing of your information as further outlined below in this Privacy Policy. 
 
-* * *
+### Collection of Information
 
-This Privacy Policy governs TextMarks's collection, use, and disclosure of the information that we collect and receive from users of our Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service. This Privacy Policy applies to information that you provide to us through your use of the Services. This Privacy Policy does not apply to any products or services provided by third parties, even if those third parties are partners of TextMarks.
+#### Information You Provide to Us
 
-### Information Collection and Use  
+We collect information you provide directly to us in the course of using the Services, including personally identifiable information. For example, we collect information when you create an account, set up automatic bill pay, participate in any interactive features of the Services, fill out a form, participate in a contest or promotion, request customer support or otherwise communicate with us. The types of information we may collect include your name, phone number(s), email address, postal address, credit card or other billing information and any other information you choose to provide. We may use third-party payment processors to bill you through a payment account linked to your TextMarks account for use of the paid Services. The processing of payments will be subject to the terms, conditions, and privacy policies of the payment processor in addition to this Privacy Policy and our Terms of Use. 
 
+#### Information We Collect Automatically When You Use the Services
 
-In the course of using our Services, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you, information on your use of our Services that may be connected with you. When you register for the Services, and at certain times during your use of the Services, TextMarks will ask you for certain personal information, including but not limited to, your phone number(s), email address, credit card or other billing information and home and business postal addresses.
+When you access or use our Services, we automatically collect information about you, including: 
 
-TextMarks also receives and collects your mobile phone number when you send a text message to us. To create a textmark using our Services, you must associate your mobile phone number with your TextMarks account. Simply receiving textmarks on your mobile phone does not require you to register for an account with us, although creating textmarks through our Services or using other advanced features on the Services, will require you to register.
-
-If you request a textmark from your mobile phone or subscribe to a textmark through our Services, the manager of that textmark will be able to see your mobile phone number - just like any individual to whom you send a text message directly would.
-
-Our use of the information we collect through our Services is limited to providing the Services as described in this Privacy Policy. This information may be used
-
-  1. to provide you with products and services you request;
-  2. to anticipate and resolve problems with our Services;
-  3. to improve and update our Services;
-  4. to process and respond to inquiries;
-  5. for other purposes communicated to you at the time you provide or authorize the use of the information.
+  * **Usage Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Location Information:** We may collect precise information about the location of your mobile device, but only with your express consent. Once you have consented to the collection of such precise location information via your mobile device, you may adjust this consent by managing your Location Services preferences through the settings of your mobile device. For more details, please see "Your Choices" below.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
 
 
-### Cookies and Linking Data  
+#### Information We Collect From Other Sources
 
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including but not limited to reseller programs, referral programs, identity verification services, credit bureaus, mailing list providers and publicly available sources. 
 
-We also use cookies to collect certain information. A cookie is a small data file, which often includes anonymous unique identifier, that is your browser places on your computer. Our cookies do not contain any personal information about you. We use cookies to:
+### Use of Information
 
-  * Provide you faster access to pages you have already visited.
-  * Enable you to personalize your pages and optimize your TextMarks experience.
-  * Estimate and report our total audience size and traffic.
-  * Conduct research to improve our Services.
+We may use information about you for various purposes, including to: 
 
-
-
-You can set your browser to accept all cookies, reject all cookies, or notify you when a website attempts to place a cookie. Disabling cookies may prevent you from properly using the Service and may limit or restrict your user experience.
-
-Advertisers on the TextMarks website, as well as third party sites you may visit from the TextMarks website, may attempt to place their own cookies on your computer. Use of cookies by those sites is subject to those sites' own privacy policies, and not our Privacy Policy.
-
-When you use our Services, we also automatically record the information that your browser sends whenever you visit the TextMarks website. This includes information such as your computer’s Internet Protocol (IP) address, browser type or the webpage you were visiting before you came to our website, the pages of our website that you use, the time spent on those pages, information you search for on our website, access times and dates, and other statistics. We use this information to monitor and analyze use of our Services and for the technical administration, to increase the functionality and user-friendliness, and to better tailor it to our visitors’ needs.
-
-Third party vendors, including Google, show TextMarks ads on sites on the internet.
-
-Third party vendors, including Google, use cookies to serve ads based on your prior visits to the TextMarks website.
-
-Visitors may opt out of Google's use of cookies by visiting the Ads Preferences Manager. Visitors may also opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
-
-### Information Sharing and Disclosure
-
-TextMarks does not rent, sell, or share any personal information about you with third parties other than as set forth herein. We will ask for your consent before we use this information for any other purpose. TextMarks may disclose information about you under the following circumstances:
-
-  * To enforce our Terms of Service or other legal agreements.
-  * To outsource to our service providers and third party agents to facilitate or provide the Services or any of the tasks referenced in this Privacy Policy, such as processing payments, performing database services or responding to inquiries. These third parties may have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * In response to a subpoena, court order, or other legal process.
-  * To establish or exercise our legal rights or defend against legal claims.
-  * To a company controlled by, or under common control with, TextMarks for any purpose permitted by this Privacy Policy.
-  * When TextMarks believes such use or disclosure is a) necessary in order to investigate, prevent, or take action regarding suspected illegal activities, fraud, or situations involving potential threats to the physical safety of any person, or b) required by law. 
-  * In the event of a merger, acquisition, consolidation, divestiture, or bankruptcy of TextMarks.
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by TextMarks and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with the Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of TextMarks and others;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Facilitate contests, sweepstakes and promotions and to process entries and deliver rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose described to you at the time the information was collected.
 
 
 
-TextMarks may use and disclose non-personal, aggregate, or summary information regarding our users without further notice. This type of information will not identify you individually.
+### Sharing of Information
 
-### Updating Your Information
+We may share information about you as follows or as otherwise described in this Privacy Policy: 
 
-To update your email address, nickname or password, please use the "My Profile" link from within the TextMarks website. If you would like us to delete your record in our system, please contact us with a request that we delete your personal information from our database. We will use commercially reasonable efforts to honor your request, however, we may retain an archived copy of your records as required by law or for legitimate business purposes.
+  * With vendors, consultants, third party payment processors and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of TextMarks or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among TextMarks and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
+  * We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+
+
+### Data Retention
+
+The time periods for which we retain your personal information will depend on the purposes for which we use it. We will retain your personal information for so long as is necessary to provide the Services, unless applicable law requires we either dispose of it or keep it longer. We may also continue to store your personal information to allow us to resolve disputes, enforce our agreements, comply with legal obligations and/or for other legally permissible purposes consistent with this Privacy Policy. 
+
+### Advertising and Analytics Services Provided by Others
+
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by TextMarks and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices). 
 
 ### Security
 
-TextMarks employs administrative, physical and electronic measures designed to protect your information from unauthorized access, however, despite those efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.
+TextMarks takes reasonable measures designed to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-### Links to Other Sites
+### Transfer of Information to the U.S. and Other Countries
 
-The Services may contain links to other websites which not operated by TextMarks. Any information you provide on those other sites is provided directly to whoever owns that site and is subject to their privacy policy. Our Privacy Policy does not apply to those other sites, and we are not responsible for the content you provide to or the privacy and security practices and policies of those other sites.
+TextMarks is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law. 
 
-### International Users
+### Your Choices
 
-If you are located outside the United States and choose to provide information to us, we may transfer your information to the United States and process it there (or any other country where we operate). By using our Services, you consent to the collection, transfer, use, storage and disclosure of your information as described in this Privacy Policy.
+#### Account Information
 
-### Children
+You may update, correct or delete information about you at any time by logging into your online account or emailing us at **tmsupport@textmarks.com**. If you wish to delete or deactivate your account, please contact us at **tmsupport@textmarks.com** , but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
 
-Our Services are not intended for children under 13, and TextMarks does not knowingly collect information from children under the age of 13\. If we learn that we have collected the personal information of a child under 13, we will take steps to delete the information as soon as possible.
+#### Cookies
 
-### Changes
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with the Services. To delete or disable flash cookies please visit <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html> for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Services. 
 
-TextMarks reserves the right, in its sole discretion, to modify or change this Privacy Policy at any time. If we modify this Privacy Policy, we will notify you of such changes by posting them on the Services or providing you with notice of the modification. We will also indicate when such terms are effective. Your continued use of the Services following the posting of any changes to the Privacy Policy constitutes your acceptance of those changes. If the modified Privacy Policy is not acceptable to you, your only recourse is to stop using the Services.
+#### Promotional Communications
 
-### Questions
+You may opt out of receiving promotional emails or text messages from TextMarks by following the instructions in those emails or text messages. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations. 
 
-If you have any questions, concerns, or comments about this Privacy Policy, you may email us at [**support@textmarks.com**](mailto:support@textmarks.com).
+#### Your California Privacy Rights
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at **tmsupport@textmarks.com**. 
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: **tmsupport@textmarks.com**
