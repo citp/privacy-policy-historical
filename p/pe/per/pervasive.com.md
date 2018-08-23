@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116091058id_/http%3A//www.actian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823234341id_/http%3A//www.actian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Actian
+
+BlogAsset 1PRDatasheetDatasheetAsset 1DownloadForumGuideLinkWebinarPRPresentationRoad MapVideoBlogAsset 1PRDatasheetDatasheetAsset 1DownloadForumGuideLinkWebinarPRPresentationRoad MapVideo
 
 **_Actian Corporation Respects Your Privacy_**
 
