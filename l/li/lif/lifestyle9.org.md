@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the lifestyle9.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401225655id_/http%3A//lifestyle9.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestyle9.org privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823054918id_/https%3A//lifestyle9.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LifeStyle9
+# Privacy Policy - Fashion & Lifestyle Magazine - Lifestyle9
 
 This privacy policy sets out how lifestyle9.org uses and protects any information that you give to lifestyle.com when you use this website.
 
 lifestyle.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 lifestyle.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: February 2013
+
+lifestyle9.org is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.
 
 ### What we collect
 
