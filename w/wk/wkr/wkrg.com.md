@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wkrg.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624170454id_/http%3A//www.wkrg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrg.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823095339id_/https%3A//www.wkrg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WKRG
+# Privacy Policy
 
 **Updated: December 1, 2016**
 
