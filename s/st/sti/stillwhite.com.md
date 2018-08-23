@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stillwhite.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309042218id_/https%3A//www.stillwhite.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stillwhite.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823200333id_/https%3A//www.stillwhite.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,30 +6,71 @@ This Privacy Policy explains how we collect, use, process, and disclose your inf
 
 #####  Table of contents 
 
-  1. What information do we collect?
-  2. What do we use your information for?
+  1. Who is the data controller?
+  2. What information do we collect and why?
   3. How do we protect your information?
   4. Do we use cookies?
   5. Do we disclose any information to outside parties?
-  6. Online Privacy Policy Only
-  7. Your Consent
-  8. Changes to our Privacy Policy
+  6. Your Consent
+  7. Changes to our Privacy Policy
 
 
 
 * * *
 
-####  1\. What information do we collect? 
+####  1\. Who is the data controller? 
 
-1.1 We collect information from you when you register on our site, place an order or fill out a form. 
+1.1 Still White Pty Ltd, 11 York St, Sydney NSW, Australia 
 
-1.2 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously. 
+####  2\. What information do we collect? 
 
-1.3 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+2.1 We collect information from you when you visit our site, place an order or fill out a form. 
 
-####  2\. What do we use your information for? 
+2.2 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously. 
 
-2.1 Any of the information we collect from you may be used in one of the following ways: 
+2.3 The following is detailed information on how we process personal data: 
+
+##### __Analytics
+
+The services contained in this section enable Stillwhite to monitor and analyze web traffic and can be used to keep track of user behavior.
+
+  * **Google Analytics** Personal data: Cookies and Usage Data. [_Privacy policy_](https://www.google.com/intl/en/policies/privacy/)
+  * **Facebook Pixel** Personal data: Cookies and Usage Data. [_Privacy policy_](https://www.facebook.com/policy)
+  * **Pinterest Analytics** Personal data: Cookies, Usage Data and hashed email address. [_Privacy policy_](https://policy.pinterest.com/en/advertising-guidelines#ads-conversion-tracking)
+
+
+
+##### __Payments
+
+Payment processing services enable Stillwhite to process payments by credit card, bank transfer or other means. To ensure greater security, Stillwhite shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction. 
+
+  * **PayPal** Personal data: various types of Data as specified in the privacy policy of the service. [_Privacy policy_](https://www.paypal.com/webapps/mpp/ua/privacy-full)
+  * **Stripe** Personal data: various types of Data as specified in the privacy policy of the service. [_Privacy policy_](https://stripe.com/terms/US)
+
+
+
+##### __Sending messages
+
+This type of services makes it possible to manage a database of email contacts or any other contact information to communicate better with you. These services may also collect data concerning the date and time when the message was viewed by you, as well as when the you interacted with it, such as by clicking on links included in the message. 
+
+##### __A/B Testing
+
+The services contained in this section allow Stillwhite to track and analyze your response concerning web traffic or behavior regarding changes to the structure, text or any other component of Stillwhite. 
+
+##### __Registration
+
+By registering or authenticating, you're allowing Stillwhite to identify and give you access to dedicated services. 
+
+  * **Direct registration** Personal data: First name, email address, password, profile picture, location, IP address & wedding date.
+  * **PayPal oAuth** Personal data: name, email address & profile picture. [_Privacy policy_](https://www.paypal.com/au/webapps/mpp/ua/privacy-full)
+
+
+
+##### __Web services
+
+All web servers and hosting are managed are located in different regions around the world, and managed centrally by our team. This includes website hosting, backups, web database, file storage, APIs, and log files. 
+
+2.4 Generally, any of the information we collect from you may be used in one of the following ways: 
 
   * **To personalize your experience** (your information helps us to better respond to your individual needs) 
 
@@ -60,16 +101,12 @@ This Privacy Policy explains how we collect, use, process, and disclose your inf
 
 ####  5\. Do we disclose any information to outside parties? 
 
-5.1 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+5.1 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information (other than what is outlined in section 2 above). We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
 
-####  6\. Online Privacy Policy Only 
+####  6\. Your Consent 
 
-6.1 This online privacy policy applies only to information collected through our website and not to information collected offline. 
+6.1 By using our site, you consent to our web site privacy policy. 
 
-####  7\. Your Consent 
+####  7\. Changes to our Privacy Policy 
 
-7.1 By using our site, you consent to our web site privacy policy. 
-
-####  8\. Changes to our Privacy Policy 
-
-8.1 If we decide to change our privacy policy, we will post those changes on this page. 
+7a.1 If we decide to change our privacy policy, we will post those changes on this page. 
