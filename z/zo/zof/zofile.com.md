@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the zofile.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114063429id_/http%3A//zofile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zofile.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823031517id_/http%3A//zofile.com/privacy.html) for the most accurate reproduction.*
 
 # ZOFile - Connect to and Share Files - Easy way to share your files
+
+## Refund Policy
+
+You may cancel your Membership befor 1 days of using your account if you are not completely satisfied. To cancel your Membership, simply contact with Site and send your payment info + username , You understand and agree that cancellation of your Membership is your sole right and remedy with respect to any dispute with KatFile. The following conditions apply to any Premium Membership cancellation: (a) Your request is made within 10 days of last payment and We pay only with Paypal & webmoney , 10% of your payment will be reduced for TAX . (b) Only last payment can be refunded. (c) You do not have to use of the account at all . 
 
 ## Personal identification information
 
