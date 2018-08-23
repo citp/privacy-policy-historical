@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the icml.cc privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200639id_/https%3A//2017.icml.cc/public/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icml.cc privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823042948id_/https%3A//icml.cc/public/PrivacyPolicy) for the most accurate reproduction.*
 
-# NIPS Privacy Policy
-
-NOTICE: The 2017 ICML conference may close registration ahead of the declared deadline in case it reaches the capacity limits of the convention center. There may be no onsite registration. Please register early.
+# ICML Privacy Policy
 
 ### Privacy Policy
 
@@ -24,15 +22,17 @@ We may need to send you announcements and account-related messages.  These will
 
 We will not share the personal information we have collected from you, except as described below:
 
-when you give us your consent to do so, for example, when we tell you that the information you provide will be shared in some way and you provide us that information;
+  * when you agree to share your information with our sponsors during registration in the Jobs and Recruitment secion.
+  * for auditing purposes, your information may be shared temporarily with our partners in a very limited scope, for example, during an audit.
+  * when we believe we are authorized or legally required to do so or that doing so is necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including things like subpoenas, warrants or court orders.
+  * to enforce or apply our Privacy Policy, our Terms of Use or our other policies or agreements.
+  * if your company is one of our sponsors. Sponsors have access to a report that shows who from their company is attending (including email addresses), what they've registered for, and what they're presenting.
 
- when we believe we are authorized or legally required to do so or that doing so is necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including things like subpoenas, warrants or court orders;
 
-to enforce or apply our Privacy Policy, our Terms of Use or our other policies or agreements.
 
 #### Accessing Your Information
 
-If you would like us to delete your personal information that has been collected, please _contact us_  under the Help menu with your request. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records and as otherwise required by law.
+If you would like us to delete your personal information that has been collected, please [contact us](https://web.archive.org/Help/Contact) under the Help menu with your request. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records and as otherwise required by law.
 
 #### How We Protect Your Information
 
@@ -48,4 +48,4 @@ Any information that is collected is subject to our Privacy Policy in effect at 
 
 #### Questions or Concerns
 
-Please [contact us](http://nips.cc/Help/Contact) if you have any questions or concerns about our Privacy Policy.
+Please [contact us](https://web.archive.org/Help/Contact) if you have any questions or concerns about our Privacy Policy.
