@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tpp-uk.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630064435id_/http%3A//www.tpp-uk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpp-uk.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823064301id_/https%3A//www.tpp-uk.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TPP
+# TPP | Privacy Policy
 
 TPP (“We”) are committed to protecting and respecting your privacy.
 
-This policy (together with the [terms and conditions](https://web.archive.org/terms) for using our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the website you are accepting and consenting to the practices described in this policy.
+This policy (together with the [terms and conditions](https://web.archive.org/legal/terms-conditions) for using our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the website you are accepting and consenting to the practices described in this policy.
 
 We may collect and process the following data about you:
 
