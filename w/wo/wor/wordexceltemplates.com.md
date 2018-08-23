@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordexceltemplates.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622091340id_/http%3A//www.wordexceltemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordexceltemplates.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823191119id_/https%3A//www.wordexceltemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Word & Excel Templates
 
