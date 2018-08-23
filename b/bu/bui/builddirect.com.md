@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312123142id_/https%3A//www.builddirect.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823200116id_/https%3A//www.builddirect.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # BuildDirect® - Flooring, Decking, Siding, Roofing, and More
 
