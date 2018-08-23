@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchsafer.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704080749id_/http%3A//www.searchsafer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsafer.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823134721id_/http%3A//www.searchsafer.com/privacy.html) for the most accurate reproduction.*
 
 # Search Safer - Privacy Policy
 
