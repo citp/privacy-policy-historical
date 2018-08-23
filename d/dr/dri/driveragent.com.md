@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the driveragent.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902035426id_/http%3A//driveragent.com/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driveragent.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823181324id_/http%3A//www.driveragent.com/c/privacy-policy) for the most accurate reproduction.*
 
 # DriverAgent Privacy Policy | Terms of Use & Tracking Cookies Explained - DriverAgent.com
 
 **Effective Date:** 2014.12.01
 
-eSupport.com, Inc. has been awarded Trust Guard's Privacy Seal signifying that this privacy policy and practices have been reviewed by Trust Guard for compliance with [Trust Guard's program requirements](http://secure.trust-guard.com/privacy/8669) including transparency, accountability and choice regarding the collection and use of your personal information. Trust Guard's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://support.driveragent.com/open.php).
+DriverAgent.com, Inc. has been awarded Trust Guard's Privacy Seal signifying that this privacy policy and practices have been reviewed by Trust Guard for compliance with [Trust Guard's program requirements](http://secure.trust-guard.com/privacy/8669) including transparency, accountability and choice regarding the collection and use of your personal information. Trust Guard's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://support.driveragent.com/open.php).
 
 #### What information do we collect?
 
@@ -48,7 +48,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### Customer Testimonials, Comments & Reviews
 
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at http://esupport.com/feedback.php.
+With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at http://DriverAgent.com/feedback.php.
 
 #### California Online Privacy Protection Act Compliance
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [our EULA](https://web.archive.org/web/20170902035426id_/http%3A//driveragent.com/c/end-user-license-agreement)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [our EULA](https://web.archive.org/web/20180823181324id_/http%3A//www.driveragent.com/c/end-user-license-agreement)
 
 #### Your Consent
 
@@ -74,6 +74,6 @@ We may update this privacy statement to reflect changes to our information pract
 
 If there are any questions regarding this privacy policy, or if you would like to correct, update, change, or delete your information you may contact us using the information below:
 
-<http://esupport.com/>  
+[http://DriverAgent.com/](http://driveragent.com/)  
 120 Water St., North Andover, MA 01845, USA  
-[sales@esupport.com](mailto:sales@esupport.com)
+[sales@DriverAgent.com](mailto:sales@DriverAgent.com)
