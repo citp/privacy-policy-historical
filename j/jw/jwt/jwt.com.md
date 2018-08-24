@@ -1,61 +1,99 @@
-> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808210226id_/https%3A//www.jwt.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824021118id_/https%3A//www.jwt.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Internet Privacy Policy
+## Privacy Policy
 
-This website is provided by J. Walter Thompson U.S.A., LLC ("JWT"). We take very seriously the privacy of our website users and the security of their personal information.
+At J. Walter Thompson Company we are committed to ensuring that your personal information is protected and never misused.
 
-For your convenience, this website contains links to a number of other websites, both inside and outside JWT. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies.
+Our privacy policy explains what personal information we collect, why we collect it, how we use it, the controls you have over your personal information and the procedures that we have in place to protect your privacy. It applies to personal information we collect through this website.
 
-The purpose of this privacy policy is to set out the principles governing our use of personal information that we may obtain about you. By using the websites, or by registering as a user of the services that we provide, you agree to this use. We ask you to read this privacy policy carefully. Any dispute which may arise over privacy will be subject to this policy and the data protection notice (if any) incorporated into this website.
+By sharing your personal information with us, and by continuing to use this website, you confirm that you have read and understood the terms of this privacy policy. We take responsibility for the personal information we collect about you, and we aim to be transparent about how we handle it, and give you control over it.
 
-We may change our privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version that will apply each time you access this website.
+In this privacy policy, when we refer to "JWT", "us", "we" or "our", we mean the J. Walter Thompson Company, J. Walter Thompson U.S.A., LLC or companies which provide you with this website. If you have any questions, comments or concerns about any aspect of this policy or how JWT handles your information in relation to this website, please email us at [privacy@jwt.com](mailto:privacy@jwt.com) so we may route your inquiry to our Privacy Team.
 
-## Personal information collection and use
+### What personal information do we collect?
 
-JWT will only collect personally identifiable data, such as your name or email address, when it is voluntarily submitted to us at this website. JWT and the companies we hire will use this information to comply with your request for information or as otherwise disclosed to you when you submit your information.
+Our main reasons for collecting your personal information are to provide you with information or services that you have requested including supporting your applications to JWTand to provide and improve the service, products and experiences that you and the users of the website, applicants and employees expect from us. 
 
-From time to time, we may refer to that information to better understand your needs and how we can improve our services. We may use that information to contact you. We will not otherwise transfer the personally identifiable information you provide at this website to any third party unless otherwise disclosed to you.
+We collect personal information from you in several different ways; you may share that information with us, or we may collect it using other means. In this section, we explain the different ways we collect personal information from you and some ways in which that information will be used.
 
-## Non-personal information collection and use
+### How do we use your personal information?
 
-In common with many commercial organizations we monitor the use of this website by collecting aggregate information. We may automatically collect non-personal information about you such as the type of internet browsers you use, the pages you visit or the website which directed you to our site. You cannot be identified from this information and it is used only to assist us in providing an effective service on this website.
+We collect personal information that you share with us when you register, contact us or interact with us through our website, email, phone or otherwise. You can decide not to provide certain information, or ask that any information you have previously shared is removed. If you do so, you may not be able to progress an application.
 
-## Use of cookies
+For example, you may provide information to us when you contact us about an opportunity to work at JWT, upload a CV or resume or other careers information.
 
-Cookies are small files which are sent to your web browser and stored on your computer's hard drive. These allow you to carry information across our site without having to re-enter it; it also enables us to analyze web traffic and improve our online services. They cannot be used to identify you. You may set your web browser to notify you of cookie placement requests or to decline cookies completely. You can delete the files that contain cookies; those files are stored as part of your internet browser.
+To be considered, we require users to submit an application form and to provide us with basic contact information. Through these interactions you may share with us: your name, address, e-mail address, postal address, contact number, school history, career history (usually in the form of a CV/resume) as well as any other personally identifiable information you include in your interactions with JWT. We may also ask for additional information to assist us with the recruitment process and in the event you are offered a job.
 
-## Under 13 year olds
+### Cookies
 
-This website is not intended or designed to attract children under the age of 13. We do not knowingly collect personally identifiable data from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf.
+We may use cookies and similar technologies to collect non-personally identifiable information from you and to customize your use of the website. A cookie is a small data file that certain web sites write to your hard drive when you visit them. We may also use web bugs, clear gifs and similar technologies that collect data similar to that collected by a cookie. A cookie file can contain various types of information, including a user ID that the site uses to track the pages you have visited.
 
-## Security of your personal data
+Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent or you can flush your browser of cookies from time to time. (Note: you may need to consult the help area of your browser application for instructions.) If you choose to disable cookies or refuse to accept a cookie, you may not be able to utilize all features of the website. For more information about our use of cookies and other tracking technologies, as well as how to opt out of the use of cookies, please refer to our [Cookie Statement](https://web.archive.org/cookies).
 
-We have implemented technologies and policies with the objective of protecting your information from unauthorized access and improper use and will update these measures as appropriate as new technologies become available.
+Should you visit any of our J Walter Thompson Company websites, cookies may be used as described in the relevant privacy policy, so it is a good idea to check the privacy policies which govern those websites.
 
-## Accuracy of Personal Information
+### How do we use your personal information?
 
-JWT makes reasonable efforts to keep Personal Information in its possession or control, which is used on an ongoing basis, accurate, complete, current and relevant, based on the most recent information available to us.
+Our main reasons for using your personal information are to provide you with information or services that you have requested including supporting your applications to JWT and to provide and improve the service, products and experiences that you and the users of the website, applicants and employees expect from us.
 
-It is the responsibility of each individual to ensure that the Personal Information relating to them is accurate, complete and current.
+We may share your personal information with companies in JWT, and given the global nature of our company, your personal information may be transferred from one jurisdiction to another. When we make such transfers, we do so in accordance with data protection legislation, for example by using Standard Contractual Clauses where information is transferred from JWT in the European Economic Area to JWT in the United States of America.
 
-## Access to Personal Information
+By submitting your personal information to us, you agree to us transferring, storing and handling your personal information in this way.
 
-To request access to Personal Information that we hold about you, we require that you submit your request in writing at the e-mail address or postal address shown below (in How to reach us). You may be able to access your Personal Information and correct, amend or delete it where it is inaccurate, except as follows:
+We share your personal information with certain third parties who provide services on our behalf. They only have access to the personal information they need to perform those services. They are required to keep your personal information confidential and may not use it other than as we ask them to and always in accordance with this privacy policy.
 
-  * The burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question;
-  * Providing access to your Personal Information would be likely to reveal Personal Information about others;
-  * Disclosing the information would reveal the confidential commercial information of JWT or its clients.
+### Information you share with us
+
+We use the personal information you share with us in the following ways:
+
+  * To respond to your queries and requests;
+  * To communicate with you;
+  * To provide you with updates about your application;
+  * To provide services and support for any application you make;
+  * To facilitate any application you make to JWT;
+  * To provide updates to you about any changes to JWT’s policies, terms and conditions and any other matters which we may need to tell you; and
+  * If you have asked us to keep you informed of other opportunities at JWT, we may periodically contact you to tell you about these for up to 36 months.
 
 
 
-We will endeavor to provide your requested Personal Information within 30 days of receiving your access request. If we cannot fulfill your request, we will provide you with a written explanation of why we had to deny your access request
+### Contacting You in the Future
 
-## How to reach us
+If we provide the option and you have asked us to, we will keep you informed of other opportunities at JWT for up to 36 months. We do this in various ways, including e-mail, post, SMS, via social media platforms and by phone, but only if you are happy for us to do so.
 
-Questions regarding this Privacy Policy and access requests should be directed to:
+If you would like more information on how we share your personal information, please email us at [privacy@jwt.com](mailto:privacy@jwt.com) so we may route your inquiry to our Privacy Team.
 
-J. Walter Thompson U.S.A., LLC Attn: General Counsel 466 Lexington Ave New York, NY 10017 +1 212-210-7000 
+### Links to third party websites
 
-JWT is committed to working with individuals to obtain a fair resolution to any complaints or disputes about privacy and personal information. JWT’s commitment to privacy is demonstrated and documented by our adherence to applicable laws, codes and industry standards and by our adherence to the Safe Harbor Framework. If you have any complaints regarding our compliance with this Privacy Policy and/or the Safe Harbor Framework you should contact us, at the address noted above.
+We may provide links to other websites which are not operated and controlled by JWT.
+
+We have no control over and are not responsible for the content of those sites or how the third parties responsible for them collect and use your personal information. We do not endorse or make any representations about third party websites.
+
+Third party websites may have their own privacy policies explaining how they use and share your personal information. You should carefully review those privacy policies before you use these websites to make sure that you are happy with how your personal information is being collected and shared.
+
+### How long do we keep your personal information?
+
+We only keep your personal information for as long as we need to, to be able to use it for the reasons given in this privacy policy, and for as long as we are required to keep it by law. Following an application, we keep your information should any other opportunities become available; however we will only keep your information for a limited period and your details will be purged after 36 months.
+
+### Informing us of Changes
+
+If any of the information that you have provided to JWT changes, for example if you change your e-mail address, name or postal address, you can update, amend or remove information by logging into your account, or ask us by submitting a request to [privacy@jwt.com](mailto:privacy@jwt.com).
+
+Based on applicable local laws in your jurisdiction, you may have the right to request access to, update and amend personal information that we hold about you. You may also have the right under those applicable local laws in your jurisdiction to request removal of personal information about you or limit use of said personal information. 
+
+If the law in your country allows us to impose a fee for giving you access, we will communicate this to you in response to your request. 
+
+If you would like to request access to, update or amend your personal information or, if you would like to request removal of the personal information that we hold about you, or limit its use, please submit a request by sending an email to [privacy@jwt.com](mailto:privacy@jwt.com). We will respond to your request in accordance with applicable local laws in your jurisdiction.
+
+### How do we protect your personal information?
+
+We use appropriate technical and organisational measures, including encryption, to protect your personal information and privacy, and review those regularly. We protect your personal information using a combination of physical and IT security controls, including access controls that restrict and manage the way in which your personal information and data is processed, managed and handled. Whilst we cannot guarantee the security of your personal information, we commit to taking all reasonable steps to do so.
+
+### Changes to this privacy policy
+
+We will review and update this privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version that will apply each time you access this website.
+
+### Contact us
+
+If you have any questions, comments or concerns, or would like to make a complaint about how we use the personal information we hold about you, please email our Privacy Team at [privacy@jwt.com](mailto:privacy@jwt.com). We will get back to you as soon as possible.
