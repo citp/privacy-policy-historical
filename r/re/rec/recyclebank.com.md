@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recyclebank.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001050128id_/https%3A//www.recyclebank.com/get-help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recyclebank.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824204958id_/https%3A//www.recyclebank.com/get-help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -177,7 +177,7 @@ _International Call_ :
 _Postal_ :  
 RecycleRewards, Inc.  
 Legal Department  
-443 Park Avenue South, 9th Floor  
+401 Park Avenue South, 8th Floor  
 New York, NY 10016 
 
 **
