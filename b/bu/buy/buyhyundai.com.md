@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509184452id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824183446id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Hyundai Website Privacy Policy
 
-Effective Date: April 30, 2018
+Effective Date: May 31, 2018
 
 Your privacy is important to Hyundai Motor America ( **"Hyundai" "we," "us" or "our"** ) and its affiliate companies, as is your trust in Hyundai’s products and services. We strive to protect your online privacy, while providing an enjoyable website experience that offers information, products, and services that are relevant and useful to you. The purpose of this Hyundai Motor America Website Privacy Policy (this **“Privacy Policy”** ) is to notify and inform you of how we collect, use and share information across our US websites or applications, including [HyundaiUSA.com](https://www.hyundaiusa.com/), [MyHyundai.com](https://web.archive.org/myhyundai) (collectively, the **“Site”** ). 
 
@@ -27,7 +27,7 @@ This Privacy Policy describes:
 
 **Vehicle Technologies and Services**
 
-We also offer certain vehicle technologies and services to make our vehicles safer, more environmentally friendly, more convenient and more fun to drive. Some of these technologies and services collect, use or share information that is collected, generated, recorded or stored by our Hyundai vehicles. This Privacy Policy applies only to the collection, use and sharing of information collected on the Site and does not apply to collection of information by those vehicle technologies and services. Our privacy practices with respect to our vehicle technologies and services are described in our Hyundai [Vehicle Owner Privacy Policy](https://web.archive.org/owner-privacy-policy.aspx) and our [Blue Link Service Subscriber Privacy Policy](https://web.archive.org/bluelink-privacy-policy.aspx). Should you use such vehicle technologies and services, we encourage you to read the applicable privacy policies. 
+We also offer certain vehicle technologies and services to make our vehicles safer, more environmentally friendly, more convenient and more fun to drive. Some of these technologies and services collect, use or share information that is collected, generated, recorded or stored by Hyundai vehicles. This Privacy Policy applies only to the collection, use and sharing of information collected on the Site and does not apply to collection of information by those vehicle technologies and services. Our privacy practices with respect to our vehicle technologies and services are described in our Hyundai [Vehicle Owner Privacy Policy](https://web.archive.org/owner-privacy-policy.aspx) and our [Blue Link Service Subscriber Privacy Policy](https://web.archive.org/bluelink-privacy-policy.aspx). Should you use such vehicle technologies and services, we encourage you to read the applicable privacy policies. 
 
 **Third Party Sites**
 
@@ -39,7 +39,7 @@ You can visit the Site to read about our vehicles or use our online tools withou
 
 **“Personally Identifiable Information”** is information that may be used to identify or contact a specific person. Personally Identifiable Information may include: (1) identifier data (name, address, city, state, zip code, email address, telephone number, and IP address); (2) demographic data (such as age range, gender, birth month); (3) vehicle information (vehicle identification number (VIN), make, model, model year, selling dealer and date of purchase or lease); and (4) credit card number and payment card information.
 
-**“Non-Personally Identifiable Information”** is information that, by itself, does not identify the individual, such as the operating system you are using, IP address, the date and time stamp of your visit, referring URLs, your Internet service provider, browser type and related browser data, the pages you visit and purchase history. 
+**“Non-Personally Identifiable Information”** is information that, by itself, does not identify the individual, such as the operating system you are using, the date and time stamp of your visit, referring URLs, your Internet service provider, browser type and related browser data, the pages you visit and purchase history. 
 
 ## HOW INFORMATION IS COLLECTED
 
