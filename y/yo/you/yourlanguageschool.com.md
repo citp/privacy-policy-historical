@@ -1,115 +1,117 @@
-> *The following text is extracted and transformed from the yourlanguageschool.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220225716id_/http%3A//yourlanguageschool.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlanguageschool.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824141239id_/https%3A//yourlanguageschool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY FOR: yourlanguageschool
+**This Privacy Policy is effective for ExeterLanguageClub.co.uk members Last edition — 15th of November 2017**
 
-This privacy statement is created in order to demonstrate our continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site.This privacy policy sets out how “yourlanguageschool” uses and protects any information that you give “yourlanguageschool” when you use this website.
+**Who We Are**
 
-“yourlanguageschool” is committed to ensuring that your privacy is protected and holds your privacy to the highest regard. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+The websites located at [www.exeterlanguageclub.co.uk](https://web.archive.org/) (“Websites”) and the service is part of the Exeter Language Club membership, which is operated by Your Language School limited (UK company registration number 11050632) We are a controller of your data for the purposes set out in this Policy and in our [General Terms and Conditions](https://web.archive.org/terms/). This Policy (together with our General Terms and Conditions and any other documents to which it refers) sets out the basis on which we process your personal data. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting the Websites and using the services set out in the Terms and Conditions you accept and consent to the practices described in this Policy. We may change this Policy from time to time, and members are advised to review this Policy regularly to make sure that they read and understand the most current version of it.
 
-“yourlanguageschool” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 20, 2009.
+**1\. Data Controllers**
 
-We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site.
+1.1. Your Language School limited is a controller of your data for the specific purposes set out below.
 
-What Information We Collect?
+**2\. Information we collect from you**
 
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+2.1. We may collect and process the following data about you:
 
-1\. Personal Information You Choose to Provide
+2.1.1. **Information you give us.** You may give us information about you when using the Websites or by corresponding with us by phone, e-mail or otherwise. This includes information you provide on registration, on your profile, in an order on our Websites, when participating in discussion boards or other social media functions on our Websites, when you enter a competition, promotion or survey, when you report a problem with our Websites or other activities commonly carried out on our Websites from time to time. The information you give us may include your name, age, address, e-mail address and phone number, financial and credit card information, personal description and interests, racial or ethnic origin, religious or philosophical beliefs, sexual orientation, photographs, and any other data.
 
-Registration Information
+2.1.2. **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+**3\. Uses made of the information**
 
-Credit Card Information
+3.1. We (and where stated Exeter Language Club) use the information held about you in the following ways:
 
-If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:
+3.1.1. to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us;
 
--Name
+3.1.2. all the information you provide on your profile will be displayed on your profile page;
 
--Mailing address
+3.1.3. to provide you with information about site activity, products or services we or Exeter Language Club feel may be of interest to you where you have indicated that you wish to receive this material. We and Exeter Language Club may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those that you have already purchased, registered for or enquired about but we will always offer you an unsubscribe option when doing so.
 
--Email address
+3.1.4. to administer our Websites and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
--Credit card number
+3.1.5. to improve our Websites to ensure that content is presented in the most effective manner for you and your computer;
 
--Name on credit card
+3.1.6. to allow you to participate in interactive features of our services;
 
--Credit card billing address
+3.1.7. as part of our efforts to keep our Websites safe and secure;
 
--Business and home phone number
+3.1.8. to measure or understand the effectiveness of advertising we Exeter Language Club serve to you and others, and to deliver relevant advertising to you;
 
-Email Information
+3.1.9. to make suggestions and recommendations to you and other users of our Websites about services that may interest you or them; and
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+3.2. You may unsubscribe from exeterlanguageclub.co.uk emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every exeterlanguageclub.co.uk email.
 
-2\. Web Site Use Information
+**4\. How we do not use your personal data**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+4.1. We shall not display any of your personal information such as your real name, e-mail address, full post code, mobile or landline phone number or IP-address, and we shall endeavour to keep the same strictly private and confidential. In any case when we ask for such information we make it clear that it is not for display without your consent.
 
-How Do We Use the Information That You Provide to Us?
+4.2. We will not share your personal information with a third party for marketing purposes without your permission
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+4.3. Your individual use of [www.exeterlanguageclub.co.uk](https://web.archive.org/) website and your interaction with other members through these Websites shall be kept strictly private (no responsibility is accepted for the actions of users of the Websites or third parties).
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
+**5\. Disclosure of your information**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
+5.1. We may disclose your information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries in the performance of our services to you.
 
-What Are Cookies?
+5.2. We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+**6\. Disclosure of your information**
 
-How Do We Use Information We Collect from Cookies?
+6.1. When you register to use [www.exeterlanguageclub.co.uk](https://web.archive.org/) membership, Exeter Language Club collects, stores and processes your data. After your data is collected, Exeter Language Club transmits your data into secure data centre and stores your data and operates the service on the Websites worldwide.
 
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+6.2. The data collected from you is therefore can be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is processed securely and in accordance with this Policy.
 
-IP Addresses
+6.3. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
+6.4. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Websites; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Sharing and Selling Information
+**7\. Cookies**
 
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+7.1. Our Websites use cookies to distinguish you from other users of our Websites. This helps us to provide you with a good experience when you browse our Websites and also allows us to improve our Website and services provided. For detailed information on the cookies we use and the purposes for which we use them, and how to disable cookies using the privacy settings in your browser see our [Cookie policy](https://web.archive.org/cookies/).
 
-How Can You Access and Correct Your Information?
+7.2. In the course of serving advertisements to these Websites and you using some part of the Websites, Exeter Language Club or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of Internet operations and are also used by [www.exeterlanguageclub.co.uk](https://web.archive.org/) to safely identify you each time you logon and use the Websites and to keep your session active when you do not use the Websites for some time. Any information that Exeter Language Club or third parties collect via cookies and marketing campaigns tracking software is anonymous.
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+**8\. Subject access**
 
-What About Legally Compelled Disclosure of Information?
+8.1. You have the right, subject to the payment of a small fee (currently £10), to request access to personal data that we may process about you. If you wish to exercise this right, you should:
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+8.1.1. put your request in writing;
 
-What About Other Web Sites Linked to Our Web Site?
+8.1.2. include proof of your identity and address (e.g. a copy of your driving licence or passport, and a recent utility or credit card bill);
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+8.1.3. attach a cheque in the amount of £10 made payable to Exeter Language Club and
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+8.1.4. specify the personal data you want access to, including any account or reference numbers where applicable.
 
-Your Consent
+8.1.5. You have the right to require us to correct any inaccuracies in your data free of charge. If you wish to exercise this right, you should:
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+8.1.6. put your request in writing;
 
-Choice/Opt-In/Opt-Out
+8.1.7. provide us with enough information to identify you (eg account number, user name, registration details); and
 
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+8.1.8. specify the information that is incorrect and what it should be replaced with.
 
-Surveys &amp; Contests
+8.2. You have the right to ask us to stop processing your personal data for direct marketing purposes. If you wish to exercise this right, you should:
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+8.2.1. put your request in writing (an email sent to unsubscribe@exeterlanguageclub.co.uk with a header that identifies your user account and says 'Unsubscribe' is acceptable);
 
-Persons under 18
+8.2.2. provide us with enough information to identify you (eg account number, user name, registration details); and
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+8.2.3. if your objection is not to direct marketing in general, but to direct marketing by a particular channel (eg email or telephone), please specify the channel you are objecting to.
 
-Acquisition or Changes in Ownership
+8.3 Subject to certain exceptions, you also have the right to ask us to erase your personal data. If you wish to exercise this right, you should:
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+8.3.1. put your request in writing (an email sent to unsubscribe@exeterlanguageclub.co.uk with a header that identifies your user account and says 'Right to be forgotten' is acceptable);
 
-Policy Revisions
+8.3.2. provide us with enough information to identify you (eg account number, user name, registration details); and
 
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+8.3.3. specify the data that you wish to be erased.
 
-QUESTIONS
+**9\. Unsubscribe from email notifications**
 
-You may direct enquiries to:   [admin@yourlanguageschool.com](mailto:admin@yourlanguageschool.com)
+If you want to unsubscribe from receiving email notifications to your external mailbox, please send email to unsubscribe@exeterlanguageclub.co.uk or follow unsubscribe link in the email.
+
+If you have questions or concerns, please use [Customer support](https://web.archive.org/contact-us/) form on www.exeterlanguageclub.co.uk web-site and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have.
