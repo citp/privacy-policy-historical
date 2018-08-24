@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the axon.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611152318id_/https%3A//www.axon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axon.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824145155id_/https%3A//www.axon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Overview
+## Overview
 
 Axon Enterprise (“Axon”) knows that you care about how your personal information is used and shared, and Axon takes your privacy seriously. Axon created this Privacy Policy Statement (“Statement”) in order to demonstrate our commitment to your privacy. Please read the following to learn more about our privacy policy.
 
@@ -85,7 +85,7 @@ Axon employs other companies and people to perform tasks on our behalf and may n
 
 ### (C) Promotional Offers
 
-Axon may send offers to certain customers on behalf of other businesses with whom Axon has a partnership. However, when Axon does so, Axon does not give the other business your name and address. If you are a user of the Axon Enterprise websites and do not wish to receive these offers, please [request to unsubscribe](https://www.axon.com/info/unsubscribe).
+Axon may send offers to certain customers on behalf of other businesses with whom Axon has a partnership. However, when Axon does so, Axon does not give the other business your name and address. If you are a user of the Axon Enterprise websites and do not wish to receive these offers, please [request to unsubscribe](https://web.archive.org/info/unsubscribe).
 
 ### (D) With Your Consent
 
@@ -99,9 +99,9 @@ All customer information collected and stored by Axon is maintained in a secure 
 
 ## Access To and Accuracy of Your Information
 
-Axon strives to keep your personal information accurately recorded. Axon has implemented technology, management processes and policies to help maintain data accurately. Axon provides individuals with reasonable access to personal information that they provide to Axon and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To change your personal information that you directly provided to Axon you can contact us on Axon's [support webpage](https://www.axon.com/connect).
+Axon strives to keep your personal information accurately recorded. Axon has implemented technology, management processes and policies to help maintain data accurately. Axon provides individuals with reasonable access to personal information that they provide to Axon and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To change your personal information that you directly provided to Axon you can contact us on Axon's [support webpage](https://web.archive.org/connect).
 
-If you feel that any personal information about you that has been collected and stored by Axon might be wrong, or you would like for us to correct, amend or remove your information from our systems, please [notify us](https://www.axon.com/connect) so that we may correct or delete the information.
+If you feel that any personal information about you that has been collected and stored by Axon might be wrong, or you would like for us to correct, amend or remove your information from our systems, please [notify us](https://web.archive.org/connect) so that we may correct or delete the information.
 
 ## User Choices
 
@@ -131,7 +131,7 @@ Axon takes seriously the trust you place in us. To prevent unauthorized access o
 
 If you decide to visit Axon Enterprise websites, your visit and any possible dispute over privacy is subject to this Privacy Policy, arbitration of disputes, and Arizona law.
 
-Axon commits to resolve complaints about your privacy and our collection or use of your personal information. If you have any questions or concerns regarding your personal information or would like to contact our offices to report a complaint please [contact us](https://www.axon.com/connect).
+Axon commits to resolve complaints about your privacy and our collection or use of your personal information. If you have any questions or concerns regarding your personal information or would like to contact our offices to report a complaint please [contact us](https://web.archive.org/connect).
 
 ## Policy Changes
 
@@ -141,7 +141,7 @@ Your use of any of the Axon Enterprise websites constitutes your agreement to th
 
 ## Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Axon Enterprise websites, please [contact us](https://www.axon.com/connect). Your privacy is important to us and we will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at Axon Enterprise websites, please [contact us](https://web.archive.org/connect). Your privacy is important to us and we will make every effort to resolve your concerns.
 
 Revised May 8, 2017
 
