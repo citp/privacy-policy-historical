@@ -1,0 +1,917 @@
+> *The following text is extracted and transformed from the vente-privee-voyages.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824153658id_/https%3A//secure.uk.vente-privee.com/registration/PrivacyPolicy%3FCountryCode%3DUK) for the most accurate reproduction.*
+
+# vente-privee.com
+
+Print the Confidentiality and Privacy Policy 
+
+** Confidentiality and Privacy Policy  **
+
+In addition to this Confidentiality and Privacy Policy, the use of the Websites of Vente-privee.com (or hereinafter " **us** ") requires the acceptance by the Member or future Member (or hereinafter " **you** ") of the  [ GCU ](http://fr.vente-privee.com/vp4/Help/Answer.aspx?cypher=i0vbLmDrtyg8crF0qLfagw==) _ _ , as well as, if applicable, in the case of the purchase of product(s) and/or service(s), of all or part of the following documents:    
+-  [ GCS ](http://fr.vente-privee.com/vp4/Registration/cgv.aspx "GCS")
+
+-  [ GCU TRAVEL ](http://fr.vente-privee.com/vp4/Registration/VVP/CGU.aspx)
+
+These documents formalise a contractual relationship between you and Vente-privee.com serving, in particular, as a legal basis for the collection and processing of your personal data by Vente-privee.com under the conditions of this Confidentiality and Privacy Policy.
+
+In addition, the execution of (pre)contractual relations that are binding on us, at your initiative, requires the performance of a number of processing operations whose purposes are detailed in paragraph **II - 4. For what purposes is your Personal Data used?**
+
+By using our Site, you declare that you accept the terms of this Confidentiality and Privacy Policy. 
+
+If you disagree with any of its terms, you are free to stop using our Site and/or our Services, but also to modify your choices by clicking here . 
+
+Responsible for the processing of your Personal Data collected on the Websites that it publishes, Vente-privee.com makes every effort to best protect your privacy during your visits to these Websites.
+
+You can contact our Personal Data protection officer at any time, whose contact details are provided here .
+
+This section is devoted to our Confidentiality and Privacy Policy. It allows you to learn more about the origin and use of information and Personal Data collected and processed by us during your consultation of our Website, or the use of our Services and to inform you about your rights, in particular your Specific Rights. 
+
+This Policy is therefore important for you, who wants to have a positive and confident experience of our Services and for Vente-privee.com who wants to accurately and fully answer your questions about your consultation of our Website and the use of our Services, and take your wishes into account.
+
+We may freely modify this Confidentiality and Privacy Policy. Any changes will take effect immediately and will only apply to Members using the Site after the change. Therefore, we invite you to refer to it on each visit to our Site, to read its latest version permanently available on the Site.
+
+** Version of  ** ● ** /05/2018 **
+
+** Table of contents: **
+
+## I - Glossary
+
+## II - The protection of your Personal Data
+
+### II - 1. What is the legal basis for the processing implemented?
+
+### II - 2. What Personal Data is collected?
+
+### II - 2. What Personal Data is collected?
+
+### II - 3. How long is your Personal Data kept by Vente-privee.com? 
+
+### II - 4. For what purposes is your Personal Data used?
+
+### II - 5. What is the benefit of seeing promotional offers adapted to your browsing?
+
+### II - 6 Fight against fraud
+
+### II - 7 What information do we share with third parties? 
+
+### II - 8. Hosting your Personal Data
+
+## III - Your rights
+
+### III - 1. What are your rights?
+
+### III - 2. How can I exercise my Specific Rights?
+
+## IV - Secure browsing on the Internet
+
+### IV - 1. Integrity of your Data on the Internet
+
+### IV - 2. Malicious use
+
+### IV - 3. Identity theft / Phishing
+
+## V - Security of online payments
+
+## VI - Social networks
+
+## VII - "Cookies"
+
+### VII - 1. What are Cookies used for on our Site?
+
+### VII - 2. Your choices regarding Cookies
+
+### VII - 3. If you share the use of your Terminal with other people
+
+## VIII - Express your choices:
+
+##  I - Glossary
+
+For the purposes of this Confidentiality and Privacy Policy, including its preamble, capitalised terms, whether used in the singular or plural, that are not defined in any of our contractual documents listed above, have the following meanings:
+
+" **Intermediate archiving** ": means the isolation of Personal Data which is still of administrative interest to Vente-privee.com (such as, for example, to fulfil our accounting obligations) through a logical separation (management of access rights and access limited to a specific service) and/or physical separation. This archiving is an intermediate step before the deletion or anonymisation of your Personal Data concerned.
+
+" **Order** ": means each purchase or reservation of goods and/or services by a Member on the Site under the conditions laid down in the  [ GCS ](https://secure.fr.vente-privee.com/cgv/fr-FR/Conditions_Generales_de_Vente.pdf) , possibly supplemented by special conditions. 
+
+" **Cookies** ": means the tracers and/or equivalent technologies, i.e. in particular cookies, "Flash" cookies, resulting from the "fingerprinting" calculation of your Terminal, local web storage, web beacons, used alternatively or in combination to i) facilitate the Member's browsing (Browsing Cookies), ii) propose products and services tailored to the Member's areas of interest (Advertising Cookies), iii) allow the development of statistics (Audience Cookies) and iv) allow the Member to access personalised products and services on the Site or via messages sent by Vente-Privee.com (Personalisation Cookies) and allow interaction with Social Networks (Social Networks Cookies), etc.
+
+" **Personal Data** " or " **Data** ": means any information relating to an identified or identifiable natural person who can be identified, directly or indirectly, in particular by reference to an identifier, such as a name, identification number, location data, online identifier, or one or more elements specific to his physical, physiological, genetic, psychic, economic, cultural or social identity. Thus, the data we collect may include your strictly personal data, in that it makes it possible to identify you as a particular person. Conversely, some data does not allow us to identify you directly, such as your profession or your browsing data (the type of browser, Terminal and operating system, the path followed on the Site, etc.) but is still considered as Personal Data as it is attached and/or attachable to the first; 
+
+" **Third-Party Data** ": means the Data that we share, if any, with third parties under the conditions determined in particular in Article II-7.2 .
+
+" **Specific Rights":** means the rights granted to the Member by the Personal Data Regulations and in particular the rights of:
+
+\-         access (Article 15 of the GDPR), 
+
+\-         rectification (Article 16 of the GDPR),
+
+\-         erasure (Article 17 of the GDPR),
+
+\-         limitation of processing (Article 18 of the GDPR),
+
+\-         portability (Article 20 of the GDPR),
+
+\-         opposition (Articles 21 and 22 of the GDPR),
+
+\-         _ post-mortem _ instructions (Law No. 78-17 of January 6, 1978 on computers, files and freedoms);
+
+These Specific Rights and the means of exercising them are specified in paragraph III- Your rights.
+
+" **Member(s)** ": means any user who has entered Personal Data on the Site registration form, accepted the  [ GCU ](http://fr.vente-privee.com/vp4/Help/Answer.aspx?cypher=i0vbLmDrtyg8crF0qLfagw==) _ , and the  _ Confidentiality and Privacy Policy and who, after receiving a confirmation email, has definitively validated their Vente-privee.com account.
+
+" **Partner(s)** ": means the different services providers of Vente-privee.com and/or of the Vente-privee.com Group, whether for the processing of your Orders, the delivery of products, the after-sales services, the provision of technological or advertising services, the Social Networks (as defined below), etc., or more specifically our suppliers for sales of products and/or services on the Site, including as necessary the Vente-privee.com Group.
+
+" **Personal Data Regulations** ": means, together, the GDPR, Law No. 78-17 of January 6, 1978 on computers, files and freedoms as amended and any new law, decrees implementing it.
+
+" **GDPR** ": means the General Data Protection Regulation No. 2016/679 of April 27, 2016 applicable as of May 25, 2018 or, instead, any law that may be adopted for the transposition of said Regulation.
+
+" **Services** ": refers to the definition given in Article 3 of our GCU. 
+
+** "Site(s)" ** : means the websites published by Vente-privee.com in their web and mobile version, and the corresponding mobile applications.
+
+" **Terminal(s)** ": means the hardware equipment (computer, tablet, smartphone, telephone, etc.) that you use to consult or view the Site and/or any other digital medium published by a third party.
+
+" **Vente-privee.com** ": means the publisher of the Site as designated in our legal notice.
+
+" **Vente-privee.com Group** ": means the companies that Vente-privee.com directly or indirectly controls, within the meaning of Article L.233-3 _et seq_. of the Commercial Code, including in particular Vente-privee Voyages, Vente-privee Entertainment, Adotmob, etc.
+
+##  II - The protection of your Personal Data
+
+All the information that you provide to Vente-privee.com and/or to the Vente-privee.com Group during your visits to our Site is strictly confidential. 
+
+###  ** II - 1. What is the legal basis for the processing implemented? **
+
+In accordance with the Personal Data Regulations, the processing referred to in this Confidentiality and Privacy Policy are supported by a specific legal basis. 
+
+####  II - 1.1 Consent of the Member to one or more specific purposes
+
+Vente-privee.com has requested your express consent to communicate some of your Personal Data to its Partners and to use your Personal Data to provide you with promotional offers tailored to your browsing. ****
+
+The details of this processing are provided in paragraph II - 5. What is the benefit of seeing promotional offers adapted to your browsing?
+
+You can withdraw your consent at any time by expressing your choices in paragraph VIII - Express your choices.
+
+####  II - 1.2 Processing necessary for the execution of your contractual relations with Vente-privee.com 
+
+To use the Site and benefit from the Services, you have accepted the  [ GCU ](http://fr.vente-privee.com/vp4/Help/Answer.aspx?cypher=i0vbLmDrtyg8crF0qLfagw==) _ _ , as well as, if applicable in case of the purchase of product(s) and/or service(s), the following documents:
+
+  
+-  [ GCS ](http://fr.vente-privee.com/vp4/Registration/cgv.aspx "GCS")
+
+-  [ GCU TRAVEL ](http://fr.vente-privee.com/vp4/Registration/VVP/CGU.aspx)
+
+These documents formalise a contractual relationship between you and Vente-privee.com serving, in particular, as a legal basis for the collection and processing of your Personal Data by Vente-privee.com.
+
+This Data is necessary to perform a number of processing operations related to the execution of your contractual relationship and whose purposes are detailed in paragraph  **II** ** 4\. For what purposes is your Personal Data used? **
+
+####  II  1.3 Processing necessary to comply with a legal obligation imposed on Vente-privee.com;
+
+The processing we carry out may also be dictated by a legal obligation imposed on us. This is the case, for example, of Decree No. 2011-219 of February 25, 2011 relating to the retention and communication of data making it possible to identify any person who contributed to the creation of online content.
+
+####  II - 1.4 Processing necessary for the legitimate interests pursued by Vente-privee.com
+
+Vente-privee.com may have a legitimate interest justifying the processing of your Personal Data (e.g.: the processing of your Data strictly necessary for the purposes of prevention of fraud in accordance with paragraph II - 6 Fight against fraud )
+
+In this case, Vente-privee.com makes sure that the processing in question is indeed necessary for the pursuit of its legitimate interests and assesses the consequences of this processing for the Member, in particular taking into account the nature of the Data processed and the ways in which it is processed.
+
+The purposes of the processing carried out by Vente-privee.com are detailed in paragraph II  4\. For what purposes is your Personal Data used?  and  II  5\. What is the benefit of seeing promotional offers adapted to your browsing ? . 
+
+Vente-privee.com spontaneously gives its Members the opportunity to oppose certain processing of their Personal Data in paragraph VIII  Express your choices.
+
+If a Member wishes to object to the processing of his Personal Data for which a button has not been provided by Vente-privee.com, he can still exercise his right of opposition under the conditions of paragraph III  Your rights.
+
+Indeed, we make sure not to disregard your interests or your fundamental rights and freedoms by allowing you, at any time, to object to all or part of the processing operations described in this Confidentiality and Privacy Policy, how to implement your Specific Rights, under the conditions of paragraph III  Your rights.
+
+###  ** II  ** ** 2\. What Personal Data is collected?  **
+
+Vente-privee.com collects the Data that you voluntarily provide it with from a collection form on the Site, in particular at the time of your registration as a Member or of an Order, including socio-professional information (your profile, i.e. your surname, common name, first names, gender, date of birth, sponsor and/or sponsorees, delivery address, profession, for example) which Vente-privee.com associates with a Member number.
+
+During an Order, our banking providers also collect and process Personal Data concerning your means of payment (credit card number, expiry date of the credit card, visual cryptogram, which is not kept, etc.). As for us, we process the partial number of your bank card consisting of the first six (6) and last four (4) numbers and the expiry date of your credit card as transmitted by your bank. This payment identifier therefore does not make it possible to perform a bank transaction and is kept for fifteen (15) months, unless you delete it from your Member account.
+
+We also collect information about the transaction (transaction number, purchase details, etc.), or the payment of invoices issued from or via the Site (payment terms, discounts, receipts, balances and unpaid amounts, or relating to loans taken out, amount and duration, name of the lender, etc.).
+
+Some Data is mandatory and some optional, as indicated in the collection form on our Site. 
+
+Vente-privee.com collects and/or receives from its Partners and processes Data relating to the monitoring of the commercial relation with you: product and/or service purchased, service or subscription purchased, quantity, amount, periodicity, delivery and/or billing address(es), telephone number, digicode, as well as any other relevant delivery information (tracking numbers, shipment status, etc.), history of purchases and services, product returns, correspondence and/or telephone exchanges with you and our after-sales service, Members' exchanges and comments, person(s) in charge of the customer relation, etc.
+
+We also collect and process the Data necessary to i) carry out loyalty, prospecting, study, survey, product testing and promotional actions, ii) to organise and process contests, lotteries and any promotional operation such as the date of participation, the answers given to contests and the nature of the prizes offered, iii) Data relating to the contributions of Members who post opinions on products, services, content, the Services or the Site.
+
+We also collect the Data necessary to store your preferences in terms of communication (channel, content and frequency) and display the sales entered on the forms of the Site.
+
+In addition, when you access the Site and/or an electronic medium published by a third party containing promotional campaigns disseminated by Vente-privee.com and/or by the Vente-privee.com Group, Cookies are likely to be used and/or deposited, which register and/or read files on your Terminal, including by our Partners and/or those of the Vente-privee.com Group, to collect and process information relating to your interaction with our Services, and in particular your browsing and behaviour on the Site. 
+
+Vente-privee.com therefore collects and processes Data relating to your browsing and your behaviour on the Site, which takes many forms: your IP address, the pages visited, the brands that interest you, the purchases made, etc. 
+
+Within this framework, subject to your agreement (see Articles VII and VIII below) which may also be expressed by the configuration of your Terminal, Vente-privee.com may also collect and process all or part of the following Data: 
+
+\-   Information related to the Terminal that you use:
+
+\-         The type of Terminal you use (Smartphone, tablet, computer, etc.);
+
+\-         The operating system of your Terminal (Mac OS, iOS, Android, Windows, BlackBerry etc.); 
+
+\-         The plug-in categories and versions of your Terminal;
+
+\-         Your Internet service provider (Orange, SFR, Bouygues, Free, etc.);
+
+\-         The browser used (Safari, Chrome, Internet Explorer, etc.);
+
+\-         The advertising identifier linked to the operating system of your Terminal;
+
+\-         The IP address of your Terminal;
+
+\-         The geolocation data of your Terminal;
+
+\-         Your language preferences. 
+
+  Information about your browsing and your behaviour on the Site
+
+\-          statistics on the consultation of the different pages of our Site (such as the category of goods or services presented on the pages you visit, the time you spend on them, their time stamp, etc.);
+
+\-          the complete URL path to, via and from our Site;
+
+\-          confirmation of receipt and reading of commercial, prospecting or information emails that we have sent you, provided, where applicable, that you have previously agreed.
+
+  Information on the sales spaces and/or promotional banners you access on the Site, and on the media of third parties, the promotional advertisements sent to you and, if applicable, that have been sent to you: 
+
+\-         The URL and/or subject of the website and/or mobile application where you have browsed and where the promotional advertisement may be issued to you and, if applicable, has been issued to you;
+
+\-         The detail of the advertisement(s) that are sent to you and, if applicable, have been sent to you (identity of the advertiser, type of advertisement, etc.);
+
+\-         Your behaviour with respect to this/these advertisement(s) (time spent on advertising, your potential clicks, etc.);
+
+\-         Your behaviour after clicking on the advertisement(s) (downloading an application, answering a questionnaire, etc.);
+
+\-         The number of times you have received the promotional advertisement(s) delivered.
+
+  Information about you (age or age group, gender, declared and/or presumed socio-professional category, presumed interests, etc.) related to your activity on the Internet and/or on the Site (depending on the pages visited, products viewed, searches performed, etc.).
+
+We may allow you to share information about our Services on the websites (in their fixed or mobile version, including the corresponding applications) of social networks (Facebook, Twitter, etc.) of our Partners (hereinafter the " **Social Networks** "), in particular through share buttons, the use of said Social Networks, in particular to facilitate the creation of your Member account or to associate your Member account with your personal account on the Social Networks, in accordance with Article VI below.
+
+Vente-privee.com collects and processes the Data resulting from the configuration of your Member account, such as the frequency and/or time of receipt of the announcements of our sales, our newsletters, our alerts, etc.
+
+** Finally, ** Vente-privee.com may combine all or part of this Data, which is likely to generate new Personal Data even if it is of a strictly interpretative origin. You can exercise your right to access this Data at any time, according to the terms and conditions of paragraph III  2\. How do you exercise your rights?
+
+###  ** II  ** ** 3\. How long is your Personal Data kept by Vente-privee.com? **
+
+Your Personal Data regarding your Member profile as you have declared and/or completed on the Site, as well as that concerning your browsing and/or behaviour on the Site and the promotional advertisements displayed both on the Site and on third-party media by our Partners and/or those of the Vente-privee.com Group, is kept, in an active database, for a period of three (3) years from your last activity on the Site or on an electronic communication medium (in particular an email) of the Vente-privee.com Group as a Member. At the end of this period, your Member profile is considered "inactive" and will be automatically disabled. You will therefore have to create a new one for any new Order. 
+
+However, audience measurement statistics and your raw Site visit data are not kept for more than thirteen (13) months. 
+
+Your Personal Data in relation with an Order on the Site (surname, first name, product or service, delivery/billing address, etc.) is kept for a period of three (3) years following an Order. It remains accessible by you and by us, in particular from your Member account, to allow you and us to have a complete history of your Orders. We can delete it at any time on request from you.
+
+However, at the end of these periods, including where applicable from the date of your deletion request, your Personal Data may be subject to intermediate Archiving to meet our legal, accounting and tax obligations (such as the ten-year retention obligation for invoices set out in Article L.123-22 of the Commercial Code) and/or at least during the applicable limitation period (such as the limitation period under common law of five (5) years enshrined in Article 2224 of the Civil Code), but also to prevent any possible illegal behaviour after the deletion of your Member account (reuse of your old account by a third party, for example) or to respond to your requests after your Member account has been closed, including those regarding Orders, etc.
+
+In case of litigation, including that only concerning Vente-privee.com and/or the Vente-privee.com Group, for example with respect to the administration, the aforementioned Personal Data as well as any information and documents containing Personal Data to establish the facts likely to be reproached or concerning the identification of the persons involved, victims, witnesses and legal officers (surname, common name, first names, gender, date and place of birth, nationality, address, telephone and fax numbers, email address) can be kept for the duration of the proceedings, including for a duration longer than those indicated above.
+
+###  ** II  ** ** 4\. For what purposes is your Personal Data used? **
+
+The operations described below are not used to establish profiles likely to reveal sensitive Personal Data such as racial or ethnic background, philosophical, political, trade union, religious opinions, sexual life or health.
+
+Your Personal Data is necessary to allow you access to our Services, their use and their improvement, and to enable us to:
+
+\-         perform operations relating to our commercial relationship, i.e. concerning your registration to the Services (in particular verifying the veracity of your email), Orders, deliveries, invoices, accounting, monitoring of the " _customer relationship_ " with a Member, such as conducting satisfaction surveys, claims and after-sales service management, refunds, specific commercial gestures, returning Orders, exercising your right of withdrawal, etc.; 
+
+\-         offer you commercial offers close to your geographical location, especially in the context of so-called "Near me" offers through the "In-store collection" service;
+
+\-         select Members to carry out studies, surveys and product tests, as well as loyalty, prospecting and promotional actions;
+
+\-         carry out prospecting operations, i.e. the management of technical prospecting operations (which includes technical operations such as standardisation, enrichment and deduplication); 
+
+\-         the performance of commercial solicitation operations;
+
+\-         the development of trade statistics, analysis and marketing tools (including classification, score, etc.);
+
+\-         the organisation of contests, lotteries or any promotional activity other than online gambling subject to the approval of the Online Games Regulatory Authority; 
+
+\-         the management of requests for the exercise of the Specific Rights specified in Article III below;
+
+\-         the management of non-payments and litigation;
+
+\-         the management of your comments on the Website and/or on the web pages published by us and hosted on the websites of our Social Networks; 
+
+\-         the fight against fraud and in particular to reduce the triggering of the 3D Secure protocol when Members pay according to the evaluation of the Terminals, verification of the transactions and Order returns (see II-6 below).
+
+More specifically, the Personal Data collected from the Cookies that we and/or the Vente-privee.com Group, or our Partners, deposit on your Terminal under the conditions of Article VII allows us to:
+
+\-         establish statistics and volumes concerning the number of visits and use of the various elements of our Site (sections and contents visited, journeys), allowing us to improve the interest and the ergonomics of our Services;
+
+\-         adapt the presentation of our Site to the display preferences of your Terminal (language used, display resolution, operating system used, etc.) during your visits to our Site, depending on the hardware and visualisation or reading software that your Terminal contains;
+
+\-         memorise information relating to a form that you have filled in on our Site (registration or access to your account) or Orders (service subscribed, contents of a shopping cart, etc.); 
+
+\-         allow you to access the reserved and personal areas of our Site, such as your account, by means of identifiers or Data that you may have previously entrusted to us;
+
+\-         implement security measures, such as when you are asked to sign in again to a content or Service after a certain period of time;
+
+\-         count the number of displays and activations of our sales areas and/or promotional offers, including on electronic media published by third parties and/or Partners, to identify these contents and media, to determine the number of users having clicked on each content;
+
+\-         calculate the sums possibly due to our Partners of the advertising chain (communication agency, advertising agency, dissemination site/medium) and to establish statistics; 
+
+The combination of your Data is also useful to facilitate, specify, anticipate the processing operations whose purposes are recalled above and below.
+
+###  ** II  ** \-  ** 5\. What is the benefit of seeing promotional offers adapted to your browsing? **
+
+Subject to your consent, your Personal Data is also necessary to enable us to:
+
+\-         propose offers of Partners and/or the Vente-privee.com Group according to your choices;
+
+\-         personalise our Services, in particular by personalising the Site according to your perceived and/or declared and/or suggested preferences and your needs;
+
+\-         personalise our communication to your attention, including information emails, based on your perceived and/or declared and/or suggested preferences, your needs and your choices;
+
+More specifically, the Personal Data collected from the Cookies that we and/or the Vente-privee.com Group, or our Partners, deposit on your Terminal under the conditions of Article VII allows us to:
+
+\-         adapt the presentation of the Site which leads to one of our sales areas and/or promotional offers:
+
+\-         according to the display preferences of your Terminal (language used, display resolution, operating system used, etc.) during your visits to our Site, and depending on the hardware and visualisation or reading software that your Terminal contains;
+
+\-         according to the location Data (longitude and latitude) that is transmitted to us (or to our Partners) by your Terminal with your prior agreement.
+
+\-         according to your customer profile.
+
+\-         monitor the subsequent navigation carried out by your Terminal on our Site and/or electronic media published by Partners.
+
+Finally, subject to your consent and under the conditions of Article II  \-  7, all this Data also allows us to provide you on the media of third parties and/or Partners with relevant and personalised advertising for products or services that may be of interest to you, in particular depending on your browsing behaviour. The Data collected in this last case may also be used for the purposes of reporting on the performance of the promotional operations implemented.
+
+Our goal is to present you with the most relevant offers possible on our Site and, if necessary, on third-party media. To this end, the Cookies technology makes it possible to determine in real time which offer to display on a Terminal, according to your recent navigation on Internet.
+
+You no doubt prefer to see offers of products and services that correspond to what you are interested in, rather than offers that are of no interest to you.
+
+However, if this is not the case, you can always exercise your right of opposition in paragraph VIII - Express your choices.
+
+###  ** II  ** \-  ** 6 Fight against fraud **
+
+Vente-privee.com is convinced of the need to take measures against fraud that endangers consumers and their trust in online commerce. 
+
+To ensure the security of payments during transactions on our Site, avoid fraud and thus protect consumers in the context of distance selling, Vente-privee.com may be required to carry out an automated processing of Data whose purpose is to control Orders and/or to have them controlled by its Partners, and to check the accuracy of the information transmitted to it during these transactions. This verification involves a processing of Personal Data collected through the Site. 
+
+Therefore, if an Order does not present, or does not seem to present all the necessary guarantees to ensure a compliant and secure payment, Vente-privee.com reserves the right to cancel the Order. Vente-privee.com and/or its Partner(s), if it/they consider it necessary, may ask you for additional information and documents to finalise the Order.
+
+If the Order is not paid within the time limit, Vente-privee.com may be forced to cancel the Order and to record some of your Personal Data in a " _payment incidents_ " file. In this case, the Member concerned will be informed by email when the incident leading to his inclusion in this file occurs. This email will specify in particular the reasons and consequences of this inclusion and how to exercise the Specific Rights. As soon as the Member's payment is received by the Vente-privee.com Recovery Service, his Personal Data will be deleted from the aforementioned file and the Order process reactivated. Until then, the Personal Data contained in the " _payment incidents_ " file (in particular the IP addresses used by the Member) will be shared with the Vente-privee.com Group as needed, to prevent any further Order, up to **two (2) years** after the incident giving rise to the suspension, unless the incident at the origin of the report is closed, subject to an additional storage in the Intermediate Archives.
+
+More generally, any fraudulent behaviour of a Member on the Site, in particular with regard to these GCS, may result in the suspension, including as a precautionary measure, of the Member's Account and the inclusion of some of his Personal Data in a corresponding file. In this case, the Member concerned will be notified by any means, as well as how to exercise the Specific Rights. 
+
+As soon as the Member's payment is received by the Vente-privee.com Recovery Service, his Personal Data will be deleted from the aforementioned file and his Member account reactivated. Until then, the Personal Data contained in the " _suspension as a precautionary measure_ " file (in particular the IP addresses used by the Member) will be shared with the Vente-privee.com Group as needed, to prevent the creation of any new Account, up to **three (3) years** after the incident giving rise to the suspension, unless the incident at the origin of the report is closed, subject to an additional storage in the Intermediate Archives.
+
+###  ** II - 7 What information do we share with third parties? **
+
+All your Personal Data that has been collected by Vente-privee.com and/or the Vente-privee.com Group is strictly confidential. 
+
+Vente-privee.com will never transmit your Personal Data to any third party likely to use it for its own purposes, and in particular for commercial and/or direct advertising purposes, without your express consent.
+
+However, Vente-privee.com may communicate your Personal Data to respond to an injunction of the legal authorities.
+
+** II-7.1 ** Vente-privee.com may be required to temporarily and securely transfer to third parties (Partners, Vente-privee.com Group), some Personal Data which is necessary in particular for the operation, coordination and maintenance of our Site, to send the emails you have chosen to receive and/or perform tasks necessary for the execution of Services, your Order, to ensure the delivery of goods, the performance of services and/or the reservation of certain goods in store, to fight against fraud and more generally any criminally punishable activity, for certain aspects of the after-sales service and to carry out satisfaction surveys, etc. 
+
+In fact, some Data relating to our sales dedicated to eroticism for example, or to products or services reserved for adults, is collected. However, Vente-privee.com only communicates to its Partners concerned and/or to the entity(ies) of the Vente-privee.com Group concerned the Data declared at the time of a purchase on these specific sales and strictly necessary to complete the sale and its delivery, as well as, if applicable, the after-sales service. 
+
+The browsing and/or behavioural Data relating to this type of sale is not communicated. 
+
+Our Partners concerned and/or the entity(ies) of the Vente-privee.com Group who may have access to your Data processes it on our behalf, according to our instructions, in accordance with this Confidentiality and Privacy Policy and any appropriate security and privacy measures.
+
+In this respect, when these Partners are located outside the European Union, or in a country which does not have adequate regulations within the meaning of the Personal Data Regulations ( <https://www.cnil.fr/fr/la-protection-des-donnees-dans-le-monde>) , we govern our contractual relationship with this Partner by adopting an appropriate contractual mechanism (see II-8)
+
+** II-7.2 ** Among the companies of the Vente-privee.com Group recipients of your Personal Data, Adotmob may be required to process your Data, if you have consented. 
+
+Adotmob buys, in real time, on electronic media published by third parties (websites in their fixed and/or mobile versions, including applications), advertising spaces in the name and on behalf of advertisers, including Vente-privee.com and/or the Vente-privee.com Group, depending on the profile of the internet user/mobinaute (including Members), the profile established in particular on the basis of the Personal Data communicated to Adotmob by the publisher of said medium and/or its Partners (hereinafter referred to as " **Third-Party Data** ") as well as by Vente-privee.com and/or the Vente-Privee.com Group.
+
+The Personal Data communicated by Vente-privee.com and/or by the Vente-privee.com Group to Adotmob, in particular following the deposit of one of its Cookies on your Terminal from our Site, crossed and/or combined with the Third-Party Data, will therefore allow Adotmob to identify you when you browse an electronic medium published by one of its Partners, as a Member of Vente-privee.com, but also to know your preferences as identified by Vente-privee.com and/or by the Vente-privee.com Group. This Data is associated with an identifier that varies depending on the browser and mobile application environments you use (IDFA for applications and Cookies for web and mobile desktop). Adotmob may therefore use the results of this crossing of Personal Data to send you targeted advertising on an electronic medium published by its Partner, but also communicate these results to Vente-privee.com.
+
+If you have not given your consent on the Site to receive the targeted advertising of third parties on third-party media, Adotmob may nevertheless, if appropriate, disseminate on said media for your attention, on the electronic media concerned, advertising only for Vente-privee.com.
+
+In addition, you should be aware that your refusal to receive targeted advertising disseminated by Adotmob will not result in a total absence of delivery of advertisements on the aforementioned third-party media, but only an absence of delivery of targeted advertising. 
+
+In particular, you can read the Adotmob Privacy Policy by clicking here.
+
+###  ** II  ** \-  ** 8\. Hosting your Personal ** **Data**
+
+The Internet is a publicly accessible global computer network composed of millions of public and private networks through which information travels. As a result, even before arriving on our servers in France, the Data coming from your Terminal has already passed through servers located around the world, irrespective of any action of Vente-privee.com.
+
+  
+Vente-privee.com is present across different countries but your Data is only stored on secure servers located in France, or at least in the European Union. In order to operate certain Services and features on the Site, Vente-privee.com (and/or its subcontractors within the meaning of the Personal Data Regulations) may be required to transit the Data through its servers and/or those of its Partners who may be located throughout the world and/or host Data in countries that have laws that provide a level of data protection that is either in line with the Personal Data Regulations, or different. 
+
+In any event, Vente-privee.com naturally takes the appropriate steps to maintain an adequate level of confidentiality and security of your Personal Data during its transfer and receipt, contractually requiring of all its subcontractors and service providers that they implement any appropriate technical and organisational measures, on an ongoing basis, to secure the Personal Data and provide it with the same level of protection as that required by the Personal Data Regulations. 
+
+These Partners are bound by contract with Vente-privee.com, which includes contractual clauses relating to the regularisation of these transfers of Personal Data in accordance with the Personal Data Regulations, for example standard contractual clauses (as published by the European Commission) and ensures in particular a high level of Data protection confidentiality. Vente-privee.com requires all its subcontractors and service providers to implement any necessary technical measure, on an ongoing basis, to keep Personal Data secure and ensure the same high level of protection of Personal Data as that required by the Personal Data Regulations.
+
+To date, the Partners involved are:
+
+Country of establishment of the recipient of the data | Nature of data transferred | Purpose of the contemplated transfer | Categories of data recipients | Level of protection offered by the country or exception provided by the Personal Data Regulations  
+---|---|---|---|---  
+Senegal | Senegal All data authorised by the [Norme Simplifiée 48](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033117877&dateTexte=&categorieLien=id) | Email management and call centre | Service provider (Arvato subsidiary) | [EC Standard Clauses from Data Controller to Processor](https://www.cnil.fr/sites/default/files/typo/document/CCT-2010-Ss_Traitants_VF.pdf)  
+USA | Civil status, connection data | Content Delivery Network: acceleration of access to websites and reliability of site navigation | Service provider (Amazon Web Services) | [EC Standard Clauses from Data Controller to Processor](https://www.cnil.fr/sites/default/files/typo/document/CCT-2010-Ss_Traitants_VF.pdf)  
+USA | Civil status | Fight against fraud: : possibility to cancel an Order in case of assessment of a high risk of payment fraud | provider (Accertify) | [Privacy Shield](https://www.privacyshield.gov/welcome)  
+United Kingdom | Civil status, connection data, location data | Fight against fraud: reduction of the triggering of the 3D Secure protocol at the time of the payment by members, according to the evaluation of the terminals | Service provider (Experian) |    
+USA | Civil State, professional life, personal life | Management and monitoring of exchanges and comments on Vente-Privee.com on the dedicated pages of social networks, coordination and communication of roadmaps and schedules on the dedicated pages of social networks | Service provider (Sprinklr) | [EC Standard Clauses from Data Controller to Processor](https://www.cnil.fr/sites/default/files/typo/document/CCT-2010-Ss_Traitants_VF.pdf)  
+  
+This table does not include Data transmitted and/or collected using Cookies.
+
+>
+
+On this subject, please refer to the table accessible by clicking [here](http://static.vente-privee.com/vp5/_common/CGV/en-EN/Cookies_list.pdf)
+
+##  III - Your rights
+
+Vente-privee.com is committed to respecting your rights and has a Data Protection Officer, registered as such with the CNIL and who can be reached at privacy@vente-privee.com.
+
+###  ** III - 1. What are your rights? **
+
+In accordance with the Personal Data Regulations, you have the following Specific Rights: 
+
+\-         access (Article 15 of the GDPR), 
+
+\-         rectification (Article 16 of the GDPR),
+
+\-         erasure (Article 17 of the GDPR),
+
+\-         limitation of processing (Article 18 of the GDPR),
+
+\-         portability (Article 20 of the GDPR),
+
+\-         opposition (Articles 21 and 22 of the GDPR),
+
+\-         post-mortem instructions (Law No. 78-17 of January 6, 1978 on computers, files and freedoms); 
+
+####  III  \-  1.1 Rights of access 
+
+You have the option to obtain from Vente-privee.com confirmation that the Data concerning you is or is not processed and, when it is, access to said Data as well as the following information: 
+
+a)       the purposes of the processing; 
+
+b)       the categories of Data; 
+
+c)       the recipients or categories of recipients to whom the Data has been or will be communicated; 
+
+d)       when possible, the intended Data retention period or, when this is not possible, the criteria used to determine this period; 
+
+e)       the existence of the right to request Vente-privee.com to rectify or erase Data, or a limitation of the processing of your Data, or the right to oppose such processing; 
+
+f)        the right to lodge a claim with the CNIL; 
+
+g)       when the Data is not collected from you, any information available as to its source; 
+
+h)       the existence of automated decision making, including profiling, and, at least in such cases, useful information about the underlying logic, as well as the significance and intended consequences of that processing for you. 
+
+When the Data is transferred to a third country or an international organisation, you have the right to be informed of the appropriate guarantees with respect to this transfer. 
+
+Vente-privee.com provides a copy of the Data that is subject to processing. 
+
+Vente-privee.com may require the payment of reasonable fees based on the administrative costs for any additional copy requested by the Member.
+
+When you submit your request electronically, the information is provided in a commonly used electronic form, unless the Member requests otherwise. 
+
+Your right to obtain a copy of your Data must not affect the rights and freedoms of others. 
+
+####  III  \-  1.2 Rights of rectification 
+
+You have the possibility to obtain from Vente-privee.com, as soon as possible, the rectification of Data concerning you which is inaccurate. You also have the possibility to have incomplete Data completed, including by providing a supplementary declaration.
+
+####  III  \-  1.3 Rights to erasure
+
+You have the possibility to obtain from Vente-privee.com the erasure, as soon as possible, of Data concerning you when one of the following reasons applies:
+
+a)       the Data is no longer necessary for the purposes for which it was collected or otherwise processed by Vente-privee.com; 
+
+b)       you have withdrawn your consent to the processing of such Data and there is no other legal basis for the processing; 
+
+c)       you exercise your right to object under the conditions set out below and there is no compelling legitimate reason for the processing; 
+
+d)       the Data has been unlawfully processed; 
+
+e)       the Data must be erased to fulfil a legal obligation; 
+
+f)        the Data was collected from a child.
+
+####  III  \-  1.3 Rights to limitation 
+
+You have the possibility to obtain from Vente-privee.com the limitation of the processing of your Data when one of the following reasons applies:
+
+a)       Vente-privee.com verifies the accuracy of the Data following your challenge of the accuracy of the Data, 
+
+b)       the processing is illegal and you oppose the erasure of the Data and require instead the limitation of its use; 
+
+c)       Vente-privee.com no longer needs the Data for the purposes of processing but it is still necessary for you to ascertain, exercise or defend legal rights; 
+
+d)       You have objected to the processing under the conditions described below and Vente-privee.com checks to see if the legitimate reasons pursued prevail over your alleged reasons.
+
+####  III  \-  1.4 Right to Data portability 
+
+You have the possibility to receive from Vente-privee.com the Data concerning you, in a structured format, commonly used and readable by machine when: 
+
+a)       the Data processing is based on consent, or on a contract and 
+
+b)       the processing is performed using automated methods. 
+
+When exercising your right to portability you have the right to have the Data sent directly by Vente-privee.com to a data controller you designate, when this is technically possible. 
+
+Your right to the portability of your Data must not affect the rights and freedoms of others.
+
+####  III  \-  1.5 Right of opposition
+
+You have the right to object at any time, for reasons relating to your particular situation, to a processing of your Data based on the legitimate interest of Vente-privee.com. Vente-privee.com will no longer process the Data unless it demonstrates that there are legitimate and compelling reasons for the processing that prevail over your interests and your rights and freedoms, or may retain it for the purpose of the ascertainment, exercise or defence of rights in court. 
+
+When the Data is processed for prospecting purposes, you may object at any time to the processing of such Data in paragraph VIII  \-  Express your choices .
+
+If a Member wishes to object to the processing of his Personal Data for which a button has not been provided by Vente-privee.com, he can still exercise his right of opposition under the conditions of paragraph III  \-  Your rights.
+
+####  III  \-  1.6 Post-mortem instructions 
+
+You can provide us with instructions regarding the retention, deletion and communication of your Personal Data after your death. These instructions can also be recorded with a " _certified digital third party_ ". These instructions, or a kind of " _digital will_ ", may designate a person responsible for their execution; otherwise, your heirs will be designated. 
+
+In the absence of any instructions, your heirs may contact Vente-privee.com to:
+
+\-         access Data processing allowing " _the organisation and settlement of the estate of the deceased_ "; 
+
+\-         receive communication of " _digital assets_ " or " _data akin to family souvenirs, transmissible to heirs_ "; 
+
+\-         have your Member account on the Site closed and oppose further processing of your Personal Data. 
+
+In any event, you can inform us, at any time, that you do not wish, in case of death, that your Personal Data be communicated to a third party. 
+
+###  ** III  ** \-  ** 2\. How can I exercise my Specific Rights? **
+
+To exercise your Specific Rights with Vente-privee.com and/or, if necessary, obtain an oral reading of this Policy, you can send your request:
+
+\-         By email to our Data Protection Officer at  [ modifications@vente-privee.com ](mailto:modifications@vente-privee.com) ,
+
+\-         By going to the Website, in the section _"Member / Questions relating to my account"_ (accessible by clicking here ), selecting the section you want,
+
+\-         By letter to our Data Protection Officer at the following address:
+
+Vente-privee.com
+
+Member Relations Service
+
+TSA 91531
+
+91853 ORSAY CEDEX
+
+You will receive a reply within a maximum period of one (1) month from the date of receipt of your request.
+
+If necessary, this period may be extended by two months by Vente-privee.com which will notify you, depending on the complexity and/or number of requests.
+
+In the event of a request to delete your Data and/or if you exercise your right to request the deletion of your Data, we may however retain it in the form of intermediate Archiving, for the duration necessary to meet our legal, accounting and tax obligations and, in particular, to prevent any possible illegal behaviour after the deletion of your account (reuse of your old account by a third party), in accordance with Article II-3 of this Confidentiality and Privacy Policy.
+
+It is specified as necessary that the request to delete your Member account from the Site is not interpreted by Vente-privee.com as an express request to exercise your right to oppose, limit or delete for legitimate reasons. Your Member account is thus rendered inactive and the Data concerning you is the subject of Intermediate Archiving under the conditions and for the durations indicated above.
+
+You can also choose the types of emails that you want to receive or not, by going to the _"My communications"_ section. You will thus be able to unsubscribe, permanently or temporarily, from each category or from all the emails. 
+
+An unsubscribe link is also included in each email that Vente-privee.com sends you. 
+
+You may also at any time ask to stop receiving advertisements or surveys adapted to the browsing information of your Terminal, by contacting us directly and free of charge, or by using the unsubscribe link included in any prospecting we send you by email. In this case, advertisements that you may continue to receive, unless you exercise your right to object, will no longer be adapted to the browsing of your Terminal. 
+
+You may, at any time, make a claim to the competent supervisory authority (in France, the CNIL:  [ www.cnil.fr ](http://www.cnil.fr/) )
+
+##  IV  \-  Secure browsing on the Internet
+
+###  ** IV  ** \-  ** 1\. Integrity of your Data on the Internet **
+
+We implement effective means to ensure that your Data is secure. This is why we use control measures that are technical, physical and procedural which are implemented at the time of collection, processing and transfer of your Data.
+
+The security of the Site is the daily work of teams dedicated to this specific matter. 
+
+To provide our Members with the necessary security while maintaining the usual browsing comfort, several mechanisms have been implemented.
+
+Connection to our Site is carried out via a secure connection using SSL (Secure Socket Layer) technology. Access can only be gained by entering your Member ID and password, which are personal to you. 
+
+###  ** IV  ** \-  ** 2\. Malicious use **
+
+Nevertheless, you must protect the password of your account and not communicate it to anyone.
+
+To do so, your password must consist of at least 8 characters and a special character, not be composed of the surname, first name or an email address used for your registration. After four unsuccessful attempts, the account will be blocked.
+
+You must also be careful and use good judgement when using one of our community spaces, including those managed by our Partners, such as the social networks: no employee of Vente-privee.com will ask you for your password. 
+
+We also recommend that you do not disclose information that can identify you or identify a third party. If you do, we cannot be held responsible on this account. In addition, Vente-privee.com asks you to contact us immediately if you discover an unauthorised or suspicious use of your Data in connection with Vente-privee.com by writing to us at the email address  [ spoof@vente-privee.com ](mailto:spoof@vente-privee.com) .
+
+Your password and the links to the Site sent in our emails are for your sole attention, and are confidential.
+
+  
+The emails received from Vente-privee.com, the connection links they contain and your passwords must never be transmitted to other people, to avoid any risk of identity theft.
+
+  
+Apart from Vente-privee.com to which you have voluntarily transmitted your Data and in particular your email address and account, given the nature of the Internet, other operators, who have no connection with Vente-privee.com, are able to capture this Data without your consent, in particular when you browse the Internet. Accordingly, we recommend that you install anti-virus and anti-spyware software and update them regularly.
+
+  
+Indeed, although the Vente-privee.com infrastructures are protected from malicious software called "malware" (viruses, trojans, worms, spyware, etc.), the security of your Terminal and your network remains your responsibility. We recommend that you have an up to date anti-virus on your Terminal, do not let anyone access your wired or wireless home network or WIFI and check that your communications with the Internet are legitimate. You can also install a firewall on your computer.
+
+###  ** IV  ** \-  ** 3\. Identity theft / Phishing **
+
+  
+Because Vente-privee.com does everything possible to offer you a safe browsing experience on the Site, you will never be asked for your username and password. Vente-privee.com will never send you an email to ask for Personal Data or financial information. You should only provide your account information after logging on to the Site directly through your browser.
+
+  
+If you receive an email from Vente-privee.com that you think is fraudulent, let us know by forwarding it to:  [ spoof@vente-privee.com ](mailto:spoof@vente-privee.com) . We work with the competent authorities to arrest and prosecute fraudsters and identity thieves.
+
+  
+If you suspect that your Vente-privee.com account has been spoofed, contact our Member Relations Department as soon as possible, from Monday to Friday from 7am to 8pm and Saturday from 9am to 5pm:
+
+  
+\- from **France** , on: 
+
+  \- from **Belgium** , on **078 600 087**  (cost of a local call from a landline)
+
+In case of fraud concerning your credit card, please contact your bank.
+
+##  V  \-  Security of online payments
+
+The Site uses one of the most effective security systems at the present time. Vente-privee.com has not only adopted the SSL (Secure Socket Layer) encryption process but has also strengthened all scrambling and encryption processes for the best possible protection of all so-called "sensitive" Data related to means of payment.
+
+For the security of transactions, Vente-privee.com uses the Sogenactif system, developed by Société Générale (https://www.societegenerale.com/sites/default/files/documents/charte-donnee-groupe-societe-generale.pdf), the Mercanet system developed by BNP-Paribas (https ://mabanque.bnpparibas/rsc/contrib/pdf/Charte-donnees-personnelles.pdf), and the be2bill system developed by Dalenys (https://www.dalenys.com/mentions-legales/).
+
+  
+When paying on the Site, your bank details are encrypted on your Terminal, then transmitted in unintelligible form to servers which are solely capable of decrypting them. The authorisations and data are then checked with your bank to prevent abuse and fraud. 
+
+  
+This process is based on the HTTPS protocol (implementation of SSLv3 or TLSv1 on HTTP), currently one of the most robust. 
+
+During transfers via the Internet, it is therefore impossible to read them: no unencrypted information passes through the Internet or mobile telecommunication networks. 
+
+  
+When paying, you have the possibility of saving the details of your credit card to facilitate your future purchases on our Site. We collect your express consent for this purpose, in accordance with the recommendations of the CNIL.
+
+  
+This information is collected, stored and secured only by our Partners subject to the "PCI-DSS" (Payment Card Industry Data Security Standard). 
+
+  
+The rules for using bank cards require banks domiciled in France to cover the risk of fraudulent use of your card.
+
+  
+We remind you that you must notify any fraudulent transaction to your bank or issuer of your card as soon as possible.
+
+** Express payment **
+
+  
+Société Générale, BNP-Paribas and Dalenys have been chosen by Vente-privee.com, with which you perform your purchase on the Site so that, if you wish, your credit card Data can be stored in a secure manner and used for future payments on our Site.
+
+  
+Société Générale and BNP-Paribas collect the Data relating to your credit card (card number and expiry date) to facilitate your future payments on our Site. This Data is not intended to be used for commercial prospecting purposes. It may be communicated to us, as necessary, with regard to the purpose mentioned above and to the subcontractor(s) of Société Générale and/or BNP-Paribas established in the European Union. 
+
+The Data transfers made necessary take place in conditions and with safeguards to ensure the protection of your Personal Data.
+
+  
+You have the same Specific Rights as those mentioned in Article III above. These Specific Rights may be exercised by sending a letter to Vente-privee.com, which will pass your request on to the banking institutions concerned, responsible for the processing of your Data, to the following address: Vente-privee.com, Member Relations Service, 5 bis, rue Francis de Pressensé 93457 La Plaine Saint-Denis Cedex or by email to  [ modifications@vente-privee.com ](mailto:modifications@vente-privee.com)
+
+##  VI  \-  Social networks
+
+Vente-privee.com is present on the Social Networks. In particular, we have our Facebook, Twitter, YouTube, Instagram, etc. web pages, whether fan pages or dedicated applications. We remind you that access to these Social Networks requires your acceptance of their contractual conditions containing provisions relating to the Personal Data Regulations for the processing they perform, irrespective of our pages on said Social Networks.
+
+To learn more about the protection of your Personal Data when browsing these Social Networks, we invite you to consult their respective privacy policies.
+
+In order to enable you to register or connect more easily to our Site, you have the possibility to authenticate yourself on our Site via the account of a Partner Social Network. All you have to do is click on the button such as " _Facebook Connect_ " (find out more here ) if you have a Facebook account to automatically pre-fill your Vente-privee.com registration with the information you have already provided to the Facebook Social Network. We are able to collect information, as recipient, when you browse the pages of our Social Networks or use their authentication features.
+
+Depending on the Social Network used, you will be able to have access to many features such as registration as a Member of Vente-privee.com, access to current sales events, registration for future sales, recommendation of sales to contacts of the Social Network, sharing of sales on your personal page within the Social Network, the creation of events, visualization of the list of Orders, sponsorship via recommendation of the Site, sharing of applications, etc. 
+
+For these purposes, Vente-privee.com may, with your prior agreement, collect your surname, first name, date of birth, possible profile photo, gender, networks, Social Network user ID, list of friends and all information made public and more generally Personal Data.
+
+In addition, due to the use of Social Networks, some Cookies may be issued from the electronic media of these Social Networks by entities other than Vente-privee.com and/or the Vente-privee.com Group and the issue and use of Cookies by third parties and/or Partners are subject to the privacy policies of these third parties and/or Partners. We inform you of the purpose of Cookies we are aware of issued from our Sites and the means available to you to make choices with regard to these Cookies. For more information, please consult the section " **Cookies issued on the Site by our Partners** " below, and more generally the contractual conditions of navigation of the various communication media that you can consult.
+
+You can access the privacy policies of Social Networks by clicking on the links below: 
+
+\-   Facebook
+
+\-   Instagram
+
+\-   Twitter
+
+\-   Youtube
+
+##  VII  \-  "Cookies"
+
+A "cookie" is a text file that can be saved, subject to your choices, in a dedicated space of the hard drive of your Terminal, when consulting the Site. A cookie file allows its issuer to identify the Terminal in which it is stored, during the period of validity or storage of the cookie and must therefore be considered as Personal Data.
+
+When consulting our Site, the information indicated in Article I-2 may be stored in the cookie files installed on your Terminal, subject to the choices you have expressed concerning Cookies and that you can change at any time.
+
+###  ** VII  ** \-  ** 1\. What are Cookies used for on our Site? **
+
+  
+Only the issuer of a Cookie can read or modify the information it contains.
+
+** The Cookies we issue on our Site **
+
+When you connect to our Site, we may, depending on your choices, install various Cookies in your Terminal allowing us to recognise the browser of your Terminal during the period of validity of the Cookie concerned. The Cookies we issue are used for the purposes described above in Article II-4, subject to your choices, which result from the settings of your browser software used during your visit to our Site.
+
+In accordance with Article I-2 above, Vente-privee.com and/or the Vente-privee.com Group deposits one or more Cookies on our Site which have a lifespan of thirteen (13) months.
+
+-
+
+** Cookies issued on the Site by our Partners **
+
+  
+Due to third-party applications integrated into our Site, some Cookies may be issued by our Partners and the issuance and use of Cookies by these Partners, are subject to the privacy policies of these Partners. We inform you of the purpose of Cookies we are aware of and the means available to you to make choices with regard to these Cookies.
+
+  
+We may include computer applications from Partners on our Site that allow you to share content on our Site with other people or to inform these other people of your consultation or opinion regarding content on our Site. This is the case in particular for the buttons "Share", "I like", from the Social Networks such as Facebook, "Twitter", etc.
+
+  
+The Social Network providing such an application button is likely to identify you with this button, even if you have not used this button during your consultation of our Site. Indeed, this type of application button can allow the Social Network concerned to follow your browsing on our Site, simply because your Social Network account was activated on your Terminal (open session) during your visit to our Site.
+
+  
+We have no control over the process used by these Partners to collect information about your visits to our Site and associated with the Personal Data they have. We invite you to read the privacy policies of these Social Networks to find out the purpose of the use, in particular for advertising, of the browsing information they may collect through these application buttons. These privacy policies must enable you to exercise your choices with these Social Networks, in particular by setting up your user accounts for each of these Networks.
+
+The complete list of Cookies present on the Site is accessible [here](http://static.vente-privee.com/vp5/_common/CGV/en-EN/Cookies_list.pdf) .
+
+###  ** VII  ** \-  ** 2\. Your choices regarding Cookies  ** ** **
+
+  
+Several possibilities are available to you to manage Cookies. Any configuration you may perform may change your Internet browsing and your conditions of access to some services that require the use of Cookies. 
+
+  
+You may choose at any time to express and modify your wishes regarding Cookies, by the means described below.
+
+####  VII - 2.1 The choices offered to you by Vente-privee.com
+
+In accordance with the Personal Data Regulations, Vente-privee.com obtains your consent, in particular via a banner-cookie, before allowing Cookie registration on your Terminal.
+
+The list of Cookies is accessible [here](http://static.vente-privee.com/vp5/_common/CGV/en-EN/Cookies_list.pdf) .
+
+The aforementioned banner-cookie provides the possibility for you to set the various cookies, such as advertising cookies, relating to audience, personalisation of services and those of Social Networks.
+
+You can modify your choices at any time and, if necessary, disable these Cookies (with the exception of browsing Cookies which are essential to use our Site) by clicking here .
+
+We will then store in your Terminal a Cookie whose only purpose is to disable the deposit of these Cookies on your Terminal. This cookie will be valid for thirteen (13) months.
+
+** NB:  ** taking your choice into account is based on a cookie. If you delete all the Cookies stored in your terminal (via your browser), we - or our Partners - will no longer know that you have chosen this option. 
+
+####  VII  \-  2.2 The choices offered to you by your browser 
+
+  
+You can configure your browser software for each Terminal so that Cookies are saved in your Terminal or, conversely, rejected, either systematically or depending on their issuer. You can also configure your browser software for each Terminal so that the acceptance or rejection of Cookies is proposed each time, before a Cookie is likely to be stored on your Terminal. For more information, see " _How do you exercise your choices, depending on the browser you use?_ " below.
+
+** (a)     ** ** Agreement on Cookies  **
+
+The storage of a Cookie in a Terminal is essentially subject to the will of the user of the Terminal, which he can express and change at any time and free of charge through the choices offered to him by the browser software of said Terminal. 
+
+If you have accepted the storage of Cookies on each Terminal in your browser software for each Terminal, Cookies embedded in the pages and content you have viewed may be temporarily stored - without exceeding thirteen (13) months - in a dedicated space of your Terminal. They will be readable only by their issuer.
+
+** (b)     ** ** Refusal of Cookies **
+
+**   **   
+If you refuse the storage of Cookies in each Terminal, or if you delete those stored there, you will no longer be able to benefit from a number of features which are nevertheless necessary to browse some spaces of our Site. This would be the case if you tried to access our content or Services that require you to identify yourself. This would also be the case when we - and/or our Partners - cannot recognise, for technical compatibility purposes, the type of browser used by your Terminal, its language and display settings or the country from which your Terminal appears to be connected to the Internet.
+
+  
+In this case, we cannot accept any liability for the consequences related to the poor functioning of our Services due to our inability to store or consult the Cookies necessary for their functioning and that you have refused or deleted.
+
+** (c)     ** ** How do you exercise your choices, depending on the browser you use? **
+
+To manage Cookies and your choices, the configuration of each browser is different. It is described in the help menu of your browser, which will allow you to know how to change your options regarding Cookies.
+
+You can also consult our web page which explains how to delete your cookies.
+
+#### (d) Disabling Google Analytics Cookies
+
+     Name of the Cookie used: :  
+                     _ga
+
+     Type of Cookie :  
+                     audience cookie
+
+You can prevent the use and deposit of this Cookie on your Terminal by going to <https://tools.google.com/dlpage/gaoptout?hl=fr>
+
+#### (e) Disabling Xiti Cookies
+
+     cookies used:  
+                     idrxvr  
+                     idrxvr
+
+     Type of Cookie :  
+                     audience cookie
+
+You can prevent the use and deposit of this Cookie on your Terminal by going to <http://www.xiti.com/fr/optout.aspx>
+
+#### (f) Deleting your cookies
+
+You can delete all of your Cookies, or just the ones you want. Deleting Cookies does not prevent browsing, or their reinstallation during browsing. This allows you to control the Cookie library of your browser at any given time. Technical Cookies, necessary for browsing, will be reinstalled if you visit the Website.
+
+Below, we explain the procedure to follow depending on your browser.
+
+**Chrome**
+
+            In the Chrome menu, select "Settings"
+
+            View advanced settings
+
+            Go to the paragraph "Confidentiality"
+
+            Click on "Content Settings"
+
+            In the paragraph "cookies" (first paragraph), click on "cookies and site data"»
+
+            Find the Cookies you want to delete and click "OK". You can also choose to delete all your Cookies.
+
+**Firefox**
+
+            In the Firefox menu, go to "Tools" and then "Options"
+
+            On the "Privacy" tab, click on "Show cookies"
+
+            Find the cookies you want to delete and click on "Delete cookies"
+
+**Internet Explorer**
+
+Internet explorer does not allow the management of Cookies on a case by case basis. To delete all your Cookies:
+
+            Click on "Tools" and then "Internet Options"
+
+            In the "General" tab, "Browsing history" section, click on "Delete" »
+
+            Check the "cookies" box and click on "Delete"
+
+**Safari**
+
+            In the Safari menu, select "Preferences"
+
+            In the window that opens, go to the "Security" tab Sécurité »
+
+            Click on "Show Cookies".
+
+            In the window that opens, find and select the Cookies you want to delete, and click on "Delete"
+
+#### (g) Private browsing
+
+The "Private Browsing" mode, now proposed by all browsers, mainly allows browsing without keeping a history of the pages visited or downloads. Regarding Cookies, all those that have been saved during your browsing will be deleted when you close your browser. It therefore is not a solution that allows you to refuse Cookies; however, their lifespan remains limited to the duration of your navigation.
+
+#### (h) Disabling Third-party Cookies
+
+The disabling of third-party Cookies allows you to accept only Cookies deposited by the Website, which you also have the option to disable, delete or limit (see Articles (b) to (g) above). 
+
+Here is the procedure to follow, depending on your browser, if you want to refuse third-party Cookies:
+
+**Chrome**
+
+            In the Chrome menu, select "Settings"
+
+            View advanced settings
+
+            Go to the paragraph "Confidentiality"
+
+            Click on "Content Settings"
+
+            In the paragraph "cookies" (first paragraph), check the box "Block cookies and third-party site data"»
+
+            Save the changes by clicking "OK"
+
+**Firefox**
+
+            In the Firefox menu, go to "Tools" and then "Options"
+
+            On the "Privacy" tab, tick the box "Accept cookies"
+
+            For the "Accept third-party cookies" setting, select "Never"
+
+            Save the changes by clicking "OK"
+
+**Internet Explorer**
+
+            In the Internet Explorer menu, go to "Internet Options"
+
+            In the "Privacy" tab, click on the "Advanced" button
+
+            Accept internal cookies, refuse third-party cookies
+
+            Save the changes by clicking "OK"
+
+**Safari**
+
+            In the Safari menu, select "Preferences"
+
+            In the window that opens, go to the "Security" tab
+
+            Alternatively, "Accept cookies", select "Only from the sites I visit"
+
+####  VII  \-  2.3 The choices offered to you by interprofessional platforms 
+
+You can connect to the site Youronlinechoices, proposed by the digital advertising professionals of the EDAA (European Digital Advertising Alliance) and managed in France by the Interactive Advertising Bureau France.
+
+You can discover the companies registered on this platform and which offer you the possibility of refusing or accepting the Cookies used by these companies to adapt the advertisements that may be displayed on your Terminal to your browsing information:  [ http://www.youronlinechoices.com/fr/controler-ses-cookies/ ](http://www.youronlinechoices.com/fr/controler-ses-cookies/) . 
+
+This European platform is shared by hundreds of advertising professionals on the Internet and is a centralised interface allowing you to express your refusal or your acceptance of Cookies that can be used to adapt to the navigation of your Terminal the advertisements likely to be displayed there. Note that this procedure will not prevent the display of advertisements on the websites you visit. It will only block technologies that allow you to adapt advertisements to your interests.
+
+**The "Flash"© cookies of "Adobe Flash Player"™**
+
+  
+"Adobe Flash Player"  ™  is a computer application that allows the rapid development of dynamic content using the "Flash" computer language. Flash (and similar applications) remembers the settings, preferences, and use of this content through technology similar to cookies. However, "Adobe Flash Player" ™  manages this information and your choices via an interface different from that provided by your browser.
+
+    
+Since your Terminal may display Flash-based content from the Site, we invite you to access your Flash Cookies management tools directly on [ http://www.adobe.com/en / ](http://www.adobe.com/fr/) .
+
+###  ** VII  ** \-  ** 3\. If you share the use of your Terminal with other people ** ** **
+
+  
+If your Terminal is used by more than one person and if the same Terminal has several types of browser software, we cannot be sure that the Services and advertisements intended for your Terminal correspond to your own use of this Terminal and not to that of another user of this Terminal. 
+
+  
+If applicable, sharing the use of your Terminal with others and the configuration of your browser settings in respect of Cookies, are your free choice and responsibility. 
+
+##  VIII  \-  Express your choices:
+
+Do you agree on the deposit and/or the reading of Cookies in order Vente-privee.com and our Partners are able to analyze your interests to offer you personalized advertisings?
+
+Do you agree on the deposit and/or the reading of Cookies in order to analyze your browsing and allow us to measure the traffic of our Website:
+
+Do you agree on the deposit and the reading of Cookies to allow you to share contents of our Website with other people or to make these other people know your consultation or your opinion (Facebook’s “Like” buttons for example):
+
+Do you agree that we combine your Personal Data provided directly from you or your browsing (for example when you subscribe to our Website, when you browse our Website or third parties medium, etc.) for advertising purposes?
+
+Do you agree that we keep and/or provide our Partners the preferences we identified about you and used by them to address you targeted advertising? 
+
+Do you agree to receive targeted advertising from us, on our Website, or on third parties mediums?
