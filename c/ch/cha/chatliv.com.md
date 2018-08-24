@@ -1,31 +1,56 @@
-> *The following text is extracted and transformed from the chatliv.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807072252id_/https%3A//chatliv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatliv.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824074516id_/https%3A//chatliv.com/privacy) for the most accurate reproduction.*
 
-# privacy
+# Theme
+
+  
+
+
+  
+
 
 We are committed to protect your privacy when you visit our website and use available services.
 
 We can add or remove services available on our website from time to time which may also lead to change in this privacy policy. We will still ensure to protect your privacy but we advise you to visit this privacy policy whenever you visit our website.
 
-**You agreement to this policy**
+However, this Policy does not apply to the websites operated by third parties and their services which we are using. 
+
+**Your agreement to this policy**
 
 By using our services you unconditionally agree to this privacy policy. If not, then kindly don’t use our services.
 
-**Collection of your information and its use:**
+**Collection of your information and its use:  **
 
-We do not collect any information of our users when they visit our website. There is no registration required before using free services. The chat application we are providing here is not hosted on our servers. This application is hosted on servers of coomeet.com. For detailed information on privacy policy and user agreement kindly visit following pages of www.coomeet.com  
-website:   **[User agreement](http://coomeet.com/en/agreement)**           \-               **[Privacy policy](http://coomeet.com/en/privacypolicy)**
+We do not collect any information of our users when they visit our website. There is no registration required before using free services.
+
+The chat application we are providing here is not hosted on our servers. This application is hosted on servers of coomeet.com. For detailed information on privacy policy and user agreement kindly visit following pages of www.coomeet.com
+
+#### \- CooMeet Premium 
+
+All **Premium Account and Subscription**  purchased on Chatliv through Coomeet video Dating App comes under [**Coomeet User Agreement**](https://coomeet.com/en/agreement) and Privacy Policy. Before Purchasing Their premium dating Service we request you read there **[Terms](https://coomeet.com/en/agreement)** and **[Policy](https://coomeet.com/en/privacypolicy)** first. 
 
 Still we request you to kindly go through the following points also:
 
-  * Cookies : Our website does not use cookies.
+## Embedded content from other websites
+
+This site may include embedded content (e.g. chat Applications, videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+  
+
+
+## Cookie Policy -  [Read more](https://web.archive.org/p/cookie)
+
+  * Cookies : chatliv.com does not use cookies.
 
 
   * Third Party services/companies and websites : we may provide some services through third party companies or websites, the information collected by these third party websites, company or services provider is governed by their privacy policies, some of our third party services providers are (not limited to):
 
 
-  1. \- Google Adsense | Google Adwords : [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
+  1. \- Google Analytics | Google Adsense | Google Adwords : [Google Privacy Policy](https://policies.google.com/privacy?hl=en).
   2. \- Facebook.com: [facebook privacy policy](https://www.facebook.com/about/privacy/)
   3. \- lifestreetmedia.com | [lifestreetmedia privacy Policy](https://lifestreetmedia.com/privacy/)
+  4. \- Mellowads.com | [Mellowads Terms](https://mellowads.com/terms) 
 
 
   *  Other Sites: This Privacy Policy applies to chatliv.com services only. We do not exercise control over the sites displayed on our web pages, sites that include applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
@@ -43,4 +68,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 As mentioned before, this privacy policy may change from time to time. 
 
-If you have any questions, please feel free to [contact us](https://www.facebook.com/pages/Chatlivcom/462047587234163) .
+If you have any questions, please feel free to [contact us](https://web.archive.org/p/contact) .
+
+Last Updated: May-25-2018
