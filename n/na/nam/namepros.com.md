@@ -1,306 +1,295 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702025226id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824024821id_/https%3A//www.namepros.com/privacy) for the most accurate reproduction.*
 
-# Terms and Policies - NamePros
+# Privacy Policy - NamePros
 
-[ ](http://register.payoneer.com/online-escrow-for-domain-names/?utm_source=Namepros&utm_medium=cpc&utm_campaign=Namepros-domain-names-banner)
+[ ](https://web.archive.org/cdn-cgi/l/email-protection#97e4e2e7e7f8e5e3d7f9f6faf2e7e5f8e4b9f4f8fa)
 
-Legal terms for use of NamePros
+Last revised June 8, 2018 (effective date)
 
-These terms may change without explicit notice. Each top-level section header has a "Last updated" field that indicates when the last significant change was made to its contents.
+This privacy policy covers how and why NamePros (“NamePros Community,” “NamePros.com,” “we,” “our” or “us”) collects, protects, uses, and shares information about you when you access or use NamePros.com; access or use our website, its features, or our support (“our services”); or interact with us directly or indirectly.
 
-  1. [Terms of Service](https://web.archive.org/pages/terms/#tos)
-  2. [Privacy Information](https://web.archive.org/pages/terms/#privacy)
-    1. [NamePros Privacy Policy](https://web.archive.org/pages/terms/#privacy-namepros)
-    2. [Data Collectors' Privacy Policies](https://web.archive.org/pages/terms/#privacy-collectorpolicies)
-    3. [About Individual Data Collectors](https://web.archive.org/pages/terms/#privacy-collectors)
-      1. [NamePros](https://web.archive.org/pages/terms/#privacy-collectors-namepros)
-      2. [CloudFlare](https://web.archive.org/pages/terms/#privacy-collectors-cloudflare)
-      3. [SendGrid](https://web.archive.org/pages/terms/#privacy-collectors-sendgrid)
-      4. [Mandrill (legacy)](https://web.archive.org/pages/terms/#privacy-collectors-mandrill)
-      5. [Google](https://web.archive.org/pages/terms/#privacy-collectors-google)
-      6. [Quantcast](https://web.archive.org/pages/terms/#privacy-collectors-quantcast)
-      7. [Stripe](https://web.archive.org/pages/terms/#privacy-collectors-stripe)
-      8. [PayPal](https://web.archive.org/pages/terms/#privacy-collectors-paypal)
-      9. [New Relic](https://web.archive.org/pages/terms/#privacy-collectors-newrelic)
-      10. [Datadog](https://web.archive.org/pages/terms/#privacy-collectors-datadog)
-      11. [Intercom](https://web.archive.org/pages/terms/#privacy-collectors-intercom)
-      12. [Advertisers](https://web.archive.org/pages/terms/#privacy-collectors-advertisers)
-      13. [Other Third Parties](https://web.archive.org/pages/terms/#privacy-collectors-other)
-  3. [Payment Processing](https://web.archive.org/pages/terms/#payment)
-  4. [Security](https://web.archive.org/pages/terms/#security)
-  5. [Digital Millenium Copyright Act (DMCA)](https://web.archive.org/pages/terms/#dmca)
+## What information we collect (and how we collect it)
 
-[¶](https://web.archive.org/pages/terms/#tos)
+### Account and profile
 
-Last updated
-    Nov 28, 2016 EDT
+We ask you for the following required information (unless listed as optional) and actions when you create an account: 
 
-The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts ("Content"). Content submitted express the views of their author only.
+  * Your name or [username](https://en.wikipedia.org/wiki/User_\(computing\)) (always public)
+  * Your email address
+  * Your date of birth
+  * Password 
+  * Gender (optional)
+  * Your explicit agreement to our [Terms of Service](https://web.archive.org/terms?ref=privacy-608)
+  * Your consent to us processing your personal data as described in this privacy policy, which is given by placing a checkmark in an unticked checkbox and submitting.
 
-Content on NamePros is for educational purposes only and is not a substitute for individualized advice from a qualified legal practitioner. Communications on NamePros are not privileged communications and do not create an attorney-client relationship.
 
-You agree to take full responsibility for all Content you submit to the Service. You agree to assume any losses and/or liabilities that result from your Content.
 
-Users marked as NamePros "Staff" are mostly volunteers. Content and opinions from volunteer Staff are their own, not those of the providers. They take full responsibility for their own Content. This includes, for example, Moderators, but does not include employees that are actively paid for being an employee.
+You may choose to create an account with us using one of your social media accounts (Facebook, Twitter, or Google+), in which case it would provide us with the required information to create your account on NamePros, and it may also provide us with additional account information (e.g., a link to your profile page on that social network).
 
-You understand that we are not a publisher of Content on our forums. We do not moderate most Content.
+You may choose to provide additional information to us (e.g., your skills, [custom title](https://web.archive.org/pages/account-levels/?ref=privacy-608), and signature) by filling out [fields on your profile](https://web.archive.org/account/personal-details?ref=privacy-608) (“profile fields”), [setting your avatar](https://web.archive.org/account/avatar?ref=privacy-608) (e.g., uploading a profile picture or providing your [Gravatar](https://en.wikipedia.org/wiki/Gravatar) email address), and specifying other profile information (e.g., your time zone).
 
-You agree to not use the Service to submit or link to any Content that is abusive, unlawfully defamatory, hateful, threatening, spam or spam-like, likely to offend, contains adult or objectionable content (except in explicitly designated areas), contains personal information of others, risks copyright infringement, encourages unlawful activity, or otherwise violates any laws.
+### Content and activity
 
-We reserve the rights to remove or modify any Content submitted for any reason without explanation. Requests for Content to be removed or modified will be undertaken only at our sole discretion.
+We collect and store the information that you choose to produce on NamePros, such as when you compose messages in our editor (drafts), post in sections or on profile pages, use the chatroom, or send direct messages to other members, which can include comments, questions, answers, links, and uploaded photos (“content”).  
 
-You agree not to hold us liable for any loss that may result from the use of the Service.
+We also collect and store information that you produce on NamePros when you perform certain actions, such as liking content, editing content, reporting content, voting in a poll, viewing a page, following another member, or [indicating you are online](https://web.archive.org/account/privacy?ref=privacy-608) by interacting with NamePros.com in anyway (“activity”).
 
-We reserve the right to reclaim usernames from inactive accounts that have not been accessed for prolonged periods of time (more than 24 months) and reclaimed usernames may be released for availability to the community.
+### Billing
 
-We reserve the right to revoke or repurpose an account's username at any time.
+We collect information from you and store information about your transaction when you purchase our products or services (e.g., a [Gold Account](https://web.archive.org/pages/account-levels/?ref=privacy-608)), such as your name, address, date of the transaction, status of payment attempts, and information about the product or service you are purchasing.
 
-We reserve the right to take action against any account or user within the Service at any time for any reason. This may including restricting or banning the account and/or user.
+We may ask you to enter financial information (e.g., credit card details) for billing purposes (e.g., to complete your purchase), which is stored, protected, and processed by [Stripe](https://stripe.com/us/privacy), a [secure](https://stripe.com/docs/security/stripe) service provider that we use. Your sensitive financial information is not stored by us.
 
-You are granting us with a non-exclusive, permanent, irrevocable, unlimited license to use, publish, or re-publish your Content in connection with the Service. You retain copyright over the Content.
+### Communications
 
-You agree to follow all rules and guidelines posted throughout our website and as communicated by any NamePros staff members. Whether any activity is in violation of a rule or guideline is at the sole discretion of NamePros.
+We may collect and store information about you and our interactions with you when you communicate with us, which includes when you contact us through our service (e.g., name, email address, and [IP address](https://en.wikipedia.org/wiki/IP_address) if you use our [contact form](https://web.archive.org/web/20180824022331id_/https://www.namepros.com/help/misc/contact)), send us an email (e.g., message, name, email address, and IP address), start a conversation with us using our support chat (i.e., Intercom), send us a message on social media (e.g., username), and/or when you contact us on other websites.
 
-You agree to create **only a single account**. This includes banned accounts, accounts created on behalf of business entities, and any other account that may be created by a single entity. An exception is made for accounts with active Business Membership subscriptions that are in good standing, at the sole discretion of NamePros.
+### Public information from third parties
 
-You agree not to use Tor, a VPN, SOCKS, or any other proxying mechanism ("proxy") that masks your computer's identity on the Internet ("IP address") unless such a proxy is necessary to access the Service. If you require the use of a proxy for another reason, you agree to obtain written permission from NamePros before posting any content via the proxy, and within 24 hours of your first use of the proxy to access NamePros. If the request is denied, or remains unanswered/indeterminate for more than 72 hours, you agree to cease using the proxy to access NamePros unless you are later granted written permission stating otherwise. Under no condition will you deny the use of a proxy if you are using or have used one, nor will you refuse to provide accurate information in a timely fashion about the proxy, when the proxy was used, or your real IP address, when asked for such information by NamePros staff, even if you have been granted written permission to use a proxy or must use a proxy to access the Service. Requests for permission to use a proxy should be e-mailed to `techsupport@namepros.com`. Users accessing the service from within Iran or mainland China are granted implicit permission to use proxies as necessary.
+We may use public sources (e.g., social media and public records) to collect and store additional information about you in the interest of [know your customer](https://en.wikipedia.org/wiki/Know_your_customer), such as additional email addresses, phone numbers, and your domain names.   This information is used for reasonable purposes including the detection and prevention of fraud, assessment of your eligibility of [community groups](https://web.archive.org/forums/groups.312/?ref=privacy-608), to provide you with customer support (e.g., account recovery), and to determine whether our [terms](https://web.archive.org/terms?ref=privacy-608) and [rules](https://web.archive.org/threads/official-rules-of-namepros.848752/?ref=privacy-608) are being followed (e.g., you may have only one account that is not a Gold account).
 
-You agree to allow us to track your usage of the Service in an effort to prevent fraud, abuse, and/or illegal activities. You will not attempt to impede, evade, or mislead our abuse-oriented tracking. This includes actions such as clearing cookies or your browser cache to clear tracking information. By creating an account, logging into an account, and/or using this Service as a registered user, you grant us irrevocable permission to use tracking methods resilient to obstruction ("Persistent Tracking"); this may involve storing information ("Persistent Tracking Information") on your computer that is difficult to view and/or remove. Persistent Tracking is used to prevent fraud, abuse, and/or illegal activities; it is not used for marketing or demographics, and information obtained through Persistent Tracking is governed by our Privacy Policy. Information obtained through Persistent Tracking will not be sold to third parties and will only be released to third parties as necessary to prevent fraud, abuse, and/or illegal activities. Examples of Persistent Tracking methods include ETag pseudo-cookies and Flash-based local storage objects (LSOs). **If you object to Persistent Tracking for the prevention of fraud, abuse, and/or illegal activities, you must not use the Service as a registered user.** NamePros may interpret attempts to hinder the effectiveness of Persistent Tracking as malicious activity and/or intent to defraud.
+### Technical information automatically
 
-You agree that you are at least 13 years of age at the time of creating your account and at least 18 years of age when using the marketplace.
+We use third-party service providers (e.g., Google Analytics, Cloudflare, Quantcast, Intercom, and New Relic) in addition to our own internal tools (e.g., [ELK](https://www.elastic.co/elk-stack)) to collect and store certain information automatically as you browse and use our services, such as your IP address, geographical location, device details, how you found our site, browsing activity, and page load speed.
 
-You agree that all of your registration information is accurate when you created your account and that you will maintain the accuracy of such information.
+We may receive information about you from cookies and other browser storage options, which let us store pieces of data in your web browser that it sends back to us when it makes requests.
 
-These terms may be changed at any time without explicit notice.
+Your IP address is stored when you perform certain actions on our services, which includes when you register for an account, manage your account details, write a direct message or public post, or perform any other action that causes data to be transferred to or from your computer and our services.
 
-If any portion(s) of these terms is found to be legally unapplicable, the rest of the terms will remain in effect.
+## Why we collect the information (and how we use it)
 
-If you do not agree with the [Terms of Service](https://web.archive.org/pages/terms/#tos) and [Privacy Policy](https://web.archive.org/pages/terms/#privacy), do not register or use this Service.
+### Provide our services
 
-[¶](https://web.archive.org/pages/terms/#privacy)
+Most of the information that we collect is used to provide and operate our services, including communicate with you about your account or use of our services, send you email notifications for your content subscriptions (e.g., watched threads, sections, tags, and new blog posts), customer support (e.g., provide troubleshooting), account management, features and functionality (e.g., the ability for you to login using a social media account and post content), keep you informed about our services (e.g., notification of maintenance), research and development of new services, internal record keeping,  and  billing purposes (e.g., charge you for your purchases, manage subscriptions, purchase confirmation, send invoices and receipts, and keep you informed about your billing status, such as a failed charge or expiring credit card).
 
-Last updated
-    June 1, 2016 EDT
+#### Cookies and browser storage
 
-## NamePros Privacy Policy
+We, the service providers we use, and our advertisers may use cookies and other browser storage options (e.g., JavaScript local storage) to store information in your web browser on your computer, which can be used in many ways, such as to help us provide certain functionality (e.g., remember your preferences and the ability to login), improve your experience (e.g., personalization), know who has viewed or clicked an ad, detect misuse (e.g., through persistent identifiers to prevent fraud and abuse), and analyze website traffic. We have a detailed [cookie policy](https://web.archive.org/web/20180824022331id_/https://www.namepros.com/help/help/cookies) that provides more information.
 
-[¶](https://web.archive.org/pages/terms/#privacy-namepros)
+### Improve and support our services  
 
-All Content you submit or upload may be reviewed by staff members. All Content you submit or upload may be sent to third-party verification services (including, but not limited to, spam prevention services). Do not submit any Content that you consider to be private or confidential. Deleted Content is still visible to some staff members.
+We use some information to improve our services, create new features, and keep everything up and running, including the recording and analysis of visits to detect website errors and slow pages, direct marketing and promotion of our services, monitoring and blocking intrusion attempts, and showing ads to support the cost of offering our services.
 
-We make a reasonable effort to ensure the integrity and intended privacy of Content. However, We cannot guarantee that private Content will not be accessed by unauthorized users. This Service is not confidential: do not submit or upload Content that must remain confidential.
+We may use your information to support your access to the resources, data, and features of our services, which includes the ability for you to secure your account (e.g., security questions to confirm it is your account), regain access to your account (e.g., verify your identity first), reset your password, stay informed by email of activity on our site that you may reasonably expect to be notified about (e.g., someone replies to a direct message that you initiated; service, product, or policy updates; and security alerts or information that may affect you), and other relevant communications.
 
-Our Service utilizes various data ("Data") collection methods to **generate analytical information, track problems and errors, monitor hardware and software infrastructure, provide personalized advertising, and/or prevent malicious activity**. Reputable third-party entities ("Data Collectors") assist in some Data collection. Not all Data is anonymous. Data Collectors have strict privacy policies. Access to Data is restricted to select staff. IP addresses used to submit or upload Content are available to most staff; sensitive Data, such as contact information, is more restricted.
+#### Analytics
 
-We do not directly disclose personal information to third parties without opt-in consent, except as necessary to provide the Service. For example, e-mail addresses may be disclosed to a third party in order to efficiently and effectively send e-mails. We treat such third parties as Data Collectors, as they may have access to some Data.
+We use analytical data for assessment, analysis, and evaluative purposes, which include to understand how our services are used, improve our services, and to focus our efforts on changes that users may find more valuable.
 
-Integrity of personal information is the responsibility of the end user ("User"). Users can view, edit, and remove their own personal information using the Service. We are not responsible for unauthorized access to and/or manipulation of personal information, though we take reasonable measures to prevent and detect such occurrences. Other Data, such as IP address and routing history, cannot usually be viewed, edited or removed by Users. Users who have been banned or otherwise barred from accessing the Service may request that any Personally Identifiable Information be removed by emailing techsupport@namepros.com.
+#### Advertising
 
-We reserve the right to release information about a User in the event that User or an entity that the User represents is found to have been conducting/aiding, or be planning to conduct/aid, illegal activities, fraudulent activities, and/or unethical business practices at our sole discretion. This information may be released in a variety of manners, including (but not limited to): to law enforcement, published publicly as a cautionary measure, or shared with select entities who may be at risk.
+We, our advertisers, and the service providers we use (e.g., Google Ads and DoubleClick) may use information about you (e.g., ads viewed, ads clicked, and demographics) for legitimate and reasonable purposes, such as improving the relevance of ads you see, the frequency of ads you see (e.g., ad rotation), learning the value or quality of an advertisement, and to decide whether to purchase or renew an advertisement.
 
-As a User, you agree to follow all rules and guidelines posted by authorized NamePros representatives, as interpreted by NamePros. All Users are expected to follow the rules, but NamePros cannot guarantee that they will do so.
+#### Marketing and promotions
 
-**You agree to abide by all international and federal regulations in the United States.** Your region may enforce additional restrictions that apply to your use of the Service.
+We may use certain information about you for marketing and promotional purposes, which includes sending you news and newsletters, special offers, promotions, and other information we think may interest you.
 
-You agree to ensure the integrity of any encryption implementations ("Encryption") that the Service employs, including HTTPS (HTTP over SSL or TLS). You must not undermine the Encryption or allow third parties to intercept unencrypted communications with the Service. If regional laws and/or organizations prevent you from using Encryption, you must not use the Service. You must not allow proxying servers to decrypt communications with the Service.
+### Protect our services and prevent misuse
 
-You agree to allow us to track your usage of the Service in an effort to prevent fraud, abuse, and/or illegal activities. You will not attempt to impede, evade, or mislead our abuse-oriented tracking. This includes actions such as clearing cookies or your browser cache to clear tracking information. By creating an account, logging into an account, and/or using this Service as a registered user, you grant us irrevocable permission to use tracking methods resilient to obstruction ("Persistent Tracking"); this may involve storing information ("Persistent Tracking Information") on your computer that is difficult to view and/or remove. Persistent Tracking is used to prevent fraud, abuse, and/or illegal activities; it is not used for marketing or demographics, and information obtained through Persistent Tracking is governed by our Privacy Policy. Information obtained through Persistent Tracking will not be sold to third parties and will only be released to third parties as necessary to prevent fraud, abuse, and/or illegal activities. Examples of Persistent Tracking methods include ETag pseudo-cookies and Flash-based local storage objects (LSOs). **If you object to Persistent Tracking for the prevention of fraud, abuse, and/or illegal activities, you must not use the Service as a registered user.** NamePros may interpret attempts to hinder the effectiveness of Persistent Tracking as malicious activity and/or intent to defraud.
+We may use the information that we store (e.g., your IP address and [log data](https://en.wikipedia.org/wiki/Log_file)), the information that we can access from the service providers we use (e.g., PayPal and Stripe), and the information that we can collect from other means (e.g., public records) to automatically and manually protect our services, protect our legal rights and interests, and/or prevent misuse of our services, which includes risk assessment and investigating, detecting, preventing, and dealing with suspected or apparent fraud; spam; violations of our rules, policies, or terms; threats and attacks (e.g., malicious [hacking](https://en.wikipedia.org/wiki/Security_hacker)); scams; and other illegal or abusive activities. 
 
-This Privacy Policy may change without explicit notice.
+For example, we may review your content and activity for reasonable and legitimate purposes, such as determining whether the rules are being followed and during investigations (e.g., fraud reports that involve you, someone you have interacted with, or someone who has interacted with you). We use the same technologies that banks have used for state-of-the-art fraud prevention (e.g., ETag headers and browser fingerprinting).
 
-If you do not agree with this Privacy Policy, the privacy policy of each Data Collector, and the other information in this document, do not register or use this Service.
+### Comply with the law
 
-## Data Collectors' Privacy Policies
+We may collect and use any information necessary to comply with legal obligations (e.g., your birthday to confirm that you are old enough to use our services).
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectorpolicies)
+## How we share information
 
-This list may not be exhaustive.
+### Account and profile
 
-**Note that many of these policies apply primarily to NamePros, not Users.** They are referenced here because they often contain clauses that are of interest to Users. NamePros does not knowingly share non-public Personally Identifiable Information with third-party Data Collectors that do not require such information. Data Collectors known to require Personally Identifiable Information from Users are marked with an asterisk (*).
+Your account and profile information may be visible and used to provide details about you to others based on your [privacy settings](https://web.archive.org/account/privacy?ref=privacy-608) and use of our services (e.g., your posts and messages will display your username, default/custom title, and signature (if set); and your posts in certain sections, such as the marketplace, will display your local time based on your [set time zone](https://web.archive.org/account/preferences?ref=privacy-608)).  Some of your profile information is hidden by default (e.g., your birthday), but you may share it by adjusting your [privacy settings](https://web.archive.org/account/privacy?ref=privacy-608).
 
-Most Data Collectors can inadvertently receive and process Personally Identifiable Information if instructed to do so by a User. For example, if a User posts their address on the Website, publicly or privately, CloudFlare will necessarily be involved in the relaying of that address.
+### Content and activity
 
-Several Data Collectors may attempt to retrieve public information associated with an internet alias (username, email address, IP address, etc.).
+Your content and activity may be visible to anyone with permission to view it, which you grant by performing actions (e.g., liking content), by posting within [specific sections](https://web.archive.org/misc/quick-navigation-menu?ref=privacy-608) or on profile pages, using the [chatroom](https://web.archive.org/chat/?ref=privacy-608),  or  by [direct messaging](https://web.archive.org/conversations/?ref=privacy-608) others on NamePros. The majority of sections on NamePros are public for everyone to see, including members and visitors that are not logged in (guests, [bots](https://en.wikipedia.org/wiki/Internet_bot), and search engines), and you should assume that all of your actions, activity, and content on NamePros are public or may become public.
 
-  * NamePros: [https://www.namepros.com/pages/terms/#privacy](https://web.archive.org/pages/terms/#privacy)
-  * CloudFlare: <https://www.cloudflare.com/security-policy>
-  * Google (Analytics, DoubleClick): <http://www.google.com/intl/en/policies/privacy/>
-  * Google Ads: <http://www.google.com/policies/technologies/ads/>
-  * Quantcast: <https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
-  * SendGrid: <https://sendgrid.com/privacy>
-  * Mandrill (legacy): <https://web.archive.org/web/20141227072819/http://mandrill.com/privacy/> (archived)
-  * *Stripe: <https://stripe.com/us/privacy>
-  * *PayPal: <https://www.paypal.com/webapps/mpp/ua/privacy-full>
-  * New Relic: <http://newrelic.com/privacy>
-  * Datadog: <https://app.datadoghq.com/policy/privacy>
-  * Intercom: <http://docs.intercom.io/privacy>
+We do not have any control over the sharing, processing, or protection of your content or activity that is copied by a third party (person or bot) with permission to access it.  Once you grant access to information, it may be reproduced or posted elsewhere on NamePros (e.g., a direct message that you send to John may be shared by John in a public forum) unless the content resides (or the activity took place) in a section on NamePros that forbids it from being shared elsewhere on NamePros (e.g., [certain groups](https://web.archive.org/forums/groups.312/?ref=privacy-608)).
 
+In general, once you post content publicly or to a large group of people, it will become very difficult (or impossible) for you to remove all records of that content because people could manually save a copy of your content, or they could ask an archive service (e.g., the [Wayback Machine](https://archive.org/)) to archive it.
 
+Your content and activity may be visible anywhere to anyone with permission to view it, including your profile page, the [news feed](https://web.archive.org/account/news-feed?ref=privacy-608) of your followers, on the right side of each page ("[sidebar widgets](https://web.archive.org/threads/sidebar-widgets.856514/?ref=privacy-608)"), the [New Posts](https://web.archive.org/find-new/posts?recent=1&ref=privacy-608) page, the [Overview](https://web.archive.org/content-overview/?ref=privacy-608) page, the [Activity](https://web.archive.org/recent-activity/?ref=privacy-608) page, or selected for inclusion in articles (e.g., [Top Topics](https://web.archive.org/search/search?order=date&nodes\[0\]=172&group_discussion=1&title_only=1&keywords=Top+Topics&ref=privacy-608)).
 
-## About Individual Data Collectors
+### Billing
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors)
+Payments that you make to us, whether solitarily or through subscription, are processed by secure third-party payment processors (e.g., Stripe and PayPal) that store most of the information we collect from you for billing purposes.
 
-### NamePros
+### Analytics and metrics
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-namepros)
+We may share certain information with advertisers that cannot reasonably be used to identify you, including aggregate statistics and summary metrics about the performance of ads or content on NamePros, such as the total number of ad views and ad clicks over a period of time, the number of people who saw a particular ad, and the demographics about the people who saw the ads or content on NamePros.
 
-NamePros uses its own services and those of its hosting provider(s) to collect information about requests that reach its network. This data is typically very technical and focused on how our network handled the requests, rather than on the user. As we often use this data to troubleshoot specific problems, not all of this data is anonymous; identifiable data typically includes some combination of IP addresses, usernames, and rough geographic approximations. Access to this information is heavily restricted.
+We sometimes allow leading advertisers (e.g., [Verisign, Inc.](https://en.wikipedia.org/wiki/Verisign)) to use a [page tag](https://en.wikipedia.org/wiki/Web_beacon) to collect information about the performance of their ads, which can be used to identify you, including the page you saw their ad on, whether you clicked their ad, and your IP address.
 
-Additionally, NamePros stores information that its users opt to provide on our website. Such information often includes e-mail addresses, websites, genders, and ages. Users have the ability to view and modify this information by logging into their respective accounts. NamePros maintains a log of certain modifications that is used to identify attempted abuse of its services; this log is not visible to users. Users have industry-standard control over the privacy of the information that they provide. Information deemed sensitive or marked as private is only visible to certain staff members.
+Quantcast, one of the service providers we use, publicly shares general information about our analytics if you have an account with them, but [the summary information they share](https://www.quantcast.com/namepros.com) cannot be used to identify you.
 
-NamePros may opt to use Persistent Tracking to prevent fraud, abuse, and/or illegal activities. Persistent Tracking is described in the Terms of Service and main Privacy Policy. Notable Persistent Tracking methods that may be employed include ETag pseudo-cookies and Flash-based local storage objects (LSOs).
+### Protection and prevent misuse
 
-### CloudFlare
+We may share your information (e.g., IP address) where we believe it is necessary to protect NamePros, our services, or our users; where it may be necessary for reasons of public interest; or to prevent misuse of our services (e.g., by using [StopForumSpam](https://en.wikipedia.org/wiki/Forum_spam#Spam_prevention) and [DNSBLs](https://en.wikipedia.org/wiki/DNSBL)); including when it may be necessary for our safety or the safety of others (e.g., fraud prevention and personal threats), for the protection of rights or property, where we suspect a threat (e.g., financial scam) and seek investigative assistance, when we believe it is necessary to respond to claims against us, and where we believe your actions are in violation of our rules, policies, or the law (e.g., to discourage illegal activities).
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-cloudflare)
+### Third-party service providers
 
-Since NamePros has a geographically diverse userbase, our edge network is very important. CloudFlare provides a functionally rich edge network that allows for much speedier page load times than we could offer on our own. To do this, CloudFlare caches parts of the NamePros website on various servers throughout the world. If your browser requests a URL that is cached at a CloudFlare datacenter near your location, you'll receive a speedy response. Other requests are routed though CloudFlare's fast network until it reaches NamePros' own network.
+We only share the information necessary with these service providers, and only at the time necessary, for the purposes of providing our services to you, supporting our services, protecting our services, or providing the third-party’s services to you (e.g., Gravatar if you choose to use it).   For example, SendGrid needs your email address in order to send you email notifications on our behalf.   You may indirectly provide information to these service providers by accessing our services, such as Cloudflare receiving your IP address when you visit our website because Cloudflare helps us quickly deliver content to you.
 
-As our edge network, CloudFlare is part of our infrastructure; we work very hard to ensure that our entire system stays online. In order to do this, we need a lot of information about how requests are traveling from your computer to our servers and what happens when they get there. CloudFlare logs a significant amount of technical information to ensure that its services are working as intended. Much of this data only persists for a few hours; NamePros does not have direct access to this data. CloudFlare exposes some persistent data to the NamePros team in charge of networking. This data typically includes broad statistics and details about suspected abuse attempts. Abuse information often includes IP addresses and browser versions. As this data is necessary in order to provide services, users cannot opt out of such data collection. None of the data directly identifies users.
+Our privacy policy may not apply to personal information that you share with other service providers (e.g., you enter your email address on StatusPage’s service to subscribe to updates about our scheduled maintenance), and you must refer to their privacy policies in those instances.
 
-### SendGrid
+The privacy policies of the service providers that we use apply primarily to NamePros, but we have made them available to you because they may contain clauses that are of interest to you:
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-sendgrid)
+  * [Cloudflare](https://www.cloudflare.com/privacy) (web services and security)
+  * [SendGrid](https://sendgrid.com/privacy) (email)
+  * [PayPal](https://paypal.com/privacy) (billing)
+  * [Stripe](https://stripe.com/privacy) (billing)
+  * [Intercom](https://docs.intercom.com/privacy) (customer support)
+  * [Google Analytics](https://policies.google.com/privacy) (analytics)
+  * [Quantcast](https://www.quantcast.com/privacy/) (analytics)
+  * [Google Ads](https://policies.google.com/technologies/ads) (advertising)
+  * [DoubleClick](https://policies.google.com/privacy) (advertising)
+  * [New Relic](https://newrelic.com/privacy) (monitoring our services)
+  * [Datadog](https://www.datadoghq.com/legal/privacy/) (monitoring our services)
+  * [Amazon Web Services](https://aws.amazon.com/privacy/) (cloud services)
+  * [StatusPage](https://www.atlassian.com/legal/privacy-policy) (website status and reporting)
+  * [StopForumSpam](https://stopforumspam.com/privacy) (spam and fraud prevention)
+  * [Gravatar](https://automattic.com/privacy/) (optional avatar service)
+  * [AddThis](http://www.addthis.com/privacy/privacy-policy/) (social sharing option)
 
-NamePros utilizes SendGrid to send transactional e-mails. SendGrid maintains a log of e-mails and their status. At this time, we do not typically send information in e-mails that staff cannot otherwise access, and user-specific content is kept to a minimum. SendGrid logs minimal information and does not retain email contents to the best of NamePros' knowledge.
 
-### Mandrill (legacy)
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-mandrill)
+#### Social media and similar service providers
 
-Mandrill merged into MailChimp in the first half of 2016. As a result, NamePros is discontinuing use of Mandrill/MailChimp. This information remains as it may apply to past events.
+We offer third-party buttons (e.g., Tweet and [AddThis](http://www.addthis.com/privacy)) on many pages that allow you to share content on popular social networks (e.g., [Twitter](https://twitter.com/privacy), [Google+](https://policies.google.com/privacy), and [Facebook](https://www.facebook.com/about/privacy)) and similar services (e.g., Gmail and [LinkedIn](https://www.linkedin.com/legal/privacy-policy)).
 
-NamePros utilizes Mandrill to send transactional e-mails. Mandrill maintains a log of emails and their status. At this time, we do not typically send information in emails that staff cannot otherwise access, and user-specific content is kept to a minimum. Nevertheless, access to the log is restricted to staff who require it.
+We also offer embedded media (e.g., YouTube videos) on many pages that allows you to seamlessly view content from approved third-party services (e.g., [YouTube](https://www.youtube.com/privacy), [Vimeo](https://vimeo.com/privacy), [Dailymotion](https://www.dailymotion.com/legal/privacy), [Facebook](https://www.facebook.com/about/privacy), [Imgur](https://imgur.com/privacy), and [Liveleak](https://www.liveleak.com/privacy)).
 
-### Google
+These third-party services usually log information (e.g., the webpage you are viewing) for various purposes (e.g., to allow you to quickly share a link to one of our webpages or to provide viewing statistics on video playback). We do not deliberately provide them with information, but your browser may be providing them with information automatically as you use our services.  
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-google)
+### Legal
 
-Our services integrate with Google Analytics to collect heavily-anonymized statistics about our users. It allows us to observe trends, such as which browsers are most often used to visit our website, common traffic flow patterns as users enter, browse, and leave the website, and much more. When there aren't enough data points to ensure anonymity, Google excludes any statistics that could be used to obtain an identity. Google Analytics is a reputable, industry-standard tool used on a large number of websites.
+We may share any or all of your information if we are required to do so by law (e.g., for law enforcement or national security purposes) or to comply with legal process (e.g., to respond to subpoenas, warrants, and court orders).
 
-In addition to the basic Google Analytics services, NamePros has opted to enable a single feature of [Google Analytics Display Advertising](https://support.google.com/analytics/answer/3450482?hl=en&ref_topic=3413645). Analytics Display Advertising is a service that integrates Google Analytics with Google's [DoubleClick ad network technology](http://www.google.com/doubleclick/). In our case, the primary purpose is to provide more information for Google Analytics, particularly [demographics and interest reporting](https://support.google.com/analytics/answer/2799357?hl=en&ref_topic=2799375).
+### Change of control or similar event
 
-It's important to note the primary difference between standard Google Analytics and DoubleClick, which powers Google Analytics Display Advertising. Google Analytics uses _first-party_ [cookies](https://www.google.com/policies/privacy/key-terms/#toc-terms-cookie): this allows visitors to be tracked, but not beyond a single domain. DoubleClick uses _third-party_ cookies, which can aid the tracking of users across domains. These cookies do not contain information about users: they are identifiers that Google Analytics and DoubleClick use to track a single user while keeping that user anonymous. NamePros uses DoubleClick in addition to standard Google Analytics specifically for the purpose of demographics and interest reporting. We do not attempt to link any of this additional data to individual, identifiable users.
+We may share and/or transfer your personal data as part of a merger, sale, or transfer of our assets, an acquisition, financing, dissolution, divestiture, bankruptcy, reinvention, restructuring, reorganization, or similar event.
 
-In additional to NamePros' own use of Google Analytics and DoubleClick, NamePros also permits some of its advertiers to track their ads using DoubleClick's services. Anyone who views a DoubleClick-enabled ad may be tracked by the respective advertiser via DoubleClick. NamePros expects that both Google (DoubleClick) and its advertisers will protect any information they obtain through this system. If you suspect this system is being abused, please contact us immediately.
+## Control of the information we collect
 
-Google offers the ability to opt out of DoubleClick's tracking. To do so, follow Google's instructions to opt out of interest-based ads: <https://support.google.com/ads/answer/2662922?hl=en>. It's also possible to opt out of standard Google Analytics data collection: <https://tools.google.com/dlpage/gaoptout/>.
+### Account, profile, content, and activity
 
-### Quantcast
+You may view and update most of your personal information (e.g., [your occupation](https://web.archive.org/account/personal-details?ref=privacy-608) and [email address](https://web.archive.org/account/contact-details?ref=privacy-608) on your account), content ([for a period of time](https://web.archive.org/threads/limits-on-forums-threads-posts-conversations-etc.1047417/?ref=privacy-608#section-030800)), [privacy settings](https://web.archive.org/account/privacy?ref=privacy-608) (also known as privacy controls), and account preferences in the same way or similar to how you added them or set them (e.g., replace your [personal details](https://web.archive.org/account/personal-details?ref=privacy-608) with a blank value, and if you _like_ a post, then _unlike_ it to remove your _like_ ), including:
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-quantcast)
+  * [Personal Details](https://web.archive.org/account/personal-details?ref=privacy-608)
+  * [Signature](https://web.archive.org/account/signature?ref=privacy-608)   
+  * [Contact Details](https://web.archive.org/account/contact-details?ref=privacy-608)
+  * [Time Zone](https://web.archive.org/account/preferences?ref=privacy-608) 
 
-Quantcast collects a vast amount of statistical information from a wide variety of sources. Much of this data is public, and can be queried for most popular websites. NamePros has opted to explicitly implement Quantcast's service; this leads to more accurate statistics gathering. However, it does mean that Quantcast is collecting some data directly from users. Quantcast uses this data per its privacy policy, linked above. Quantcast communicates the data to NamePros in the form of broad statistics and trends, such as general demographics. As with many other sites for which Quantcast gathers data, most of this information is publicly accessible via Quantcast's website: <https://www.quantcast.com/>.
 
-Users can opt out of Quantcast's direct data collection: <https://www.quantcast.com/company/opt-out/>. Quantcast's indirect data collection methods may still gather generic data about users who have opted out, but no direct tracking will be performed. See the aforementioned URL for details.
 
-### Stripe
+Alternatively, you may choose to hide certain information about you (i.e., [limit who may view it](https://web.archive.org/account/privacy?ref=privacy-608)) rather than remove it. You may also [control who may contact you](https://web.archive.org/account/privacy?ref=privacy-608) on NamePros with the exception that staff may always contact you.
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-stripe)
+You may request to [change your username](https://web.archive.org/threads/username-changes.1047406/?ref=privacy-608) (free) from your real name to any available and allowed alias, which will update the username on all of your past posts to an alias.
 
-Stripe processes ACH payments on behalf of NamePros. Some information that you provide is stored by Stripe and accessible to NamePros for billing and technical support purposes, as well as fraud prevention. Full credit card numbers are not accessible and do not reach the NamePros network. See [Payment Processing](https://web.archive.org/pages/terms/#payment) for details, including additional policy information.
+You may remove profile posts made by others (comments) or yourself (status updates) from your profile page.
 
-In order to function, Stripe requires the use of Personally Identifiable Information. Email address, username, and subscription status are provided by NamePros; Personally Identifiable Information must be provided directly by the User. The information is sent directly from the User's browser to Stripe, without being
+Where you decide to perform an action (e.g., post or like content) and whom you decide to direct message determines the permission on your activity and your content on NamePros.
 
-### PayPal
+You may also request to [close your account](https://web.archive.org/threads/close-namepros-account.1047418/?ref=privacy-608).
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-paypal)
+### Billing
 
-PayPal processes various types of electronic payments on behalf of NamePros. When payments occur, PayPal provides NamePros with some of the information that it has stored. Such information typically includes person or business name, email address, and sometimes telephone number. NamePros may use this information for billing and technical support purposes, as well as fraud prevention.
+We provide you with a [secure billing area](https://web.archive.org/namepros/billing/?ref=privacy-608) for you to [update your billing information](https://web.archive.org/namepros/billing/card.php?ref=privacy-608).
 
-In order to function, PayPal requires the use of Personally Identifiable Information. This information must by entered by the User directly on the PayPal website.
+### Notifications and direct marketing
 
-### New Relic
+You may [control the notifications](https://web.archive.org/threads/alerts-and-email-notifications.1027798/?ref=privacy-608) that you receive from us (e.g., disable all email notifications).
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-newrelic)
+You may adjust your [Messaging Preferences](https://web.archive.org/account/contact-details?ref=privacy-608) to opt-in or opt-out of receiving certain emails from us about news, updates, and promotional messages.
 
-New Relic provides a combination of services that NamePros uses to monitor its servers, applications, and the experiences of its users. The information gathered is, to the best of NamePros' knowledge, anonymous. Data gathered from web browsers is low-level and typically includes details such as how long a page took to load and whether any errors were encountered. NamePros uses this data to detect degradations in its services and to aid in the optimization of new and existing services.
+You may also use the unsubscribe link in any emails that you receive from us.
 
-### Datadog
+### Social networks and similar services
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-datadog)
+We do not have control over the security practices, the privacy policies, or the collection, use, or storage of your information on popular social networks and similar services (e.g., Twitter, Google+, Facebook, and LinkedIn), but they typically offer some form of opt-out that you can find by visiting their respective websites, viewing their privacy policies, and adjusting your settings with them.
 
-Datadog provides low-level server and service monitoring tools that NamePros uses to ensure the reliability and integrity of its infrastructure. Personally identifiable information is not normally gathered by this system, but it may inadvertently be logged in some rare cases, such as while analyzing diagnostic logs after an error has occurred. Aggregate metrics about the usage of NamePros' services is also logged, but is typically indexed by server and application, rather than by user. (For example, Datadog may record how many requests a server has received from all users in a certain time period.)
+### Cookies
 
-### Intercom
+Many web browsers accept cookies by default, but you can typically set your browser to block, remove, or reject cookies. If you choose to block or reject cookies on NamePros, it will hinder the availability and functionality of our services for you. We do not have the ability to access, read, or write cookies set by third parties that we use.
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-intercom)
+### Consent
 
-Intercom provides a variety of products that we use to offer customer service and support. We provide Intercom with information about each user account, including username, email, and various metadata. Intercom uses this information to provide customer support channels. Some of Intercom's products are aimed at marketing/engagement, but this is not our focus with the use of their services. As an example usage, Intercom allows us to organize and delegate email communications with a user who may require technical support to access our website.
+At any time, you can [contact us](https://web.archive.org/support/?ref=privacy-608) to easily withdraw your consent of us processing your personal data, but consent is not the only basis by which we may process your personal data.
 
-To give us a better picture of our userbase, Intercom is capable of pulling basic social networking information about users based on the email addresses associated with their accounts. To the best of our knowledge, this information is publicly accessible, and does not reveal private information about any users. Intercom explains how this works [on their website](http://docs.intercom.io/FAQs/where-do-the-social-profiles-come-from). It utilizes a third-party API by [FullContact](https://www.fullcontact.com/). Intercom is responsible for security and privacy agreements between itself and FullContact. _As of 2015-10-06, we are still evaluating this feature and have not yet decided whether it is appropriate for our community._
+You may not use or interact with NamePros if we do not have your consent to process your personal data (e.g., after you withdraw consent) because NamePros and our services cannot fully operate or function for you without the processes described in this privacy policy. Furthermore, allowing you to use our services without collecting personal information would significantly impede our ability to combat fraud, abuse, and other illegal activities.
 
-### Advertisers
+### Access and data portability
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-advertisers)
+We provide you with direct access to a [secure account area](https://web.archive.org/account/?ref=privacy-608) with multiple pages to view and manage your personal data that you have provided us for your account.
 
-Some of our advertisers request to track clicks and/or views of their ads through an analytics service such as DoubleClick. (DoubleClick is a brand of services operated by Google; our relationship with them is covered in the [Google](https://web.archive.org/pages/terms/#privacy-collectors-google) section.) Once data has been collected by the analytics service, it can be accessed by the specific advertiser implementing the service. At that point, protection and responsible utilization of the data is up to the advertiser.
+Additionally, you may [contact us](https://web.archive.org/support/?ref=privacy-608) to request access to your personal information, including the purposes for which it is used, what we have done with it, and what we are currently doing with it, such as what kind of information about you we have shared (if any) with third parties for their direct marketing purposes, along with the names and addresses of those third parties and examples of the products or services they have marketed if it is reasonably unclear from their names and addresses.
 
-For your reference, we maintain a list of advertisers that log views of their ads on NamePros. The list documents relevant advertisers as far back as 2016.
+You may also request an electronic copy of your personal data that is attached to your account in a structured, commonly-used, and machine-readable format, which can be provided to a different service. However, there may be certain information (e.g., technical [metadata](https://en.wikipedia.org/wiki/Metadata)) that we may not share with you (e.g., for security reasons).
 
-Current advertisers:
+### Data care and management
 
-  * VeriSign, via DoubleClick: <https://www.verisign.com/en_US/privacy/index.xhtml>
+We retain and/or process certain information (e.g., [remnant data](https://en.wikipedia.org/wiki/Data_remanence) and IP addresses) for long periods of time (e.g., for research, statistical analysis, journalism, abuse prevention, and as required by law) or as long as necessary for the essential purposes described in this privacy policy (e.g., sometimes, indefinitely for security purposes or reasons of public interest) because it is vital to the safety and operation of our services (e.g., our marketplace), and it is a legitimate and important use of information to detect and prevent misuse (e.g., fraud and other illegal activities) of our services.   We make a substantial effort to keep this information [secure](https://web.archive.org/terms?ref=privacy-608#security), protected, and only used as it is necessary or permitted for the entire retention period.
 
+You may [contact us](https://web.archive.org/support/?ref=privacy-608) to request that we complete or correct your personal information that we hold for you if you are unable to [change it yourself](https://web.archive.org/account/personal-details?ref=privacy-608) and you believe it is incomplete or inaccurate.
 
+You may [contact us](https://web.archive.org/support/?ref=privacy-608) at any time about our processing of your personal data (e.g., to ask a question, request that it be restricted, object to it, request cancellation and erasure, lodge a complaint, or request assistance).
 
-Past advertisers (2016 to present):
+## Data processing
 
-  * (None)
+When you use or interact with NamePros or our services, we process your information (e.g., collect, store, display, and share) as described in this privacy policy. We may rely on a number of legal bases in order to process your personal data, such as when:
 
+  * you have given consent to it for one or more specific purposes, which you may [contact us](https://web.archive.org/support/?ref=privacy-608) to revoke at any time;
+  * it is necessary for the performance of contractual obligations in our [Terms of Service](https://web.archive.org/terms?ref=privacy-608), this privacy policy, or in order to provide our services to you, including to [operate](https://web.archive.org/privacy?ref=privacy-608#provide-services), [improve and support](https://web.archive.org/privacy?ref=privacy-608#improve-services), and/or [protect](https://web.archive.org/privacy?ref=privacy-608#protect-services) our services as described in this privacy policy;
+  * it is necessary for compliance with a legal obligation or to defend legal claims;
+  * it is necessary in order to protect the public interest or to protect the vital interests of you or others;
+  * it is necessary for the purposes of our legitimate interests or the legitimate interests of a third party, such as [misuse and fraud prevention](https://web.archive.org/privacy?ref=privacy-608#protect-services), [network and information security](https://web.archive.org/privacy?ref=privacy-608#security), [direct marketing and promotion of our services](https://web.archive.org/privacy?ref=privacy-608#improve-services), [research and development](https://web.archive.org/privacy?ref=privacy-608#provide-services), and [indicating possible criminal acts or threats to public security](https://web.archive.org/privacy?ref=privacy-608#data-care);
+  * **or** you have expressly made information public.
 
 
-### Other Third Parties
 
-[¶](https://web.archive.org/pages/terms/#privacy-collectors-other)
+You must not share special categories of your personal data (“sensitive data”) with or on NamePros (a public forum by trade), such as the kind of personal data that reveals your racial or ethnic origin, philosophical or religious beliefs, genetic or biometric data, political opinions, or data concerning your sexual orientation, sex life, or health, unless you understand and agree that by doing so:
 
-As with any Internet service, information can, in theory, be intercepted by unknown third-parties through whom that information is traveling. Depending on regional laws and regulations, your use of NamePros services may be subject to interception by organizations such as ISPs and governments. To mitigate the possibility of passive interception, NamePros attempts to encrypt traffic between your computer and our servers, even within our own network. This encryption, colloquially referred to as SSL, provides an industry-standard guarantee that your communication with NamePros services cannot be decrypted by intermediary parties.
+  * you have obviously made that sensitive data of yours public, which means it could be viewed by and transmitted to a third country without an adequate level of protection;
+  * **and** you have given explicit consent to us to process that sensitive data of yours for the purposes described in this privacy policy.
 
-NamePros cannot make an absolute guarantee that your data will not be intercepted. It is the responsibility of individual users to ensure the security of their respective connections and browsers.
 
-[¶](https://web.archive.org/pages/terms/#payment)
 
-Last updated
-    June 28, 2014 EDT
+## Security and data transfers
 
-NamePros uses a third party payment processor, Stripe™ (<http://www.stripe.com/>), for all credit card purchases and subscriptions. Stripe accepts most major credit cards from anywhere in the world. Stripe is PCI/PCI-DSS Compliant, utilizes CVC verification technology, and safeguards your data with the latest protection technologies. NamePros does not store your financial information. Stripe handles all of your financial data in a secure manner on behalf of NamePros. Be sure to review Stripe's Privacy Policy (<https://stripe.com/us/privacy>) to learn how they keep your personal data safe and secure.
+We are [committed to protecting your personal data](https://web.archive.org/terms?ref=privacy-608#security) to the best of our ability, but we need your help. We encourage you to take the necessary steps to help keep your personal information safe, such as choosing a strong password, not sharing your password with others, and always logging out of NamePros on computers that may be accessed by someone else.
 
-NamePros will provide you with customer service to resolve any issues relating to your payment transactions of products and services offered by NamePros.
+We take reasonable measures to secure your personal information that we collect and safeguard it from theft, loss, misuse, unauthorized access, disclosure, alteration, and destruction.  Compliance with the principles of data protection by design and by default are important to us, and we are committed to conducting [Privacy Impact Assessments (PIA)](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment) in the initial stages of new projects and processes involving personal data.
 
-Stripe is solely responsible for protecting all data in their possession. Stripe will maintain commercially reasonable administrative, technical, and physical procedures to protect all of the personal information regarding your purchase transaction(s) that are stored on their servers from unauthorized access and accidental loss or modification.
+We keep your personal data in a safe environment by using reputable service providers that have matching commitments to security and offer an adequate level of data protection to store, use, and transfer your personal data as described in this privacy policy.
 
-Stripe will only process card transactions that have been authorized by the applicable Card Network or card issuer. Stripe may add or remove one or more types of cards as a supported payment card type at any time.
+We transfer data from the location where it is submitted to [data centers](https://en.wikipedia.org/wiki/Data_center) in the United States (limited to the Privacy Shield framework) and Canada (commercial organizations) on the basis of adequacy, as they have been recognized as providing adequate protection and appropriate safeguards.
 
-Stripe reserves the right to not authorize or settle any transaction you submit which they believe is in violation of this Agreement, any other Stripe agreement, or exposes you, other Stripe users, NamePros users, NamePros, Stripe's processors or Stripe to harm, including but not limited to fraud and other criminal acts. You are hereby granting NamePros and Stripe authorization to share information with law enforcement about you, your transactions, or your account if they reasonably suspect that your use of Stripe through NamePros has been for an unauthorized, illegal, or criminal purpose.
+We make every effort to ensure that information is secure during network transit no matter your location. We require that connections to our services use industry-standard encryption (e.g., TLSv1.2 or TLSv1.3), and we have requested that modern browsers connect to our services exclusively through HTTPS by way of [HSTS preloading](https://hstspreload.org/?domain=namepros.com) (i.e., using _**https** ://www.namepros.com/_ rather than _**http** ://www.namepros.com/_).   In the event that we identify a data breach that involves your personal data, we will notify you within 72 hours of discovery.
 
-You are responsible for paying for each subscription billing period in advance. Chargebacks, disputes, inaccurate information, fraud, or other billing difficulties may result in your forum account being banned or suspended, at our sole discretion. If access to your account is revoked for any reason, you will not be refunded.
+## Links
 
-As our users come from a wide range of geographical regions with varying types of technology, we do not guarantee accessibility or uptime. We will do our best to provide a reasonable degree of technical support at our discretion. To ensure that you retain full access to the site, we recommend that you only use up-to-date web browsers and operating systems (<http://www.namepros.com/namepros/billing/browsers.php>).
+While using NamePros or interacting with us, you may be linked to other websites and other services (third parties) that have their own policies (e.g., privacy policy), practices, and procedures that we do not have any control over. We are not responsible for the protection or privacy of information that you provide to a third party under any circumstances.
 
-[¶](https://web.archive.org/pages/terms/#security)
+## Changes and notices
 
-Last updated
-    April 15, 2015 EDT
+We may change our privacy policy from time to time, and we will notify you when we do by updating the “Last revised” date at the top of this privacy policy. We will make an effort to provide you with a reasonable notice of any changes to this privacy policy that, at our sole discretion, materially change how we process your personal data, such as sending you a website alert, adding a notice to the front page of our services, or sending a message to the email address on your account.
 
-NamePros is an industry leader when it comes to protecting your privacy and information. Our hope is that by setting a good example, we will encourage other businesses to follow in our footsteps. We offer various state-of-the-art security features, including:
+You consent to our updated privacy policy if you continue to use our services after the changes go into effect, as indicated by the _effective date_ at the top of this privacy policy. You may also be asked for your explicit consent through a manual action such as checking an unticked checkbox.
 
-  * **HTTPS** : We enforce a secure web connection between you and our servers. Users who attempt to connect over insecure HTTP will be redirected to a secure URL.
-  * **Insecure SSL versions are disabled** : Typically, web browsers don't use SSL; they use its successor, TLS, instead. All versions of SSL are broken and insecure, so we only permit TLS connections. TLS works just like SSL, from the perspective of an end user so you shouldn't notice a difference. Web servers that support SSL at all—even if they also support TLS—are insecure and should not be trusted with personal information.
-  * **External content is proxied if insecure** : When users post insecure images on our site, we cache them and serve them to you via a secure connection. This way, your browser won't give you any warnings about insecure content, any attackers will have a much harder time causing trouble, and websites hosting linked images won't be able to gather information about your browsing habits on NamePros.
-  * **HTTP Strict Transport Security (HSTS)** : Up-to-date versions of Chrome, Firefox, Opera, and Safari will remember that our website enforces security for about 180 days. If a government or Internet Service Provider tries to trick your browser into using an insecure connection, compatible browsers will refuse and give you a warning. Unfortunately, Internet Explorer does not yet support HSTS. Safari only has support from OS X Mavericks onward. _As of 2015-02-04_
-  * **HSTS preloading** : On January 20, 2015, [we were added](https://chromium.googlesource.com/chromium/src/+/a45ea4d4cff856b3ede613f93b8745bfaf4c5452%5E%21/#F1) to Chromium's [HSTS preload list.](https://www.chromium.org/hsts) Once the changes make their way into the latest stable builds of Chrome, Firefox, and Safari, those browsers will know to use a secure connection when contacting NamePros out-of-the-box. They will refuse to connect to NamePros in an insecure fashion, even on the first visit. This significantly increases security when browsing NamePros from locations susceptible to man-in-the-middle attacks, such as public Wi-Fi networks.
-  * **DMARC and DKIM** : The e-mail protocol is largely anonymous: it is quite a simple matter to send an e-mail appearing to be from someone else. To mitigate this issue, we sign all of our e-mail messages per [DKIM](http://en.wikipedia.org/wiki/DomainKeys_Identified_Mail). On its own, this wouldn't prevent inauthentic messages; however, we combine it with strict [DMARC](http://en.wikipedia.org/wiki/DMARC) policies understood by most major e-mail providers. When an e-mail appearing to be from `namepros.com` is received by a participating provider, it is thoroughly inspected to ensure that it is authentic. If it fails to pass a variety of tests, the provider will send us a report notifying us of attempted impersonation, and the e-mail will be declined. **GoDaddy, NameCheap, and similar hosting providers do not appear to implement DMARC, as we do not receive regular reports from them. To ensure that the e-mails you are receiving are legitimate, please use an e-mail address hosted with a participating provider that values your security as much as we do.** We've noted participation from Gmail/Google Apps, Outlook.com/Office 365/Hotmail, FastMail, NetEase/网易/163.com/126.com, Comcast, and Mail.Ru, along with a few smaller providers. We have also seen some participation from Yahoo, but it does not appear to cover all of their services.
+You may [contact us](https://web.archive.org/support/?ref=privacy-608) to request a previous version of our privacy policy.
 
-[¶](https://web.archive.org/pages/terms/#dmca)
+## Acceptance and consent
 
-Last updated
-    April 15, 2015 EDT
+You must not use our services if you cannot or do not accept and consent to this privacy policy. By continuing to use our services, you are signifying that you legally can and do accept this privacy policy and consent to us processing your personal information.  Your continued use of our services is considered an acceptance of our updated privacy policy.
 
-We reserve the right to redistribute and/or publicize any communication regarding DMCA takedown requests, regardless of any confidentiality statements in documents, e-mails, or other communications. **We do not agree to any confidentiality agreements in DMCA- and intellectual property-related communications, and are declining up front.** Confidentiality notices in e-mails, letters, and other communications regarding such matters **will not be honored**. By communicating with us regarding any DMCA or intellectual property matters, you agree to forfeit confidentiality.
+At registration, we require acceptance of this privacy policy, which includes your explicit consent to our processing of your personal data as described in this privacy policy.  If you cannot or do not accept this privacy policy, then you must not register or use an account.
 
-**By contacting us about DMCA takedown requests, copyright infringement, and/or other intellectual property matters, you agree to forfeit all confidentiality, regardless of any notices requesting otherwise.**
+You must not provide your personal information to us if you are under the age of 13 years old, or the equivalent age in your jurisdiction (e.g., you must be at least 16 years old in many locations), whichever is greater, unless consent is given or authorized by your holder of parental responsibility. Our services cannot operate securely without personal information; therefore, you cannot use our services if you are underage.
 
-DMCA takedown requests should be sent to `dmca@namepros.com`. Requests sent elsewhere are still subject to the above terms.
-  *[domain]: namepros.com
-  *[ISPs]: Internet Service Providers
+## Contact Us
+
+If you have any questions about our policies or inquiries about our data practices, please contact us at _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_ anytime.
+
+[ ](http://www.lysted.com/)
+
+[ ](https://www.namepros.com/threads/undeveloped-com-experience.893201/page-9999)
