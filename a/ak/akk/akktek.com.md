@@ -1,0 +1,69 @@
+> *The following text is extracted and transformed from the akktek.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824075028id_/https%3A//www.akktek.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Quality VTX,AIO camera,antenna,drone
+
+**Last updated: February  06, 2017**
+
+**Conditions of Use**  
+
+AKK provides services to you subject to certain conditions. By visiting or shopping at any AKK website you accept the following conditions:
+
+**Your Personal Information Is Private**
+
+AKK is serious about protecting our customers' personal information. You can always browse our website without giving any personal information.
+
+However, in doing business with you we may have to gather certain information so that we can process orders, personalize your shopping experience, or send you the latest product updates and other useful material. We will not sell, rent, trade, or give away individual, personally identifiable information entered on this site to any third party. If you do not wish to receive updates or other material AKK, you can simply respond to our e-mail or otherwise tell us that you do not want to receive our future communications. 
+
+**What we collect**
+
+To process and ship your order we need your name, billing address, shipping address, e-mail address, billing phone number, shipping phone number, and credit card number. We will e-mail you to confirm your order and keep you updated on your order status. If we have a question about your order, we may contact you by e-mail or by phone. For example, we may call you to verify your credit card information on a large purchase. Please understand that we do this for your protection.
+
+In addition, we use your information to recommend products and features based on your past purchases, to personalize our newsletters if you choose to subscribe, to maintain your account, and to improve your overall shopping experience.
+
+**Contractors and Agents  **
+
+We may employ other companies and individuals to perform functions on our behalf, which may include assisting us in processing your information. We share personally identifiable information with such contractors in order to assist us in using the data for the purposes outlined in this Privacy Policy. These contractors are contractually required to maintain the confidentiality of the information and are restricted from using the information for any other unauthorized purpose. 
+
+**AKK  Email List **
+
+To receive emails from AKK with updates on sales, promotions, and new products, you must subscribe. You can subscribe to the AKK e-mail updates via links on almost all AKK website pages. Your email address will not be given, shared, sold, or otherwise divulged to any other person or company entity. 
+
+Sweepstakes or Giveaway Information-Sharing Exception. From time to time, AKK may partner with one or more other companies or organizations in a sweepstakes or prize giveaway event. Should you choose to enter said sweepstakes or giveaway event, certain personal information, including but not limited to your name and email address, shall be used by AKK to contact you regarding new products, promotions, or other news. In addition, such personal information you disclose may be shared with AKK's sweepstakes or giveaway event partner or partners. 
+
+**Contacting AKK  Customer Service **
+
+If you contact AKK customer service, we will use your name, e-mail address, phone number and order history to answer your question or solve your problem quickly. Occasionally we may contact you later to verify information or to check on the quality of your Customer Service contact with AKK. We will not add your e-mail address to our newsletter mailing list if you contact customer service. 
+
+**Legal requests  **
+
+If necessary, we may be required to release customer account or other information to comply with the law, or to protect the rights, property and safety of AKK, our customers or others. This may include the exchange of information with companies and organizations or law enforcement for loss prevention and credit risk reduction. 
+
+**Cookies  **
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser. Cookies help us identify you when you visit AKK. We do not store your password or any other personal information in your cookie. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some akktek.com website features, so we recommend that you leave them turned on. 
+
+**Protecting your personal information  **
+
+We use the industry standard for Internet security, Secure Sockets Layer (SSL 128-bit) encryption to scramble your personal and credit card information as it travels over the Internet during the checkout process. This encryption makes it impossible for anyone to read your information in transit. We protect all of your personal information, including your name, address, password and credit card information. For an additional layer of security, we encrypt every credit card number we store in our database. 
+
+You will know you're in the "secure" area of our site when you notice that the "http" portion of AKK's website address in your browser changes to "https." The "s" stands for "secure." In addition, browsers typically use special symbols (such as closed, highlighted lock) to indicate that you're in a website's secure area. Some browsers let you know that you're moving in or out of a secure area by notifying you with a special pop-up window that requires you to accept by clicking "ok" before continuing. 
+
+**Protecting your credit card information  **
+
+AKK collects credit card information from you to process your purchases from the site. Only reputable third-party financial institutions handle our credit card transactions. Whenever you transmit credit card information and other personal information through our site, the numbers and letters are scrambled using encryption technology. To protect your security, we do not allow you to store your credit card number from session to session. 
+
+Protecting your password We encrypt your password to ensure no one else has access to your account. If you forget your password, you can create a new one. You can do your part to protect your personal information by keeping your password a secret and making sure you log off from the website completely before sharing a computer. 
+
+**Electronic Communications  **
+
+When you visit akktek.com or send e-mail to us, you are communicating with us electronically. By so doing, you consent to receive communications from us electronically. We will communicate with you by e-mail or by posting notices on the akktek.com site. 
+
+**Conditions of Use, Notices and Revisions  **
+
+Our business changes constantly, and our Privacy Notice and the Conditions of Use may change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to. As always, we recommend that you check our website frequently to view recent changes or updates. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+**Contact AKK**  
+
+If you have any questions, concerns or comments about this privacy policy, please contact us at [support@akktek.com](mailto:support@akktek.com). 
