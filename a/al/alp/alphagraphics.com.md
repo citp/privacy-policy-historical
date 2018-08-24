@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphagraphics.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614190129id_/https%3A//www.alphagraphics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphagraphics.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825005600id_/https%3A//www.alphagraphics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AlphaGraphics
 
