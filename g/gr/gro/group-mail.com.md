@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118014139id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824231415id_/https%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal - Terms and Conditions of the Groupmail Website
 
@@ -111,6 +111,16 @@ Product Activation is an anti-piracy technology that we use to manage the licens
 During activation, your Product license key details and a unique network ID are encrypted, and then registered against your Customer Account (See Customer Resources section). The unique network ID does not include any personal information, nor does it include any information about the software or documents that reside on the computer. The network ID is determined using publicly available network related information, and is used only for activation purposes.
 
 Once a product is activated on a computer, minor changes to that computer’s network configuration will not affect the activation. Major changes to the computer’s network setup may require reactivation of the digital goods. Reactivation is at Groupmail’s discretion.
+
+The Insights tools operate under the domains https://lnk.ie and https://subscriptions.groupmail.io.
+
+All data collected is the property of the customer and is just hosted / facilitated by us. Insights stores this information securely on behalf of the customer who collected it. This information is only accessible by that customer. When the customer has finished using the data it is deleted.
+
+Insights Tracking Manager: Our Tracking Manager software, allows our customers to track their group e-mailings. The software records any of the following data when an email is ‘tracked’ by Tracking Manager: IP address, date and time of event, user defined ‘pass through’ information, Link ID and campaign ID, where the subscriber is the person who receives the email.
+
+Our Tracking Manager software uses a web beacon at times. This is a transparent image that is placed within the e-mail. This web beacon also records user defined ‘pass through’ information, IP address, date and time of event, and campaign ID. The function of the web beacon is to report when an email has been opened.
+
+Insights Subscription Manager: Our online Subscription Manager allows our customers to use a provided web form template which they can use on their own website to collect subscription requests from their site visitors, as well as providing a ‘one-click’ unsubscribe link which can be placed in any Email they send.
 
   1. Policy Scope
 
