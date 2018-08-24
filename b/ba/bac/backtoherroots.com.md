@@ -1,73 +1,168 @@
-> *The following text is extracted and transformed from the backtoherroots.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126082832id_/https%3A//wholefully.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backtoherroots.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824194040id_/https%3A//wholefully.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wholefully
 
-This Privacy Policy governs the manner in which Wholefully collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.wholefully.com](http://www.generateprivacypolicy.com/account/policies/edit/www.wholefully.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Wholefully.
+**PRIVACY POLICY**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+Last updated May 21, 2018 
 
-**Personal identification information**
+Wholefully, operated by Back to Her Roots, LLC (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website https://www.wholefully.com/ including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”). Please read this Privacy Policy carefully.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE. 
 
-**Non-personal identification information**
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Revised” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted. 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**COLLECTION OF YOUR INFORMATION**
 
-**Web browser cookies**
+We may collect information about you in a variety of ways. The information we may collect on the Site includes: 
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**Personal Data**
 
-**How we use collected information**
+Personally identifiable information, such as your name, address, email address, and telephone number, and demographic information, such as your age, gender, hometown, and interests, that you voluntarily give to us when you choose to participate in various activities related to the Site, such as newsletter subscriptions, downloads, and website comments. You are under no obligation to provide us with personal information of any kind, however your refusal to do so may prevent you from using certain features of the Site. 
 
-Wholefully collects and uses Users personal information for the following purposes:
+**Derivative Data**
 
-  * _– To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _– To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _– To administer a content, promotion, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _– To send periodic emails_  
-The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+Information our servers may automatically collect when you access the Site, such as your IP address, your browser type, your operating system, your access times, and the pages you have viewed directly before and after accessing the Site.
+
+ **Data From Contests, Giveaways, and Surveys**
+
+Personal and other information you may provide when entering contests or giveaways and/or responding to surveys. 
+
+**USE OF YOUR INFORMATION**
+
+Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site to: 
+
+  * Administer sweepstakes, promotions, and contests.
+  * Compile anonymous statistical data and analysis for use internally or with third parties.
+  * Deliver targeted advertising, coupons, newsletters, promotions, and other information regarding our website to you.
+  * Allow comments on the Site.
+  * Send you a periodic digital newsletter.
+  * Increase the efficiency and operation of the Site.
+  * Monitor and analyze usage and trends to improve your experience with the Site.
+  * Notify you of updates to the Site.
+  * Offer new products, services, and/or recommendations to you.
+  * Perform other business activities as needed.
+  * Request feedback and contact you about your use of the Site.
+  * Resolve disputes and troubleshoot problems. 
 
 
 
-**How we protect your information**
+**DISCLOSURE OF YOUR INFORMATION**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows: 
 
-**Sharing your personal information**
+**By Law or to Protect Rights**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
 
-**Third party websites**
+ **Third-Party Service Providers**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+We may share your information with third parties that perform services for us or on our behalf, including data analysis, email delivery, hosting services, customer service, and marketing assistance.
 
-**Advertising**
+We currently use MailChimp for delivery of email updates and newsletters. The MailChimp service will store your name and email address for purposes of delivering such communications. Please refer to MailChimp’s privacy policy for further information.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+ **Marketing Communications**
 
-**Google Adsense**
+With your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+ **Online Postings**
 
-**Changes to this privacy policy**
+When you post comments, contributions or other content to the Site, your posts may be viewed by all users and may be publicly distributed outside the Site in perpetuity.
 
-Wholefully has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ **Third-Party Advertisers**
 
-**Your acceptance of these terms**
+We use third party advertising companies to serve ads when you visit the Site. These companies may use information about your visits to the Site and other websites that are contained in web cookies to provide advertisements about goods and services of interest to you. 
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**Business Partners**
 
-**Contacting us**
+We may share your information with our business partners to offer you certain products, services, or promotions you may enjoy.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Wholefully](http://www.generateprivacypolicy.com/account/policies/edit/www.wholefully.com)  
-[www.wholefully.com](http://www.generateprivacypolicy.com/account/policies/edit/www.wholefully.com)  
-cassie@wholefully.com
+ **Other Third Parties**
 
-This document was last updated on November 7, 2016.
+We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law.
+
+ **Sale or Bankruptcy**
+
+If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline to honor commitments we made in this Privacy Policy.
+
+We are not responsible for the actions of third parties with whom _you_ share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
+
+ **TRACKING TECHNOLOGIES**
+
+ **Cookies, Web Beacons, and Tracking Pixels**
+
+We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Site to help customize the Site and improve your experience. When you access the Site, your personal information is not collected through the use of tracking technology. Most browsers are set to accept cookies by default. You can remove or reject cookies, but be aware that such action could affect the availability and functionality of the Site. You may not decline web beacons; however, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis.
+
+We use Google Analytics, a web analytics service of Google Inc., (“Google”). Google Analytics uses cookie text files to analyze how our Site is used. Google uses the data stored on these cookies to compile reports on website activities and to provide further services related to the use of the website.
+
+Periodically, we may need to include a tracking pixel to monitor the effectiveness of information or materials we share. For example, you may subscribe to our newsletter, which may be used for advertising purposes. Newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows for an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Site to adapt the content of future newsletters to the interests of the user. We do not share this information with third parties.
+
+ **Internet-Based Advertising**
+
+We may use third-party software to serve ads on the Site, implement email marketing campaigns, and manage other interactive marketing initiatives. This third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us. For more information about opting out of internet-based ads, visit the third-party network or review [Digital Advertising Alliance Opt-Out Tool](http://www.aboutads.info/choices/).
+
+ **Website Analytics**
+
+We may also partner with selected third-party vendors, such as Google Analytics, to allow tracking technologies and remarketing services on the Site through the use of first party cookies and third-party cookies, to, among other things, analyze and track users’ use of the Site, determine the popularity of certain content and better understand online activity. By accessing the Site, you consent to the collection and use of your information by these third-party vendors. You are encouraged to review their privacy policy and contact them directly for responses to your questions. We do not transfer personal information to these third-party vendors. However, if you do not want any information to be collected and used by tracking technologies, you can visit the third-party vendor or review [Digital Advertising Alliance Opt-Out Tool](http://www.aboutads.info/choices/).
+
+You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt­out cookies, plug­ins, or settings.
+
+ **THIRD­PARTY WEBSITES**
+
+The Site may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Site, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Site.
+
+The Site may engage in affiliate marketing, which is done by embedding tracking links into the Site. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Wholefully is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and providing links to products or services available from Amazon.com. As part of this Amazon Associates program, the Site may post customized links, provided by Amazon, to track the referrals to the Amazon listing. This affiliate program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+ **SECURITY OF YOUR INFORMATION**
+
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+
+ **RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us through our [contact form](https://wholefully.com/contact-me/).
+
+For all other requests, please submit a request through our [contact form.](https://wholefully.com/contact-me/)
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+ **SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Site. This includes your social security number, information regarding race or ethnic origin, political affiliation or opinions, religious beliefs, health information, criminal background, or other sensitive personal information. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+ **POLICY FOR CHILDREN**
+
+Wholefully is designed for those 18 years of age or older. Visitors under the age of 18 must have permission from their parent or guardian to use certain features of our Site. We do not knowingly collect any personally identifiable information from anyone under the age of 18. We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us at hello@wholefully.com. 
+
+**CONTROLS FOR DO-NOT-TRACK FEATURES**
+
+Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
+
+ **CALIFORNIA PRIVACY RIGHTS**
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. 
+
+If you are under 18 years of age, reside in California, and have provided your personal information with the Site, you have the right to request removal of unwanted data that you publicly post on the Site. To request removal of such data, please contact us using the contact information provided below, and include sufficient detail about the public post(s) and a statement that you reside in California. We will make sure the data is not publicly displayed on the Site, but please be aware that the data may not be completely or comprehensively removed from our systems, nor can we guarantee any cached or archived version of the site will remove such data.
+
+ **CONTACT US**
+
+If you have questions or comments about this Privacy Policy, please contact us through our [contact form.](https://wholefully.com/contact-me/)
+
+ **OTHER DISCLOSURES AND POLICIES**
+
+[ Cookie Policy](https://wholefully.com/cookie-policy/)
+
+[Disclosure Policy](https://wholefully.com/disclosures/)
+
+AdThrive Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies. 
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. 
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
