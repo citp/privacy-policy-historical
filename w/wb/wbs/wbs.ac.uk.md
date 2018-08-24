@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323130711id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824213718id_/https%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Warwick Business School
 
@@ -85,7 +85,7 @@ We may use information held about you to provide you with information, advertise
 Some parts of the WBS website require authentication with a username and/or password. We store information about the pages visited by logged-in users for statistical analysis purposes, but we don't monitor individual usage patterns. Logs containing the date and time of all logins and the identity of the user are kept and may be used for system diagnostic or problem solving purposes, but not for tracking or monitoring purposes.
 
 **5\. Credit card payments**  
-It is possible to make credit card payments to the University of Warwick through our website. Such payments are handled by a third party e-commerce company called WorldPay, and they have their own [privacy statement.](http://www.worldpay.com/about_us/index.php?page=privacy)
+It is possible to make credit card payments to the University of Warwick through our web site. Such payments are handled by a third party e-commerce company called Global Payments, and they have their own [privacy statement](https://www.resources.globalpaymentsinc.co.uk/en/privacy-statement).
 
 **6\. Regulation of Investigatory Powers Act 2000**  
 It is also important to point out that in certain circumstances the University may be obliged to disclose information or undertake more detailed monitoring under the Regulation of Investigatory Powers Act 2000.
