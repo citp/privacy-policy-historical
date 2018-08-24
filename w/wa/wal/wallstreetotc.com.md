@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wallstreetotc.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426045453id_/http%3A//www.wallstreetotc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetotc.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824220448id_/https%3A//www.wallstreetotc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Wall Street OTC
+# Privacy Policy • Latest News in the Business and Financial World
 
   1. **INTRODUCTION**
 
 
 
-Welcome to the Privacy Policy page of our website. This document, in addition to the [Terms of Use](http://www.wallstreetotc.com/terms-of-service/) of our website governs your use of the website. We understand and respect the need to know how your information is collected, stored and used. As such, this document provides information on all these fields.
+Welcome to the Privacy Policy page of our website. This document, in addition to the [Terms of Use](https://www.wallstreetotc.com/terms-of-service/) of our website governs your use of the website. We understand and respect the need to know how your information is collected, stored and used. As such, this document provides information on all these fields.
 
 By using our website and the services we provide, you agree to the terms set out in our Privacy Policy and the Terms of Use. If, at any time you are not satisfied with the provisions in either of these documents, you are advised to cease access and use of our website and services.
 
@@ -66,7 +66,7 @@ Institutions such as, but not limited to governmental agencies or law enforcemen
 
 We respect your right to privacy and as such we strive to provide the most secure environment for the collection and storage of your information, both personal and non-personally identifying. We’ve put the system in place that should guarantee the security of information and protect against such instance as, but not limited to loss, unauthorized use, theft or modification.
 
-However, no system is infallible. As such, if you have grounds to believe that your access and use of the website or any information you provided us is insecure or tackled with, please [contact us](http://www.wallstreetotc.com/contacts/) and notify the issue.
+However, no system is infallible. As such, if you have grounds to believe that your access and use of the website or any information you provided us is insecure or tackled with, please [contact us](https://www.wallstreetotc.com/contacts/) and notify the issue.
 
 We do not guarantee the safety and security standards of your own software and hardware. We are not liable for any and all information loss or damages arising from security issues with your hardware and software.
 
