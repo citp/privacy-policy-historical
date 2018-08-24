@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momlessmom.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523133236id_/http%3A//momlessmom.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momlessmom.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824114504id_/https%3A//momlessmom.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MomLess Mom
 
