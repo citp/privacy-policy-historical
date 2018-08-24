@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphics-illustrations.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113164204id_/http%3A//graphics-illustrations.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphics-illustrations.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824231217id_/http%3A//graphics-illustrations.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - Graphics-Illustrations
 
@@ -6,33 +6,106 @@ This privacy policy sets out how **Graphics-Illustrations**  uses and protects 
 
 **Graphics-Illustrations** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Graphics-Illustrations** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: March 2015
+**Graphics-Illustrations** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: May 2018
 
-### What we collect
+## Privacy Policy www.graphics-illustrations.com
 
-We may collect the following information:
+**Last updated: May, 2018**
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+www.graphics-illustrations.com is a Site publishing design and graphics related articles. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
+We use your Personal Information only for providing and improving the Site and the user experience. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
+**Information Collection And Use**
 
-### What we do with the information we gather
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+**Log Data**
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
 
+This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
+In addition, we use third party services such as Google Analytics and Amazon AWS Emailing services that collect, monitor and analyze this data to further improve on the overall user experience.
 
-### Security
+**Communications**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that will help improving the overall user experience. You may opt-out from our mailing list at any time.
+
+**Cookies**
+
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+
+**Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of May 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at info@graphics-illustrations.com
+
+### GDPR – General Data Protection Regulations
+
+We embrace the changes brought by the new EU General Data Protection Regulations, and our Privacy Policy intends to reflect the transparency this law requires.
+
+**What data does www.graphics-illustrations.com collect?**
+
+We collect the following data from our users:  
+* Email – User email address.  
+* Name – Full name, nick name or user name.  
+* Password – The password for the account.  
+* Website – This is optional.  
+* Country – This is optional.
+
+### How we utilize the information collected?
+
+We require user identification in order to better manage the distribution of the copyrighted content offered by our website.
+
+Also, we want to provide our users with the best experience possible when browsing our website. We therefore sometimes send newsletters, marketing or promotional materials regarding content relevant to our users. We DO NOT, and WILL NOT share user information with third parties other than the ones required for normal website functionalities (Google Analytics, Amazon AWS). User information is only accessible and used within the website and group of websites affiliated with www.graphics-illustrations.com.
+
+We ensure that the same strict Privacy Policy constraints apply to affiliated websites. The affiliated websites are controlled and managed by the same www.graphics-illustrations.com staff.
+
+### How is your data stored and secured?
+
+We use the industrie’s standard procedures for ensuring optimal security of the user information we store. Databases are not directly accessible. They are only accessible via our hosting provide. Therefore, access to the databases implies a two-way authentication procedure. Strong passwords are used and regularly changed to further enforce security. Access to the databases is restricted to only www.graphics-illustrations.com technical staff.
+
+All user data is stored with Inmotion Hosting, an award winning hosting provider, inside their data centers located in USA. Inmotion Hosting adheres to the strictest security standards, so your data is safe.
+
+The users have the following rights
+
+**Right of access**
+
+You can ask us what personal data is being processed (used), why and where. To do this, please send your request at info@graphics-illustrations.com from the email address associated with your account.
+
+**Right to rectification**
+
+If you, or your customer, want to correct, revise or remove any of the data we retain on you – as explained in our Privacy Policy – you may do so at any time. To do this, please send your request at info@graphics-illustrations.com from the email address associated with your account.
+
+**Right to be forgotten**
+
+If you, need to cancel your account at any time, we will permanently remove your account and all information associated with it. To do this, please send your request at info@graphics-illustrations.com from the email address associated with your account.
+
+**Right to restrict processing**
+
+If you, believe your personal data is inaccurate or collected unlawfully, you may request limited use of your personal data. To do this, please send your request at info@graphics-illustrations.com from the email address associated with your account.
+
+**Right to object**
+
+If you, decide that you no longer wish to allow your data to be included in our analytics or for us to provide personalized (targeted) marketing content at any time, you may contact us to request removal of this data. You can also do this via the unsubscribe link offered in our newsletter emails.
+
+We will respond to all requests, inquiries or concerns within thirty (30) days.
+
+***
 
 ### What is a cookie?
 
