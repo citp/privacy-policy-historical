@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10for.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121155044id_/http%3A//top10for.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10for.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824022722id_/http%3A//top10for.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
