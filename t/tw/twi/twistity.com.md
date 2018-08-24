@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090307id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824204659id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
 
 # TWISTITY PRIVACY POLICY
 
 **_TWISTITY Privacy Policy_**
 
-_Version 2.4 Dated March 2, 2016_
+_Version 2.4 Dated January 1, 2018_
 
 _BY ACCESSING THIS WEBSITE OR ANY OTHER SITE OPERATED BY Twistity.com, LLC., INCLUDING ALL OF ITS DIVISIONS, SUBSIDIARIES AND RELATED COMPANIES (COLLECTIVELY, THE “Twistity.com SITES”), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A “VISITOR” (WHICH MEANS THAT YOU SIMPLY BROWSE THE Twistity.com SITES) OR YOU ARE A “MEMBER” (WHICH MEANS THAT YOU HAVE REGISTERED WITH ANY OF THE Twistity.com SITES). THE TERM “USER” REFERS TO A VISITOR OR A MEMBER. “YOU” REFERS TO YOU AS A VISITOR OR A MEMBER._
 
@@ -57,4 +57,4 @@ _We aggregate this anonymous data as part of managing, maintaining and reporting
 
 
 
-_In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: FTC.gov. If you have any questions about this Privacy Policy, please contact us at admin [at] Twistity.com._
+_In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or by phone at 916-445-1254 or 800-952-5210; or by email to[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) For more information about protecting your privacy, you may wish to visit: FTC.gov. If you have any questions about this Privacy Policy, please contact us at admin [at] Twistity.com._
