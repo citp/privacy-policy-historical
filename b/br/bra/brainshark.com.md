@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328211523id_/https%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824164925id_/https%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brainshark
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=d86225ab-d785-4de6-91e4-c912ca59abb4 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=d86225ab-d785-4de6-91e4-c912ca59abb4)
 
-## Last Updated: October 27, 2016
+## Last Updated: February 7, 2018
 
 Brainshark, Inc. (“Brainshark”) is committed to protecting the privacy of your information and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our Website privacy practices. Please note that this Privacy Policy covers all of our Websites including our applications, while that portion covered by the TRUSTe Privacy Seal covers specific elements of our sites described below.
 
 ### 1\. Websites Covered
 
-This Privacy Policy covers the information practices of Brainshark on its Websites: http://www.brainshark.com; http://presentation.brainshark.com; http://my.brainshark.com; http://www.slideshark.com; and http://app.demand.brainshark.com (collectively referred to as “Brainshark’ Websites”).
+This Privacy Policy covers the information practices of Brainshark in its role as a data controller on its Websites: http://www.brainshark.com; http://www.slideshark.com; and http://app.demand.brainshark.com (collectively referred to as “Brainshark’s Websites”).
 
 Brainshark’s Websites may contain links to third party sites that are not owned or controlled by Brainshark. Additionally, Brainshark’s services are used by customers to deliver video presentations that are embedded and linked within their own Websites and third party sites. Brainshark is not responsible for the information practices or content of its customers or third party sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Website that collects personally identifiable information. This privacy policy applies only to information collected by this Website.
 
@@ -22,9 +22,9 @@ The types of information Brainshark collects (“Personal Information”) may in
 
   * **Information you provide to Brainshark** \- When expressing an interest in obtaining additional information about the Services or registering to use the Services, Brainshark may require you to provide personal contact information, such as your name, your company name, your job title or role, your address, your phone number, and your email address.
   * **Website navigational information** \- Brainshark uses commonly used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate Brainshark’s Websites (“Website Navigational Information”). This Website Information includes standard information from your Web browser (such as browser type, version, and language), your Internet Protocol (“IP”) address, and the actions you take on Brainshark’s Websites (such as, pages viewed, links clicked).
-  * **Information you publish to Brainshark blogs or public portals** – Brainshark’s Websites include public blogs, portals, and elements of the Brainshark’s free Website, myBrainshark™, that allow Visitors to submit and publish comments.
+  * **Information you publish to Brainshark blogs or public portals** – Brainshark’s Websites include public blogs and portals that allow Visitors to submit and publish comments.
   * **Billing information** – For certain editions of our Services that are purchased using a credit card, Brainshark requires you to provide billing information, such as your billing name and address, and your credit card number.
-  * **Information you provide to Customers** – A capability of the Services allows Customers to request registration information from viewers of their video presentation content. For example, the myBrainshark site includes presentations created by many Customers, and some include a Guest Book registration form. Brainshark is not responsible for the information practices of its Customers, and does not access this information except with Customer's permission to provide Support and assistance.
+  * **Information you provide to Customers** – A capability of the Services allows Customers to request registration information from viewers of their video presentation content. For example, many presentations created by our Customers include a Guest Book registration form. Brainshark is not responsible for the information practices of its Customers, and does not access this information except with Customer's permission to provide Support and assistance.
 
 
 
@@ -55,57 +55,55 @@ We reserve the right to disclose your personally identifiable information as req
 
 In the event that Brainshark is a party to a merger, acquisition by another company, or its assets are entirely or substantially acquired, your personal identifiable information will be among the assets transferred. You will be notified via email and/or prominent notice on our Website for thirty (30) days or the time frame as defined and required by statute and/or regulation of any such change in ownership or control of your personal information; information concerning deletion and/or removal of your personal information or any changes that you wish to make to your personal information will be made available at that time.
 
-### Communications Preferences
+### 5\. Communications Preferences
 
-Brainshark partners with a third party to display advertising on our website or to manage our advertising on other sites. The third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
+Brainshark partners with a third party to display advertising on our website or to manage our advertising on other sites. The third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
 Brainshark offers Customers and Visitors who provide contact information a means to choose how Brainshark uses the information provided. Visitors and any recipients of marketing messages from Brainshark may click on the “unsubscribe” link located on the bottom of the Brainshark’s marketing emails. Customers can change their communication preferences at any time through the “My Profile” page when logged in to the Service or you can decide not to receive communications that help you use the Service.
 
 Some email communications are part of the Service(s), such as the ability to receive reports or view notifications via email. For help in managing these emails, contact [support@brainshark.com](mailto:support@brainshark.com).
 
-Customers do not have the option to cancel receiving transactional emails related to their account with Brainshark or the Service(s). For our individual user products, this means we need to communicate with you as the account holder.
+Customers do not have the option to cancel receiving transactional emails related to their account with Brainshark or the Service(s). 
 
 For our enterprise editions, Brainshark needs to communicate with your primary business contact and/or site administrator(s).
 
-Customers of our free service, myBrainshark, may choose to close their free account at any time by contacting [support@brainshark.com](mailto:support@brainshark.com).
+### 6\. Public Blogs, Portals, and Customer Articles
 
-### Public Blogs, Portals, and Customer Articles
-
-Brainshark’s Websites include public blogs, portals, customer articles, and elements of Brainshark’s free Website, myBrainshark, that allow Visitors to submit and post comments. Brainshark provides portal solutions for its customers.
+Brainshark’s Websites include public blogs, portals, and customer articles that allow Visitors to submit and post comments. Brainshark provides portal solutions for its customers.
 
 Any Personal Information you choose to submit in these forums may be read, collected, or used by others who visit these sites. Brainshark is not responsible for the Personal Information you choose to submit to public sites for posting. If you do not want information to be public, please do not post it to these sites. To request removal of your personal information from our blog, portals, or customer articles contact us at support@brainshark.com. In some cases, Brainshark may not be able to remove your personal information, but we will notify you via email if we are unable to do so and briefly explain the reasons.
 
 Our blog is also managed by a third-party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog managed by that third-party application. You will need to contact or login into the third-party application if you want the personal information that was posted to the comments section removed. To learn how the third-party application uses your information, please review their privacy policy.
 
-### Transfer of Information
+### 7\. Transfer of Information
 
-Your information may be transferred to and maintained on computers located outside of your state, province, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside of the United States and choose to provide Personal Information to us, Brainshark transfers the information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Your information may be transferred to and maintained on computers located outside of your state, province, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside of the United States and choose to provide Personal Information to us, Brainshark transfers the information to the United States and processes it there. Regarding these data flows, Brainshark participates in the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks (“Privacy Shield”), and is committed to applying the Privacy Shield Principles to all personal information received from countries in the European Economic Area (EEA) and Switzerland in reliance on the Privacy Shield.
 
-### Passive Collection
+### 8\. EU-U.S. and Swiss-US Privacy Shield
 
-As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
+Brainshark participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
-### Tracking Technologies
+Brainshark is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Brainshark complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-Brainshark and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Brainshark is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-### EU-U.S. Privacy Shield
-
-[Brainshark] participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Brainshark is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/list
-
-Brainshark is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Brainshark complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Brainshark is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Brainshark may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-### Childrens’ Privacy
+### 9\. Passive Collection
 
-Brainshark’s Websites and the Services are not directed to Visitors under 18. As Brainshark provides Services to businesses and business professionals, Brainshark does not knowingly contact or collect personal information from children under 13. If a parent or guardian becomes aware that his or her child has provided Brainshark with Personal Information, he or she should contact us at support@brainshark.com. If you believe that we have mistakenly or unintentionally collected such information through our Site, please notify us at the contact address below so that we may immediately delete the information from our servers.
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
-### Security
+### 10\. Tracking Technologies
+
+Brainshark and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+
+### 11\. Childrens’ Privacy
+
+Brainshark’s Websites and the Services are not directed to Visitors under 18. As Brainshark provides Services to businesses and business professionals, Brainshark does not knowingly contact or collect personal information from children under 16. If a parent or guardian becomes aware that his or her child has provided Brainshark with Personal Information, he or she should contact us at support@brainshark.com. If you believe that we have mistakenly or unintentionally collected such information through our Site, please notify us at the contact address below so that we may immediately delete the information from our servers.
+
+### 12\. Security
 
 To prevent unauthorized access or disclosure, to maintain data accuracy, to allow only the appropriate exercise of users' Personal Information while also protecting the confidentiality, integrity and availability of users' Personal Information, Brainshark employs a variety of industry standard security technologies. Security is provided on the data, application, and hosting level. The security infrastructure includes a physically secure data center, proven firewall protection, intrusion prevention measures, role based authorization, and additional proprietary security measures. Additional security of Customer login and presentation content is provided as part of Brainshark's Services. Please refer to the Products Section of the Website for more information about included features and options that can be configured specifically for Customers’ needs. These options vary by the product licensed.
 
@@ -115,36 +113,58 @@ When you enter personal and/or sensitive information (such as a credit card numb
 
 If you have any questions about security on our Web site, you can contact us at [support@brainshark.com](mailto:support@brainshark.com).
 
-### Access to Personally Identifiable Information
+### 13\. Data Subjects’ Rights
 
 Upon request, Brainshark will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [support@brainshark.com](mailto:support@brainshark.com).
 
-You may access, correct, or request deletion of your personal information by logging in to your account, contacting us at support@brainshark.com, by completing this form. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+You may access, correct, or request deletion of your personal information by logging in to your account, contacting us at support@brainshark.com, by [completing this form](https://www.brainshark.com/contact-sales). In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
 
 We will respond to these requests within a reasonable timeframe.
 
-### Additional Important Information
+### 14\. Right to lodge a complaint
 
-Brainshark uses a third-party service provider to manage credit card processing and live chat support. These third party service providers are not permitted to store, retain, or use Billing Information or Personal Information except for the sole purpose of credit card processing and providing customer support on Brainshark’s behalf.
+If you believe that Brainshark is not processing your Personal Data in accordance with the requirements set out herein or applicable EEA data protection laws, you can at any time lodge a complaint with the data protection authority of the EEA country in which you live. 
+
+For more information on how to contact the EU Data Protection Authorities, click [here](http://ec.europa.eu/newsroom/article29/news-overview.cfm).
+
+For more information on how to contact the Swiss Federal Data Protection and Information Commissioner, click [here](https://www.edoeb.admin.ch/edoeb/en/home.html).
+
+### 15\. Additional Important Information
+
+**Sharing with Service Providers**
+
+We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+These services may include:
+
+  * Payment processing
+  * Providing customer service
+  * Sending marketing communications
+
+
 
 Brainshark reserves the right to use or disclose information provided if required by judicial inquiry, court order, law, or regulation and/or Terms and Conditions or if Brainshark reasonably believes that use or disclosure is necessary to protect Brainshark’s rights.
 
-### Social Media Widgets
+### 16\. Social Media Widgets
 
 Brainshark’s website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
 
-### Updates to this Privacy Policy
+### 17\. Updates to this Privacy Policy
 
 We may update this privacy policy periodically to reflect changes to the information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a written notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Contacting Us
+### 18\. Contacting Us
 
 Contact [info@brainshark.com](mailto:info@brainshark.com) for questions regarding this Privacy Policy or the information practices of Brainshark’s Websites.
 
 If you are a Customer and would like help managing your communication preferences, please contact [support@brainshark.com](mailto:support@brainshark.com).
 
+Brainshark’s data protection officer is Craig Tata (privacy@brainshark.com)
+
 Brainshark, Inc.  
 130 Turner Street, Building 1, Suite 100  
 Waltham, MA 02453
 
-© 2016 Brainshark, Inc. All rights reserved. Brainshark, myBrainshark, and all other trademarks referenced herein are trademarks of Brainshark, Inc.
+© 2018 Brainshark, Inc. All rights reserved. Brainshark, myBrainshark, and all other trademarks referenced herein are trademarks of Brainshark, Inc.
+
+Click here to change your Privacy Settings
