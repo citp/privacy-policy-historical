@@ -1,18 +1,15 @@
-<!--The following is the downloaded HTML source of the 7cupsoftea.com privacy policy that was archived on 2018-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180512140507id_/https%3A//www.7cups.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 7cupsoftea.com privacy policy that was archived on 2018-08-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180824052326id_/https%3A//www.7cups.com/Documents/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <title>Privacy Policy | 7 Cups</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
+        <title>7 Cups Privacy Policy</title>
         <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<link rel="stylesheet" href="/design/dist/css/bootstrap.min.css?v=3.98">
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/bootstrap.min.css?v=4.06">
 
 <link rel="stylesheet" href="/onboarding/dist/css/app.min.css?v=1.3.26">
-<script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/67548/fXj.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=1010053098"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.2.0-min.gz.js"></script><script>window.gotoStep = 'Campfirestart';</script>
+<script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/67548/fXj.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=99888623"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.amplitude.com/libs/amplitude-4.3.0-min.gz.js"></script><script>window.gotoStep = 'Campfirestart';</script>
 
 <link rel="stylesheet" href="/css/toastr.min.css">
 <link rel="stylesheet" href="/css/datepicker.css">
@@ -53,8 +50,8 @@
 <script type="text/javascript">
 
 var newNoniConnect = 1;
-var eventDetails = {"isGuest":true,"userType":"g","screenName":"warmheartedKitten4023"};
-window.activate = function () {  $.post("/connect/guestActivate.php", {url: window.location.href, id: 'k2tmdn-Wlp5W42GxVlSUxco!'}); window.activate=false;  };
+var eventDetails = {"isGuest":true,"userType":"g","screenName":"powerfulWillow3965","source":"browser","system":"client"};
+window.activate = function () {  $.post("/connect/guestActivate.php", {url: window.location.href, id: 'lGNneHqVl5tV42GxXIWRmsw!'}); window.activate=false;  };
     window.tracker = (function (e) {
         var x = [];
         this.emit = function (i, d) {
@@ -66,7 +63,8 @@ window.activate = function () {  $.post("/connect/guestActivate.php", {url: wind
                 for (var k in eventDetails)
                     d[k] = eventDetails[k];
                 console.log('Tracking Event', i, d);
-                amplitude.logEvent(i, d);
+                amplitude.getInstance('browser').logEvent(i, d);
+                amplitude.getInstance('7Cups').logEvent(i, d);
                 if (i != 'jsError' && typeof $ !== 'undefined')
                     $.get("/event.php", {event: i, data: d});
             }
@@ -75,26 +73,53 @@ window.activate = function () {  $.post("/connect/guestActivate.php", {url: wind
     })();
 
 
-    (function (e, t) {
-        var r = e.amplitude || {};
-        r._q = [];
-        function a(e) {
-            r[e] = function () {
-                r._q.push([e].concat(Array.prototype.slice.call(arguments, 0)));
-            }
-        }
-        var i = ["init", "logEvent", "logRevenue", "setUserId", "setUserProperties", "setOptOut", "setVersionName", "setDomain", "setDeviceId", "setGlobalUserProperties"];
-        for (var o = 0; o < i.length; o++) {
-            a(i[o])
-        }
-        e.amplitude = r
-    })(window, document);
+(function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+;r.type="text/javascript";r.async=true
+;r.src="https://cdn.amplitude.com/libs/amplitude-4.3.0-min.gz.js"
+;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+e.amplitude.runQueuedFunctions()}else{
+console.log("[Amplitude] Error: could not load SDK")}}
+;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+;function s(e,t){e.prototype[t]=function(){
+this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+var o=function(){this._q=[];return this}
+;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+;return this}
+;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+;function v(e){function t(t){e[t]=function(){
+e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+;e.amplitude=n})(window,document);
 
-        amplitude.init("99900cb7735e0949d4ba78b888cba545");
-    amplitude.setUserId('14756438');
-amplitude.setUserProperties({"sophiaModal1208":1});
-amplitude.setUserProperties({"subcommunity8":"default"});
-amplitude.setUserProperties({"emaildrip2":"email"});
+
+	amplitude.getInstance('browser').init("99900cb7735e0949d4ba78b888cba545");
+
+    //new API key
+    amplitude.getInstance('7Cups').init("8ddfdda590a9fc7c6a2aa349f5ba4fdd");
+
+    function setDeviceID () {
+	if (typeof amplitude.getInstance('browser').options === 'undefined') {
+		setTimeout(setDeviceID, 500);
+		return;
+	}
+
+	    var deviceId = amplitude.getInstance('browser').options.deviceId;
+	    amplitude.getInstance('7Cups').setDeviceId(deviceId);
+    }
+
+    setDeviceID();
+
+    amplitude.getInstance('browser').setUserId('15011634');
+    amplitude.getInstance('7Cups').setUserId('15011634');
+amplitude.getInstance('browser').setUserProperties({"sophiaModal1208":1});
+amplitude.getInstance('7Cups').setUserProperties({"sophiaModal1208":1});
+amplitude.getInstance('browser').setUserProperties({'isBrowserUser':1});
+amplitude.getInstance('7Cups').setUserProperties({'isBrowserUser':1});
 
     window.libraryState = '';
 
@@ -115,16 +140,11 @@ amplitude.setUserProperties({"emaildrip2":"email"});
 
 </script>
 <!-- End Event Tracking -->
-        <style type="text/css">
-            #pageContent p{
-                margin-top:0;
-            } 
-        </style>
-    </head>
-    <body>
+    <style> @-webkit-keyframes loadingoverlay_animation__rotate_right { to { -webkit-transform : rotate(360deg); transform : rotate(360deg); } } @keyframes loadingoverlay_animation__rotate_right { to { -webkit-transform : rotate(360deg); transform : rotate(360deg); } } @-webkit-keyframes loadingoverlay_animation__rotate_left { to { -webkit-transform : rotate(-360deg); transform : rotate(-360deg); } } @keyframes loadingoverlay_animation__rotate_left { to { -webkit-transform : rotate(-360deg); transform : rotate(-360deg); } } @-webkit-keyframes loadingoverlay_animation__fadein { 0% { opacity   : 0; -webkit-transform : scale(0.1, 0.1); transform : scale(0.1, 0.1); } 50% { opacity   : 1; } 100% { opacity   : 0; -webkit-transform : scale(1, 1); transform : scale(1, 1); } } @keyframes loadingoverlay_animation__fadein { 0% { opacity   : 0; -webkit-transform : scale(0.1, 0.1); transform : scale(0.1, 0.1); } 50% { opacity   : 1; } 100% { opacity   : 0; -webkit-transform : scale(1, 1); transform : scale(1, 1); } } @-webkit-keyframes loadingoverlay_animation__pulse { 0% { -webkit-transform : scale(0, 0); transform : scale(0, 0); } 50% { -webkit-transform : scale(1, 1); transform : scale(1, 1); } 100% { -webkit-transform : scale(0, 0); transform : scale(0, 0); } } @keyframes loadingoverlay_animation__pulse { 0% { -webkit-transform : scale(0, 0); transform : scale(0, 0); } 50% { -webkit-transform : scale(1, 1); transform : scale(1, 1); } 100% { -webkit-transform : scale(0, 0); transform : scale(0, 0); } } </style></head>
+    <body style="padding-top: 54px;">
         <div id="layout-wrapper">
-            <div class="">
-        <nav id="navbar-main" class="hidden-therapy navbar navbar-fixed-top navbar-primary-rev">    
+            <div class="fixed-top">
+        <nav id="navbar-main" class="hidden-therapy navbar navbar-toggleable-sm clearfix">    
             <button class="navbar-toggler hidden-md-up pull-left" type="button" data-toggle="collapse" data-target="#collapse-navbar-main">
                 <img src="//www.7cups.com/cloudfront/img/i-need-help.png" class="lazyload" alt="Need Help? Try 7 Cups of Tea Online Therapy" style="height:15px">
             </button>
@@ -136,8 +156,7 @@ amplitude.setUserProperties({"emaildrip2":"email"});
                                             
                                                 <li class="nav-item">
                                 <a class="nav-link btn BS4A2-btn-round px-3 btn-warning btn-emphasize" href="/connect/?r=therapy" onclick="if (window.loadTherapyWaiting) { if (typeof event !== undefined &amp;&amp; event.preventDefault) event.preventDefault(); window.loadTherapyWaiting();};tracker.emit('ctaOnlineTherapy', {reqType: 'general_therapy', uri: window.location.href, location: 'header', subLocation: 'Start Therapy Tab'});">
-				   Considering Therapy
-				</a>
+				   Considering Therapy				</a>
                             </li>
                                                 
                                                 <li class="nav-item"><a class="nav-link" href="/listener/become-a-volunteer-listener.php" onclick="tracker.emit('ctaBecomeListener',{location:'Header'});">Volunteer as a Listener</a></li> 
@@ -168,67 +187,162 @@ amplitude.setUserProperties({"emaildrip2":"email"});
         </nav>
             </div>
         
-            <div class="container">
+            <div class="container my-4">
             <h1>7 Cups Privacy Policy</h1>
-<hr>
-<p>Welcome to 7Cups.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. </p>
-<p>This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at <a href="mailto:info@7Cups.com">info@7Cups.com</a>. </p>
-<p>You may not use 7Cups.com if you do not agree to be bound by this Privacy Policy; you understand that 7Cups.com can change this privacy policy by posting changes to this Web site. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. </p>
-<p>Personal data is information that can be used to identify you as an individual.</p>
-<p>By registering on the 7Cups.com service, you agree:</p>
-<ol>
-    <li>To comply with the terms and conditions of this Privacy Policy, and</li>
-    <li>That 7Cups.com may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by 7Cups.com in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.</li>
-</ol>
-<p><strong>Personal Information Defined.</strong> 7 Cups of Tea considers “Personal Information” to include information that alone or when in combination with other information may be used to readily identify or contact you, such as: name, address, email address, or phone number. 7 Cups of Tea does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.</p>
-<p><strong>Communications with 7 Cups of Tea.</strong> If you engage in a communication with 7 Cups of Tea related to 7 Cups of Tea’s Listening Platform or 7 Cups of Tea’s or Sites using 7 Cups of Tea’s chat, email, voice or other communication products or services made available to you by 7 Cups of Tea, or if you engage in a pre- or post-interaction survey (“Survey”) related to any such communication, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via 7 Cups of Tea’s communication products or services, you consent to 7 Cups of Tea collecting and processing such information for the purposes outlined in this Privacy Policy.</p>
-<p><strong>Browser Information and Usage Information.</strong> We log web browser information (e.g., Internet Protocol addresses and browser types) and other usage information from 7 Cups of Tea’s Sites and 7 Cups of Tea’s Listening Platform such as page view tallies, time spent on each page, geographic location information, page browsing information, subject matter browsing information and operating system information. If a Member or User is using a mobile or other portable device to visit or access 7 Cups of Tea’s Site or 7 Cups of Tea’s Listening Platform, we may collect hardware information related to the device used by the Member or User. Your browser may be set to limit or prevent any of the browser information described above from being transmitted.</p>
-<p>7 Cups of Tea may allow Members to sign in to 7 Cups of Tea’s Listening Platform and/or enroll as a Member by using the sign-in credentials used by such visitor on a third party social media website (e.g., Facebook). By signing in or enrolling using the third party website’s credentials, the Member consents to 7 Cups of Tea collecting and maintaining the information provided via such third party website. 7 Cups of Tea is not responsible for the privacy practices of any third party website.</p>
-<p><strong>Requests for Information, News and other Content.</strong> When you sign up to become a Member or an Listener/Life Coach, you may sign up to receive information, news and other content related to new and existing products and services related to 7 Cups of Tea’s Sites, 7 Cups of Tea’s Listening Platform and events and other information related to 7 Cups of Tea that may be of interest to you. You may also sign up to receive information, news and other content from third parties whose services and/or products we believe may be of interest to you. You will be asked to provide Personal Information, such as contact details and other information, relevant to delivering such news and information. We maintain all such information.</p>
-<p><strong>Technical Support Requests.</strong> If you need technical support related to 7 Cups of Tea’s Sites or 7 Cups of Tea’s Listening Platform, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you will be asked to provide Personal Information, including an email address and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.</p>
-<p><strong>Promotions.</strong> From time to time, we may offer promotions on 7 Cups of Tea’s Site or via 7 Cups of Tea’s Listening Platform. If we do, and if you wish to participate, you may be required to provide Personal Information, such as contact information and other information. We maintain such information.</p>
-<p><strong>Listener/Life Coach Applicants. </strong> If a visitor wishes to apply to be a Listener Life Coach on7 Cups of Tea’s Listening Platform, the visitor will be required to submit Personal Information as requested. Any information supplied by or on behalf of a visitor for purposes of becoming a Listener Life Coach will be maintained by 7 Cups of Tea as well as third party affiliates and other third parties. Please note that 7 Cups of Tea may have additional privacy terms that apply to Listener Life Coaches. Such terms will be made available when an applicant applies to be Listener Life Coach when an applicant otherwise accesses his or her account. </p>
-<p><strong>Browser Information and Cookies. </strong> We use browser information, cookies and pixel tags to determine whether a communication service or marketing material should be deployed on your browser when you are visiting 7 Cups of Tea’s Site or using 7 Cups of Tea’s Listening Platform. We may also use browser information, cookies and pixel tags: to determine how you arrived at 7 Cups of Tea’s Site or 7 Cups of Tea’s Listening Platform, to determine whether you are a return visitor, to help us improve our product and service offerings, for quality assurance and training purposes, to help diagnose problems with our servers, to gather broad demographic information, to administer and optimize our services, to deliver marketing or other materials to you on behalf of third parties and for other lawful purposes. </p>
-<p><strong>Aggregate Information. </strong> We may aggregate information so that it is not Personal Information, and we may use and share such aggregated information for training and quality assurance purposes, for purposes of delivering our services, for purposes of expanding and improving our services and for other lawful purposes. </p>
-<h3>How does 7 Cups of Tea protect your information?</h3>
-<p><strong>Security.</strong> Data transmissions over the Internet cannot be guaranteed to be fully and absolutely secure. Our website and our services have security measures in place designed to protect against the loss, misuse and alteration of the information under our control. Our security measures include the measures described below. </p>
-<p><strong>Encryption and Firewalls.</strong> Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Transcripts are maintained on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords.</p>
-<h3>Definitions</h3>
-<p>Cookies are pieces of information that some websites transfer to a visitor’s web browser accessing the website and are used for record-keeping purposes at many websites. Use of cookies makes web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases and personal preferences regarding the use of the particular website, and ensuring that the user does not see the same ad repeatedly. </p>
-<p>Encryption is the process of transforming information into unreadable text so that it is only legible to those possessing an encryption key. The process of making encrypted information readable again is referred to as decryption. </p>
-<p>Pixel tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied. </p>
-<p>Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.</p>
-<h3>Information that 7Cups.com collects from Users requesting calls</h3>
-<p>When you request a chat or call on 7Cups.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we may collect information about your computer, like your IP address and browser information.</p>
-<p>In the event that a User elects to purchase paid services, other Personal Information such as name, address and credit card payment information will be collected in order to process payment. </p>
-<p>7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud.</p>
-<h3>Information that 7Cups.com collects from registered listeners</h3>
-<p>We collect information about you in a variety of ways. When you register with 7Cups.com as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. </p>
-<p>7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud. </p>
-<p>7Cups.com may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services. </p>
-<p>You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7Cups.com by not registering with 7Cups.com as a listener. You can also cancel your 7Cups.com account.</p>
-<h3>Social Applications</h3>
-<p>These services allow the web site to access the data on your profile in the social networks, and to interact through your post. These services are not activated automatically, but require express authorization by the user. </p>
-<h3>Facebook App</h3>
-<p>This is a service managed by Facebook Inc., a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the user, by means of an appropriate authorization window. For further information on the use of Personal Information by Facebook Inc., please consult the following link: www.facebook.com/privacy/explanation.php. The personal data collected are: Various types of data.</p>
-<h3>Twitter App</h3>
-<p>Twitter App. is managed by Twitter, a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information in compliance with European security standards. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the User, by means of an appropriate authorization window.</p>
-<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. </p>
-<p>For content that is covered by intellectual property rights, like photos and videos you specifically grant 7Cups.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with 7Cups.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. </p>
-<p>When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).</p>
-<p>You will not create more than one personal profile. </p>
-<p>If we disable your account, you will not create another one without our permission.</p>
-
-<h3>Apple Trademarks</h3>
-<p>Apple, the Apple logo and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.</p>
-
-<h3>Mobile</h3>
-<p>We will provide any mobile services for free, but please be aware that your carrier’s normal rates and fees, such as text messaging fees, will still apply. </p>
-<p>You understand that we may not always identify paid services and communications as such.</p>
-<h3>Child Protection</h3>
-<p>7Cups.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old, or between the ages of 13-18 years old with parental consent. If 7Cups.com learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7Cups.com, at their sole discretion, can terminate that account.</p>
-<h3>Consent and Changes</h3>
-<p>As indicated above, you must accept the terms of this privacy policy to use 7Cups.com. You understand and agree that 7Cups.com can change the privacy policy by posting changes to this Website. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. Again, if you have questions or comments regarding this privacy policy, then please contact us at <a href="mailto:info@7Cups.com">info@7Cups.com</a>.</p> 
+<p>Last modified: August 3, 2018</p>
+<p>7 Cups ("7 Cups," "we," "us" and "our") provides virtual mental health care platforms intended to increase access to mental health care and support and promote early detection of mental health symptoms that predict the onset of mental illness. Privacy is extremely important to us, so we have taken several steps to protect your information and put you in control.</p>
+<p>This privacy policy ("Privacy Policy") describes how we collect, use, disclose and store Personal Information you provide to us through the website and mobile application tools that provide the services described above (collectively, the "Services"). Please review this Privacy Policy carefully and in its entirety. If you have questions about this Privacy Policy, you can contact us at info@7Cups.com.</p>
+<h4>This Privacy Policy describes:</h4>
+<ul>
+<li>The Personal Information we collect when you interact with the Services;</li>
+<li>How we use and process the Personal Information that we collect;</li>
+<li>How we may share Personal Information with third parties; and</li>
+<li>The security of your Personal Information.</li>
+</ul>
+<h4>The following parties will comply with this Privacy Policy:</h4>
+<ul>
+<li>All 7 Cups employees, contractors and volunteers.</li>
+<li>All affiliated entities and applications.</li>
+</ul>
+<h3>1. User Consent and Incorporation</h3>
+<p><strong>PLEASE REVIEW THIS PRIVACY POLICY CAREFULLY.</strong> When you submit your Personal Information to or through the Services, you consent to the collection and processing of your Personal Information as described in this Privacy Policy. By using the Services, you accept the terms of this Privacy Policy, our Terms of Use and consent to our collection, use, disclosure and retention of your Personal Information as described in this Privacy Policy. You also consent to 7 Cups sending marketing communications to the email address you provide. You may opt-out (unsubscribe) to these emails at any time.</p>
+<h3>2.  Effective Date and Changes to Privacy Policy</h3>
+<p>The Effective Date of this Privacy Policy is set forth at the top of this Privacy Policy. We may change this Privacy Policy from time to time in our discretion. Changes will be posted to this page. We encourage you to return to this page frequently so that you are aware of our current privacy practices. Your continued use of the Services after the Effective Date constitutes your acceptance of the amended Privacy Policy. The amended Privacy Policy supersedes all previous versions.</p>
+<h3>3. Personal Information We Collect</h3>
+<p>We require certain Personal Information to provide our Services to you. "Personal Information" may include contact information such as your first name, last name, email address, location, phone number, certain demographic information such as age, gender, race ethnicity, primary language spoken, sexual orientation, disabilities, and veteran status, information about your health and medical history that you may input while using or communicating through the Services, and information about how you interact with and use your device. &nbsp;7 Cups does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to identify a specific individual. </p>
+<p>Without providing your Personal Information you may not access mental health services through our Services, contact or correspond with us, peers or health care providers via the Services, or utilize the therapy exercises and programs available on the Services. </p>
+<ul>
+<li>
+<p><strong><em>Account Setup.</em></strong> When you sign up for an account with us, we ask for and collect Personal Information such as your name, a valid email address, billing address, and payment information. We need this information to provide you with the Services. If you purchase paid services, such as therapy, other Personal Information such as name, address and credit card payment information will be collected to process payment.</p>
+</li>
+<li>
+<p><strong><em>Listener and Therapist Applicants.</em></strong> If a visitor wishes to apply to be a Listener or Therapist on 7 Cups’ Listening Platform, the visitor will be required to submit Personal Information as requested. Any Personal Information supplied by or on behalf of a visitor for purposes of becoming a Listener or Therapist will be maintained by 7 Cups. Please note that 7 Cups may have additional privacy terms that apply to Listeners or Therapists. Such terms will be made available when an applicant applies to be a Listener or Therapist or otherwise accesses his or her account.</p>
+</li>
+<li>
+<p><strong><em>Mental Health Services.</em></strong> We collect your Personal Information when you access mental health services through our Services, when you contact or correspond with us, peers or health care providers via the Services or when you utilize the therapy exercises and programs available on the Services. </p>
+</li>
+<li>
+<p><strong><em>Log Data.</em></strong> When you use our Services, we store, process and transmit your information about how you use your device through "digital phenotyping" technology, which analyzes passive sensory data based on your device usage to engage, educate and suggest behavioral activation strategies to you. When you contact us, we keep a record of email and chat communications to address and resolve any issues you are facing.</p>
+</li>
+<li>
+<p><strong><em>Surveys.</em></strong> From time to time we may collect Personal Information from customers via surveys. This information is used solely to improve the content of our web pages and the quality of our service and is not shared with any third parties.</p>
+</li>
+<li>
+<p><strong><em>Requests for Information, News and other Content.</em></strong> You may sign up to receive information, news and other content related to new and existing products and services related to 7 Cups’ Sites, 7 Cups’ Listening Platform and events and other information related to 7 Cups that may be of interest to you. When signing up to receive such information, you will be asked to provide Personal Information, including your name, an email address, address and phone number. </p>
+</li>
+<li>
+<p><strong><em>Technical Support Requests.</em></strong> If you need technical support related to 7 Cups’ Sites or Listening Platform, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you will be asked to provide Personal Information, including an email address and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.</p>
+</li>
+<li>
+<p><strong><em>Browser Information and Cookies.</em></strong> We use browser information (e.g., IP addresses and browser types), cookies and pixel tags to determine what data or information should be shown on your browser when you are visiting 7 Cups’ Site or using 7 Cups’ Listening Platform. We may also use browser information, cookies and pixel tags: to determine how you arrived at 7 Cups’ Site or Listening Platform, to determine whether you are a return visitor, to help us improve our product and service offerings, for quality assurance and training purposes, to help diagnose problems with our servers, to gather broad demographic information, to administer and optimize our services, and for other lawful purposes. Please refer to the "Cookies" section below for more information.</p>
+</li>
+</ul>
+<p>Any User can request a download of their own Personal Information that 7 Cups currently stores, and also request deletion of their account and associated Personal Information. The exception to this rule is if the User in question has broken the terms laid out in the Terms and caused harm or abused our Services or other members. In this case, we retain the right to keep some of your Personal Information in order to provide more security and safety to our members.</p>
+<h3>4. Cookies and Other Tracking Technologies</h3>
+<p>Cookies are small files, typically of letters and numbers, downloaded onto your computer or mobile device when you visit certain websites.</p>
+<ul>
+<li>
+<p><strong><em>How We Use Cookies.</em></strong> Generally, we use first-party and third-party cookies for the following purposes:</p>
+<ul>
+<li>to make our Services function properly;</li>
+<li>to provide a secure browsing experience during your use of our Services;</li>
+<li>to collect passive information about your use of our Services;</li>
+<li>to help us improve our Services; and</li>
+<li>to remember your preferences for your convenience.</li>
+</ul>
+</li>
+<li>
+<p><strong><em>Types of Cookies on Our Services.</em></strong> We use the following types of cookies on our Services:</p>
+<ul>
+<li>
+<p>Strictly Necessary Cookies. These cookies are essential because they enable you to move around and use our Services. For example, strictly necessary cookies allow you to access secure areas on our Services. Without these cookies, some services cannot be provided. These cookies do not gather information about you for marketing purposes. This category of cookies is essential for our Services to work and they cannot be disabled.</p>
+</li>
+<li>
+<p>Functional Cookies. We use functional cookies to remember your choices so we can tailor our Services to provide you with enhanced features and personalized content. For example, these cookies can be used to remember your name or preferences on our Services. We do not use functional cookies to target you with online marketing. While these cookies can be disabled, this may result in less functionality during your use of our Services. </p>
+</li>
+<li>
+<p>Performance or Analytic Cookies. These cookies collect anonymous passive information about how you use our Services, including webpages you visit, and links you click. We use the information collected by such cookies to improve and optimize our Services. We do not use these cookies to target you with online marketing. You can disable these cookies.</p>
+</li>
+<li>
+<p>Third-Party Cookies. These are cookies that are provided by third-party service providers and belong in one of the cookie categories described above. These third-party providers process your Personal Information on our behalf pursuant to our instructions and obligations consistent with this Privacy Policy.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><em>How to Manage Cookies.</em></strong> Depending on whether you would like to manage a first-party or third-party cookie, you will need to take the following steps:</p>
+<ul>
+<li>
+<p>First-Party Cookies. You can enable, disable or delete our cookies through the browser you are using to access our Services. To do this, follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" settings). Please note, if you set your browser to disable cookies, you may not be able to access secure areas of our Services, and/or parts of the Services may not work properly for you. You can find more information about how to change your browser cookie settings at <a href="http://www.allaboutcookies.org">http://www.allaboutcookies.org</a>.</p>
+</li>
+<li>
+<p>Third-Party Cookies. Modern browsers also allow you to block third-party cookies using the steps described above.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>We also use pixel tags throughout or Services. Pixel Tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied. </p>
+<h3>5. How We Use Your Personal Information</h3>
+<p>We may use Personal Information that we collect about you for various purposes, including:</p>
+<ul>
+<li>To operate, provide and improve our Services;</li>
+<li>To communicate with you regarding our Services, and promotions;</li>
+<li>To ensure network and information security; and</li>
+<li>To share with third parties to provide our Services to you, as described in the next section.</li>
+</ul>
+<h3>6. How We Share Your Personal Information</h3>
+<p>We may share and disclose Personal Information as follows:</p>
+<ul>
+<li>
+<p><strong><em>Third Party Service Providers Performing Services on Our Behalf.</em></strong> We share Personal Information, with certain third-party service providers that assist us in providing the Services and which are bound by duties of confidentiality. For example, we may use third parties to host the Services, to send out email updates about the Services or remove repetitive information from our user lists.</p>
+</li>
+<li>
+<p><strong><em>Other Users.</em></strong> Depending on how you interact with the Services, your Personal Information, may be shared with other Users, such as peers and other users who participate in boards on which you post information.</p>
+</li>
+<li>
+<p><strong><em>Healthcare Providers.</em></strong> If you have been referred to the Services as part of a care plan by your healthcare provider, we may share your Personal Information with your healthcare provider to facilitate care. &nbsp;</p>
+</li>
+<li>
+<p><strong><em>For Legal Purposes.</em></strong> We will disclose your Personal Information as we deem necessary to respond to a subpoena, regulation, binding order of a data protection agency, legal process, governmental request or other legal or regulatory process. We may also share your Personal Information as required to pursue available remedies or limit damages we may sustain.&nbsp;</p>
+</li>
+</ul>
+<p>We may de-identify your Personal Information, in compliance with applicable law and aggregate such de-identified data with the de-identified data of other users. We may then share such aggregate, de-identified data with the sponsors of programs that facilitate your access to the Services, such as County government health agencies.</p>
+<h3>7. Security of Your Personal Information</h3>
+<p>We employ reasonable security measures designed to protect the security of information submitted through the Services. However, the security of information transmitted through the Internet can never be guaranteed. To protect you and your Personal Information we may suspend your use of the Services, without notice, pending an investigation, if any breach of security is suspected.</p>
+<ul>
+<li>
+<p><strong><em>Your Responsibilities.</em></strong> Users of the Services are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of any of the Services. </p>
+</li>
+<li>
+<p><strong><em>Unauthorized Access.</em></strong> Access to and use of password protected and/or secure areas of the Services are restricted to authorized users only. Unauthorized access to such areas is prohibited. </p>
+</li>
+<li>
+<p><strong><em>Encryption and Firewalls.</em></strong> Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Transcripts are maintained on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords.</p>
+</li>
+</ul>
+<h3>8. Retention Period</h3>
+<p>Generally, we will retain your Personal Information for as long as your account or profile is active, or for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Private messages are stored for one year. Group messages are stored for 30 days. The 30 most recent therapy messages are stored. 7 Cups will store your user account and associated Personal Information if your account is active.</p>
+<h3>9. Links to Other Sites</h3>
+<p>The Services may contain links and widgets related to third-party websites and services ("Third Party Services") with which we have no affiliation. A link to any Third Party Services does not mean that we endorse it or the quality or accuracy of information presented on it. If you decide to visit any Third Party Services, you are subject to its privacy policy and practices and not this Privacy Policy. We encourage you to carefully review the legal and privacy notices of all other digital services that you visit.</p>
+<h3>10. Nondiscrimination</h3>
+<p>7 Cups does not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, in any of its activities or operations.</p>
+<h3>11. Child Protection</h3>
+<p>7 Cups complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years old, or between the ages of 13-18 years old with parental consent. If 7 Cups learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7 Cups, at their sole discretion, can terminate that account.</p>
+<h3>12. Therapists as Mandated Reporters</h3>
+<p>Therapists are mandated reporters. Because of their profession, they have a legal obligation to report to authorities any signs of child abuse or vulnerable adult abuse. However, members cannot be forced to give any Personal Information. Adults who are in therapy provide Personal Information which will only be disclosed to the therapist if they or someone else is in imminent danger.</p>
+<h3>13. Notice to Individuals in the European Economic Area and Switzerland</h3>
+<p>This section only applies to individual using our Service that are located in the European Economic Area, United Kingdom and/or Switzerland (collectively, the "Designated Countries") at the time of data collection.
+We may ask you to identify which country you are located in when you use or access some of the Services, or we may rely on your IP address to identify which country you are located in. When we rely on your IP address, we cannot apply the terms of this section to any individuals that masks or otherwise hides their location information from us so as not to appear located in the Designated Countries. </p>
+<p><strong>Our Relationship to You.</strong> 7 Cups is a data controller with regard to any Personal Information collected from Users of its Service. A "data controller" is an entity that determines the purposes for which and the manner in which any personal information is processed. Any third parties that handle your Personal Information in accordance with our instructions are our service providers and are "data processors." </p>
+<p><strong>Legal Bases for Processing Personal Information.</strong> Article 6(1) of the General Data Protection Regulation (EU) 2016/679 ("GDPR") describes when processing can be done lawfully. &nbsp;Whenever we require your consent for the processing of your Personal Information such processing will be based on GDPR, Article 6(1)(a). If the processing of your Personal Information is necessary for the performance of a contract between you and 7 Cups or for taking any pre-contractual steps upon your request, such processing will be based on GDPR, Article 6(1)(b). Where the processing is necessary for us to comply with a legal obligation, we will process your information on basis of GDPR, Article 6(1)(c). &nbsp;Also, in many cases, we handle your Personal Information on the ground that it furthers our legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals.</p>
+<p><strong>Marketing.</strong> We will only contact individuals located in the Designated Countries by electronic means (including email or SMS) based on our legitimate interests, as permitted by applicable law, or the individual’s consent. When we rely on legitimate interest, we will only send you information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. You can object to direct marketing at any time and free of charge. </p>
+<p><strong>Individual Rights.</strong> We take reasonable steps to ensure that your Personal Information is accurate, complete, and up to date. You have the right to access, correct, or delete the Personal Information that we collect. You are also entitled to restrict or object, at any time, to the further processing of your Personal Information. You have the right to receive your Personal Information in a structured and standard format and, where technically and legally feasible, the right to have your Personal Information transmitted directly to a third party. You may lodge a complaint with the competent data protection authority regarding the processing of your Personal Information.</p>
+<p>If you would like to exercise your rights under applicable law, please contact us at info@7Cups.com. We may seek to verify your identity when we receive an individual rights request from you to ensure the security of your personal information. &nbsp;We may limit your individual rights requests (a) where denial of access is required or authorized by law; (b) when granting access would have a negative impact on other's privacy; (c) to protect our rights and properties; or (4) where the request is frivolous or burdensome.</p>
+<h3>14. Your California Privacy Rights</h3>
+<p>California residents who provide certain types of Personal Information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about certain types of Personal Information we shared, if any, with other businesses for their own direct marketing uses. It is our policy that we do not share your Personal Information with other businesses for marketing uses. Nevertheless, to make such a request, please send an email message to info@7Cups.com with "Request for California Privacy Information" on the subject line and in the body of your message.</p>
+<h3>15. Do Not Track</h3>
+<p>The Services does not support Do Not Track with respect to the Services at this time. Do Not Track is a privacy preference that you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit <a href="https://www.donottrack.us">https://www.donottrack.us</a>.</p>
+<h3>16. Notices</h3>
+<p>Please send all questions, comments and notices regarding this Privacy Policy to: info@7Cups.com.</p> 
         </div>
         </div>
 <footer>
@@ -245,8 +359,7 @@ amplitude.setUserProperties({"emaildrip2":"email"});
                                 <div class="appAdHeader" style="font-weight:bold;text-align:center;font-size:1.6em;line-height:110%">
                                         Don't miss a message!                                </div>
                                 <div class="appAdSubHeader" style="text-align:center;font-size:1.1em;font-weight:300">
-                                        The 7 Cups app is available on iOS and Android
-                                </div>
+                                        The 7 Cups app is available on iOS and Android                                </div>
                         </div>
                 </div>
         </div>
@@ -305,14 +418,8 @@ amplitude.setUserProperties({"emaildrip2":"email"});
 		   		    <div class="col-lg-3 col-sm-6 col-xs-12">
                         <h6>Terms</h6>
                         <ul class="list-unstyled">
-                            <li><a href="/privacy.php" onclick="showPolicy('privacy');
-                                    return false;">Privacy Policy</a></li>
-                            <li><a href="/memberAgreement.php" onclick="showPolicy('membertos');
-                                    return false;">Member Terms of Service</a></li>
-                            <li><a href="/listenerAgreement.php" onclick="showPolicy('listenertos');
-                                    return false;">Listener Terms of Service</a></li>                            
-                            <li><a href="/therapy-tos.php" onclick="showPolicy('therapytos');
-                                    return false;">Therapy Terms of Service</a></li>
+                            <li><a href="/Documents/PrivacyPolicy/" data-policymodal="PrivacyPolicy">Privacy Policy</a></li>
+                            <li><a href="/Documents/TermsOfService/" data-policymodal="TermsOfService">Terms of Service</a></li>                         
 			    <li><a href="/supportDesk.php">Support &amp; Feedback</a></li>
                         </ul>
                     </div>
@@ -329,11 +436,9 @@ amplitude.setUserProperties({"emaildrip2":"email"});
         </div>        
 
         <div class="copyright text-center">
-            Copyright © 2018 7 Cups of Tea. All rights reserved.
-        </div>
+            Copyright © 2018 7 Cups of Tea. All rights reserved.        </div>
     </div>
 </footer>
-
 
     <div id="bottomStatus">
         <div class="container">
@@ -422,38 +527,38 @@ var templatePlatform = 'desktop';
 var templateVersion = 'base';        
 var StripePublishableKey = 'pk_live_wDvUnEmeMcbYwuWPFRWDrr5v';
 
+window._ = function (key) {
+	if (typeof window.il8n !== 'undefined')
+	        return window.il8n.gettext(key);
+	else
+		return key;
+};
+
 var userType = 'g';var userInfo = {
-                            screenName: 'warmheartedKitten4023',
+                            screenName: 'powerfulWillow3965',
                             userType: 'g',
-                            userIDe: 'k2tmdn-Wlp5W42GxVlSUxco!',
+                            userIDe: 'lGNneHqVl5tV42GxXIWRmsw!',
                             email: null,
                             
                             age: null,
 			    hideTherapy: 0,
-                            jsonpAuth: '3VSYvLaGm5dWmWpmV1qWlJ2OVJqtqoabiIyZqKKIkY670tJninh4q9m8jbqJrYeSgoaShJl0ubrMg6BDmWebh4XHlJ_FaGR7eJbDylSZZWhdWcabmJeYmHx5nMKaVMmYmFdTkobj3l-vd3fJwpY!',
+			    hideTherapyAds: 0,
+                            jsonpAuth: '3VSYvLaGm5dWmmllXVSZlJ6OVJqtqoabiI2ugqOJa9K60pemiXh4q9m-ar6GopeagoaShJl0ubrMg6BDmWabiVbFmJ-baWp0qMmRmlOdZmVWVZOXm5SWbHaplpKZhZ2VbFeGxIbj3l-ve3-awsc!',
                             alertInConv: true,
-                            alertNewItem: true
+                            alertNewItem: true,
+			    cabeta: 0
                           };var mobileDevice = false;
-
-    (function (e, t) {
-	// Loads Amplitude
-        var n = t.createElement("script");
-        n.type = "text/javascript";
-        n.async = true;
-        n.src = "https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.2.0-min.gz.js";
-        var s = t.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(n, s);
-    })(window, document);
 
 </script>
    
-            <script type="text/javascript" src="//7cupstearesources.s3.amazonaws.com/js/jquery.min.js" crossorigin="anonymous"></script>
-        <script>window.jQuery || document.write('<script src="/js/jquery.min.js">\x3C/script>')</script><script src="/js/jquery.min.js"></script>
-        <script type="text/javascript" src="/js/tether.min.js"></script>
-        <script type="text/javascript" src="/design/dist/js/bootstrap.min.js?v=2.0"></script>        
+            <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script><script>window.jQuery || document.write('<script src="/js/jquery-3.2.1.min.js">\x3C/script>')</script><script src="/js/jquery-3.2.1.min.js"></script> 
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" crossorigin="anonymous"></script><script>window.Tether || document.write('<script src="/js/tether.1.4.0.min.js">\x3C/script>')</script><script src="/js/tether.1.4.0.min.js"></script> 
+        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" crossorigin="anonymous"></script><script>typeof($.fn.modal) === 'function' || document.write('<script src="/vendor/twbs/bootstrap/dist/js/bootstrap.min.js">\x3C/script>')</script><script src="/vendor/twbs/bootstrap/dist/js/bootstrap.min.js"></script>      
        
     <script type="text/javascript" src="//7cupstearesources.s3.amazonaws.com/js/handlebars.4.0.8.min.js"></script>
-    <script type="text/javascript" src="/onboarding/dist/js/app.js?v=1.3.26" async=""></script>    
+    <script type="text/javascript" src="/onboarding/dist/js/app.js?v=1.3.26" async=""></script>
+    <script type="text/javascript" src="/cloudfront/js/WellnessEngineTest.js?v=1.0.2"></script>
+    <script type="text/javascript" src="/js/jed.min.js"></script>
     <script type="text/javascript" src="/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="/js/moment.js"></script>
     <script type="text/javascript" src="/js/desktop-notify.js"></script>
@@ -462,12 +567,41 @@ var userType = 'g';var userInfo = {
     <script type="text/javascript" src="/js/soundManager/script/soundmanager2-nodebug-jsmin.js"></script>
     <script type="text/javascript" src="/js/renderObjects.js?v=3.0"></script>
     <script type="text/javascript" src="/js/ajaxform.js?v=1.3"></script>
+    <script type="text/javascript" src="/js/loadingoverlay.min.js"></script>
         <script type="text/javascript" src="/js/bootstrap-datepicker.js"></script>
-        <script type="text/javascript" src="https://nodeproxy.7cups.com/socket.io/socket.io.js?v=5.4.122"></script> 
+        <script type="text/javascript" src="https://nodeproxy.7cups.com/socket.io/socket.io.js?v=5.4.128"></script> 
     
                 
     <script type="text/javascript">
         $(function () {
+            $('body').on('click', '[data-policymodal]', function(){
+                var requestedPolicy = $(this).attr('data-policymodal');
+                var customTerms = {};
+                var target = !customTerms[requestedPolicy] ? '/Documents/'+requestedPolicy+'.html' : customTerms[requestedPolicy];
+
+                $.get(target, function(html){
+                    bootbox.dialog({
+                            message: html,
+                            title: '',
+                            size:'large',
+                            onEscape:true,
+                            backdrop: true,
+                            buttons: {
+                                cancel: {
+                                    label: 'Close',
+                                    className: 'btn-default',
+                                },
+                            }
+                        }).on('hidden.bs.modal', function (){
+                                if($('.modal.in').length){
+                                    $('body').addClass('modal-open');
+                                }
+                            });               
+                });
+
+                return false;
+            });
+    
             $('body').on('click','[data-modal="Forms_Account_VerifyMemberEmail"]', function(){                
                 render(false, $(this).attr('data-modal'), {
                     userInfo: userInfo
@@ -602,7 +736,7 @@ var userType = 'g';var userInfo = {
 	        var nodeURL = 'https://nodeproxy.7cups.com/';
 	
         </script>
-	    <script type="text/javascript" src="/connect/js/connectWatch.js?v=5.4.122" defer=""></script>    
+	    <script type="text/javascript" src="/connect/js/connectWatch.js?v=5.4.128" defer=""></script>    
 	    <script type="text/javascript">      
 
         function fastClickIt() {
@@ -726,16 +860,17 @@ var userType = 'g';var userInfo = {
             return (dt.getTimezoneOffset() * 60);
         }        
     </script>  
-    <script type="text/javascript" src="/js/createMemberAccount.js?v=2.6"></script>
-    <script type="text/javascript" src="/connect/js/connect.js?v=5.4.122" defer=""></script>
+    <script type="text/javascript" src="/js/createMemberAccount.js?v=2.7"></script>
+    <script type="text/javascript" src="/connect/js/connect.js?v=5.4.128" defer=""></script>
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-38069426-1', '7cups.com');
+
     ga('send', 'pageview');
-</script>
+  </script>
 
         
 
@@ -779,49 +914,10 @@ var userType = 'g';var userInfo = {
 </script>
 
 
-<script type="text/javascript">
-function showPolicy(policy) {
-        switch (policy) {
-	    case 'therapytos':
-                var url = '/inc/therapyTOS.html';		break;
-            case 'privacy':
-                var url = '/inc/privacyPolicy.html';                break;
-            case 'membertos':
-                var url = '/inc/memberTOS.html';                break;
-            case 'listenertos':
-                var url = '/inc/listenerTOS.html';                break;
-            case 'professionaltos':
-                var url = '/inc/professionalTOS.html';
-                break;
-            case 'forumdisclaimer':
-                var url = '/inc/forumDisclaimer.html';
-                break;
-        }
-
-
-        $.get(url,function(html){
-            bootbox.dialog({
-                    message: html,
-                    title: '',
-                    size:'large',
-                    onEscape:true,
-                    backdrop: true,
-                    buttons: {
-                        cancel: {
-                            label: 'Close',
-                            className: 'btn-default',
-                        },
-                    }
-                }).on('hidden.bs.modal', function (){
-                        if($('.modal.in').length){
-                            $('body').addClass('modal-open');
-                        }
-                    });               
-        });
-    }
-</script>
-<script type="text/javascript" src="https://s3.amazonaws.com/rankscience/rankscience.js"></script>
 <script type="text/javascript" src="https://cdn.ranksci.com/www.7cups.com.min.js"></script>
+
+<!-- check if listener appreciation set to eligible, pop one-time modal notifying listener and update the meta data -->
+
 
 <script type="text/javascript">
     var ignorePage = ['/index.php', '/login.php', '/member/BecomeMember.php', '/error/selectAccount.php'];
@@ -840,16 +936,20 @@ function showPolicy(policy) {
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-38069426-1', '7cups.com');
+
     ga('send', 'pageview');
-</script>
+  </script>
     <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1010053098';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=99888623';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
+
+
+
 
 </body></html>
