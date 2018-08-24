@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419132400id_/https%3A//www.homeagain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825003810id_/https%3A//www.homeagain.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | HomeAgain Pet ID System
 
