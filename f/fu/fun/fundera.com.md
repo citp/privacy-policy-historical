@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundera.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128074514id_/https%3A//www.fundera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundera.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824025219id_/https%3A//www.fundera.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fundera
 
