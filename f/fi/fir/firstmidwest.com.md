@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221923id_/https%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824033919id_/https%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
 
 # First Midwest Bank | Privacy & Security: Overview
 
@@ -19,6 +19,9 @@ When using our web site, First Midwest will only retain information that you pro
 [Privacy Policy](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
 (672 KB) 
 
+  
+
+
 ### Protecting the Privacy of Children Online
 
 We do not knowingly collect or use personal information from children under 13 without receiving verifiable consent from their parents. Should a child whom we know to be under 13 send us personal information; we will only use the information to seek parental consent or provide parental notice. We are not responsible for content of third party websites we may link to. Visit the FTC website www.ftc.gov for more information regarding the protection and privacy of children online (Children's Online Privacy Protection Act, COPPA).
@@ -29,6 +32,9 @@ Your use of this Website constitutes your consent and acceptance of the terms of
 
 [Privacy Policy](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
 (672 KB) 
+
+  
+
 
 ### Changes to our Privacy Practices
 
