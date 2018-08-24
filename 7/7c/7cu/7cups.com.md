@@ -1,114 +1,179 @@
-> *The following text is extracted and transformed from the 7cups.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512140507id_/https%3A//www.7cups.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cups.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824052326id_/https%3A//www.7cups.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | 7 Cups
+# 7 Cups Privacy Policy
 
-* * *
+Last modified: August 3, 2018
 
-Welcome to 7Cups.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. 
+7 Cups ("7 Cups," "we," "us" and "our") provides virtual mental health care platforms intended to increase access to mental health care and support and promote early detection of mental health symptoms that predict the onset of mental illness. Privacy is extremely important to us, so we have taken several steps to protect your information and put you in control.
 
-This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at [info@7Cups.com](mailto:info@7Cups.com). 
+This privacy policy ("Privacy Policy") describes how we collect, use, disclose and store Personal Information you provide to us through the website and mobile application tools that provide the services described above (collectively, the "Services"). Please review this Privacy Policy carefully and in its entirety. If you have questions about this Privacy Policy, you can contact us at info@7Cups.com.
 
-You may not use 7Cups.com if you do not agree to be bound by this Privacy Policy; you understand that 7Cups.com can change this privacy policy by posting changes to this Web site. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. 
+#### This Privacy Policy describes:
 
-Personal data is information that can be used to identify you as an individual.
-
-By registering on the 7Cups.com service, you agree:
-
-  1. To comply with the terms and conditions of this Privacy Policy, and
-  2. That 7Cups.com may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by 7Cups.com in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.
+  * The Personal Information we collect when you interact with the Services;
+  * How we use and process the Personal Information that we collect;
+  * How we may share Personal Information with third parties; and
+  * The security of your Personal Information.
 
 
 
-**Personal Information Defined.** 7 Cups of Tea considers “Personal Information” to include information that alone or when in combination with other information may be used to readily identify or contact you, such as: name, address, email address, or phone number. 7 Cups of Tea does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+#### The following parties will comply with this Privacy Policy:
 
-**Communications with 7 Cups of Tea.** If you engage in a communication with 7 Cups of Tea related to 7 Cups of Tea’s Listening Platform or 7 Cups of Tea’s or Sites using 7 Cups of Tea’s chat, email, voice or other communication products or services made available to you by 7 Cups of Tea, or if you engage in a pre- or post-interaction survey (“Survey”) related to any such communication, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via 7 Cups of Tea’s communication products or services, you consent to 7 Cups of Tea collecting and processing such information for the purposes outlined in this Privacy Policy.
+  * All 7 Cups employees, contractors and volunteers.
+  * All affiliated entities and applications.
 
-**Browser Information and Usage Information.** We log web browser information (e.g., Internet Protocol addresses and browser types) and other usage information from 7 Cups of Tea’s Sites and 7 Cups of Tea’s Listening Platform such as page view tallies, time spent on each page, geographic location information, page browsing information, subject matter browsing information and operating system information. If a Member or User is using a mobile or other portable device to visit or access 7 Cups of Tea’s Site or 7 Cups of Tea’s Listening Platform, we may collect hardware information related to the device used by the Member or User. Your browser may be set to limit or prevent any of the browser information described above from being transmitted.
 
-7 Cups of Tea may allow Members to sign in to 7 Cups of Tea’s Listening Platform and/or enroll as a Member by using the sign-in credentials used by such visitor on a third party social media website (e.g., Facebook). By signing in or enrolling using the third party website’s credentials, the Member consents to 7 Cups of Tea collecting and maintaining the information provided via such third party website. 7 Cups of Tea is not responsible for the privacy practices of any third party website.
 
-**Requests for Information, News and other Content.** When you sign up to become a Member or an Listener/Life Coach, you may sign up to receive information, news and other content related to new and existing products and services related to 7 Cups of Tea’s Sites, 7 Cups of Tea’s Listening Platform and events and other information related to 7 Cups of Tea that may be of interest to you. You may also sign up to receive information, news and other content from third parties whose services and/or products we believe may be of interest to you. You will be asked to provide Personal Information, such as contact details and other information, relevant to delivering such news and information. We maintain all such information.
+### 1\. User Consent and Incorporation
 
-**Technical Support Requests.** If you need technical support related to 7 Cups of Tea’s Sites or 7 Cups of Tea’s Listening Platform, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you will be asked to provide Personal Information, including an email address and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.
+**PLEASE REVIEW THIS PRIVACY POLICY CAREFULLY.** When you submit your Personal Information to or through the Services, you consent to the collection and processing of your Personal Information as described in this Privacy Policy. By using the Services, you accept the terms of this Privacy Policy, our Terms of Use and consent to our collection, use, disclosure and retention of your Personal Information as described in this Privacy Policy. You also consent to 7 Cups sending marketing communications to the email address you provide. You may opt-out (unsubscribe) to these emails at any time.
 
-**Promotions.** From time to time, we may offer promotions on 7 Cups of Tea’s Site or via 7 Cups of Tea’s Listening Platform. If we do, and if you wish to participate, you may be required to provide Personal Information, such as contact information and other information. We maintain such information.
+### 2\. Effective Date and Changes to Privacy Policy
 
-**Listener/Life Coach Applicants.** If a visitor wishes to apply to be a Listener Life Coach on7 Cups of Tea’s Listening Platform, the visitor will be required to submit Personal Information as requested. Any information supplied by or on behalf of a visitor for purposes of becoming a Listener Life Coach will be maintained by 7 Cups of Tea as well as third party affiliates and other third parties. Please note that 7 Cups of Tea may have additional privacy terms that apply to Listener Life Coaches. Such terms will be made available when an applicant applies to be Listener Life Coach when an applicant otherwise accesses his or her account. 
+The Effective Date of this Privacy Policy is set forth at the top of this Privacy Policy. We may change this Privacy Policy from time to time in our discretion. Changes will be posted to this page. We encourage you to return to this page frequently so that you are aware of our current privacy practices. Your continued use of the Services after the Effective Date constitutes your acceptance of the amended Privacy Policy. The amended Privacy Policy supersedes all previous versions.
 
-**Browser Information and Cookies.** We use browser information, cookies and pixel tags to determine whether a communication service or marketing material should be deployed on your browser when you are visiting 7 Cups of Tea’s Site or using 7 Cups of Tea’s Listening Platform. We may also use browser information, cookies and pixel tags: to determine how you arrived at 7 Cups of Tea’s Site or 7 Cups of Tea’s Listening Platform, to determine whether you are a return visitor, to help us improve our product and service offerings, for quality assurance and training purposes, to help diagnose problems with our servers, to gather broad demographic information, to administer and optimize our services, to deliver marketing or other materials to you on behalf of third parties and for other lawful purposes. 
+### 3\. Personal Information We Collect
 
-**Aggregate Information.** We may aggregate information so that it is not Personal Information, and we may use and share such aggregated information for training and quality assurance purposes, for purposes of delivering our services, for purposes of expanding and improving our services and for other lawful purposes. 
+We require certain Personal Information to provide our Services to you. "Personal Information" may include contact information such as your first name, last name, email address, location, phone number, certain demographic information such as age, gender, race ethnicity, primary language spoken, sexual orientation, disabilities, and veteran status, information about your health and medical history that you may input while using or communicating through the Services, and information about how you interact with and use your device.  7 Cups does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to identify a specific individual. 
 
-### How does 7 Cups of Tea protect your information?
+Without providing your Personal Information you may not access mental health services through our Services, contact or correspond with us, peers or health care providers via the Services, or utilize the therapy exercises and programs available on the Services. 
 
-**Security.** Data transmissions over the Internet cannot be guaranteed to be fully and absolutely secure. Our website and our services have security measures in place designed to protect against the loss, misuse and alteration of the information under our control. Our security measures include the measures described below. 
+  * **_Account Setup._** When you sign up for an account with us, we ask for and collect Personal Information such as your name, a valid email address, billing address, and payment information. We need this information to provide you with the Services. If you purchase paid services, such as therapy, other Personal Information such as name, address and credit card payment information will be collected to process payment.
 
-**Encryption and Firewalls.** Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Transcripts are maintained on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords.
+  * **_Listener and Therapist Applicants._** If a visitor wishes to apply to be a Listener or Therapist on 7 Cups’ Listening Platform, the visitor will be required to submit Personal Information as requested. Any Personal Information supplied by or on behalf of a visitor for purposes of becoming a Listener or Therapist will be maintained by 7 Cups. Please note that 7 Cups may have additional privacy terms that apply to Listeners or Therapists. Such terms will be made available when an applicant applies to be a Listener or Therapist or otherwise accesses his or her account.
 
-### Definitions
+  * **_Mental Health Services._** We collect your Personal Information when you access mental health services through our Services, when you contact or correspond with us, peers or health care providers via the Services or when you utilize the therapy exercises and programs available on the Services. 
 
-Cookies are pieces of information that some websites transfer to a visitor’s web browser accessing the website and are used for record-keeping purposes at many websites. Use of cookies makes web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases and personal preferences regarding the use of the particular website, and ensuring that the user does not see the same ad repeatedly. 
+  * **_Log Data._** When you use our Services, we store, process and transmit your information about how you use your device through "digital phenotyping" technology, which analyzes passive sensory data based on your device usage to engage, educate and suggest behavioral activation strategies to you. When you contact us, we keep a record of email and chat communications to address and resolve any issues you are facing.
 
-Encryption is the process of transforming information into unreadable text so that it is only legible to those possessing an encryption key. The process of making encrypted information readable again is referred to as decryption. 
+  * **_Surveys._** From time to time we may collect Personal Information from customers via surveys. This information is used solely to improve the content of our web pages and the quality of our service and is not shared with any third parties.
 
-Pixel tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied. 
+  * **_Requests for Information, News and other Content._** You may sign up to receive information, news and other content related to new and existing products and services related to 7 Cups’ Sites, 7 Cups’ Listening Platform and events and other information related to 7 Cups that may be of interest to you. When signing up to receive such information, you will be asked to provide Personal Information, including your name, an email address, address and phone number. 
 
-Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
+  * **_Technical Support Requests._** If you need technical support related to 7 Cups’ Sites or Listening Platform, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you will be asked to provide Personal Information, including an email address and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.
 
-### Information that 7Cups.com collects from Users requesting calls
+  * **_Browser Information and Cookies._** We use browser information (e.g., IP addresses and browser types), cookies and pixel tags to determine what data or information should be shown on your browser when you are visiting 7 Cups’ Site or using 7 Cups’ Listening Platform. We may also use browser information, cookies and pixel tags: to determine how you arrived at 7 Cups’ Site or Listening Platform, to determine whether you are a return visitor, to help us improve our product and service offerings, for quality assurance and training purposes, to help diagnose problems with our servers, to gather broad demographic information, to administer and optimize our services, and for other lawful purposes. Please refer to the "Cookies" section below for more information.
 
-When you request a chat or call on 7Cups.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we may collect information about your computer, like your IP address and browser information.
 
-In the event that a User elects to purchase paid services, other Personal Information such as name, address and credit card payment information will be collected in order to process payment. 
 
-7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud.
 
-### Information that 7Cups.com collects from registered listeners
+Any User can request a download of their own Personal Information that 7 Cups currently stores, and also request deletion of their account and associated Personal Information. The exception to this rule is if the User in question has broken the terms laid out in the Terms and caused harm or abused our Services or other members. In this case, we retain the right to keep some of your Personal Information in order to provide more security and safety to our members.
 
-We collect information about you in a variety of ways. When you register with 7Cups.com as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. 
+### 4\. Cookies and Other Tracking Technologies
 
-7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud. 
+Cookies are small files, typically of letters and numbers, downloaded onto your computer or mobile device when you visit certain websites.
 
-7Cups.com may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services. 
+  * **_How We Use Cookies._** Generally, we use first-party and third-party cookies for the following purposes:
 
-You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7Cups.com by not registering with 7Cups.com as a listener. You can also cancel your 7Cups.com account.
+    * to make our Services function properly;
+    * to provide a secure browsing experience during your use of our Services;
+    * to collect passive information about your use of our Services;
+    * to help us improve our Services; and
+    * to remember your preferences for your convenience.
+  * **_Types of Cookies on Our Services._** We use the following types of cookies on our Services:
 
-### Social Applications
+    * Strictly Necessary Cookies. These cookies are essential because they enable you to move around and use our Services. For example, strictly necessary cookies allow you to access secure areas on our Services. Without these cookies, some services cannot be provided. These cookies do not gather information about you for marketing purposes. This category of cookies is essential for our Services to work and they cannot be disabled.
 
-These services allow the web site to access the data on your profile in the social networks, and to interact through your post. These services are not activated automatically, but require express authorization by the user. 
+    * Functional Cookies. We use functional cookies to remember your choices so we can tailor our Services to provide you with enhanced features and personalized content. For example, these cookies can be used to remember your name or preferences on our Services. We do not use functional cookies to target you with online marketing. While these cookies can be disabled, this may result in less functionality during your use of our Services. 
 
-### Facebook App
+    * Performance or Analytic Cookies. These cookies collect anonymous passive information about how you use our Services, including webpages you visit, and links you click. We use the information collected by such cookies to improve and optimize our Services. We do not use these cookies to target you with online marketing. You can disable these cookies.
 
-This is a service managed by Facebook Inc., a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the user, by means of an appropriate authorization window. For further information on the use of Personal Information by Facebook Inc., please consult the following link: www.facebook.com/privacy/explanation.php. The personal data collected are: Various types of data.
+    * Third-Party Cookies. These are cookies that are provided by third-party service providers and belong in one of the cookie categories described above. These third-party providers process your Personal Information on our behalf pursuant to our instructions and obligations consistent with this Privacy Policy.
 
-### Twitter App
+  * **_How to Manage Cookies._** Depending on whether you would like to manage a first-party or third-party cookie, you will need to take the following steps:
 
-Twitter App. is managed by Twitter, a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information in compliance with European security standards. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the User, by means of an appropriate authorization window.
+    * First-Party Cookies. You can enable, disable or delete our cookies through the browser you are using to access our Services. To do this, follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" settings). Please note, if you set your browser to disable cookies, you may not be able to access secure areas of our Services, and/or parts of the Services may not work properly for you. You can find more information about how to change your browser cookie settings at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
+    * Third-Party Cookies. Modern browsers also allow you to block third-party cookies using the steps described above.
 
-For content that is covered by intellectual property rights, like photos and videos you specifically grant 7Cups.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with 7Cups.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. 
 
-When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
 
-You will not create more than one personal profile. 
 
-If we disable your account, you will not create another one without our permission.
+We also use pixel tags throughout or Services. Pixel Tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied. 
 
-### Apple Trademarks
+### 5\. How We Use Your Personal Information
 
-Apple, the Apple logo and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+We may use Personal Information that we collect about you for various purposes, including:
 
-### Mobile
+  * To operate, provide and improve our Services;
+  * To communicate with you regarding our Services, and promotions;
+  * To ensure network and information security; and
+  * To share with third parties to provide our Services to you, as described in the next section.
 
-We will provide any mobile services for free, but please be aware that your carrier’s normal rates and fees, such as text messaging fees, will still apply. 
 
-You understand that we may not always identify paid services and communications as such.
 
-### Child Protection
+### 6\. How We Share Your Personal Information
 
-7Cups.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old, or between the ages of 13-18 years old with parental consent. If 7Cups.com learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7Cups.com, at their sole discretion, can terminate that account.
+We may share and disclose Personal Information as follows:
 
-### Consent and Changes
+  * **_Third Party Service Providers Performing Services on Our Behalf._** We share Personal Information, with certain third-party service providers that assist us in providing the Services and which are bound by duties of confidentiality. For example, we may use third parties to host the Services, to send out email updates about the Services or remove repetitive information from our user lists.
 
-As indicated above, you must accept the terms of this privacy policy to use 7Cups.com. You understand and agree that 7Cups.com can change the privacy policy by posting changes to this Website. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. Again, if you have questions or comments regarding this privacy policy, then please contact us at [info@7Cups.com](mailto:info@7Cups.com).
+  * **_Other Users._** Depending on how you interact with the Services, your Personal Information, may be shared with other Users, such as peers and other users who participate in boards on which you post information.
+
+  * **_Healthcare Providers._** If you have been referred to the Services as part of a care plan by your healthcare provider, we may share your Personal Information with your healthcare provider to facilitate care.  
+
+  * **_For Legal Purposes._** We will disclose your Personal Information as we deem necessary to respond to a subpoena, regulation, binding order of a data protection agency, legal process, governmental request or other legal or regulatory process. We may also share your Personal Information as required to pursue available remedies or limit damages we may sustain. 
+
+
+
+
+We may de-identify your Personal Information, in compliance with applicable law and aggregate such de-identified data with the de-identified data of other users. We may then share such aggregate, de-identified data with the sponsors of programs that facilitate your access to the Services, such as County government health agencies.
+
+### 7\. Security of Your Personal Information
+
+We employ reasonable security measures designed to protect the security of information submitted through the Services. However, the security of information transmitted through the Internet can never be guaranteed. To protect you and your Personal Information we may suspend your use of the Services, without notice, pending an investigation, if any breach of security is suspected.
+
+  * **_Your Responsibilities._** Users of the Services are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of any of the Services. 
+
+  * **_Unauthorized Access._** Access to and use of password protected and/or secure areas of the Services are restricted to authorized users only. Unauthorized access to such areas is prohibited. 
+
+  * **_Encryption and Firewalls._** Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Transcripts are maintained on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords.
+
+
+
+
+### 8\. Retention Period
+
+Generally, we will retain your Personal Information for as long as your account or profile is active, or for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Private messages are stored for one year. Group messages are stored for 30 days. The 30 most recent therapy messages are stored. 7 Cups will store your user account and associated Personal Information if your account is active.
+
+### 9\. Links to Other Sites
+
+The Services may contain links and widgets related to third-party websites and services ("Third Party Services") with which we have no affiliation. A link to any Third Party Services does not mean that we endorse it or the quality or accuracy of information presented on it. If you decide to visit any Third Party Services, you are subject to its privacy policy and practices and not this Privacy Policy. We encourage you to carefully review the legal and privacy notices of all other digital services that you visit.
+
+### 10\. Nondiscrimination
+
+7 Cups does not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, in any of its activities or operations.
+
+### 11\. Child Protection
+
+7 Cups complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years old, or between the ages of 13-18 years old with parental consent. If 7 Cups learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7 Cups, at their sole discretion, can terminate that account.
+
+### 12\. Therapists as Mandated Reporters
+
+Therapists are mandated reporters. Because of their profession, they have a legal obligation to report to authorities any signs of child abuse or vulnerable adult abuse. However, members cannot be forced to give any Personal Information. Adults who are in therapy provide Personal Information which will only be disclosed to the therapist if they or someone else is in imminent danger.
+
+### 13\. Notice to Individuals in the European Economic Area and Switzerland
+
+This section only applies to individual using our Service that are located in the European Economic Area, United Kingdom and/or Switzerland (collectively, the "Designated Countries") at the time of data collection. We may ask you to identify which country you are located in when you use or access some of the Services, or we may rely on your IP address to identify which country you are located in. When we rely on your IP address, we cannot apply the terms of this section to any individuals that masks or otherwise hides their location information from us so as not to appear located in the Designated Countries. 
+
+**Our Relationship to You.** 7 Cups is a data controller with regard to any Personal Information collected from Users of its Service. A "data controller" is an entity that determines the purposes for which and the manner in which any personal information is processed. Any third parties that handle your Personal Information in accordance with our instructions are our service providers and are "data processors." 
+
+**Legal Bases for Processing Personal Information.** Article 6(1) of the General Data Protection Regulation (EU) 2016/679 ("GDPR") describes when processing can be done lawfully.  Whenever we require your consent for the processing of your Personal Information such processing will be based on GDPR, Article 6(1)(a). If the processing of your Personal Information is necessary for the performance of a contract between you and 7 Cups or for taking any pre-contractual steps upon your request, such processing will be based on GDPR, Article 6(1)(b). Where the processing is necessary for us to comply with a legal obligation, we will process your information on basis of GDPR, Article 6(1)(c).  Also, in many cases, we handle your Personal Information on the ground that it furthers our legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals.
+
+**Marketing.** We will only contact individuals located in the Designated Countries by electronic means (including email or SMS) based on our legitimate interests, as permitted by applicable law, or the individual’s consent. When we rely on legitimate interest, we will only send you information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. You can object to direct marketing at any time and free of charge. 
+
+**Individual Rights.** We take reasonable steps to ensure that your Personal Information is accurate, complete, and up to date. You have the right to access, correct, or delete the Personal Information that we collect. You are also entitled to restrict or object, at any time, to the further processing of your Personal Information. You have the right to receive your Personal Information in a structured and standard format and, where technically and legally feasible, the right to have your Personal Information transmitted directly to a third party. You may lodge a complaint with the competent data protection authority regarding the processing of your Personal Information.
+
+If you would like to exercise your rights under applicable law, please contact us at info@7Cups.com. We may seek to verify your identity when we receive an individual rights request from you to ensure the security of your personal information.  We may limit your individual rights requests (a) where denial of access is required or authorized by law; (b) when granting access would have a negative impact on other's privacy; (c) to protect our rights and properties; or (4) where the request is frivolous or burdensome.
+
+### 14\. Your California Privacy Rights
+
+California residents who provide certain types of Personal Information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about certain types of Personal Information we shared, if any, with other businesses for their own direct marketing uses. It is our policy that we do not share your Personal Information with other businesses for marketing uses. Nevertheless, to make such a request, please send an email message to info@7Cups.com with "Request for California Privacy Information" on the subject line and in the body of your message.
+
+### 15\. Do Not Track
+
+The Services does not support Do Not Track with respect to the Services at this time. Do Not Track is a privacy preference that you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit [https://www.donottrack.us](https://www.donottrack.us/).
+
+### 16\. Notices
+
+Please send all questions, comments and notices regarding this Privacy Policy to: info@7Cups.com.
