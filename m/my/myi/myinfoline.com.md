@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090043id_/http%3A//www.myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824035340id_/https%3A//www.myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy | MyInfoline India | MyInfoline Yellow Page | Indian Business Directory | Yellow pages India
 
