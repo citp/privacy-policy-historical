@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wawa.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921232248id_/https%3A//www.wawa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wawa.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824233205id_/http%3A//wawa.com/privacy) for the most accurate reproduction.*
 
-# Wawa Official Privacy Policy | Wawa
+# Wawa Official Privacy Policy: How Wawa Protects Your Privacy | Wawa
 
-Effective Date: July 18, 2017
+Effective Date: February 19, 2018
 
 Protecting your privacy is important to Wawa. This Wawa Privacy Policy (’Policy’) describes how Wawa and its subsidiaries and affiliated companies collect, use, disclose and safeguard the personal information you provide on Wawa’s websites, [www.wawa.com](https://www.wawa.com/) and [www.wawarewards.com](https://www.wawarewards.com/), and through or in connection with our mobile apps or other software- and Internet-enabled programs and services sponsored by Wawa (the “Sites”) as well as information collected when you visit our stores or otherwise communicate or interact with Wawa.
 
@@ -12,7 +12,7 @@ Information Collected Automatically
 
 Each time you visit the Sites, we may automatically collect certain types of information. Some examples of automatic information we may collect are as follows:
 
-  * We may record your internet service provider's address, your internet protocol or IP address, the web page from which you came, your web browser software, the type of handheld or mobile device used to link to the web page, and the language settings on your web browser;
+  * We may record your internet service provider's address, your internet protocol or IP address, your operating system, the web page from which you came, your web browser software, the type of handheld or mobile device used to link to the web page, and the language and time zone settings on your web browser;
   * We may collect a record of your activity or your "clickstream" while visiting the Sites;
   * We may use "cookies" of different types to recognize your computer. A cookie is a small text file that a website, online application, or e-mail may save to your internet browser and/or your computer's hard drive for use in subsequent visits to the Sites or other sites;
   * We may use web beacons, match scripts, pixel tags or similar technologies that allow us to know if a particular web page was visited, an e-mail opened, links in the email utilized or if the advertisements on the Sites or other sites were effective. In some instances, these technologies may allow us to match activities with particular users; 
@@ -26,9 +26,9 @@ Information You Give to Us
 We may collect any information, such as your first and last name, credit card number, email address, postal address, and telephone number that you provide when you interact with Wawa. Some examples are when you:
 
   * Make an online or in-store purchase;
-  * Correspond with us;
+  * Correspond or communicate with us by phone, e-mail or otherwise;
   * Register or create an account on the Sites;
-  * Participate in an online survey;
+  * Participate in an a contest, sweepstakes or an online survey;
   * Use our mobile apps to buy goods using a Wawa gift card;
   * Sign up for our rewards program or other program or club; or
   * Sign up for email and/or SMS news and alerts
@@ -138,4 +138,4 @@ If you have questions or concerns about this Privacy Policy, please feel free to
 
 This privacy policy describes how we may share your information for marketing purposes, as described above. California residents are entitled to request and obtain from us once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information and for any other questions about our privacy practices and compliance with California law, please contact us as explained above: Contact Us.
 
-Last updated: 18th July 2017
+Last updated: February 19, 2018
