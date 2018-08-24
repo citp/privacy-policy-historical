@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unicommerce.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129011239id_/https%3A//www.unicommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicommerce.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824032021id_/https%3A//www.unicommerce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - Unicommerce
 
 The privacy policy outlines how “Unicommerce eSolutions Pvt. Ltd.” uses and protects any information provided by users on its website .
 
@@ -51,6 +51,6 @@ Our website may contain links to enable you to visit other websites of interest.
 
 You may choose to restrict sharing or use of your personal information in the following ways:
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information from time-to-time about third parties which might be of interest to you, provided you express the same to us. You may request details of personal information about you that we hold under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held about you please send an email requesting this information to reach@unicommerce.com. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information from time-to-time about third parties which might be of interest to you, provided you express the same to us. You may request details of personal information about you that we hold under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held about you please send an email requesting this information to reach@unicommerce.com.
 
 If you believe that any information about you is incorrect or incomplete, please email us as soon as possible. We ensure a prompt action to correct the same.
