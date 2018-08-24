@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201053052id_/https%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824023306id_/https%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Math, Science, English, Test Prep - Brightstorm
 
@@ -103,4 +103,4 @@ Any information that we collect is subject to the privacy policy in effect at th
 
 ###### Questions?
 
-Please contact us at [support@brightstorm.com](mailto:support@brightstorm.com) if you have any questions about our Privacy Policy. Brightstorm, Inc. 1270 Oakmead pkwy, Suite 214, Sunnyvale, CA 94085. 
+Please contact us at [support@brightstorm.com](mailto:support@brightstorm.com) if you have any questions about our Privacy Policy. Brightstorm, Inc. 2700 Mission College Blvd., STE 140-104, Santa Clara, CA 95054 
