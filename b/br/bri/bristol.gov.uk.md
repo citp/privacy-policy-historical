@@ -1,120 +1,116 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120959id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824201650id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy - bristol.gov.uk
 
-Your privacy is important to us and we take great care to protect it. You can visit our website without giving us your personal data.
+Your privacy is important to us and we take great care to protect it. We collect your personal details when you fill in a form, write us a letter, phone us or send us an email.
 
-## Your rights
+For data protection information see our [data protection policy page](https://www.bristol.gov.uk/data-protection-foi/data-protection-policy).
 
-If you agree to share your personal details you still keep your rights given by the Data Protection Act 1998.
+## Who we are
 
-Your service from the council will not be affected if you decide not to allow your data to be shared in this way.
+Bristol City Council is responsible for ensuring we only collect the information necessary to provide you with a service, to only share your information when it has a legal basis to do so, and to ensure we maintain the highest standards necessary to protect your information.
 
-## What we do with your personal data
-
-We collect your personal details when you fill in a form on our websites or send us an email. When you give us your information, you also agree to:
-
-1\. Allow your details to be used for other council services and combined into one single record containing your basic details and information about your transactions.
-
-  * This will help you because you won’t have to repeat the same basic information all the time. It also helps us to deal with your requests more quickly and tailor our services to meet your needs.
-  * Only basic customer data will be shared across the council. This will be your title, name, address, gender, date of birth and preferred contact details; email, home or mobile phone.
-
-
-
-2\. Allow us to give your details to contractors who work for us to deal with your request for the council.
-
-  * These contractors use the same security standards as the council.
-
-
-
-3\. Allow us to share your information with other councils and other organisations such as our partners in the NHS.
-
-  * You will be told about this or asked to agree to this first, if we decide to share services with these organisations.
-  * Information shared with our local NHS partners is via a secure system called Connecting Care. [Read more information about this](https://www.bristolccg.nhs.uk/about-us/how-we-use-your-information/connecting-care/).
-
-
-
-4\. We may also give your data to the Cabinet Office and other bodies so they can use it to match against computer records held by other public bodies.
-
-  * This data is usually your personal information. Data matching allows them to spot potentially fraudulent claims and payments.
-  * Find out about the [National Fraud Initiative and other data matching initiatives.](https://web.archive.org/c/portal/layout?p_l_id=217377)
-
-
-
-5\. We may also use your data to identify, understand and meet the needs of individuals and families who will benefit from a multi- agency response.
-
-  * Find out more about our ‘[Think Family](https://web.archive.org/c/portal/layout?p_l_id=31725)’ group who use data to support families in Bristol.
-  * See our [privacy notice (pdf, 157k) (opens new window)](https://web.archive.org/documents/20182/33912/Privacy+notice+2017/ffdb52f4-33a7-427f-aabb-bd093099428f) for how we collect, use and share information about families with young children who use early years services. 
-
-
-
-6\. We collect data to help improve the health and wellbeing of Bristol residents. This data comes from a range of sources including hospitals and birth/death registrations. We will not share sensitive or confidential information without your consent except in a small number of situations where disclosure is required by law, or where we have good reason to believe that failing to do so would put you or someone else at risk
-
-  * Find out more on our [Healthy living ](https://web.archive.org/c/portal/layout?p_l_id=26741)page
-
-
-
-
-7\. We may also share your information without asking you if:
-
-  * the law says we must
-  * there is a risk of serious harm or threat to life.
-
-
-
-8\. We may use data collected in the administration of Council Tax and Business Rates to recover other debts owed to the Council.  
- 
-
-We will always ask you before we use it for any other reason or for marketing.
-
-## Opting out
-
-[Request to opt out of the sharing of your basic details](https://web.archive.org/c/portal/layout?p_l_id=238431)
-
-If you've already opted out then you don't need to request again.
-
-## Why the privacy statement has changed
-
-Information about why the privacy statement has changed in our [frequently asked questions. (pdf, 282k) (opens new window)](https://web.archive.org/documents/20182/33912/Privacy+frequently+asked+questions/f8d02fd6-a7be-4ad3-b300-240f560b5dcf)
-
-## Web statistics
-
-We collect web statistics automatically about your visit to our site based on your IP address. This information is used to help us track what people are doing on the site so that we can improve it. We don't use this information to identify you as an individual and you will remain anonymous, unless you identify yourself by completing a form or an online transaction.
-
-## Cookies
-
-We sometimes store small files called ‘cookies’ on your computer or other device to help improve your experience on the website. Our cookies cannot be used to identify you personally.  
-[Find out about the cookies we store on your computer](https://web.archive.org/c/portal/layout?p_l_id=217116).
-
-## How to see the information we hold about you
-
-Under the Data Protection Act 1998, you can ask us for the following information:
-
-  * confirmation that your personal data is being processed by the council
-  * a description and copy of the personal data
-  * the reasons why the data is being processed
-  * details of who we have, or might, give it to.
-
-
-
-If you wish to see information held by the council about you, please [make a data protection request](https://web.archive.org/c/portal/layout?p_l_id=31322).
-
-## Data Protection Notification
-
-You may view the council's Data Protection Notification by searching for our registration number - Z5873747 - on the [Information Commissioner's website](http://ico.org.uk/esdwebpages/search).
-
-## CCTV video
-
-[Apply for information held on the council's CCTV system](https://web.archive.org/c/portal/layout?p_l_id=27713).
-
-## Contact the data protection officer
-
-Email: [data.protection@bristol.gov.uk](mailto:data.protection@bristol.gov.uk)
-
-Post:  
-Senior Data Protection Officer  
+Our main office is based at:  
 Bristol City Council  
-ICT Commissioning and Information Governance  
+City Hall  
+College Green  
+Bristol  
+BS1 5EF
+
+Telephone: 0117 922 2000
+
+## Why we collect your information 
+
+So we can deliver our many services we must collect personal information about our citizens, service users, staff and anyone else we provide a service to and receive a service from.  
+
+We will not disclose your information for marketing purposes unless you have given us permission to do so.  
+
+We will use the data to plan service provision, and help managers to monitor the efficiency, effectiveness and quality of services.
+
+Specifics about why information is collected for our various services can be found in the Privacy Notices tab below.
+
+### Personal information recorded on CCTV
+
+We also use CCTV as a tool in reducing crime and monitoring Bristol’s transport systems. So from time to time your image may be captured as part of our CCTV network. 
+
+Refer to the Privacy Notice tab below for more information on how your information is used.
+
+### When do we share your information
+
+There are some circumstances where the council is by law required to pass on your information.
+
+This includes where we have a statutory enforcement duty; disclosures we are required to make by law; or to detect or prevent fraud and to audit or administer public money.  
+
+For more information visit our [fraud prevention and detection page](https://www.bristol.gov.uk/data-protection-foi/fraud-prevention-and-detection).  
+
+We will also share information:
+
+  * To deliver a service you have requested we will pass your information to contractors, suppliers and other partner agencies.
+  * So that health and social care professionals directly involved in your care, can share a summary of your medical record via a secure system called [Connecting Care](https://www.bristolccg.nhs.uk/about-us/how-we-use-your-information/connecting-care).  
+  * To help improve the health and wellbeing of Bristol residents. This data comes from a range of sources including hospitals and birth/death registrations. Find out more on our [Healthy Living page](http://www.bristol.gov.uk/social-care-health/healthy-living).
+  * We may also use your data to identify, understand and meet the needs of individuals and families who will benefit from a multi- agency response. For more information visit our [Think Family page](http://www.bristol.gov.uk/thinkfamily).
+  * We may also share this data with other parts of BCC to improve the overall service you receive.
+  * As required by central government, we may also share data to comply with statistical return requirements
+
+
+
+We may also share your information without asking you if the law says we must or there is a risk of serious harm or threat to life. 
+
+### How long we will keep your information for
+
+We will keep your information only as long as we need to.  Sometimes the law tells us how long we must keep personal data for.  
+
+We have a [Retention Schedule (spreadsheet, 284k) (opens new window)](https://web.archive.org/documents/20182/33519/Retention+schedule/1cda1000-5009-452f-83e5-22578e8305be) which lists all the categories of data we keep and when it must be deleted by. 
+
+Different parts of the council’s business require different retention periods, and the length of time we need to keep your information for will be included in the Privacy Notice tab below relevant to the council service you use.
+
+### How to make an enquiry about your data or lodge a complaint
+
+You have the right to object to the processing of your information and to have any inaccurate information corrected.
+
+In certain circumstances you have the right to have data held about you erased, or the use of it restricted, you may be able to object to processing as well as have the right to have your data transferred to another data controller. 
+
+You can submit an enquiry if you want to:
+
+  * See the information we hold about you (including accessing any CCTV footage of yourself), this is known as a Subject Access Request, more details and how to make a request can be found on the [Data Protection and Subject Access Request page](https://web.archive.org/c/portal/layout?p_l_id=31322).
+  * Update or correct your information if it is inaccurate by contacting [Citizens Services](https://www.bristol.gov.uk/en_US/Contact).
+  * Raise any concerns or complaints, restrict how we process your data, object to processing by contacting the Data Protection Officer.
+
+
+
+If you need to contact the Council’s Data Protection Officer, you can email [Data.protection@bristol.gov.uk](mailto:Data.protection@bristol.gov.uk) or write to:
+
+Data Protection Officer  
+Bristol City Council   
 P O Box 3176  
 BRISTOL  
 BS3 9FS
+
+You also have the right to complain to the [Information Commissioner’s Office (ICO)](http://www.ico.org.uk/) if you think we have dealt with your information in an inappropriate manner.
+
+You can write to the ICO at:
+
+Information Commissioner's Office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
+
+### How we use cookies on our websites
+
+We sometimes store small files called [cookies](https://www.bristol.gov.uk/about-our-website/cookies) on your computer or other device to help improve your experience on our website. 
+
+We collect web statistics automatically about your visit to our site based on your IP address. This information is used to help us to improve your experience on our website.
+
+## Fraud Prevention and Detection
+
+Bristol City Council is required by law to protect the public funds it administers.
+
+It may share information provided to it with other bodies responsible for auditing, administering public funds, or where undertaking a public function, in order to [prevent and detect fraud](http://www.bristol.gov.uk/data-protection-foi/fraud-prevention-and-detection).
+
+Internal Audit may use your data for testing purposes in order to fulfil its responsibilities under the Accounts and Audit Regulations 2015 (Section 5).
+
+## Privacy Notices
+
+To understand what legal right we have to collect your information, what we use your information for, with whom we share it and for how long we keep it click on the links below to take you to the privacy notice for the council services you use.
