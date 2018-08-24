@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the schneider.com privacy policy that was archived on 2017-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170517140719id_/https%3A//schneider.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schneider.com privacy policy that was archived on 2018-08-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180824110734id_/https%3A//schneider.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+				
+			
  <meta charset="utf-8"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -11,17 +13,19 @@
 	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:keywords" content="Privacy Policy, internet privacy policy">
 	<meta property="og:description" content="Schneider is committed to protecting your privacy rights. We will not collect personal information about you when you visit our website unless you choose to provide that information to us.">
+        <meta name="description" content="Schneider is committed to protecting your privacy rights. We will not collect personal information about you when you visit our website unless you choose to provide that information to us.">
 	<meta name="robots" content="INDEX,FOLLOW">
 <meta property="og:site_name" content="Schneider, Inc.">
 <meta name="pageId" content="1444335193975">
 	<meta property="PageType" content="SDC_LandingPage">
-<meta name="hostgenId" content="uxprd672.schneider.com-20170413:045941">
+<meta name="hostgenId" content="uxprd672.schneider.com-20171013:051036">
 <meta http-equiv="X-UA-Compatible" content="IE=7, IE=8, IE=9, IE=edge">
 <script type="text/javascript" async="" src="//img04.en25.com/i/elqCfg.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NDZ6F6Z"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NDZ6F6Z');</script>
+
  <script>
 	var analytics_history_url = '/cs/Satellite?c=Page&cid=1444335193975&pagename=FND%2FPersonalization%2FCreateHistoryRecord&pubid=1438966033586&subtype=SDC_LandingPage';
 	function post_analytics() {
@@ -70,7 +74,43 @@ _elqQ.push(['elqTrackPageView']);
 			window.attachEvent('onload', async_load);
 	})();
 </script>
-
+<script>
+    $(document).ready(function(){
+        //AJAX Email Validation (StrikeIron)
+        var validator = null;
+        var form = null;
+        $("body").on('blur', 'input#Email, input#UserEmail', function (e) {
+             var emailField = $(e.target);
+             if ($.trim(emailField.val().length) != 0) {
+                form = emailField.closest("form");
+console.log(form.attr("id"));
+                /*validator = form.validate();
+                validator.showErrors({
+                    Email: null,
+                    UserEmail: null
+                });*/
+                var emailVal = emailField.val();
+                emailField.closest("label[for='Email'].error, label[for='UserEmail'].error").remove();
+                emailField.removeClass("input-validation-error").removeClass("text-danger");
+                $.post("/verifyemail?email=" + emailVal,
+                    function (responseObject, textStatus, XMLHttpRequest) {
+                        if (responseObject.length > 0) {
+                            var responseString = JSON.stringify(responseObject);
+                            var parsedJson = $.parseJSON(responseString.substring(1, responseString.length - 1));
+                            if (parsedJson.EmailVerificationResponse !== "OK") {
+                                /*validator = form.validate();
+                                validator.showErrors({
+                                    Email: parsedJson.EmailVerificationResponse,
+                                    UserEmail: parsedJson.EmailVerificationResponse
+                                });*/
+                            }
+                        }
+                    }
+                );
+            }
+        });
+    });
+</script>
 </head><!--[if lt IE 9]> 
 		<body id="ie-doc" onload="post_analytics()">
 		<![endif]-->
@@ -88,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <header><div id="login-panel" class="row-no-padding collapse">
                 <div class="flex-wrap clearfix">
                     <div class="associate-login">
-                        <a href="http://crossroads.schneider.com/" class="btn">Associate Portal Login</a>
+                        <a href="https://compass.schneider.com/" class="btn">Associate Portal Login</a>
                     </div>
                     <div class="login-assistance">
                         <div class="heading">
@@ -109,8 +149,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <form class="login-form" name="loginform" method="post" onsubmit="return submitLoginForm();">
                      <input type="hidden" name="auth_mode" value="basic">
 	            <input type="hidden" name="ct_orig_uri" value="sni">
-	          <input type="hidden" name="successurl" value="https://orangehub.schneider.com/resources/ltl/schneiderlogin.html">
-
+	       
+<input type="hidden" name="successurl" id="successurl" value="https://web.archive.org/web/20180907183126/https://orangehub.schneider.com/resources/ltl/schneiderlogin.html">
+							 <script src="/resources/snifnd/snienv.js"></script>
+								<script>
+								$(document).ready(function () {
+									$(window).one("load", function(){
+										$("#successurl").val(snienv["sni.sdc.login.successurl"]);
+						         	});
+								});
+								</script>
                         <div class="col-md-7">
                             <h3 class="left icon-parent"><span class="schneider-icon schneider-login"></span></h3>
                             <h3>
@@ -433,15 +481,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<li>
 					<a href="http://www.schneidertrucks.com" target="_blank">Buy Used Equipment</a></li>
 				<li>
-					<a href="http://crossroads.schneider.com/ppcu/" target="_blank">Carrier Updates</a></li>
-				<li>
 					<a href="http://crossroads.schneider.com/mpo/" target="_blank">Vendor PO Request</a></li>
 			</ul>
 		</div>
 		<div class="col-md-4">
 			<ul class="list-unstyled">
 				<li>
-					<a href="http://crossroads.schneider.com/" target="_blank">Associate Login</a></li>
+					<a href="https://compass.schneider.com/" target="_blank">Associate Login</a></li>
 				<li>
 					<a href="https://ebs1.schneider.com/OA_HTML/RF.jsp?function_id=28910&amp;resp_id=-1&amp;resp_appl_id=-1&amp;security_group_id=0&amp;lang_code=US" target="_blank">Supplier Login</a></li>
 				<li>
@@ -462,11 +508,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				Connect With Us</h4>
 			<ul class="list-unstyled">
 				<li>
-					<a href="https://www.linkedin.com/company/165873" target="_blank"><img src="/resources/sdc/images/linkedin-icon.png"></a></li>
+					<a href="https://www.linkedin.com/company/165873" target="_blank"><img alt="LinkedIn Icon" src="/resources/sdc/images/linkedin-icon.png"></a></li>
 				<li>
-					<a href="https://twitter.com/weareschneider"><img src="/resources/sdc/images/twitter-icon.png" target="_blank"></a></li>
+					<a href="https://twitter.com/weareschneider"><img alt="Twitter Icon" src="/resources/sdc/images/twitter-icon.png" target="_blank"></a></li>
 				<li>
-					<a href="https://www.youtube.com/channel/UC2MsWN0xxk63RheB5LITB9A"><img src="/resources/sdc/images/youtube-icon.png" target="_blank"></a></li>
+					<a href="https://www.youtube.com/channel/UC2MsWN0xxk63RheB5LITB9A"><img alt="YouTube Icon" src="/resources/sdc/images/youtube-icon.png" target="_blank"></a></li>
 				<li>
 					&nbsp; &nbsp;</li>
 			</ul>
