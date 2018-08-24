@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instme.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808040834id_/http%3A//instme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instme.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824225813id_/https%3A//instme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Instme.com
 
