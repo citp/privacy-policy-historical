@@ -1,150 +1,128 @@
-> *The following text is extracted and transformed from the instacamsites.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232629id_/https%3A//instacamsites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacamsites.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824110723id_/https%3A//cams.xcamy.com/privacy) for the most accurate reproduction.*
 
-# InstaCamSites Privacy Policy
+# Privacy Policy - xcamy
 
-Fair Information Practices 
+This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
-Fair information   
-Practices
+This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.   
+By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy. If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.
 
+## About us
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+Multi Media, LLC operates the service located on Chaturbate.com (the "Site").
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+## Information we may collect and process about you
 
-**When do we collect information?**
+  * Information you provide to us
+  * Your IP address
+  * Information about accounts you've visited, products and services you've clicked on or shown an interest
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you
+  * Information about your interaction with the Site including any advertisements
+  * Information we collect using cookies stored on your device about your use of the Site and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Technical information from your device relating to the service you receive
+  * Information relating to the location of your device.
 
-We collect information from you when you fill out a form or enter information on our site.
 
-**How do we use your information?**
 
-  
+## How we may use your information
 
+By accessing the Site, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services you request or access, and developing our business.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+### Payment Processing
 
-**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+Please note that we contract with various third parties to carry out payment processing in connection with any purchases you may make through the Site. The processing and storage of any and all information you may provide to any such third-party payment processor, including information they may collect from you, is not governed by this Policy. You will need to review the Privacy and Cookie Policy for such third party on their website.
 
-**•** To improve our website in order to better serve you.
+### Two Factor Authentication
 
-**•** To allow us to better service you in responding to your customer service requests.
+When you enable two factor authentication to protect your account, you may provide your phone number directly to a third party called Twilio. Their use of this information is outside of this Policy; however they do not receive any information regarding your account beyond the phone number you provide directly to them.
 
- **How do we protect visitor information?**
+### Fraud Prevention Services
 
-  
+We use third party services in connection with preventing fraud and other damage to our system. As such we may provide to such services with your IP and device data should your account be terminated for fraud or behavior which is damaging to our Site or service. This information will be retained indefinitely for the protection of our Site and users.
 
+## How we may use your information in specific products or services
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. 
+### Registration
 
-We do not use an SSL certificate
+**General account registration:** You are not required to provide any information to use the Site. You may determine to create an account with the Site. In such event you will be required to provide a user name, birthdate to demonstrate you meet our minimum age requirements, and your gender. This information, together with any information you determine to provide in your account profile, will be publicly posted in connection with your username.
 
-**•** We only provide articles and information, and we never ask for personal or private information
+**Contributor registration:** Should you determine to create a "Contributor" account (which is an account that is permitted to receive digital currency from other users of the Site), you will be required to provide a color copy of your current government issued photo identification. This information is stored by us in compliance with United States Federal law. You will also be required to provide “pay to” information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service all moneys paid by us to Contributors as required by law.
 
- **Do we use 'cookies'?**
+**Webmaster registration:** Should you determine to create a webmaster account with the Site, you will be required to provide "pay to" information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service moneys paid by us to webmasters as required by law.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+### Message boards, blogs and other public forums
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+The Site may provide message boards, blogs and other user generated content facilities, in addition to user profiles. Anything that you share through any of these means is deemed public information. You should always be careful when deciding to disclose your personal information.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.   
+### Location based services
 
+Where we provide services that utilize your device's location, we may permit other users of the service to block individuals in certain locations, based upon their IP, from accessing such users' content.
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+## Certain Information Use Out of Our Control
 
-However, you can still place orders .
+Should you determine to stream or upload any content to our Site, you understand that we cannot control the use of such content by any user/observer of our Site. Furthermore, we cannot control the use of any personal information you may determine to share with other users/observers of the Site. You should exercise caution in discussing your location, name, account information, and other identifying information. For privacy, we recommend using a unique username not in any way tied to any of your social media accounts or real name.
 
-**Third Party Disclosure**
+## How we may share your information
 
-  
+Your username will be associated with all activities you undertake on the Site including, without limitation, messages sent, content shared, and streamed content. Your gender information will be used to categorize your account and the content that you share so it is easier for site users to find. Your IP addresses, device data, and other use information is used by us in order to optimize our site for use. Your usage history may also be used to help our internal algorithm to recommend other Site users to you. Your "pay to" information, if provided to us, will be shared with third parties (such as, by way of example only, our bank) only as necessary to process payments to you using the "pay to" information you have provided to us. Your government identification, if provided to us, will be shared as required to comply with applicable law and as may be requested by you in writing. Notwithstanding the forgoing, we reserve the right to share any and all account information with law enforcement or agencies authorized by applicable governmental authorities either in response to their written request or should we believe, in our sole discretion, that you or your account may be involved with illegal activity, or if we determine in our sole discretion that such disclosure is necessary to protect the rights or property of Chaturbate, our users, or third parties.
 
+## Safeguards and security for your information
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+We have measures in place to protect the security of your personal information from unauthorized access or use, such as by using encryption technology.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Information Deletion
 
- **Third party links**
+Should you request your personal data be deleted, it will be deleted in compliance with our data retention policy and applicable law and rules. In order to avoid abuse of our system, we will retain device and IP data relating to your account for a period of time to prevent you from creating a new account.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+You can request permanent deletion using our deletion tool [here](https://web.archive.org/security/privacy/delete/).
 
- **Google**
+## Cookies Policy
 
-  
+You should be aware that when you use the Site we may collect information using cookies or similar technologies.
 
+### What are cookies and how do they work?
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognize you. This allows websites to tailor what you see on the screen.
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+### Do we use other technologies which are similar to cookies?
 
- **California Online Privacy Protection Act**
+Our websites, apps and emails often contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used in a way similar to cookies, to understand when a particular part of a webpage is viewed. Our apps often use device identifiers in the same way as cookies. A device identifier is a unique number on your device which allow us to remember your device.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf   
+### What do we use cookies for?
 
+Cookies make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
 
-**According to CalOPPA we agree to the following:**
+  1. Cookies that are needed to provide the service you have asked for. Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies gather information about you that can be used for remembering your browsing history or allowing you to stay logged in during your visit.
+  2. Cookies used to improve your browsing experience. These cookies allow the website to remember choices you make, such as your language or region and they provide improved features such as content provider recommendations and limiting the number of times a particular advertisement is shown to you.
+  3. Cookies used to understand how people use our products and services. This allows us to keep track of what pages are popular to help other users find such pages.
+  4. Cookies used to show advertising that is relevant to you based upon your viewing history.
 
-Users can visit our site anonymously
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
 
-Users will be notified of any privacy policy changes:
+We may also use cookies on the Site and advertisers' sites to understand which customers reach a sale or other action page on an advertiser's site. This allows us to monitor how effective our advertising is.
 
-**•** On our Privacy Policy Page
+Some of our web pages will contain promotional links to other companies' sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. You will need to review the privacy policy of any website whose advertisement you click on as this Policy only applies to pages on our domain.
 
-Users are able to change their personal information:
+## Contacting us and accessing your personal information
 
-**•** By emailing us
+If you have any queries or comments about this Privacy & Cookies Policy please contact us at:  
+[support@chaturbate.com](mailto:support@chaturbate.com)
 
-**How does our site handle do not track signals?**
+If you wish to review or receive a copy of the personal information we hold about you, we offer a self-serve tool [here](https://web.archive.org/security/privacy/data_export/), else please write to us at:
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+> Attention: Data Protection Officer  
+>  Grizzly Empire Ltd  
+>  Unit 4 Studios  
+>  100 Bradford Road  
+>  Dewsbury, United Kingdom, WF13 2EF  
+>  [privacyquestions@chaturbate.com](mailto:privacyquestions@chaturbate.com)
 
-**Does our site allow third party behavioral tracking?**
+We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
 
-It's also important to note that we do not allow third party behavioral tracking
+### Changes to this Privacy & Cookies Policy
 
- **COPPA (Children Online Privacy Protection Act)**
-
-  
-
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
-
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-  
-
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
-**•** Within 7 business days
-
-We will notify the users via in site notification
-
-**•** Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
- **Contacting Us**
-
-  
-
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-InstaCamSites.com
-
-info@instacamsites.com
-
-888-324-8545
-
-Last Edited on 2014-10-28
+We reserve the right to make changes to our Privacy & Cookies Policy. Changes to this policy will be posted here and will become effective as of the updated effective date. Your continued use of our website or platform will signify your acceptance of these changes.
