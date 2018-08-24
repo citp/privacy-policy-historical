@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121063316id_/https%3A//www.kcpl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824114737id_/https%3A//www.kcpl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KCPL
+# Privacy Policy - KCP&L
 
 ## Information Collection 
 
@@ -8,7 +8,7 @@ KCP&L collects personally identifiable information from the users on our Web sit
 
 ## Registration
 
-In order to use the secure portion of this Web site, where you can view account information and make transactions, you must first complete the registration form and create a user name and password. During registration you must provide contact information (such as name and email address). We use this information to contact you about the services on our site in which you express interest. You may be asked for additional personally identifiable information, such as telephone numbers, account information or other information during the registration process. 
+In order to use the secure portion of this Web site, where you can view account information and make transactions, you must first complete the registration form and create a user name and password. During registration you must provide contact information (such as name and email address). We use this information to contact you about the services on our site in which you express interest. You may be asked for additional information, such as telephone numbers, account information or other information during the registration process. 
 
 ## Site Activity 
 
