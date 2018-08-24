@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplepickup.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709161335id_/http%3A//simplepickup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplepickup.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824091934id_/http%3A//www.simplepickup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Simple Pickup
 
