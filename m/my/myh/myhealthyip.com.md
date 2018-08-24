@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the myhealthyip.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129100841id_/https%3A//psiphonhealthyliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhealthyip.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824051415id_/https%3A//psiphonhealthyliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Psiphon Healthy Living
 
 ## Advertising Networks:
 
-Third-party vendors, including Google, use technology such as cookies and web beacons to serve ads based on your usage data.  Any information collected through this process is handled under the terms of our advertising partners' privacy policies.
+Third-party vendors, including Google and Amazon, use technology such as cookies and web beacons to serve ads based on your usage data.  Any information collected through this process is handled under the terms of our advertising partners' privacy policies.  
+Privacy Policies for the Amazon Affiliate links can be viewed here: https://www.amazon.com/adprefs
 
 You can opt out of the use of cookies for interest-based advertising by visiting:
 
