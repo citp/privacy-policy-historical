@@ -1,76 +1,54 @@
-> *The following text is extracted and transformed from the thecollegefix.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322114611id_/https%3A//www.thecollegefix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecollegefix.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824121810id_/https%3A//www.thecollegefix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The College Fix
+# None
 
 ## Privacy Policy
 
-Your privacy is critically important to us.
+_The College Fix_  believes you should know what data we collect from you and how we use it. We also believe you should be able to make the best decisions about the information you share with us.
 
-The College Fix (also known as the Student Free Press Association) has a few fundamental principles about privacy and the information we collect.
+We receive personal information from you in a variety of ways. This information can come from what you give us directly, such as through a subscription, a newsletter sign-up, or a website comment. This information can also come from what you do not give us directly, such as data gathered by third parties (including advertisers and Google analytics) based on your browsing habits.
 
-The College Fix will not ask you for personal information unless it is truly necessary;
+By subscribing to our newsletter you accept our terms to deliver you the digital service you have requested. You can unsubscribe from this e-mail service from directly within the e-mail.
 
-The College Fix will not share your personal information with anyone except as required in order to comply with the law, develop our products, or protect our rights (as further discussed below);
+We employ third parties to perform _College Fix_ -related services, including database management, maintenance services, analytics, marketing, data processing, and email distribution. These third parties have access to your information only to perform these tasks on our behalf.
 
-The College Fix will utilize safe, secure technology to protect your personally identifiable information; and
+If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal ** ** information in public activities or submissions.
 
-You retain copyright and any other rights you already hold in Content, which you may submit, post or display through http://www.thecollegefix.com.
+This Privacy Policy governs the manner in which _The College Fix_ collects, uses, maintains and discloses information collected from users (each, a “User”) of the [thecollegefix.com](http://thecollegefix.com/) website (“Site”). This privacy policy applies to _The College Fix_. This policy does not apply to information collected through any other website or to the practices of companies that  _The College Fix_ does not control.
 
-Below is our privacy policy, which incorporates these goals.
+Please note that our site may contain links to other websites. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on _The College Fix._
 
-The College Fix operates a website at http://www.thecollegefix.com. It is The College Fix’s policy to respect your privacy regarding any information we may collect while operating our website.
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Website Visitors**  
-Like most website operators, The College Fix collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. The College Fix’s purpose in collecting non-personally identifying information is to better understand how The College Fix’s visitors use its website. From time to time, The College Fix may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-The College Fix also collects potentially personally identifying information like Internet Protocol (IP) addresses. The College Fix does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally identifying information, as described below.
+**Web browser cookies**  
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Children and Privacy**  
-Thecollegefix.com is intended for use by individuals over the age of 18. If you are under 18, please do not submit any personally identifiable information on our site. Children should always ask a parent or guardian for permission to send any personal information online to anyone.
+**How we use collected information**  
+_The College Fix_ may collect and use Users personal information for the following purposes:
 
-Thecollegefix.com’s mission is to investigative and spotlight the radical views found on America’s college campuses. As such, the subject nature of many news stories and commentary featured on thecollegefix.com may involve sensitive subjects like race, religion, and human sexuality. As such, thecollegefix.com is not intended for use by children under the age of 18, unless under the supervision of a parent and guardian.
+– To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+– To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+– To improve our Site: We may use feedback you provide to improve our products and services.
 
-**Gathering of Personally-Identifying Information**  
-Certain visitors to The College Fix’s websites choose to interact with The College Fix in ways that require The College Fix to gather personally identifying information. The amount and type of information that The College Fix gathers depends on the nature of the transaction. For example, we ask visitors who sign up as a subscriber to the newsletter at http://www.thecollegefix.com to provide an email address. Those who engage in transactions with The College Fix– by signing petitions or joining a newsletter at http://www.thecollegefix.com, for example – are asked to provide additional information, including as necessary the personal information required to process those transactions. In each case, The College Fix collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with The College Fix.
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-The College Fix does not disclose personally identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-The College Fix has created these web pages for your personal information and education. However, you are only authorized to access this website or to use the materials contained in the site if you agree to abide by all applicable laws, which constitutes an Agreement between you and The College Fix, Inc.
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Opt-Out Policy**  
-The College Fix offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering services at http://www.thecollegefix.com, you change your mind about receiving information from us or about sharing your information with third parties, simply send as a request at editor@thecollegefix.com.
+NAI Opt-out: <http://optout.networkadvertising.org/#!/>
 
-**Aggregated Statistics**  
-The College Fix may collect statistics about the behavior of visitors to its websites. The College Fix may display this information publicly or provide it to others. However, The College Fix does not disclose personally identifying information other than as described below.
+**Changes to this privacy policy**  
+_The College Fix_ has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Protection of Certain Personally Identifying Information**  
-The College Fix discloses potentially personally identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on The College Fix’s behalf or to provide services available at The College Fix’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country. By using The College Fix’s website, you consent to the transfer of such information to them.
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-The College Fix will not rent or sell potentially personally identifying and personally identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, The College Fix discloses potentially personally identifying and personally-identifying information only when required to do so by law, or when The College Fix believes in good faith that disclosure is reasonably necessary to protect the property or rights of The College Fix, third parties or the public at large.
-
-If you are a registered user of http://www.thecollegefix.com and have supplied your email address, The College Fix may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with updates on The College Fix and our products. We primarily use our various email lists, social media profiles to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. The College Fix takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally identifying and personally identifying information.
-
-**Cookies**  
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. The College Fix reserves the right to use cookies to help The College Fix identify and track visitors, their usage of The College Fix website, and their website access preferences. The College Fix visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using The College Fix’s websites, with the drawback that certain features of The College Fix’s websites may not function properly without the aid of cookies.
-
-**Credit Card Information**  
-We comply with generally accepted industry standards in collecting and processing credit card information.
-
-**Notice and takedown policy**  
-The College Fix respects the Intellectual Property Rights of third parties. Pursuant to the Digital Millennium Copyright Act, 17 U.S.C. §512(c)(3), if you believe that your content has been copied in a way that constitutes trademark and/or copyright infringement, please inform use IMMEDIATELY, by stating the following:
-
-1\. Your contact details.  
-2\. A description of the content.  
-3\. The website address (URL) where the content is, or alternatively, the date when it was uploaded.  
-4\. An explanation of why the content should not be on www.thecollegefix.com .  
-5\. A statement that, under penalty of perjury, you are the owner of the Intellectual Property Rights or are authorized to act for the owner of the Intellectual Property Rights in the content.
-
-The process for handling requests to remove content from www.thecollegefix.com as follows:  
-1\. You will be notified as soon as possible of our receipt of your email; usually within two (2) days;  
-2\. The content will be removed as soon as possible.  
-3\. The College Fix will retain the email stating that you are the owner of the Intellectual Property Rights of said content or the representative and why the item should be removed.
-
-**Website Privacy Policy Changes**  
-Although most changes are likely to be minor, The College Fix reserves the right to modify, amend, or alter its Privacy Policy from time to time. The College Fix encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-**DATED: 11 April 2013**
+_July 2018_
