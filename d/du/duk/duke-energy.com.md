@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505091758id_/https%3A//www.duke-energy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824111537id_/https%3A//www.duke-energy.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Duke Energy
 
-_**Last Updated: March 22, 2017  
-**_  
-[](https://privacy.truste.com/privacy-seal/Duke-Energy-Corporation/validation?rid=7f241103-1ab4-4712-bee3-75a6d4642415)
+_**Last Updated: May 11, 2018**_
 
-Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way your information is collected and used.
+**_  
+_** Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way your information is collected and used.
 
 Duke Energy Business Services LLC is the service company subsidiary of Duke Energy Corporation (Duke Energy Corporation and its subsidiaries is referred to herein, individually and collectively, as "Duke Energy", "we", "us" or "our"). This privacy policy describes how Duke Energy collects, uses, shares, and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information.
 
 If you have questions or concerns regarding this policy, please communicate with us through [Contact Us](https://www.duke-energy.com/customer-service). 
 
   
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.[](http://feedback-form.truste.com/watchdog/request)
+[](http://feedback-form.truste.com/watchdog/request)
 
 ### The Information We Collect
 
@@ -57,7 +56,7 @@ Examples include internet protocol (IP) addresses or similar identifiers, browse
 
 To collect this information, we use tracking technologies like cookies and clear gifs (aka web beacons/web bugs). These technologies may be invisible to you, and we analyze the information collected only in the aggregate; it is not associated with any specific individuals. We use these tracking technologies at the point of collection of your personal information, not in emails that you receive from us. We also use a third-party tracking service that uses these technologies to track nonpersonal information about visitors to our site. This information is collected in the aggregate and is used to track usage and volume statistics. The use of cookies by our third-party tracking service is not covered by our privacy policy. We do not have access or control over these cookies.
 
-These third-party technologies may also be used to collect nonpersonal information about your activities on this and other websites to provide you targeted advertising based upon your interests on this and other websites. These third-party technologies may use cookies or similar tracking technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may [opt out by clicking here](http://preferences-mgr.truste.com/). Please note that this does not opt you out of being served advertising. You will continue to receive generic ads.
+These third-party technologies may also be used to collect nonpersonal information about your activities on this and other websites to provide you targeted advertising based upon your interests on this and other websites. These third-party technologies may use cookies or similar tracking technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may [opt out of interest-based advertising](http://optout.networkadvertising.org/?c=1#!/). Please note that this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 We use "cookies" to recognize you as you use or return to our websites or mobile website. This is done so that we can provide a continuous and more personalized experience for you. A cookie is a small text file that a website or email may save to your browser and store on your hard drive. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our shopping cart. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. To remove persistent cookies, follow directions provided in the internet browser's "help" file.
 
@@ -99,7 +98,7 @@ We reserve the right to disclose any and all pertinent information about you in 
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not retain this information.
 
-Widgets, such as the “Share” feature, support functions that require that you disclose certain personal information given your choice of participation. These features may collect your IP address and which page you are visiting on our site, and they may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it. ****
+Widgets, such as the “Share” feature, support functions that require that you disclose certain personal information given your choice of participation. These features may collect your IP address and which page you are visiting on our site, and they may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 We also post testimonials on our site from customers who have given approval to post their personal information along with their testimonial.
 
@@ -139,9 +138,7 @@ The statutes or applicable codes of conduct may be found here:
 
 **
 
-You will receive email communications from us when you sign up for an account online, perform an online transaction (such as paying your bill, requesting a new password, etc.) or opt in to receive marketing emails from us. If you have opted to receive marketing emails, we may contact you via email about new products and services. To opt out of receiving these marketing emails, please log into your online account and edit your profile.  
-
-In some instances, Duke Energy will co-brand with another company. Please be aware that the privacy policy referenced at the bottom of the webpage governs the collection of information on that page.
+You will receive email communications from us when you sign up for an account online, perform an online transaction (such as paying your bill, requesting a new password, etc.) or provide your email address to a customer contact representative. We may contact you via email about new products and services. To opt out of receiving these marketing emails, please log into your online account and edit your profile or use the one click unsubscribe link at the bottom of the email you received. In some instances, Duke Energy will co-brand with another company. Please be aware that the privacy policy referenced at the bottom of the webpage governs the collection of information on that page.
 
 **
 
