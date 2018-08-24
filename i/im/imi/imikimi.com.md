@@ -1,16 +1,43 @@
-> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145138id_/http%3A//imikimi.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824142122id_/https%3A//zo.imikimi.com/docs/privacy.html) for the most accurate reproduction.*
 
-# Legal - Privacy Policy - imikimi.com
+# Imikimi Zo Privacy Policies - Imikimi Zo Privacy Policies
 
-If you have Kimi-Creator installed, it should start automatically. 
+## Our Commitment to Your Privacy
 
-To use this feature, please install Kimi-Creator then click this button: 
+We are committed to helping you, our Imikimi Zo customer to
 
-Start Kimi-Creator
+  * share your positive contributions 
+  * express yourself creatively 
+  * discover and deepen your connection with others 
+  * easily and fully control your privacy 
 
-Kimi Creator is our desktop app for Windows and Macintosh. It provides the full feature set for creating great Kimis and Kimi-Frames. 
 
-Learn more about [Kimi Creator](https://web.archive.org/pages/kimi_creator).
+
+We charge you a small fee to make it possible to do those things. We do not sell or share your data with 3rd parties. That makes your privacy and your control over your digital social life SO much easier!
+
+  * You pay us to work for you, our customer. 
+  * Other, ad-supported sites get paid by 3rd parties you don’t even know, to package up all of the data of your digital life, for purposes you have little control over. You are not their customer, you are their product. 
+
+
+
+Note: We do work with 3rd party services, but we do so solely for the purpose of serving you. These services include, but are not limited to: data storage, servers, analytics, and contacting you.
+
+## You Control Your Privacy
+
+We invented “Streams” so you could control your sharing and privacy for each group of people you interact with. Your profile picture, your display-name and whether or not you are a 'member' are publicly viewable. The rest of your privacy is control Stream-byStream. Currently, there are two kinds of Streams:
+
+  * Private Streams: By default, private streams are only viewable by you. You can share your private streams with others by sharing one or more posts from that Stream. Whomever you share a post with will be able to see and comment on any post in that same Stream. This allows you to choose, on a Stream-by-Stream basis, who sees your content. 
+  * Public Streams: Anybody can see your public Streams. 
+
+
+
+## Deleting and Changing Your Content
+
+You can change your e-mail and your account name on your Profile page. You can delete Posts individually any time your are logged in, under the 3-dot menu when you are on the Post. 
+
+We are working on tools to help you delete Streams and your whole Account more easily. In the mean time, if you wish to delete your account, please contact us directly. You can delete individual Posts, and if it is the last post in a Stream, the Stream will be automatically deleted. 
+
+## Imikimi Privacy Policy Details
 
 Imikimi LLC. ("Imikimi") recognizes that its customers, visitors, users, and others who use www.Imikimi.com or other web sites owned or operated by Imikimi (the "Imikimi Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Imikimi Sites. Imikimi provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Imikimi Sites. 
 
