@@ -1,32 +1,128 @@
-> *The following text is extracted and transformed from the thenextwomen.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624072954id_/http%3A//www.thenextwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenextwomen.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824052752id_/https%3A//www.thenextwomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TheNextWomen
 
 PRIVACY POLICY of INFO PUBLISHERS B.V.
 
-—- SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
+INTRODUCTION  
+TheNextWomen takes your privacy very seriously and will process and use information about you (the data subject) in a secure manner. In this Privacy Statement we explain which data we process and for which purpose we do so. In addition, in this Privacy Statement you can read about your rights regarding our processing of your personal data. We encourage you to read this Privacy Statement carefully. For questions you can always contact info@thenextwomen.com.
 
-When you purchase something from us, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+WHO IS THENEXTWOMEN?  
+TheNextWomen is the private limited company Info Publishers B.V., with offices at (1071 NT) Amsterdam at De Lairessestraat 55, registered in the trade register of the Chamber of Commerce under number 16085674.
 
-When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+TheNextWomen is the controller with regard to the processing of your personal data by TheNextWomen.
 
-Email marketing (if applicable): With your permission, we may send you emails about our membership, new products and other updates. We never share your email.
+—- SECTION 1 – HOW DOES THENEXTWOMEN USE YOUR DATA?
+
+Below is an overview of the purposes for which TheNextWomen processes personal data about you. In doing so, it is always indicated which data TheNextWomen uses for that specific purpose, which is the legal basis for processing that data and for how long the data is retained by TheNextWomen. To keep things organized, we have grouped everything by type of data stream.
+
+SERVICES, CUSTOMER MANAGEMENT AND FINANCIAL ADMINISTRATION  
+Purpose: Financial administration  
+Data: Company name, Invoice address, Bank details (Bank name / IBAN / BIC), Outstanding balance  
+Basis: Legal obligation  
+Retention period: As long as necessary for this purpose
+
+Purpose: Management of orders  
+Data: Invoice address, E-mail address, Telephone number, Payment details  
+Basis: Implementation of the agreement  
+Retention period: As long as necessary for this purpose
+
+Purpose: Invoicing  
+Data: Invoice address, E-mail address, Telephone number, Payment details  
+Basis: Implementation of the agreement  
+Retention period: As long as necessary for this purpose
+
+Purpose: To provide the service itself  
+Data: E-mail address, Data required to provide the service, Data generated during the service  
+Basis: Implementation of the agreement  
+Retention period: As long as necessary for this purpose
+
+Purpose: Invoicing  
+Data: E-mail address, Data required to provide the service, Data generated during the service  
+Basis: Implementation of the agreement  
+Retention period: As long as necessary for this purpose Purpose: CRM
+
+Data: Name, User name, E-mail address, Order history, OS, Telephone number, Profile photo  
+Basis: Justified interest  
+Relevant interest: Commercial interest  
+Retention period: As long as necessary for this purpose
+
+MARKETING  
+Purpose: Direct marketing  
+Data: Name, E-mail addressBasis: Justified interest  
+Relevant interest: Commercial interest  
+Retention period: As long as necessary for this purpose
+
+Purpose: Newsletter  
+Data: Name, E-mail address  
+Basis: Justified interest  
+Relevant interest: Commercial interest  
+Retention period: As long as necessary for this purpose
+
+Purpose: Social marketing  
+Data: Name, E-mail address  
+Basis: Justified interest  
+Relevant interest: Commercial interest  
+Retention period: As long as necessary for this purpose
+
+WEBSITE  
+Purpose: Website analytics  
+Data: Surfing behavior  
+Basis: Justified interest  
+Relevant interest: Commercial interest  
+Retention period: As long as necessary for this purpose
+
+Purpose: Posting of messages or reviews  
+Data: Name, Username  
+Basis: Implementation of the agreement  
+Retention period: As long as necessary for this purpose
+
+SECURITY AND FRAUD PREVENTION  
+Purpose: Data security  
+Data: Financial transactions, Name  
+Basis: Justified interest  
+Relevant interest: Commercial interest  
+Retention period: As long as necessary for this purpose
+
+RESEARCH & DEVELOPMENT  
+Purpose: Market research  
+Data: E-mail address, Telephone number, Information about the behavior  
+Basis: Justified interest  
+Relevant interest: Commercial interest  
+Retention period: As long as necessary for this purpose
 
 SECTION 2 – CONSENT
 
-How do you get my consent?
+HOW DO WE OBTAIN YOUR PERSONAL DATA?  
+TheNextWomen has data about you because you have provided that information to us.
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. For example, when you subscribe to a Yearly Subscription, you consent to have your account charged on a yearly basis, until directed otherwise in writing.
+WHAT ARE YOUR RIGHTS?  
+Under the European General Data Protection Regulation you have a number of rights with regard to your data and their processing:
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+INSIGHT  
+You can always view your own (personal) data and change it in your account if necessary. If you want to see the personal data that has been recorded about You at TheNextWomen, you can request access to it.
 
-How do I withdraw my consent?
+MODIFY  
+If you wish to make changes to the personal data that you have seen as a result of a request for access and that you can not change yourself in your account, you can request this at TheNextWomen. You can request that TheNextWomen modify, correct, supplement, delete or protect your data.
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact or bill you, for the continued collection, use or disclosure of your information, at any time, by contacting us at hello@thenextwomen.com.
+LIMITING THE PROCESSING  
+You also have the right, subject to conditions, to request TheNextWomen to limit the processing of your personal data. Right of objectionIf a certain processing takes place on the grounds of the ‘legitimate interest’ of TheNextWomen or a third party, you have the right to object to that processing.
+
+DATA TRANSFER  
+You have the right to obtain your personal data from TheNextWomen. TheNextWomen will provide this in a structured and current form, which can easily be opened in other common digital systems. This way you can also transfer your data to another provider.
+
+RETRACT PERMISSION  
+In all cases in which the basis for a certain data processing is your consent, you have the right to revoke that permission. This has no consequences for the past, but does mean that we will no longer be allowed to process this data. It may be that TheNextWomen can no longer provide you with certain services.
+
+RESPONSE BY THENEXTWOMEN  
+A request can be sent to info@thenextwomen.com. TheNextWomen will comply with your request as soon as possible and in any case no later than one (1) month after TheNextWomen has received such a request. If TheNextWomen rejects your request, we will indicate in our reply why the request is rejected.
 
 SECTION 3 – DISCLOSURE
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+RECIPIENTS OF PERSONAL DATA  
+The data can be passed on to:  
+Parties that are involved in the execution or fulfillment of an agreement between you and TheNextWomen  
+It may be that TheNextWomen is obliged to provide your data to a third party, for example on the basis of a legal obligation.
 
 SECTION 4 – SISOW
 
@@ -74,8 +170,8 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-QUESTIONS AND CONTACT INFORMATION
+SECTION 9 – WHERE CAN YOU GO WITH YOUR COMPLAINTS AND QUESTIONS?
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at: info@thenextwomen.com
+If you have any questions about this Privacy Statement and the way in which TheNextWomen uses your data, you can send an e-mail to info@thenextwomen.com. Even if you have a complaint about how TheNextWomen processes your data, you can send an e-mail to info@thenextwomen.com. You can also always contact the competent national supervisor in the field of privacy protection. In the Netherlands this is the Dutch Data Protection Authority
 
 Info Publishers B.V., De Lairessestraat 55, 1071NT Amsterdam
