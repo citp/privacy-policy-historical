@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the planetsave.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927003050id_/https%3A//planetsave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetsave.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824074225id_/https%3A//planetsave.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – PlanetSave
+# Privacy Policy | PlanetSave
 
 **Planetsave  Privacy Policy**  
-Date Last Revised: December 15 2016
+Date Last Revised: May 20 2018
 
 [Contact us](mailto:accounts@importantmedia.org) if you have any questions or concerns.
 
