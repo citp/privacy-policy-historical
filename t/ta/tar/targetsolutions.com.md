@@ -1,114 +1,101 @@
-> *The following text is extracted and transformed from the targetsolutions.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613044121id_/http%3A//www.targetsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsolutions.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824142350id_/https%3A//www.vectorsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# TargetSolutions' Privacy Policy | Our Commitment to Your Privacy
+# Privacy Policy - Vector Solutions protects your personal information
 
-## TargetSolutions Privacy Policy
+## Privacy Policy
 
-**TARGETSOLUTIONS PRIVACY POLICY**
+## **WHO ARE WE?**
 
-Please read the following to learn more about our privacy policy.
+Vector Solutions is a leader in eLearning and performance support, providing award-winning SaaS solutions. The company delivers continuing education (CE), training, technology, and performance management solutions to a broad range of industries, including education, public safety, industrial, IT and architecture, engineering and construction (AEC) sectors. Its brands include RedVector-CONVERGENCE Training, TargetSolutions, _safe_ SCHOOLS, _safe_ COLLEGES, Exceptional Child, TeachPoint, and Not Anymore.
 
-**Section 1. Our Commitment**
+Vector Solutions updated it Privacy Policy effective May 25, 2018 to coincide with the new EU General Data Protection Regulations (GDPR). We appreciate the importance of privacy and commit to protecting it by following the practices described in this policy.
 
-TargetSolutions and our affiliated companies worldwide (“TargetSolutions”) take your privacy seriously and are committed to respecting your online privacy. TargetSolutions recognizes your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us through [www.targetsolutions.com](http://www.targetsolutions.com/) or any other website operated by us (our “Sites”). TargetSolutions has established this privacy policy statement (“Privacy Policy”) so that you can understand the care with which we intend to treat your Personal Information.
+This Privacy Policy applies to you and Vector Solutions, including its affiliates and describes our practices for collecting, using, maintaining, protecting, and disclosing the personal data we may collect from you or that you may provide when you visit our websites at [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any other Vector Solutions websites or forms that link or refer to this Privacy Policy (collectively referred to as our “Websites”). By visiting, using and submitting information to our WebSites you are accepting the practices described in this Privacy Policy and our Agreement of Terms of Use. This Privacy Policy applies to the personal data collected through our Websites, regardless of the country where you are located.
 
-**Section 2. Policy Coverage**
+Vector Solutions encourages you to provide feedback regarding this Privacy Policy. If you have questions, comments, or concerns about how we handle your personal information as described in this Privacy Policy or that Vector Solutions is not abiding by this Privacy Policy at any time, please contact us.
 
-This policy covers how TargetSolutions treats personal information that TargetSolutions collects and receives about your use of our products and services. It also covers how personal information is used, shared, and how to request changes to the way the information is shared. Personal information includes information such as your name, address, email address, or phone number and training data such as test scores, time spent in courses, and courses taken. In general you can visit our Sites without telling us who you are or revealing any Personal Information about yourself. This policy does not apply to companies that TargetSolutions does not own or control, or to people that TargetSolutions does not employ or manage.
+**Chief Information Officer**
 
-**Section 3. Information Collection**
+**4890 W. Kennedy Boulevard, Suite 300**
 
-_Information Provided By You_
+**Tampa, FL 33609**
 
-Information will be collected when you provide it to TargetSolutions, such as when you request a demo, sign up for email newsletters, enter a contest or special offer, register for site membership, participate in questionnaires, surveys and profile data, or to otherwise communicate with us. Several of our services, such as taking safety training or running reports, require registration as a condition of use; when you register with our Sites you are no longer anonymous. TargetSolutions is not responsible for the information you volunteer about yourself in the course of publicly accessible interaction or information that you choose to make public.
+**813.207.0012**
 
-_Information About You From Your Employer_
+**Toll-Free: 1.866.546.1212**
 
-Some of our services to employers require employee demographics. This information is provided by the employer and then stored on our servers at the request of the employer.
+This Privacy Policy may change from time to time at Vector Solutions’ discretion. Such changes will be posted on this page. Vector Solutions will not adopt a change that would limit your rights under this Privacy Policy without providing notice. You are encouraged to revisit this Privacy Policy each time you visit [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites, in order to review any changes that have been made.
 
-_Information About You From Third Parties_
+## **WHAT INFORMATION DOES VECTOR SOLUTIONS COLLECT?**
 
-We may also receive information about you from other sources and add it to the information you have provided to us.
+Generally, we collect two types of information when you are using our Websites – information you provide us and information collected by tracking and monitoring, which may include, for example, training plans, courses taken and completed, certifications earned, and the like.
 
-_Cookies and Other Tracking Technologies_
+The personally identifiable information that Vector Solutions requests from you may include your name, address, email address, telephone number, driver’s license number and professional license number. Much of [www.VectorSolutions.com](http://www.vectorsolutions.com/) and our Websites are accessible to you without your providing personally identifiable information.
 
-Cookies are small pieces of information stored on your computer’s hard drive when you visit our Sites. They don’t tell us who you are unless you’ve specifically given us personally identifiable information. Cookies stored on your hard drive by our Sites are not accessible to other sites. Like many other web sites, our Site use cookies to improve your experience with our online content. For example, we may use a cookie to identify members so they don’t have to re-enter a customer ID when they wish to login to our services. Cookies also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our Sites for these purposes, or by third-party companies operating on our behalf. However, our cookies do not contain any information that is, in itself, personally identifying. Cookies may be required in order for you to participate in certain areas. If you choose to use TargetSolutions services, you must have cookies enabled to access any of the member-only related pages. Most web browsers automatically accept cookies, but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
+However, Vector Solutions requires that you register and provide personally identifiable information to enable you to utilize certain features of [www.VectorSolutions.com](http://www.vectorsolutions.com/), including subscribing for Vector Solutions’ courses and being issued a username or password. The personally identifiable information that you provide must be accurate, complete and current.
 
-_Web Site Traffic Information_
+In addition, you submit your personally identifiable information to Vector Solutions in order to receive company updates, press releases, or other special offers from Vector Solutions and select business sponsors.
 
-Our Site captures pertinent statistics, such as Internet Protocol (IP) addresses, browser software and operating system types and versions, click-stream patterns, and pages accessed, and the dates and times of access. This is recorded in log files and is not accessible to third-parties.
+Your provision of such information will always be on a voluntary basis. Vector Solutions will obtain your consent for any use of your personally identifiable information not described in this Privacy Policy or any use beyond the original use for which you provided it.
 
-_Contests and Sweepstakes_
+## **HOW DOES VECTOR SOLUTIONS USE THE INFORMATION COLLECTED?**
 
-TargetSolutions periodically conducts contests and sweepstakes on our Sites. If you choose to enter, the data you provide will be subject to the official rules of the specific contest, as well as this privacy policy. Please read the contest rules carefully before you submit your data.
+Vector Solutions uses your personally identifiable information within Vector Solutions internal organization to process any selections that you may make using [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites and to create, develop, operate, deliver and improve our products and services. Vector Solutions may de-identify and aggregate your personally identifiable information and license, and sell or otherwise disclose the aggregated information to third parties.
 
-_Co-Branded Sites and Services_
+Vector Solutions may share your personally identifiable information with select third parties for fulfillment of services and features. For example, we will share your personally identifiable information with (i) credit card companies for processing your tuition if you register for Vector Solutions courses; (ii) state licensing agencies if you elect to have Vector Solutions report your professional licensing requirements to those agencies; (iii) select business sponsors; (iv) professional organizations who refer you to [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites; (v) vendors whose products you order via [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites; and (vi) course providers in order to issue you points and certificates earned by successfully completing coursework.
 
-When you use a co-branded service within our network of sites, or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Their use of your information is subject to their applicable privacy policies.
+Vector Solutions may share or disclose your personally identifiable information when it determines, in its sole discretion, that the disclosure of such personally identifiable information is necessary to identify, contact, or bring legal action against you if you may be: (i) causing intentional or unintentional injury to another; (ii) interfering with another’s rights or property, including Vector Solutions’ rights or property; (iii) violating any applicable law, rule or regulation; or (iv) such disclosure is required by any applicable law, rule or regulation.
 
-_Customer Service Correspondence_
+Your personal information may be accessible to the United States government, courts or law enforcement or regulatory agencies through the laws of the United States.
 
-In order to provide solutions to customers, we will often request identifying information in order to protect the privacy of the customer. This approach allows us to maintain a high-level of customer care and meets the needs of our customers quickly.
+If you transmit, submit or post information to [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites that is not, or does not contain, personally identifiable information, you automatically grant Vector Solutions the royalty-free, non-exclusive right and license to use, copy, format, adapt and/or to incorporate the same in other data and content viewable on, contained in, or downloadable from, [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites.
 
-**Section 4. Information Use and Disclosure**
+## **WHAT IS VECTOR SOLUTIONS’ OPT-OUT POLICY?**
 
-_Location of Personal Information Storage_
+You may at any time request a copy of the personally identifiable information that you provided  and elect to revoke (“opt-out”) the information provided,
 
-The personal information that TargetSolutions collects and receives will be stored in the United States and/or Canada and is subject to disclosure laws of the United States and/or Canada, without notice to you.
+In order to opt-out, you may contact your employer, your System Administrator, or Vector Solutions at ClientSupport@Vector Solutions.com.  Vector Solutions will accordingly furnish you with a copy of your personally identifiable information, or change its records to remove your personally identifiable information.
 
-_De-identification and Aggregation of Your Personal Information_
+If you opt-out of providing your personally identifiable information, Vector Solutions will no longer use your personally identifiable information or share it with third parties. However, keep in mind that your opting-out of providing personally identifiable information may inhibit or cancel your ability to fully utilize [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites to subscribe for Vector Solutions courses and to access or use some other features.
 
-TargetSolutions uses your Personal Information within internally to process any selections that you may make using www.targetsolutions.com and to create, develop, operate, deliver and improve our products and services. TargetSolutions may de-identify and aggregate your Personal Information and license, sell or otherwise disclose the aggregated information to third parties.  
-_Aggregate Statistics_
+## **HOW CAN INFORMATION BE CORRECTED OR UPDATED**
 
-The aggregate statistics that describe our online audience, which is often based on the information you provide when you subscribe, register, or browse our sites, helps us sell our product and publicize TargetSolutions and its brands. The information we share under these circumstances does not contain behavioral or identifying information about any individual reader or user, unless the individual has given us permission to share that information.
+You may correct, update or change your personally identifiable information or change any selections you have made with regard to our use of that information after you have provided such information or selections to Vector Solutions via [www.VectorSolutions.com](http://www.vectorsolutions.com/), by contacting your employer, your System Administrator or  Vector Solutions at ClientSupport@VectorSolutions.com.
 
-_Email and Postal Mailing Lists_
+## **DOES VECTOR SOLUTIONS USE COOKIES?**
 
-As a TargetSolutions customer, you can expect to receive relevant email and postal offers for TargetSolutions publications, seminars, events, web sites, and other services. Certain mailings are requested by your employer and are not subject to unsubscriptions through TargetSolutions. These email messages must be addressed with your employer directly. If you receive an email from us, that is not requested by your employer, and do not wish to receive other similar emails, simply click on the link bottom of the email. All of our contact information can be found at the end of this policy.
+Yes, Vector Solutions uses  “cookies”. Cookies are small files that are written to the user’s hard drive or device through your Web browser (if you allow). This enables the site’s or service provider’s systems to recognize your browser and capture and to track and store anonymous preferential information about you as you use [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our websites. Cookies can be used so that users don’t have to re-enter data with each visit to our Websites.  Cookies track your personal preferences and activities and to compile aggregate data about how our service is used, but in no way contain or refer to any personally identifiable information.
 
-_Change of Ownership of TargetSolutions, Inc._
+The aggregated information helps Vector Solutions to serve you better by compiling user preferences to improve the features of [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites. Vector Solutions may also share, loan, rent or sell this aggregated information to third parties, but keep in mind that the aggregated information contains absolutely no personally identifiable information.
 
-The mailing list(s) associated with TargetSolutions may also be subject to transfer to another company in the event of a change of ownership. In this event, TargetSolutions or the new owner of the affected properties will use commercially reasonable efforts to notify you and provide the opportunity to remove your name from the associated mailing list(s).
+If you do not want [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites’ cookies to be inserted into your hard drive, you can disable your hard drive’s ability to accept and receive cookies through your web browser. However, keep in mind that if you disable your hard drive’s ability to accept and receive cookies, you may not be able to fully utilize all of the convenience features of [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites. For instance, you may have to log in your username or password more than once per session.
 
-_Updating and Accessing Your Information_
+## **DOES VECTOR SOLUTIONS ISSUE USERNAMES AND PASSWORDS?**
 
-You can correct or change the information collected during site registration at any time at the profile page after logging in.
+You may be issued a username or password by Vector Solutions to utilize certain features of  [www.VectorSolutions.com](http://www.vectorsolutions.com/) or any of our Websites. In order to receive a username or password from Vector Solutions for use on www.Vector-Solutions.com, you will be required to submit personally identifiable information. You are responsible for keeping your usernames and passwords, if any, confidential. You are responsible for any access, use or activities on [www.VectorSolutions.com](http://www.vectorsolutions.com/) of any of our Websites under your username or password. For that reason, be sure to log off when you are finished using a shared computer.
 
-_Disclosure to Third Parties_
+## **WHAT KIND OF SECURITY DOES VECTOR SOLUTIONS USE?**
 
-TargetSolutions does not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide you with offers for products or services you’ve requested or inquired about, or under the following circumstances:
+The security of your personal data is very important to us. We use physical, electronic, and administrative safeguards designed to protect your personal data from loss, misuse and unauthorized access, use, alteration or disclosure. Where we have given you (or where you have chosen) a password for access to certain parts of our Websites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to take care when providing information in public areas of our Websites like message boards, which any website visitor can view.
 
-We provide the information to your employer at their request unless the information is marked as an anonymous submission. Your employer is considered as a trusted recipient of personal information. TargetSolutions cannot guarantee the security of your personal information once it is delivered to your employer as it is the responsibility of your employer to maintain this security. Please contact your employer for more details on how they use your personal information.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal data, we cannot guarantee the security of your personal data transmitted to our Websites. Any transmission of personal data is at your own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on our Websites.
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+## **DOES VECTOR SOLUTIONS USE LINKS TO OTHER INTERNET WEBSITES?**
 
-Your personal information may be accessed in the United States and may be accessible to the United States government, courts or law enforcement or regulatory agencies through the laws of the United States.
+As part of our routine business operations, our Websites contain links to third party websites, plug-ins, services, social networks or applications. Clicking on those links or enabling those connections may allow the third party to collect or share data about you. Vector Solutions does not control these third-party websites, and we encourage you to read the privacy notice of every website you visit, as its privacy policy may differ substantially from that of this Privacy Policy.
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of TargetSolutions’ terms of use, or as otherwise required by law;
+## **WHAT IS VECTOR SOLUTIONS’ CHILDREN’S ONLINE PRIVACY POLICY?**
 
-We transfer information about you if TargetSolutions is acquired by or merged with another company. In this event, TargetSolutions will notify you before information about you is transferred and becomes subject to a different privacy policy.
+With respect to minors, [www.VectorSolutions.com](http://www.vectorsolutions.com/) and any of our Websites are not intended to be accessed or utilized by persons under the age of 18. We do not specifically market to children under 13. Vector Solutions does not intend or purposefully attempt to gather information from children under the age of 13.
 
-**Section 5. Your Consent**
+The following applies to Scenario Learning, LLC Clients only:
 
-_Consent by Use_
+**FERPA      **
 
-By using TargetSolutions’ products and services, you are consenting to the terms described in this Privacy Policy. If you do not agree with the terms of our Privacy Policy, you may contact us with your suggestions or simply not use our products or services.
+Scenario Learning, LLC and its Clients are subject to the Family Educational Rights and Privacy Act (“FERPA”). As such, Scenario Learning, LLC acknowledges that: (a) Scenario Learning, LLC and its Clients are each providing educational services to the other that they would otherwise have to provide for themselves using faculty and staff; (b) each  has a legitimate educational interest in the student education records that may be disclosed; and (c) Scenario Learning, LCC will be under the direct control of each Client User with respect to the use and maintenance of information from student education records. Scenario Learning, LLC acknowledges that the student education record it may receive is confidential and will use the information only for the purposes for which the disclosure was made. Scenario Learning, LLC  will not re-disclose the information to any third party without prior written consent from the student and client. Scenario Learning, LLC works together with its Clients to share student education records in a manner that protects such records from disclosure.
 
-_Children’s Privacy_
+The following applies to Not Anymore Client and Client’s Users only:
 
-Our Sites are not intended for use by children, especially those under 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases on our Sites. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+**Limited Reporting          **
 
-_Privacy Policy Changes_
-
-TargetSolutions may update this Privacy Policy from time to time. Any modifications to our privacy policy will be reflected first on this page, so check back often. If there is a significant change, we will indicate on our Sites that our privacy policy has changed and provide a link to the new policy.
-
-**Section 6. Questions and Suggestions**
-
-_Contact Us_
-
-Protecting your privacy online is an evolving area and our Sites are constantly evolving to meet these demands. If you have any questions or suggestions on our Privacy Policy, you can contact us. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
-
-_By Office Mailing Address:  _  
-10805 Rancho Bernardo Road, Suite 200  
-San Diego, CA 92127-5703
+In addition to the security provided by the Client/Server technical design, Scenario Learning, LLC has a feature designed to prevent Not Anymore Client users from uniquely identifying the personal data from any individual user. For each Client (e.g., each school), an administrator is provided with access to an online portal that provides information about that Client’s User’s progress. The administrator has access to a Progress Report, which includes user-specific information as discussed above. Not Anymore Clients have access to a raw data report that includes all of the de-identified data. The de-identified data does not become available to the Client until at least 100 men and 100 women have completed the program. In addition, each time the full raw data report is opened the information is randomized. These protections ensure that a Client is not able to review the Users that have completed the program each day and try to match it up with data in the raw data report, thereby identifying the personal data from any individual User. Should a Not Anymore Client not meet the 100 men and 100 women minimum, they are not provided access to the raw data until after all Not Anymore Client Users have completed the program, and if the number of completions is still too low at that time, either the demographic data is removed from the raw data file altogether or with very small populations, the raw data is not provided at all.
