@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacequarters.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223002504id_/https%3A//www.peacequarters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacequarters.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825005616id_/https%3A//www.peacequarters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Peace Quarters
 
