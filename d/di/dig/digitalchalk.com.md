@@ -1,231 +1,163 @@
-> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016080004id_/https%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824183732id_/https%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DigitalChalk
 
-## Effective Date – April 25th, 2017
+## Effective Date – May 25th, 2018
 
-### **Purpose**
+Infinity Learning Solutions, Inc., a Delaware corporation, DBA DigitalChalk, having its principal place of business at 2 Town Square Boulevard, Suite 242, Asheville, North Carolina 28803, USA (“we”, “us” or “our”) are committed to protecting and respecting your privacy.
 
-DigitalChalk has created this privacy policy to describe our general policies and practices in relation to our collection and use of your ‘Personally Identifiable Information’ (PII) via our websites, applications and services. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read this privacy policy carefully to get a clear understanding of how we collect, use, and attempt to protect or otherwise handle your PII in accordance with our services.
+This privacy policy (“Privacy Policy”) together with our End User Licence and any other documents referred to therein sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting any of our digitalchalk.com websites (“Site”) you are accepting and consenting to the practices described in this Privacy Policy.
 
-### **Our Privacy Commitment To Our Customers**
+For the purposes of the General Data Protection Regulation (EU) 2016/679 (the “GDPR”), Infinity Learning Solutions, Inc., located at 2 Town Square Blvd, Suite 242, Asheville, NC. 28803, USA is the data processor.
 
-DigitalChalk follows these privacy principles both online and offline in the collection, use, sharing and security of customer information. The DigitalChalk site and staff:
+We may collect and process the following data about you,
 
-  * Provide you notice of our customer information practices.
-  * Give you choices about how your data may be used for marketing purposes.
-  * Provide you the opportunity to update or correct your personal information.
-  * Use information security safeguards.
-  * Limit the sharing of your information.
-  * Commit to complying with applicable privacy requirements.
-  * Provide you with means to contact us about privacy-related matters.
+ **Information you give us.** You may give us information about you by filling in forms on our Site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our Site, apps or services, place an order on our Site, subscribe to our services or newsletter, take part in a demonstration, place a support request, search for a product, participate in discussion boards or other social media functions on our Site, enter a competition, promotion or survey, register for and participate in a course, and when you report a problem with our Site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
 
+ **Information we collect about you.** With regard to each of your visits to our Site we may automatically collect the following information:
+
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our corporation, employees and/or organizational entities.
 
 
-We value the relationship we have with our customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and in complying with all applicable federal and state privacy laws and our own internal standards and best practices.
 
-DigitalChalk is a subsidiary of the parent company Infinity Learning Solutions, Inc. and as such, if you provide information to any of the businesses, stores or websites owned or operated by DigitalChalk, this information may be combined or shared between current or future Infinity Learning Solutions, Inc. entities and subsidiaries. DigitalChalk operates via websites under the names DigitalChalk and Infinity Learning Solutions, Inc. as well as others.
+ **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this Site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-Each member of DigitalChalk and/or each website established by a member of DigitalChalk may have its own privacy policy, which it may modify as needed consistent with these principles.
+Infinity Learning Solutions, Inc., DBA DigitalChalk, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. DigitalChalk is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List available at: <https://www.privacyshield.gov/list>
 
-### **EU-U.S. Privacy Shield**
+DigitalChalk is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  DigitalChalk complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-DigitalChalk and its parent company Infinity Learning Solutions, Inc participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. DigitalChalk is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List available at: <https://www.privacyshield.gov/list>
-
-DigitalChalk is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DigitalChalk complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DigitalChalk is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, DigitalChalk may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Additionally, DigitalChalk commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of an employment relationship.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DigitalChalk is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, DigitalChalk may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Additionally, DigitalChalk commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of an employment relationship.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at: <https://feedback-form.truste.com/watchdog/request>
 
-Under certain conditions, more fully described on the Privacy Shield website at: [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint ](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website at: <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint> , you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-### **DigitalChalk Privacy Policy**
+We use cookies on our Site to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve the Site. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the Site.
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through our website digitalchalk.com and our service platform. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged DigitalChalk. When you provide us your PII, you consent to the information practices described in this policy.
+We use persistent cookies and session cookies on our Site. We use persistent cookies to save your login information for future logins to the Site. We use session cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and then close your browser.
 
-This Privacy Policy may not apply to websites that are accessible through the DigitalChalk sites. Our websites contain links to other sites operated by third parties, including but not limited to third-party sites that display the DigitalChalk trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect, use, share and secure your information.
+The table below explains the cookies we use and why we use each of them.
 
-### **What information does DigitalChalk collect from me?**
+You can set up your browser options, to stop your computer accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use the whole of the Site or all functionality of the services. To find out more about cookies, including how to see what cookies have been set, how to manage and delete them, visit: [https://www.aboutcookies.org](https://www.aboutcookies.org/) or [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout> or by visiting the Network Advertising Initiative Opt Out page.
 
-When requesting information, demonstrations, ordering or registering on our sites, as appropriate, you may be asked to enter PII such as:
+We may use any personal data held about you in the following ways, ** **
 
-  * Your contact information (name, mailing address, phone number, e-mail address).
-  * Your billing/shipping information (credit card number, shipping address).
-  * Your personal preferences to help with you experience (product preferences, site preferences and likes or dislikes relating to the products we may offer).
+ **Information you give to us.** We will use this personal data to:
 
+  * fulfill your requests for products, services or information;
+  * carry out our obligations arising from any contracts entered into between you and us for example to provide customer services;
+  * provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+  * improve the effectiveness of our websites, our marketing endeavours and our services or offers;
+  * notify you about changes to our service;
+  * ensure that content from our Site is presented in the most effective manner for you and your computer;
+  * conduct research and analysis;
+  * provide you with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way please tick the relevant box situated on the form on which we collect your personal data.
 
 
-### **When does DigitalChalk collect PII from me?**
 
-We collect PII from you when you request information or register on our sites, place an order, subscribe to a newsletter, fill out a form or submit a support request. When submitting PII through any of our online forms, we will identify which fields are required in order to fulfill your request.
+Please note you always have the ability to opt-out of receiving future marketing communications from us. To opt-out of receiving marketing communications from us, you should follow the directions in the marketing e-mail or direct mail marketing communication from us. Please note that even though you may have opted out of receiving marketing communications, you may still receive business-related communications such as order confirmations, product recall information or updates or other organisational related communications.
 
-### **How is my PII used?**
+ **Information we collect about you.** We will use this information to:
 
-We may use any of the PII that we collect from you during registration, making a purchase, signing up for a newsletter, in response to a survey or any marketing communication, general website review or other site features to perform certain actions such as:
+  * administer our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * improve our Site to ensure that content is presented in the most effective manner for you and your computer;
+  * allow you to participate in interactive features of our service, when you choose to do so;
+  * take measures to keep our Site safe and secure;
+  * measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * make suggestions and recommendations to you and other users of our Site about goods or services that may interest you or them.
 
-  * Fulfill requests for products, services or information
-  * Provide customer services
-  * Offer new products and services
-  * Improve the effectiveness of our websites, our marketing endeavors and our services or offers
-  * Conduct research and analysis
-  * Send marketing communications
-  * Perform other business activities
 
 
+ **Information we receive from other sources.** We may combine this information with personal data you give to us and personal data we collect about you. We may use this personal data and the combined information for the purposes set out above (depending on the types of information we receive).
 
-### **Does DigitalChalk share my PII with others?**
+We do not sell, trade, rent or otherwise transfer your personal data to third parties. We may, however, share your personal data with selected third parties including:
 
-DigitalChalk does not sell, trade, rent or otherwise transfer your PII to third parties. We do, however, share your PII with certain third parties such as our agents, service providers and other representatives acting on our behalf for limited purposes such as:
+  * any member of our group, which means our subsidiaries, our ultimate holding company or its subsidiaries;
+  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
+  * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 250 women aged under 40 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women working in Barcelona). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience;
+  * analytics and search engine providers that assist us in the improvement and optimisation of our Site;
+  * credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you;
+  * conducting research, analysis or administering surveys;
+  * sending regular mail and email on our behalf ;
+  * processing credit card payments
 
-  * Fulfilling our customers’ orders
-  * Sending DigitalChalk marketing communications
-  * Fulfilling subscription services
-  * Conducting research, analysis or administering surveys
-  * Sending regular mail and email on behalf of DigitalChalk
-  * Processing credit card payments
 
 
+ **Information we disclose to third parties.** We may disclose your personal data to third parties:
 
-The third parties with whom we conduct business are only authorized to use your information to perform the service for which they were hired. As part of our agreement with them, they are required to follow the privacy guidelines we provide them and to take reasonable measures to ensure your personal information is secure.
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * if Infinity Learning Solutions, Inc. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our EULA and/or any other agreements; or to protect our rights, property, safety, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-From time to time, we may be required to share PII in response to a valid court order, subpoena or other legal process, governmental investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain PII when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. We may also transfer PII in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
-### **Do I have choices regarding the use of my PII for marketing purposes?**
 
-DigitalChalk is an opt-out organization. Once we receive your PII, we may send you marketing communications that contain valuable offers, promotions and other content. You always have the ability to opt-out of receiving future marketing communications from DigitalChalk. To opt-out of receiving marketing communications from DigitalChalk, you can take one of the following actions:
+The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers or partners. Such staff or subcontractors maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details or the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing outside of the EEA.
 
-  * Follow the directions on a marketing e-mail or direct mail marketing communication from us. All marketing communications from DigitalChalk will tell you how to stop receiving them.
-  * Call 1-877-321-2451 or 1-828-398-4249 to verbally submit your request along with your current contact information.
-  * Send an email with your current contact information and the subject “Opt-Out” to [privacy@digitalchalk.com](mailto:privacy@digitalchalk.com)
-  * You may also send a request with your current contact information to: DigitalChalk Attn: Privacy Matters, Two Town Square Boulevard, Suite 242, Asheville, NC 28803
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. In particular, this means that your personal data will only be transferred to a country that provides an adequate level of protection (for example, where the European Commission has determined that a country provides an adequate level of protection or under the EU- US Privacy Shield) or where the recipient is bound by standard contractual clauses according to conditions provided by the European Commission (“EU Model Clauses”).
 
+Our Site is accessible via the internet and may potentially be accessed by anyone around the world. Other users may access the Site from outside the EEA. This means that where you chose to post your data on our Site, it could be accessed from anywhere around the world and therefore a transfer of your data outside of the EEA may be deemed to have occurred. You consent to such transfer of your data for and by way of this purpose.
 
+We have implemented technical, physical and administrative security measures to help protect against the loss, theft, misuse and unauthorised access of personal data that we may collect from you, or that you provide to us. Our Site is scanned on a regular basis for known vulnerabilities including regular malware scanning. Your personal data is contained behind secured networks and is only accessible by a limited number of persons who have authorised access to such systems, and are required to keep the information confidential.
 
-If you send an e-mail or letter request, please be sure to include your full name, address, phone number and email address and indicate specifically what type of marketing communications (e.g. e-mail, direct mail and/or phone) you wish to receive or stop receiving. This will ensure we identify you correctly in our systems and accurately process your request.
+We have taken numerous steps to ensure that personal data is processed confidentially, accurately and securely. The Site use encryption technology, such as Secure Sockets Layer (SSL), to protect your personal data during data transport. SSL encrypts ordering information such as your name, address and credit card number. Additionally, all financial transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-DigitalChalk will take appropriate steps to implement your request to opt-out of or opt-in to receiving marketing communications. Please note that due to production, mailing and system timelines, in order to remove you from our marketing lists, it may take up to:
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will endeavour to protect your personal data, we cannot guarantee the security of your data transmitted to our Site. Any transmission is at your own risk.
 
-  * 10 business days for e-mails
-  * 30 days for phone calls
-  * 6 weeks for direct mail
+When you create an online account on the Site, you need to select a personal password. To maximise your level of protection, you should choose at least 8-30 characters including a combination of numbers, letters and varying case. You are solely responsible for keeping your password or any account information confidential We ask you not to share any password with anyone.
 
+We shall give notice to each Organization Administrator when the organization’s user personal data was, or it is reasonably believed to have been, inappropriately accessed as a result of a security breach. Said notice shall be made immediately upon confirmed discovery of the breach and the time necessary such as to allow us to determine the scope of the breach, to identify organizations and individuals affected by the breach, and to restore reasonable integrity of the data system that was breached.
 
+If a federal, state, or local law enforcement agency determines that notice to organizations required under this policy would interfere with a criminal investigation, the notice shall be delayed upon the written request of the law enforcement agency for a specified period that the law enforcement agency determines is reasonably necessary. A law enforcement agency may, by a subsequent written request, revoke such delay as of a specified date or extend the period set forth in the original request made under this paragraph to a specified date if further delay is necessary. Notice to the affected organizations is not required if, after an appropriate investigation and consultation with relevant federal, state, or local law enforcement that it is reasonable to believe no user personal data was accessed by unauthorized individuals.
 
-Until that change takes effect, you may still receive marketing communications from us. Also, please note that even though you may have opted out of receiving marketing communications, you may still receive business-related communications such as order confirmations, product recall information or updates or other organization-related communications.
+Our Site may, from time to time, contain links to and from the websites of our partner networks, subsidiaries and group companies, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-### **How does DigitalChalk secure and protect my PII?**
+You have the right under the Act, free of charge, to request:
 
-DigitalChalk has implemented technical, physical and administrative security measures to help protect against the loss, theft, misuse and unauthorized access of the PII that we may collect from you on our websites. Our websites are scanned on a regular basis for known vulnerabilities including regular malware scanning. Your PII is contained behind secured networks and is only accessible by a limited number of persons who have authorized access to such systems, and are required to keep the information confidential. DigitalChalk cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk. Additionally, while we have implemented security measures to help prevent any unauthorized access or disclosure of your PII, we cannot assure or guarantee that the PII we collect will never be accessed by unauthorized individuals or disclosed in a manner that inconsistent with this privacy policy.
+access to your personal data;
 
-#### **Safe Purchase Policy**
+  * rectification or deletion of your personal data;
+  * a restriction on the processing of your personal data;
+  * object to the processing of your personal data;
+  * a transfer of your personal data (data portability).
 
-DigitalChalk has taken numerous steps to ensure that PII is processed confidentially, accurately and securely. The DigitalChalk websites use encryption technology, such as Secure Sockets Layer (SSL), to protect your PII during data transport. SSL encrypts ordering information such as your name, address and credit card number. Additionally, all financial transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-#### **Choosing A Personal Password**
 
-When you create an online account on DigitalChalk, you need to select a personal password. To maximize your level of protection, you should choose at least 8-30 characters including a combination of numbers, letters and varying case. You are solely responsible for maintaining the secrecy of your password or any account information.
+You can make a request in relation to any of the above rights by writing to us at the contact address given at the end of this Privacy Policy. We will respond to such queries within 30 days and deal with requests we receive from you, in accordance with the provisions of the Act.
 
-We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+You have the right to withdraw your consent to us processing your personal data, at any time, by writing to us at the contact address given at the end of this Privacy Policy.
 
-#### **Security Breach Notification**
+Where we process your personal data for marketing purposes, we will inform you and obtain your opt in consent (before collecting your personal data) if we intend to use your personal data for such purposes or if we intend to disclose your information to any third party for such purposes. If you change your mind about being contacted in the future, please click on the opt out options and we will remove you from our mailing lists.
 
-DigitalChalk shall give notice to each Organization Administrator when the organization’s user PII was, or it is reasonably believed to have been, inappropriately accessed as a result of a security breach. Said notice shall be made immediately upon confirmed discovery of the breach and the time necessary such as to allow DigitalChalk to determine the scope of the breach, to identify organizations and individuals affected by the breach, and to restore reasonable integrity of the data system that was breached.
+We send push notifications from time to time in order to update you about any service updates, events and promotions we may be running. If you no longer wish to receive these communications, please disable these in the settings on your device.
 
-If a federal, state, or local law enforcement agency determines that notice to organizations required under this policy would interfere with a criminal investigation, the notice shall be delayed upon the written request of the law enforcement agency for a specified period that the law enforcement agency determines is reasonably necessary. A law enforcement agency may, by a subsequent written request, revoke such delay as of a specified date or extend the period set forth in the original request made under this paragraph to a specified date if further delay is necessary. Notice to the affected organizations is not required if, after an appropriate investigation and consultation with relevant federal, state, or local law enforcement that it is reasonable to believe no user PII was accessed by unauthorized individuals.
+We retain personal data for as long as necessary for the relevant activity for which it was provided or collected. This will be for as long as we provide access to the Site to you, your account with us remains active or open, or any period set out in any relevant contract you have with us. However, we may keep some data after your account is closed or you cease using the Site for the purposes set out below.
 
-### **Does DigitalChalk use cookies, other technologies or third parties to collect PII about me?**
+After you have closed your account, or ceased using the Site for a period of at least 6 months, we usually delete personal data, however we may retain personal data where reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, maintain security, prevent fraud and abuse, resolve disputes, enforce our EULA, or fulfil your request to “unsubscribe” from further messages from us.
 
-#### **Cookies And Clickstream Technology**
+We will retain de-personalised information after your account has been closed.
 
-A cookie is a small data file that a website or e-mail may send to your browser, which may then be stored on your hard drive. Our websites and e-mails use cookies to create a more personalized shopping experience for visitors to our site. Cookies simulate a continuous connection, they let us “remember” information about your preferences and session, and allow you to move within areas of our websites without reintroducing yourself.
+Please note: After you have closed your account or deleted information from your account, any information you have shared with others will remain visible. We do not control data that other users may have copied from the Site. Your profile may continue to be displayed in the services of others (e.g. search engine results) until they refresh their cache.
 
-DigitalChalk and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+Please note that we collect personal data on our Site for the above purposes. If you wish to opt out of such data use [click here](http://www.youronlinechoices.eu/), or if located outside the European Union [click here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads. These third-party sites have separate and independent privacy policies of which you are encouraged to review. We therefore have no responsibility or liability for the content and activities of these linked sites.
 
-#### **Passive Collection**
+If you have any complaints about our use of your personal data please contact us as set out at the end of this Privacy Policy or contact the supervisory authority of the country in which you reside.
 
-As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
+This Site is not intended for and shall not be used by anyone under the age of 16 unless express permission is granted by the user’s parent or legal guardian.
 
-#### **Third-Party Providers And Disclosure**
+We reserve the right to change this Privacy Policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site at least 30 days prior to the change becoming effective. We encourage you to periodically review the current Privacy Policy made available on our Site for the latest information on our privacy practices. This Privacy Policy was last updated on April 25th, 2018 and replaces any other Privacy Policy previously applicable from this date.
 
-Our websites include third-party service providers with advertising on our website to be served across the Internet. If you click on these advertisements, you will be connected to those service providers. They may collect anonymous information about your visits to our website, and your interaction with our ads. These companies may use technologies similar to those outlined above to measure the effectiveness of ads and emails. They may also use information about your visits to this and other websites so that we can provide advertisements about goods and services. We may share anonymous information with these service providers in an aggregate form, for purposes of analysis and improvement of our site. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/), or if located in the European Union [click here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads. These third-party sites have separate and independent privacy policies of which you are encouraged to review. We therefore have no responsibility or liability for the content and activities of these linked sites.
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to:
 
-#### **Google AdSense Advertising**
+  * By telephone at any of the following numbers:
+    * 1-877-321-2451
+    * 1-828-398-4249
+    * +44 (20) 34576215
+  * By email: [privacy@digitalchalk.com](mailto:privacy@digitalchalk.com)
+  * By post: DigitalChalk Attn: Privacy Matters, 2 Town Square Boulevard, Suite 242, Asheville, NC 28803 USA
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users and can be reviewed at: <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
-DigitalChalk has implemented Google Display Network Impression Reporting. Additionally, Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
-
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
-
-### **Information Collected On Behalf Of Our Clients**
-
-DigitalChalk acknowledges that you have the right to access your personal information. We collect information under the direction of our Clients and have no direct relationship with the individuals whose PII we processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the DigitalChalk’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe. We may transfer personal information to third-party service providers that help us provide our services. Transfers to subsequent third parties are covered by the service agreements with our Clients.
-
-We will retain PII we process on behalf of our Clients for as long as needed to provide services to our Client. DigitalChalk will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. While DigitalChalk has implemented technical, physical and administrative security measures to help protect against the loss, theft, misuse and unauthorized access of your PII that we collect from you on behalf of our Clients, we cannot guarantee that our Clients will in like manner follow the terms set forth within this privacy policy and can therefore not be held liable for a Client’s actions. If you have questions with regard to how DigitialChalk’s Clients handle, process and secure your PII please contact the Client directly for such requests.
-
-### **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the United States to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States that operates websites collecting PII from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – Additional detailed information is available at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA, we agree to the following:
-
-  * Users can visit our site anonymously.
-  * Once this Privacy Policy is created, we will add a link to it on our homepage or at a minimum, on the first significant page after entering our website.
-  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
-  * You will be notified of any changes made to our Privacy Policy
-  * You can modify your personal information by logging into your account
-
-
-
-### **Handling Of Do Not Track Signals And Third-Party Behavioral Tracking**
-
-DigitalChalk does not recognize or honor browser-initiated Do Not Track (DNT) signals, plant cookies, or use advertising when a DNT browser mechanism is in place. We do not honor them because we have not implemented DNT function nor has an industry standard been adopted regarding such practices. It’s also important to note that we do not allow third-party behavioral tracking.
-
-### **COPPA – Children Online Privacy Protection Act**
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online. We will not knowingly or intentionally collect PII online from children under the age of 13. We are committed to protecting the privacy of children.
-
-### **Can Spam Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-DigitalChalk collects your email address in order to:
-
-  * Process orders and to send information and updates pertaining to orders.
-  * Send you additional information related to your product and/or service
-
-
-
-To be in accordance with the Can Spam Act, DigitalChalk agrees to the following:
-
-  * Not use false or misleading subjects or email addresses.
-  * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
-  * Monitor third-party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly.
-  * Allow users to unsubscribe by using a link at the bottom of each email.
-
-
-
-If at any time you would like to unsubscribe from receiving future advertising or marketing emails, you can follow the instructions at the bottom of each email or email us at: [privacy@digitalchalk.com](mailto:privacy@digitalchalk.com) and we will promptly remove you from all advertising and marketing correspondence.
-
-### **Whom should I contact if I have questions or concerns about privacy and security of my PII or if I need to update my information?**
-
-DigitalChalk will provide you with information about whether we hold any of your PII upon request. We want to ensure that your PII and marketing preferences are accurate and complete. Additionally, please contact our Privacy Policy Administrator to report any known or suspected privacy or security breaches or to submit privacy or security-related questions or complaints. After receiving your inquiry, we will respond within 10 business days. You may contact us in any of the following ways:
-
-  * Call: 1-877-321-2451 or 1-828-398-4249
-  * Send a email request to: [privacy@digitalchalk.com](mailto:privacy@digitalchalk.com)
-  * Mail a written request to: DigitalChalk Attn: Privacy Matters, Two Town Square Boulevard, Suite 242, Asheville, NC 28803
-
-
-
-If you send an e-mail or mailed written request, please be sure to indicate your current information and the requested changes you would like made.
-
-### **Will this privacy policy change?**
-
-DigitalChalk reserves the right to change this policy at any time. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this website at least 30 days prior to the change becoming effective. We encourage you to periodically review the current Privacy Policy made available on DigitalChalk’s websites for the latest information on our privacy practices.
+After receiving your inquiry, we will respond within 10 business days.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=0442ac6f-2932-4bde-b65d-763dbae80654)
