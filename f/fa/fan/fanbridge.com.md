@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the fanbridge.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720102615id_/https%3A//www.fanbridge.com/policies/privacy.php%3Fref%3Dpublic_site_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbridge.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824205534id_/https%3A//www.fanbridge.com/policies/privacy.php%3Fref%3Dpublic_site_footer) for the most accurate reproduction.*
 
 # Privacy Policy - FanBridge
 
-_Last Update: August 1, 2016_  
+_Last Update: October 20, 2017_  
 FanBridge.com is an email list management service provided by FanBridge, Inc.  
 To report any abuse or violations of the FanBridge service, please send email to [our Abuse Department](mailto:abuse@FanBridge.com) and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace origin of the message. Also include any notes or other information that you feel are pertinent. Any questions or concerns regarding this privacy policy may be directed to [our support department](mailto:contact@FanBridge.com).
 
 Children's Guidelines  
-This website is directed persons over the age of 13, and we do not seek to collect from children online contact information or distribution to third parties any personally identifiable information from children or entice children to divulge information to us.
+This website is directed persons over the age of 13, and we do not seek to collect from children online contact information or distribution to third parties any personally identifiable information from children or entice children to divulge information to us. If the COPPA Compliance requirement setting is turned on for an account, then all submissions from that time on will be required to submit a date of birth with a request to join the mailing list. Any subscription request comes with a date of birth of younger than 13 years of age, the submission will be denied right away. This filtering only applies for fan opt-ins and does not prohibit emails added by the account from being added.
 
 Email and Direct Response Contact  
 All of our direct response methods are opt-in. If you subscribed to our email newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s).
@@ -29,6 +29,9 @@ We strive to maintain appropriate security measures in our physical facilities t
 
 Postal Address Collection and Use  
 If you supply us with your postal address online, we will use it to send you the information for which you provided us your address. If you supply us with your telephone number online, we will use it to contact you with information regarding your account, orders your have placed, or with information regarding your inquiry. We may send you information about additional services that we offer, but we will not rent or sell your contact information to any third parties without your permission.
+
+YouTube  
+FanBridge uses the YouTube API Services to fetch authorized YouTube content and analytics for seamless fan marketing and comprehensive data analysis. We comply with Google’s Privacy Policy, which can be read here: <http://www.google.com/policies/privacy>. Just like with email data, any YouTube data is your own and never shared with other FanBridge accounts. Any data stored from an authorization of your account will be deleted if the account (1) disconnects the authorization between YouTube and FanBridge from the Link Social page on FanBridge found here: <https://www.fanbridge.com/socialnet/accounts/universal_connect.php>, (2) revokes access remotely from Google’s security settings page found here: <https://security.google.com/settings/security/permissions>, or (3) fails to reauthorize the connection should the token expire. For any questions or complaints about the privacy practices of FanBridge’s connection to YouTube’s API Services, you may contact us at [api@fanbridge.com](mailto:api@fanbridge.com)
 
 Changes to Privacy Policy  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our website's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website's Privacy Policy page periodically.
