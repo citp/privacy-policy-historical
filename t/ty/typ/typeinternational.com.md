@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typeinternational.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515154744id_/http%3A//typeinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeinternational.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824202546id_/http%3A//typeinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Type International
 
