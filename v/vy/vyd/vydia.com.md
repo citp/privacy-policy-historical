@@ -1,167 +1,832 @@
-> *The following text is extracted and transformed from the vydia.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909064000id_/https%3A//vydia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vydia.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825182455id_/https%3A//vydia.com/privacy-policy) for the most accurate reproduction.*
 
 # We Take Your Privacy Seriously - View Our Privacy Policy | Vydia
 
-**Last Updated: July  2016**
+VYDIA PRIVACY POLICY
 
-VYDIA recognizes that its users value their privacy and we take your privacy seriously. This Privacy Policy (as defined below) explains our privacy practices, including what types of information we collect from you and how we may use it, our rights to share and disclose such information to third parties and how you can review and modify information that you provide to us and your preferences regarding our use and disclosure of such information.
+**Effective Date: June 13 2018**
 
-This is the privacy policy (“Privacy Policy”) for (a) the website located [www.vydia.com](https://www.vydia.com/) and all corresponding web pages and websites associated with the foregoing URL (“Site”), (b) any VYDIA mobile, web, console, desktop and other applications (e.g., Apple iOS Apps, etc.) (collectively and individually, “VYDIA App”), and (c) any other content, applications, features, functionality, information and services offered by us though the Site and/or the VYDIA App, including, without limitation, viral, embeddable or application/device-based features and related technology (e.g., mobile, web, console, desktop and other APIs, widgets, plugins, applications, etc.) (collectively, “Services”). The Services are provided by VYDIA INC. (“VYDIA”, “we”, “our” or “us”). Please review our Terms of Use Agreement (“Terms of Use”), which governs your use of the Services. This Privacy Policy will remain in full force and effect, even if your use of or participation in the Services or any particular service, feature, function or promotional activity offered through the Services terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Services or any features, activities or services offered through the Services. This Privacy Policy applies regardless of whether a wireless or mobile device, a personal computer or any other technology or device (each, a “Device”) is used by you to access the Services and whether or not you are accessing the Services as a registered users of the Services (“User”) or otherwise.
+This Vydia Privacy Policy (“Privacy Policy”) describes how Vydia, Inc. (“Vydia,” “we,” “us,” or “our”), as the operator of the:
 
-  1. GENERAL.
+  * Website www.vydia.com and Vydia pages on social networks (“Website”),
+  * Content management platform (“Dashboard”),
+  * Mobile, iOS and Android applications branded “Vydia” (individually or collectively, “App”), and
+  * Products and services we offer through the Dashboard and the App (individually or collectively, “Services”),
 
 
-    1. This Privacy Policy governs only the information (i) collected by us from you and/or (ii) provided to us by a third-party owned and/or operated platforms and services (e.g., Apple (iTunes, etc.), Facebook, Twitter, etc.) (each, a “Third Party Platform”) about you, in each instance, on or in connection with your use of the Services, and does not cover any other information collected in any other manner or collected by any other entity, unless specifically stated. We may combine your Information with other information we collect from other sources, such as information you have provided to third parties, including, but not limited to, our affiliated companies, marketing companies or advertisers, sponsors, or promotional partners (collectively, the “Advertisers”) and have provided sufficient consent, and, if we do so, our use of the resulting combined Information will be subject to this Privacy Policy.
 
+collects certain information when a visitor (“Visitor”) or a customer (“Registered User”) visits, accesses or uses the Website and the Services. “Services” also includes email or other correspondence or calls, from or about individuals, information about registrants or attendees at events, and information collected from or through other interactions with Vydia’s representatives. It also explains how we use and disclose the information we collect from Visitors and Registered Users, and their respective rights in relation to that information.
 
-    2. When we use the term “Personal Information” we mean any information that we collect on or in connection with the Services that would allow someone to identify you or contact you, such as your full name, address, e-mail address or telephone number. When we use the term “Additional Information”, we mean any information that we collect on or in connection with the Services other than Personal Information (Personal Information and Additional Information will be collectively referred to as “Information”). By visiting, accessing or otherwise using the Services, you affirmatively consent to our collection and use of Information in accordance with the terms of this Privacy Policy.
+For the purpose of this document “individual” or “you” means a person who accesses the Website or the Services as a Visitor or a Registered User.
 
+## 1\. Information Collected from Visitors
 
-  2. INFORMATION WE COLLECT.
+### A – Information Automatically Collected
 
+When a Visitor visits the Website, or uses the App we automatically collect:
 
-    1. User Registration, Features, Functions and Communications. In order to access and use certain features, content or functions, of the Services, you may be asked to provide and/or make available (e.g., via Third Party Platform permissions and consents, etc.) certain Information, including, but not limited to, in connection with registration features, in order to personalize and/or allow you to use these features and functions. This information may include, but not to be limited to, your email address, legal name, date of birth, music, artist or band preferences, and other account information associated with Third Party Platforms, and, in order to conduct fee-based transactions and other activities, your physical address, applicable payment data (e.g., payment card number and expiration date), etc. Access to certain content, features and functionality of the Services may be subject to any additional terms and conditions that we may provide to you in connection with your use of or access to same, including, without limitation, in connection with related technology (e.g., widgets, plugins, applications, etc.) and other products and services we may offer or make available to you, including, but not limited to, notices, requirements and settings, which may require that you provide certain Information about yourself in order to personalize and/or allow you to use these Services. At times, you may be presented with the opportunity to sign up to receive newsletters, email communications, or other communications from us in order for us to provide up-to-date information about the Services, and to publicize and promote certain content, products and services offered by us, our business partners and/or other third parties. When there is a separate sign-up for newsletters, we may ask for your contact information such as name and email address, and, sometimes, demographic and profile information. We may ask you to confirm your consent to these uses at the time you sign up for these services or communications.
+#### Log Data
 
+  * Technical Information: type of device, operating system, browser type and version, computer and connection information,
+  * Preferences and settings: time zone, language, and character size;
+  * Identifiers: IP address;
+  * Coarse geographic information: geographic location derived from the IP address;
+  * Preferences and settings: time zone, language, and character size;
+  * Whether the Individual experienced a crash;
 
-    2. Contests, Sweepstakes and Surveys. To participate in certain Services-related promotions on, through or in connection with the Services, including, without limitation, contests and sweepstakes (collectively, the “Promotions”), there may be a separate registration process which may require the submission of both Personal Information and Additional Information (including your full name, email address, mailing address, telephone number, demographic or profile information, etc.). We will use the Information you provide for the purpose of conducting the Promotion (for example, to contact you if you have won). You may also have the opportunity to opt-in to receive special Promotions or offers from our Advertisers as a result of your use of the Services.
 
 
-    3. Information Collected Through Automatic Data Collection. Our Services include features that automatically collect certain Information such as a unique device identifier assigned to your Device (“UDID”), Third Party Platform anonymous identifiers, your Internet protocol (IP) address (if applicable), location data, and other Information regarding your use of the Services to assist us in authenticating your usage and/or Device, keeping track of your preferences, creating a more tailored user experience, better serving your particular interests and needs, etc. The Services and/or third parties may use “cookies,” (which are small data files containing information about you that is stored on your hard drive), “embedded scripts”, and other similar tracking technologies (collectively, “Tracking Technologies”) to collect Additional Information automatically as you interact with the Services. Some cookies are used to make login to our Services easier (such as by remembering your User ID). Cookies also enable us to track your interaction with the Services and target your interests to enhance your experience with the Services. We may also use Tracking Technologies to collect “clickstream” data, such as the domain name of the service providing you with Internet access, your Device type, the Internet protocol (IP) address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Services, pages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the Device or other credentials you use to access the Services for the same purposes. Your Personal Information is not collected as part of this process. However, we may associate the information obtained through these Tracking Technologies, and your UDID, Third Party Platform anonymous identifiers and other identifiers and data, with your Personal Information so we can better customize your experience using the Services and provide tailored advertisements, Promotions, recommendations and other content related to your specific interests, activities or profile (e.g., playlist recommendations, etc.). By visiting and using the Services, whether as a registered User or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Services as described in this Privacy Policy.
+#### Traffic Data
 
+Data generated by the use of the Website or Services also include: (for EEA users, if the user has accepted profiling cookie)
 
-    4. Advertising Service Providers. These Services may also use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “Third Party Advertising Service Providers”) to, for example, serve advertisements on the Services, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on or in connection with the Services. Such services may enable us to display advertisements based on your use of the Services and other websites, services and platforms you have visited or used. Targeting services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
+  * Information about use of the Website or Services: date stamp, URL of the visited page, URL of the last webpage visited before visiting our Website or Services;
+  * History of interaction with our webpages: pages viewed, time spent on a page, click through, clickstream data; queries made, search history, search results selected; comments made, type of service requested, purchases made.
 
 
-  3. HOW WE USE INFORMATION.
 
+You may choose whether to share or not your location details with us by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please see the information provided by from your service provider or device manufacturer.
 
-    1. User. Except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, etc.), we may use your Personal Information for many purposes, including, without limitation, the following:
+**_Note: Individuals located in the European Economic Area may have the right to prevent certain form of collection of personal information. See the Section “Cookies and other Technologies.”_**
 
+### B – Information Visitors Directly and Voluntarily Provide
 
-      1. Providing any services or products that you request or purchase in connection with the Services, and contacting you regarding the administration of any features or functions of the Services you have registered to use;
+If you are a Visitor, and wish to request additional information about the Services we offer, you will be invited to fill out a form to submit your request, we will collect the following information:
 
+  * Name,
+  * Creator Name(s) or Stage Name(s)
+  * Company / organization
+  * Company / organization website
+  * The number of artists the organization manages
+  * Phone number and
+  * Email address.
 
-      2. Sending you marketing and promotional e-mails;
 
 
-      3. Allowing you to participate in the community and other features of the Services;
+### C – Information You Post on the Public Area of the Website
 
+If you post information on public areas of the Website or Services, such as on Vydia’s social media pages, that information may be collected and used by Vydia, other users of the Services, and the public. We strongly recommend that you do not post any information through the public areas of the Website that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
 
-      4. Responding to your questions or other requests;
+### D – Communication from Visitors
 
+When a Visitor completes an online form, visits our Website or Services (for example on social media), or contacts us, by email, phone or text, we automatically collect and store certain information about that user and the user’s activities, as we receive from such user, for example:
 
-      5. Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services;
+  * Name and contact information;
+  * Information that the Visitor provides to us;
+  * Visitor’s company information, if any;
+  * Nature of the communication;
+  * Purpose of the interaction
+  * Action we took in response to the inquiry or request;
+  * Any action the Visitor takes upon receipt of such communication (for example, whether the user registers to attend an event that we offer, or request to receive documentation).
 
 
-      6. Saving your email address, legal name, country of residence, location, date of birth, usage data and other information, and, for fee-based transactions and purchases (if applicable) offered by us, your physical address, telephone number(s), applicable payment information (e.g., payment card data, etc.) and other information (collectively, a “User Account”), registration and profile data or other Personal Information (so you do not have to re-enter it each time you visit or use the Services); and
 
+The information collected in connection with each type of interaction is retained so that we can continue interaction with the requestor with respect to our Website or Services.
 
-      7. For other purposes disclosed at the time you provide us with the Personal Information or which are reasonably necessary to provide the Services or other related product and/or service requested.
-      8. In the event of a content ownership conflict and/or dispute, the contact information you provide may be shared with a third-party.
+### E – Surveys and Contests
 
+From time-to-time, we invite Visitors to participate in surveys or contests. Participation is voluntary. These surveys are organized for the purposes of our marketing efforts. When an individual participates, we request certain personal information such as name and email address.
 
-    2. User. In addition, except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, etc.), we may use the Additional Information for many purposes, including, without limitation, the following:
+This is necessary to ensure that responses are categorized properly and are not duplicated. Depending on the nature of the survey or contests, we also use this information to send the survey results to the participants, or, if applicable, to notify contest winners and award prizes.
 
+We also use the information in aggregate form, for analytics purposes, to understand our market, to monitor site traffic or app usage, or to modify our offering to meet the needs or interests of visitors.
 
-      1. Tracking your return visits to and use of the Services;
+If we use a third-party service provider to conduct these surveys, the information collected by the service provider may be subject to both the service provider’s privacy policy and ours. We will provide information about the applicable privacy policies with the survey rules and will seek your explicit consent to these rules when required by law. You should read the terms of the survey or contest to understand the extent to which the service provider is allowed to use or reuse the information collected.
 
+## 2\. Information Collected from Registered Users
 
-      2. For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for internal and external clients, business partners, etc.;
+### A – Information Automatically Collected
 
+When a Registered User visits the Website, or accesses the Services through the Dashboard, we automatically collect:
 
-      3. Accumulating and reporting aggregate, statistical information in connection with the Services and user activity;
+#### Log Data
 
+  * Technical Information: type of device, operating system, browser type and version, computer and connection information,
+  * Preferences and settings: time zone, language, and character size;
+  * Identifiers: IP address;
+  * Coarse geographic information: geographic location derived from the IP address.
+  * Preferences and settings: time zone, language, and character size;
+  * Whether the Individual experienced a crash;
+  * What parts of the Dashboard or App are used before an issue (e.g., in the event of a crash).
 
-      4. Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information;
 
 
-      5. Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services;
+#### Traffic Data
 
+Data generated by the use of the Website or Services also include: (for EEA users, if the user has accepted profiling cookie)
 
-      6. Saving certain Additional Information for your ongoing use of the Services;
+  * **Information about use of the Website or Services:** date stamp, URL of the visited page, URL of the last webpage visited before visiting our Website or Services;
+  * **History of interaction with our webpages:** pages viewed, time spent on a page, click through, clickstream data; queries made, search history, search results selected; comments made, type of service requested, purchases made; information about the Registered User’s use of the Services, including analytics relating to which parts of the Dashboard and App are being used, how they are used;
 
 
-      7. For the uses described for “Personal Information” above; and
 
+When a Registered User accesses the Services through the App, we automatically collect:
 
-      8. For other purposes disclosed at the time you provide us with the Additional Information or which are reasonably necessary to provide the Services or other related product and/or service requested.
+#### Log Data
 
+  * Technical Information: type of device, operating system, browser type and version, connection information;
+  * Preferences and settings: time zone, language, and character size;
+  * Identifiers: IP address;
+  * Coarse geographic information: geographic location derived from the IP address;
+  * Whether the Individual experienced a crash;
+  * What parts of the Dashboard or App are used before an issue (e.g., in the event of a crash).
 
-  4. OPTING-OUT OF CERTAIN USES OF YOUR PERSONAL INFORMATION AND OTHER INFORMATION.
 
 
-    1. Marketing and Promotional Communications. At times, you may be presented with the option of whether to receive, or automatically entered to receive, certain marketing and promotional communications from us and others that we think will be of interest to you. Recipients of such communications can unsubscribe by either following the specific instructions included in such communications or you may “opt-out” of receiving marketing and promotional e-mails from us at any time by sending an email to us at [support@vydia.com](mailto:support@vydia.com) detailing your privacy request. Please note that “opt-out” and “unsubscribe” requests may not take effect immediately and may take a reasonable amount of time to receive, process and apply, during which time your Information shall remain subject to the prior privacy settings. Additionally, you should be aware that any Information provided to third parties prior to your election to opt out or unsubscribe cannot be retrieved or rescinded by us unless required by applicable law, and you cannot retroactively opt out or unsubscribe with respect to such third parties. Also, please note that in order to keep you informed about the operation of our Services and related services, we may always send you emails and announcements that are needed for the proper functioning and administration of our Services, including for the purposes described in Section 3 above, in connection with your use of such Services. We may also have features that allow you to submit information, questions or feedback to us. In those instances, we may retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
+#### Traffic Data
 
+Data generated by the use of the Website or Services also include:
 
-  5. SHARING AND DISCLOSURE OF PERSONAL INFORMATION AND OTHER INFORMATION.
+  * **Information about use:** date stamp, other apps open on the device
+  * **History of interaction with our webpages:** pages viewed, time spent on a page, click-through and clickstream data; queries made, search history, search results selected; comments made, type of service requested, purchases made; information about the Registered User’s use of the Services, including analytics relating to which parts of the Dashboard and App are being used, how they are used;
 
 
-    1. General Disclosure. Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as otherwise described in this Privacy Policy. Except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, etc.), we reserve the right to use and/or sell any aggregated data we collect in connection with your access to and/or use of the Services, including, but not limited to, for the purposes described in Section 3 above. We may disclose Personal Information to our affiliated companies for marketing and/or administrative purposes. You can choose to opt-out of certain such uses as described in Section 4 above. Further, except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, etc.), we may share, disclose and/or sell Additional Information to third parties, but we do not disclose Personal Information to them except as described in this Privacy Policy.
 
+**_Note: Registered Users located in the European Economic Area may have the right to prevent certain form of collection of personal information. See Section “Cookies and other Technologies.”_**
 
-    2. Co-Branded Services and Features. The Services may offer co-branded services and features, such as events and Promotions provided by us and/or our affiliated companies or other third party partners, and that may be hosted on the Services and/or our co-branded partner’s website, platform or service. We may share your Personal Information with such co-branded partners and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both us and our co-branded partners to collect any information provided in connection with the specific co-branded feature or service and to use such information for the fulfillment of the feature or service and for marketing or administrative purposes in accordance with our respective privacy policies. The co-branded partner will be identified on the co-branded feature or service, along with the co-branded partner’s privacy policy. If you wish to opt-out of a co-branded partner’s future use of your Personal Information for marketing or other purposes, you will need to contact the co-branded partner directly and the use of such information by co-branded partner is subject to co-branded partner’s privacy policy.
+### B – To Evaluate or Purchase the Service
 
+If you wish to evaluate or purchase any of the Services we offer, including access to the Dashboard and the App, you will need to sign up to become a Registered User. As part of the registration process, you will be requested to provide the following information
 
-    3. Disclosure of Certain Information in User Postings Intended to Be Disclosed. Certain Personal Information associated with a User Posting may be intended for disclosure, such as your username. We will disclose any such Personal Information in connection with the display of, and other services relating to, such User Posting and by submitting a User Posting on or in connection with the Services you affirmatively consent to the distribution of your Personal Information as described herein.
+  * Name,
+  * Email address,
+  * Phone number and
+  * For payment processing purposes, mailing address.
 
 
-    4. Service Providers. We also have the right to disclose your Personal Information and other information to third parties for the purpose of administering and maintaining the Services. We will refer to these third parties as “Third-Party Service Providers”. We use Third-Party Service Providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Information to Third-Party Service Providers for the purpose of providing services to us and our affiliates. These Third-Party Service Providers may temporarily store certain Information on their servers, but they may only use your Personal Information to provide VYDIA with a specific service and not for any other purpose.
 
+### C – To Use Third Party Platforms
 
-    5. Other Third Parties. Other than as set forth in this Privacy Policy, we do not share your Personal Information with other third parties, apart from those acting as our agents in providing our Services to you, and which agree to use it only for that purpose and to keep the information secure and confidential. Also, please be aware that our affiliated companies, including all their respective business units, subsidiaries, affiliates and sites, entities into which our companies may be merged, or entities to which any of our assets, products, sites or operations may be transferred, may obtain from us and be able to use your Personal Information.
+If you are a Registered User, and you would like to use our content management services to manage your content on third party platforms and social media services (such as YouTube and Facebook) (“ **Third Party Platforms** ”), you will need to authorize the Third Party Platform to grant us access to:
 
+  * Your account on the Third-Party Platform; for clarity, this includes: 
+    * Content you have uploaded
+    * Content your will upload to that account; and
+    * All associated metadata, performance data, metrics and insights related to that content
+  * Profile data you make available to the Third Party Platform
+  * Profile data that the Third Party Platform provides to us with your consent, in accordance with the settings that you chose on that Third Party Platform, such as the email address you have on file with the Third Party Platform
+  * An access token that allows us to request information about your account on the applicable Third Party Platform.
 
-    6. Additional Disclosures. There may be instances when VYDIA may access or disclose Information without providing you a choice in the following circumstances: (i) to protect or defend the legal rights or property of VYDIA, our affiliated companies or their employees, agents and contractors (including enforcement of our agreements); (ii) to protect the safety and security of our Services and users; (iii) protect against fraud or for risk management purposes; (iv) if we believe your actions violate the Terms of Use, this Privacy Policy, any rules of participation for certain activities and services, including, without limitation, contests, sweepstakes and other initiatives and/or Additional Terms; or (v) to comply with law or legal process. In addition, if VYDIA sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, VYDIA may transfer your Information to the party or parties involved in the transaction as part of that transaction who may use that Information for the purposes set forth in this Privacy Policy.
 
 
-  6. USER CHOICE AND ACCESS.
+The authorization will also include the ability for Vydia to post to your account on the Third Party Platform at your direction.
 
+### D – Information You Post on the Services.
 
-    1. The Services may have certain features and functionality that provide you with the ability to set certain privacy, permission and User Account options on the Services that, among other things, (i) allow you to control the visibility of your User profile and photographs, graphics, comments, reviews, links, materials, ideas, opinions, messages, playlists and other information via the Services (each, a “User Posting”, and collectively, “User Postings”) with the public and/or other Users of the Services, (ii) limit the provision of certain Information to us, such as location data, and/or (iii) limit our ability to take certain actions that may disclose your Information (e.g., posting status messages, notes, photos, videos etc. to Third Party Platforms on your behalf). These privacy, permission and User Account options may be controlled by changing your User Account or Services settings, whether by (x) responding to request alerts or notifications that may be presented to you on your Device prior to or following the collection of the relevant Information, (y) navigating to the settings, account or privacy section (as the case may be) of your Device, the applicable Third Party Platform and/or the applicable Service and limiting certain Service functionality (e.g., location services, etc.) and/or (z) using other available methods of controlling your options and settings. Please be aware that that if you limit the collection of certain Information, you may not be able to use all of the features and functionality of the Services.
+If you post information on public areas of the Services that information may be collected and used by Vydia, other users of the Services, and the public. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
 
+### E – Payment Information
 
-    2. By accessing, interacting with, launching, downloading or otherwise using the Services and providing and/or making available (e.g., via Third Party Platform permissions and consents, etc.) us with your contact information, (a) you expressly choose to receive certain communications from us and certain third parties as described in this Privacy Policy, and (b) you expressly agree to the privacy practices described herein. You may change your privacy preferences (e.g., choose to cease receiving certain communications or ask us not to share your Personal Information with a particular third party) by sending an email to us at privacy-admin@vevo.com detailing your privacy request. Other privacy preferences (e.g., hiding your User profile, deactivating your User Account, etc.) may be made by modifying your User Account settings on the Services, your Device and/or the applicable Third Party Platform. Except as described in this Privacy Policy, VYDIA will get your permission before we use the Personal Information you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your Personal Information with third parties that are not affiliated with VYDIA. If you ask VYDIA to stop using your Personal Information, we will honor that request while retaining a record of any Personal Information as necessary to comply with applicable federal, state or local law. You always have the right to access and correct the Personal Information you have provided and generally you may review, update or delete certain Information collected by the Services at any time by accessing your User Account as described herein.
+#### To Make Payments
 
+If you are a Registered User, you may purchase Services we offer for a fee, in accordance with our Terms and Conditions located at <https://vydia.com/terms-and-conditions/>. For example, we may offer a paid storage plan. To process payments for such Services, we rely on a third party service provider (such as Braintree, PayPal or Tipalti) ( **“Payment Processors”** ). When you make a payment, the payment information is transmitted directly to the Payment Processor, and we do not have access to it, and take no responsibility for it.
 
-  7. DATA COLLECTION FROM CHILDREN. We do not knowingly collect personal information from U.S. children under 13 without appropriate parental notice and consent. Please visit http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm for information from the Federal Trade Commission about protecting children’s privacy online.
+Our Payment Processor will provide to us the Registered User’s name, mailing address, phone number, email address (if PayPal is used to process the payment), card type (i.e., Visa, Amex, etc.) and the credit card’s last four digits so we can comply with applicable legal obligations to “know our client” (sometimes referred to as “KYC”) and other legal obligations that apply to us.
 
+#### To Receive Payments
 
-  8. SECURITY. While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Personal Information. However, regardless of our efforts and the Device you use to access the Services, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We also limit access to the Services by our own employees, contractors, Third-Party Service Providers and those individuals who are authorized for the proper handling of such information. We request that our third party contractors and Third-Party Service Providers follow similar standards of security and confidentiality.
+If you are a Registered User and have signed up for our monetization services (pursuant to a separate mutually agreed content license agreement signed by you and us), you may earn a share of revenue from monetization of your content on Third Party Platforms. We issue applicable payments using our Payment Processors.
 
+In this case, our Payment Processor will provide to us the Registered User’s name, mailing address, phone number, email address (if PayPal is used to process the payment), and tax information (such as a W9), so we can comply with our obligations to pay you, applicable legal obligations to “know our client” (sometimes referred to as “KYC”), withhold any applicable taxes (e.g., depending on the country of residency of the Registered User) and other legal obligations that apply to us.
 
-  9. YOUR CALIFORNIA PRIVACY RIGHTS. If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as “unsubscribe”) or opt-in for use of your Personal Information by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [support@vydia.com](mailto:support@vydia.com) or by postal mail to VYDIA, INC., danvassallo.wpengine.com, c/o Privacy Administrator, 31 East Main Street, Box 901, Freehold, NJ 07728, Attn: Your California Privacy Rights. All requests must be labeled “Your California Privacy Rights” on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights”, include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+If a Registered User decides to terminate his/her/ its Vydia account and cease using the Services, we will keep records of payments we receive from or make to such Registered User, in order to comply with our legal obligations.
 
+### F – Communication from Registered Users
 
-  10. INTEGRATION OF THIRD PARTY PLATFORMS AND SERVICES. The Services may be linked to, rely on and or be integrated with websites, applications, interfaces, services and/or platforms operated by other companies, including Third Party Services and Third Party Platforms. The Services may also feature advertisements from other third parties. VYDIA is not responsible for the privacy practices of such websites, applications, interfaces, services and platforms operated by third parties that are linked to, rely on and/or integrated with the Services or for the privacy practices of third party advertising companies. Once you leave this Services via such a link, access a third party application, interface, service, or platform, including Third Party Platforms and Third Party Services, or click on or navigate to an advertisement, you should check the applicable privacy policy of such third party to determine, among other things, how they will handle any personally identifiable or other information that they may collect from you.
+When a Registered User contacts us, by email, phone or text, we automatically collect and store certain information about that user and the user’s activities, as we receive from such user, for example:
 
+  * The Registered User’s name and contact information;
+  * Information that the Registered User provides to us;
+  * The Registered User’s company information, if any;
+  * The nature of the communication;
+  * The purpose of the interaction, and the action we took in response to the inquiry or request;
+  * Any action the Registered User takes upon receipt of such communication (for example, whether the Registered User request to receive documentation).
 
-  11. PRIVACY POLICY CHANGES. From time to time we may modify this Privacy Policy to reflect industry initiatives, third party requirements or changes in the law, our Information collection and use practices, the features and functionality of the Services, or technology, and such modifications shall be effective upon posting. Your continued use of the Services after we post a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If we materially change our practices regarding collection or use of your Personal Information, your Personal Information will continue to be governed by the privacy policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
 
 
-  12. ACCURACY. It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or Personal Information or you fail to update such information or Personal Information. We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy.
+The information collected in connection with each type of interaction is retained so that we can continue interaction with the requestor with respect to our Website or Services.
 
+### G – Communications with Registered Users
 
-  13. CONTACT US. If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at:
+Unless we are prohibited by applicable law from using cookies and similar technologies, and a Registered User has not otherwise consented to their use, when we send an email message to a Registered User, our message contains images or links that when viewed or clicked, allow us to know whether the message has been accessed, deleted, or ignored. This information helps us understand how the individual reacts to our communications and limit the amount and nature of information provided.
 
+### H – Publicly Available Data
 
-    1. Email: [support@vydia.com](mailto:support@vydia.com)
+We collect information from publicly available directories, and information that has been made available about an individual on other publicly available databases, such as information about a person’s interests.
 
+### I – Other information
 
+Certain areas of the Website or Service include free text fields, where you can write messages to other users, or post content that may contain personal data. We request that you do not disclose:
 
-Or
+  * Any data revealing your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data or data concerning your health, sex life or sexual orientation;
+  * Any social security number, national Identification number, financial account information or any other information that might be deemed highly sensitive or confidential;
+  * Any data related to other persons.
 
-    2. By postal mail to:
 
 
+## 3\. Links to Third Party Platforms
 
-VYDIA, INC.,
+If you are a Registered User, the Services enable you to link your Vydia account to, and the ability to log into and access, your account on Third Party Platforms, in order to facilitate: (i) synchronizing of your content between your Vydia account and Third Party Platforms, (ii) management of such content on such Third Party Platforms and (iii) monetization of your content on Third Party Platforms.
 
-31 East Main Street, Box 901,
+Your use of these Third Party Platforms may result in the collection or sharing of information about you by these Third Party Platforms. **_We encourage you to review the privacy policies and settings on the Third Party Platforms with which you interact and share content, information, and other materials, to make sure you understand the information that may be collected, used, and shared by those Third Party Platforms._**
 
-Freehold, NJ 07728
+When you link your Third Party Platform with your Vydia account, we receive information about you from the Third Party Platform. The information provided may include – but is not necessarily limited to – the following.
 
-  14. SOLE STATEMENT. This document is the sole statement of the Services’ Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
+**_The amount of information that we receive depends on the setting that you have chosen for the sharing of information stored on that Third Party Platform. Please verify your settings on that Third Party Platform._**
 
+Third Party Platform | Data  
+---|---  
+Facebook | 
 
+  * Copies of your content you have made available on your account, including album artwork, video content, and metadata, such as: 
+    * Video file’s associated metrics (i.e. Likes, Shares, Comments, Views, Watch Time, Etc.)
+    * Your Page Titles, Your Profile pictures, Video Thumbnails (*We do not collect any of your friends’ data)
+    * Title of content
+    * Producers
+    * Writers
+    * Description of content
+    * Any other text you submitted to the Third Party Platform in connection with the content (e.g., in a text field)
+    * Instagram data authorized through the Facebook API
+  * How many people you follow and how many people follow you
+  * Performance metrics such as 
+    * aggregated demographics information on your followers (for example “30% of your fans are female between 18 – 25”)
+    * numbers of times your content was viewed by others
+    * number of likes your content received
+    * the average percentage of time people view your content (for example “an average of 90% of your video is watched”)
 
-This Privacy Policy was last modified on the date indicated above and is effective immediately.
+  
+Dailymotion | 
+
+  * Copies of your content you have made available on your account, including album artwork, video content, artist name and title and descriptions
+  * How many people you follow and how many people follow you
+  * Your list of followers
+
+  
+Instagram | 
+
+  * Copies of your content you have made available on your account, including album artwork, video content, and metadata, such as: 
+    * Video file’s associated metrics (i.e. Impressions, Views, Comments, Taps Back, Taps Forward, Exits, Etc.)
+    * Your Page Titles, Your Profile pictures, Video Thumbnails (*We do not collect any of your friends’ data)
+    * Title of content
+    * Producers
+    * Writers
+    * Description of content
+    * Any other text you submitted to the Third Party Platform in connection with the content (e.g., in a text field)
+  * How many people you follow and how many people follow you
+  * Performance metrics such as 
+    * aggregated demographics information on your followers (for example “30% of your fans are female between 18 – 25”)
+    * numbers of times your content was viewed by others
+    * number of likes your content received
+    * the average percentage of time people view your content (for example “an average of 90% of your video is watched”)
+  * Your list of followers
+
+  
+Twitter | 
+
+  * Copies of your content you have made available on your account, including album artwork, video content, artist name and title and descriptions
+  * How many people you follow and how many people follow you
+  * Your list of followers
+
+  
+SoundCloud | 
+
+  * Copies of your content you have made available on your account, including album artwork, audio content, artist name and title and descriptions
+  * How many people you follow and how many people follow you
+  * Your list of followers
+
+  
+YouTube | 
+
+  * Copies of your content you have made available on your account, including album artwork, video content, and metadata, such as: 
+    * Video file’s associated metrics (i.e. Likes, Dislikes, Comments, Views, Watch Time, Subscribers, Etc.)
+    * Your Page Titles, Your Profile pictures, Video Thumbnails (*We do not collect any of your friends’ data)
+    * Email
+    * Title of content
+    * Producers
+    * Writers
+    * Description of content
+    * Any other text you submitted to the Third Party Platform in connection with the content (e.g., in a text field)
+  * How many people you follow and how many people follow you
+  * Performance metrics such as 
+    * aggregated demographics information on your followers (for example “30% of your fans are female between 18 – 25”)
+    * numbers of times your content was viewed by others
+    * number of likes your content received
+    * the average percentage of time people view your content (for example “an average of 90% of your video is watched”)
+  * Your list of followers
+
+  
+  
+## 4\. Links to Digital Service Providers and Other Third Parties
+
+### A – Digital Service Providers
+
+Registered Users may request (as part of the Services) that we deliver their content to our third party media partners and service providers (e.g., Spotify) ( **“Digital Service Providers”** ). We collect information from such Digital Service Providers about plays of your content on Digital Service Providers’ respective services.
+
+We collect all information in each statement provided to us by each Digital Service Provider. We retain in our database the following information:
+
+  * Stream-count
+  * Revenue
+  * Region/country
+  * Device/source
+  * Per stream revenue (i.e. revenue / stream-count)
+
+
+
+### B – Google and YouTube
+
+The Service relies in part on applications and services provided by Google and YouTube, and use the YouTube API Services. Use of the YouTube API Service is subject to the You Tube Terms of Service, available at: <https://www.youtube.com/t/terms> and the Google Privacy Policy available at: <http://www.google.com/policies/privacy>. In addition, you can revoke the YouTube API access to your data using the Google Security Settings instructions located at: <https://security.google.com/settings/security/permissions>
+
+For other information regarding the use of YouTube API you can visit: <https://developers.google.com/youtube/terms/developer-policies#definition-api-client>
+
+## 5\. How We Use the Information We Collect
+
+### A – Information Collected from Visitors & Registered Users
+
+We use the information we gather through the Website and the Services to help us operate the Website and the Service and better understand how the Website and the Services are being used, as follows:
+
+#### Service
+
+  * To allow individuals to create and maintain a Registered User account, verify a user’s identity and assist a user if he/she misplaces or forgets his/her login or password;
+  * To respond to Visitors and Registered Users’ inquiries, allow them to request white papers, or other information;
+  * To finalize purchase orders and deliver the Services to the Visitor or Registered User;
+  * To carry out market research and surveys;
+  * For interaction on social media;
+  * For analyzing and improving the Services;
+
+
+
+#### Marketing
+
+  * For communicating with Visitors and Registered Users regarding the Services;
+  * For marketing and promoting the Services;
+
+
+
+#### To Combat Misuse, Fraud and Attend to our Legal Obligations
+
+  * Protecting the Services, your rights, and the rights of others;
+  * Enforcing the terms and conditions applicable to the Website and the Services;
+  * Preventing potential or actual prohibited or illegal activities, and enforcing any agreement(s) Visitors and Registered Users may have with us;
+  * Complying with our obligations, including any and all applicable laws and/or regulations;
+  * Contacting and communicating with Visitors and Registered Users when they have inquiries.
+
+
+
+If you are a Visitor or Registered User, and you have previously provided your email to us seeking such information, we may email you about products and services that we believe may be of interest to you. If you wish to opt-out of receiving these emails from us, please follow the instructions contained in each email you receive from us which will allow you to opt-out of receiving further email marketing communications from us.
+
+#### Profiling
+
+  * To create a profile of an individual through the use of cookies and by collecting and analyzing information on the user’s interest in order to serve to each information and advertisements that may be relevant to that user. All algorithms involved in this processing are regularly tested, to ensure the processing’s fairness and control for bias;
+
+
+
+#### Analytics
+
+  * For development and administration of the Website and Services, to improve our offerings and troubleshoot any technical issues that may arise in connection with the use of the Website or Services.
+
+
+
+### B – Information Collected from Registered Users
+
+We use the information we gather through the Website and the Services to help us operate the Website and the Service and better understand how the Website and the Services are being used, as follows:
+
+#### Service
+
+  * Operating and offering the Services to Registered Users;
+  * Ensuring technical functionality and delivery of the Services to Registered Users;
+  * Determining Registered Users’ eligibility for a particular Service that we offer;
+  * Sharing metadata and other information regarding the content Registered Users post through the Services with Third Party Platforms and Digital Service Providers to provide and optimize the Services;
+  * Displaying, collecting, and analyzing relevant metrics of Registered Users’ content and user-generated content that incorporates Registered Users’ content, including: 
+    * Data on plays of such content on applicable Third Party Platforms and Digital Service Providers, including metrics related to locations where such content is popular, the use and distribution of your content by the public;
+    * Revenue generated by such Third Party Platforms and Digital Service Providers (if any);
+    * Demographics of Third Party Platforms’ and Digital Service Providers’ end users who listen or view Registered Users’ content;
+  * Verifying Registered Users’ identity (including by confirming that a Registered User is logging into his or her Vydia account from a location where he or she typically logs in from);
+  * Taking payments from or making payments to Registered Users, either directly or via a Payment Processor.
+
+
+
+#### Marketing
+
+  * To interact with Registered Users by sending marketing communications regarding products and services that are identical or similar to those the Registered User has previously purchased or requested
+
+
+
+#### Profiling
+
+  * To create a profile of a Registered User, through the use of cookies and by collecting and analyzing information on the Registered User’s interest in order to serve to each information and advertisements that may be relevant to that user. All algorithms involved in this processing are regularly tested, to ensure the processing’s fairness and control for bias;
+
+
+
+#### Analytics
+
+  * For development and administration of the Website and the Services, in order to improve our offering and troubleshoot any technical issues which may arise in connection with the use of the Website or Service
+
+
+
+#### Misuse or Fraud
+
+  * To prevent and detect any misuse of the Services, or any fraudulent activities carried out through the restricted areas of the Service.
+
+
+
+## 6\. Legal Basis for the Processing
+
+The grounds on which we rely to process personal information of Visitors and Registered Users, according to the purposes identified include the following:
+
+Purpose | Legal Ground | Mandatory/Not  
+---|---|---  
+Service | The information necessary to provide the Services, fulfil requests that you make, take steps before entering into a contract with you, or perform a contract entered into with you. | No  
+If you do not provide the information you need, we will not be able to provide certain Services to you over the Website or App.  
+Marketing | The collection of information for marketing is needed for the legitimate interest of Vydia so that it can understand its market and have opportunities to communicate with potential or current customers so long that the use of the data is not overridden by the interest of the individual. 
+
+Some forms of marketing to certain users may require opt-in consent, and we will request such consent as applicable.
+
+| No 
+
+Individuals have the right to object to the use of their personal data for marketing purposes.
+
+There is no consequence for not providing the information.
+
+An individual who has previously consented to the use of personal data for marketing, can withdraw this consent at any time.  
+  
+Marketing to Existing Customer | Marketing to existing customers is based on Company’s legitimate interest in expanding its relationship with individuals who have previously purchased or shown interest in goods or services provided by Vydia that are identical or similar to those the individual has previously purchased or requested through the Website or Service. | No 
+
+Users can opt-out of these communications at any time.  
+  
+Profiling | For some users, processing is based on the user’s consent, collected by means of the cookie pop-up banner and/or a specific tick box. | No 
+
+Users can elect to not consent to the collection of information about them through cookies.
+
+There is no consequence for such refusal other than not being able to benefit from greater personalization when using the Website or Service.  
+  
+Analytics | Vydia has a legitimate interest in understanding how users use its Website or Services, so that it can improve them accordingly, both to enhance the user’s experience and to troubleshoot technical issues. | No  
+Misuse; Fraud | Vydia has a legitimate interest in preventing and detecting fraudulent activities or misuse of the Website or Service for potentially criminal purposes. | No  
+  
+## 7\. How We Share Your Information with Third Parties
+
+Vydia shares your information with third parties in some circumstances as follows:
+
+### A – Third-Party Processors and Third-Party Service Providers.
+
+We will disclose your information to our contractors, affiliates, distributors (such as Digital Service Providers and Third Party Platforms), dealers, vendors, and suppliers ( **“Service Providers”** ) who provide certain services to us or on our behalf, such as operating and supporting the Website and the Services, analyzing data, or performing marketing or consulting services. These Service Providers will only have access to the information needed to perform these limited functions on our behalf.
+
+### B – Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies.
+
+To the extent permitted by law, we will disclose your information to government authorities or third parties if: (i) required to do so by law, or in response to a subpoena or court order; (ii) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Website or the Services by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+
+### C – Business Transfers; Bankruptcy.
+
+In the event of a merger, acquisition, corporate reorganization, bankruptcy or other sale of all or a portion of our assets, any user information owned or controlled by us may be one of the assets transferred to third parties. We reserve the right, as part of this type of transaction, to transfer or assign your information and other information we have collected from users of the Website or the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.
+
+### D – Aggregate Information.
+
+We may share information relating to users of the Website or the Services with affiliated or unaffiliated third parties on an anonymous, aggregate basis. While this information will not identify you personally, in some instances these third parties may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally.
+
+### E – Our Affiliates.
+
+We may share some or all of your information with our parent company, subsidiaries, and corporate affiliates, joint venturers, or other companies under common control with us. We may permit these entities to use your information for their own marketing purposes.
+
+If you would like us to stop providing your information to our affiliates for their own marketing purposes, you may opt-out by emailing us at [support@vydia.com](mailto:support@vydia.com) or calling us at +1 (646) 661-2484.
+
+### F – Third Party Marketing Partners.
+
+We may, from time to time, share the information you provide to us with selected third party marketing partners that we believe offer products or services that may be of interest to you.
+
+In countries where such activities do not require prior explicit consent, we may provide personal information of individuals to third party marketing companies, affiliates, advertising agencies, and data aggregation companies. These partner firms use this information to provide individuals with information on products and services that may be of interest.
+
+In countries, such as in the European Economic Area, where such activities are restricted, we conduct these activities in accordance with applicable local laws.
+
+If you would like us to stop providing your information to our third party marketing partners, you may opt-out by emailing us at [support@vydia.com](mailto:support@vydia.com) or calling us at +1 (646) 661-2484.
+
+### G – Third Party Media Partners.
+
+If you are a Registered User and elect to sign up for the distribution services feature of the Services, we may provide our third party media partners with access to your information so that they can review your content through the Vydia publisher dashboard on the Services. These third party media partners will only have access to your information through the Services for purposes of evaluating your content and determining whether to publish your content.
+
+### H – Infringement Notices.
+
+We may share your information with third parties if you provide us with an infringement notification in accordance with the process set forth in our Terms and Conditions located at <https://vydia.com/terms-and-conditions/> in order to investigate and address the potential infringement.
+
+## 8\. Retention of Personal Data
+
+Data uses | Retention period  
+---|---  
+Providing the Service | Retained as necessary to fulfil such purposes. 
+
+We may retain the data as necessary to protect Vydia’s interests related to potential liability.  
+  
+Marketing and Profiling | Retained from the moment the user gives consent until consent is withdrawn. 
+
+Where it is not withdrawn, consent will be renewed at fixed intervals.
+
+If consent is withdrawn or not renewed, personal data will no longer be used for these purposes.
+
+We may retain the data as may be necessary to protect Vydia’s interests related to potential liability.  
+  
+Marketing to Customers | Retained from the time when we receive it in the context of purchases or requests made via the Platform until the user objects to this processing. 
+
+If a user objects to the processing, the personal data will no longer be used for these purposes.
+
+We may retain the data as may be necessary to protect Vydia’s interests related to potential liability.  
+  
+Compliance | Retained for the period required by the specific legal obligation or by the applicable law.  
+Analytics | Retained as long as necessary to fulfil the purposes for which it was collected, unless the user objects to the processing and there are no other legal grounds justifying the retention of the information.  
+Misuse, Fraud | Retained as long as necessary to fulfil the purposes for which it was collected, unless the user objects to the processing and there are no other legal grounds justifying the retention of the information.  
+  
+## 9\. Cookie Policy
+
+In some countries, the law requires us to provide you with detailed information about the cookies that may be set when you visit our Site. The law may also require that we obtain your consent to the use of certain types of cookies. This cookie policy ( **“Cookie Policy”** ) aims to provide you with information about cookies, how we use them, and when applicable law how we request your consent.
+
+### A – What are “cookies”?
+
+Cookies are small text files that are sent to a user’s browser by the website visited or when an email is opened. They are used for numerous different purposes, including to remember an individual’s actions and preferences (for example, login data, language, font size, other display settings, etc.), so that the individual does not have to configure them again when visiting again the website, or when moving from page to page within a website. Some operations within a website may not be able to be performed without the use of cookies which, in certain cases, are technically necessary for operation of the website. They may also contain a unique ID code that allows tracking a user’s browsing activities within a website, for statistical or advertising purposes.
+
+Cookies are often divided in two categories, “session cookies” which are automatically deleted when you close your browser, and “persistent cookies” which remain on your device until their pre-set expiration period expires.
+
+When browsing a website, you may receive first party cookies, which are sent by the website or third party cookies, which are sent from websites or web servers other than the website being visited.
+
+**To learn more about cookies, you may wish to refer to.**
+
+All About Cookies: <http://www.allaboutcookies.org/>
+
+Cookie Central: <http://www.cookiecentral.com/faq/>
+
+Network Advertising: <http://networkadvertising.org/>.
+
+### B – Individuals Located in the EEA
+
+Individuals **located in the EEA may have the right to prohibit the use of certain cookies.**
+
+For some types of cookies, the consent of the website user may not be necessary. This is the case for “technical cookies” which are only used to send messages through an electronic communication network, or are needed to provide the user with the service that the user requests: this includes browsing or session cookies, which are used to allow the user to login, and functional cookies, which are used to remember choices made by a user when accessing the website, such as language, fonts, settings, or to remember the products selected for purchase. These cookies are essential for the proper operation of the functions offered by the website.
+
+Some cookies, known as “profiling cookies” are used to create profiles of users, and to send advertising messages to users in line with the user’s preference that may be inferred from the user’s browsing the website. Certain laws, such as laws that apply to individuals in the EEA, may require the affirmative consent of users.
+
+### C – How We Obtain your Consent
+
+We are working on updating our Website to present you with a notice informing you that the Website uses cookies, in accordance with applicable law. That notice will include a link to this Cookie Policy. If the notice contains a request to agree to the use of our profiling cookies, we will use these cookies if you express your consent by clicking on the appropriate box. If you decide to continue through our website after being presented with that notice, without clicking on the appropriate box, we will assume that we do not have your consent to set cookies as described in this Cookie Policy.
+
+Until we have updated the Website to present you with that notice, please send an email to us at [support@vydia.com](mailto:support@vydia.com), stating that you do not consent to our use of the cookies as described in this Cookie Policy.
+
+### D – First Party Cookies
+
+The Website uses technical cookies for Website operations and to allow users to use the Website content and services, to activate Website functions, and to configure the Website according to the user’s choice, such as language or font size.
+
+We also use analytics cookies, which allow us to understand how individuals use the Website and to track traffic to and from the Website, and profiling cookies to observe the user’s activities on the Website to infer the user’s preferences, and send advertising messages in line with these preferences.
+
+### E – Analytics Cookies
+
+We use Google Analytics and Mixpanel, online, web-based, and mobile-based analytics services provided respectively by Google, Inc. ( **“Google”** ) and Mixpanel, Inc. ( **“Mixpanel”** ), to collect information about your use of the Services. Google, Mixpanel and other analytics services use cookies to collect information about the content you view, and your system information and geographic information.
+
+The information generated by these cookies about your use of the Services will be transmitted to and stored by the applicable analytics services. The information collected by these analytics services allows us to analyze your use of the Services.
+
+You can opt-out of Mixpanel’s automatic collection and retention of your data when you use the Services by visiting <https://mixpanel.com/optout>, however, if you get a new computer, install a new browser, erase or otherwise alter you browser’s cookie file (including upgrading certain browsers) you may need to follow the Mixpanel opt-out process again to ensure your opt-out remains valid.
+
+Information collected by the Google Analytics cookie is transmitted to, and stored by, Google in accordance with its privacy practices.
+
+To see an overview of privacy at Google and how this applies to Google Analytics, please visit: <https://support.google.com/analytics/answer/6004245>.
+
+To opt out of Google Analytics, please visit: <https://tools.google.com/dlpage/gaoptout>.
+
+### F – Third Party Cookies
+
+We also use third party cookies, owned by third parties, which act either as independent data controllers or data processors regarding their own cookies.
+
+You may opt-out of receiving interest-based advertising as explained below. The opt-out may be provided through specific opt-out cookies. Please note that:
+
+  * using a new computer or a different browser, upgrading certain browsers, or modifying or erasing a browser’s cookie file, may clear an opt-out cookie;
+  * there are many more companies listed on these sites than those that place cookies on your device when you access our Website and Service;
+  * opting out of receiving interest-based advertising does not block all advertisements served to your device. You will continue receiving advertisements, but these advertisements will be generic or based on the content of a webpage that you are visiting, instead of being targeted to your specific interests.
+
+
+
+### G – Cookies present on the Site
+
+We use the following types of cookies:
+
+  * **Browsing or session cookies:** these cookies are strictly necessary for the operation of the Website, and/or to allow the user to use the Website content and Services.
+  * **Analytics cookies:** these cookies provide information that is used to understand how a website is used, and to track traffic to and from a website.
+  * **Functional cookies:** these cookies are used to activate specific functions and to configure webpages according to the user’s preference such as font size or language.
+  * **Profiling cookies:** these cookies are used to observe a user’s interest based on activities on a website, and to send advertisements that take these preferences into account.
+
+
+
+**_The first party cookies present on the Website are:_**
+
+Name | Cookie function | Expires  
+---|---|---  
+_gat_UA-46174567-5 | analytics and/or targeted adverts | One year  
+_gat | analytics and/or targeted adverts | One year  
+_uetsid | analytics and/or targeted adverts | One year  
+_gid | analytics and/or targeted adverts | One year  
+mp_490d237dd15127756db73eb904830aef_mixpanel | analytics | One year  
+mp_bb436b15135c1a4fe368d9cf6ab13b76_mixpanel | analytics | One year  
+mp_93df51a1331810780a0e0f837f790b00_mixpanel | analytics | One year  
+_ga | analytics | One year  
+fs_uid | user session video recording / analytics | One year  
+fs_mixpanel | user session video recording / analytics | One year  
+_ga | analytics and/or targeted adverts | One year  
+_gat_UA-46174567-5 | analytics and/or targeted adverts | One year  
+_gid | analytics and/or targeted adverts | One year  
+_uetsid | analytics and/or targeted adverts | One year  
+fs_mixpanel | user session video recording / analytics | One year  
+fs_uid | user session video recording / analytics | One year  
+mp_490d237dd15127756db73eb904830aef_mixpanel | analytics | One year  
+mp_93df51a1331810780a0e0f837f790b00_mixpanel | analytics | One year  
+mp_bb436b15135c1a4fe368d9cf6ab13b76_mixpanel | analytics | One year  
+raygun4js-sid | application performance monitoring & error ticketing | One year  
+vydia.session2 | user session | One year  
+  
+Because we are constantly updating the Website and the Services, the list above may require updating and is subject to change without notice.
+
+### H – How you can Control Advertising on Websites
+
+You may be able to block the use of cookies that are used to create a profile about you. For further information see:
+
+#### Digital Advertising Alliance:
+
+http://www.aboutads.info/choices/
+
+http://www.aboutads.info
+
+http://www.aboutads.info/consumers
+
+Europe: http://youronlinechoices.eu
+
+Canada: http://www.youradchoices.ca/choices/.
+
+#### Network Advertising Initiative:
+
+http://www.networkadvertising.org/choices/
+
+http://www.networkadvertising.org
+
+http://www.aboutads.info/consumers
+
+### I – How you can Control Advertising on Mobile Applications
+
+Users of mobile devices who do not want to receive interest-based advertising may opt-out in several ways.
+
+Ad Choices for Mobile devices: http://www.aboutads.info/appchoices (it is necessary to first download the AppChoices app from http://www.aboutads.info/appchoices).
+
+To end all targeting on a mobile device immediately, turn on “Limit Ad Tracking” in the device settings.
+
+  * To limit Ad Tracking on an Apple device: https://support.apple.com/en-us/HT202074.
+  * To limit Ad Tracking on an Android device: https://support.google.com/ads/answer/2662922
+
+
+
+### J – How to Disable or Block Cookies
+
+You may choose to block our Website or other sites from setting cookies by changing the settings of your browser.
+
+**_To obtain information specific to a browser you can refer to_**
+
+Explorer: http://support.microsoft.com/kb/196955
+
+Firefox: http://support.mozilla.org/en-US/kb/Cookies
+
+Google Chrome: http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647
+
+Opera: http://www.opera.com/browser/tutorials/security/privacy/
+
+Safari: http://support.apple.com/kb/ph5042
+
+Safari iOS: http://support.apple.com/kb/ht1677
+
+Android: http://support.google.com/android/bin/answer.py?hl=en&answer=1722193
+
+Blackberry: http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp
+
+Windows Phone: http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx
+
+**Note: _If you block or delete technical and/or function cookies used by the Website, the Website may become impossible to browse, certain services or functions of the Website may become unavailable or other malfunctions may occur. In this case, you may have to modify or manually enter some information or preferences every time you visit the Website._**
+
+**_To delete or disable Flash Cookies, please visit:_**
+
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html
+
+### K. How to Manage your Social Media Settings
+
+You can edit or remove the permissions you have granted us to use information from your connected social media accounts by using the application privacy settings on your social media account. See the following for instructions on how to change or remove third party access on each platform:
+
+Twitter: https://help.twitter.com/en/managing-your-account/connect-or-revoke-access-to-third-party-apps
+
+Facebook: https://www.facebook.com/help/262314300536014/
+
+## 10\. Third Parties Websites and Content
+
+The Website and the Services include links to other websites and other content from third party businesses. These third party businesses use cookies, web beacons or other similar technology to collect information. Vydia does not have access to or control over these third parties or the cookies, web beacons or other technology that these third parties may use. We are not responsible for the privacy practices of these third parties or the content on any third party website. You are encouraged to review the privacy policies of the different websites you visit.
+
+## 11\. Minors; Children Under Age 13
+
+Users aged between 13 and 18 (or the applicable age of majority) may not use the Website or Services without involvement of a parent or guardian
+
+The Services are not intended for children under age 13. We do not knowingly collect or distribute personal information from or about children under the age of 13.
+
+## 12\. Security
+
+We implement industry standard security measures intended to protect against the loss, misuse, and alteration of the information under our control. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, Vydia cannot guarantee or warrant the security of any information you transmit on or through the Website or the Services and you do so at your own risk.
+
+### A – Breach of Security
+
+If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us might have been compromised), or if you suspect someone else is using your account, please let us know immediately by contacting us as indicated in the “How to Contact Us” section.
+
+B – Lost or Stolen Information.
+
+You must promptly notify us if your credit, bank, other financial institution information, username, or password is lost, stolen, or used without permission. In such an event, we will assist you in updating your account details.
+
+## 13\. Use of Information Outside Your Country of Residence
+
+Personal Information is collected and processed in several different countries. We provide services to individuals, users, or customers located across the globe. Subject to applicable law, the personal data that we obtain from or about individuals may be processed or transferred to data centers located throughout the world. The standards and laws that apply to the protection of personal data in these countries may be different from that which is afforded in the country where a is located.
+
+If you choose to use the Website or the Services or provide your information to us, your information may be transferred to, processed, and maintained on servers or databases located outside of the country or jurisdiction where you are located.
+
+We rely on decisions from the European Commission and standard data protection clauses adopted by the European Commission when exchanging data across borders or when engaging service providers to process personal data outside the EEA.
+
+Individuals who are in the EEA and who request access to our services and platform are required to explicitly consent the proposed transfer or processing of their personal data outside the EEA.
+
+## 14\. Accessing, Changing and Managing Your Information
+
+If you are a Registered User, you may make changes to the information you have provided in connection with your account by logging in to your account and changing the applicable information from the Dashboard.
+
+You may also request changes by contacting us at support@vydia.com. Following receipt of a request from you, we will take reasonable steps to update, correct or delete your information as requested.
+
+## 15\. Rights of Individuals Located in the European Economic Area
+
+The EU General Data Protection Regulation (GDPR) grants individuals who are in the European Union and European Economic Area (EU/EEA) the following rights, with some limitations. Individuals may contact us, at the address provided in the “How to Contact us” section below, to exercise any of those rights and we will respond with the requested action or information, or will let you know why that right does not apply to you.
+
+### Right Not to Provide Consent or to Withdraw Consent
+
+We may seek to rely on your consent to process certain personal data. Where we do so, you have the right not to provide your consent, and the right to withdraw your consent at any time. If you withdraw your consent, this will not affect the lawfulness of the processing conducted based on consent before its withdrawal.
+
+### Right of Access
+
+You have the right to obtain confirmation as to whether or not we collect or process personal data concerning you and, if this is the case, you have the right to request a copy of such personal data in digital format.
+
+### Right of Rectification
+
+You have the right to require that we correct any inaccurate personal data concerning you, and that we complete incomplete personal data.
+
+### Right of Erasure
+
+In certain circumstances, you have the right to request that we erase personal data concerning you; for example, if it is no longer necessary for the purposes for which it was originally collected.
+
+### Right to Restrict Processing
+
+In certain circumstances, you have the right to request that we restrict the processing of the personal data that we have collected about you; for example, where you believe that the personal data that we hold about you is not accurate or lawfully held.
+
+### Right to Data Portability
+
+In certain circumstances, you have the right to receive the personal data concerning you that you have provided us in a structured, commonly used, machine readable format, and the right to obtain that we transmit the data to another entity where technically feasible.
+
+### Right to Object to the Processing
+
+In certain circumstances, you have the right to request that we stop processing your personal data.
+
+### Right to Object to the Processing for Direct Marketing Purposes
+
+You have the right to request that we stop sending you marketing communications.
+
+### Right Not to be Subject to Decisions Based Solely on Automated Processing that Produce Legal Effects
+
+In certain circumstances, you have the right no to be subject to a decision based solely on automated processing – including profiling – that produces legal effects or similarly affects you.
+
+### Right to Complain to a Supervisory Authority
+
+You have the right to lodge complaint with a supervisory authority if you believe that our processing of personal data relating to you infringes the GDPR.
+
+## 16\. Rights of Users Located in California
+
+California requires operators of websites or similar services to make certain disclosures to users who reside in California regarding their rights, specifically:
+
+### Do Not Track
+
+Your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit. However, Vydia will not disable tracking technology that may be active on the Website or the Services in response to any “do not track” requests that we receive from your browser.
+
+### Shine the Light
+
+Under California law, a business that has an established business relationship with an individual, and has, within the immediately preceding calendar year, disclosed personal data that is primarily used for personal, family or household purposes to a third party for the third party’s direct marketing purposes, must disclose to its California users, upon request, the identity of any such third party, along with the type of personal data disclosed.
+
+You can contact us as provided in the “How to Contact Us” section. Please note that under California law, businesses are only required to respond to a user’s request once during any calendar year.
+
+### Right of Erasure for California Minors
+
+If you are a California resident under the age of 18 (a **“minor”** ) and are a Registered User, you may request that we remove content or information that you uploaded to the Services or stored on our servers by (i) submitting a request in writing to support@vydia.com and (ii) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to erase or otherwise eliminate content or information if (a) other state or federal laws require us or a third party to maintain the content or information; (b) the content or information was posed, stored, or republished by another user; (c) the content or information is anonymized so that the minor cannot be individually identified; (d) the minor does not follow the instructions posted in this Privacy Policy on how to request removal of such content or information; and (e) the minor has received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain such content or information.
+
+## 17\. Amendments
+
+The effective date of this Privacy Policy is provided at the top of this document. We will notify you of changes to this Privacy Policy by posting the amended terms on the Website and the App in accordance with applicable law.
+
+## 18\. How to Contact Us
+
+If you have any questions about our privacy practices or this Privacy Policy, please feel free to contact us at any of the following:
+
+The Data Controller is Vydia, Inc., a Delaware corporation.
+
+Vydia, Inc.  
+---  
+Address | Re: Privacy Policy  
+| 31 East Main Street, Box 901  
+| Freehold, NJ 07728  
+Website | https://vydia.com/contact/  
+Email | support@vydia.com  
+Phone | +1 (646) 661-2484
