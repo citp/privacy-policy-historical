@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the biblionasium.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014171950id_/https%3A//www.biblionasium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblionasium.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825195005id_/https%3A//www.biblionasium.com/privacy) for the most accurate reproduction.*
 
 # Biblionasium - Kids Share Book Recommendations. Use Online Reading Logs, Find Books At Their Reading Level
 
 ## Privacy Policy
 
-Updated June 1, 2014
+Updated November 1, 2016
 
 Welcome to Biblionasium, a fun and engaging website to excite and encourage kids to read. On Biblionasium, with a parent and/or educator permission, children are given an account where they can then catalogue and track their reading, connect to friends to share and exchange book reviews and recommendations, discover new books, and get rewards for completing reading challenges. Parents and teachers also participate by monitoring the children’s reading, reviews, give book recommendations and create challenges for the children and help them meet their reading goals.
 
 We respect and protect all of our users' privacy and have built a safe online platform to support and promote the independent reading activities of children, 13 years of age and younger. Because our users are 13 and younger, we take extra precautions to keep everyone on Biblionasium safe and protected. Our information practices are designed to comply with the United States Federal Trade Commission's (FTC) Children's Online Privacy Protection Act (COPPA). Our Privacy Policy will help you understand the different measures we take to help create a safe and fun digital platform for kids.
 
-To find out more about COPPA, please visit [http://www.coppa.org](http://www.coppa.org/). 
+To find out more about COPPA, please visit <https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule>. 
 
 Please read through this Privacy Policy, and take some time to talk with your child about the importance of being safe on the Internet. We believe the Internet is a special tool that can open up a world of great opportunities for kids, but not everyone on the web has good intentions. Remember to stay involved in your kids' and students' activity on Biblionasium and any other sites they visit as they explore the World Wide Web.
 
