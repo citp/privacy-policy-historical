@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwebinfo.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025352id_/http%3A//ww43.iwebinfo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebinfo.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825025043id_/http%3A//ww43.iwebinfo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
