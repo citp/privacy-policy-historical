@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908095430id_/http%3A//karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825124434id_/https%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Karmaloop.com
-
-* * *
+# Privacy Policy
 
 Thank you for visiting our websites. We recently updated our Privacy Policy, which outlines the information we collect, how it may be used and/or disclosed, as well as your options regarding these practices. If you have any questions or concerns regarding this Privacy Policy, please contact us at [questions@karmaloop.com](mailto:questions@karmaloop.com).
 
@@ -24,7 +22,7 @@ We encourage you to register when shopping on our Sites or Apps or when using ou
 
 We will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. **If you are under 13 years old, please do not provide your information on our website or attempt to register on our Sites, Apps or Services.**
 
-### Information We May Automatically Collect
+###  Information We May Automatically Collect
 
 We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Sites or Apps, or interact with our emails or advertisements on our Sites, our Apps, or other Services. A cookie is a small data file that is sent to your browser from a web server and stored on your phone or computer's hard drive. For example, we may automatically collect information such as your IP address, geographic location data, unique user ID, cell phone model, operating system, and carrier, and internet service provider. We also may collect information about your use of our Services, such as the time you spend using the Sites or Apps or Services, the number of times you visit, whether you click-through, open, or forward links, emails, and ads, and other Services usage data. These technologies, such as cookies, allow us to keep track of your order as you shop on our Sites or Apps, recognize registered users when they visit, and to provide those customers with information and advertising that is more relevant to them. If you register with or order from us, we may use cookies or other technologies to monitor and maintain information about how you use our Services and what you buy. If you do not register with or buy from us, we may monitor and maintain information about your use in order to improve your shopping experience and provide you with more relevant content and advertising.
 
@@ -48,9 +46,9 @@ The information we collect is used to improve the content of our Services, enhan
 
 ### Use of Information Disclosure
 
-We use the information we collect from you for billing purposes and to fulfill your orders. We do not store your credit card information[](http://www.karmaloop.com/help/privacy-policy/#_msocom_1). If you have created a username and password to the site or if you have signed up to receive our email newsletter updates we may use your purchase history to personalize special offers and promotions for you. These offers and promotions will be delivered to you in the form of an email newsletter.  We may also share the information we collect from you and about you with Shiekh’s subsidiaries, including Shiekh Shoes, Shiekh, ShiekhToo, ChicShoes.com, TiltedSole.com, Eilatan.com, Sole, Broadway 7.15, FBRK Clothing.com, Karmaloop, PLNDR and Kazbah , as well as certain third-party partners. We also may use your personal information for our everyday business purposes such as service improvements, security, payment processing, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance.
+We use the information we collect from you for billing purposes and to fulfill your orders. We do not store your credit card information[](https://www.karmaloop.com/help/privacy-policy/#_msocom_1). If you have created a username and password to the site or if you have signed up to receive our email newsletter updates we may use your purchase history to personalize special offers and promotions for you. These offers and promotions will be delivered to you in the form of an email newsletter.  We may also share the information we collect from you and about you with Shiekh’s subsidiaries, including Shiekh Shoes, Shiekh, ShiekhToo, ChicShoes.com, TiltedSole.com, Eilatan.com, Sole, Broadway 7.15, FBRK Clothing.com, Karmaloop, PLNDR and Kazbah , as well as certain third-party partners. We also may use your personal information for our everyday business purposes such as service improvements, security, payment processing, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance.
 
-**Please be aware that any personal or proprietary information or content that you voluntarily upload or submit for public posting to the Services (e.g., comments, pictures or other content) becomes publicly available and can be collected and used by others. It is a violation of the Service's Terms of Use  **[](http://www.karmaloop.com/help/privacy-policy/#_msocom_3) **for you to post content that requests personally identifiable information from other users of our Services.**
+ **Please be aware that any personal or proprietary information or content that you voluntarily upload or submit for public posting to the Services (e.g., comments, pictures or other content) becomes publicly available and can be collected and used by others. It is a violation of the Service's Terms of Use  **[](https://www.karmaloop.com/help/privacy-policy/#_msocom_3) **for you to post content that requests personally identifiable information from other users of our Services.**
 
 Please also be aware that it is possible that we may sell or buy other website or assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Services in a manner that is consistent with this Privacy Policy. We may also occasionally share aggregate, non-personally identifiable information about users of our Services with third parties.
 
@@ -64,7 +62,7 @@ Based upon the personally identifiable information you provide us, we will send 
 
 ### Supplementation of Information
 
-In order to process your credit card orders, we use BrainTree/PayPal, a third party service, to validate and verify your account information. All billing and account info is transmitted via https which is a secure encrypted protocol system[](http://www.karmaloop.com/help/privacy-policy/#_msocom_4).
+In order to process your credit card orders, we use BrainTree/PayPal, a third party service, to validate and verify your account information. All billing and account info is transmitted via https which is a secure encrypted protocol system[](https://www.karmaloop.com/help/privacy-policy/#_msocom_4).
 
 ### Legal Disclaimer
 
@@ -78,7 +76,7 @@ This website contains links to other sites that are not owned or controlled by k
 
 The security of your personal information is important to us. We use reasonable technological and physical safeguards to protect personal information you provide to us from loss, misuse and unauthorized access, disclosure, alteration and destruction. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet is 100% secure, however, we make all reasonable efforts to use commercially acceptable means to protect your personal information. In the unlikely event of a data breach, you will be notified as soon as possible.[](http://www.karmaloop.com/help/privacy-policy/#_msocom_5)  
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet is 100% secure, however, we make all reasonable efforts to use commercially acceptable means to protect your personal information. In the unlikely event of a data breach, you will be notified as soon as possible.[](https://www.karmaloop.com/help/privacy-policy/#_msocom_5)  
 
 
 Customer Service
