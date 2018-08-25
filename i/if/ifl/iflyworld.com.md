@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iflyworld.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220092312id_/https%3A//www.iflyworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflyworld.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825112332id_/https%3A//www.iflyworld.com/privacy) for the most accurate reproduction.*
 
 # iFLY Online Privacy Policy
+
+##### _Last Updated: 6/27/2016_
 
 ## Our Commitment To Your Privacy
 
@@ -109,14 +111,8 @@ We may revise this Privacy Policy, so review it periodically.
 
  **New Uses of Personally Identifiable Information.**   From time to time, we may desire to use information for uses not previously disclosed in our Privacy Policy.  If our practices change regarding previously collected personally identifiable information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
- **Contact Information:**
-
-iFLY
-
-6034 West Courtyard Drive, Suite 135
-
-Austin, TX 78730
-
+ **Contact Information:**  
+iFLY  
+6034 West Courtyard Drive, Suite 135  
+Austin, TX 78730  
 [copyright@iFLYWORLD.com](mailto:copyright@iFLYWORLD.com)
-
-Last Updated: **6/27/2016**
