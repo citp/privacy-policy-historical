@@ -1,103 +1,117 @@
-> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002083316id_/https%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825090012id_/https%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy
+# Privacy Policy
 
-## What Information Do We Collect? 
+This Privacy Policy informs you about the type of personal data that is collected and received through our website https://www.sigmabeauty.com (“website”), and about how we use, share, retain and protect such personal data.
 
-## 
+## Who we are
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature .
-  *  When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulﬁll the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites.Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.   
+We are the United States company Sigma Enterprises, LLC (“we”, or “us”) and have our registered office at 1395 Commerce Drive, Mendota Heights, MN 55120. We are the controller responsible for the processing of personal data through the website.
 
+## How we obtain personal data
 
+We collect and receive personal data through the website. Personal data means any information relating to an identified or identifiable natural person.
 
+First of all, we collect personal data that you choose to voluntarily provide to us for your use of the website. In addition, we collect certain personal data by using cookies, including similar technologies such as local storage when you visit the website.
 
-## How Do We Use Your Information?
+We collect personal data from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. We also collect information about gift recipients so that we can fulﬁll the gift purchase. The information we collect about gift recipients is not used for marketing purposes. Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites.
 
-## 
+Cookies are bits of text that are placed on your computer’s hard drive or mobile device when you visit certain websites. Cookies hold information that may be accessible by the party that places the cookie, which is either the website itself (first-party cookie) or a third party (third-party cookies). You do have control over cookies, and can refuse the use of cookies by selecting the appropriate setting on your browser (such as Chrome, Safari, etc.). Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable or delete existing cookies. For more information regarding turning off cookies in your browser, please visit http://networkadvertising.org/. Please note, however, that by not accepting or deleting the use of cookies, you may not be able to use the website. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+On the website, we use cookies for the following purposes:
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-
-  * To allow us to better service you in responding to your customer service requests.   
-
-  * To quickly process your transactions.  
-
-  * To administer a contest, promotion, survey or other site feature.
-  * You have the ability to opt-in to receive our e-mail newsletters once you are accepted into the Affiliate, Pro Partners or Wholesale Program, or after making a purchase on sigmabeauty.com. If you would no longer like to receive promotional e-mails from us, simply click the unsubscribe button at the bottom of all promotional emails or refer to the "How can you opt-out, remove or modify information you have provided to us?" section below.
+  1. To gather website statistical data to analyze how our users use the website, such as which pages are visited, how long pages were visited and the paths taken by visitors to our website as they move from page to page. These cookies are placed by the domain https://sigmabeauty.com;
+  2. To provide authentication (i.e. to keep you logged in between sessions). The information collected using local storage is stored on your browser and persists after your browser is closed.
+  3. For the purpose listed under 1), we use Google Analytics. Google Analytics is a web analytics service provided by Google, Inc., which uses cookies to help. The information generated by the cookie about your use of our website (such as your IP address, the URL visited, the date and time the page was viewed) will be transmitted and stored by Google on servers in the United States or any other country in which Google maintains facilities. Your IP address will be masked by setting the last octet of your IP address to zero before it is stored by Google. Google will use this information to monitor your use of our website, and to compile reports on website activity for us. Based on our agreement with Google, Google is not allowed to use this information for their own purposes and may only transfer this information to third parties where required by law, or where such third parties process information on Google’s behalf.
 
 
 
-## How Do We Protect Visitor Information?
+## The types of personal data we may obtain
 
-## 
+We may collect and receive the following personal data from you:
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained-quired to keep the information conﬁdential. When you place orders or access your personal information, we o er the use of a secure server.All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
-
-## Do We Use "Cookies"?
-
-## 
-
-Yes. Cookies are small ﬁles that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
-
-Do We Disclose The Information We Collect To Outside Parties?  
+  1. Name and contact details (such as name, address, email, username, fax and phone numbers);
+  2. Account details (such as username, password);
+  3. Payment information (such as bank account information);
+  4. Information on your use of the website;
+  5. Personal data included in content uploaded by you to the website;
+  6. Personal data included in comments posted by you on the website;
+  7. Traffic data (such as your Internet usage);
+  8. Any other information that you have provided us (such as your profile picture, the comments you leave and whether you would like to receive our newsletter).
 
 
-## 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identiﬁable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Sigma Enterprises LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information conﬁdential. We may also release your information when we believe release is appropriate to comply with the law,en-force our site policies, or protect ours or others' rights, property, or safety.
+We may collect other types of personal data if required under applicable law or if necessary for the purposes listed below. We will then inform you and ensure that there is a valid legal basis for doing so.
 
-## HOWEVER, NON-PERSONALLY IDENTIFIABLE VISITOR INFORMATION MAY BE PROVIDED TO OTHER PARTIES FOR MARKETING, ADVERTISING, OR OTHER USES.
+## How we may use personal data
 
-## 
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>.
+  1. To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested;
+  2. To quickly process your transactions;
+  3. To administer a contest, promotion, survey or other site feature;
+  4. To create an account for your use of the website;
+  5. To allow us to better service you in responding to your customer service requests;
+  6. To analyze how the website is used, such as which pages are visited, how long pages were visited and the paths taken by visitors to our website as they move from page to page;
+  7. To verify compliance with applicable legal requirements and our policies;
+  8. To contact you, such as by sending personalized emails, about our products and services, including our newsletters.
 
-How can you opt-out, remove or modify information you have provided to us? To modify your e-mail subscriptions, please let us know by modifying your preferences in the "Customize Your Emails" page. Please note that due to email production schedules you may receive any emails already in production.
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+We process personal data because this is necessary for the performance of the contract between you and us, for our compliance with our legal obligations and for the purpose of our legitimate interests. In particular, our legitimate interests are our commercial company interest (e.g. to improve our products and services), our interest to make use of direct marketing, our interest to prevent fraud and our interest to report possible criminal acts or threats to competent authorities. Some of the personal data that we process is required for us to meet our legal obligations, for example we cannot create an account for you if you choose not to share your personal data with us.
+
+## How we may share personal data
+
+We may share the personal data we collect and receive on a need to know basis with the following third parties:
+
+  1. Service providers;
+  2. Competent public authorities or other third parties, if required by law or reasonably necessary to protect the rights, property and safety of ourselves or others.
+
+
+
+We do not sell, rent, trade, or otherwise transfer to outside parties your personally identiﬁable information. The term "outside parties" does not include Sigma Enterprises LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information conﬁdential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+
+## How we protect personal data
+
+We maintain appropriate technical and organizational security safeguards designed to protect your personal data against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. When you place orders or access your personal information, we offer the use of our secured server. All sensitive information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed by you and us. However, due the inherent open nature of the Internet, we cannot guarantee that communications between you and us or the personal information stored is absolutely secure. We will notify you of any data breach that is likely to have unfavorable consequences for your privacy in accordance with applicable law.
+
+## How long we retain personal data
+
+We retain personal data for as long as necessary to fulfil the purposes for which we collect or receive the personal data, except if required otherwise by applicable law. Typically, we will retain most of the personal data for the duration of your use of the website, until you have removed your account, unless a longer applicable statutory retention period applies. If you would like to us more information about how long we retain your personal data, please contact us as described below.
+
+## Your Rights
+
+You have the following rights in relation to your personal data:
+
+  1. The right to obtain, at reasonable intervals and free of charge, information on whether or not your personal data are being processed and to receive the personal data that is being processed in an intelligible form;
+  2. The right to request rectification or erasure of personal data or restriction of or objection to processing of your personal data. You may also request us to provide you your data in a structured, commonly used and machine readable format which can be transmitted to another controller.
+  3. To exercise these rights, please contact us using our contact details set out below. We may request you to provide a copy of your ID card or otherwise evidence your identity. We will respond to your request within the applicable statutory term.
+  4. Moreover, subject to this Privacy Policy, you have the right to file a complaint with the competent supervisory authority.
+
+
 
 ## Third Party Links
 
-## 
-
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a speciﬁc link does not work).
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a speciﬁc link does not work).
 
 ## Changes To Our Policy
 
-## 
-
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modiﬁed on March 21, 2017.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modiﬁed on May 24, 2018.
 
 ## Questions And Feedback
 
-## 
-
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue. You can send an email to [privacy@sigmabeauty.com](mailto:privacy@sigmabeauty.com?Subject=Privacy%20Policy) with the subject line "Privacy Policy" and we will respond as soon as possible.
 
 ## Online Policy Only
-
-## 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 ## Terms And Conditions
 
-## 
-
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
-## 
-
 By using our site, you consent to our privacy policy.
 
-© 2017 Sigma Enterprises, LLC.
+© 2018 Sigma Enterprises, LLC.
