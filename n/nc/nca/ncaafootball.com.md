@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622232632id_/http%3A//www.ncaafootball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825191626id_/http%3A//www.ncaafootball.com/privacy) for the most accurate reproduction.*
 
 # NCAA.com Privacy Statement | NCAA.com
 
@@ -66,7 +66,7 @@ We may disclose the Information as follows:
 
 4.         We may transfer some or all of the Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another  company, or sale of all or part of our assets, or if a substantial portion of our or one of our business units’ assets is sold or merged in this way.
 
-5.         We may share the Information with Turner’s affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners’ products and services. A representative list of our affiliates is available in the [ ** _Turner Affiliates_**](https://web.archive.org/news/ncaa/article/2010-12-20/ncaacom-privacy-statement#affiliates) section below.
+5.         We may share the Information with Turner’s affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners’ products and services. A representative list of our affiliates is available in the [ ** _Turner Affiliates_**](https://web.archive.org/privacy#affiliates) section below.
 
 6.         We may share the Information with unaffiliated Partners and third parties (e.g., our third-party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you. If you wish to opt out from such sharing please visit the [ ** _How to Contact Us/Opting Out of Marketing Communications_**](https://web.archive.org/news/ncaa/article/2010-12-20/ncaacom-privacy-statement#optout) section below for further instructions.
 
