@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173415id_/https%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825043752id_/https%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|Telenor Pakistan
 
