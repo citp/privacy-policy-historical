@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvsa.co.za privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007173552id_/https%3A//www.tvsa.co.za/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsa.co.za privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825094342id_/https%3A//www.tvsa.co.za/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TVSA
 
