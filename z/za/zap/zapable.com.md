@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapable.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172902id_/http%3A//zapable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapable.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825223125id_/https%3A//zapable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapable | Mobile App Maker
 
@@ -28,11 +28,11 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 #### We use regular Malware Scanning.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. **We do not store credit card details nor do we share customer details with any 3rd parties**.
 
 We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+**All transactions are processed through a gateway provider and are not stored or processed on our servers.**
 
 #### Do we use ‘cookies’?
 
