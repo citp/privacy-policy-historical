@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfwallpaper.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529213557id_/http%3A//sfwallpaper.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfwallpaper.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825155743id_/http%3A//sfwallpaper.com/s/privacy.html) for the most accurate reproduction.*
 
 # SF Wallpaper
 
