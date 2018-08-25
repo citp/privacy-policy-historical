@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imotions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172805id_/https%3A//imotions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imotions.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826012455id_/https%3A//imotions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
