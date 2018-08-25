@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dar.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616194736id_/http%3A//www.dar.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dar.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825232755id_/http%3A//www.dar.com/privacypolicy) for the most accurate reproduction.*
 
 # Dar Al-Handasah - Privacy Policy
 
@@ -27,7 +27,7 @@ We may share your information with selected third parties including:
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/web/20180616194736id_/Legal) and other agreements; or to protect our rights, property, or safety, our affiliates, partners customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/web/20180825232755id_/Legal) and other agreements; or to protect our rights, property, or safety, our affiliates, partners customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -46,13 +46,7 @@ We will use the personal information we gather for a number of reasons, includin
   * as part of our efforts to keep our site safe and secure;
   * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
   * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
-
-
-
-We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/web/20180616194736id_/legal) and other agreements; or to protect our rights, property, or safety, our affiliates, partners customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * where you have provided your email address to us under the “ _Receive our latest publication in your inbox_ ” option, we may include your email address in email distributions enabled by MailChimp. You can elect to opt out of these distributions by either contacting us at [privacy@dar.com](mailto:privacy@dar.com) or utilising the ‘opt-out’ link included in each applicable email. MailChimp’s Privacy Policy can be accessed [here](https://mailchimp.com/legal/privacy/). MailChimp uses cookies in its provision of services and its Cookie Statement can be accessed [here](https://mailchimp.com/legal/cookies/) including details of how to control cookies.
 
 
 
@@ -79,7 +73,7 @@ From time to time the Website may include Social Media Features, such as the Fac
 
 #### 6\. Cookies and Other Tracking Technologies
 
-For information on cookies, please see [our Cookie Policy](https://web.archive.org/web/20180616194736id_/CookiePolicy).
+For information on cookies, please see [our Cookie Policy](https://web.archive.org/web/20180825232755id_/CookiePolicy).
 
 #### 7\. Security of information and transmission via the internet
 
@@ -125,3 +119,5 @@ You can withdraw your consent, where we are relying on it to use your personal d
 #### 14\. Changes to our policy
 
 We reserve the right to make changes to our Privacy Policy, and we will post those changes on this page. Please review this page on a regular basis for changes. We will use information in accordance with the Privacy Policy Statement under which the information was collected.
+
+  _Updated 30 July 2018_
