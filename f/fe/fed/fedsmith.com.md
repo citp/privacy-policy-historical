@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120040714id_/https%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825141256id_/https%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : FedSmith.com
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/fedsmith.com).  
+
 
 FedSmith Inc. is committed to our users’ privacy. We handle information submitted to us from our users with care. By visiting and using the FedSmith Inc. web site, you agree to the terms stated in this privacy policy.
 
@@ -22,4 +26,4 @@ FedSmith Inc. collects information about our site visitors whenever they view ou
 
 “Cookies” are data sent to your web browser from a web server (such as Google) that can uniquely identify your computer and store information about user preferences. Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html).
