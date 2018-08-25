@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classpass.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513142454id_/https%3A//classpass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classpass.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825103451id_/https%3A//classpass.com/privacy) for the most accurate reproduction.*
 
 # ClassPass | Privacy Policy
 
@@ -34,9 +34,11 @@ We may use non-Personally Identifiable Information such as demographic data to a
 
 We will not sell or rent your Personally Identifiable Information to third parties except as described in this Privacy Policy. We may disclose your Personally Identifiable Information to other companies or people under any of the following circumstances:
 
-  * to any applicable venue, studio, instructor, or other service provider for each class or activity that you sign up for on the Site, so it can contact you regarding the activity you reserved and send you other communication that may be of interest say as special offers (you may opt-out of marketing communications directly with the applicable venue). 
-  * if sharing the information is reasonably necessary to provide or otherwise make available the Site and any feature of the Site or a service that you have requested.
+  * to any applicable venue, studio, instructor, or other service provider for each class or activity that you sign up for on the Site and their third-party providers, so they can process the applicable reservation, make available services to you and contact you regarding the activity you reserved and send you other communication that may be of interest say as special offers (you may opt-out of marketing communications directly with the applicable venue). 
+  * if sharing the information is reasonably necessary to provide or otherwise make available the Site and any feature of the Site or a service.
   * to keep you up to date on the latest product announcements, software updates, special offers, or other information we think you would like to hear about either from us or from our business partners (unless you have opted out of these types of communications). (Note that you will not be able to opt-out of service announcements that contain important information relevant to your use of the Site and are not promotional in nature.)
+  * to other users of our Site to enable them to connect with you. When you create an account on the Site, you will automatically be able to participate in certain social features which allow you to connect with other ClassPass accountholders. Other ClassPass accountholders will be able to find you by your name and will be able to see certain information about you, such as your name, city, and profile photo. You can always choose in your Privacy Settings (in the app) whether or not to turn off being findable and you can also choose to turn off certain information your friends see about you, such as your upcoming classes, class history, and favorite studios. 
+  * ClassPass may allow you to access to a variety of audio or video digital classes from your computer or mobile device, via live stream and/or on demand. When you participate in these digital classes through a connected device, such as a heartrate monitor, we may collect heartrate and other metrics to calculate your ranking in the leaderboard, display a record of your participation and otherwise provide, learn about and improve the Site and our services. If you sync your heart rate monitor with the Site to participate in digital classes, you will automatically be part of the leaderboard experience, and other participants in the class will see your profile information (including your profile picture and username) and rank in the class. In addition, we may display this information or your rank on our Site, for example to display that you were a top participant that week. If you do not want your profile information to be seen by other ClassPass users, do not include any identifying information. 
   * if we believe in good faith that we are required to do so by law, in connection with litigation, to prevent a crime, or to protect personal property, the public, or the Site.
   * in connection with a sale or merger with another entity, consolidation, restructuring, sale of company assets, financing or other corporate change, including during the course of any due diligence process or if ClassPass should ever file for bankruptcy or related proceeding.
   * to your employer (or similar entity), if you participate in any of enterprise solutions or corporate programs.
@@ -48,11 +50,11 @@ ClassPass may also share non-Personally Identifiable Information with third part
 
 ## CHOICE
 
-We will give you the opportunity to “opt out” of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Privacy Policy unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection.
+We will give you the opportunity to “opt out” of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Privacy Policy unless you take affirmative action to indicate that you do not consent, for instance by opting out through the mechanism provided in the emails we send.
 
 ## ACCESS
 
-You may correct, amend, or delete your Personally Identifiable Information by editing your profile on the Site or [contacting us](https://web.archive.org/contact).
+You may correct, amend, or update your Personally Identifiable Information by editing your profile on the Site or [contacting us](https://web.archive.org/contact).
 
 ## SECURITY
 
@@ -82,7 +84,7 @@ The Site may allow you to post or share content to a public area of the Site suc
 
 ## YOUR CONSENT TO THIS PRIVACY POLICY
 
-By using this Site, you agree to this Privacy Policy. We may occasionally update this Privacy Policy. The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on [classpass.com](http://classpass.com/). If we decide to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on [classpass.com](http://classpass.com/). We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personally Identifiable Information we collect. Your continued use of this Site constitutes your agreement to this Privacy Policy and any updates.
+By using this Site, you agree to this Privacy Policy. We may occasionally update this Privacy Policy. The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on classpass.com. If we decide to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on classpass.com. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personally Identifiable Information we collect. Your continued use of this Site constitutes your agreement to this Privacy Policy and any updates.
 
 ## CONTACTING CLASSPASS
 
@@ -92,6 +94,8 @@ ClassPass Inc.
 P.O. Box 20196  
 Greeley Sq Station  
 New York, NY 10001  
-Email: [info@classpass.com](mailto:info@classpass.com)
 
- **Last updated:** June 25, 2015
+
+Or [contact us here](https://web.archive.org/contact).
+
+ **Last updated:** July 9, 2018
