@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630040141id_/https%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825091536id_/https%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://7495d01usiu9nwjta0geg8lfbw.hop.clickbank.net/)
 
 ## **Cookies and Privacy Policy of Pakistan Virtual Library**
 
