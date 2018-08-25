@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516054459id_/https%3A//www.ukessays.com/contact/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825212732id_/https%3A//www.ukessays.com/contact/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Essays
 
@@ -32,6 +32,8 @@ We will only ever call you about an existing service you have asked us to provid
 
 ### Feedback
 
+After we have completed your order, we pass your name, email address, order number and localisation data, to a company called Reviews.co.uk, who provide an independent product review service. They will then email you, asking for feedback on your order, and any feedback will be posted publicly on the [Reviews.co.uk website](https://www.reviews.co.uk/company-reviews/store/ukessays-com). You can read Reviews.co.uk's privacy policy [here](https://www.reviews.co.uk/front/user-privacy-policy).
+
 Sometimes we use a service called Survey Monkey to administer surveys so that we can gather feedback from our customers and improve the services we provide. Survey Monkey use your IP address to log responses to surveys so that we know how many people have completed them. In order to encourage people to provide feedback, we might offer a prize draw for respondents. If so, we will ask for an email address to be provided in the survey, but this is entirely optional and is only used to contact the winner of the prize. You can read Survey Monkey's privacy policy [here](https://www.surveymonkey.co.uk/mp/legal/privacy-policy/).
 
 ### Other purposes
@@ -52,7 +54,7 @@ Our websites set cookies in your browser to improve your experience and to make 
 
 By law, you have a number of rights available to you when you give us your personal data. You can ask for access to any of your personal data that we hold; you can ask us to correct any inaccuracies in your personal data; you can ask us to delete your personal data where there is no longer any good reason for us to have it; you can object to the processing of your data in some cases; and, where you have given consent, you are able to withdraw that consent at any time. Under certain circumstances, such as if the data is material to legal proceedings, you can also ask us to temporarily stop processing your personal data. Where your data is automatically processed, you can also ask for a copy of your data in a machine-readable format.
 
-If you would like to exercise any of your rights listed above, please send your request to our data protection officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) After we have received proof of your identity, we will respond to your request within one calendar month.
+If you would like to exercise any of your rights listed above, please send your request to our data protection officer at dpo@allanswers.co.uk. After we have received proof of your identity, we will respond to your request within one calendar month.
 
 If you are not happy with how we have handled your personal data, you have the right to lodge a complaint with the Information Commissioner's Office.
 
@@ -66,14 +68,16 @@ If you communicate with us by email over the Internet, you should be aware that 
 
 ### Data retention policy
 
-We only process your data when we need it to fulfil the purpose it was originally collected for, such as to provide a service, to gather feedback or to comply with a legal obligation. This means that retention policies for your data can differ considerably depending on the context and the way it is used. When deciding on a retention policy for any type of data, we use the following criteria:
+We only hold on to your data for as long as we need it to fulfil one of the purposes it was originally collected for, such as to provide a service, to gather feedback or to comply with a legal obligation. This means that retention policies for your data can differ considerably depending on the context and the way it is used. When deciding on a retention policy for any type of data, we use the following criteria:
 
-  * **How long is the data needed for?** \- For example, if you have not logged in to your account for several years, we might remove you from our mailing lists.
-  * **What did we say we would do with the data when we collected it?** \- If the purposes for which we originally collected the data are no longer relevant, there is no need to keep hold of it.
+  * **How long is the data needed for?** \- For example, if you have not logged in to your account for several years, we will remove you from our mailing lists.
+  * **What did we say we would do with the data when we collected it?** \- If the purposes for which we originally collected the data are no longer relevant, there is no need to keep it.
   * **Do we have a legal obligation to keep the data?** \- For example, financial information needs to be kept for a minimum amount of time for tax reasons.
   * **Does holding the data carry an inherent risk?** \- In the unlikely event of a data breach, we want to ensure that nothing sensitive is stolen. We will therefore have reduced retention periods for data we consider to be sensitive.
 
 
+
+However, in general, we securely archive most of your account data after four years of inactivity (see 'Other purposes' above) and then permanently delete all of your personal data after six years of inactivity.
 
 ### Transfers to countries outside the EEA
 
