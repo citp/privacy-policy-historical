@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myindiacoupons.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120124857id_/http%3A//myindiacoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myindiacoupons.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825124959id_/https%3A//myindiacoupons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My India Coupons
 
@@ -18,7 +18,7 @@ My India Coupons uses cookies to store information about visitors’ preferences
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to My India Coupons and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**
 
