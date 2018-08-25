@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425203001id_/https%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825235354id_/https%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fantastic Furniture
 
@@ -54,7 +54,7 @@ We do not otherwise sell or provide your information to third parties.  We will
 
  **Third Party Analytics**
 
-Fantastic Furniture use third party application tracking services such as Google Analytics and Hotjar to help understand the use of our Services and Site(s). Information collected by Google is governed by Google's Privacy Policy [https://www.google.com/policies/privacy/partners/].  We use the tool Hotjar to analyse the activities of visitors to this website, and Hotjar's authorised use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website.  This tracking is to understand how our user interact with our products and services – Hotjar do not capture any personal information entered into any input form on our website including but not limited to names, email addresses, address information or payment information.  Such access to and use of Personal Information by Hotjar is governed by Hotjar Privacy Policy [https://www.hotjar.com/privacy].
+We use third party application tracking services such as Google Analytics, Hotjar and FullStory to help understand the use of our Services and Site(s). Information collected by Google is governed by [Google's Privacy Policy [https://www.google.com/policies/privacy/partners/]](https://www.google.com/policies/privacy/partners/). We use the tools Hotjar and FullStory (the Tools) to, amongst other things, analyse the activities of visitors to this website, understand how our users interact with our products and services and personalise your experience. Hotjar's and FullStory’s authorised use of cookies and other tracking technologies enable them to have access to personal information or potential personal identifiable information of visitors to this website. In addition, FullStory may use third-party cookies to aid in implementing security controls and payment processing. These cookies do not track the same user across unrelated domains. The Tools do not capture any personal information entered into any input form on our website, including but not limited to names, email addresses, address information or payment information. Such access to and use of personal information by Hotjar is governed by [Hotjar’s Privacy Policy [https://www.hotjar.com/privacy]](https://www.hotjar.com/privacy) and [FullStory’s Privacy Policy [https://www.fullstory.com/legal/privacy/]](https://www.fullstory.com/legal/privacy/).
 
  **Security**
 
@@ -89,4 +89,4 @@ You may request access to any personal information we hold about you by contacti
 
 If you have any question, concerns or complaints about this privacy policy, or our use of your information, please contact us using any of the above methods. You can also contact us if you believe that the privacy of your information has been compromised or is not adequately protected. Once a complaint has been lodged, we will respond to you within 28 days, although we may request further information for the purpose of considering your complaint. If we will take longer than 28 days to investigate your complaint, we will advise you of the likely response time.
 
-Updated September 2014
+Updated August 2018
