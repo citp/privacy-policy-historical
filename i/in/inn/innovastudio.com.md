@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovastudio.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602180012id_/http%3A//innovastudio.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovastudio.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825045307id_/http%3A//innovastudio.com/privacy.aspx) for the most accurate reproduction.*
 
 # InnovaStudio Content Builder (ContentBuilder.js) - Privacy
 
