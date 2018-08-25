@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1001freedownloads.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215123543id_/http%3A//www.1001freedownloads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001freedownloads.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825034144id_/https%3A//www.1001freedownloads.com/privacy) for the most accurate reproduction.*
 
-# Web Site Privacy Policy - 1001FreeDownloads.com
+# Privacy - 1001FreeDownloads.com
 
 **1\. Overview**  
 Thank you for visiting 1001freedownloads.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
