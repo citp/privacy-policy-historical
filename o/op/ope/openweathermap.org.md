@@ -1,190 +1,364 @@
-> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415122119id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825113607id_/https%3A//openweather.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - OpenWeatherMap
+# 
 
-### 1\. Introduction
+### 1.  IMPORTANT INFORMATION AND WHO WE ARE 
 
-1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information. 
+  
 
-1.2 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. / By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy. 
 
-###  2\. Collecting personal information 
+#### PURPOSE OF THIS PRIVACY NOTICE
 
-2.1 We may collect, store and use the following kinds of personal information: 
+This privacy notice aims to give you information on how OpenWeather Ltd collects and processes your personal data through your use of this website, including any data you may provide through this website when you [sign up](https://home.openweathermap.org/privacy_centre) to our newsletter, purchase a product or service or take part in a competition. 
 
-  * information about your computer and about your visits to and use of this website including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths; 
-  * information that you provide to us when registering with our website including your email address; 
-  * information that you provide when completing your profile on our website including your name, profile pictures, gender, date of birth; 
-  * information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters including your name and email address; 
-  * information that you provide to us when using the services on our website, or that is generated in the course of the use of those services including the timing, frequency and pattern of service use; 
-  * information relating to any purchases you make of our goods / services / goods and/or services or any other transactions that you enter into through our website including your name, address, telephone number and email address; 
-  * information that you post to our website for publication on the internet including your user name, your profile pictures and the content of your posts; 
-  * information contained in or relating to any communications that you send to us or send through our website including the communication content and meta data associated with the communication; 
-  * any other personal information that you choose to send to us; and 
-  * provide details of other personal information collected. 
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
+### CONTROLLER
 
+OpenWeather Ltd is the controller and responsible for your personal data (collectively referred to as “OpenWeather Ltd”, “we”, “us” or “our” in this privacy notice).
 
-2.2 Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with this policy. 
+  
 
-###  3\. Using your personal information 
 
-3.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website. 
+#### CONTACT DETAILS  
 
-3.2 We may use your personal information to: 
+  * Full name of legal entity: **Openweather Ltd**
+  * Name of data privacy manager: **Olga Ukolova**
+  * Email address: [**info@openweathermap.org**](mailto:info@openweathermap.org)
+  * Postal address: **4 Queens Road, Wimbledon, London, SW19 8YB, United Kingdom**
 
-  * administer our website and business; 
-  * personalise our website for you; 
-  * enable your use of the services available on our website; 
-  * send you goods purchased through our website; 
-  * supply to you services purchased through our website; 
-  * send statements, invoices and payment reminders to you, and collect payments from you; 
-  * send you non-marketing commercial communications; 
-  * send you email notifications that you have specifically requested; 
-  * send you our email newsletter, if you have requested it you can inform us at any time if you no longer require the newsletter; 
-  * send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology you can inform us at any time if you no longer require marketing communications; 
-  * provide third parties with statistical information about our users but those third parties will not be able to identify any individual user from that information; 
-  * deal with enquiries and complaints made by or about you relating to our website; 
-  * keep our website secure and prevent fraud; 
-  * verify compliance with the terms and conditions governing the use of our website including monitoring private messages sent through our website private messaging service; and 
-  * other uses. 
 
 
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues [ (www.ico.org.uk)](https://www.ico.org.uk/). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please [contact us ](https://web.archive.org/about#contacts)in the first instance.  
 
-3.3 If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us. 
 
-3.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the website. 
+#### CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES 
 
-3.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing. 
+This version was last updated on 23 May 2018 and historic versions are [archived here ](https://web.archive.org/privacy-policy-old)OR can be obtained by [contacting us. ](https://web.archive.org/about#contacts) We may change this privacy notice from time to time by updating this page in order to reflect changes in the law and/or our privacy practices. We encourage you to check this privacy notice for changes whenever you visit our website. 
 
-3.6 All our website financial transactions are handled through our payment services provider, PSP name. You can review the provider's privacy policy at URL. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds. 
+  
 
-###  4\. Disclosing personal information 
 
-4.1 We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this policy. 
+#### THIRD-PARTY LINKS  
 
-4.2 We may disclose your personal information to any member of our group of companies this means our subsidiaries, our ultimate holding company and all its subsidiaries insofar as reasonably necessary for the purposes set out in this policy. 
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-4.3 We may disclose your personal information: 
+### 2.  THE DATA WE COLLECT ABOUT YOU 
 
-  * to the extent that we are required to do so by law; 
-  * in connection with any ongoing or prospective legal proceedings; 
-  * in order to establish, exercise or defend our legal rights including providing information to others for the purposes of fraud prevention and reducing credit risk; 
-  * dto the purchaser or prospective purchaser of any business or asset that we are or are contemplating selling; and 
-  * to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information. 
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
 
+  * **Identity Data** includes [first name, last name, username or similar identifier and password].
+  * **Contact Data** includes [billing address and email address].
+  * **Transaction Data** includes [details about payments to and from you and other details of products and services you have purchased from us].
+  * **Technical Data** includes [internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website].
+  * **Usage Data** includes [information about how you use our website, and services].
+  * **Marketing and Communications Data** includes [your preferences in receiving marketing from us and our third parties and your communication preferences and surveys information].
 
-4.4 Except as provided in this policy, we will not provide your personal information to third parties. 
 
-###  5\. International data transfers 
 
-5.1 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy. 
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
 
-5.2 Information that we collect may be transferred to the following countries which do not have data protection laws equivalent to those in force in the European Economic Area: the United States of America, Russia, Japan, China and India. 
+In the course of discharging our contractual obligations to you, we do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
-5.3 Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others. 
+  
 
-5.4 You expressly agree to the transfers of personal information described in this Section 6. 
 
-###  6\. Retaining personal information 
+#### IF YOU FAIL TO PROVIDE PERSONAL DATA
 
-6.1 This Section 7 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information. 
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-6.2 Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes. 
+### 3.  HOW IS YOUR PERSONAL DATA COLLECTED?  
 
-6.3 Without prejudice to Section 7.2, we will usually delete personal data falling within the categories set out below at the date/time set out below: 
+We use different methods to collect data from and about you including through:
 
-  * personal data type will be deleted date/time; and 
-  * repeat as necessary. 
+  * **Direct interactions.** You may give us your [Identity, Contact and Financial Data] by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you: 
+    * apply for our products or services;
+    * create an account on our website;
+    * subscribe to our service or publications;
+    * request marketing to be sent to you;
+    * enter a competition, promotion or survey; or
+    * give us some feedback.
+  * **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using server logs and other similar technologies.
+  * **Third parties or publicly available sources.** We may receive personal data about you from various third parties and public sources as set out below: 
+    * Technical Data from the following parties
 
 
 
-6.4 Notwithstanding the other provisions of this Section 7, we will retain documents including electronic documents containing personal data: 
+**(a)**   analytics providers such as Google Analytics and Google tech manager; and 
 
-  * to the extent that we are required to do so by law; 
-  * if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and 
-  * in order to establish, exercise or defend our legal rights including providing information to others for the purposes of fraud prevention and reducing credit risk. 
+**(b)**   advertising networks such as HelpDesk; and
 
+**(c)**   Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as PayPal  
 
+### 4.  HOW WE USE YOUR PERSONAL DATA  
 
-###  7\. Security of your personal information 
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-7.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests, when we acting in pursue of our business purposes and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
 
-7.2 We will store all the personal information you provide on our secure password- and firewall-protected servers. 
 
-7.3 All electronic financial transactions entered into through our website will be protected by encryption technology. 
 
-7.4 You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. 
+Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending our or third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by [Contacting us](https://web.archive.org/about#contacts)
 
-7.5 You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password except when you log in to our website. 
+  
 
-###  8\. Amendments 
 
-8.1 We may update this policy from time to time by publishing a new version on our website. 
+#### PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
 
-8.2 You should check this page occasionally to ensure you are happy with any changes to this policy. 
+We have set out below a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-8.3 We may notify you of changes to this policy by email or through the private messaging system on our website. 
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [Contact us ](https://web.archive.org/about#contacts)if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-###  9\. Your rights 
+Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest  
+---|---|---  
+To register you as a new customer | 
 
-9.1 We may withhold personal information that you request to the extent permitted and required by law for the period of 6 months since original submission. 
+  * (a) Identity
+  * (b) Contact
 
-9.2 After the 6 months since original submission you may, free of charge, request us to delete any information we hold about you. 
+|  Performance of a contract with you  
+  
+To process and deliver your order including:
 
-9.3 You may instruct us at any time not to process your personal information for marketing purposes. 
+  * (a) Manage payments, fees and charges
+  * (b) Collect and recover money owed to us
 
-9.4 In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes. 
+| 
 
-###  10\. Third party websites 
+  * (a) Identity
+  * (b) Contact
+  * (c) Transaction
 
-10.1 Our website includes hyperlinks to, and details of, third party websites. 
+| 
 
-10.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties. 
+  * (a) Performance of a contract with you
+  * (b) Necessary for our legitimate interests (to recover debts due to us)
 
-###  11\. Updating information 
+  
+  
+To manage our relationship with you which will include:
 
-11.1 Please let us know if the personal information that we hold about you needs to be corrected or updated. 
+  * (a) Notifying you about changes to our terms or privacy policy
+  * (b) Asking you to leave a review, take a survey, or updating, or keeping you informed about our or our partners’ products and services.
+  * (c) Consent in the last column (Lawful basis for processing including basis of legitimate interest)
 
-###  12\. Cookies 
+| 
 
-12.1 Our website uses cookies. 
+  * (a) Identity
+  * (b) Contact
+  * (c) Marketing and Communications
 
-12.2 A cookie is a file containing an identifier a string of letters and numbers that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. 
+| 
 
-12.3 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. 
+  * (a) Performance of a contract with you
+  * (b) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)
 
-12.4 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies. 
+  
+To run, administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting, hosting of data) | 
 
-12.5 We use only session cookies / only persistent cookies / both session and persistent cookies on our website. 
+  * (a) Identity
+  * (b) Contact
+  * (c) Technical
 
-12.6 The names of the cookies that we use on our website, and the purposes for which they are used, are set out below: 
+| 
 
-  * we use cookie name on our website to recognise a computer when a user visits the website / track users as they navigate the website / enable the use of a shopping cart on the website / improve the website's usability / analyse the use of the website / administer the website / prevent fraud and improve the security of the website / personalise the website for each user / target advertisements which may be of particular interest to specific users / describe purposes; 
-  * repeat as necessary. 
+  * (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+  * (b) Necessary to comply with a legal obligation
 
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | 
 
+  * (a) Technical
+  * (b) Usage
 
-12.7 Most browsers allow you to refuse to accept cookies; for example: 
+| Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+If we are selling all or parts of our business we may have to share your personal data with potential buyers and investors after they sign non-disclosure and non-compete agreement.
 
-  * in Internet Explorer version 10 you can block cookies using the cookie handling override settings available by clicking "Tools", "Internet Options", "Privacy" and then "Advanced"; 
-  * in Firefox version 24 you can block all cookies by clicking "Tools", "Options", "Privacy", selecting "Use custom settings for history" from the drop-down menu, and unticking "Accept cookies from sites"; and 
-  * in Chrome version 29, you can block all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading. 
+  
 
 
+#### MARKETING
 
-12.8 Blocking all cookies will have a negative impact upon the usability of many websites. 
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established [ a privacy centre ](https://home.openweathermap.org/privacy_centre)where you can view and make certain decisions about your personal data use.
 
-12.9 If you block cookies, you will not be able to use all the features on our website. 
+  
 
-12.10 You can delete cookies already stored on your computer; for example: 
 
-  * in Internet Explorer version 10, you must manually delete cookie files you can find instructions for doing so at http://support.microsoft.com/kb/278835; 
-  * in Firefox version 24, you can delete cookies by clicking "Tools", "Options" and "Privacy", then selecting "Use custom settings for history", clicking "Show Cookies", and then clicking "Remove All Cookies"; and 
-  * in Chrome version 29, you can delete all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Clear browsing data", and then selecting "Delete cookies and other site and plug-in data" before clicking "Clear browsing data". 
+#### PROMOTIONAL OFFERS FROM US  
 
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
 
+You will receive marketing communications from us if you have requested information from us or purchased services from us or if you provided us with your details or registered for a promotion and, in each case, **you have opted in for receiving that marketing.**
 
-12.11 Deleting cookies will have a negative impact on the usability of many websites. 
+  
+
+
+#### THIRD-PARTY MARKETING 
+
+We will get your express opt-in consent before we share your personal data with any company outside the OpenWeather Ltd group of companies for marketing purposes or potential investors.
+
+  
+
+
+#### OPTING OUT
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by [Contacting us ](https://web.archive.org/about#contacts)at any time.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a service purchase, service experience or other transactions.
+
+  
+
+
+#### COOKIES
+
+ You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
+
+  
+
+
+#### CHANGE OF PURPOSE
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [Contact us.](https://web.archive.org/about#contacts)
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+### 5.  DISCLOSURES OF YOUR PERSONAL DATA  
+
+We may have to share your personal data with the parties set out below for the purposes set out in paragraph 4 above.
+
+  * Internal Third Parties as set out in the [Glossary.](https://web.archive.org/privacy-policy#glossary)
+  * External Third Parties as set out in the [Glossary.](https://web.archive.org/privacy-policy#glossary)
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets; or who may be interested in buying our business or investing. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+### 6.  INTERNATIONAL TRANSFERS
+
+We share your personal data within the OpenWeather Ltd Group. This will involve transferring your data outside the European Economic Area **(EEA).**
+
+We ensure your personal data is protected by requiring all our group companies to follow the same rules when processing your personal data. These rules are called “binding corporate rules”. For further details, see [European Commission: Binding corporate rules.](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/binding-corporate-rules_en)
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see [European Commission: EU-US Privacy Shield.](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en)
+
+
+
+Please [Contact us ](https://web.archive.org/about#contacts)if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+### 7.  DATA SECURITY 
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+### 8.  DATA RETENTION  
+
+  
+
+
+#### HOW LONG WILL YOU USE MY PERSONAL DATA FOR?
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for legal purposes.
+
+In some circumstances you can ask us to delete your data.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+### 9.  YOUR LEGAL RIGHTS 
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights: 
+
+  * Request access to your personal data.
+  * Request correction of your personal data.
+  * Request erasure of your personal data.
+  * Object to processing of your personal data.
+  * Request restriction of processing your personal data.
+  * Request transfer of your personal data.
+  * Right to withdraw consent.
+
+
+
+If you wish to exercise any of the rights set out above, please[ Contact us.](https://web.archive.org/about#contacts)
+
+  
+
+
+#### NO FEE USUALLY REQUIRED 
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+  
+
+
+#### WHAT WE MAY NEED FROM YOU
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. 
+
+  
+
+
+#### TIME LIMIT TO RESPOND
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.  
+
+### 10.  GLOSSARY  
+
+  
+
+
+#### LAWFUL BASIS 
+
+**Legitimate** Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [Contacting us.](https://web.archive.org/about#contacts)
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+### THIRD PARTIES  
+
+  
+
+
+#### INTERNAL THIRD PARTIES 
+
+Other companies in the OpenWeather Ltd Group acting as joint controllers who are based in Latvia and USA.
+
+  
+
+
+#### EXTERNAL THIRD PARTIES 
+
+  * Professional advisers acting as processors including lawyers and auditors based in USA who provide banking, legal and accounting services.
+  * HM Revenue & Customs, regulators and other authorities acting as processors based in the United Kingdom who require reporting of processing activities in certain circumstances.
+  * Potential investors who signed non-disclosure and non-compete agreements. 
+
+  
+
+
+#### YOUR LEGAL RIGHTS
+
+You have the right to:
+
+ **Request access** o your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, the further retention of the personal data should be lawful where it is necessary, for exercising the right of freedom of expression and information, for compliance with a legal obligation, for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller, on the grounds of public interest in the area of public health, for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes, or for the establishment, exercise or defence of legal claims. 
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
