@@ -1,21 +1,39 @@
-> *The following text is extracted and transformed from the allcoupononline.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033106id_/http%3A//allcoupononline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcoupononline.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825022653id_/http%3A//www.trckc.xyz/parked/templates/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Hosting Coupon and Domain Promo
+# Privacy Policy
 
-At [allcoupononline.com](http://www.allcoupononline.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [allcoupononline.com](http://www.allcoupononline.com/) and how it is used.
+**Privacy Policy**
 
- **Log Files**
+**Company Practices Regarding Your Privacy**
 
-Like many other Web sites, [allcoupononline.com](http://www.allcoupononline.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We at [http://testosteronebooster1.com/] are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web site. 
 
- **Cookies and Web Beacons**
+[http://testosteronebooster1.com/] has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of [http://testosteronebooster1.com/]. This policy does not apply to the practices of companies that [http://testosteronebooster1.com/] does not own or control. 
 
-[allcoupononline.com](http://www.allcoupononline.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Personally Identifiable Consumer Information**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [allcoupononline.com](http://www.allcoupononline.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+We do not collect any personally identifiable information. If you place an order with one of our partners they will collect and retain your information. Please review their privacy policy for how your information will be handled. 
 
-[allcoupononline.com](http://www.allcoupononline.com/) has no access to or control over these cookies that are used by third-party advertisers.
+**Non-Personally Identifiable Consumer Information**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [allcoupononline.com’s](http://www.allcoupononline.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+[http://testosteronebooster1.com/] collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the [http://testosteronebooster1.com/] site, the pages of the site you visited and the URL of the page you visited upon leaving the site. [http://testosteronebooster1.com/] may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**How Collected Information is Used**
+
+The non-personally identifiable information that [http://testosteronebooster1.com/] collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. 
+
+**Sharing Information with Third Parties**
+
+We do not share the non-personally identifiable information that [http://testosteronebooster1.com/] collects. 
+
+**Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out**
+
+Our web site utilizes cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting [http://testosteronebooster1.com/]. 
+
+**Your Consent**
+
+By using this web site, you consent to the terms of our Online Privacy Policy. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy. 
+
+**Contacting Us**
+
+For more information, or if you have questions or concerns regarding [http://testosteronebooster1.com/]'s Privacy Policy, you may contact us. 
