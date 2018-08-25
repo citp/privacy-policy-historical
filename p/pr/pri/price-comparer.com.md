@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the price-comparer.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204185320id_/http%3A//www.price-comparer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price-comparer.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825123355id_/http%3A//www.price-comparer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | price-comparer.com
 
