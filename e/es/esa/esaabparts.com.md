@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esaabparts.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210161121id_/https%3A//www.esaabparts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esaabparts.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825034232id_/https%3A//www.esaabparts.com/privacy.php) for the most accurate reproduction.*
 
 # eSaabParts.com
 
