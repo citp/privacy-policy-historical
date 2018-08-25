@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosplay.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328223403id_/http%3A//www.cosplay.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosplay.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825153902id_/http%3A//www.cosplay.com/info/privacy) for the most accurate reproduction.*
 
 # 
 
