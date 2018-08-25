@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaboon.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809211949id_/http%3A//yaboon.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaboon.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825061605id_/https%3A//yaboon.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Download Movies or Watch online at | Yaboon.com
 
