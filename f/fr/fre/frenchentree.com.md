@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126054215id_/https%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825132141id_/https%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy & Terms & Conditions
 
@@ -107,3 +107,5 @@ b.) our employees or agents at the time of any failure to observe.
 
 11.1 These terms are governed by and to be construed in accordance with English law.  
 11.2 Any disputes shall be subject to the exclusive jurisdiction of the English courts. We shall not be liable if the content of this website or any viewing of it by you is contrary to the laws applying in the place where you access this website.
+
+**For more information please see our Data protection policy[here](http://www.francemedia.com/data-protection-policy/)**
