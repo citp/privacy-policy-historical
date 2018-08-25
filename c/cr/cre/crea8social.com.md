@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crea8social.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023232455id_/https%3A//crea8social.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea8social.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826013537id_/https%3A//www.crea8social.com/privacy) for the most accurate reproduction.*
 
-# Crea8socialPRO Social Network Software - Privacy Policy
-
-Privacy Policy
+# Crea8social: Start Your Social Network Community - Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -31,3 +29,5 @@ Our service does not address anyone under the age of 13. We do not knowingly col
 _**Change to This Privacy Policy**_
 
 We may update our privacy policy from time to time, we will notify you of any changes by posting the new privacy policy on this page you are advised to review this privacy policy periodically for any change and changes to this  privacy policy are effective once they are posted here.
+
+**Note:** To change your domain require paying for our new setup service, if you don't our app setup agent will not consider your app for rebuild. To pay [go to our services page](https://crea8social.com/services) and pay for the right service
