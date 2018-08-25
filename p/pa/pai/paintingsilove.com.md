@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paintingsilove.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817185431id_/http%3A//paintingsilove.com/home/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintingsilove.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826015745id_/http%3A//paintingsilove.com/home/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
