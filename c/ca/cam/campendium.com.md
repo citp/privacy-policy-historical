@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the campendium.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221012112id_/https%3A//www.campendium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campendium.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825131405id_/https%3A//www.campendium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Campendium
 
-Last updated: September 05, 2014
+Last updated: March 08, 2017
 
 Campendium, Inc. ("us", "we", or "our") operates the http://www.campendium.com website (the "Service").
 
@@ -33,6 +33,10 @@ We use "cookies" to collect information. You can instruct your browser to refuse
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Do Not Track Disclosure**
 
@@ -91,3 +95,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 **Contact Us**
 
 If you have any questions about this Privacy Policy, please [contact us](mailto:info@campendium.com).
+
+Campendium, Inc.  
+848 N. Rainbow Blvd. #929  
+Las Vegas, NV 89107
