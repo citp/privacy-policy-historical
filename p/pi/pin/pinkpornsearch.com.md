@@ -1,34 +1,39 @@
-> *The following text is extracted and transformed from the pinkpornsearch.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421162221id_/http%3A//www.tiava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkpornsearch.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825022653id_/http%3A//www.trckc.xyz/parked/templates/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  1. General 
-    1. The operative parties referred to in this policy are Company and You, the User of this site. 
-      1. PB Web Media B.V. is the publisher and operator of this site. Hereinafter, PB Web Media B.V. shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy.
-      2. **You, the User** – As the User of this Site, this Policy will refer to the User as “You” or through any applicable second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
-    2. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
-  2. Revisions to this Policy 
-    1. We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
-  3. Personal Information that We Collect 
-    1. Given the nature of Our Site, Users are limited to a single-level of interactivity with the Site and as such, are labeled as Browsers. We do not provide memberships of any kind. Any registration, memberships or subscriptions made available via the Site are provided in part or entirely by third parties regardless of any branding or names associated with such memberships. The Site is not responsible for the activities of any third party or the content of any third party site, including a third party’s passive or active collection of Your information and any such party’s subsequent use of Your information.
-    1. **Browsers** \- Browsers are visitors to the Site who never enter into any active data collection pages. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
-  4. How We Collect Information from You 
-    1. **Passive Collection** – We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected in Our cookies includes, but is not limited to, Your User IP address, geographic location and other session data.
-    2. **Active Collection** – We do not engage in active data collection of any kind. Should you reach a feature requesting personal information from You (e.g. – registration process and/or membership form), You understand and agree that such information is requested by a third party, regardless of any branding or names associated with such a party or website. The Site is not responsible for data collection of Your information and any such party’s subsequent use of Your information.
-  5. How We Use Your Information 
-    1. The primary use for Your information is to provide You with services You have requested. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
-  6. Special Cases. 
-    1. It is Our policy not to use or share the personal information about Browsers in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information , or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: 
-      1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
-      2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other User policies;
-      3. To operate Our services properly;
-      4. To protect ourselves, Our Browsers, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
-      5. We will always cooperate with law enforcement authorities, government agencies, and private-party litigants seeking information about Our users to the extent required by applicable law, or if we are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
-  7. Public Forums & Other Public Areas: 
-    1. If at any time during Your visit to the Site, You enter into a public forum or interactive communication feature such as, registration requests, chat sessions, or discussion boards, You have exited Our Site. We do not provide such features on Our Site, therefore, You understand and agree that the Site is not responsible for any content shared or distributed via such interactive features.
-  8. Our Commitment to Data Security. 
-    1. We take measures to protect the transmission of all sensitive user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
-  9. Where to Direct Questions About Our Privacy Policy. 
-    1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20tiava.com%20site).
+**Privacy Policy**
 
+**Company Practices Regarding Your Privacy**
 
+We at [http://testosteronebooster1.com/] are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web site. 
+
+[http://testosteronebooster1.com/] has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of [http://testosteronebooster1.com/]. This policy does not apply to the practices of companies that [http://testosteronebooster1.com/] does not own or control. 
+
+**Personally Identifiable Consumer Information**
+
+We do not collect any personally identifiable information. If you place an order with one of our partners they will collect and retain your information. Please review their privacy policy for how your information will be handled. 
+
+**Non-Personally Identifiable Consumer Information**
+
+[http://testosteronebooster1.com/] collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the [http://testosteronebooster1.com/] site, the pages of the site you visited and the URL of the page you visited upon leaving the site. [http://testosteronebooster1.com/] may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information. 
+
+**How Collected Information is Used**
+
+The non-personally identifiable information that [http://testosteronebooster1.com/] collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. 
+
+**Sharing Information with Third Parties**
+
+We do not share the non-personally identifiable information that [http://testosteronebooster1.com/] collects. 
+
+**Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out**
+
+Our web site utilizes cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting [http://testosteronebooster1.com/]. 
+
+**Your Consent**
+
+By using this web site, you consent to the terms of our Online Privacy Policy. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy. 
+
+**Contacting Us**
+
+For more information, or if you have questions or concerns regarding [http://testosteronebooster1.com/]'s Privacy Policy, you may contact us. 
