@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424174708id_/https%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825182040id_/https%3A//www.rotowire.com/privacy.php) for the most accurate reproduction.*
 
 # RotoWire Privacy Policy
 
@@ -8,7 +8,7 @@ Here at Roto Sports, Inc., we are committed to you and to protecting your privac
 
 As such, we have established and implemented this privacy policy to inform our members, visitors, and the parents of children using or visiting the Roto Sports, Inc. Network how we use and protect the information that we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement.
 
-#### WHAT INFORMATION DOES ROTOWIRE COLLECT?
+WHAT INFORMATION DOES ROTOWIRE COLLECT?
 
 _Personal Information_
 
@@ -28,7 +28,7 @@ However, a full subscription to RotoWire.com requires that your browser enable c
 
 In addition, some of the third-party advertisers and ad networks we run on our sites use cookies. Information on how to opt out of those cookies is below.
 
-#### HOW DOES ROTO SPORTS, INC. USE THE INFORMATION IT COLLECTS? 
+HOW DOES ROTO SPORTS, INC. USE THE INFORMATION IT COLLECTS? 
 
 _E-mail Notification_
 
@@ -42,7 +42,7 @@ Subject to your express opt-in approval, we may share your personally identifiab
 
 Should you change your mind about the information you've provided to us or should your information change, we have provided a way for you to correct, update or remove the personal information you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled " How do you opt out? How do you change the information we have for you?"
 
-#### HOW DO WE PROTECT CUSTOMER INFORMATION?
+HOW DO WE PROTECT CUSTOMER INFORMATION?
 
 We implement a variety of security measures to ensure the security of your personal information on our systems. Member personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.
 
@@ -50,11 +50,11 @@ To ensure compliance with updated security technology, we recommend using one of
 
 Unfortunately, when you submit information to us (or to any other web site) over the Internet, the information may travel over many networks and systems that are not under our control and, during such time, can be intercepted. As a result, while we strive to protect your personal information, Roto Sports, Inc. can't ensure or warrant the security of any information you transmit to us and you do so at your own risk. Further, anything you voluntarily provide in any public area of the Internet, including on the Roto Sports, Inc. Network, will be publicly available to other visitors on that web site and potentially to other third parties, and you should always exercise caution when deciding to publicly disclose any of your personal information.
 
-#### HOW DO YOU OPT OUT? HOW DO YOU CHANGE THE INFORMATION WE HAVE FOR YOU?
+HOW DO YOU OPT OUT? HOW DO YOU CHANGE THE INFORMATION WE HAVE FOR YOU?
 
 We give you the opportunity to opt out of receiving communications from the Roto Sports, Inc. Network. To request that your information be removed from our database or that certain information previously provided to us be updated or modified, or that we not send you any future communications, simply contact us in any of the following manners:
 
-Send an e-mail to: support@rotowire.com
+Send an e-mail to: [support@rotowire.com](mailto:support@rotowire.com)
 
 Send a letter to:
 
@@ -64,13 +64,13 @@ Attn: Customer Service
 Madison, WI 53715  
 
 
-#### SHORT CODE TERMS
+SHORT CODE TERMS
 
 When you opt-in to the Service, we will send you an SMS message to confirm your signup. 
 
-You can cancel the SMS service at any time. Just text “STOP” to 27526, after you send the SMS message “STOP” to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again. 
+You can cancel the SMS service at any time. Just text "STOP" to 27526, after you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again. 
 
-If at any time you forget what keywords are supported, just text “HELP” to 27526. After you send the SMS message “HELP” to us, we will respond with instructions on how to use our service as well as how to unsubscribe. 
+If at any time you forget what keywords are supported, just text "HELP" to 27526. After you send the SMS message "HELP" to us, we will respond with instructions on how to use our service as well as how to unsubscribe. 
 
 We are able to deliver messages to the following mobile phone carriers: 
 
@@ -78,9 +78,9 @@ Major carriers: AT&T, Verizon Wireless, Sprint, T-Mobile, U.S. Cellular, Alltel,
 
 As always, message and data rates may apply for any messages sent to you from us and to us from you. You will receive 1 msg/req. If you have any questions about your text plan or data plan, it is best to contact your wireless provider. For all questions about the services provided by this short code, you can send an email to support@rotowire.com.com or (888) 201-3057. 
 
-If you have any questions regarding privacy, please read our privacy policy: http://www.rotowire.com/privacy.htm. 
+If you have any questions regarding privacy, please read our [privacy policy.](https://web.archive.org/privacy.php)
 
-#### THIRD-PARTY BANNER ADVERTISING OPT OUT
+THIRD-PARTY BANNER ADVERTISING OPT OUT
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
 
@@ -91,26 +91,26 @@ You may opt out of some tracking cookies that will be able to identify you on th
 <http://valueclickmedia.com/member_privacy.shtml>  
 <http://www.networkadvertising.org/choices/>
 
-#### HOW DO YOU COLLECT AND USE INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE?? 
+HOW DO YOU COLLECT AND USE INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE?? 
 
 Pursuant to the provisions of the Federal Children's Online Privacy Protection Act (COPPA), we do not collect personal identifiable information from children under thirteen years of age without the consent of a parent or legal guardian. Thus, when a guest under 13 years of age registers, he/she is required to provide the email address of his/her parent (or legal guardian). We then contact the parent (or legal guardian) and alert them to the child's registration. We require the parent or guardian to validate the account in order for the potential member to become a registered member. However, even after an account has been validated, no personally identifiable information collected from guests under the age of thirteen will ever be sold or provided to any third parties, or used for any marketing or promotional purposes. In addition, parents may request to review the personally identifiable information collected from their child, may ask to have that information deleted, and may refuse to allow further collection or use of their child's personally identifiable information at any time. To request such review or to give instructions regarding the personally identifiable information we have collected about a child, parents/legal guardians should contact us in one of the ways mentioned above in the section entitled "How do you opt out? How do you change the information we have for you?" or in the section below entitled "Questions? Contact Us."
 
-#### THIRD PARTY LINKS, CO-BRAND RELATIONSHIPS, AND PUBLIC FORUMS
+THIRD PARTY LINKS, CO-BRAND RELATIONSHIPS, AND PUBLIC FORUMS
 
 In an attempt to provide increased value to our visitors, Roto Sports, Inc. may choose various third party web sites to link to, link from, and frame within, the Roto Sports, Inc. Network. Roto Sports, Inc. also participates in co-branding and other relationships to offer e-commerce and other services and features to its users. However, even if the third party is affiliated with Roto Sports, Inc., we have no control over these linked sites, each of who have separate privacy and data collection practices independent of Roto Sports, Inc.. We have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites. Please make sure you are comfortable with the privacy practices of every site you visit before providing the site with your personal information. These linked sites are only for your convenience and you therefore access them at your own risk.
 
 We also make chat rooms, forums and message boards available to you on the Roto Sports, Inc. Network. Please remember that we cannot control the information that is shared by members and that anything you voluntarily provide in any public area of the Internet will be publicly available to other visitors on that web site and potentially to other third parties. Thus, please note that you should always exercise caution when deciding to publicly disclose any of your personal information in these and similar areas.
 
-#### YOUR CONSENT 
+YOUR CONSENT 
 
 By using our web site, you consent to the collection and use of information by Roto Sports, Inc. as set forth in this privacy statement. If we decide to change our privacy policy, we will post those changes on this page so that you will always be aware of what information we collect, how we use it, and under what limited circumstances we disclose it. This policy was last updated Oct. 21, 2009. Continued access or use of the web site shall constitute your express acceptance of any modifications to this privacy statement.
 
-#### QUESTIONS? CONTACT US
+QUESTIONS? CONTACT US
 
 If you have any questions about our privacy practices or your dealings with our site, please do not hesitate to contact:
 
 Customer Service: [support@rotowire.com](mailto:support@rotowire.com)
 
-#### TERMS AND CONDITIONS
+TERMS AND CONDITIONS
 
 This service is provided on an "as-is" basis. Although RotoWire applies its best efforts to maintain this service, no warranty is offered and no fitness for any particular purpose is guaranteed. By signing up for this service you agree that RotoWire, Inc. is not liable for any defects, lost profits, or any damages that may result from defects of any kind. You further agree that you are the owner of the e-mail address which you are registering, or that you have the express permission of the owner to register that address with this service. You agree that as a sponsored service, messages sent to the above e-mail address by this service may contain advertisements. RotoWire agrees not to knowingly divulge your e-mail address to third parties, and further that your e-mail address submitted here will be used only to provide and improve upon this service. You agree that RotoWire is not liable for the acquisition of your address by third parties without RotoWire's knowledge. RotoWire agrees to take reasonable measures to protect your address and any other personal information.
