@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipmart.in privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024173141id_/https%3A//ipmart.in/index.php%3Froute%3Dinformation/information%26information_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipmart.in privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825230203id_/https%3A//ipmart.in/index.php%3Froute%3Dinformation/information%26information_id%3D9) for the most accurate reproduction.*
 
 # Privacy Policy - by IPmart India
 
