@@ -1,266 +1,160 @@
-> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710223730id_/https%3A//www.healthtap.com/terms/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825230255id_/https%3A//www.healthtap.com/terms/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - HealthTap
 
+In this Privacy Statement, “we” refers to HealthTap, Inc
+
 #### What is this document?
 
-We value your privacy. This Privacy Statement describes how we will protect and handle the personal information that you provide to us through our web, mobile and related services. Among other things, the HealthTap Privacy Statement explains:
+This Privacy Statement describes what personally identifiable information you can share with us on this website (the “Site”) or our other mobile and related services (e.g., your date of birth or some aspect of your medical condition), how that information is stored, how we use that information, and what information other members and doctors can see when they use HealthTap and HealthTap Prime.
 
-  * The information we request at registration. That we do not use or share your Personally Identifiable Information, other than as described in our Privacy Statement
-  * How HealthTap protects your privacy when using our free service as well as HealthTap Premium Services (including Prime and Concierge). 
-  * How we secure the information we collect by meeting or exceeding generally accepted industry standards and by using SSL encryption
+For a description of our services (including HealthTap and HealthTap Prime), please read our [Terms of Use](https://web.archive.org/terms)
 
+For the purpose of this Privacy Statement, “Personally Identifiable Information” means any information that, by itself or in combination with other information, identifies or can reasonably be used to identify an individual, such as their name, email address, telephone number, address, or date of birth. Personally Identifiable Information does not include information that is anonymized, or publicly available information that has not been combined with non-public Personally Identifiable Information.
 
+#### Why should I read this Privacy Statement?
 
-#### Why should I read it?
+When you sign up for or use HealthTap, we ask you to confirm that you've read and agree to our Privacy Statement. This means that by submitting Personally Identifiable Information and other information to the Site, **you consent to the collection, use, and disclosure of such information as set out in this Privacy Statement.**
 
-When you sign up for or use HealthTap, you verify that you've read and agree to our Privacy Statement.
+#### What information do we collect?
 
-#### How does HealthTap treat privacy differently?
+Generally, you may browse the Site and/or our applications without providing any Personally Identifiable Information. However, we ask that you provide information at various times and locations through the Site.
 
-When we say we care about your privacy, we mean it. Privacy policies are important documents, but many people don't read them because they are long, confusing, and written in "legalese."
+This section sets out what Personally Identifiable Information we may collect from you when you use our services:
 
-We've designed our Privacy Statement with you in mind, creating links to the most common questions about HealthTap and HealthTap Premium Services (including Prime and Concierge) and how these services work where privacy issues may be involved. Everything in written in plain, easy to understand language.
+_Information you store on your Profile_
 
-This Privacy Statement describes what information you can share with us, how that information is stored, how we use that information, and what information other members and doctors can see when they use HealthTap and HealthTap Prime.
+We collect information you provide when you create a HealthTap account, including your name, email address, and date of birth. You can add optional health information to your HealthTap Profile (“Profile”), for example personal information, health goals, medications, conditions, and other information, which helps to personalize your HealthTap experience. You choose what health information to add to your Profile when using HealthTap and adding information into your Profile.
 
-In addition to this Privacy Statement, we've created a [Privacy Constitution and User Bill of Rights](https://web.archive.org/terms/privacy_sharing) that describes our core beliefs about privacy and your core rights as a user of our services. These documents are located on our [Privacy and Secure Sharing](https://web.archive.org/terms/privacy_sharing) page, which includes suggestions for how to share securely and anonymously on HealthTap. 
+_Information provided on HealthTap Premium Services_
 
-## Introduction
+If you decide to sign up for HealthTap Premium Services, including Prime and Concierge, we ask you to provide additional information, including payment information. For more information on HealthTap Premium Services, please consult our [Terms of Use](https://web.archive.org/terms)
 
-HealthTap and HealthTap Prime connect you with leading doctors, trusted health information, answers, and tips, and even virtual consultations, all designed to help you feel good and live a happier, healthier life.
+_Information provided in Virtual Consults_
 
-By helping you find relevant and trusted medical information, and connecting you with the best doctors, HealthTap provides you with information to share with your doctor and to support your health decisions.
+At the end of every successfully-completed virtual consult (meaning a consultation between a doctor and a patient through a HealthTap service using a video link), the doctor with whom you have had your virtual consult will prepare a brief doctor’s note about the virtual consult (the “Consult Summary”). These Consult Summaries become part of your Profile. When you initiate Virtual Consults on HealthTap, the doctor you see will be able to view all of the Consult Summaries on HealthTap.
 
-By connecting you with doctors in real time for virtual consults when you want health care, HealthTap Prime provides you with access to immediate care and advice (as appropriate for virtual consults), directly from your computer or mobile device.
+#### Why do we ask you for certain types of information?
 
-Do not use HealthTap or HealthTap Prime in the event of an emergency or for emergency care.
+Health conditions and appropriate actions often depend on your age group, geography, and gender. This data helps us to provide you with a personalized online health experience. Your Personally Identifiable Information is not visible to other members or doctors on HealthTap. This data is only visible to doctors you connect with using HealthTap Premium Services (including Prime and Concierge).
 
-By continuing to use HealthTap, you agree to this Privacy Statement and any updates to it. This means that if the Privacy Statement changes, you agree to these changes if you keep using HealthTap. When this policy is changed (other than for typographical corrections or minor changes that do not alter its meaning), we will update the "last modified" date at the top of the policy. We may provide a summary at the bottom of the policy, describing the types of changes made.
+#### How do we use your information?
 
-## Privacy and Anonymity
+We will use your Personally Identifiable Information only for the purpose for which it was provided, as well as other purposes for which you have given consent. This includes, but is not limited to, the following purposes:
 
-#### Is HealthTap anonymous?
+  * **Administration of your Profile:** We use your profile information and your health and wellness goals to help you better understand, stay engaged with, and track your health and to present you with personalized, relevant information. Your email address is used to create, log into, and manage your account on HealthTap. 
+  * **Connecting with doctors:** We use the information you provide to help you find or connect with doctors. 
+  * **Marketing:** You may subscribe or unsubscribe to receive marketing communications from us, such as announcements of new features. Please note that we have a strict “No-Spam” policy. We do not share email addresses or other contact information with third parties without your permission. 
+  * **Notifications:** We will ask you if you want to receive notifications when you open an account with HealthTap. If you agree, HealthTap may send you email, SMS, or mobile push notices, providing you with account-related reminders or updates, or letting you know that you have a message on HealthTap. 
 
-Your use of HealthTap is anonymous. Your Personally Identifiable Information (your real name, date of birth, email address and other such information) is not visible to others. Staying anonymous on HealthTap is easy - simply don't post personally identifiable information (such as your name) in your questions or other content visible to others.
 
-#### Can others see the questions I have asked?
 
-No. Your questions are anonymous. Only the questions, not your identity, are publicly visible.
+We also may use your Personally Identifiable Information to comply with our legal obligations, resolve disputes, and enforce our agreements, as required and/or allowed by applicable privacy laws. 
 
-#### Are HealthTap Premium Services anonymous?
+#### Automated decision making and profiling
 
-Like an in-person patient-doctor interaction, HealthTap Prime and HealthTap Concierge are confidential but not anonymous services. When using Premium Services, some Profile information (including your real name and health information from your Profile) is visible to doctors with whom you enter into consults. Your personal contact information is never visible on HealthTap to other members or doctors.
+We use any relevant information in your health profile to generate better answers to your health questions. For example, we use the information you provide about your medical condition to better triage your symptoms. Your experience on the site and/or our applications is tailored to you based on the profile information you provide. The information you provide is not used for advertising.
 
-#### Can others see my HealthTap Prime or Concierge consults?
+#### Disclosing Personally Identifiable Information to Third Parties
 
-No. Virtual Consults, just like an in-person doctor-patient visit, are private and confidential.
+Any Personally Identifiable Information that you provide to us will be used for our purposes only. We do not share Personally Identifiable Information with other individuals or other companies other than as described in this Privacy Statement.
 
-## Security
+_With whom do we share your Personally Identifiable Information?_
 
-#### Are HealthTap and HealthTap Premium Services safe and secure?
+In some instances we may retain other companies and individuals to perform functions on our behalf, including, but not limited to, website developers, IT services providers, shipping or direct mail organizations, storage facilities, or parties assisting us in a recruitment process.
 
-Yes. HealthTap and HealthTap Premium Services use bank-level security and encryption. We meet HIPAA security standards for all interactions subject to HIPAA security regulations. We use a variety of technologies and procedures to help protect the security of your personal information from unauthorized access, use, or disclosure. HealthTap also maintains standard physical and electronic procedural safeguards that limit access to your personal information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personal information. HealthTap is a Business Associate of health care professionals under the federal health care privacy and security law known as HIPAA. Your personal information will be stored in a secure manner. Full access to the Apps is enabled only by usernames and passwords. You are fully and solely responsible for any and all use of the Apps using your username and password. We reserve the right to revoke or deactivate your username and password at any time. 
+Such third parties may be provided with access to your Personally Identifiable Information to perform the functions for which they have been retained. Our agreements with these third parties will not permit them to use your Personally Identifiable Information for any other purposes and commit them to comply with applicable data privacy standards.
 
-## Personal Information
+We further may disclose any information, including Personally Identifiable Information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request.
 
-### Your Personal Profile
+_Who else can see your Personally Identifiable Information?_
 
-#### What information can I store in my Profile?
+All Personally Identifiable Information is stored securely in your Profile, which is not visible to other users or doctors on HealthTap. Revealing Personally Identifiable Information in content publicly visible on HealthTap (such as in public questions) is not permitted under our Terms of Use.
 
-Your Profile contains the information you provide when you create a HealthTap account, including your name, email address and date of birth. You can add optional health information to your Profile, like personal data, health goals, medications, conditions, and other information, which helps to personalize your HealthTap experience. You choose what health information to add to your Profile through using HealthTap and adding information to your Profile.
+Also, the questions you may enter on HealthTap are anonymous. Only the questions, not your identity, are publicly visible.
 
-#### How is the information in my Profile used?
+_Are HealthTap Premium Services anonymous?_
 
-HealthTap uses your Profile information and your health and wellness goals to help you better understand, stay engaged with, and track your health and to present you with personalized, relevant information.
+Like an in-person patient-doctor interaction, HealthTap Prime and HealthTap Concierge are confidential but not anonymous services. When using Premium Services, some Profile information (including your real name and health information from your Profile) is visible to doctors with whom you enter into virtual consults.
 
-#### Can I modify my Profile?
+Your personal contact information is never visible on HealthTap to other members or doctors.
 
-Yes, you can add, edit or delete optional information appearing in your Profile at any time. You can edit, but not remove, certain information (like an email address) required for login and to use HealthTap, and doctor consult notes. You have a "right to amend" your health records and can add information to your consult notes or health record to make it more accurate or complete, or have a disagreement with noted in your health record, or update other profile information by submitting a request to HealthTap support (by phone, secure online form submission or email).
+By using HealthTap Premium Services (including Prime and Concierge), **you consent to sharing your name and the health information in your Profile with the doctors with which you interact when using these services.**
 
-#### Can others see my Profile or the health information in it?
+#### Data Transfers to Countries outside the EU/EEA
 
-On HealthTap other members and doctors cannot see your Profile or the health information in it. When using HealthTap Prime or Concierge, health information from your Profile and basic information about you (such as your real name and age) are visible to the doctors with whom you consult.
+Our servers are either located in the United States or, if located in other countries, may be accessed from the United States. Please note that in countries outside your own country, and in particular outside the EU and EEA, a different standard on data protection might apply than you are used to in your own country.
 
-#### Is my profile secure?
+**By sending Personally Identifiable Information to us, you acknowledge and consent that your data will be transferred across national borders, including to countries outside the EU/EEA.**
 
-Your account and Profile information are secure, encrypted, and password protected. More information on our security is [here](https://web.archive.org/terms/privacy_sharing). 
+#### Security
 
-### Personally Identifiable Information
+HealthTap and HealthTap Premium Services use industry-standard security safeguards, such as encryption in transit and at rest.
 
-#### What is Personally Identifiable Information?
+HealthTap is a Business Associate of health care professionals under the federal Health Insurance Portability and Accountability Act, the health care privacy and security law known as HIPAA We meet HIPAA security standards for all interactions subject to HIPAA security regulations. We use a variety of technologies and procedures to help protect the security of your Personally Identifiable Information from unauthorized access, use, or disclosure. HealthTap also maintains standard physical and electronic procedural safeguards that limit access to your Personally Identifiable Information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your Personally Identifiable Information.
 
-Personally Identifiable Information is information (like your full name and email address) that identifies who you are.
+#### Public Content
 
-#### How do you keep my Personally Identifiable Information private, safe, and secure?
+Some content on HealthTap is publicly visible by logged in or logged out users (“Public Content”). Any information provided in Public Content might be read, collected, and used by others who access them.
 
-We keep your Personally Identifiable Information private by not displaying it or sharing it without your consent. Your use of HealthTap is [anonymous](https://web.archive.org/terms/privacy_sharing), and other members can never see this information. We do not display this information on HealthTap, except inside of your Profile, which is visible only to you. We keep this information secure by using state of the art encryption and other security measures. More information about our security can be found [here](https://web.archive.org/terms/privacy_sharing). 
+Please note that our [Terms of Use](https://web.archive.org/terms) do not allow you to include Personally Identifiable Information (such as your name, email address, or phone number) in any Public Content posted to HealthTap. HealthTap cannot control how Public Content is seen or used. 
 
-#### Is Personally Identifiable Information visible on HealthTap?
+Contact our support team to request removal of such information.
 
-No. All Personally Identifiable Information is stored securely in your Profile, which is not visible to other users or doctors on HealthTap. Revealing personally identifiable information in content publicly visible on HealthTap (such as in public questions) is not permitted.
+#### Sharing on social media
 
-#### Is Personally Identifiable Information visible on HealthTap Prime?
+You can share certain information from HealthTap using the sign-in services of certain social media services such as Facebook and Twitter. Please consider any impact on your privacy and anonymity when posting content to public services. Content posted to these services will be governed by the respective privacy policies of those services.
 
-When using HealthTap Prime your name, and certain health information in your Profile (but not your contact information), is shown to the doctors with whom you interact on HealthTap Virtual Consults or similar services.
+#### How can I update my data?
 
-#### How do you use Personally Identifiable Information?
+You can add, edit, or delete optional information appearing in your Profile at any time in your account settings (“Settings”). You can edit, but not remove, certain information (like an email address) required for login and to use HealthTap, and doctor consult notes. You can amend your health records and can add information to your consult notes or health record to make it more accurate or complete, or have a disagreement with notes.
 
-We will retain and use your Personally Identifiable Information to provide you with and notify you about our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+#### Deactivation
 
-### Personal Questions
+To deactivate your account, simply sign in, go to Settings, and deactivate your account. You will receive an email confirming that your account has been deactivated. Please note: your public questions that have received answers will continue to appear anonymously on HealthTap after account deactivation.
 
-#### Are personal healthcare questions permitted on HealthTap?
+#### Your California Privacy Rights
 
-Questions and answers on HealthTap are for general education and information. Only, informational questions are permitted. For specific, personal health questions, always ask your own doctor or healthcare provider (HealthTap Medical Experts are not your personal doctor or healthcare provider, and their answers to questions are not personal or for personal use.)
+California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.
 
-#### Are personal healthcare questions permitted on HealthTap Premium Services?
+#### Children
 
-On HealthTap Premium Services (including Prime an Concierge) you may ask specific, personal health questions and receive care and prescriptions (as appropriate for Virtual Consults). 
+Our Site and/or Apps are not intended for children under 13 years of age. No one under age 13 may provide any information to us through the Site. We do not knowingly collect Personally Identifiable Information from children under 13. If you are under 13, do not access, use, or provide any information on the Site or on or through any of its features. If we learn we have collected or received Personally Identifiable Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us.
 
-#### Can I include Personally Identifiable Information in a question on HealthTap?
+#### Cookies
 
-Posting Personally Identifiable Information (such as a real name, phone number, or email address) is not permitted in content that is publicly visible on HealthTap (including in user submitted free questions). Posting such information, about yourself or another person, is a violation of our Terms of Use. Do not include Personally Identifiable Information about you or anyone else in these questions or any other submissions that are publicly visible. HealthTap reserves the right to remove or exclude such content. Personal information may be shared with doctors during Virtual Consults on HealthTap Prime and Concierge. 
+A “cookie” is a data element that a website can send to your browser, which may then be stored on your system. We use different kinds of cookies on the Site. For detailed information, please see our [Cookie Policy.](https://web.archive.org/cookie-policy)
 
-## Public Content
+#### Google Services
 
-#### What is Public Content?
+On the Site, we use several services provided by Google:
 
-Some content on HealthTap is publicly visible by logged in or logged out users ("Public Content"). Any information provided in Public Content might be read, collected, and used by others who access them.
+#### Google Analytics
 
-#### May I include Personally Identifiable Information in Public Content?
+This Site uses Google Analytics, a web analytics service provided by Google, Inc. **(“Google”).**
 
-No. Do not include Personally Identifiable Information (such as your name, email address, or phone number) in any Public Content posted to HealthTap. HealthTap cannot control how Public Content is seen or used. Contact our support team to request removal of such information.
+Google Analytics uses “cookies”, which are text files placed on your computer, to help our, Google will use this information for the purpose of evaluating your use of the Site, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google.
 
-## Communications
+You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of ourSite. Furthermore, you can prevent Google’s collection and use of data (e.g., cookies and IP address) by downloading and installing the browser plug-in available under
 
-### Emails, Text Messages (SMS), Mobile Notifications
+Further information about how Google uses advertising cookies can be found at:
 
-#### Will I ever receive Spam from HealthTap or third parties?
+_Google Maps_
 
-No. We have a strict "No-Spam" policy. We do not share email addresses or other contact information with third parties without your permission.
+Additionally, because we use visual mapping services on the Site and/or our applications, please be aware that the Google Maps/Earth Terms of Service, including the Google Privacy Policy, at <https://www.google.com/intl/en-US_US/help/terms_maps.html> also applies. 
 
-#### What is my e-mail address used for?
+#### Third- Party Sites
 
-Your email address is used to create, log into, and manage your account on HealthTap. We use your email to provide you with notices about your account and our services.
+Our Site may contain links to other third-party sites. When you click on one of these links you are visiting a website operated by someone other than HealthTap, and the operator of that website may have different privacy policies. HealthTap is not responsible for the individual privacy practices of those sites. We encourage you to investigate the privacy policies of these third-party operators.
 
-#### Is my e-mail address and phone number kept private?
+#### How Long We Store Your Personally Identifiable Information
 
-Yes. Your email address and phone number are not displayed and are never visible to other members or doctors. More information about how we keep your Personally Identifiable information safe and secure is [here](https://web.archive.org/terms/privacy_sharing). 
+Personally Identifiable Information will be stored as long as the information is required to fulfill our legitimate business needs or the purposes for which the information was collected, or for as long as is required by law.
 
-#### How do I change my contact information?
+#### Contacting us
 
-You can review and update your account information, including our email and phone number, in your account Settings.
+You may reach us via email at [dataprivacy@healthtap.com](mailto:dataprivacy@healthtap.com) or you may write to us at our most current address. Please see our “CUs” page for current information. 
 
-### Notifications
+#### Revisions to this Privacy Statement
 
-#### What is a Notification?
-
-A Notification is an electronic message in your HealthTap inbox, or a reminder or notice within the HealthTap Apps.
-
-#### How do I know if I have a Notification?
-
-You will see Notifications when you log into HealthTap. HealthTap may send you email, SMS, or mobile push notices, providing you with account-related reminders or updates, or letting you know that you have a message on HealthTap.
-
-#### How do I change my Notification preferences?
-
-You can manage the frequency and types of communications you receive by updating your account Settings.
-
-#### Managing and Limiting Communications
-
-You can manage the communications you receive from HealthTap, including emails, under your account Settings. Additionally, you can opt out of receiving most emails by selecting the unsubscribe link at the bottom of any email, and opt out of mobile messages by replying "STOP" to any message. You can update your communications details and preferences at any time in your account Settings.
-
-### Registration
-
-#### What basic information is required to sign up?
-
-To receive the full benefits of HealthTap simply create an account. During registration, we ask for some basic information, such as your name, email address, and date of birth. No additional data other than mandatory registration information is required to use HealthTap. Additional information, including payment information, is required to use HealthTap Premium Services. 
-
-#### Why do you ask for my gender, location, or date of birth?
-
-Health conditions and appropriate actions often depend on your age group, geography, and gender. These data help us provide you with a personalized online health experience. Your personally identifiable information is not visible to other members or doctors on HealthTap. These data are visible to doctors you connect with using HealthTap Premium Services (including Prime and Concierge). 
-
-#### What additional information can I add to my account?
-
-You can add additional health information to your Profile. What you can add, how this information is used, and your ability to modify this information are described [here](https://web.archive.org/terms/privacy_sharing). 
-
-### Deactivation
-
-#### How do I deactivate my account?
-
-Simply sign, go to Settings, and deactivate your account. You will receive an email confirming that your account has been deactivated. Please note: your public questions that have received answers will continue to appear anonymously on HealthTap after account deactivation.
-
-## HealthTap Prime
-
-#### What records are created by doctors following a HealthTap Prime or Concierge Virtual Consult?
-
-At the end of every successfully completed Virtual Consult, the doctor with whom you have had your virtual consult will prepare a brief doctor's note about the consult (the "Consult Summary").
-
-#### Who can view these records?
-
-The Consult Summaries of your consults become part of your Profile. When you initiate Virtual Consults on HealthTap, the doctor seeing you will be able to view all of the Consult Summaries of your prior consults on HealthTap.
-
-#### How does HealthTap ensure high quality of Virtual Consults?
-
-HealthTap Prime's quality assurance measures include peer-review of Consult Summaries. When Consult Summaries are reviewed by other doctors on HealthTap Prime, no Personally Identifiable Information is included in the summaries. Additionally, with the consent of both the doctor and the patient, we may monitor doctor-patient interactions for quality assurance.
-
-#### Are questions or consults on HealthTap Prime and Concierge visible to others?
-
-Questions, answers, and interactions with doctors on HealthTap Prime and Concierge are private, secure, and are not publicly visible. Please note: the doctor(s) you interact with using HealthTap Premium Services will be able to see your real name and the health information in your Profile.
-
-#### May I include Personally Identifiable Information in doctor interactions on HealthTap Prime and Concierge?
-
-Yes. Unlike publicly visible questions and answers on HealthTap, you may provide Personally Identifiable Information in your interactions with doctors on HealthTap Prime and Concierge. HealthTap Prime and Concierge interactions are not publicly visible. These interactions are confidential, but not anonymous.
-
-## Information Use
-
-#### How does HealthTap use my personal information?
-
-We use information collected through your use of HealthTap to provide you with information about our current or future services, to enable the services we provide, and otherwise as described in this Privacy Statement. This Privacy Statement describes the ways that we use or disclose your information. In support of these uses, we may use personal information to:
-
-  * provide you with important information about HealthTap, including updates and notifications
-  * send you email, notifications, SMS or other communications
-  * help you determine appropriate services relevant to you, your lifestyle, and your geographic location
-  * help you find or connect with doctors
-
-
-
-#### Do you sell Personally Identifiable Information?
-
-No. Your identity is safe with us and is not for sale. We do not sell Personally Identifiable Information.
-
-#### What are aggregated information, statistics, and de-identified data, and how are they used?
-
-Aggregated information is information from multiple members that is not associated with any individual user account; statistics are summaries of information, not associated with any individual user account; de-identified data does not include Personally Identifiable Information. Aggregated information and de-identified data and statistics are used to run and improve the services provided on or through HealthTap. This information may also be used by us or provided to our partners for purposes of research and analysis.
-
-## Sharing
-
-#### Can I share information from HealthTap social media?
-
-Yes, you can share certain information from HealthTap using sign-in services social media services such as Facebook and Twitter. Please consider any impact on your privacy and anonymity when posting content to public services. Content posted to these services will be governed by the respective privacy policies of those services.
-
-## Cookies
-
-#### How do you use cookies?
-
-Like most online services, HealthTap uses cookies. All browser cookies we use are encrypted. We use session ID cookies and persistent cookies to enable you to sign in and to help personalize HealthTap for you. Using cookies simplifies the delivery of relevant content and allows you to retrieve information you previously provided making use of HealthTap features easier. We link the information we store in session cookies to personally identifiable information you submit while on HealthTap. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline some or all cookies if you prefer. If you choose to decline all cookies, you may not be able to use interactive features of HealthTap or other websites that depend on cookies.
-
-## Third Parties
-
-#### What is a Non-HealthTap Service Provider and what information does HealthTap share with them?
-
-HealthTap does not share your Personally Identifiable Information (for example, your real name or email address) with anyone without your consent. By using HealthTap Premium Services (including Prime and Concierge), you consent to sharing your name and the health information in your Profile with the doctors you interact with when using these services. 
-
-#### Is Personally Identifiable Information Provided to Third Parties?
-
-HealthTap or the Medical Experts on HealthTap may provide you with information about external service providers ("External Service Providers") that may be of interest or use to you. HealthTap does not provide these External Service Providers with any Personally Identifiable Information about you, without your express consent.
-
-#### Does this Privacy Statement control information I share with Non-HealthTap Providers?
-
-No. This Privacy Statement does not apply to other service providers or links to other sites that are not owned or controlled by HealthTap, and you should review the individual privacy policies and terms of service of these providers before using their services.
-
-## Contacting us
-
-#### How can I contact you?
-
-You may reach us by contacting our support team via email or you may write to us at our most current address. Please see our [contact us](https://web.archive.org/who_we_are/contact) page for current information. 
+We reserve the right to change this Privacy Statement at any time whereby relevant changes take effect for the future. The applicable version of this Privacy Statement is available on the Site.
