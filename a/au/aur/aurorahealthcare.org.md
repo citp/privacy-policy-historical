@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170515id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825220954id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
 
-# Website privacy policy, Aurora Health Care | Aurora Health Care
+# Internet Privacy Policy | Aurora Health Care
 
 **Non-Personally Identifiable Information We Collect**
 
@@ -40,7 +40,7 @@ We will use this data to improve our website structure and content and we also u
 **How We Use the Non-Personally Identifiable Information We Collect**
 
  **  
-** In addition to those uses set forth above, we use non-personally identifiable information in the aggregate to determine how much traffic the Website receives, to statistically analyze Website usage, to improve our content, and to customize the Website's content, layout and services. In addition, we may use your IP address to help diagnose problems with our server, to manage the Website and to enhance the Website based on the usage pattern data we receive.
+** In addition to those uses set forth above, we use non-personally identifiable information in the aggregate to determine how much traffic the Website receives, to statistically analyze Website usage, to improve our content, and to customize the Website's content, layout and services. In addition, we may use your IP address to help diagnose problems with our server, to manage the Website and to enhance the Website based on the usage pattern data we receive. Please note that information you enter into general search bars is considered non-personally identifiable information and may be stored and used in the aggregate as provided above.
 
 **Retargeting and Remarketing**  
 We have also enabled additional Google Analytics Advertising Features:  Google Display Network Impression Reporting and Remarketing with Google Analytics.  The Google Display Network Impression Reporting uses the Google Analytics cookie to track our ad impressions and your interactions with those impressions, including the effectiveness of those ads, which generates reports for us to help us analyze our advertisements.  Remarketing with Google Analytics uses the Google Analytics and/or a third party cookie to serve advertisements to you across the Internet based on your visit to our Site.    
