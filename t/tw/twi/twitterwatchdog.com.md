@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitterwatchdog.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225175927id_/http%3A//twitterwatchdog.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterwatchdog.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825151005id_/http%3A//twitterwatchdog.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TwitterWatchDog.com
 
