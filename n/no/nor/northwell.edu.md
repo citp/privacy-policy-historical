@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the northwell.edu privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128192118id_/https%3A//www.northwell.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwell.edu privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825072429id_/https%3A//www.northwell.edu/privacy-policy) for the most accurate reproduction.*
 
-# Northwell Health Privacy Policy | Northwell Health
+# Privacy policy | Northwell Health
 
-This privacy policy applies to [www.northwell.edu](http://www.northwell.edu/) and various other Northwell Health websites with unique domains, such as [www.feinsteininstitute.org.  ](http://www.feinsteininstitute.org.%20%20/)
+This privacy policy applies to [www.northwell.edu](http://www.northwell.edu/) and various other Northwell Health websites with unique domains, such as [www.feinsteininstitute.org](http://www.feinsteininstitute.org/) and thewell.northwell.edu.
 
-## Personal Information You Choose to Submit to Northwell Health
+### Email Communications – Your Choices
+
+You always have the option to unsubscribe from any Northwell Health marketing communications emails by clicking on the “unsubscribe” link at the bottom of marketing e-mails that you receive. In general, the clinical communications you receive from Northwell Health are a direct response to your inquiry and cannot be opted out.  
+
+### Personal Information You Choose to Submit to Northwell Health
 
 Submitting personal information (name, address, telephone number, email address, etc.) is voluntary and is not required to access information on our website. If you choose to provide Northwell Health with personal information -- for example by completing a “Contact Us” form, requesting an appointment, signing up for an event, or completing a survey -- we may use that information to respond to your message and/or help us get you the information or services you requested.
 
