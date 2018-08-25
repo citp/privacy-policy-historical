@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malebits.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227015130id_/http%3A//malebits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malebits.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825155816id_/https%3A//malebits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
