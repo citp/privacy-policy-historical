@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201101726id_/http%3A//www.acuvue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825023612id_/https%3A//www.acuvue.com/privacy) for the most accurate reproduction.*
 
-# ACUVUE® Brand Privacy Policy | ACUVUE® Brand Contact Lenses
+# Privacy Policy | ACUVUE® Brand Contact Lenses
 
-**LAST UPDATED: 03/10/2014**
+**Johnson & Johnson Vision Care, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the "Site"). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
 
-**VISTAKON ® Division of Johnson & Johnson Vision Care, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the "Site"). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
-
-## INFORMATION COLLECTION
+**INFORMATION COLLECTION**
 
 **Information You Provide**
 
@@ -22,7 +20,7 @@ As you navigate around the Site, certain information can be passively collected 
 
 Using cookies: Cookies are pieces of information stored directly on the computer you are using. Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, and language preferences. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Site. We also use cookies to recognize your computer or device, which makes your use of the Site easier, such as to remember what is in your shopping cart. In addition, we use cookies to gather statistical information about Site usage in order to continually improve its design and functionality, understand how individuals use it, and to assist us with resolving questions regarding it. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Site. We may also use cookies in online advertising to track consumer responses to our advertisements.
 
-You can refuse to accept these cookies by following your browser’s instructions; however, if you do not accept them, you may experience some inconvenience in your use of the Site. You may also not receive advertising or other offers from us that are relevant to your interests and needs. To learn more about cookies, please visit[ http://www.allaboutcookies.org.](http://www.allaboutcookies.org/ "All about Cookies")
+You can refuse to accept these cookies by following your browser’s instructions; however, if you do not accept them, you may experience some inconvenience in your use of the Site. You may also not receive advertising or other offers from us that are relevant to your interests and needs. To learn more about cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) (link is external).
 
 **Using pixel tags, web beacons, clear GIFs, or other similar technologies:** These may be used in connection with some Site pages and HTML-formatted e-mail messages to, among other things, track the actions of Site users and e-mail recipients, measure the success of our marketing campaigns, and compile statistics about Site usage and response rates.
 
@@ -44,7 +42,7 @@ We also use information from or about you:
 
 We also disclose information collected through the Site:
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available [here](http://www.investor.jnj.com/governance/sec-filings.cfm) (click on the link for Form 10K, Exhibit 21, under “SEC Filings”). **VISTAKON ® Division of Johnson & Johnson Vision Care, Inc.** is the party responsible for the management of the jointly-used Personal Information;
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available _[here](http://www.investor.jnj.com/sec.cfm)_  (click on the link for Form 10K, Exhibit 21, under “SEC Filings”). VISTAKON® Division of Johnson & Johnson Vision Care, Inc. is the party responsible for the management of the jointly-used Personal Information;
   * to our third party partners with whom we offer a co-branded or co-marketed promotion;
   * to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and
   * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
@@ -55,63 +53,62 @@ In addition, we use and disclose information collected through the Site as we be
 
 We also use and disclose information we collect passively as described above, under “Passive Information Collection and Use,” and for any other purpose, except where we are required to do otherwise under applicable law (for example, if we are required to treat such information as personal information). In addition, we may use and disclose information that is not in personally identifiable form for any purpose. If we combine information that is not in personally identifiable form with information that is (such as combining your name with your geographical location), we will treat the combined information as personal information as long as it is combined.
 
-## THIRD PARTY SITES AND SERVICES
+**THIRD PARTY SITES AND SERVICES**
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or web property (including, without limitation, any application) that is available through this Site or to which this Site contains a link. The availability of, or inclusion of a link to, any such site or property on the Site does not imply endorsement of it by us or by our affiliates.
 
-## SECURITY
+**SECURITY**
 
 We use reasonable organizational, technical, and administrative measures to protect personal information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
 
-## CHOICES AND ACCESS
+**CHOICES AND ACCESS**
 
 **Your choices regarding our use and disclosure of your personal information**
 
 We give you choices regarding our use and disclosure of your personal information for marketing purposes. You may opt out from:
 
-**Receiving marketing communications from us:** If you no longer want to receive marketing communications from us on a going-forward basis, you may opt out of receiving them by contacting us through the methods listed at the end of this section.
+Receiving marketing communications from us: If you no longer want to receive marketing communications from us on a going-forward basis, you may opt out of receiving them by contacting us through the methods listed at the end of this section.
 
 In your response to us, please provide your name, identify the form(s) of marketing communications that you no longer wish to receive, and include the address(es) to which it/they are sent. For example, if you no longer wish to receive marketing e-mails or direct mail from us, tell us that, and provide your name and e-mail or postal address. You may also opt out of receiving marketing communications from us by visiting the Site to update your online profile. In addition, you may opt out of receiving marketing e-mails from us by following the unsubscribe instructions provided in any such message.
 
-  * **Receiving reminders from us:** If you no longer want to receive reminders from us on a going-forward basis, you may opt out of receiving them by modifying your My Acuvue Profile.
-  * **Our sharing of your personal information with affiliates and third-party partners:** If you would prefer that we not share your personal information on a going-forward basis with our affiliates and/or third-party partners for their marketing purposes, you may opt out of this sharing by contacting us through the methods listed at the end of this section.
+  * Receiving reminders from us: If you no longer want to receive reminders from us on a going-forward basis, you may opt out of receiving them by modifying your MyACUVUE® Profile.
+  * Our sharing of your personal information with affiliates and third-party partners: If you would prefer that we not share your personal information on a going-forward basis with our affiliates and/or third-party partners for their marketing purposes, you may opt out of this sharing by contacting us through the methods listed at the end of this section.
 
 
 
 We will seek to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out as described above, we will not be able to remove your personal information from the databases of our affiliates with which we have already shared your information (i.e., as of the date that we implement your opt-out request). Please also note that if you opt out of receiving marketing-related messages from us, we may still send you important transactional and administrative messages, from which you cannot opt out.
 
-  * In your response to us, please state that we should no longer share your personal information with our affiliates and/or third-party partners for their marketing purposes, and include your name and e-mail address.
+In your response to us, please state that we should no longer share your personal information with our affiliates and/or third-party partners for their marketing purposes, and include your name and e-mail address.
 
-
-
-1\. writing to us, attention:  
-Chief Privacy Officer, Johnson & Johnson Vision Care, Inc.  
+Johnson & Johnson Vision Care, Inc.  
 7500 Centurion Parkway, Suite 100  
 D-CREL  
-Jacksonville, FL 32256  
-2\. calling us at 1-800-843-2020; or  
-3\. emailing us at vpiweb@visus.jnj.com
+Jacksonville, FL 32256
+
+Calling us at 1-800-843-2020 (between 10 AM – 5 PM EST)
+
+Emailing us at [vpiweb@visus.jnj.com](mailto:vpiweb@visus.jnj.com)
 
 **How you can access, change, or delete your personal information**
 
 If you would like to review, correct, update, or delete the personal information that you have provided via the Site, you may visit the Site to update your online profile.
 
-## RETENTION PERIOD
+**RETENTION PERIOD**
 
 We retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or allowed by law or to otherwise fulfill a legal obligation.
 
-## USE OF SITE BY MINORS
+**USE OF SITE BY MINORS**
 
 The Site is not directed to individuals under the age of 13, and we request that these individuals not provide Personal Information through the Site.
 
-## SENSITIVE INFORMATION
+**SENSITIVE INFORMATION**
 
 Unless we specifically request or invite it, we ask that you not send us, and you not disclose, any sensitive personal information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise to us. In those cases where we may request or invite you to provide sensitive information, we will do so with your express consent.
 
-## UPDATES TO THIS PRIVACY POLICY
+**UPDATES TO THIS PRIVACY POLICY**
 
 We may change this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
-## CONTACTING US
+**CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact the Privacy Manager at [Privacy5@its.jnj.com](mailto:Privacy5@its.jnj.com "Privacy5@its.jnj.com")
+If you have any questions about this **Privacy Policy** , please contact the Privacy Manager at [vpiweb@visus.jnj.com](mailto:vpiweb@visus.jnj.com).
