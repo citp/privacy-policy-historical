@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zipscene.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126112504id_/http%3A//www.zipscene.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipscene.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825052808id_/https%3A//www.zipscene.com/privacy.html) for the most accurate reproduction.*
 
 # Zipscene Privacy Policy · Zipscene
 
 _Effective June 17, 2013_
 
-This Privacy Policy governs the manner in which Zipscene LLC, an Ohio limited liability company, (“Zipscene”, “us”, “we” or “our”) collects, protects, uses, maintains and discloses information collected from users of [www.zipscene.com](http://www.zipscene.com/), [www.cafezipscene.com](http://www.cafezipscene.com/) (the “Sites”) and any website that we maintain on behalf of our clients (the “Client Sites”). This privacy policy applies to our Sites and our Client Sites and all products and services offered by Zipscene, and describes how we use, share and protect the information that we collect.
+This Privacy Policy governs the manner in which Zipscene LLC, an Ohio limited liability company, (“Zipscene”, “us”, “we” or “our”) collects, protects, uses, maintains and discloses information collected from users of [www.zipscene.com](https://web.archive.org/web/20180825052808id_/https%3A//www.zipscene.com/index.html), [www.cafezipscene.com](http://www.cafezipscene.com/) (the “Sites”) and any website that we maintain on behalf of our clients (the “Client Sites”). This privacy policy applies to our Sites and our Client Sites and all products and services offered by Zipscene, and describes how we use, share and protect the information that we collect.
 
 Information is at the core of Zipscene’s business. Our programs involve various uses of information, including the storage, exchange, transfer, management, analysis and reporting of such information.  We create engaging digital marketing programs for our clients.  We also collect and use information we and our Clients gather through the Sites and the Client Sites, as well as our Clients’ retail operations to create and facilitate the delivery of ads, promotions and offers tailored to the preferences of the users of the Sites and the Client Sites.  To do this, we gather information  regarding our clients’ customers’ use of the Client Sites and other online and in-store services to create customer profiles, allowing us and our clients to use what is learned to deliver custom content and offers to their customers. We also obtain marketing information (including information about customers) from third parties and may combine all of this information to make it more complete, accurate and useful.
 
@@ -16,7 +16,7 @@ We are committed to maintaining the confidentiality, integrity and security of a
 
 By using the Sites and the Client Sites and providing information to Zipscene or through one or more of the Client Sites, you signify your consent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Sites or our Client Sites or provide your information to us.
 
-We reserve the right to modify this Privacy Policy at any time.  In the event this Privacy Policy is modified, we will provide notice of the change by posting the updated Privacy Policy to the [www.zipscene.com](http://www.zipscene.com/) and [www.cafezipscene.com](http://www.cafezipscene.com/).  You agree that the electronic posting of a modified Privacy Policy to our Sites represents actual notice to you.  Unless otherwise provided in an agreement between you and Zipscene, by using the Sites or the Client Sites after Zipscene posts a modified Privacy Policy, you agree to accept those changes, whether or not you have reviewed them, and such acceptance shall be deemed legally conclusive.  If at any time you choose not to accept the terms of this Privacy Policy, you should not use the Sites or the Client Sites or enter information about yourself or your business.
+We reserve the right to modify this Privacy Policy at any time.  In the event this Privacy Policy is modified, we will provide notice of the change by posting the updated Privacy Policy to the [www.zipscene.com](https://web.archive.org/web/20180825052808id_/https%3A//www.zipscene.com/index.html) and [www.cafezipscene.com](http://www.cafezipscene.com/).  You agree that the electronic posting of a modified Privacy Policy to our Sites represents actual notice to you.  Unless otherwise provided in an agreement between you and Zipscene, by using the Sites or the Client Sites after Zipscene posts a modified Privacy Policy, you agree to accept those changes, whether or not you have reviewed them, and such acceptance shall be deemed legally conclusive.  If at any time you choose not to accept the terms of this Privacy Policy, you should not use the Sites or the Client Sites or enter information about yourself or your business.
 
 **Information We Collect**
 
@@ -68,6 +68,6 @@ If your personal information changes, we invite you to correct or update your in
 
 Zipscene
 
-[http://www.zipscene.com](http://www.zipscene.com/)
+[http://www.zipscene.com](https://web.archive.org/web/20180825052808id_/https%3A//www.zipscene.com/index.html)
 
 privacy@zipscene.com
