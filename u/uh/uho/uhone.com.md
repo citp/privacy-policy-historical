@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uhone.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126015444id_/https%3A//www.uhone.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhone.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825201929id_/https%3A//www.uhone.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy of your personal information is important | UnitedHealthOne
 
-  * HIPAA Notice of Privacy Practice
+  * HIPAA Notice of Privacy Practices
   * Website Privacy Policy
   * Social Security Number Protection Policy
 
@@ -10,7 +10,7 @@
 
 * * *
 
-**HIPAA Notice of Privacy Practice** : To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act (“HIPAA”), visit our [HIPAA Notice of Information Practices](https://web.archive.org/legal/privacy-notice/).
+**HIPAA Notice of Privacy Practices** : To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act (“HIPAA”), visit our [HIPAA Notice of Privacy Practices](https://web.archive.org/legal/privacy-notice/ "HIPAA Notice of Privacy Practices").
 
 * * *
 
@@ -28,9 +28,9 @@ This website is intended for a United States audience. Any information you provi
 
 The Company uses various technologies, which may include “cookie” technology, to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. “Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” which generally record information during only a single visit to a website and then are erased, and “persistent” cookies which are generally stored on a computer unless or until they are deleted or are set to expire. 
 
-You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of “flash” technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
+You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of “flash” technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html "Flash management tools") available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
 
-We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
+We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers "www.aboutads.info/consumers"), and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices "www.aboutads.info/choices"). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
 
 We may use analytics companies to gather information and aggregate data from our website visitors such as which pages are visited and how often they are visited, and to enable certain features on our websites. Information is captured using various technologies and may include cookies. 
 
@@ -48,7 +48,7 @@ We may use and disclose your activity information unless restricted by this poli
 
 ### Targeted Advertising
 
-We contract with an advertising company or companies that uses cookies or other technology to track browsing history across websites that participate in an advertising network to deliver targeted advertisements or messages to you. You may opt-out of this tracking by [clicking on this link](http://www.networkadvertising.org/managing/opt_out.asp). Once you click the link, you may choose to opt-out of all such advertising or only advertising provided by specific advertising companies.
+We contract with an advertising company or companies that uses cookies or other technology to track browsing history across websites that participate in an advertising network to deliver targeted advertisements or messages to you. You may opt-out of this tracking by [clicking on this link](http://www.networkadvertising.org/managing/opt_out.asp "network advertising"). Once you click the link, you may choose to opt-out of all such advertising or only advertising provided by specific advertising companies.
 
 ### Your Personal Information 
 
