@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008010502id_/https%3A//benefits.gov/about/privacy-and-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825184429id_/https%3A//www.benefits.gov/about/privacy-and-terms-use) for the most accurate reproduction.*
 
 # Privacy and Terms of Use | Benefits.gov
-
-If you have been impacted by the recent hurricanes and are looking for more information, or to apply for assistance, please visit [www.DisasterAssistance.gov](https://disasterassistance.gov/).
 
 Privacy & Terms of Use Statement
 
@@ -23,7 +21,7 @@ We do not collect or store any personally-identifiable information when you visi
 The above information is used by software programs on our website to create summary statistics. We can then determine the number of visitors to the different sections of our site. We can also identify what information is of most and least interest, helping us make our site more useful to visitors.
 
 **If you identify yourself by sending an e-mail containing personal information** :  
-You also may decide to send us personally-identifiable information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your e-mail to other government employees who are better able to respond to you; however, Benefits.gov will protect this information from disclosure to the fullest extent of the law. Should you wish to file a request under the Freedom of Information Act (FOIA), instructions are provided at <http://www.dol.gov/dol/foia/main.htm>.
+You also may decide to send us personally-identifiable information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your e-mail to other government employees who are better able to respond to you; however, Benefits.gov will protect this information from disclosure to the fullest extent of the law. Should you wish to file a request under the Freedom of Information Act (FOIA), instructions are provided at <https://www.dol.gov/dol/foia/guide6.htm>.
 
 Finally, the Privacy Act of 1974, as amended (5 U.S.C. 552a), requires us to notify you that the Privacy Act protects the information you are providing to us. The Privacy Act also requires we notify you that, in rare instances, we may have to disclose this registration information in accordance with published routine uses of these records, which can be found at: <http://www.dol.gov/sol/privacy/intro.htm>.
 
