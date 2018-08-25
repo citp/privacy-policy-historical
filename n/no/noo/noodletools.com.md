@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521224542id_/https%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825155040id_/https%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## NoodleTools, Inc. Privacy Policy
 
- **Last updated: May 6, 2018**
+ **Last updated: May 25, 2018**
 
 ###  The NoodleTools Platform — An Educational Service that is Truly Private
 
@@ -33,7 +33,7 @@ This Privacy Policy applies to all parts of the NoodleTools service (“Service�
 
 By using the Service, you acknowledge that you accept and agree to this Privacy Policy.
 
-For any material changes that we may make to this Privacy Policy in the future, all subscribers will be promptly informed via notification on the NoodleTools homepage. If we make any changes to this Privacy Policy, we will change the “Last Updated” date above.
+For any material changes that we may make to this Privacy Policy in the future, all subscribers will be promptly informed via notification on the NoodleTools homepage. Individual subscribers and school account administrators will also be notified of any significant change to this policy via email. Lastly, the “Last Updated” date above will updated.
 
 ### Guiding Principles for Student/User Privacy
 
