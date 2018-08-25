@@ -1,42 +1,45 @@
-> *The following text is extracted and transformed from the stuller.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201181316id_/http%3A//www.stuller.com/apps/netgear/page43.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuller.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825150700id_/https%3A//www.stuller.com/privacy) for the most accurate reproduction.*
 
-# Stuller Settings : Security and Privacy
+# Privacy Policy | Stuller
 
-**STULLER PRIVACY POLICY**
+Information We Collect.
 
-Stuller takes your privacy seriously. Please read the following to learn more about our privacy policy.
+At Stuller, Inc. (“Stuller”) your privacy matters to us and we are committed to respect and protect your privacy and your personal information. Stuller, will not rent, sell, or share personally identifiable information about you with other people or companies except for services you've requested, when we have your permission, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of these terms and conditions, or as otherwise required by law or a policy or notice contained or associated with a specific product or service. Personally identifiable information includes such information as your full name, phone number, email address, or similar, when you register for an account. To update your account’s personally identifiable information, you can email us at creditinfo@stuller.com. We also send promotional emails and service related emails related to your account. If you no longer wish to receive these emails, you may [opt out of them here](https://web.archive.org/myaccount/accountsettings/marketingpreferences), by clicking on _Manage Preferences_ next to each contacts email address. 
 
- **What this Privacy Policy Covers**  
-· This Privacy Policy covers Stuller's treatment of personally identifiable information that Stuller collects when you are on the Stuller site, and when you use Stuller's services. This policy also covers Stuller's treatment of any personally identifiable information that Stuller's business partners share with Stuller or that Stuller may collect on a partner's site.   
-· This policy does not apply to the practices of companies that Stuller does not own or control, or to people that Stuller does not employ or manage.
+As you browse Stuller.com, we use cookies, beacons, tags and scripts to collect non-personal information including standard internet log information and details of your behavioral patterns upon visiting our website pages. We do this to provide you with a better experience, identify preferences, diagnose technical problems, analyze trends, and to improve our website. This information is for internal use only – allowing us to deliver the best experience to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. 
 
- **Information Collection and Use**  
-· Stuller collects personally identifiable information when you register for a Stuller account, when you use certain Stuller products or services, and when you visit Stuller pages. Stuller may also receive personally identifiable information from our business partners.   
-· When you register with Stuller, we ask for your name, address, email address and tax id number. Once you register with Stuller and sign in to our services, you are not anonymous to us.   
-· Stuller also automatically receives and records information on our server logs from your browser including your IP address, Stuller cookie information, and the page you requested.   
-· Stuller uses information for two general purposes: to fulfill your requests for certain products and services, and to contact you about specials and new products. 
+Stuller uses multiple analytic tools that may record mouse clicks, mouse movements, scrolling activity, pages visited, country, device used, operating system, browser used, etc. None of these analytic tools collect and use your personally identifiable information. 
 
-**Information Sharing and Disclosure**  
-· Stuller will not sell or rent your personally identifiable information to anyone.   
-· Stuller may send personally identifiable information about you to other companies or people when:   
-· We have your consent to share the information;   
-· We need to share your information to provide the product or service you have requested;   
-· We need to send the information to companies who work on behalf of Stuller to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);   
-· We respond to subpoenas, court orders or legal process; or   
-· We find that your actions on our web site violate the Stuller Terms of Service or any of our usage guidelines for specific products or services. 
+For more information, contact us at 1-800-877-7777 or [creditinfo@stuller.com](mailto:creditinfo@stuller.com?subject=Privacy%20Policy%20Questions). 
 
-**Cookies**  
-· Stuller may set and access Stuller cookies on your computer. 
+Storage
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**  
-· Contact the Credit Department at Stuller to change your account information.
+Any information collected by Stuller is stored or processed in accordance with the applicable data protection regulations. 
 
- **Security**  
-· Your Stuller Account Information is password-protected for your privacy and security. 
+How We Protect Your Information
 
-**Changes to this Privacy Policy**  
-· Stuller may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+Stuller is concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to Stuller or guarantee that your information may not be accessed, disclosed, altered or destroyed by breach of any of our industry standard physical, technical or managerial safeguards. When you enter sensitive information (such as log in credentials) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). No method of transmission over the Internet or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us at [creditinfo@stuller.com](mailto:creditinfo@stuller.com?subject=Privacy%20Policy%20Questions). We use an outside help platform, and a credit card processing company. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
-**Questions or Suggestions**  
-· If you have questions or suggestions, please send them to [info@stuller.com](mailto:info@stuller.com)  
+Compromise of Personal Information
 
+In the event that personal information is compromised as a breach of security, Stuller will promptly notify you in compliance with applicable law. 
+
+Data Access
+
+You can review, correct, update or delete inaccuracies to the information by logging into your account to update your password and billing information. Alternately, you can contact us directly at 1-800-877-7777 or [creditinfo@stuller.com](mailto:creditinfo@stuller.com?subject=Privacy%20Policy%20Questions). We will acknowledge your request and handle it promptly and as required by law. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. 
+
+Social Media Widgets
+
+Our Site includes social media features, such as the Facebook Like button and other widgets that run on our Site. These features may collect your IP address and which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the organization providing it. 
+
+Changes to our Privacy Policy
+
+All changes to this Privacy Policy are effective when they are posted on this page. When we change the policy in a material manner, we will let you know via email and/or a prominent notice on our site, prior to the change becoming effective and update the ‘effective date’ at the top of this page. 
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this website, please contact us at [creditinfo@stuller.com](mailto:creditinfo@stuller.com?subject=Privacy%20Policy%20Questions) or send write to: 
+
+Stuller, Inc.  
+302 Rue Louis XIV  
+Lafayette, Louisiana 70508 
+
+Any disputes arising out of or related to usage of Stuller.com shall be governed by, and construed and enforced in accordance with, the laws of the State of Louisiana. 
