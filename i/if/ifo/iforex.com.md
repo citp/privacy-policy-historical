@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iforex.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119142207id_/http%3A//www.iforex.com/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iforex.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825201733id_/https%3A//www.iforex.com/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Read the Privacy Policy and Security Statement for iFOREX
 
@@ -84,7 +84,7 @@ If you do not wish to receive cookies, you may be able to change the settings of
 
 We may use the information we collect to assist us in delivering relevant ads to you (Remarketing). Remarketing is a way for us to connect with our websites and ads visitors, based upon their past interactions with our website and ads. Third-party marketing vendors may be hired by iFOREX to perform such remarketing services. As a result, third-party vendors, including Google, may show iFOREX’s ads on internet sites. Such third-party vendors, including Google, may also use their cookies, third party cookies and similar technologies to serve ads based on a visitor’s prior visits to iFOREX's website.
 
-You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting Google’s [Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en). You are also encouraged to visit [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/).
+You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting Google’s [Ads Preferences Manager](https://adssettings.google.com/anonymous?hl=en&sig=ACi0TCgLVY_bcSR_LEeijP1MLzAkVv-kUpHu-iTyngCahyE21_r6aOEDAFkXTjIdRz7r3rdHLyi6lvhwPeuToHAUPRv1PbsHBy6K4ogG93_7aM0jP64CaRc). You are also encouraged to visit [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/).
 
 For further information you can also visit [Google’s privacy center](http://www.google.com/policies/privacy/).
 
