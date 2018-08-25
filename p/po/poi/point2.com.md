@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the point2.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213163026id_/http%3A//www.point2homes.com/agent-websites/company/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the point2.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825124946id_/https%3A//www.point2homes.com/agent-websites/company/legal) for the most accurate reproduction.*
 
 # Point2 | Real Estate Marketing | Listing Syndication
 
