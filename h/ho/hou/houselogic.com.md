@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houselogic.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119170520id_/https%3A//www.houselogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houselogic.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825231933id_/http%3A//www.houselogic.com/privacy) for the most accurate reproduction.*
 
-# HouseLogic.com Privacy | Houselogic Online Privacy Policy | HouseLogic
+# .com Privacy | Online Privacy Policy
 
 **PRIVACY POLICY FOR** HOUSELOGIC
 
@@ -10,7 +10,7 @@ The NATIONAL ASSOCIATION OF REALTORS® (NAR) recognizes the importance of protec
 
 This Privacy Policy explains the collection and use of Personal Identifiable information entered on our Site; what we do to secure the information; and other important matters. By using our Site, you consent to our processing your information as set forth in this Privacy Policy and any amendments thereto.  
 
-For a further understanding of the rules governing the HouseLogic Site, you should also review the “[Terms of Use](http://www.houselogic.com/terms_of_use/ "Terms of Use")”.
+For a further understanding of the rules governing the HouseLogic Site, you should also review the “[Terms of Use](https://www.houselogic.com/terms_of_use/ "Terms of Use")”.
 
  **1.    Information We Collect**  
 
