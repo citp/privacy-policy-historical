@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the uchealth.org privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911145915id_/https%3A//www.uchealth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uchealth.org privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825133430id_/https%3A//www.uchealth.org/privacy-policy) for the most accurate reproduction.*
 
 # UCHealth's Privacy Policy | Colorado | UCHealth
 
 Your privacy is important to us, and we go to great lengths to protect it. Please review our privacy practices.
 
   * [Notice of Privacy Practices](https://web.archive.org/wp-content/uploads/2016/10/PRIVACY-Notice-of-Privacy-Practices.pdf)
-  * Notice of Privacy Practices Acknowledgement [to come]
 
 
 
@@ -108,10 +107,10 @@ By using the Site or App, you are consenting to the use and processing of your i
 
 **WHO SHOULD YOU CONTACT WITH QUESTIONS?**
 
-If you have any questions about this Online Privacy Notice, our policies, and practices concerning the websites or the mobile application, your rights under this Notice, and your dealings with the UCHealth website or mobile application, you can contact UCHealth by telephone at (303) 752-7853 or by U.S. mail at the address below:
+If you have any questions about this Online Privacy Notice, our policies, and practices concerning the websites or the mobile application, your rights under this Notice, and your dealings with the UCHealth website or mobile application, you can contact UCHealth by telephone at (303) 752-7857 or by U.S. mail at the address below:
 
-Attention: Bill Kaluza  
-Senior Web Editor  
+Attention: Vincent Serio  
+Manager, Digital and Emerging Media  
 UCHealth Marketing and Communications  
 2450 S. Peoria Street  
 Aurora, CO 80014
