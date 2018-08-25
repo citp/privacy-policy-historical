@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorealparisusa.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326044619id_/https%3A//www.lorealparisusa.com/services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorealparisusa.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825120409id_/https%3A//www.lorealparisusa.com/services/privacy.aspx) for the most accurate reproduction.*
 
 # L'Oréal Paris Official Homepage - Privacy & Cookie Notice Information
 
@@ -147,7 +147,7 @@ Back To Top
 
 ##  OTHER SITES 
 
-The Sites may contain links to third party sites that are not owned or operated by L’Oreal USA. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co–branding or co–marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies or other tracking technologies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Sites (including those linked to through an email or social networking page). The Sites may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy and Cookie Notice. 
+The Sites may contain links to third party sites that are not owned or operated by L’Oreal USA. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co–branding or co–marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies or other tracking technologies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Sites (including those linked to through an email or social networking page). The Sites may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy and Cookie Notice.
 
 Back To Top
 
