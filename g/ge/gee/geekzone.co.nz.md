@@ -1,9 +1,27 @@
-> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624215731id_/https%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825170902id_/https%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
 
 # Geekzone Privacy Statement
 
   
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+
+  * IP addresses
+  * Personal information
+  * Cookies
+  * Emails
+  * Spammers
+  * Advertisements
+  * External links
+  * Third party services
+  * Subscriptions
+  * Privacy Act 1993
+  * Reporting a breach or vulnerability
+  * Amazon affiliate disclosure
+  * MightyApe affiliate disclosure
+  * Viglink affiliate disclosure
+  * Skimlinks affiliate disclosure
+
+
 
  _ **IP addresses**_  
 We use your IP address to help diagnose problems with our server and to administer our web site. All posts in our forums and comments to articles have an associated IP address recorded. This IP address is never shown to other users and it is only collected in order to help us to prevent unsolicited posting to our forums (see Spammers below) or other breaches of our _[Forum Usage Guidelines (FUG)](https://www.geekzone.co.nz/content.asp?contentid=1046)_.
@@ -43,6 +61,24 @@ This site contains links to other sites. Geekzone is not responsible for the pri
 _**Third party services**_  
 We use services from the following providers to monitor, manage and monetise our site:
 
+  * Admiral
+  * Amazon Affiliates
+  * Cloudflare
+  * Disqus
+  * GeniusLink
+  * Google Analytics
+  * Google AdSense
+  * Google DFP
+  * Google Feedburner
+  * Google reCaptcha
+  * PayPal
+  * PriceMe
+  * Stopforumspam
+  * TribalFusion
+  * Viglink
+
+
+
  _ **Subscriptions**_  
 We use PayPal to manage recurring subscriptions. When a visitor subscribes to our services all personal information as well as credit card information is provided by the user directly to PayPal. We do not receive the credit card information nor store such information in our database.
 
@@ -50,6 +86,9 @@ When using our alternative subscription service webpass.io the transaction is pe
 
  _ **Privacy Act 1993**_  
 We are also bound by the _[New Zealand Privacy Act 1993](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html)_  to make sure your personal information is not disclosed to third parties. More information can be obtained from the _[Office of the Privacy Commissioner](https://www.privacy.org.nz/)_.
+
+ _ **Reporting a breach or vulnerability**_  
+You can email [security@geekzone.co.nz](mailto:security@geekzone.co.nz) to report a breach or vulnerability. You can send an anonymous email and if you need encrypt the content you can use my [PGP key found at keybase](https://keybase.io/freitasm).
 
  _ **Amazon Affiliate disclosure**_  
 Geekzone is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
@@ -60,4 +99,4 @@ Geekzone is a participant in the MightyApe Affiliate Program, an affiliate adv
  _ **Viglink Affiliate disclosure**_  
 Geekzone is a participant in the Viglink Affiliate Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising by automatically hyperlinking some keywords to affiliates. You can opt-out of this programme at any time by visiting the _[Viglink Opt-Out page](https://www.viglink.com/opt-out)_.
 
- _ **Last update**_ : 25 May 2018
+ _ **Last update**_ : 28 June 2018
