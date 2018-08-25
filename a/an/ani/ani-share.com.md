@@ -1,49 +1,54 @@
-> *The following text is extracted and transformed from the ani-share.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216154328id_/http%3A//ani-share.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ani-share.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825080028id_/http%3A//ani-share.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Ani Share
+# Privacy Policy – Ani-Share
 
-Here at ani-share.com we value your privacy. We do not sell, rent, loan, or give your email address or other personal information to anybody and will never do so.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://ani-share.com/contact/](mailto:).
 
-**Collection of your Personal Information:**
+At http://ani-share.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://ani-share.com and how we use it.
 
-You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy policy explains data collection and use in those situations.
+**Log Files**  
+Like many other Web sites, http://ani-share.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-  * This privacy policy covers our treatment of personally identifiable information that we collect when you are on our site, and when you use our services.  
-We pledge to hold all information you provide to us in absolute privacy.  
-We will not sell or rent your name or personal information to any third party without your express permission.  
-We never sell or rent our mailing list.  
-Only authorized employees may access your information.
+**Cookies and Web Beacons**  
+http://ani-share.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+
+**DoubleClick DART Cookie**
+
+→ Google, as a third party vendor, uses cookies to serve ads on http://ani-share.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://ani-share.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+  * Google
 
 
 
-All employees are required to adhere to our strict privacy policies and any employee who violates the privacy policy is subject to termination and other disciplinary measures.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://ani-share.com._
 
-**Log Files:**
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://ani-share.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+http://ani-share.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Cookies:**
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://ani-share.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-We do use cookies to store information, such as your personal preferences when you visit our site. We do not store any personally identifiable information in these cookies.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-**Third Party Advertisements – Visitor Information and Cookies:**
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+http://ani-share.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://ani-share.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-In the future we may use third party advertisements on ani-short.net. Some of these advertisers may use technology such as cookies when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes (showing ads relevant to your locality) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites.
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-**Protection of Children’s Personal Information:**
-
-ani-short.net is a general audience site and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. photographyplan.com encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, the ani-short.net web site by visitors under 18 years of age without the consent of their parent or guardian.
-
-**Links to Third Party Sites:**
-
-This website may contain links to other web sites that are not controlled by ani-short.net (“Third Party Sites”). Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. The ani-short.net Privacy Policy applies solely to information collected by this website.
-
-**Changes to this Privacy Policy:**
-
-ani-short.net will occasionally update this privacy policy. For material changes to this statement, ani-short.net will notify our users by placing prominent notice on the site.
-
-**Enforcement of this Privacy Policy and Contact Information:**
-
-ani-short.net welcomes your comments regarding our privacy policy. For any comments, feel free to contact us via our “Contact Us” page.
+**Update**  
+This Privacy Policy was last updated on: Friday, May 11th, 2018.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
