@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adshuffle.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317130859id_/http%3A//www.adshuffle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adshuffle.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825132715id_/http%3A//www.adshuffle.com/privacy.html) for the most accurate reproduction.*
 
 # AdShuffle
 
-[](https://web.archive.org/web/20180317130859id_/http%3A//www.adshuffle.com/index.html)
+[](https://web.archive.org/web/20180825132715id_/http%3A//www.adshuffle.com/index.html)
 
 Beacons 
 
