@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318170019id_/https%3A//www.virginia.org/en/Articles-and-Stories/General/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825023324id_/https%3A//www.virginia.org/en/Articles-and-Stories/General/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virginia Is For Lovers
 
@@ -14,7 +14,7 @@ We request information from the user on our order form. Here a user must provide
 
 **Cookies**
 
-A cookie is a piece of data stored on the user's hard drive on a computer, tablet, or mobile phone that collects information about the user and which may be collected from logins to third-party websites, including your general location (based on IP address and other location sources) and your interaction with advertisements and websites. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take may place or use the Trip Planner feature. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+A cookie is a piece of data stored on the user's hard drive on a computer, tablet, or mobile phone that collects information about the user and which may be collected from logins to third-party websites, including your general location (based on IP address and other location sources) and your interaction with advertisements and websites. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
 **Log Files**
 
@@ -32,10 +32,6 @@ This web site contains links to other sites. Please be aware that VTC is not res
 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. During registration a user is required to give their contact information (such as name and email address). Other information requested may include contact information (shipping address and phone number), and demographic information (such as zip code, age level). It is optional for the user to provide demographic information (such as income level and gender), but encouraged so we can provide a more personalized experience on our site. Contact information will be used to notify the winners and award prizes. We will also share contact information with companies who partner with VTC for the contests. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-**Rules for[Jamestown1607.org](http://www.jamestown1607.org/ "http://www.jamestown1607.org/") Website Comment Posting**
-
-Content – Comments should focus on the personalities, locations, stories and opinions surrounding the history, heritage, themes and topics of this website, which include: Jamestown1607 – The most intriguing story in American History and America’s 400th Anniversary: Jamestown 2007. Try to keep comments concise. Comments must not be obscene, profane, sexually explicit, libelous, slanderous, defamatory, harmful, threatening, illegal or knowingly false. Please use the proper grammar to express yourself. No website links or advertisements can be posted. Disclaimer – The Virginia Tourism Corporation (VTC) is not liable for the opinions or validity of any outside sources cited of comments posted. VTC has authority to post or remove comments at its discretion. Comments will be posted on the website with only the name you enter, without the eMail address. Your name and eMail address are still required when initially leaving your comment, so that we can contact you. Your eMail address will not be sold to a third party for marketing purposes. By posting to this forum, you assume responsibility for your communications and the consequences of posting them. Therefore, there will be a delay period between submission and display of accepted items on the Web site. 
-
 **Special Offers**
 
 VTC will occasionally send information on products, services, special deals, and a newsletter to email addresses collected on the site. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our opt-out below.
@@ -46,7 +42,7 @@ If a user's personally identifiable information changes (such as your zip code),
 
 **Opt-out**
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [webmaster@virginia.org](mailto:webmaster@virginia.org)
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [webmaster@virginia.org](mailto:webmaster@virginia.org). You may also click the Unsubscribe link at the bottom of any email. 
 
 **Notification of Changes**
 
@@ -56,4 +52,4 @@ If we decide to change our privacy policy, we will post those changes on our pri
 
 **[Copyright Notices](https://web.archive.org/copyrightnotices/ "Copyright Notices")**
 
-Last Updated: 12/9/2016
+Last Updated: 5/23/2018
