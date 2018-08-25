@@ -1,71 +1,137 @@
-> *The following text is extracted and transformed from the ring.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128130642id_/https%3A//ring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ring.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825113554id_/https%3A//ring.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | Ring
+# Privacy | Ring
 
-This Privacy Policy is intended to help you understand how Bot Home Automation, Inc., its subsidiaries and affiliates ("Bot Home Automation," "we," "us" or "our") collect, use and safeguard the information you provide to us on this website or through our Services (as defined in our “Terms of Service”). By using or accessing our Services, you signify your acknowledgment and assent to the Privacy Policy set forth below. If you do not agree to this Privacy Policy, please do not use our Services. Bot Home Automation is free to revise this Privacy Policy at any time by updating this posting, but if we do, we will bring it to your attention by placing a notice on the website, notifying you through the Services, by sending you an email, and/or by some other means. Your use after such change signifies your acceptance of the changed terms. Please check this Privacy Policy periodically for changes.
+_Effective date:  March 27, 2018_
 
-### COLLECTION OF PERSONAL INFORMATION
+Ring Inc. and our affiliates (“Ring”) respect your concerns about privacy. This Privacy Notice describes the types of personal information we obtain about consumers and other individuals identified below, how we may use the personal information, with whom we may share it, and the choices available regarding our use of the personal information. The Privacy Notice also describes the measures we take to safeguard the personal information and how individuals can contact us about our privacy practices.
 
-We gather various types of personal information from our users, as explained in more detail below, and we use this personal information internally in connection with our Services, including to personalize, provide, and improve our Services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services.
+  * Information We Collect
+    * Information We Obtain About You
+    * Information We Obtain by Automated Means
+  * How We Use The Information We Collect
+    * Third-Party Analytics Services
+    * Online Tracking and Interest-Based Advertising
+  * Information Sharing
+    * Ring+ Service
+  * Your Choices 
+  * Notice to California Residents
+  * Other Online Services and Third-Party Features
+  * How We Protect Personal Information
+  * Updates To Our Privacy Notice
+  * How To Contact Us
 
-If you browse the Bot Home Automation website, you may generally do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. For example, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. In addition, we may request personal information when you register to receive additional information regarding our products and services, download software, sign up for a newsletter or send us a question. Even if you choose not to give information we request, you can still visit most of the Bot Home Automation website, but you may be unable to access certain options, offers and services. In case you change your mind or wish to update or delete your personal information, we will endeavor to correct, update or remove the personal data you give us. You can update or delete your personal information by contacting us at the contact point specified below.
 
-### YOUR RING™ VIDEO DOORBELL AND OTHER RING PRODUCTS
 
-Information input during setup: When you install your device, you may be asked for certain basic information like your device name, description, ZIP or postal code, as well as where in your home you’re installing your device. This information is used to personalize your experience – for example, to tell you which device is triggering a notification. 
+##  **Information We Collect**
 
-Environmental data from Ring™ Products’ sensors: We collect data from sensors built into some of our devices or products installed on your property. These sensors collect data such as device temperature and ambient light. By recording this information, your device can know, for instance, whether it’s dark and it should turn on night vision.
+###  _Information We Obtain About You_
 
-Video and audio signals and data: After you begin using your device, we may process information from your device so that we can send you alerts when your doorbell is pressed or when your device detects motion. This information processing may include capturing and e-mailing to you portions of this data as part of a notification, or analyzing the data to identify motion or other events. When you access our Cloud Service (as defined in the Terms of Service) on a trial basis or a subscription basis, we will record and process video and/or audio recordings from your device. In addition, we will capture, process and retain video and audio data recordings from your device for the duration of your recording subscription period, and you will be able to access those recordings using the Services during that time. Additionally, regardless of your use of our Cloud Service, we will capture, process and retain Ring Neighborhood Recordings (as defined in the Terms of Service) to enable you to participate in the Ring Neighborhood feature, and may share certain Ring Neighborhood Recordings that you elect to post to the Services to other users as further described in the Terms of Service.
+We obtain certain personal information in connection with the products and services we provide. The types of personal information we obtain include:
 
-Technical information from the device: In order to improve your experience over time and help troubleshoot any problem you may encounter with your device, we may record your device serial number, software version, and/or technical information such as Wi-Fi signal strength.
+  * Contact information, such as name, phone number, and email and postal address;
+  * Account information, such as online password and other log-in details used to access Ring products and services;
+  * Payment information, such as name, billing address and payment card details, including card number, expiration date and security code, which is collected and stored by our third-party payment processor on our behalf. Ring stores only the last four digits of your payment card and the expiration date;
+  * The geolocation of your mobile device if you consent to the collection of this data;
+  * Product setup information, such as the name and description of your Ring product (for example, “Ring Doorbell – Front Door”) and the location where you install your Ring product, and adjustments you make to the product setup;
+  * Technical information about your Ring product, such as your Wi-Fi network information and signal strength, and your Ring product’s model, serial number and software version;
+  * Social media handles, content and other data posted on our official social media pages;
+  * Information we obtain from third-party social media services (e.g., Facebook) or payment services (e.g., PayPal) if you choose to link to, create or log into your Ring account through these services (including when you share Ring videos or content via your social media account);
+  * Information we obtain from third-party business partners if you choose to use our Ring+ Service, such as your account ID, account name and email address;
+  * Information you submit in connection with a career opportunity at Ring, such as contact details, information in your resume and details about your current employment;
+  * Other personal information contained in content you submit to us, such as through our “Contact Us” feature or customer support tools on our websites or mobile apps.
 
-Saved and Shared Content: You may save and may choose to share certain content like video clips, images, captions, and comments for other people to access using the Services. We will collect and store information that will allow us to save or share your content as directed by you through the Services.
 
-Data protection and privacy laws in your country may impose certain responsibilities on you and your use of our products installed on your property. You are responsible for ensuring that you comply with any applicable laws when you use our Services or products. For example, you may need to display a notice that alerts visitors to your home that you are using the Ring® Video Doorbell or Stick Up Cam. Note in particular that recording and sharing clips that involve other people may affect their privacy and/or data protection rights.
 
-### ORDERS
+In addition, our products and services are designed to allow you to see, hear and speak to anyone at your door from your computer or mobile device, and collaborate with others in your community. To provide you with these services, we obtain content (and related information) that is captured and recorded when using our products and services, such as video or audio recordings, live video or audio streams, images, comments, and data our products collect from their surrounding environment to perform their functions (such as motion, events, temperature and ambient light).
 
-When you place an order for a product or service, we will collect your name, e-mail address, mailing address, credit card number and expiration date. This personal information is required so that we can process and fulfill your order, send an order or shipping confirmation, as well as notify you of your order status. Also, once you place an order or make an inquiry regarding our products or Services, we may send you informational e-mails about our products and Services, including promotional offers. If you do not wish to receive such e-mails from us, you may unsubscribe at any time by e-mailing us at [help@ring.com](mailto:help@ring.com) or by clicking the unsubscribe link in the email.
+Where permitted by applicable law, you may choose to use additional functionality in your Ring product that, through video data from your device, can recognize facial characteristics of familiar visitors. For example, you may want to receive different notifications from your Ring Doorbell depending on whether a visitor is a stranger or a member of your household. If you choose to activate this feature, we obtain certain facial feature information about the visitors you ask your Ring product to recognize. We require your explicit consent before you can take advantage of this feature.
 
-### BOT HOME AUTOMATION MAILINGS/MARKETING COMMUNICATIONS
+Privacy and video surveillance laws in your jurisdiction may apply to your use of our products and services. You are solely responsible for ensuring that you comply with applicable law when you use our products or services. For example, you may need to display a notice that alerts visitors to your home that you are using our products or services. Capturing, recording or sharing video or audio content that involves other people, or capturing others peoples’ facial feature information, may affect their privacy rights.
 
-If you provide us with personal information, we may place you on our company’s e-mail list to receive e-mails regarding product/service updates, special offers, important issues and new products and services offered by Bot Home Automation and its affiliates. If you do not wish to receive e-mail updates or other marketing communications from our company or our affiliates, you may unsubscribe at any time by contacting us at [help@ring.com](mailto:help@ring.com).
+###  ___Information We Obtain by Automated Means_
 
-### USE OF PERSONAL INFORMATION
+When you interact with our products and services, we obtain certain information by automated means, such as cookies, web server logs, web beacons, and other technologies. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.
 
-Personal information provided by users may be used for marketing and promotional purposes only by Bot Home Automation and its subsidiaries and affiliates. Except as described in this Privacy Policy, Bot Home Automation does not rent, sell or otherwise distribute to third parties, your personal information entered on this site without your consent, unless required by law or as disclosed to you when the information is collected. If you do provide us with consent to share your information with other third party companies, we may share your information with third party companies who offer products and services that may be of interest to you. These companies may then contact you directly with product or sample offers, personalized offers and information, or to ask for your feedback on products and programs that they think may be of interest to you. While we use all reasonable efforts to safeguard the confidentiality of your information, Bot Home Automation will have no liability for disclosure of any information obtained due to errors in transmission or the unauthorized acts of third parties.
+ We may use these automated technologies to collect information about your equipment, browsing actions, and usage patterns. The information we obtain in this manner may include your device IP address, identifiers associated with your devices, types of devices connected to our services, web browser characteristics, device characteristics, language preferences, referring/exit pages, clickstream data, and dates and times of website or app visits. These technologies help us (1) remember your information so you will not have to re-enter it; (2) track and understand how you use and interact with our products and services; (3) tailor the services around your preferences; (4) measure the usability of our products and services and the effectiveness of our communications; and (5) otherwise manage and enhance our products and services, and help ensure they are working properly. 
 
-We may share your personal information with our third party service providers at our discretion. We engage third party service providers to perform certain services on our behalf. In order to perform those services, the service providers may need to know your personal information. We require that they protect this information and only use it to perform services on our behalf. For example, we may use outside shipping companies, credit card processing companies, resellers, distributors, content providers, and/or other service providers.
+Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our online services. For mobile devices, you can manage how your device and browser share certain device data by adjusting the privacy and security settings on your mobile device.
 
-We may share statistical or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties. This data is used to customize Bot Home Automation website content and advertising to deliver a better experience to our users.
+##  **How We Use The Information We Collect**
 
-We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, personal information collected as described in this Privacy Policy could be one of the assets transferred to or acquired by a third party.
+We may use the personal information we obtain about you to:
 
-### COOKIES AND IP TRACKING
+  * Provide our products and services to you;
+  * Establish and manage your Ring account and profile;
+  * Process and fulfill claims and orders in connection with our products and services and keep you informed about the status of your order;
+  * Personalize your experience with our products and services;
+  * Allow you to stream, save and share content through our services;
+  * Identify and authenticate you so you may access certain content or use certain of our services;
+  * Increase and maintain the safety and security of our products and services and prevent misuse;
+  * Communicate with you (including providing you with offers and other communications about our products and services) and provide customer support;
+  * Allow you to interact with certain third-party products or services (for example, to enable you to link to, or view content from, third-party sites within our services, or connect to third-party products and services through the Ring+ service);
+  * Perform analytics (including market and consumer research, trend analysis, financial analysis, and anonymization of personal information);
+  * Manage career opportunities at Ring; including for recruitment purposes, employee onboarding and other HR purposes;
+  * Operate, evaluate, develop, manage and improve our business (including operating, administering, analyzing and improving our products and services; developing new products and services; managing and evaluating the effectiveness of our communications; performing accounting, auditing, billing reconciliation and collection activities and other internal functions);
+  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards and policies, including this Privacy Notice and our Terms of Service.
 
-This site may use cookies for site administration purposes. If for any reason you wish to not take advantage of cookies, you may have your browser not accept them, although this may disable or render unusable some of the features of the Bot Home Automation website. This website also may detect and use your IP address or domain name for internal traffic monitoring and capacity purposes or to otherwise administer our website. No personal information is obtained; rather, the patterns of usage of our various users may be tracked to provide you with improved service and content based on aggregate or statistical reviews of user site traffic patterns.
 
-### SPECIAL CASES
 
-Bot Home Automation reserves the right to disclose personal information (including Recordings, as defined in the Terms of Service) in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Bot Home Automation website users or anyone else that could be harmed by such activities. We may also access, use, preserve and/or disclose your personal information or Recordings to law enforcement authorities, government officials, and/or third parties, if legally required to do so or if we have a good faith belief that such access, use, preservation or disclosure is reasonably necessary to: (a) comply with a legal process or request; (b) enforce our Terms of Service, including investigation of any potential violation thereof; (c) detect, prevent or otherwise address security, fraud or technical issues; or (d) protect the rights, property or safety of Bot Home Automation, its users, a third party, or the public as required or permitted by law.
+We also may use the personal information we collect about you in other ways for which we provide specific notice at the time of collection and obtain your consent if required by applicable law.
 
-### POLICIES FOR CHILDREN
+###  ___Third-Party Analytics Services_
 
-The features, programs, promotions and other aspects of this website requiring personal information are not intended for children. Bot Home Automation does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us, please notify us at the contact point specified below. A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personal information
+We use third-party web analytics services on our websites and mobile apps. The service providers that administer these services use automated technologies to collect data (such as email and IP addresses) to evaluate use of our websites and mobile apps. To learn more about these analytics services, please [click here](https://ring.com/third-party-services).
 
-### LINKED SITES
+###  ___Online Tracking and Interest-Based Advertising_
 
-Please be advised that this website may contain links to third party websites. The linked sites are not under the control of Bot Home Automation, and we are not responsible for the contents or privacy practices of any linked site or any link on a linked site.
+On our websites, we may collect information about your online activities to provide you with advertising about products and services tailored to your interests. This section of our Privacy Notice provides details and explains how to exercise your choices.
 
-### SECURITY
+You may see our ads on other websites or mobile apps because we participate in advertising networks. Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests and browsing context. These networks track users’ online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other similar technologies. The networks use this information to show ads that may be tailored to individuals’ interests, to track users’ browsers or devices across multiple websites, and to build a profile of users’ online browsing activities. The information our ad networks may collect includes data about users’ visits to websites that participate in the relevant ad networks, such as the pages or ads viewed and the actions taken on the websites. This data collection takes place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
 
-Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and personal information by selecting and protecting your password appropriately by limiting access to your computer or device and browser by signing off after you have finished accessing your account.
+Our websites are not designed to respond to “do not track” signals received from browsers. To learn how to opt out of ad network interest-based advertising in the U.S., please visit [www.aboutads.info/choices](http://www.aboutads.info/choices), <http://www.networkadvertising.org/choices/>, and <http://preferences-mgr.truste.com/>. 
 
-We take security seriously and endeavor to protect the privacy of your account and other personal information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
+##  **Information Sharing**
 
-### CONTACT INFORMATION
+We do not sell or otherwise share personal information about you except as described in this Privacy Notice. We may share your personal information with (1) our affiliates and subsidiaries and (2) our service providers who perform services on our behalf, such as marketing, customer service, order fulfillment and data analytics and storage. We do not authorize our service providers to use or disclose your personal information except as necessary to perform services on our behalf or comply with legal requirements. We also may share personal information with our business partners (1) with whom we jointly offer products and services; (2) to the extent you use Ring+ to connect to third-party products or services; and (3)  for payment processing and fraud prevention purposes. 
 
-Bot Home Automation, Inc. 1523 26th Street Santa Monica, CA 90404 800.656.1918
+We also may disclose personal information about you (1) if we are required to do so by law or legal process (such as a court order or subpoena); (2) in response to requests by government agencies, such as law enforcement authorities; (3) to establish, exercise or defend our legal rights; (4) when we believe disclosure is necessary or appropriate to prevent physical or other harm or financial loss; (5) in connection with an investigation of suspected or actual illegal activity; or (6) otherwise with your consent.
 
-_Last updated November 25, 2016_
+We reserve the right to transfer any personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution or liquidation).
+
+###  _Ring+ Service_
+
+Through our Ring+ service, you may choose to connect to certain third-party services offered by our business partners. To activate a connection and allow the Ring products and services to interface with an available third-party service, each Ring+ connection requires the exchange of certain information between Ring and our business partner that is providing the third-party service. For example, to enable you to integrate Ring’s products and services with those of our business partners, we may share certain account information with those business partners, such as your account ID and email address. In addition, we may share certain data our products collect from their surrounding environment that is necessary to perform their functions (such as motion or events outside your door). In each case, we will engage with a given third-party service only if you choose to activate such a connection. You may revoke a connection to a third-party service at any time by contacting Ring at [privacy@ring.com](mailto:privacy@ring.com) or, depending on the particular third-party service, accessing your settings under your account with that service. The privacy statements of our business partners apply to any information practices of those partners and to the information shared with them.
+
+##  **Your Choices**
+
+We offer you certain choices in connection with the personal information we obtain about you. To update your preferences, limit the communications you receive from us, or submit a request, please contact us as specified in the How To Contact Us section of this Privacy Notice. You also may opt out of receiving promotional communications from us by following the unsubscribe instructions in the communications you receive. We do need to send you certain communications about our products and services, and you will not be able to opt out of those communications. This includes, for example, information about billing.
+
+When you purchase our products, you may choose to use our Ring Protect Plan (“Ring Protect”) on a trial or subscription basis. If you have enabled the recording features of the Ring Protect, we retain the recordings (and any related information) from your product during your recording subscription period so you can access your content during that time period. You may delete your recordings from  Ring Protect  at any time by accessing your account. Additionally, regardless of your use of  Ring Protect , we retain Ring Neighborhoods Recordings (as defined in the Terms of Service) so you can participate in the Ring Neighborhoods feature if you choose to do so.
+
+##  **Notice to California Residents**
+
+Subject to certain limits under California law, California residents may ask us to provide them with (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How To Contact Us section below.
+
+##  **Other Online Services and Third-Party Features**  
+
+Our website and mobile apps may provide links to other online services for your convenience and information, and may include third-party features such as apps, tools, payment services, widgets and plug-ins (e.g., Facebook, Twitter or PayPal buttons). These online services and third-party features may operate independently from us. The privacy practices of the relevant third parties, including details on the information they may collect about you, is subject to the privacy statements of these parties, which we strongly suggest you review. To the extent any linked online services or third-party features are not owned or controlled by us, Ring is not responsible for these third parties’ information practices.
+
+##  **How We Protect Personal Information**
+
+We maintain administrative, technical and physical safeguards designed to protect personal information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+##  **Policies for Children**
+
+We recognize the importance of protecting children's online privacy. Ring's products and services are intended for a general audience and are not directed to children. We do not knowingly collect personal information online from children under the age of 13.
+
+##  **Updates To Our Privacy Notice**
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice on our websites and mobile apps to notify you of significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated.
+
+If you have any questions about this Privacy Notice, or if you would like us to update information we have about you, change your preferences or exercise other applicable data protection rights, please contact us by e-mail at [privacy@ring.com](mailto:privacy@ring.com) or write to us at:
+
+Ring Inc.  
+1523 26th Street  
+Santa Monica, CA 90404
