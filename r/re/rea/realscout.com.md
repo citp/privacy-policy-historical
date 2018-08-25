@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021101442id_/http%3A//www.realscout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825061009id_/https%3A//www.realscout.com/privacy) for the most accurate reproduction.*
 
 # RealScout - Personalized Home Search with More Data About Local Listings / RealScout
 
@@ -100,13 +100,13 @@ We may occasionally update this Policy. When we do, we will also revise the “l
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at RealScout, Inc., 480 Ellis Street, Mountain View, CA 94043 or email us at privacy@realscout.com. 
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at RealScout, Inc., RealScout, Inc. 144 South Whisman Drive, Ste F, Mountain View, CA 94041 or email us at privacy@realscout.com. 
 
 ##  CONTACTING US 
 
 If you have any questions or comments about this Policy, please contact us using the following contact information: 
 
 RealScout, Inc.   
-480 Ellis St.  
-Mountain View, CA 94043  
+144 South Whisman Drive, Ste F  
+Mountain View, CA 94041  
 [support@realscout.com](mailto:privacy@realscout.com)
