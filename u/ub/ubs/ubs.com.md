@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315044929id_/https%3A//www.ubs.com/global/en/legalinfo2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825121008id_/https%3A//www.ubs.com/global/en/legalinfo2/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | UBS Global topics
 
@@ -18,7 +18,7 @@ UBS AG, its subsidiaries and branches ("UBS" or "We") are committed to safeguard
 
 This Statement applies to any information obtained by UBS through your use of the UBS Website. It is not applicable to any Internet websites controlled by third parties not affiliated with UBS that the UBS Website may link to ("Third Party Sites"). Please review the privacy statements of Third Party Sites as UBS is not responsible for and has no influence on the content or the privacy practices of Third Party Sites.
 
-The terms of this Statement are subject to any additional terms of disclaimers or other contractual terms you have entered into with UBS such as client privacy statements or notices, and any applicable mandatory laws and regulations.
+The terms of this Statement are subject to any additional terms of disclaimers or other contractual terms you have entered into with UBS such as client privacy statements or notices, and any applicable mandatory laws and regulations. Specifically, under “Additional legal information”, Privacy Notices can be found for certain jurisdictions where UBS entities process personal data. The terms of this Statement will be subject to the relevant jurisdiction-specific Privacy Notice.
 
 ###  What information do we collect from you and for what purpose? 
 
@@ -97,5 +97,3 @@ P.O. Box
 8098 Zürich  
 Switzerland  
 
-
-Last update in July 2013.
