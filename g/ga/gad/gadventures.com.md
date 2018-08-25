@@ -1,89 +1,97 @@
-> *The following text is extracted and transformed from the gadventures.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902044042id_/https%3A//www.gadventures.com/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadventures.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826004617id_/https%3A//www.gadventures.com/terms-conditions/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - G Adventures - G Adventures
 
-G Adventures and its related parties are committed to protecting your Personal Information that you share with us. We want you to understand our Privacy Policy and what it means to you, our customer. Please take a moment to review this Privacy Policy. By using our website or the services offered by us, you are consenting to our use of such personal information as you provide to us as described herein. If you do not consent to our use of your information, please do not use our services. Any questions you have about our Privacy Policy, or the information contained herein can be directed to our Privacy Officer at: [privacyofficer@gadventures.com](mailto:privacyofficer@gadventures.com).
+Effective: May 24, 2018
 
-The Privacy Policy applies to G Adventures and its related parties:
+G Adventures is committed to protecting your personal information. We want you to understand our Privacy Policy and what it means to you. If you have any questions about our Privacy Policy, you can contact our Privacy Officer at privacyofficer@gadventures.com or through the contact information posted below.
 
-  * G Adventures' global group of companies
-  * Planeterra Foundation
+The Privacy Policy describes the privacy practices of G Adventures’ global group of companies and its related Planeterra Foundation (collectively, “G Adventures”).
 
+### What is personal information and how do we use or disclose it?
 
+Personal information is information about an identifiable individual, and includes your name, contact information, travel itinerary and other information described below.
 
-Which are collectively referred to as G Adventures throughout this document for ease of reading.
+### Booking Travel
 
-We do our utmost to ensure your personal information is safeguarded and protected, by adhering and acting in accordance with all applicable legislation, including Canada's Personal Information Protection and Electronic Documents Act (PIPEDA), and other similar legislation, as applicable in the countries and regions in which G Adventures operates.
+G Adventures may collect, use or disclose your personal information, either directly or through our agency and booking partners, for the purposes of offering or booking travel services on your behalf, such as your name, age, address, phone number, e-mail address, emergency contact information, passport information, travel medical information (where required), insurance details, ISIC information (where applicable), nationality, residency, nutrition preferences, trip evaluations, travel and accommodation preferences, comments you provide us, trip destination information, and payment-related information. This personal information enables us provide you with trip information, book flights, accommodations, process payments, and provide similar travel services.
 
-## What is considered personal information and why would it be collected?
+If you book a G Adventures trip, G Adventures may rely on local service providers. Please be aware that G Adventures may be required to provide certain personal information to our service providers for the purposes of delivering your experience. For example, if you book flights through G Adventures, we will be required to provide certain personal information to the airline for the purposes of securing your ticket. When you book travel services with us, you consent to collection, use and disclosure of your personal information by G Adventures—and the corresponding collection and use by the relevant travel partners or suppliers—for the purposes of administering and delivering the travel services you requested.
 
-G Adventures collects personal information only to the extent necessary to deliver the services, products, or information you, or an agent or other passenger booking on your behalf, request.
-
-G Adventures, either directly or through our agency and booking partners collects, holds, uses and discloses, only as necessary the following personal information from customers and others in the course of offering services or providing services to you: full name, age, home address, phone number, e-mail address, passport and travel medical information, where required, insurance details, ISIC information, where applicable, nationality, residency, nutrition preferences, trip evaluations, travel & accommodation preferences, comments you provide us, trip destination information, credit card and/or other payment information, etc. The collection of this information is done to allow us to provide services to you as requested.
-
-We may also collect personal information, including contact information, if you elect to enter a contest or sweepstakes with us, to subscribe to our newsletter, or to request a brochure, which we will use only to provide you with the service you have requested (or other substantially similar services directly related to your request).
-
-G Adventures collects personal information from those individuals applying for employment or similar positions at G Adventures to the extent necessary to (i) identify the individual and (ii) evaluate their suitability for the position applied for. This information may include name, contact information, educational and employment background, criminal record information, residency and/or citizenship information, and other information necessary for us to screen potential employees and staff.
-
-G Adventures collects personal information from agents and agencies to the extent required to allow agents to book G Adventures' trips, and to be properly credited for such booking, as necessary and as dictated by the relationship between the agent and G Adventures. Such information may include name, employment relationship or employer information, work or business address, etc. If you are an agent travelling with G Adventures, G Adventures may collect the personal information noted above for other travelling passengers, as well as other employment or eligibility information. This information may be collected directly from you, or from your employer (where authorized).
-
-Where the collection of certain details of your personal information is not required in order to deliver requested services or products, you may forgo providing such details. For example, you may sign up for our electronic marketing and newsletters with only an e-mail address. You may also be entitled, in certain circumstances where verification of your identity is not required, to deal with G Adventures using a pseudonym. Please ask G Adventures to advise if the personal information in question is required to complete your request.
-
-## How is my personal information used or disclosed?
-
-G Adventures uses this personal information to provide the services and/or products you have requested, or to provide you with information about those services or G Adventures. This includes using personal information to: register you to receive newsletters, answer your request for further information about our trips, make a booking or booking(s), provide you with information about the Company and/or our services, and to receive and implement feedback on those services. Furthermore, the personal information allows us to:
-
-  * Understand your needs as a customer and determine eligibility for our products and services.
-  * Inform you about our products and services, or those of our partners that we believe may be of interest to you.
-  * Provide ongoing service and support, including resolution of any issues with the services or products you request from G Adventures.
-  * To ensure the safety and security of our passengers and products.
-  * Carry out internal accounting and administration of our business.
-  * Comply with laws, regulations, immigrations requirements, and the like.
+Your personal information may also be used for the purposes of: 
+  * Enabling us to better understand your needs as a customer and determine eligibility for our products and services;
+  * Informing you about our products and services, or those of our partners that we believe may be of interest to you (provided that we have received valid consent from you, if such consent is required);
+  * Providing ongoing service and support, including resolution of any issues with the services or products you request from G Adventures; 
+  * Ensuring the safety and security of our passengers and products;
+  * Carrying out internal accounting and administration of our business;
+  * Complying with laws, regulations, and immigration requirements.
 
 
 
-G Adventures may also use your personal information to book products and services for you or on your behalf from our third party suppliers and service providers, or other service providers or merchants for whom we act as agent from time to time. This collection of personal information can be both for our internal purposes, for example, to process your booking, and occasionally on behalf of the parties for whom we act as agent, for their internal purposes in providing the services or products you have requested. Please be aware that the consent you provide to the collection and use of personal information by G Adventures, applies equally to the parties whose products and services we sell or book on your behalf. For example, if you purchase a flight from us, you will be deemed to have consented to your personal information being provided to the airline to enable your flight to be booked.
+### Travel Agents and Agencies 
 
-## What are the consequences of failing to provide Personal Information?
+G Adventures collects personal information (as described above) from agents and agencies as required to book G Adventures’ trips and be properly credited for such booking. If you are an agent travelling with G Adventures, G Adventures may also collect employment-related information to confirm your eligibility for travel-industry promotions.
 
-If you do not provide the Personal Information that we request, we may not be able to deliver the services you have requested, which may mean you won't be able to participate in our trips, purchase the items from our store, or subscribe to our newsletter, to name a few. If you have paid a deposit and later refuse to provide necessary Personal Information to G Adventures which G Adventures (or our partners and suppliers) require to deliver the service for which the deposit was paid (for example, for a flight which requires passport information), you may not be entitled to a refund for that service. Please contact us if you have any questions about providing or not providing Personal Information when booking or otherwise dealing with G Adventures. Personal information is not collected unless provided to us. This means you can visit and browse our website, or place a call to our 24/7 sales contact centre, without having to provide any personal information to G Adventures. How do we collect this information and obtain your consent? We collect information from customers during the booking (or option) process, or during the inquiry process where required, via our sales channels, such as our website booking form, our 24/7 sales contact centre (via e-mail or telephone), using medical forms filled out by you or your authorized representative, using your MyG profile, through on-line evaluations submitted by you, via on-line or other entry ballot for any contests, competitions, or sweepstakes, using brochure or other similar request forms, and/or through our travel agency partners and other individuals who make or update bookings on your behalf, or otherwise interact with us on your behalf, including during the inquiry process (whether or not the inquiry proceeds to a booking).
+### Contests and Newsletters
 
-This information is provided by you or on your behalf by someone you have authorized to make or inquire about a booking. We obtain consent by:
+We may also collect personal information, including contact information such as name, address, and phone number or email address if you elect to enter a contest or sweepstakes with us, subscribe to our newsletter, or request a brochure. We use this personal information for the purposes of administering the contests/sweepstakes or delivering the information you request.
 
-  * Written permission via mail, email or fax, or online booking form.
-  * Verbal permission
-  * Third party consent (i.e. from your travel agent, or the passenger booking on your behalf to whom you have provided your personal information for such purpose).
+### Employment
+
+G Adventures collects personal information from those individuals applying for employment or similar positions at G Adventures to the extent necessary to (i) identify the individual and (ii) evaluate their suitability for the applied-for position. This information may include name, contact information, educational and employment background, criminal record verification, residency and/or citizenship information, and other information necessary for us to screen potential employees and staff.
+
+### Service Provider Arrangements
+
+In addition to the third party travel suppliers outlined above, G Adventures may transfer your personal information to third parties who provide services on our behalf. For example, we may use service providers to authorize and process payments, host our customer service operations, serve advertisements on our website, send email or other communications, or run our contests and promotions. Your personal information may be maintained and processed by our service providers in the US or other jurisdictions. For information about the polices or practices of our service providers, please contact us at the email address above. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose your personal information for their own purposes.
+
+### European Residents: Transfers of Data Outside Europe
+
+Please note that if you are resident in the UK, European Union or European Economic Area (“EEA”) we may hold your personal information outside of the EEA. For instance, your personal information may be held by us in Canada (which has been recognized by the European Commission as having an adequate level of privacy protection).
+
+We may also need to transfer your personal information to travel suppliers and other third parties outside of the EEA, for instance where a supplier is based outside of the EEA. Countries outside of the EEA may not have the same level of privacy laws as exist in the UK, Canada and the EEA. We will take reasonable steps to ensure that your privacy rights are protected.
+
+### Sale of Business 
+
+We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of G Adventures or as part of a corporate reorganization or other change in corporate control.
+
+### Legal and Compliance
+
+G Adventures and our service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required or permitted by applicable law. We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims and to investigate or prevent actual or suspect loss or harm to persons or property.
+
+### How is your personal information protected?
+
+We have implemented measures designed to help protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no collection or transmission of information over the Internet or other publicly accessible communications networks can be guaranteed to be 100% secure, and therefore, we cannot ensure or warrant the security of any such information. We have personal information retention processes designed to retain personal information of our customers for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
+
+### Can I access my information and whom do I contact for more information?
+
+You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may access, update, and/or correct much of your personal information through your account on the G Adventures website, or you may request access, updates and corrections of inaccuracies in personal information we have in our custody or control by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
+
+Attn: Privacy Officer  
+G Adventures  
+19 Charlotte Street  
+Toronto, Ontario M5V 2H5  
+Tel: (416) 260 0999  
+E-Mail: [privacyofficer@gadventures.com](mailto:privacyofficer@gadventures.com)
+
+As well as a right to access, update and correct information we hold about you, if you are resident in the UK, European Union or European Economic Area then you have the following additional rights: 
+  * To be told how long your personal information will be retained by us or the basis on which we make decisions about how long we retain your personal information;
+  * To require that your personal information is deleted by us, subject to any necessary legal requirements we may have to retain the information;
+  * To object to our processing of your personal information or to restrict processing of your personal information (but we may be unable to provide certain services to you without processing this information);
+  * To receive a copy of any personal information we hold about you in a portable format;
+  * To lodge a complaint with a relevant supervising authority (for example the Information Commissioner’s Office in the UK).
 
 
 
-## How is your Personal Information Protected?
+### Website Policies and Cookies
 
-The security and integrity of your Personal Information is important to us. All personal information is stored in secure databases at secure addresses to prevent unauthorized access. Passwords, encryption devices and firewalls protect these databases. Please note however that no data transmission over the Internet can be guaranteed to be 100% secure. While we take all steps to ensure the safety of your data, we cannot ensure the security of information you transmit to us over the Internet.
+Our website uses a technology called a “cookie,” which is a small element of data that our website can send to your browser to be stored on your computer so that we can recognize your computer when you return. If you have registered with our website, cookies may provide us and our service providers with information that we will use to personalize our website in accordance with your preferences. Most web browsers allow you to modify your settings to notify you when you receive a cookie or to reject cookies entirely. If you decide not to accept cookies from our website, you may not be able to take advantage of all of its features. 
 
-Access to your personal and private information is limited to: authorized employees, of G Adventures, and any of the third-party suppliers who require your information to provide the travel or other services you have requested (such as the airlines, transportation services, hotels, activity providers, and tour guides who deliver the services you purchase through G Adventures or that we arrange on your behalf) . We keep our employees and our third party suppliers and other partners informed about our policies and procedures and require strict compliance with this Policy in order to ensure your information remains protected. Unauthorized access and/or disclosure of client information are strictly prohibited.
+### Third Party Cookies
 
-## Complaints
+Third party vendors show G Adventures’ ads across the internet. These third party vendors use cookies to serve ads based on a user’s prior visits to our website. You can opt out of third-party usage of cookies for advertising purposes by visiting the Network Advertising Initiative opt-out page available at: http://www.networkadvertising.org/choices/. 
 
-If you have any complaints about G Adventures' collection, use, disclosure, or dealing with your Personal Information, if you believe that G Adventures' is in violation of or have any questions about G Adventures compliance with applicable privacy legislation in relation to your Personal Information, please send a written letter or an e-mail to G Adventures Privacy Officer at [privacyofficer@gadventures.com](mailto:privacyofficer@gadventures.com) or at the postal address in the section above. You may also contact G Adventures' Customer Service team at the information on the G Adventures' website with the subject "Privacy Complaint".
+We may also use a third party to help us gather and analyze information about the areas that you visit on the website to evaluate and improve the customer experience and the convenience of the website, and to help us evaluate some of the specific information related to your website visits.
 
-G Adventures takes all complaints regarding your privacy and Personal Information very seriously. Upon receipt, the Privacy Officer will review your complaint within 20 business days and will provide a written response to the return address indicated in the complaint. If such response is not satisfactory to you, we invite you to reply to the Privacy Officer, who will make every endeavor to resolve your concerns.
+### Changes to this Privacy Policy
 
-In the event you provide us with an Opt Out Notice you information will be segregated and not disclosed or used in any manner about which you have objected. However, the personal information we collected may be retained by us if necessary for us to comply with any law or legal directive.
-
-## Website Policies and Cookies
-
-### What is a Cookie?
-
-A cookie is a small text file containing a unique identification number that a website sends to your computer's web browser. While you visit a particular website, a cookie may be used to track the activities of your browser as well as provide you with a consistent, more efficient experience.
-
-### How do third-party vendors use Cookies?
-
-Third party vendors, including Google, show G Adventures' ads across the internet. These third party vendors use cookies to serve ads based on a user's prior visits to the G Adventures website. Neither G Adventures, or any affiliated third party vendor, store any personal information in the cookie data. Users may opt out of third-party usage of cookies by visiting the Network Advertising Initiative opt-out page.
-
-### How does G Adventures use cookies?
-
-Cookies may be used to help speed up the booking process so you do not need to re-type the same information again and again. We may use cookies to measure website usage such as entry and exit points of visitors, how many people visit a certain section or page and details of searches performed and related information. If you are making a purchase we may also use cookies to keep track of the transaction from one page to the next. We do not store any personal information in the cookie, or use it for any other purpose.
-
-## Changes to this Privacy Policy
-
-From time to time it may be necessary for G Adventures to amend or make revisions to this Privacy Policy, which amendments may also apply to your personal information collected under a previous version of this Policy. G Adventures reserve the right to change this Privacy Policy at any time and for any reason. If we make a change to the Policy, the revised version will be posted on our website.
+From time to time it may be necessary for G Adventures to amend or make revisions to this Privacy Policy. If we make a change to the Policy, the revised version will be posted on our website. Please refer to this Privacy Policy for the latest information about our personal information practices. 
