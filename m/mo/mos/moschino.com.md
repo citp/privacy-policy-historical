@@ -1,156 +1,213 @@
-> *The following text is extracted and transformed from the moschino.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618151337id_/https%3A//www.moschino.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moschino.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826132240id_/https%3A//www.moschino.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
-Welcome to **www.moschino.com**. Please read our Privacy Policy carefully. This Privacy Policy applies when you visit and surf the US section of www.moschino.com (the “www.moschino.com US Site”) regardless of whether you purchase products, when you register with the www.moschino.com US Site, and when you use our services. If you have not already done so, please also read the [General Terms and Conditions of Use](https://web.archive.org/us/Help/LegalArea/UseTerms) of www.moschino.com, which contain important information on the security systems used by the www.moschino.com US Site. By using the www.moschino.com US Site, you accept the practices described in this Privacy Policy. If you do not accept the practices described in this Privacy Policy, please do not use the www.moschino.com US Site.
+## Legal Area
 
-The www.moschino.com Site is operated under license by **YNAP Corporation** (“YNAP”), a Delaware corporation having an address at 100 Fifth Avenue – 12th floor, New York, NY 10011, United States of America. YNAP is a subsidiary of **YOOX NET-A-PORTER GROUP S.p.A.** . (“YNAP S.p.A.”, together with YNAP collectively referred to herein as “ YOOX NET-A-PORTER GROUP” “we,” “us,” “our”), an Italian company having its registered address at via Morimondo, 17 – Milano 20143, Italy. YNAP and controls the personal data of users and customers of the www.moschino.com US Site together with **Moschino S.p.A.** , having address at Via San Gregorio 28, 20124, Italy, VAT, 02705970404 (Moschino). The users of the www.moschino.com US Site are referred to herein as “user,” “you,” “your.”
+Welcome to our website www.moschino.com.  
+For Moschino, your privacy and the safety of your personal data are very important; therefore, we gather and manage your personal data with the utmost care, taking measures to ensure its safety. Below, you will find the most important information on the treatment by Moschino of your personal data, in relation to your navigation on the www.moschino.com and the use of the services offered. For detailed information on how Moschino manages your personal data, we invite you to read our **Privacy Policy**.  
+We invite you to read our ‘Cookie Policy’, the ‘[Terms and Conditions of Use](https://web.archive.org/us/Help/LegalArea/UseTerms)’of the Site www.moschino.com and the ‘Terms and Conditions for registering on My Account’, which contain detailed information regarding the conditions of our services. Some services may be subject to specific legal terms, in which case we shall provide you with all the appropriate information. 
 
-## 1\. OUR POLICY
+## Who is the Holder?
 
-YOOX NET-A-PORTER GROUP and Moschino respect our users’ right to be informed about the collection and processing of their personal information. We will collect and process your information only in the manner and for the purposes described in this Privacy Policy. Further, we will use anonymous aggregate information whenever possible.
+Below is the main information on the processing of your personal data performed by Moschino S.p.A., with headquarters in Via San Gregorio 28, 20124, Milano, Italy, C.F. and VAT n°. 02705970404 (Moschino), as Data Controller.  
+For any clarification, questions or requirements related to your privacy and the processing of your personal data, you can contact us at any time by sending a request to our [Customer Care](https://www.moschino.com/system/web/custom/hp/email.jsp) department, or by writing to the address of Moschino.  
 
-This Privacy Policy is intended to provide you with important information regarding our privacy practices. Should you have any questions regarding our privacy practices or this Privacy Policy, please contact our [Customer Service](https://www.moschino.com/customercare) by selecting “Privacy” from the drop-down menu, or sending a request to YNAP, YNAP S.p.A., or Moschino at the registered office indicated above.
 
-## 2\. WHAT TYPE OF INFORMATION DO WE COLLECT FROM YOU AND HOW WE COLLECT IT
+## What data do we process and why 
 
-The information we collect from you when you use www.moschino.com US Site may be (i) personal information, which is information that personally identifies you, or (ii) aggregate information, which does not personally identify a user, but rather pertains to your use of the web site and your account activity (for example, number and times of log-ins, most frequently visited pages, IP addresses, etc.).  
-The types of information we collect include the following:  
- 
+The personal data that Moschino collects is that provided by you to us when finalizing an order and purchasing goods, and those that we collect as you browse or use the services offered by www.moschino.com. Moschino can collect data about you, such as personal details like name and surname, shipping and billing address, browsing data and your purchase habits.  
+Your Personal Data will be processed for the following purposes:
 
-a. **Information you provide us.** When you enter information on www.moschino.com US Site by registering for My Account, subscribing to our newsletter, making a purchase or contacting [Customer Service](https://www.moschino.com/customercare), for example, you give us access to certain personal information, which may include your name, email address, address, credit card information, and phone number.
+  * Conclude and execute the purchase contract for the articles offered on www.moschino.com;
+  * Provide you with www.moschino.com services such as subscription for the newsletter; 
+  * Allow the registration on the Site and the use of services reserved for registered users;; 
+  * Manage your requests to our Customer Care.
 
-b. **Information we collect automatically**. We automatically collect some information from the devices you use to access www.moschino.com US Site and to perform activities in the My Account section of the www.moschino.com US Site, such as device type, location information, IP address, webpage traffic, and access time. Automatic means of data collection include the use of cookies.
 
-### Cookies
 
-www.moschino.com US Site uses various types of cookies and similar technologies. A cookie is a small file that is sent to the browser and saved on your device when you visit a website like www.moschino.com US Site. While cookies do not contain intelligible information, they allow us to link a user to the personal information provided by such user through www.moschino.com US Site. www.moschino.com US Site uses analytical cookies, installed by both YOOX NET-A-PORTER GROUP and Moschino, primarily to personalize your navigation experience by remembering your preferences with respect to services provided and products purchased through www.moschino.com US Site (for example, the IP address, the language and currency you set). We disseminate cookies in connection with functions such as browsing the catalogue, purchasing products on-line and supplying "My Account" services. YOOX NET-A-PORTER GROUP and Moschino treat the results of these analyses anonymously. www.moschino.com US Site also uses third party marketing and profiling cookies, which are aimed at creating user-related profiles in order to send commercial messages that meet the preferences shown during web site visits or to provide you with our commercial offers on affiliated websites (retargeting). YOOX NET-A-PORTER GROUP and Moschino do not have control over the information provided through third party cookies and we do not have access to this data. This information is entirely controlled by third parties as described in their respective privacy policies. As you may know, each Internet browser allows the deletion of cookies after each session and your Internet browser contains instructions on how to do so. Please access the instructions on your Internet browser if you wish to delete cookies.
+In the aforementioned cases, the processing of your personal data is legitimate as it is necessary to execute a contract with you or to provide you with the service you have specifically requested. We also conduct statistical surveys and analyses of data in aggregate form to understand how users interact with and use the site, to improve our offering and services.   
+Only with your prior consent, we process your personal data to:
 
-Your acceptance of our automatic collection of information and the use of cookies is necessary to take advantage of many features and services offered by the www.moschino.com US Site, including the purchase of products. If you set your browser to block or delete cookies, we cannot guarantee that you will have access to all the features and services offered by the www.moschino.com US Site (for example, your computer may not be able to display the image of the product you are in the process of purchasing).
+  * perform commercial and promotional communication activities;
+  * customize the Site based on your interests.
 
-### How we respond to Do Not Track Signals
 
-You can easily activate the “Do Not Track Signal” by accessing the DNT instructions section of your browser through the following links:
 
-IE: <https://support.microsoft.com/en-us/help/17288/windows-internet-explorer-11-use-do-not-track>  
-Safari:<https://support.apple.com/kb/PH21416?locale=en_US>  
-Chrome:[https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en)  
-Firefox: [ https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature)
+## Who will process your data?
 
-Third parties that provide content or services through the www.moschino.com US Site, such as social media features, may obtain aggregate information about your browsing activities, but such information does not include personally identifiable information. However, certain processing activities that combine aggregate information with other information in possession of such third parties could result in the identification of users.
+Your personal data is processed by duly trained staff of our company, and, for organizational and functional needs related to the provision of services on www.moschino.com, by our providers. The latter have been assessed and chosen by Moschino their proven reliability and competence. Some of these subjects may be based in non-EU countries and, in these cases, the transfer of your personal data to these countries is performed in compliance with the guarantees provided by law.
 
-c. **Information we receive from other sources.** YOOX NET-A-PORTER GROUP and Moschino may collect information from third parties to whom you have provided your information and given consent to such third parties’ sale, rental or transfer of such information (for example, through social media sites); we may also integrate the information we collect with publicly available information.
+## How long do we keep your data?
 
-## 3\. WHO PROCESSES YOUR PERSONAL INFORMATION AND TO WHOM IT IS DISCLOSED
+We keep your personal data for a limited period of time, depending on the purpose for which it was collected, at the end of which your personal data will be deleted or otherwise rendered anonymous in an irreversible way. The retention period is different depending on the purpose of the processing: For example, the data collected during the purchase of goods on www.moschino.com are processed until the conclusion of all administrative and accounting formalities, and is, therefore, stored in accordance with local tax legislation (ten years); those used to send our newsletter are kept until you ask to stop receiving it.  
+For further information, please see our **Privacy Policy**.
 
-We may share your information with companies affiliated with YOOX NET-A-PORTER GROUP and/or Moschino , their licensees and joint venture partners, affiliated companies may be located outside of the United States. In the event there is a change in the corporate structure of YOOX NET-A-PORTER GROUP or Moschino including, without limitation, by merger, consolidation, sale, liquidation, or transfer of substantial assets, YOOX NET-A-PORTER GROUP or Moschino , as applicable, may, in their sole discretion, transfer, sell or assign personal data collected on and through the www.moschino.com US Site, including, without limitation, personally identifiable information and aggregate information concerning users and customers, to one or more affiliated or unaffiliated third parties through such transaction.
+## What are your rights? 
 
-YOOX NET-A-PORTER GROUP and Moschino have appointed certain entities that will process personal information of users and customers of the www.moschino.com US Site for purposes such as providing IT services, logistics services, product shipping, payment services, customer support or marketing services. These data processors may only use your information in accordance with this Privacy Policy, and disclosure will not exceed the purpose for which your information was collected and processed.
+At any time, depending on the specific treatment, you can: Withdraw your consent to data processing; know what are your personal data in our possession, their origin and how they are used; request the update, correction or integration as well, in the cases provided for by the current provisions, the cancellation, the limitation of treatment or oppose to their treatment. If you wish, you can request to receive your personal data in possession of Moschino, in a format readable by electronic devices and, where technically possible, we can transfer your data directly to a third party indicated by you. If you believe that the processing of your personal data has been carried out illegitimately, you can file a complaint with one of the supervisory authorities responsible for compliance with the rules on personal data protection. In Italy, the complaint can be filed with the Guarantor for the Protection of Personal Data(<http://www.garanteprivacy.it/>).
 
-Third parties who provide these services have been appropriately selected and have only been authorized to use the information disclosed to them to perform their duties and for no other purpose. The above-mentioned data processors have been chosen by YOOX NET-A-PORTER GROUP and Moschino because of their experience in processing personal data, their sufficient guarantees with respect to compliance with applicable laws and regulations, including the Italian Data Protection Code (Legislative Decree no. 196 of 30 June 2003) as well as the technical security measures adopted by them in connection with the processing of personal data. In processing personal information of the users of the www.moschino.com US Site, our processors will act only in accordance with instructions provided by YOOX NET-A-PORTER GROUP and Moschino . We regularly verify that our processors comply with our instructions and that they provide sufficient guarantees with respect to their compliance with applicable laws and regulations. Companies involved in the processing of personal information of users and customers of the www.moschino.com US Site include, without limitation:
+This policy may undergo changes and additions over time, so we invite you to periodically review its contents. Where possible, we will try to inform you promptly of any changes made.
 
-  * United Parcel Service S.p.A. and its affiliates ("UPS"): we provide UPS with customers’ addresses and other personal information by electronic means for the purpose of shipping, delivering and returning products purchased on the www.moschino.com US Site;
-  * BT Italia S.p.A., for purposes related to the maintenance of YOOX NET-A-PORTER GROUP servers;
-  * Interconnexia Ltd.: we provide Interconnexia with customers’ contact details for purposes connected to providing call center and customer care services to www.moschino.com US Site's users;
-  * Newtek Business Services Corp. (“Newtek”): we provide Newtek with customers’ credit card numbers and billing information, for purposes connected to providing electronic payment services, through credit/debit cards.
+## Privacy Policy
 
+## 1\. General Information
 
+## Who is responsible for the processing of the data?
 
-Please contact our Customer Service by selecting “Privacy” from the drop-down menu if you would like to receive a full list of our data processors.
+Moschino S.p.A. with headquarters in Via San Gregorio 28, 20124, Milano, Italy, C.F. and VAT n° 02705970404 (Moschino) is Responsible for the processing of the personal data, that is, the subject who decides how and why to process your personal data.  
+You can always contact Moschino in writing to the address aforementioned or by contacting our [Customer Care department](https://www.moschino.com/system/web/custom/hp/email.jsp).
 
-In addition, your personal information may be disclosed to third parties in order to (1) comply with applicable laws, (2) respond to governmental and judiciary inquiries, (3) comply with valid legal processes, and (4) protect the rights and/or property of YOOX NET-A-PORTER GROUP and Moschino (e.g. defense of legal claims or for fraud prevention purposes).
+## 2\. What personal data do we collect?
 
-Your personal information will not be transferred to any countries outside the United States or Italy if such countries do not provide for an adequate level of privacy protection. Should such transfer be necessary in order to supply services to you or fulfill purchase orders, YOOX NET-A-PORTER GROUP and Moschino will enter into agreements with third parties to ensure that they implement measures to safeguard users’ information, in accordance with applicable laws and regulations.
+The categories of personal data that Moschino collects and processes when you browse or purchase on www.moschino.com, are the following:
 
-## 4\. HOW WE USE PERSONAL INFORMATION AND FOR WHAT PURPOSES
+  1. We collect the personal data required to conclude and execute your purchase on www.moschino.com, such as your name, email address, shipping address, billing address, phone number and payment details;
+  2. We collect your email address when you sign up for our newsletter service;
+  3. We process the personal data you provide when you contact our Customer Care to request assistance; 
+  4. With your prior consent, we collect your personal data for marketing purposes; 
+  5. For the registration on My Account, we collect your name and surname, your email address, password and your date of birth. If you are a registered user, we collect information about your access to the reserved area of the site. Subject to your prior consent, and through the analysis of your personal data, we process information about your interests and preferences relating to our products and services, in order to customize our services and commercial offers based on your interests.
+  6. We collect information about your browsing on www.moschino.com, such as the pages you visit and how you interact with the single page and we save this information in our servers.
 
-Your personal information is collected and processed by YOOX NET-A-PORTER GROUP and Moschino for purposes related to your use of the www.moschino.com US Site and the provision of services to you through the www.moschino.com US Site, including to enable you to engage in the purchase of products.
 
-Specifically, your personal information may be used, among others, for the following purposes:
 
-  * PURCHASING: When you complete checkout procedures to purchase products sold on the www.moschino.com US Site, we collect your personal information (for example, name, e-mail address, mailing address, credit card numbers, and telephone number) for the purpose of selling the products ordered by you and managing your payment, including anti-fraud control when paying by credit/debit card;
-  * CUSTOMER ASSISTANCE: When you request [Customer Service](https://www.moschino.com/customercare) assistance, we collect your personal information (for example, your first and last name, e-mail address and password) to provide you with [Customer Service](https://www.moschino.com/customercare) relevant to the www.moschino.com US Site and to the purchase of products on the www.moschino.com US Site;
-  * SERVICE REGISTRATION: When you register with the www.moschino.com US Site, we collect your personal information (for example, your name, e-mail address) through the relevant registration form (My Account), in order to provide you with services in reserved access areas of the www.moschino.com US Site and to send you our Newsletter, when you have subscribed for it;
-  * MARKETING: We use your email address, phone number and mailing address to send commercial communications through various channels, both electronic (e-mail, text messages) and traditional (snail mail, telephone);
-  * PROFILING: We may use your information to send commercial offers that match your interests (for example, through the use of third party cookies), for profiling purposes and in order to improve your user experience.
+We inform you that Moschino does not process data from minors. When you access www.moschino.com and use the services offered by Moschino, you declare that you have reached the age of majority.
 
+## 3\. How do we use the personal data we gather?
 
+Moschino collects and processes your personal data for the following purposes:
 
-YOOX NET-A-PORTER GROUP and Moschino may have access to third parties’ personal information which is directly disclosed by their users to YOOX NET-A-PORTER GROUP and Moschino , for instance when the user buys a product to be sent to a friend, when the user who pays for a product is different from the recipient of such product, or when a user wishes to recommend to a friend a service provided through the www.moschino.com US Site or a particular product posted on the www.moschino.com US Site. When disclosing information concerning a third party to YNAP, YOOX NET-A-PORTER GROUP and/or Moschino , you guarantee that you have obtained the consent of such individuals in advance and have informed them about this Privacy Policy.
+  1. Conclude and execute the purchase contract for the products offered on www.moschino.com. When you complete your purchase, we will request the personal data necessary for the execution of the contract; such as payment, anti-fraud checks, if you choose to pay by credit or debit card, billing, shipping of the product and possible return management.
+  2. Registration on the Site and use of the services offered to registered users. The registration on the Site is possible through the inclusion of some personal information, necessary to ensure your identification and the performance of the services offered to registered users.
+  3. Provision of the services offered onwww.moschino.com. For this purpose, Moschino needs to collect, relating to each service and its characteristics, the personal data necessary for the performance of the service requested.
+  4. Management of requests to our Customer Care department, which uses the personal data you provide to meet your requests for information and requests for assistance.
+  5. Sending of your Resume. If you send your Resume in order to be considered for a position, Moschino shall use the information contained within exclusively for that purpose. The data relating to your application may be transferred to third-party management providers in charge of the collection of applications. Your Resume will be kept for a maximum period of six months, after which it will be deleted: If you want, you are more than welcome to send us a new, updated version.
+  6. Statistical analysis and surveys. We use some information about your use of the Site to perform statistical analysis and surveys in order to improve our offer and services; 
+  7. Sending commercial and promotional communications following the purchase of one of our products, so-called soft Spam. Following the purchase of one of our products on the Site, we will send the email address provided, communications containing our business proposals and customized products and services. 
+  8. Subject to your prior consent, we may use the contact details you have provided for commercial communications on our products and services, in order to update you on news, new arrivals, exclusive products, our offers and promotions. In addition, and always with your consent, we will be able to use your contacts as part of market research and surveys relating to your degree of satisfaction, in order to improve our services and the relationship with our users.
+  9. With your prior consent, Moschino will be able to personalize your experience as a registered user on www.moschino.com, proposing previews and offers in line with your tastes and sending you commercial communications tailored to your interests. The customization is made possible by the analysis of your personal information in our possession, described in the previous section 'What personal data do we collect?'. For further information on this data, and on the activity that allows its process, please refer to the section ‘My Account’.
 
-Your personal information is generally processed by electronic means, however, in certain circumstances, paper-based means may be used, for example, for processing related to fraud prevention purposes. Your personal information is stored in a way which allows YOOX NET-A-PORTER GROUP and Moschino to identify you for the time necessary to carry out the purposes for which such information is collected and processed.
 
-## 5\. WHAT HAPPENS IF YOU DO NOT DISCLOSE YOUR PERSONAL INFORMATION
 
-The personal information we request you to provide to YOOX NET-A-PORTER GROUP and Moschino , including your e-mail address, your address, your credit/debit card number, and your telephone number, is necessary to process your purchase order for products on the www.moschino.com US Site, to supply other services provided on the www.moschino.com US Site, or to carry out our obligations arising out of applicable laws and regulations.  
-Your refusal to provide certain information to YOOX NET-A-PORTER GROUP and Moschino may prevent YOOX NET-A-PORTER GROUP and Moschino from processing your purchase order or from providing other services through the www.moschino.com US Site, such as [Customer Service](https://www.moschino.com/customercare) s, sending our Newsletter, accessing the Wish List, recommending a product to a friend. .  
-The disclosure of your information to YOOX NET-A-PORTER GROUP and Moschino may be mandatory or optional. Disclosure is mandatory when needed to process purchase orders or provide requested services on the www.moschino.com US Site. We will inform you if the information we ask you to provide is necessary or optional by marking with an asterisk (*) the information that is required. Your failure to disclose optional information will not entail any disadvantage to you, except to the extent that we may not be able to offer you some of our optional, personalized features of the www.moschino.com US Site.
+Should you wish to authorize the activities referred to in points h) and i) and subsequently do not wish to receive further communications from Moschino, or would like to limit the manner in which you are contacted, you may interrupt these communications at any time by simply clicking on the appropriate “unsubscribe” link at the bottom of each communication, accessing My Account, you will always be able to contact Moschino through our [Customer Care](https://www.moschino.com/system/web/custom/hp/email.jsp) department, or by writing to the aforementioned address . We inform you that you may receive further communications from us even after submitting your cancellation request, as some submissions may have already been planned, our systems may take some time to process your request.   
+With regards to all the activities aforementioned, we shall process your personal data mainly through IT and electronic tools; the tools we use guarantee high safety standards, in full compliance with current legislation.
 
-## 6\. WHERE IS YOUR INFORMATION STORED
+## 4\. My Account
 
-Your information will be collected and stored on servers located in Italy. By providing us with your information you consent to its use and processing in the US and its transfer to Italy for the same purposes, regardless of the country from which you access the web site.
+On the occasion of the creation of your My Account, Moschino offers you the possibility to use the following services:
 
-## 7\. CHILDREN’S RIGHTS
+  * My Profile: Manage your personal data and your consent.
+  * My Orders: Track the shipping of your orders, and see the history of your orders.
+  * My Cards: Save or change your card information and complete your orders faster.
+  * Address Book: Save or change your addresses and complete your purchases faster.
+  * Wish List: Create your customized wish list: You can save up to 50 items, be notified of their availability and add them to the Shopping Bag at any time.
 
-While www.moschino.com does not sell products or services for purchase by children, we may sell children’s products or services for purchase by adults. If you are under 18, you may use the www.moschino.com US Site only with the involvement of a parent or guardian. In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), www.moschino.com does not knowingly collect, solicit or use personal information of children under the age of 13 provided without parental consent, and www.moschino.com will delete any such information should we become aware that a user under the age of 13 has registered without verifiable parental consent. Therefore, if you are not 18 years or older, you are not authorized to use our US Site.
 
-## 8\. WHAT INFORMATION IS COLLECTED FROM OR SHARED WITH SOCIAL MEDIA SITES
 
-When accessing www.moschino.com US Site through a third party social media site and/or application, you consent to YOOX NET-A-PORTER GROUP and Moschino’s access to some of your information from your social media account, such as your name, email address, profile picture, location, friend list, posts and likes. Furthermore, additional non-personally identifiable information may be transferred to us when interacting with a social media site, for example information regarding content viewed through the third party social media site.
+With your prior consent, Moschino may use your contact details for commercial communications on products and services, in order to update you on news, new arrivals, exclusive products, and to conduct opinion polls and market research, in order to detect your degree of satisfaction and improve the services offered.  
+Only with your prior consent, Moschino will customize your experience and the contents of the commercial communications and offers that you will see when you browse on www.moschino.com as a registered user. This activity allows you to facilitate the search for products and services that are more for you and in line with your interests and at the same time allows us to improve our customized offers. The customization is made possible by the analysis of your personal data in our possession, as described in the previous section 'What personal data do we collect?'. In particular, the information on purchases you have made in the past and those relating to the sections of the site you visit most often, or the services you use most often help us to understand what products and services you are most interested in. To ensure that the information we have is correct and allow us to carry out the activities aforementioned, we invite you to access the 'My profile' section of your My Account and, if you deem it necessary, to update it.
 
-Some of the services offered on the www.moschino.com US Site are integrated with social sharing features, through which you may share some of your activities on the web site or “like” certain products through your social media accounts. Depending on your settings on your social media accounts, these activities may show up on your profile and be visible to your friends/followers and/or the public. Please refer to the privacy policies of the relevant social media sites for information concerning their collection and processing of information.
+## 5\. Legal basis of the processing
 
-## 9\. MOBILE/APP TERMS AND CONDITIONS
+We treat your personal data only in the presence of one of the conditions provided for by current legislation, and specifically:
 
-Please refer to the principles stated in this Privacy Policy when accessing the mobile version of www.moschino.com US Site or its mobile application. You will find this Privacy Policy directly on the mobile version of the site you are visiting. If you have any questions regarding these privacy practices and the related Privacy Policy, please contact our Customer Service by selecting “Privacy” from the drop-down menu, or by inserting “Privacy” as a subject.
-
-## 10\. SECURITY MEASURES
-
-We have adopted security measures to protect information data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access and against other unlawful forms of data processing, as provided in our Privacy Policy. We restrict access to information only to employees, contractors and agents that need to process information for the purposes set forth herein. Nevertheless, neither YOOX NET-A-PORTER GROUP nor Moschino can guarantee that the security measures adopted for the protection of the www.moschino.com US Site and the transmission of data and information through the www.moschino.com US Site will prevent or exclude any risk of unauthorized access to or loss of data; any transmission of information is at your own risk. It is advisable that your computer be equipped with software devices for the protection of network data transmission and receipt (such as, updated antivirus systems) and that your Internet service provider take appropriate measures for the security of network data transmission (such as, firewalls and anti-spam filtering).
-
-When processing your credit card information in connection with the purchase of products on the www.moschino.com US Site, we comply with PCI DSS standards.
-
-## 11\. OPT OUT
-
-You may unsubscribe from any marketing communications by clicking on the “Unsubscribe” button included in all of our marketing communications or by contacting our [Customer Service](https://www.moschino.com/customercare) through the appropriate section on #US Site selecting “Privacy” as the topic on our contact form.
-
-## 12\. YOUR RIGHT TO ACCESS PERSONAL DATA AND FURTHER RIGHTS
-
-You are entitled to obtain, at any time, confirmation from YOOX NET-A-PORTER GROUP and Moschino as to whether or not your information is being processed, and the communication of any such data in an intelligible form. Moreover, you are entitled to receive from YOOX NET-A-PORTER GROUP and Moschino information on the source from which we received your personal information; the purposes and means of processing; information regarding the data controller and the data processors and the names and categories of third parties to whom your personal information may be disclosed or who may access your personal information. Please contact our [Customer Service](https://www.moschino.com/customercare) by selecting “Privacy” from the drop-down menu if you would like to receive a full list of our data processors.
-
-You are entitled to request at any time that YOOX NET-A-PORTER GROUP and Moschino update, rectify, integrate or delete your personal information, provided retention is not required by law. Please report any changes to your personal information, in order to ensure that it is always accurate and up-to-date, or exercise your other rights discussed above by contacting our [Customer Service](https://www.moschino.com/customercare), by selecting “Privacy” from the drop-down menu. Some of your personal information may need to be retained by YOOX NET-A-PORTER GROUP and Moschino as required by law or for recordkeeping purposes. Please note that by withdrawing consent to our use of some of your information you may no longer be able to access certain services offered on the www.moschino.com US Site.
-
-## 13\. RIGHTS OF CALIFORNIA RESIDENTS
-
-Pursuant to California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814. For more information about protecting your privacy, you may wish to visit: www.ftc.gov.
-
-If you are a resident of California, you may request that we not share your information with certain affiliates or third parties providers for marketing purposes, and/or you may inquire as to how we have shared your information with third parties providers for marketing purposes. In connection with such request, we will identify the types of information shared and provide you with the names and addresses of the third parties with whom the information was shared. Please contact our [Customer Service](https://www.moschino.com/customercare) through the appropriate form selecting “Privacy” as the topic on our contact form.
-
-## 14\. LINKS TO OTHER WEB SITES
-
-The www.moschino.com US Site may provide hyperlinks to third party websites (the “Third Party Websites”). Neither YOOX NET-A-PORTER GROUP nor Moschino operates, controls, endorses or guarantees any Third Party Websites. You agree that YOOX NET-A-PORTER GROUP and Moschino are not responsible for any content, services and/or products provided by any Third Party Website, and that YOOX NET-A-PORTER GROUP and Moschino are not responsible for any practice followed by such Third Party Website with respect to the collection and processing of personal information of their users. YOOX NET-A-PORTER GROUP and Moschino provide hyperlinks to Third Party Websites only for the convenience of our users. By providing hyperlinks to Third Party Websites, YOOX NET-A-PORTER GROUP and Moschino do not recommend that users access such Third Party Websites.
-
-Our Privacy Policy and other policies on www.moschino.com US Site do not apply to any Third Party Website. When you access any Third Party Website through a hyperlink posted on the www.moschino.com US Site, please carefully read the Privacy Policy and other policies of such Third Party Website.
-
-You agree that your use of any Third Party Website is at your sole risk and without warranties of any kind by YOOX NET-A-PORTER GROUP, YNAP, and/or Moschino expressed, implied or otherwise, including, but not limited to, warranties of title, fitness for a particular purpose, merchantability or non infringement and under no circumstances are YOOX NET-A-PORTER GROUP, YNAP, and/or Moschino liable for damages arising from any transaction between you and any third party website or for any information appearing on Third Party Websites.
-
-## 15\. CONTACTS
-
-If you wish to receive further information regarding our privacy practices, please contact our Customer Service by selecting “Privacy” from the drop-down menu or by sending a mail to the addresses provided above.
-
-## 16\. ACCESSIBILITY ISSUES
-
-Although we have done our best to make the www.moschino.com US Site fully accessible to all users, if you have any problems with or questions about accessibility, please do not hesitate to contact us.
-
-## 17\. GOVERNING LAW
-
-The processing of personal data by YOOX NET-A-PORTER GROUP and Moschino will be conducted in compliance with applicable US laws, any claims or complaints must be filed in the United States in the State of New York. Since personal information of users and customers of the www.moschino.com US Site may be processed in Italy, Italian law, including the Italian Personal Data Protection Code (Legislative Decree no. 196 dated June 30, 2003), also applies to the processing of personal information carried out by YOOX NET-A-PORTER GROUP and Moschino . The Italian Personal Data Protection Code guarantees that the processing of your personal data will be carried out in compliance with the fundamental rights and freedoms of individuals and their dignity, with particular reference to confidentiality, personal identity and the right to personal data protection.
-
-## 18\. MODIFICATION AND UPDATING
-
-YOOX NET-A-PORTER GROUP and Moschino may amend or update from time to time all or any part of this Privacy Policy, whether or not required by a change in the applicable laws and regulations. Our users will be notified of any amendment to or update of our Privacy Policy on our homepage. If you have provided your email address when registering the My Account service, subscribing to our Newsletter, making a purchase or contacting [Customer Service](https://www.moschino.com/customercare) , we will notify you via email if material changes are made to this Privacy Policy. All amendments and updates will become effective upon publication on this section of the www.moschino.com US Site. You should regularly access this section of the www.moschino.com US Site in order to review the most recent and updated version of our Privacy Policy.
-
+  1. For the conclusion and execution of a contract of which you are a part. When we process your data for the conclusion of the purchase contract of which you are a part, we take care to use only the minimum information necessary for the execution of the same. This basis legitimizes the processing of personal data that takes place in the following activities: 
+    * Conclusion and execution of a purchase contract for the products offered on www.moschino.com,
+    * Registration on the Site and use of services reserved for registered users; 
+    * Provision of services offered on www.moschino.com,
+    * Management of requests sent to our Customer Care.
   
-This Privacy Policy is effective as of January 2017.
+The provision of your personal data for these activities is a contractual obligation. You are free to communicate your data or not, but in the absence of the requested data it will not be possible to conclude or execute the contract, or your requests. This means that you will not be able to purchase products and you will not be able to use the services provided by Moschino, and that Moschino will not be able to handle your requests.  
+
+  2. To comply with a legal obligation.  
+In the event of the termination of a contract for the purchase of goods on www.moschino.com, the processing of the data will take place to fulfill the legal obligations to which Moschino is subject to. You are free to decide whether to terminate a contract and whether or not to disclose your data, but if you conclude it, your data will be necessary and will be processed to give effect to the aforementioned legal obligations to which Moschino is subject.  
+The processing of a Resume spontaneously sent, is performed to assess candidates with respect to a possible job position at Moschino, is legitimate because it is expressly authorized by a law, which specifies that in this case the consent of the person to whom they refer personal data. You are free to share your Resume with us or not, but in its absence, we will not be able to assess your candidacy for a job position at Moschino.
+  3. For our legitimate interest.  
+Some of your personal data, in the event of purchase of products on www.moschino.com by credit or debit card, may be processed to perform anti-fraud verifications: We have a legitimate interest in the performance of activity to prevent and prosecute any fraudulent activity. For internal administrative purposes, your data may be processed by companies belonging to the business group to which Moschino belongs.
+  4. On the basis of your consent.  
+We will carry out the following processing only if you have given us your express consent:  
+
+    * Marketing activities and public opinion polling and market research;
+    * Analysis of your browsing and consumption habits in the use of your My Account profile, in order to customize your experience on our site.
+
+
+
+Providing your consent for these activities is optional. You are free to provide your consent or not, but upon denial, it will not be possible for Moschino to carry out marketing activities, opinion polls and market research, nor analyze your habits.
+
+## 6\. Who will process your data?
+
+Your personal data will be processed by internal staff from Moschino, specifically trained and authorized for this purpose. During the treatment, the data may be processed by companies belonging to the business group to which Moschino belongs.  
+Your personal data will also be transmitted to third parties that we use to provide our services on www.moschino.com; these providers have been adequately selected and offer a guarantee of compliance with the rules on the processing of personal data. These persons have been appointed as data controllers and carry out their activities according to the instructions given by Moschino and under its control.  
+The third parties in question belong to the following categories: Banking operators, internet providers, companies specialized in IT and telematic services; couriers; companies that carry out marketing activities; companies specialized in market research and data processing.  
+Your data may be transmitted to police and judicial and administrative authorities, in accordance with the law, for the detection and prosecution of crimes, the prevention and protection from threats to public security, to allow Moschino to ascertain, exercise or defend a right in court, as well as for other reasons related to the protection of the rights and freedoms of others.
+
+## 7\. Transfer of the data outside the E.U.
+
+Some of the third parties listed in the previous paragraph n. 6 'Who will process your data?' may be located in countries outside the European Union which, nevertheless, offer an adequate level of data protection, as established by specific decisions of the European Commission. (<http://www.garanteprivacy.it/home/provvedimenti-normativa/normativa/normativa-comunitaria-e-intenazionale/trasferimento-dei-dati-verso-paesi-terzi#1>).  
+The transfer of your personal data to countries that do not belong to the European Union and that do not ensure adequate levels of protection will be performed only after conclusion between Moschinoand said subjects of specific agreements, containing safeguard clauses and appropriate safeguards for the protection of your personal data "standard contractual clauses", also approved by the European Commission, or if the transfer is necessary to the conclusion and execution of a contract between you and Moschino (for the purchase of goods offered on our Site, for registration on the Website or the use of services on the Website) or for the management of your requests.
+
+## 8\. How long do we keep your data? 
+
+We keep your personal data for a limited period of time; depending on the type of activity that involves the processing of your personal data. After this period, your data will be permanently erased or otherwise rendered anonymous in an irreversible way.  
+Your personal data is stored in compliance with the terms and criteria specified below:
+
+  1. Data collected to conclude and execute contracts for the purchase of goods on www.moschino.com: Upon conclusion of its administrative and accounting formalities. The data related to billing shall be stored for ten years from the date of invoice;
+  2. Registered user data: Data will be kept until you request cancellation of your My Account;
+  3. Payment data: Until payment certification and the conclusion of its administrative and accounting formalities resulting from the expiration of the right of withdrawal and the terms applied for contesting the payment;
+  4. Data collected in the context of the use of services offered on www.moschino.com: These data are kept until the termination of the service or the request for cancellation of the subscription to the service by the user; 
+  5. Data related to the requests of the users to our Customer Care: The useful data to assist you will be kept until the fulfillment of your request;
+  6. Resume: For six months after receipt;
+  7. Data used for commercial communication activities towards users who purchase products on www.moschino.com (soft Spam): These data are kept until the termination of service or the opposition by cancellation of the user;
+  8. Data provided for commercial communications activities, opinion polls and market research: Until the request to interrupt the activity and in any case within 2 years from the last interaction of any kind of user with Moschino;
+  9. Data used to personalize the Site and to show customized commercial offers: As long as the user does not request the cessation of the activity and in any case within two years from the last interaction of any kind of user with Moschino;
+
+
+
+In any case, for technical reasons, the termination of the processing and the subsequent cancellation or irreversible anonymity of the related personal data will be final within thirty days of the terms indicated above.
+
+## 9\. Your rights
+
+At any time you can exercise your rights with reference to the specific processing of your personal data by Moschino. Find below their general description and how to exercise them.
+
+  1. Access your data and modify it: You have the right to access your personal data and to request that they be accurate, modified or integrated with other information. If you wish, we will provide you with a copy of your data in our possession.
+  2. Revoke your consent: At any time you can revoke consent given for the processing of your personal data in relation to any activity for marketing purposes. In this regard, we remind you that marketing activities are sent via commercial communications, conducting opinion polls and market research, in order to assess your degree of satisfaction and improve the services offered. Upon receipt of your request, we will promptly cease the processing your personal data based on this consent, while different treatments or based on other conditions will continue to be carried out in full compliance with the provisions in effect.
+  3. Opposing the processing of your data: You have the right to object at any time to the processing of your personal data on the basis of our legitimate interest, explaining the reasons that justify your request; before accepting it, Moschino will have to assess the reasons for your request.
+  4. Delete your data: In the cases provided for by current legislation you can request the deletion of your personal data. Upon receipt and assessment of your request and, if legitimate, it will be our care to cease timely treatment and delete your personal data.
+  5. Request that the processing of your personal data is temporarily limited: In this case, Moschino will continue to keep your personal data but will not process it, unless it is subject to your different request and the exceptions established by law. You can get the limitation of treatment when you dispute the accuracy of your personal data, when the processing is unlawful but you oppose to the deletion of your data, when your data is no longer relevant for anymore but you need to exercise your right in court and when you oppose your treatment, in the period in which we evaluate the reasons for your request.
+  6. Request your data or transfer it to a person other than Moschino ("right to data portability"). You can ask to receive your data that we process based on your consent or on the basis of a contract with you in a standard format. If you wish, and where technically possible, we can, upon request, transfer your data directly to a third party of your choice.
+
+
+
+In order to exercise some of your aforementioned rights, you can access your My Account, or alternatively, you can contact our [Customer Care](https://www.moschino.com/system/web/custom/hp/email.jsp) department, or write to the Responsible for Data Processing to the aforementioned address. In order to ensure that the data of our users is not illegitimately used or infringed upon by third parties, we will request you for some information to be sure of your identity before accepting your request to exercise one of the rights indicated./p>
+
+## 10\. Security measures
+
+We protect your personal data with specific technical and organizational security measures, aimed at preventing your personal data from being used illegitimately or fraudulently. In particular, we use security measures that guarantee: The pseudonymization or the encryption of your data; the confidentiality, integrity, availability of your data as well as the resilience of the systems and services that process them; the ability to restore data in the event of a data breach. Furthermore, Moschino undertakes to test, verify and regularly evaluate the effectiveness of technical and organizational measures in order to guarantee the continuous improvement in the safety of data processing.
+
+## 11\. Children’s rights
+
+Moschino does not sell products or services for purchase by children, but by adults. If you are under 18, you may use the Site only with the involvement of a parent or guardian. In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), www.moschino.com/us does not knowingly collect, solicit or use personal data of children under the age of 13 provided without parental consent, and will delete any such data should we become aware that a user under the age of 13 has registered without verifiable parental con-sent. Therefore, if you are not 18 years or older, you are not authorized to use our US Site.
+
+## 12\. Rights of California residents
+
+Pursuant to California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814. For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](). If you are a resident of California, you may request that we not share your information with certain affiliates or third parties providers for marketing purposes, and/or you may inquire as to how we have shared your information with third parties providers for marketing purposes. In connection with such request, we will identify the types of information shared and provide you with the names and addresses of the third parties with whom the information was shared. Please contact our Customer care through the appropriate form selecting “Privacy” as the topic on our contact form.
+
+## 13\. Claims
+
+If you believe that the processing of your personal data has been unlawfully done, you can file a complaint with one of the supervisory authorities responsible for compliance with the rules on personal data protection.  
+In Italy, the complaint can be filed with the Guarantor for the Protection of Personal Data.  
+Further information on how to present them is available on the website of the Guarantor, at <http://www.garanteprivacy.it/>.
+
+## 14\. Changes to the present policy
+
+The constant evolution of our services may involve changes in the characteristics of the processing of your personal data described up to now. Consequently, this privacy notice may be subject to changes and additions over time, which may also be necessary with regard to new regulatory measures regarding the protection of personal data.  
+We request of you, therefore, to periodically check the contents: Where possible, we will try to inform you promptly about the changes made and their consequences.  
+The updated version of the privacy notice, in any case, will be published on this page, with indication of the date of its last update.
+
+## 15\. Legislative references and useful links
+
+The processing of your personal data is performed by Moschino in full compliance with the relevant regulations provided for by the [Regulations (E.U.) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) General regulation on data protection, rules on the processing of personal data and Italian measures of the Italian Supervisory Authority (<http://www.garanteprivacy.it/>) and, where applicable, of the competent foreign supervisory authorities.
+
+Last update: 15/05/2018
 
 Back to top 
