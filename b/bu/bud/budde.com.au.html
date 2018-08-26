@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the budde.com.au privacy policy that was archived on 2018-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180314193552id_/https%3A//www.budde.com.au/About/Policies/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the budde.com.au privacy policy that was archived on 2018-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180826165533id_/https%3A//www.budde.com.au/About/Policies/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <title>Privacy Policy - BuddeComm</title>
@@ -11,21 +11,18 @@
     <meta property="og:image" content="http://www.budde.com.au/Images/buddecomm-og.jpg">
     <meta property="og:url" content="https://www.budde.com.au/About/Policies/Privacy">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@paulbudde">
+    <meta name="twitter:site" content="@PaulBuddeCom">
     <meta property="twitter:url" content="https://www.budde.com.au/About/Policies/Privacy">
     <meta property="twitter:image" content="http://www.budde.com.au/Images/buddecomm-twitter.jpg">
     <link type="image/vnd.microsoft.icon" rel="shortcut icon" href="/Content/favicon.ico">
     <link type="image/gif" rel="icon" href="/Content/favicon.ico">
 
     <!-- Google Analytics -->
-    <script>
+    <script type="text/javascript">
         window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
         ga('create', 'UA-31390904-1', 'auto');
-        ga('send', 'pageview');
+        ga('require', 'ec');
     </script>
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
-    <!-- End Google Analytics -->
-
 
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700,700italic" rel="stylesheet" type="text/css">
     <script src="/bundles/jquery?v=fk_F6Qt3r-gbLvti3NKJtDRocNtFlm7WpDj8daOpRzs1"></script>
@@ -34,7 +31,7 @@
 
     <script src="/bundles/bootstrap?v=w0yDtvKAZWlUy-XT5NyYROLotC27w9V6oafgSM56J141"></script>
 
-    <link href="/Content/buddestrap?v=HAexNi_bbX5pK3VhBLdMn0yFNz1QG8IHPfOAib35Q0M1" rel="stylesheet">
+    <link href="/Content/buddestrap?v=NURC7tmFgGDfsWNs-MJoHtN4kiIBxYW_oSvaYHpSchA1" rel="stylesheet">
 
     <script src="/bundles/modernizr?v=JzM3NpF6dEbkVLIcHRi2kCqk7ZCwBA_bFE26szW8brc1"></script>
 
@@ -45,6 +42,42 @@
      <script src="/Scripts/html5shiv.js" type="text/javascript"></script>
      <script src="/Scripts/respond.min.js" type="text/javascript"></script>
     <![endif]-->
+
+    <!-- Google Analytics - Page Specific Tracking -->
+    
+    <!-- End Google Analytics - Page Specific Tracking -->
+
+    <script type="text/javascript">
+        window.onload = function () {
+            ga('send', 'pageview');
+        }
+    </script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+
+    <script type="text/javascript">
+        function AddToCart()
+        {
+            var e = document.getElementById("LicenceTypeId");
+            var Licence = e.options[e.selectedIndex].text;
+            var LicenceId = e.options[e.selectedIndex].value;
+            var Id = document.getElementById('DocumentId').value;
+            var Title = document.getElementById('ReportTitle').value;
+            var priceDec = document.getElementById('AnalyticsPrice').value;
+            var Price = Number(Math.round(priceDec + 'e2') + 'e-2').toFixed(2);
+            ga('ec:addProduct', {
+                'id': Id,
+                'name': Title,
+                'category': 'Research',
+                'brand': 'BuddeComm',
+                'variant': Licence,
+                'price': Price,
+                'quantity': LicenceId
+            });
+            ga('ec:setAction', 'add');
+            ga('send', 'event', 'Report', 'Add to cart', Title);     // Send data using an event.
+        };
+    </script>
+    <!-- End Google Analytics -->
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -109,7 +142,7 @@
             <li class=" hidden-md hidden-lg"><a href="/Account/Login">Login</a></li>
             
 </ul>
-                <form action="/Account/Login" class="pull-right hidden-sm hidden-xs" id="loginForm" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="QOoRvdBbgIeDNLer-oCbYT9UFWlPPvi5qWisZQ8lRHF0NvPdcn2XenxjKeo-dgtotalAI6jF6EEySI4S6ta_No4c3vTLRBjSalw5mb1QgOM1">            <div class="form-group emailfield">
+                <form action="/Account/Login" class="pull-right hidden-sm hidden-xs" id="loginForm" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="TKTzRpCPQw-Zi08iaB4q5yCQ5LtAGJDDEYezPqbMvDEmw0VPxa8xv5X119_WyvoDvkzewDTvkDbwzuilhSnUDk8nPtbRBcUOnifGyOT1Z4g1">            <div class="form-group emailfield">
                 <label class="sr-only" for="Field009">Email address</label>
                 <input name="Field009" type="text" maxlength="100" id="Field009" class="input-sm form-control required" placeholder="Email">
             </div>
@@ -176,14 +209,14 @@
                 <div class="alert alert-info col-xs-12 col-sm-4 col-md-12">
                     <h3>Special Offers</h3>
                         <p>
-                            <a class="alert-link" href="/Research/Egypt-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses">Egypt - Telecoms, Mobile, Broadband and Digital Media - Statistics and Analyses</a><br>
-                            US$575.00 until 28 Mar 2018<br>
+                            <a class="alert-link" href="/Research/Ghana-Telecoms-Mobile-and-Broadband-Statistics-and-Analyses">Ghana - Telecoms, Mobile and Broadband - Statistics and Analyses</a><br>
+                            US$575.00 until 5 Sep 2018<br>
                             (normal price US$1,150.00)
                         </p>
                         <p>
-                            <a class="alert-link" href="/Research/Tunisia-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses">Tunisia - Telecoms, Mobile, Broadband and Digital Media - Statistics and Analyses</a><br>
-                            US$375.00 until 28 Mar 2018<br>
-                            (normal price US$750.00)
+                            <a class="alert-link" href="/Research/Kenya-Telecoms-Mobile-and-Broadband-Statistics-and-Analyses">Kenya - Telecoms, Mobile and Broadband - Statistics and Analyses</a><br>
+                            US$575.00 until 5 Sep 2018<br>
+                            (normal price US$1,150.00)
                         </p>
                 </div>
                 
@@ -209,6 +242,10 @@
                     <button type="submit" class="btn btn-sm btn-primary"><span class="glyphicon glyphicon-search"></span></button>
                 </form>
                 <div class="col-xs-12 col-sm-3 col-md-12">
+                    <h3><a href="/About/Contact" title="Full contact details">Contact us</a></h3>
+                    <p><a href="/About/Contact" title="Full contact details">Contact BuddeComm</a></p>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-12">
                     <h3>View Reports by</h3>
                     <ul id="ResearchNav">
                         <li><a title="Regional research" href="/Research/Regions">Regional research</a></li>
@@ -220,6 +257,7 @@
                 <div class="col-xs-12 col-sm-3 col-md-12">
                     <h3>Hot Topics</h3>
 <ul id="ResearchNav">
+    <li><a title="Telecom Maturity Index" href="/Research/BuddeComm-Telecoms-Maturity-Index"><strong style="color:#FFA815;">Telecoms Maturity Index</strong></a></li>
     <li><a title="Intelligence Reports" href="/Research/Hot-Topic/Intelligence-Reports">Intelligence Reports</a></li>
     <li><a title="Emerging Markets" href="/Research/Hot-Topic/Emerging-Markets-Research">Emerging Markets</a></li>
     <li><a title="Digital Economy" href="/Research/Technology/Digital-Economy">Digital Economy</a></li>
@@ -232,7 +270,7 @@
                     <h3>News &amp; Views</h3>
 <p>Have the latest telecommunications industry news delivered to your inbox by subscribing to Paul's FREE weekly News &amp; Views.</p>
 
-<form action="/Newsletter/Subscribe" method="post" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="BgNW2EH_sFtSlAkYrdluO8RRbZtUXdsMCH-IUJ10Clr4zxlCACgfPXeNnGbvHDvFwRekf6sPLcr7bXJJFYH-0WeOEfBd34SMNXerjm0VaG81">    <div class="form-group">
+<form action="/Newsletter/Subscribe" method="post" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="CpIEkxznrpZnpBAC9flBORqKLTvqiwXh-AAC8kQFfJo4o-fgxsu_dHAsMF-IGsE4q_7Akyc-y6o07aD6DIJAS6mgikEGIjGqyM3Agmuzbpk1">    <div class="form-group">
         
         <label class="sr-only" for="Field001">Email</label>
         <label class="sr-only" for="FirstName">First Name</label>
@@ -259,9 +297,8 @@
 </form>
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-12">
-                    <h3><a href="/About/Contact" title="Full contact details">Contact us</a></h3>
-                    <p><a href="/About/Contact" title="Full contact details">Contact BuddeComm</a></p>
-                </div>
+                    &nbsp;<br>
+                </div> 
                 <div class="clearfix"></div>
             </div>
         </div>
