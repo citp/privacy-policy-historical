@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316174753id_/https%3A//www.myccpay.com/docs/TCI_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826072939id_/https%3A//www.myccpay.com/docs/TCI_privacy.html) for the most accurate reproduction.*
 
 # Welcome to TCI Payments
 
