@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228232201id_/https%3A//www.acer.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826172825id_/https%3A//www.acer.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policies and Legal Disclaimers | ACER
-
-## ACER and your personal information
+# ACER and your personal information - ACER
 
 This is our Privacy Policy which sets out what personal information the Australian Council for Educational Research Ltd and its related companies (collectively, **ACER** , **we** or **us** ) collect about you.
 
@@ -12,27 +10,27 @@ On our website, you may find links to other websites not operated by us.  This 
 
 You can navigate separate sections of this Privacy Policy through the links below.
 
-1.         What kinds of personal information do we collect and how?
+1\.  What kinds of personal information do we collect and how?
 
-2.         What is our approach to collecting personal information about children?
+2\.  What is our approach to collecting personal information about children?
 
-3.         When do we collect your personal information?
+3\.  When do we collect your personal information?
 
-4.         Why do we collect the information and how do we use or disclose it?
+4\.  Why do we collect the information and how do we use or disclose it?
 
-5.         Can you choose to remain anonymous?
+5\.  Can you choose to remain anonymous?
 
-6.         How can you request not to receive direct marketing?       
+6\.  How can you request not to receive direct marketing?
 
-7.         Who do we disclose your personal information to?
+7\.  Who do we disclose your personal information to?
 
-8.         Do we disclose your information overseas?        
+8\.  Do we disclose your information overseas?
 
-9.         How do we hold your personal information and keep it secure?
+9\.  How do we hold your personal information and keep it secure?
 
-10.       How can you seek access to, and correction of your information?
+10\.  How can you seek access to, and correction of your information?
 
-11.       How can you seek further information or complain about a breach of your privacy?
+11\.  How can you seek further information or complain about a breach of your privacy?
 
 **What kinds of personal information do we collect and how?**
 
@@ -83,9 +81,9 @@ We collect, hold, use and disclose your personal information:
 
 You may elect not to identify yourself or you may use a pseudonym in your dealings with us, except where it is impracticable for us to deal with you on this basis (for example, we will need to identify you in order to provide most of our products and services).  You can always choose not to give us your information or remain anonymous, but if you do we may not be able to provide you (or our client) with the products and services that you (or they) have asked for.
 
-**How can you request not to receive direct marketing?      **
+**How can you request not to receive direct marketing?**
 
-You may ask us at any time to stop sending you direct marketing information or to stop being contacted by or on our behalf, in a particular way or at all.  You can do this by calling us on  +61 3 9277 5555 or by contacting us via our website at <http://www.acer.edu.au/contact>.  
+You may ask us at any time to stop sending you direct marketing information or to stop being contacted by or on our behalf, in a particular way or at all.  You can do this by calling us on  +61 3 9277 5555 or [by contacting us via our website](https://web.archive.org/about-us/contact-us).
 
 **Who do we disclose your personal information to?**
 
@@ -142,7 +140,7 @@ The Australian Council for Educational Research Limited
 Camberwell  Victoria  3124
 
 Australia  
-Email: [rhonda.farkota@acer.edu.au](mailto:rhonda.farkota@acer.edu.au) 
+Email: [david.noga@acer.edu.au](mailto:david.noga@acer.edu.au) 
 
 Telephone: +61 3 9277 5555
 
