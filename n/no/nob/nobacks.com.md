@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobacks.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709234607id_/http%3A//nobacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobacks.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826150651id_/http%3A//nobacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | noBACKS
 
@@ -33,5 +33,3 @@ Children should always get permission from their parents before sending any info
 **Changes to this Policy**
 
 The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we will post the changes before they take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
-
-We have a comprehensive collections of free stock photos with isolated transparent backgrounds, Download isolated stock PNG photos, vectors, and illustration for free.
