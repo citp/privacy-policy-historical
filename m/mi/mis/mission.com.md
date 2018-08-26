@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422150729id_/https%3A//www.mission.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826054059id_/https%3A//www.mission.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mission
 
@@ -96,7 +96,7 @@ The Service may contain links to websites that are not owned, operated or contro
 
 ## 10\. SECURITY
 
-We have and will maintain security measures we deem reasonable and appropriate to secure your Personal Information against inadvertent or illegal loss, destruction, disclosure or access.  ALThough WE will use various technologies and tools to protect your PERSONAL INFORMATION against loss, destruction, disclosure or access, no method of securing data is foolproof or completely effective, and third parties may unlawfully access or intercept data transmissions, communications or stored data, and may unlawfully use the data. Thus, although WE take reasonable measures to protect your PERSONAL INFORMATION, WE DO not and cannot guarantee that your PERSONAL INFORMATION will remain private or secure.
+We have and will maintain security measures we deem reasonable and appropriate to secure your Personal Information against inadvertent or illegal loss, destruction, disclosure or access.  ALTHOUGH WE will use various technologies and tools to protect your PERSONAL INFORMATION against loss, destruction, disclosure or access, no method of securing data is foolproof or completely effective, and third parties may unlawfully access or intercept data transmissions, communications or stored data, and may unlawfully use the data. Thus, although WE take reasonable measures to protect your PERSONAL INFORMATION, WE DO not and cannot guarantee that your PERSONAL INFORMATION will remain private or secure.
 
 If you create an account through the Service, you will be asked to provide an email address and password. You are responsible for maintaining the strict confidentiality of your account information and password and for restricting access to such information.  You accept all responsibility for all activities that occur under your account credentials, whether or not you authorized such activity.  Be sure to sign off when finished using a shared computer.  Please notify us promptly at info@mission.com of any unauthorized use of your password or account or any other breach of security.
 
