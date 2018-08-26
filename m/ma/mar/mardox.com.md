@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardox.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026234105id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardox.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826230811id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.*
 
 # Mardox.com - Privacy Policy
 
@@ -28,15 +28,13 @@ This website uses cookies and session variables. Cookies are small amounts of in
 
 ## Online Transactions 
 
-All payment related transactions are conducted through PayPal.com.
-
-When you ask to purchase a product or membership from this site, you will have to submit personal identifying information, such as your name, the name of your company or organization (where applicable), your shipping and billing address(es), your phone and fax numbers, your e-mail address, the item(s) you have purchased. Your credit card number and expiry date will never be required on the Mardox.com web site. All payment information such as credit card info will be processed through PayPal.com. 
+When you ask to purchase a product or membership from this site, you will have to submit personal identifying information, such as your name, the name of your company or organization (where applicable), your shipping and billing address(es), your phone and fax numbers, your e-mail address, the item(s) you have purchased. Your credit card number and expiry date will never be required on the Mardox.com web site.
 
 When you submit this information, it is stored in a secure server. The information collected is used to process and deliver your order or membership, as well as inform your Affiliate Manager of your order. This information is not disclosed to any Third Party except to authorized employees of Mardox Corp, who need it to process your order and bill or as required by law. The contact information you provide may also be used to contact you in the future about your order or membership.
 
 ## Internet Connection Security
 
-All personal information that you provide during your on-line payment transaction (including your credit card information) is protected by Secure Socket Layer (SSL) Encryption. When your information is encrypted, it is scrambled and rendered unreadable to anyone else. This type of transaction is conducted through the PayPal.com servers.  
+All personal information that you provide during your on-line payment transaction (including your credit card information) is protected by Secure Socket Layer (SSL) Encryption. When your information is encrypted, it is scrambled and rendered unreadable to anyone else.  
 
 
 ## Security
