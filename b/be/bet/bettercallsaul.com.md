@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettercallsaul.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522021023id_/http%3A//www.amc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettercallsaul.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826053402id_/https%3A//www.amc.com/privacy) for the most accurate reproduction.*
 
 # Privacy - AMC
 
