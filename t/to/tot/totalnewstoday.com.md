@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalnewstoday.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113161000id_/http%3A//totalnewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalnewstoday.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827012444id_/http%3A//totalnewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News Worldwide
 
