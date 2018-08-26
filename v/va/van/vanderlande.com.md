@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vanderlande.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180830id_/https%3A//www.vanderlande.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanderlande.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826080322id_/https%3A//www.vanderlande.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy policy - Vanderlande
+# Privacy Statement - Vanderlande
 
-This is the Privacy Policy of Vanderlande Industries B.V (hereinafter: 'Vanderlande Industries'). This statement explains how Vanderlande Industries deals with personal data that is obtained via the websites www.vanderlande.nl, www.vanderlande.de and www.vanderlande.com (hereinafter: 'the Websites') and personal data that is obtained via an offline request for information or contact.
+This is the Privacy Statement of Vanderlande Industries B.V (hereinafter: 'Vanderlande Industries'). This statement explains how Vanderlande Industries deals with personal data that is obtained via the websites www.vanderlande.nl, www.vanderlande.de and www.vanderlande.com (hereinafter: 'the Websites') and personal data that is obtained via an offline request for information or contact.
 
 ## Your personal data is secure at Vanderlande Industries
 
