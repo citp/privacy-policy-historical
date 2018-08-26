@@ -1,36 +1,49 @@
-> *The following text is extracted and transformed from the foreclosures.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926022909id_/http%3A//www.foreclosures.com/pages/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosures.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826124132id_/https%3A//www.foreclosure.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ForeclosureS.com
+# Privacy Policy and Security Statement
 
-## ForeclosureS.com Privacy Policy
+### Privacy Policy and Security Statement
 
-**Your privacy on the Internet is as important to us as it is to you.** We acquire information about our users for many purposes. Below is a description of the types of information we gather and its use.
+**www.foreclosure.com** is dedicated to safeguarding your online privacy. The following explains how your information will be treated as you make use of our products and services. 
 
-  * **Email Addresses**
+#### Your Information
 
-ForeclosureS.com will never disclose, share or sell your information to any outside company for any purpose. Email Addresses that you provide to us are used to fulfill your order, track the status of your order, and provide the best customer service possible. If you do not wish to receive our informative monthly newsletter the [Foreclosure Forecast](https://web.archive.org/foreclosure-newsletter/) (see Subscription Forms below), or other similar free services and information, please follow the link at the bottom of any such email we send you to unsubscribe or update your contact preferences. 
+**www.foreclosure.com** draws a distinction between information that is provided when registering online and/or through our mobile application and information that is provided when listing a property on our website. 
 
-  * **Subscription Forms**
+#### Personal Information
 
-Our online newsletter, **The Foreclosure Forecast** , gives users the option of subscribing. This is a free service and the only information we require from our subscribers is their name, e-mail address, and Zip code. This is a voluntary subscription and can be cancelled at any time by following the instructions provided within each issue. 
+Personal information is defined as any information entered when registering or using services obtained through our website, information you provide as part of registration for one of applications or any other information collected about you on our platform (such as how long you spend searching, what you are searching, etc.) We at **www.foreclosure.com** constantly strive to provide useful products and tools based on the content of our service and on related subjects of interest. We may sell or distribute certain individual personal information to other companies, including related interests or vendors so as to provide you with important offers. We may also use or provide partners with aggregate information from the information provided by all users. If you linked to this page (or subscription form) from another website, information entered here may be disclosed to the owners of such website and to other third parties. If you are a participant in our educational programs we may provide you special offers on related subjects of interest or an email displaying those subjects. 
 
-  * **Ordering Products & Services**
+#### Cookies
 
-ForeclosureS.com order forms require a **customer's name, address, phone number, e-mail, and credit card information**. Once this information is collected, it is used only for the purpose of processing (and technical support if applicable) for this order. Our order forms all reside on a secure server with 128 bit encryption. If a user does not feel comfortable with this method of payment, **we also accept orders via phone, fax, and US Mail**. [[How to contact us](https://web.archive.org/about-us/contact-us/)] 
+To enhance your visit with personalized services, **www.foreclosure.com** makes use of cookie technology. A cookie is a small file that is assigned to a user when he or she registers online and/or through a mobile device (including tablets, smartphones, iPods, etc.). These cookies do not collect personally identifiable information nor are they shared with our partners and vendors. We use cookie technology to track the way in which customers use the site and/or service so that we can provide them with content that caters to their needs. We also use cookies to make your visit more convenient by saving your sign in information so that you do not have to re-enter it each time you visit our site and/or use our service. 
 
-  * **Usage Tracking**
+#### IP Address
 
-ForeclosureS.com tracks user traffic patterns throughout our site. We do not, however, correlate this information with data about individual users. Search terms are stored and used to better structure our site so that users can find the information they search for more easily. The tracking of search terms is never associated with individual users. We create reports on user traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because ForeclosureS.com doesn't track the usage patterns of individual users, an advertiser will never know that a specific user clicked their ad.
+IP addresses are unique to each computer, and they are used to identify senders and receivers of information over the Internet. **www.foreclosure.com** uses your device's IP address to administer our website and/or mobile application to verify your identity and to report aggregate information to our partners. 
 
-  * **Cookies**
+#### Contests and Surveys
 
-A cookie is a small data file that certain web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. The only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. ForeclosureS.com uses cookies to track user traffic patterns (as described above), and also to "remember" information such as content you've already read. 
+**www.foreclosure.com** occasionally asks users to complete surveys that we use for research purposes. This information could be shared with advertisers on an aggregate basis unless you otherwise consent. Individual user information is not released without your consent. 
 
-**You can refuse cookies by turning them off in your browser.** You do not need to have cookies turned on to use most of the services at ForeclosureS.com. However, some of our exclusive services, such as **Foreclosure Listings** and **Coaching Message Forums** , may not function or display correctly without them. 
+#### A Word About Security
 
-  * **Premium Services**
+At **www.foreclosure.com** , we are committed to maintaining a secure environment to store and receive your personal information. 
 
-ForeclosureS.com offers premium services, such as our **Foreclosure Listing Service**. When purchasing a subscription to this service, certain personal information is needed to process the order (as described above). Once the user's account is enabled, only a username and password are used to access the service. User logs are kept for use by our support technicians so that they may monitor system performance, and be alerted of account fraud or abuse. 
+All of the information transmitted to **www.foreclosure.com** , whether it’s online or through our mobile application, is stored safely and securely behind our firewall. A firewall is a buffer that isolates our network from the Internet. 
 
+At **www.foreclosure.com** , we constantly monitor our web and application security to protect your information. Once your information is received at **www.foreclosure.com** , access to your information is limited. Each employee is provided with a copy of this document so that they are aware of our privacy practices. 
 
+**www.foreclosure.com** works closely with our partners to ensure your privacy, however, we are not responsible for the privacy policy or content of our partners' websites or of third-party vendors. 
 
+Unless otherwise noted herein we will not disclose any of your personal information to third parties, except when we have your permission or when we believe in good faith that the law requires it. 
+
+#### Changing and Editing Your Information
+
+You, as a user, can change or edit your personal information at any time. This procedure is accomplished by choosing to edit your profile account information or registration information once logged in on our website or through our mobile application. If you have any difficulties with -- or questions about -- the modification of personal information please contact [support@foreclosure.com](mailto:support@foreclosure.com). 
+
+#### Conclusion
+
+Thank you for taking the time to educate yourself about the ways in which **www.foreclosure.com** collects, uses and stores the information that you provide. We recommend that you also read our [Terms and Conditions of Service and Use](https://web.archive.org/terms.html) since it provides more information about **www.foreclosure.com** policies. If you have any questions about our privacy policy and security statement, please contact [support@foreclosure.com](mailto:support@foreclosure.com). Please revisit this site on occasion to make sure that you have viewed the most recent version of the privacy policy and security statement. **www.foreclosure.com** reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the Privacy Policy & Security Statement link. 
+
+top
