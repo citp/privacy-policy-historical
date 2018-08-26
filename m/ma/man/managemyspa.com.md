@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the managemyspa.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424185122id_/https%3A//www.zenoti.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managemyspa.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826223222id_/https%3A//www.zenoti.com/privacy.html) for the most accurate reproduction.*
 
-# Zenoti - Privacy Policy
+# Privacy Policy - Zenoti | Spa and Salon Software
 
 At Soham, Inc (Soham) we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Soham or its subsidiaries or affiliated companies (collectively, Soham's "services"). 
 
