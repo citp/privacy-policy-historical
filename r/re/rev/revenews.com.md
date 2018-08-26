@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107001849id_/http%3A//revenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826171532id_/http%3A//revenews.com/privacy) for the most accurate reproduction.*
 
 # ReveNews Privacy Policy | Revenews.com by Affiliate Summit
 
