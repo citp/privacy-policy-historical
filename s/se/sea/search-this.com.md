@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search-this.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615164143id_/http%3A//www.search-this.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search-this.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826101457id_/http%3A//www.search-this.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
