@@ -1,26 +1,57 @@
-<!--The following is the downloaded HTML source of the mardox.com privacy policy that was archived on 2016-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161026234105id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mardox.com privacy policy that was archived on 2018-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180826230811id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="">
-		<meta name="author" content="Dashboard">
-		<meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
-		<meta http-equiv="refresh" content="43200;URL=https://mardox.com/index.php?content=access/signout&amp;command=LOGOUT">
+<!DOCTYPE html><html><head>
+		<meta charset="UTF-8">
+			<title>Mardox.com - Privacy Policy</title>
+			<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
-		<title>Mardox.com - Privacy Policy</title>
-		<!-- Bootstrap core CSS -->
-		<link href="https://mardox.com/dashgum/assets/css/bootstrap.css" rel="stylesheet">
-		<!--external css-->
-		<link href="https://mardox.com/dashgum/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
-		<link href="https://mardox.com/dashgum/layout.css" rel="stylesheet">
-		<link href="https://mardox.com/dashgum/cropper.css" rel="stylesheet">
-        
-		<!-- Custom styles for this template -->
-		<link href="https://mardox.com/dashgum/assets/css/style.css" rel="stylesheet">
-		<link href="https://mardox.com/dashgum/assets/css/style-responsive.css" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="https://mardox.com/dashgum/assets/lineicons/style.css">    
+ <!-- Bootstrap 3.3.7 -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/bower_components/font-awesome/css/font-awesome.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/bower_components/Ionicons/css/ionicons.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/dist/css/AdminLTE.min.css">
+  <!-- AdminLTE Skins. Choose a skin from the css/skins
+       folder instead of downloading all of them to reduce the load. -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/dist/css/skins/_all-skins.min.css">
+  <!-- Morris chart -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/bower_components/morris.js/morris.css">
+  <!-- jvectormap -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/bower_components/jvectormap/jquery-jvectormap.css">
+  <!-- Date Picker -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
+  <!-- Daterange picker -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/bower_components/bootstrap-daterangepicker/daterangepicker.css">
+  <!-- bootstrap wysihtml5 - text editor -->
+  <link rel="stylesheet" href="https://mardox.com/templates/adminLTE-master/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+
+ <!-- Mardox Style Sheets -->
+  <link rel="stylesheet" href="https://mardox.com/templates/mardox.css">
+ <!-- importer -->
+  <link rel="stylesheet" href="https://mardox.com/templates/importer.css">
+
+
+			<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+			<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+			<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+			<![endif]-->
+
+
+	<link rel="stylesheet" type="text/css" href="https://mardox.com/styles/socialfeed.css">
+
+
+
+
+
+
+
+
+
 
 
 
@@ -34,12 +65,30 @@
      Featured on Dynamic Drive script library (http://www.dynamicdrive.com)
 ****************************************************/
 var win=null;
-function NewWindow(mypage,myname,w,h,scroll,pos){
-if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
-if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
-else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
-settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
-win=window.open(mypage,myname,settings);}
+function NewWindow(mypage,myname,w,h,scroll,pos) {
+	nw=w;
+	nh=h;
+
+	if (nw==0) {
+		nw=screen.width-225;
+	}
+	if (nh==0) {
+		nh=screen.height-225;
+	}
+	if (pos=="random") {
+		LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-nw)):100;
+		TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-nh)-75)):100;
+	}
+	if (pos=="center") {
+		LeftPosition=(screen.width)?(screen.width-nw)/2:100;TopPosition=(screen.height)?(screen.height-nh)/2:100;
+	} else if((pos!="center" && pos!="random") || pos==null) {
+		LeftPosition=0;
+		TopPosition=20;
+	}
+	settings='width='+nw+',height='+nh+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
+	win=window.open(mypage,myname,settings);
+}
+
 // -->
 </script>
 
@@ -47,42 +96,105 @@ win=window.open(mypage,myname,settings);}
 
 
 
-<!--  THESE ARE FOR THE TABS // -->
-<link rel="stylesheet" type="text/css" href="https://mardox.com/dashgum/tabcontent.css">
-<script type="text/javascript" src="https://mardox.com/dashgum/tabcontent.js">
-
+<link rel="stylesheet" type="text/css" href="https://mardox.com/templates/tabcontent.css">
+<script type="text/javascript" src="https://mardox.com/scripts/tabcontent.js">
 /***********************************************
 * Tab Content script v2.2- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
 * Please keep this notice intact
 * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
-</script>
-<!--  TABS END // -->
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-
-<script type="text/javascript" src="https://mardox.com/dashgum/stickytooltip.js">
-
-/***********************************************
-* Sticky Tooltip script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* Please keep this notice intact
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
-***********************************************/
-
+**********************************************/
 </script>
 
-<link rel="stylesheet" type="text/css" href="https://mardox.com/dashgum/stickytooltip.css">
 
+
+
+
+<style>
+	#drop_file_zone {
+
+		border: #999 5px dashed;
+		width: 100%; 
+		height: 200px;
+		padding: 8px;
+		display: block;
+	}
+
+	#drag_upload_file {
+		width:50%;
+		margin:0 auto;
+	}
+	#drag_upload_file p {
+		text-align: center;
+	}
+	#drag_upload_file #selectfile {
+		display: none;
+	}
+
+	#drop_file_zone_showimage {
+		background-color: #ffffff; 
+		border: #ffffff 0px solid;
+		width: 100%; 
+		height: 100%;
+		padding: 8px;
+		display: none;
+	}
+
+	#previewimage {
+
+	}
+
+	#drop_zone_box {
+		padding: 0px;
+	}
+
+
+
+</style>
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+	var fileobj;
+	function upload_file(e) {
+		e.preventDefault();
+		fileobj = e.dataTransfer.files[0];
+		ajax_file_upload(fileobj);
+	}
+
+	function file_explorer() {
+		document.getElementById('selectfile').click();
+		document.getElementById('selectfile').onchange = function() {
+		    fileobj = document.getElementById('selectfile').files[0];
+			ajax_file_upload(fileobj);
+		};
+	}
+
+	function ajax_file_upload(file_obj) {
+		if(file_obj != undefined) {
+		    var form_data = new FormData();                  
+		    form_data.append('file', file_obj);
+			$.ajax({
+				type: 'POST',
+				url: 'https://mardox.com/upload-image.php?postid=' + document.getElementById('postid').value,
+				contentType: false,
+				processData: false,
+				data: form_data,
+				success:function(response) {
+				document.getElementById('imagefilename').value = response;
+
+					document.getElementById("previewimageid").src = 'https://mardox.com/uploads/' + response;
+
+/*					alert(response);  */
+					document.getElementById('drop_file_zone').style.display = 'none';
+					document.getElementById('drop_file_zone_showimage').style.display = 'block';
+					$('#selectfile').val('');
+				}
+			});
+		}
+	}
+
+
+
+</script>
 
 
 
@@ -91,126 +203,113 @@ win=window.open(mypage,myname,settings);}
 
 	</head>
 
-	<body>
+	<body class="skin-black fixed sidebar-mini sidebar-mini-expand-feature" data-gr-c-s-loaded="true" style="height: auto; min-height: 100%;">
+<!--
+	<body class="skin-black fixed">
+-->
 
-		<section id="container">
-			<!-- **********************************************************************************************************************************************************
-			TOP BAR CONTENT & NOTIFICATIONS
-			*********************************************************************************************************************************************************** -->
-			<!--header start-->
-			<header class="header black-bg">
-              <div class="sidebar-toggle-box">
-                  <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
-              </div>
-            <!--logo start-->
-            <a href="https://mardox.com/index.php?content=members/home" class="logo"><img src="https://mardox.com/images/2016-Mardox_Logo/Mardox-membersarea.png" height="35" width="364"></a>
-            <!--logo end-->
+		<div class="wrapper">
 
 
 
-            <div class="nav notify-row" id="top_menu">
-                <!--  notification start -->
-                <ul class="nav top-menu">
-                    <!-- inbox search start-->
-			<form method="POST" action="https://mardox.com/index.php?content=public/search">
-                            <i class="fa fa-search"></i>
-				<input type="hidden" name="searchtype" value="textstring">
-				<input height="10" size="60" type="text" name="keywords" value=""><input id="formbutton" type="submit" value="Search">
-			</form>
-                            <span class="badge bg-theme"></span>
-                    <!-- inbox saerch end -->
-
-                </ul>
-                <!--  notification end -->
-            </div>
 
 
 
-            <div class="top-menu">
-            	<ul class="nav pull-right top-menu">
-                    <li><a class="logout" href="http://helpdesk.mardox.com">Support</a></li>
-<li><a class="logout" href="index.php?c=LM/p1">Sign Up</a></li>
-<li><a class="logout" href="index.php?content=access/signout&amp;command=LOGIN">Log in</a></li>
-            	</ul>
-            </div>
-        </header>
-      <!--header end-->
-      
+			<header class="main-header">
+			<!-- Logo -->
+				<a href="https://mardox.com/index.php?content=members/home" class="logo"><img src="https://mardox.com/images/2016-Mardox_Logo/Mardox.com-main-184x40.png" height="40" width="184"></a>
+				<!--logo end-->
+ 				<!-- Header Navbar: style can be found in header.less -->
+				<nav class="navbar navbar-static-top" role="navigation">
+					<!-- Sidebar toggle button-->
+					<a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button"><span class="sr-only">Toggle navigation</span></a>
+					<div class="navbar-custom-menu">
+						<ul class="nav navbar-nav">
 
-      <!-- **********************************************************************************************************************************************************
-      MAIN SIDEBAR MENU
-      *********************************************************************************************************************************************************** -->
-      <!--sidebar start-->
-      <aside>
-          <div id="sidebar" class="nav-collapse ">
-              <!-- sidebar menu start-->
-              <ul class="sidebar-menu" id="nav-accordion">
 
-              	  <p class="centered"><a href="#"><img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=UNKNOWN&amp;size=M" class="img-circle" width="60"></a></p>
-              	  <h5 class="centered">Guest</h5>
+						</ul>
+					 </div>
+				</nav>
+			</header>
+			 <!-- Left side column. contains the logo and sidebar -->
+ 
 
-                  <li class="mt">
-                      <a href="https://mardox.com/index.php?content=public/home">
-                          <i class="fa fa-dashboard"></i>
-                          <span>Home</span>
-                      </a>
-                  </li>
 
-                 <li class="sub-menu">
-                      <a href="http://ref.mardox.com/index.php?c=LM/p1">
-                          <i class="fa fa-dashboard"></i>
-                          <span>Sign up</span>
-                      </a>
-                  </li>
 
-                 <li class="sub-menu">
-                      <a href="https://mardox.com/index.php?content=access/signout&amp;command=LOGIN">
-                          <i class="fa fa-dashboard"></i>
-                          <span>Log In</span>
-                      </a>
-                  </li>
+			<aside class="main-sidebar">
+				 <!-- sidebar: style can be found in sidebar.less -->
+				<section class="sidebar">
+					<!-- Sidebar user panel -->
+					<div class="user-panel">
+						<div class="pull-left image">
 
-                  <li class="sub-menu">
-                      <a href="javascript:;">
-                          <i class=" fa fa-tag"></i>
-                          <span>Support</span>
-                      </a>
-                      <ul class="sub">
-		            <li><a href="http://helpdesk.mardox.com/index.php?a=add">Open New Ticket</a></li>
-		            <li><a href="http://helpdesk.mardox.com/ticket.php">View existing ticket</a></li>
-		            <li><a href="https://mardox.com/index.php?content=members/support/click-to-call">Click To Call</a></li>
-		            <li><a href="https://mardox.com/index.php?content=members/support/call-recordings">Your Call Recordings</a></li>
----
-		            <li><a href="https://mardox.com/index.php?content=public/aboutus">About Mardox</a></li>
-		            <li><a href="https://mardox.com/index.php?content=public/contactus">Contact Mardox</a></li>
-		            <li><a href="https://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a></li>
-		            <li><a href="https://mardox.com/index.php?content=public/tos">Terms of Service</a></li>
-			    <li><a href="https://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a></li>
 
-                      </ul>
-                  </li>
+					<!-- search form -->
+					<form action="https://mardox.com/index.php?content=public/search" method="POST" class="sidebar-form">
+						<div class="input-group">
+							<input type="hidden" name="searchtype" value="textstring">
+							<input type="text" name="keywords" class="form-control" placeholder="Search...">
+							<span class="input-group-btn"><button type="submit" name="search" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i></button></span>
+						</div>
+					</form>
+					<!-- /.search form -->
 
-              </ul>
-              <!-- sidebar menu end-->
-          </div>
-      </aside>
-      <!--sidebar end-->
-      
+
+
+
+
+					<!-- sidebar menu: : style can be found in sidebar.less -->
+					<ul class="sidebar-menu" data-widget="tree">
+						<li class="header">MAIN NAVIGATION</li>
+						<li><a href="https://mardox.com/index.php?content=public/home"><i class="fa fa-book"></i> HOME</a></li>
+						<li><a href="http://ref.mardox.com/index.php?c=LM/p1"><i class="fa fa-book"></i> Sign Up</a></li>
+
+						<li><a href="https://mardox.com/index.php?content=access/signout&amp;command=LOGIN"><i class="fa fa-book"></i> Sign In</a></li>
+
+						<li class="treeview">
+							<a href="#">
+								<i class="fa fa-files-o"></i>
+								<span>Support</span> 
+								<span class="pull-right-container">
+									<i class="fa fa-angle-left pull-right"></i>
+								</span>
+							</a>
+							<ul class="treeview-menu">
+								<li><a href="http://helpdesk.mardox.com/index.php?a=add">Open New Ticket</a></li>
+								<li><a href="http://helpdesk.mardox.com/ticket.php">View existing ticket</a></li>
+								<li>...</li>
+								<li><a href="https://mardox.com/index.php?content=public/aboutus">About Mardox</a></li>
+								<li><a href="https://mardox.com/index.php?content=public/contactus">Contact Mardox</a></li>
+								<li><a href="https://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a></li>
+								<li><a href="https://mardox.com/index.php?content=public/tos">Terms of Service</a></li>
+								<li><a href="https://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a></li>
+							</ul>
+						</li>
+
+
+					</ul>
+				</div></div></section>
+				 <!-- /.sidebar -->
+			</aside>
 
 
 
       
-      <!-- **********************************************************************************************************************************************************
-      MAIN CONTENT
-      *********************************************************************************************************************************************************** -->
-      <!--main content start-->
-      <section id="main-content">
-          <section class="wrapper">
 
 
-              <div class="row">
-                  <div class="col-lg-9 main-chart">
-      
+
+			<!-- Right side column. Contains the navbar and content of the page -->
+			<div class="content-wrapper">
+
+				 <!-- Main content -->
+				 <section class="content">
+
+
+
+
+
+
+
 
 	<div id="fullcontent">
 
@@ -258,9 +357,8 @@ This website uses cookies and session variables. Cookies are small amounts of in
 			<div class="post">
 				<h2 class="title">Online Transactions </h2>
 				<div class="entry">
-All payment related transactions are conducted through PayPal.com.<p>
 
-When you ask to purchase a product or membership from this site, you will have to submit personal identifying information, such as your name, the name of your company or organization (where applicable), your shipping and billing address(es), your phone and fax numbers, your e-mail address, the item(s) you have purchased. Your credit card number and expiry date will never be required on the Mardox.com web site. All payment information such as credit card info will be processed through PayPal.com. </p><p>
+When you ask to purchase a product or membership from this site, you will have to submit personal identifying information, such as your name, the name of your company or organization (where applicable), your shipping and billing address(es), your phone and fax numbers, your e-mail address, the item(s) you have purchased. Your credit card number and expiry date will never be required on the Mardox.com web site.<p>
 
 When you submit this information, it is stored in a secure server. The information collected is used to process and deliver your order or membership, as well as inform your Affiliate Manager of your order. This information is not disclosed to any Third Party except to authorized employees of Mardox Corp, who need it to process your order and bill or as required by law. The contact information you provide may also be used to contact you in the future about your order or membership.</p><p>
 
@@ -272,7 +370,7 @@ When you submit this information, it is stored in a secure server. The informati
 			<div class="post">
 				<h2 class="title">Internet Connection Security</h2>
 				<div class="entry">
-All personal information that you provide during your on-line payment transaction (including your credit card information) is protected by Secure Socket Layer (SSL) Encryption. When your information is encrypted, it is scrambled and rendered unreadable to anyone else. This type of transaction is conducted through the PayPal.com servers.<br>
+All personal information that you provide during your on-line payment transaction (including your credit card information) is protected by Secure Socket Layer (SSL) Encryption. When your information is encrypted, it is scrambled and rendered unreadable to anyone else.<br>
 				</div>
 			</div>
 
@@ -331,471 +429,10 @@ For more information about the collection of your personal information, any of t
 		</div>
 
 	</div>
-                  </div><!-- /col-lg-9 END SECTION MIDDLE -->
-                  
-
-
-  
-      <!-- **********************************************************************************************************************************************************
-      RIGHT SIDEBAR CONTENT
-      *********************************************************************************************************************************************************** -->                  
-                  
-                  <div class="col-lg-3 ds">
-
-			<div class="post">
-				<h2 class="headline">What's New</h2>
-				<div class="entry">
-
-
-<b><font color="RED"><a href="/index.php?content=members/home&amp;postid=PSV2-1000000011-0000">New Mardox Video Series.</a></font></b><br>
-We are putting out a new video series starting October 15th, 2016.<p>
-<b><font color="RED"><a href="/index.php?content=members/home&amp;postid=PSV2-1000000010-0000">Upcoming changes to the Mardox Payout System</a></font></b><br>
-Please Read this carefully. These changes affect both paid and free members.</p><p>
-<b><font color="RED"><a href="/index.php?content=members/home&amp;postid=PSV2-1000000009-0000">PayPal and traffic exchange and business explained.</a></font></b><br>
-I explain what may be going on with Paypal and traffic exchanges.</p><p>
-<b><font color="RED"><a href="/index.php?content=members/home&amp;postid=PSV2-1000000008-0000">Speedy Hits is here. </a></font></b><br>
-Signup to Speedy Hits today and use your FREE Promo code... Read More.</p><p>
-<b><font color="RED"><a href="/index.php?content=members/home&amp;postid=PSV2-1000000007-0000">Gravatar.com is now at Mardox</a></font></b><br>
-We are using Gravatar.com as a profile pic service at mardox.com</p><p>
-
-
-				</p></div>
-			</div><p>
 
 
 
-			</p><div class="post">
-				<h2 class="headline">Active Members</h2>
-				<div class="entry">
-
-<ul class="iconmenu_small">
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1352167475-50982" data-tooltip="sticky1">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1352167475-50982&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477515210-69719" data-tooltip="sticky2">
-<img src="https://www.gravatar.com/avatar/d8ab039fa9620751b81f8805416ed370?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1352090270-80775" data-tooltip="sticky3">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1352090270-80775&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1475150311-11370" data-tooltip="sticky4">
-<img src="https://www.gravatar.com/avatar/309f3840cdee020b80f1da9116ef3351?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1475014493-49355" data-tooltip="sticky5">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1475014493-49355&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1453424631-66868" data-tooltip="sticky6">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1453424631-66868&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1000000001-12345" data-tooltip="sticky7">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1000000001-12345&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1453415295-11566" data-tooltip="sticky8">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1453415295-11566&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1459958048-62947" data-tooltip="sticky9">
-<img src="https://www.gravatar.com/avatar/e224c9b327df0ea1d04dbb2c873beb31?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1449749135-76954" data-tooltip="sticky10">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1449749135-76954&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1473625614-47799" data-tooltip="sticky11">
-<img src="https://www.gravatar.com/avatar/6b3a10e011663bd7ef738528a632903c?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1452183200-62104" data-tooltip="sticky12">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1452183200-62104&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1448588417-26484" data-tooltip="sticky13">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1448588417-26484&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1458419489-38090" data-tooltip="sticky14">
-<img src="https://www.gravatar.com/avatar/c04985968e3fe4e3c37c3b6b24923b07?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1448561508-59502" data-tooltip="sticky15">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1448561508-59502&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1452772351-12322" data-tooltip="sticky16">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1452772351-12322&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1450657713-79178" data-tooltip="sticky17">
-<img src="https://www.gravatar.com/avatar/aa4371aa6d70a76f27250baa5b111eb8?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1438148472-49829" data-tooltip="sticky18">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1438148472-49829&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1442764104-79831" data-tooltip="sticky19">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1442764104-79831&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1461700417-25974" data-tooltip="sticky20">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1461700417-25974&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1472868393-68659" data-tooltip="sticky21">
-<img src="https://www.gravatar.com/avatar/d6844ef700a7390594d2ee0f9a327f77?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1451849361-46609" data-tooltip="sticky22">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1451849361-46609&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1454623124-52807" data-tooltip="sticky23">
-<img src="https://www.gravatar.com/avatar/e18dff677b9052745d3d0f01771ce875?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1461803017-17806" data-tooltip="sticky24">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1461803017-17806&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1449196790-17932" data-tooltip="sticky25">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1449196790-17932&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1472566209-95203" data-tooltip="sticky26">
-<img src="https://www.gravatar.com/avatar/335e1196e6b39752e73c20a59169c466?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1464249645-85481" data-tooltip="sticky27">
-<img src="https://www.gravatar.com/avatar/bd6e74121913051becefde1509dc87e9?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477400799-41846" data-tooltip="sticky28">
-<img src="https://www.gravatar.com/avatar/ab6d38c454e76e75068b78e83750dd4b?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1476159981-19178" data-tooltip="sticky29">
-<img src="https://www.gravatar.com/avatar/30c7e6d25a73cfdea411405a8fa820ab?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477003300-90478" data-tooltip="sticky30">
-<img src="https://www.gravatar.com/avatar/11f04a2c3c6ac0d9bc100b88ee662d5c?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477312516-12182" data-tooltip="sticky31">
-<img src="https://www.gravatar.com/avatar/e06a9be40501bd65f0d8d9e279a5ac27?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1450681343-73391" data-tooltip="sticky32">
-<img src="https://www.gravatar.com/avatar/a0142ad0c84d89c4410c33218ac3d462?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477282688-14154" data-tooltip="sticky33">
-<img src="https://www.gravatar.com/avatar/64e03337906873c1e3342e55c895d885?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477255585-31884" data-tooltip="sticky34">
-<img src="https://www.gravatar.com/avatar/8b138ef5b6f5e549f34c216fdc49ee3b?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1463341535-14238" data-tooltip="sticky35">
-<img src="https://www.gravatar.com/avatar/81d32825ef5bdc0c3615acd09db092e3?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1453474650-64410" data-tooltip="sticky36">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1453474650-64410&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1454520711-65610" data-tooltip="sticky37">
-<img src="https://www.gravatar.com/avatar/e7131c031bf160bf50f5291e41969cd3?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1469882401-52494" data-tooltip="sticky38">
-<img src="https://www.gravatar.com/avatar/76ef853db06b2e5a48004cdac5a4069c?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1466468204-56170" data-tooltip="sticky39">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1466468204-56170&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477226091-86500" data-tooltip="sticky40">
-<img src="https://www.gravatar.com/avatar/7954de5bc0df185ed3219fa7e41d2c81?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477218775-86035" data-tooltip="sticky41">
-<img src="https://www.gravatar.com/avatar/8ac8660718279e0e44000a4d4aae98a9?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477219584-30206" data-tooltip="sticky42">
-<img src="https://www.gravatar.com/avatar/e0fe6dcc8a2c3ed204e3e440e37d325a?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1452677458-36591" data-tooltip="sticky43">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1452677458-36591&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1452277824-17342" data-tooltip="sticky44">
-<img src="https://www.gravatar.com/avatar/b1f826b1f51908ac9fb56983a809c416?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1450845624-47717" data-tooltip="sticky45">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1450845624-47717&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1477063490-27122" data-tooltip="sticky46">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1477063490-27122&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1451342488-74545" data-tooltip="sticky47">
-<img src="https://www.gravatar.com/avatar/788c0e39ff841bfacbf3ac096b0e6e1c?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1449282182-86049" data-tooltip="sticky48">
-<img src="https://mardox.com/content/tools/getprofileimage.php?trackingid=SUV2-1449282182-86049&amp;size=M" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1450356762-11577" data-tooltip="sticky49">
-<img src="https://www.gravatar.com/avatar/a905c8514e2e3b3e1fff5d360dac2b09?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-  <li>
-	  <a href="https://mardox.com/index.php?content=members/profiles&amp;profileid=SUV2-1471404114-17838" data-tooltip="sticky50">
-<img src="https://www.gravatar.com/avatar/f45b939261ed0ae286a8c8e739974865?s=48&amp;d=mm&amp;r=r" width="48" height="48" alt="">
-	  </a><br>
-	</li>
-</ul>
-<div id="mystickytooltip" class="stickytooltip"><div style="padding:5px"><div id="sticky1" class="atip" style="width:200px">
-<center>Jackie Stonehouse</center>
-</div>
-<div id="sticky2" class="atip" style="width:200px">
-<center>Belinda Condell</center>
-</div>
-<div id="sticky3" class="atip" style="width:200px">
-<center>Tiina Oim</center>
-</div>
-<div id="sticky4" class="atip" style="width:200px">
-<center>Mark  DeMent</center>
-</div>
-<div id="sticky5" class="atip" style="width:200px">
-<center>Julie Wolf</center>
-</div>
-<div id="sticky6" class="atip" style="width:200px">
-<center>Shadie Okpako</center>
-</div>
-<div id="sticky7" class="atip" style="width:200px">
-<center>Nelson Buck</center>
-</div>
-<div id="sticky8" class="atip" style="width:200px">
-<center>Tatiana  Saranova</center>
-</div>
-<div id="sticky9" class="atip" style="width:200px">
-<center>Aaron Newby</center>
-</div>
-<div id="sticky10" class="atip" style="width:200px">
-<center>John Brewer</center>
-</div>
-<div id="sticky11" class="atip" style="width:200px">
-<center>John Novak</center>
-</div>
-<div id="sticky12" class="atip" style="width:200px">
-<center>Ernie Geeting</center>
-</div>
-<div id="sticky13" class="atip" style="width:200px">
-<center>Patsy j Payne</center>
-</div>
-<div id="sticky14" class="atip" style="width:200px">
-<center>Dan Carter</center>
-</div>
-<div id="sticky15" class="atip" style="width:200px">
-<center>Kerri Foster</center>
-</div>
-<div id="sticky16" class="atip" style="width:200px">
-<center>Michael Kustra</center>
-</div>
-<div id="sticky17" class="atip" style="width:200px">
-<center>Dayna-Kay Johnson</center>
-</div>
-<div id="sticky18" class="atip" style="width:200px">
-<center>Headley Martin</center>
-</div>
-<div id="sticky19" class="atip" style="width:200px">
-<center>Chloe Houston</center>
-</div>
-<div id="sticky20" class="atip" style="width:200px">
-<center>elizabeta ramsak</center>
-</div>
-<div id="sticky21" class="atip" style="width:200px">
-<center>Anthony Kpodo</center>
-</div>
-<div id="sticky22" class="atip" style="width:200px">
-<center>Louis Hoolae</center>
-</div>
-<div id="sticky23" class="atip" style="width:200px">
-<center>Ash  Redding</center>
-</div>
-<div id="sticky24" class="atip" style="width:200px">
-<center>Eugene Byers</center>
-</div>
-<div id="sticky25" class="atip" style="width:200px">
-<center>Danny Lipscomb,Sr.</center>
-</div>
-<div id="sticky26" class="atip" style="width:200px">
-<center>Graham Hobbs</center>
-</div>
-<div id="sticky27" class="atip" style="width:200px">
-<center>ALI NET</center>
-</div>
-<div id="sticky28" class="atip" style="width:200px">
-<center>Eleanor Campbell</center>
-</div>
-<div id="sticky29" class="atip" style="width:200px">
-<center>Betty Miller</center>
-</div>
-<div id="sticky30" class="atip" style="width:200px">
-<center>Rick Webb </center>
-</div>
-<div id="sticky31" class="atip" style="width:200px">
-<center>Wilfried Laubouet</center>
-</div>
-<div id="sticky32" class="atip" style="width:200px">
-<center>Toan Nguyen</center>
-</div>
-<div id="sticky33" class="atip" style="width:200px">
-<center>James Thompson</center>
-</div>
-<div id="sticky34" class="atip" style="width:200px">
-<center>Great Opomu</center>
-</div>
-<div id="sticky35" class="atip" style="width:200px">
-<center>Gerri Camus</center>
-</div>
-<div id="sticky36" class="atip" style="width:200px">
-<center>Kevin Bird</center>
-</div>
-<div id="sticky37" class="atip" style="width:200px">
-<center>Joe Robertson</center>
-</div>
-<div id="sticky38" class="atip" style="width:200px">
-<center>Milena Toskovic</center>
-</div>
-<div id="sticky39" class="atip" style="width:200px">
-<center>Milena Stojkovic</center>
-</div>
-<div id="sticky40" class="atip" style="width:200px">
-<center>Eric Skinner</center>
-</div>
-<div id="sticky41" class="atip" style="width:200px">
-<center>Lawrence Fernandes</center>
-</div>
-<div id="sticky42" class="atip" style="width:200px">
-<center>Rafael Plazas </center>
-</div>
-<div id="sticky43" class="atip" style="width:200px">
-<center>mochamad chamim</center>
-</div>
-<div id="sticky44" class="atip" style="width:200px">
-<center>Scott Caile</center>
-</div>
-<div id="sticky45" class="atip" style="width:200px">
-<center>kenneth miller</center>
-</div>
-<div id="sticky46" class="atip" style="width:200px">
-<center>Pietro Conte</center>
-</div>
-<div id="sticky47" class="atip" style="width:200px">
-<center>Stefan Semmler</center>
-</div>
-<div id="sticky48" class="atip" style="width:200px">
-<center>Floyd Burrell</center>
-</div>
-<div id="sticky49" class="atip" style="width:200px">
-<center>Owen McEneany</center>
-</div>
-<div id="sticky50" class="atip" style="width:200px">
-<center>barbara lambert</center>
-</div>
-</div>
-</div>
-
-				</div>
-			</div>
-
-
-
-
-
-
-
-
-<p>
-
-
-			</p><div class="post">
-				<h2 class="headline">Relative Content</h2>
-				<div class="entry">
-This section will show content relative to the page you are viewing.
-<p>
-Please check back later
-				</p></div>
-			</div>
-
-                  </div><!-- /col-lg-3 -->
+              
 
 
 
@@ -807,54 +444,99 @@ Please check back later
 
 
 
-              </div><!-- --/row ---->
+
+
+
+
+			</section><!-- /.content -->
+
+		</div><!-- ./wrapper -->
+
+
+			<footer class="main-footer">
+				<div class="pull-right hidden-xs">
+					<b>Version</b> 2.0
+				 </div>
+				<strong>Copyright © 2018 - Mardox Corp.</strong> All rights reserved.<br>
+We are a participant in the Amazon Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon and affiliated sites.
+			</footer>
 
 
 
 
 
 
-			
-		</section><!-- --/wrapper ---->
-      </section><!-- /MAIN CONTENT -->
 
-      <!--main content end-->
-      <!--footer start-->
-      <footer class="site-footer">
-          <div class="text-center">
-              2014 - Alvarez.is
-              <a href="blank.html#" class="go-top">
-                  <i class="fa fa-angle-up"></i>
-              </a>
-          </div>
-      </footer>
-      <!--footer end-->
-  </section>
+</div><!-- ./wrapper -->
 
-    <!-- js placed at the end of the document so the pages load faster -->
-    <script src="https://mardox.com/dashgum/assets/js/jquery.js"></script>
-    <script src="https://mardox.com/dashgum/assets/js/bootstrap.min.js"></script>
-    <script src="https://mardox.com/dashgum/assets/js/jquery-ui-1.9.2.custom.min.js"></script>
-    <script src="https://mardox.com/dashgum/assets/js/jquery.ui.touch-punch.min.js"></script>
-    <script class="include" type="text/javascript" src="https://mardox.com/dashgum/assets/js/jquery.dcjqaccordion.2.7.js"></script>
-    <script src="https://mardox.com/dashgum/assets/js/jquery.scrollTo.min.js"></script>
-    <script src="https://mardox.com/dashgum/assets/js/jquery.nicescroll.js" type="text/javascript"></script>
+<!-- jQuery 3 -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/jquery/dist/jquery.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/jquery-ui/jquery-ui.min.js"></script>
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+<script>
+  $.widget.bridge('uibutton', $.ui.button);
+</script>
+<!-- Bootstrap 3.3.7 -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- Morris.js charts -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/raphael/raphael.min.js"></script>
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/morris.js/morris.min.js"></script>
+<!-- Sparkline -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+<!-- jvectormap -->
+<script src="https://mardox.com/templates/adminLTE-master/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+<script src="https://mardox.com/templates/adminLTE-master/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+<!-- jQuery Knob Chart -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/jquery-knob/dist/jquery.knob.min.js"></script>
+<!-- daterangepicker -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/moment/min/moment.min.js"></script>
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/bootstrap-daterangepicker/daterangepicker.js"></script>
+<!-- datepicker -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+<!-- Bootstrap WYSIHTML5 -->
+<script src="https://mardox.com/templates/adminLTE-master/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+<!-- Slimscroll -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+<!-- FastClick -->
+<script src="https://mardox.com/templates/adminLTE-master/bower_components/fastclick/lib/fastclick.js"></script>
 
-
-    <!--common script for all pages-->
-    <script src="https://mardox.com/dashgum/assets/js/common-scripts.js"></script>
-
-    <!--script for this page-->
-    
-
-
-
-
-  
-
-
+<!-- AdminLTE App -->
+<script src="https://mardox.com/templates/adminLTE-master/dist/js/adminlte.min.js"></script>
 
 
+<script language="javascript" type="text/javascript">
+/****************************************************
+     Author: Nelson Buck
+     Url: https://nelsonbuck.com
+	This script creates the Drop Down menu for the social feed
+	allowing users to flag content, share it and other functions
+****************************************************/
+
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function SocialFeedMenu(myid) {
+    document.getElementById(myid).classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+
+	
 
 
 </body></html>
