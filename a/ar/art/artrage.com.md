@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927104848id_/https%3A//www.artrage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826112559id_/https%3A//www.artrage.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ArtRage
 
@@ -8,53 +8,69 @@
 
  _We consider the privacy of our visitors to be extremely important._
 
+## Who we are?
+
+Ambient Design is a New Zealand based software development company specializing in creative tools for artists. Our flagship product is ArtRage, a simple and stylish digital painting product that presents a high technology paint simulation in an easy to use interface that lets anyone play with paint, available across a range of platforms. To learn more about us: [Ambient Design](https://web.archive.org/about-us/)
+
+ **Our website address is:** [https://www.artrage.com](https://www.artrage.com/)
+
 ## ArtRage Software
 
 ### ArtRage Desktop Editions
 
-The ArtRage desktop editions (ArtRage 2, ArtRage Studio, ArtRage Studio Pro, ArtRage 4) does **not** use DRM (Digital Rights Management), or run any kind of background services. There is no additional software installed, and there are no ads. Once you have successfully installed ArtRage, you do not need an internet connection at all, except for the an optional update check that will alert you to updates.
+The Desktop editions of ArtRage (ArtRage Lite, ArtRage Studio, ArtRage Studio Pro, and all versions of ArtRage) do **not** use DRM (Digital Rights Management), or run any kind of background services. The only additional software installed with these products is a Thumbnail Viewer on Windows that allows the operating system to preview ArtRage files. This viewer does not collect or transmit any data. There is no other software installed, and there are no ads in the product. Once you have successfully installed ArtRage, you do not need an internet connection at all, except for an optional update check that will alert you to updates if you choose. This update check does not run without prompting you for permission each time it is scheduled.
 
 ### ArtRage Mobile Editions
 
-The ArtRage mobile editions (ArtRage Touch and ArtRage for iPad/iPhone/Android) do not include adware or other background services. We do not collect any personal data or require an active internet connection. Licensing and updates are handled by the App store service used to install the app.
+The ArtRage mobile editions (ArtRage Touch, ArtRage for iOS and ArtRage for Android) do not include adware or other background services. We do not collect any personal data or require an active internet connection to use the product. Licensing and updates are handled by the App store service used to install the app.
 
-## ArtRage Website
+## What personal data we collect and why do we collect it?
 
 The following privacy statement discloses the information gathering, what we use, and privacy protection practices of this site, [ArtRage.com](https://www.artrage.com/ "ArtRage").
 
 ### Log Files
 
-Like many other Web sites, ArtRage makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting service’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, artrage.com makes use of log files. These files merely log visitors to the site, a standard procedure for hosting companies and a part of hosting service’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyse trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 ### Cookies
 
-ArtRage uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+The artrage.com website uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies/ "What are cookies")
 
 ### Third-Party Sites and Services
 
-ArtRage may contain links to third-party websites, products, widgets and services. You should consult the respective privacy policies of these third-party sites for more detailed information on their practices as well as for instructions about how to opt-out of certain practices, if desired.
+The artrage.com website may contain links to third-party websites, products, widgets and services. You should consult the respective privacy policies of these third-party sites for more detailed information on their practices as well as for instructions about how to opt-out of certain practices, if desired.
 
  **Google Services**
 
-ArtRage uses various technologies to collect and store general website usage information via Google services. Learn more about the [Google’s Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy").
+The artrage.com website uses various technologies to collect and store general website usage information via Google services. Learn more about the [Google’s Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy").
 
  **Amazon Affiliate**
 
-ArtRage has an affiliate relationship with the Amazon store and benefits from any purchases made through Amazon sales. Details about [Amazon’s Privacy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496 "Amazon Privacy").
+Ambient Design has an affiliate relationship with the Amazon store and benefits from any purchases made on the artrage.com website through Amazon sales. Learn more about [Amazon’s Privacy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496 "Amazon Privacy").
 
  **Apple Software**
 
-ArtRage has software for the iPad and iPhone, sold via the Apple iTune Store. You’ll notice that we also use iTunes affiliate links where appropriate. Rest assured, these affiliate links do not affect you in any way. They will, however, share a small portion of the sale with us. Check here for the [Apple’s Customer Privacy](https://www.apple.com/privacy/ "Apple Privacy").
+Ambient Design provides software for the iPad and iPhone, sold via the Apple App Store. You’ll notice that we also use iTunes affiliate links where appropriate. Rest assured, these affiliate links do not affect you in any way. They will, however, share a small portion of the sale with us. Check here for the [Apple’s Customer Privacy](https://www.apple.com/privacy/ "Apple Privacy").
 
  **Facebook and other social networks**
 
-ArtRage links out into various social networks for the art community, such as Facebook. More information about [Facebook’s Privacy](http://www.facebook.com/help/445588775451827 "Facebook Privacy").
+The artrage.com website links out into various social networks for the art community, such as Facebook. More information about [Facebook’s Privacy](http://www.facebook.com/help/445588775451827 "Facebook Privacy").
 
 ### Children’s Information
 
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. ArtRage does not knowingly collect any personally identifiable information from children under the age of 13. We advise all children to first get their parents or guardians permission before creating an account for the Member’s Area and Forums.
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Ambient Design does not knowingly collect any personally identifiable information from children under the age of 13. We advise all children to first get their parents or guardians permission before creating an account for the ArtRage Member Area and Forums.
+
+## How we protect your data?
+
+To ensure your data is kept safe, this website is secured and encrypted privacy communications with Digicert SSL. DigiCert is the world’s premier provider of high-assurance digital certificates.
+
+We do not sell/market data or use advertising in any of our products and on this website.
+
+## What rights you have over your data?
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
 ### Consent
 
