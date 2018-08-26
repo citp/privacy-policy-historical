@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730222653id_/https%3A//www.whiteflowerfarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826114916id_/https%3A//www.whiteflowerfarm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
