@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kwiziq.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429065625id_/https%3A//www.kwiziq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwiziq.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826214328id_/https%3A//www.kwiziq.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy > Learn faster with Kwiziq
 
 ## We recognize that privacy is important. 
 
-This Privacy Policy applies to all of the products, services and websites offered by Kwiziq (Kwiziq Ltd). If you have any questions about this Privacy Policy, please feel free to contact us through our website.
+This Privacy Policy applies to all of the products, services and websites offered by Kwiziq (Kwiziq Ltd). If you have any questions about this Privacy Policy, please feel free to [contact us](https://www.kwiziq.com/contact-us).
 
 ## **Information we collect and how we use it**
 
@@ -12,9 +12,9 @@ We offer services that do not require you to register for an account or provide 
 
 **Information you provide**
 
-  * When you sign up for a Kwiziq account or other Kwiziq service or promotion that requires registration, we ask you for personal information ssuch as your name, email address and an account password; we store your password in an encrypted form so that even we do not know it.
+  * When you sign up for a Kwiziq account or other Kwiziq service or promotion that requires registration, we ask you for personal information such as your name, email address and an account password; we store your password in an encrypted form so that even we do not know it.
   * Financial information - If we need to take credit card, financial or payment details from you, we will either use a regulated third party (such as PayPal, Google Checkout, or a service provided by a regulated bank) in which case they may store your financial details, or we will store data in an encrypted form. We will never store financial information you supply to us in a form which is not secure.
-  * Your public profile - We may provide the ability for you to create a public profile, including personal details and one more photos of yourself. Your profile may also be linked to your Facebook account in which case some data may be shared with Facebook. You may need to adjust your Facebook privacy settings. Anything you write about yourself in the details section of your profile is publicly available and may be available for other users to see, therefore you should not post anything you wish to keep private here. Do not write contact details such as your email address on your profile except in the contact details fields which are private and remain unpublished unless you explicitly give permission to certain users to see them.
+  * Your public profile - We may provide the ability for you to create a public profile, including personal details and one or more photos of yourself. Your profile may also be linked to your Facebook account in which case some data may be shared with Facebook. You may need to adjust your Facebook privacy settings. Anything you write about yourself in the details section of your profile is publicly available and may be available for other users to see, therefore you should not post anything you wish to keep private here. Do not write contact details such as your email address on your profile except in the contact details fields which are private and remain unpublished unless you explicitly give permission to certain users to see them.
   * Cookies - When you visit our website, we send one or more cookies to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences. Kwiziq does not currently, but may in the future use cookies to help advertisers and publishers serve and manage ads on our site to ensure their relevance to you.
   * Log information - When you access Kwiziq services, our servers automatically record information that your browser sends whenever you visit sections of our website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
@@ -47,15 +47,11 @@ Kwiziq utilises "cookies". A cookie is a piece of data stored on the user's hard
 Here are the cookies we use and why.
 
   * **Google Analytics**  
-e.g. _utma, _utmb, _utmc,_utmz, ga, gat
-
+e.g. _utma, _utmb, _utmc,_utmz, ga, gat  
 These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
   * **CMS cookies**  
-KWIZIQID,kwiziq_persistent
-
+KWIZIQID,kwiziq_persistent  
 These are set by our content management system to mantain your session or "being logged in"; it also helps us to personalise your site experience.
-
   * **JSESSIONID**  
 This is set by our SSL provider to validate your secure link to our site (see the security seal at the bottom of the page).
   * **cc_cookie_accept**  
@@ -117,4 +113,4 @@ When you use Kwiziq services, we make good faith efforts to provide you with acc
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this website.
+If you have any additional questions or concerns about this Privacy Policy, please feel free to [contact us](https://www.kwiziq.com/contact-us).
