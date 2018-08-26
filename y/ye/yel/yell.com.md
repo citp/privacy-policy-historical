@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yell.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303092549id_/https%3A//www.yell.com/legal/data-protection-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yell.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826113839id_/https%3A//www.yell.com/legal/data-protection-privacy-policy) for the most accurate reproduction.*
 
 # Yell Privacy Policy | Yell.com
 
@@ -18,9 +18,11 @@
 
 ## 1\. Important notice
 
-This is the Privacy Policy for <https://business.yell.com/>. It describes who we are, how we obtain and use the personal data of representatives of our business customers, why we are allowed to do so by law, who has access to your personal data and what your rights are. Please review it carefully.
+This is the Privacy Policy for <https://www.yell.com/>. It describes who we are, how we obtain and use your personal data, why we are allowed to do so by law, who has access to your personal data and what your rights are. Please review it carefully.
 
-**You have the right to object to us processing your personal data for our legitimate business interests or for direct marketing purposes (including any related profiling). For more information about your rights and how you can exercise them, please see the sectionYour rights.**
+This website is not intended for children and we do not knowingly collect data relating to children.
+
+**You have the right to object to us processing your personal data for our legitimate business interests or for direct marketing purposes (including any related profiling). For more information about your rights and how you can exercise them, please see the sectionYour rights**.
 
 ## 2\. About us
 
@@ -31,15 +33,18 @@ We take your privacy seriously and use your personal data as further explained i
 
 ## 3\. What personal data we collect and why
 
-Personal data is any information which identifies you personally whether directly (for example, your name) or indirectly (for example, information about your use of our products and services). This Privacy Policy is concerned with the personal data of representatives of our business customers, including staff of companies, partners in a partnership and sole traders.
+Personal data is any information which identifies you personally whether directly (for example, your name) or indirectly (for example, information about your use of our products and services).
+
+We may collect, store and transfer different kinds of personal data abot you which as have grouped together as follows:
 
 We collect the following personal data from you:
 
-  * **Basic contact details:** We collect your name, email address, postal address and telephone number so that we can contact you about your business listing on our directory and any other products and services that we have from time to time agreed to provide to your business;
-  * **Business details:** We require you to provide the name of the business you represent and details of the goods and/or services your business offers so that we can publish your business listing on our directory and provide you with the best possible service that is tailored to your business’s needs ** _._** You may also choose to provide other information about you and your business. We do not require you to do this but if you do, we will process this other information for the purposes of publishing your business listing on our directory;
-  * **Payment details:** We require your payment card details so that we can obtain payment for any paid-for products and services that we provide to your business; and
-  * **Credit score details** : If you are a partner in a partnership, a sole trader or represent a business which is not a private or public limited company or LLP, if you have provided your consent to do so, we collect your name, job title, date of birth and residential address history dating back three years, so that we can obtain your credit score. We need to do this in order to establish the best possible payment terms we are able to offer to you.
-  * **Correspondence:** We collect any additional personal data that you may provide to us from time to time if you contact us by email, letter or telephone, through our website or by any other means. If you contact us by telephone, we may also record the call and make notes in relation to your call for training and service improvement purposes, to comply with our legal obligations and to be able to deal with any dispute or defence of a claim which may arise in the course of us providing our products and services to you.
+  * **Identity and Contact Data:** includes first name, last name, email address, username or similar identifier we collect when you create an account with us, given us feedback or leave a review, or where you enter a prize draw, competition, promotion or survey with us.
+  * **Marketing and Communications Data:** includes your preferences in receiving marketing from us and any third parties and your communication preferences. Where you have consented, we use your personal data to contact you about how we can help you find products and services.
+  * **Technical Data:** includes internet protocol (IP) address, your login data and any technology on the devices you use to access the website and/or app.
+  * **Profile Data:** includes your username and password, your interests, preferences, feedback and survey responses.
+  * **Usage Data:** includes information about how you use our website, app, products and services.
+  * **Correspondence:** We collect any additional personal data that you may provide to us from time to time if you contact us by email, letter or telephone, through our website or app, including where you use the integrated messaging functionality, or by any other means. If you contact us by telephone, we may record the call and make notes in relation to your call for training and service improvement purposes, to comply with our legal obligations and to be able to deal with any dispute or defence of a claim which may arise in the course of us providing our products and services to you. If you use our messaging functionality, we will store the messages in line with our retention policy
 
 
 
@@ -50,154 +55,44 @@ We also obtain information about you from other sources:
 
 **Type of data** | **Source** | **Nature of source (public / private)** | **Location of source** | **Why we need this information**  
 ---|---|---|---|---  
-Contact Name 
-
-Email Address
-
-Business Name
-
-Business Phone
-
-Business Website
-
-| eMedia, part of Ziff Davis International Limited | Private | UK-based | To comply with customer request  
-Contact Name 
-
-Email Address
-
-Business Name
-
-Business Phone
-
-Business Website
-
-| e-location Limited | Private | UK-based | To comply with customer request  
-Contact Name 
-
-Email Address
-
-Business Name
-
-Business Phone
-
-Business Website
-
-| Vitesse Media plc | Private | UK-based | To comply with customer request  
-Contact Name 
-
-Email Address
-
-Business Name
-
-Business Phone
-
-Business Website
-
-Post code
-
-| Marketing VF Limited | Private | UK-based | To comply with customer request  
-Contact Name 
-
-Email Address
-
-Business Name
-
-Business Phone
-
-Chat Transcript
-
-| The Chat Shop Ltd | Private | UK-based | To comply with customer request  
-Contact Name 
-
-Email Address
-
-Contact Phone Number
-
-Business Name
-
-Business Phone
-
-Business Website
-
-| Silktide Ltd | Private | UK-based | To comply with customer request  
+Public profile and email address | Facebook | Public | USA | We need this information to authenticate you on our consumer app where you choose a social log-in route  
   
 ## 4\. How we use your personal data
 
 We use your personal data for the following purposes:
 
-**To publish your business listing on our directory and provide you with the products and services you have requested**
-
-We use your personal data to accept you as a new or returning customer, publish your business listing on our directory and provide you with the products and services you have requested in accordance with their terms (which will differ depending on the particular products and services you have requested and can be found [**here**](https://business.yell.com/legal/advertising-conditions/)).
-
-**To advertise the identity, address and contact details of your business on third party search engines, social media sites and other relevant business websites on your behalf**
-
-If you have registered for this service, we share the identity, address and contact details of your business with third party search engines (such as Google), social media sites (such as Facebook) and other relevant business websites so that we can help promote your business to your target audience and drive potential customers to your own website.
-
-**To register a domain name on your behalf**
-
-If you have registered for this service, we may need to share your contact details with the registrar responsible for maintaining the relevant register of domain names in order to complete the registration of a domain name on your behalf.
-
-**To send you service communications, including in relation to changes to our contract terms**
-
-We use the contact details you have provided to us so that we can communicate with you about the products and services that we provide to your business, including to let you know about major changes to those products and services or to the terms of the contract between us or to any related information (such as changes to this Privacy Policy).
-
-**To confirm your identity and verify the information you provide**
-
-For security reasons and to safeguard the authenticity of our directory, we must confirm you are who you say you are. This means we may check the information you provide to us against other information we hold about you from the third party sources described above in **What personal data we collect and why**.
-
-**To process payments**
-
-We process your payment card details so that we can obtain payment for any paid-for products and services you have requested and collect any future payments or overdue amounts for those products and services.
+**Where applicable, to contact you in relation to a prize draw or competition you have entered.**  
+We use your personal data to process your entry to a prize draw, competition or relevant promotion.
 
 **Direct marketing (including by third parties)**
 
 If you have provided your consent or we otherwise have the right to do so, we may use your contact details to send you direct marketing and keep you informed of promotional offers by email, SMS, post or telephone relating to our products and services.
 
-You can unsubscribe from our direct marketing at any time by clicking the “Unsubscribe” link in any of our emails or by contacting us (see **How you can contact us**).
+You can unsubscribe from our direct marketing at any time by clicking the “Unsubscribe” link in any of our emails or by contacting us (see **How you can contact us** ).
 
 Our trusted business partners would also like to use your name, email address, postal address and telephone number to inform you of similar products, services and promotional offers. We will only share your personal data with our partners where you have provided us with your consent to do so. You can unsubscribe at any time by clicking the “Unsubscribe” link in any of their emails or managing your preferences via their website.
 
-Please see **Who we share your personal data with and where it is stored by them** to find out exactly who our marketing partners are.
+Please see **Who we share your personal data with and where it is stored by them  **to find out exactly who our marketing partners are.
 
 **To conduct automated decision-making and profiling**
 
-We use technology which tracks your use of our website, products and services to help us build a profile of your preferences. What this means for you is that you are more likely to receive direct marketing and promotional offers that are tailored to your specific preferences, based on your previous activity. It also means that we don’t send the same offers to all of our customers, so you may not be made the same offers as another customer.
+We use technology which tracks your use of our website, app, products and services to help us build a profile of your preferences. What this means for you is that you are more likely to receive direct marketing and promotional offers that are tailored to your specific preferences, based on your previous activity.
 
-If you don’t agree with an automated decision that our technology has made in relation to you, you can let us know (see **How you can contact us**) and we may decide to look into it for you. You may still have the right to object to us processing your personal data for the purpose of automated decision-making or to restrict us from doing so (see **Your Rights**).
+If you don’t agree with an automated decision that our technology has made in relation to you, you can let us know (see **How you can contact us)** and we may decide to look into it for you. You may still have the right to object to us processing your personal data for the purpose of automated decision-making or to restrict us from doing so (see **Your rights** ).
 
-Please note that the legal basis for us carrying out these activities is that it is in our legitimate interests to do so, having taken into account whether your interests and fundamental rights and freedoms are overridden by this type of processing. See **Legal grounds for processing**for more information.
+Please note that the legal basis for us carrying out these activities is that it is in our legitimate interests to do so, having taken into account whether your interests and fundamental rights and freedoms are overridden by this type of processing. See [**Legal grounds for processing** )](https://www.yell.com/legal/data-protection-privacy-policy/#5) ** ** for more information.
 
 **To track your usage of our website, communications, products and services**
 
-We use cookies and similar technologies to track your activity on our website so that we can provide important features and functionality on our website, monitor its usage, and provide you with a more personalised experienced. Please see our[ **Cookie Policy**](https://www.yell.com/legal/cookie-policy/) to find out more.
-
-We also use tracking technology within our emails to capture information such as the time and date you open our emails and the type of device used to open it. We use this information to understand the effectiveness of our email communications so that we can improve them in the future and provide a more personalised overall service to you.
-
-**To process credit risk assessments**
-
-If you are a partner in a partnership, a sole trader or represent a business which is not a private or public limited company or LLP, if you have provided your consent to do so, we process your name, job title, date of birth and residential address history dating back three years to obtain your credit score. We need to do this in order to establish the best possible payment terms we are able to offer to you.
-
-**To produce aggregated underwriting risk analysis reports for commercial lenders and commercial insurers**
-
-We combine the personal data we hold about you with other customers’ personal data to produce underwriting risk analysis reports for our commercial lenders and commercial insurers. The reports we produce are based on combined, aggregated datasets and do not contain any personal data about you or about any of our other customers.
-
-**To contact you about a contract renewal for paid-for products and services**
-
-We use the telephone number you have provided to us so that we can call you to discuss the renewal of the contract between us for any paid-for products and services we provide. We will do this in the lead up to the expiry of your contract and, if we don’t hear back from you to confirm whether or not you would like to renew your contract with us, up to six months after the date that your contract with us expires.
-
-Please note that if we haven’t heard from you by the time your contract for paid-for products and services expires or if you’ve told us your business no longer requires any of our paid-for products and services after your contract expires, your business will retain a free business listing on our directory. We will remove your listing if you tell us to (see **How you can contact us**).
-
-**To provide and improve customer support**
-
-We use your personal data to be able to provide and improve the customer support we provide to you (for example, where you have questions about our products and services).
+We use cookies and similar technologies to track your activity on our website so that we can provide important features and functionality on our website, monitor its usage, and provide you with a more personalised experienced. Please see our **[Cookie Policy](https://www.yell.com/legal/cookie-policy/)** to find out more.
 
 **To conduct internal training**
 
-We may use your personal data for internal training purposes so that our staff have the knowledge and expertise they need to ensure we provide you with the best possible customer experience. For example, if you contact us by telephone, we may record the call and make notes in relation to your call for training and service improvement purposes.
+We may use your personal data for internal training purposes so that our staff have the knowledge and expertise they need to ensure we provide you with the best possible user experience. For example, if you contact us by telephone, we may record the call and make notes in relation to your call for training and service improvement purposes.
 
 **To conduct market research and analytics**
 
-We may analyse your personal data (potentially in combination with personal data relating to other customers) to better understand our customer base. We may also invite certain customers to be involved in market research. If you accept our invitation, we will use your feedback to improve our products and services.
+We may analyse your personal data (potentially in combination with personal data relating to other customers) to better understand our user base. We may also invite certain users to be involved in market research. If you accept our invitation, we will use your feedback to improve our products and services.
 
 **To maintain our records and improve data accuracy**
 
@@ -221,36 +116,27 @@ In certain circumstances, we process your personal data after obtaining your con
   * sending you marketing communications about our products and services;
   * sharing your name, email address, postal address and telephone number with our trusted business partners so that they may market to you about their own similar products and services;
   * conducting marketing research;
-  * obtaining your credit score so that we can establish the best possible payment terms we are able to offer to you.
+  * using your location to deliver specific messaging and to you and to facilitate the messaging functionality on our app and websites (as applicable).
 
 
 
-**Necessary for the performance of a contract and to comply with our legal obligations**
+**Necessary for the performance of a contract and to comply with our legal obligations**  
+It is necessary for us to process your contact details, to set up your account and for the performance of any contract between us: ). In particular, we rely on this legal ground to:
 
-It is necessary for us to process your basic contact details, payment details and information about the business you represent for the performance of the contract between us (which, depending on the products and services we have from time to time agreed to provide to your business, is governed by one or more of the terms and conditions found[ **here**](https://business.yell.com/legal/advertising-conditions/)). In particular, we rely on this legal ground to:
-
-  * publish your business listing on our directory and provide you with the products and services you have requested, including where relevant, advertising the identity, location and contact details of your business on third party search engines, social media sites and other relevant business websites on your behalf and registering a domain name on your behalf;
-  * communicate with you about the products and services that we provide to your business, including to let you know about major changes to those products and services or to the terms of the contract between us or to any related information (such as changes to this Privacy Policy);
-  * confirm your identity and verify the information you provide;
-  * process payments; and
-  * provide and improve customer support.
+  * where you enter one of our prize draws, competition or promotions;
+  * communicate with you about major changes to the terms of this Privacy Policy or to any related or similar information.
 
 
-
-If you choose not to give some or all of the aforementioned information to us, this may affect our ability to provide our products and services to you.
 
 In certain circumstances, we also use your personal data only to the extent required in order to enable us to comply with our legal obligations, including to detect, investigate and prevent fraud.
 
-**Necessary for the purposes of our legitimate business interests or those of a third party**
-
+**Necessary for the purposes of our legitimate business interests or those of a third party**  
 It is sometimes necessary to collect and use your personal data for the purposes of our legitimate interests as a business, which are to:
 
-  * provide you with products and services that are as useful and beneficial to your business as possible, including by personalising our contact with you (using automated decision-making and profiling techniques) and making sure we tell you about all the offers that are relevant to your business;
-  * better understand our customer base so that we can improve our products and services and marketing activities (which could also benefit you);
+  * better understand our user base so that we can improve our products and services and marketing activities (which could also benefit you);
   * comply with our contractual obligations to third parties, for example to produce aggregated underwriting risk analysis reports for our commercial lenders and commercial insurers;
-  * confirm whether or not you would like to renew your contract with us for any paid-for products and services;
-  * develop and improve our website to enhance the customer experience;
-  * train our staff so that we can provide you with a better customer service;
+  * develop and improve our website to enhance the user experience;
+  * train our staff so that we can provide you with a better user service;
   * respond to any enquiries or complaints you have made, or deal with any dispute which may arise in the course of us providing our products and services to you; and
   * ensure effective operational management and internal administration of our business, document retention, compliance with regulatory guidance and exercise or defence of legal claims.
 
@@ -266,15 +152,15 @@ Where we think there is a risk that one of your interests or fundamental rights 
 
 We may provide your personal data to:
 
-  6.     * our suppliers and services providers, including other companies in our group, who perform certain business services for us and act as “processors” of your personal data on our behalf; and
-    * other organisations, who use your personal data for their own purposes and are “controllers” of such data in their own right. Such organisations may be located outside the EEA.
+  * our suppliers and services providers, including other companies in our group, who perform certain business services for us and act as “processors” of your personal data on our behalf; and
+  * other organisations, who use your personal data for their own purposes and are “controllers” of such data in their own right. Such organisations may be located outside the EEA.
 
 
 
 In addition, we may disclose your personal data:
 
-  6.     * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to protect the rights, property or safety of our business, our customers or others. This includes, in specific cases, exchanging information with other organisations for the purposes of fraud protection; and
-    * to successors in title or replacement operators of all or part of our business.
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to protect the rights, property or safety of our business, our customers or others. This includes, in specific cases, exchanging information with other organisations for the purposes of fraud protection; and
+  * to successors in title or replacement operators of all or part of our business.
 
 
 
@@ -287,44 +173,58 @@ Please ask us if you would like more information about the safeguards that are u
 **Name of recipient** | **Why your personal data is shared** | **Location of processing** | **Safeguards used to protect personal data processed outside the EEA**  
 ---|---|---|---  
 **Our suppliers and service providers (“processors”)**  
-Hibu Inc. (“ **Hibu** ”) | Hibu is a US-based group company and some computer systems are shared currently | USA | There is no adequacy decision by the European Commission in respect of transfers of personal data to the locations specified in the column to the left. This means that the European Commission does not consider the laws in these locations to protect personal data to the same extent as in the EEA. 
+Deya Limited 
+
+(“ **Deya** ”)
+
+| Deya facilitates the delivery of the Yellow Pages directory and verifies receipt of delivery | UK | N/A – processing is taking place within the EEA.  
+Hibu Inc. (“ **Hibu** ”) | Hibu is a US-based group company and currently shares some computer systems with Yell | USA | There is no adequacy decision by the European Commission in respect of transfers of personal data to the locations specified in the column to the left. This means that the European Commission does not consider the laws in these locations to protect personal data to the same extent as in the EEA. 
 
 Consequently, we have entered into standard data protection clauses (known as controller-processor model clauses) with Hibu pursuant to Article 46(2) of the GDPR. Such clauses provide adequate safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals when personal data is transferred to locations for which there is no adequacy decision.  
+  
+NSC Programming Limited (“ **NSC** ”) | NSC provides services in connection with our legacy data systems. | UK | N/A – processing is taking place within the EEA.  
+Rackspace International GmbH (“ **Rackspace** ”) | Rackspace hosts our data. | UK | N/A – processing is taking place within the EEA.  
+SAP (UK) Limited (“ **SAP** ”) | SAP hosts our data. | UK  | N/A – processing is taking place within the EEA.   
+Shift 6 Limited (“ **Appsee** ”) | Appsee provides user behaviour analysis pertaining to our apps | EEA 
+
+Israel
+
+| N/A – processing is taking place within the EEA. 
+
+EU decisions as to adequacy decision  
+  
+Smile Family Inc. (“ **SendBird** ”) | SendBird provides the functionality for our messaging platform in the Merchant and Consumer apps | EEA 
+
+USA 
+
+| N/A – processing is taking place within the EEA. 
+
+Privacy Shield   
   
 Tata Consultancy Services Limited (“ **Tata** ”) | Tata operates our customer services and conducts a number of business operations on our behalf which require us to share your personal data with them, including data input, product support and account management services. | India 
 
 Philippines
 
 | Model clauses – as above for Hibu.  
+The Why Agency Limited 
+
+(“ **The Why Agency** ”)
+
+| The Why Agency facilitates the Yell booth competition at our Yell roadshow. | EEA | N/A – processing is taking place within the EEA.  
 Wipro Limited (“ **Wipro** ”) | Wipro provides helpdesk support services. | India 
 
 Philippines
 
 | Model clauses – as above for Hibu.  
-NSC Programming Limited (“ **NSC** ”) | NSC provides services in connection with our legacy data systems. | UK | N/A – processing is taking place within the EEA.  
-Experian Limited (“ **Experian** ”) | Experian provides data matching services, cleansing, analysis and market insight services. | UK | N/A – processing is taking place within the EEA.  
-Agility Works Limited (“ **Agility** ”) | Agility Works provides data matching services, cleansing, analysis and market insight services. | UK | N/A – processing is taking place within the EEA.  
-SAP (UK) Limited (“ **SAP** ”) | SAP hosts our data. | UK | N/A – processing is taking place within the EEA.  
-Rackspace International GmbH (“ **Rackspace** ”) | Rackspace hosts our data. | UK | N/A – processing is taking place within the EEA.  
-3D MarComms Limited (“ **3DMC** ”) | 3DMC provides services in connection with the application and recruitment process of individuals, which require us to share your personal data with them, including personal and contact details, recruitment details, contractual and administrative and technical information as well as sensitive personal data. | UK  | N/A – processing is taking place within the EEA.   
-Bytemark Limited (“ **Bytemark** ”) | Provides support to 3DMC which includes storage of personal and sensitive data, first line technical support, and backing up of the data. | UK | N/A – processing is taking place within the EEA.  
-RapidSwitch | Provides support to 3DMC which includes storage of personal and sensitive data first line technical support, and backing up of the data. | UK | N/A – processing is taking place within the EEA.  
-Sendgrid | Provides support to 3DMC which includes storage of personal and sensitive data. | UK | N/A – processing is taking place within the EEA.  
-Wildbit (Postmark) | Provides support to 3DMC which includes storage of personal and sensitive data. | USA | EU-US Privacy Shield Framework  
-Filestack Inc. | Provides support to 3DMC which includes storage of personal and sensitive data, and backing up of the data. | USA | EU-US Privacy Shield Framework  
-**_Other organisations we may share your personal data with_**  
-Experian Limited | Data provided to incorporate into Experian database for marketing and analytic services by Experian and their data customers. | UK | N/A – processing is taking place within the EEA.  
-IDG, part of IDS Data Services Ltd | Data provided to incorporate into IDG database for marketing and analytic services by IDG and their data customers. | UK | N/A – processing is taking place within the EEA.  
-Pelucid Ltd t/a GrowthIntel | Data provided to incorporate into Pelucid Ltd t/a GrowthIntel database for marketing and analytic services by Pelucid Ltd t/a GrowthIntel and their data customers. | UK | N/A – processing is taking place within the EEA.  
   
 ## 7\. How long we keep your personal data for
 
 We retain your personal data for no longer than is necessary for the purpose(s) for which it was provided. What this means in practice will vary between different types of data. When determining the relevant retention periods, we take into account factors including:
 
-  6.     7.       * legal obligation(s) under applicable law to retain data for a certain period of time;
-      * statute of limitations under applicable law;
-      * potential or actual disputes; and
-      * guidelines issued by relevant data protection authorities.
+  * legal obligation(s) under applicable law to retain data for a certain period of time;
+  * statute of limitations under applicable law;
+  * potential or actual disputes; and
+  * guidelines issued by relevant data protection authorities.
 
 
 
@@ -374,6 +274,6 @@ Our website contains hyperlinks to websites owned and operated by third parties.
 
 ## 11\. Changes to this Privacy Policy
 
-This Privacy Policy was last updated on 13 February 2018.
+This Privacy Policy was last updated on 18 July 2018.
 
 This Privacy Policy may be updated from time to time so you may wish to check it each time you provide personal data to us. We won’t alert you to minor changes, but if there are any major changes we will let you know and where appropriate ask for your consent.
