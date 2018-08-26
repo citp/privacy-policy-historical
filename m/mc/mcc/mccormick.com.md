@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901151021id_/https%3A//www.mccormick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826050114id_/https%3A//www.mccormick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | McCormick
 
@@ -81,4 +81,4 @@ For questions or comments regarding the McCormickCorporation.com website, please
 McCormick & Company, Inc.  
 18 Loveton Circle  
 Sparks, MD 21152  
-**or send us an [email](mailto:notices@mccormick.com). 
+**or use our [Contact form](https://web.archive.org/contact). 
