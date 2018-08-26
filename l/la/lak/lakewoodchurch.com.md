@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the lakewoodchurch.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410101859id_/http%3A//www.lakewoodchurch.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakewoodchurch.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826144918id_/https%3A//www.lakewoodchurch.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Website Privacy Policy**
 
-Last modified: September 23, 2014
+Last modified: July 13, 2017
 
 **Introduction**
 
-At Lakewood Church and Joel Osteen Ministries (the “Church or “Ministry”), we respect your privacy and are committed to protecting it through our compliance with this policy.
+At Lakewood Church, Joel Osteen Ministries and Joel Osteen Ministries, Canada (the “Church” or “Ministry”), we respect your privacy and are committed to protecting it through our compliance with this policy. In this privacy policy, the words “we”, “our” and “us” mean and refer to Lakewood Church, Joel Osteen Ministries, Joel Osteen Ministries, Canada, and Joel Osteen Ministries, Australia.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit any of our family of websites, including: [www.lakewoodchurch.com](http://www.lakewoodchurch.com/); [www.joelosteen.com](http://www.joelosteen.com/); [www.victoriaosteen.com](http://www.victoriaosteen.com/); [www.lisacomes.com](http://www.lisacomes.com/); [www.paulosteen.com](http://www.paulosteen.com/); or [www.iglesialakewood.com](http://www.iglesialakewood.com/) (collectively our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit any of our family of websites, including, [www.lakewoodchurch.com](https://web.archive.org/); [www.joelosteen.com](http://www.joelosteen.com/?sessionGUID=8e8150de-2446-7242-6463-c771c5333708&webSyncID=56ab4965-0a0c-5404-e062-5c3ea8842813&sessionGUID=8e8150de-2446-7242-6463-c771c5333708); [www.joelosteen.ca](http://www.joelosteen.ca/); [www.victoriaosteen.com](http://www.victoriaosteen.com/); [www.lisacomes.com](http://www.lisacomes.com/); [www.paulosteen.com](http://www.paulosteen.com/); [www.iglesialakewood.com](http://www.iglesialakewood.com/?sessionGUID=8e8150de-2446-7242-6463-c771c5333708&webSyncID=56ab4965-0a0c-5404-e062-5c3ea8842813&sessionGUID=8e8150de-2446-7242-6463-c771c5333708); [GenerationHopeProject.com](http://generationhopeproject.com/); [www.joelosteen.com.au](http://www.joelosteen.com.au/) and any other website owned or operated by us, (collectively our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-This policy applies to information we collect:
+This policy also applies to information we collect:
 
-  * On the Website, or any of our other affiliated websites.
-  * In e-mail, text and other electronic messages between you and this Ministry.
-  * Through our mobile applications (the “Application”).
-  * When you interact with our advertising and applications on third-party websites and services.
-  * Offline or through any other means, including on any other website we operate, telephone, mail, and including our affiliates and subsidiaries, or any third party.
+  * when you contact us by mail, telephone, e-mail, text or other electronic means.
+  * through our mobile applications (the “Application”).
+  * when you interact with our advertising and applications on third-party websites and services.
+  * when you support us through donations.
+  * when you otherwise access our products, programs and services or communicate with us.
 
 
 
@@ -27,19 +27,20 @@ Please read this policy carefully to understand our policies and practices regar
 This policy addresses the following:
 
   * Are Children Allowed to Use our Site?
-  * What Information Do We Collect About You and How Do We Collect It?
-  * What Information Do You Provide to Us?
+  * What Information Do We Collect About You through our Website and How Do We Collect It?
+  * What Information Do You Provide to Us through our Website?
   * What Information Do We Collect Through Automatic Data Collection Technologies?
   * Third-party Use of Cookies and Other Tracking Technologies
+  * What information do We Collect Offline?
   * How Do We Use Your Information?
-  * Disclosure of Your Information
+  * Disclosure of Your Information/Use of Service Providers
+  * International Ministry
   * What Choices Do You Have About How We Use and Disclose Your Information?
   * How Do You Access and Correct Your Information?
   * Data Security
   * Changes to Our Privacy Policy
-  * International Users
   * Additional Information for Mobile Users
-  * Contact Information
+  * Inquiries and Complaints
 
 
 
@@ -47,9 +48,9 @@ This policy addresses the following:
 
 If you are under 18, you may use the Website and Application only with the involvement of a parent or guardian.
 
-Our Website and Application are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website or Application. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or register, make any purchases, or use any of the interactive or public comment features on this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [customerservice@lakewoodchurch.com](mailto:customerservice@lakewoodchurch.com)
+Our Website and Application are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website or Application. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or register, make any purchases, or use any of the interactive or public comment features on this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8a8aab1aeb9bba198b4b9b3bdafb7b7bcbbb0adaabbb0f6bbb7b5) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a6a68736c7b7963797b747b7e7b5a70757f7675696e7f7f743479757734)
 
-**What Information Do We Collect About You and How Do We Collect It?**
+**What Information Do We Collect About You through our Website and How Do We Collect It?**
 
 We collect several types of information from and about users of our Website and Application, including information:
 
@@ -64,11 +65,11 @@ We collect this information:
 
   * Directly from you when you provide it to us.
   * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
-  * From ministry affiliates and third parties.
+  * From ministry affiliates and third parties service provides.
 
 
 
-**What Information Do You Provide to Us?**
+What Information Do You Provide to Us through our Website?
 
 The information we collect on or through our Website and Application may include:
 
@@ -77,11 +78,11 @@ The information we collect on or through our Website and Application may include
   * Your responses to surveys that we might ask you to complete for research purposes.
   * Details of transactions you carry out through our Website or Application and of the fulfillment of your orders. You may be required to provide financial information before placing an order on our Website.
   * Your search queries on the Website or Application.
-  * Information you provide to be posted on public areas of the Website or Application, or transmitted to other users of the Website or Application (collectively “ **User Contributions** ”). Your User Contributions are posted at your own risk.
+  * Information you provide to be posted on public areas of the Website or Application, or transmitted to other users of the Website or Application (collectively “User Contributions”). Your User Contributions are posted at your own risk.
 
 
 
-**What Information Do We Collect Through Automatic Data Collection Technologies?**
+What Information Do We Collect Through Automatic Data Collection Technologies?
 
 As you navigate through and interact with our Website or Application, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
@@ -91,7 +92,9 @@ As you navigate through and interact with our Website or Application, we may use
 
 
 
-We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). We current do not respond to Do Not Track signals. 
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking), including but not limited to Google Analytics. Such technologies utilize unique analytic advertising features and implements cookie data collection which is then transferred to third parties. All information as collected and shared by Google Analytics regarding your visits to this Site is governed by Google’s Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this Site by disabling cookies on your browser.
+
+We currently do not respond to Do Not Track signals.
 
 The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and Application and to deliver a better and more personalized service, including by enabling us to:
 
@@ -106,9 +109,9 @@ Occasionally a user's behavior within our family of websites will trigger an aut
 
 The technologies we use for this automatic data collection may include:
 
-  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
-  * **Web Beacons.** Pages of our Website and our e-mails may contain small electronic files known as web beacons that permit us, for example, to count users who have visited those pages, opened an e-mail, and for other related website statistics like recording the popularity of certain website content and verifying system and server integrity. 
+  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  * Web Beacons. Pages of our Website and our e-mails may contain small electronic files known as web beacons that permit us, for example, to count users who have visited those pages, opened an e-mail, and for other related website statistics like recording the popularity of certain website content and verifying system and server integrity.
 
 
 
@@ -118,19 +121,31 @@ We do not collect personal Information automatically, but we may tie this inform
 
 Some content or applications on the Website may be served by third-parties, including ministry affiliates, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based or other targeted content.
 
-We do not control these third parties' tracking technologies or how they may be used. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (" **NAI** ") on the NAI's website.
+We do not control these third parties' tracking technologies or how they may be used. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
+
+**What Information Do We Collect Offline?**
+
+When you contact us by mail, telephone, or other means to support us through donations, access our products, programs or services, or otherwise communicate with us, we collect:
+
+  * information by which you may be contacted, including mailing address, email address and telephone number;
+  * financial information provided in connection with your donations and purchases; and
+  * details of your donations and purchase transactions and other records of your involvement with us.
+
+
 
 **How Do We Use Your Information?**
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
-  * To contact you via mail, telephone, email or text message.
-  * To present our Website and its contents to you.
-  * To provide you with information, products or services that you request from us and notices about your account,
-  * To fulfill any other purpose for which you provide it, in any other way we may describe when you provide it, and for any other purposes with your consent.
-  * To notify you about changes to our Website or any products or services we offer or provide though it.
-  * To allow you to participate in interactive features on our Website, and other ministry email and mail outreach.
-  * We may also use your information to contact you about our own and third-parties' ministry related goods and services that may be of interest to you.
+  * to carry forward and manage our Ministry activities;
+  * to contact you by mail, telephone, email, text or other available communication channels for the purpose of processing, facilitating or confirming your donations and purchases, to inform you about our mission, our activities, products and services and provide you with further opportunities to support and partner with us;
+  * to present our Website and its contents to you;
+  * to provide you with information, products or services that you request from us and notices about your account;
+  * to fulfill any other purpose for which you provide it, in any other way we may describe when you provide it, and for any other purposes with your consent;
+  * to notify you about changes to our Website or any products or services we offer or provide though it;
+  * to allow you to participate in interactive features on our Website, and other ministry email and mail outreach;
+  * we may also use your information to contact you about third-parties' ministry related goods and services that may be of interest to you.
+  * meeting any legal or regulatory requirements;
 
 
 
@@ -138,17 +153,30 @@ We use information that we collect about you or that you provide to us, includin
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
+As a general rule, all information about our supporters and others who access our programs, products and services is held by us in strict confidence and, except in limited circumstances, is not revealed to anyone else unless expressly or implicitly authorized by such individuals.
+
+Each of the Joel Osteen Ministry affiliates (including Joel Osteen Ministries, Canada, and Joel Osteen Ministries, Australia) offers its programs, products and services in affiliation with Joel Osteen Ministries and Lakewood Church. Many of the affiliates’ administrative functions and certain other services are performed on their behalf by Joel Osteen Ministries and Lakewood Church and accordingly personal information collected by such affiliates will be disclosed and transferred to Joel Osteen Ministries and Lakewood Church in the United States for these purposes.
+
+Notice Regarding Location of Records and Service Providers:
+
+Electronic records for Joel Osteen Ministries, and Joel Osteen Ministries, Canada and their international affiliates, are maintained in the United States by Lakewood Church. Lakewood Church uses suppliers and service providers in the United States to perform services on its behalf. If you have questions about the collection, use, disclosure or storage of personal information by service providers please contact our Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2b2b0abb4a3a1bb82aea3a9a7b5adada6a1aab7b0a1aaeca1adaf) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e6e6c77687f7d677d7f707f7a7f5e74717b72716d6a7b7b70307d717330)
+
 We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-  * To our subsidiaries and affiliates.
-  * To contractors, service providers and other third parties we use to support our ministry.
-  * To fulfill the purpose for which you provide it.
-  * For any other purpose with your consent or disclosed by us when you provide the information.
-  * To comply with any court order, law or legal process, including responding to any government or regulatory request.
-  * To enforce or apply our [terms of use](https://web.archive.org/Pages/Terms-Of-Use.aspx).
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Lakewood Church, Joel Osteen Ministries, our customers or others.
+  * to our subsidiaries and affiliates as described below,
+  * to contractors, service providers and other third parties we use to support our ministry.
+  * to fulfill the purpose for which you provide it,
+  * for any other purpose with your consent or disclosed by us when you provide the information,
+  * to comply with any court order, law or legal process, including responding to any government or regulatory request,
+  * to enforce or apply our [terms of use](https://web.archive.org/Pages/terms-of-use.aspx), as permitted by law,
+  * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Lakewood Church, Joel Osteen Ministries, our customers or others, as permitted by law;
+  * as otherwise permitted by law.
 
 
+
+**International Ministry**
+
+We offer our programs and services in a common mission with our international affiliates within the Joel Osteen Ministries group, including Joel Osteen Ministries, Canada and Joel Osteen Ministries, Australia. Personal information of users of our Website outside of Canada and the United States may, unless you request otherwise, be shared with our international affiliates if their activities are more closely matched to your needs and requirements.
 
 **What Choices Do You Have About How We Use and Disclose Your Information?**
 
@@ -156,13 +184,14 @@ You do have choices about how we use and disclose your information. If you do no
 
   * You can choose not to provide your information, even though it might be needed to make a donation, purchase or transaction, or to take advantage of some of our Website’s features.
   * You may opt-out of all information collecting by the Application by easily uninstalling the Application.
-  * If you do not want to receive e-mail from us you can: 
-      * Click the “unsubscribe” or “take me off your mailing list” link at the bottom of any of our emails. This will remove you from the list that caused you to receive the email. However, you will continue to receive emails from other lists you may be subscribed to and emails based on transactions or other interactions that warrant an email to be sent;
-      * Sign in to your account and update your email subscriptions by navigating to the “Update Profile” page and selecting the “Email Subscriptions“ section on the Website; or
-      * Call Customer Service at 1-800-278-0520 and request to be removed from our email lists.
-  * If you do not want to receive mail from us, you can: 
-      * Sign in to your account and update your mail preferences by navigating to the “Update Profile” page and selecting the “Account Information“ section on the Website; or
-      * Call Customer Service at 1-800-278-0520 and request to be removed from our mailing list.
+  * If you do not want to receive e-mail or other electronic communication from us you can: 
+    * Click the “unsubscribe” or “take me off your mailing list” link at the bottom of any of our emails.
+    * Sign in to your account and update your email subscriptions by navigating to the “My Account” page and selecting the “Email Subscriptions“ section on the Website; or
+    * Call Customer Service at 1-800-278-0520 and request to be removed from our email lists.
+  * If you do not want to receive mail and telephone contact from us, you can: 
+    * Sign in to your account and update your mail preferences by navigating to the “My Account” page and selecting the “Account Information“ section on the Website; or
+    * Call Customer Service at 1-800-278-0520 and request to be removed from our mailing list.
+    * Email our Privacy Officer at  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e191938897808298a18d808a84968e8e85828994938289cf828e8c) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7c0c0e150a1d1f051f1d121d181d3c16131910130f08191912521f131152)
 
 
 
@@ -171,23 +200,25 @@ You do have choices about how we use and disclose your information. If you do no
 If you would like to review and change your personal information, you may do so by:
 
   * Signing in to your account and update your information by navigating to the “Update Profile” page and selecting the “Account Information” section on the Website; or
-  * Sending us an email at [customerservice@lakewoodchurch.com](mailto:customerservice@lakewoodchurch.com)
+  * Sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#84f4f6edf2e5e7fdc4e8e5efe1f3ebebe0e7ecf1f6e7ecaae7ebe9) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0d0f140b1c1e041e1c131c191c3d17121811120e09181813531e121053)
 
 
 
-To close your account, please make your request by emailing us at [customerservice@lakewoodchurch.com](mailto:customerservice@lakewoodchurch.com). 
+To close your account, please make your request by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2f2d36293e3c261f333e343a2830303b3c372a2d3c37713c3032) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e0e0c17081f1d071d1f101f1a1f3e14111b12110d0a1b1b10501d111350)
 
 Please note: we cannot delete your personal information except by also deleting your user account. We may not accommodate a request to delete or change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-In addition, if you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](https://web.archive.org/Pages/TermsOfUse.aspx)
+In addition, if you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](https://web.archive.org/Pages/terms-of-use.aspx).
+
+For any other requests to access or review your information, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bacac8d3ccdbd9c3fad6dbd1dfcdd5d5ded9d2cfc8d9d294d9d5d7) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8b8baa1bea9abb1aba9a6a9aca988a2a7ada4a7bbbcadada6e6aba7a5e6)
 
 **Data Security**
 
-We have implemented measures to help secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted during transition.
+We have implemented measures to help secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored either on our secure servers behind firewalls or cloud storage provided by a third party hosting company. Any payment transactions will be encrypted during transition.
 
 The safety and security of your information also depends on you. Where we have given or you have chosen a password for access to certain parts of our Website or Application, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. And, we urge you to be careful about giving out information in public areas of the Website like Pray Together, comments sections or message boards. The information you share in public areas may be viewed by any user of the Website.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website or Application. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website or Application. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
 **Changes to Our Privacy Policy**
 
@@ -195,16 +226,20 @@ This policy may change from time to time. Your continued use of this Website and
 
 If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the e-mail address specified in your account and/or through a notice on the Website or Application home page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-**International Users**
-
-In addition to that listed above, your personal information may be shared and used interchangeably between our international affiliates, including Joel Osteen Ministries, Canada, Joel Osteen Ministries, UK, Joel Osteen Ministries, Australia, and Lakewood Church and Joel Osteen Ministries in the United States.
-
 **Additional Information for Mobile Users**
 
 Our Application does not pull contact information, friends’ lists, contacts’ lists or check-ins.
 
-Our Application does collect precise information about the location of your mobile device if you allow the Application to gather such information. We use your location information to provide requested location services, to connect you to local broadcast listings and/or to help you find a local church in your area. If you choose not to allow the Application to gather such information, you have the option, to manually enter a zip code.
+Our Application does collect precise information about the location of your mobile device if you allow the Application to gather such information. We use your location information to provide requested location services, to connect you to local broadcast listings and/or to help you find a local church in your area. If you choose not to allow the Application to gather such information, you have the option to manually enter a zip code.
 
-**Contact Information**
+**Inquiries and Complaints**
 
-To ask questions or comment about this privacy policy and our privacy practices, contact our Customer Service Manager at [customerservice@lakewoodchurch.com](mailto:customerservice@lakewoodchurch.com).
+To ask questions or comment about this privacy policy and our privacy practices, contact our Customer Service Manager at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9c9cbd0cfd8dac0f9d5d8d2dcced6d6dddad1cccbdad197dad6d4) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9eeeecf7e8fffde7fdfff0fffaffdef4f1fbf2f1edeafbfbf0b0fdf1f3b0)
+
+Our Privacy Officer is accountable for the privacy practices of Lakewood Church, Joel Osteen Ministries, Joel Osteen Ministries, Canada and our affiliates in our global ministry. If you have a complaint about our collection, use, management or disclosure of personal information, please contact our Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d3d3f243b2c2e340d212c26283a2222292e25383f2e25632e2220) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d3d3f243b2c2e342e2c232c292c0d27222821223e39282823632e2220) or by mail at: 
+
+Privacy Officer  
+Joel Osteen Ministries  
+3700 Southwest Freeway  
+Houston, Texas  
+77027 USA
