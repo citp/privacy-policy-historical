@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdwon9.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324233608id_/http%3A//hdwon9.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwon9.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826214420id_/http%3A//9xrockersa.xyz/privacy.php) for the most accurate reproduction.*
 
-# Privacy & Policy - HDWon.Cam
+# Privacy & Policy - HDWon.Com
 
 ## 
 
