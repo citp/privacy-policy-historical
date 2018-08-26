@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the toysrus.co.uk privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413092124id_/https%3A//www.toysrus.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.co.uk privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826062252id_/https%3A//www.toysrus.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Toys R Us – Toys R Us (UK)
+
+**For the Joint Administrators'  Privacy Policy please refer directly to their website: <https://www.moorfieldscr.com/privacy-policy/>**
 
 At Toys R Us we are committed to protecting your privacy and we comply with the data protection laws applicable to the UK. This Privacy Policy outlines how your personal information is treated and forms part of our Terms and Conditions. (We may occasionally modify our Privacy Policy; when this happens we will notify you via our terms and conditions page.)
 
