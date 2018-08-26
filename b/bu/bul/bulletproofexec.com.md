@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the bulletproofexec.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324220515id_/https%3A//www.bulletproof.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletproofexec.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826092606id_/https%3A//www.bulletproof.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Privacy Policy
 
-Last updated: October 17, 2016
+Last updated: June 13, 2018
 
-Bulletproof 360, Inc. (“Bulletproof” “we”, “us” or “our”), values your privacy. In this Privacy Policy (“Policy”), we describe the information that we collect from and about you on our websites, including Bulletproof.com, Bulletprooflabs.com, blog.bulletproof.com, betterbabybook.com, and our other sites on which we post this Policy (collectively, the “Website”). By visiting the Website, you agree that your personal information will be handled as described in this Policy. Your use of our Website, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://web.archive.org/terms-conditions), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Service](https://web.archive.org/terms-conditions), are incorporated by reference into this Policy.
+Bulletproof 360, Inc. (“Bulletproof” “we”, “us” or “our”), values your privacy. In this Privacy Policy (“Policy”), we describe the information that we collect from and about you on our websites, including Bulletproof.com, blog.bulletproof.com, bulletprooftraininginstitute.com, and our other sites on which we post this Policy (collectively, the “Website”). By visiting the Website, you agree that your personal information will be handled as described in this Policy. Your use of our Website, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://web.archive.org/terms-conditions), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Service](https://web.archive.org/terms-conditions), are incorporated by reference into this Policy.
+
+GDPR Privacy Notice
+
+We have issued our new GDPR Privacy Notice relating to personal data that is subject to the European Union’s General Data Protection Regulation. You can read it [here](https://web.archive.org/privacy-policy-gdpr)
 
 Collection of Information
 
