@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the evite.com privacy policy that was archived on 2018-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180622080750id_/https%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evite.com privacy policy that was archived on 2018-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180826114831id_/https%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><head>
     <meta charset="utf-8">
@@ -13,7 +13,6 @@
     
 
     <title>Evite Privacy Policy</title>
-
     
 
 
@@ -111,7 +110,7 @@
     var evite = function(b,c){function d(a){return function(){this.command.push({name:a,params:c.apply(arguments)});return this}}function a(a){return function(){var b=new e;this.command.push({name:a,params:c.apply(arguments),promiseCommand:b.command});return b}}var e=function(){this.command=[]};b(e.prototype,{then:d("then"),"catch":d("catch")});return b({},{command:[],when:a("when"),resolve:a("resolve"),reject:a("reject"),lazyLoadImage:a("lazyLoadImage"),jwPlayerWrapper:a("jwPlayerWrapper"),experiments:{},exports:{}})}(Object.assign,Array.prototype.slice);
 
     
-        evite.features = {"FEED_AMERICA|MOBILE":false,"SHUTTERFLY|MOBILE":false,"JW_SHOWCASE|":false,"FEED_AMERICA|DESKTOP":false,"HOST_WHATS_NEXT|UBER":true,"PLEDGELING_BDAY_HERO|":false,"ADD-TO-CALENDAR|ANDROID":false,"CREATE_SMS|MOBILE":false,"SHUTTERFLY|":false,"DRAFTJS|ANDROID":false,"APP_DOWNLOAD_PROMO|MOBILE":true,"PLEDGELING_MAKE_A_WISH|":false,"ADD_GUESTS_DESKTOP_SMS_PROMOTION|DESKTOP":false,"HOST_WHATS_NEXT|OVERSTOCK_SWEEPSTAKES":false};
+        evite.features = {"FEED_AMERICA|MOBILE":false,"SHUTTERFLY|MOBILE":false,"JW_SHOWCASE|":false,"FEED_AMERICA|DESKTOP":false,"HOST_WHATS_NEXT|UBER":true,"PLEDGELING_BDAY_HERO|":false,"ADD-TO-CALENDAR|ANDROID":false,"CREATE_SMS|MOBILE":false,"SHUTTERFLY|":false,"DRAFTJS|ANDROID":false,"APP_DOWNLOAD_PROMO|MOBILE":true,"PLEDGELING_MAKE_A_WISH|":false,"ADD_GUESTS_DESKTOP_SMS_PROMOTION|DESKTOP":false,"HOST_WHATS_NEXT|OVERSTOCK_SWEEPSTAKES":"https://ideas.evite.com/2018/07/evite-overstock-love-where-you-lounge-sweepstakes-official-rules/"};
     
 
     evite.constants = {};
@@ -155,7 +154,7 @@
     <script>
     window.dataLayer = [{'is_logged_in': 0 }];
     window.track_event = window.track_event || {};
-    window.client_data = JSON.parse("{\u0022version_id\u0022:\u0022v126\u0022,\u0022cj_aid\u0022:null,\u0022geo_city\u0022:\u0022independence\u0022,\u0022user_locationLatitude\u0022:37.224236,\u0022zone\u0022:\u0022general\u0022,\u0022geo_country\u0022:\u0022US\u0022,\u0022appengineProject\u0022:\u0022evite\u002Dservices\u002Dprod\u0022,\u0022cj_sid\u0022:null,\u0022session_id\u0022:\u0022dcf7dc0b3ab231cf\u0022,\u0022page_siteLayout\u0022:\u0022Desktop\u0022,\u0022view_name\u0022:null,\u0022geo_location\u0022:\u002237.224236,\u002D95.708313\u0022,\u0022can_target\u0022:true,\u0022is_logged_in\u0022:0,\u0022user_locationLongitude\u0022:\u002D95.708313,\u0022geo_region\u0022:\u0022ks\u0022,\u0022frp_count\u0022:1,\u0022cj_pid\u0022:null}");
+    window.client_data = JSON.parse("{\u0022version_id\u0022:\u0022v133\u002D2\u0022,\u0022cj_aid\u0022:null,\u0022geo_city\u0022:\u0022independence\u0022,\u0022user_locationLatitude\u0022:37.224235999999998,\u0022zone\u0022:\u0022general\u0022,\u0022geo_country\u0022:\u0022US\u0022,\u0022appengineProject\u0022:\u0022evite\u002Dservices\u002Dprod\u0022,\u0022cj_sid\u0022:null,\u0022session_id\u0022:\u00223af714c7f1b79f53\u0022,\u0022page_siteLayout\u0022:\u0022Desktop\u0022,\u0022view_name\u0022:null,\u0022geo_location\u0022:\u002237.224236,\u002D95.708313\u0022,\u0022can_target\u0022:true,\u0022is_logged_in\u0022:0,\u0022user_locationLongitude\u0022:\u002D95.708313000000004,\u0022geo_region\u0022:\u0022ks\u0022,\u0022frp_count\u0022:1,\u0022cj_pid\u0022:null}");
     window.mpulse_abtest = true;
     window.page_ads = {};
     </script>
@@ -164,20 +163,8 @@
 // disable segment checking
 client_data.segments_checked = new Date().getTime();
 
-window.RAVEN_ALL_DSN =
-  'https://6a1dcddec43d4f68b0a620417a56a929@sentry.evite.com/5';
-window.RAVEN_PROD_DSN =
-  'https://e6a516518dd445ac9a6d577d0f8f3deb@sentry.evite.com/4';
-window.evite_configure_raven = function(raven) {
-  Raven.config(window.RAVEN_ALL_DSN, {
-    release:
-      (window.client_data && window.client_data.version_id) || 'javascript',
-    ignoreErrors: [/^Can't execute code from a freed script$/],
-  }).install();
+evite.when('evite').then(function(evite) {
   Raven.setDataCallback(function(data) {
-    data.culprit && data.culprit.indexOf('g0.evitecdn.com') > -1
-      ? Raven.setDSN(window.RAVEN_PROD_DSN)
-      : Raven.setDSN(window.RAVEN_ALL_DSN);
     if (evite && evite.dfp && evite.dfp.renderedSlots) {
       data.tags = data.tags || {};
       for (var i = 0; i < evite.dfp.renderedSlots.length; i++) {
@@ -199,11 +186,19 @@ window.evite_configure_raven = function(raven) {
   Raven.setShouldSendCallback(function(c) {
     if (c.tags && c.tags.pagegroup && c.tags.pagegroup.indexOf('create') > -1)
       return true;
-    return Raven._dsn === window.RAVEN_ALL_DSN
-      ? Math.random() > 0.0001
-      : Math.random() > 0.5;
+    if (c.culprit) return false;
+    try {
+      return (
+        c.culprit.indexOf('g0.evitecdn.com') > -1 ||
+        c.culprit.indexOf('www.evite.com') > -1 ||
+        c.culprit.indexOf('evitelabs.com') > -1
+      );
+    } catch (e) {
+      evite.warn('culprit not found');
+      return false;
+    }
   });
-};
+});
 evite.when('dfp').then(function(dfp) {
   googletag.cmd.push(function() {
     googletag.pubads().addEventListener('slotRenderEnded', function(event) {
@@ -218,12 +213,6 @@ evite.when('dfp').then(function(dfp) {
         });
     });
   });
-});
-
-window.addEventListener('beforeunload', function(e) {
-  if(e.isTrusted === false) {
-    Raven.captureMessage('Untrusted navigation');
-  }
 });
 </script>
 <script>
@@ -249,10 +238,10 @@ else if (document.attachEvent) {
 </script>
 
     
-    <link rel="stylesheet" type="text/css" href="https://g0.evitecdn.com/static/_build/css/app.a71c9c773e9a.css">
+    <link rel="stylesheet" type="text/css" href="https://g0.evitecdn.com/static/_build/css/app.5496e8b04dea.css">
 
     
-    <link rel="stylesheet" type="text/css" href="//g0.evitecdn.com/static/_build/css/layouts/content/content.560f4ac6a53d.css">
+    <link rel="stylesheet" type="text/css" href="//g0.evitecdn.com/static/_build/css/layouts/content/content.150c6f0090be.css">
 
 
     <script>window.googletag = window.googletag || {cmd: []};</script>
@@ -379,12 +368,12 @@ else if (document.attachEvent) {
                                         
                                             <li class="">
                                                 
-                                                <a href="/gallery/category/bbq/?source_meganav">BBQ</a>
+                                                <a href="/gallery/category/graduation/?source_meganav">Graduation</a>
                                             </li>
                                         
                                             <li class="">
                                                 
-                                                <a href="/gallery/category/july_fourth/?source_meganav">4th of July</a>
+                                                <a href="/gallery/category/bbq/?source_meganav">BBQ</a>
                                             </li>
                                         
                                             <li class="">
@@ -394,22 +383,17 @@ else if (document.attachEvent) {
                                         
                                             <li class="">
                                                 
+                                                <a href="/gallery/category/labor_day/?source_meganav">Labor Day</a>
+                                            </li>
+                                        
+                                            <li class="hidden">
+                                                
                                                 <a href="/gallery/category/beach_party/?source_meganav">Beach Party</a>
                                             </li>
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/graduation/?source_meganav">Graduation</a>
-                                            </li>
-                                        
-                                            <li class="hidden">
-                                                
                                                 <a href="/gallery/category/outdoor_fun/?source_meganav">Outdoor Fun</a>
-                                            </li>
-                                        
-                                            <li class="hidden">
-                                                
-                                                <a href="/gallery/category/labor_day/?source_meganav">Labor Day</a>
                                             </li>
                                         
                                             <li class="hidden">
@@ -465,6 +449,11 @@ else if (document.attachEvent) {
                                             <li class="hidden">
                                                 
                                                 <a href="/gallery/category/fathers_day/?source_meganav">Father's Day</a>
+                                            </li>
+                                        
+                                            <li class="hidden">
+                                                
+                                                <a href="/gallery/category/july_fourth/?source_meganav">4th of July</a>
                                             </li>
                                         
                                         
@@ -554,17 +543,17 @@ else if (document.attachEvent) {
                                         
                                             <li class="">
                                                 
-                                                <a href="/gallery/category/graduation/?source_meganav">Graduation</a>
-                                            </li>
-                                        
-                                            <li class="">
-                                                
                                                 <a href="/gallery/category/back_to_school/?source_meganav">Back to School</a>
                                             </li>
                                         
                                             <li class="">
                                                 
                                                 <a href="/gallery/category/oktoberfest/?source_meganav">Oktoberfest</a>
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                <a href="/gallery/category/rosh_hashanah/?source_meganav">Rosh Hashanah</a>
                                             </li>
                                         
                                             <li class="">
@@ -579,17 +568,17 @@ else if (document.attachEvent) {
                                         
                                             <li class="hidden">
                                                 
+                                                <a href="/gallery/category/graduation/?source_meganav">Graduation</a>
+                                            </li>
+                                        
+                                            <li class="hidden">
+                                                
                                                 <a href="/gallery/category/thanksgiving/?source_meganav">Thanksgiving</a>
                                             </li>
                                         
                                             <li class="hidden">
                                                 
                                                 <a href="/gallery/category/diwali/?source_meganav">Diwali</a>
-                                            </li>
-                                        
-                                            <li class="hidden">
-                                                
-                                                <a href="/gallery/category/rosh_hashanah/?source_meganav">Rosh Hashanah</a>
                                             </li>
                                         
                                             <li class="hidden">
@@ -647,14 +636,9 @@ else if (document.attachEvent) {
                                                 <a href="/gallery/category/lunarnewyear/?source_meganav">Lunar New Year</a>
                                             </li>
                                         
-                                            <li class="hidden">
-                                                
-                                                <a href="/gallery/category/winter_games/?source_meganav">Winter Games</a>
-                                            </li>
-                                        
                                         
                                             <li class="more-li">
-                                                <a href="#" class="mega-more">16 More</a>
+                                                <a href="#" class="mega-more">15 More</a>
                                             </li>
                                         
                                     </ul>
@@ -680,17 +664,12 @@ else if (document.attachEvent) {
                                         
                                             <li class="">
                                                 
+                                                <a href="/gallery/category/wine_tasting/?source_meganav">Wine Tasting</a>
+                                            </li>
+                                        
+                                            <li class="">
+                                                
                                                 <a href="/gallery/category/theme_party/?source_meganav">Theme Party</a>
-                                            </li>
-                                        
-                                            <li class="">
-                                                
-                                                <a href="/gallery/category/happy_hour/?source_meganav">Happy Hour</a>
-                                            </li>
-                                        
-                                            <li class="">
-                                                
-                                                <a href="/gallery/category/pet_party/?source_meganav">Pet Party</a>
                                             </li>
                                         
                                             <li class="">
@@ -698,9 +677,19 @@ else if (document.attachEvent) {
                                                 <a href="/gallery/category/trips_getaways/?source_meganav">Trips and Getaways</a>
                                             </li>
                                         
-                                            <li class="hidden">
+                                            <li class="">
                                                 
                                                 <a href="/gallery/category/reunions/?source_meganav">Reunions</a>
+                                            </li>
+                                        
+                                            <li class="hidden">
+                                                
+                                                <a href="/gallery/category/happy_hour/?source_meganav">Happy Hour</a>
+                                            </li>
+                                        
+                                            <li class="hidden">
+                                                
+                                                <a href="/gallery/category/pet_party/?source_meganav">Pet Party</a>
                                             </li>
                                         
                                             <li class="hidden">
@@ -755,11 +744,6 @@ else if (document.attachEvent) {
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/wine_tasting/?source_meganav">Wine Tasting</a>
-                                            </li>
-                                        
-                                            <li class="hidden">
-                                                
                                                 <a href="/gallery/category/brunch_lunch/?source_meganav">Brunch / Lunch</a>
                                             </li>
                                         
@@ -794,7 +778,7 @@ else if (document.attachEvent) {
                                         
                                             <li class="">
                                                 
-                                                <a href="/gallery/category/soccer/?source_meganav">Soccer</a>
+                                                <a href="/gallery/category/football/?source_meganav">Football</a>
                                             </li>
                                         
                                             <li class="">
@@ -809,12 +793,12 @@ else if (document.attachEvent) {
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/football/?source_meganav">Football</a>
+                                                <a href="/gallery/category/college_basketball/?source_meganav">Basketball</a>
                                             </li>
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/college_basketball/?source_meganav">Basketball</a>
+                                                <a href="/gallery/category/soccer/?source_meganav">Soccer</a>
                                             </li>
                                         
                                         
@@ -855,22 +839,17 @@ else if (document.attachEvent) {
                                         
                                             <li class="">
                                                 
-                                                <a href="/gallery/category/charity_fundraisers/?source_meganav">Charity / Fundraisers</a>
-                                            </li>
-                                        
-                                            <li class="">
-                                                
                                                 <a href="/gallery/category/greek_life/?source_meganav">Greek Life</a>
                                             </li>
                                         
-                                            <li class="hidden">
+                                            <li class="">
                                                 
                                                 <a href="/gallery/category/retirement_farewell/?source_meganav">Retirement / Farewell</a>
                                             </li>
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/book_club/?source_meganav">Book Club</a>
+                                                <a href="/gallery/category/charity_fundraisers/?source_meganav">Charity / Fundraisers</a>
                                             </li>
                                         
                                             <li class="hidden">
@@ -880,12 +859,17 @@ else if (document.attachEvent) {
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/activism/?source_meganav">Activism</a>
+                                                <a href="/gallery/category/meetings/?source_meganav">Meetings</a>
                                             </li>
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/meetings/?source_meganav">Meetings</a>
+                                                <a href="/gallery/category/book_club/?source_meganav">Book Club</a>
+                                            </li>
+                                        
+                                            <li class="hidden">
+                                                
+                                                <a href="/gallery/category/activism/?source_meganav">Activism</a>
                                             </li>
                                         
                                         
@@ -909,11 +893,6 @@ else if (document.attachEvent) {
                                         
                                             <li class="">
                                                 
-                                                <a href="/gallery/category/dia_de_las_madres/?source_meganav">Día de las Madres</a>
-                                            </li>
-                                        
-                                            <li class="">
-                                                
                                                 <a href="/gallery/category/cumpleanos/?source_meganav">Cumpleaños</a>
                                             </li>
                                         
@@ -925,6 +904,11 @@ else if (document.attachEvent) {
                                             <li class="">
                                                 
                                                 <a href="/gallery/category/celebraciones_religiosas/?source_meganav">Celebraciones Religiosas</a>
+                                            </li>
+                                        
+                                            <li class="">
+                                                
+                                                <a href="/gallery/category/dia_de_los_muertos/?source_meganav">Día de los Muertos</a>
                                             </li>
                                         
                                             <li class="hidden">
@@ -939,17 +923,17 @@ else if (document.attachEvent) {
                                         
                                             <li class="hidden">
                                                 
-                                                <a href="/gallery/category/dia_de_los_muertos/?source_meganav">Día de los Muertos</a>
-                                            </li>
-                                        
-                                            <li class="hidden">
-                                                
                                                 <a href="/gallery/category/navidad/?source_meganav">Navidad</a>
                                             </li>
                                         
                                             <li class="hidden">
                                                 
                                                 <a href="/gallery/category/pascua/?source_meganav">Pascua</a>
+                                            </li>
+                                        
+                                            <li class="hidden">
+                                                
+                                                <a href="/gallery/category/dia_de_las_madres/?source_meganav">Día de las Madres</a>
                                             </li>
                                         
                                         
@@ -1641,7 +1625,13 @@ else if (document.attachEvent) {
             </li>
             
             <li class="navigation-list-item">
-                <a id="mobile_apps" class="navigation-link" href="/mobileapps" title="Mobile Apps">Mobile Apps</a>
+                <a class="navigation-link" href="/premium-invitations" title="Premium">Premium</a>
+            </li>
+            <li class="navigation-list-item">
+                <a id="mobile_apps" class="navigation-link" href="/mobileapps" title="Apps">Apps</a>
+            </li>
+            <li class="navigation-list-item">
+                <a id="videos" class="navigation-link" href="/videos" title="videos">Videos</a>
             </li>
         </ul>
     </nav>
@@ -1706,7 +1696,7 @@ else if (document.attachEvent) {
                         <a href="/profile/edit">Profile</a>
                     </li>
                     <li>
-                        <a href="/profile/events">Events</a>
+                        <a href="/">Events</a>
                     </li>
                     <li>
                         <a href="/profile/contacts">Contacts</a>
@@ -1970,7 +1960,7 @@ Attn: Privacy Officer<br>
     </div>
     <div class="second-row">
         <ul class="links">
-            <li id="green-logo"><a href="/" class="footer-logo"></a></li>
+            <li id="green-logo"><a href="/" class="footer-logo" aria-label="evite home"></a></li>
             <li><a href="/c/advertising/">Advertising</a></li>
             <li><a href="/c/partners/">Partner with Evite</a></li>
             <li><a href="/c/press/">Press</a></li>
@@ -2117,6 +2107,10 @@ evite.when('jquery').then(function() {
             <a href="/apps/evite?ref=mobile_nav_sidebar_emoji" title="Mobile Apps" class="summary"><div class="spacing-wrap"><i class="icon-phone"></i>MOBILE APPS</div><i class="icon-arrow"></i></a>
         
     </div>
+    <div id="menu-link-only" class="category-list mobile-nav-header">
+        <a href="/premium-invitations" title="Premium" class="summary"><div class="spacing-wrap">PREMIUM</div><i class="icon-arrow"></i></a>
+    </div>
+
     
     <div aria-expanded="false" class="details mobile-nav-header" id="nav_planning">
         <div class="summary">PARTY PLANNING <i class="icon-arrow"></i></div>
@@ -2315,6 +2309,9 @@ evite.when('jquery').then(function() {
 
         </div>
     </div>
+     <div id="menu-link-only" class="category-list mobile-nav-header">
+        <a href="/videos" title="Videos" class="summary"><div class="spacing-wrap">VIDEOS</div><i class="icon-arrow"></i></a>
+    </div>
     
     <div aria-expanded="true" class="details mobile-nav-header" id="nav_invitations">
         <div class="summary">INVITATION CATEGORIES <i class="icon-arrow"></i></div>
@@ -2438,17 +2435,12 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li ">
                     
+                    <a href="/gallery/category/wine_tasting">Wine Tasting <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li ">
+                    
                     <a href="/gallery/category/theme_party">Theme Party <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li ">
-                    
-                    <a href="/gallery/category/happy_hour">Happy Hour <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li ">
-                    
-                    <a href="/gallery/category/pet_party">Pet Party <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li ">
@@ -2456,9 +2448,19 @@ evite.when('jquery').then(function() {
                     <a href="/gallery/category/trips_getaways">Trips and Getaways <i class="icon-arrow"></i></a>
                 </li>
             
-                <li class="category-menu-li hidden">
+                <li class="category-menu-li ">
                     
                     <a href="/gallery/category/reunions">Reunions <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li hidden">
+                    
+                    <a href="/gallery/category/happy_hour">Happy Hour <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li hidden">
+                    
+                    <a href="/gallery/category/pet_party">Pet Party <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
@@ -2513,11 +2515,6 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/wine_tasting">Wine Tasting <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li hidden">
-                    
                     <a href="/gallery/category/brunch_lunch">Brunch / Lunch <i class="icon-arrow"></i></a>
                 </li>
             
@@ -2544,22 +2541,17 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li ">
                     
-                    <a href="/gallery/category/charity_fundraisers">Charity / Fundraisers <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li ">
-                    
                     <a href="/gallery/category/greek_life">Greek Life <i class="icon-arrow"></i></a>
                 </li>
             
-                <li class="category-menu-li hidden">
+                <li class="category-menu-li ">
                     
                     <a href="/gallery/category/retirement_farewell">Retirement / Farewell <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/book_club">Book Club <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/charity_fundraisers">Charity / Fundraisers <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
@@ -2569,12 +2561,17 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/activism">Activism <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/meetings">Meetings <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/meetings">Meetings <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/book_club">Book Club <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li hidden">
+                    
+                    <a href="/gallery/category/activism">Activism <i class="icon-arrow"></i></a>
                 </li>
             
             
@@ -2653,12 +2650,12 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li ">
                     
-                    <a href="/gallery/category/bbq">BBQ <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/graduation">Graduation <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li ">
                     
-                    <a href="/gallery/category/july_fourth">4th of July <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/bbq">BBQ <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li ">
@@ -2668,22 +2665,17 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li ">
                     
+                    <a href="/gallery/category/labor_day">Labor Day <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li hidden">
+                    
                     <a href="/gallery/category/beach_party">Beach Party <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/graduation">Graduation <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li hidden">
-                    
                     <a href="/gallery/category/outdoor_fun">Outdoor Fun <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li hidden">
-                    
-                    <a href="/gallery/category/labor_day">Labor Day <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
@@ -2741,6 +2733,11 @@ evite.when('jquery').then(function() {
                     <a href="/gallery/category/fathers_day">Father's Day <i class="icon-arrow"></i></a>
                 </li>
             
+                <li class="category-menu-li hidden">
+                    
+                    <a href="/gallery/category/july_fourth">4th of July <i class="icon-arrow"></i></a>
+                </li>
+            
             
                 <li class="more-li">
                     <a href="#" class="mega-more">14 More</a>
@@ -2756,17 +2753,17 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li ">
                     
-                    <a href="/gallery/category/graduation">Graduation <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li ">
-                    
                     <a href="/gallery/category/back_to_school">Back to School <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li ">
                     
                     <a href="/gallery/category/oktoberfest">Oktoberfest <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li ">
+                    
+                    <a href="/gallery/category/rosh_hashanah">Rosh Hashanah <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li ">
@@ -2781,17 +2778,17 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li hidden">
                     
+                    <a href="/gallery/category/graduation">Graduation <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li hidden">
+                    
                     <a href="/gallery/category/thanksgiving">Thanksgiving <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
                     
                     <a href="/gallery/category/diwali">Diwali <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li hidden">
-                    
-                    <a href="/gallery/category/rosh_hashanah">Rosh Hashanah <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
@@ -2849,14 +2846,9 @@ evite.when('jquery').then(function() {
                     <a href="/gallery/category/lunarnewyear">Lunar New Year <i class="icon-arrow"></i></a>
                 </li>
             
-                <li class="category-menu-li hidden">
-                    
-                    <a href="/gallery/category/winter_games">Winter Games <i class="icon-arrow"></i></a>
-                </li>
-            
             
                 <li class="more-li">
-                    <a href="#" class="mega-more">16 More</a>
+                    <a href="#" class="mega-more">15 More</a>
                 </li>
             
         </ul>
@@ -2877,7 +2869,7 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li ">
                     
-                    <a href="/gallery/category/soccer">Soccer <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/football">Football <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li ">
@@ -2892,12 +2884,12 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/football">Football <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/college_basketball">Basketball <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/college_basketball">Basketball <i class="icon-arrow"></i></a>
+                    <a href="/gallery/category/soccer">Soccer <i class="icon-arrow"></i></a>
                 </li>
             
             
@@ -2915,11 +2907,6 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li ">
                     
-                    <a href="/gallery/category/dia_de_las_madres">Día de las Madres <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li ">
-                    
                     <a href="/gallery/category/cumpleanos">Cumpleaños <i class="icon-arrow"></i></a>
                 </li>
             
@@ -2931,6 +2918,11 @@ evite.when('jquery').then(function() {
                 <li class="category-menu-li ">
                     
                     <a href="/gallery/category/celebraciones_religiosas">Celebraciones Religiosas <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li ">
+                    
+                    <a href="/gallery/category/dia_de_los_muertos">Día de los Muertos <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
@@ -2945,17 +2937,17 @@ evite.when('jquery').then(function() {
             
                 <li class="category-menu-li hidden">
                     
-                    <a href="/gallery/category/dia_de_los_muertos">Día de los Muertos <i class="icon-arrow"></i></a>
-                </li>
-            
-                <li class="category-menu-li hidden">
-                    
                     <a href="/gallery/category/navidad">Navidad <i class="icon-arrow"></i></a>
                 </li>
             
                 <li class="category-menu-li hidden">
                     
                     <a href="/gallery/category/pascua">Pascua <i class="icon-arrow"></i></a>
+                </li>
+            
+                <li class="category-menu-li hidden">
+                    
+                    <a href="/gallery/category/dia_de_las_madres">Día de las Madres <i class="icon-arrow"></i></a>
                 </li>
             
             
@@ -3190,7 +3182,7 @@ evite.when('jquery').then(function() {
 
     
 
-    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/common_base.js-head.72599793bfdc.js"></script>
+    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/common_base.js-head.df4b77d5360c.js"></script>
     
 <script>
 if(window.evite_configure_raven) {
@@ -3220,13 +3212,13 @@ else {
         evite.resolve('block footer');
     </script>
 
-    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/site-libraries.863e1e28fb23.js"></script>
-    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/site-wide-setup.5727dc372964.js"></script>
+    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/site-libraries.c107bb3cc4c8.js"></script>
+    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/site-wide-setup.808c7e8e32ba.js"></script>
 
     
     
 
-    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/site-wide-global.1ff51db67854.js" async=""></script>
+    <script type="text/javascript" src="//g0.evitecdn.com/static/_build/webpack_bundles/site-wide-global.6f022f645ec0.js" async=""></script>
 
     <script type="text/javascript">
          $(document).ready(function() {
@@ -3237,7 +3229,7 @@ else {
     <div class="evite-modal-container ">
     <div class="modal-inner">
         <span data-modal-close="" class="icon icon-cancel"></span>
-        <div class="modal-content" id="evite_modal_content_id"></div>
+        <div role="dialog" class="modal-content" id="evite_modal_content_id"></div>
         <div class="insideLoader"></div>
     </div>
 </div>
