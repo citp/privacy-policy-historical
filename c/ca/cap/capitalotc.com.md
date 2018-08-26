@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalotc.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421072004id_/http%3A//www.capitalotc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalotc.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826095259id_/https%3A//www.capitalotc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Capital OTC
 
@@ -8,7 +8,7 @@ Please take a few minutes to read our Privacy Policy, so that you may know if ou
 
 The Capital OTC team respects your privacy and we would like to keep you informed in regards to how the data that you supply and your traffic data is used exactly, so that you know what to expect when accessing our page.
 
-We would like to inform you that all our users are required to be at least 13 years old. IF YOU ARE YOUNGER THAN 13, THEN PLEASE LEAVE OUR PAGE. BY REMAINING ON THE PAGE, YOU GUARANTEE THAT YOU MEET OUR REQUIREMENTS AND YOU WILL BE CONSIDERED FULLY RESPONSABLE IF YOU DO NOT.
+We would like to inform you that all our users are required to be at least 13 years old. IF YOU ARE YOUNGER THAN 13, THEN PLEASE LEAVE OUR PAGE. BY REMAINING ON THE PAGE, YOU GUARANTEE THAT YOU MEET OUR REQUIREMENTS AND YOU WILL BE CONSIDERED FULLY RESPONSIBLE IF YOU DO NOT.
 
 This is the current version of the Capital OTC Privacy Policy and this is the only one that you should take into consideration, as previous versions are no longer viable. You are advised to check for updates of this current Privacy Policy, as we reserve our right to make updates, without issuing special notice to you.
 
@@ -18,13 +18,13 @@ IF OUR PRIVACY POLICY DOES NOT MEET YOUR REQUIREMENTS, THEN WE ADVISE YOU TO LEA
 
 
 
-When you access the Capital OTC page, we collect two types of information from you. Please read this Privacy Policy carefully, so that you may understand what this information is, what we use it for and most importantly, if you feel comfortable with this. IF YOU DO NOT CONSENT TO SHARE YOUR INFORMATION WITH US, THEN PLEASE LEAVE THE CAPITAL OTC PAGE, AS REMAINING ON THE PAGE WILL BE INTERPRETED AS YOUR FULL CONCENT TO OUR POLICY.
+When you access the Capital OTC page, we collect two types of information from you. Please read this Privacy Policy carefully, so that you may understand what this information is, what we use it for and, most importantly, if you feel comfortable with this. IF YOU DO NOT CONSENT TO SHARE YOUR INFORMATION WITH US, THEN PLEASE LEAVE THE CAPITAL OTC PAGE, AS REMAINING ON THE PAGE WILL BE INTERPRETED AS YOUR FULL CONCENT TO OUR POLICY.
 
-The first type of information that we collect is the data that you personally supply when registering on this website. This data can identify you personally and it includes your full name, e-mail address and phone number and home address, if you have chosen to supply these.
+The first type of information that we collect is the data that you personally supply when registering on this website. This data can identify you personally and it includes your full name, e-mail address, phone number, and home address if you have chosen to supply these.
 
 The second type of information is related to the traffic process and we collect it so that we may get a better understanding of how our readers experience our platform and which parts of the content are most successful among readers, so that we might expand on these. Therefore, we will collect data such as your IP address or the amount of time you have spent on specific articles, precisely to better understand if these were interesting enough for you or not.
 
-  2. third party advertisers
+  2. THIRD PARTY ADVERTISERS
 
 
 
