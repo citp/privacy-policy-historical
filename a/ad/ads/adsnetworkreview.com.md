@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsnetworkreview.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101182611id_/http%3A//adsnetworkreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsnetworkreview.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826061956id_/http%3A//adsnetworkreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • AdsNetworkReview
 
@@ -21,5 +21,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of  **[adsnetworkreview.com](http://adsnetworkreview.com/ "Ads Network Review")** then you may contact us at adsnetworkreview@gmail.com
 
 **Last Updated on: 12th May 2013**
-
-### Share and Enjoy
