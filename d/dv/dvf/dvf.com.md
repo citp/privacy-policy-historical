@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224164450id_/https%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826233747id_/https%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DVF | Privacy Policy
 
@@ -139,7 +139,7 @@ Yes. We provide you the opportunity to exercise an opt-out choice if you do not 
 
 That said, please note that we also communicate with Registrants and other Visitors on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, you cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional. 
 
-Depending on whether you are an European Economic Area (EEA) resident, you may have the right to request access to, rectification of, or erasure of your Personal Information; to restrict or object to our processing of your Personal Information (including objection to automated processing); and to data portability. Where our processing of your information is based on your consent, you may have the right to withdraw your consent by contacting us by e-mail at clientservices@dvf.com. Your withdrawal of consent will not affect the lawfulness of our processing of your Personal Information based on your consent prior to your withdrawal. Where appropriate, you may also have the right to lodge a complaint with your local data protection authority. 
+Depending on whether you are an European Economic Area (EEA) resident, you may have the right to request access to, rectification of, or erasure of your Personal Information; to restrict or object to our processing of your Personal Information (including objection to automated processing); and to data portability. Where our processing of your information is based on your consent, you may have the right to withdraw your consent by contacting us by e-mail at [_clientservices@dvf.com_](mailto:clientservices@dvf.com). Your withdrawal of consent will not affect the lawfulness of our processing of your Personal Information based on your consent prior to your withdrawal. Where appropriate, you may also have the right to lodge a complaint with your local data protection authority. 
 
   
 
@@ -185,7 +185,7 @@ The Website is intended for general use of persons who have reached the age of c
 
 ### Do we have Mechanisms in Place to Permit Access, Removal, and Complaints Regarding Information That We Collect? 
 
-You may access and update your Personal Information by logging into your account on the Website or by contacting DvF. If you wish to remove Personal Information that you have submitted to DvF, please send us an email requesting such removal to [clientservices@dvf.com ](https://www.dvf.com/contactus/). If you have questions or concerns about any of our information collection or handling practices, please contact us at [clientservices@dvf.com](https://www.dvf.com/contactus/) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
+You may access and update your Personal Information by logging into your account on the Website or by contacting DvF. If you wish to remove Personal Information that you have submitted to DvF, please send us an email requesting such removal to [_clientservices@dvf.com_](mailto:clientservices@dvf.com). If you have questions or concerns about any of our information collection or handling practices, please contact us at [_clientservices@dvf.com_](mailto:clientservices@dvf.com) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
 
   
 
@@ -208,7 +208,7 @@ California Civil Code Section 1798.83 permits our Visitors who are California re
 
 If you would like to contact DvF regarding your Personal Information or any of the content in this Privacy Policy, please reach out to us using the following information: 
 
-By email: [clientservices@dvf.com](https://www.dvf.com/contactus/)   
+By email: [_clientservices@dvf.com_](mailto:clientservices@dvf.com)   
 By mail:   
 DVF Studio, LLC   
 Attn: Customer service for DVF.COM   
