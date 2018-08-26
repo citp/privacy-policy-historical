@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontariolearn.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527070359id_/http%3A//www.ontariolearn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariolearn.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827011102id_/https%3A//www.ontariolearn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : ontariolearn
 
