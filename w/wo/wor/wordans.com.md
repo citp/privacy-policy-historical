@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002141959id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826074344id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
 
-# Best Price Guarantee | Wholesale market | Wordans USA
+# Best Price Guarantee | Wholesale blank apparel | Wordans USA
 
 ##  Wordans.com ("Wordans") is committed to protecting your online privacy
 
@@ -8,7 +8,7 @@ We have created this privacy policy to make sure you know what information we co
 
 ##  About uploading and posting information on the Wordans Website
 
-At the time you register for a My Wordans account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Wordans Website your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy.
+At the time you register for a Wordans account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Wordans Website your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy.
 
 Always use caution when you post such information.
 
@@ -18,7 +18,7 @@ Always use caution when you post such information.
 
 You may provide us with certain personally identifiable information when you:
 
-  * register for a MyWordans account
+  * register for a Wordans account
   * order products or gift certificates
   * request customer support or send us any other communication
   * sign up for newsletters, email alerts, and special offers
@@ -64,7 +64,7 @@ provide notices about the results of sweepstakes, contest, and other promotions.
 
 
 
-We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your MyWordans account settings.
+We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your Wordans account settings.
 
 We do not use your email address or other personally identifiable information to send marketing messages without your consent. Similarly, if you email a product to a friend or refer a friend to the Wordans Website or our promotions, we will use your friend's email to send them the e-mail you requested. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.
 
@@ -127,6 +127,6 @@ Edifício Amoreiras Square
 
 ##  How can I change, delete, or update my information?
 
-Most of your account information can be changed in the My Account section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at questions@wordans.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+Most of your account information can be changed in the My Account section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [customerservice@wordans.com](mailto:customerservice@wordans.com). After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
-The current version of the Wordans Privacy Policy was designated effective as of 10/30/2006.
+The current version of the Wordans Privacy Policy was designated effective as of 12/30/2015.
