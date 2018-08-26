@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912173313id_/https%3A//www.reliant.com/en/about/legal/privacy-statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826074121id_/https%3A//www.reliant.com/en/about/legal/privacy-statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement | Reliant
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Statement outlines the information Reliant will collect and how we will use that information. 
+We know that you care how information about you is collected, used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Statement applies to the use of all products, services, websites, and mobile applications offered by Reliant and offered by Reliant and our affiliates, unless they have a different Privacy Policy. This Privacy Statement outlines the information Reliant will collect and how we will use that information. 
 
 #### What Information We Collect
 
@@ -182,7 +182,7 @@ Back to Top
 
 #### Links to Other Sites
 
-Some Reliant websites may contain links to other sites. Reliant is not responsible for the privacy practices or the content of such web sites. We recommend you carefully read the privacy policies of each site you visit.
+Some Reliant websites and mobile applications may contain links to other sites. Reliant is not responsible for the privacy practices or the content of such web sites. We recommend you carefully read the privacy policies of each site you visit.
 
 Back to Top
 
@@ -199,7 +199,7 @@ Back to Top
 
 #### Your Acceptance of Our Privacy Practices
 
-By using this website or any other Reliant website or interactive banner ads, you signify your acceptance of this Privacy Statement, and you adhere to the terms and conditions posted on the website. If you do not agree with any of these terms, please do not use this site or submit any personal information. This English version shall always prevail in case of conflicts between it and any translations of our Privacy Statement.
+By using this website, our mobile application or any other Reliant website or interactive banner ads, you signify your acceptance of this Privacy Statement, and you adhere to the terms and conditions posted on the website. If you do not agree with any of these terms, please do not use this site or submit any personal information. This English version shall always prevail in case of conflicts between it and any translations of our Privacy Statement.
 
 Back to Top
 
@@ -209,5 +209,5 @@ Please print the Reliant Privacy Statement (this page) for your records.
 
 Back to Top
 
-_Revised: December 5, 2016_   
-_REL120516_
+_Revised: January 11, 2018_   
+_REL11118_
