@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymozo.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522025925id_/http%3A//mymozo.com/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymozo.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826224827id_/https%3A//www.mymozo.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Online Ordering For Restaurants | Restaurant Order System | myMozo
+# myMozo | Online Ordering For Restaurants | Restaurant Order System
 
 **The Short Version:**
 
