@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluemercury.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630032715id_/https%3A//bluemercury.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemercury.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826070105id_/https%3A//bluemercury.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Bluemercury: Privacy Policy
+# Privacy Policy | bluemercury
 
 ### Notice to Our Customers
 
