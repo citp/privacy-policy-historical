@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchytdvta.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092221id_/http%3A//searchytdvta.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchytdvta.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826032511id_/http%3A//searchytdvta.com/Privacy) for the most accurate reproduction.*
 
 # 
 
