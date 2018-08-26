@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602164026id_/https%3A//www.mma-core.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826021302id_/https%3A//www.mma-core.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MMA-Core.com
 
 This is the web site of **MMA-Core.com**.  
 We can be reached via e-mail at support@mma-core.com or by using this [form](https://web.archive.org/contact). 
 
+## What information do we collect?
+
 For each visitor to our Web page, our web server automatically recognizes only the visitor's ip address, but not the e-mail address.
 
-We collect information volunteered by the visitor, such as profile information and/or site registrations.
+We collect information volunteered by the visitor, such as profile information for site registrations. Only the e-mail address is required personal user information to register.
 
-The information we collect is used to identify our members and notify them about updates to our Web site, .
-
-With respect to cookies: We use cookies to store visitors preferences.
+The information we collect is only used to identify our members and notify them about updates to our Web site, .
 
 If you do not want to receive e-mail from us in the future, you can update your email settings.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
+Registered users can delete their account and all associated data.
 
-  * https://www.google.com/policies/privacy/
+## This website uses cookies.
+
+We use cookies to personalise content and to enable user authentication functionality.
+
+We use third party cookies to enhance your ad experience. We use advertisement networks to earn money. These ad networks bring you offers that are of interest to you. As a result of your visit to this website, ad networks may collect information such as your IP address and what ads you click. For further information, consult the privacy policies of: 
+
+  * Google - https://www.google.com/policies/privacy/
 
 
 
-From time to time, we may use user information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check this privacy policy page periodically.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
-
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+_Dated: May 1, 2018_
