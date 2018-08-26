@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the men4sexnow.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324152306id_/https%3A//www.men4sexnow.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the men4sexnow.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826222112id_/https%3A//www.men4sexnow.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Sites For Gay Men - Gay Personals Online - Gay Matchmaking Sites
 
