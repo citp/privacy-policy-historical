@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the viloud.tv privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921023847id_/http%3A//viloud.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viloud.tv privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826073222id_/https%3A//viloud.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viloud
 
-Last uptdated: May 1, 2015.​
+Last uptdated: May, 2018.​
 
 Viloud​ (“Noise Media S.L.”, “us”, “we”, or “our”) is an online video software company. Our primary offerings are a video player and a video content management system.
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information we collect from and about you when you use Viloud’s web-based application (the “Service”). This page also explains how information is collected and used in connection with our corporate website located at [http://viloud.tv](http://viloud.tv/) (the “Website”).
+Viloud complies with the General Data Protection Regulation, GDPR (EU) 2016/679, in force since 25 May 2018. This regulation introduces a number of changes to ensure data protection in the context of the European Union. Our users can trust that their data is managed in a secure environment.
 
-By accessing or using the Service or the Website, you agree to the collection and use of information in accordance with this policy.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information we collect from and about you when you use Viloud’s web-based application (the “Service”). This page also explains how information is collected and used in connection with our corporate website located at [https://viloud.tv](https://viloud.tv/) (the “Website”).
 
 **1\. What information do we collect?**
 
@@ -47,14 +47,18 @@ We may release your information only when we are forced by law, to enforce our s
 
 If you would like we update, correct, delete, or deactivate any account information that you have provided us, please send your request to [info@viloud.com](mailto:info@viloud.com), and the company will process your request within a reasonable period of time after receipt.
 
-**7\. Security**
+**7\. Data Retention Period**
+
+The personal data provided by users to Viloud will be kept for the contractual period, i.e. as long as the user maintains the account active.
+
+**8\. Security**
 
 The security of your Personal Information is important to us. We have implemented reasonable security measures to protect the information, both during transmission and once it is received. This includes but is not limited to the use of firewalls and encryption. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, we cannot guarantee absolute security.
 
-**8\. Changes To This Privacy Policy**
+**9\. Changes To This Privacy Policy**
 
 Noise Media S.L. ​may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-**9\. Contact Us**
+**10\. Contact Us**
 
 If you have any questions about this Privacy Policy, please contact us at [info@viloud.com](mailto:info@viloud.com).
