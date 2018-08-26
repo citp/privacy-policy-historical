@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the capezio.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017174118id_/http%3A//www.capezio.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capezio.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826220437id_/https%3A//www.capezio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Capezio®
+# Privacy Policy
 
-Capezio wants to assure you that your privacy is safe at Capezio.com.
-
-Thank you for visiting! Capezio wants to assure you that your privacy is safe at Capezio.com. This Privacy Policy covers the treatment of personal information that this site gathers when you access or use the Capezio.com online store. For more details please read below. ****
+Thank you for visiting! Capezio wants to assure you that your privacy is safe at Capezio.com. This Privacy Policy covers the treatment of personal information that this site gathers when you access or use the Capezio.com online store. For more details please read below.
 
 **1\. MINORS**
 
-Capezio does not knowingly collect personal information from anyone under the age of 18, and the Capezio.com site is not designed to be used by anyone under the age of 18.  If we learn that we have received information from an individual under the age of 18, we will use that information only to respond to that individual that he or she cannot use Capezio.com site and we will delete that information from our servers.
+Capezio does not knowingly collect personal information from anyone under the age of 18, and the Capezio.com site is not designed to be used by anyone under the age of 18. If we learn that we have received information from an individual under the age of 18, we will use that information only to respond to that individual that he or she cannot use Capezio.com site and we will delete that information from our servers.
 
 **2\. INFORMATION WE COLLECT**
 
@@ -32,7 +30,7 @@ Capezio discloses potentially personally-identifying and personally-identifying 
 
 **Cookies**
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Without cookies Capezio can't keep track of the items you've placed in your cart or perform other crucial ecommerce capabilities. Capezio does not use cookies to intrude in your privacy or do anything other than match you up with your information on the Capezio.com site. ****
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Without cookies Capezio can't keep track of the items you've placed in your cart or perform other crucial ecommerce capabilities. Capezio does not use cookies to intrude in your privacy or do anything other than match you up with your information on the Capezio.com site.
 
 **3\. COMMUNICATIONS**
 
@@ -44,15 +42,15 @@ If you decide to visit the Capezio website, your visit and any possible dispute 
 
 **5\. PRIVACY POLICY CHANGES**
 
-Although most changes are likely to be minor and infrequent, Capezio may change its Privacy Policy from time to time, and in our sole discretion. Capezio encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. ****
+Although most changes are likely to be minor and infrequent, Capezio may change its Privacy Policy from time to time, and in our sole discretion. Capezio encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 **6\. QUESTIONS**
 
-Capezio full contact information, including location, may be found on our [Contact Page](http://test.capezio.com/support/contact-us/). ****
+Capezio full contact information, including location, may be found on our Contact Page.
 
 **7\. CREATIVE COMMONS**
 
-This work (the Privacy Policy) is licensed under a Creative Commons Attribution-ShareAlike 2.5 License. It was modified by Capezio. (Thanks to OpenDNS and Automattic.) ****
+This work (the Privacy Policy) is licensed under a Creative Commons Attribution-ShareAlike 2.5 License. It was modified by Capezio. (Thanks to OpenDNS and Automattic.)
 
 **8\. EFFECTIVE DATE OF THIS PRIVACY POLICY**
 
