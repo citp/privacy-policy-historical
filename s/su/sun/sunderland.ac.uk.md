@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910190618id_/https%3A//www.sunderland.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826091642id_/https%3A//www.sunderland.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | The University of Sunderland
 
 ## Please read this Privacy Policy carefully.
 
-By accessing and using this website you are deemed to agree to the terms of this Privacy Policy. Please only submit information to us through this site if you agree we may collect it, use it, and retain it in accordance with this policy. Please note this site uses cookies to improve your user experience. By using this site you agree to these cookies being used. To find out more see our [Cookies policy](https://www.sunderland.ac.uk/privacy-and-cookies/cookies-policy/ "Home » Beta » Privacy & Cookies » Cookies Policy"). 
+By accessing and using this website you are deemed to agree to the terms of this Privacy Policy. Please only submit information to us through this site if you agree we may collect it, use it, and retain it in accordance with this policy. Please note this site uses cookies to improve your user experience. By using this site you agree to these cookies being used. To find out more see our [Cookies policy](https://www.sunderland.ac.uk/privacy-and-cookies/cookies-policy/). 
 
 **About this Privacy Policy**
 
@@ -20,7 +20,7 @@ We may collect information about your computer, including where available your I
 
 We may collect anonymous information through the use of various technologies including the use of ‘cookies’. Our website uses cookies to distinguish you from other users of the website. A cookie is a small file of letters and numbers that is stored on your hard drive and allows a website to remember who you are. The cookies set may contain information about you, your computer, your use of our website and your general internet usage.
 
-To learn more about how we use cookies, read our [Cookies policy](https://www.sunderland.ac.uk/privacy-and-cookies/cookies-policy/ "Home » Beta » Privacy & Cookies » Cookies Policy").
+To learn more about how we use cookies, read our [Cookies policy](https://www.sunderland.ac.uk/privacy-and-cookies/cookies-policy/).
 
 The University’s website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve adverts based on someone’s past visits to the University of Sunderland’s websites. Any data collected will be used in accordance with our own privacy policy and [Google’s privacy policy](http://www.google.com/policies/privacy/) _._
 
@@ -43,7 +43,7 @@ Personal information provided to the University by you will only be used for the
 
 
 
-If you are a student, your personal information may be used for other purposes please see the Data Protection section of the [Terms and Conditions](https://www.sunderland.ac.uk/terms-and-conditions/ "Home » Beta » Terms and Conditions").  
+If you are a student, your personal information may be used for other purposes please see the Data Protection section of the [Terms and Conditions](https://www.sunderland.ac.uk/terms-and-conditions/).  
 
 If you are one of our suppliers, we will use information we hold on you to manage the contract between us and to improve our services. The information we hold may include information about your performance in providing services to us.
 
