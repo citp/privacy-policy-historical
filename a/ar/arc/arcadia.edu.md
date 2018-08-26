@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the arcadia.edu privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906022546id_/https%3A//www.arcadia.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadia.edu privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826054139id_/https%3A//www.arcadia.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arcadia University
+
+x
+
+Our website uses cookies to understand how you navigate our content and to give you the best browsing experience.
+
+Please read our [Data Protection & Use Notification](https://www.arcadia.edu/data-protection-use-notification) to learn more.
 
 ### 
 
