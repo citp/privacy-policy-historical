@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datapages.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115911id_/http%3A//datapages.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datapages.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826090905id_/http%3A//www.datapages.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement — Datapages
 
