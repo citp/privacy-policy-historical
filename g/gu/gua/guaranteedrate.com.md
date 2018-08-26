@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guaranteedrate.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126024341id_/https%3A//www.guaranteedrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guaranteedrate.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826103725id_/https%3A//www.guaranteedrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guaranteed Rate
 
@@ -27,7 +27,7 @@ We do not access information about your identity while you browse our website. A
 
 ## Updates
 
-This Privacy Policy was last updated 11/01/2017. Please check periodically for changes. 
+This Privacy Policy was last updated 06/12/2018. Please check periodically for changes. 
 
 ## Use of Tracking; Use of IP Addresses
 
