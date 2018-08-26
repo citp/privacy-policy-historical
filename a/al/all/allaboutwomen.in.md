@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allaboutwomen.in privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626114812id_/http%3A//www.allaboutwomen.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutwomen.in privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827013852id_/https%3A//www.allaboutwomen.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All About Women
+# Privacy Policy - All About Women
 
 Thank you for your interest in Allaboutwomen services and privacy info. Please note that our privacy policy doesn’t apply to that information which you already have posted publicly or display on this site. In that case, you kind of grant us a license to all publicly-posted content and it can be display or syndicated to other sites and Allaboutwomen partners.
 
