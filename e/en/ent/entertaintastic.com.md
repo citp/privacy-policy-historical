@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entertaintastic.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123042725id_/http%3A//video.entertaintastic.com/privacyENT.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertaintastic.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826121226id_/http%3A//video.entertaintastic.com/privacyENT.html) for the most accurate reproduction.*
 
-# Terms Of Use| Entertaintastic
+# Privacy Statement| Entertaintastic
 
 [](https://web.archive.org/index.html)
 
