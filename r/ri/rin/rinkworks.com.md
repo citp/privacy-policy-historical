@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135803id_/http%3A//rinkworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826192010id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
 
 # RinkWorks: Privacy Policy
 
@@ -16,7 +16,7 @@ These companies may also temporarily store some code within your browser that al
 
 For more information please see the following details associated with a subset of the advertising agencies we work with:
 
-    * _From BURST! Media's privacy policy:_ "When you are first served a BURST! ad, BURST! may temporarily store some codes within your browser that allows us to respond properly to the ads that we deliver. These codes are commonly known as "cookies." For example, these codes let us keep track of how many times you view an ad we distribute. It also helps us determine where to send you when you click on an ad. Unlike many other ad networks, we do not use cookies for the purpose of setting unique identifiers that are used to identify you whenever you return to a web site within the BURST! network. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire." 
+    * _Concerning Exponential Interactiv:_ Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
 
     * _Concerning ValueClick/Fastclick:_ "We have contracted with ValueClick to monitor certain pages of our web site for the purpose of reporting website traffic, statistics, advertisement 'click-throughs,' and/or other activities on our web site. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://media.valueclick.com/privacy_consumer.shtml>. 
 
