@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the hungryforever.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706052404id_/https%3A//www.hungryforever.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforever.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826165240id_/https%3A//www.hungryforever.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | HungryForever Food Blog
 
 We collect information from you when you subscribe to our newsletter or fill out a form.
+
+Google User Data  
+When you use Google Login to sign in or sign up for our website, we will receive and store your email address, basic profile information and your Google Contacts (Read Only). We use this data to suggest people for you to Follow, and to help you login to our website easier.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
