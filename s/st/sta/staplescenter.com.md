@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplescenter.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627073539id_/https%3A//www.staplescenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplescenter.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826172833id_/https%3A//www.staplescenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STAPLES Center
 
@@ -90,7 +90,7 @@ If you are accessing our Digital Services from outside of the United States, any
 
 If you have any questions about this Policy, our privacy practices, or your dealings with our Digital Services, please contact:
 
-scprivacypolicy@staplescenter.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 or
 
