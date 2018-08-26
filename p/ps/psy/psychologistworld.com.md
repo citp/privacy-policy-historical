@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406160451id_/http%3A//www.psychologistworld.com/support/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826163044id_/https%3A//www.psychologistworld.com/support/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Psychologist World
 
@@ -6,7 +6,7 @@
 
 We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or Practitioner details. You may, however, visit our site anonymously.
+When using, ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information, quiz answers or practitioner details. You may, however, visit our site anonymously.
 
 Like most websites, we use 'cookies' to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'Do we use cookies' section below for information about cookies and how we use them.
 
@@ -17,11 +17,14 @@ Any of the information we collect from you may be used in one of the following w
 • To personalize your experience (your information helps us to more effectively respond to your customer service requests and support needs)  
 • To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
 • To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
-• To process transactions
+• To process transactions (e.g. where this is a contractual necessity)  
+• To send periodic emails
 
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-• To send periodic emails
+Information may be held until such a time that it will no be longer required. You may withdraw consent to the processing of your data at any time by contacting us.
+
+If you have a complaint regarding the processing of your data, please notify us (via the Contact Us page) or contact the Information Commissioner's Office.
 
 ###### How do we protect your information?
 
@@ -67,34 +70,29 @@ This site uses cookies to store statistics about a user's visit so that we can i
 
 This site uses cookies to store statistics about a user’s visit so that we can improve the site’s usability, and to store essential user-specific information such as login details and the items that you add to your shopping basket.
 
-  * __utma   
-Third party-set Google Analytics cookie. Used to track user clicks on the website to improve the site.   
-
-  * __utmb   
-Third party-set Google Analytics cookie.  Statistics pertaining to a user’s visit.   
-
+  * __utma  
+Third party-set Google Analytics cookie. Used to track user clicks on the website to improve the site. 
+  * __utmb  
+Third party-set Google Analytics cookie.  Statistics pertaining to a user’s visit. 
   * __utmc  
-Third party-set Google Analytics cookie.  Time spend on site.   
-
-  * __utmz   
-Third party-set Google Analytics cookie. Source by which user found the site.   
-
+Third party-set Google Analytics cookie.  Time spend on site. 
+  * __utmz  
+Third party-set Google Analytics cookie. Source by which user found the site. 
   * aa  
 e.g. login  
-Login information required to enable subscribers to log in.
+Login information required to enable subscribers to log in.  
+ 
   * bb  
 e.g. 098f6bcd4621d373cade4e832627b4f6  
-Login information required to enable subscribers to log in.  
-
+Login information required to enable subscribers to log in.
   * pv  
 e.g. [1,2,3]  
-Pages viewed.  
-
+Pages viewed.
   * Other Product Cookies: 
 
 Used to track users for purposes such as Google AdWords and Analytics.
 
-  * Other cookies:   
+  * Other cookies:  
 e.g. Login details, information for administrating users  
 These cookies shouldn’t affect general visitors.
 
