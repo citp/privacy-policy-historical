@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016210630id_/https%3A//www.allied.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826183613id_/https%3A//www.allied.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
