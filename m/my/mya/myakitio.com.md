@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myakitio.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319031459id_/http%3A//mycloud.myakitio.com/software_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myakitio.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827092621id_/http%3A//mycloud.myakitio.com/software_privacypolicy) for the most accurate reproduction.*
 
 # software_privacypolicy - MyAkitio Wiki
 
@@ -7,6 +7,14 @@ AKiTiO is committed to protecting the privacy of our customers. This statement i
 ## Information Collected
 
 As a standard practice, AKiTiO records certain information from your device, including MAC address, IP address, Registration Name and Firmware Version when it's connected to the internet. AKiTiO does not know the identity of the user unless the user specifically informs us. We use this information to provide services like the web portal and automatic firmware updates. We also analyze this data for trends and statistics, such as general location and time when the device is online. We use all this information in order to improve our services, assure uninterrupted connections, and measure overall server effectiveness, and therefore to make the user experience better and hopefully more fitting to your needs. 
+
+If you would prefer that your device does not send this kind of information to AKiTiO, you can disable the portal server and the automatic firmware update. However, please keep in mind that you will no longer be able to access your device through our web portal at [http://myakitio.com](http://myakitio.com/ "http://myakitio.com") after that. 
+
+To disable the portal server, go to **[Preference> Portal Server](https://web.archive.org/system_information_portal_server "system_information_portal_server")**, uncheck the option to 'Enable Portal Server' and then click **Apply**. The service has now been stopped and the device is no longer reporting its MAC address and IP address. 
+
+To disable the automatic firmware update, go to **[Preferences> Firmware](https://web.archive.org/system_information_firmware "system_information_firmware")** and uncheck the option for 'Auto Update'. The device will no longer check for available firmware updates. 
+
+If you would like us to completely remove your previous records (e.g. IP address) from our web portal, please contact us at privacy@akitio.com and let us know the MAC address of your device. 
 
 ## Personal Data
 
@@ -24,7 +32,7 @@ AKiTiO may disclose Personal Information if required to do so by law.
 
 AKiTiO may modify, alter or otherwise update this policy at any time, so we encourage you to review this policy from time to time. 
 
-If you have any queries about this policy please feel free to [contact us](http://www.akitio.com/support/help-desk "http://www.akitio.com/support/help-desk"). 
+If you have any queries about this policy, please feel free to contact us at privacy@akitio.com. 
 
   
 
