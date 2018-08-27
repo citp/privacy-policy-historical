@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepyjones.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090750id_/http%3A//sleepyjones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepyjones.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827064416id_/http%3A//sleepyjones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sleepy Jones
 
@@ -49,6 +49,32 @@ People under 18 years of age are not permitted to use the Site or the Services o
 **Governing Law and Jurisdiction**
 
 This Privacy Policy constitutes a contract made under and shall be governed by and construed in accordance with the laws of the State of New York.
+
+**Sharing Your Personal Information**
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store–you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site — you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+**Behavioral Advertising**  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can opt out of targeted advertising by using the links below:  
+– Facebook: https://www.facebook.com/settings/?tab=ads  
+– Google: https://www.google.com/settings/ads/anonymous  
+– Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+**Do Not Track**
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+**Your Rights**
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
 **Sweepstakes  **
 
