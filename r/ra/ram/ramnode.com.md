@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524172632id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827232857id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
 
 # Client Area - RamNode
 
@@ -119,12 +119,12 @@ You have the right to complain to a Data Protection Authority about our collecti
 
 GDPR Data Processing Agreement
 
-Customers who require a Data Processing Agreement (DPA) in order to comply with GDPR may view and download our DPA here.
+Customers who require a Data Processing Agreement (DPA) in order to comply with GDPR may view and download our DPA [here](https://www.ramnode.com/gdpr-dpa.pdf).
 
-You do not need to sign the DPA. By agreeing to our Terms of Service and using our products and services, you are automatically accepting our DPA.
+You do not need to sign the DPA. By agreeing to our Terms of Service and using our products and services, you are automatically accepting our DPA. If you choose to sign it, you may send a copy to legal[at]ramnode[.]com
 
 Children’s Privacy
 
 Our service is not available to children under the age of 18, and we will not intentionally maintain personal information about anyone under the age of 18.
 
-Last updated: May 23, 2018
+Last updated: May 24, 2018
