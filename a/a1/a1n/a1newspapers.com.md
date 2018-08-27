@@ -1,33 +1,49 @@
-> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127022717id_/http%3A//www.a1newspapers.com/Privacy-Policy-a1newspapers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827220103id_/https%3A//a1newspapers.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Live™ Stream™ News™ Online
 
-**Privacy Policy for www.a1newspapers.com**
+This privacy policy (“Policy”) describes how Website Operator (“Website Operator”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at angilinajetli@yahoo.com. 
+## Collection of personal information
 
-At www.a1newspapers.com, the privacy of our visitors is very important to us. This privacy policy contains info about any type of personal information that is received and collected by www.a1newspapers.com and how it is used. 
+We receive and store any information you knowingly provide to us when you fill any online forms on the Website. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website’s features. Users who are uncertain about what information is mandatory are welcome to contact us.
 
-**Log Files**  
-Like many other Web sites, www.a1newspapers.com makes use of log files. The information inside the log files includes type of browser, internet protocol ( IP ) addresses, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable. 
+## Collection of non-personal information
 
-**Cookies and Web Beacons**   
-www.a1newspapers.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, CAPTCHA validation purposes, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+When you visit the Website our servers automatically record information that your browser sends. This data may include information such as your device’s IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics.
 
-Google, DoubleClick and other advertisement partners may use cookies to serve ads in this site.
+## Use of collected information
 
-Google use DART cookie to serve ads to users based on their visit to this and other sites.
+Any of the information we collect from you may be used to improve customer service and respond to queries and emails of our customers; run and operate our Website and Services. Non-Personal Information collected is used only to identify potential cases of abuse and establish statistical information regarding Website usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-You can opt out of the use of DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+## Privacy of children
 
-We use third-party advertising companies to display ads in this site, these companies may use information about your visits to this site and to other sites to provider interest based advertisements. 
+We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Website or Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Website or Service, please contact us.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
+## Cookies
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.a1newspapers.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+The Website uses “cookies” to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We may use cookies to collect, store, and track information for statistical purposes to operate our Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the features of the Website and Services.
 
-www.a1newspapers.com has no access to or control over these cookies that are used by third-party advertisers. 
+## Links to other websites
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.a1newspapers.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Our Website contains links to other websites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other websites or third-parties. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that may collect Personal Information.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+## Information security
+
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Website cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
+
+## Data breach
+
+In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third-parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do we will post a notice on the Website.
+
+## Changes and amendments
+
+We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do we will post a notification on the main page of our Website. Continued use of the Website after any such changes shall constitute your consent to such changes.
+
+## Acceptance of this policy
+
+You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.
+
+## Contacting us
+
+If you have any questions about this Policy, please contact us.
