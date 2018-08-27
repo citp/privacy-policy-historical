@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the counselingeducation.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802151843id_/http%3A//www.counselingeducation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counselingeducation.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827131333id_/http%3A//www.counselingeducation.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Counseling Education
 
