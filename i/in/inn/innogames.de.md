@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innogames.de privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626005427id_/https%3A//legal.innogames.com/portal/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innogames.de privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827190045id_/https%3A//legal.innogames.com/portal/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for End Users
 
