@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrecipenotes.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628220054id_/http%3A//myrecipenotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipenotes.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827171744id_/http%3A//myrecipenotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – My Recipe Notes
 
