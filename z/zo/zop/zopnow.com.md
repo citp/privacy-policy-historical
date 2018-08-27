@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zopnow.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110121734id_/https%3A//www.zopnow.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopnow.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827065145id_/https%3A//www.zopnow.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
