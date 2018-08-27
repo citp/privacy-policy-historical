@@ -1,76 +1,83 @@
-> *The following text is extracted and transformed from the herbs-info.com privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406213337id_/http%3A//www.herbs-info.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs-info.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827201647id_/http%3A//www.herbs-info.com/policies/privacy.html) for the most accurate reproduction.*
 
-# Herbs Info - Privacy Policy
+# Privacy Policy - herbs-info.com
 
-[Back To Homepage](http://www.herbs-info.com/)
+**Last Update: July 15th, 2018**
 
-**December 4th, 2014**
-
-**1\. Introduction**
+## 1\. Introduction
 
 www.herbs-info.com ("This Website") is operated by Alex Newman. Any reference to "I" or "me" in this privacy policy refers to Alex Newman. Your information privacy is important to me. Here is This Website's privacy policy. 
 
-**2\. Modification**
+## 2\. Modification
 
-I reserve the right to make updates to this Privacy Policy at any time, and without giving prior notice, by simply posting an updated privacy policy here at this page - ( http://www.herbs-info.com/privacy.html ). This policy will be viewable on the site from the link at the foot of each of the site's other pages. Please check periodically for updates. Your use of the site constitutes your acceptance of the current Privacy Policy. 
+I reserve the right to make updates to this Privacy Policy at any time, and without giving prior notice, by simply posting an updated privacy policy here at this page. This policy will be viewable on the site from the link at the foot of each of the site's other pages. Please check periodically for updates. Your use of the site constitutes your acceptance of the current Privacy Policy. 
 
-Click [here](http://www.herbs-info.com/privacy-old.html) to view previous privacy policy information. 
+Click [here](http://www.herbs-info.com/policies/privacy-old.html) to view previous privacy policy information. 
 
-**3\. Personally Identifiable Information**
+## 3\. Email List
 
-This Website may feature an email list and may collect names or email addresses submitted voluntarily by site visitors. These email addresses are used to send messages containing content and promotions. Our email list is managed by Aweber, Inc. and hosted on their servers - and the policy governing the manner in which such email addresses are utilized can be found at their email permission guidelines page here: <http://www.aweber.com/permission.htm>
+This Website may feature an email list and email signup forms enabling you to subscribe. Our email lists are managed by Aweber, Inc. and hosted on their servers - and the policy governing the manner in which such email addresses are utilized can be found at their email permission guidelines page here: <http://www.aweber.com/permission.htm>
 
-**4\. Children's Online Privacy**
+By submitting your email address you consent to receiving our emails until you unsubscribe. Emails may contain informational as well as promotional content (for which we may earn commissions on product sales). 
+
+When you sign up for our email list, the email address you provide is stored and managed in our Aweber.com account. Aweber also stores IP address and geolocation information such as city, state and zip code (personally identifiable information - "PII"). This information is accessible to our team but is only used for the purposes of sending emails through Aweber. We may make a "safety backup" of the email list but we do not do additional data mining, nor do we distribute, sell or transfer your personal information to others. Your information is retained by us until deleted. We take the best reasonable measures we can to ensure that your information is safe: Physical locks protect our premises, strong passwords are used, and access to the information is restricted to our team, who have been given a strict training in data security best practices. Note that some of our team members are located outside of the EU, however they are under strict instructions not to copy or move any PII outside of the Aweber App. 
+
+We do not add subscribers to our list unless they have requested it by entering their email address. In the unlikely event that someone else has entered your email address by accident and you start receiving email from us, simply unsubscribe using the method below.
+
+If you decide you no longer wish to receive emails from us, **you can unsubscribe easily (withdraw consent) using the unsubscribe link provided at the foot of every email we send**. Unsubscribing removes your email address from our mail-out list immediately; however your information is accessible to us in Aweber's database until we manually delete it. "Unsubscribed" email addresses, together with the other personal information recorded as mentioned above, are manually deleted from our Aweber database (every 3 weeks approximately) and once deleted, this info is no longer accessible ("forgotten"). We can provide an expedited deletion if requested by email ("right of erasure"). 
+
+EU subscribers can also request a copy of the information we hold about them and can request rectification. 
+
+**Hello Bar:** If you sign up for our email list using the red "Hello Bar" exit popup, your email address is additionally stored within the HelloBar app, which is synced to Aweber's API. 
+
+## 4\. Children's Online Privacy
 
 This Website does not knowingly collect information from, or sell to, children under the age of 13. 
 
-**5\. "Non-personally identifiable information" - Google Analytics, Cookies, IP Address etc.**
+## 5\. Third Party Services
 
-As you use This Website, information typically deemed as "non-personally identifying" may be collected using various systems such as, but not limited to, cookies, server logs, Google Analytics and pixel tracking. By using This Website, you consent to such data collection and processing practices as set forth below. 
+As you use This Website, information may be collected using various systems such as, but not limited to, cookies, server logs, Google Analytics and pixel tracking. Data collection and processing practices are set forth below. 
 
 **Log files**
 
 As with most web sites, logs are automatically created which register the IP address and other information such as the date and time of access of This Website. I may use this information for general administrative, diagnostic or market research purposes. This web site uses common server-side statistics utilities, such as Awstats, that are provided by This Website's hosting provider. These utilities provide user demographics such as the user's country and city of location, IP address, browser type, and keywords used in searches used to find this site - and I may use such data for the purposes of optimizing the "performance" and quality of This Website, and for market research. 
 
-**Cookies and Web Beacons**
+**Google Adsense**
 
-"Cookies" and "web beacons" are small text or images files that may be sent to a user's computer when a web site is accessed. This Website may use cookies and web beacons for the purposes of tracking user behaviour with regard to improving services and market research. 
-
-Also, This Website may feature advertisements - and some third party advertisers' ads on This Website may place and read cookies on the users' web browser, or use web beacons to collect information. I have no access to or direct control over such cookies or web beacons. 
-
-• Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
-• Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
-• Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). Alternatively, users can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
-
-This Website also features ads from Amazon.com and Amazon ads may place cookies on visitors browsers. You may (possibly) be able to opt out of these cookies through Amazon.com or by visiting [aboutads.info](http://www.aboutads.info/).) More info about Amazon's use of cookies can be found here - <http://www.amazon.com/gp/help/customer/display.html?nodeId=468496>.
-
-Most web browsers' default settings are to accept cookies automatically - however it is possible with almost all browsers to change browser preferences, in order to refuse cookies or to request confirmation before accepting them. Browsers typically offer options to view and delete cookies that have already been placed on your browser. For example - Mozilla: Tools > Options > Privacy > Show Cookies > Remove Cookie. As with many other sites, some features of this site and its services may not function correctly if cookies are refused. 
+Google Adsense is one of the major ad types that we display on this website. Google's own words about this: "We encourage you to link to this user-facing page <https://www.google.com/policies/technologies/partner-sites/> explaining how Google manages data in its ads products. Doing so will meet the requirement of our EU User Consent Policy to give your users information about Google’s uses of their personal data.” 
 
 **Google Analytics**
 
-This Website uses Google Analytics in order to track visitor activity with a view to observing and improve site performance, and for market research. Google Analytics may use cookies - and the information (such as, but not limited to, IP address, geographic location (town and country), date and time of access, time spent on site, keywords used in searches to find This Website) generated by the use of Google Analytics is transmitted to, and stored by Google Inc. I have access to this data but have no control over how this information is used by Google. Google Analytics' Policies can be viewed here: http://www.google.com/analytics/ 
+This Website uses Google Analytics in order to track visitor activity with a view to observing and improve site performance, and for market research. This retains information that Google does not deem to be "Personally Identifying Information" (PII). Google Analytics uses cookies to measure user interactions on websites. Full details on GA cookie use here: <https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>
 
-**7\. Information Security**
+Google Analytics may use cookies - and the information (such as, but not limited to, IP address, geographic location (town and country), date and time of access, time spent on site, keywords used in searches to find This Website) generated by the use of Google Analytics is transmitted to, and stored by Google Inc. I have access to this data but have no control over how this information is used by Google Inc. Deletion of personally identifying information is available upon request. Google Analytics' Policies can be viewed here: <http://www.google.com/analytics/>
 
-I have taken reasonable measures to protect such information of yours - whether personally or non-personally identifying, as may reside on my computer systems - such as password access, firewall, and physical locks. However, please note that no internet data transmission or physical data storage can be guaranteed to be 100% secure and I can make no absolute warranty in this regard. 
+**Facebook Fans**
 
-**8\. Links**
+If you have "liked" and are therefore a member of one of our Facebook fan pages, we are able to view your Facebook profile with the same level of privilege as any other regular Facebook user is able to view it. We do not scrape, harvest, copy or process this information in any special way and we do not store it in any archive other than the Facebook fan page itself. Our interaction with our fans consists of moderating comments, occasional extended dialogue and occasionally banning users. Removing yourself from one of our fan pages is simple, just visit the fan page and 'unlike'. 
+
+**Facebook tracking pixel**
+
+We do not currently utilize Facebook Pixel or other tracking pixels on any of our websites.
+
+**Facebook custom audiences**
+
+We do not currently utilize Facebook custom audiences
+
+## 6\. Cookies
+
+\- please review our full **cookie policy** at the link at the foot of this page.
+
+## 7\. Information Security
+
+I have taken reasonable measures to protect such information of yours - whether personally or non-personally identifying, as may reside on my computer systems - such as password access, firewall, and physical locks. However, please note that no internet data transmission or physical data storage can be guaranteed to be 100% secure. 
+
+## 8\. Links
 
 This Website may contain links to and from other Websites, including advertisements. While I do my best only to link to quality resources, I am not responsible for the practices, privacy policy, terms of service or content of those sites. 
 
-**9\. Contact**
-
-If you have any questions concerning this privacy policy, please contact me using the information provided below. 
-
 * * * * *
 
-**CONTACT INFO**
+Privacy Policy (you are here) | [Cookie Policy](http://www.herbs-info.com/policies/cookie-policy.html) | [GDPR](http://www.herbs-info.com/policies/GDPR-compliance-roadmap.html) | [About This Site](http://www.herbs-info.com/about.html) | [Homepage](http://www.herbs-info.com/)
 
-For technical support, customer support, general enquiries and other appropriate assistance, please contact:   
-
-
-[Back To Homepage](http://www.herbs-info.com/)
-
-_© February 2013_
-
-**Copyright info:** Articles on This Website are Copyright and **may not be reproduced in any form** without express permission of the owner.
+_© herbs-info.com 2018_
