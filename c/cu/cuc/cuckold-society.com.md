@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuckold-society.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806081156id_/http%3A//cuckold-society.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuckold-society.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828015346id_/http%3A//www.cuckold-society.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
