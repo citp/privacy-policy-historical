@@ -1,95 +1,60 @@
-> *The following text is extracted and transformed from the cloudincome.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901015636id_/http%3A//www.cloudincome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudincome.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827184729id_/https%3A//www.cloudincome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud Income
 
-Cloudincome.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
+We, CloudIncome, are committed to protecting the privacy of anyone using our site and the confidentiality of any information that you provide us with. The purpose of this statement is to set out how we use any personal information that we may obtain from you via our website.
 
-You or Your means you as a participant in or as a user of the Cloudincome.com website. We or Our or Us means Cloudincome.com. Our site means Cloudincome.com.
+You may opt out of receiving information from us at any time by email:
 
-All information transmitted, printed or otherwise submitted to Cloudincome.com via this website shall be deemed to be the property of Cloudincome.com and Cloudincome.com shall be free to use such information for any lawful purpose as detailed herein.
+Email – [lewis@cloudincome.com](mailto:lewis@cloudincome.com)
 
-This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
+## Use and Collection of Personal Information
 
-We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
+In general, you can visit our website without telling us who you are and without revealing any information about yourself.
 
-**Section 1: Collected Information**  
-We automatically collect and/or track the following:
+However, there are areas of our website where we do gather data as follows:
 
-  1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
-  2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
-  3. information, user specific or aggregate, on what pages our visitors access; and
-  4. E-mail addresses of visitors that communicate with Cloudincome.com via e-mail.
+If you submit an enquiry via our website you will be asked to provide certain information, including name and e-mail address.
 
+If you register on our website to receive newsletters from us you will be asked to provide your name and e-mail address.
 
+We will store this data and hold it via our externally hosted server and some secure third party websites.
 
-**Section 2: Use of Data Collected**  
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes (both via email and through using your email address for targeting on sites such as Facebook.com), and for editorial or feedback purposes for our advertisers.
+We may use information that you provide:
 
-Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails, display and native advertising or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
-
-**Section 3: Disclosure of Data to Third Parties**
-
-If you choose to provide personal information, it will be used for the following purposes:
-
-  1. considering you for a Cloudincome.com product;
-  2. as required by law; and
-  3. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
+  * To register you with our website and to administer it;
+  * To deal with your enquiry which may include contacting your directly and supplying quotations and further information about our services
+  * To send you newsletters if you have opted in to receive them;
+  * For assessment and analysis, e.g. marketing, customer and product analysis, to enable us to review, develop and improve our services. ** **
 
 
 
-**Section 4: Your Opt-Out Rights**  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to: lewis@lewisogden.com
+**Cookies**
 
-**Section 5: We Do Not Intend to Collect Data from Children**
+We collect information directly from you in a number of ways. One way is through our use of “cookies”. Most websites use cookies in order to make them work, or to work more efficiently, as well as to provide information to the owners of the website. They help us to understand how our customers and potential customers use our website so we can develop and improve the design, layout, content and function of the site.
 
-The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Cloudincome.com. No part of Cloudincome.coms web site is structured to attract anyone under the age of 18.
+Cookies are small text files that are placed on your computer’s hard drive by websites that you visit. They save and retrieve pieces of information about your visit to the website – for example, how you entered the site, how you navigated through the site and what information and documentation was of interest to you. This means that when you go back to a website, it can give you tailored options based on the information it has stored about you on your last visit.
 
-**Section 6: Our Right to Contact You**  
-We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
+We use cookies generated by WordPress in order to manage user logins and other core administrative features. These are considered essential for the operation of this website.
 
-**Section 7: Our Right to Change**  
-We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
+We also use Google Analytics to track visitor data trends and general usage statistics. We do not collect any personal information via these cookies other than your IP address. This information is automatically deleted after 26 months following your last visit to our website. These are non-essential cookies.
 
-**Section 8: Our Contact Information**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to:lewis@lewisogden.com
+Finally, we use Google Display Network/Facebook Advertising to run retargeting campaigns based on visits to our website. To opt out of these, please visit [http://optout.aboutads.info](http://optout.aboutads.info/) and update your preferences.
 
-**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
+The rules about cookies on websites have changed. If you are uncomfortable with the use of cookies, you can disable cookies on your computer by changing the settings in the preferences or options menu in your browser. You can set your browser to reject or block cookies or to tell you when a website tries to put a cookie on your computer. You can also delete any cookies that are already stored on your computer’s hard drive. However, please be aware that if you do delete and block all cookies from our website, parts of the site may not work. Likewise, you may not be able to use some products and services on other websites without cookies.
 
-Cloudincome.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from Cloudincome.com in the following circumstances:
+To find out more about cookies, including seeing what cookies have been set and how to manage and delete them, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-  1. Acknowledging your application has been received and requesting additional action
-  2. Requests for additional information to support your current application
-  3. Response to your inquiries regarding the status of your transactional requests
-  4. Thanking you for your valued business
-  5. Advertisements for our products, services, changes in services, new product availability
-  6. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+**Security**
 
+We endeavour to take all reasonable steps to protect your personal information However, we cannot guarantee the security of any data that you disclose online and we will not be responsible for any breach of security unless this is due to our negligence or wilful default.
 
+**General**
 
-To ensure compliance with the Can-Spam Act, Cloudincome.com has implemented the following guidelines for email delivery:
+You have the right to see personal data (as defined in current data protection legislation including GDPR) that we keep about you upon receipt of a written request.
 
-  1. All emails sent to you by Cloudincome.com will clearly identify Cloudincome.com as the sender. FROM / SENDER: someone@cloudincome.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @cloudincome.com).
-  2. Any email from Cloudincome.com will include the ability to unsubscribe from future email messages.
-  3. Unsubscribing will ensure the customer is removed from ALL lists at Cloudincome.com; this excludes customer service emails regarding the processing and status of a current product.
-  4. All emails sent to you directly by Cloudincome.com include valid postal address information in the footer.
-  5. All third party marketing partners are required to comply with the Can-Spam Act.
-  6. Emails sent to you directly by Cloudincome.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
+In the event that you wish to complain about how we have handled your personal data you may also make a formal complaint in writing and we will look into your complaint and work with you to resolve the matter.
 
+Any requests in line with the above should be sent for the attention of our Data Protection Officer (DPO), who is contactable via [lewis@cloudincome.com](mailto:lewis@cloudincome.com)
 
-
-**Section 10: Information for ISPs**  
-Web site: cloudincome.com  
-Email Address: lewis@lewisogden.com  
-(Please replace AT with @ and DOT with .)
-
-Cloudincome.com understands consumers concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. Cloudincome.com and its affiliated sites use only an opt-in or opt out method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. Cloudincome.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
-
-From time to time, Cloudincome.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
-
-  1. that the data was collected voluntarily from individuals on website registrations and co-registrations,
-  2. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
-  3. that Cloudincome.com has the right to send marketing offers to the individuals.
-
-
-
-We hope this information satisfies any questions or concerns you may have regarding the email practices of Cloudincome.com. If you have additional questions or wish to discuss this matter further, please contact us at: lewis@lewisogden.com
+If you still feel that your personal data has not been handled appropriately according to the law, you can contact the ICO and file a complaint with them https://ico.org.uk/concerns/handling/
