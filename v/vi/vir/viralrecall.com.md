@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralrecall.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104101756id_/http%3A//viralrecall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralrecall.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827035900id_/http%3A//viralrecall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – VIRALrecall
 
