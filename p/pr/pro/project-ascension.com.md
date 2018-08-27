@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830030120id_/https%3A//project-ascension.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827152455id_/https%3A//project-ascension.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ascension Classless Realm
 
 #### PRIVACY POLICY
+
+These privacy policies are intended to tell you what information we collect and for what reason.  
+[European Union General Data Protection Regulation No. 2016/679 (Law: May 25th, 2018).](https://ec.europa.eu/info/law/law-topic/data-protection_en)
 
 THIS PRIVACY POLICY HAS BEEN COMPILED TO BETTER SERVE THOSE WHO ARE CONCERNED WITH HOW THEIR 'PERSONALLY IDENTIFIABLE INFORMATION' (PII) IS BEING USED ONLINE. PII, AS USED IN US PRIVACY LAW AND INFORMATION SECURITY, IS INFORMATION THAT CAN BE USED ON ITS OWN OR WITH OTHER INFORMATION TO IDENTIFY, CONTACT, OR LOCATE A SINGLE PERSON, OR TO IDENTIFY AN INDIVIDUAL IN CONTEXT. PLEASE READ OUR PRIVACY POLICY CAREFULLY TO GET A CLEAR UNDERSTANDING OF HOW WE COLLECT, USE, PROTECT OR OTHERWISE HANDLE YOUR PERSONALLY IDENTIFIABLE INFORMATION IN ACCORDANCE WITH OUR WEBSITE.
 
@@ -21,6 +24,19 @@ WE MAY USE THE INFORMATION WE COLLECT FROM YOU WHEN YOU REGISTER, SURF THE WEBSI
  \- TO ALLOW US TO BETTER SERVICE YOU REGARDING FEATURES OR IN RESPONDING TO YOUR SUPPORT REQUESTS.
 
  \- TO SEND PERIODIC EMAILS REGARDING YOUR ACCOUNT OR OTHER SERVICES.
+
+Some of our providers have access to this information for their services:
+
+  * Paymentwall ([PaymentWall GDPR](https://www.paymentwall.com/pl/faq/gdpr/865)): 
+    * Records the  **e-mail address**  and  **IP Address**  when a purchase is made through their platform.
+  * Facebook ([Facebook GDPR](https://fr-fr.facebook.com/business/gdpr)): 
+    * Registers the  **e-mail address**  during each sponsored publication, provided that the player has previously accepted them.
+  * Cloudflare ([Cloudflare GDPR](https://www.cloudflare.com/gdpr/introduction/)): 
+    * Registers the  **IP Address**  when accessing Ascension web page.
+
+
+
+#### The Ascension Support Team is the sole owner of the above data and only qualified members of the Ascension Team can see it. The Ascension team consults only this information for in-game support or technical assistance. A player's information is destroyed after  **3 years**  of inactivity.
 
 #### HOW DO WE PROTECT VISITOR INFORMATION?
 
@@ -82,7 +98,19 @@ WE HONOR DO NOT TRACK SIGNALS AND DO NOT TRACK, PLANT COOKIES, OR USE ADVERTISIN
 
 WE DO NOT ALLOW THIRD PARTY BEHAVIORAL TRACKING
 
-#### CONTACTING US
+**WHAT ARE MY RIGHTS IN REGARDS TO THE PROCESSING OF MY PERSONAL DATA?**
+
+You have the right to the following:
+
+1\. right to access all your data and to download a copy of all of your data
+
+2\. right to delete all of your data
+
+3\. right to write a complaint to a supervisory body that is dealing with personal data protection.
+
+You may choose at any time to disable their account in the [User Panel](https://web.archive.org/web/20180827152455id_/https%3A//project-ascension.com/ucp), in which case the information will be destroyed after a period of  **14 days**. This deactivation is canceled if the account is being used during this time. You have the right to delete your data at any time.
+
+CONTACTING US
 
 IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
 
