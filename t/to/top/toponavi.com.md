@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toponavi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112017id_/http%3A//us.toponavi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toponavi.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828010344id_/http%3A//us.toponavi.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -13,6 +13,8 @@ Your privacy is very important to us. Accordingly, we have developed this policy
   * We will make available to customers information about our policies and practices relating to the management of personal information. 
 
 
+
+We use Google Analytics to analyze how the product is used. These data enable us to optimize the product and its functions. We use it in an anonymous form. 
 
 We use third-party advertising on toponavi.com to support our site. Some of these advertisers may use technology such as cookies and web beacons (for example, Google using Google AdSense). It is usually used for the purpose of geo-targeting or showing certain ads based on specific sites visited. 
 
