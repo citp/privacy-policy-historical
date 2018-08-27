@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouring.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304052632id_/http%3A//scouring.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouring.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827034541id_/http%3A//www.scouring.com/privacy.php) for the most accurate reproduction.*
 
 # Scouring.com
 
