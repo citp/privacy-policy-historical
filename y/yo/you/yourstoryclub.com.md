@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourstoryclub.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001022521id_/http%3A//yourstoryclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourstoryclub.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827144323id_/http%3A//yourstoryclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
