@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tvusd.k12.ca.us privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328175528id_/http%3A//www.tvusd.k12.ca.us/portal/privacy%3Fd%3Dx%26return_url%3D1522143393433) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvusd.k12.ca.us privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827031552id_/http%3A//www.tvusd.k12.ca.us/portal/privacy%3Fd%3Dx%26return_url%3D1535206317115) for the most accurate reproduction.*
 
 # Privacy Notice
 
 ## School Loop Privacy Notice 
 
-(Updated January 2018)
+(Updated May 2018)
 
 ### Welcome!
 
