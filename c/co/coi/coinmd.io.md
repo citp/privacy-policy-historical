@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coinmd.io privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226021126id_/https%3A//coinmd.io/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinmd.io privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827222626id_/https%3A//coinmd.io/privacy.aspx) for the most accurate reproduction.*
 
 # CoinMD | Privacy Policy
 
 Last updated: June 03, 2017
 
-CoinMD, Inc. ("us", "we", or "our") operates the [http://www.coinmd.io](http://www.coinmd.io/index.aspx?ReferringDealerID=0) website (the "Service").
+CoinMD, Inc. ("us", "we", or "our") operates the [http://www.coinmd.io](http://www.coinmd.io/index.aspx?ReferringDealerID=%3C%=referringDealerID%%3E) website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
