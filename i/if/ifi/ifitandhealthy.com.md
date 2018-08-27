@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifitandhealthy.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404220900id_/http%3A//ifitandhealthy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifitandhealthy.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827041427id_/http%3A//ifitandhealthy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » iFitandHealthy.com
 
