@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockstardreams.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027171943id_/https%3A//www.rockstardreams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstardreams.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827163627id_/https%3A//rockstardreams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rockstardreams.com
+# Privacy Policy ·
 
 **What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
@@ -65,11 +65,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.rockstardreams.com/terms/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.rockstardreams.com/terms/>
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [websites privacy policy](https://www.freeprivacypolicy.com/).
 
 This policy was last modified on 2/21/2012
 
@@ -80,4 +80,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 customerservice@rockstardreams.com  
 888-318-0133
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](https://www.rhinosupport.com/).
