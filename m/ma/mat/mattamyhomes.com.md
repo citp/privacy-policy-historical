@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121123305id_/http%3A//mattamyhomes.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827024542id_/https%3A//mattamyhomes.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Mattamy Homes | Privacy Policy
 
@@ -18,7 +18,7 @@ This Privacy Policy has been prepared by Mattamy Homes (" **Mattamy** ", " **we*
 
 **Marketing Communications** :  When you complete a Guest Registry form or otherwise sign-up to receive information regarding Mattamy communities, homes, financial services and related products and services, we collect your contact information such as your name, mailing address, mobile, work or home telephone numbers and email address. We use the information you send you communications based on your interests by mail, email or telephone. You can opt-out of receiving future marketing and promotional communications at any time by clicking on the unsubscribe link included in our email communications or by contacting us as set out under “Contact Us” below.
 
-**Referral Services/Tell-a-Friend** : If you choose to use one of our referral services to tell a friend about our Website or an employment opportunity, we will ask you for your friend’s name and email address.  We will send your friend a one-¬time email on your behalf inviting him or her to visit the site.  We store this information for the sole purposes of sending this one¬time email and tracking the success of our referral program, and we do not use the names or email addresses submitted in these circumstances for any other purpose without consent to do so. You are responsible for ensuring that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message.
+**Referral Services/Tell-a-Friend** : If you choose to use one of our referral services to tell a friend about our Website or an employment opportunity, we will ask you for your friend’s name and email address.  We will send your friend a one-¬time email on your behalf inviting him or her to visit the site.  We store this information for the sole purposes of sending this one-time email and tracking the success of our referral program, and we do not use the names or email addresses submitted in these circumstances for any other purpose without consent to do so. You are responsible for ensuring that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message.
 
 **Survey and Customer Research** :  From time to time, we may offer you the opportunity to participate in one of our surveys or other customer research. We may collect certain personal information such as your name and email address.  The information obtained through our surveys and customer research is used in an aggregated, non-personally identifiable form to help us understand our customers and to enhance our product and service offerings. 
 
@@ -61,7 +61,7 @@ We may use a third party such as Google Analytics to help us gather and analyze 
 
 We may use third parties to serve our advertisements on other websites.  These companies may use cookies, tracer tags or web beacons to report certain information about your visits to our Website and other websites (such as web pages you visit and your response to ads) in order to measure the effectiveness of our marketing campaigns and to deliver ads that are more relevant to you, both on and off our Website. 
 
-To find out more about the collection and use of information by third parties for behavioral advertising purposes, or if you would like to opt-out of certain third-party cookies and make selections about what online advertisement you choose to receive, you can visit the Digital Advertising Alliance website at <http://www.digitaladvertisingalliance.org/> or <http://www.aboutads.info/choices/> or the Digital Advertising Alliance of Canada website at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices). You can opt-out of interest-based ads from Google by visiting <http://www.google.com/settings/ads>.  
+To find out more about the collection and use of information by third parties for behavioral advertising purposes, or if you would like to opt-out of certain third-party cookies and make selections about what online advertisement you choose to receive, you can visit the Digital Advertising Alliance website at <http://www.digitaladvertisingalliance.org/> or <http://www.aboutads.info/choices/> or the Digital Advertising Alliance of Canada website at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices). You can opt-out of interest-based ads from Google by visiting [adssettings.google.com](https://adssettings.google.com/authenticated).  
 
 ### Third Party Links
 
@@ -105,7 +105,8 @@ Please contact our Privacy Officer if:
 You may contact our Chief Privacy Officer by email at steve.kahansky@mattamycorp.com or by mail at the following address:
 
 Mattamy Homes  
-2360 Bristol Circle  
-Oakville, ON  L6H 6M5
+66 Wellington Street W.  
+Suite 5500  
+Toronto, ON M5K 1G8
 
 Attention:  Steve Kahansky
