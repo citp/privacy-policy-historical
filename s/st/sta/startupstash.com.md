@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupstash.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627142141id_/http%3A//startupstash.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupstash.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827174446id_/http%3A//startupstash.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
