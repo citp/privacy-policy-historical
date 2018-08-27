@@ -1,92 +1,127 @@
-> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025073437id_/http%3A//www.quickbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827123010id_/https%3A//www.quickbase.com/privacy) for the most accurate reproduction.*
 
 # Quick Base Privacy Statement
 
 ## Quick Base Privacy Policy
 
-_Last Updated  April 2016_
+ _Last Updated  October 31, 2017_
 
-At Quick Base we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. Throughout this policy, we refer to information that personally identifies you as "personal information."
+At QuickBase, Inc. (“Quick Base”, “we” or “us”), we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site and our service. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site and our service. Throughout this policy, we refer to information that personally identifies you as "personal information."
 
-### You Can Contact Us
+ **Changes to this Privacy Policy**
 
-If you have privacy-related questions that are not addressed here, please contact the Privacy Team or write us at: [privacy@quickbase.com](mailto:privacy@quickbase.com) or Privacy Team, Quick Base, 150 Cambridgepark Dr, Cambridge, MA 02140.
+We will update this privacy policy when necessary to reflect customer feedback and changes in our services as well as applicable laws, rules and regulations. When we post changes to this policy, we will revise the "last updated" date at the top of the policy and post the updated policy at [http://www.QuickBase.com/privacy](http://www.quickbase.com/privacy). If there are material changes to the statement or in how Quick Base will use your personal data, we will notify you either by prominently posting a notice of such changes before they take effect or by directly sending you a notification. We encourage you to periodically review this privacy policy to learn how Quick Base is protecting your information. Using Quick Base websites or services after a notice of changes has been sent to you or published on our website shall constitute consent to the changed terms and practices. Unless stated otherwise, our current privacy policy applies to all information that Quick Base has about you and your account. 
 
-### Personal Information We Collect
+**You Can Contact Us**
 
-The personal information we collect is described below under the heading Additional Quick Base Feature-Specific Information.
+If you have privacy-related questions that are not addressed here, please contact the Privacy Team or write us at: [privacy@QuickBase.com](mailto:privacy@quickbase.com) or Privacy Team, QuickBase, Inc., 150 Cambridge Park Drive, 5th Floor, Cambridge, MA 02140. 
 
-### How We Use Personal Information
+**Personal Information We Collect**
 
-When we ask you for information, we will tell you, --or it will be clear --what we need to know to fulfill your request. We will also tell you how we will use the information we’re asking for. Our Web sites are not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children.
+By using this website or registering for our service, you voluntarily and willingly provide us with certain information, including personally identifiable information, which we collect in order to provide the Quick Base website and service. Personally Identifiable Information refers to information about you that can be used to contact or identify you, and information on your use of and activities at our site and through the Quick Base service that may be connected with you. Personal information that we collect may include, but is not limited to, your name, phone number, billing information, email address and postal addresses. Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of our site and the Quick Base service. If you are unsure whether you would like to provide information to us and/or having your information used as permitted in this Privacy Policy, you should not register for our service or, if you are already a user of our service, you should close your account. We maintain these account identifiers as long as necessary for our internal business purposes. For the sake of clarity this account identifier information is not inclusive of data you may upload and store within Quick Base apps. Please see http://www. QuickBase.com/security-and-compliance for Quick Base's procedure for purging app data at termination of contract. 
 
-Should we sell, merge or transfer any part of our business, part of the sale may include your personal information. If so, you will have the opportunity to ask not to receive promotional information following any change of control.
+**How We Use Personal Information**
 
-We may use sources outside of Quick Base to supplement the information you give us. For example, we may validate your address using other sources. We use this data to help us maintain accuracy and provide you with better service.
+By submitting information, you are expressly and voluntarily accepting the terms and conditions of this privacy policy. You have the right to withdraw your consent to our collection and use of your information by changing your account settings or closing your account, but your withdrawal of consent will not be retroactive. We may use the information you provide to (i) provide our site and services to you and administer your use of our site and services, (ii) to communicate with you and fulfill requests you may make, (iii) to provide you with information and announcements with respect to our service, and (iv) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties. 
 
-Should we sell, merge or transfer any part of our business, part of the sale may include your personal information. If so, you will have the opportunity to ask not to receive promotional information following any change of control.
+We may use your Personal Information to communicate with you through email and text messages and notices posted at our website or on your account and to provide you with customer support. If you decide at any time that you no longer wish to receive any such communications, please follow the “unsubscribe” instructions provided in any of the communications sent to you, or update your “account settings” information. 
 
-We may use sources outside of Quick Base to supplement the information you give us. For example, we may validate your address using other sources. We use this data to help us maintain accuracy and provide you with better service.
+We may also use the information provided by you or obtained through your use of our site or service to improve our site, services, features and content, to customize your user experience, and to better understand your needs and interests. We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes as well as to monitor, measure and analyze use of the site and our services, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors to the site meet the criteria required to process their requests. 
 
-### How We Share Personal Information
+We may use sources outside of Quick Base to supplement the information you give us. For example, we may validate your address using other sources. We use this data to help us maintain accuracy and provide you with better service. 
 
-  * We do not sell or rent your personal information to anyone.
-  * We do not share your personal information with anyone outside of Quick Base for their promotional, including marketing, use.
+**How We Share Personal Information**
 
+We do not sell or rent your personal information to anyone. 
 
+Third Party Service Providers. We have limited relationships with third parties to assist us in providing the Quick Base service to you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. The contracts outline the appropriate use and handling of your information and prohibit third parties from using any of your personal information for purposes unrelated to the product or service for which they’ve been contracted. Vendors are required to maintain the confidentiality of the information we provide to them. 
 
-We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. The contracts outline the appropriate use and handling of your information and prohibit third parties from using any of your personal information for purposes unrelated to the product or service for which they’ve been contracted. Vendors are required to maintain the confidentiality of the information we provide to them. We may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under the law. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as a court order, subpoena, search warrant, or a law enforcement request. We have business partners that provide services, some of which are co-branded. Partner services and sites are clearly identified. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. This Web site may provide links to third-party sites, such as those of our business partners and online advertisers. Because Quick Base does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personal information.
+Legal Disclosures. We may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required to comply with applicable laws, rules or regulations, to enforce or apply our Terms of Service, available at [http://www.QuickBase.com/terms...](http://www.quickbase.com/terms-of-service) and other agreements, or to protect the rights, property, or safety of Quick Base, users of our service, or others. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as a court order, subpoena, search warrant, or a law enforcement request. 
 
-### Cookies, Web Beacons and other Web Technologies
+Business Partners. We have business partners that provide services, some of which are co-branded. Partner services and sites are clearly identified. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. This Web site may provide links to third-party sites, such as those of our business partners and online advertisers. Because Quick Base does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personal information. 
 
-We use a variety of technologies on our Web site. Among these are cookies, which are pieces of information that our Web sites provide to your browser. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to customize your visit to our Web site by recognizing you when you return. You can choose to decline cookies while at our Web site, however, this may limit your ability to access certain areas of the Web site. Most browsers accept and maintain cookies by default. Check the "Help" menu of your browser to learn how to change your cookie preference.
+Business Transfers. Should we sell, merge or transfer any part of our business, part of the sale may include your personal information and you agree that any such third party will have the right to continue to use your Personal Information and other information that you provide to us or which we obtain through your use of the service. 
 
-When we track activity on our Web site, we collect information such as your IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click on to leave our site. Once you leave our site, we do not track you. We use your Web site activity to assist us in offering you a personalized Web experience, assist you with technical support and to tailor our offerings to you. Remember, you control whether you receive Quick Base promotional materials.
+We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. 
 
-We may access and set cookies using Web beacons, also known as single-pixel GIFs which are invisible graphical images. These Web beacons tell us useful information regarding our site such as which pages users access. When we send you e-mails, we may include a single-pixel GIF to determine the number of people who open our e-mails. When you click on a link in an e-mail, we record this individual response to allow us to customize our offerings to you.
+If you use an email address provided by your organization, such as your employer or school, to sign into the Quick Base service, the owner of the domain associated with your email address may: (i) control and administer your account and (ii) access and process data you share with Quick Base. If your organization is administering your use of the Quick Base Service, please direct your privacy inquiries to your administrator. 
 
-Advertising networks that serve ads on our Web site may assign a different cookie to you. The information collected is anonymous and is not linked to your personal information. These cookies may be used to select which ads you see and determine the effectiveness of this advertising. You may choose to decline cookies from third-party ad servers, which Quick Base does not control. To provide you with a seamless experience, we may occasionally use framing. Though your browser may indicate you are at www.quickbase.com, you may be on a partner's site. To determine which site you are on, right-click on the page and then select "properties.” Mac users should press the control key, and click their mouse on the site and then look at "View Source."
+We will provide an individual opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information, you can submit a written request to [privacy@QuickBase.com](mailto:privacy@QuickBase.com). 
 
-### How to Access and Control Your Personal Information
+**Cookies, Web Beacons and other Web Technologies**
 
-We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. Your contact preferences only apply to marketing contacts. We may need to communicate with you regarding the usability of your product or critical messages relating to your service or software (such as service messages, subscription renewal notices, critical notices, or legally mandated notices).
+We use a variety of technologies on our Web site. Among these are cookies, which are pieces of information that our Web sites provide to your browser. Cookies also allow us to customize your visit to our Web site by recognizing you when you return. You can choose to decline cookies while at our Web site, however, this may limit your ability to access certain areas of the Web site. Most browsers accept and maintain cookies by default. Check the "Help" menu of your browser to learn how to change your cookie preference. 
 
-### Security of Personal Information
+When we track activity on our Web site, we collect information such as your IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click on to leave our site. Once you leave our site, we do not track you. We use your Web site activity to assist us in offering you a personalized Web experience, assist you with technical support and to tailor our offerings to you. 
 
-We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. Whenever we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us. Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
+We may access and set cookies using Web beacons, also known as single-pixel GIFs which are invisible graphical images. These Web beacons tell us useful information regarding our site such as which pages users access. When we send you e-mails, we may include a single-pixel GIF to determine the number of people who open our e-mails. When you click on a link in an e-mail, we record this individual response to allow us to customize our offerings to you. 
 
-### Where We Store and Process Personal Information
+**Your Right to Access and Control Your Personal Information**
 
-Quick Base is hosted in datacenters in the United States and complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Quick Base has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the certification, please visit <http://www.export.gov/safeharbor/>.
+You may access, review, revise, correct, or delete the personal information provided in your registration or account profile by changing your preferences in “My Preferences.” If you update any of your information, we may keep a copy of the information that you originally provided to us in our archives for uses documented in this policy. 
 
-### Additional Quick Base Feature-Specific Information
+**Third-Party Platform Advertising**
 
-**Quick Base Registration**
+We may also use platforms provided by companies such as Facebook and Google to offer you interest-based ads. These platforms allow us to personalize the ads that we display to you. We do not share any of your personal information, including your shopping history, with these platform vendors. These advertisers may convert your email address into a unique value which can be matched by our partner company with a user on their platform to allow advertisers to serve you interest-based advertising. Although we do not provide any personal information to these platform vendors, they may gain insights about individuals who respond to the ads we serve. 
 
-When you register for a Quick Base account, you are required to provide certain personal and demographic information in order to set up your account. We also request optional demographic information (which helps us understand our Quick Base customers).
+You may opt-out from receiving targeted advertisements from AdRoll (our third party marketing partner) by visiting the NAI website opt-out page here: <http://www.networkadvertising.org/choices/> or the DAA opt-out page here: <http://www.aboutads.info/> or, for EU users, the EDAA opt-out page here: <http://youronlinechoices.eu/>.
 
-If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum.
+ **Security of Personal Information**
 
-**Quick Base Billing**
+ We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. Whenever we ask for sensitive information we encrypt it as it is transmitted to us. Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
 
-When you subscribe to a level of Quick Base service requiring a fee, we require that you provide your billing address and your credit card information, including credit card number and expiration date. Credit card information is used solely for the purpose of billing you for Quick Base service. Credit card and purchase order information is not shared with third parties except as required to process payments.
+Although Quick Base uses industry standard security measures, the Internet is not a 100% secure environment and Quick Base cannot, and does not, ensure or warrant the security of any information you transmit or store using the Quick Base service. There is no guarantee that your information may not be accessed, disclosed, altered or destroyed by breach of any of Quick Base physical, technical or managerial safeguards and we are not responsible for third party circumvention of your privacy settings or Quick Base’s security measures. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your Quick Base account. 
 
-Your Quick Base service is billed to an account. Quick Base recognizes the account in which your data lives as the owner of your data. The account is responsible for payment and can transfer ownership of your data. Account owners and administrators should keep in mind that if they grant another individual full administrative rights to their account, that person will have access to the account's billing information.
+**Our Retention of Personal Data**
 
-**Quick Base Database Access**
+We retain personal data for as long as necessary to provide the services and fulfill the transactions you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements.
 
-Any content you place in a Quick Base database will not be publicly available unless you voluntarily choose to give permission to other Quick Base users, to Quick Base groups, or to the general public for that database. Quick Base personnel will not view, use, or distribute the content of any of your databases without your prior permission or the express permission of the database owner, except as stated under "Legal Disclosures."
+ **Third Party Links**
 
-You have control over who has access to the data in your databases. When you first create a database, only you have access. At your discretion, you may choose to allow others access to your database. You decide who gets access and at what level (view, modify and/or create).
+When you click on links on our site or through our service, you may leave our site. We are not responsible for the privacy practices of other sites and we encourage you to read the privacy statements at such sites.
 
-Your database information is password protected. We recommend that you do not divulge your password to anyone. Quick Base personnel will not require you to divulge your password, even to provide support or assistance. Remember to sign out of your Quick Base account and close your browser window when you have finished your work. This is to prevent others from accessing your databases if you share a computer with someone else, or are using a computer in a public place, like a library or Internet café.
+ **Other Places Where We Collect Personal Information**
 
-**Quick Base Accounts**
+ Quick Base Blog
 
-Quick Base billing accounts allow access and control over database information dependent upon the roles assigned to specific members of the account.
+If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum. 
 
-A billing account administrator can delete your application without your permission. However, the billing account administrator will not have privileges to view or alter the data unless you grant such access. Quick Base users in the same e-mail domain will be able to see each other's e-mail addresses in addition to their Quick Base screen names. This increases your ability to correctly identify a Quick Base user within your company, which is helpful when granting access permissions. Billing account administrators can also deny any user access to the entire account. If an account owns the e-mail address tied to a user account, a billing account administrator can completely deactivate that user's Quick Base account. Please exercise caution when assigning billing account administration rights.
+Quick Base Billing 
 
-**Quick Base Developer Program**
+When you subscribe to a level of Quick Base service requiring a fee, we require that you provide your billing address and your credit card information, including credit card number and expiration date. Credit card information is used solely for the purpose of billing you for Quick Base service. Credit card transactions are processed by a third party. 
 
-When you apply for the Quick Base Developer Program, you are required to provide your company's address, contact information, and tax ID (or social security number) in order for Quick Base to contact you regarding the Quick Base Developer program and to properly process payments.
+Your Quick Base service is billed to an account. Quick Base recognizes the account in which your data lives as the owner of your data. The account is responsible for payment and can transfer ownership of your data. Account owners and administrators should keep in mind that if they grant another individual full administrative rights to their account, that person will have access to the account's billing information. 
+
+Quick Base Partner Program 
+
+When you apply for the Quick Base Partner Program, you are required to provide your company's address, contact information, and other demographic information in order for Quick Base to contact you regarding the Quick Base Developer program. 
+
+**Where We Store and Process Personal Information**
+
+Quick Base is hosted in datacenters in the United States and complies with the EU-US Privacy Shield Framework and Privacy Principles and the Swiss-US Privacy Shield Framework and Privacy Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. If you have a complaint, you may bring your complaint directly to Quick Base at [privacy@QuickBase.com](mailto:privacy@QuickBase.com) and Quick Base will respond to you within 45 days. An independent recourse mechanism will be available to you and designed to investigate and expeditiously resolve your complaint. 
+
+**Privacy Shield Certification Information**
+
+ The following information aligns Quick Base Privacy Policy with the specific points required by the Privacy Shield self-certification process, and ensures Quick Base’s compliance with the Privacy Shield Frameworks.
+
+Quick Base complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Quick Base has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+
+Quick Base’s accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Quick Base remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Quick Base proves that it is not responsible for the event giving rise to the damage. 
+
+In compliance with the Privacy Shield Principles, Quick Base commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact the dedicated Quick Base compliance team at: 
+
+[privacy@QuickBase.com](mailto:privacy@QuickBase.com)
+
+Quick Base has further committed to refer unresolved privacy complaints under the Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. 
+
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/...](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. 
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
+
+Quick Base is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+
+Organization Information: 
+
+QuickBase, Inc. 
+
+150 Cambridge Park Drive, 5th Floor, Cambridge, MA 02140 
