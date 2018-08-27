@@ -1,66 +1,39 @@
-> *The following text is extracted and transformed from the mycashforum.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214182430id_/http%3A//mycashforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashforum.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827124737id_/https%3A//mycashforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - My Cash Forum
+# Privacy Policy – My Cash Forum
 
-This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the this website website (“Site”). This privacy policy applies to the Site and all products and services offered by this website.
+http://mycashforum.com/ (" **http://mycashforum.com/** ") operates http://mycashforum.com/ and may operate other websites. It is http://mycashforum.com/ policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Personal identification information
+### Website Visitors
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Like most website operators, http://mycashforum.com/ collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. http://mycashforum.com/ purpose in collecting non-personally identifying information is to better understand how http://mycashforum.com/ visitors use its website. From time to time, http://mycashforum.com/ may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Non-personal identification information
+http://mycashforum.com/ also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://mycashforum.com/ blogs/sites. http://mycashforum.com/ only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+### Gathering of Personally-Identifying Information
 
-Web browser cookies
+Certain visitors to http://mycashforum.com/ websites choose to interact with http://mycashforum.com/ in ways that require http://mycashforum.com/ to gather personally-identifying information. The amount and type of information that http://mycashforum.com/ gathers depends on the nature of the interaction. For example, we ask visitors who sign up at <http://mycashforum.com/> to provide a username and email address. Those who engage in transactions with http://mycashforum.com/ are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, http://mycashforum.com/ collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with http://mycashforum.com/. http://mycashforum.com/ does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+### Aggregated Statistics
 
-How we use collected information
+http://mycashforum.com/ may collect statistics about the behavior of visitors to its websites. http://mycashforum.com/ may display this information publicly or provide it to others. However, http://mycashforum.com/ does not disclose personally-identifying information other than as described below.
 
-this website collects and uses Users personal information for the following purposes:
+### Protection of Certain Personally-Identifying Information
 
-– To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-– To improve our Site  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-– To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.  
-– To send periodic emails  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+http://mycashforum.com/ discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on http://mycashforum.com/ behalf or to provide services available at http://mycashforum.com/ websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using http://mycashforum.com/ websites, you consent to the transfer of such information to them. http://mycashforum.com/ will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, http://mycashforum.com/ discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when http://mycashforum.com/ believes in good faith that disclosure is reasonably necessary to protect the property or rights of http://mycashforum.com/, third parties or the public at large. If you are a registered user of an http://mycashforum.com/ website and have supplied your email address, http://mycashforum.com/ may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with http://mycashforum.com/ and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. http://mycashforum.com/ takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-How we protect your information
+### Cookies
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. http://mycashforum.com/ uses cookies to help http://mycashforum.com/ identify and track visitors, their usage of http://mycashforum.com/ website, and their website access preferences. http://mycashforum.com/ visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using http://mycashforum.com/ websites, with the drawback that certain features of http://mycashforum.com/ websites may not function properly without the aid of cookies.
 
-Sharing your personal information
+### Business Transfers
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+If http://mycashforum.com/, or substantially all of its assets, were acquired, or in the unlikely event that http://mycashforum.com/ goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of http://mycashforum.com/ may continue to use your personal information as set forth in this policy.
 
-Third party websites
+### Ads
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by http://mycashforum.com/ and does not cover the use of cookies by any advertisers.
 
-Advertising
+### Privacy Policy Changes
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-Google Adsense
-
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
-
-Newsletter
-
-When signing up to our newsletter you agree with the terms in this Privacy Policy. We shall email you weekly a list of the latest articles that were posted on the site. You agree also to us sending you periodic emails about how to learn the thai language and how to live in Thailand. These emails may have links to other websites other than this website. If you click a link from one of our newsletters and are directed to another site other than this website you agree to the privacy policy of that email as it may differ to that of this website. We will not sell, rent or trade your email to another website. You may choose at any time to be removed from the newsletter either by using the Unsubscribe link in the newsletter email. We use MailChimp as our email newsletter provider and have shared your email address with them. If you wish to see their privacy policy and terms then please use this link here.
-
-Changes to this privacy policy
-
-this website has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us
+Although most changes are likely to be minor, http://mycashforum.com/ may change its Privacy Policy from time to time, and in http://mycashforum.com/ sole discretion. http://mycashforum.com/ encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a http://mycashforum.com/ account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
