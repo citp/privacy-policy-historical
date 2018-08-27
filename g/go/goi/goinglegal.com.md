@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goinglegal.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807223804id_/http%3A//www.goinglegal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goinglegal.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827045108id_/http%3A//www.goinglegal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Article Alley the leader amongst Article Directories
 
