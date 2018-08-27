@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeconduit.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701173451id_/http%3A//www.collegeconduit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeconduit.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828001053id_/http%3A//www.collegeconduit.com/privacy.php) for the most accurate reproduction.*
 
 # CollegeConduit.com
 
