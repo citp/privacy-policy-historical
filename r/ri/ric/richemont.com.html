@@ -1,0 +1,426 @@
+<!--The following is the downloaded HTML source of the richemont.com privacy policy that was archived on 2018-08-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180827165310id_/https%3A//www.richemont.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="EN"><head>
+		<!-- Joomla Headers -->
+		<base href="https://www.richemont.com/privacy-policy.html">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="author" content="Super User">
+	<title>Compagnie Financière Richemont SA - Privacy Policy</title>
+	<link href="/templates/richemonttmpl/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="https://www.richemont.com/component/search/?Itemid=533&amp;format=opensearch" rel="search" title="Search Compagnie Financière Richemont SA" type="application/opensearchdescription+xml">
+	<link href="https://www.richemont.com/plugins/system/osolcaptcha/osolCaptcha/captchaStyle.css" rel="stylesheet" type="text/css">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/media/jui/js/jquery.min.js?a11e3363329391172543d4f4c8814265" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?a11e3363329391172543d4f4c8814265" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?a11e3363329391172543d4f4c8814265" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?a11e3363329391172543d4f4c8814265" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?a11e3363329391172543d4f4c8814265" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+		   				function reloadCapthcha(instanceNo)
+						{
+							var captchaSrc = "https://www.richemont.com/index.php?showCaptcha=True&instanceNo="+instanceNo+"&time="+ new Date().getTime();
+							document.getElementById('captchaCode'+instanceNo).src = captchaSrc ;
+						}
+						
+
+		<!-- Google Tag Manager -->
+				
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  		ga('create', 'UA-59239392-1', 'auto');
+ 		ga('send', 'pageview');
+					
+				
+		<!-- End Google Tag Manager -->
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+		<!-- Default Joomla CSS -->
+		<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+		<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+		<!-- Default template CSS -->
+		<link rel="stylesheet" href="/templates/richemonttmpl/css/template.css" type="text/css">
+		
+		<!-- Content Editor CSS -->
+		<link rel="stylesheet" href="/templates/richemonttmpl/css/content.css" type="text/css">
+		<!-- Javascript loading -->
+		<script type="text/javascript" src="/templates/richemonttmpl/js/pageSize_jQuery.js"></script>
+		<script type="text/javascript" src="/templates/richemonttmpl/js/fontSize.js"></script>
+		<script type="text/javascript" src="/templates/richemonttmpl/js/dropMenu.js"></script>
+		
+		<script type="text/javascript">
+
+			function checkAcceptCookie(){
+				var check = false;
+				var name = "acceptCookie=";
+			    var ca = document.cookie.split(';');
+			    for(var i = 0; i < ca.length; i++) {
+			        var c = ca[i];
+			        while (c.charAt(0) == ' ') {
+			            c = c.substring(1);
+			        }
+			        if (c.indexOf(name) == 0) {
+			        	check = c.substring(name.length, c.length);
+			        }
+			    }
+				toggleAcceptCookie( check );
+			}
+
+			function toggleAcceptCookie( check ){
+				if( check != false ){
+					jQuery('.rnt_cookie').hide();
+				}else{
+					jQuery('.rnt_cookie').show();
+				}
+			}
+
+			function setAcceptCookie(c_name,value,expiredays){
+				var exdate=new Date();
+				exdate.setDate(exdate.getDate()+expiredays);
+				document.cookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toGMTString())+"; path=/";
+				checkAcceptCookie();
+			}
+			
+			function acceptCookie(){
+				setAcceptCookie('acceptCookie','yes',365);
+			}
+		
+			jQuery(document).ready(function() {
+				setTimeout('sizeContent()', 500);
+				parseMenu('main_menu');
+
+				var url = '/privacy-policy.html?tmpl=component&print=1';
+				if (jQuery('.dropdown-menu').length) {
+					jQuery('.print-icon a').html('');
+					jQuery('.print-icon a').html('<img style="vertical-align: middle; border-right: solid #FFFFFF 2px; border-left: solid #FFFFFF 2px;" alt="Print this page" src="/templates/richemonttmpl/images/print_logo.gif" />'
+										+ 'Print');
+					
+					jQuery('.dropdown-menu').append('<li class="bookmark-icon"></li>');
+					jQuery('.bookmark-icon').html('<a class="addbookmark" title="Compagnie Financière Richemont SA - Privacy Policy" href="#">'
+										+ '<img style="vertical-align: middle; border-right: solid #FFFFFF 2px; border-left: solid #FFFFFF 2px;" alt="Bookmark this page" src="/templates/richemonttmpl/images/bookmark_logo.gif" />'
+										+ 'Bookmark'
+										+ '</a>');
+				}
+
+				jQuery('a.addbookmark').click(function(e){
+					e.preventDefault();
+					var bookmarkURL = this.href;
+					var bookmarkTitle = this.title;
+					//var bookmarkURL = location.href;
+					//var bookmarkTitle = document.title;
+					try {
+						if (window.sidebar) { // moz
+							window.sidebar.addPanel(bookmarkTitle, bookmarkURL, "");
+						} else if (window.external || document.all) { // ie
+							window.external.AddFavorite(bookmarkURL, bookmarkTitle);
+						} else if (window.opera) { // duh
+							jQuery('a#bookmark').attr('href',bookmarkURL);
+							jQuery('a#bookmark').attr('title',bookmarkTitle);
+							jQuery('a#bookmark').attr('rel','sidebar');
+						}
+					} catch (err) { // catch all incl webkit
+						alert('Sorry. Your browser does not support this bookmark action. Please bookmark this page manually with CTRL + D.');
+					}
+				});
+
+								if (jQuery('#limit_chzn').length) {
+					jQuery('#limit_chzn').css('width', (jQuery('#limit_chzn').width() + 10) );
+				}
+
+				checkAcceptCookie();
+			});
+		</script>
+	
+	<script type="text/javascript"></script>
+</head>
+	<body>
+	
+		<div class="rnt_cookie">
+			<p>This site uses cookies to deliver website functionality and analysis, as described in our <a href="/terms-of-use.html" target="_blank">Terms of Use</a> and <a href="/privacy-policy.html" target="_blank">Privacy Policy</a>. If you <a href="#" onclick="acceptCookie();">agree</a> to our use of cookies, please continue to use our site.</p>
+		</div>
+		
+		<div class="rnt_left_outer">
+			<div class="rnt_left"></div>
+		</div>
+		
+		<div class="rnt_main_column">
+			<div class="rnt_header">
+				<div class="rnt_logo">
+					<a href="/"><div class="rnt_logo_link"></div></a>
+				</div>
+				
+				<div class="rnt_tools">
+					<div class="rnt_tools_footer">
+						<table class="rnt_table_tools">
+							<tbody><tr>
+								<td class="rnt_table_tools_header">		<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-102"><a href="/group/contact.html">Contact us</a></li></ul>
+		</div>
+	</td>
+								<td class="rnt_table_tools_sizer">
+									<div class="sizer">
+										<a href="javascript:void(0);" title="Decrease" style="font-size: 9px;" onclick="decreaseFontSize(); return false;">A</a>
+										&nbsp;
+										<a href="javascript:void(0);" title="Reset" style="font-size: 13px;" onclick="resetFontSize(); return false;">A</a>
+										&nbsp;
+										<a href="javascript:void(0);" title="Increase" style="font-size: 18px;" onclick="increaseFontSize(); return false;">A</a>
+									</div>
+								</td>
+								<td class="rnt_table_tools_search">
+									<div class="search">
+												<div class="moduletable">
+						<div class="search">
+	<form action="/privacy-policy.html" method="post" class="form-inline">
+		<table class="search_elements"><tbody><tr><td><input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox search-query" type="search" size="20" placeholder="Search ..."></td><td style="width: 20px;"> <button class="button btn btn-primary" onclick="this.form.searchword.focus();"> </button></td></tr></tbody></table>		<input type="hidden" name="task" value="search">
+		<input type="hidden" name="option" value="com_search">
+		<input type="hidden" name="Itemid" value="263">
+	</form>
+</div>
+		</div>
+	
+									</div>
+								</td>
+							</tr>
+						</tbody></table>
+					</div>
+				</div>
+				
+				<div class="rnt_navigation clearfix">
+							<div class="moduletable">
+						<ul class="nav menu" id="main_menu">
+<li class="item-101 deeper parent"><a href="/group.html">Group</a><ul class="nav-child unstyled small"><li class="item-118"><a href="/group/history-including-significant-investments-and-divestments.html">History, including Significant Investments and Divestments</a></li><li class="item-119"><a href="/group/strategy.html">Strategy</a></li><li class="item-120"><a href="/group/organisation.html">Organisation</a></li><li class="item-121"><a href="/group/industrial-sector.html">Industrial Sector</a></li><li class="item-122"><a href="/group/geographical-dispersion.html">Geographical Dispersion</a></li><li class="item-123 parent"><a href="/group/corporate-governance.html">Corporate Governance</a></li><li class="item-129"><a href="/group/affiliated-organisations.html">Affiliated Organisations</a></li><li class="item-130"><a href="/group/research-development-and-innovation.html">Research, Development and Innovation</a></li><li class="item-131 parent"><a href="/group/locations.html">Locations</a></li><li class="item-133 parent"><a href="/group/contact.html">Contact</a></li></ul></li><li class="item-115"><a href="/our-businesses.html">Our Businesses</a></li><li class="item-117 deeper parent"><a href="/sustainability/csr-report.html">Sustainability</a><ul class="nav-child unstyled small"><li class="item-165"><a href="/sustainability/csr-report.html">CSR Report 2018</a></li><li class="item-312 parent"><a href="/sustainability/vision/introduction.html">Vision</a></li><li class="item-168 parent"><a href="/sustainability/our-approach-to-csr.html">Our approach to CSR</a></li><li class="item-318 parent"><a href="/sustainability/governance-ethics.html">Governance &amp; Ethics</a></li><li class="item-194 parent"><a href="/sustainability/sourcing-and-product-integrity.html">Sourcing and product integrity</a></li><li class="item-182 parent"><a href="/sustainability/richemont-as-an-employer.html">Richemont as an employer</a></li><li class="item-176 parent"><a href="/sustainability/environment.html">Environment</a></li><li class="item-188 parent"><a href="/sustainability/community-investment.html">Community Investment</a></li><li class="item-371 parent"><a href="/sustainability/innovating-for-sustainability.html">Innovating for Sustainability</a></li><li class="item-299"><a href="/sustainability/ungc-communication-on-progress.html">UNGC Communication on Progress</a></li><li class="item-202"><a href="/sustainability/global-reporting-initiative-index.html">Global Reporting Initiative (`GRI´) Index</a></li><li class="item-203"><a href="/sustainability/download.html">Download the CSR Report</a></li></ul></li><li class="item-113 deeper parent"><a href="/investor-relations.html">Investors</a><ul class="nav-child unstyled small"><li class="item-136 parent"><a href="/investor-relations/key-figures.html">Key Figures</a></li><li class="item-524"><a href="/images/home/richemont_fact_sheet_04062018.pdf" target="_blank" rel="noopener noreferrer">Fact Sheet</a></li><li class="item-140"><a href="/media-cfr/company-announcements.html">Company Announcements</a></li><li class="item-501"><a href="/investor-relations/yoox-net-a-porter-group-tender-offer.html">YOOX NET-A-PORTER GROUP Tender Offer</a></li><li class="item-141 parent"><a href="/investor-relations/reports.html">Reports</a></li><li class="item-143 parent"><a href="/investor-relations/results-presentations.html">Results Presentations</a></li><li class="item-145 parent"><a href="/investor-relations/corporate-calendar.html">Corporate Calendar</a></li><li class="item-146 parent"><a href="/investor-relations/share-price-information.html">Share Price Information</a></li><li class="item-152 parent"><a href="/investor-relations/shareholder-information.html">Shareholder Information</a></li><li class="item-155"><a href="/investor-relations/dividend-information.html">Dividend Information</a></li><li class="item-156"><a href="/investor-relations/growth-drivers.html">Growth Drivers</a></li><li class="item-157 parent"><a href="/investor-relations/share-buy-back-information.html">Share Buy-Back Information</a></li><li class="item-159"><a href="/investor-relations/risk-management.html">Risk Management</a></li><li class="item-160"><a href="/investor-relations/share-history.html">Share History</a></li><li class="item-161"><a href="/investor-relations/agm.html">AGM</a></li></ul></li><li class="item-114 deeper parent"><a href="/media-cfr/company-announcements.html">Media</a><ul class="nav-child unstyled small"><li class="item-162"><a href="/media-cfr/company-announcements.html">Company Announcements</a></li><li class="item-163"><a href="/media-cfr/press-contacts.html">Press Contacts</a></li><li class="item-164"><a href="/media-cfr/images-for-press-use.html">Images for Press Use</a></li></ul></li><li class="item-297"><a href="https://careers.richemont.com" target="_blank" rel="noopener noreferrer">Careers</a></li></ul>
+		</div>
+	
+				</div>
+			</div>
+			
+			<div id="rnt_content" class="rnt_content">
+									<div id="system-message-container">
+	</div>
+
+					
+										<div class="rnt_left_column">
+						
+					</div>
+										
+										<div class="rnt_mainpage_full">											<div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB">
+	
+		
+			<div class="page-header">
+					<h2 itemprop="headline">
+				Privacy Policy			</h2>
+									</div>
+							
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-665" aria-label="User tools" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-665">
+											<li class="print-icon"> <a href="/privacy-policy.html?tmpl=component&amp;print=1" title="Print article < Privacy Policy >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">	Print</a> </li>
+																			</ul>
+			</div>
+		
+	</div>
+			
+		
+	
+	
+		
+									<div itemprop="articleBody">
+		<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span class="txt_bold">Last updated: May 2018</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span class="txt_bold_blue">About Richemont and these Terms of Use</span></p>
+<p style="text-align: justify;">Compagnie Financière Richemont SA has its registered offices at 50, chemin de la Chênaie, CP30, 1293 Bellevue, Geneva, Switzerland. In this Privacy Policy, we use the term Richemont (and "<b>we</b>", "<b>us</b>" and "<b>our</b>") to refer to the head office of Richemont at the registered address above, and our affiliates.</p>
+<p style="text-align: justify;">Please take a moment to read the following policy that explains how we collect, use, disclose and transfer the personal information that you provide to us on our websites, mobile applications and other digital platforms (together referred to as the “<b>Platforms</b>”), when you contact us by telephone, or when you interact with us over social media platforms. It also explains how we collect information through the use of cookies and related technologies when you use our Platforms.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">General Data Protection Regulation Representative</span></p>
+<p style="text-align: justify;">For the purpose of the General Data Protection Regulation in the European Union, we have appointed the following entity as our legal representative:</p>
+<p style="text-align: justify; font-style: italic;">
+Data Protection &amp; Privacy Team<br>
+RLG EUROPE B.V.<br>
+Herengracht 436<br>
+1017BZ Amsterdam<br>
+The Netherlands
+</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">Updates to this Privacy Policy</span></p>
+<p style="text-align: justify;">From time to time we may update this Privacy Policy. When we do, we will publish the changes on this Platform.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">Information you provide to us and how we use it</span></p>
+<p style="text-align: justify;">We collect the information from you as detailed below:</p>
+<ul>
+<li>If you register on the Platform to receive company announcements, you will be asked to provide personal information about yourself, such as your name and contact details;</li>
+<li>We will collect personal information from you when you correspond with us, and when you provide your details when you visit our offices or contact Richemont by telephone. Please note that phone calls will on occasion be recorded for security, training and development purposes;</li>
+<li>If you are a shareholder or proxyholder of Richemont, we will collect information relating to that shareholding, such as your name, contact details, number of shares held, and voting instructions;</li>
+<li>If you choose to interact with Richemont via a third party service, we will collect the information you have provided to us through that platform;</li>
+<li>We also collect certain information automatically about visitors to our Platform, described in the section headed "Cookies and other information that we automatically collect", below; and</li>
+<li>We will collect information about your location to the extent that we provide any location services, described in the section headed “Location services” below.</li>
+</ul>
+<p style="text-align: justify;">We will use the information we collect from you to:</p>
+<ul>
+<li>Manage our records, including corporate registers, and facilitate the running of any relevant meetings;</li>
+<li>Deal with your enquiries and requests;</li>
+<li>Send communications, including announcements and administrative messages, and notices of meetings;</li>
+<li>Understand how our Platform is used so that we can continuously improve our Platform.  </li>
+</ul>
+<p style="text-align: justify;">Where you have agreed to a particular use of your information, we process it on the basis of your consent. You may withdraw that consent at any time by contacting us (see the section headed <span style="font-style: italic;">“<a href="/privacy-policy.html#contact_us" target="_self">Contact us</a>”</span> below). We also process your information where this is necessary for the performance of a contract with you, your investment in Richemont, or where it is necessary for our legitimate interests of operating, protecting and improving our business.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">Cookies and other information that we automatically collect</span></p>
+<p style="text-align: justify;">Like most platforms, Richemont logs IP addresses and uses cookies and similar technologies that allow us to recognise you and to customise your experience, and provide us with information about the way our visitors access our Platform. You can find out more about how we use cookies and related technologies below.</p>
+<p style="text-align: justify;"><span class="txt_bold">What is a cookie?</span></p>
+<p style="text-align: justify;">Cookies are text files, containing small amounts of information, which are downloaded to your computer or mobile device when you visit a website or mobile application. They are used to recognise your computer as you move between pages on a website, or when you return to a website or mobile application you have visited previously. Cookies are widely used in order to make platforms work, or to work more efficiently, as well as to provide information to the owners of the platform.</p>
+<p style="text-align: justify;">We use cookies to enhance the online experience of our visitors (for example, by remembering your language and/or product preferences) and to better understand how our Platform is used. Cookies will tell us, for example, whether you have visited our Platform before or whether you are a new visitor. They can also help to ensure that adverts you see online are more relevant to you and your interests.</p>
+<p style="text-align: justify;">There are two broad categories of cookies:</p>
+<ul>
+<li><b>First party cookies</b>, served directly by Richemont to your computer or mobile device. They are used only by Richemont to recognise your computer or mobile device when it revisits our Platform.</li>
+<li><b>Third party cookies</b>, which are served by a third party service provider on our Platform, and can be used by the service provider to recognise your computer or mobile device when it visits other platforms. Third party cookies are most commonly used for platform analytics or advertising purposes.</li>
+</ul>
+<p style="text-align: justify;">Cookies can remain on your computer or mobile device for different periods of time. Richemont uses both 'session cookies' and ‘permanent cookies’. Session cookies exist only while your browser is open and are deleted automatically once you close your browser. Permanent cookies survive after your browser is closed, and can be used to recognise your computer or mobile device when you open your browser and browse the internet again.</p>
+
+<p style="text-align: justify;"><span class="txt_bold">What cookies does Richemont use?</span></p>
+<p style="text-align: justify;">The Platform serves only the following types of cookies to your computer or mobile device:</p>
+
+<table style="text-align: left; border-collapse: separate;" class="dataTable" cellspacing="0" cellpadding="2" border="0">
+<tbody>
+<tr class="blue">
+<th style="text-align: left;">Type of Cookie</th>
+<th style="text-align: left;">Purpose</th>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p style="text-align: left;"><b>Cookies necessary for essential purposes</b></p>
+</td>
+<td style="text-align: right;">
+<p style="text-align: justify;">These cookies are essential to provide you with services available through this Platform and to use some of its features, such as access to secure areas. Without these cookies, services you have asked for, like transactional pages and secure login accounts, would not be possible.</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p style="text-align: left;"><b>Functional Cookies</b></p>
+</td>
+<td style="text-align: right;">
+<p style="text-align: justify;">These cookies serve a variety of purposes related to the presentation, performance and functionality of this Platform. Their overall purpose, however, is to enhance visitors’ experience and enjoyment of this Platform. For example, some of these cookies enable visitors to specify language, product.
+</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p style="text-align: left;"><b>Performance Cookies</b></p>
+</td>
+<td style="text-align: right;">
+<p style="text-align: justify;">These cookies are used to collect information about how visitors use our Platform.<br>
+The information gathered does not identify any individual visitor and is aggregated. It includes the number of visitors to our Platform, the platforms that referred them to our Platform and the pages that they visited on our Platform.<br>
+We use this information to help run our Platform more efficiently, to gather broad demographic information and to monitor the level of activity on our Platform.</p>
+</td>
+</tr>
+</tbody></table>
+
+<p style="text-align: justify;"><span class="txt_bold">How to control or delete cookies</span></p>
+<p style="text-align: justify;">We use non-essential cookies on the basis of your consent. You have the right withdraw that consent and refuse the use of cookies at any time and we have explained how you can exercise this right below. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Platform.</p>
+<p style="text-align: justify;">You can set your cookie preferences by changing your browser settings so that cookies from this Platform cannot be placed on your computer or mobile device. In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility).</p>
+<p style="text-align: justify;">Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a> and <a href="http://www.youronlinechoices.eu" target="_blank">www.youronlinechoices.eu</a>.</p>
+
+<p style="text-align: justify;"><span class="txt_bold">IP addresses</span></p>
+<p style="text-align: justify;">We will collect information about your computer or mobile device, including where available your IP address, operating system, log-in times and browser type. We use this information to better understand how visitors use our Platform and for internal reporting purposes. We will anonymise and share this information with advertisers, sponsors or other businesses.</p>
+
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">Location services</span></p>
+<p style="text-align: justify;">Some of the services that we provide are able to use information about your location. For these services, which are typically available on mobile devices or applications, you are provided with the opportunity to provide your consent to the use of location services, which, for example, process information deriving from GPS, sensors, beacons or Wi-Fi access points in order to allow you to benefit from a more personalised service. Your device will have settings that allow you to turn off these services should you no longer wish to benefit from them.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue"><a name="sharing_your_information"></a>Sharing your information</span></p>
+<p style="text-align: justify;">We do not share personal information about you with other people or non-affiliated companies except under the following circumstances: </p>
+
+<ul>
+<li>we will disclose your personal information to third party providers for the purposes of providing any services required in order for us to use your information for the purposes specified in the section entitled <span style="font-style: italic;">“Information you provide us and how we use it”</span>;</li>
+<li>we will disclose your personal information to any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party;  and</li>
+<li>we will disclose your personal information to any third party that purchases, or to which we transfer, all or substantially all of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this Privacy Policy.</li>
+</ul>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">International transfers</span></p>
+<p style="text-align: justify;">We have implemented standard contractual clauses to ensure adequate safeguards are in place to protect your information where it is transferred to our affiliated companies in territories outside the European Economic Area and Switzerland.  Where we share your information with a third party service provider outside of the European Economic Area and Switzerland (as detailed in the section entitled <span style="font-style: italic;">“<a href="/privacy-policy.html#sharing_your_information" target="_self">Sharing your information</a>”</span>), we contractually oblige the third party service provider to implement adequate safeguards to protect your information.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">Protecting your information</span></p>
+<p style="text-align: justify;">We want you to feel confident about using our Platform, and we are committed to protecting the personal information we collect. We limit access to personal information about you to employees who reasonably need access to it, to provide products or services to you or in order to do their jobs. We have appropriate technical and organisational physical, electronic, and procedural safeguards to protect the personal information that you provide to us against unauthorised or unlawful processing and against accidental loss, damage or destruction. However, where we ask you to choose a password in order to access certain parts of our Platform, you are responsible for selecting a secure password and keeping that password confidential. You should choose a password which you do not use on any other site, and you should not share it with anyone else.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">Retaining your information</span></p>
+<p style="text-align: justify;">We keep your information for only as long as is necessary for our purposes, and in particular to protect ourselves in the event of a legal claim (for example, information relating to a contract with you will be kept for the lifetime of the contract and up to ten years after). After this period it will be deleted or in some cases anonymised. Where we sought your consent to process your personal information and we have no other lawful basis to continue with that processing, if you subsequently withdraw your consent we will delete your personal information.</p>
+<p style="text-align: justify;">If you request that we no longer send you direct marketing communications, we will keep a record of your request and contact details to ensure that your request is respected.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue">Your choices</span></p>
+<p style="text-align: justify;">You have the right to ask for access to any personal information that we hold about you in our records, to correct any inaccuracies and to update any out-of-date information. In some circumstances, you have the right to request the erasure of your personal information or a restriction of its use.</p>
+<p style="text-align: justify;">You have the right to object to us processing your personal information in some cases. In particular, if you registered on the Platform to receive company announcements, you may unsubscribe at any time (however, please note if you are a shareholder of Richemont, you may continue to receive relevant information, such as annual reports and notices of meetings). If you wish to exercise any of these rights, please write to us at the address or email address listed in the section headed <span style="font-style: italic;">“<a href="/privacy-policy.html#contact_us" target="_self">Contact us</a>”</span> below.</p>
+<p style="text-align: justify;">If you have a concern about how we use your information, as a first step please contact us using the details set out below and we will do our best to resolve your concern. After investigating your concern, we will respond to you in writing within a reasonable time setting out our proposed remedial action. If you think we have processed your personal information in a manner which is unlawful or breaches your rights you also have the right to complain to a European Data Protection Authority in your place of residence or work, or the jurisdiction in which the processing took place.</p>
+<br>
+<p style="text-align: justify;"><span class="txt_bold_blue"><a name="contact_us"></a>Contact us</span></p>
+<p style="text-align: justify;">If you have any questions or comments about this Privacy Policy, or privacy matters generally, please contact us at the address provided below. You can also use this address if you wish to request access to the personal information we hold about you or to unsubscribe from any further e-mail communications.</p>
+<p style="text-align: justify;">If you have any questions about this Privacy Policy or the manner in which your information may be processed, please contact us at:</p>
+<p style="text-align: justify;">
+Data Protection <br>
+Compagnie Financière Richemont SA<br>
+Chemin de la Chênaie 50 <br>
+CP30 <br>
+1293 Bellevue <br>
+Geneva <br>
+Switzerland
+</p>
+<p style="text-align: justify;">
+Email: <span id="cloak5bcd9320a423448ffad3a51cb38a7801"><a href="mailto:investor.relations@cfrinfo.net">investor.relations@cfrinfo.net</a></span><script type="text/javascript">
+				document.getElementById('cloak5bcd9320a423448ffad3a51cb38a7801').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy5bcd9320a423448ffad3a51cb38a7801 = '&#105;nv&#101;st&#111;r.r&#101;l&#97;t&#105;&#111;ns' + '&#64;';
+				addy5bcd9320a423448ffad3a51cb38a7801 = addy5bcd9320a423448ffad3a51cb38a7801 + 'cfr&#105;nf&#111;' + '&#46;' + 'n&#101;t';
+				var addy_text5bcd9320a423448ffad3a51cb38a7801 = '&#105;nv&#101;st&#111;r.r&#101;l&#97;t&#105;&#111;ns' + '&#64;' + 'cfr&#105;nf&#111;' + '&#46;' + 'n&#101;t';document.getElementById('cloak5bcd9320a423448ffad3a51cb38a7801').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy5bcd9320a423448ffad3a51cb38a7801 + '\'>'+addy_text5bcd9320a423448ffad3a51cb38a7801+'<\/a>';
+		</script><br>
+Phone: +41 22 721 3500
+</p>
+ 	</div>
+
+	
+							</div>
+
+					</div>					
+																							</div>
+			
+			<div class="rnt_footer">
+				<div class="rnt_footer_left">
+					<ul style="float: left; display: inline;">
+						<li>© Richemont 2018</li>
+						<li style="border-right: solid #005288 1px;">™ Our Maisons is a trade mark of Richemont</li>
+					</ul>
+							<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-103 default"><a href="/">Home</a></li></ul>
+		</div>
+	
+				</div>
+				<div class="rnt_footer_right">
+							<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-105"><a href="/sitemap.html">Sitemap</a></li><li class="item-106"><a href="/credits.html">Credits</a></li><li class="item-107"><a href="/terms-of-use.html">Terms of Use</a></li><li class="item-533 current active"><a href="/privacy-policy.html">Privacy Policy</a></li></ul>
+		</div>
+	
+				</div>
+			</div>
+			
+		</div>
+		
+		
+		<div class="rnt_right_outer">
+			<div class="rnt_right"></div>
+		</div>
+	
+</body></html>
