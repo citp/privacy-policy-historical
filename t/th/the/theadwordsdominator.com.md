@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadwordsdominator.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319165714id_/http%3A//theadwordsdominator.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadwordsdominator.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828171749id_/http%3A//theadwordsdominator.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Web Page
 
