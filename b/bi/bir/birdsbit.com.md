@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdsbit.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625201440id_/http%3A//birdsbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsbit.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828112120id_/http%3A//birdsbit.com/privacy) for the most accurate reproduction.*
 
 # BirdsBit.com - free bitcoin faucet!
 
