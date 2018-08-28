@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbai.org privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209152330id_/http%3A//www.wbai.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbai.org privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829013134id_/https%3A//www.wbai.org/privacypolicy.html) for the most accurate reproduction.*
 
 # WBAI-FM - Local Board Elections
 
@@ -37,7 +37,7 @@ Our Privacy Policy link includes the word 'Privacy' and can be easily be found o
 
 Users will be notified of any privacy policy changes on our Privacy Policy Page.
 
-Users are able to change their personal information [by emailing or phoning us](https://web.archive.org/web/20170209152330id_/http%3A//www.wbai.org/contact.php).
+Users are able to change their personal information [by emailing or phoning us](https://web.archive.org/web/20180829013134id_/https%3A//www.wbai.org/contact.php).
 
 **How does our site handle do not track signals?** We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
