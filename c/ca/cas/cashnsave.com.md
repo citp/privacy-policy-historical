@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnsave.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000808id_/http%3A//cashnsave.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnsave.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828052644id_/http%3A//cashnsave.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -148,7 +148,7 @@ Email us at unsubscribe@cashnsave.com and we will promptly remove you from **ALL
 
 **Search Service**
 
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy> , and the search provider's privacy policy, as applicable. 
+Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, please visit the end user privacy statements of our 3rd party web search services providers by clicking [here](https://www.codefuel.com/legal/end_user_privacy_policy/) and Bing at <http://go.microsoft.com/fwlink/?LinkId=521839>, both as updated from time to time and at any successor locations. 
 
 **Contacting Us**
 
@@ -166,4 +166,4 @@ USA
 
 support@cashnsave.com
 
-Last Edited on 2015-02-25
+Last Edited on 2017-09-11
