@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildaboutmovies.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627110358id_/http%3A//www.wildaboutmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildaboutmovies.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828154455id_/http%3A//www.wildaboutmovies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wild About Movies
 
@@ -44,7 +44,7 @@ C. HOW Wild About Movies USES YOUR INFORMATION
 
 5\. Promotional E-mails. Wild About Movies may use your Personal Information to send you e-mails periodically listing promotions or events relating to the Wild About Movies Properties or from Wild About Movies’s marketing partners or sponsors. You have the choice to opt-out of receiving such promotional e-mails by sending an e-mail to support @Wild About Movies.com and/or following the instructions in such correspondence. Once Wild About Movies’s has processed your opt-out request, Wild About Movies will not send you promotional e-mails unless you opt back in to receiving such communications.
 
-6\. Contact Information. If you contact Wild About Movies by telephone, e-mail or letter, Wild About Movies may keep a record of your contact information and correspondence. If you report a problem with the Wild About Movies Properties, Wild About Movies may collect this information in a file specific to you. You may contact Wild About Movies at support@Wild About Movies.com to request the removal of this information from Wild About Movies’s database.
+6\. Contact Information. If you contact Wild About Movies by telephone, e-mail or letter, Wild About Movies may keep a record of your contact information and correspondence. If you report a problem with the Wild About Movies Properties, Wild About Movies may collect this information in a file specific to you. You may contact Wild About Movies at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) About Movies.com to request the removal of this information from Wild About Movies’s database.
 
 D. HOW TO ACCESS AND CHANGE YOUR PERSONAL INFORMATION
 
