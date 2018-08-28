@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smnweekly.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928075937id_/https%3A//www.forexnewslab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smnweekly.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828195454id_/https%3A//www.forexnewslab.com/privacy) for the most accurate reproduction.*
 
 # Privacy – SMNWeekly
 
