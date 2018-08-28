@@ -1,109 +1,137 @@
-> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620091318id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828142925id_/https%3A//www.shermanstravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shermans Travel
+# Shermans Travel | Privacy Policy
 
-### PRIVACY POLICY FOR SHERMANS TRAVEL
+**PRIVACY POLICY FOR SHERMANSTRAVEL AND SHERMANSCRUISE**
 
-ShermansTravel.com (the "Site") is owned by ShermansTravel Media, LLC. ("Shermans Travel"). Shermans Travel values your privacy and is dedicated to protecting your personal information and providing you with:
+**Last Changes to Privacy Policy: May 25, 2018**
 
-#### Notice
+We are strongly committed to letting you know how we will collect and use your information. This privacy policy (“Privacy Policy”) is applicable to information collected through shermanstravel.com and shermanscruise.com, the affiliated network of websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by ShermansTravel and ShermansCruise; all apps published by ShermansTravel and ShermansCruise; and all other interactive features, services, and communications provided by ShermansTravel and ShermansCruise (“Service” or “Services”), however accessed and/or used, that are operated, made available, or produced and maintained by ShermansTravelMedia, LLC (collectively “ShermansTravel” or “we”, “us”, or “our”). We have established this Privacy Policy to let you know the kinds of information we may gather during your use of this Service, why we gather your information, what we use your information for, when we might disclose your information, and how you can manage your information.  By using our Service, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Service.  
 
-  * What personally identifiable information we collect
-  * How the information is used
-  * With whom the information may be shared
+If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [privacy@shermanstravelmedia.com](mailto:privacy@shermanstravelmedia.com).
 
+**What Information About You Is Collected and Stored?**
 
+We collect two basic types of information from you in conjunction with your use of the Service, information you give us and information we collect from you automatically.
 
-#### Consent
+_Information You Give to Us_
 
-  * What choices you have regarding collection, use and   
-distribution of that information
+We do not require you to provide any information directly in order to access our Services. However, you may be asked to provide details such as name, email address, and physical address when you undertake the following actions:
 
-
-
-#### Security
-
-  * Procedures we use to protect against the loss, misuse or   
-alteration of that information
-
-
-
-#### Access
-
-  * How you can correct any inaccuracies in the information   
-we have collected from you
+  * Registration for an account on the Services
+  * Responding to an offer on the Services
+  * Profile information that you provide for your user profile
+  * Participation in surveys, promotions, contests, and/or sweepstakes offered by ShermansTravel
+  * Signing up to receive alerts or other information via email, text or instant message from ShermansTravel
+  * Request for customer service or other assistance
+  * Service related communications, e.g. account verification; technical notification
+  * Participation in communities, chat rooms and comment threads, other fora, and other interactive services
+  * Submission of content or other data and information on any part of the Service that permits it
+  * Any other place on the Service where you knowingly volunteer personal information, such as when you place an order, upload content, or provide your e-mail address
 
 
 
-### INFORMATION WE COLLECT
+_Information_ _We Collect from You Automatically_
 
-Tracking Technology: Shermans Travel logs IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Site. We may track your movement within the Site, the pages from which you were referred, access times and browser types. We only use this information in aggregate and do not link it to you personally unless you opt in as a subscriber.
+When you interact with the Services, we may collect certain information about your use of the Services. Generally, we automatically collect and store the following categories of information:
 
-To gauge the effectiveness of our Site, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name, the web page from which a visitor enters our Site, which pages a visitor visits on our Site, and how much time a visitor spends on each page. We may use anonymous tracking technologies to collect, store and sometimes track information for statistical purposes and to improve the products and services we provide. We aggregate this information and use it to evaluate and improve our Site. 
+  * Device information about your computer, browser, mobile device, or other device that you use to access the Service. This information may include IP address, unique device identifiers, browser type, and browser language
+  * Additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses.
 
-We store information that we collect through cookies, log files, clear gifs, and/or third party sources for instance to verify your address or update your information and to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the Site for you. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this Site. We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file Persistent cookies are used to differentiate subscribers from non-subscribers to customize the content of certain sections of the website and enable us to track and target the interests of our users to enhance the experience on our Site. 
 
-If you reject cookies, you may still use our Site, but your ability to use some areas of our Site, such as promotions or surveys, may be limited.Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers. 
 
-Newsletter Registration: To receive our free newsletter, and to receive other offers from time to time, you must first complete the registration form. Information you provide may be used to contact you about the services on our Site in which you have expressed interest. 
+Much of this information is collected through “cookies”, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences and actions. We use cookies to monitor traffic, improve the Services and make it easier and/or relevant for your use (for example, to identify your likely home airport to facilitate the use of our trip search engine).
 
-Surveys or Promotions: From time to time we may provide you the opportunity to participate in sweepstakes or other promotions on our Site, which might be sponsored or conducted by a third party. If you participate, we will request certain personally identifiable information from you. Participation in these sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information. If there is a third party sponsor involved please make sure to review that party's privacy policy. 
+ShermansTravel also works with a variety of advertisers, advertising networks, advertising servers, and marketing analytics companies. These parties use various tracking technologies, and technologies from third-party companies, including Facebook, Google, and other social media to collect data in order to send and serve relevant advertising to users.  These technologies may be used to track user behavior and serve you more relevant advertising, both on our Services and other websites that you visit.  This privacy policy does not cover the collection, use, and storage practices of third parties who set tracking cookies on our website.
 
-Tell-A-Friend: We may from time to time conduct a referral service to introduce people you know to our Site and services. If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Shermans Travel stores this information for the purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [privacy@shermanstravel.com](https://web.archive.org/contact/?d=6)[ ](https://web.archive.org/contact/?d=7) to request that we remove this information from our database. 
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Surveys: We may from time to time provide a survey for our readers to fill out providing us with demographic information (such as income level and gender) to us. We encourage you to submit this information so we can provide you a more personalized experience on our Site but participation is entirely voluntary. 
+You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices), and the [European Interactive Digital Advertising Initiative](http://www.youronlinechoices.eu/). Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device.
 
-Third Party Links: We encourage you to be aware when you leave our Site and to read the privacy statements of each and every Web Site that collects personally identifiable information. This privacy statement applies only to information collected by our Site 
+The third-party website analytics tools that collect automated information about visitor traffic on our Site include Google Analytics. Google Analytics is a web analytics service provided by Google, Inc., on our Site. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Site, compile reports on the Site’s activity, and provide other services related to the Site’s activity and usage. The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s [privacy policies](https://www.google.com/policies/privacy/partners/). You can learn how Google collects and processes data and how to opt out of tracking of analytics by Google, by clicking [here](http://www.google.com/policies/privacy/partners/).
 
-### USE OF PERSONAL INFORMATION
+When you interact with us through a social media platform, such as by clicking on a social media icon (Facebook, Twitter, Google+, Tumblr, LinkedIn, YouTube, or Pinterest) linked from the Services, we may collect the information that you make available to us on that page, including your account ID or “handle” and other information about your posts. We will only collect and store such information that we are permitted to collect by the terms of service and privacy policies of these social media platforms.
 
-Vendors: We employ other companies and individuals to perform functions on our behalf. Examples might include fulfilling orders, sending e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+**Combination of Information Collected from One or More Other Services**
 
-Newsletters: If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. 
+We may use your information that we collect from one Service in combination with your information collected from one or more other Services or in reports and analysis, all of which are owned and operated by ShermansTravel, and we may combine personal information gathered from your use of the Services into a single customer record or analysis or report. We also use and/or combine information that we collect off-line or we collect or receive from third party sources to enhance, expand, and check the accuracy of your customer records.
 
-Service-related Announcements: We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or the delivery of a service or product is delayed we might send you an email, or if there is some service issue with something you might have ordered. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your subscription or order by contacting [customerservice@shermanstravel.com](https://web.archive.org/contact/?d=5). 
+**How Do We Use Your Information?**
 
-Third Party Offers: We Share Personally Identifiable Information with Third Parties in order to have them send you special offers and promotions that we think you might find of interest to you. We will also occasionally send you information on products, services, special deals,or promotions which we have found that are of interest to our readers. You can also sign up for these promotional emails from us from our profile page located at [http://www.shermanstravel.com/profile/](https://web.archive.org/profile "/profile/"). If you do not want Shermans Travel to use the information you provide in order to inform you of products and services that might be of interest to you, or to provide your information to third party companies you can make your preference known. Please see the "Choice and Opt-out". 
+We use your information to help us personalize and continually improve your experience on the Service and in the following ways:
 
-Exceptional Circumstances: If Shermans Travel, or any of its lines of businesses or affiliated companies, is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, the relevant customer database of Sherman Travel could, in whole or in part, be sold as part of that transaction. In such transactions, personal information will be subject to the promises made in any pre-existing Privacy Policy in effect when the information was obtained. In the event Shermans Travel goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
+**General Uses**
 
-We also may have to release personally identifying information when it is necessary to comply with judicial or other government subpoenas, warrants, orders, or to protect the rights, property, or safety of Shermans Travel or others. This includes exchanging information with other companies and organizations for fraud protection. 
+  * Send you the e-mail subscriptions and other material you request
+  * Communicate with you, including to respond to your inquiries or provide you important announcements about our Services
+  * Upload your content to our Service as you request
+  * Communicate with you about your account or transactions with us (including service related announcements) and send you information about features and enhancements on our Service
+  * Communicate with you about your comment to a community
+  * Personalize content and experiences on our Service, including providing you advertising, reports, recommendations and feedback based on your preferences
+  * Optimize or improve our products, services and operations
+  * Perform statistical, demographic, and marketing analyses of users of the Services
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal
 
-### CHOICE AND OPT OUT
 
-You may opt-out of use of your information as set forth above by emailing us at [privacy@shermanstravel.com](https://web.archive.org/contact/?d=6). We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For instance, if you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by visiting [http://www.shermanstravel.com/profile/](https://web.archive.org/profile "/profile/"). You may also email us at [privacy@shermanstravel.com](https://web.archive.org/contact/?d=6).
 
-### ACCESS TO YOUR INFORMATION
+**To Whom Do We Provide Your Information?**
 
-If for any reason you are concerned that the personal information maintained by Shermans Travel is not correct, or should you wish to have your email address removed from our mailing list or sharing list, please email the [privacy@shermanstravel.com](https://web.archive.org/contact/?d=6)[.](https://web.archive.org/contact/?d=7) We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our Sites. 
+Except as disclosed in this Privacy Policy, we do not disclose your information to anyone or any company not part of ShermansTravel or its parent company, subsidiaries or related entities. In no event will we sell or rent your information as part of a customer list or similar transaction.
 
-### HOW SHERMANS TRAVEL PROTECTS YOUR INFORMATION
+_Business Partners and Third Parties_
 
-We have security procedures in the storage and disclosure of personal information, which you have given us in order to prevent unauthorized access. Keep in mind however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+We may share your information with our business partners or co-marketers from time to time. We may also share your information with third parties that provide products and services that we think you may be interested in. Although our treatment of your information is governed by this Privacy Policy, the business partner’s or third party’s treatment of your information will be governed by the business partner’s or third party’s privacy policy. You may withdraw your consent to our sharing of your information with business partners and third parties at any time by following the opt-out process described below.
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+_Third-Party Agents_
 
-Our Site may also contain links to other Web Sites. Keep in mind that Shermans Travel does not control and is not responsible for the privacy or security practices or the content of these or other Web Sites. 
+We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as hosting, billing, push notifications, storage, bandwidth, content management tools, analytics, customer service, fraud protection, etc. These entities have access to your information that they need to perform their functions and are contractually obligated to maintain the confidentiality and security of your information. They are restricted from using, selling, distributing or altering your information in any way other than to provide the requested services to the Service.
 
-### NOTIFICATION OF CHANGES
+_Emergency Situations_
 
-If we decide to change our Privacy Policy, we will post those changes on our Site by identifying them as changes to our previous Privacy Policy. We will identify those changes for at least 60 days so that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+We may also use or disclose your information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Service; (b) protect and defend our rights or property, the Service or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Service or the public. This includes exchanging information with other companies and organizations for fraud protection.
 
-If you choose to visit the Site your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use including limitations on damages, arbitration of disputes, and application of the law of the State of New York. 
+**What Steps Are Taken To Keep Information Secure?**
 
-### TRUSTe Certified
+Information collected by our Services are stored in secure operating environments that are not available to the public. Although we try our best to safeguard your information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
-Shermans Travel is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.shermanstravel.com](https://web.archive.org/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact our Privacy Administrator at [privacy@shermanstravel.com](https://web.archive.org/contact/?d=6). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+**How Long Do We Keep Your Information?**
 
-### HOW TO CONTACT US
+Following termination or deactivation of your account, ShermansTravel, its clients, affiliates, or its service providers may retain information (including your profile information) and user content for a commercially reasonable time for backup, archival, and/or audit purposes. If you have any questions about termination or deactivation of your account, please contact us directly at [privacy@shermanstravelmedia.com](mailto:privacy@shermanstravelmedia.com).
 
-If you have any questions about our Privacy Policy contact us at [privacy@shermanstravel.com](https://web.archive.org/contact/?d=6). 
+**What Happens When I Link To or From Another Website?**
 
-©2011 Shermans Travel, Inc.  
-112 W. 34th St.  
-#2110  
-New York, NY  
-10120 
+This Service may contain links to other websites operated by third parties. Please be advised that the practices described in this Privacy Policy for ShermansTravel do not apply to information gathered through other websites. We are not responsible for the actions and privacy policies of third parties and their websites.
 
-Last updated April 22, 2009   
+**For Users in the EEA and Switzerland**
 
+If you are a resident of the EEA or Switzerland, the following information applies.
+
+_Purposes of processing and legal basis for processing information_ : As explained above, we process information in various ways depending upon your use of our Services. We process information on the following legal bases: (1) with your consent; (2) as necessary to perform our agreements; and (3) as necessary for our legitimate interests in providing services where those interests do not override your fundamental rights and freedom related to data privacy.
+
+_Transfers_ : Information we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates, partners, or service providers maintain facilities. We will continue to ensure that transfers of information to a third country or an international organization are subject to appropriate safeguards as described in the GDPR. By registering for and using the Service you consent to the transfer of information to the US or to any other country in which ShermansTravel or its service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+
+_Individual Rights_ : If you are a resident of the EEA or Switzerland, you are entitled to the following rights.  **Please note** : In order to verify your identity, we may require you to provide us with Personal Information prior to accessing any records containing your information.
+
+  * The right to access. You have the right to obtain information about our processing of information and a copy of your information that we store.
+  * The right to rectify your data. You have the right to request that we update your information if it is inaccurate or incomplete.
+  * The right to request data erasure. You have the right to have your information erased from our files if the data is no longer necessary for the purpose for which it was collected, you withdraw consent and no other legal basis for processing exists, or you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing.
+  * The right to restrict or object to our processing. You have the right to restrict or object to our processing if we are processing your information based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your information for direct marketing (including profiling); or processing your information for purposes of scientific or historical research and statistics.
+  * The right to lodge a complaint. You have the right to lodge a complaint about our data collection and processing actions with your data protection authority. Contact details for data protection authorities are available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+**Assignment**
+
+We may change our ownership or corporate organization while providing the Service. We may also sell certain assets associated with the Service. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Although we may require the acquiring party to follow the practices described in this Privacy Policy, we cannot promise that the same privacy practices will be continued by a new company.
+
+**Changes to This Policy**
+
+As our Service continues to develop, we may add new services and features to our Service. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. Your continued use of our Service following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively or to information already in our possession, we will provide you with specific notice of the modifications or amendments. We will not, however, materially change our policies and practices to make them less protective of information we have previously collected from you without your express consent.
+
+**ShermansTravel E-mail and Text Communications**
+
+E-mail communications and text messages sent from us or through us are designed to make your ShermansTravel experience more efficient. By providing us with your email address or phone number, you specifically agree to accept and consent to receiving e-mail communications and text messages initiated from us or through us. Standard text messaging charges applied by your cell phone carrier will apply to text messages we send. If you do not wish to receive any of our e-mail communications or text messages, please opt out by following the "unsubscribe" link in the footer of any of our emails, and choosing the appropriate options or send us a message at [privacy@shermanstravelmedia.com](mailto:privacy@shermanstravelmedia.com).
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits customers of ShermansTravel who are California residents to request certain information regarding its disclosure of their information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@shermanstravelmedia.com](mailto:privacy@shermanstravelmedia.com). While ShermansTravel will endeavor to honor the choices you make with your devices that access our Service, our Service is not designed to respect your browser’s Do Not Track signals (or other well-established, commercially available mechanisms that provide you with the ability to exercise choice regarding the collection of information).
