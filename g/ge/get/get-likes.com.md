@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-likes.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615225617id_/http%3A//get-likes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-likes.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828212828id_/http%3A//get-likes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Our Website | Don't Worry About Details You Give Us
 
