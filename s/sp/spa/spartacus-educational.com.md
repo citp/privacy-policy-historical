@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spartacus-educational.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525040926id_/http%3A//spartacus-educational.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spartacus-educational.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828091631id_/https%3A//spartacus-educational.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -64,6 +64,12 @@ We use cookies on this website. A cookie is a text file sent by a web server to 
 We may send a cookie which may be stored by your browser on your computer's hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website's usability and for marketing purposes. We may also use that information to recognise your computer when you visit our website, and to personalise our website for you.
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookie by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites.
+
+Privacy policies of external organisations
+
+• [Google](https://policies.google.com/privacy?hl=en-GB&gl=uk) (Analytics, AdSense, DFP Small Business, etc.)
+
+• [Mailchimp Newsletter](https://kb.mailchimp.com/accounts/management/about-mailchimp-the-eu-swiss-privacy-shield-and-the-gdpr)
 
 (3) Using your personal data
 
