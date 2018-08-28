@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govx.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204192632id_/https%3A//www.govx.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govx.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828205837id_/https%3A//www.govx.com/t/privacyinfo) for the most accurate reproduction.*
 
 # GovX - Privacy Notice
 
@@ -26,7 +26,9 @@ _INFORMATION WE COLLECT AND HOW WE USE IT_
 
 We collect certain information from and about our users in three ways (in addition to the usage tracking described below): directly from our Web server logs, with “cookies,” and from users.
 
-•  **Web Server Logs**. When you visit our Web site, we may collect and track information to administer the site and analyze its usage by you. Examples of information we may track include:
+•  **Web Server Logs**. 
+
+When you visit our Web site, we may collect and track information to administer the site and analyze its usage by you. Examples of information we may track include:
 
 • Your Internet protocol (IP) address  
 • The kind of browser or computer you use  
@@ -86,8 +88,8 @@ We reserve the right, from time-to-time and without advance notice (although we 
 If you have questions regarding our Privacy Notice, its implementation, failure to adhere to this Privacy Notice and/or our general practices, please contact us at info@govx.com. You can also reach us at:
 
 GovX, Inc.  
-7817 Ivanhoe Avenue, Suite 200  
-La Jolla, CA 92037  
-http://www.govx.com
+9191 Towne Center Drive, Suite 210  
+San Diego, CA 92122  
+https://www.govx.com
 
-© 2014 GovX, Inc. All rights reserved.
+© 2017 GovX, Inc. All rights reserved.
