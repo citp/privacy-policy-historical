@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insparx.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530091755id_/http%3A//insparx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insparx.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828035448id_/http%3A//www.insparx.com/privacy.html) for the most accurate reproduction.*
 
 # insparx GmbH
 
@@ -11,10 +11,10 @@ It is important to insparx GmbH (in the following "insparx") that your privacy i
 This data protection information applies to data processing processes at: 
 
 insparx GmbH, Erika-Mann-Str. 63, 80636 Munich, Germany  
-Tel.: +49 (0) 89 - 5454 6053, E-Mail: info@insparx.com 
+Tel.: +49 (0) 89 - 5454 6053, E-Mail: privacy@insparx.com 
 
 Our data protection officer Dr. Christian Scharff can be contacted at the above address or by E-Mail  
-[info@insparx.com](mailto:info@insparx.com)
+[privacy@insparx.com](mailto:privacy@insparx.com)
 
 2\. Collection and storage of personal data as well as type and purpose of data usage 
 
@@ -102,7 +102,7 @@ You have the right:
 
 
 
-If you wish to exercise your data subject rights, simply send an e-mail to [info@insparx.com](mailto:info@insparx.com)
+If you wish to exercise your data subject rights, simply send an e-mail to [privacy@insparx.com](mailto:privacy@insparx.com)
 
 The supervisory authority responsible for our company is: 
 
