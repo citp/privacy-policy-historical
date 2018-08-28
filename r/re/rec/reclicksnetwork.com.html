@@ -1,35 +1,55 @@
-<!--The following is the downloaded HTML source of the reclicksnetwork.com privacy policy that was archived on 2018-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180503094024id_/http%3A//reclicksnetwork.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reclicksnetwork.com privacy policy that was archived on 2018-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180828031856id_/http%3A//reclicksnetwork.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="LTR"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 	<title>Privacy Policy</title>
 	<base href="http://reclicksnetwork.com/">	
     	<meta http-equiv="Content-Style-Type" content="text/css">
-    	<style>.sys_main_page_width {
+
+    
+	<style>.sys_main_page_width {
 	max-width: 1140px;
 }
 </style>
-	<link href="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_css_36bc6ba8b4e022d1c16da4ef896a3bce.css" rel="stylesheet" type="text/css"><link href="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_css_c065c60f026596961374b544238c670f.css" rel="stylesheet" type="text/css">
-	<script language="javascript" type="text/javascript" src="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_js_e1427fe5a8a1407768c4264c65407357.js"></script><script language="javascript" type="text/javascript" src="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_js_14b08ae922555d62e9a05467859da89c.js"></script>
+	<link href="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_css_ff6e8763225abc49beff5156596135f3.css" rel="stylesheet" type="text/css"><link href="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_css_1db3762b7e25b9ea45af7fbc47d52270.css" rel="stylesheet" type="text/css">
+
+	<script language="javascript" type="text/javascript" src="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_js_ac32ad7354d4181652a35ca2cd86ce18.js"></script><script language="javascript" type="text/javascript" src="http://reclicksnetwork.com/gzip_loader.php?file=bx_templ_js_14b08ae922555d62e9a05467859da89c.js"></script>
     <script type="text/javascript" language="javascript">var aDolImages = {};</script>    <script type="text/javascript" language="javascript">var aDolLang = {'_Counter': 'Counter','_PROFILE_ERR': 'Error!\nYour username or password was incorrect. Please try again.','_sys_txt_btn_loading': 'Loading...','_Errors in join form': 'Form contains errors, please review errors and try again.','_add': 'add','_add_other': 'add other','_Remove': 'Remove'};</script>    <script type="text/javascript" language="javascript">var aDolOptions = {'sys_embedly_key': ''};</script>    <script type="text/javascript" language="javascript">
 		var site_url = 'http://reclicksnetwork.com/';
         var aUserInfoTimers = new Array();
 
-		$(document).ready( function() {
+        // make logo text to not overflow
+        var fResizeCallback = function () {
+            var iSize = $('.sys_ml_wrapper').innerWidth() - $('.sys_search_wrapper').outerWidth() - $('.sys_menu_wrapper').outerWidth() - 20;
+            $('.mainLogoText, .mainLogo').css('max-width', iSize + 'px');
+        };
+        $(window).resize(fResizeCallback);
+
+        $(document).ready(function() {
 			/*--- Init RSS Feed Support ---*/
-			$( 'div.RSSAggrCont' ).dolRSSFeed();
+			$('div.RSSAggrCont').dolRSSFeed();
 
 			/*--- Init Retina Support ---*/
 			$('img.bx-img-retina').dolRetina();
 
 			/*--- Init Embedly Support ---*/
 			$('a.bx-link').dolEmbedly();
+
+			/*--- Init Scrollr ---*/
+			var oSkrollr = skrollr.init({
+				forceHeight: false
+			});
+			if(oSkrollr.isMobile())
+				oSkrollr.destroy();
+
+            fResizeCallback();
 		});
 
-		/*--- Init User Status ---*/
-		var oBxUserStatus = new BxUserStatus();
+        /*--- Init User Status ---*/
+        var oBxUserStatus = new BxUserStatus();
         oBxUserStatus.userStatusInit('http://reclicksnetwork.com/', false);
 	</script>
     	<style type="text/css"></style></head>
@@ -67,35 +87,88 @@ aRayApps["video_comments"]["recorder"] = {"params": new Array('user', 'password'
 //video_comments end</script><script src="http://reclicksnetwork.com/flash/modules/global/js/integration.js" type="text/javascript" language="javascript"></script>    <div id="notification_window" class="notifi_window"></div>
 	<div id="FloatDesc" style="position:absolute;display:none;z-index:100;"></div>
 
+<div class="sys_root_bg"></div>
 <div class="sys_root">
-                <div class="sys_main_logo" style="min-width:1140px;">
-		<div class="sys_ml" style="width:1140px;">
-            <div class="sys_ml_wrapper bx-def-padding-sec">
-                                <div id="sys_search_wrapper" class="sys-search-wrapper">
+                <div class="sys_main_logo">
+		<div class="sys_ml sys_main_page_width">
+            <div class="sys_ml_wrapper bx-def-margin-sec-leftright bx-def-padding-sec-topbottom">
+                                <table cellpadding="0" cellspacing="0">
+                	<tbody><tr>
+                		<td class="sys_search_wrapper"><div class="sys-service-menu-wrp">
+	<div class="sys-service-menu">
+		<div class="sys-sm-item sys-smi-search">
+			<div id="sys_search_wrapper" class="sys-search-wrapper">
     <div id="sys_search" class="sys-search bx-def-margin-left bx-def-round-corners-with-border">
         <form action="searchKeyword.php" method="get" name="SearchForm">
             <input type="text" name="keyword" id="keyword" value="" placeholder="Search..." class="bx-def-font">
         </form>
     </div>
-</div>    			<a class="mainLogoText" href="http://reclicksnetwork.com/index.php">ReClicks Network</a>    			<div class="sys-service-menu-wrp bx-def-margin-sec-right bx-def-padding-right"><div class="sys-service-menu bx-def-margin-sec-left bx-def-font-large">
-            <span>
-            <a class="sys-sm-link" href="javascript:void(0)" onclick="showPopupJoinForm(); return false;">Join</a>
-        </span>
-        <span class="sys-bullet"></span>
-            <span>
-            <a class="sys-sm-link" href="javascript:void(0)" onclick="showPopupLoginForm(); return false;">Login</a>
-        </span>
-        <span class="sys-bullet"></span>
-    </div>
-<div class="clear_both"></div></div>    			            </div>
+</div>
+	        <a class="sys-sm-item" href="javascript:void(0)" onclick="javascript:oBxEvoServiceMenu.showSearch();" title="Search">
+	        	<i class="sys-icon search"></i>
+	        </a>
+	    </div>
+	    <div class="sys-sm-item sys-smi-search-simple">
+	        <a class="sys-sm-item" href="searchKeyword.php" title="Search">
+	        	<i class="sys-icon search"></i>
+	        </a>
+	    </div>
+	</div>
+</div></td>
+                		<td class="sys_logo_wrapper">
+                			<div class="sys_logo_wrapper_cnt bx-def-padding-sec-leftright"><a class="mainLogoText" href="http://reclicksnetwork.com/index.php">ReClicks Network</a></div>
+                		</td>
+                		<td class="sys_menu_wrapper"><div class="sys-service-menu-wrp">
+	<div class="sys-service-menu">
+		
+			<div class="sys-sm-item sys-smi-join bx-def-margin-sec-left-auto" onclick="showPopupJoinForm(); return false;" "="">
+				<div class="sys-sm-profile">
+					<span class="sys-smp-thumbnail">
+						<i class="sys-icon user"></i>
+					</span>
+					<span class="sys-smp-title bx-def-margin-sec-left bx-def-margin-right">
+						Join or Login
+					</span>
+				</div>
+	        </div>
+		
+		
+	</div>
+	<script type="text/javascript">
+		function BxEvoServiceMenu(oOptions) {
+			this._sMenuPopupId = oOptions.sMenuPopup == undefined ? 'sys-service-menu' : oOptions.sMenuPopup;
+	    }
+
+		BxEvoServiceMenu.prototype.showSearch = function() {
+			if($('#sys_search input[name="keyword"]').val().length > 2)
+				$('#sys_search form')[0].submit();
+		};
+
+		BxEvoServiceMenu.prototype.showMenu = function(oLink) {
+			$(oLink).find('.sys-sm-item > .sys-icon').toggleClass('chevron-down').toggleClass('chevron-up');
+
+			$('#' + this._sMenuPopupId).dolPopup({
+	    		pointer:{
+	    			el:$(oLink)
+	    		},
+	        }); 	
+	    };
+
+	    var oBxEvoServiceMenu = new BxEvoServiceMenu({
+	    	sMenuPopup: ''
+	    });
+	</script>
+</div></td>
+    				</tr>
+    			</tbody></table>
+    			            </div>
 		</div>
 			</div>
-	    <div class="sys_main_menu" style="min-width:1140px;">
-    <div class="sys_mm" style="width:1140px;">
-        <div class="sys_mm_cnt bx-def-margin-sec-leftright">
-                        <table class="topMenu" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                <td class="top">
+	    <div class="sys_main_menu">
+    <div class="sys_mm sys_main_page_width">
+        <div class="sys_mm_cnt bx-def-margin-sec-leftright clearfix">
+        	            <table class="topMenu" cellpadding="0" cellspacing="0">
+                <tbody><tr><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/index.php">
     	<span class="down bx-def-padding-sec-leftright">Home</span>
     </a>
@@ -104,297 +177,77 @@ aRayApps["video_comments"]["recorder"] = {"params": new Array('user', 'password'
     <a class="top_link" href="http://reclicksnetwork.com/browse.php">
     	<span class="down bx-def-padding-sec-leftright">People</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/browse.php" target="_self" class="button more_ntop_element">All Members</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php?online_only=1" target="_self" class="button more_ntop_element">Online</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php?show=featured" target="_self" class="button more_ntop_element">Featured</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php?show=top_rated" target="_self" class="button more_ntop_element">Top Rated</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php?show=popular" target="_self" class="button more_ntop_element">Popular</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php?show=birthdays" target="_self" class="button more_ntop_element">Birthdays</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/calendar.php" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/search_home.php">
     	<span class="down bx-def-padding-sec-leftright">Search</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/search_home.php" target="_self" class="button more_ntop_element">Search Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/searchKeyword.php" target="_self" class="button more_ntop_element">Keyword Search</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php" target="_self" class="button more_ntop_element">People Search</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/wmap/home" target="_self" class="button more_ntop_element">World Map</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/help.php">
     	<span class="down bx-def-padding-sec-leftright">Help</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/help.php" target="_self" class="button more_ntop_element">Help</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/faq.php" target="_self" class="button more_ntop_element">FAQ</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/contact.php" target="_self" class="button more_ntop_element">Contact</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/advice.php" target="_self" class="button more_ntop_element">Advice</a>
-</li></ul>
-</div>
+    
 </td><td class="top" id="tm_active">
     <a class="top_link" href="http://reclicksnetwork.com/about_us.php">
     	<span class="down bx-def-padding-sec-leftright">About</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/about_us.php" target="_self" class="button more_ntop_element">About</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/feedback/index/" target="_self" class="button more_ntop_element">Feedback</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/terms_of_use.php" target="_self" class="button more_ntop_element">Terms of use</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/privacy.php" target="_self" class="button more_ntop_element active">Privacy Policy</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/m/files/home/">
     	<span class="down bx-def-padding-sec-leftright">Files</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/m/files/home/" target="_self" class="button more_ntop_element">Files home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/albums/browse/all" target="_self" class="button more_ntop_element">File folders</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/browse/all" target="_self" class="button more_ntop_element">All files</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/browse/top" target="_self" class="button more_ntop_element">Top files</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/browse/popular" target="_self" class="button more_ntop_element">Popular files</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/browse/featured" target="_self" class="button more_ntop_element">Featured files</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/tags" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/categories" target="_self" class="button more_ntop_element">Categories</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/files/calendar" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/searchKeyword.php?type=bx_files" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/m/photos/home/">
     	<span class="down bx-def-padding-sec-leftright">Photos</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/m/photos/home/" target="_self" class="button more_ntop_element">Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/albums/browse/all" target="_self" class="button more_ntop_element">Albums</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/browse/all" target="_self" class="button more_ntop_element">Recent</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/browse/top" target="_self" class="button more_ntop_element">Top</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/browse/popular" target="_self" class="button more_ntop_element">Popular</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/browse/featured" target="_self" class="button more_ntop_element">Featured</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/tags" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/categories" target="_self" class="button more_ntop_element">Categories</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/rate" target="_self" class="button more_ntop_element">Rater</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/photos/calendar" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/searchKeyword.php?type=bx_photos" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/ads/">
     	<span class="down bx-def-padding-sec-leftright">Ads</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/ads/" target="_self" class="button more_ntop_element">Ads Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/ads/all_ads/" target="_self" class="button more_ntop_element">All Ads</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/ads/top_ads/" target="_self" class="button more_ntop_element">Top Rated</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/ads/popular_ads/" target="_self" class="button more_ntop_element">Popular</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/ads/tags/" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/ads/categories/" target="_self" class="button more_ntop_element">Categories</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/ads/calendar/" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/ads/featured_ads/" target="_self" class="button more_ntop_element">Featured</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/searchKeyword.php?type=bx_ads" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/m/articles/index/">
     	<span class="down bx-def-padding-sec-leftright">Articles</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/m/articles/index/" target="_self" class="button more_ntop_element">Articles Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/articles/archive/" target="_self" class="button more_ntop_element">Articles Archive</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/articles/top/" target="_self" class="button more_ntop_element">Top Rated</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/articles/popular/" target="_self" class="button more_ntop_element">Popular</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/articles/featured/" target="_self" class="button more_ntop_element">Featured</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/articles/tags/" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/articles/categories/" target="_self" class="button more_ntop_element">Categories</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/articles/calendar/" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/searchKeyword.php?type=bx_articles" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/blogs/home/">
     	<span class="down bx-def-padding-sec-leftright">Blogs</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/blogs/home/" target="_self" class="button more_ntop_element">Blogs Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/blogs/all/" target="_self" class="button more_ntop_element">All Blogs</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/blogs/all_posts/" target="_self" class="button more_ntop_element">All Posts</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/blogs/top_posts/" target="_self" class="button more_ntop_element">Top Posts</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/blogs/popular_posts/" target="_self" class="button more_ntop_element">Popular Posts</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/blogs/tags/" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/blogs/show_calendar/" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/searchKeyword.php?type=blog" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/m/chat/home/">
     	<span class="down bx-def-padding-sec-leftright">Chat</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/m/chat/home/" target="_self" class="button more_ntop_element">Chat Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/chat/rules/" target="_self" class="button more_ntop_element">Rules</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/search.php?show=moderators" target="_self" class="button more_ntop_element">Moderators</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/m/events/home/">
     	<span class="down bx-def-padding-sec-leftright">Events</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/m/events/home/" target="_self" class="button more_ntop_element">Events Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/browse/upcoming" target="_self" class="button more_ntop_element">Upcoming</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/browse/past" target="_self" class="button more_ntop_element">Past</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/browse/recent" target="_self" class="button more_ntop_element">Recently Added</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/browse/top" target="_self" class="button more_ntop_element">Top Rated</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/browse/popular" target="_self" class="button more_ntop_element">Popular</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/browse/featured" target="_self" class="button more_ntop_element">Featured</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/tags" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/categories" target="_self" class="button more_ntop_element">Categories</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/calendar" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/events/search" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/m/groups/home/">
     	<span class="down bx-def-padding-sec-leftright">Groups</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/m/groups/home/" target="_self" class="button more_ntop_element">Groups Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/browse/recent" target="_self" class="button more_ntop_element">Recent</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/browse/top" target="_self" class="button more_ntop_element">Top Rated</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/browse/popular" target="_self" class="button more_ntop_element">Popular</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/browse/featured" target="_self" class="button more_ntop_element">Featured</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/tags" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/categories" target="_self" class="button more_ntop_element">Categories</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/calendar" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/groups/search" target="_self" class="button more_ntop_element">Search</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
     <a class="top_link" href="http://reclicksnetwork.com/m/poll/&amp;action=poll_home">
     	<span class="down bx-def-padding-sec-leftright">Polls</span>
     </a>
-    <div class="sub">
-    <ul class="sub main_elements"><li>
-    <a href="http://reclicksnetwork.com/m/poll/&amp;action=poll_home" target="_self" class="button more_ntop_element">Polls Home</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/poll/" target="_self" class="button more_ntop_element">All Polls</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/poll/&amp;action=popular" target="_self" class="button more_ntop_element">Popular</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/poll/&amp;action=featured" target="_self" class="button more_ntop_element">Featured</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/poll/calendar" target="_self" class="button more_ntop_element">Calendar</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/searchKeyword.php?type=poll" target="_self" class="button more_ntop_element">Search</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/poll/tags" target="_self" class="button more_ntop_element">Tags</a>
-</li><li>
-    <a href="http://reclicksnetwork.com/m/poll/categories" target="_self" class="button more_ntop_element">Categories</a>
-</li></ul>
-</div>
+    
 </td><td class="top">
-    <a href="javascript: void(0);" onclick="void(0);" class="top_link">
-        <span class="down bx-def-padding-sec-leftright">More</span>
-        <!--[if gte IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table id="mmm"><tr><td><![endif]-->
-        <div style="position:relative;display:block;">
-        <ul class="sub"><li class="">
-		    <div class="more_sub">
+    <a class="top_link" href="javascript:void(0)" onclick="$(this).parents('td.top:first').hide().siblings('td.top:hidden').show();">
+    	<span class="down bx-def-padding-sec-leftright">More</span>
+    </a>
+    
+</td><td class="top" style="display:none">
+    <a class="top_link" href="http://reclicksnetwork.com/m/videos/home/">
+    	<span class="down bx-def-padding-sec-leftright">Videos</span>
+    </a>
+    	    <div class="more_sub">
 	        <ul class="more_sub"><li>
     <a href="http://reclicksnetwork.com/m/videos/home/" target="_self" class="button more_ntop_element">Videos home</a>
 </li><li>
@@ -419,10 +272,11 @@ aRayApps["video_comments"]["recorder"] = {"params": new Array('user', 'password'
     <a href="http://reclicksnetwork.com/searchKeyword.php?type=bx_videos" target="_self" class="button more_ntop_element">Search</a>
 </li></ul>
 	    </div>
-        <a class="button more_ntop_element" href="http://reclicksnetwork.com/m/videos/home/">Videos</a>
-    <div class="clear_both"></div>
-</li><li class="">
-		    <div class="more_sub">
+    </td><td class="top" style="display:none">
+    <a class="top_link" href="http://reclicksnetwork.com/m/board/home/">
+    	<span class="down bx-def-padding-sec-leftright">Boards</span>
+    </a>
+    	    <div class="more_sub">
 	        <ul class="more_sub"><li>
     <a href="http://reclicksnetwork.com/m/board/home/" target="_self" class="button more_ntop_element">Boards Home</a>
 </li><li>
@@ -431,10 +285,11 @@ aRayApps["video_comments"]["recorder"] = {"params": new Array('user', 'password'
     <a href="http://reclicksnetwork.com/m/photos/browse/category/Board" target="_self" class="button more_ntop_element">Saved</a>
 </li></ul>
 	    </div>
-        <a class="button more_ntop_element" href="http://reclicksnetwork.com/m/board/home/">Boards</a>
-    <div class="clear_both"></div>
-</li><li class="">
-		    <div class="more_sub">
+    </td><td class="top" style="display:none">
+    <a class="top_link" href="http://reclicksnetwork.com/m/sounds/home/">
+    	<span class="down bx-def-padding-sec-leftright">Sounds</span>
+    </a>
+    	    <div class="more_sub">
 	        <ul class="more_sub"><li>
     <a href="http://reclicksnetwork.com/m/sounds/home/" target="_self" class="button more_ntop_element">Sounds home</a>
 </li><li>
@@ -459,10 +314,11 @@ aRayApps["video_comments"]["recorder"] = {"params": new Array('user', 'password'
     <a href="http://reclicksnetwork.com/searchKeyword.php?type=bx_sounds" target="_self" class="button more_ntop_element">Search</a>
 </li></ul>
 	    </div>
-        <a class="button more_ntop_element" href="http://reclicksnetwork.com/m/sounds/home/">Sounds</a>
-    <div class="clear_both"></div>
-</li><li class="">
-		    <div class="more_sub">
+    </td><td class="top" style="display:none">
+    <a class="top_link" href="http://reclicksnetwork.com/m/store/home/">
+    	<span class="down bx-def-padding-sec-leftright">Store</span>
+    </a>
+    	    <div class="more_sub">
 	        <ul class="more_sub"><li>
     <a href="http://reclicksnetwork.com/m/store/home/" target="_self" class="button more_ntop_element">Store Home</a>
 </li><li>
@@ -485,10 +341,11 @@ aRayApps["video_comments"]["recorder"] = {"params": new Array('user', 'password'
     <a href="http://reclicksnetwork.com/m/store/search" target="_self" class="button more_ntop_element">Search</a>
 </li></ul>
 	    </div>
-        <a class="button more_ntop_element" href="http://reclicksnetwork.com/m/store/home/">Store</a>
-    <div class="clear_both"></div>
-</li><li class="">
-		    <div class="more_sub">
+    </td><td class="top" style="display:none">
+    <a class="top_link" href="http://reclicksnetwork.com/m/sites/home/">
+    	<span class="down bx-def-padding-sec-leftright">Sites</span>
+    </a>
+    	    <div class="more_sub">
 	        <ul class="more_sub"><li>
     <a href="http://reclicksnetwork.com/m/sites/home/" target="_self" class="button more_ntop_element">Sites Home</a>
 </li><li>
@@ -513,47 +370,135 @@ aRayApps["video_comments"]["recorder"] = {"params": new Array('user', 'password'
     <a href="http://reclicksnetwork.com/m/sites/search" target="_self" class="button more_ntop_element">Search</a>
 </li></ul>
 	    </div>
-        <a class="button more_ntop_element" href="http://reclicksnetwork.com/m/sites/home/">Sites</a>
-    <div class="clear_both"></div>
-</li>            <li class="li_last_round">&nbsp;</li>
-        </ul>
-    </div>
-    <div class="clear_both"></div>
-    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</td>                </tr>
+    </td></tr>
             </tbody></table>
-                   
-            <div class="clear_both">&nbsp;</div>
-        </div>
+                    </div>
     </div>
-</div><div class="sys_sub_menu" style="width:1140px;">
-    <div class="sys_sm_cnt bx-def-margin-sec-leftright">
-                    <div class="subMenu bx-def-border" id="subMenu_120" style="display:block;">
-	<div class="subMenuCnt bx-def-padding-leftright bx-def-padding-sec-topbottom">
-		<div class="sys_page_icon">
-			<a class="sys_page_header_caption" href="about_us.php"><i class="img_submenu sys-icon info-circle"></i></a>		</div>
-					<div class="sys_page_header bx-def-padding-sec-left">
-				<a class="sys_page_header_caption" href="about_us.php">About</a>	            			</div>
-		                            <div class="sys_page_submenu bx-def-padding-left clearfix">
-                <div class="pas"><a class="sublinks" href="http://reclicksnetwork.com/about_us.php">About</a></div><div class="sys-bullet"></div><div class="pas"><a class="sublinks" href="http://reclicksnetwork.com/m/feedback/index/">Feedback</a></div><div class="sys-bullet"></div><div class="pas"><a class="sublinks" href="http://reclicksnetwork.com/terms_of_use.php">Terms of use</a></div><div class="sys-bullet"></div><div class="act"><a class="sublinks" href="http://reclicksnetwork.com/privacy.php">Privacy Policy</a></div>            </div>
-                        <div class="sys_page_actions">
-                        <div class="sys_tm_login_join">
-    <button class="bx-btn bx-btn-small bx-btn-primary" type="button" onclick="javascript: showPopupJoinForm(); return false;" title="Join">
-    	<i class="sys-icon user"></i>
-    </button>
-    <button class="bx-btn bx-btn-small" type="button" onclick="javascript: showPopupLoginForm(); return false;" title="Login">
-    	<i class="sys-icon sign-in"></i>
-    </button>
-</div>        </div>
-		<div class="clear_both"></div>
-        	</div>
-</div>
-         
+</div><div class="sys_sub_menu_holder" data-anchor-target=".sys_sub_menu" data-start="@class:sys_sub_menu_holder sys_smh_hidden" data-top-top="@class:sys_sub_menu_holder sys_smh_visible"></div>
+<div class="sys_sub_menu" data-start="@class:sys_sub_menu sys_sm_relative" data-top-top="@class:sys_sub_menu sys_sm_fixed">
+	<div class="sys_sm sys_main_page_width">
+	    <div class="sys_sm_cnt bx-def-margin-sec-leftright clearfix">
+	        	            <div class="subMenu bx-def-border" id="subMenu_120" style="display:block;">
+	<div class="subMenuCnt bx-def-padding-leftright clearfix">
+		<div class="sys_page_icon bx-def-padding-right bx-phone-hide"><a class="sys_page_header_caption" href="about_us.php"><i class="img_submenu sys-icon info-circle"></i></a></div>
+		        	        <div class="sys_page_header_divider bx-def-padding-right bx-phone-hide">
+				<i class="sys-icon angle-right"></i>
+			</div>
+            <div class="sys_page_submenu bx-def-padding-right clearfix"><a class="sys_page_header_submenu" href="privacy.php" onclick="javascript:return oBxEvoTopMenu.showSubmenuSubmenu(this);">Privacy Policy <i class="sys-icon chevron-down"></i></a>
+<div id="sys_ph_submenu_submenu" class="sys_ph_submenu_submenu bx-def-border bx-def-round-corners">
+	<div class="sys_ph_submenu_submenu_cnt bx-def-padding-leftright bx-def-padding-sec-topbottom">
+		<div class="pas"><a class="sublinks" href="http://reclicksnetwork.com/about_us.php">About</a></div><div class="sys-bullet"></div><div class="pas"><a class="sublinks" href="http://reclicksnetwork.com/m/feedback/index/">Feedback</a></div><div class="sys-bullet"></div><div class="pas"><a class="sublinks" href="http://reclicksnetwork.com/terms_of_use.php">Terms of use</a></div><div class="sys-bullet"></div><div class="act"><a class="sublinks" href="http://reclicksnetwork.com/privacy.php">Privacy Policy</a></div>	</div>
+</div></div>
+                                <div class="sys_page_actions clearfix"><div class="actionsContainer actionsContainerSubmenu">
+    <a class="menuLink" href="javascript:void(0)" onclick="javascript:$('#sys-share-popup').dolPopup({pointer: {el:this}})" title="Share">
+    <i class="sys-icon share-alt"></i>
+</a>
+<div id="sys-share-popup" class="sys-share-popup" style="display: none"><div class="popup_form_wrapper trans_box">
+    <div class="container bx-def-border bx-def-round-corners">
+        <!-- Buttons start here. Copy this ul to your document. -->
+<ul class="rrssb-buttons">
+  <li class="rrssb-email">
+    <!-- Replace subject with your message using URL Endocding: http://meyerweb.com/eric/tools/dencoder/ -->
+    <a href="mailto:?subject=" class="sys-share-popup-link sys-spl-mail sys-spl-need-url">
+      <span class="rrssb-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+          <path d="M20.11 26.147c-2.335 1.05-4.36 1.4-7.124 1.4C6.524 27.548.84 22.916.84 15.284.84 7.343 6.602.45 15.4.45c6.854 0 11.8 4.7 11.8 11.252 0 5.684-3.193 9.265-7.398 9.3-1.83 0-3.153-.934-3.347-2.997h-.077c-1.208 1.986-2.96 2.997-5.023 2.997-2.532 0-4.36-1.868-4.36-5.062 0-4.75 3.503-9.07 9.11-9.07 1.713 0 3.7.4 4.6.972l-1.17 7.203c-.387 2.298-.115 3.3 1 3.4 1.674 0 3.774-2.102 3.774-6.58 0-5.06-3.27-8.994-9.304-8.994C9.05 2.87 3.83 7.545 3.83 14.97c0 6.5 4.2 10.2 10 10.202 1.987 0 4.09-.43 5.647-1.245l.634 2.22zM16.647 10.1c-.31-.078-.7-.155-1.207-.155-2.572 0-4.596 2.53-4.596 5.53 0 1.5.7 2.4 1.9 2.4 1.44 0 2.96-1.83 3.31-4.088l.592-3.72z"></path>
+        </svg>
+      </span>
+      <span class="rrssb-text">email</span>
+    </a>
+  </li>
+  <li class="rrssb-facebook">
+    <!--  Replace with your URL. For best results, make sure you page has the proper FB Open Graph tags in header:
+          https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/ -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=" class="sys-share-popup-link sys-spl-facebook sys-spl-need-url popup">
+      <span class="rrssb-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="29" height="29" viewBox="0 0 29 29">
+          <path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z" class="cls-2" fill-rule="evenodd"></path>
+        </svg>
+      </span>
+      <span class="rrssb-text">facebook</span>
+    </a>
+  </li>
+  <li class="rrssb-linkedin">
+    <!-- Replace href with your meta and URL information -->
+    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=" class="sys-share-popup-link sys-spl-linkedin sys-spl-need-url popup">
+      <span class="rrssb-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+          <path d="M25.424 15.887v8.447h-4.896v-7.882c0-1.98-.71-3.33-2.48-3.33-1.354 0-2.158.91-2.514 1.802-.13.315-.162.753-.162 1.194v8.216h-4.9s.067-13.35 0-14.73h4.9v2.087c-.01.017-.023.033-.033.05h.032v-.05c.65-1.002 1.812-2.435 4.414-2.435 3.222 0 5.638 2.106 5.638 6.632zM5.348 2.5c-1.676 0-2.772 1.093-2.772 2.54 0 1.42 1.066 2.538 2.717 2.546h.032c1.71 0 2.77-1.132 2.77-2.546C8.056 3.593 7.02 2.5 5.344 2.5h.005zm-2.48 21.834h4.896V9.604H2.867v14.73z"></path>
+        </svg>
+      </span>
+      <span class="rrssb-text">linkedin</span>
+    </a>
+  </li>
+  <li class="rrssb-twitter">
+    <!-- Replace href with your Meta and URL information  -->
+    <a href="http://twitter.com/home?status=" class="sys-share-popup-link sys-spl-twitter sys-spl-need-url popup">
+      <span class="rrssb-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+          <path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62c-3.122.162-6.22-.646-8.86-2.32 2.702.18 5.375-.648 7.507-2.32-2.072-.248-3.818-1.662-4.49-3.64.802.13 1.62.077 2.4-.154-2.482-.466-4.312-2.586-4.412-5.11.688.276 1.426.408 2.168.387-2.135-1.65-2.73-4.62-1.394-6.965C5.574 7.816 9.54 9.84 13.802 10.07c-.842-2.738.694-5.64 3.434-6.48 2.018-.624 4.212.043 5.546 1.682 1.186-.213 2.318-.662 3.33-1.317-.386 1.256-1.248 2.312-2.4 2.942 1.048-.106 2.07-.394 3.02-.85-.458 1.182-1.343 2.15-2.48 2.71z"></path>
+        </svg>
+      </span>
+      <span class="rrssb-text">twitter</span>
+    </a>
+  </li>
+  <li class="rrssb-googleplus">
+    <!-- Replace href with your meta and URL information.  -->
+    <a href="https://plus.google.com/share?url=" class="sys-share-popup-link sys-spl-googleplus sys-spl-need-url popup">
+      <span class="rrssb-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+          <path d="M14.703 15.854l-1.22-.948c-.37-.308-.88-.715-.88-1.46 0-.747.51-1.222.95-1.662 1.42-1.12 2.84-2.31 2.84-4.817 0-2.58-1.62-3.937-2.4-4.58h2.098l2.203-1.384h-6.67c-1.83 0-4.467.433-6.398 2.027C3.768 4.287 3.06 6.018 3.06 7.576c0 2.634 2.02 5.328 5.603 5.328.34 0 .71-.033 1.083-.068-.167.408-.336.748-.336 1.324 0 1.04.55 1.685 1.01 2.297-1.523.104-4.37.273-6.466 1.562-1.998 1.187-2.605 2.915-2.605 4.136 0 2.512 2.357 4.84 7.288 4.84 5.822 0 8.904-3.223 8.904-6.41.008-2.327-1.36-3.49-2.83-4.73h-.01zM10.27 11.95c-2.913 0-4.232-3.764-4.232-6.036 0-.884.168-1.797.744-2.51.543-.68 1.49-1.12 2.372-1.12 2.807 0 4.256 3.797 4.256 6.24 0 .613-.067 1.695-.845 2.48-.537.55-1.438.947-2.295.95v-.003zm.032 13.66c-3.62 0-5.957-1.733-5.957-4.143 0-2.408 2.165-3.223 2.91-3.492 1.422-.48 3.25-.545 3.556-.545.34 0 .52 0 .767.034 2.574 1.838 3.706 2.757 3.706 4.48-.002 2.072-1.736 3.664-4.982 3.648l.002.017zM23.254 11.89V8.52H21.57v3.37H18.2v1.714h3.367v3.4h1.684v-3.4h3.4V11.89"></path>
+        </svg>
+      </span>
+      <span class="rrssb-text">google+</span>
+    </a>
+  </li>
+</ul>
+<!-- Buttons end here -->
+<script type="text/javascript">
+	jQuery('.sys-share-popup-link.sys-spl-need-url').each(function() {
+		jQuery(this).attr('href', jQuery(this).attr('href') + encodeURIComponent(location.href)).removeClass('sys-spl-need-url');
+	});
+</script>
     </div>
+</div></div>
+</div></div>
+	</div>
 </div>
-    <div id="site_customize" style="width:1140px; display:none;"></div>	<!-- end of top -->
+	         
+	    </div>
+	</div>
+</div><script type="text/javascript">
+	function BxEvoTopMenu(oOptions){}
 
-	<div class="sys_main_content" style="width:1140px;">
+	BxEvoTopMenu.prototype.showCaptionSubmenu = function(oLink) {
+		return this.showSubmenu(oLink, 'sys_ph_caption_submenu');
+    };
+
+    BxEvoTopMenu.prototype.showSubmenuSubmenu = function(oLink) {
+    	return this.showSubmenu(oLink, 'sys_ph_submenu_submenu');
+    };
+
+    BxEvoTopMenu.prototype.showSubmenu = function(oLink, sPopupId) {
+    	$('#' + sPopupId).dolPopup({
+    		pointer:{
+    			el:$(oLink)
+    		},
+            onBeforeShow: function() {
+            	$(oLink).find('.sys-icon').removeClass('chevron-down').addClass('chevron-up');
+            },
+            onHide: function() {
+            	$(oLink).find('.sys-icon').addClass('chevron-down').removeClass('chevron-up');
+            }
+        });
+
+    	return false;
+    };
+
+    var oBxEvoTopMenu = new BxEvoTopMenu({});
+</script>    <div id="site_customize" style="width:1140px; display:none;"></div>	<!-- end of top -->
+
+	<div class="sys_main_content sys_main_page_width">
         <div class="sys_mc_wrapper bx-def-margin-sec-leftright">
             <div class="sys_mc clearfix">
                 <!--[if lt IE 8]>
@@ -649,16 +594,15 @@ If you have any questions about this Privacy Policy, the practices of this site,
         </div>
 				<!-- end of body -->
 	</div>
-	<div class="sys_footer" style="min-width:1140px;">
-	    	    <div class="sys_breadcrumb bx-def-margin-top" style="width:1140px;">
-	       <div class="sys_bc_wrapper bx-def-margin-sec-leftright bx-def-border">
+	<div class="sys_footer">
+	    	    <div class="sys_breadcrumb sys_main_page_width bx-def-margin-top">
+	       <div class="sys_bc_wrapper bx-def-margin-sec-leftright bx-def-round-corners bx-def-border clearfix">
 	                  
-	            <div class="sys_bc bx-def-margin-leftright"><div class="bc_unit bx-def-margin-sec-left"><a href="http://reclicksnetwork.com/">Home</a></div><div class="bc_divider bx-def-margin-sec-left">›</div><div class="bc_unit bx-def-margin-sec-left"><a href="about_us.php" class="sys_page_header_caption">About</a></div><div class="bc_divider bx-def-margin-sec-left">›</div><div class="bc_unit bx-def-margin-sec-left"><font style="font-weight:normal;">Privacy Policy</font></div><div class="bc_addons"></div></div>	            	            <div class="clear_both">&nbsp;</div>
-	        </div>
+	            <div class="sys_bc bx-def-margin-leftright"><div class="bc_unit bx-def-margin-sec-left"><a href="http://reclicksnetwork.com/">Home</a></div><div class="bc_divider bx-def-margin-sec-left">›</div><div class="bc_unit bx-def-margin-sec-left"><a href="about_us.php" class="sys_page_header_caption">About</a></div><div class="bc_divider bx-def-margin-sec-left">›</div><div class="bc_unit bx-def-margin-sec-left"><font style="font-weight:normal;">Privacy Policy</font></div><div class="bc_addons"></div></div>	            	        </div>
 	    </div>
-	    		<div class="sys_copyright bx-def-margin-top" style="width: 1140px">
-	        <div class="sys_cr_wrapper bx-def-margin-sec-leftright bx-def-border">
-	            <div class="sys_cr bx-def-margin-leftright">
+	    		<div class="sys_copyright sys_main_page_width bx-def-margin-top">
+	        <div class="sys_cr_wrapper bx-def-margin-sec-leftright bx-def-round-corners bx-def-border">
+	            <div class="sys_cr bx-def-margin-leftright clearfix">
 	                	        		<div class="bottomLinks bx-def-margin-sec-right">    <span class="bx-def-margin-sec-left">
         <a class="bottom_links_block" href="about_us.php" target="_blank">About Us</a>
     </span>
@@ -681,7 +625,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
         <a class="bottom_links_block" href="javascript:void(0)" onclick="addBookmark(); return false;">Bookmark</a>
     </span>
     <span class="bx-def-margin-sec-left">
-        <a class="bottom_links_block" href="javascript:void(0)" onclick="javascript:showPopupTemplate()">Design (alt)</a>
+        <a class="bottom_links_block" href="javascript:void(0)" onclick="javascript:showPopupTemplate()">Design (evo)</a>
     </span>
 <div id="sys-bm-switcher-template">
     <div class="popup_form_wrapper disign_box">
@@ -699,12 +643,12 @@ If you have any questions about this Privacy Policy, the practices of this site,
                	</div>
                	<div class="boxContent"><div class="sys-bm-sub-items bx-def-bc-margin">
     
-        <div class="sys-bm-sub-item bx-def-margin-sec-top-auto sys-bm-sub-item-selected">
+        <div class="sys-bm-sub-item bx-def-margin-sec-top-auto ">
             
             <a href="/privacy.php?skin=alt">ALT</a>
         </div>
     
-        <div class="sys-bm-sub-item bx-def-margin-sec-top-auto ">
+        <div class="sys-bm-sub-item bx-def-margin-sec-top-auto sys-bm-sub-item-selected">
             
             <a href="/privacy.php?skin=evo">EVO</a>
         </div>
@@ -725,9 +669,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
         </div>
     </div>
 </div></div>
-	        		<div class="bottomCpr">© 2018 Multi-Platform Media<!-- 7 58 3 43  --></div>
-	        			        		<div class="clear_both"></div>
-	            </div>
+	        		<div class="bottomCpr">© 2018 Multi-Platform Media<!-- 7 64 3 52  --></div>
+	        			            </div>
 	        </div>
 		</div>
 	    	    	</div>
@@ -758,4 +701,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 	    </div>
 	</div>
 </div>    
+
 </body></html>
