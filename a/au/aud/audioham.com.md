@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioham.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825065240id_/https%3A//audioham.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioham.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828065100id_/https%3A//audioham.com/privacy.html) for the most accurate reproduction.*
 
 # Terms of Use - Audioham.com
 
