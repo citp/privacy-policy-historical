@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videoadsacademy.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321163315id_/http%3A//videoadsacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoadsacademy.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828182723id_/http%3A//videoadsacademy.com/privacy) for the most accurate reproduction.*
 
-# Privacy : Tommie Powers Blog | Digital Marketing Consultant | Conversion Optimization | Paid Traffic | Lead Generation
+# Privacy | Tommie Traffic
 
 Powersolutions Consulting LLC is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Powersolutions Consulting LLC Web site and governs data collection and usage. By using the Powersolutions Consulting LLC website, you consent to the data practices described in this statement.
 
