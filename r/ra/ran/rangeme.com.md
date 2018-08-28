@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rangeme.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310162756id_/https%3A//www.rangeme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangeme.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828224239id_/https%3A//www.rangeme.com/privacy) for the most accurate reproduction.*
 
 # RangeMe Privacy Policy
 
