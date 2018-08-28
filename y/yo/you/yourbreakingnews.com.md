@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the yourbreakingnews.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112104837id_/http%3A//video.yourbreakingnews.com/privacyYBN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbreakingnews.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828110548id_/http%3A//yourbreakingnews.com/privacyYBN.html) for the most accurate reproduction.*
 
-# Privacy | Your Breaking News
+# <!--MAIN_title--> | Your Breaking News
 
-**YOUR BREAKING NEWS**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## YOUR BREAKING NEWS
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
