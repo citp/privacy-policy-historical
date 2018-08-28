@@ -1,134 +1,251 @@
-> *The following text is extracted and transformed from the dataloader.io privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002103735id_/https%3A//mulesoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataloader.io privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828173447id_/https%3A//mulesoft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MuleSoft
+# Privacy Policy | Mulesoft
 
-**Effective Date: [21/09/2015]**
+**Privacy Statement, effective as of May 25, 2018**
 
-This Privacy Policy sets forth how MuleSoft, Inc. (“ **MuleSoft** ”) collects, uses and discloses information, including personally identifiable information (“ **User Information”)** that we may obtain about you through the use of MuleSoft services (“Services”) such as but not limited to API platform, Mule Exchange, MuleSoft Studio, and Anypoint Platform Cloudhub provided through [www.mulesoft.com](http://www.mulesoft.com/), [www.mulesource.org](http://www.mulesource.org/), [www.dataloader.io](http://www.dataloader.io/), collectively referred to as (“Site or Sites”), including our Dataloader.io Platform (“Platform”). The use of information collected through our Platform shall be limited to the purpose of providing you the service for which the client has engaged MuleSoft.  It also describes the choices available to you regarding our use of your personal information, and how you can access and update this information. By using these Sites and Services you acknowledge that you have reviewed and agree to the terms of this Privacy Policy. Do not use our Site and Services if you disagree with our Privacy Policy practices.
+At Mulesoft, Inc., a Salesforce company, trust is our #1 value. This MuleSoft Privacy Statement ("Privacy Statement") describes our privacy practices. Please read this Privacy Statement carefully to learn how we collect, use, share and otherwise process information relating to individuals ("Personal Data"), and your rights and choices regarding our processing of your Personal Data.
 
-MuleSoft may update this policy periodically to reflect changes to our information practices. Please check back frequently, especially before you submit any User information on our Sites to see if our Privacy Policy has changed. If we make any material changes to our policy, we will notify you by email or a separate notice on all applicable Sites and subdomains to which this Privacy Policy applies; prior to the change becoming effective. By using any of the Sites, you indicate your understanding and acceptance of the terms of the Privacy Policy posted at the time of your use. If you have any questions, please contact us by sending an e-mail message to [privacy@mulesoft.com](mailto:privacy@mulesoft.com) with the subject line heading of "Privacy Request."
+A reference to “MuleSoft,” “we,” “us,” “our,” or the “Company” is a reference to mulesoft.com, inc.
 
- **User Information Collected.**
+1\. Processing activities covered
 
-You have complete control over your personal information, but our Sites include instances where we must have your personal information in order for us to grant you access to content, to assist us in providing you support or Services, or to apply for Jobs. When you provide us with User Information, we collect, use, and disclose it in the ordinary course of our business in accordance with this Privacy Policy.
+This Privacy Statement applies to the following processing activities:
 
-This information may include:
+  * Visiting our websites which display or link through to this Privacy Statement; 
+    * Websites included: 
+      * Mulesoft.com
+      * Anypoint.mulesoft.com
+      * Mulesource.org
+      * Training.mulesoft.com
+      * Programmableweb.com
+      * Dataloader.io
+  * Visiting our offices;
+  * Receiving communications from us, including emails, texts or fax;
+  * Registering for our events;
+  * Participating in community and open source development.
 
-  1.  **Personal Information** for registration and access, such as your name, company, address, email address, phone number, title, credit card information that you provide directly when you register on our Sites, make an online requests, join an online community or other group, or inquire about the MuleSoft software,
-  2.  **Personal Information** that you provide as part of the online job application process or in the process of registering or participating for a MuleSoft Services, training, event, user group, or conference.
-  3.  **Personal Information** provided directly by our customers or their representatives, including but not limited to services purchase information; payment data; billing information; usernames and passwords.
-  4.  **Passively Collected Information** , including through the use of "cookies" or other similar technologies as described below, such as IP addresses, web browser and operating system information, date and time of visits, and the web pages your internet browser visits when browsing any Sites and Services; click-through information related to MuleSoft emails and related marketing activities; and aggregate, non-Personal Information, such as the number of hits per week or per web page.
+
+
+When applications are provided by us and the application links to this Privacy Statement, this Privacy Statement applies. When applications are provided by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply.
+
+Our websites may contain links to other websites, applications and services maintained by third parties. The information practices of such other services are governed by the third-party privacy statements, which we encourage you to review to better understand those third parties’ privacy practices.
+
+2\. Responsible MuleSoft entity
+
+Mulesoft is the controller of your Personal Data and responsible for the collection, processing and disclosure of your Personal Data as described in this Privacy Statement, unless expressly specified otherwise.
+
+This Privacy Statement does not apply to the extent we offer our customers the AnyPoint Platform through which our customers may collect and process Personal Data from individuals.
+
+3\. What Personal Data do we collect?
+
+## 3.1 Personal Data we collect directly from you
+
+The Personal Data that we collect directly from you may include the following:
+
+  * if you express an interest in obtaining additional information about our services, request customer support, use our "Contact Us" or similar features, register to use our websites, sign up for an event or webinar, or download certain content, we generally require you to provide us with your contact information, such as your name, job title, company name, address, phone number, fax, email address, or username and password;
+  * if you make purchases via our websites or register for an event, we may also require you to provide us with financial information and billing information, such as billing name, billing email, billing phone, billing address, credit card number, , credit card expiration data, or credit card verification number;
+  * if you attend an event (ex. trade shows, workshops, training, meetups, conferences), we may, upon your consent, scan your attendee badge, require online registrations forms, one-off business card collection or hard copy sign-ups, which will provide us with your name, title and company name, address, country, phone number and email address;
+  * if you register for an online community that we host, we may ask you to provide a username, photo and/or biographical information, such as your occupation, social media profiles, company name, and areas of expertise;
+  * if you use and interact with our websites, we automatically collect log files and other information about your device and your usage of our websites through cookies, web beacons or similar technologies, such as IP-addresses or other identifiers, which may qualify as Personal Data (view the "What device and usage data we process" section below);
+  * if you visit our offices, you may be required to register as a visitor and to provide your name, email address, phone number, company name and time and date of arrival
 
 
 
- **Use and Disclosure of User Information.**
+## 3.2 Personal Data we collect from other sources
 
-We intend to use User Information for purposes of supporting your relationship with MuleSoft, which may entail Sites and Services that are suitable to your needs and alerting you to products and service offerings as they become available. If you decide that we should not use your personal User Information to contact you, please let us know and we will not use that information for such purpose. Do not submit any User Information if you are less than 18 years of age.
+We may collect information about you from other sources, including third parties from whom we have purchased Personal Data, and combine this information with Personal Data provided by you. This helps us to update, expand and analyze our records, identify new customers, and create more tailored advertising to provide services that may be of interest to you. In particular, we collect Personal Data from the following sources:
 
-MuleSoft may use User Information for the following purposes: communicating with you, customers, prospects, partners, and others; fulfillment and tracking of orders; provision, personalization and customization of MuleSoft Sites and Services; tracking of payments and otherwise ensuring payment; assessing performance and making assessments about future purchases; performing marketing activities directly or through a business partner and otherwise communicating information regarding MuleSoft Services (where permitted by law); providing registration for and participation in training, events and conferences; and for facilitating online employment application process.
+  * Business contact information, including mailing address, job title, email address,  phone number, ‘intent data’ which is web user behaviour data, IP addresses, social handles, LinkedIn URL and custom profiles from third party data providers for the purposes of targeted advertising, delivering relevant email content, event promotion and profiling;
+  * MuleSoft uses platforms such as GitHub to manage code check-ins and pull requests. If you participate in an open source or community development project, we may associate your code repository username with your community account so we could inform you of program changes that are important to your participation or additional security requirements.
 
-MuleSoft primarily stores User Information in the United States. To facilitate MuleSoft’s global operations, MuleSoft may transfer and access such information outside the United States or European Economic Area. In case MuleSoft transfers data from one country to another, this Privacy Policy shall apply. You hereby agree that MuleSoft may disclose and share User Information to its affiliates, subsidiaries, third party business partners, and service providers only in ways described in this privacy policy. In situations where MuleSoft discloses User Information to any third parties acting as service providers or "agents" on behalf of MuleSoft, MuleSoft will require the recipient to protect and only use the disclosed User Information in accordance with this Privacy Policy. No personal information will be disclosed to other third parties that are not described in this privacy policy without your prior consent.
 
-MuleSoft reserves the right to use or disclose information provided as required by law such as to comply with a subpoena, or similar legal process, or if it reasonably believes in good faith that use or disclosure is necessary to protect MuleSoft’s rights, to protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-If MuleSoft is involved in a merger, acquisition, or sale of all of a portion of its assets, you will be notified via a notice on our Sites or the Site to which the change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information applies.
+4\. What device and usage data we process
 
-When you submit inquires on our Sites, we obtain information about you from third party sources to identify your state and country, so that your inquiries may be directed to the appropriate representative.
+We use common information-gathering tools, such as log files, cookies, web beacons and similar technologies to automatically collect information, which may contain Personal Data, from your computer or mobile device as you navigate our websites or interact with emails we have sent you.
 
- **Tracking Technologies**
+## 4.1 Log Files
 
-As is true of most Sites, we gather certain information automatically and store them in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or Site functionality.
+As is true of most websites, we gather certain information automatically via log files. This collected information may include your Internet Protocol (IP) address (or proxy server), device and application identification numbers, your location, your browser type, your Internet service provider and/or mobile carrier, the pages and files you viewed, your searches, your operating system and system configuration information, and date/time stamps associated with your usage. This information is used to analyze overall trends, to help us provide and improve our websites and to guarantee their security and continued proper functioning. We also collect IP addresses from users when they log into the services as part of Mulesoft’s security features.
 
-MuleSoft and our third party partners such as affiliates and service providers use technologies such as E-Tag, JavaScript, local storage (LS), web beacons and cookies. Our third party partners also use local storage objects (LSO). By using our Sites, you accept the use of these tracking technologies.
+## 4.2 Cookies, web beacons and other tracking technologies
 
-E-Tag is a technology that is part of the standard HTTP protocol that allows our Sites to validate temporary storage (cache) of our pages and images. This ensures that you are viewing the latest version of our Site since your last visit.
+We use cookies and similar technologies such as web beacons, tags and Javascript alone or in conjunction with cookies to compile information about usage of our websites and interaction with emails from us.
 
-JavaScript is a dynamic object oriented computer programming language. JavaScript is used to [understand user behavior on our Sites].
+When you visit our websites, our servers or an authorized third party may place a cookie on your browser, which can collect information, including Personal Data, about your online activities over time and across different sites. Cookies allow us to track overall usage, determine areas that you prefer, make your usage easier by recognizing you and providing you with a customized experience.
 
-Local Storage (LS) such as HTML5 are used to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSs.
+We use both session-based and persistent cookies. Session cookies exist only during one session and disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer or device after you close your browser or turn off your computer. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our websites or services. To opt-out from tracking by Google Analytics, please use the specific opt-out mechanism as indicated further below.
 
-Local Storage Objects (LSOs) such as Flash are used to store content information and preferences. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We also use web beacons on our websites. For example, we may place web beacons in marketing emails that notify us when you click on a link in the email that directs you to one of our websites. Such tracking technologies are used to operate and improve our websites and email communications and track the clicking of links or opening of emails.
 
-Web beacons are a clear graphic image of 1x1 pixel that is delivered through a web browser usually as part of a webpage request or an email. Web beacons operate as a tag that records an end users interaction with a web site or email.
+The following sets out how we use different categories of cookies and similar technologies, as well as information on your options for managing the settings for the data collection by these technologies:
 
-Cookie is a small data file that a web site can generate and transfer to a visitor’s computer or another device. A cookie contains information such as your username and password that helps us recognize the pages you have visited, improve user experience and future visits as well as direct more relevant advertisements, and can be used for a lot of different purposes. A cookie cannot read data off your hard drive or read cookie files created by other web sites. Disabling a cookie or category of cookie does not delete the cookie from your browser; you will need to do this yourself from within your browser. Please note that our Sites may not be available or work properly once cookies are disabled. For detailed information on the type of cookies we use and the purposes for which we use them, read the cookie information below.
+**Required Cookies:**
 
- **Essential Cookies.** These cookies are essential in order to enable you to navigate the Sites and use its features, such as accessing secure areas and using Services. These cookies are also used to identify you and tie you to your account (if registered).
+Required cookies enable you to navigate our websites and use their features, such as accessing secure areas of the websites.
 
- **Functionality Cookies**. These cookies allow our Sites and Services to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features.  These cookies also enable you to customize the use of the Sites and Services after logging in and may collect additional information about you and our use of the Services.
+If you have chosen to identify yourself to us, we may place on your browser a cookie that allows us to uniquely identify you when you are logged into the websites and to process your online transactions and requests.
 
- **Analytics Cookies.** These cookies collect data about our use of our Sites and Services and are used in order to improve functioning and performance of the Sites and Services. These cookies may also be linked to any User Information that MuleSoft may have or collect about you in accordance with this privacy policy. In addition, MuleSoft may engage third parties to track and analyze usage and volume statistical information from individuals.
+**Managing Required Cookies:**
 
-Google uses various different types of cookies to run Google websites and Ads-related products. User Information collected by the Google cookies may be transmitted to and stored on Google servers anywhere in the world in accordance with Google privacy practices. To see an overview of privacy at Google and how this applies to these Google cookies, visit <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>. You may opt out of Google tracking by visiting <https://tools.google.com/dlpage/gaoptout>.
+Required cookies are essential to operate the websites there is no option to opt out of these cookies. Please refrain from using our site if you do not consent to these cookies.
 
- **Advertisement.** We partner with a third party to either display advertising on our Sites or to manage our advertising on other Sites. Our third party partner may use cookies and other technologies to gather information about your activities on this Site and other Sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+**Functional Cookies**
 
-MuleSoft does not (i) sell or trade User Information to third parties or (ii) transfer it for any other purpose than set forth above.
+Functional cookies allow us to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features.
 
- **Newsletters and Marketing**
+Functional cookies may also be used to improve how our websites function and to help us provide you with more relevant messages, including marketing communications. These cookies collect information about how our websites are used, including which pages are viewed most often.
 
-You may signup to receive newsletters. We may occasionally send promotional communication (“Marketing”) to you as well. Out of respect for your privacy, you may choose to stop receiving our newsletter or Marketing emails by following the unsubscribe instructions included in these emails.
+We may use our own technology or third party technology to track and analyze usage and volume statistical information to provide enhanced interactions and more relevant communications, and to track the performance of our advertisements.
 
- **Single Sign-on**
+In particular, we use Google Analytics ("Google Analytics"), a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA as our processor. Google Analytics uses cookies to help us analyze how our websites are used, including the number of visitors, the websites visitors have come from, and the pages they visit. This information is used by us to improve our websites.
 
-You can use certain features on our Sites by using sign-in services such as Facebook Connect, Google, Twitter, Yahoo, Saleforce or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect and Twitter give you the option to post information about your activities on our Sites to your profile page to share with others within your network.
+Mulesoft may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored.
 
- **Endorsements**
+**Managing Functional Cookies**
 
-We display Endorsements received from other companies and satisfied customers If you are a customer, we will only post your testimonial along with your name with your consent. If you wish to update or delete your endorsement, you can contact us at [Privacy@mulesoft.com](mailto:Privacy@mulesoft.com).
+To manage the use of functional cookies on our websites, consult your individual browser settings for cookies. Note that opting out may impact the functionality you receive when using our websites.
 
- **Service Providers**
+To opt out from data collection by Google Analytics, you can download and install a browser add-on, which is available [here](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-We may share your personal information with companies that provide services to help us with our business activities such as purchasing products and credit card processing. These companies are authorized to use your personal information only as necessary to provide these services to us.
+To learn how to control functional cookies using your browser settings click [here](https://www.aboutcookies.org/).
 
- **Security**
+To learn how to manage privacy and storage settings for Flash cookies click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
-MuleSoft is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures designed to secure your personal User Information. We encrypt the transmission of your sensitive personal information including your login credentials. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, we cannot guarantee its absolute security.
+**Targeting or Advertising Cookies**
 
-Individuals may contact the MuleSoft Privacy Contact identified below to review User Information about them. MuleSoft reserves the right to take reasonable steps to authenticate the identity of any such individual seeking access to User Information.
+We sometimes uses cookies delivered by us or third parties to show you ads for our products that we think may interest you on any devices you may use and to track the performance of our advertisements. For example, in these cases, cookies may collect and remember information such as which browsers have visited our websites. The information provided to third parties does not include Personal Data, but this information may be re-associated with Personal Data after the Company receives it.
 
- **Access, Usernames and Passwords.**
+MuleSoft also contracts with third party advertising networks that collect IP addresses and other information from web beacons (see below) on our websites, from emails, and on third-party websites. Advertising networks follow your online activities over time and across different sites or other online services by collecting device and usage data through automated means, including through the use of cookies. These technologies may recognize you across the different devices you use, such as a desktop or laptop computer, smartphone or tablet. Third parties use this information to provide advertisements about products and services tailored to your interests. You may see their advertisements on other websites or mobile applications on any of your devices. This process also helps us manage and track the effectiveness of our marketing efforts.
 
-Access to certain content on our Sites may be allowed under a written agreement between you and MuleSoft, and may require a username or password issued by MuleSoft. In some cases, failure to provide personal information may prevent you from accessing certain MuleSoft Sites or MuleSoft Services. By accessing and using our protected and secured Site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our standard terms and conditions applicable to MuleSoft Services.
+**Managing Targeting or Advertising Cookies**
 
- **Monitoring.**
+See Section 4.3, below, to learn more about these and other advertising networks and your ability to opt out of collection by certain third parties.
 
-Although we are not obligated to do so, we may review your communications with respect to the Sites and Services to determine whether you comply with the applicable terms of MuleSoft Services. MuleSoft will not have any liability or responsibility for the content of any communications you provide, or for any errors or violations of any laws or regulations by you.
+All cookies placed by MuleSoft and listed above expire after 12 months.
 
- **External Links.**
+## 4.3 Notices on behavioral advertising and opt-out
 
-Our Sites displays links to other third party Sites. Even if the third party is affiliated with MuleSoft through a business partnership or otherwise, MuleSoft is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk.
+As described above, we or third parties may place or recognize a unique cookie on your browser when you visit our websites for the purposes of serving you targeted advertising (also referred to as “online behavioral advertising” or “interest-based advertising”). To learn more about targeted advertising, advertising networks and your ability to opt out of collection by certain third parties, please visit the opt-out pages of the Network Advertising Initiative, [here](http://optout.networkadvertising.org/?c=1#!/), and the Digital Advertising Alliance, [here](http://optout.aboutads.info/?c=2#!/).
 
- **Social Media.**
+To manage the use of targeting or advertising cookies on this website, consult your individual browser settings for cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). Various browsers may offer their own management tools for removing HTML5 local storage.
 
-In addition to cookies and tools described above MuleSoft uses social media features, such as the Facebook 'like' button and sharing features for marketing and communication purposes. These features may collect certain data, such as your IP address, based on your behavior on the Sites and may set a cookie to enable relevant features of such social media to function properly. These features may be hosted by MuleSoft or a third party.  Please note that your interactions with social media features on shall be governed by the privacy policies of the company providing the feature(s).
+## 4.4 Opt-Out from the collection of device and usage data
 
- **Blogs/Forums**
+You may opt-out from the collection of device and usage data (see "What device and usage data we process" section above) by managing your cookies at the individual browser level. In addition, if you wish to opt-out of interest-based advertising click [here](http://preferences-mgr.truste.com/), or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note, however, that by blocking or deleting cookies and similar technologies used on our websites, you may not be able to take full advantage of the website.
 
-Some of our Sites offer publicly accessible blogs or community forums. Personal Information such as your name is disclosed. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, community forum, or to have an unauthorized profile removed. Please contact us at [privacy@mulesoft.com](mailto:privacy@mulesoft.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Our Sites also connect to blogs and forums hosted on third-party Sites, we do not control these Sites, all profile information and postings on these Sites are governed by their own privacy policies, please contact the respective Site to request to have your personal information removed.
+While some internet browsers offer a “do not track” or “DNT” option that lets you tell websites that you do not want to have your online activities tracked, these features are not yet uniform and there is no common standard that has been adopted by industry groups, technology companies or regulators. Therefore, we do not currently commit to responding to browsers' DNT signals with respect to our websites. MuleSoft takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
 
- **Safe Harbor Certification**
+## 4.5 Social Media Features
 
-MuleSoft complies with the U.S.-EU Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, transfer and retention of personal information from European Union member countries and Switzerland. MuleSoft has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
+Our websites may use social media features, such as the Facebook “like” button, the “Tweet” button and other sharing widgets (“Social Media Features”). You may be given the option by such Social Media Features to post information about your activities on a website to a profile page of yours that is provided by a third party social media network in order to share with others within your network. Social Media Features are either hosted by the respective social media network or hosted directly on our website. To the extent the Social Media Features are hosted by the respective social media networks, the latter may receive information that you have visited our website from your IP address. If you are logged into your social media account, it is possible that the respective social media network can link your visit of our websites with your social media profile.
 
- **Access to Information and choice**
+Our sites may allow you to log in using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain Personal Data with us such as your name and email address to pre-populate our sign-up form.
 
-If your personal information changes you may email us to have it [corrected, updated, amended or removed] at [privacy@mulesoft.com](mailto:privacy@mulesoft.com) or send the inquiry by postal mail at the address listed below. We will respond to your request within a reasonable time. We will retain your information for as long as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Your interactions with Social Media Features are governed by the privacy policies of the companies providing the relevant Social Media Features.
 
- **Data Collected for our Clients through our Platform(s)**
+5\. Purposes for which we process Personal Data and the legal basis on which we rely
 
-MuleSoft Platforms such as Dataloader.io, collect information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to MuleSoft’s client (the data controller). If you submit a request to have your data removed to us, we will respond to this request within 30 days.  If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.  We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients. We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. MuleSoft will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We collect and process your Personal Data for the purposes and on the legal bases identified in the following:
 
- **Contact Us.**
+  * **Providing our websites:** We will process your Personal Data to the extent this is necessary for the performance of our contract with you for the use of our websites and to fulfill our obligations under the applicable terms of use/service; where we have not entered into a contract with you, we base the processing of your Personal Data on our legitimate interest to operate and administer our websites and to provide you with content you access and request (e.g., download of certain content from our websites);
+  * **Promoting security of our websites:** We will process your Personal Data by tracking use of our websites, creating aggregated, non-personal data, verifying accounts and activity, investigating suspicious activity, as well as violations of and enforcement of our terms and policies, to the extent this is necessary for the purpose of our legitimate interests in promoting the safety and security of the systems and application used for our websites, and protecting our rights and the rights of others;
+  * **Managing user registrations:** We will process your Personal Data by managing your user account for the purpose of performing the contract with you according to any applicable terms of service;
+  * **Handling contact and user support requests:** If you fill out a “Contact Me” web form, request user support, or if you contact us by other means, we will process your Personal Data for the performance of our contract with you and to the extent it is necessary for the purpose of our legitimate interests to fulfill your request and communicate with you;
+  * **Managing event registrations and attendance:** We will process your Personal Data to plan and host the event or webinar, including related communication with you, on basis of the performance of our contract with you;
+  * **Managing payments:** If you have provided financial information, we will process your respective Personal Data to check the financial qualifications and collect payments to the extent this is necessary for completing transaction with you under the entered contract;
+  * **Developing and improving our websites:** We will process your Personal Data to analyze trends, track your usage of our websites and interactions with emails to the extent this is necessary for our legitimate interests to develop and improve our websites and to provide our users with more relevant and interesting content;
+  * **Managing office visitors:** We will process your Personal Data for security reasons, to register who visited our offices and who signed the non-disclosure agreement that visitors may be required to sign.  
+  * **Displaying personalized advertisements and content:** We will process your Personal Data to conduct marketing research, advertise to you, provide personalized information about us on and off our websites, and other personalized content based upon your activities and interests to the extent it is necessary for our legitimate interests to advertise our websites or, where necessary, to the extent you have provided your prior separate consent (please also view "Your rights relating to your Personal Data" below to learn how you can control how your Personal Data is processed by MuleSoft for marketing purposes);
+  * **Sending marketing communications:** We will process your Personal Data to send you marketing information, product recommendations and other non-transactional communications (e.g., marketing newsletters) about us and our affiliates and partners, including information about our products, promotions or events as necessary for our legitimate interests to conduct direct marketing or to the extent you have provided your prior separate consent (please also view "Your rights relating to your Personal Data" section below to learn how you can control how your Personal Data is processed by Salesforce for marketing purposes);
+  * **Complying with legal obligations:** We will process your Personal Data when cooperating with public and government authorities, courts or regulators in accordance with our legal obligations under applicable laws to the extent this requires the processing or disclosure of Personal Data to protect our rights, and is necessary for our legitimate interests to protect against misuse or abuse of our websites, to protect personal property or safety, to pursue remedies available to us and limit our damages, to comply with a judicial proceedings, court order or legal process, and/or to respond to lawful requests. Where we need to collect and process Personal Data by law, or under a contract we have entered into with you and you fail to provide that required Personal Data when requested, we may not be able to perform the contract.
 
- **Privacy contact**
 
-privacy@mulesoft.com  
+
+6\. Who do we share Personal Data with?
+
+We may share your Personal Data with the following recipients:
+
+  * Our contracted service providers which provide services such as IT and system administration and hosting, credit card processing, research and analytics, marketing, customer support and data enrichment;
+  * If you use our websites to register for an event or webinar organized by a one of our affiliates, we may share your Personal Data with the affiliate to the extent this is required on the basis of the contract with you to process your registration and ensure your participation in the event; in such case, our affiliate will process the relevant Personal Data as a separate controller and will provide you with further information on the processing of your Personal Data, where required.
+  * If you attend an event or webinar organized by us, we may share your information with sponsors of the event if: (1) you consent to such sharing via an event registration form; or (2) you allow your attendee badge to be scanned at a sponsor booth. In that event, your information will be subject to the business partners’ respective privacy statements. If you do not wish for your information to be shared, you may choose not to opt-in via event registration or elect not to have your badge scanned at our events;
+  * With third–party social networks, advertising networks and websites, which usually act as separate controllers, so that MuleSoft can market and advertise on third party platforms and websites;
+  * In individual cases we may also share Personal Data with professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in countries in which we operate who provide consultancy, banking, legal, insurance and accounting services;
+  * We may also share your Personal Data with other affiliates within the Mulesoft corporate group to the extent this is necessary to fulfill a request you have submitted via our websites, or for customer support, marketing, technical operations and account management purposes;
+  * If we are involved in a merger or reorganization, sell a website or business unit, or if all or a portion of our business, assets or stock are acquired by another company, we may transfer some or all of your Personal Data to such third party. In accordance with applicable laws, we will use reasonable efforts to notify you of any such transfer of Personal Data to an unaffiliated third party as processing of your Personal Data will be required for the purposes set out in "Purposes for which we process Personal Data and on which legal bases" section above.
+  * Any Personal Data or other information you choose to submit in communities, forums, blogs, or chat rooms on our websites may be read, collected, and/or used by others who visit these forums, depending on your account settings.
+
+
+
+7\. International transfer of information collected
+
+Your Personal Data may be collected, transferred to and stored by us in the United States and by our affiliates in other countries where we operate.
+
+Therefore, your Personal Data may be processed outside the EEA, and in countries which are not subject to an adequacy decision by the European Commission and which may not provide for the same level of data protection in the EEA. In this event, we will ensure that such recipient offers an adequate level of protection, for instance by entering into standard contractual clauses for the transfer of data as approved by the European Commission (Art. 46 GDPR), or we will ask you for your prior consent to such international data transfers.
+
+8\. Children
+
+Our websites are not directed at children. We do not knowingly collect Personal Data from children under the age of 18. If you are a parent or guardian and believe your child has provided us with Personal Data without your consent, please contact us as described in the “Contacting Us” section below and we will take steps to delete such Personal Data from our systems.
+
+9\. How long do we keep your Personal Data?
+
   
----  
-  
- **Legal**
+We may retain your Personal Data for a period of time consistent with the original purpose of collection (see "Purposes for which we process Personal Data and on what legal basis" section above). We determine the appropriate retention period for Personal Data on the basis of the amount, nature, and sensitivity of your Personal Data, the potential risk of harm from unauthorized use or disclosure, and whether we can achieve the purposes of the processing through other means, as well as the applicable legal requirements (such as applicable statutes of limitation).
 
- **77 Geary Street, Suite 400**
+After expiry of the retention periods, your Personal Data will be deleted. If there is any information that we are unable, for technical reasons, to delete entirely from our systems, we will put in place appropriate measures to prevent any further use of the data.
 
- **San Francisco, CA 94108**
+10\. Your rights relating to your Personal Data
+
+## 10.1 Your rights
+
+You have certain rights regarding your Personal Data, subject to local data protection laws. These may include the following rights:
+
+  * to access your Personal Data held by us (right to access);
+  * to rectify inaccurate Personal Data and ensure it is complete (right to rectification);
+  * to erase/delete your Personal Data to the extent permitted by other legal obligations (right to erasure; right to be forgotten);
+  * to restrict our processing of your Personal Data (right to restriction of processing);
+  * to transfer your Personal Data to another controller to the extent possible (right to data portability);
+  * to object to any processing of your Personal Data carried out on the basis of our legitimate interests (right to object). Where we process your Personal Data for direct marketing purposes or share it with third parties for their own direct marketing purposes, you can exercise your right to object at any time to such processing without having to provide any specific reason for such objection;
+  * not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects ("Automated Decision-Making");  Automated Decision-Making currently does not take place on our websites;
+  * to the extent we base the collection, processing and sharing of your Personal Data on your consent, to withdraw your consent at any time, without affecting the lawfulness of the processing based on such consent before its withdrawal.
+
+
+
+## 10.2 How to exercise your rights
+
+To exercise your rights, please contact us in accordance with the “Contacting Us” section below. We try to respond to legitimate requests within one month and will contact you if we need additional information from you in order to honor your request. Occasionally it may take us longer than a month, taking into account the complexity and number of requests we receive. If you are an employee of a MuleSoft customer, we recommend you contact your company’s system administrator for assistance in correcting or updating your information.
+
+In addition, if you have registered for an account with us, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable website with your username and password and editing your settings or profile. To update your billing information, discontinue your account, and/or request return or deletion of your Personal Data and other information associated with your account, please contact us.
+
+## 10.3 Your rights relating to Customer Data
+
+As described above, we may also process Personal Data in the role of a processor (see "Responsible MuleSoft entity" section above). If your data has been submitted to us by a MuleSoft customer and you wish to exercise any rights you may have under applicable data protection laws, please inquire with our customer directly. Because we may only access our customer’s data upon instruction from the respective customer, if you wish to make your request directly to us, please provide the name of the MuleSoft customer who submitted your data when you contact us. We will refer your request to that customer, and will support them as needed in responding to your request within a reasonable timeframe.
+
+## 10.4 Your preferences for marketing communications
+
+If we process your Personal Data for the purpose of sending you marketing communications, you may manage your receipt of marketing and non-transactional communications from us by clicking on the “unsubscribe” link located on the bottom of our marketing emails. Additionally, you may unsubscribe by contacting us using the information in the “Contacting Us" section below. Please note that opting-out of marketing communications does not opt you out of receiving important business communications related to your current relationship with us, such as information about your subscriptions or event registrations, service announcements or security information.
+
+11\. Security
+
+We take precautions including organizational, technical, and physical measures, to help safeguard against accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, the Personal Data we process or use.
+
+While we follow generally accepted standards to protect Personal Data, no method of storage or transmission is 100% secure. You are solely responsible for protecting your password, limiting access to your devices, and signing out of websites after your sessions. If you have any questions about the security of our websites, please contact us via the “Contacting Us” section below.
+
+12\. Changes to this Privacy Statement
+
+We will update this Privacy Statement from time to time to reflect changes in our practices, technology, legal requirements and other factors. If we do, we will update the “effective date” at the top of this Privacy Statement. If we make an update, we may provide you with notice prior to the update taking effect, such as by posting a conspicuous notice on our website or by contacting you using the email address you provided.
+
+We encourage you to periodically review this Privacy Statement to stay informed about our collection, processing and sharing of your Personal Data.
+
+13\. Contacting us
+
+To exercise your rights regarding your Personal Data, or if you have questions regarding this Privacy Statement or our privacy practices please contact us at:
+
+MuleSoft, Inc.  
+Attn: Privacy Office  
+415 Mission Street  
+San Francisco, CA 94105  
+Email: [privacy@mulesoft.com](mailto:privacy@mulesoft.com)
+
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA, you have the right to lodge a complaint with the competent supervisory authority.
