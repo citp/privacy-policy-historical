@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmrecruitondemand.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314103806id_/https%3A//www.mlmrecruitondemand.com/privacy.php%3Fid%3Dadmin) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmrecruitondemand.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828225651id_/https%3A//www.mlmrecruitondemand.com/privacy.php%3Fid%3Dadmin) for the most accurate reproduction.*
 
 # MlmRecruitOnDemand.com - Ryan Gunness
 
