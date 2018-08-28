@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927005124id_/http%3A//www.nahb.org/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828173543id_/https%3A//www.nahb.org/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, tho
 
 ### Use of Collected Information
 
-We collect aggregate information on what pages our visitors access or visit. We also collect information volunteered by visitors, such as information provided in registration of services, member login, online surveys, job service postings, etc. Information we collect may be used to notify visitors about updates to our Web site and may be used by NAHB to contact visitors for marketing purposes. However, NAHB does not sell to or trade e-mail lists with third parties.
+We collect aggregate information on what pages our visitors access or visit. We also collect information volunteered by visitors, such as information provided in registration of services, member login, online surveys, job service postings, etc. Information we collect may be used to notify visitors about updates to our Web site and may be used by NAHB to contact visitors for marketing purposes. However, NAHB does not sell to or trade NAHB members' information with third parties.
 
 Users who provide their e-mail address will receive Monday Morning Briefing, the official electronic newspaper of NAHB. 
 
@@ -33,6 +33,15 @@ When you visit our site, we may place a cookie on your computer to allow us to r
 ### Security
 
 If you send credit card information, we will redirect visitors to a secure server and encrypt this information between your computer and our server. Other information that you send to this site, including e-mail messages, will not be encrypted unless we advise you otherwise. Although our site has industry standard security measures in place to protect the loss, misuse and alteration of the information that is under our control, we cannot guarantee complete security.
+
+### Third-Party Analytics
+
+Our analytics providers for websites and apps, primarily Google Analytics and Feathr, may collect data points associated with your visits to our websites and use in our apps in order to assist us with analyzing and assessing our digital properties. To learn more about Google Analytics, Feathr and their data collection, please follow these links:
+
+  * Google - <https://policies.google.com/privacy>
+  * Feathr - <https://www.feathr.co/privacy-policy>
+
+
 
 ### Changes in Policy
 
