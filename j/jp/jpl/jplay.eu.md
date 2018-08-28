@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jplay.eu privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917193250id_/http%3A//jplay.eu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jplay.eu privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828195020id_/http%3A//jplay.eu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JPLAY
 
@@ -24,7 +24,7 @@ We may disclose your personal information if we are required by law to do so or 
 SECTION 4 – STORE
 
 Our store is based on WooCommerce online e-commerce platform that allows us to sell our products and services to you.  
-Your data is stored through WooCommerce data storage, databases and the general WooCommerce application. Your data is stored on our web provider’s secure server behind a firewall.
+Your data is stored through WooCommerce data storage, databases and the general WooCommerce application. Your data is stored on our web provider’s secure server behind a firewall. The server and all the data are stored within the EU.
 
 SECTION 5 – PAYMENT
 
@@ -50,4 +50,6 @@ By using this site, you represent that you are at least the age of majority in y
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to access, correct, amend or delete any personal information we have about you or simply want more information, contact us at support@jplay.eu
+If you would like to access, correct, amend or delete any personal information we have about you or simply want more information, contact us at support@jplay.eu 
+
+The plasmodium is not multicellular, but rather a single mass [site web link](https://firstessaywritinghelp.com/) of cytoplasm with multiple diploid nuclei
