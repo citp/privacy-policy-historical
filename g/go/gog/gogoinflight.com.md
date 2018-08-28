@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogoinflight.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308131410id_/https%3A//content.gogoair.com/privacy/%3Flang%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoinflight.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828201823id_/https%3A//content.gogoair.com/privacy/%3Flang%3Den_US) for the most accurate reproduction.*
 
 # Gogo Privacy Policy
 
