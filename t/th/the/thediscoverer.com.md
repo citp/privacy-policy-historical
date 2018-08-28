@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thediscoverer.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626063145id_/http%3A//thediscoverer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediscoverer.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828092310id_/http%3A//thediscoverer.com/privacy) for the most accurate reproduction.*
 
 # The Discoverer | Privacy Policy
 
