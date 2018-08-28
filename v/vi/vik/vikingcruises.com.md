@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vikingcruises.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102131804id_/https%3A//www.vikingcruises.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingcruises.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828121553id_/https%3A//www.vikingcruises.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Viking Cruises
 
-**Our Privacy Policy has changed, effective on August 8th, 2017.  
+**Our Privacy Policy has changed, effective on May 24th, 2018.  
 To understand your opt out choices, please see the section headed "6. YOUR CHOICES, INCLUDING OPT-OUT OPTIONS" below.**
 
 1\. INTRODUCTION 
@@ -164,7 +164,7 @@ You can stop receiving promotional email communications from us by clicking on t
   *  **Opting Out of Cookies or Pixels**  
 You may “opt out” of the collection of any information through cookies, pixels or other tracking technology by managing them on your browser or mobile device. However, if you decide not to accept such tracking technology from us or from our third party vendor’s or partner’s cookies, your ability to use some features on our websites and other Access Points may be impaired. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, pixels and other tracking/recording tools. (To learn more about cookies, pixels, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit the Network Advertising Initiative’s online resources at [http://www.networkadvertising.org)](http://www.networkadvertising.org/). Depending on your mobile device, you may not be able to control tracking technologies through settings. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us as provided in Section 15 (Your Comments and Questions).
   *  **Modifying, correcting, or Deleting Your Information**  
-If you have any questions about reviewing, modifying ,requesting the correction of, or deleting your information, you can contact us directly at the contact information in Section 15 below (Your Comments and Questions). Viking Cruises may retain your information for a commercially reasonable time for backup, legal, archival, or audit purposes.
+If you have any questions about reviewing, modifying, requesting the correction of, or deleting your information, you can contact us directly at the contact information in Section 15 below (Your Comments and Questions). Viking Cruises may retain your information for a commercially reasonable time for backup, legal, archival, or audit purposes. You can submit your request at [Data Subject Request Form](http://www.vikingcruises.com/notice).
 
 
 
@@ -216,3 +216,5 @@ Attention: Customer Relations
 Viking Cruises   
 5700 Canoga Avenue, Suite 200   
 Woodland Hills, CA 91367
+
+Version May 2018
