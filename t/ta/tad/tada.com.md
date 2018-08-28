@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tada.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052453id_/http%3A//tada.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tada.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828192444id_/http%3A//www.tada.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tada.com
 
-Effective Date & Last Modified January 11, 2013. 
+Effective Date & Last Modified August 31, 2017. 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
@@ -79,7 +79,7 @@ We work to protect the security of your information during transmission by using
 
 **VI. YOUR OPTIONS & OPT-OUTS**
 
-**(a) What Information Can I Access?** If you register as a Connexity member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time. If there is any inaccurate information that you are not able to correct, just let us know. Also, if you wish, you can delete your membership account entirely although we may retain certain information in limited circumstances - e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/web/20170606052453id_/http%3A//tada.com/tos.html). Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our "back-up" systems) and certain legal constraints. 
+**(a) What Information Can I Access?** If you register as a Connexity member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time. If there is any inaccurate information that you are not able to correct, just let us know. Also, if you wish, you can delete your membership account entirely although we may retain certain information in limited circumstances - e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/web/20180828192444id_/http%3A//www.tada.com/tos.html). Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our "back-up" systems) and certain legal constraints. 
 
 **(b) What Choices Do I Have (Opt-Out)?** You have many choices regarding how we use information about you, including: (1) To stop our emails, [click here](http://about.shopzilla.com/contact-us/site-questions) ; (2) To opt-out of preference-based ads, [click here](http://www.shopzilla.com/ad_retarget_global_opt_out) ; (3) To stop the sharing of PII with our participating merchants, [click here](http://about.shopzilla.com/contact-us/site-questions) ; and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services. 
 
@@ -95,8 +95,8 @@ This Privacy Policy may change from time to time to reflect our changing busines
 
 **IX. SOLE STATEMENT**
 
-This Privacy Policy and our [Terms of Use](https://web.archive.org/web/20170606052453id_/http%3A//tada.com/tos.html) , both as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services. 
+This Privacy Policy and our [Terms of Use](https://web.archive.org/web/20180828192444id_/http%3A//www.tada.com/tos.html) , both as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services. 
 
-**© 2016 Connexity, Inc.**
+**© 2018 Connexity, Inc.**
 
-12200 W. Olympic Blvd, Suite 300, CA 90064 | help@Connexity.com | 310.571.1235 
+2120 Colorado Ave., Suite 400, Santa Monica CA 90404 | help@Connexity.com | 310.571.1235 
