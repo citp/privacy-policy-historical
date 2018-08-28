@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310210455id_/https%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828102513id_/https%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,8 +14,8 @@ Certain areas of our Web site may request personal information. If you choose to
 
 ### Linked Sites
 
-Our privacy policy only covers our Web sites at [www.ez.no](http://www.ez.no/) and [share.ez.no](http://share.ez.no/). Some areas of our Web site might contain links to third party sites. We do not control the linked sites and we are not responsible for their privacy practices. We suggest that you check the privacy policies of these sites before providing any personal information to them.&nbsp;
+Our privacy policy only covers our Web sites at [www.ez.no](http://www.ez.no/) and [share.ez.no](http://share.ez.no/). Some areas of our Web site might contain links to third party sites. We do not control the linked sites and we are not responsible for their privacy practices. We suggest that you check the privacy policies of these sites before providing any personal information to them.
 
 ### Community Site
 
-Our community site - located at [share.ez.no](http://share.ez.no/) \- may request personal details from you as part of your community profile. Any information you share is voluntary and might be accessible to other members of the community. Certain areas of the community are accessible to everyone.eZ Systems may terminate your community account if you engage in any practice that is, in eZ Systems' sole discretion, objectionable, unlawful, obscene, threatening or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law. &nbsp;
+Our community site - located at [share.ez.no](http://share.ez.no/) \- may request personal details from you as part of your community profile. Any information you share is voluntary and might be accessible to other members of the community. Certain areas of the community are accessible to everyone.eZ Systems may terminate your community account if you engage in any practice that is, in eZ Systems' sole discretion, objectionable, unlawful, obscene, threatening or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law.
