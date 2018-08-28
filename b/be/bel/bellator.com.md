@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellator.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626193841id_/http%3A//www.paramountnetwork.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellator.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828221813id_/http%3A//www.paramountnetwork.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ This Privacy Policy applies:
 
 
 
-This Privacy Policy does not, unless specifically stated, apply to any Information (as that term is defined below) collected by any other company or collected in any other manner or by any other website, application or other interactive service offered by Viacom and/or its Affiliates. Such information collection may be governed by separate privacy policies or notices. In particular, see our [Privacy Shield Privacy Policy](https://web.archive.org/web/20180626193841id_/http%3A//www.paramountnetwork.com/legal/%E2%80%9Chttp://www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf%E2%80%9D) for information on our privacy policy and practices with respect to personal information transferred to the U.S.
+This Privacy Policy does not, unless specifically stated, apply to any Information (as that term is defined below) collected by any other company or collected in any other manner or by any other website, application or other interactive service offered by Viacom and/or its Affiliates. Such information collection may be governed by separate privacy policies or notices. In particular, see our [Privacy Shield Privacy Policy](https://web.archive.org/web/20180828221813id_/http%3A//www.paramountnetwork.com/legal/%E2%80%9Chttp://www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf%E2%80%9D) for information on our privacy policy and practices with respect to personal information transferred to the U.S.
 
 By participating in this Site or any features, activities or services offered through the Site,you consent to our privacy practices as described in this Privacy Policy.
 
