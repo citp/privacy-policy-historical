@@ -1,136 +1,169 @@
-> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615174106id_/http%3A//www.speedo.com/uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828054455id_/https%3A//www.speedo.com/uk/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-Speedo International Ltd ("We" or “Us”) are committed to protecting and respecting your privacy.
+Speedo International Limited is committed to protecting and respecting your privacy.
 
-This policy together with our terms of use, any other documents referred to in it sets out the basis on which any personal data "We" collect from you, or that you provide to "Us", will be processed by "Us".
+This policy together with the relevant terms of use and any other documents referred to sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-This policy applies to your use of www.speedo.com/UK (“Website” or “Our Site and any of the services accessible through our sites of ours (the “Sites”).
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-Please read the following carefully to understand our views and practices regarding your personal data and how "We" will treat it.
+If you would prefer your personal data was not used in the manner described in this policy, you should not use our websites or services. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Speedo International Ltd of 8 Manchester Square, London W1U 3PH.
+For the purpose of EU and UK data protection law, the data controller is Speedo International Limited, 8 Manchester Square, London, W1U 3PH. 
 
-## Information "we" may collect from you
+##    
+INFORMATION WE COLLECT FROM YOU
 
-"We" may collect and process the following data about you:
+  
+  We will collect and process the following data about you:  
+ 
 
-  * Information that you provide by filling in forms on Our Site. This includes information provided at the time of registering to use Our Sites, subscribing to our service posting material, creating or updating your personal profile, taking part in a prize draw or competition, newsletters or exclusive offers via email or requesting further services. "We" may also ask you for information when you enter a competition or promotion sponsored by Speedo International Ltd, and when you report a problem with any of Our Sites.
-  * If you contact "us", "we" may keep a record of that correspondence.
-  * "We" may also ask you to complete surveys that "we" use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through Our Site and of the fulfilment of your orders.
-  * Details of your visits to Our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. Device information: "we" may collect information about the Device, including, where available, the Device’s unique device identifiers, operating system, browser type, and mobile network information as well as the Device’s telephone number, for system administration and to report aggregate information to our commercial partners "We" may associate Device information with information that you have provided and will treat the combined information as personal data in accordance with this policy for as long as it is combined.
+  * **Information you give to us**. This is information about you that you provide to us when you use our websites or applications or correspond with us by phone, e-mail or otherwise. It includes information you provide when you register to use our websites or applications, subscribe to our services, purchase a product, sign-up to receive our newsletters and offers, search for a product, participate in discussion boards or other social media functions or enter a competition, promotion, survey, market research, or any information you add to your online account (if you have one) as part of your ongoing use of the services. The information you give to us may include your name, address, e-mail address, phone number, financial and credit card information, log-in details (if any), marketing preferences, and in some cases a personal description and photograph. If you [contact us](https://www.speedo.com/uk/en/contact-us.html) with a complaint or query, we may keep a record of your contact details and the correspondence between us and your levels of satisfaction. When we collect personal data from you we will indicate whether any personal data we have requested from you is mandatory or optional and explain the consequences if you decide not to provide that information. In some cases, not providing the information may mean we are unable to provide you with a product or service you have requested. 
 
-Back to top
 
+  * **Information we collect about you**. When you visit our websites or applications or use our services, we will automatically collect the following information:
 
 
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, information about the device you use the application on, including the device’s unique identifiers and mobile network information, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform. 
 
-## What do "we" do with the information?
 
-"We" will require you to provide particular personal information such as credit / debit card details and your billing address for the purposes of completing your order. "We" will only use this information for the purposes of managing your order or your usage of Our Site.
+  * information about your visit and use of our services, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), products you viewed or searched for’ page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page and any phone number used to call our customer service number. 
 
-Providing additional personal information is up to you. "We" collect personal information to enter you into contests and notify you of results, to e-mail you with updates, news and special offers, to respond to your questions or comments, to register you for certain features on Our Site.
 
-"We" (and those people or companies employed by "Us" who help make Our Site, its content and its services) will process and use your personal information in order to respond to your feedback – like responding to problems, identifying product reviews, improving our services and gearing what "we" do to suit our requirements further.
+  * **Information we receive from other sources.** This is information which we receive about you if you use any of our other websites, applications or services, login through a third party channel such as Facebook or Google or allow us to connect to third party devices or applications. We also receive information about you from other sources to enable us to provide you with a better user experience. For example, we work closely with third parties including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, customer management platforms, search information providers. We may also collect information about you from credit reference agencies where we have informed you this will take place. 
 
-Beyond this "we" will not share your information with any other company without your consent unless "we" are required to do so by law, if you have won a prize or if you have made a request for specific information. If you give "us" consent then "we" may share your information with our partners, subsidiaries or subsidiary companies in order that they can contact you with information, promotions, products, services, and offers that may be interesting to you.
 
-"We" will never sell your information to any other company.
 
-## IP addresses
+## COOKIES
 
-"We" may collect information about your device, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+  
+Our websites and applications use cookies to distinguish you from other users. This helps us to provide you with a better user experience. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://www.speedo.com/uk/en/cookie-policy.html).
 
-## Cookies
+## USES MADE OF THE INFORMATION  
 
-**The Speedo guide to cookies**
+  
+We use information held about you in the following ways:  
+ 
 
-Like most websites, Our Site use cookies to improve the way they show you things, and to make access easier for you. Cookies are small files of letters or numbers that, with your permission, "we" put on your Device. Some stay on it for a while, others disappear the minute you close the browser.
+**Information you give to us.**. We (and our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) will use this information:
 
-Here are the three types of cookies "we" use to help improve your experience on http://www.speedo.com/UK:
+  * to carry out our obligations arising from any online or offline contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * with your consent or as otherwise permitted by applicable law, to provide you with information about other goods and services we offer that are similar or complimentary to those that you have already purchased or enquired about;
+  * with your consent or as otherwise permitted by applicable law, to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. Where we contact you by electronic means for marketing purposes, we will only do so if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form). You can also amend your preferences at any time. Please see the section ‘Marketing’ below;
+  * where you have provided your details to enable you to enter into one of our competitions, we will use the personal data you provide to process your entry into the competition and to communicate with you about this; 
+  * to handle any customer service requests or other queries you communicate to us; 
+  * to notify you about changes to our products or services;
+  * to ensure that content is presented in the most effective manner for you and for your computer or mobile. 
 
-**Session cookies**  are like a token which records things like page or product selections as you move through Our Site, so you don’t keep getting asked about things you’ve already told "us". Session cookies (and the information they record) are erased when you close your browser after a browsing session.
 
-**Tracking cookies**  help "us" remember your details and settings for when you come back to Our Site in the future, which means you get easier, faster access. They stay on your hard drive until you delete them or they expire they have various expiry dates, up to two years.
 
-**Web analytics cookies**  help us learn what content is most helpful for our users and to make your experience of our Site much better because we’ll know the sort of things you look for and can make sure you find them easily. Cookies are small useful test files that are stored on your computer when you visit some websites. They are used to remember useful information that allows certain functionality to work, for example cookies can be used to remember what’s in your shopping basket while you browse or if you are logged in or not. Cookies cannot harm your computer, and are active for differing lengths of time. Some are stored until you close your browser, while others may last for several weeks or more. To find out more about cookies, how they work and how to manage them visit 
+**Information we collect about you**. We will use this information:
 
-[ www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+  * to provide the information, products and services that you request from us; 
+  * to administer our websites or applications and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to enable you to have a single customer account and identity with us;
+  * to ensure that content is presented in the most effective manner for you and for your computer;
+  * to allow you to participate in interactive features of our services, when you choose to do so;
+  * as part of our efforts to keep our websites and applications safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users about goods or services that may interest you or them; and
+  * to allow us to receive feedback and conduct reviews of our products and services. 
 
- **No Personal Information Stored**  Remember, our cookies don’t store information that can identify you, so no one will be able to use the information gathered by the cookies to contact you by phone, email or in any other way. Tracking is limited to Our Site and never gets shared with anyone else.
 
-**Blocking Cookies**  You can block cookies – just activate the setting on your browser that allows you to refuse them. Please note, if you block all cookies you may not be able to access all areas of Our Sites, and you might not be able to shop with "us".
 
-**Acceptance of cookies**  If your browser is set to accept cookies, our system will issue them when you visit Our Sites – which is good because ultimately "we" want you to have the best possible experience whenever you visit Our Site.
+**Information we receive from other sources**. We may combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).  
+ 
 
-## Where "we" store your personal details
+## LEGAL BASIS FOR PROCESSING YOUR INFORMATION  
 
-The data that "we" collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for "us" or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. "We" will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  
+We will only process your personal data where we have a legal basis to do so. The legal basis will vary depending on the purposes for which we have collected and use your personal data. In almost all cases, the legal basis will be one of the following:  
+ 
 
-All information you provide to "us" is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where "we" have given you (or where you have chosen) a password which enables you to access certain parts of Our Sites, you are responsible for keeping this password confidential. "We" ask you not to share a password with anyone.
+  * Consent: For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the “unsubscribe” link at the bottom of any marketing email we send you. Please see the section, ‘Marketing’ below.
+  * Our legitimate business interests: Where it is necessary for us to understand our customers, promote our services and products and operate effectively as a business, provided in each case that this is done in a legitimate way which does not unduly affect your privacy and other rights. For example we will rely on this legal basis when we conduct certain market analysis to understand our customers in sufficient detail so we can raise the profile of our products and services and create new ones.
+  * Performance of a contract with you: For example, where you have purchased one of our products or our services and we need to use your contact details and payment information in order to process your order and deliver the products or services to you.
+  * Compliance with law: Where we are subject to a legal obligation and need to use your personal data in order to comply with that obligation.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although "we" will do our best to protect your personal data, "we" cannot guarantee the security of your data transmitted to Our Site; any transmission is at your own risk. Once "we" have received your information, "we" will use strict procedures and security features to try to prevent unauthorised access.
 
-"We" may collect and store personal data on your Device using application data caches and browser web storage (including HTML 5) and other technology.
 
-## Uses made of the information
+## DISCLOSURE OF YOUR INFORMATION  
 
-"We" use information held about you in the following ways:
+  
+We may disclose your personal data to the following third parties, for the purposes set out below:  
+ 
 
-• To ensure that content from Our Sites is presented in the most effective manner for you and for your Device.
+  * Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006, where these companies assist us in providing the services, administering our group operations or performing any of the tasks set out below;
+  * Our partners and licensees who manage Speedo International Limited for us in certain territories so that they may provide you with relevant Speedo International Limited content and marketing in your local area;
+  * analytics and search engine providers that assist us in the improvement and optimisation of our websites and applications;
+  * third party customer management companies to enable you to have a unique customer identity with us which should enable you to access all our websites, applications and services with one single account and login details; 
+  * credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you and
+  * our third party suppliers and professional advisors, who may need access to your personal data in order to provide services to us.
+  * We may also disclose your personal data to third parties in the following circumstances:
+  * In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Speedo International Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of use](https://web.archive.org/uk/en/website-terms-of-use.html) and other agreements; or to protect the rights, property, or safety of Speedo International Limited, our customers, or others. This includes exchanging information with other companies and organisations (including law enforcement) for the purposes of fraud protection and credit risk reduction.
 
-• To provide you with information, products or services that you request from "us" or which "we" feel may interest you, where you have consented to be contacted for such purposes.
 
-• To carry out our obligations arising from any contracts entered into between you and "us".
 
-• To allow you to participate in interactive features of our service, when you choose to do so: for example, to allow you to include your name or nickname alongside a product review.
+## WHERE WE STORE YOUR PERSONAL DATA
 
-• To notify you about changes to our service.
+  
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), including in countries where you may have fewer legal rights than you do under the laws in your own country. Personal data may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-"We" may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and "we" or they may contact you about these.
+  Whenever we transfer your information as described in the paragraph above, we will take steps which are reasonably necessary to ensure that adequate safeguards are in place to protect your personal data and to make sure it is treated securely and in accordance with this Privacy Notice. In these cases, we rely on approved data transfer mechanisms (such as the EU “Standard Contractual Clauses”) to ensure your information is subject to adequate safeguards in the recipient country. If you are located in the EEA, you may [contact us](https://www.speedo.com/uk/en/contact-us.html) for a copy of the safeguards which we have put in place to protect your personal data and privacy rights in these circumstances. 
 
-If you are an existing customer, "we" will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites or applications, you are responsible for keeping this password confidential. We must not share your password with anyone.
 
-If you are a new customer, and where "we" permit selected third parties to use your data, "we" (or they) will contact you by electronic means only if you have consented to this.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-If you do not want "us" to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which "we" collect your data (order form  **OR**  registration form).
+We may collect and store personal data on your device using application data caches and browser web storage (including HTML 5) and other technology.
 
-"We" do not disclose information about identifiable individuals to our advertisers, but "we" may provide them with aggregate information about our users (for example, "we" may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). "We" may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). "We" may make use of the personal data "we" have collected from you to enable "us" to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+## THIRD PARTY SITES
 
-## Disclosure of your information
+  
+Our websites and applications may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link, please note that those websites and applications will have their own privacy policies and we do not accept any responsibility or liability for them. Please check their policies before you submit any personal data.
 
-"We" may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+##  RETENTION OF YOUR INFORMATION 
 
-"We" may disclose your personal information to third parties:
+We take steps to ensure that the personal data that you provide is retained for only as long as it is necessary for the purpose for which it was collected. After this period it will be deleted or in some cases anonymised. 
 
-• In the event that "we" sell or buy any business or assets, in which case "we" may disclose your personal data to the prospective seller or buyer of such business or assets.
+Where we have collected the personal data based on your consent and we have no other lawful basis to continue with that processing, if you subsequently withdraw your consent then we will delete your personal data. 
 
-• If Speedo International Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+## MARKETING AND HOW TO UNSUBSCRIBE 
 
-• If "we" are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Speedo International Ltd, our customers, or others. This includes exchanging information with fraud prevention agencies and other companies and organisations for the purposes of fraud protection, credit risk reduction, fraud prevention, fraud screening and age and identity verification. For further details see our terms and conditions of sale.
+  
+You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Speedo International Limited. Speedo Customer Service, Unit 2 Walker Industrial Estate, Walker Road, Blackburn, BB1 2QE or via our [contact us](https://www.speedo.com/uk/en/contact-us.html).  
+ 
 
-## Your rights
+You can unsubscribe from our marketing emails at any time by clicking on the Unsubscribe link at the bottom of the email you’ve received. Should you experience any problems please call our Customer Services Team who will assist you with unsubscribing from our database.  
+ 
 
-You have the right to ask "us" not to process your personal data for marketing purposes. "We" will usually inform you (before collecting your data) if "we" intend to use your data for such purposes or if "we" intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms "we" use to collect your data. You can also exercise the right at any time by contacting "us" online, or by writing to "us" at Speedo International Limited, Customer Service Team, Unit 2, Walker Park, Walker Road, Guide, Blackburn BB1 2QE, United Kingdom.
+If you have asked us to stop sending emails and this hasn’t happened, it may be because the email address to which we are sending information is not the same as the address you sent your request from. Please check the address we are using and include this information in your request. The easiest way to do this is to return to us the whole of the unwanted email. The address we are sending to is included within the message.
 
-Our Sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that "we" do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+## DELETING YOUR ACCOUNT
 
-## How to unsubscribe
+  
+You can close your account with us at any time by contacting our customer service team at the address above or [contact us](https://www.speedo.com/uk/en/contact-us.html). If you choose to close your account, please note that you will no longer be able to access our website. We will delete the personal data associated with your account within a reasonable period, other than personal data which we have a need to retain for our internal business records (for example, data related to purchasing history).    
+ 
 
-Our policy is to allow users to unsubscribe from our regular emails at any time. You can do this by clicking on the Unsubscribe link at the bottom of the email you’ve received. Should you experience any problems please call our Customer Services Team who will assist you.
+## YOUR RIGHTS 
 
-If you have asked "us" to stop sending emails and this hasn’t happened, it may be because the email address to which "we" are sending then is not the same as the address you sent your request from. Please check the address "we" are using and include this information in your request. The easiest way to do this is to return to "us" the whole of the unwanted email. The address "we" are sending to is included within the message
+Data protection law gives you certain rights in relation to your personal data. These include: the right to access information held about you, the right to object to it being used for certain purposes (for example marketing, as explained above), and the right to have personal data deleted, restricted and in certain cases to receive a machine-readable copy of your personal data. 
 
-## Access to your information
+If you would like to exercise your right of access, to the extent you cannot access your information by logging into your online account, please submit your request at the address below, or using the [contact us](https://www.speedo.com/uk/en/contact-us.html) page online. If permitted by applicable law, any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you. For information about how to request the deletion of your personal data, see the section on ‘Deletion’ above. 
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information "we" hold about you.
+We will handle any request to exercise your rights in accordance with applicable law and any relevant legal exemptions. If you wish to exercise any of these rights please conduct us using the contact details below. 
 
-## Changes to our privacy policy
+You may also have the right to complain to a data protection authority if you think we have processed your personal data in a manner which is unlawful or breaches your rights. If you have such concerns we request that you initially [contact us](https://www.speedo.com/uk/en/contact-us.html) (using the contact details below) so that we can investigate, and hopefully resolve, your concerns.  
 
-Any changes "we" may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+## CHANGES TO OUR PRIVACY POLICY  
 
-## Contact
+  
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.  
+ 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to: Speedo International Limited, Customer Service Team, Unit 2, Walker Park, Walker Road, Guide, Blackburn BB1 2QE, United Kingdom or by using the ‘Contact "Us"’ page online.
+## CONTACT  
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to: Speedo International Limited. Speedo Customer Service, Unit 2 Walker Industrial Estate, Walker Road, Blackburn, BB1 2QE or via our [contact us](https://www.speedo.com/uk/en/contact-us.html) form. 
