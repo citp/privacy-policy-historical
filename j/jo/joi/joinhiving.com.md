@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinhiving.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220224900id_/https%3A//www.joinhiving.com/en_US/more/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinhiving.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828190153id_/https%3A//www.joinhiving.com/en_US/more/privacy) for the most accurate reproduction.*
 
 # Privacy - Hiving
 
