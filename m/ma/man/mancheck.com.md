@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mancheck.com privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305055617id_/http%3A//www.mancheck.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mancheck.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828200509id_/http%3A//www.mancheck.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
