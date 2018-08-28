@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iebusiness.com privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111171002id_/http%3A//www.iebusiness.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iebusiness.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828044621id_/http%3A//www.iebusiness.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
