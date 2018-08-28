@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cement.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626131112id_/http%3A//www.cement.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cement.org privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828102132id_/http%3A//www.cement.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
