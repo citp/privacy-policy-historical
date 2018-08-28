@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastheplace.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630010926id_/http%3A//lastheplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastheplace.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828042536id_/https%3A//lastheplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LA's The Place | Los Angeles, Magazine
 
@@ -126,7 +126,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 • Allow users to unsubscribe by using the link at the bottom of each email.
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98ebede8e8f7eaecd8f4f9ebecf0fde8f4f9fbfdb6fbf7f5) and we will promptly remove you from ALL correspondence.
+[support@lastheplace.com](mailto:support@lastheplace.com) and we will promptly remove you from ALL correspondence.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy, you may contact us using the information below.
@@ -135,6 +135,6 @@ If there are any questions regarding this privacy policy, you may contact us usi
 703 Pier Ave #648  
 Hermosa Beach, California 90254  
 United States  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#62111712120d1016220e0311160a07120e0301074c010d0f)
+[support@lastheplace.com](mailto:support@lastheplace.com)
 
 Last Edited on 2017-05-24
