@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121054532id_/http%3A//www.tastefullysimple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828085058id_/https%3A//www.tastefullysimple.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Tastefully Simple
 
@@ -48,6 +48,6 @@ California residents have the right to request the following information from bu
 If you are a Tastefully Simple client and a California resident, please contact us at the postal address below to request this information. Please note that we are only required to respond to each client once per calendar year.
 
 **contact information**   
-All questions and concerns about your privacy can be sent to [jodi.sorenson@tastefullysimple.com](mailto:jodi.sorenson@tastefullysimple.com) or 1920 Turning Leaf Lane SW, Attn: Privacy Policy Rights, Alexandria, MN 56308-4505.
+All questions and concerns about your privacy can be sent to [stacy.aldrich@tastefullysimple.com](mailto:stacy.aldrich@tastefullysimple.com) or 1920 Turning Leaf Lane SW, Attn: Privacy Policy Rights, Alexandria, MN 56308-4505.
 
 Effective Date: February 2011
