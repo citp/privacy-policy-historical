@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talenteveryday.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603005532id_/http%3A//talenteveryday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talenteveryday.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828073014id_/http%3A//talenteveryday.com/privacy.php) for the most accurate reproduction.*
 
-# Talent Everyday
+# Privacy Policy - Talent Everyday
 
 **_PRIVACY POLICY_**
 
