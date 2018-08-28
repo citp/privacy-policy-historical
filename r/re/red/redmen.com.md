@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redmen.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615173859id_/http%3A//redmen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redmen.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828050124id_/http%3A//redmen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - redmen.com
 
