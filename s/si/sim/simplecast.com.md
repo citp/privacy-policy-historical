@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the simplecast.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501003923id_/https%3A//simplecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplecast.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828201025id_/https%3A//simplecast.com/privacy) for the most accurate reproduction.*
 
 # Simplecast | Podcast Hosting & Metrics Made Easy
+
+  * [Terms of Service](https://web.archive.org/terms "Terms of Service")
+  * [Privacy Policy](https://web.archive.org/privacy "Privacy Policy")
+  * [Data Processing Addendum](https://web.archive.org/dpa "Data Processing Addendum")
+  * [DMCA](https://web.archive.org/terms#dmca "Digital Millennium Copyright Act \(DMCA\) Policy")
+
+
 
 ## All things concerning our privacy policy
 
@@ -50,4 +57,6 @@ This Privacy Policy covers the collection and usage of your personal information
 
 **Amendments and Changes to this Privacy Policy.** From time to time, Simplecast may make changes to this Privacy Policy. If we make changes, we will post them on this URL to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the Privacy Policy when she or he uses the the Simplecast Websites after those changes have been posted. If, however, we are going to use a user's personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on Simplecast for 30 days. 
 
-Last updated April 18, 2017 
+See our [Data Processing Addendum](https://web.archive.org/dpa)
+
+Last updated May 25, 2018 
