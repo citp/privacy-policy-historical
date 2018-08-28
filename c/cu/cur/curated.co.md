@@ -1,19 +1,31 @@
-> *The following text is extracted and transformed from the curated.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100835id_/http%3A//curated.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curated.co privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828082336id_/https%3A//curated.co/privacy) for the most accurate reproduction.*
 
 # Curated: Grow your audience by collecting and sharing engaging content
 
-Curated Software ("us", "we", or "our") operates the [Curated](http://curated.co/) website (the "Service").
+This privacy policy applies to Curated Software ("us", "we", or "our"), which operates the [Curated](http://curated.co/) website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible at [Curated](http://curated.co/terms). 
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use. 
 
 ## Information Collection And Use
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, postal address ("Personal Information").  
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to:
+
+  * Contact information, including your email address, name, postal address ("Personal Information");
+  * Billing information, such as credit card number and billing address; 
+  * Geolocation based on IP address;
+  * Time Zone (for scheduling newsletters)
+
+
+
 We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/enquiries, servicing your purchase orders, and improving our services.
+
+## Access
+
+If at any time you wish to know whether we have any of your personal information, you may submit a request to our Service and we will respond to your request within a reasonable timeframe. You can also access, correct, or request deletion of your personal information by logging into your account or contacting us using the contact information below.
 
 ## Log Data
 
@@ -39,6 +51,15 @@ We may employ third party companies and individuals to facilitate our Service, t
 
 These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
+The specific tasks that we use service provider to facilitate may include:
+
+  * Payment processing
+  * Providing customer service
+  * Sending marketing communications
+  * Conducting research and analysis
+
+
+
 ## Communications
 
 We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
@@ -57,6 +78,8 @@ The security of your Personal Information is important to us, and we strive to i
 
 However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
+We may retain your information for as long as you use our Service, and in certain circumstances we may be required to retain your personal information to comply with legal obligations.
+
 ## International Transfer
 
 Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
@@ -73,7 +96,7 @@ We have no control over, and assume no responsibility for the content, privacy p
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of October 9th, 2014 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of May 14th, 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
@@ -81,4 +104,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us](mailto:dave@curated.co).
+If you have any questions about these terms, please contact us at [hello@curated.co](mailto:hello@curated.co) or 2527 Broad Avenue, Memphis, TN 38112, US.
