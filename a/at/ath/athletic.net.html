@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the athletic.net privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627023654id_/https%3A//www.athletic.net/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the athletic.net privacy policy that was archived on 2018-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180829012117id_/https%3A//www.athletic.net/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="html" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
 
@@ -12,7 +12,8 @@
 
     
     <script>
-        var PREBID_TIMEOUT = 2000;
+        var PREBID_TIMEOUT = 1000;
+        var FAILSAFE_TIMEOUT = 3000;
 
         googletag.cmd.push(function () {
             googletag.pubads().disableInitialLoad();
@@ -25,6 +26,7 @@
             { bidder: 'conversant', params: { site_id: '116164', bidfloor: 0.40 } },
             { bidder: 'criteo', params: { zoneId: (browserWidth < 768) ? 1144130 : 1143004 } },
             //{ bidder: 'fidelity', params: { zoneid: (browserWidth < 768) ? '24319' : '24318', floor: 0.40 } },
+            //{ bidder: 'rubicon', params: { accountId: '18102', siteId: '188796', zoneId: '919942', floor: 0.40, video: {'language': 'en', 'playerHeight': '360', 'playerWidth': '640', 'size_id': '202'} } },
             { bidder: 'rubicon', params: { accountId: '18102', siteId: '188796', zoneId: '919942', floor: 0.40 } },
             { bidder: 'gumgum', params: { inSlot: (browserWidth < 768) ? 7161 : 7162 } },
             { bidder: 'sovrn', params: { tagid: (browserWidth < 768) ? '539836' : '539833', bidfloor: 0.40 } }
@@ -47,6 +49,9 @@
             { bidder: 'gumgum', params: { inSlot: 7160 } },
             { bidder: 'sovrn', params: { tagid: '539834', bidfloor: 0.40 } }
         ];
+        prebid_bidders_outstream = [
+            { bidder: 'appnexus', params: { placementId: '11296014' } },
+        ];
         prebid_sizes_banner = (browserWidth < 768) ? [[320, 50]] : [[728, 90]];
         prebid_sizes_300Box = [[300, 250]];
         prebid_sizes_colapsingBox = (browserWidth < 768) ? [[320, 50]] : [[300, 250]];
@@ -56,29 +61,29 @@
                 // enableSendAllBids: true,
                 priceGranularity: { 'buckets': [{ 'min': 0, 'max': 3, 'increment': 0.10 }, { 'min': 3, 'max': 8, 'increment': 0.25 }, { 'min': 8, 'max': 20, 'increment': 1 }] }
             });
-            pbjs.addAdUnits([{code:'ad_ATF_Banner',sizes:prebid_sizes_banner,bids:prebid_bidders_720},{code:'ad_InPage_Box',sizes:prebid_bidders_300Box,bids:prebid_bidders300Box},{code:'ad_BTF_Banner',sizes:prebid_sizes_banner,bids:prebid_bidders_720}]);
-            pbjs.requestBids({ bidsBackHandler: sendAdserverRequest });
+            pbjs.addAdUnits([{code:'ad_ATF_Banner',mediaTypes:{banner:{sizes:prebid_sizes_banner}},bids:prebid_bidders_720},{code:'ad_InPage_Box',mediaTypes:{banner:{sizes:prebid_sizes_300Box}},bids:prebid_bidders_300Box},{code:'ad_BTF_Banner',mediaTypes:{banner:{sizes:prebid_sizes_banner}},bids:prebid_bidders_720}]);
+            pbjs.requestBids({ bidsBackHandler: initAdserver, timeout: PREBID_TIMEOUT });
         });
 
-        function sendAdserverRequest(data) {
-            if (pbjs.adserverRequestSent) return;
-            pbjs.adserverRequestSent = true;
+        function initAdserver(data) {
+            if (pbjs.initAdserverSet) return;
+            pbjs.initAdserverSet = true;
             googletag.cmd.push(function () {
                 pbjs.que.push(function () {
                     pbjs.setTargetingForGPTAsync();
                     googletag.pubads().refresh();
-                    console.log('sendAdserverRequest', browserWidth, data, pbjs.getAdserverTargeting());
+                    console.log('sendAdserverRequest, width:', browserWidth, data, pbjs.getAdserverTargeting());
                 });
             });
         }
 
-        setTimeout(function () {
-            sendAdserverRequest('timeout');
-        }, PREBID_TIMEOUT);
+        setTimeout(function () { // in case PBJS doesn't load
+            initAdserver('timeout');
+        }, FAILSAFE_TIMEOUT);
 
     </script>
     
-    <script src="/Shared/scripts/prebid/prebid.1.13.0.js?v=1" async=""></script>
+    <script src="/Shared/scripts/prebid/prebid1.21.0.js?v=1" async=""></script>
     
     <script type="text/javascript">
         googletag.cmd.push(function () {
@@ -121,7 +126,7 @@ googletag.pubads().setTargeting('Tag', 'notag');
         <meta property="og:description" content="Rankings for middle school, high school, and college athletes. Compare yourself against athletes in your district, your state, or the nation.">
 
         <meta name="twitter:card" content="summary">
-    <link href="https://d3ro7pqwddnpi1.cloudfront.net/css/Bootstrap3-v-lVD7AwfLIfCYEtjdTv7fjO6A949KsqedGkt_DTAHxM1" rel="stylesheet">
+    <link href="https://d3ro7pqwddnpi1.cloudfront.net/css/Bootstrap3-v-uuQ2zK7IfFbssxDf8ClP4Wq0RPPVF_pUNIEMpuJZdVA1" rel="stylesheet">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
 
@@ -172,7 +177,7 @@ googletag.pubads().setTargeting('Tag', 'notag');
             ignoreUrls: [/scripts\/raven/],
             ignoreErrors: [/vp_inpage/, /setSize/, /token format is incorrect/, /Possibly unhandled rejection/, /processChecks/],
             environment: "production",
-            release: '1.1.6751.24417 production'
+            release: '1.1.6814.29411 production'
         }).install();
 
         
@@ -192,7 +197,7 @@ googletag.pubads().setTargeting('Tag', 'notag');
         function $anetAJAX(a, b, c) { return $.ajax(a, { type: "POST", contentType: "application/json", data: b, dataType: "json", context: c }) };
     </script>
 
-    <script src="https://d3ro7pqwddnpi1.cloudfront.net/MainJS_NewLo-v-r4oAakCcj1D9hiIHcKJ_xjzNAmtheHQeobul6QFtng1"></script>
+    <script src="https://d3ro7pqwddnpi1.cloudfront.net/MainJS_NewLo-v-5F86MyNnbJEPJ2QStgajKU1cSyflgyBn3RBqN1CWRlY1"></script>
 
 
     <script type="text/javascript">
@@ -347,7 +352,7 @@ googletag.pubads().setTargeting('Tag', 'notag');
         <div id="p_Container" class="container clearfix">
             <form method="post" action="./Privacy.aspx" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/pNh0egew0QzQquQQhL9Ilg/2Z3l3UGZ5vB0/WjejPhvB1ahstlhnmj3+57e2XTdYy/YSlLhN4q8jqTXY2vUe+xsmx1GX9TzzSstovSUqfmZLsVkk2uFUZluXR/hCK6V/A9QNq5aD1ioGUERmNkJEmNL9J0jAozESxeUHrXXcGk=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="x40DfIBGWv3aYVBH+bHaVXwAxuiChFyhORoxcR755Fymk6BW9fEKmuAnCu/ljV5j0zHZ/xx1R3RWNem8NvcZ1TcDH6dcgtarzA4deLQlw0wDkTbALbFOvw7ibUEQadGGwmmvkh5XNBNaUK6nUsl36uFA6RplDj9nYMGBfQ1fmLg=">
 </div>
 
 <div class="aspNetHidden">
@@ -435,15 +440,18 @@ googletag.pubads().setTargeting('Tag', 'notag');
             
         </div>
 
+        
         <div id="video1x1">
             <script type="text/javascript">googletag.cmd.push(function () { googletag.display('video1x1'); });</script>
         </div>
 
+        <div id="bottom1x1">
+            <script type="text/javascript">googletag.cmd.push(function () { googletag.display('bottom1x1'); });</script>
+        </div>
 
         <div id="ad_BTF_Banner" class="Ad BTF Banner" aria-hidden="true">
             <script type="text/javascript">googletag.cmd.push(function () { googletag.display('ad_BTF_Banner'); });</script>
         </div>
-
         
     </main>
 
@@ -456,7 +464,7 @@ googletag.pubads().setTargeting('Tag', 'notag');
                         <img alt="Athletic.net Home" src="/images/Logo/Athletic_net_white.svg" style="width: 140px; height: auto; max-width: 100%;"></a>
 
                     <div id="f_Stats">
-                        <div id="f_StatsShowing"><div class="coachmeetStat">50,950 FREE <span>Coach Accounts</span></div><div class="resultsStat">90,897,214<span> Results Posted</span></div><div class="athleteStat">8.7 Million + <span>Athlete Profiles</span></div></div><div id="f_StatsHover"><div class="coachmeetStat">179,500<span> Meets Uploaded</span></div><div class="resultsStat">7,998<span> Results in Last Hour</span></div><div class="athleteStat">8,736,957<span> Athlete Profiles</span></div></div>
+                        <div id="f_StatsShowing"><div class="coachmeetStat">51,185 FREE <span>Coach Accounts</span></div><div class="resultsStat">91,474,070<span> Results Posted</span></div><div class="athleteStat">8.8 Million + <span>Athlete Profiles</span></div></div><div id="f_StatsHover"><div class="coachmeetStat">180,671<span> Meets Uploaded</span></div><div class="resultsStat">831<span> Results in Last Hour</span></div><div class="athleteStat">8,830,362<span> Athlete Profiles</span></div></div>
                     </div>
                 </div>
 
@@ -543,34 +551,31 @@ googletag.pubads().setTargeting('Tag', 'notag');
             document.getElementById('bgTakeover').innerHTML = '';
         }
     </script>
-    <div id="bottom1x1">
-        
-        <script type="text/javascript">googletag.cmd.push(function () { googletag.display('bottom1x1'); });</script>
-    </div>
     
 
     
 
-    <!-- Begin Google Analytics Tag, part 2 - part one in header -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-297644-1"></script>
     <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-        ga('create', 'UA-297644-1', 'auto');
-        
-        ga('set', 'dimension1', 'General');
-        ga('send', 'pageview');
-        
+        gtag('config', 'UA-297644-1', {
+            'dimension1':'General'
+             
+        });
 
+      
+
+        
+        function gtagTOga(a, b, category, action, label, value, fieldsObject) { gtag('event', action, { event_category: category, event_label: label, value: value, non_interaction: true }); }
         pbjs.que.push(function () {
-            pbjs.enableAnalytics([{ provider: 'ga', options: { enableDistribution: true } }]);
+            pbjs.enableAnalytics([{ provider: 'ga', options: { enableDistribution: true, global: 'gtagTOga' } }]);
         });
     </script>
-    <!-- End Google Analytics Tag, part 2 -->
+    <!-- End Google Analytics Tag -->
 
     <!-- Begin comScore Tag -->
     <script>
