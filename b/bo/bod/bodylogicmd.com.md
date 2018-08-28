@@ -1,75 +1,87 @@
-> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223100427id_/https%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828220238id_/https%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
 
-# BodyLogicMD - Privacy Policy
+# Privacy Policy | BodyLogicMD
 
-**Effective 02/08/2011**
+Last updated: July 12, 2018
 
-## Privacy Notice Table Of Contents:
+**THIS PRIVACY POLICY IS PART OF OUR TERMS OF USE, AND YOUR CLICKING “I AGREE” WITH RESPECT TO THE TERMS OF USE AND/OR YOUR USE OF THE SITE AND/OR SUBMISSION OF INFORMATION OR CONTENT TO THE SITE CONSTITUTES YOUR ACCEPTANCE OF AND AGREEMENT WITH THE TERMS OF THIS PRIVACY POLICY AND YOUR CONSENT TO THE COLLECTION AND USE OF YOUR USER IDENTIFIABLE INFORMATION AS DESCRIBED HEREIN.**
 
-  * Our Commitment To Privacy
-  * The Information We Collect
-  * How We Use Information
-  * Our Commitment To Data Security
-  * How To Access Or Correct Your Information
-  * How To Contact Us
+BodyLogicMD maintains this information privacy policy explaining how “user identifiable information” provided to BodyLogicMD via the Site is used and disclosed. “User identifiable information” is information which can be associated with a specific individual or entity, including, for example, personal information such as a user’s name, address, or telephone number, e-mail address, and information about online activities that are directly linked to them. BodyLogicMD maintains an additional HIPAA Notice of Privacy Practices at [www.bodylogicmd.com/hipaa-policy](https://web.archive.org/hipaa-policy) which applies to “protected health information” as defined under 45 CFR Section 160.103.
 
+It is common practice and often a necessity for companies or other organizations to collect user identifiable information in order to conduct business and offer services.
 
+## General
 
-## Our Commitment To Privacy:
+If you use the Site, we may collect information that you provide to us when you become an authorized user of the Site or otherwise communicate with us. You may be required to provide your name, email address and other information we may request from you, to us in order to use the Site.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](https://web.archive.org/) and at every point where personally identifiable information may be requested.
+Additionally, when you use the Site, we may automatically collect certain information that is not user identifiable information, such as your IP address, pages viewed, the date, time and length of time spent on the Site, your computer and connection information such as your browser type and version, operating system and platform, and other transactions performed thereon. If you access the Site through a mobile device, we may also be able to identify the location of your mobile device. You may choose not to share your location details with us by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
 
-## The Information We Collect:
+We store and use the foregoing information as necessary for your use of the Site, to diagnose problems with our server, to improve and track the success of the Site and to provide content, products or services of interest to you. We may share the foregoing information with third parties, including our business partners, suppliers, and vendor as necessary for such purposes. We do not provide user identifiable information to third parties for them to contact you to market their products or services to you or otherwise provide user identifiable information to third parties except as described herein or in a separate agreement between you and BodyLogicMD.
 
-This notice applies to all information collected or submitted on [www.bodylogicmd.com](https://web.archive.org/). On some pages you may request additional information. The types of personal information collected at these pages are:
+Our Internet service providers may also use other standard web-based technologies to analyze your movements while accessing the Site. The technologies include analytic solutions, web “beacons,” “pixel tags,” and “clear gifs.” These technologies help us ascertain the effectiveness of our service campaigns and marketing programs; allow us to customize the services offered on or through the Site; and help determine the best use for content, and product and service offerings. Some of this information, including the IP address, may be stored on our Internet service provider’s server logs, and may be available for extended periods of time.
 
-  * Full Name
-  * Email address
-  * Gender
-  * Phone number
-  * Zip code
-  * Date of birth
-  * Medicare eligibility
-  * Major symptoms
+Except as described herein or as needed for the operation and use of the Site, BodyLogicMD will not sell, trade, or disclose to third parties any of your personally identifiable information derived from registration on, or use of, the Site without your consent, except as required by subpoena, search warrant, or other legal process or in the event that You are engaging in unlawful use of the Site or other unlawful activity or activity that violates the Terms. BodyLogicMD may, however, use and disclose to third parties user identifiable information and/or other information about you obtained from other sources.
 
+**Collection and Use:** BodyLogicMD may collect and use your user identifiable information for various purposes, including, but not limited to, providing to you access to and use of the Site and anticipating and resolving problems with your use of the Site, or to inform you of upcoming events, new content available via the Site, and other product or service offerings that may be of interest to you. This means that BodyLogicMD may use your user identifiable information, whether in conjunction with information available from other sources or otherwise, to market to you, and otherwise communicate with you about, products or services that may be of interest to you. BodyLogicMD may also share user identifiable information about you with, and disclose same to other contractors that are involved in the provision of such products or services. We may provide user identifiable information about you to third party product or service providers that are not affiliated with us and who provide products or perform services for us or on our behalf, in order for them to provide such products and/or services. By providing user identifiable information via the Site, you agree to this use and disclosure of such information.
 
+Specifically, you agree that BodyLogicMD can use your user identifiable information to: (i) enable and customize your use of the Site and/or the services provided thereby; (ii) provide you with updates and information about BodyLogicMD’s products and services; (iii) conduct analysis for BodyLogicMD’s internal purposes and/or support development of BodyLogicMD’s products and services; and (iv) create de-identified information and then use and disclose this information in any way permitted by law, including to third parties in connection with their commercial and marketing efforts. You also agree that BodyLogicMD can disclose your user identifiable information to: (a) third parties assisting BodyLogicMD with any of the uses described above; (b) a third party as part of a potential merger, sale or acquisition of BodyLogicMD; (c) our service providers who assist us by performing core services (such as hosting, billing, payment processing, or data storage and security) related to the operation or provision of the site or services provided thereby; and (d) a provider of medical or other emergency services in the event of an emergency. If BodyLogicMD discloses your user identifiable information, BodyLogicMD will require that the person or entity receiving your user identifiable information agree to only use and disclose your user identifiable information to carry out its specific business obligations to BodyLogicMD or for the permitted purpose of the disclosure (as described above). BodyLogicMD cannot, however, guarantee that any such person or entity to which BodyLogicMD discloses your user identifiable information or other information will not re-disclose it in ways that you or we did not authorize.
 
-On some pages, you can submit information about other people. In this circumstance, the types of personal information collected are:
+Additionally, notwithstanding any other provision contained herein, to the extent permitted or required by law, regulation or other legal requirement, we will disclose your information to government authorities or third parties if: (i) required to do so by law, or in response to a subpoena or court order; (ii) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Site or the services provided thereby by using it/them to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our Terms. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
 
-  * Full Name
+**Non-U.S. Users:** If you are located outside of the United States and you choose to use the Site or provide your information to us, your information may be transferred to, processed and maintained on servers or databases located in the United States or elsewhere outside of the country where from which you access the Site online. **Your clicking “I AGREE” with respect to the Terms represents your consent and agreement to these practices. If you do not want your information transferred to or processed or maintained in the United States, you should not click “I AGREE” with respect to the Terms and should not access or use the Site.** The European Commission and/or other geopolitical regions have determined the United States may not subscribe the same legislative standards for data protection that may be applicable in your country, province, territory or geopolitical region. By clicking “I AGREE” with respect to the Terms and providing us with your personal information, you are consenting to our use of it in accordance with our privacy practices, including the transfer of your information across international boundaries to jurisdictions anywhere in the world as permitted by local law.
 
+We may share information relating to users of the Site with affiliated or unaffiliated third parties on an anonymous, aggregate basis. While this information will not identify you personally, in some instances these third parties may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally.
 
+**User Opt-Out:** You may choose not to receive direct marketing communications from BodyLogicMD in connection with the Site by providing notification to BodyLogicMD making such request. If BodyLogicMD receives such a request from you, BodyLogicMD thereafter (a) will discontinue contacting you directly with marketing messages about BodyLogicMD’ products or services, and (b) will not use user identifiable information obtained from your use of the Site to contact you with marketing messages about any BodyLogicMD products or services. You may choose not to receive such messages by notifying BodyLogicMD via e-mail or regular U.S. mail. Please note, however, that any such opt out only applies to BodyLogicMD and will not apply to any other third parties to which BodyLogicMD has supplied your user identifiable information. Additionally, you acknowledge and agree that such opt-out notification processing may not be immediate, and you agree that should you receive additional communications your rights and remedies are limited to contacting us to reiterate your request to opt-out.
 
-## The Way We Use Information:
+**Security:** BodyLogicMD has implemented technology and security features in an effort to safeguard the privacy of your user identifiable information from unauthorized access or improper use, and BodyLogicMD will seek to continue to enhance its security procedures as new technology becomes available. However, you acknowledge and agree that perfect security is not possible and your user identifiable information could still be accessed and used by others without authorization. Your clicking “I AGREE” with respect to the Terms constitutes your agreement that BodyLogicMD is not and shall not be responsible for any such unauthorized access and use of your user identifiable information.
 
-We use the information you provide about yourself to contact you regarding your interest in bioidentical hormone replacement with BodyLogicMD's customized programs. We do not share this information with outside parties except to the extent necessary to complete that order.
+**User Revocation of Authorization; Requests for Access to, Rectification or Erasure of, or Transfer of User Information:** The authorization given by you hereunder remains in effect until you provide written notice of revocation to BodyLogicMD. You can revoke your authorization at any time by providing written notice to BodyLogicMD by email to [privacy@bodylogicmd.com](mailto:privacy@bodylogicmd.com). A revocation of authorization is effective after you submit it to BodyLogicMD, but it does not have any effect on BodyLogicMD’s prior actions taken in reliance on the authorization before revoked, and does not affect BodyLogicMD’s use of information that does not constitute user identifiable information. If you have provided your name and email address to us, you may request that we remove your name and email address from our database by contacting us at [privacy@bodylogicmd.com](mailto:privacy@bodylogicmd.com), with the exception that we continue to use your name and email address to contact you with respect to the Site if you are still authorized to access and use the Site. Following receipt of a request from you, we will take reasonable steps to delete your information as requested. BodyLogicMD honors requests from users to access, rectify, correct, erase, restrict processing of or to transfer their own information and will correct any such information which may find to be inaccurate.
 
-We use return email addresses to answer the email and requests we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+## Cookies
 
-As a patient of BodyLogicMD affiliated physician, you will register with our website to complete a personal history form and manage your prescription and supplement orders. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+The Site may use “cookies” for the purpose of facilitating the gathering of non-specific user information. A cookie is a very small text file stored on a web site user’s hard disk that allows a web server to recall certain information that the user has already entered previously. If you wish not to utilize cookie technology, this feature may be disabled within your web browser.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+## Other Web Sites
 
-## Our Commitment To Data Security:
+BodyLogicMD’s privacy policy only applies to the Site and BodyLogicMD’s content, products and services. The Site may link to third party websites and information or service providers that may collect personal information from you in order to provide you with information or services. Advertisements that may appear on pages on the Site may also request user identifiable information or provide you with access to other sites that request user identifiable information. BodyLogicMD has no control over the privacy policy of any third party or other website. Their privacy policies may differ or they may have no privacy policies. Please examine the privacy policies of such third parties prior to submitting any personal information, as they may differ from ours.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+## Advertisements
 
-## How You Can Access Or Correct Your Information:
+Advertisements may appear on pages throughout our Site. Some advertisements may request information directly from our users or take our users to websites that may request personal information. BodyLogicMD has no control over its advertisers’ privacy policies, so please examine the privacy policy of any third party advertising on our Site prior to submitting any personal information.
 
-You can access all your personally identifiable information that we collect online and maintain by logging into your patient account or contacting us at [patient.services@bodylogicmd.com](mailto:patient.services@bodylogicmd.com). We use this procedure to better safeguard your information.
+## Surveys
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+BodyLogicMD may from time to time conduct surveys on the Site. Surveys are conducted at random and are completely voluntary to users of the Site. The survey may require a user to provide user identifiable information. BodyLogicMD may use this information and share it with its contractors as described above to better tailor its products, services and marketing efforts, including advertising or other content provided on the Site and/or to you in particular.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+## Additional Privacy Protections for Children Using the Internet
 
-## How To Contact Us:
+The Site is not available for use by minors. BodyLogicMD does not solicit or target persons younger than legal age for collection of information online. BodyLogicMD supports the development of technologies that help parents to control the collection and use of personal information from children who use online services in their households.
 
-Should you have other questions or concerns about these privacy policies, please send us an email at:  
-[patient.services@bodylogicmd.com](mailto:patient.services@bodylogicmd.com).
+## California Privacy Rights
 
-Or contact us at our physical address:  
-5000 T-Rex Ave  
-Suite 200  
-Boca Raton, FL 33431
+Under California law, Users who are California residents may request certain information regarding the types of information shared by BodyLogicMD with third parties for marketing purposes and the identities of those third parties. If you are a California resident, you may make such a request by sending an email to [privacy@bodylogicmd.com](mailto:privacy@bodylogicmd.com) with “California Privacy Information Request” on the subject line and in the body of your message.
 
-_Note: Personal information consists of anything that would be used to uniquely identify, contact or locate a single person._
+## Business Transfers
+
+In the event that BodyLogicMD or any of its affiliates is acquired (whether by sale of assets or ownership interests) by merger with a third party entity or otherwise, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Site visitors and users of the Site as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your user identifiable information is treated, transferred, or used.
+
+## Policy Changes
+
+BodyLogicMD reserves the right to change its privacy policy by publishing new terms on the Site at least thirty (30) days before the effective date of the changes, and your access and use of the applicable site or service the respective Site thereafter constitutes your acknowledgment and acceptance of same. This privacy policy does not create any legal right for you or any third parties.
+
+## Questions?
+
+Please direct any questions or comments regarding our privacy policy to [privacy@bodylogicmd.com](mailto:privacy@bodylogicmd.com)
+
+**CONTACT**   
+A PHYSICIAN
+
+[CLICK HERE  ](https://web.archive.org/contact-a-physician)
+
+[ ](https://web.archive.org/contact-a-physician)
+
+[**HORMONE BALANCE QUIZ**   
+Take it now!](https://web.archive.org/hormone-balance-test)
+
+[ ](https://web.archive.org/hormone-balance-test)
