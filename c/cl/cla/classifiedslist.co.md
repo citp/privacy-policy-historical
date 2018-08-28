@@ -1,80 +1,87 @@
-> *The following text is extracted and transformed from the classifiedslist.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002310id_/http%3A//classifiedslist.co/template-home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedslist.co privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828222455id_/http%3A//classifiedslist.co/Privacy.html) for the most accurate reproduction.*
 
-# 
+# POLARITY PRIVACY POLICY
 
-## Privacy Policy
+**Updated as of September 21, 2016**
 
-ClassifiedsList.co provides this Privacy Policy to help users, customers and suppliers of the business make an informed decision as to whether to use or continue using the Website and business services of ClassifiedsList.co. 
+  
+Polarity Technologies Ltd (“Polarity”), a Cyprus company, has established this Privacy Policy to disclose our information gathering and dissemination practices for the Software, and our Services, and to allow you to make an informed decision about how you will use our Services. Our "Services" include the Software on this website, the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, updates, databases and information made available and utilized. References to "you" in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. By using our Services, you are consenting to the terms of this Privacy Policy and all of the activities described herein. If you do not agree to be bound by this Privacy Policy, you should uninstall the Software and not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business. This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Services. Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties. We encourage you to review the policies of such third parties. Finally, to the extent any of our Services are undertaken in conjunction with or as a co-branded service with a third party, then both our Privacy Policy and such third party's privacy policy may apply.
 
-PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. WE DO NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED IN THIS PRIVACY POLICY.
+  1. **Collection of Information  
+**  
+Polarity does not, generally, track or maintain personally identifiable information about consumers that use our Services. However, we may collect personally-identifiable information through the use of our Services upon your contacting us so that we may respond to your questions or comments, such as your name, email or mailing address, or other information you include when contacting us. In addition, as part of the functionality provided by our Service, we may collect and store URLS that you visit and your browser’s home page which could contain personally identifiable information. We may also collect, use and store information about your search activity when you use web search services (such as search queries) (“Search Data”). This information may be shared with third-party applications that use Search Data to function, or to offer you more customized information, advertising and services. Your Search Data is collected and stored and may include personally identifiable information, depending on your search query. For instance, if you search your own name, personally identifiable information would be included in the search query. BY USING THE SERVICES, YOU ARE CONSENTING TO GRANT POLARITY PERMISSION TO COLLECT YOUR URLS AND SEARCH DATA, INCLUDING SEARCH QUERIES THAT MAY CONTAIN PERSONALLY IDENTIFIABLE INFORMATION, SHARE THEM WITH THIRD PARTIES, AND USE SEARCH-RELATED COOKIES. When you use or interact with our Services, we may also collect certain anonymous information that is not sufficient to permit someone to identify you by name, mailing address, telephone number, social security number, driver's license or other government-issued identification. However, information that we do collect may be combined with a unique ID (UID). The anonymous information we may have access to, obtain, retain and use may include: · Information about your use of our Services, such as the frequency with which you use them, how you use and interact with them, when you visit them, and your responses to the offerings and advertisements made available to you through them, among other things; and · Information that may be gathered or received when you use the Services or visit other websites, including, without limitation, the following:
 
-**Overview of our Privacy Policy**
 
-Please read this Privacy Policy carefully so that you understand our online privacy practices regarding: 
+  * The type of browser you are using when using our Services, including your browser's "user agent" (e.g., Internet Explorer, Safari, and other browsers);
+  * Your operating system type, whether Mac OS, or Windows, and which version of Windows; o Your Internet protocol (IP) address and information about the version of any software comprising a portion of the Services that you use;
+  * Your geographic location and the domain name of your Internet service provider (ISP); the URLs and websites that you visit and have visited; your search queries on the web pages you visit;
+  * and/or Diagnostic information which describes how our Services are operating on your system.
 
-\- Information we collect  
-\- How we use the information  
-\- How we share your information, if at all  
-\- Your choices 
 
-**What information do we collect?**
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
+All of the foregoing information is collectively referred to hereinafter as "Anonymous Information". We may also supplement Anonymous Information with additional information from other third parties in some cases. Additionally, those portions of the Services comprised of software have been configured to communicate to us any information relating to computer errors arising from use of such software, without providing any notice to you of the delivery of such communications. Such communications may include the configuration settings applicable at the time of the error. We use this data to help us clarify and fix performance issues with and to improve the software and the Services.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously. 
+  2. **Use of Information**
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. What do we use your information for? 
+(a) Anonymous Information and Search Data is used to (i) operate and improve upon the Services, including all constituent parts of the Services such as the software, the websites and the various offerings, among other things, (ii) research and analyze your use of the Services, and (iii) present you with offers for other products, offerings, programs, features and/or services that may be of interest to you.
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-\- To personalize your experience (your information helps us to better respond to your individual needs)  
-\- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-\- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
-\- To administer a contest, promotion, survey or other site feature  
-\- To send periodic emails. The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
+We will not share your Anonymous Information and Search Data with third parties unless: 
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+● You have given us your prior consent to disclose such information;
 
-**Do we use cookies?**
+  * The third party is our parent, subsidiary, or an affiliated company owned by our parent company; 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+●We must disclose some or all of your Anonymous Information to authorized officers of the court in order to comply with valid legal process or to act in other urgent situations (as further discussed below); or
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+  * Such information is needed by third-party advertising networks and advertisers who help deliver relevant ads when you are on a web page.
 
-**Do we use web beacons or pixels?**
 
-Yes. We and our Partners employ a software technology that helps us better manage content on our site. Web beacons or Pixels are tiny graphics with a unique identifier, similar in function to cookies. They track your online Web movement. We embed Pixels invisibly on Web pages. They are about the size of the period at the end of this sentence. We do not tie the information gathered by Pixels to our customersâ€™ Personally Identifiable Information. 
 
-Some of the Partner Offers may also use Pixels. We have no control over our partnersâ€™ Pixels. We also have no control over how they use information collected.
+We only share anonymized or aggregated information and your Search Data with them to improve the relevancy of the ads you see. As mentioned below in Section 3, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.
 
-**Do we disclose any information to outside parties?**
+(b) We note above, but it is worth reiterating here, that your Anonymous Information, as well as your Search Data and other information about you as a user of our Services, may be disclosed by us to those authorized officers of the court in response to valid legal process, including without limitation, a valid court order, search warrant or subpoena), as well as in other circumstances if we believe in good faith that there is an emergency that poses a threat to the safety of you or another person or that the Services are being used in the commission of a crime by your or another third party. Furthermore, we may disclose your Anonymous Information to protect our own rights, Services and property or those of our affiliated providers, in addition to providing you with the Services.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+(c) In the event that ownership of all or a portion of the Services currently provided by Polarity were to change as a result of a merger, acquisition or transfer to another company, your Anonymous Information and Search Data may be transferred as well.
 
-**Third party links**
+  3. **Web Beacons and Cookies**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+(a) In providing the Services to you, we may use web beacons and cookies or similar technologies in conjunction with your Anonymous Information and Search Data to personalize and improve your use of and experience with the Services, including, without limitation, to operate and improve the Service's offerings; to present, measure and research the effectiveness of our Service's offerings, advertisements, and communications to you, such as by determining which pages you visit, which ads you click on, communications you respond to, and functionality you use; to store and allow retrieval of information that you have provided to third party services that are integrated with the Services, and configuration preferences; and to customize the content and advertisements provided to you through the Services. In addition, third party advertisers might also use cookies or web beacons downloaded through our Services to accomplish many similar goals in connection with the effectiveness of their advertising through our Services and in general. We do not have access to the cookies or web beacons employed by advertisers through our Services and such cookies or web beacons are not governed by this Privacy Policy, but rather by the privacy policy of such advertiser. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted. You can learn more about cookies and opting-out of the receipt of cookies at <http://www.aboutads.info/choices>; you can learn more about cookies in general from [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-**Childrens Online Privacy Protection Act Compliance**
+(b) Web beacons or clear GIFs are relatively small pieces of code placed on web pages that can be used for a number of purposes, including counting the users who visit that web page, or to deliver a cookie to the browser of a user viewing that page. A cookie is a small text file transferred from Polarity to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously. You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+  4. **Omitted.**
+  5. **We Are Committed to Security**
 
-**Online Privacy Policy**
+Polarity stores Anonymous Information and Search Data in a database on Polarity computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under Polarity’s control. Notwithstanding such measures, Polarity cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered.
 
-Only This online privacy policy applies only to information collected through our website and not to information collected offline.
+  6. **General Internet Hazards  
+**  
+Any time you receive files over the Internet from third parties, regardless of the application used, whether the Software, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is. You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted. Polarity does not encrypt your communications through the Services. Further, your communications made through Polarity may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet. As such, Polarity cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data.
+  7. **European Union Members - International Transfer of Data  
+**  
+Our Services are international in scope. By using the Services you consent to your Anonymous Information, your Search Data and any personal information that you provide to us being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws.
+  8. **Minors Under Age 18  
+**  
+The Resources are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Resources, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us at: support@polarity.com.cy and we will remove it. If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
+  9. **Changes to this Privacy Policy  
+**  
+Polarity may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently by clicking on the “Privacy Policy” link at the bottom of your new tab page, or visiting this link which you can bookmark:  _[Privacy Policy](https://web.archive.org/Privacy.html)_. In the event that we make Material Changes to this Privacy Policy, we will notify users by posting a notice on our homepage, and on the web page where our Privacy Policy is posted,  _[Privacy Policy](https://web.archive.org/Privacy.html)_.
+  10. **Who We Are  
+**  
+Any references made in this Privacy Policy to "us", "we", "our" and/or "Polarity" shall be deemed to have been made to Polarity, as well as any company that controls Polarity, directly or indirectly, and any other subsidiary of that controlling company.
+  11. **More Information  
+**  
+For more information about protecting your privacy, you may wish to visit [http://www.netcoalition.com](http://www.netcoalition.com/) and [http://www.privacyalliance.org](http://www.privacyalliance.org/). In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. We do not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive. However, if you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us at:
 
-**Terms and Conditions**
+Polarity Technologies LTD  
+Nora Court, 3rd floor, office 301  
+Limassol, Cyprus 3040  
+support@polarity.com.cy
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-**Your Consent**
 
-By using our site, you consent to our online privacy policy.
