@@ -1,262 +1,244 @@
-> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204457id_/https%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828175434id_/https%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Nestlé India
 
-**Nestlé India (“Nestlé”)** is committed to safeguarding your privacy and ensuring that you continue to trust Nestlé with your personal data. When you interact with us, you may share personal information with us which allows identification of you as an individual (e.g. name, email, address, telephone number). This is known as “personal data”. 
+**Effective: 1 May 2018**
 
-This notice (“ **Privacy Notice** ”) sets out:
+**SCOPE OF THIS NOTICE**
 
-  1. Scope and acceptance 
-  2. Personal data collected by Nestlé
-  3. Children’s personal data
-  4. Why Nestlé collects personal data and how it uses it
-  5. Sharing of personal data by Nestlé
-  6. Your rights 
-  7. Cookies and other technologies
-  8. Data security and retention
-  9. How to contact us
+Please read this privacy notice ( **"Notice"** ) carefully to understand our policies and practices regarding your Personal Data and how we will treat it. This Notice applies to individuals who interact with Nestlé services as consumers ( **"you"** ). This Notice explains how your Personal Data are collected, used, and disclosed by Nestlé India Limited ( **"Nestlé", "We", Us"** ). It also tells you how you can access and update your Personal Data and make certain choices about how your Personal Data are used.
 
+This Notice covers both our online and offline data collection activities, including Personal Data that We collect through our various channels such as websites, apps, third party social networks, Consumer Engagement Service, points of sale and events. Please note that We might aggregate personal data from different sources (website, offline event). As part of this, We combine Personal Data that were originally collected by different Nestlé entities or Nestlé partners. Please see Section 9 for further information on how to object to this.
 
+If you do not provide necessary Personal Data to us (We will indicate to you when this is the case, for example, by making this information clear in our registration forms), We may not be able to provide you with our goods and/or services. This Notice can change from time to time (see Section 11). 
 
-## 1\. Scope and acceptance of this Privacy Notice
+This Notice provides important information in the following areas:
 
-This Privacy Notice applies to the personal data that we collect about you for the purposes of providing you with our products and services we offer.
-
-By using Nestlé Sites (as defined below) or by giving us your personal data, you accept the practices described in this Privacy Notice. If you do not agree to this Privacy Notice, please do not use Nestlé Sites (as defined below) or give us any personal data.
-
-Nestlé reserves the right to make changes to this Privacy Notice at any time. We encourage you to regularly review this Privacy Notice to make sure you are aware of any changes and how your personal data may be used.
-
-Return to top
-
-## 2\. Data collected by Nestlé
-
-Nestlé may collect personal data about you from a variety of sources, including through:
-
-Online and electronic interactions with us, including via Nestlé websites, mobile applications, text messaging programs or through Nestlé branded pages or applications on third party social networks (e.g. Facebook) (Nestlé Sites);
-
-Offline interactions with us, including via direct marketing campaigns, hard copy registration cards, competition entries and contacts through Nestlé consumer services call centres; and
-
-Your interaction with online targeted content (such as advertisements) that Nestlé, or service providers on our behalf, provide to you via third party websites or applications.
-
-## 2.1 Data that you provide to us directly
-
-This is data that you provide to us with your consent for a specified purpose, including:
-
-  * Personal contact information, including any information allowing Nestlé to contact you in person (e.g. name, home or (e)mail address, and phone number);
-  * Demographic information, including date of birth, age, gender, location (e.g. zip code, city and state and geo-location), favourite products, hobbies, interests, and household or lifestyle information;
-  * Payment information, including to make purchases (e.g. credit card number, expiration date, billing address);
-  * Account login information, including any information that is required for you to establish a user account with Nestlé (e.g. login ID/email, user name, password and security question/answer);
-  * Consumer feedback, including information that you share with Nestlé about your experience in using Nestlé products and services (e.g. your comments and suggestions, testimonials and other feedback related to Nestlé products); and
-  * Consumer-generated content, including any content (e.g. photos, videos and personal stories) that you create and then share with Nestlé (and perhaps others) by uploading it to a Nestlé Site. 
+  1. SOURCES OF PERSONAL DATA 
+  2. PERSONAL DATA THAT WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
+  3. PERSONAL DATA OF CHILDREN
+  4. COOKIES/SIMILAR TECHNOLOGIES, LOG FILES AND WEB BEACONS
+  5. USES MADE OF YOUR PERSONAL DATA
+  6. DISCLOSURE OF YOUR PERSONAL DATA
+  7. RETENTION OF PERSONAL DATA
+  8. STORAGE AND/OR TRANSFER OF YOUR PERSONAL DATA
+  9. ACCESS TO YOUR PERSONAL DATA
+  10. YOUR CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR PERSONAL DATA
+  11. CHANGES TO OUR NOTICE
+  12. DATA CONTROLLERS & CONTACT
 
 
 
-## 2.2 Data that we collect when you interact with Nestlé Sites
+## 1. SOURCES OF PERSONAL DATA
 
-We use cookies and other tracking technology which collect certain kinds of information when you interact with Nestlé Sites.
+This Notice applies to Personal Data that We collect from or about you, through the methods described below (see Section 2), from the following sources:
 
-## 2.3 Data collected from other sources 
+**_Nestlé websites._** Consumer-directed websites operated by or for Nestlé, including sites that We operate under our own domains/URLs and mini-sites that We run on third party social networks such as Facebook ( **"Websites"** ).
 
-We may collect information about you from other legitimate sources for the purpose of providing you with our products and services. Such sources include third party data aggregators, Nestlé promotional partners, public sources and third party social networking sites. Such information may include: 
+**_Nestlé mobile sites/apps._** Consumer-directed mobile sites or applications operated by or for Nestlé, such as smartphone apps.
 
-  * personal contact information; and
-  * any personal data that is part of your profile on a third party social network (e.g. Facebook) and that you allow that third party social network to share with us (e.g. name, email address, gender, birthday, city, profile picture, user ID, friend list). You can learn more about the data that we may obtain about you by visiting the website of the relevant third party social network.
+**_E-mail, text and other electronic messages._** Interactions with electronic communications between you and Nestlé.
 
+**_Nestlé CES. Communications with our Consumer Engagement Centre ("CES")._** Also referred as Our 'Consumer Customer care' /'WeCare'. Details as available on our corporate website at www.nestle.in and on our packs at 'Good to Talk' section.
 
+**_Offline registration forms._** Printed or digital registration and similar forms that We collect via, for example, postal mail, in-store demos, contests and other promotions, or events. 
 
-We may also receive personal data about individuals when we acquire other companies. 
+**_Advertising interactions._** Interactions with our advertisements (e.g., if you interact with on one of our ads on a third party website, we may receive information about that interaction).
+
+**_Data We create._** In the course of our interactions with you, we may create Personal Data about you (e.g. records of your purchases from our websites).
+
+**_Data from other sources._** Third party social networks (e.g. such as Facebook, Google), market research (if feedback not provided on an anonymous basis), third party data aggregators, Nestlé promotional partners, public sources and data received when we acquire other companies.
 
 Return to top
 
-## 3.Children’s personal data
+## 2\. PERSONAL DATA THAT WE COLLECT ABOUT YOU AND HOW WE COLLECT ITé
 
-Nestlé does not knowingly solicit or collect personal data from children below the age of 12. Children between 12-18 years should provide their data either through their parents or with the consent of their parents. If Nestlé discovers that it has accidentally collected personal data from a child below [12], it will remove that child’s personal data from its records as soon as reasonably possible. However, Nestlé may collect some data and statistics of children below the age of 12 years of age from the parent or custodian directly and therefore with their explicit consent.
+Depending on how you interact with Nestlé (online, offline, over the phone, etc.), We collect various types of information from you, as described below.
 
-Return to top
+**_Personal contact information._** This includes any information you provide to Us that would allow Us to contact you, such as your name, postal address, e-mail address, social network details, or phone number.
 
-## 4.Why Nestlé collects personal data and how it uses it
+**_Account login information._** Any information that is required to give you access to your specific account profile. Examples include your login ID/email address, screen name, password in unrecoverable form, and/or security question and answer.
 
-Nestlé collects and uses personal data only as necessary for the purposes for which it was obtained. Nestlé may use your personal data for some or all of the following purposes:
+**_Demographic information & interests._** Any information that describes your demographic or behavioural characteristics. Examples include your date of birth, age or age range, gender, geographic location (e.g. postcode/zip code), favourite products, hobbies and interests, and household or lifestyle information.
 
-  * Orders - to process and ship your orders and to inform you about the status of your orders. Please note that there are many e-commerce websites that sell Nestlé products but that are not controlled or operated by Nestlé. We recommend that you read their policies, including on privacy, before making any purchases on those websites.
-  * Account maintenance - to create and maintain your accounts with us, including administering any consumer loyalty or rewards programs that are associated with your account.
-  * Consumer service - to provide you with consumer service, including responses to your inquiries, complaints and general feedback about our products. Consumer service may be provided through various forms of communication, including via email, letter, telephone and online chat features.
-  * Consumer engagement - to get you more actively engaged with our products and services. This may involve the use or publication of consumer-generated content.
-  * Personalisation - Nestlé may combine personal data about you collected from one source (e.g. a website) with data collected from another source (e.g. an offline event). This provides Nestlé with a more complete view of you as a consumer, which, in turn, allows Nestlé to serve you better and with greater personalisation, including in respect of the following:
-    1. _Websites -_ to improve and personalise your experience on websites, using data such as account login information, technical computer information, and/or previous website usage information;
+**_Information from computer/mobile device._** Any information about the computer system or other technological device that you use to access one of our Websites or apps, such as the Internet protocol (IP) address used to connect your computer or device to the Internet, operating system type, and web browser type and version. If you access a Nestlé website or app via a mobile device such as a smartphone, the collected information will also include, where permitted, your phone's unique device ID, advertising ID, geo-location, and other similar mobile device data.
 
-    2. _Products -_ to improve Nestlé’s products, tailor them to your needs and come up with new product ideas. This includes the use of demographic information, consumer profiling information and consumer feedback; and
+**_Websites/communication usage information._** As you navigate through and interact with our Websites or newsletters, We use automatic data collection technologies to collect certain information about your actions. This includes information such as which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions, such as content response times, download errors and length of visits to certain pages. This information is captured using automated technologies such as cookies and web beacons, and is also collected through the use of third party tracking for analytics and advertising purposes. You have the right to object to the use of such technologies, for further details please see Section 4.
 
-    3. _Interest-based advertising -_ to serve you advertisements tailored to your interests. One way Nestlé does this is to match activities or information collected on Nestlé Sites with data collected about you on third party sites (i.e. data-matching). This type of advertising is also known as “online behavioural advertising” or “targeted advertising”. Such personalisation is typically performed via cookies or similar technologies. 
+**_Market research & consumer feedback._** Any information that you voluntarily share with Us about your experience of using our products and services.
 
-  * Marketing communications - to provide you with marketing communications where you have opted-in to receiving such communications (including information about Nestlé, its products and services, competitions and promotions). These can be shared via electronic means (e.g. SMS, emails and online advertising) and via post. 
+**_Consumer-generated content._** Any content that you create and then share with Us on third party social networks or by uploading it to one of our Websites or apps, including the use of third party social network apps such as Facebook. Examples include photos, videos, personal stories, or other similar media or content. Where permitted, We collect and publish consumer-generated content in connection with a variety of activities, including contests and other promotions, website community features, consumer engagement, and third party social networking.
 
-If you opt-in to receiving SMS, your mobile service provider’s policy for receiving SMS will apply, which may be at a fee. 
+**_Third party social network information._** Any information that you share publicly on a third party social network or information that is part of your profile on a third party social network (such as Facebook) and that you allow the third party social network to share with Us. Examples include your basic account information (e.g. name, email address, gender, birthday, current city, profile picture, user ID, list of friends, etc.) and any other additional information or activities that you permit the third party social network to share. We receive your third party social network profile information (or parts of it) every time you download or interact with a Nestlé web application on a third party social network such as Facebook, every time you use a social networking feature that is integrated within a Nestlé site (such as Facebook Connect) or every time you interact with Us through a third party social network. To learn more about how your information from a third party social network is obtained by Nestlé, or to opt-out of sharing such social network information, please visit the website of the relevant third party social network.
 
-  * Social features – to offer you a number of social features, including the following:
-    1. _Website community features on a Nestlé Site -_
+**_Payment and Financial information._** Any information that We need in order to fulfil an order, or that you use to make a purchase, such as your debit or credit card details (cardholder name, card number, expiration date, etc.) or other forms of payment (if such are made available). In any case, We or our payment processing provider(s) handle payment and financial information in a manner compliant with applicable laws, regulations and security standards such as PCI DSS.
 
-When you visit a Nestlé Site with a community feature and upload or share recipes, pictures, videos, artwork or other content, Nestlé may use and display the personal data that you share on such sites.
+**_Calls to Consumer Engagement Services._** Communications with a CES can be recorded or listened into, in accordance with applicable laws, for local operational needs (e.g. for quality or training purposes). Payment card details are not recorded. Where required by law, you will be informed about such recording at the beginning of your call.
 
-    2. _Website viral features_
-
-Nestlé may use your personal data to offer you website viral features, such as a tell-a-friend program, where you can share certain news, product information, promotions or other content with family and friends.  
-This typically requires the collection and use of personal contact information (e.g. names and emails) so that the selected one-time message/content can be delivered to their recipients. 
-
-    3. _Third party social networking_
-
-Nestlé may use your personal data from when you interact with third party social networking features such as “Facebook Connect” or “Facebook Like”. These features may be integrated on Nestlé Sites including for purposes such as running contests and allowing you to share content with friends.   
-If you use these features, Nestlé may have the ability to obtain certain personal data about you from your social networking information. You can learn more about how these features work, and the profile data Nestlé may obtain about you, by visiting the website of the relevant third party social network.
-
-    4. _Other specific purposes_
-
-We may use your personal data for other specific business purposes, including to maintain the day-to-day operation and security of Nestlé Sites, to conduct demographic studies or audits, and to contact you for consumer research. 
-
-
-
+**_Sensitive Personal Data._** We do not seek to collect or otherwise process sensitive personal data in the ordinary course of our business. Where it becomes necessary to process your sensitive personal data for any reason, we rely on your prior express consent for any processing which is voluntary (e.g. for marketing purposes). If we process your sensitive personal data for other purposes, we rely on the compliance with applicable law. 
 
 Return to top
 
-## 5\. Sharing of personal data by Nestlé
+## 3\. PERSONAL DATA OF CHILDREN
 
-Nestlé will **never** Nestlé does not share your personal data with any third party that intends to use it for direct marketing purposes, unless you have provided specific consent in relation to this. 
-
-Nestlé may share your personal data with third parties for other purposes, but only in the following circumstances:
-
-## 5.1 Affiliates
-
-Nestlé may provide your personal data to its affiliates or related companies for legitimate business purposes.
-
-## 5.2 Service providers 
-
-Nestlé may engage service providers, agents or contractors to provide services on its behalf, including to administer Nestlé Sites and services available to you. These third parties may come to access or otherwise process your personal data in the course of providing these services.
-
-Nestlé requires such third parties, who may be based outside the country from which you have accessed the Nestlé Site or service, to comply with all relevant data protection laws and security requirements in relation to your personal data, usually by way of a written agreement. 
-
-Nestlé sometimes stores your data out of country. In some instances there is a possibility that such data is transferred from one location to another. Such storage and transfers are undertaken with utmost care and attention. We contractually bind the service providers to store or transfer your information in a confidential manner and they are made to treat the data only according to relevant privacy laws of the land. 
-
-## 5.3 Partners and joint promotions
-
-Nestlé may run a joint or co-sponsored program or promotion with another company and, as part of your involvement in the activity, collect and use your personal data. 
-
-Your personal data will only be shared with another company if you have opted in to receive information directly from that company. Nestlé encourages you to read the privacy notice of any such company before sharing personal data. If you do not want your personal data to be collected by or shared with a company other than Nestlé, you can always choose not to participate in such activity. If you do opt-in to communications from such a company, remember that you always have the right to opt-out and you would need to contact that company directly to do so. 
-
-##  5.4 Legal requirements and business transfer 
-
-Nestlé may disclose your personal data if it is required to do so by law or if, in Nestlé’s good faith judgment, such legal disclosure is reasonably necessary to comply with legal processes or respond to any claims.
-
-In the event of a full or partial merger with, or acquisition of all or part of Nestlé by another company, the acquirer would have access to the information maintained by that Nestlé business, which could include personal data.
+We do not knowingly solicit or collect personal data from children below the age of (18). If we discover that we have unintentionally collected personal data from a child below (18), we will remove that child's personal data from our records promptly. However, Nestlé may collect personal data about children below the age of (18) years of age from the parent or guardian directly, and with that person's consent.
 
 Return to top
 
-## 6\. Your rights
+## 4\. COOKIES/SIMILAR TECHNOLOGIES, LOG FILES AND WEB BEACONS
 
-## 6.1 Right to opt-out of marketing communications
+**_Cookies/Similar Technologies._** We use cookies and basis the permission provided and we define the purposes for which We use them.
 
-You have the right to opt-out of receiving marketing communications about Nestlé and can do so by:
+**_Log Files._** We collect information in the form of log files that record website activity and gather statistics about your browsing habits. These entries are generated automatically, and help Us to troubleshoot errors, improve performance and maintain the security of our Websites.
 
-  1. (a) following the instructions for opt-out in the relevant marketing communication;
-
-  2. (b) if you have an account with Nestlé, you may have the option to change your opt-in/opt-out preferences under the relevant edit-account section of the account; or
-
-  3. (c) contacting us.
-
-
-
-
-Please note that even if you opt-out from receiving marketing communications, you may still receive administrative communications from Nestlé, such as order confirmations and notifications about your account activities (e.g. account confirmations and password changes).
-
-##  6.2 Access and rectification
-
-You have a right to request access to your personal data. You may send us a request for access. If Nestlé cannot provide access to your personal data, it will provide you with the reasons why. You also have the right to request that Nestlé correct any inaccuracies in your personal data. If you have an account with Nestlé for a Nestlé Site, this can usually be done through the appropriate "your account" or “your profile” section(s) on the Nestlé Site (if available). Otherwise, you can send us a request to rectify your data. 
+**_Web Beacons._** Web beacons (also known as "web bugs") are small strings of code that deliver a graphic image on a web page or in an email for the purpose of transferring data back to Us. The information collected via web beacons will include information such as IP address, as well as information about how you respond to an email campaign (e.g. at what time the email was opened, which links you click on in the email, etc.). We will use web beacons on our Websites or include them in e-mails that We send to you. We use web beacon information for a variety of purposes, including but not limited to, site traffic reporting, unique visitor counts, advertising, email auditing and reporting, and personalisation.
 
 Return to top
 
-## 7\. Cookies and other tracking technologies
+## 5\. USES MADE OF YOUR PERSONAL DATA
 
-**7.1.1 What are cookies?**
+The following paragraphs describe the various purposes for which We collect and use your Personal Data, and the different types of Personal Data that are collected for each purpose. Please note that not all of the uses below will be relevant to every individual.
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website. 
+**_What We use your Personal Data for_** | **_Our reasons_** | **_Our legitimate interests_**  
+---|---|---  
+**_Consumer service_** _.  _We use your Personal Data for consumer service purposes, including responding to your enquiries. This typically requires the use of certain personal contact information and information regarding the reason for your inquiry (e.g. order status, technical issue, product question/complaint, general question, etc.).  | 
 
-**7.1.2 How and why do we use cookies?**
+  * Fulfilling contractual obligations
+  * Legal obligations ****
+  * Our legitimate interests ****
 
-We use cookies to improve the use and functionality of Nestlé Sites and to gain a better understanding of how visitors use Nestlé Sites and the tools and services offered on them. Cookies help us tailor Nestlé Sites to your personal needs, to improve their user-friendliness, gain customer satisfaction feedback and to communicate to you elsewhere on the internet. 
+| 
 
-**7.1.3 What types of cookies may be used on Nestlé Sites?**
-
-We may use the following types of cookies on Nestlé Sites: 
+  * Improving and developing new products and services ****
+  * Being more efficient and improving the transaction ****
 
   
-**Session cookies -** These are temporary cookie files which are erased when you close your browser. When you restart your browser and go back to the site that created that cookie, the website will treat you as a new visitor.
+**_Contests, marketing and other promotions_** _.  _With your consent (where required), We use your Personal Data to provide you with information about goods or services (e.g. marketing communications or campaigns or promotions). This can be done via means such as email, ads, SMS, phone calls and postal mailings to the extent permitted by applicable laws. Some of our campaigns and promotions are run on third party websites and/or social networks. This use of your Personal Data is voluntary, which means that you can oppose (or withdraw your consent in certain countries) to the processing of your Personal Data for this purposes. For detailed information on how to modify your preferences about marketing communication, please see Sections 9 and 10 below. For more information about our contests and other promotions, please see the official rules or details posted with each contest/promotion.  | 
 
-**Persistent cookies –** These cookies stay on your browser until you delete them manually or until your browser deletes them based on the duration period set within the cookie. These cookies will recognize you as a return visitor. Necessary cookies - Necessary cookies are strictly necessary for the operation of a Nestlé Site. They enable you to navigate around the site and use our features. 
+  * With your consent (where required)
+  * Fulfilling contractual obligations
+  * Our legitimate interests ** __**
 
-**Cookies that send information to us -** These are the cookies that we set on a Nestlé Site and they can only be read by that site. This is known as a “First Party” cookie.
+| 
 
-We also place cookies on Nestlé advertisements which are placed on other websites owned by third parties (e.g. Facebook). We obtain information via those cookies when you click on or interact with the advertisement. In this situation Nestlé is placing a “Third Party” cookie. Nestlé may use the information obtained by these cookies to serve you with advertising that is relevant and of interest to you based on your past online behaviour.
+  * Working out which of our products and services may interest you and telling you about them
+  * Defining types of consumers for new products or services
 
-**Cookies that send information to other companies -** These are cookies that are set on a Nestlé Site by our partner companies (e.g. Facebook or advertisers). They may use the data collected from these cookies to anonymously target advertising to you on other websites, based on your visit to the Nestlé Site. For example, if you use a social widget (e.g. the Facebook icon) on a Nestlé Site, it will record your “share” or “like”. Facebook (as the company setting the cookie) will collect the data. 
+  
+**_Third party social networks:_**  We use your Personal Data when you interact with third party social networking features, such as "Like" functions, to serve you with advertisements and engage with you on third party social networks. You can learn more about how these features work, the profile data that We obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third party social networks.  | 
 
-**7.1.4 Other similar technologies**
+  * With your consent (where required)
+  * Our legitimate interests
 
-Nestlé Sites also make use of other tracking technologies including IP addresses, log files and web beacons, which also help us tailor Nestlé Sites to your personal needs. 
+| 
 
-_IP addresses_  
-An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. We may record IP Addresses for the following purposes: (i) troubleshoot technical concerns, (ii) maintain website safety and security (iii) better understand how our websites are utilized, and (iv) to better tailor content to your needs depending on the country you are in. 
+  * Working out which of our products and services may interest you and telling you about them
+  * Defining types of consumers for new products or services
 
-_Log Files_  
-We (or a third party on our behalf) may collect information in the form of logs files that record website activity and gather statistics about a user’s browsing habits. These entries are generated anonymously, and help us gather (among other things) (i) a user’s browser type and operating system, (ii) information about a user’s session (such as the URL they came from, the date and time they visited our website, and which pages they've viewed on our website and for how long), and, (iii) other similar navigational or click-stream data (e.g. site traffic reporting and unique visitor counts).
+  
+**_Personalisation (offline and online)_**. With your consent (where required), We use your Personal Data (i) to analyse your preferences and habits, (ii) to anticipate your needs based on our analysis of your profile, (iii) to improve and personalise your experience on our Websites and apps; (iv) to ensure that content from our Websites/apps is optimised for you and for your computer or device; (v) to provide you with targeted advertising and content, and (vi) to allow you to participate in interactive features, when you choose to do so. For example, We remember your login ID/email address or screen name so that you can quickly login the next time you visit our site or so that you can easily retrieve the items you previously placed in your shopping cart. Based on this type of information, and with your consent (where required), We also show you specific _Nestlé_ content or promotions that are tailored to your interests. The use of your Personal Data is voluntary, which means that you can oppose the processing of your Personal Data for this purpose. For detailed information on how to opt-out please refer to Section 10 below.  
+**_Order fulfilment_**. We use your Personal Data to process and ship your orders, inform you about the status of your orders, correct addresses and conduct identity verification and other fraud detection activities. This involves the use of certain Personal Data and payment information.  | 
 
-**7.1.5 Manage your cookies/preferences**
+  * Fulfilling contractual obligations
+  * With your consent (where required)
+  * Legal obligations ****
+  * Our legitimate interests ****
 
-You should ensure that your computer setting reflects whether you are happy to accept cookies or not. You can set your browser to warn you before accepting cookies, or you can simply set it to refuse them. You do not need to have cookies on to use or navigate through many parts of Nestlé Sites although you may not have access to all the features on Nestlé Sites if you do so. See the 'help' button on your browser (e.g. Internet Explorer, Firefox) for how you can do this. Remember that if you use different computers in different locations, you will need to ensure that each browser is adjusted to suit your cookie preferences. 
+| 
 
-As a web beacon forms part of a webpage, it is not possible to ‘opt-out’ but you can render them ineffective by opting out of the cookies they set. 
+  * Improving and developing new products and services ****
+  * Being more efficient ****
+  * Protect our systems, networks and staff ****
+  * Compliance with legal obligations
 
+**_ _**  
+**_Other general purposes (e.g. internal or market research, analytic, security)_**. In accordance with applicable laws, We use your Personal Data for other general business purposes, such as maintaining your account, conducting internal or market research and measuring the effectiveness of advertising campaigns. We reserve the right, if you have _Nestlé_ accounts, to reconcile those accounts into one single account. We also use your Personal Data for management and operation of our communications, IT and security systems.   
+**_Legal reasons or merger/acquisition._**  In the event that _Nestlé_ or its assets are acquired by, or merged with, another company including through bankruptcy, we will share your Personal Data with any of our legal successors. We will also disclose your Personal Data to third parties (i) when required by applicable law; (ii) in response to legal proceedings; (iii) in response to a request from a competent law enforcement agency; (iv) to protect our rights, privacy, safety or property, or the public; or (v) to enforce the terms of any agreement or the terms of our Website.  | 
 
+  * Legal obligations ****
+  * Our legitimate interests ****
 
+| 
 
-Return to top  
+  * Compliance with legal obligations
+  * Protect our assets and staff
 
-## 8\. Data security and retention
+**_ _**  
+  
+Return to top
 
-## 8.1 Data security
+## 6\. DISCLOSURE OF YOUR PERSONAL DATA
 
-In order to keep your personal data secure, Nestlé has implemented a number of security measures, including: 
+In addition to the Nestlé entities mentioned in the data controllers & contact section (see Section 12), We share your Personal Data with the following types of third party organisations:
 
-  * **Secure operating environments -** Nestlé stores your data in secure operating environments and only accessible to Nestlé employees, agents and contractors on a need-to-know basis. Nestlé also follows generally accepted industry standards in this respect.
-  * Encryption for payment information - Nestlé uses industry-standard encryption to provide protection for sensitive financial information, such as credit card information sent over the Internet (e.g. when you make payments through Nestlé’s online stores). 
-  * Prior authentication for account access - - Nestlé requires its registered consumers to verify their identity (e.g. login ID and password) before they can access or make changes to their account. This is aimed to prevent unauthorized accesses. 
+**_Service providers._** These are external companies that We use to help Us run our business (e.g. order fulfilment, payment processing, fraud detection and identity verification, website operation, market research companies, support services, promotions, website development, data analysis, CRC, etc.). Service providers, and their selected staff, are only allowed to access and use your Personal Data on Our behalf for the specific tasks that they have been requested to carry out, based on our instructions, and are required to keep your Personal Data confidential and secure. 
 
+**_Third party companies using Personal Data for their own marketing purposes._** Except in situations where you have given your consent, We do not license or sell your Personal Data to third party companies for their own marketing purposes. Their identity will be disclosed at the time your consent is sought.
 
-
-Please note that these protections do not apply to personal data you choose to share in public areas such as on community websites. 
-
-## 8.2 Retention 
-
-Nestlé will only retain your personal data for as long as it is necessary for the stated purpose, taking into account also our need to answer queries or resolve problems, provide improved and new services, and comply with legal requirements under applicable laws.
-
-This means that we may retain your personal data for a reasonable period after your last interaction with us. When the personal data that we collect is no longer required in this way, we destroy or delete it in a secure manner. 
+**_Third party recipients using Personal Data for legal reasons or due to merger/acquisition._** We will disclose your Personal Data to third parties for legal reasons or in the context of an acquisition or a merger (see Section 5 for details). 
 
 Return to top
 
-## 9\. Contact us
+## 7\. RETENTION OF YOUR PERSONAL DATA
 
-Nestlé acts as “data controller” for the personal data it processes in the framework of this Privacy Notice. If you have any questions or comments regarding this Privacy Notice or Nestlé’s personal data collection practices, please contact us by 
+In accordance with applicable laws, We will use your Personal Data for as long as necessary to satisfy the purposes for which your Personal Data was collected (as described in Section 5 above) or to comply with applicable legal requirements. Personal data used to provide you with a personalized experience (see Section 5 above for details) will be kept for a duration permitted by applicable laws.
 
 Return to top
 
-**Phone -** +91 124 238 93 00 
+## 8\. DISCLOSURE, STORAGE AND/OR TRANSFER OF YOUR PERSONAL DATA
 
-**Email -**[Generic.INDataPrivacy01@IN.nestle.com](mailto:Generic.INDataPrivacy01@IN.nestle.com)
+We use appropriate measures (described below) to keep your Personal Data confidential and secure. Please note, however, that these protections do not apply to information you choose to share in public areas such as third party social networks.
 
-**Mail -**  
-Data Privacy  
-Nestlé India Ltd.  
-Nestlé House, Jacaranda Marg M Block  
-DLF City Phase II, National Highway 8  
-Gurgaon 122 002, India
+**_People who can access your Personal Data._** Your Personal Data will be processed by our authorised staff or agents, on a need to know basis, depending on the specific purposes for which your Personal Data have been collected (e.g. our staff in charge of consumer care matters will have access to your consumer record).
 
-**Copyright © April 2017 Nestlé**
+**_Measures taken in operating environments._** We store your Personal Data in operating environments that use reasonable security measures to prevent unauthorised access. We follow reasonable standards to protect Personal Data. The transmission of information via the Internet is, unfortunately, not completely secure and although We will do our best to protect your Personal Data, We cannot guarantee the security of the data during transmission through our Websites/apps.
+
+**_Measures We expect you to take._** It is important that you also play a role in keeping your Personal Data safe and secure. When signing up for an online account, please be sure to choose an account password that would be difficult for others to guess and never reveal your password to anyone else. You are responsible for keeping this password confidential and for any use of your account. If you use a shared or public computer, never choose to have your login ID/email address or password remembered and make sure to log out of your account every time you leave the computer. You should also make use of any privacy settings or controls We provide you in our Website/app.
+
+**_Transfer of your Personal Data._** Because of the international nature of our business, we may need to transfer your personal data within the Nestlé group, and to third parties as noted in Section 6 above, in connection with the purposes set out in this Privacy Notice. For this reason, we may transfer your personal data to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located. 
+
+Return to top
+
+## 9\. YOUR RIGHTS
+
+**_Access to Personal Data._** You have the right to access, review and request a physical or electronic copy of information held about you. You also have the right to request information on the source of your Personal Data.
+
+These rights can be exercised by sending Us an e-mail [Generic.INDataPrivacy01@IN.nestle.com](mailto:Generic.INDataPrivacy01@IN.nestle.com) or writing to us at **Nestle India Limited, Nestle House, Data Privacy Office, M Block, Jacaranda Marg, DLF Phase 2, Gurgaon 122002** , attaching a copy of your ID or equivalent details (where requested by Us and permitted by law). If the request is submitted by a person other than you, without providing evidence that the request is legitimately made on your behalf, the request will be rejected. Please note that any identification information provided to Us will only be processed in accordance with, and to the extent permitted by applicable laws.
+
+**_Additional rights (e.g. modification, deletion of Personal Data)._** Where provided by law, you can (i) request deletion, the portability, correction or revision of your Personal Data; (ii) limit the use and disclosure of your Personal Data; and (iii) revoke consent to any of our data processing activities. 
+
+Please note that, in certain circumstances, We will not be able to delete your Personal Data without also deleting your user account. We may be required to retain some of your Personal Data after you have requested deletion, to satisfy our legal or contractual obligations. We may also be permitted by applicable laws to retain some of your Personal Data to satisfy our business needs.
+
+Where available, our Websites have a dedicated feature through which you can review and edit the Personal Data that you have provided. Please note that We require our registered consumers to verify their identity (e.g. login ID/email address, password) before they can access or make changes to their account information. This helps prevent unauthorised access to your account.
+
+We hope that We can satisfy queries you may have about the way we process your Personal Data. However, if you have unresolved concerns you also have the right to complain to competent data protection authorities. 
+
+Return to top
+
+## 10\. YOUR CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR PERSONAL DATA
+
+We strive to provide you with choices regarding the Personal Data that you provide to Us. The following mechanisms give you the following control over your Personal Data:
+
+**_Cookies/Similar Technologies._** You manage your consent via (i) our consent management solution or (ii) your browser so as to refuse all or some cookies/similar technologies, or to alert you when they are being used. Please see Section 4 above.
+
+**_Advertising, marketing and promotions._** You can consent for your Personal Data to be used by Nestlé to promote its products or services through tick-box(es) located on the registration forms or by answering the question(s) presented by our CES representatives. If you decide that you no longer wish to receive such communications, you can subsequently unsubscribe from receiving marketing-related communications at any time, by following the instructions provided in each such communication. To unsubscribe from marketing communications sent by any medium, including third party social networks, you can opt-out at any time by unsubscribing through links available in our communications, logging into the Websites/apps or third party social networks and adjusting your user preferences in your account profile by unchecking the relevant boxes or by calling our CES. Please note that, even if you opt-out from receiving marketing communications, you will still receive administrative communications from Us, such as order or other transaction confirmations, notifications about your account activities (e.g. account confirmations, password changes, etc.), and other important non marketing related announcements.
+
+**_Personalization (offline and online):_** Where required by law, if you wish to have your Personal Data used by Nestlé to provide you with a personalized experience/targeted advertising & content, you can indicate so through the relevant tick-box(es) located on the registration form or by answering the question(s) presented by our CES representatives. If you decide that you no longer wish to benefit from this personalization, you can opt-out at any time by logging into the Websites/apps and adjusting your user preferences in your account profile by unchecking the relevant boxes or by calling our CES.
+
+**_Targeted Advertising._** We partner with ad networks and other ad serving providers ("Advertising Providers") that serve advertising on behalf of Us and other non-affiliated companies on the Internet. Some of those advertisements are tailored to your interests based on information collected on Nestlé sites or on non-affiliated websites over time. You can visit [www.aboutads.info/choices](http://www.aboutads.info/choices) to learn more about this type of advertising, as well as about how to opt-out of interest-based advertising practices from companies that participate in the Digital Advertising Alliance's ("DAA") self-regulatory program. Additionally, you can opt-out of this type of advertising in mobile applications from companies that participate in the DAA's AppChoices app by downloading the app from the iOS or Android app store. You can also stop the collection of precise location data from a mobile device by accessing your device location service settings.
+
+Return to top
+
+## 11\. CHANGES TO THIS NOTICE
+
+If We change the way We handle your Personal Data, We will update this Notice. We reserve the right to make changes to our practices and this Notice at any time, please check back frequently to see any updates or changes to our Notice.
+
+Return to top
+
+## 12\. DATA CONTROLLERS & CONTACT
+
+To ask questions or make comments on this Notice and our privacy practices or to make a complaint about our compliance with applicable privacy laws, please contact Us at: [Generic.INDataPrivacy01@IN.nestle.com](mailto:Generic.INDataPrivacy01@IN.nestle.com) or writing to us at **Nestle India Limited, Nestle House, Data Privacy Office, M Block, Jacaranda Marg, DLF Phase 2, Gurgaon 122002** or call our CES.
+
+We will acknowledge and investigate any complaint about the way We manage Personal Data (including a complaint that We have breached your rights under applicable privacy laws).
 
 Return to top
