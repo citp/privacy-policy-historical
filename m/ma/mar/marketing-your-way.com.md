@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing-your-way.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108182823id_/http%3A//marketing-your-way.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-your-way.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828144813id_/http%3A//marketing-your-way.com/privacy.htm) for the most accurate reproduction.*
 
 # Marketing-Your-Way.com - Privacy
 
