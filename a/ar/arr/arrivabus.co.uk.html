@@ -1,0 +1,1099 @@
+<!--The following is the downloaded HTML source of the arrivabus.co.uk privacy policy that was archived on 2018-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180828191829id_/https%3A//www.arrivabus.co.uk/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js no-touch geolocation rgba borderradius boxshadow textshadow opacity cssanimations cssgradients csstransitions fontface generatedcontent boxsizing" lang="en" style=""><!--<![endif]--><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}</style>
+            <title>Arriva Bus Privacy Policy</title>
+            <meta name="author" content="HaCon Ingenieurges. mbH">
+            <meta name="apple-itunes-app" content="app-id=726162349">
+            <meta name="google-play-app" content="app-id=de.hafas.android.arriva">
+            <meta property="og:image" content="http://www.arrivabus.co.uk/static/default/img/header/arriva-new-logo-180x180.jpg">
+            <meta property="og:title" content="Arriva Bus Privacy Policy">
+            <meta property="og:description" content="Arriva Bus Privacy Policy">
+            <meta name="description" content="Arriva Bus Privacy Policy">
+            <meta property="og:url" content="https://www.arrivabus.co.uk/privacy/">
+            <link rel="image_src" href="http://www.arrivabus.co.uk/static/default/img/header/arriva-new-logo-180x180.jpg">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <link rel="icon" href="/static/default/img/icon/favicon.ico">
+
+                        <link id="masterStylesheet" rel="stylesheet" type="text/css" href="/static/default/css/styles.min.css">
+
+
+            <link rel="stylesheet" href="/static/default/css/jquery.smartbanner.css" type="text/css" media="screen">
+            <script src="/static/shared/js/modernizr.min.js"></script>
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.js"></script>
+            <script type="text/javascript">
+                if (typeof jQuery == 'undefined') {
+                    document.write(unescape("%3Cscript src='/static/shared/js/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                }
+            </script><script src="/static/shared/js/jquery.min.js" type="text/javascript"></script>
+
+            
+
+
+<!-- Cookie/3rd party frontend registration & control -->
+<script src="/media/js/modules/cookieConsent.js"></script>
+<script type="text/javascript">
+
+    CookieConsent.createCategory('marketing');
+
+    CookieConsent.clicks = {
+        appDownloadClick: function () {
+            var id = 'appDownloadClick';
+            console.log(id + ' : '+ CookieConsent.category.marketing.hasConsent);
+            if (CookieConsent.category.marketing.hasConsent) {
+                CookieConsent.addScript(id, 'https://secure.adnxs.com/px?id=1025390&seg=14350209&remove=14350205&t=1');
+            }
+        }
+    };
+
+    var arrOptionalFuncOnAccept = new Array();
+    var arrOptionalFuncOnRevoke = new Array();
+    var arrOptionalFuncCookies = new Array();
+    var arrAnalyticsOnAccept = new Array();
+    var arrAnalyticsOnRevoke = new Array();
+    var arrAnalyticsCookies = new Array();
+    var arrMarketingOnAccept = new Array();
+    var arrMarketingOnRevoke = new Array();
+    var arrMarketingCookies = new Array();
+
+    //Register metafaq resizing script as optional functionality
+    arrOptionalFuncOnAccept.push(function () {
+        (function (w, $) {
+
+            function updateIframeHeight(origin) {
+
+                function changeHeight(event) {
+                    var $iframe = $('iframe[src*="' + origin + '"]');
+                    if (origin === event.originalEvent.origin) {
+                        $iframe.height(event.originalEvent.data + 10);
+                    }
+                }
+
+                return changeHeight;
+
+            }
+
+            // responds to sendmessage from external faq iframe
+            $(w).on('message', updateIframeHeight('http://arriva-stg.metafaq.com'));
+        }(this, jQuery));
+    });
+
+    //Register GA as analytics
+    arrAnalyticsOnAccept.push(function () {
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-17097316-8', 'auto', { 'allowLinker': true });
+        ga('require', 'linker');
+        ga('linker:autoLink', ['arrivabus.co.uk', 'tickets.arrivabus.co.uk']);
+        ga('send', 'pageview');
+    });
+    arrAnalyticsOnRevoke.push(function () {
+        // Disable Google Analytics
+        window['ga-disable-UA-17097316-8'] = true;
+        // End Google Analytics
+    });
+    arrAnalyticsCookies.push('_ga', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv');
+
+    //Register doubleclick as marketing
+    arrMarketingOnAccept.push(function () {
+        conversionTag = "https://ad.doubleclick.net/ddm/adj/N5960.197812NSO.CODESRV0/B11134114.148758620;sz=1x2;ord="
+
+        var randomNumber = Math.floor((Math.random() * 1000000000000) + 1);
+        var scriptTag = document.createElement("script");
+        scriptTag.src = conversionTag + randomNumber + "?";
+        scriptTag.language = "JavaScript1.1";
+
+        var insertionNode = document.body.firstChild;
+        insertionNode.parentNode.insertBefore(scriptTag, insertionNode);
+    });
+
+    //Register SessionCam as analytics
+    arrAnalyticsOnAccept.push(function () {
+        $.getScript("//d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js");
+    });
+
+    //Register ReciteMe as optional functionality
+    arrOptionalFuncOnAccept.push(function () {
+        $.getScript("//api.reciteme.com/asset/js?key=9eec9dbe133d148423aafe3139d2ab4c0661299d", function (data, textStatus, jqxhr) {
+            Recite.load({
+                enableButton: '.reciteme'
+            });
+            $('.reciteme').show();
+        });
+    });
+    arrOptionalFuncCookies.push('Recite_Session');
+
+    //Register ZenDesk as optional functionality
+    arrOptionalFuncOnAccept.push(function () {
+        window.zEmbed || function (e, t) { var n, o, d, i, s, a = [], r = document.createElement("iframe"); window.zEmbed = function () { a.push(arguments) }, window.zE = window.zE || window.zEmbed, r.src = "javascript:false", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "display: none", d = document.getElementsByTagName("script"), d = d[d.length - 1], d.parentNode.insertBefore(r, d), i = r.contentWindow, s = i.document; try { o = s } catch (e) { n = document.domain, r.src = 'javascript:var d=document.open();d.domain="' + n + '";void(0);', o = s } o.open()._l = function () { var e = this.createElement("script"); n && (this.domain = n), e.id = "js-iframe-async", e.src = "https://assets.zendesk.com/embeddable_framework/main.js", this.t = +new Date, this.zendeskHost = "arrivabus.zendesk.com", this.zEQueue = a, this.body.appendChild(e) }, o.write('<body onload="document._l();">'), o.close() }();
+    });
+
+        
+        //Register ShareThis as optional functionality
+        arrOptionalFuncOnAccept.push(function () {
+            var switchTo5x = true;
+
+            $.getScript("https://ws.sharethis.com/button/buttons.js", function (data, textStatus, jqxhr) {
+                stLight.options({ publisher: "ur-59501b6b-2972-59d6-b704-d4f0b958ddb7", doNotHash: false, doNotCopy: false, hashAddressBar: false });
+                $('.social-links').show();
+            });
+        });
+        
+
+    //Register refererCookie (used for visitor groups, and set server-side)
+    arrOptionalFuncCookies.push('refererCookie');
+
+    
+    
+    
+</script>
+
+            <script type="text/javascript">
+                //Register Google Remarketing as marketing
+                arrMarketingOnAccept.push(function () {
+                    var google_conversion_id = 982790563;
+                    var google_custom_params = window.google_tag_params;
+                    var google_remarketing_only = true;
+
+                    $.getScript("//www.googleadservices.com/pagead/conversion.js");
+                });
+            </script>
+
+
+        </head>
+        <body data-ng-app="ArrivaApp" id="ng-app" class="ng-scope">
+            
+
+            <div class="pageType" style="display:none;">StandardPage-Other</div>
+            <header>
+                <div id="ModalTarget">
+
+                </div>
+                                <div class="header">
+                    <div class="container">
+                        <div class="row">
+                            <div class="content-left">
+                                <a href="/"><div class="logo">Arriva</div></a>
+                            </div>
+                            <div class="content-right">
+
+                                
+    <div class="header-controls">
+        <div class="header-sitewide-search">
+            <ul class="header-icons">
+<form action="/Search/DoSearch" method="post" class="ng-pristine ng-valid">                    <li>
+                        <label for="searchText" style="display:none;">Search</label>
+                        <input id="searchText" name="searchText" type="text" placeholder="Search">
+                    </li>
+                    <li><button type="submit" class="header-sprite header-magnify">Search</button></li>
+</form>                
+                <li><a href="http://my.arrivabus.co.uk/" class="header-sprite header-person ignorTarget" target="_blank">My Arriva</a></li>
+                
+                <li><a href="" class="header-sprite header-email ignorTarget">Contact Us</a></li>
+                    <li><a href="http://tickets.arrivabus.co.uk/" class="header-sprite header-ticket ignorTarget" target="_blank">Tickets</a></li>
+                                <li><span class="reciteme" style="display: none;">Accessibility and audio</span></li>
+            </ul>
+        </div>
+
+    </div>
+
+
+                                
+                                <div class="header-region">
+                                    
+<form action="/Navigation/SwitchRegion" id="switchregion" method="post" name="switchregion" class="ng-pristine ng-valid">        <div class="container-solid">
+            <label for="redirectUrl">Choose a region</label>
+            <select id="redirectUrl" name="redirectUrl"><option value="">Please select...</option>
+<option value="/north-east/">North East</option>
+<option value="/yorkshire/">Yorkshire</option>
+<option value="/north-west/">North West</option>
+<option value="/wales/">Wales</option>
+<option value="/midlands/">Midlands</option>
+<option value="/beds-and-bucks/">Beds and Bucks</option>
+<option value="/herts-and-essex/">Herts and Essex</option>
+<option value="/kent-and-surrey/">Kent and Surrey</option>
+<option value="/arrivaclick/">ArrivaClick</option>
+</select>
+            <button class="btn-primary pull-right">Go</button>
+        </div>
+</form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <nav role="navigation">
+                <div class="navigation">
+                    
+    
+
+
+
+<ul id="menu" tabindex="0" aria-labelledby="label_1">
+    <li class="home">
+        <a href="/">
+            <span class="hide-text">Home</span><i class="icon-home"></i>
+        </a>
+    </li>
+
+                <li role="menuitem" class="" tabindex="-1" aria-expanded="true">
+                    <a href="/where-we-operate/" data-role="menu-button" data-target="#dropdown-5471">
+                        Where we operate
+                    </a>
+                </li>
+                <li role="menuitem" class="" tabindex="-1" aria-expanded="true">
+                    <a href="/travel-help-and-accessibility/" data-role="menu-button" data-target="#dropdown-5546">
+                        Travel help and accessibility
+                    </a>
+                </li>
+                <li role="menuitem" class="" tabindex="-1" aria-expanded="true">
+                    <a href="/about-us/" data-role="menu-button" data-target="#dropdown-5583">
+                        About us
+                    </a>
+                </li>
+                <li role="menuitem" class="" tabindex="-1" aria-expanded="true">
+                    <a href="/bus-tickets/" data-role="menu-button" data-target="#dropdown-5870">
+                        Bus tickets
+                    </a>
+                </li>
+                <li role="menuitem" class="" tabindex="-1" aria-expanded="true">
+                    <a href="/working-with-arriva/" data-role="menu-button" data-target="#dropdown-23843">
+                        Working with Arriva
+                    </a>
+                </li>
+                <li role="menuitem" class="" tabindex="-1" aria-expanded="true">
+                    <a href="/contact-us1/" data-role="menu-button" data-target="#dropdown-76528">
+                        Contact Us
+                    </a>
+                </li>
+</ul>
+
+
+                </div>
+            </nav>
+
+            <section class="primary">
+                <div class="section-primary">
+                    <div class="container">
+                        <ul class="breadcrumbs">
+
+
+
+                        </ul>
+                        
+
+
+
+
+
+
+<main class="row">
+            <aside class="content-left">
+                
+
+                
+
+    
+
+           
+            </aside>
+            <article class="content-right">
+                
+
+
+
+
+
+
+
+<!-- THIS IS THE LAYOUT CONTENT-->
+
+
+
+
+
+
+    <div class="page-heading-with-image" style="background: url(/globalassets/image-galleries/global/privacy-banner-650x250.png) no-repeat 100% 0;">
+            <hgroup>
+                <h1>Arriva Bus Privacy Policy</h1>
+                    <h2>Last updated: 23 May 2018</h2>
+            </hgroup>
+    </div>
+
+
+<div class="content-container"> 
+    <div><div>
+
+
+<div class="">
+<p>The Arriva UK Bus (”<strong>We</strong>”) are committed to protecting and respecting your privacy.</p>
+<p>This policy (together with our Website Terms of Use <a href="/link/33a2448c2bed4f32b9caaf471d526904.aspx?id=148327">www.arrivabus.co.uk/website-terms-of-use/</a> and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting <a href="/link/12901fbb779049f69b00f54873f566f8.aspx?id=5">www.arrivabus.co.uk</a>, <a href="/link/99083514e2fa4c7391184223107d1831.aspx?id=5633">www.greenline.co.uk</a>, <a href="https://tickets.arrivabus.co.uk" target="_blank">https://tickets.arrivabus.co.uk</a>, or providing your information in the circumstances described below, you are accepting and consenting to the practices described in this policy.</p>
+<p>For the purpose of the General Data Protection Regulation (the “<strong>Act</strong>”), the data controller is Arriva UK Bus Ltd of 1 Admiral Way, Doxford International Business Park, Sunderland SR3 3XP</p>
+<ol>
+<li>
+<h5>What personal data do we collect?</h5>
+<strong>Information provided by you.</strong><br> You may give us information about you by filling in forms on our site <a href="/link/12901fbb779049f69b00f54873f566f8.aspx?id=5">www.arrivabus.co.uk</a> or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our sites, download our apps, subscribe to our services, purchase tickets, register to receive email updates, register with us to use our on-bus Wi-Fi service, enter a competition, promotion or survey and when you report a problem with our sites or make a complaint. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph, geographical location, IP or MAC address or details regarding your use of your mobile device or PC (specifically when you register to use our on-bus Wi-Fi service).<br> <br><strong>Information we collect about you.</strong> <br>With regard to each of your visits to our sites or register to use our on-bus Wi-Fi services we may automatically collect the following information:<br><br>• technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;<br><br>• information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our sites (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.<br><br><strong>Information we receive from other sources.</strong> <br>We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.<br><br><strong>Sensitive personal data.</strong> <br>We will not intentionally or systematically seek to collect, store or otherwise use information about you classed as ‘special categories of data' or 'sensitive data' (for example, information relating to any trade union membership, ethnic origin or health).<br><br></li>
+<li>
+<h5>Cookies</h5>
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our sites. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy at <a href="/link/ac06dd655e6a4ddf96da6f89b091bdcf.aspx?id=52530">www.arrivabus.co.uk/cookie-policy<br><br></a></li>
+<li>
+<h5>How do we use your personal data and what is the legal basis for such processing?</h5>
+The collection of the personal data described above is usually mandatory and, if such personal data is not provided, we will not be able to provide the information, products and services to you. Where the collection of any personal data is not mandatory, we will inform you of this prior to collection, as well as the consequences of failing to provide the relevant personal data. <br><br>Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. <br><br>However, we will normally process your personal information only:<br><br>• where we have your consent to do so;<br><br>• where the processing is necessary to perform our contract with you; or <br><br>• where the processing is in our legitimate interests or those of a third party and such interests are not overridden by your data protection interests or fundamental rights and freedoms; and<br><br>• where we have a legal obligation to process your personal information.<br><br><strong>Information provided by you</strong>. We use your personal information as follows:<br><br>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Channel</strong></td>
+<td><strong>Purpose of processing</strong></td>
+<td><strong>Legal basis for processing</strong></td>
+</tr>
+<tr>
+<td>Email marketing</td>
+<td>Opting in to receive email marketing communications</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>Prize draw/giveaways/competition forms</td>
+<td>In order to fulfil prizes gifts to prize draw/giveaways/competition winners etc</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>MyArriva Account</td>
+<td>To enable you to track your services and e-commerce tickets</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>e-commerce bus tickets</td>
+<td>Account creation to make purchasing a bus ticket via the website easier and to facilitate postal fulfilment</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>Image usage</td>
+<td>In order to gain consent for image use. <br>Any images of children should obtain parental/guardian consent.</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>m-ticket</td>
+<td>Account creation to register for and use the mobile ticketing application</td>
+<td>Consent</td>
+</tr>
+</tbody>
+</table>
+&nbsp;<br><strong>Information we collect about you.</strong>&nbsp;We use your personal information as follows:<br><br>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Channel</strong></td>
+<td><strong>Purpose of processing</strong></td>
+<td><strong>Legal basis for processing</strong></td>
+</tr>
+<tr>
+<td>MyArriva Account</td>
+<td>&nbsp;</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>Wi-Fi</td>
+<td>&nbsp;</td>
+<td>Legal</td>
+</tr>
+<tr>
+<td>Google Analytics</td>
+<td>To anonymously analyse the effectiveness of our digital communications and website traffic</td>
+<td>To support our goal of providing enhanced communications.</td>
+</tr>
+<tr>
+<td>m-ticket</td>
+<td>To create and fulfil mobile tickets purchased via the m-ticket app</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>e-commerce bus tickets</td>
+<td>To fulfil tickets purchased via the website for postal delivery, print-at-home ticket or delivered to the m-ticket app</td>
+<td>Consent</td>
+</tr>
+<tr>
+<td>Journey Planning app</td>
+<td>Anonymously analyse popular trip plan requests and use of app features</td>
+<td>To support our goal of providing a punctual, desirable and efficient, operational bus service, and improving the app.</td>
+</tr>
+<tr>
+<td>Surveys</td>
+<td>Anonymously gather insights that you agree to provide</td>
+<td>Informed Consent to participate in any research will be sought prior to starting any study. All insight will be conducted under Market Research Society’s Code of Conduct.</td>
+</tr>
+<tr>
+<td>On-bus ticket machine</td>
+<td>Anonymously analyse customer journey patterns&nbsp;</td>
+<td>To support our goal of providing a punctual, desirable and efficient, operational bus service.</td>
+</tr>
+<tr>
+<td>SessionCam</td>
+<td>Our website uses SessionCam for analysis. SessionCam is a product that has been developed by SessionCam Ltd. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. We do not collect any personnel data. Recorded sessions is for Arriva UK Bus internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.</td>
+<td>You can choose to opt-out of SessionCam. Please click on the following link: <a href="https://sessioncam.com/choose-not-to-be-recorded" target="_blank">https://sessioncam.com/choose-not-to-be-recorded</a><br><br>These details are also in our Cookie Policy: <a href="/link/ac06dd655e6a4ddf96da6f89b091bdcf.aspx?id=52530">https://www.arrivabus.co.uk/cookie-policy/</a><br><br><br></td>
+</tr>
+</tbody>
+</table>
+<br><strong>Information we receive from other sources.</strong> <br><br>We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “Questions about this Privacy Notice” heading below.<br><br></li>
+<li>
+<h5>Sharing Your Information</h5>
+<br>We may disclose your personal data to the following categories of recipient for the purposes described in this Privacy Notice: <br><br>•&nbsp;Cogent Elliot, Creative agency: Prize fulfilment, image usage<br><br>•&nbsp;The NDL Group: Prize fulfilment<br><br>•&nbsp;Smoking Gun PR, PR Agency: Prize fulfilment, image usage<br><br>We may share your information with selected third parties including:<br><br>Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.Companies within the Arriva group for the performance of any contract we enter into with them or you.<br><br>Analytics and search engine providers that assist us in the improvement and optimisation of our sites.<br><br>We may disclose your personal information to third parties:<br><br>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.<br><br>If Arriva UK Bus Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.<br><br>We may also disclose your personal data to any competent law enforcement body, regulator, government agency or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation; (ii) to exercise, establish or defend or legal rights; or (iii) to protect your vital interests or those of any other person;<br><br></li>
+<li>
+<h5>Data Retention</h5>
+We will not retain your personal data for longer than is necessary to fulfil the purposes for which we collected that personal information, unless the law permits or requires that we retain it for longer. <br><br>The table below explains in more detail how long Arriva UK Bus Limited will store different types of customer information for:<br><br>
+<table border="0">
+<tbody>
+<tr>
+<td><em>Passenger Information</em></td>
+<td><em>For a period of 6 years following the end of the year in which the passenger last purchased the Customer's services</em></td>
+</tr>
+<tr>
+<td><em>Passenger details (e.g., name, address of customer etc)</em><br><br><em>(i) Prospective passengers</em><br><br><em>(ii) Current passengers</em><br><br><em>(iii) Lapsed passengers</em></td>
+<td>
+<p><em>(i) 13 months</em></p>
+<p><br><em>(ii) For the duration of the passenger's registration with the Customer and then for the period specified for lapsed passengers</em><br><br><em>(iii) For a period of 6 years following the end of the year in which the passenger last purchased the Customer's services</em></p>
+</td>
+</tr>
+<tr>
+<td><em>Passenger data</em></td>
+<td><em>For the duration of the passenger's registration with the Customer and then for a period of 6 years following the end of the year in which the passenger last purchased the Customer's services</em></td>
+</tr>
+<tr>
+<td><em>Passenger consents to Customer terms and conditions</em></td>
+<td><em>For the duration of the processing of the Personal Data and up to 6 years thereafter</em></td>
+</tr>
+<tr>
+<td><em>Passenger service enquiries</em></td>
+<td><em>3 years</em></td>
+</tr>
+<tr>
+<td><em>Statistical reports/marketing data&nbsp;</em></td>
+<td><em>Six (6) years</em></td>
+</tr>
+<tr>
+<td><em>Register of complaints</em></td>
+<td><em>Review after 2 years</em></td>
+</tr>
+<tr>
+<td><em>Correspondence and papers including emails</em></td>
+<td><em>Review after 6 years (or 10 years if the documents relate to a complaint or investigation)</em></td>
+</tr>
+<tr>
+<td><em>Competition/prize draw/ giveaway winners</em></td>
+<td><em>Winner name only will be stored indefinitely for auditing purposes.</em><br><em>90 days after receiving winner information any correspondence and additional data e.g. address, telephone number, will be destroyed.</em></td>
+</tr>
+<tr>
+<td><em>Photography consent</em></td>
+<td><em>Indefinitely or until image destruction</em></td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<h5>Information Security</h5>
+We apply appropriate administrative, technical and organisational security measures to protect your personal data that is under our control from unauthorised access, collection, use, disclosure, copying, modification or disposal. All information you provide to us is stored on secure servers. We are part of the Arriva plc Group, which trains its employees regarding our data privacy policies and procedures and permit authorised employees to access personal data on a need to know basis, as required for their role. We also take steps to ensure that any service provider that we engage to process personal data on our behalf takes appropriate technical and organisational measures to safeguard such personal data.<br><br></li>
+<li>
+<h5>Transferring Information Internationally</h5>
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country.<br><br>This means that, when we collect your personal information, it may be processed in these countries. However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this Privacy Notice.<br><br></li>
+<li>
+<h5>Updates to this Privacy Notice</h5>
+We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws. <br><br>You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.<br><br></li>
+<li>
+<h5>Your Data Protection Rights</h5>
+You have the following data protection rights:<br><br>If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us at any time at <a href="/link/0abc39e4955244759ba42f748b7af055.aspx?id=76495">www.arrivabus.co.uk/contact-us</a> <br><br>or by post to the following address:<br><br>Arriva Customer Services<br>FREEPOST ANG7624<br>Luton<br>Bedfordshire<br>LU4 8BR<br><br>In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us at <a href="/link/0abc39e4955244759ba42f748b7af055.aspx?id=76495">www.arrivabus.co.uk/contact-us</a> <br><br>or by post to the following address:<br><br>Arriva Customer Services<br>FREEPOST ANG7624<br>Luton<br>Bedfordshire<br>LU4 8BR<br><br>• If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.<br><br>•&nbsp;We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.<br><br></li>
+<li>
+<h5>Questions about this Privacy Notice</h5>
+If you have any question, concerns or complaints about this Privacy notice or our handling of your personal data, you can contact us through our customer service centre using the following online line; <br><br><a href="/link/0abc39e4955244759ba42f748b7af055.aspx?id=76495">www.arrivabus.co.uk/contact-us</a>&nbsp;<br><br>or by post to the following address: <br><br>Arriva Customer Services<br>FREEPOST ANG7624<br>Luton<br>Bedfordshire<br>LU4 8BR <br><br>If you are unsatisfied with the response, you can contact Arriva plc's Data Protection Officer at <a href="mailto:data.protection@arriva.co.uk">data.protection@arriva.co.uk</a>. <br><br>You have the right to complain to a data protection authority about our collection and use of your personal information. If you are based in the European Economic Area, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries are available on the EU Commission's website via the following link: <a href="http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm" target="_blank">http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm</a>)<br><br>The controller of your personal data is Arriva UK Bus Limited of 1 Admiral Way, Doxford International Business Park, Sunderland SR3 3XP.&nbsp;</li>
+</ol>
+</div></div></div>
+</div>
+
+
+
+
+
+                <div class="container-menu main hide" id="dropdown-5471">
+                   <div><div>
+
+<div class="row-fluid block-wrapper"><div class="span6"><div><div>
+
+<div class="block-wrapper service-region-selection">
+<h4>Choose a region</h4>
+        <ul class="list-primary">
+                <li><a href="/north-east/">North East</a>
+                </li>
+                <li><a href="/yorkshire/">Yorkshire</a>
+                </li>
+                <li><a href="/north-west/">North West</a>
+                </li>
+                <li><a href="/wales/">Wales</a>
+                </li>
+                <li><a href="/midlands/">Midlands</a>
+                </li>
+                <li><a href="/beds-and-bucks/">Beds and Bucks</a>
+                </li>
+                <li><a href="/herts-and-essex/">Herts and Essex</a>
+                </li>
+                <li><a href="/kent-and-surrey/">Kent and Surrey</a>
+                </li>
+        </ul>
+
+</div></div></div></div><div class="span6"><div><div>
+
+
+<div class="">
+<h4>We operate all over the UK</h4>
+<p>Arriva buses run in most UK towns and regions. We operate in the North West, North East, Yorkshire, Wales, the Midlands, Beds and Bucks, Herts and Essex and Kent and Surrey.<br><br>Select your region to see what services operate in your area.<br><br><br></p>
+</div></div></div></div></div></div></div>
+                </div>
+                <div class="container-menu main hide" id="dropdown-5546">
+                   <div><div>
+
+<div class="row-fluid block-wrapper"><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Arriva Bus App</h4>
+<p>With the Arriva Bus App you can find the time of the next bus, the nearest bus stop, how get somewhere. Get all the information you need in the palm of your hand.</p>
+<p><a href="/link/45724ea2c0ce4c40805ba702232dc443.aspx?id=5553"><span class="btn-primary">Find out more</span> </a></p>
+<p>&nbsp;</p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>School travel</h4>
+<p>Find out about deals for pupils who do not get free home-to-school travel</p>
+<p><a class="btn-primary" href="/link/c00d5b683f084a94a3e564052c3183d6.aspx?id=5556">Find out more</a></p>
+<h4>Senior travel</h4>
+<p>Find out more about free concessionary travel schemes.</p>
+<p><a class="btn-primary" href="/link/9d80b37db9314c5a9115615537c43196.aspx?id=24039">Find out more</a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Student travel</h4>
+<p>Arriva's&nbsp;network of service within it's regions provides many links and opportunities for travel that are ideal for students attending the universities and colleges.</p>
+<p><a class="btn-primary" href="/link/4ac8236771b141b5bdd59a6828bec97f.aspx?id=24378">Find out more</a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Making bus travel easier for customers with disabilities</h4>
+<p>Find out about how we can help make travel easier for people with disabilities, including scooter users.</p>
+<p><a href="/link/63b5e108750e4de1b5484b19da2b428f.aspx?id=25258"><span class="btn-primary">Find out more</span></a></p>
+<p>&nbsp;</p>
+</div></div></div></div></div></div></div>
+                </div>
+                <div class="container-menu main hide" id="dropdown-5583">
+                   <div><div>
+
+<div class="row-fluid block-wrapper"><div class="span4"><div><div>
+
+
+<div class="">
+<h4>Our promise and your rights</h4>
+<p>We value your custom and welcome customers from all communities that we serve. Here we have outlined the quality of service that we promise to deliver to you.</p>
+<p><a class="btn-primary" href="/link/7888d41b3cdd4d6babd97e4ea9ad53bd.aspx?id=23069">Find out more</a></p>
+</div></div></div></div><div class="span4"><div><div>
+
+
+<div class="">
+<h4>Our history</h4>
+<p>Find out about the fascinating past of your local bus company. You may be surprised to find just how long we’ve been a part of your local community.</p>
+<p><a class="btn-primary" href="/link/941646d2663644a0b2a947465ac4cb78.aspx?id=23224">Find out more</a></p>
+</div></div></div></div><div class="span4"><div><div>
+
+
+<div class="">
+<h4>Arriva Group</h4>
+<p>Arriva UK Bus is part of the Arriva group, which is owned by Deutsche Bahn. Find out more about the Arriva group and how we fit into it.</p>
+<p><a class="btn-primary" href="/link/40a166efa9054882b98d3a18a843e891.aspx?id=23244">Find out more</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div></div></div></div></div></div></div>
+                </div>
+                <div class="container-menu main hide" id="dropdown-5870">
+                   <div><div>
+
+<div class="row-fluid block-wrapper"><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Buy tickets online</h4>
+<p>You can buy multi-journey Saver tickets and Student Saver tickets quickly and securely through our online store. Choose whether to have your ticket sent to you in the post or delivered direct to your phone as an m-ticket. Some tickets are also available as Arriva Connect smartcards.</p>
+<p><a href="http://tickets.arrivabus.co.uk" target="_blank"><span class="btn-primary">Search for tickets</span> </a></p>
+<p><em>(Please note that North East, Yorkshire and North West Student Saver tickets, and North West and Wales Scholar Saver tickets are available from our new online smartcard shop from 20 August - see next column)</em></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Buy tickets on Arriva Connect smartcards</h4>
+<p>We are phasing in improvements to our online shopping experience.</p>
+<p><strong>Buy Student Saver tickets</strong> for:</p>
+<ul>
+<li>Arriva North East</li>
+<li>Arriva Yorkshire</li>
+<li>Arriva North West<br><br></li>
+</ul>
+<p>and <strong>Scholar Saver tickets</strong> for:</p>
+<ul>
+<li>Arriva North West</li>
+<li>Arriva Buses Wales<br><br></li>
+</ul>
+<p>f<strong>rom our new online smartcard store from Monday 20 August 2018</strong>.</p>
+<p><a href="https://www.arrivaconnect.co.uk" target="_blank"><span class="btn-primary">Buy now</span> </a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Arriva m-ticket app</h4>
+<p>It's a secure, quick, easy and convenient way to buy <strong>Day, Weekly, 4-Weekly, Annual and Student Saver</strong> bus tickets!</p>
+<p><a href="/link/70dbc496bca149cdbe908002bc261cdd.aspx?id=143759"><span class="btn-primary">Arriva m-ticket app</span></a></p>
+</div></div><div>
+
+
+<div class="">
+<h4>Local Shops</h4>
+<p>Purchasing bus tickets or topping-up your m-ticket account&nbsp;is now easier than ever - do it at your local shops next time you drop in for milk or to pick up a paper.</p>
+<p><a class="btn-primary" href="/link/5da53911b0484e7e80e46f2d1bf7507a.aspx?id=5870">Find out more</a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>On the bus</h4>
+<p>You can buy a selection of tickets on your Arriva bus, from single tickets, to weekly saver. Please try to remember to have the correct far as the drivers may not always have change and then all you need to do is find a seat, sit back and enjoy your journey.</p>
+<p><a class="btn-primary" href="/link/5da53911b0484e7e80e46f2d1bf7507a.aspx?id=5870">Find out more</a></p>
+</div></div></div></div></div></div></div>
+                </div>
+                <div class="container-menu main hide" id="dropdown-23843">
+                   <div><div>
+
+<div class="row-fluid block-wrapper"><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Careers in the bus industry</h4>
+<p>Our drivers make up our largest group of employees but this role is often just the beginning of someone’s career at Arriva.</p>
+<p><a class="btn-primary" href="/link/531b59b6cef243129635f579d75c1471.aspx?id=25525">Careers with Arriva</a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Apprenticeships</h4>
+<p><span id="tmpPasteIE1229602377045">Interested in Engineering? Like being hands-on? Want to work and learn? Then an Arriva Apprenticeship might be the ideal opportunity for you.<br></span></p>
+<p><a class="btn-primary" href="/link/6e59e625676a4b53ba93708a1355f5a2.aspx?id=25514">Arriva Apprenticeships&nbsp;</a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Graduate Scheme</h4>
+<p><span id="tmpPasteIE1229438087160">Our Graduate Development Programme will give you the skills to become a future business leader in an organisation that is always looking ahead.</span></p>
+<p><a class="btn-primary" href="/link/9f2cd32eb4644e8ea00c86b09735cff2.aspx?id=25500">Graduate Scheme</a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Find a job</h4>
+<p>We can offer a wide range of opportunities from drivers and supervisors to managerial and engineering roles. Find out if we have the perfect job for you.</p>
+<p><a class="btn-primary" href="/link/de17bad8139a427fbc0f148f80958f79.aspx?id=23846">View our current vacancies</a></p>
+<p>&nbsp;</p>
+</div></div></div></div></div></div></div>
+                </div>
+                <div class="container-menu main hide" id="dropdown-76528">
+                   <div><div>
+
+<div class="row-fluid block-wrapper"><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Lost Property</h4>
+<p>Find out what to do if you leave something on the bus, find something on the bus or are concerned about a suspicious package on the bus.</p>
+<p><a href="/link/eb0a1f09d6e04a8594ce482677b23e8f.aspx?id=76425"><span class="btn-primary">Lost Property</span></a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Ask Alfie!</h4>
+<p>We've made it easier for you to find out things you want to know. Simply type in your query and we'll present you with answers.</p>
+<p><a class="btn-primary" href="/link/7b37a4db323d48339e38a71fd215ef53.aspx?id=23852">Ask Alfie!</a></p>
+</div></div><div>
+
+
+<div class="">
+<h4>Chat live to our advisors</h4>
+<p>If you couldn't find your answer with Alfie, chat live with one of our friendly advisors</p>
+<p><a class="btn-primary" href="/link/3cd2d244194e48a39a604e7e5b62660f.aspx?id=23919">Chat live</a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Arriva Connect smartcards</h4>
+<p>From Thursday 16 August 2018, Arriva North East, Arriva Yorkshire and Arriva North West Student Saver tickets and Arriva North West Saver tickets from our new online smartcard store. Other smartcard tickets and tickets fulfilled through other channels will continue to be available from the existing online shop for the time being.</p>
+<p><a href="/link/063cad95d2814683bc7a9731f503f75f.aspx?id=191001"><span class="btn-primary">Arriva Connect smartcards</span> </a></p>
+</div></div></div></div><div class="span3"><div><div>
+
+
+<div class="">
+<h4>Get social</h4>
+<p>Follow us on Facebook and Twitter</p>
+<p><a href="/link/4da0a996eb8441adb408b94a5c1f1951.aspx?id=90061"><span class="btn-primary">Find us now</span></a></p>
+<h4>Advertise</h4>
+<p>Advertise your product or service on our buses and bus tickets</p>
+<p><a href="/link/b31d75dec9214aeb963e5b5243edd6e2.aspx?id=23998"><span class="btn-primary">Find out how</span></a></p>
+</div></div></div></div></div></div></div>
+                </div>
+
+
+
+
+                    <hr>
+                    <div class="social-links" style="display: none;">
+                        <span class="st_twitter_hcount" displaytext="Tweet"></span>
+                        <span class="st_facebook_hcount" displaytext="Facebook"></span>
+                        <span class="st_googleplus_hcount" displaytext="Google +"></span>
+                        <span class="st_sharethis_hcount" displaytext="ShareThis"></span>
+                    </div>
+            </article>
+
+
+</main>
+
+
+
+
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="section-secondary">
+                <nav role="navigation">
+                    <div class="container">
+                        <div class="row">
+                            
+    
+    
+
+        <div class="content-right">
+        </div>
+        <div class="content-left">
+
+<div><div>
+
+
+<div class="">
+
+</div></div></div>        </div>
+   
+
+
+
+                        </div>
+                    </div>
+                </nav>
+            </section>
+
+            <footer>
+                
+    
+    
+
+
+
+    <div class="footer">
+        <div class="container">
+            <div class="row-fluid">
+
+<div><div class="span2">
+
+
+<div class="">
+<p><img alt="DB endorsement" src="/link/57f1e80fc8e84fc88183cccc7a929c7d.aspx?id=166557" height="18" width="122"></p>
+</div></div><div class="span2">
+
+<h4>Where We Operate</h4>
+
+<ul class="list-footer fixed">
+            <li>
+                <a href="/north-east/">North East</a>
+            </li>
+            <li>
+                <a href="/yorkshire/">Yorkshire</a>
+            </li>
+            <li>
+                <a href="/north-west/">North West</a>
+            </li>
+            <li>
+                <a href="/wales/">Wales</a>
+            </li>
+            <li>
+                <a href="/midlands/">Midlands</a>
+            </li>
+            <li>
+                <a href="/beds-and-bucks/">Beds and Bucks</a>
+            </li>
+            <li>
+                <a href="/herts-and-essex/">Herts and Essex</a>
+            </li>
+            <li>
+                <a href="/kent-and-surrey/">Kent and Surrey</a>
+            </li>
+    </ul>
+</div><div class="span2">
+
+<h4>Find services and buy tickets</h4>
+
+<ul class="list-footer fixed">
+            <li>
+                <a href="/timetables-search/">Search your area</a>
+            </li>
+            <li>
+                <a href="/bus-tickets/buy-tickets/">Buy tickets online</a>
+            </li>
+    </ul>
+</div><div class="span2">
+
+<h4>Other Arriva group websites</h4>
+
+<ul class="list-footer fixed">
+            <li>
+                <a href="http://www.arriva.co.uk/" target="_blank">Arriva group</a>
+            </li>
+            <li>
+                <a href="http://www.greenline.co.uk/" target="_blank" title="Green Line">Green Line</a>
+            </li>
+            <li>
+                <a href="https://www.arrivatrainswales.co.uk/" target="_blank" title="Arriva Trains Wales | Trenau Arriva Cymru">Arriva Trains Wales | Trenau Arriva Cymru</a>
+            </li>
+            <li>
+                <a href="https://www.chilternrailways.co.uk/" target="_blank" title="Chiltern Railways">Chiltern Railways</a>
+            </li>
+            <li>
+                <a href="https://www.crosscountrytrains.co.uk/" target="_blank" title="CrossCountry">CrossCountry</a>
+            </li>
+            <li>
+                <a href="https://www.grandcentralrail.com/" target="_blank" title="Grand Central">Grand Central</a>
+            </li>
+            <li>
+                <a href="http://www.lorol.co.uk/" target="_blank" title="London Overground">London Overground</a>
+            </li>
+            <li>
+                <a href="https://www.northernrailway.co.uk/" target="_blank" title="Northern">Northern</a>
+            </li>
+    </ul>
+</div><div class="span2">
+
+<h4>The small print</h4>
+
+<ul class="list-footer fixed">
+            <li>
+                <a href="/website-terms-of-use/" target="_blank" title="Website terms of use">Website terms of use</a>
+            </li>
+            <li>
+                <a href="/privacy/">Privacy</a>
+            </li>
+            <li>
+                <a href="/about-us/conditions-of-carriage/">Conditions of Carriage</a>
+            </li>
+            <li>
+                <a href="/terms-and-conditions/">Online ticketing terms and conditions</a>
+            </li>
+            <li>
+                <a href="/cookie-policy/" title="Cookie Policy">Cookie Policy</a>
+            </li>
+            <li>
+                <a href="/wifi-welcome/arriva-wifi-terms-and-conditions/" target="_blank" title="On-bus wifi">On-bus wifi</a>
+            </li>
+            <li>
+                <a href="http://www.arriva.co.uk/~/media/Files/A/Arriva-Corporate-V2/documents/anti-slavery-statement-2017.pdf" target="_blank">Modern Slavery statement</a>
+            </li>
+    </ul>
+</div><div class="span2">
+
+<h4>Contact Arriva</h4>
+
+<ul class="list-footer fixed">
+            <li>
+                <a href="/contact-us/chat-live-to-our-advisors/" title="Live Chat">Chat to us live</a>
+            </li>
+            <li>
+                <a href="/contact-us/ask-alfie-our-virtual-travel-advisor/" title="Ask Alfie!">Ask Alfie!</a>
+            </li>
+            <li>
+                <a href="/contact-us/">Contact Form</a>
+            </li>
+    </ul>
+</div></div>
+                    <div class="span4 pull-right">
+                        <div class="my-arriva-links">
+                            <h4>My Arriva</h4>
+
+                        <p>
+                            <a id="myarriva" class=" ignorTarget " href="https://my.arrivabus.co.uk" target="_blank">
+                                My Arriva
+                            </a>
+                        </p>
+
+                            
+                        </div>
+
+                        <div class="social-footer">
+
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="span10">
+                    </div>
+                    <div class="span2">
+                        © Copyright Arriva
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+            </footer>
+
+            <div data-ng-controller="ModalMessageCtrl" data-ng-class="{ hide: !show }" class="modal hide ng-scope" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-header">
+                    <span class="modal-img"></span>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">Close</button>
+                    <a class="icon-close" data-dismiss="modal" href="#">x</a>
+                    <h3 id="myModalLabel" data-ng-bind="message.title || defaultTitle" class="ng-binding"></h3>
+                </div>
+                <div class="modal-body ng-binding" data-ng-bind-html="message.content"></div>
+                <div class="modal-body ng-binding" data-ng-bind-html="message.redirecturl"></div>
+                <div class="modal-footer">
+                    <!--<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>-->
+                </div>
+            </div>
+
+
+            <script src="/static/shared/js/jquery.mobile.custom.min.js"></script>
+            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+            <script src="/static/shared/js/angular.min.js"></script>
+            <script src="/static/shared/js/angular-app.js"></script>
+
+            <!-- JavaScript Output and Dependancies -->
+
+            <script type="text/javascript" src="/static/shared/js/lib.min.js"></script>
+            <script type="text/javascript" src="/static/shared/js/app.min.js"></script>
+            <script src="/media/js/modules/form.privacy.js"></script>
+
+            
+
+            <script type="text/javascript" src="/static/shared/js/jquery.smoothZoom.min.js"></script>
+
+            <script src="/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
+            <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
+            <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/mvc/4.0/jquery.validate.unobtrusive.min.js"></script>
+
+
+    
+
+            
+    
+            
+            <!-- Load Cookie Control -->
+<script src="https://cc.cdn.civiccomputing.com/8.0/cookieControl-8.0.min.js" type="text/javascript"></script>
+<style>
+    #ccc, #ccc p, #ccc .third-party-cookie-link {
+        font-size: 1em !important;
+    }
+</style>
+<script type="text/javascript">
+    var config = {
+        apiKey: '1ca74ea854c7b1ca77230ce27d94d0553cb11d6c',
+        product: 'PRO_MULTISITE',
+        text: {
+            thirdPartyTitle: 'Warning: Some cookies require your attention',
+            thirdPartyDescription: 'Consent for some third party cookies can not be automatically revoked. Please follow the link below if you want to opt out of them.'
+        },
+
+        optionalCookies: [
+            {
+                name: 'optional',
+                label: 'Optional Functionality',
+                description: 'There are some features on the site which can improve your experience, but are not necessary for the purchase of tickets.',
+                cookies: arrOptionalFuncCookies,
+                initialConsentState: "on",
+                onAccept: function () {
+                    for (var i = 0; i < arrOptionalFuncOnAccept.length; i++) {
+                        arrOptionalFuncOnAccept[i]();
+                    }
+                },
+                onRevoke: function () {
+                    for (var i = 0; i < arrOptionalFuncOnRevoke.length; i++) {
+                        arrOptionalFuncOnRevoke[i]();
+                    }
+                },
+                thirdPartyCookies: [{ "name": "ShareThis", "optOutLink": "https://www.sharethis.com/privacy/" }]
+            },
+            {
+                name: 'analytics',
+                label: 'Analytical Cookies',
+                description: 'Analytical cookies help us to improve our website by collecting and reporting information on its usage.',
+                cookies: arrAnalyticsCookies,
+                initialConsentState: "on",
+                onAccept: function () {
+                    for (var i = 0; i < arrAnalyticsOnAccept.length; i++) {
+                        arrAnalyticsOnAccept[i]();
+                    }
+                },
+                onRevoke: function () {
+                    for (var i = 0; i < arrAnalyticsOnRevoke.length; i++) {
+                        arrAnalyticsOnRevoke[i]();
+                    }
+                },
+                thirdPartyCookies: [{ "name": "LetsJoin", "optOutLink": "http://www.letsjoin.com/#!/privacy" }]
+            },
+            {
+                name: 'marketing',
+                label: 'Marketing Cookies',
+                description: 'We use marketing cookies to help us improve the relevancy of advertising campaigns you receive.',
+                cookies: arrMarketingCookies,
+                initialConsentState: "on",
+                onAccept: function () {
+                    for (var i = 0; i < arrMarketingOnAccept.length; i++) {
+                        arrMarketingOnAccept[i]();
+                    }
+                    CookieConsent.category.marketing.onAccept();
+                },
+                onRevoke: function () {
+                    for (var i = 0; i < arrMarketingOnRevoke.length; i++) {
+                        arrMarketingOnRevoke[i]();
+                    }
+                    CookieConsent.category.marketing.onRevoke();
+                },
+                thirdPartyCookies: [
+                    { "name": "Google Ads", "optOutLink": "http://www.google.com/settings/ads" },
+                    { "name": "Facebook Ads", "optOutLink": "https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen" },
+                    { "name": "Twitter Ads", "optOutLink": "https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads" }
+                ]
+            }
+        ],
+        initialState: 'NOTIFY',
+        position: 'LEFT',
+        theme: 'DARK',
+        branding: { fontColor: "#FFF", fontSizeTitle: "1.2em", fontSizeIntro: "1em", fontSizeHeaders: "1em", fontSize: "0.8em", backgroundColor: "#06494b", toggleText: "#fff", toggleColor: "#c9db30", toggleBackground: "#003134", buttonIcon: null, buttonIconWidth: "64px", buttonIconHeight: "64px", removeIcon: false, removeAbout: true }
+    };
+
+    CookieControl.load(config);
+</script>
+        
+    
+</body></html>
