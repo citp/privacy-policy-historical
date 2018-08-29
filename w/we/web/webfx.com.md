@@ -1,48 +1,132 @@
-> *The following text is extracted and transformed from the webfx.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726123706id_/http%3A//www.webfx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfx.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829085434id_/https%3A//www.webfx.com/privacytermsofuse.htm) for the most accurate reproduction.*
 
-# Privacy Policy for eCommerce Company - WebFX
+# Website Privacy Policy & Terms of Use
 
-## Privacy Policy
+### Privacy Policy
 
-This Privacy Policy lets you know how your personal information is processed and used. We will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, and opt-in announcement lists owned and operated by WebFX, Inc. (“WebFX”). (The WebFX Network includes all Websites and certain other Internet media properties hyper linked from the WebFX corporate Website.) The following discloses our Privacy Policy.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.webfx.com (the “Site”).
 
-**What information are you collecting and how are you collecting it?**  
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" or IP address. When a visitor requests a page from any Web site within the WebFX Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site.
+#### PERSONAL INFORMATION WE COLLECT
 
-Our Web servers also collect information about the type of Internet browser you are using, operating system, as well as which of WebFX's Web pages you have accessed. This information is used to help our team develop Websites to display properly for the majority of our visitors.
+When you visit the Site, we automatically collect certain information about your device, including, but not limited to, information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-Our Web servers do not automatically record e-mail addresses of the visitors.
+We collect Device Information using the following technologies:
 
-**Does WebFX use cookies?**  
-Yes, WebFX uses cookies. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. Cookies are often used to provide you with a customized experience. At no time is any personal information stored within one of our cookies.
+“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-Accepting cookies through your browser is a personal choice. You can still enjoy WebFX's Web sites if you choose not to accept cookies.
+“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-**What information do you collect when I complete the "Contact Us or Quote" form?**  
-The "Company Name", "Name" and "Email" fields are required to complete the form. This information is used to aid our Business Development team respond to your request and provide you with information about WebFX’s products, services, and quotation requests.
+“Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-Your email address may be entered to receive WebFX’s electronic quarterly Newsletter. You can un-subscribe to this Newsletter at anytime.
+Additionally, when you utilize a form or attempt to utilize a form through the Site, we collect certain information from you, including, but not limited to, your name, website URL, email address, company name, and phone number. We refer to this information as “Form Information.”
 
-If you are a client of WebFX, you may receive email announcements relating to service upgrades or interruptions, which may affect your Website, should you host with WebFX.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Form Information.
 
-**Will you disclose the information you collect to outside third parties?**  
-WebFX will not sell or otherwise provide the information we collect to outside third parties for the purpose of direct or indirect mass email marketing.
+#### HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-  1. WebFX will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to: Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on WebFX,
-  2. Protect and defend the rights or property of the WebFX Network of sites and related properties, or visitors to the WebFX Network of sites and related properties,
-  3. Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the WebFX Network or its related properties
+We use the Form Information that we collect generally to contact people who willingly reached out through the Site (Additionally, we use this Form Information to:
+
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
+When in line with the preferences you have shared with us, provide your information with 3rd parties
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+#### SHARING YOUR PERSONAL INFORMATION
+
+  * We share your Personal Information with third parties to help us use your Personal Information, as described above. We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of WebFX's terms of use, or as otherwise required by law.
+  * Business Transfers: As we continue to develop our business, we might sell or buy services, stores, or assets. In such transactions, visitor information is usually one of the transferred business assets. Also, in the unlikely event that WebFX is acquired, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+  * Credit card information will never be disclosed by WebFX and follow the conditions of use established by Visa, Mastercard, Discover, Amex, and PayPal. 
 
 
 
-**What safeguards are in place?**  
-WebFX is obligated to protect your personal information by making reasonable security arrangements against such risks as unauthorized access, use, collection, disclosure or disposal. Security measures have been integrated into the design, implementation and day-to-day operating practices as part of WebFX's commitment to protect the personal information it holds.
+#### BEHAVIOURAL ADVERTISING
 
-**What else should I know about my privacy when online?**  
-The WebFX Network contains many hyperlinks to third party Websites. WebFX is not responsible for the privacy practices or the content of such third party Web sites or advertisers. WebFX does not share any of the individual personal information you provide WebFX with the third parties to which WebFX links. Please check with those Websites to determine their privacy policy.
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+You can opt out of targeted advertising by:
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+FACEBOOK - https://www.facebook.com/settings/?tab=ads  
+GOOGLE - https://www.google.com/settings/ads/anonymous  
+BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads 
 
-**Consent To This Agreement**  
-By using the WebFX Network, you consent to the collection and use of information by WebFX as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+#### DO NOT TRACK
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser. 
+
+#### YOUR RIGHTS
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including, but not limited to, Canada and the United States.
+
+#### DATA RETENTION
+
+When you fill out a web form through the Site, we may maintain your Form Information for our records unless and until you ask us to delete this information.
+
+#### CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+#### CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by mail using the details provided below:
+
+WebpageFX Inc.  
+Attn: Legal Department  
+1705 N FRONT ST  
+Harrisburg, PA, 17102  
+United States  
+
+
+### Terms of Use 
+
+#### Acceptance of These Terms of Use
+
+Use of the Site is subject to the following Terms of Use. By navigating within the Site, or clicking on any object on the Site, you are agreeing to these Terms of Use. We reserve the right to update the Terms of Use at any time as the need arises without any notice to you. You can review the Terms of Use at any time by clicking on the “Privacy and Terms of Use” link at the bottom of this Site’s web pages.
+
+#### Terms of Service, Notices, and Revisions 
+
+If you choose to visit WebFX, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Pennsylvania. If you have any concern about privacy at WebFX, please send us a thorough description to info@webfx . com, and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. You should check our website frequently to see recent changes. 
+
+#### Newsletters 
+
+We send newsletters to you and will not sell your email address to 3rd parties. You may choose to opt-out of the newsletter at any time by following the unsubscribe instructions in each newsletter or by contacting us directly. By default all contact from our website is entered into our CRM and newsletter distribution list. If you would prefer not to be added to our email distribution list, please specify this in the body of email or contact from submission to us.
+
+#### Copyright and Trademarks
+
+The content included on the WebFX.com site – including all text, images, videos and other media, as well as the design and styling of all content – are exclusively owned by WebpageFX, Inc. or by third parties who have given their permission for use by WebpageFX, Inc. Copyright by WebpageFX, Inc. or such third parties of all such content is explicit by its appearance on the WebFX.com site. 
+
+The following Trademarks are exclusively owned by WebpageFX, Inc. 
+
+WebFX®, WebpageFX®, DIGITAL MARKETING THAT DRIVES RESULTS® 
+
+#### Permitted Use
+
+Visitors to this website are granted permission to access this material, to download and copy such material on to electronic, magnetic, optical or similar storage media and to make printed copies of any such downloaded material, provided that such activities and copies are for non-commercial use only and that the following conditions are met: 
+
+\- Trademarks must be faithfully reproduced with their appropriate marks as shown above
+\- You may link to WebFX.com using appropriate text such as "… as found on WebFX.com" or by seeking permission for the link
+\- Your use may not be obscene or defamatory or libelous to WebFX.com or WebpageFX, Inc.
+\- You must properly cite WebFX.com as the source.
+
+
+#### Restricted Use 
+
+Visitors to this website may not copy, distribute, screen shot, reproduce, sell or publish any of the copyright material downloaded or copied from this website. For the avoidance of doubt, no permission is given for the transfer of any of this material to an open internet site. For permission, please contact info@webfx.com. WebFX monitors the web closely for violations of our use policy. Design Trademarks or stylized versions of Trademarks are not permitted for use except by written permission from WebpageFX, Inc.
+
+#### Reporting Violations
+
+If you become aware of any violations of Copyrights, Trademarks or other Intellectual Property in connection with the Site, whether owned by the Site Owners or Third Parties, please contact:
+
+WebpageFX Inc.  
+Attn: Legal Department  
+1705 N FRONT ST  
+Harrisburg, PA, 17102  
+United States  
+
