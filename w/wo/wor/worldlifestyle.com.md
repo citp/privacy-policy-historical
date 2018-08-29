@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627022851id_/http%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829053732id_/https%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -133,11 +133,11 @@ We reserve the right to update, amend and/or change this Privacy Policy at any t
 
 **Contacting Us**
 
-If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at any of the following: [legal@worldlifestyle.com](mailto:legal@worldlifestyle.com).
+If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at any of the following: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ff939a989e93bf88908d939b9396999a8c8b86939ad19c9092).
 
 **SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at: [legal@worldlifestyle.com](mailto:legal@worldlifestyle.com)
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca0a9abada08cbba3bea0a8a0a5aaa9bfb8b5a0a9e2afa3a1)
 
 * * *
 
