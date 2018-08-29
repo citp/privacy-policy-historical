@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4minuteabs.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917110925id_/http%3A//www.4minuteabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4minuteabs.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829114416id_/http%3A//www.4minuteabs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hunter Fitness Company
 
