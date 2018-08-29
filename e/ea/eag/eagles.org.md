@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eagles.org privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419205151id_/https%3A//www.eagles.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagles.org privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829054416id_/https%3A//www.eagles.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - American Eagle Foundation
-
-## Privacy Policy
+# Privacy Policy – American Eagle Foundation
 
 Your privacy is important to the American Eagle Foundation (“we” or “us”). This privacy practices statement (“Privacy Policy”) applies to the American Eagle Foundation website [www.eagles.org](https://www.eagles.org/) (the “Website”) and is designed to explain what types of information is gathered, tracked and how this information is used. Please note that this Privacy Policy does not apply to third party websites (“Third Party Services”) that the American Eagle Foundation does not control, including, but not limited to Facebook, Twitter, Pinterest, Instagram and Google+, even if you access them through the Website. It also does not apply to any Third Party Services embedded on our website (such as Chatroll, live-streaming webcams). While we try to only work with Third Party Services that share our respect for your privacy, we cannot take responsibility for their practices, content, or privacy policies. We encourage you to carefully review the privacy policies of any Third Party Services you access so that you know how they will use and share your information. Additionally, this Privacy Policy does not apply to the practices of people that the American Eagle Foundation does not employ or manage. This Privacy Policy applies solely to information collected by the Website.
 
@@ -134,7 +132,5 @@ We retain the right to change this Privacy Policy at any time and without prior 
 ### Privacy Policy Effective Date
 
 This Privacy Policy is effective May 2016.
-
-Copyright © 2016 by American Eagle Foundation and all rights are reserved.
 
 Scroll to top
