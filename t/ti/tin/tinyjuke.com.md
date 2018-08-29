@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyjuke.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701230157id_/http%3A//www.tinyjuke.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyjuke.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830011017id_/http%3A//tinyjuke.co/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TinyJuke
 
@@ -8,6 +8,6 @@ Information may be collected from you in various ways when you use this site. We
 
 We use unique identifiers to measure usage and analyze trends, administer the site and collect information for its databases. For more information visit [Google Analytics Privacy Policy](http://www.google.com/intl/en/policies/privacy/) and [AddThis Privacy Policy](http://www.addthis.com/privacy).
 
-Third-party websites or services linked to this site are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. TinyJuke.com is not responsible for the privacy practices of the third-party websites and companies or what they do with your information. You should make sure their privacy policy is acceptable to you. You may opt-out of third-party advertising cookies through the Network Advertising Initiative (NAI) website [www.networkadvertising.org](http://www.networkadvertising.org/choices/).
+Third-party websites or services linked to this site are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. TinyJuke.co is not responsible for the privacy practices of the third-party websites and companies or what they do with your information. You should make sure their privacy policy is acceptable to you. You may opt-out of third-party advertising cookies through the Network Advertising Initiative (NAI) website [www.networkadvertising.org](http://www.networkadvertising.org/choices/).
 
 We may also update this Privacy Policy from time to time, and consider your information accordance with the version that was in place when you submitted it.
