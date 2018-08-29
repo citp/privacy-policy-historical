@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maltapark.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325115615id_/http%3A//www.maltapark.com/Terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maltapark.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829225655id_/http%3A//www.maltapark.com/info/privacypolicy) for the most accurate reproduction.*
 
-# 
+# PrivacyPolicy | Maltapark
 
   
 
@@ -63,4 +63,4 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 11/2/2013
+This policy was last modified on 11/2/2013 
