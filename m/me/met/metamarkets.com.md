@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the metamarkets.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118222703id_/https%3A//metamarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metamarkets.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829023039id_/https%3A//metamarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metamarkets
 
 ## Metamarkets Group, Inc. Privacy Policy
 
-Last Updated: August 26, 2011
+Last Updated: May 24, 2018
 
-Welcome to our Web site, www.metamarkets.com (the “Site”), owned by Metamarkets Group, Inc. (“Metamarkets,” “we,” or “us”). This privacy policy describes what information we collect from users of our Site, other than through the “Client Login” portal, and how we use such information. By using our Site, you consent to the data collection and use practices described below. Please be aware that this Privacy Policy and the choices you make on this Site will not necessarily apply to personal information you may have provided to Metamarkets in the context of other, separately operated, Metamarkets products or services, including the “Client Login” portal on the Site.
+Welcome to our Web site, www.metamarkets.com (the “Site”), owned by Metamarkets Group, Inc. (“Metamarkets,” “we,” or “us”). This privacy policy describes what information we collect from users of our Site and how we use such information. By using our Site, you consent to the data collection and use practices described below.
 
 ## Personal Information
 
@@ -24,13 +24,17 @@ Also, please be aware that third parties may set cookies on your hard drive or u
 
 ## Collection of Voluntarily Provided Information
 
-We collect personal information that our users provide to us in a variety of ways on the Site. For instance, when you request information about our services or otherwise communicate with us, we collect the personal information that you provide to us. We may collect personal information such as name, e-mail address, city, state, country, other demographic information, and your interests and preferences in these manners. Information from Other Sources We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
+We collect personal information that our users provide to us in a variety of ways on the Site. For instance, when you request information about our services or otherwise communicate with us, we collect the personal information that you provide to us. We may collect personal information such as name, e-mail address, city, state, country, other demographic information, and your interests and preferences in these manners. 
+
+## Information from Other Sources
+
+We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
 
 ## Use of Personal Information
 
 We use personal information to provide services and information that you request; to enhance, improve, operate, and maintain the Site and services; to prevent fraudulent use of our Site and services; to tailor your user experience; to maintain a record of our dealings with you, and for other administrative purposes.
 
-We may also use personal information you provide to contact you regarding our products, services, and offers that we believe you may find of interest. If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You also may opt-out from receiving marketing communications from us by sending your request to us by email at info@metamarkets.com or by postal mail at the mailing address given at the end of this policy.
+We may also use personal information you provide to contact you regarding our products, services, and offers that we believe you may find of interest. If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email.
 
 ## Disclosure of Personal Information
 
@@ -52,11 +56,11 @@ Children’s safety is important to us, and we encourage parents and guardians t
 
 ## International Visitors
 
-Our Site is hosted in the United States and is generally intended for the United States visitors. If you visit from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please be aware that you are transferring personal information to the United States. The United States does not have the same data protection laws as the EU and some other regions. By providing personal information to us, you consent to the transfer of it to the United States and the use of it in accordance with this policy.
+Our Site is hosted in the United States and is generally intended for the United States visitors. If you visit from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please be aware that you are transferring personal information to the United States. The United States does not have the same data protection laws as the EU and some other regions. By providing personal information to us, you consent to the transfer of it to the United States and the use of it in accordance with this policy. If you need to access or delete the personal information that we may have, you can email a request to [info@metamarkets.com](mailto:info@metamarkets.com). Because your privacy is important to us, we may ask you to verify your identity before we let you access your personal information. 
 
 ## Security
 
-We use reasonable security measures that are designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information. You transmit personal information to us at your own risk.
+We use reasonable security measures that are designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information. You transmit personal information to us at your own risk.  
 
 ## Updates to This Policy
 
@@ -67,6 +71,6 @@ We may occasionally update this policy. When we do, we will also revise the “l
 If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information:
 
 **Metamarkets Group Inc.**  
-625 2nd Street, Suite #230  
-San Francisco, CA 94107  
+430 Pacific Ave, First Floor  
+San Francisco, CA 94133  
 info@metamarkets.com
