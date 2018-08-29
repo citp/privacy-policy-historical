@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the union.co privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714132323id_/https%3A//union.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the union.co privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829062318id_/https%3A//union.co/privacy) for the most accurate reproduction.*
 
 # Privacy | Union
 
