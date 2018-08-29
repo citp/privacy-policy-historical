@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224162430id_/http%3A//www.harrywinston.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829023715id_/http%3A//www.harrywinston.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harry Winston
+
+If you are an E.U. user please read the [E.U. Privacy Notice](https://web.archive.org/en/privacy-notice) in compliance with GDPR. If you are a non-E.U. user please refer to the below Privacy Policy.
+
+* * *
 
 Harry Winston knows that your privacy is important to you, and we want you to know that it is important to us too. We created this Privacy Policy (“Privacy Policy”) to explain the types of information we collect through our Web sites (on which it is linked to in the footer) and the various social networking platforms that we use (each, a “Website”). This Privacy Policy does not apply to information that we collect offline, such as in our retail salons. This Privacy Policy describes how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses of your information.
 
