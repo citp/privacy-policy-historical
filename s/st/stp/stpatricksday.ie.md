@@ -1,68 +1,150 @@
-> *The following text is extracted and transformed from the stpatricksday.ie privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618205120id_/http%3A//www.stpatricksday.ie/cms/home_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpatricksday.ie privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829123655id_/https%3A//www.stpatricksfestival.ie/privacy) for the most accurate reproduction.*
 
-# Official St. Patrick's Festival 2007, 15th - 19th March Dublin, Ireland
+# St. Patrick’s Festival 2019. 14th - 18th March. Dublin, Ireland
 
-Privacy Policy
+This privacy policy recognises our obligations under the General Data Protection Regulation (GDPR) which comes into effect on 25 May 2018. 
 
-The organisers of St. Patrick's Festival respect your right to privacy and our Privacy Policy is designed to inform you of the methods and purposes for which we gather and use your data.
+## Who We Are
 
-**Information Collected by St. Patrick's Festival**  
-Each time you visit the website, two general levels of information about your visit may be retained by us: 1) non-personal information and 2) personal information. 
+St. Patrick’s Festival is a registered charity, charity number 11729 and is company limited by guarantee, not having a share capital. The principal aim of St. Patrick’s Festival, since its inauguration, is to develop a major annual international festival around Ireland’s national holiday. 
 
-**1) Non-personal Information**  
-Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to this site. This includes pages viewed, date and time, and browser type. IP numbers are not stored, but are temporarily used to determine domain type and in some cases, geographic region. We use this information to get a better understanding of where our visitors come from and to help us better design and organize our website. We do not make any association between this information and a visitor's identity.
+## Types of Data We Collect
 
-**2) Personal Information**  
-Personal information is information that is personal or particular to a specific visitor who chooses to provide that information. This category would typically include information provided by you for subscriptions, competitions, online surveys, or applications including your name, postal and email address and contact phone number.
+When you visit our website you can do so without submitting any personal data. However, if you wish to receive our newsletter, book tickets, purchase merchandise, join our volunteer programme or become a member of our friends scheme you will be asked to register with us. This involves submitting the following: 
 
-**Purposes for which we hold your data**  
-We keep your personal and non-personal data for the following purposes: 
-
-  1. To communicate with you and provide you with marketing and festival information
-  2. To personalise our correspondence with you
-  3. To establish how to improve our service to you
-  4. To notify you of competitions or other promotions
-  5. For the performance of any request by you
+  * Name
+  * Address
+  * Phone number
+  * Email address 
+  * Credit card details (when applicable).
 
 
 
-By entering your details into the fields requested, you enable St. Patrick's Festival to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. St. Patrick's Festival does not collect personal information from you unless you provide it to us. This means that you can visit our site without telling us who you are or revealing any personally identifiable information about yourself.
+When you sign up for our newsletter via our website, your name and email address is stored on Mailchimp.  
+When you sign up or purchase anything else, your information will be stored by our ticketing partner, Ticketsolve and is used to process your order and to provide you with the purchase/service you have requested.
 
-St. Patrick's Festival will act in accordance with current legislation and aim to meet current Internet best practice.
+Ticketsolve acts as a data processor on behalf of St. Patrick’s Festival.  
+If you have provided credit card details, these will only be used for the purpose of handling an individual booking or order. When you book tickets, data is shared between Realex (payment gateway) and Ticketsolve (ticketing platform) in order to process the transaction.  
+You will also be asked if you wish to receive information from St. Patrick’s Festival. If you choose to receive information from us, your data will be shared with Mailchimp (our email partner). Your decision to have further communications from us is recorded and adhered to. You can change your preference for communication with St. Patrick’s Festival at any point which will be recorded immediately.   
+Your record on our database system holds the contact details you submitted to us, transactions you’ve made, a record of communications we would have sent to you, and whether or not you have given us permission to contact you. If you would prefer to have your booking history removed from our database, please email [info@stpatricksfestival.ie](mailto:info@stpatricksfestival.ie) and we will remove it immediately. You can also unsubscribe from receiving mailings you receive from us by clicking ‘unsubscribe’ at the bottom of the email.
 
-**Transfer of Data**  
-Your data will be held by St. Patrick's Festival. We will share non-personal information with our advertisers and business partners. We will only share personal information with our business partners if we are satisfied that it will only be used in accordance with the purposes described above. 
+St. Patrick’s Festival, Ticketsolve, Mailchimp and Realex have implemented appropriate technological measures to protect against accidental loss, destruction, damage, alteration or disclosure.
 
-We will also disclose your personal information if we are legally required to do so or if it is reasonably necessary to protect and defend the rights or property of St. Patrick's Festival.
+For more information, please see their privacy notices here:
 
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, and processing credit card payments. These companies have access to personal information needed to perform their functions, but may not use it for other purposes.
+**Ticketsolve Privacy Notice**  
+<https://www.ticketsolve.com/privacy-policy/>
 
-**Security**  
-Your personal data is held on a secure server hosted by Dreamhost and is not publicly accessible. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, St. Patrick's Festival cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we use our reasonable commercial efforts to ensure its security on our systems. Furthermore, personally identifiable information is only accessed by St. Patrickâ€™s Festival employees on a "need to know" basis. St. Patrick's Festival meets or exceeds all industry standards for the protection of personally identifiable information. 
+**Mailchimp Privacy Notice**  
+<https://mailchimp.com/legal/privacy/>
 
-**Choice/Opt-out**  
-If you have registered to receive e-mail communications from us and later change your mind, you may contact us to have your name removed from our distribution lists. You have the following options to do this: 
+**Realex Privacy Notice**  
+<https://www.globalpaymentsinc.com/en-ie/accept-payments/ecommerce/privacy>
 
-You can send an e-mail to unsubscribe@stpatricksday.ie
+### Why We Collect Data on Our Customers?
 
-You can send mail to the following address:
+Collecting data on our customers informs us on how best to communicate with you and inform you about events. It assists us to present information and special offers regarding St. Patrick’s Festival that we deem may be of interest to you based on your transaction history. This information helps us understand more about who our audiences are and what their preferences may be. This information helps us make decisions around the conduct of our business.
 
-St. Stephen's Green House  
-Earlsfort Terrace  
-Dublin 2  
-Ireland 
+## How We Collect Information
 
-**Correct/Update**  
-If you would like to verify the data we have received from you or to make corrections to it, you may contact us directly at the e-mail and mail addresses provided above. 
+Your data is collected in the following ways with your consent: 
 
-**Links**  
-This site may contain links to other Web sites. Please note that when you click on one of these links, you are entering another site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. 
+  * When you purchase a ticket (or tickets), merchandise or sign up to membership of our Friends Scheme online, by phone or in person from St. Patrick’s Festival Box Office, your name, address, email and contact number will be stored on our Box Office system, Ticketsolve. Please be assured that we do not share your personal details with any other company without your consent.
+  * When you sign up for our e-newsletter, your name, address, email and contact number will be stored.
+  * If you contact us to let us know you want to receive information from St. Patrick’s Festival about upcoming events your name, address data, email and contact number will be stored on our Box Office system, Ticketsolve.
 
-**E-mail Links**  
-We use e-mail links located on this site to allow you to contact us directly via e-mail. We use the information provided in your e-mail to respond to your questions or comments. We may also store your comments for future reference. Your personal information is only shared with third parties with your explicit permission. 
 
-**Legal Disclaimer**  
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on St. Patrick's Festival. 
 
-**For more information**  
-If you have any questions, concerns or comments, please e-mail info@stpatricksday.ie 
+### How We Use Your Information and the Legal Basis
+
+We use and share your data where:
+
+  * You have agreed or explicitly consented to the using of your data in a specific way (you may withdraw your consent at any time)
+  * We use it where necessary in order to provide the product, ticket or service you have requested/purchased. 
+  * We use it where necessary because we have to comply with a legal obligation
+  * We use for legitimate interests (which you have the right to object to)
+
+
+
+## How Your Personal Data is Kept Confidential
+
+We have measures in place that limits the access to your information. Only those employees who need to come into contact with that data, to provide products and services to you, will do so. Our database system has strict security measures in place and all activity on your record is password protected.
+
+## Cookies 
+
+St. Patrick’s Festival makes use of ‘cookies’ which are small text files placed on your computer or mobile device that enable us to track certain information relating to your use of the St. Patrick’s Festival’s website. 
+
+Cookies allow a site to know if your computer or device has visited that site before. Cookies can then be used to help understand how the site is being used, help you navigate between pages efficiently, help remember your preferences, and generally improve your browsing experience. 
+
+When you use the St. Patrick’s Festival website we use Google Analytics to collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of our website, types of devices used and the length of time on web pages.  
+You may be able to configure your web browser to prevent the use of cookies but this may result in the disabling of certain functionalities and features of our website.  
+The table below explains the cookies we use and why:-
+
+### Cookie Name & Purpose
+
+**exp_last_visit** :| Sets the date-time that the user last visited the site, and is set for both guests and logged in users. If not set, is automatically set to 10 years ago. Affects guests and logged in users.  
+---|---  
+**exp_tracker** :| Tracks the last 5 pages viewed by the user, and is used primarily for redirection after logging in etc. Affects guests and logged in users.  
+**exp_last_activity** :| Every time the state is updated (the page reloaded) the last activity is set to the current datetime. Used to determine expiry. This is essential for logged in users, but not for guests - it is set for both.  
+**exp_sessionid** :| A uniquely generated ID that corresponds to the session_id column in the exp_session table. Used when cookie and session are set as the session type. Used only for logged in members.  
+**exp_uniqueid** :| Matches the unique_id field in the exp_members table. Randomly generated by the functions class at registration. Used only for logged in members.  
+**exp_userhash** :| The encrypted password of the currently logged in user. Set if you choose the cookies and session ID method for sessions (cs in your config.) Used only for logged in members.  
+**exp_anon** :| A flag set by the user to determine if they are listed in the online users.  
+**exp_expiration** :| Determines the length of the session for a logged in user. There are two options for this cookie: if the user has selected remember me then it is set to 1 year, and if not then it’s set to the datetime that the user logged in. Used only for logged in members.  
+**__utmt** :| Used to throttle request rate.  
+**__utma** :| Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+**__utmb** :| Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+**__utmc** :| Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit  
+**__utmz** :| Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
+  
+### Google Analytics
+
+We use Google Analytics to determine how popular components of our website are, to determine if you have been to the website before and to securely and anonymously record the value of any purchases you make on our website. Google analytics sets cookies which will stay active for a number of years and identify on your computer that you have visited our website.
+
+These cookies can be identified by their prefix of __u…. You can opt out of being tracked by Google Analytics across all websites you visit by installing a browser plugin at <http://tools.google.com/dlpage/gaoptout?hl=en>.
+
+### How to Control Cookies
+
+You can control and/or delete cookies as you wish – for details, see aboutcookies.org. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+### Record Retention Periods
+
+Type of Data / Record /| Retention Period  
+---|---  
+Customer Data   
+Customer Data on Ticketsolve| Removed after 3 years of inactivity|  
+Customer Data on Mailchimp| Removed after 3 years of inactivity  
+Personnel  
+Financial/accounts records| 7 years  
+Audit reports/End of year financial statements| 7 years  
+Tax records| 7 years  
+Health & Safety Records| 10 years  
+Staff records| 7 years (after termination of employment)  
+Recruitment (records and interview notes from unsuccessful applicants)| 12 months  
+  
+## Access to your Personal Data (Subject Access Requests)
+
+You are entitled to view, amend or delete the personal information that we hold. Please email your request to [info@stpatricksfestival.ie](mailto:info@stpatricksfestival.ie).  For security reasons we will ask you to provide proof of identification.   
+You have the right to rectify or delete inaccuracies in your personal data and to object to the processing of your personal data. You also have the right to withdraw consent for us to hold your personal data at any time, where the legal basis for processing is consent.
+
+We will deal with any subject access requests within 30 days. There will be no charge for any reasonable ‘Subject Access Requests’.
+
+## Contact Information
+
+**Address:**
+
+St. Patrick’s Festival 
+
+Internet House,
+
+26 Temple Bar,
+
+Dublin 2,
+
+D02 E838
+
+**Telephone Number:** 01 6040090  
+**Email:**[[info@stpatricksfestival.ie](mailto:info@stpatricksfestival.ie)](mailto:info@stpatricksfestival.ie)
+
+  
+This Privacy Policy will be reviewed and updated from time to time. This version was adopted on 14th May, 2018.
