@@ -1,129 +1,186 @@
-> *The following text is extracted and transformed from the adaptiveinsights.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161006id_/https%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptiveinsights.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829021404id_/https%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Adaptive Insights
 
-**Last Updated: 05/9/2017**
+**Last Updated: 25 May 2018**
 
-Adaptive Insights, Inc., (“Adaptive”, “Adaptive Insights”) has created this Privacy Policy (the “Policy”) to describe how we collect, use and disclose the information that we obtain from our users through the Adaptive Insights website(s) (the “Site”), [www.adaptiveinsights.com](http://www.adaptiveinsights.com/), and the data we collect through the services we provide (“Services”) to our customers (“Customers”), for which we are the data processor. This Policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. By visiting the Site and using any Adaptive Services, you signify your explicit consent to the terms and conditions of this Policy.
+[](https://privacy.truste.com/privacy-seal/validation?rid=e750a964-9f37-4a00-bc3b-5d3c2107a1bc "TRUSTe Privacy Certification") [](https://privacy.truste.com/privacy-seal/validation?rid=d2cf7a9f-4d6c-460e-84ba-8f238842baa1 "TRUSTe Privacy Certification")
 
-The use of information collected through our Services shall be limited to the purpose of providing the specific Service for which the Customers have engaged Adaptive Insights.
+Adaptive Insights Inc. (referred to as “Adaptive,” “Adaptive Insights,” “we,” “us,” and “our”) respects your right to privacy.
 
- **APEC Participation**
+This Privacy Notice explains who we are, how we collect, share, and use personal data about you, and how you can exercise your privacy rights. This Privacy Notice only applies to personal information that we collect about visitors to our websites at [www.adaptiveinsights.com](https://www.adaptiveinsights.com/), [www.adaptiveinsights.fr](https://www.adaptiveinsights.fr/) and other Adaptive Insights' websites that link to this Privacy Notice (“ **Sites** ”) as well as personal information that we collect when you use or interact with the services we provide to our customer (“ **Services** ”). This Notice also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-The Adaptive Insights privacy practices, described in this Policy, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx). The APEC certification does not apply to instances where we process data on behalf of clients for their benefit, such as when we act as a data processor.
+If you have any questions or concerns about our use of your personal information, please contact us using the contact details provided at the bottom of this Privacy Notice. 
 
- **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
+### Quick links
 
-Adaptive Insights and its UK subsidiary company, Adaptive Insights Limited, participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Adaptive Insights is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+We recommend that you read this Privacy Notice in full to ensure you are fully informed. However, if you only want to access a particular section of this Privacy Notice, you can click on the relevant link below to jump to that section:
+
+What does Adaptive Insights do?
+
+What personal information does Adaptive Insights collect and why?
+
+Who does Adaptive Insights share my personal information with?
+
+Legal basis for processing personal information (EEA visitors only)
+
+Cookies and similar tracking technology
+
+How does Adaptive Insights keep my personal information secure?
+
+International data transfers
+
+Data retention
+
+Access to and updating your information
+
+Your data protection rights
+
+Third-party sites
+
+Updates to this Privacy Notice
+
+How to contact us
+
+### What does Adaptive Insights do?
+
+Adaptive Insights is a leading provider of cloud-based software for everybody in an organization who plans. Our platform—the Adaptive Insights Business Planning Cloud—transforms business planning into a strategic and competitive advantage by enabling organizations to respond to changing business conditions with confidence and agility. The Adaptive Insights Business Planning Cloud allows customers to rapidly and effectively model their businesses, monitor and analyze performance on an ongoing basis, and generate and share reports and dashboards. In addition, customers can use our Business Planning Cloud to evaluate actual performance versus plan, test alternative scenarios, and leverage insights from analytics to make informed, timely decisions that drive future results. We are headquartered in the U.S., with subsidiaries in the UK and elsewhere. We sell to customers in over 50 countries. 
+
+For more information about Adaptive Insights, please see the “About” section of our website at <https://www.adaptiveinsights.com/about/our-company>.
+
+### What personal information does Adaptive Insights collect and why?
+
+The personal information that we may collect about you broadly falls into the following categories:
+
+_Information that you provide voluntarily_
+
+Certain parts of our Sites and Services may ask you to provide personal information voluntarily. The personal information that you are asked to provide, and the reasons you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. For example: 
+
+  * We require customers who register to use the Services offered on our Sites to give us contact information, financial qualification, and billing information. This may include name, job title, department, company name, address, phone number, and email address. We may also ask for additional information about the company. We use this information to set up account information so we can set up the Services for individuals and their organizations. We may also use this information to contact users to further discuss customer interest in Adaptive and its products and Services and to send information such as newsletters, promotions, and events regarding Adaptive.
+  * If you subscribe to marketing communications from us and/or submit enquiries to us, we may also ask you to provide contact details such as your name, email address, business phone number and job title.
+  * If you indicate that you wish to receive information about Adaptive and our products or services, we collect contact information, such as your name, title, company name, address, phone number, and email address plus certain company information. We use this information to provide you with information about the products and services that we provide and to send information such as newsletters, promotions and events regarding Adaptive.
+
+
+
+_Information that we collect automatically_
+
+When you visit our Sites and use our Services, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area (EEA), this information may be considered personal information under applicable data protection laws.
+
+Specifically, the information we collect automatically may include information like your Internet protocol (IP) address, internet service provider (ISP), referring/exit pages, the files viewed on our Sites (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, device type, browser type, broad geographic location, clickstream data and other technical information. We may also collect information about how your device has interacted with our Sites and Services, including the pages accessed and links clicked.
+
+Collecting this information enables us to better understand the visitors who come to our Sites and the users of our Services, where they come from, and what content on our Sites and in our Services is of interest to them. We use this information for our internal analytics purposes, to analyze trends in the aggregate, to administer the Sites and Services, and to improve the quality and relevance of our Sites and Services to our visitors, customers, and other users. We also use this information to improve, test, and maintain our Services and develop additional products and Services.
+
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology” below.
+
+_Information that we obtain from third-party sources_
+
+From time to time, we may receive personal information about you from our authorized third-party partners. . The types of information we collect from these third parties include name, job title, department, company name, address, phone number and email address. We use the information to help Adaptive communicate with you about offers from Adaptive. We only receive this information where we have checked that these third parties either have your consent or these third parties are otherwise legally permitted or required to disclose your personal information to us.
+
+In general, we will use the personal information we collect from you only for the purposes described in this Privacy Notice or for purposes that we explain to you at the time we collect your personal information.
+
+### Who does Adaptive Insights share my personal information with?
+
+Adaptive will not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide the Services you have requested, when we otherwise have your permission, or as described in this Privacy Notice. We may disclose your personal information to the following categories of recipients:
+
+  * to our **group companies, our trusted third-party service providers, and partners** who provide data processing services to Adaptive under confidentiality agreements. These companies may use your personal information to support the delivery of, provide functionality on, or help to enhance the security of our Sites or Services, or otherwise process personal information for purposes that are described in this Privacy Notice or notified to you when we collect your personal information. A list of our current group companies is available here <https://www.adaptiveinsights.com/about/contact> and a list of our current service providers and partners is available here <https://www.adaptiveinsights.com/partners>
+  * We partner with a **third-party ad network** to either display advertising on our Sites or to manage our advertising on other websites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on our Sites and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+  * to any **competent law enforcement body, regulatory body, government agency, court, or other third party** where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish, or defend our legal rights, or (iii) to protect your vital interests or those of any other person.
+  * to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Adaptive’s terms and conditions or as otherwise required by law.
+  * to an actual or **potential buyer** (and its agents and advisors) in connection with any actual or proposed purchase, merger, or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Notice. In the event of a change in ownership, you will be notified via email and/or a prominent notice on our Sites of the change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * to any **other person with your consent** to the disclosure.
+
+
+
+### Legal basis for processing personal information (EEA visitors only)
+
+If you are a visitor from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+
+However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you (including to provide Services), (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
+
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our Sites and Services and to communicate with you as necessary to provide our Sites and Services to you and for our legitimate commercial interest, for instance, when responding to your queries, improving our Sites and Services, undertaking marketing, or for the purposes of detecting or preventing illegal activities. We may have other legitimate interests, and if appropriate we will make clear to you at the relevant time what those legitimate interests are.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “How to contact us” heading below.
+
+### Cookies and similar tracking technology
+
+We use cookies, beacons, tags, scripts, and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, to serve internet-based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice [here](https://web.archive.org/cookie-statement).
+
+### How does Adaptive Insights keep my personal information secure?
+
+We use appropriate technical and organizational measures to protect the personal information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. When you enter sensitive information (such as login credentials), we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet or method of electronic storage is 100% secure, however. Therefore, we cannot guarantee its absolute secrecy. If you have any questions about security on our Sites, you can contact us at [security@adaptiveinsights.com](mailto:security@adaptiveinsights.com).
+
+### International data transfers
+
+Your personal information may be transferred to, and processed in, countries other than the country in which you are a resident. These countries may have data protection laws that are different from the laws of your country and, in some cases, may not provide the same level of protection.
+
+Specifically, our Sites and Services are hosted in the USA, and our group companies and third-party service providers and partners operate around the world. The data we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our service providers.
+
+However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Notice. These include EU-US and Swiss-US Privacy Shield, as well as APEC participation.
+
+_EU-U.S. and Swiss-U.S. Privacy Shield_
+
+Adaptive Insights participates in and has certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Adaptive Insights is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 Adaptive Insights is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Adaptive Insights complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
+Adaptive Insights has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Adaptive Insights is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Adaptive Insights may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
- **Information Collection and Use on the Site**
+_APEC participation_
 
-We collect contact information, such as your name, title, company name, address, phone number, and e-mail address and certain company information, such as annual revenues, number of employees, or industry, from visitors who wish to receive information about Adaptive and its products and services. We use this information to provide you with information about the products and services that we provide and to send information regarding Adaptive or its partners, such as newsletters, promotions and events.
+The Adaptive Insights privacy practices, described in this Notice, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx). The APEC certification does not apply to instances where we process data on behalf of clients for their benefit, such as when we act as a data processor.
 
- **Information Collection and Use through the Services**
+### Data retention
 
-We require Customers who register to use the Services offered on our Site to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and the number of users within the organization that will be using the Service, and we may also ask for additional information such as title, department name, fax number, and additional company information, such as annual revenues, number of employees, or industry. It is the Customer’s obligation, as the data controller, to inform its registered users about the purposes for which information about them is collected and may be used on the Services. Registered users can update or remove their account information at any time by logging into the Site and editing their account information.
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a Service you have requested, for as long as your account remains active, or to comply with applicable legal, tax, or accounting requirements).
 
-Adaptive uses the account information that we collect to set up the Services for individuals and their organizations. We may also use the account information to contact our registered users to further discuss customer interest in Adaptive and its products and services and the Services that we provide, and to send information regarding Adaptive or its partners, such as newsletters, promotions and events. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Services. Except as we explicitly state at the time we request information, we do not disclose to third parties the information provided.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-Registered users are required to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Services or Adaptive, and will send a Customer Newsletter. Registered users of the Services will be using the Site to host data and information ("Data"). Adaptive will not review, share, distribute, print, or reference any such Data except as provided in your Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed for the purpose of resolving a problem, support issue, improving system performance, or suspected violation of your Subscription Agreement, or as may be required by law. Users are responsible for maintaining the confidentiality and security of their user registration and password.
+If you wish to update or delete your testimonial or to request removal of your personal information from our community forum, contact us at [privacy@adaptiveinsights.com](mailto:privacy@adaptiveinsights.com). In some cases, we may not be able to remove your personal information from our community forum, in which case we will let you know that we are unable to do so and why.
 
-Adaptive collects and processes third party personal information under the direction of our Customers. We have no ownership of this information or any direct relationship with individuals whose personal information may be processed as part of providing our Services.
+### Access to and updating your information
 
-Upon request Adaptive Insights will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [privacy@adaptiveinsights.com](mailto:Privacy@adaptiveinsights.com)
+Registered users can update or cancel their account or remove their account information at any time by logging on to the Sites and editing their account information. Alternatively, registered users can email our Customer Support at [support@adaptiveinsights.com](mailto:support@adaptiveinsights.com) or postal mail provided under the “How to contact us” heading below.
 
-An individual who seeks access to their data, seeks to correct, amend or delete inaccurate data, or wishes to opt-out of communications from a Adaptive Customer should direct his/her query to the Adaptive Customer he/she interacts with directly (the data controller). If an Adaptive Customer requests that we remove information on their behalf, we will respond to their request within 30 days.
+### Your data protection rights
 
-Adaptive may transfer personal information to other companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Customers.
+Depending on the country in which you reside, you may have the following data protection rights:
 
-Adaptive will retain personal information we process on behalf of our customers for as long as needed to provide services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
- **Public Forums**
-
-Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@adaptiveinsights.com](mailto:Privacy@adaptiveinsights.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
- **Testimonials**
-
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@adaptiveinsights.com](mailto:privacy@adaptiveinsights.com).
-
- **Passive Collection**
-
-As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
-
- **Cookies**
-
-Technologies such as cookies, beacons, tags and scripts are used by Adaptive and our marketing partners, affiliates, or analytics service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies to recognize your browser when you visit and to tell us whether customers and visitors have visited the Site previously, and to make it easier for you to navigate our site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-We, and the third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity, use Local Storage (LS), such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing LS.
-
- **Third Party Tracking**
-
-Adaptive Insights and our third party advertising partners use clear gifs (web beacons), images and scripts. We tie the information gathered to our customers’ personal information.
-
-To learn more about our advertising company’s use of clear gifs, please go to <http://code.google.com/apis/analytics/docs/tracking/home.html>.
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
-
- **Behavioral Targeting/Re-Targeting**
-
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/) _._ Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
- **Information Sharing and Disclosure**
-
-Adaptive will not rent, sell, or share personal information about you with other people or nonaffiliated companies except, to provide the Services that you have requested, when we otherwise have your permission, or under the following circumstances:
-
-  * To provide the information to our trusted partners who work on behalf of or with Adaptive under confidentiality agreements. These companies may use your personal information to help Adaptive communicate with you about offers from Adaptive and our marketing partners. These companies do not have any independent right to share this information.
-  * To respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Adaptive’s Terms of Use, or as otherwise required by law.
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  * In connection with a merger, acquisition, sale of assets of Adaptive or in the event of bankruptcy. If Adaptive or our assets are acquired by another company, that company will assume the rights and obligations as described in this Policy. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * If you wish to **access, correct, update, or request deletion** of your personal information. These rights can be exercised by contacting us at the contact details provided under the “How to contact us” heading below.
+  * In addition, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information, or **request portability** of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “How to contact us” heading below.
+  * You have the right to **opt out of marketing communications** we send you at any time. You can exercise this right by sending us an email at [support@adaptiveinsights.com](mailto:support@adaptiveinsights.com), or you can unsubscribe by following instructions contained in the message you received. We do reserve the right to send you certain communications relating to the Services, such as service announcements and administrative messages, that are considered part of your account membership, and we do not offer you the opportunity to opt out of receiving those messages.
+  * Similarly, if we have collected and processed your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Economic Area, Switzerland, and certain non-European countries (including the U.S. and Canada) are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 
 
-We will only share your personal information with third parties in the ways that are described in this Policy.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. The data controller of your personal information is Adaptive Insights Inc.
 
- **Access to Your Account Information and Updating Information**
+### Third-party sites
 
-You have the right and ability to edit your account information, at any time. Registered users can update or remove their account information at any time by logging into the Site and editing their account information, by emailing our Customer Support at [support@adaptiveinsights.com](mailto:support@adaptiveinsights.com) or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+The Sites may contain links to other websites. This Privacy Notice only applies to our Sites, and we are not responsible for the privacy practices or content of other websites. You should check the privacy notices of those sites before providing your personal information to them.
 
-You can also opt in or out of receiving future communications of special offers and new product information by sending us an email at [support@adaptiveinsights.com](mailto:support@adaptiveinsights.com), or you can unsubscribe by following instructions contained in the messages you receive. We do reserve the right to send you certain communications relating to the Service, such as service announcements and administrative messages, that are considered part of your account membership, and we do not offer you the opportunity to opt-out of receiving those messages.
+### Updates to this Privacy Notice
 
- **Data Retention**
+We may update this Privacy Notice from time to time in response to changing legal, technical, or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws. We will notify you of any material changes by email (sent to the e-mail address specified in your account) or by means of notice on this Site prior to the change becoming effective.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@adaptiveinsights.com](mailto:support@adaptiveinsights.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.
 
- **Security**
+### How to contact us
 
-The security of your personal information is important to us. When you enter sensitive information (such as login credentials), we encrypt the transmission of that information using secure socket layer technology (SSL).
+If you have any questions or concerns about our use of your personal information, please contact us or our Data Protection Officer at [privacy@adaptiveinsights.com](mailto:privacy@adaptiveinsights.com) or by regular mail addressed to:
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [security@adaptiveinsights.com](mailto:security@adaptiveinsights.com).
+Data Protection Officer  
+Adaptive Insights Inc.  
+3350 W Bayshore Road, Suite 200  
+Palo Alto, CA 94303  
 
- **Third Party Sites**
-
-The Site may contain links to other websites. This Policy only applies to the Adaptive Site and we are not responsible for the privacy practices or content of other websites. You should check the privacy policies of those sites before providing your personal information to them.
-
- **Social Media Widgets**
-
-Our Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
- **Updates to the Privacy Policy**
-
-We may update this Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
- **Additional Information**
-
-If you have questions about this Policy or the Site, you can contact us at [privacy@adaptiveinsights.com](mailto:Privacy@adaptiveinsights.com) or by regular mail addressed to:
-
-Adaptive Insights, Inc.,  
-3350 W. Bayshore Road, Suite 200  
-Palo Alto, CA 94303.
