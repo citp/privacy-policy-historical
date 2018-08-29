@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the articlecity.in privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310203514id_/http%3A//articlecity.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecity.in privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830013908id_/http%3A//articlecity.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – articlecity.in
-
-## Privacy Policy for articlecity.in
 
 The privacy of our visitors to articlecity.in is important to us.
 
