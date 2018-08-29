@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the highspot.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224023531id_/https%3A//www.highspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highspot.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829072020id_/https%3A//www.highspot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Highspot
 
-**Last Updated: Nov  16, 2015**
+**Last Updated: November 27, 2017**
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Highspot, Inc. ( _“Highspot,”_ _“we”_ or _“us”_ ). This Privacy Policy applies to information we collect when you use our website and other online products and services (collectively, the _“Services”_ ).
 
@@ -62,6 +62,18 @@ We may share information about you as follows or as otherwise described in this 
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
+### Your Right to Control and Access Your Information
+
+You have control over your personal information and how it is collected, used, and shared. For example, you have a right to:
+
+  * Erase or delete all or some of your Personal Information stored by Highspot.
+  * Change or correct personal data.
+  * Access and take your data.
+
+
+
+You can review, correct, update, or delete inaccuracies to the information that Highspot keeps on file by contacting us directly at support@highspot.com. For more information on your right to control and access your personal information, please see our [GDPR Compliance](https://www.highspot.com/compliance/gdpr/) page.
+
 ### Social Sharing Features
 
 The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
@@ -74,11 +86,15 @@ We may allow others to provide us with analytics services. These entities may us
 
 Highspot takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-### Safe Harbor
+### EU-U.S. and Swiss-U.S. Privacy Shield Frameworks 
 
-Highspot is a participant in the U.S.-E.U. Safe Harbor program developed by the U.S. Department of Commerce and the European Union and the U.S.-Swiss Safe Harbor program developed by the U.S. Department of Commerce and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from the EU member countries and from Switzerland to the U.S. For more information about the Safe Harbor program and to view our certification, please visit the [U.S. Department of Commerce’s Safe Harbor](http://export.gov/safeharbor/) website. If you have concerns about our compliance with the Safe Harbor program, you should contact us at [support@highspot.com](mailto:support@highspot.com). If you are unable to resolve your concern or dispute with us, you may submit complaints to [JAMS](http://www.jamsadr.com/file-safe-harbor-claim/) for mediation pursuant to the JAMS International Mediation Rules.
+Highspot adheres in its processing of personal data received from the EU and from Switzerland (“EU Data”) to the EU-U.S. and the Swiss-U.S. Privacy Shield Framework Principles, issued by the U.S. Department of Commerce (the “Principles”).  Highspot has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  For more information about the Principles, please visit the Department of Commerce’s [Privacy Shield website](https://www.privacyshield.gov/).
 
-As of the effective date of this policy, the U.S. Department of Commerce has advised that it continues to administer the Safe Harbor program despite an [adverse judgment](http://curia.europa.eu/juris/document/document.jsf?text=&docid=169195&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=125031) by the European Court of Justice on October 6, 2015.  We are maintaining our Safe Harbor certification for now pending U.S. and EU government action on a new Safe Harbor framework.
+In compliance with the Privacy Shield Principles, Highspot commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Highspot at [support@highspot.com](mailto:support@highspot.com). 
+
+If Highspot does not resolve your complaint, you may submit your complaint free of charge for resolution to [JAMS](https://www.jamsadr.com/sitemap) for mediation, pursuant to the JAMS International Mediation Rules.  Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint.  Highspot is subject to the investigatory and enforcement powers of the FTC.  If Highspot shares EU Data with a third-party service provider that processes the data solely on Highspot’s behalf, then Highspot may be held liable for that third party’s processing of EU Data in violation of the Principles, unless Highspot can prove that it is not responsible for the event giving rise to the damage.
+
+Highspot has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship. 
 
 ### Your Choices
 
