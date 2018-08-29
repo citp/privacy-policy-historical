@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the neurope.eu privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622165246id_/https%3A//www.neweurope.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurope.eu privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829021733id_/https%3A//www.neweurope.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 New Europe takes your online privacy very seriously. Therefore, unless you explicitly state otherwise, or we explicitly state otherwise, any data that we collect as a result of your use of the site remains confidential.
 
-Why do we collect ANY data on our users? Like many web sites, we collect non-personally identifiable information about our users primarily for three purposes: To analyze our traffic patterns, to target advertisements, and to personalize our service for individuals or groups of users. In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Why do we collect ANY data on our users? Like many web sites, we collect non-personally identifiable information about our users primarily for three purposes: To analyze our traffic patterns, to target advertisements, and to personalize our service for individuals or groups of users. In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please e-mail us at help@neurope.eu.
 
 Log Files
 
