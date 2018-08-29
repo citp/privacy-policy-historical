@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020005417id_/http%3A//careerenabler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829114557id_/http%3A//careerenabler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - career enablercareer enabler
 
@@ -46,8 +46,7 @@ You can find more information about cookies at:
 
 
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.  
-
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide. 
 
 ### Category 1: strictly necessary cookies
 
@@ -69,8 +68,7 @@ By using our website, you agree that we can place these type of cookies on your 
 
 These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
 
-A list of all the cookies used on this website by category is set out below.  
-
+A list of all the cookies used on this website by category is set out below.
 
 ### Links to other websites
 
