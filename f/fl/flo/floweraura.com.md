@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the floweraura.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128032000id_/http%3A//www.floweraura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floweraura.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829081849id_/https%3A//www.floweraura.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**FlowerAura - PRIVACY POLICY:**
+# Privacy Policy | FlowerAura
 
 **1.** FlowerAura.com is website from M/s FlowerAura which is registered with government of India, Reference Number ROF-415 of 2009-2010.  
 We respect the Privacy of our users and protect them with the Privacy policies stated here.
