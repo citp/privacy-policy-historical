@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localguides.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004341id_/http%3A//www.localguides.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localguides.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829182304id_/http%3A//www.localguides.com/privacy.html) for the most accurate reproduction.*
 
 # LocalGuides.com Privacy
 
@@ -86,8 +86,6 @@ This Privacy Policy is maintained in conformance with applicable privacy laws an
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:
 
 Local Guides, LLC
-1240 East 100 South #5
-St. George, UT 84790
 [mailto:moreinfo@localguides.com](mailto:moreinfo@localguides.com?subject=Inquiry/Comment%20about%20your%20Privacy%20Policy)
 
 Last Updated: March 9, 2007
