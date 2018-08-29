@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igenericdrugs.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910104625id_/http%3A//igenericdrugs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenericdrugs.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829231824id_/http%3A//www.igenericdrugs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
