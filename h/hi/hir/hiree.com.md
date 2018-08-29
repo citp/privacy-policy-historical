@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiree.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703172509id_/https%3A//hiree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiree.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829141616id_/https%3A//hiree.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Hiree - Better Offers, Super Fast
 
