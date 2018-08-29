@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totokaelo.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109233040id_/https%3A//totokaelo.com/about/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totokaelo.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829023929id_/https%3A//totokaelo.com/about/privacy-and-security) for the most accurate reproduction.*
 
 # Totokaelo Privacy Policy
 
@@ -81,16 +81,16 @@ We have no liability for disclosure of information due to errors in transmission
 
 ###### CHANGES TO THIS PRIVACY POLICY
 
-By using the Site, you consent to the collection and use of your information in accordance with this Privacy Policy. From time to time, we may review and revise this Privacy Policy. We reserve the right to change this Privacy Policy at any time and notify you by publishing an updated version of the Privacy Policy on the Site. Your continued use of the Site after any such changes constitutes your acceptance of the new terms. 
+By using the Site, you consent to the collection and use of your information in accordance with this Privacy Policy. From time to time, we may review and revise this Privacy Policy. We reserve the right to change this Privacy Policy at any time and notify you by publishing an updated version of the Privacy Policy on the Site. Your continued use of the Site after any such changes constitutes your acceptance of the new terms.
 
 ###### CHILDREN
 
-The Children’s Online Privacy Act imposes certain requirements on websites directed at children under 13 that collect information on those children and on websites that knowingly collect information from children under 13. The Site is not directed to children under 13 and does not knowingly collect any personal information from children under 13. 
+The Children’s Online Privacy Act imposes certain requirements on websites directed at children under 13 that collect information on those children and on websites that knowingly collect information from children under 13. The Site is not directed to children under 13 and does not knowingly collect any personal information from children under 13.
 
 ###### JURISDICTION
 
-You acknowledge and agree that regardless of your physical location or the location of any server on which your information may be accessed or used that this Privacy Policy and the laws of the United States of America shall govern and control the privacy issues related to this Site. 
+You acknowledge and agree that regardless of your physical location or the location of any server on which your information may be accessed or used that this Privacy Policy and the laws of the United States of America shall govern and control the privacy issues related to this Site.
 
 ###### YOUR QUESTIONS AND COMMENTS
 
-We invite you to learn more about us. Please contact us at hello@totokaelo.com. 
+We invite you to learn more about us. Please contact us at hello@totokaelo.com.
