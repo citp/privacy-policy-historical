@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the camsearch.xyz privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225044622id_/http%3A//camsearch.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsearch.xyz privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829082806id_/https%3A//camsearch.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At CamSearch.xyz we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. We do update this Policy from time to time so please do review this Policy regularly.
+At camsearch.xyz we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. We do update this Policy from time to time so please do review this Policy regularly.
 
 ## Information We Collect
 
@@ -53,7 +53,3 @@ On occasion we include links to third parties on this website. Where we provide 
 ## Access to Information
 
 In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee to cover costs incurred by us in providing you with the information.
-
-## Contacting Us
-
-Please feel free to Contact Us
