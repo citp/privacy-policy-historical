@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoca-colacompany.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625132159id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoca-colacompany.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830011847id_/https%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Coca-Cola Company: The Coca-Cola Company
 
