@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalvegascasino.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627101339id_/https%3A//www.royalvegascasino.com/about-us/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalvegascasino.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829043326id_/https%3A//www.royalvegascasino.com/about-us/security-privacy) for the most accurate reproduction.*
 
 # Security and privacy | Royal Vegas Online Casino
 
@@ -45,37 +45,33 @@ Digimedia group includes the following companies:
 
 We collect two types of information from our Users:
 
-The first type of information is information that identifies or may reasonably identify an individual reasonable effort (“Personal Information”). Personal Information which is being gathered may consist of the following:
-
-  * Personal Information
-  * Registration details: When you open an account and register to use the Services, you will be asked to provide us certain details about yourself, such as: first and last name, email address, gender, birth data, physical address, ID number, phone number, occupation, etc.
-  * Governmental-issued ID: In certain instances, you will be required to provide a copy of a governmental-issued ID, for identity verification process. Please note that this information is required for certain features of our Services.
-  * Payment information: In order for you to enjoy all of the functions of the Services (e.g. place bets, perform purchases, play in tournaments, etc.), payment information will be collected from you, such as your credit card number and bank account details.
-  * Voluntary information: We also collect information which you provide us voluntarily. For example, when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, such as on the chat feature and in games.
-  * Device information: We collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: device’s unique identifiers (e.g. UDID, IMEI, MAC address), browser fingerprinting, IP address and geo-location data.
-  * Telephone calls: We record or monitor telephone calls for customer support, training and/or security purposes.
-  * Social networks: When you register through your social network account (such as your Facebook account), to use the Services or connect your player account with such account, we will have access to basic information from your social network account, such as your name, birthdate, profile picture and friends' list, as well as information you made publicly available on such account.
-  * In addition, when using the Services, you may be able via your social network to "Invite a Friend" to use the Services. Should the person accept your invitation, we may obtain Personal Information from him/her such as: name, email address, phone number and date of birth. We will use the Personal Information for the purposes set out herein and disclose such information only to third parties as detailed in this Privacy Policy.
-  * Information we collect from third parties: We collect Personal Information from third party service providers, such as information about your credit history from credit agencies and other financial information which is relevant to the provision of the Services, as well as information which is gathered in order to verify your identity and prevent fraudulent or illegal activity.
-
-
-  * Non-personal information
+  * **Personal Information**  
+The first type of information is information that identifies or may reasonably identify an individual reasonable effort (“ **Personal Information** ”). Personal Information which is being gathered may consist of the following:  
+ 
+    * **Registration details** :When you open an account and register to use the Services, you will be asked to provide us certain details about yourself, such as: first and last name, email address, gender, birth data, physical address, ID number, phone number, occupation, etc.
+    * **Governmental-issued ID** :In certain instances, you will be required to provide a copy of a governmental-issued ID, for identity verification process. Please note that this information is required for certain features of our Services.
+    * **Payment information** :>In order for you to enjoy all of the functions of the Services (e.g. place bets, perform purchases, play in tournaments, etc.), payment information will be collected from you, such as your credit card number and bank account details.
+    * **Voluntary information** : We also collect information which you provide us voluntarily. For example, when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, such as on the chat feature and in games.
+    * **Device information** : >We collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: device’s unique identifiers (e.g. UDID, IMEI, MAC address), browser fingerprinting, IP address and geo-location data.
+    * **Telephone calls** : We record or monitor telephone calls for customer support, training and/or security purposes.
+    * **Social networks** :When you register through your social network account (such as your Facebook account), to use the Services or connect your player account with such account, we will have access to basic information from your social network account, such as your name, birthdate, profile picture and friends' list, as well as information you made publicly available on such account.
+    * In addition, when using the Services, you may be able via your social network to "Invite a Friend" to use the Services. Should the person accept your invitation, we may obtain Personal Information from him/her such as: name, email address, phone number and date of birth. We will use the Personal Information for the purposes set out herein and disclose such information only to third parties as detailed in this Privacy Policy.
+    * **Information we collect from third parties** :We collect Personal Information from third party service providers, such as information about your credit history from credit agencies and other financial information which is relevant to the provision of the Services, as well as information which is gathered in order to verify your identity and prevent fraudulent or illegal activity.
 
 
-
-The second type of information is un-identified and non-identifiable information pertaining to a User(s), which may be made available or gathered via the User’s use of the Services (“Non-Personal Information”).
+  * **Non-personal information** The second type of information is un-identified and non-identifiable information pertaining to a User(s), which may be made available or gathered via the User’s use of the Services (“Non-Personal Information”).
 
 Non-Personal Information which is being collected consists of technical information and aggregated usage information, and may contain, among other things, the User’s operating system, type of browser, screen resolution, browser and keyboard language, the User’s ‘click-stream’ and activities on the Services, the period of time the User visited the Services and related time stamps, etc.
 
-For avoidance of doubt, any Non-personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.
+**For avoidance of doubt, any Non-personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.**
 
-Types of Non-personal Information we collect from or about you:
+Types of Non-personal Information we collect from or about you: 
 
-  * Technical information: In order to enhance the functionality of the Services and to provide you with a better user experience, we collect technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time and the domain name of the website from which you linked to the Services; etc.).
-  * Gameplay information: We record game play information including, amongst other things, your deposits, bets, bonuses, game session duration and your high scores. We may also share and publish such information through any of our Platforms.
-  * Device and connection information: If you download the Software to your device, we may collect information from the particular device you are using, for security and fraud detection and prevention purposes. For example, we may gather information with regard to other software which is running simultaneously with the Software for detecting if you are using software which is associated with fraudulent activity (e.g. robots, malware, etc.) or checking if the connection you are using is via a VPN or proxy.
-  * Analytics information: We collect information about your use of the Services, such as applications' usage, log files, user activity (e.g. pages viewed, the amount of time spent on particular pages, online browsing, clicks, actions, etc.), time stamps, alerts, etc. This information is collected for amongst other things troubleshooting errors and bugs as well as for research and analytics purposes about your use of the Services.
-  * Anonymous information: We may anonymize or de-identify the information collected by the Services or via other means so that the information cannot, on its own, personally identify you. Our use and disclosure of such aggregated or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation and for any purpose, such as for advertising or marketing purposes.
+    * **Technical information:** In order to enhance the functionality of the Services and to provide you with a better user experience, we collect technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time and the domain name of the website from which you linked to the Services; etc.).
+    * **Gameplay information:** We record game play information including, amongst other things, your deposits, bets, bonuses, game session duration and your high scores. We may also share and publish such information through any of our Platforms.
+    * **Device and connection information:** f you download the Software to your device, we may collect information from the particular device you are using, for security and fraud detection and prevention purposes. For example, we may gather information with regard to other software which is running simultaneously with the Software for detecting if you are using software which is associated with fraudulent activity (e.g. robots, malware, etc.) or checking if the connection you are using is via a VPN or proxy.
+    * **Analytics information:** We collect information about your use of the Services, such as applications' usage, log files, user activity (e.g. pages viewed, the amount of time spent on particular pages, online browsing, clicks, actions, etc.), time stamps, alerts, etc. This information is collected for amongst other things troubleshooting errors and bugs as well as for research and analytics purposes about your use of the Services.
+    * **Anonymous information:** We may anonymize or de-identify the information collected by the Services or via other means so that the information cannot, on its own, personally identify you. Our use and disclosure of such aggregated or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation and for any purpose, such as for advertising or marketing purposes.
 
 
 
@@ -108,7 +104,7 @@ We use your Personal Information for the purposes listed below:
 
 ## MARKETING
 
-The Group will use your Personal Information, such as your name, home address, email address, telephone number etc., ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning the Services as well as products, services, websites and applications which relate to: (i) other companies within the Group; (ii) White Label Brands; or (iii) Group's business partners and affiliates (collectively: “ **Marketing Affiliates** ”), which we believe may interest you.
+The Group will use your Personal Information, such as your name, home address, email address, telephone number etc., ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning the Services as well as products, services, websites and applications which relate to: (i) other companies within the Group; (ii) White Label Brands; or (iii) Group's business partners and affiliates (collectively: “Marketing Affiliates”), which we believe may interest you.
 
 We may also share and disclose Personal Information with our Marketing Affiliates for the purpose of providing you different marketing offers, which we, or our Marketing Affiliates, believe are relevant for you. Our Marketing Affiliates may use this Personal Information for different marketing techniques, such as direct email, post, SMS and telephone marketing purposes.
 
@@ -120,11 +116,9 @@ You may at any time decline receiving further marketing offers from us or from o
 
 ## WITH WHOM WE SHARE INFORMATION?
 
-We do not rent, sell, or share your Personal Information with third parties (“Recipients”) except as described in this Privacy Policy. The Personal Information will be disclosed to Recipients only to the extent required for the specific purpose, as stipulated in this Privacy Policy.
+We do not rent, sell, or share your Personal Information with third parties (“ **Recipients** ”) except as described in this Privacy Policy. The Personal Information will be disclosed to Recipients only to the extent required for the specific purpose, as stipulated in this Privacy Policy.
 
 We share Personal Information with any of the following recipients:
-
-In addition to the purposes listed in this Privacy Policy, we share Personal Information with those Recipients for any of the following purposes:
 
   * White Label Brands, including any replacement service provider that the White Label Brand may engage to operate the White Label Brands (if applicable);
   * Companies within the Group and other affiliated companies;
@@ -138,6 +132,11 @@ In addition to the purposes listed in this Privacy Policy, we share Personal Inf
   * To any third parties who investigate, detect or prevent fraudulent or illegal activity (e.g. governmental authorities, police, banks and other investigatory organizations);
   * Licensing authorities, governmental and regulatory bodies, in accordance with applicable laws and regulations; and
   * Potential purchasers or investors in any of the companies within the Group or While Label Brand (if applicable), or in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, reorganization, bankruptcy, consolidation or asset sale of an asset or transfer in the operation thereof) in relation to any company within the Group (in such event, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy).
+
+
+
+In addition to the purposes listed in this Privacy Policy, we share Personal Information with those Recipients for any of the following purposes: 
+
   * Storing such information on our behalf, for example by using cloud computing service providers;
   * Processing such information to assist us with our business operations (e.g. to process payments and your deposits; authenticate your access; auditing our operations; detect and prevent fraudulent or illegal activity; etc.);
   * Performing research, technical diagnostics or analytics;
@@ -178,7 +177,7 @@ If you have registered with an account through our Services, the Group will reta
 
 In addition, the Group may retain your Personal Information for longer periods, provided that retaining such information is necessary for the Group’s legitimate interests, such as fraud prevention and record keeping.
 
-If for any reason you wish to delete your Personal Information, please send us an e-mail to: support@playersupportcenter.com, and we will make reasonable efforts to address your request.
+If for any reason you wish to delete your Personal Information, please send us an e-mail to: datarequest@playersupportcentre.com, and we will make reasonable efforts to address your request.
 
 ## YOUR RIGHTS
 
@@ -222,7 +221,7 @@ Revised at: March 28th 2018
 
 ## Introduction
 
-When you visit or access our Services (such as websites or applications operated by us, or when you interact or engage with our content), we use (and authorize third parties to use) web beacons, cookies, pixel tags, scripts, tags, API and other tracking technologies ("Tracking Technologies").
+When you visit or access our Services (such as websites or applications operated by us, or when you interact or engage with our content), we use (and authorize third parties to use) web beacons, cookies, pixel tags, scripts, tags, API and other tracking technologies **("Tracking Technologies").**
 
 The Tracking Technologies allow us to automatically collect information about you and your online behavior, as well as your device (for example your computer or mobile device), in order to enhance your navigation on our Services, improve our Services performance and customize your experience on our Services. We also use this information to collect statistics about the usage of our Services, perform analytics, deliver content which is tailored to your interests and administer services to our Users, advertisers, publishers, customers and partners.
 
@@ -230,7 +229,7 @@ We also allow third parties to collect information about you through Tracking Te
 
 ## What are cookies?
 
-Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at www.allaboutcookies.org.
+Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 Cookies are widely used in order to make websites work in an efficient way. The use of cookies allows you to navigate between pages efficiently. Cookies remember your preferences, and make the interaction between you and the Services smoother and more efficient. Cookies are also used to help ensure that the advertisements you see online are relevant to you and your interests.
 
@@ -242,7 +241,7 @@ Both types of Tracking Technologies may be stored either for the duration of you
 
 ## What types of Tracking Technologies do we use?
 
-There are five main types of Tracking Technologies:
+**There are five main types of Tracking Technologies:**
 
   * **Strictly necessary Tracking Technologies –** These Tracking Technologies are essential to enable you to login, navigate around and use the features of our Services, or to provide a service requested by you (such as your username). We do not need to obtain your consent in order to use these Tracking Technologies. These Tracking Technologies can be used for security and integrity reasons - for example to detect violation of our policies and for support or security features.
   * **Functionality Tracking Technologies –** These Tracking Technologies allow our Services to remember choices you make (such as your language) and provide enhanced and personalized features. For example, these Tracking Technologies are used for authentication (to remember when you are logged-in) and support other features of our Services.
@@ -250,7 +249,7 @@ There are five main types of Tracking Technologies:
   * **Marketing or Advertising Tracking Technologies –** These Tracking Technologies are used to deliver tailored offers and advertisements to you, based on your derived interests, as well as to perform email marketing campaigns. They can also be used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by our advertisers (for example advertising networks) and provide them insights about the people who see and interact with their ads, visit their websites or use their app.
   * **Social media Tracking Technologies –** Our website includes social media features, such as the Facebook "Like" or "Share" buttons. These features are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy statement of the company providing these features.
 
-**Tracking Technologies** | **Type** | **Purpose**  
+Tracking Technologies | Type | Purpose  
 ---|---|---  
 **Analytics Cookies** | 
 
@@ -277,14 +276,14 @@ Please note that we do not recognize or respond to automated browser signals reg
 Most web browsers will provide you with some general information about cookies, enable you to see what cookies are stored on your device, allow you to delete them all or on an individual basis, and enable you to block or allow cookies for all websites or individually selected websites. You can also normally turn off third party cookies separately. Please note that the settings offered by a browser or device often only apply to that particular browser or device.
 
   * Information about cookies is usually found in the "Help" section of the web browser. Below are some links to some commonly used web browsers: 
-    * Chrome
-    * Chrome for mobile
-    * Internet Explorer and Microsoft Edge
-    * Mozilla Firefox
-    * Safari
+    * [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+    * [Chrome for mobile](https://support.google.com/chrome/answer/2392971?hl=en)
+    * [Internet Explorer and Microsoft Edge](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
+    * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+    * [Safari](https://support.apple.com/kb/PH19214?locale=en_US)
   * **Turning off third party cookies**
 
-You can turn off certain third party targeting/advertising cookies by visiting the following link: Network Advertising Initiative.
+You can turn off certain third party targeting/advertising cookies by visiting the following link: _[Network Advertising Initiative](http://www.networkadvertising.org/choices/)_.
 
 
 
