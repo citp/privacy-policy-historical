@@ -1,130 +1,356 @@
-> *The following text is extracted and transformed from the babyli.st privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417225908id_/https%3A//babyli.st/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyli.st privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829101803id_/https%3A//www.babylist.com/privacy) for the most accurate reproduction.*
 
-# BabyList Privacy Policy
+# Babylist Privacy Policy
 
-#### Baby List, Inc.
+#### Babylist, Inc.
 
-Effective Date: March 24, 2016
+Effective Date: March 26, 2018
 
-#### Privacy Policy
+Last Updated: July 23, 2018
 
-This Privacy Policy explains what information will be collected by Baby List, Inc. (“Baby List,” “we,” “us,” or “our”) when you access our Website, software, applications, products or related services (collectively, the “Service”) and how the information will be used. We will not use or share your information with anyone except as described in this Privacy Policy.  Each time you use our Service you are accepting the practices described in this Privacy Policy at that time. 
+  
 
-#### DEFINITIONS
 
-This Privacy Policy uses certain capitalized terms that have particular meanings. Sometimes, those terms are defined when they are first used. In addition, and for ease of reference, the following terms are defined in this section: 
+#### PRIVACY POLICY 
 
-  * “ _App_ ” means any Baby List software application, including, but not limited to, the Baby List Android and/or iPad and/or iPhone software application. 
-  * “ _Browsing Information_ ” means information about your use of the Service, or your computer’s (or other access device, such as an iPad or smartphone) interaction with the Service. Browsing Information also includes certain of the information described in the “Information Collected Automatically” section below.  This information is linked to a device identifier, such as the Internet Protocol (IP) address of your computer or device.  The App transmits information to us that we use to provide our services, assist you in troubleshooting, and improve our products, services, Website and App.  In general, Baby List does not use Browsing Information to identify you, but such information may be paired with Personal Information, or with other information that together, could be used to identify you. Additionally, third parties, such as analytics companies and advertising service providers may access, collect, store, and use Browsing Information, and they may use it to identify you.  
-  * “ _Personal Information_ ” means information that directly identifies you, or that can directly identify you, such as your shipping and/or billing address, e-mail address, phone number, credit card information and/or your baby’s name and/or expected birth date.          
+Babylist Inc. (“ _Babylist_ ”, “ _we_ ”, “ _us_ ”, “ _our_ ”) makes the journey to parenthood easier and less overwhelming with our content, curated store, baby registry, and website where we have helpful information for expecting families. Whether you are a website visitor, a baby registry account holder, or a gift giver, your privacy is important to us. This Privacy Notice covers the information Babylist collects, uses, shares, and retains when you access our [www.babylist.com](https://web.archive.org/privacy) website or Babylist mobile applications, use our products and services, or otherwise interact with us (collectively, the " _Services_ "). 
 
-  * “ _Website_ ” means any websites, web pages, and any subpages (including mobile websites, web pages and subpages) under Baby List’s control, whether partial or otherwise. This includes but is not limited to www.babyli.st, any subpages, and the website from which these terms of use were accessed from. 
+WE ENCOURAGE YOU TO READ THIS PRIVACY NOTICE AND THE TERMS OF USE IN FULL TO UNDERSTAND OUR PRIVACY PRACTICES BEFORE USING OUR SERVICES. BY USING OUR SERVICES, YOU ACKNOWLEDGE AND AGREE TO THE PRACTICES DESCRIBED IN THIS PRIVACY NOTICE. 
 
+Your use of the Services is also subject to our [Terms of Use](https://web.archive.org/terms) and [Cookie Notice](https://web.archive.org/cookie-notice).
+
+  
 
 
 #### INFORMATION WE COLLECT
 
-_Personal Information We Affirmatively Collect From You_
+We collect a variety of information you provide directly to us or that we collect automatically when you use our Services. 
 
-We may collect Personal Information about you, such as your first and last name, phone number, email address, physical address or credit card information, through our Service when (i) you register for an account on our Website or App, (ii) you sign up for our newsletter, (iii) you order from our Website or App, (iv) you give or receive a cash gift through our cash registry service or (v) you include Personal Information in User Content (as defined below).  Other information you may affirmatively provide to us is generally maintained along with Personal Information. You can choose not to provide any information that is requested of you by us. However, this may limit your ability to use the Service.  
+_Babylist Registry_
 
-Additionally, if a friend refers you to us by providing us with your e-mail address, we may send you a message.  However, we use your e-mail address only to send the friend’s message unless you otherwise affirmatively provide information to us. When you sign up for e-mails or register an account, we may ask you for your birthdate to make sure you are 18 or older and may use a technical measure, such as a cookie, to restrict your ability to change your age.  
+To create a Babylist registry account, you provide us the following information:
 
-In addition to collecting information on the Service, we may collect information from you when you communicate with us over the phone, including via text messages, or via e-mail. This information may include Personal Information. This information may be matched with, and stored in connection with Personal Information provided or collected in connection with the Service. 
+  * First and last name
+  * Email address and password
 
-We also may now or in the future receive Personal Information about you from third parties. For example, if you access our Website or Service through a third-party connection or log-in, including social networking services such as Facebook where you have a registered account, that third party may pass certain information about your use of its service to Baby List. This information could include, but is not limited to, the user ID associated with your account, an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Baby List Service. 
 
-_Information Collected Automatically_
 
-Log file information is automatically reported by your browser each time you access a web page on our Service. When you access the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your Internet Protocol address, web request, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other similar information.  
+We require this information to create your Babylist registry account, authenticate your account, and make your account accessible to gift givers. Your registry account remains private until you choose to share it with others. You may share it by making it searchable inside Babylist, publicly searchable, and/or posting it via Facebook or a personal link.
 
-We may use certain third party services including, but not limited to, Google Analytics, to help us and our affiliates understand your use of the Service. These services collect information about your use of and the performance of the App and/or the Website and also collect information sent by your browser as part of a web page request, including cookies and your IP address, and their use of this information is governed by their privacy policies.  
+When you create your registry account, you may choose to provide us the following additional information:
 
-In general, we will store tracking information in an anonymous aggregated form, however, we or our third party tracking partners may store certain information, such as page views, in a manner that can be associated to specific devices.  
+  * Existence of a partner
+  * Partner name and email address
+  * Due date
+  * Baby gender
+  * Whether pregnancy is multiple (e.g., twins)
+  * Number of other children
+  * Type of expecting experience (pregnancy, adopting, fostering, surrogate, etc.)
+  * Physical address 
+  * Phone number
+  * Photos and videos
+  * Personal message
+  * Bank account routing information
+  * Other information about you, your partner, and your health and lifestyle
 
-We use persistent cookies and session cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s directions, but such removal may affect your use of or access to certain portion of the Service. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.  If you refuse cookies you may not be able to experience all the features of our Website. We and our service providers may also use "pixel tags," "web beacons," "clear GIFs," or similar means in connection with the Service and HTML-formatted email messages to, among other things, track the actions of Users and email recipients, to determine the success of marketing campaigns, to compile aggregate statistics about Website usage and response rates, and to serve online advertisements, whether via the Service or via another website. We may also engage one or more third party service providers to serve targeted online advertisements via Facebook. They may use a “pixel tag” to collect anonymous information about your visits to the Website and to other websites, and they may use that information to target advertisements for goods and services whether via the Website or other websites. This information is collected in a manner that may personally identify you. 
 
-#### HOW WE USE YOUR INFORMATION
 
-We use or may use Personal Information and Browsing Information for a variety of purposes, including: 
+This additional information is optional, but you may find it helpful if you would like to use our Services. Also, we may require some of this information. For example, if your partner wants to use the Services, we will need your partner’s name, email address, and a password. 
 
-  * To operate the Service, monitor the effectiveness of the Service, to improve the content of the Service, and layout and design. 
-  * To help provide you with a smooth, efficient user experience. 
-  * For billing, identification and authentication, and fraud prevention. 
-  * To respond to any inquiries or requests received from you. 
-  * To monitor, analyze and describe usage patterns and performance of the Service, including aggregate metrics such as total number of visitors, traffic, and demographic patterns. 
-  * To contact you and deliver administrative notices and communications relevant to your use of the Service, such as security or support and maintenance advisories. 
-  * To conduct system administration and system troubleshooting and to diagnose or fix technology problems. 
-  * To comply with legal requirements and process (for example, in response to subpoenas, court orders, and law enforcement or governmental requests or investigations), to protect our legal rights or the rights of others (for example, by working to reduce the risk of fraud or misuse of the Service). 
-  * To enforce our Terms of Use or other policies or agreements. 
-  * To send promotional communications and/or newsletters to you and for other marketing purposes of Baby List or its affiliates or partners. 
-  * In connection with an unusual business transaction, such as the bankruptcy or liquidation of, sale of, purchase of, or merger with our business or another business. 
-  * For distribution to third-party service providers that provide services to Baby List and partners of Baby List. 
-  * As otherwise set forth in this Privacy Policy. 
+_Giving Gifts_
 
+To give a gift to a registry member, you will provide us the following information:
+
+  * First and last name
+  * Email address
+
+
+
+We require this information to notify the gift recipient and confirm your gift via email.
+
+_Babylist Store Purchases_
+
+If you make a Babylist store purchase, you will provide us the following information:
+
+  * Payment information
+  * Phone number
+  * Shipping and billing information
+
+
+
+We require this information to securely process the payment and purchase.
+
+_Survey Information_
+
+If you choose to complete our surveys or participate in our contests, you will provide us the following information:
+
+  * Your contact information
+  * Your age and gender
+  * Your answers to our survey questions 
+  * Any other information that you may choose to provide to us in the comment field
+
+
+
+We use our surveys and contests to collect your feedback to improve your experience and our Services. Participation in our surveys or contests is voluntary. You have a choice whether or not to disclose this information. We may use a third-party service provider to conduct surveys and contests on our behalf. If you outline any issues and/or request our help in our surveys and contests, we may reach out to you to resolve your concern.
+
+_Public Posting Area_
+
+When you share photos, post comments, or share other information when you use our Services, this information may be public, depending on your settings. We do not require this information. If you do not want people to know your personal or other information, please do not include it in any messages you post. 
+
+_Browsing History_
+
+When you use our Services, we automatically collect the following information about how you use our Services:
+
+  * Web requests
+  * Landing, referring, and exit pages and URLs
+  * Pages visited
+  * Clickstream data
+  * Type of browser used
+  * Operating system
+  * Site usage 
+
+
+
+This information is required. We collect this information to improve our Services and your user experience, generate web analytics, and troubleshoot problems. 
+
+_Device Information_
+
+When you use our Services, we automatically collect the following information related to your interaction with the Services via computer or other devices such as iPad or smartphone:
+
+  * Device model/type
+  * Hardware or operating system
+  * Browser type
+  * IP address
+  * Push notification tokens
+  * Transaction identifier 
+
+
+
+We require this information to make our Services easier to use and personalize your content. It also helps us with troubleshooting, developing new products and services, and conduct audits. 
+
+_Geolocation_
+
+When you download our mobile app or use the mobile browser to access your Babylist account and have consented to location services, we will collect the following information:
+
+  * Your geolocation
+  * Your device model
+
+
+
+We collect this information only when you consent to location services. We require this information to provide you with location-based services such as store discounts and special offers available in your area.
+
+_Employment Information_
+
+When you decide to apply for a job with Babylist, we will re-direct you to another website. We do not collect your employment information on our site. Babylist collects and uses personal information about its employees, which may include: name, address, job title and other job information, location, compensation information, identification number, employment history, and a copy of employment agreements. We require this information to provide human resources and accounting services. 
+
+_Third Parties_
+
+We receive information about you from other users, third-party service providers, partners, and affiliates.
+
+  * **Other Users.** Other users may share information about you when they use our Services. For example, your partner may add you to their profile information or share your email address to add you to the partner account. 
+  * **Third-party Service Providers.** Babylist receives information about you from third-party service providers who act on our behalf. These services include fulfilling orders or purchases, payment processing, validating contact data, sending marketing communications, and providing cloud infrastructure.
+  * **Partners.** We receive information about you from our partners who provide a variety of services to Babylist. These services may include consulting, training, analytics, marketing, and advertising.
+
+
+
+_Other Information About You_
+
+When you choose to call us, text us, or send us an email, you may provide additional personal information about yourself, your partner, or others. For example, when you submit information regarding a technical problem you are experiencing with the Services, we will request your contact information, problem summary, screenshots, and other information that might be helpful to resolve your technical issue. We may also combine this information with other information about you that we already have.
+
+  
+
+
+#### MARKETING
+
+We use the information about you and your browsing history for the following marketing purposes:
+
+  * Send you marketing communications via email or SMS text
+  * Show you our ads on other websites and social media
+  * Conduct marketing research so we can suggest products and services we believe may be of interest to you
+  * Generate web analytics
+
+
+
+Babylist does not use personal information about you in automated decision making or profiling.
+
+  
 
 
 #### HOW WE SHARE YOUR INFORMATION
 
-_Personal Information:_  Baby List will not rent or sell your Personal Information to others except with your explicit consent. To operate the Service, however, we may share your Personal Information with our agents, representatives and contractors so they can provide us with support services and other features and fulfill your orders.  We require these third parties not to use your Personal Information for any other purpose.  We may store Personal Information in locations outside the direct control of Baby List (for instance, on servers or databases co-located with hosting providers). 
+We do not rent, sell, or purchase information about you from data brokers, unless we have your consent. We may share, rent, or sell non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, items on your registry, etc.) with interested third parties to help them understand the usage patterns for our Services.
 
-_Browsing Information_ : We may share, rent or sell non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for our Service. Non-personally identifiable information may be stored indefinitely. 
+  * **Third-party Service Providers.** Babylist uses third-party service providers who act on our behalf. These third parties are authorized to use information about you only as necessary to provide these services to us. The services may include fulfilling orders or purchases, payment processing, validating contact data, sending marketing communications, and providing cloud infrastructure.
+  * **Partners.** From time to time, we work with other third parties who act as our partners to offer you joint products and services. If you decide to use such products or services, we will share certain information about you with our partners in accordance with this Privacy Notice, our Terms and Conditions, and any applicable provisions of our partner agreements. We may share your information with partners in connection with their services, such as to assist with billing and collections, provide localized support, and deliver customizations. If you opt into product giveaways, we will share your name and the email address you provided to sign up for the giveaway. Our current giveaway partners include: 
+  
 
-_Instances where we are required to share your information_ : Baby List will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use or to protect the security or integrity of our Service and our property (including our intellectual property); and/or (c) to exercise or protect the rights, property, or personal safety of Baby List, our users or others. 
+      * Babyletto
+      * HALO
+      * Pampers
+      * Nuna
+      * Freshly Picked
+      * Stokke
+      * Baby Brezza
+      * Solly Baby
+      * Nena & Co.
+      * Burt's Bees Baby
+      * Bamboobies
 
-_What happens in the event of a change of control_ : We may buy or sell/divest/transfer our company (including any shares in our company), or any combination of our products, services, assets and/or businesses at any time. All information, whether Personal Information or Browsing Information, related to the Service may be sold or otherwise transferred in connection with any such transaction(s). We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company. Any transferees who receive your information in connection with a change of control must abide by the terms of this Privacy Policy. 
 
-_Employee Data_ : Baby List also collects and uses personal data regarding its employees (“Employee Data”), which may include: name, address, job title and other job information, location, compensation information, identification number, employment history, and a copy of employment agreements. 
 
-Only authorized Baby List staff have access to your Personal Information in its entirety. Other staff may have access to portions of this information if it pertains to their job duties. 
+We also share both anonymized and aggregate data, which does not include personally identifiable information, with our marketing, industry, and vendor partners.
 
-#### YOUR CHOICES ABOUT RECEIVING MARKETING MESSAGES 
+  * **Change of Ownership.** If Babylist is involved in a merger, acquisition, dissolution, or sale of all or a portion of its assets, we reserve the right to transfer information about you. You will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of information about you and any choices you may have.
+  * **Public authorities.** In certain situations, we may be required to disclose information about you in response to lawful requests by public authorities, including national security and local law enforcement. We may also disclose information about you to: 
+    * Comply with a subpoena or other legal process requests
+    * Protect our rights
+    * Protect your safety or the safety of others
+    * Investigate fraud
+    * Respond to a government request
 
-Baby List offers you the choice of receiving different types of communication and information related to our company, products and services. You may subscribe to e-newsletters or other publications or you may also elect to receive marketing communications and other special offers from us via email. To help us understand whether we are providing information of interest to you, we may include software code or other tracking technologies in our emails to monitor whether you opened a particular email, whether you have clicked on the images and/or links in the email, the date and time the message was opened, and whether your computer is capable of receiving HTML-based email. We endeavor to allow you to unsubscribe at any time from our email programs by clicking on the unsubscribe link at the bottom of any email message.  You may also access and manage your preferences from your account, when available, or by contacting us directly at support@babyli.st. We reserve the right to send you service announcements or similar administrative messages, without offering you the opportunity to opt out of receiving them. 
+  
 
-_HOW WE PROTECT YOUR INFORMATION; SECURITY AND PASSWORDS_
 
-Baby List takes what it believes to be commercially reasonable physical, electronic, and procedural safeguards to protect Personal Information. However, since no security system is impenetrable and "perfect security" does not exist on the Internet, we cannot guarantee the security of Personal Information or Browsing Information. 
+#### LEGAL BASIS FOR PROCESSING YOUR INFORMATION
 
-If you create an account to use the Service, you may be asked to choose a password for your account, which can be used to access information associated with your account (including Personal Information). You should choose a password that is not easy to guess, and does not use words that you would find in a dictionary. Do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and we will attribute activities that occur using your account information (e.g., through the use of your password) to you. If you suspect that your password has been compromised contact us immediately at support@babyli.st. 
+We collect and use information about you per applicable law, contractual obligations, and with transparency and fairness. The legal basis for processing depends on the Services you use and how you use them. We rely on the following lawful grounds: 
 
-#### COMPROMISE OF PERSONAL INFORMATION
+  * **Consent.** Where appropriate or legally required, we collect and use information about you subject to your consent. 
+  * **Performance of contract.** We collect and use information about you to enter into a contract with you or to perform a contract that you have with us. 
+  * **Legitimate interests.** Legitimate interests. We collect and use information about you for our legitimate interests to improve our Services, deliver content, optimize your experience, and market our products and services. 
+  * **Compliance with laws.** We may also collect and use information about you:
+    * As required by law, such as to comply with a subpoena or similar legal process
+    * When we believe in good faith that disclosure is necessary to protect our rights or property, protect your health and safety or the health and safety of others, investigate fraud, or respond to a government request
+    * If we are involved in a merger, acquisition, or sale of all or a portion of its assets
 
-In the event that Personal Information is compromised as a result of a breach of security, Baby List will promptly notify those persons whose Personal Information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. In the event that we or our Service suffers a data security breach that requires us to provide you with notice, such as under applicable law, you consent to allow us to provide you with such notice by sending an e-mail to the primary e-mail address that is associated with your account. 
+  
 
-#### NOTIFICATION PROCEDURES
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by Baby List in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+#### CHOICES YOU MAY HAVE
 
-#### HOW YOU CAN UPDATE YOUR INFORMATION
+Where appropriate or legally required, we will describe how we use information collected, so you can make choices about how your information is used. You can notify us of your preferences during the information collection process and change your selection at any time by contacting us directly. Also, when we ask you to provide your information, you may decline. However, please note that if you choose to decline, you may not be able to use some of our Services. 
 
-Baby List believes strongly in giving you the ability to access and update or correct your Personal Information. You may update your Personal Information by logging into your account on Baby List’s Website, when available, or by contacting us directly at support@babyli.st. 
+  * **Marketing communication.**
+    * _Email._ You can choose to unsubscribe from our marketing emails at any time by clicking on the unsubscribe link at the bottom of any email message. 
+    * _SMS._ You can opt-out of receiving marketing SMS messages by following instructions provided in every SMS message. 
 
-#### CHILDREN'S PRIVACY
 
-Children 18 and under are not eligible to use Baby List’s Service without the participation and supervision of a legal parent or guardian. Baby List is not designed for children and does not provide privacy measures to protect children. If you believe your child has provided Baby List with personally identifiable data and you would like to have the data removed, please contact us at support@babyli.st. Baby List does not knowingly target children under 18, and makes reasonable efforts to ensure that the targeting of children under 18 does not occur.  We urge parents to monitor their children’s use of all digital media. 
 
-#### LINKS TO OTHER WEB SITES
+If you have created a Babylist account, you may access, manage, and update your account information and communication preferences using your account or by contacting us directly at [support@babylist.com](mailto:support@babylist.com).
 
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our Website, are subject to that third party’s own rules and policies. We encourage our users to be to familiarize themselves with the privacy statements of all websites that they visit and interact with. 
+  * **Transactional communication.** From time to time, we may send you transactional email with announcements, payment confirmations, changes to our services, and other similar administrative messages. You do not have the opportunity to opt out of receiving these messages.
+  * **Third-Party marketing, advertising, and other communication.** You may opt-in to receive emails or other communications from our partners, vendors, or affiliates. If you do opt-in, you may be subject to the third-party’s separate Privacy Notice. You are responsible for managing your email preferences subject to that statement. Please note that some advertising companies may gather information about your visit to the Services through cookies, web beacons, and other technologies in order to enable advertising companies to market products or services to you, to monitor which ads have been served to your browser, and which webpages you were viewing when such ads were delivered. If you would like to learn more about this practice, and know your choices with respect to it, please visit [here](http://optout.networkadvertising.org/).
+  * **Cookies.** You can control the use of cookies at the individual browser level. If you reject or delete cookies, our Services may no longer function for you. Each browser provides different mechanisms for managing cookies. Look at your browser’s help menu to determine the best way to modify your browser’s cookie storage. For more information about how to control or delete cookies, visit [https://www.aboutcookies.org/](https://web.archive.org/privacy). 
 
-#### CALIFORNIA PRIVACY RIGHTS
 
-Users who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to support@babyli.st. 
+
+We will process your opt-out requests as soon as possible, but please note that it may take us up to 30 days to process your request and you may receive a few more messages until your request is processed.
+
+  
+
+
+#### HOW WE PROTECT YOUR INFORMATION
+
+We use reasonable and appropriate physical, technical, and administrative industry safeguards to protect information from unauthorized access, use, loss, misuse or unauthorized alteration. We will make reasonable efforts to protect personal information stored on our servers from unauthorized access using commercially available computer security products (for example, firewalls), as well as carefully developed security procedures and practices. Notwithstanding our security safeguards, it is impossible to guarantee 100% security in all circumstances. If you have any questions about our security practices, you can contact Babylist at the address listed below. Also, it is important that you protect and maintain the security of your account credentials and notify us immediately of any unauthorized use of your account.
+
+When you create a password for your account, choose a password that is not easy to guess and does not use words that you would find in a dictionary. Do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and we will attribute activities that occur using your account information (e.g., through the use of your password) to you. If you suspect that your password has been compromised contact us immediately at [support@babylist.com](mailto:support@babylist.com).
+
+  
+
+
+#### COOKIES AND OTHER TRACKING TECHNOLOGIES
+
+We and our service providers may use cookies and other tracking technologies to collect your information when you use our Services. We use such information to analyze trends, remember user settings, administer our Services, track user movements, and market our products and services. We may obtain reports based on the use of these technologies on an individual and/or aggregated basis. For more information about cookies and other tracking technologies we use, please refer to our [Cookie Notice](https://web.archive.org/cookie-notice). 
+
+  
+
 
 #### DO NOT TRACK
 
-We do not track or respond to browser “Do Not Track” Requests.  
+We do not track or respond to browser "Do Not Track" Requests.
+
+  
 
 
-#### VISITORS RESIDING OUTSIDE THE UNITED STATES 
+#### INTERNATIONAL TRANSFERS
 
-Baby List and its Service are based in the U.S., and Baby List’s offices are headquartered in the U.S.  Please be aware that information you provide to Baby List or that it obtains as a result of your use of the Service may be processed and transferred to the U.S. and be subject to U.S. law.  The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence.  By using the Website, participating in any of the Service, or by providing Baby List with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S. Baby List will take commercially reasonable steps to safeguard your data in accordance with this Privacy Policy, but is not responsible for the privacy and security practices of third parties.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Baby List or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. However, such parties must abide by the terms of this Privacy Policy. 
+Babylist, its Services, and users are based in the United States (the “US”). When you use our Services, we may transfer, store, and process information about you to servers and databases located outside of your home country. The privacy and data protection laws in the US may not be equivalent to such laws in your country of residence. By using our Services, you acknowledge and agree to this collection, transfer, storage, and processing of information. 
 
-#### UPDATES TO OUR PRIVACY POLICY
+  
 
-We reserve the right to update this Privacy Policy from time to time. When we do, we will revise the "Effective Date" at the top of this Privacy Policy. We encourage you to check this page periodically for any updates. If you continue to use the Service following the posting of an updated version of this Privacy Policy, we will treat your continued use as acceptance of the updated version.  
+
+#### DATA PRIVACY RIGHTS
+
+Depending on a country where you are located, you may have the following rights:
+
+  * A right to lodge a complaint with the supervisory authority where Babylist processes your information in a way that does not comply with the laws and regulations.
+  * A right of access to information undergoing processing. Babylist may charge a reasonable administrative fee if further copies of your information are requested.
+  * A right to rectify inaccuracies in information Babylist collects and holds about you. If your account information is incomplete or inaccurate you can update your information directly in your Babylist account or contact [support@babylist.com](mailto:support@babylist.com) for assistance.
+  * A right to require your information to be provided to you or to another company in a commonly used electronic form.
+  * A right to object to specific types of processing such as direct marketing, processing based on legitimate interest or performance of a task in the public interest/exercise of official authority, and processing for research or statistical purposes.
+  * A right to have your information ‘erased’ or to restrict processing of information. 
+  * A right to withdraw your consent for future processing.
+
+  
+
+
+#### CALIFORNIA PRIVACY RIGHTS
+
+Users who are California residents may request and obtain from us once a year, free of charge, certain information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to [support@babylist.com](mailto:support@babylist.com). 
+
+  
+
+
+#### CHILDREN'S PRIVACY
+
+Babylist does not knowingly target children under 18 and makes reasonable efforts to ensure that the targeting of children under 18 does not occur. Children 18 and under are not eligible to use Babylist's Service without the participation and supervision of a legal parent or guardian. If you believe your child has provided Babylist with personal information, please contact us at [support@babylist.com](mailto:support@babylist.com) so we can remove the information. We urge parents to monitor their children's use of all digital media. 
+
+  
+
+
+#### DATA STORAGE AND RETENTION
+
+We store your information as long as business necessary to provide our Services and to fulfill our legal and contractual obligations. If a Babylist registry has no activity for 90 days, or a user does not access their account for 12 months, we set those registries to “private” which hides them from search engines. All information is retained.
+
+  
+
+
+#### LINKS TO OTHER WEB SITES
+
+We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Notice does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our Website, are subject to that third party's own rules and policies. We encourage our users to be to familiarize themselves with the privacy statements of all websites that they visit and interact with.
+
+  
+
+
+#### SOCIAL MEDIA FEATURES AND WIDGETS
+
+We use social media features, including the Facebook Like button and widgets, such as the Share button or similar interactive mini-programs that run on our Services. These features may collect your IP address and other personal data including which page you are visiting on our site and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these Features are governed by the privacy policy of the company providing it. Refer to the below section covering online targeting to learn how you can limit such collection. For more information on the technologies used by these social networks, please refer to their specific privacy notices listed below:
+
+  * Facebook: [https://www.facebook.com/about/privacy/](https://web.archive.org/privacy?target=_blank)
+  * Twitter: [https://twitter.com/privacy](https://web.archive.org/privacy?target=_blank)
+  * YouTube: [https://policies.google.com/privacy?hl=en](https://web.archive.org/privacy?target=_blank)
+  * Instagram: [https://help.instagram.com/155833707900388](https://web.archive.org/privacy?target=_blank)
+
+
+
+If you provide us your personal information, we may use it to interact with you on these social networks. Our interactions with you would also be subject to that social media network's privacy notice, terms of use, and your consent as appropriate. 
+
+  
+
+
+#### UPDATES TO OUR PRIVACY NOTICE
+
+We periodically review and update this Privacy Notice to reflect current technologies, new business practices, or changes in legal circumstances. When we do, we will revise the "Effective Date" at the top of this Privacy Notice. We encourage you to review this Privacy Notice periodically for any updates. If we are going to use personal data in a manner that is materially different from that stated at the time of collection or make any material changes in our privacy practices, we will notify you by posting these changes in a prominent notice on this website. If you do not agree with the privacy practices disclosed in the Privacy Notice, we recommend that you stop using our Services.
+
+  
+
 
 #### CONTACTING US
 
-If you have any remaining questions about how we treat your privacy, just let us know. You can contact us by writing to us at support@babyli.st. 
+If you have any questions or concerns about Babylist privacy practices, please contact us at [support@babylist.com](mailto:support@babylist.com) or mail us at: 
+
+Attn: Babylist Privacy  
+Babylist  
+1625 Clay Street, Suite 500   
+Oakland, CA 94612   
+
