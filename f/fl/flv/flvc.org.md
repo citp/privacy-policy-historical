@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701111010id_/https%3A//www.floridashines.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829221747id_/https%3A//www.floridashines.org/privacy) for the most accurate reproduction.*
 
 # FloridaShines | Colleges & Careers in Florida
 
@@ -22,4 +22,4 @@ The functions of the university may at times involve the collection and dissemin
 
 Please note it is your obligation to determine and satisfy copyright or other usage restrictions when copying, printing, publishing, or otherwise distributing material found using UWF websites.
 
-If you have questions regarding UWF's Web / Internet Privacy Policy, please feel free to e-mail us at its@uwf.edu or contact us by telephone at 850-474-2555.
+If you have questions regarding UWF's Web / Internet Privacy Policy, please feel free to e-mail us at [help@flvc.org ](mailto:help@flvc.org)or contact us by telephone at 850-556-2210.
