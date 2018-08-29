@@ -1,78 +1,97 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719103734id_/https%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829065139id_/https%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+Your privacy is important to us. It is Trails.com's policy to respect your privacy regarding any information we may collect from you across our website and other sites we own and operate. 
 
-  
-Trails.com values your privacy. You may contact us any time to learn more about this privacy policy by sending an email to _customerservice@trails.com_. This privacy statement (the "Privacy Statement") describes how Trails.com collects and uses information about you when you use the Trails.com web site ("Site").  By using this site, you understand and agree to the terms of this Privacy Statement.  This Privacy Statement applies to the website located at Trails.com and any of our affiliated websites.
+Information we collect
 
-**Collection of Information by Trails.com**
+**Log data**
 
-Unless you consent otherwise, we do not collect a
+When you visit our website, our servers may automatically log the standard data provided by your web browser. This data is considered "non-identifying information", as it does not personally identify you on its own. It may include your computer's Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details. 
 
-ny personally identifiable information about you, such as name, address, phone number, or e-mail address. However, we do obtain some types of nonpersonally identifiable information, such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example).  The nonpersonally identifiable information that the Site collects is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.  In some cases, you may voluntarily provide personal information in response to a specific ad (the advertiser may ask you to fill out a survey or provide your zip code). If this does occur, the Site may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, we may combine this information with other users' information and review it in an aggregate form to understand the type of people who view a specific type of ad or visit a particular kind of website.
+We may also collect data about the device you are using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us. 
 
-With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. You may sign up to receive news by providing your email address.  Registering with an account requires that you provide additional personally identifiable information, such as your name, e-mail address, user identification password, mailing address, telephone number and credit card information and other information (collectively "Personal Information"). For registered users, we may save any information you choose to upload such as your comments, photographs or reviews.  If you do not provide the Personal Information, you will not be able to register with the Site. You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. **  
-  
-**
+**Personal information**
 
-If you are required to log in to social network services to utilize features of the Site, we may receive information about you from such social network services, including your login and settings, and you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through such social network services. Please be aware that your actions may also be subject to the privacy policies and various terms of service applicable to such social network services.
+We may ask for personal information, such as your: 
 
-**  
-Tracking Technologies and Cookies**
-
-You must have Cookies turned ON to be a member at Trails.com. Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences. Cookies enable you to login, and help us personalize your experience at the Site by permitting our computer server to "remember" who you are, and measure and improve the effectiveness of the Site.  Third party advertising companies serve ads on our Site.  Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers. **
-
-Use of Personal Information
-
-**
-
-  
+  * Name
+  * Email
+  * Social media profiles
+  * Payment information
 
 
-Trails.com uses your Personal Information to: operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions. You may correct or update your Personal Information by sending e-mail to _customerservice@trails.com.   _
 
-  
-We may send you information from time to time about Trails.com promotional offerings. You may be entitled to stop the delivery of promotional information from Trails.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending an e-mail to _customerservice@trails.com.   _We will not share your Personal Information with any third party without your prior consent.  Your consent to receipt of promotional offerings from third parties may be indicated in the appropriate check boxes within the Site signifying your preferences.  For any third party promotional offerings, you may be entitled to stop delivery of the promotional information from such third parties by contacting the source of that promotional offering.  
+This data is considered "identifying information", as it can personally identify you. We only request personal information relevant to providing you with a service, and only use it to help provide or improve this service. 
 
-If you stop delivery of promotional information from Trails.com, we may still contact you when there are changes to the Terms of Use and/or the Privacy Statement. In addition, we will still send you service-related announcements including, but not limited to, a registration email, benefit notification emails, emails automatically triggered by actions you took on the Site and bill related notices. Generally, you may not opt-out of these communications, which are not promotional in nature. If you wish not to receive them, you have the option of deactivating your account. **  
-  
-**
+How we collect information
 
-We also share Personal Information with certain companies that perform services on our behalf. We only share the Personal Information which is necessary for them to perform those services. We require any company with which we may share Personal Information to protect that data in a manner consistent with this Privacy Statement and to limit the use of such Personal Information to the performance of services for us.
+We collect information by fair and lawful means, with your knowledge and consent. We also let you know why we're collecting it and how it will be used. You are free to refuse our request for this information, with the understanding that we may be unable to provide you with some of your desired services without it. 
 
-**  
-Children's Privacy**
+Use of information
 
-Children under the age of 18 are not allowed to purchase products on the Site. Trails.com does not knowingly collect Personal Information about children under the age of 18 or allow them to place orders on the Site. If Trails.com learns that a child under the age of 18 is placing orders on the Site, Trails.com will close the child's account and delete all information collected about the child. Notwithstanding the foregoing, Trails.com may choose to retain the child's e-mail address as a means to prevent the child from re-registering with Trails.com. ****
+We may use a combination of identifying and non-identifying information to understand who our visitors are, how they use our services, and how we may improve their experience of our website in future. We do not disclose the specifics of this information publicly, but may share aggregated and anonymised versions of this information, for example, in website and customer usage trend reports. 
 
-**Data Retention**
+We may use your personal details to contact you with updates about our website and services, along with promotional content that we believe may be of interest to you. If you wish to opt out of receiving promotional content, you can follow the "unsubscribe" instructions provided alongside any promotional correspondence from us. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to delete your account or request that we no longer use your information to provide you services contact us at _customerservice@trails.com_. We will respond to your request within 30 days. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+Data processing and storage
 
-**Security**
+The personal information we collect is stored and processed in United States, or where we or our partners, affiliates and third-party providers maintain facilities. We only transfer data within jurisdictions subject to data protection laws that reflect our commitment to protecting the privacy of our users. 
 
-We take reasonable steps to protect Personal Information and use technology such as SSL encryption, access control procedures, firewalls and physical security. If you use Netscape Navigator or Internet Explorer, SSL displays a "lock" to signify that a page is secure. We urge you to use a password to protect your account from unauthorized access by others. If others, including family or household members, access and use the Site through your password, you are responsible for the actions of those individuals. We strive to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. While we use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. **
+We only retain personal information for as long as necessary to provide a service, or to improve our services in future. While we retain this data, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure, and cannot guarantee absolute data security. 
 
-Other Situations in which Personal Information May Be Disclosed
+If you request your personal information be deleted, or where your personal information becomes no longer relevant to our operations, we will erase it from our system within a reasonable timeframe. 
 
-**
+Cookies
 
-We may store and disclose Personal Information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary or advisable to conform to legal and regulatory requirements or processes and to protect the rights, safety and property of Trails.com, users of the Site, and the public. **
+We use "cookies" to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our [Cookie Policy](https://web.archive.org/cookiepolicy.aspx "view cookie policy") for more information. 
 
-Changes To The Trails.com Privacy Statement
+Third-party access to information 
 
-**
+We use third-party services for: 
 
-Trails.com may make changes to this Privacy Statement from time to time. We will post changes to our privacy statement here, so be sure to check back periodically. You will be deemed to have been made aware of, and will be subject to, any changes to the Privacy Statement after such notice has been posted. We may also notify you of significant changes by e-mail or in other ways. **
+  * Analytics tracking 
+  * User authentication 
+  * Advertising and promotion 
+  * Content marketing 
+  * Email marketing 
+  * Payment processing
 
-Questions, Comments, Concerns
 
-**
 
-If you have any questions or comments about our use of Personal Information, please contact us at 
+These services may access our data solely for the purpose of performing specific tasks on our behalf. We do not share any personally identifying information with them without your explicit consent. We do not give them permission to disclose or use any of our data for any other purpose. 
 
-_customerservice@trails.com_
+Advertisements are sometimes targeted and served to particular users and may come from third party companies; These third party companies include ad networks, ad agencies, and ad technology vendors. Third party ad vendors we work with include but are not limited to: A9, AppNexus, bRealTime, Carambola, Conversant (Valueclick), DistrictM, Index Exchange, OpenX, Pubmatic, Rubicon, Sovrn, TripleLift, AdBridg, Google DFP / AdX, Google Adsense and JWPlayer. 
 
-. We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information.
+We may, from time to time, allow limited access to our data by external consultants and agencies for the purpose of analysis and service improvement. This access is only permitted for as long as necessary to perform a specific function. We only work with external agencies whose privacy policies align with ours. 
+
+We will refuse government and law enforcement requests for data if we believe a request is too broad or unrelated to its stated purpose. However, we may cooperate if we believe the requested information is necessary and appropriate to comply with legal process, to protect our own rights and property, to protect the safety of the public and any person, to prevent a crime, or to prevent what we reasonably believe to be illegal, legally actionable, or unethical activity. 
+
+We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties. 
+
+Children's Privacy 
+
+This website does not knowingly target users under the age of 18, or collect personal information from children. As a parent/guardian, if you believe your child is participating in an activity involving personal information on our website, and you have no received a notification or request for consent, please contact us at customerservice@trails.com. We do not use your supplied contact details for marketing or promotional purposes. 
+
+Limits of our policy
+
+This privacy policy only covers Trails.com's own collecting and handling of data. We only work with partners, affiliates and third-party providers whose privacy policies align with ours, however we cannot accept responsibility or liability for their respective privacy practices. 
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices. 
+
+Changes to this policy
+
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. If you are a registered user on https://www.trails.com, we will notify you using the contact details saved in your account. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information. 
+
+Your rights and responsibilities
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+
+As our user, you have the right to be informed about how your data is collected and used. You are entitled to know what data we collect about you, and how it is processed. You are entitled to correct and update any personal information about you, and to request this information be deleted. You may amend or remove your account information at any time, using the tools provided in your account control panel. 
+
+You are entitled to restrict or object to our use of your data, while retaining the right to use your personal information for your own purposes. You have the right to opt out of data about you being used in decisions based solely on automated processing. 
+
+If you have any concerns or questions about how we handle your data and personal information, feel free to contact us at customerservice@trails.com. 
+
+**This policy is effective as of 05/01/2018**
