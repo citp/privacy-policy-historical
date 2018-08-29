@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rockymountainpower.net privacy policy that was archived on 2017-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170905145146id_/https%3A//www.rockymountainpower.net/footer/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockymountainpower.net privacy policy that was archived on 2018-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180829100825id_/https%3A//www.rockymountainpower.net/footer/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Privacy</title>
@@ -222,7 +222,8 @@ There are times when Rocky Mountain Power is required to furnish information con
 
 
 <div class="cq-dd-paragraph">
-<!-- Start Content Block with Optional Image  --><div> <p>
+<!-- Start Content Block with Optional Image  --><div> 
+<p>
 	For more information, please review our <a href="https://www.rockymountainpower.net/footer/privacy/cp.html">general practices and customer identification methods.</a></p>
 </div><!-- End Content Block with Optional Image -->
     
@@ -243,18 +244,19 @@ There are times when Rocky Mountain Power is required to furnish information con
 
 
 
+<script type="text/javascript" src="/etc/designs/pacific_power/js/jqmodal.js"></script>
 <script type="text/javascript" src="/etc/designs/pacific_power/js/pcloginfunctions.js"></script>
 
 
 
 <script type="text/javascript">
 // <![CDATA[
-        
+
    function showLoginBox() {
 
     var userFName = "";
     var userIsLoggedIn = document.cookie.search(/CAMS_SID_CSSPROD[^_]+_SYSTEM/) != -1;
-        
+
     if(userIsLoggedIn){
         setTempCookie('login_status','true',10,'/',getPrimaryDomain());
     } else {
@@ -272,9 +274,10 @@ There are times when Rocky Mountain Power is required to furnish information con
     var signinTextJS = '';
     var maintMessageJS = '';
     
-    var logoutBox = buildLogoutJS('<br />'+ userFName, maintMessageJS,'https://www.rockymountainpower.net/identity/logout?cams_security_domain=system&amp;cams_after_logout_url=https://www.rockymountainpower.net/ya/logout.wcssn.html','https://www.rockymountainpower.net/ya/uaora/uyai.wcss.html','https://www.rockymountainpower.net/ya/uaora/uyai.wcss.html');     
-    var loginBox = buildLoginJS( signinTextJS, maintMessageJS,'https://www.rockymountainpower.net/identity/login', 'https://www.rockymountainpower.net/ya/ya.wcss.html');
-
+       var logoutBox = false ? buildHomepageLogoutJS('<br />'+ userFName, maintMessageJS,'https://www.rockymountainpower.net/identity/logout?cams_security_domain=system&amp;cams_after_logout_url=https://www.rockymountainpower.net/ya/logout.wcssn.html','https://www.rockymountainpower.net/ya/uaora/uyai.wcss.html','https://www.rockymountainpower.net/ya/uaora/uyop.wcss.html') :
+       									   buildLogoutJS('<br />'+ userFName, maintMessageJS,'https://www.rockymountainpower.net/identity/logout?cams_security_domain=system&amp;cams_after_logout_url=https://www.rockymountainpower.net/ya/logout.wcssn.html','https://www.rockymountainpower.net/ya/uaora/uyai.wcss.html','https://www.rockymountainpower.net/ya/uaora/uyop.wcss.html');     
+       var loginBox = false ? buildHomepageLoginJS( signinTextJS, maintMessageJS,'https://www.rockymountainpower.net/identity/login', 'https://www.rockymountainpower.net/ya/ya.wcss.html','https://www.rockymountainpower.net/wum/cwa1.wcssn.html', 'https://www.rockymountainpower.net/wum/fu1.wcssn.html', 'https://www.rockymountainpower.net/wum/fp1.wcssn.html') :
+       										buildLoginJS( signinTextJS, maintMessageJS,'https://www.rockymountainpower.net/identity/login', 'https://www.rockymountainpower.net/ya/ya.wcss.html');
     if (userIsLoggedIn) {
         document.getElementById('logindiv').innerHTML = '<div class="inner">' + logoutBox + '</div><!-- end inner div --><span class="fill-bottom"></span>';
     } else {
@@ -301,6 +304,16 @@ $j(document).ready(function(){
         $j("#loginButton").addClass("btn-disabled").attr("disabled","disabled");
         return true;
     });
+
+    var userIsLoggedIn = document.cookie.search(/CAMS_SID_CSSPROD[^_]+_SYSTEM/) != -1;
+    if (userIsLoggedIn) {
+        $j("#nav-account #account").removeClass("displaynone");
+        $j("#nav-account #signin").addClass("displaynone");
+    } else {
+        $j("#nav-account #account").addClass("displaynone");
+        $j("#nav-account #signin").removeClass("displaynone");
+    }
+
 });
 
 // ]]>
@@ -317,7 +330,8 @@ $j(document).ready(function(){
 <h3 class="callout-header">Customer Service</h3>
 <img src="/content/dam/rocky_mountain_power/image/Callouts/customerservice_interior.jpg" alt="Customer Service"><p><a href="https://www.rockymountainpower.net/about/contact.html">Customer service</a><br>
 1-888-221-7070</p>
-<p><a href="https://www.rockymountainpower.net/ya/ys/sns.wcssn.html">Start service</a></p>
+<p><a href="https://www.rockymountainpower.net/ya/ys/sns.wcssn.html">Start service</a><br>
+</p>
 <p><a href="https://www.rockymountainpower.net/ya/rypo.wcss.html">Report a power outage</a><br>
 1-877-508-5088</p>
 <p><a href="https://www.rockymountainpower.net/ed/streetlights/raso.html">Report a streetlight outage</a></p>
@@ -371,7 +385,7 @@ $j(document).ready(function(){
     </tr>
     <tr>
         <td align="center" style="border:none">
-            <a href="#" onclick="window.open('http://vovici.com/wsb.dll/s/469fg41169');$j('#meerkat').hide();return false;">
+            <a href="#" onclick="window.open('https://efmfeed.verintefm.com/se/0A88ACC87C69834A');$j('#meerkat').hide();return false;">
                 <img src="/etc/designs/pacific_power/img/css/btn_yes.gif" style="border:0px;" alt="Yes">
             </a> 
             <a href="#" onclick="$j('#meerkat').hide();return false;">
@@ -398,47 +412,46 @@ $j(document).ready(function(){
     
   
     
-<div id="footer-social-media"><h4 id="footer-social-media-text">Stay Connected</h4>
-<ul><li>
+<div id="footer-social-media"><ul><li>
   <a title="Facebook" href="https://www.facebook.com/rockymountainpower">
     <img class="normal" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_facebooksmall.gif" alt="Facebook">
-    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_facebooksmallhover.gif" alt="Facebook">
+    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_facebooksmall.gif" alt="Facebook">
   </a>
 </li>
 <li>
   <a title="Twitter" href="https://www.rockymountainpower.net/about/nr/sc.html">
     <img class="normal" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_twittersmall.gif" alt="Twitter">
-    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_twittersmallhover.gif" alt="Twitter">
+    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_twittersmall.gif" alt="Twitter">
   </a>
 </li>
 <li>
   <a title="youtube" href="https://www.youtube.com/user/RockyMountainPower">
     <img class="normal" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_youtube.gif" alt="youtube">
-    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_youtubehover.gif" alt="youtube">
+    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_youtube.gif" alt="youtube">
   </a>
 </li>
 <li>
   <a title="LinkedIn" href="https://www.linkedin.com/company/rocky-mountain-power-inc-">
     <img class="normal" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_linkedin.gif" alt="LinkedIn">
-    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_linkedinhover.gif" alt="LinkedIn">
-  </a>
-</li>
-<li>
-  <a title="Instagram" href="https://www.instagram.com/rockymountainpower/">
-    <img class="normal" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_instagram.gif" alt="Instagram">
-    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_instagramhover.gif" alt="Instagram">
+    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_linkedin.gif" alt="LinkedIn">
   </a>
 </li>
 <li>
   <a title="RSS" href="https://www.rockymountainpower.net/about/nr/rss.html">
     <img class="normal" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_rss.gif" alt="RSS">
-    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_rsshover.gif" alt="RSS">
+    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_rss.gif" alt="RSS">
+  </a>
+</li>
+<li>
+  <a title="Instagram" href="https://www.instagram.com/rockymountainpower/">
+    <img class="normal" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_instagram.gif" alt="Instagram">
+    <img class="rollover" src="/content/dam/rocky_mountain_power/image/Footer_Text/ftr_instagram.gif" alt="Instagram">
   </a>
 </li>
 </ul></div><!-- /footer-social-media-->  
     
     <ul class="nav inline">           <li><a href="https://www.rockymountainpower.net/index.html">Home</a> :</li>           <li><a href="https://www.rockymountainpower.net/footer/ee.html">Español</a> :</li>           <li><a href="https://www.rockymountainpower.net/footer/sm.html">Site Map</a> :</li>           <li><a href="https://www.rockymountainpower.net/footer/privacy.html">Privacy</a> :</li>           <li><a href="https://www.rockymountainpower.net/footer/tou1.html">Terms of Use</a> :</li>           <li><a href="https://www.rockymountainpower.net/footer/ri/ri.wcssn.html">Request Information</a> :</li>           <li><a href="https://www.rockymountainpower.net/footer/contact.html">Contact Us</a></li></ul>
-            <p>©2017 Rocky Mountain Power, a division of <a href="http://www.pacificorp.com/index.html">PacifiCorp</a> and part of <a href="http://www.berkshirehathawayenergyco.com/" class="external">Berkshire Hathaway Energy</a><br>
+            <p>©2018 Rocky Mountain Power, a division of <a href="http://www.pacificorp.com/index.html">PacifiCorp</a> and part of <a href="http://www.berkshirehathawayenergyco.com/" class="external">Berkshire Hathaway Energy</a><br>
 </p>
       
 
@@ -451,23 +464,23 @@ $j(document).ready(function(){
     <ul id="nav">
         <li id="nav-youraccount">
             <a href="https://www.rockymountainpower.net/ya/index.wcss.html">Your Account</a>
-            <ul><li><a href="https://www.rockymountainpower.net/ya/vpb.wcss.html">View &amp; Pay Bills</a></li><li><a href="https://www.rockymountainpower.net/ya/wtp.html">Ways to Pay</a></li><li><a href="https://www.rockymountainpower.net/ya/kyb.html">Your Bill</a></li><li><a href="https://www.rockymountainpower.net/ya/ys.html">Start, Stop or Move</a></li><li><a href="https://www.rockymountainpower.net/ya/po.html">Power Options</a></li><li><a href="https://www.rockymountainpower.net/ya/uaora.html">Online Profile &amp; Preferences</a></li><li><a href="https://www.rockymountainpower.net/ya/ll.html">Landlord Information &amp; Programs</a></li><li><a href="https://www.rockymountainpower.net/ya/rypo.wcss.html">Report Power Outage</a></li></ul>
+            <ul><li><a href="https://www.rockymountainpower.net/ya/vpb.wcss.html">View &amp; Pay Bills</a></li><li><a href="https://www.rockymountainpower.net/ya/wtp.html">Payment &amp; Billing Options</a></li><li><a href="https://www.rockymountainpower.net/ya/cp.wcss.html">Your Alerts</a></li><li><a href="https://www.rockymountainpower.net/ya/vu.wcss.html">Usage Details</a></li><li><a href="https://www.rockymountainpower.net/ya/uaora.html">Online Profile &amp; Account Information</a></li><li><a href="https://www.rockymountainpower.net/ya/ys.html">Start, Stop or Move</a></li><li><a href="https://www.rockymountainpower.net/ya/ll.html">Landlord Information &amp; Programs</a></li><li><a href="https://www.rockymountainpower.net/ya/rypo.wcss.html">Report Power Outage</a></li></ul>
         </li>
         <li id="nav-residential">
             <a href="https://www.rockymountainpower.net/res.html">Residential</a>
-            <ul><li><a href="https://www.rockymountainpower.net/res/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.rockymountainpower.net/res/sem.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.rockymountainpower.net/res/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.rockymountainpower.net/res/po1.html">Power Outages</a></li><li><a href="https://www.rockymountainpower.net/res/fa.html">Financial Assistance</a></li><li><a href="https://www.rockymountainpower.net/res/rc.html">Rates &amp; Charges</a></li><li><a href="https://www.rockymountainpower.net/res/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.rockymountainpower.net/res/new-service.html">New Construction</a></li></ul>
+            <ul><li><a href="https://www.rockymountainpower.net/res/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.rockymountainpower.net/res/po1.html">Power Outages</a></li><li><a href="https://www.rockymountainpower.net/res/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.rockymountainpower.net/res/sem.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.rockymountainpower.net/res/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.rockymountainpower.net/res/new-service.html">New Construction</a></li><li><a href="https://www.rockymountainpower.net/res/fa.html">Financial Assistance</a></li><li><a href="https://www.rockymountainpower.net/res/rc.html">Rates &amp; Charges</a></li></ul>
         </li>
         <li id="nav-business">
             <a href="https://www.rockymountainpower.net/bus.html">Business</a>
-            <ul><li><a href="https://www.rockymountainpower.net/bus/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.rockymountainpower.net/bus/se.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.rockymountainpower.net/bus/ayu.html">Understand Your Bill</a></li><li><a href="https://www.rockymountainpower.net/bus/renewable-energy.html">Renewable Energy Choices</a></li><li><a href="https://www.rockymountainpower.net/bus/rr.html">Rates &amp; Regulation</a></li><li><a href="https://www.rockymountainpower.net/bus/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.rockymountainpower.net/bus/po1.html">Power Outages</a></li><li><a href="https://www.rockymountainpower.net/bus/streetlights.html">Streetlights</a></li></ul>
+            <ul><li><a href="https://www.rockymountainpower.net/bus/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.rockymountainpower.net/bus/po1.html">Power Outages</a></li><li><a href="https://www.rockymountainpower.net/bus/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.rockymountainpower.net/bus/se.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.rockymountainpower.net/bus/renewable-energy.html">Renewable Energy Choices</a></li><li><a href="https://www.rockymountainpower.net/bus/ayu.html">Understand Your Bill</a></li><li><a href="https://www.rockymountainpower.net/bus/rr.html">Rates &amp; Regulation</a></li><li><a href="https://www.rockymountainpower.net/bus/streetlights.html">Streetlights</a></li></ul>
         </li>
         <li id="nav-contractors">
             <a href="https://www.rockymountainpower.net/con/index.html">Contractors</a>
-            <ul><li><a href="https://www.rockymountainpower.net/con/bsrf.wcssn.html">Builder Service Request Form</a></li><li><a href="https://www.rockymountainpower.net/con/lee.html">Line Extension Estimator</a></li><li><a href="https://www.rockymountainpower.net/con/esr.html">Electric Service Requirements</a></li><li><a href="https://www.rockymountainpower.net/con/able.html">Applicant-Built Line Extensions</a></li><li><a href="https://www.rockymountainpower.net/con/ucsi.html">Underground Conduit Systems</a></li><li><a href="https://www.rockymountainpower.net/con/pqs.html">Power Quality Standards</a></li><li><a href="https://www.rockymountainpower.net/con/af.html">Arc Flash &amp; Fault Current</a></li><li><a href="https://www.rockymountainpower.net/con/erow.html">Easements &amp; Right of Way</a></li><li><a href="https://www.rockymountainpower.net/con/sp.html">Suppliers &amp; Purchasing</a></li></ul>
+            <ul><li><a href="https://www.rockymountainpower.net/con/esr.html">Electric Service Requirements</a></li><li><a href="https://www.rockymountainpower.net/con/lee.html">Line Extension Estimator</a></li><li><a href="https://www.rockymountainpower.net/con/bsrf.wcssn.html">Builder Service Request Form</a></li><li><a href="https://www.rockymountainpower.net/con/able.html">Applicant-Built Line Extensions</a></li><li><a href="https://www.rockymountainpower.net/con/ucsi.html">Underground Conduit Systems</a></li><li><a href="https://www.rockymountainpower.net/con/af.html">Arc Flash &amp; Fault Current</a></li><li><a href="https://www.rockymountainpower.net/con/erow.html">Easements &amp; Right of Way</a></li><li><a href="https://www.rockymountainpower.net/con/pqs.html">Power Quality Standards</a></li><li><a href="https://www.rockymountainpower.net/con/sp.html">Suppliers &amp; Purchasing</a></li></ul>
         </li>
         <li id="nav-efficiency">
             <a href="https://www.rockymountainpower.net/env.html">Efficiency &amp; Environment</a>
-            <ul><li><a href="https://www.rockymountainpower.net/env/oec.html">Our Environmental Commitment</a></li><li><a href="https://www.rockymountainpower.net/env/rycf.html">Reduce Your Carbon Footprint</a></li><li><a href="https://www.rockymountainpower.net/env/ws.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.rockymountainpower.net/env/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.rockymountainpower.net/env/nmcg.html">Private Generation</a></li><li><a href="https://www.rockymountainpower.net/env/ev.html">Electric Vehicles</a></li><li><a href="https://www.rockymountainpower.net/env/bssssp.html">Utah Subscriber Solar Program</a></li><li><a href="https://www.rockymountainpower.net/env/utah-sustainable-energy-plan.html">Utah Sustainable Transportation &amp; Energy Plan</a></li></ul>
+            <ul><li><a href="https://www.rockymountainpower.net/env/ws.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.rockymountainpower.net/env/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.rockymountainpower.net/env/nmcg.html">Customer Generation</a></li><li><a href="https://www.rockymountainpower.net/env/ev.html">Electric Vehicles</a></li><li><a href="https://www.rockymountainpower.net/env/bssssp.html">Utah Subscriber Solar Program</a></li><li><a href="https://www.rockymountainpower.net/env/oec.html">Our Environmental Commitment</a></li><li><a href="https://www.rockymountainpower.net/env/ev2020.html">Energy Vision 2020</a></li></ul>
         </li>
         <li id="nav-safety">
             <a href="https://www.rockymountainpower.net/ed.html">Safety &amp; Outages</a>
@@ -481,60 +494,8 @@ $j(document).ready(function(){
 </div><!-- /wrapper -->
 
 <script type="text/javascript" src="/etc/designs/pc_global/js/jquery.meerkat.1.0.js"></script>
+<script type="text/javascript" src="/etc/designs/pacific_power/js/survey.js"></script>
 
-<script type="text/javascript">
-// <![CDATA[
-
-$j(document).ready(function(){
-    
-    var visitCount;
-
-    if (getCookie("visits") == null) 
-    {   
-        visitCount = 1; 
-    }   
-    // else this is second or greater visit, retrieve last counted value and add 1    
-    else    
-    {   
-        visitCount = parseInt(getCookie("visits") == null ? 0 : getCookie("visits")) + 1;
-        if (visitCount == 9)
-        {
-            enableCatfishSurvey();
-        }
-    }
-    // update cookie with new count
-    if (visitCount < 12)
-    {
-        setCookie("visits", visitCount,60,"/");
-    }
-});
-
-function enableCatfishSurvey() {
-    
-    meerkat({
-      showMeerkatOnLoad: 'false',
-      close: 'none',
-      dontShow: 'none',
-      dontShowExpire: 0,
-      removeCookie: 'none',
-      meerkatPosition: 'bottom',
-      animation: 'slide',
-      animationSpeed: '3000',
-      height: 'auto',
-      background: 'none'
-    });
-
-    // If the browser is IE6 we want to adjust where the popup will start on the screen
-    // The styles that work for FF and IE7 are not working in IE6, big surprise
-    if ($j.browser.msie && $j.browser.version <= 6) {
-        var topAdjust = ($j(document).height() - 160) + 'px';
-        var leftAdjust = $j('#wrapper').offset().left;
-        $j('#meerkat-wrap').css({'position':'absolute', 'top':topAdjust, 'left':-leftAdjust});
-    }
-}
-
-// ]]>
-</script>
 
 
 
