@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510152302id_/http%3A//www.cqc.org.uk/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829064318id_/https%3A//www.cqc.org.uk/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Care Quality Commission
 
 We use personal data (information that relates to and identifies living people) and other information to help us to carry out our role as the regulator of health and adult social care services in England.
 
-[More about our purpose and role](http://www.cqc.org.uk/about-us/our-purpose-role/who-we-are).
+[More about our purpose and role](https://www.cqc.org.uk/about-us/our-purpose-role/who-we-are).
 
 We will always make sure that your information is protected and treated securely. Any information about you that we hold, or details you give us, will be held in accordance with:
 
-  * the Data Protection Act 1998
-  * CQC's Information Governance Policy
+  * Data protection law - the General Data Protection Regulation (GDPR) and the Data Protection Act 2018
+  * CQC's Information Governance Policies
   * CQC's Code of Practice on Confidential Personal Information.
 
 
 
+[Healthwatch England](https://www.healthwatch.co.uk/content/privacy) and the ‘Freedom to Speak Up’ [National Guardian’s Office](https://www.cqc.org.uk/national-guardians-office/content/national-guardians-office) are hosted by CQC and follow the same rules and policies on processing personal data.
+
 ## Information about people who use services & members of the public
 
-### Accessing medical records and other care records
+### How we may access and use your personal and medical records
 
-We have powers under the [Health and Social Care Act 2008](http://www.legislation.gov.uk/ukpga/2008/14/contents) to access and use information – including personal and medical records – where we consider this is necessary for us to carry out our functions as a regulator. We also have powers to access and use information as part of our role protecting the rights of people whose rights are restricted under the Mental Health Act 1983.
+We have powers under the [Health and Social Care Act 2008](http://www.legislation.gov.uk/ukpga/2008/14/contents) to access and use information – including personal and medical records – where we consider this is necessary for us to carry out our functions as a regulator. We also have powers to access and use information as part of our role protecting the rights of people whose rights are restricted under the Mental Health Act 1983, and powers under the Health and Safety at Work Act 1974.
 
 For example, we check that care services are complying with the regulations regarding record keeping, care planning, consent, cooperating with other providers, and management of medicines.
 
@@ -26,7 +28,7 @@ We publish our guidance for our staff on accessing medical and care records. We 
 
 If you do not want us to look at your personal information when we check services, tell your care provider. They can mark your records to show that you do not want us to see them.
 
-If we know that you don’t want us to look at your information, we will respect your wishes, other than in rare circumstances explained in our Code of Practice on Confidential Personal Information.
+If we know that you don’t want us to look at your information, we will respect your wishes, other than in rare circumstances which are explained in our Code of Practice on Confidential Personal Information.
 
 ### Other information we receive from care services
 
@@ -40,7 +42,7 @@ We sometimes ask care providers for contact details of people who use their serv
 
 ### Personal data that we receive from other sources
 
-We receive information from people who use the services we regulate, their families, friends and carers. For example, we ask people to [share their experiences of care](http://www.cqc.org.uk/sye) with us. We also talk to people during inspections and receive letters, emails, telephone calls, comment cards and survey responses in which people tell us about care. These often contain personal data.
+We receive information from people who use the services we regulate, their families, friends and carers. For example, we ask people to [share their experiences of care](https://www.cqc.org.uk/sye) with us. We also talk to people during inspections and receive letters, emails, telephone calls, comment cards and survey responses in which people tell us about care. These often contain personal data.
 
 We also receive information that sometimes contains personal data from other sources, such as NHS England, other regulators, councils and the police.
 
@@ -78,7 +80,7 @@ Some of this information is unique to a person (NHS Number, local patient identi
 
 We need this information to help meet our purpose of ensuring safe, effective and compassionate, high-quality care. For example, we may compare death rates at different hospitals, look for unusually high infection rates, and check for appropriate use of the Mental Health Act.
 
-NHS Digital send us this information because we meet their strict requirements on keeping it secure and only using it in a way that supports our work. Our powers under the Health and Social Care Act 2008 allow us to require NHS Digital to provide us with this information. [Find out more about how we use data to monitor services](http://www.cqc.org.uk/what-we-do/how-we-use-information/using-data-monitor-services).
+NHS Digital send us this information because we meet their strict requirements on keeping it secure and only using it in a way that supports our work. Our powers under the Health and Social Care Act 2008 allow us to require NHS Digital to provide us with this information. [Find out more about how we use data to monitor services](https://www.cqc.org.uk/what-we-do/how-we-use-information/using-data-monitor-services).
 
 #### Could others identify individuals from the data?
 
@@ -90,7 +92,7 @@ Under agreement of NHS Digital, we may send codes (hospital numbers) to the hosp
 
 If you have concerns about data that we receive from NHS Digital, or wish to object to your information being shared in this way, see the [NHS Digital website](http://content.digital.nhs.uk/yourinfo).
 
-**Publishing information**
+### Publishing information
 
 We take care to ensure that our inspection reports and other publications do not identify people who use care services.
 
@@ -130,9 +132,9 @@ We sometimes ask for staff contact details so that we can ask them about the ser
 
 Our inspection powers allow us to interview any person who works for a registered care provider in private. We take notes of these interviews and use the information that we receive to guide our inspections and make our regulatory judgements.
 
-People who work for registered providers may also contact us to share concerns about services, or other information that may assist us in our work. [Find out more about raising concerns about services where you work](http://www.cqc.org.uk/contact-us/report-concern/report-concern-if-you-are-member-staff).
+People who work for registered providers may also contact us to share concerns about services, or other information that may assist us in our work. [Find out more about raising concerns about services where you work](https://www.cqc.org.uk/contact-us/report-concern/report-concern-if-you-are-member-staff).
 
-We consider the records of interviews, and other information we receive from people who work at care services, to be confidential, and we handle this information in accordance with the Data Protection Act 1998 and our Code of Practice on Confidential Personal Information. There may be times when we need to share this information with others. This includes where we believe a vulnerable person is at risk of harm, or when another organisation needs to take action to ensure the safety and quality of care.
+We consider the records of interviews, and other information we receive from people who work at care services, to be confidential, and we handle this information in accordance withdata protection law and our Code of Practice on Confidential Personal Information. There may be times when we need to share this information with others. This includes where we believe a vulnerable person is at risk of harm, or when another organisation needs to take action to ensure the safety and quality of care.
 
 ## Information about our own staff and people applying to work for or with us
 
@@ -148,9 +150,9 @@ We check that people who work for us are fit and suitable for their roles. This 
 
 People joining CQC will be asked to complete a ‘declaration of interests’ form to identify any services we regulate to which they have close links (for example, because they have previously worked there or because the service is run by a close relative) or any other issues which could cause a perceived conflict of interest. Staff are regularly asked to update these forms.
 
-We share information about our employees as required to meet our contractual obligations to them – for example, by sharing relevant information with pension service administrators.
+We share information about our employees as required to meet our contractual obligations to them – for example, by sharing relevant personal data with pension service administrators. We also share personal data where required by law – for example, by providing information about our employees to HMRC.
 
-We have a legal obligation to comply with the Freedom of Information Act 2000 and this may include the requirement to disclose some information about our employees – especially those in senior or public facing roles. We also publish some information about our staff, including the names and work contact details of people in some roles and information on the [salary bands of all employees](http://www.cqc.org.uk/about-us/transparency/salaries-structure-staff-survey).
+We have a legal obligation to comply with the Freedom of Information Act 2000 and this may include the requirement to disclose some information about our employees – especially those in senior or public facing roles. We also publish some information about our staff, including the names and work contact details of people in some roles and information on the [salary bands of all employees](https://www.cqc.org.uk/about-us/transparency/salaries-structure-staff-survey).
 
 ## Information about people who use our website
 
@@ -170,7 +172,7 @@ This privacy statement covers the CQC site. This does not cover links within thi
 
 ### Online services – 'Your CQC account'
 
-Any details we collect through your CQC account and our online notification and registration forms will be held in accordance with the Data Protection Act 1998 and CQC's Data Protection Policy on confidential and personal information.
+Any details we collect through your CQC account and our online notification and registration forms will be held in accordance with data protection law, CQC's Data Protection Policy and Code of Practice on Confidential Personal Information.
 
 Information that has been saved (or autosaved) in our online forms but not sent or submitted to us will not ordinarily be reviewed by us. In certain circumstances, or if we are required to as part of an investigation, we may need to view pending versions of forms.
 
@@ -178,54 +180,66 @@ Information that has been saved (or autosaved) in our online forms but not sent 
 
 We use a third-party supplier to provide our e-newsletter service. If you subscribe to this service, your name and email address will be shared with them.
 
-The third-party supplier handles the data purely to provide this service on our behalf. This supplier observes the requirements of the Data Protection Act 1998 in how they obtain, handle and process your information. They will not make your data available to anyone other than CQC without your permission.
+The third-party supplier handles the data purely to provide this service on our behalf. This supplier observes the requirements of data protection law in how they obtain, handle and process your information. They will not make your data available to anyone other than CQC without your permission.
 
 ### How we share information with other organisations
 
-We publish [information about how we work with other organisations](http://www.cqc.org.uk/about-us/our-partnerships/partnerships-other-organisations).
+We publish [information about how we work with other organisations](https://www.cqc.org.uk/about-us/our-partnerships/partnerships-other-organisations).
 
 We only share personal data with other organisations where it is lawful to do so and in accordance with our Code of Practice on Confidential Personal Information. We do not use personal data for direct marketing (promoting or selling goods, services etc.) or share information with anyone else who will use it for direct marketing, unless you have specifically consented to this.
 
 We sometimes use other organisations to process personal data on our behalf. Where we do this, those companies are required to follow the same rules and information security requirements as us, and are not permitted to reuse the data for other purposes.
 
-We work with [Experts by Experience](http://www.cqc.org.uk/about-us/jobs/experts-experience) and Specialist Advisors who are not employees of CQC, but who work with our inspection teams. We also coordinate the work of Second Opinion Appointed Doctors who provide an independent medical opinion for people whose rights are restricted under the Mental Health Act. We sometimes need to share personal data with these people, or with the organisations that support them on our behalf. For example, passing contact details of someone who has contacted CQC to an Expert by Experience so that they can telephone them to discuss their care. They work to our requirements and standards to ensure that they protect this information properly.
+We work with [Experts by Experience](https://www.cqc.org.uk/about-us/jobs/experts-experience), Mental Health Reviewers and Specialist Advisors who are not employees of CQC, but who work with our inspection teams. We also coordinate the work of Second Opinion Appointed Doctors who provide an independent medical opinion for people whose rights are restricted under the Mental Health Act. We sometimes need to share personal data with these people, or with the organisations that support them on our behalf. For example, passing contact details of someone who has contacted CQC to an Expert by Experience so that they can telephone them to discuss their care. They work to our requirements and standards to ensure that they protect this information properly.
 
 ### Retention and disposal of personal data
 
-We publish a [retention and disposal schedule](http://www.cqc.org.uk/about-us/our-policies/freedom-information-data-protection) which explains how long we keep different types of records and documents for, including records and documents containing personal data. Personal data is deleted or securely destroyed at the end of its retention period.
+We publish a [retention and disposal schedule](https://www.cqc.org.uk/about-us/our-policies/freedom-information-data-protection) which explains how long we keep different types of records and documents for, including records and documents containing personal data. Personal data is deleted or securely destroyed at the end of its retention period.
 
-### Changes to the law – the General Data Protection Regulation (GDPR)
+This document also shows the legal basis under Article 6 of GDPR for processing each type of record and document. Where records and documents contain ‘special category’ personal data (such as health information, or information about a person’s racial or ethnic origin, religious or philosophical beliefs, or sex life or sexuality), the document also shows the legal basis under Article 9 for CQC’s processing of that information.
 
-The GDPR will come into force in May 2018, and will replace much of the Data Protection Act 1998. We are working to ensure that we will process personal data in accordance with the requirements of the GDPR, once it comes into force.
+## Your rights
 
-### Your rights
+### Your right to access information about you
 
-#### Your right to access information about you
+If you think we may hold your personal data, you have a right to receive a copy of your personal data that we hold, and to information about how and why your personal data has been processed by CQC. You can [find out how to make a subject access request](https://www.cqc.org.uk/about-us/our-policies/freedom-information-data-protection#information-about-you). We may ask you for proof of identity before we can provide you with your personal data.
 
-If you think we may hold your personal data and you want to see it, [find out how to make a subject access request](http://www.cqc.org.uk/about-us/our-policies/freedom-information-data-protection#information-about-you). We may ask you for proof of identity and a small fee before responding to your request.
+You can ask us to provide your personal data to you in your preferred format, including as paper copy or in a machine-readable form.
 
-### Correcting or deleting your personal data
+### Correcting your personal data
 
-If you think that we may already hold your personal data, and you want us to correct information that you believe is wrong, or if you want us to delete your personal data or to stop processing it, then you have [the right to object to the data being used](https://ico.org.uk/for-organisations/guide-to-data-protection/principle-6-rights/damage-or-distress/) or to [ask for it to be corrected](https://ico.org.uk/for-organisations/guide-to-data-protection/principle-6-rights/correcting-inaccurate-personal-data/https:/ico.org.uk/for-organisations/guide-to-data-protection/principle-6-rights/correcting-inaccurate-personal-data/).
+If you think that the information we hold about you may be wrong or incomplete, you can ask us to correct it. We will usually respond to you within one month to inform you of the action we have taken. If we need to refuse your request to correct your personal data, we will explain the reasons for this to you.
 
-Please make your objection in writing by sending an email to: [information.access@cqc.org.uk](mailto:information.access@cqc.org.uk)
+### Erasing your personal data (your "right to be forgotten")
 
-or send it by post to:
+You have the right to ask us to erase your personal data that we hold where:
 
-Information Rights Manager  
-Care Quality Commission  
-Citygate  
-Gallowgate  
-Newcastle upon Tyne  
-NE1 4PA
+  * We no longer need to use that personal data for the purpose for which it was originally obtained, or
+  * We are relying upon your consent to hold that personal data, and you wish to withdraw that consent (please note: we do not rely on consent to hold personal data that we need for the purpose of our regulatory functions), or
+  * You object to our holding and use of your personal data, and we do not have an overriding reason why we need to keep doing so, or
+  * We have processed your personal data unlawfully.
 
-Sometimes we may need to refuse a request to delete, correct or stop processing personal data. For example this may be when we need to protect a vulnerable person from harm, or as a result of our legal obligations, or to help us carry out our functions.
 
-**Complaints about how we process personal data**
 
-If you are unhappy about how CQC processes your own personal data, or have any other complaint about our actions, [find out how to make a complaint](http://www.cqc.org.uk/contact-us/how-complain/complain-about-cqc).
+We will usually respond to you within one month to inform you of the action we have taken. If we need to refuse your request to correct your personal data, we will explain the reasons for this to you.
 
-If you feel that we have not met our responsibilities under the Data Protection Act 1998, you have a right to request an independent assessment from the Information Commissioner’s Office (ICO). You can find more details on their website [www.ico.org.uk](http://www.ico.org.uk/).
+### Restricting, or objecting to, how we use your personal data
+
+You have the right to ask CQC not to process your personal data in ways which you object to – for example, not to share it with anyone.
+
+You can do this where you feel that the personal data is inaccurate, has been unlawfully processed by CQC and you object to its erasure, or is no longer needed for the purpose for which it was originally obtained but you require it for the conduct of legal proceedings.
+
+You can also object to our processing of your personal data, on grounds relating to your particular situation.
+
+We will usually respond to you within one month to inform you of the action we have taken. If we need to refuse your request to correct your personal data, we will explain the reasons for this to you.
+
+## Contacting CQC about your personal data
+
+If you are unhappy about how CQC processes your own personal data, wish to exercise your rights in relation to your personal data, or need to contact us about our processing of personal data, please use the contact details below.
+
+For any other complaint about our actions, find out [how to make a complaint](https://www.cqc.org.uk/contact-us/how-complain/complain-about-cqc).
+
+If you feel that we have not met our responsibilities under data protection law, you have a right to request an independent assessment from the [Information Commissioner’s Office (ICO)](https://www.cqc.org.uk/www.ico.org.uk).
 
 ### Our contact details and key roles
 
@@ -236,7 +250,7 @@ Care Quality Commission
 Citygate  
 Gallowgate  
 Newcastle upon Tyne  
-NE40 4JU
+NE1 4PA
 
 Telephone: 03000 616161
 
