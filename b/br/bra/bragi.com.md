@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bragi.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711152817id_/https%3A//www.bragi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragi.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829110508id_/https%3A//www.bragi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bragi
 
