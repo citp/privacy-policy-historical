@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the extremevidztube.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123040955id_/http%3A//extremevidztube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremevidztube.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829203614id_/https%3A//extremevidztube.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Extreme Vidz Tube
+# Privacy Policy - Extreme Vidztube
 
-Privacy Policy
+**Privacy Policy**
 
 This document details important information regarding the use and disclosure of User Data collected on extremevidztube.com
 
@@ -34,4 +34,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS
 
-If you have additional questions then please contact us [HERE](http://extremevidztube.com/contact-us/).
+If you have additional questions then please contact us [HERE](https://extremevidztube.com/contact-us/).
