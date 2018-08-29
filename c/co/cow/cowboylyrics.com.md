@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175203id_/https%3A//www.cowboylyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829063242id_/https%3A//www.cowboylyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Cowboy Lyrics. Privacy
 
-**  
-Partners [ ](http://www.tonemedia.com/) **Since 20.01.2002  
 |  |  |   
 ---|---  
   |  |  |   
@@ -18,6 +16,14 @@ CowboyLyrics.com has created this privacy statement in order to demonstrate our 
 **Information Automatically Logged**
 
 We use your IP address to help diagnose problems with our server and to administer our Web site.
+
+**Legitimate Interest**
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more det ails including opt \- out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com 
+
+**Consent**
+
+Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on o ur website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via. For more details including access requests a nd complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com 
 
 **Advertisers**
 
