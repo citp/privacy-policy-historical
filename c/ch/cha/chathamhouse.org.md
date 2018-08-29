@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605214633id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829061403id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policies | Chatham House
 
 Chatham House (The Royal Institute of International Affairs) and Chatham House Enterprises Limited (" **we** ") are committed to protecting your privacy and being transparent about what information we may hold about you.
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you or that you provide to us is collected and processed by us, whether online (through “ **our Sit** e”: **www.chathamhouse.org** ), via telephone, email, in letters or in any other correspondence or from third parties.
+This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you or that you provide to us is collected and processed by us, whether online (through “ **our Site** ”: **www.chathamhouse.org** ), via telephone, email, in letters or in any other correspondence or from third parties.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -250,7 +250,7 @@ By continuing to use our Site, you shall be deemed to have accepted such changes
 
 ## Contact Us
 
-If you have any questions, comments and requests regarding this privacy policy you can [email us](https://web.archive.org/cdn-cgi/l/email-protection#107471647160627f64757364797f7e507378716478717d787f6563753e7f62772f6365727a7573642d5378716478717d352220587f6563753522205471647135222040627f64757364797f7e) or write to:
+If you have any questions, comments and requests regarding this privacy policy you can [email us](mailto:dataprotection@chathamhouse.org?subject=Chatham%20House%20Data%20Protection) or write to:
 
 Data Protection Officer,  
 The Royal Institute of International Affairs  
