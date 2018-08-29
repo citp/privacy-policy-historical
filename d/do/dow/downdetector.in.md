@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601080926id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829204255id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
 
 # Privacy and cookie statement Down Detector
 
-Via the websites downdetector.com, downdetector.co.uk, canadianoutages.com, aussieoutages.com, downdetector.co.nz, downdetector.sg, downdetector.co.za, downdetector.sg, downdetector.ae, downdetector.ie, downdetector.hk, downdetector.in, herinafter: downdetector websites, (part of Serinus42 B.V. hereinafter: Serinus42), privacy-sensitive or personal data are processed, and cookies are being used. Serinus42 deems careful handling of personal data very important. Personal data are therefore carefully processed and secured by us in accordance with the requirements for the processing of personal data laid down in European privacy legislation. 
+#### Privacy and Cookie Statement
+
+Via the websites downdetector.com, downdetector.co.uk, canadianoutages.com, aussieoutages.com, downdetector.co.nz, downdetector.sg, downdetector.co.za, downdetector.ae, downdetector.ie, downdetector.hk, downdetector.in, herinafter: downdetector websites, (part of Ookla, LLC. hereinafter: Ookla), privacy-sensitive or personal data are processed, and cookies are being used. Ookla deems careful handling of personal data very important. Personal data are therefore carefully processed and secured by us in accordance with the requirements for the processing of personal data laid down in European privacy legislation. 
 
 In our processing activities, we comply with privacy law requirements. This means, among other things, that we: 
 
@@ -16,13 +18,13 @@ In our processing activities, we comply with privacy law requirements. This mean
 
 We act as the controller in the data processing. In this Privacy and Cookie Statement, we explain which personal data we collect and use and for what purposes. We recommend that you read it carefully.
 
-This Privacy and Cookie Statement was most recently revised on 20 May 2018.
+This Privacy and Cookie Statement was most recently revised on 2018-08-13.
 
 #### Processing of personal data
 
 By using our website, you leave certain data with us, which may include personal data. We only store and use personal data that are provided directly by you or which are clearly provided to us for processing purposes. We will not use the personal data for any other purposes, unless you have given your prior consent thereto, or legislation allows us to do so.
 
-Serinus42 utilizes industry standard analytics packages which gather limited information on visitors to our website automatically, and stores this information in server log files. We only collect and process personal data to ensure proper functioning of our website and to analyze trends.
+Ookla utilizes industry standard analytics packages which gather limited information on visitors to our website automatically, and stores this information in server log files. We only collect and process personal data to ensure proper functioning of our website and to analyze trends.
 
 If you use our website, we will process the following personal data: 
 
@@ -47,30 +49,30 @@ We process your personal data for the following purposes:
   * To offer the different functionalities on the website, among which service outages.
   * To make the internet more interesting for you by displaying advertisements that fit your interests via social media;
   * To show you personalized content on our website, that fits your interests;
-  * to inform you about other products and services of Serinus42 (only if you consent to this);
+  * to inform you about other products and services of Ookla (only if you consent to this);
   * to send you offers from other organizations (only if you consent to this).
 
 
 
 #### Retention periods
 
-The personal data collected by us in order to use our website, are retained for two years in our database. Personal data collected for other purposes will not be stored longer than necessary in order to achieve the purposes as named within this Privacy and Cookie Statement. This, unless Serinus42 must observe a longer statutory retention period based on a legal obligation.
+The personal data collected by us in order to use our website, are retained for two years in our database. Personal data collected for other purposes will not be stored longer than necessary in order to achieve the purposes as named within this Privacy and Cookie Statement. This, unless Ookla must observe a longer statutory retention period based on a legal obligation.
 
 #### Provision to third parties
 
-Your personal data can be transferred to and saved by external specialists that are hired by Serinus42 to process data for Serinus42 and to help deliver the content and the services that you request. Serinus42 will take appropriate measures to protect your personal data. Serinus42 will oblige these external specialists to handle your personal data confidentially and to take appropriate technical and organizational measures to protect your data against any form of unlawful processing. 
+Your personal data can be transferred to and saved by external specialists that are hired by Ookla to process data for Ookla and to help deliver the content and the services that you request. Ookla will take appropriate measures to protect your personal data. Ookla will oblige these external specialists to handle your personal data confidentially and to take appropriate technical and organizational measures to protect your data against any form of unlawful processing. 
 
-Additionally, your personal data may be revealed to a third party if Serinus42 is obliged to do so by court order or by any other legal or statutory obligation, or if we think that this is necessary to prevent or stop illegal activities or violations of our policy. 
+Additionally, your personal data may be revealed to a third party if Ookla is obliged to do so by court order or by any other legal or statutory obligation, or if we think that this is necessary to prevent or stop illegal activities or violations of our policy. 
 
 #### Cookies
 
-Cookies are small information files in which we can store information, so that you do not have to fill in that information again. We can also use them to see whether you are visiting us again. This is done through the web browser on your device (including a PC, tablet or smartphone). The information that can be transmitted by a cookie, over the use of our website, can be transferred to the own secured servers of Serinus42 or to the servers of a third party.
+Cookies are small information files in which we can store information, so that you do not have to fill in that information again. We can also use them to see whether you are visiting us again. This is done through the web browser on your device (including a PC, tablet or smartphone). The information that can be transmitted by a cookie, over the use of our website, can be transferred to the own secured servers of Ookla or to the servers of a third party.
 
 Our website uses cookies. Cookies are placed by us, but also placed via third parties that we engage for our processing purposes. We use cookies on our website for the following purposes: 
 
   * to enable the functionality of our website (technical and functional cookies); 
   * to generate overall statistics and gain insight into the use of our website by the public in order to optimize our website and services (analytics cookies);
-  * to make the internet more interesting for you by displaying advertisements that fit your interests and to personalize the ads and content on our website, based on you interests and click and surf behavior (targeting/advertisement cookies);
+  * to make the internet more interesting for you by displaying advertisements that fit your interests and to personalize the ads and content on our website, based on you interests and click and surf behavior (Targeting/ advertisement cookies);
   * to offer you the possibility to share information on our webpages via the different social media channels (social media cookies).
 
 
@@ -79,17 +81,22 @@ For the above-mentioned purposes, we use the following cookies:
 
 Name cookie | Purpose of cookie  
 ---|---  
-AppNexus | Targeting/advertisement  
-Conversant | Targeting/advertisement  
-Criteo | Targeting/advertisement  
-Disqus | Technical/functional: customer interaction  
+AOL | Targeting/ advertisement  
+AppNexus | Targeting/ advertisement  
+bRealTime | Targeting/ advertisement  
+Conversant | Targeting/ advertisement  
+Criteo | Targeting/ advertisement  
+Disqus | Technical/ functional: customer interaction  
+district m | Targeting/ advertisement  
 DoubleClick | Targeting/ advertenties  
 Facebook Connect | Social media  
-Facebook Impressions | Targeting/advertisement  
-Google Adsense | Targeting/advertisement  
+Facebook Impressions | Targeting/ advertisement  
+Google Adsense | Targeting/ advertisement  
 Google Analytics | Analytics: browsing behavior  
-Google Publisher Tags | Targeting/advertisement  
-Index Exchange | Targeting/advertisement  
+Google Publisher Tags | Targeting/ advertisement  
+OpenX | Targeting/ advertisement  
+Index Exchange | Targeting/ advertisement  
+Pulsepoint | Targeting/ advertisement  
 Twitter Syndication | Social media  
 Twitter Button | Social media  
   
@@ -105,6 +112,11 @@ The advertising networks that we use to process advertisements, offer an ‘opt-
   * For ads from Criteo, you can opt out via this link: <https://www.criteo.com/privacy/>;
   * For ads from Conversant, you can opt out via this link: <https://optout.conversantmedia.com/>;
   * For ads from Index Exchange, you can opt out via this link: <http://www.indexexchange.com/privacy/>.
+  * For ads from OpenX, you can opt out via this link: <https://www.openx.com/legal/privacy-policy/>.
+  * For ads from AOL, you can opt out via this link: <https://privacy.aol.com/legacy/advertising-and-privacy/>.
+  * For ads from b Realtime, you can opt out via this link: <http://www.brealtime.com/privacy-policy/>.
+  * For ads from District M, you can opt out via this link: <https://districtm.net/en/page/data-and-privacy-policy/>.
+  * For ads from PulsePoint, you can opt out via this link: [https://www.pulsepoint.com/privacy-policy](httphttps://www.pulsepoint.com/privacy-policy).
 
 
 
@@ -139,11 +151,10 @@ Of course, we also gladly help you if you have any complaints about the processi
 #### Contact details
 
 If you have any questions about your privacy or about the Privacy and Cookie Statement, you can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Besides this you can contact us via the following contact details:  
-Name: Serinus42 B.V., regarding downdetector  
+Name: Ookla, LLC, regarding downdetector  
 Address: Spaarnwouderstraat 37, 2011AB Haarlem, The Netherlands  
-KvK-number: 57668590 (Dutch Chamber of Commerce number)  
 
 
-#### Revoke cookie consent
+#### Revoke cookie permission
 
 If you have previously agreed to the use of cookies as described in this Privacy- and Cookiestatement, but wish to revoke this consent, you can do so by clicking this link.
