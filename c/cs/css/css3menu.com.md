@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the css3menu.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916035943id_/http%3A//css3menu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the css3menu.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829161728id_/http%3A//css3menu.com/privacy.html) for the most accurate reproduction.*
 
 # CSS3Menu -- Privacy Policy
 
@@ -30,4 +30,4 @@ CSS3MENU.COM also collects general demographic information about visitors to our
 
 ### Contact US
 
-For troubleshooting, feature requests, and general help, contact Customer Support at [](mailto:support@css3menu.com). The mailing address is: Flight Forum 40, Eindhoven, 5657 DB, Netherlands. The product official website is located at http://css3menu.com 
+For troubleshooting, feature requests, and general help, contact Customer Support at . The mailing address is: Flight Forum 40, Eindhoven, 5657 DB, Netherlands. The product official website is located at http://css3menu.com 
