@@ -1,83 +1,129 @@
-> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205133559id_/https%3A//www.ebby.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829221541id_/https%3A//www.ebby.com/privacy_policy) for the most accurate reproduction.*
 
 # Ebby Halliday Realtors
 
-Thank you for visiting Ebby.com or any Web site owned, operated, licensed or controlled by Ebby Halliday REALTORS®. Your privacy is very important to us. Our policy is to respect and protect the privacy of visitors to our web sites. In this document, we explain how we use information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy.
+**EBBY HALLIDAY REAL ESTATE, INC.**
 
-For your convenience we have organized our privacy policy into the following topics.
+**d/b/a Ebby Halliday, REALTORS®**
 
-Information Collection and Use
+**Dave Perry-Miller Real Estate**
 
-Information Sharing and Disclosure
+**Williams Trew Real Estate**
 
-Uses of E-mail Addresses
+Because we value you as our customer, we want to address any privacy concerns you may have.  To that end, we have set forth our privacy policy for handling the information you share with us online and through any documentation submitted as part of a real estate transaction with Ebby Halliday Real Estate, Inc.  We want your decision to do business with us to be an informed one.  We have adopted this Privacy Policy to explain what information may be collected when you utilize our applications and services, how we use this information, and under what circumstances we may disclose the information to affiliates and third parties.  You should review this Privacy Policy frequently, as it may change from time to time without notice.  Any changes will be effective immediately upon the posting of the revised Privacy Policy.
 
-Collection of Information by Third-Party Sites and Sponsors
+**1\. Collecting Information**
 
-Use of Cookies
+When you visit our consumer applications or purchase and/or sell real estate with Ebby Halliday Real Estate, Inc. we may collect information about you that you share with us.  We typically collect two kinds of information about you through our applications and real estate services: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our applications or that you provide to us. 
 
-Our Committment to Security
+**a. Personally Identifiable Information:** This identification information may include, but is not limited to, your name, physical address, email address, telephone, mobile and fax numbers, details of your real estate, lending, title and insurance needs and references, and other details of your life (“Personal Information”).
 
-## INFORMATION COLLECTION AND USE
+**b. Non-Personally Identifiable Information:  ** Our definition of non-personally identifiable information is any information that does not personally identify you (“Non-PII”). Non-PII can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous by a de-identification process.  We obtain Non-PII about you from information that you affirmatively provide to us, either separately or together with your personally identifiable information. We also automatically collect certain Non-PII from you when you access any applications.  This information can include, among other things, IP addresses, the type of browser you are using, the third-party website from which your visit originated, the operating system you are using, the domain name of your Internet service provider, the search terms you use on our applications, the specific web pages you visit, the duration and frequency of your visits, and location information.
 
-Two types of information may be collected when you visit Ebby.com, information which you knowingly provide us (called personally identifiable information), and information which is obtained from your visit but is not directly associated with you (called non-personally identifiable information).
+**c. Cookies, Web Beacons and other Tracking Technologies:  ** As you may be aware, it is a common practice that when you visit our consumer applications, we may collect data through the use of cookies, web beacons or other tracking technologies (i.e. small text files placed on your computer by consumer applications), web server logs, and other web tools.  This technology allows us to customize your online experience as well as track your use of our system so that we can improve your experience.  The tracking data we collect may include, but is not limited to, the date, time and location of your visit, the time you spend, the web pages you view, the other consumer applications you visit, your search queries, and basic information about your computer, such as your Internet Protocol (“IP”) address, your domain name, your browser type, and the name of your internet service provider.  By continuing to browse our site, you are agreeing to our use of cookies.  Most web browsers automatically accept cookies, but will also provide controls that allow you to block or delete them.  Instructions for blocking or deleting cookies are generally available in your browser's privacy or help documentation.  If you choose to delete cookies, some settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.  You may deactivate cookies if you do not want your browsing to be tracked.
 
-When you sign up to use one or more of our services, enter a promotion or contest, ask a question or indicate interest in a career with us, we may specifically ask for information about you, including, but not limited to name, age, address, phone number, e-mail address, financial and/or demographic information. This information is used to fulfill the services you requested or to better our Web site offerings to you and users like you.
+When visiting our consumer-facing applications, you may be directed, through hyperlinks, to other consumer applications that are beyond our control.  This Privacy Policy does not cover the collection of information by those other companies and consumer applications.  Although we encourage third parties to provide their own privacy policies, we are not responsible for their activities, such as how they handle the information they collect online.
 
-In the normal course of using Ebby.com we may collect information about your habits and usage of our sites. This non-personally identifiable information is collected without any direct association with you specifically.
+**2\. How We Use & Share Information Collected**
 
-Back to Top
+**a. Personal Information:** We primarily use the identification information you voluntarily share with us to:
 
-## INFORMATION SHARING AND DISCLOSURE
+• Customize your online and/or real estate transaction experiences and to carry out your online requests; 
 
-Agents, employees and contractors of Ebby Halliday® and its affiliates who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of this company.
+• Tell you about our products, services and other offerings; 
 
-Information about you specifically will not be used for any purpose other than to carry out the services you requested from Ebby Halliday® and its affiliates.
+• Contact you for a variety of reasons, such as providing you promotional or marketing information for our products or those of our affiliated companies;
 
-We will not sell or rent your personally identifiable information to anyone at any time without your prior permission.
+• Communicate with you about your real estate transaction; 
 
-We will not use any personal or financial information beyond what is necessary to assist us in delivering to you the services you have requested.
+• In certain instances, we may also share your personally identifiable information with our third-party vendors and marketing partners that, among other activities: perform functions on our behalf (or on behalf of our affiliated companies); administer our offerings; provide us marketing or promotional assistance; analyze our data; assist us with customer service; and offer other services and products that may be relevant to the purchase or sale of real estate.  Our vendors agree to use this information, and we share information with them, only to carry out our requests; 
 
-We will send personally identifiable information about you to other organizations or people when:
+• On occasion, we use your identification information to validate your identity;
 
-  * We have your consent to share the information (you will have an opportunity to opt-out of receiving unsolicited information from companies not owned by Ebby Halliday® who want to market products or services to you);
-  * We need to share your information in order to provide the product or service you have requested; or
-  * We are required to do so by law, for example, in response to a court order or a subpoena.
+• As for usage tracking data, we primarily use that information to operate and improve our consumer applications, and to further our marketing efforts.
 
+You may opt-out from receiving future promotional or marketing information from us, our affiliated companies, and our third-party vendors, or direct that we not share your information with any affiliated companies or third-party vendors, as set forth below in Section 7.  Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be sold to any third parties or used in any manner outside the scope of this Privacy Policy without your prior approval.  We further reserve the right to disclose your information under limited circumstances, such as to cooperate with law enforcement or judicial authorities as required by law or legal process, to protect our own legal rights, or to protect the public good.
 
+**b. Non-PII:** We use Non-PII in a variety of ways, including to:
 
-We routinely use the non-personally identifiable information that we collect to improve the design and content of our sites and to enable us to personalize your Internet experience. We also may use this information to analyze site usage, as well as to offer products, programs, or services to you or other users like you.
+• Help analyze site traffic, understand customer needs and trends; 
 
-Back to Top
+• Carry out targeted promotional activities; 
 
-## USES OF E-MAIL ADDRESSES
+• Improve our services and offerings. 
 
-Ebby Halliday® and its affiliates may periodically send promotional e-mail. You will not receive such e-mail messages unless at the time you provided us with your e-mail address you indicated that you wished to receive such promotional e-mails. If you are asked for your e-mail address and not given the opportunity to opt-out of receiving additional information, then the e-mail address is to be used for the specific service you requested only and will be deleted when you request the service be discontinued. You may request discontinuation of e-mail messages by sending such request by e-mail to webmaster@ebby.com.
+We may use your Non-PII by itself or aggregate it with information we have obtained from others. We may share your Non-PII with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
-Back to Top
+Whenever you are online or on our applications, you run the risk that the information you provide will fall into the wrong hands.  Although we implement and maintain commercially reasonable security procedures and practices to safeguard your privacy, we cannot guarantee the security of any information you provide to us.  We accept no responsibility or liability for the activities of third parties. By using our consumer applications and applications, you agree to our Terms of Use.
 
-## COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS
+**3\. Updating Information**
 
-Ebby.com contains links to various other sites. While we encourage other site developers to adopt privacy policies that build users’ trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to our sites or to which we link. Visitors should consult the other sites’ privacy policies, as we have no control over the information that is submitted to, or collected by, these third parties.
+If you would like to review the information about you that we have collected through our consumer applications, or to change that information, you can make that request by following the procedure indicated below in Section 7.  We may require that you verify your identity before we process your request.
 
-Back to Top
+**4\. Processing Location  **
 
-## USE OF COOKIES
+We process your personal information in the United States. For users located outside of the United States, please see Sections 10 and 11 titled International Users and European Union Residents and General Data Protection Regulation Information for more detailed information. 
 
-Cookies are small text files that are placed on your computer’s hard drive by our servers to identify your computer. Cookies are only read by the server that placed them there and are unable to execute any code or virus. We may use cookies to recognize you when you visit our sites, to personalize your experience and generally to serve you better. For example, if you enter your name, address, telephone number, email address, ZIP code or other personally identifiable information on one of our forms, such information may be, but is not necessarily always, stored in a cookie so you do not have to enter this information again.
+**5\. Anti-Fraud Disclosure**
 
-Back to Top
+Electronic communications such as email, text messages and social media messaging, are neither secure nor confidential. While Ebby Halliday Real Estate, Inc. has adopted policies and procedures to aid in avoiding fraud, even the best security protections can still be bypassed by unauthorized parties. Ebby Halliday Real Estate, Inc. will never send you any electronic communication with instructions to transfer funds or to provide nonpublic personal information, such as credit card or debit numbers or bank account and/or routing numbers.
 
-## IP Addresses
+YOU SHOULD NEVER TRANSMIT NONPUBLIC PERSONAL INFORMATION, SUCH AS CREDIT OR DEBIT CARD NUMBERS OR BANK ACCOUNT OR ROUTING NUMBERS, BY EMAIL OR OTHER UNSECURED ELECTRONIC COMMUNICATION.  EMAILS ATTEMPTING TO INDUCE FRAUDULENT WIRE TRANSFERS ARE COMMON AND MAY APPEAR TO COME FROM A TRUSTED SOURCE.
 
-An IP address is a number that is assigned to your computer whenever you’re using the Internet. Web servers automatically identify your computer by its IP address.
+If you receive any electronic communication directing you to transfer funds or provide nonpublic personal information, EVEN IF THAT ELECTRONIC COMMUNICATION APPEARS TO BE FROM Ebby Halliday Real Estate, Inc. or its affiliates, do not respond to it and immediately contact your real estate agent or title closer. Such requests, even if they may otherwise appear to be from Ebby Halliday Real Estate, Inc., are likely part of a scheme to defraud you by stealing funds from you or using your identity to commit a crime.
 
-Ebby Halliday® and its affiliates collect IP addresses for the purposes of system administration, to report aggregated information to our sponsors, and to audit the use of our site. When visitors request pages from Ebby.com, our servers log the visitor’s IP address. We do not link IP addresses to anything personally identifiable, which means that a visitor’s session will be logged, but the visitor remains anonymous to us.
+To notify Ebby Halliday Real Estate, Inc. of suspected fraud related to your real estate transaction, send an email to [privacy@ebby.com](mailto:privacy@ebby.com?subject=Ebby.com%20Privacy%20Policy%20).
 
-## OUR COMMITTMENT TO SECURITY
+**6\. Updating Our Privacy Policy**
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect via the Internet. We do not sell, trade, or rent your personal information without your prior knowledge and permission.
+We may, from time to time, change our Privacy Policy. We will notify you of any changes by posting our updated Privacy Policy on our consumer applications and inserting a new “Effective Date.”
 
-If you have questions about the privacy procedures employed at Ebby Halliday REALTORS, please contact [privacy@ebby.com](mailto:privacy@ebby.com) or call 972-980-6600.
+**7\. Contacting & Opt-Out Information**
+
+You may contact us as at [privacy@ebby.com](mailto:privacy@ebby.com?subject=Ebby.com%20Privacy%20Policy) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us, our affiliated companies or third parties; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. 
+
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that requests may take up to 30 days and we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our services.
+
+**8\. Effective Date and Contact Information:**
+
+This Privacy Policy is effective as of 06/01/2018. Our company can be reached at:
+
+Address: 4455 Sigma Road, Dallas, TX 75244
+
+Telephone Number: 972.980.6600
+
+Facsimile Number: 972.980.0416
+
+Email Address: [privacy@ebby.com](mailto:privacy@ebby.com?subject=Ebby.com%20Privacy%20Policy)
+
+**9\. California Privacy Rights**
+
+Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties.
+
+To request the above information please contact us by writing to [privacy@ebby.com](mailto:privacy@ebby.com?subject=Ebby.com%20Privacy%20Policy).
+
+**10\. International Users**  
+
+Our consumer applications are hosted by servers in the United States.  If you are located outside of the United States, your personal information may be transferred to the United States.  By submitting your personal information, you consent to its transfer to the United States and to its storage, processing, and use there in accordance with this Privacy Policy.
+
+**11\. European Union Residents and General Data Protection Regulation Information**
+
+In the event that the General Data Protection Regulation “GDPR” (a privacy law applicable to consumers residing in the European Economic Union) is applicable to a specific transaction and/or a specific consumer, any such consumer has the below rights.
+
+**(a)** **Right** **of access**. You have the right to obtain from us confirmation as to whether or not Personal Information concerning you is processed, and to request access to the Personal Information. 
+
+**(b) Right to correct or update.** You have the right to correct or update inaccurate Personal Information about you. 
+
+**(c) Right to restrict processing**. Under certain circumstances, you have the right to restrict the processing of your Personal Information. In such instances, your Personal Information may only be processed by us for limited purposes. 
+
+**(d) Right to object.** Under certain circumstances, you have the right to object to the use or processing of your Personal Information where we no longer have a legitimate or legal need to process it; to object to your Personal Information being processed for direct marketing purposes; and object to automated decision making (including profiling) where the decision would have a legal or similarly significant impact on you.  
+
+**(e) Right to data portability.** Under certain circumstances, you have a right to receive a copy of your Personal Information, which you have provided to us, in a machine-readable format and the right to transmit that Personal Information for use in another party’s service. 
+
+**(f) Right to be forgotten.** Under certain circumstances, you have the right to request that your Personal Information be erased. Some Personal Information may be in backup archives and/or must be retained for legal or compliance reasons. 
+
+To make any of these requests, please follow the instructions outlined in Section 7.  We may require that you verify your identity to the exercise of any of these rights. Under certain circumstances, and in the event of a data breach involving your Personal Information that is likely to result in a risk to your rights and freedoms, we are required to notify the applicable supervisory authority within 72 hours after becoming aware of such a breach. 
+
+If you have been referred to our Company by a third party corporate client or a relocation services company, our Company is acting as a “Data Processor” under the direction of such corporate client or relocation services company, which are deemed “Data Controllers” under GDPR.  The Data Controller is responsible for telling our company how your Personal Information should be used or processed in those specific transactions. 
 
 Back to Top | [Home](https://web.archive.org/)
