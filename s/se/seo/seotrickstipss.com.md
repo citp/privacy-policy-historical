@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotrickstipss.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629175628id_/http%3A//www.seotrickstipss.com/p/privacy-policy_17.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrickstipss.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829064547id_/http%3A//www.seotrickstipss.com/p/privacy-policy_17.html) for the most accurate reproduction.*
 
 # Privacy Policy | Highest Paying Url Shorteners
 
