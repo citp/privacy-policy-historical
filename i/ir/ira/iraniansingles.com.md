@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iraniansingles.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629174035id_/http%3A//www.iraniansingles.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iraniansingles.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829063915id_/http%3A//www.iraniansingles.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Untitled Document
 
