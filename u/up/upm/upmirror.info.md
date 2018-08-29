@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmirror.info privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519152840id_/http%3A//upmirror.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmirror.info privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829225935id_/https%3A//upmirror.info/privacy.php) for the most accurate reproduction.*
 
 # UP Mirror Best file mirroring service
 
