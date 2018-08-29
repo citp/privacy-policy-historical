@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521163802id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829105136id_/https%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy | ConceptDraw
 
@@ -6,7 +6,7 @@
 
 Last updated: May 4, 2018
 
-This Privacy Policy outlines how we collect, store and use data collected from our website [www.conceptdraw.com](http://www.conceptdraw.com/). This policy demonstrates CS Odessa commitment to your privacy and the protection of your personal information. Information obtained from website visitors and customers of our products and services will only be used for the purposes outlined in this policy. Except as specified in this Privacy Policy, at no time will we sell, rent, or otherwise provide your personal information or survey data to a non-agent third party.
+This Privacy Policy outlines how we collect, store and use data collected from our website [www.conceptdraw.com](https://www.conceptdraw.com/). This policy demonstrates CS Odessa commitment to your privacy and the protection of your personal information. Information obtained from website visitors and customers of our products and services will only be used for the purposes outlined in this policy. Except as specified in this Privacy Policy, at no time will we sell, rent, or otherwise provide your personal information or survey data to a non-agent third party.
 
 Use of our website or products constitutes your agreement with this Privacy Policy, so please read it carefully. If you do not agree to this Privacy Policy, please discontinue use of our website and products immediately. This Privacy Policy may also be updated from time to time, as noted in CS Odessa news and customer announcements. Continued use of our website and products following the announcement of these updates constitutes your agreement with the changes.
 
@@ -20,7 +20,7 @@ There are a number of different ways that CS Odessa receives and collects person
 
 When you fill out a form on our website, we store the information you provide to us, such as your name, email address, phone number, and contact message. Following the collection of your data using a website form, we may also use marketing or analytics tools to subsequently track certain purchasing and browsing activities, such as website pages visited, time spent on pages, and marketing emails opened or clicked.
 
-Data collected from our website forms and our marketing tools may be used to periodically send marketing notices, product updates, or company news notices to that email address. You may opt-out of receiving these emails at any time by following the Unsubscribe link located in the footer of these emails or by [contacting us](http://helpdesk.conceptdraw.com/ticket.php). We will process your request as soon as possible. We may also use this data in aggregate to improve our overall website performance and product/service offerings.
+Data collected from our website forms and our marketing tools may be used to periodically send marketing notices, product updates, or company news notices to that email address. You may opt-out of receiving these emails at any time by following the Unsubscribe link located in the footer of these emails or by [contacting us](https://helpdesk.conceptdraw.com/ticket.php). We will process your request as soon as possible. We may also use this data in aggregate to improve our overall website performance and product/service offerings.
 
 ### Installation and Use of ConceptDraw Products
 
@@ -56,7 +56,7 @@ Information gathered during installation may be used by CS Odessa to authenticat
 
 ### Product Purchases
 
-Information needed to properly fill your order will be gathered and stored when you order products on our web site. To process your order, we use the service of SWREG, Inc. processing services. You can review their Privacy Statement by following the link:[ www.swreg.org](http://www.swreg.org/privacy.htm)
+Information needed to properly fill your order will be gathered and stored when you order products on our web site. To process your order, we use the service of SWREG, Inc. processing services. You can review their Privacy Statement by following the link:[ www.swreg.org](https://www.swreg.org/privacy.htm)
 
 We also reserve the right to share this data within our group of partners and local resellers. Otherwise, we do not share this information with anyone.
 
@@ -122,7 +122,7 @@ We may make use of cookies on our website. We use cookies to allow us to automat
 
 Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the website if cookies are disabled. We do not use flash cookies.
 
-For more information on how to disable cookies, you should consult the documentation or instructions that accompanied your web browser or by visiting the [Federal Trade Commission ](http://www.ftc.gov/ftc/cookies.shtm) website.
+For more information on how to disable cookies, you should consult the documentation or instructions that accompanied your web browser or by visiting the [Federal Trade Commission ](https://www.ftc.gov/ftc/cookies.shtm) website.
 
 ## GDPR
 
@@ -130,7 +130,7 @@ We are aware of the General Data Protection Regulation (GDPR). The GDPR covers t
 
 ## Your California Privacy rights
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits those customers that are California residents to request that CS Odessa not share your personal information with third parties for their direct marketing use. To make such a request, submit it [here](http://helpdesk.conceptdraw.com/ticket.php).
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits those customers that are California residents to request that CS Odessa not share your personal information with third parties for their direct marketing use. To make such a request, submit it [here](https://helpdesk.conceptdraw.com/ticket.php).
 
 ## Links
 
@@ -144,9 +144,9 @@ CS Odessa websites are general audience sites which are neither designed nor int
 
 ## Right to View, Correct and Remove Information
 
-We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your personal information, to verify its accuracy, and to correct inaccurate information. You can change your preferences at any time by signing into your account through our website with your credentials (email address and password) or by [contacting us](http://helpdesk.conceptdraw.com/ticket.php).
+We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your personal information, to verify its accuracy, and to correct inaccurate information. You can change your preferences at any time by signing into your account through our website with your credentials (email address and password) or by [contacting us](https://helpdesk.conceptdraw.com/ticket.php).
 
-You have "Right to be forgotten" – the right to have all of your personal data permanently deleted from our systems and records. You may send an appropriate request at the email address, phone number, postal address, or by other means provided at [Contact Us](http://www.conceptdraw.com/products/contact-us) page.
+You have "Right to be forgotten" – the right to have all of your personal data permanently deleted from our systems and records. You may send an appropriate request at the email address, phone number, postal address, or by other means provided at [Contact Us](https://www.conceptdraw.com/products/contact-us) page.
 
 ## Storage of Information
 
@@ -158,8 +158,8 @@ Any fees paid by you for ConceptDraw Products or Solutions are non-refundable. Y
 
 ## Changes to Privacy Policy
 
-We are always looking for ways to improve our business and our practices. Consequently, our policies will continue to evolve. As such, CS Odessa reserves the right to alter this privacy policy from time to time. Changes to this policy will be posted to [www.conceptdraw.com](http://www.conceptdraw.com/). We encourage you to visit our privacy page from time to time to view our most current privacy policy. If we make material changes to this privacy policy that expand our rights to use your personal information, we will notify you and seek your consent through email or a prominent posting on our website.
+We are always looking for ways to improve our business and our practices. Consequently, our policies will continue to evolve. As such, CS Odessa reserves the right to alter this privacy policy from time to time. Changes to this policy will be posted to [www.conceptdraw.com](https://www.conceptdraw.com/). We encourage you to visit our privacy page from time to time to view our most current privacy policy. If we make material changes to this privacy policy that expand our rights to use your personal information, we will notify you and seek your consent through email or a prominent posting on our website.
 
 ## Contact Information
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [Contact Us](http://www.conceptdraw.com/products/contact-us) page.
+If you have any questions or suggestions regarding our privacy policy, please contact us at [Contact Us](https://www.conceptdraw.com/products/contact-us) page.
