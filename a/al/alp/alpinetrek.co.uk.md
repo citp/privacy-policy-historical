@@ -1,173 +1,243 @@
-> *The following text is extracted and transformed from the alpinetrek.co.uk privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729182625id_/https%3A//www.alpinetrek.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinetrek.co.uk privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829203928id_/https%3A//www.alpinetrek.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Alpinetrek.co.uk
 
-We take the interest of the data protection very seriously and would like to make sure that your privacy is protected during the use of our web page and our there offered services. Therefore, we have provided a data privacy policy in which we would like to explain to you how we handle with your data.
+In this Privacy Policy, Bergfreunde GmbH, Bahnhofstr. 26, 72138 Kirchentellinsfurt, Telephone: 03 33 33 67058, E-mail: service@alpinetrek.co.uk (hereafter " **we** ", " **us** ") would like to provide you with information about how we process your personal data when you visit our website and use our online shop.
 
-## 1\. Data collection without personal reference
+## 1\. What personal information do we collect from you?
 
-In order to improve the services on our website, we may collect and store specific access data without personal references. Once you request a file from a website, following access data will be collected and stored by default.
+Personal data is any information relating to an identified or identifiable natural person given to us by you or that arises or is collected by us. This can include:
 
-This data record comprises:
+_Registration data:_ When you order goods through our online shop, you can register and open a customer account. When you register, you must enter your name and contact information (e.g. your address, telephone number, e-mail address) and set a password.
 
-  * the web page, which the file was requested from,
-  * the name of the file,
-  * date and time of requirement,
-  * the retention period,
-  * the transferred data amount,
-  * the access status (file transfer, file not found, etc.),
-  * IP address of the questioning computer,
-  * type and update of used web browser,
-  * the used operating system and screen resolution.
+_Order data in the online shop:_ If you order goods through our online shop (using a customer account or as a guest), we process the data entered by you, the data about your person (in particular delivery addresses and payment data) as well as the information provided to you by us. We also collect information about the time, scope and, if necessary, the location of your order.
 
+_Other content data:_ If you use other services on our website, e.g., fill out contact forms, sign up for newsletters, participate in contests or post a comment on our blog, we process the content data you provide and the information we make available to you.
 
+_Usage data:_ We create user profiles under a pseudonym based on how you use our website, which we then use to track how our website is used.
 
-These data will be used solely for statistical purposes and evaluated for technical administration of the site: transmission to third parties does not occur. These anonymous data are stored separately and will not be related to your personal data at any time, ensuring that no one will be able to determine your identity. 
+_Server log data:_ When you use our websites, data (such as your IP address, browser type and version, device type and operating system, the date and time of your visit as well as the pages you accessed and the files you requested) are temporarily stored in a log file on our servers.
 
-## 2\. Collection and storage of personal data
+## 2\. What is the purpose and legal basis for processing your personal data and how long is it stored?
 
-Personal data will only be collected if you provide this voluntarily. Following personal data will be collected during ordering or opening an account: title, name, address, e-mail address and telephone number. Additionally, payment information such as bank details or credit card number will be also collected during the ordering process.
+### 2.1 Your customer account
 
-When subscribing to our newsletter, following personal data will be collected: your e-mail address.
+When you register for a personal customer account, we process the registration data to set up and manage your customer account and process future orders. As a registered customer, you have access to your personal customer account (using your email address and password created by you), in which you can view your order history and save and change your personal settings (e.g. password settings, newsletter settings, invoice and delivery settings).
 
-The provided personal data (title, name, address, e-mail address, telephone number, bank details, credit card number) will be stored according to the legal requirements of the Federal Protection Act and of the Telemedia Act. Your data is treated confidentially.
+The legal basis for processing is our legitimate interest according to Art. 6 (1) (f) GDPR to provide you with the service of a "customer account" as described above respectively for the purpose of performance of the user contract with you (Art. 6 (1) (b) GDPR).
 
-## 3\. Use of personal data
+This data will be deleted if the registration on our website or the customer account is cancelled or changed.
 
-Your personal data are without your express consent exclusively used for contract processing. For the delivery of the products, however, the transmission of your address data to our carrier is necessary. These third parties are obligated to keep the data in confidence and to use them exclusively for the purpose of the delivery. During proceeding payments, we transmit your payment data to the authorised credit institution. Any further disclosure of personal data to third parties does not take place. However and only in individual cases, we are authorised to transmit personal data to the corresponding authorities as far as this information is required solely for the purpose of meeting statutory requirements (i.e. law enforcement).
+You may object to the processing of your data on the basis of Art. 6 (1) (f) GDPR unless we can prove compelling reasons for the processing to continue. However, we will not do this for a customer account. In this case, the following applies: The customer account must then be deleted and is no longer available to you. Please note that we may store the data concerning the orders that are visible in your customer account for a longer period of time (see 2.2).
 
-Your data will not be passed without your consent to other third parties for the purposes of advertising or of market or opinion research. 
+### 2.2 Your orders
 
-## 4\. Newsletter
+We use your order data (such as your name, address, e-mail address, delivery preferences and other information pertaining to your order) to process the order and to deliver the goods you ordered. In addition, depending on the payment method you have selected, either we or payment service providers commissioned by us (see Section 3.2.1) process the payment information required by the respective payment method. For example, we store IBAN and BIC ourselves, while payment service providers store your credit card number, Paypal account details, etc.).
 
-By ordering our newsletter you are indicating us your consent to use your e-mail address for our own advertising purposes. You may at any time revoke your consent to the future storage of your e-mail address and it use for sending the newsletter, either sending us an e-mail to [service@alpinetrek.co.uk](https://www.alpinetrek.co.uk/contact/) or by unsubscribing the newsletter.
+The legal basis for processing is the conclusion and performance of the sales contract for the purchased goods, Art. 6 (1) (b) GDPR.
 
-Permission to send the newsletter: "Subscribe to Alpinetrek Newsletter (you can cancel your subscription at any time.)"
+This data will be deleted when it is no longer required for contract management (including customer service and warranty), unless we are legally obliged to store it, e.g. due to the legal obligation to retain data for commercial or tax-based reasons.
 
-## 5\. Cookies
+### 2.3 Blog with comments feature
 
-Cookies shall be used in this web shop to facilitate the use of the webpage. Cookies are small tags, which are stored on the hard disk of your computer. Cookies allow the recognition of the used computer when accessing the same site again. This means, for example, that you do not need to fill the order form anew. Most of the cookies used by us are so-called "Session-Cookies", which are automatically deleted by your hard disk at the end of your visit. Other cookies remain in your computer so that they allow us to identify you as you visit us again (so-called permanent cookies). In the browser settings can usually be determined at any time whether cookies should be stored by clicking "unable all cookies". We inform you that as far as the cookies are not allowed, our website may not be used in its entirety.
+If you add comments to the comment section of our blog "Base Camp", in which we publish various articles on topics such as travel, outdoor activities and equipment, we process your name and e-mail address (both of which you must provide before using the comment feature), the comment itself, any URL provided (e.g. for your own blog), the date and time of the comment, data about the device you’re using and your IP address. We do this for protection against liability claims in the event that illegal content is published and in order to contact you if a third party should object to your comment.
 
-## 6\. Disclosure, rectification, blocking and cancellation 
+The legal basis for processing is our legitimate interest described above (Art. 6 (1) (f) GDPR).
 
-You can anytime ask free of charge for information about the data stored by us. You may have the right to demand rectification, blocking or cancelation of your stored data. In case that a deletion conflicts with legal or contractual retention obligation, we will block the data. We will supply you on demand with the complete stored data about you and your enterprise as well as give you information free of charge at any time, rectify your data, block or delete as well as answer your questions about collection, storage and use of your data. For this purpose, you may contact following data processing controller:
+You can object to the processing of your data on the basis of Art. 6 (1) (f) GDPR. If there are compelling reasons, we can allow the processing to continue; however, for your comments in the context of our blog, the following applies: Your comment will then be deleted.
 
-Gesellschaft für Personaldienstleistungen mbH  
-Nils Gustke  
-+49(0)561 78968-68  
-gustke@gfp24.de
+In addition, this data will be deleted when it is no longer required for the above-mentioned purpose.
 
-## 7\. Credit check
+### 2.4 Your enquiries
 
-Provided that we step into an advance performance, as for example in the case of a purchase on account, and for the protection of our legitimate interests, we may request a credit check on the basis of mathematical and statistical methods from
+If you send us enquiries using a contact form, via e-mail or by phone, we will process the information you provide in order to answer your query as well as your IP address and the date/time of the enquiry to prevent misuse of the contact form.
 
-  * Deltavista GmbH, Diefenbachgasse 35, A-1150 Wien
-  * Deltavista GmbH, Freisinger Landstraße 74, D-80939 München
-  * SCHUFA Holding AG, Kormoranweg 5, D-65201 Wiesbaden
-  * KSV1870 Information GmbH, Wagenseilgasse 7, A-1120 Wien
-  * Bürgel Wirtschaftsinformationen GmbH & Co. KG, Gasstraße 18, D-22761 Hamburg
-  * Creditreform Boniversum GmbH, Hellersbergstr. 11, D-41460 Neuss
-  * infoscore Consumer Data GmbH, Rheinstraße 99, D-76532 Baden-Baden
-  * Orell Füssli Wirtschaftsinformationen AG, Hagenholzstrasse 81, CH-8050 Zürich
-  * ProfileAddress Direktmarketing GmbH, Altmannsdorfer Strasse 311, A-1230 Wien
-  * payolution GmbH, Mittersteig 10/1-2, A-1050 Wien
+The legal basis for processing is our legitimate interest (Art. 6 (1) (f) GDPR) to provide you with the “enquiries" service described above. If your enquiry concerns the initiation or performance (including customer service or warranty) of a contract, the additional legal basis for processing is Art. 6 (1) (b) GDPR.
 
+You can object to the processing of your data on the basis of Art. 6 (1) (f) GDPR. We can then continue processing if there are compelling reasons for processing. This may be necessary in order to provide evidence for enquiries from you and past communication with you. If there are no such compelling reasons, we will stop communicating with you and delete the data that has been collected.
 
+This data will be deleted when our communication with you has been terminated, i.e. when the relevant facts have been clarified and no further legitimate interests exist for storage or no further legal obligations exist for storage.
 
-For this purpose we send your name and address to the above mentioned credit bureaus and use the information obtained concerning statistical probability of default for a considered decision regarding the payment option to be granted.
+### 2.5 Contests
 
-The credit report may contain probability values (score values), which are calculated based on a scientifically recognized mathematical and statistical method that includes on the calculation address data, among others. Your concerns will be considered in accordance with the statutory provisions. You may object at any time to this examination with effect for the future. This may have the consequence that we will not be able to offer certain payment options any longer.
+If you take part in one of our contests, we use your data (e.g. name, e-mail address) to carry out the contest, for information purposes and to send you a prize, if applicable.
 
-## 8\. Data security
+The legal basis for the processing is the consent you have given when participating in the contest (Art. 6 (1) (a) GDPR). Your data will be deleted when the contest is over and the prizes have been distributed. Your data will be used for other purposes, e.g. advertising, only if you have explicitly given your consent.
 
-Since the security of your data is important, your personal data will be transmitted with a secure SSL connection. If personal data is collected, the data transfer will be transferred encrypted using the SSL process. Your personal data will be encrypted through a 256-bit SSL over the Internet. The SSL encryption protects your data against unauthorized access. SSL (Secure Socket Layer) is a cryptographic protocol that provides communication security over the Internet.
+### 2.6 Advertising and product development (newsletters, etc.), right to object
 
-We also protect our website and other systems through technical and organisational measures against loss, destruction, access, modification or distribution of your data by unauthorized persons. Despite regular checks, a complete protection against all threats is not possible.
+We would also like to use the data you have entered or accrued when using the websites to inform you about our products and services (advertising) or to improve our offerings and services (product development).
 
-## 9\. Web analytics services & Retargeting
+On our website, you can subscribe to a free newsletter. The data collected during registration will be processed (the data displayed as mandatory fields are absolutely necessary for receipt of the newsletter, while voluntary data fields are only used for a more personal form of address and selecting the information displayed).
 
-### 9.1 Google Analytics
+We will contact you via e-mail with information, special sales and offers for Bergfreunde services tailored to you and your interests on the basis of either your explicit consent or - if you purchase similar goods or services from us and store your e-mail address here - even without your extra consent. We process data about your usage behaviour after we have sent you e-mails (e.g. click behaviour).
 
-This website uses Google Analytics, a web analytics service offered by the company Google Inc (Google). Google Analytics uses so-called cookies, small tags, which are stored on the hard disk of your computer and allow the analytics of the use of the website.
+We will contact you by telephone only with your express consent to provide you with information, special sales and offers for Bergfreunde services tailored to your personal interests or usage of our site.
 
-The information originated by the cookies through the usage of this website would be transmitted and stored in a Google data collection server in the USA. In case of activation of the IP anonymization on this website, the IP address will be abbreviated by Google within Member States of the European Union or other parties of the Agreement on the European Economic Area. Only in exceptional cases would the full IP address be sent to a Google data collection server in the USA and abbreviated there. We inform you herewith that this site uses Google Analytics using the anonymization procedure and therefore the IP addresses are processed only abbreviated so that any personal identification is excluded.
+We will contact you by post with advertisements in written form, even without your consent, to the extent permitted by law for Bergfreunde services.
 
-On behalf of the operator of this website, Google will only use this information to evaluate your use of the website, to compile reports about website activity and to provide the use of other connected services to the website operator. The IP address sent by your browser within the scope of Google Analytics will not be associated to other Google data. You may determine whether cookies should be stored by activating the corresponding browser settings. However, we inform you that as far as the cookies are not allowed, our website may not be used in its entirety.
+You can object to the use of your personal data for purposes of advertising and product development as well as the establishment of contact for this purpose in whole or in part at any time or withdraw any consent you have given. Please use the corresponding options provided for you (e.g. the unsubscribe link in your personal customer account) or contact our data protection officer via e-mail or in writing (keyword: data protection) using the contact information specified under section 8.
 
-You may also prevent the coverage of the generated data and the use of the website related data (including your IP address) by Google as well as the processing of these data by Google. If you wish to opt out you should click following link to download and install the add-on: http://tools.google.com/dlpage/gaoptout?hl=de.
+The legal basis for processing is your consent (Art. 6 (1) (a) GDPR) and our legitimate interests (Art. 6 (1) (f) GDPR) in conjunction with § 7 (3) of the German Act against Unfair Competition (UCA), if applicable.
 
-ou may find further information concerning terms of use and data protection under http://www.google.com/intl/en/policies/terms/ or under http://www.google.com/intl/en/policies/. We inform you that Google Analytics has adjusted on this website the code „gat._anonymizeIp();" in order to assure an anonymous collection of IP-Addresses (so-called IP-Masking).
+This data will be deleted or stored only in aggregated, anonymous form after your objection or withdrawal of any consents you have given or after cessation of use by us at the very latest. If necessary, we will store the data of your objection in order to prevent further contact with you.
 
-### 9.2. Using the Google Inc. Remarketing feature
+### 2.7 Providing the website and services
 
-We use the "Remarketing" feature offered by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, US ("Google") on our website. This feature allows us to readdress users who have visited our website in a targeted way through pinpointed advertising on Google's Partner Network pages. Personalised, interest-based advertisements can then be displayed on other websites that the user may visit within the Google Display Network. Cookies are used to display these advertisements. Cookies are small text files that are stored on a user's computer. These text files help to collect anonymised data about the use of the website, which cannot be traced back to an individual.
+The processing of server log data is necessary for technical reasons in order to provide the websites and services and in order to ensure system security thereafter.
 
-You can permanently disable Google's use of cookies by clicking on the following link and downloading and installing the available plugin: https://www.google.com/settings/ads/plugin. Alternatively, you can disable the use of cookies by third-party providers by accessing the Network Advertising Initiative's deactivation page at http://www.networkadvertising.org/choices/ and following the more detailed information provided there about opting out.
+The legal basis for processing is our legitimate interest in providing the website and our services (Art. 6 (1) (f) GDPR). The processing is absolutely necessary for the use of our website, and there is no right to object.
 
-You can find information about the type, scope and purpose of the collection, usage and further processing or usage of the data by Google, as well as your rights and settings options for protection of user privacy in Google's privacy terms at http://www.google.com/privacy/ads/.
+This data will be deleted after 12 days at the very latest.
 
-### 9.3. Retargeting
+The server log data may then be analysed anonymously for statistical purposes and to improve the quality of our website. The server log data is not linked to your personal data, nor will it be merged with other personal data sources.
 
-Similar as in Google Analytics, this webpage collects data through following services:
+## 3\. Data transfer
 
-  * Criteo, web analytics service of the provider Criteo SA, 32 Rue Blanche, 75009 Paris, France
-  * Sociomantic, web analytics service of the provider sociomantic labs GmbH, Münzstrasse 19, 10178 Berlin, Germany
+### 3.1 Data transfer to processors
 
+In some cases, we employ service providers in compliance with legal requirements for order processing, i.e. on our behalf, in accordance with our instructions and under our control.
 
+Processors are
 
-From the data collected and stored through these web analysis services user profiles are created using pseudonyms. These web analytics services analyze the browsing behaviour based on an algorithm and can make targeted product recommendations as personalized banners on the websites (so-called publishers). These data will never be used to identify visitors of this website. Data collection and storage for the purpose of web analytics through these services can be cancelled at any time with effect for the future by following the instructions on each of the following websites:
+  * technical service providers we use to provide the website, e.g. service providers for software maintenance, data centre operation and hosting
+  * technical service providers we use to provide functionalities, e.g. essential cookies for technical purposes.
+  * service providers for the practical implementation of advertising and marketing, e.g. service providers for e-mail and analytics cookies.
 
-  * Criteo: http://www.criteo.com/de/datenschutzrichtlinie
-  * Sociomantic: https://www.sociomantic.com/privacy/de/#opt-out-header
 
 
+In these cases, we remain responsible for data processing; the transfer and processing of personal data to or by our processors rests on the legal basis that allows us to process the data in each case. A separate legal basis is not required.
 
-### 9.4. Storm Reporting (DC Storm)
+### 3.2 Data transfer to third parties
 
-This website uses Storm Reporting, web analytics software of the provider DC Storm Ltd. (DC Storm). Storm Reporting uses so-called „Cookies". These are small tags, which are stored on the hard disk of your computer in order to obtain anonymous information on the visit to our website.
+In some cases, we also transfer your data to third parties, i.e. to partners with whom we cooperate outside of commissioned processing. Such partners provide their services and are as such the responsible parties. For the processing of your data by partners, only their data protection policy applies.
 
-The stored information may include:
+#### 3.2.1 Payment Service Providers
 
-  * A randomly generated, unique identifier used to identify the revisit of the same visitor.
-  * Sites, sessions and hit counters in order to capture the time and number of pages visited by a visitor. 
-  * If any, the URL (referred) of the page from which a visitor comes to the website. This will be disguised by means of a hashing algorithm in the cookie. In this way could be coded "http://www.google.com/search?q=dcstorm" in, for example, "12345678|560868". This serves to avoid duplicates of new visits. This cookie loses its validity 20 minutes after being generated.
+To process your orders, we send payment information to payment service providers who then process the payment transactions associated with the orders. These include PayPal and your financial institution. The legal basis for the transmission is the performance of the contract with you, Art. 6 (1) (b) GDPR.
 
+When you pay upon invoice, we also transmit data relevant to your order to Payolution GmbH and net-m privatbank 1891 AG, to which we assign the invoice you are to pay. In order to determine whether or not to purchase the claim, the above mentioned companies will perform a credit check. The legal basis for the transmission of the data is your express consent provided during the ordering process (Art. 6 (1) (a) GDPR).
 
+#### 3.2.2 Buyer protection/Ratings
 
-The IP address of the website visitor will not be stored by DC Storm. Due to technical reasons, this will be transmitted by each server request, but anonymized before any processing takes place (e.g. geolocalisation) and then deleted. Therefore, no IP address can be identified or neither any conclusion can be drawn to identify the person.
+The Trusted Shops Trustbadge is displayed on this website in order to show our Trusted Shops seal of approval, any ratings accumulated from users as well as to offer Trusted Shops products to buyers following an order.
 
-The collected and anonymized data will be sent and stored to a DC Storm server in the UK. Delivery and/or processing of data outside the territory of the States of the European Community do not take place. DC Storm will provide third parties with this information if required by law.
+This serves to protect our legitimate interests in the optimal marketing of our offer according to Art. 6 (1) (f) GDPR. The Trustbadge and the services advertised with it are an offer of Trusted Shops GmbH, Subbelrather Str. 15C, 50823 Köln, Germany. Each time the Trustbadge is used, the web server automatically saves a so-called server log file, which contains your IP address, date and time of the request, volume of data transferred and the requesting provider (access data) and documents the request. This access data is not analysed and is automatically overwritten no later than seven days after the end of your website visit.
 
-By using this website, you agree to that website-data will be collected and anonymously stored as above described.
+Other personal data is transferred to Trusted Shops only if you decide to use or have already registered to use Trusted Shops products after placing an order. In such a case, the contract between you and Trusted Shops applies.
 
-We take your privacy very seriously and do not provide third parties with the data collected. The data collected will be used only for evaluation and optimization of our website.
+#### 3.2.3 Logistics companies
 
-You can disable the saving of cookies by your browser. We inform you that this may limit the use of the site and that under certain circumstances you will not be able to use all functions completely. Through following link you may disagree on the data collection and storage through DS Storm on the website dc-storm.de:
+For the transport of goods, we transfer your address and contact data, when necessary, to parcel delivery companies. The legal basis for the transmission is the performance of the contract with you, Art. 6 (1) (b) GDPR.
 
-Stop data collection through DC Storm from the website Alpinetrek.co.uk.
+#### 3.2.4 Social networks
 
-That objection will be stored in a special cookie (_#uid) and will be valid as long as the cookie is not deleted.
+If you wish to share one of our websites on a social network (e.g. Facebook or Twitter) by clicking on one of our "Share" buttons, this information will be transferred to the social network. This assumes that you are logged in to the social network. The legal basis for the transmission is our legitimate interest in offering you the possibility of “sharing", Art. 6 (1) GDPR.
 
-## 10\. Social Plugins: Facebook/Twitter
+## 4\. Cookies and web analysis tools
 
-Social plugins (programs) of the external providers Facebook and Twitter are integrated on our internet domain.
+### 4.1 What are cookies?
 
-### 10.1. Facebook
+In order to make our websites as user-friendly as possible and to increase the relevance of our advertising for the visitors to our websites, we and our partners use so-called "cookies". Cookies are small files that are stored on a visitor's hard drive. They allow information to be stored for a certain period of time and the visitor's computer to be identified. This is done in part using so-called tracking pixels, which are not stored on a visitor's hard drive but can help identify the computer in the same way as a cookie. In the following, the term "cookie" covers cookies in the technical sense as well as tracking pixels and similar technical methods.
 
-We use the "Like button", the "Share button" as well as the "social plugins" of Facebook. These plugins are operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. You may recognize them through the corresponding Facebook logo. Further information related to Facebook social plugins under: https://developers.facebook.com/docs/plugins/.
+When you visit our website for the first time, you will see a notice concerning data protection with a cookie consent text on the first page you visit. If you then continue to use the websites and do not object to the use of cookies, this consent will be saved on your browser so that we do not have to display this information again on every page. If this notification is missing on your browser (e.g. as a result of your deleting your browser history), it will be displayed again when you visit our website.
 
-When a visitor enters a site of our Internet domain that contains such plugin, a connection between the browser of the visitor and Facebook server will be created. Facebook receives and stores data (such as IP address and cookie ID) in order to facilitate Facebook to recognize which site from our Internet presence has been visited. This happens regardless of whether the visitor activates a Facebook plugin or not. In case that a visitor activates a Facebook plugin, the corresponding information will be sent to Facebook in the USA and stored there. In case that the visitor is logged in his personal Facebook account at the same time, the forwarded data may be assigned to the specific account. Facebook uses cookies for this purpose – for both registered and unregistered users.
+### 4.2 Which cookies do we use, what is the legal basis of their use and how long are they stored?
 
-Nature, scope, collection purpose, use and further processing and use of data by Facebook as well as rights and possibilities to protect the privacy of the user may be viewed and edited within the Facebook data use policy (https://www.facebook.com/about/privacy). Further, the exact data processing or storage periods and purposes are unclear.
+We use three categories of cookies on our websites: (1) Essential cookies, without which the functionality of our websites would be limited, (2) optional performance cookies and (3) optional targeting or advertising cookies:
 
-This website uses the communication tool Conversion Tracking Pixel by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). We integrate so-called Facebook pixels in our page for that purpose. Once you have viewed or clicked a Facebook ad, you will be tagged as a visitor of our website and we will be able to follow your activities on our website. The captured data is anonymous, i.e. we will be unable to view personal data of individual users and specifically cannot connect activities on our website to any individual; we will only be able to analyse the Facebook ads for statistical and/or market research purposes. The captured data will, however, be stored and processed by Facebook and may be brought into connection with your Facebook profile. Facebook is then entitled to utilise that information in compliance with the Facebook Data Policy (https//www.facebook.com/about/privacy). You have the option of permitting or refusing Facebook and its partners to display adverts on and outside of Facebook as part of your personal profile settings on Facebook.
+#### 4.2.1 Essential cookies
 
-You can refuse the use of the Conversion Tracking Pixel on your Facebook profile here: https://www.facebook.com/settings/?tab=ads
+These cookies are essential for you to move around our websites and use the functions. For example, they save the products you have placed in your basket as well as the progress of the ordering process. These cookies also allow you to easily search for retailers where you can purchase our products (e.g. by displaying a map of your area). These cookies do not collect any information about you for marketing purposes, nor do they store where you have been on the internet. Disabling this category of cookies would limit the functionality of all or part of the websites.
 
-### 10.2. Twitter
+The legal basis for processing is our legitimate interests (Art. 6 (1) (f) GDPR).
 
-We use the Twitter button of Twitter. This plugin is operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. You may recognize it through the corresponding Twitter logo. Further information related to Twitter social plugins under: https://dev.twitter.com/web/overview.
+These cookies are session-specific and expire after your visit to the website (session).
 
-When a visitor enters a site of our Internet domain that contains such plugin, a connection between the browser of the visitor and Twitter server will be created. Twitter receives and stores data (such as IP address) in order to facilitate Twitter to recognize which site from our Internet presence has been visited. This happens regardless of whether the visitor activates a Twitter plugin or not. In case that a visitor activates a Twitter plugin, the corresponding information will be sent to Twitter in the USA and stored there. In case that the visitor is logged in his personal Twitter account at the same time, the forwarded data may be assigned to the specific account.
+#### 4.2.2 Performance cookies / Google Analytics
 
-Nature, scope, collection purpose, use and further processing and use of data by Twitter as well as rights and possibilities to protect the privacy of the user may be viewed and edited within the Twitter privacy policy (http://twitter.com/privacy).
+Performance cookies collect information about how visitors use a website in general, such as which pages they visit most frequently and whether they receive error messages from websites. These cookies do not collect any data that can be used to identify visitors. All of the information collected with the help of these cookies serves exclusively to understand and improve the functionality of the website and the service it provides.
+
+(1) We use **Google Analytics** , a web analytics service provided by Google Inc. The information generated by the use of Google Analytics about your use of this website is transmitted to and stored by Google on servers in the United States. However, by activating the IP anonymisation on this website, Google will shorten your IP address beforehand within the area of the member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. The IP address transmitted by the user's browser will not be merged with other Google data.
+
+Google will use this information on our behalf to analyse your use of the website, to compile reports on website activities and provide additional services relating to website use and internet use to the website operator. Pseudonymous user profiles can be created from the processed data.
+
+Users can prevent the storage of cookies by setting their browser software accordingly; Users may also prevent Google’s collection of the data generated by the cookie and related to their use of the online offer and Google’s processing of such data by downloading and installing the browser plug-in available under the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>.
+
+The legal basis for processing is our legitimate interests because we only use pseudonymised or anonymised data (Art. 6 (1) (f) GDPR).
+
+The data collected on the basis of these cookies is made anonymous before analysis. You can deactivate or delete cookies and information stored therein at any time (see 4.2.4).
+
+(2) This website also uses **Webtrekk Analytics** , a product of Webtrekk GmbH, to collect statistical data about the use of this website and to optimise the offer accordingly. This is a statistical program, which records usage in an anonymous or pseudonymised form. The use of Webtrekk enables us to carry out a pseudonymised analysis of user behaviour, for the purpose of which information is transmitted, collected and analysed by your browser. All analyses are carried out on a pseudonymised basis in which personal identifiers are replaced by a cipher to prevent the person concerned being identified, or, at the very least, to make this significantly more difficult. The IP address is anonymised immediately after processing and before storage. Cookies are also used as part of Webtrekk. The permission to collect and store data may be withdrawn with future effect at any time. To do so, please click on the following link: <https://www.webtrekk.com/en/legal/opt-out-webtrekk/>. The opt-out cookie is placed on your computer when you confirm the link. The data will not be transferred by Webtrekk GmbH to third countries outside the EU.
+
+The processing of your data, especially in the case of statistical data and online identifiers, is carried out on the legal basis of legitimate interest according to Art. 6 (1) (f) GDPR (see below). When processing your data, we pursue the following legitimate interests: Improvement of our service, protection against misuse, statistics.
+
+#### 4.2.3 Targeting and advertising cookies
+
+Targeting and advertising cookies are used to tailor advertising more specifically to you and your interests. They also serve to limit how often you see the same advert, to measure the effectiveness of an advertising campaign and understand people's behaviour after viewing an advert. These cookies are usually placed on the pages of advertising networks with the consent of the website operator (i.e. in this case us). They detect that a user has visited a website and pass this information on to other companies, e.g. advertising companies, or adjust the adverts accordingly. They are often linked to the functions of the website provided by this company. We use these cookies to connect with social networks that may then use the information about your visit to tailor adverts on other websites to you and to provide the advertising networks we use with information about your visit so that you can later be presented with precisely the adverts that could interest you based on your browsing behaviour. If a product is purchased later, this fact may be transmitted to such an advertising network.
+
+We also include cookies on our website that are set by service providers on our behalf and enable us to track which products of ours you have already viewed so that we can recommend similar products to you.
+
+The legal basis for the processing is the consent you have given in the context of the cookie banner displayed when our website is visited (Art. 6 (1) (a) GDPR).
+
+You can deactivate or delete cookies and the information stored therein at any time (see the following information).
+
+#### 4.2.4 Deactivation of analytics, targeting and advertising cookies
+
+Deactivating the categories of analytics, targeting and advertising cookies does not affect the functionality of our websites. You may obtain information about the cookies as well as their names and object to the use of cookies on the respective provider’s website. We currently use the above-mentioned types of cookies from the following providers:
+
+If you would like to receive further information about these cookies from us instead, please contact us via e-mail using the contact information provided in section 8 below.
+
+### 4.3 How do I disable cookies?
+
+You can disable individual cookies using the links in the table above (opt-out options), provided that the cookie provider offers such a function. You can also prevent the use of any cookies by adjusting the cookie settings in your browser. However, we would like to point out that the functionality of our websites will be limited if you do so, since essential cookies will also be blocked.
+
+If you go to the website [www.youronlinechoices.com](http://www.youronlinechoices.com/), you can read more information about cookies and the individual providers. There, you also have the opportunity to object to use-based online advertising by means of individual tools or all tools. To go directly to the preference manager, please click here: <http://www.youronlinechoices.com/uk/your-ad-choices>
+
+## 5\. Links
+
+We use links to our other web presences on websites and third-party services, e.g. on social media channels like Facebook, Twitter or Youtube. The data processing of these other service providers on their websites is the sole responsibility of these third parties and their data protection policy applies.
+
+## 6\. Security
+
+We and our service providers employ technical and organisational security measures to protect your personal data against accidental or intentional manipulation, loss, destruction or against access by unauthorised persons. Our data processing and security measures are continually being improved with technological developments.
+
+When your personal data is transmitted to us, it is encrypted with Secure Socket Layer (SSL). Personal data exchanged between you and us or other participating companies is generally transmitted via encrypted connections that correspond to the current state of the art.
+
+Our employees and our service providers are, of course, bound to a confidentiality agreement.
+
+## 7\. Your rights to information, correction, blocking and deletion
+
+Every natural person whose personal data we process has the following rights (i.e. depending on the respective conditions):
+
+  * If you have any questions regarding the processing of your personal data by us, we would be happy to provide you with information about your stored personal data at any time free of charge (Art. 15 GDPR).
+  * You have the right to correct inaccurate data and complete incomplete data (Art. 16 GDPR).
+  * You have a right to block/restrict the processing or delete your personal data that is no longer required or stored on the basis of legal obligations (Art. 17, 18 GDPR).
+  * You have the right to transfer the data in a structured, commonly used and machine-readable format, provided that you have provided us with the data on the basis of an agreement or a contract between us and you (Art. 20 GDPR).
+  * You have the right to object to the processing of your data for direct marketing purposes at any time (Art. 21 (2 and 3) GDPR).
+  * You have a right to object to processing of personal data on the basis of a legitimate interest, unless we can explain our compelling legitimate grounds (Art. 21 (1) GDPR). We have pointed out above in what cases such a right is available.
+  * If you have given your consent to data processing, you can withdraw this with effect for the future at any time, i.e. the legality of the data processing carried out up to the time of the revocation remains unaffected by your withdrawal of consent. After withdrawing your consent, you may no longer use our services.
+
+
+
+Please contact us with your request in writing (keyword: data protection) or via e-mail using the contact information under section 8. We reserve the right to check your identity to ensure that your personal data is not disclosed to unauthorised persons.
+
+You also have the right to file a complaint with a data protection authority.
+
+## 8\. Data Protection Officer
+
+Our data protection officer is:
+
+Christian Volkmer, Project 29 GmbH & Co. KG
+
+Contact: Ostgasse 14, 93047 Regensburg Germany
+
+datenschutz@bergfreunde.de
+
+Phone: +49 941-2986930
+
+## 9\. Changes
+
+From time to time, it is necessary to change the content of this Privacy and Data Protection Policy. We therefore reserve the right to change it at any time. We will publish the amended version of the Privacy and Data Protection Policy here as well. If you visit us again, we kindly ask you to read the Privacy and Data Protection Policy again.
+
+Last changed: May 2018
