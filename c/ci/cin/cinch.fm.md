@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinch.fm privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107182802id_/http%3A//cinch.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinch.fm privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829184933id_/http%3A//cinch.fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CINCH.fm
 
