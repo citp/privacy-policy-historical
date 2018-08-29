@@ -1,105 +1,124 @@
-> *The following text is extracted and transformed from the bwinpartypartners.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207033015id_/https%3A//www.bwinpartypartners.com/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwinpartypartners.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829161659id_/https%3A//www.bwinpartypartners.com/policy.do) for the most accurate reproduction.*
 
-# GVC Services Limited Privacy Policy
+# GVC Services Limited Privacy Notice
 
-## GVC Services Limited Privacy Policy
+## GVC Services Limited Privacy Notice
 
 **1\. PRIVACY**
 
-We are committed to protecting your personal information. We have created this Privacy Policy to let you know what information We collect when you participate in the Affiliate Network at [the bwin.party partners Website](http://www.bwinpartypartners.com/) (collectively, the ' **Affiliate Network** '), why We collect this information and how We use the collected information.
+We are GVC Services Limited of Suite 6, Atlantic Suites, Europort Avenue, Gibraltar, and We are committed to protecting your Personal Information. We have created this Privacy Notice to let you know what information We collect when you participate in the Affiliate Network at the [bwin.party partners Website](http://www.bwinpartypartners.com/) (collectively, the 'Affiliate Network'), why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between you and GVC Services Limited and the GVC Group, being GVC Holdings PLC together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20171207033015id_/https%3A//www.bwinpartypartners.com/legal.do) (' **bwin.party partners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
+Please note that this Privacy Notice will be agreed between you and GVC Services Limited and the GVC Group, being GVC Holdings PLC together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/legal.do) ('bwin.party partners', 'We', 'Us' or 'Our', as appropriate).
 
-We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on the [bwin.party partners Website](http://www.bwinpartypartners.com/). We recommend that you revisit this Privacy Policy regularly.
+We may periodically make changes to this Privacy Notice and will notify you of these changes by posting the modified terms on the [bwin.party partners Website](http://www.bwinpartypartners.com/). We recommend that you revisit this Privacy Notice regularly.
 
-**2\. INFORMATION COLLECTED**
+**2\. INFORMATION WE COLLECT**
 
-We consider information that may be used to identify an individual, including, but not limited to, first and last name, date of birth, bank account details, home or other physical address, email address, phone number or other contact information to be Personal Information (' **Personal Information** '). You may be asked to provide Personal Information when you use the bwin.party partners Website, open an affiliate account or to use the Affiliate Network. The Personal Information that We collect may include information such as: contact information (including telephone number), shipping information, billing information, transaction history, website usage preferences, and feedback regarding the Affiliate Network. This information is held by Us on servers based in Gibraltar and Alderney and elsewhere from time to time. In addition, when you interact with the Affiliate Network, Our servers keep an activity log unique to you that collects certain administrative and traffic information including: source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used. This information is essential for the provision and quality of the Affiliate Network. We do not collect Personal Information about you on the Affiliate Network without your knowledge.
+We consider information that may be used to identify an individual, including, but not limited to, first and last name, date of birth, bank account details, home or other physical address, email address, phone number or other contact information to be Personal Information ('Personal Information').
 
-**3\. MEANS OF COLLECTING AND PROCESSING DATA**
+**Personal Information you provide to Us**
 
-We may automatically collect certain data as discussed above and receive Personal Information about you where you provide such information through the Affiliate Network or other communications and interactions with Us. We may also receive Personal Information from customer lists lawfully acquired from third-party vendors. In addition, We may engage the services of third-party service providers to provide technical support, process your online transactions and maintain your online account. We will have access to any information you provide to such vendors, service providers and third-party e-commerce services, and We will use the Personal Information as set out in this Privacy Policy below. This information will only be disclosed to third parties outside the GVC Group in accordance with this Privacy Policy. We take steps to ensure that Our arrangements with third-party service providers and online vendors protect your privacy.
+You may be asked to provide Personal Information when you use the [bwin.party partners Website](http://www.bwinpartypartners.com/), open an affiliate account or to use the Affiliate Network. The Personal Information that We collect may include information such as: contact information (including telephone number), shipping information, billing information, transaction history, website usage preferences, and feedback regarding the Affiliate Network. From time-to-time, We may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, you have the choice of whether or not to disclose such information. Information requested may include contact information (such as name, correspondence address and telephone number), and demographic information (such as zip or postal code or age).
 
-**4\. INFORMATION USE**
+**Personal Information we collect about you**
 
-We use the Personal Information We collect from you to deliver Our Affiliate Network, to provide customer support, to undertake necessary security and identify verification checks, to process any of your online transactions, meet certain business requirements and for any other purpose related to the operation of the Affiliate Network. Your Personal Information may also be used by Us to provide you with promotional offers and information regarding bwin.party products and services and in order for the bwin.party partners to better provide a range of products and services and improved customer service. From time-to-time, We may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, you have the choice of whether or not to disclose such information. Information requested may include contact information (such as name, correspondence address and telephone number), and demographic information (such as zip or postal code or age). If you choose to participate in a survey or contest and win, by accepting any contest prize or winnings from Us, you consent to use of your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law. Unless you have elected not to receive promotional information, We may also use your Personal Information (including your email address and phone number) to provide you with information regarding our products, services and promotions, including other gaming products (including online poker, casino, betting and bingo services) and products and services from third parties carefully selected by Us.
+In addition, when you interact with the Affiliate Network, Our servers keep an activity log unique to you that collects certain administrative and traffic information including: source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used. This information is essential for the provision and quality of the Affiliate Network.
 
-**5\. CERTAIN EXCLUDED DISCLOSURES**
+We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of the Affiliate Network and your financial transactions for potential breach of Our Standard Affiliate Agreement and of applicable law. Accordingly, We (along with Our staff, agents and suppliers) shall be able to use your Personal Information and disclose your Personal Information to third parties for the purposes of validating the information you provide to Us in the course of using the Affiliate Networks, including, where necessary, the transfer of information outside of your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third-party databases. We may also receive Personal Information from customer lists lawfully acquired from third-party vendors.
 
-We may disclose your Personal Information if required to do so by law, or if We believe in good faith that such action is necessary to: (1) comply with any legal process served on Us, any of Our sites or the Affiliate Network or in circumstances where We are under a substantially similar legal obligation; (2) protect and defend Our rights or property; or (3) act to protect the personal safety of users of the Affiliate Network or the public. If, in Our sole determination, you are found to have cheated or attempted to defraud Us, or any other user of the Affiliate Network in any way including but not limited to game manipulation or payment fraud, or if We suspect you of receiving or making fraudulent payments, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), We reserve the right to share this information (together with your identity) with other online gaming sites, banks, credit card companies, and appropriate agencies.
+**3\. HOW WE USE YOUR INFORMATION**
 
-**6\. ACCESS**
+We process your Personal Information so that We can perform Our everyday functions.
 
-You may 'opt out' of receiving any promotional communications either by choosing to opt out where such option is made available on Our sites or the Affiliate Network or in an email you receive from Us, or at any time by sending an email, or by writing to Us at Customer Affiliate Network, GVC Services Limited , Suite 711, Block 7, Europort, Gibraltar. In addition, you may contact Us at this address if you: 1) want to confirm the accuracy of the Personal Information We have collected about you; 2) would like to update your Personal Information or delete your Personal Information; and/or 3) have any complaint regarding Our use of your Personal Information. If requested, We will change any information you have provided to Us or mark any information to prohibit future use, provided that you provide evidence as We may reasonably require for such changes.
+In particular, We use your information:
 
-**7\. COOKIES**
+  * Where We have obtained your consent (and before any withdrawal of your consent - see below "Your Rights"). For example, you may have given your consent to marketing,
+  * Where it is necessary for the performance of a contract with you. This includes the following: 
+    * to provide customer support; and
+    * to process any of your online transactions.
+  * Where it is in line with Our legitimate business interests. This includes the following: 
+    * to undertake necessary security and identify verification checks;
+    * to meet certain business requirements;
+    * to provide you with promotional offers and information regarding bwin.party products and services;
+    * in order for the bwin.party partners to better provide a range of products and services and improved customer service; and
+    * for any other purpose related to the operation of the Affiliate Network.
 
-Cookies are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of Our sites. We also may use cookies to monitor traffic to the site, improve the Affiliate Network and make it easier and/or more relevant for your use.
 
-**7.1 When do we use cookies?**
 
-**7.1.1. During the sign-up process**
+Where We have relied on Our legitimate interests to process your Personal Information, you may contact Us to obtain more information, including in relation to Our assessment of the impact on you.
 
-These cookies will hold information collected during your registration and will allow Us to recognize you as a customer and provide you with the services you require. We may also use this data to better understand your interests while online and to enhance your visits to the [bwin.party partners Website](http://www.bwinpartypartners.com/).
+**4\. HOW LONG WE KEEP YOUR INFORMATION**
 
-**7.1.2. On Our website**
+We only keep your information for as long as is reasonably necessary for the purposes set out in this Privacy Notice and to fulfil Our legal obligations.
 
-For visitors to Our website, we use cookies to collect information. Our servers use two different types of cookies:
+In summary, however, We keep:
 
-A 'session-based' cookie: This type of cookie is only allocated to your computer for the duration of your visit to Our website. A session-based cookie helps you move around Our website faster and, if you're a registered customer, it allows Us to give you information that is more relevant to you. This cookie automatically expires when you close your browser.
+  * your information and correspondence for 6 years post-termination of your account;
+  * otherwise, we only keep Personal Information for as long as is necessary.
 
-A 'persistent' cookie: This type of cookie will remain on your computer for 30 days.
 
-**7.2 Cookies allow Us to:**
 
-Better understand your preferences and offer you more relevant promotional offers.
+We will securely erase as or anonymise your information in advance of these deadlines if We decide that We no longer need it.
 
-Identify your preferences when customizing content or functionality for you.
+**5\. YOUR RIGHTS**
 
-Confirm you are a registered user and save your login details when accessing certain services on Our website.
+You have the following rights regarding your information:
 
-Collect statistics on the use of Our services.
+Rights | What does this mean?  
+---|---  
+1\. Right to be informed | You have the right to be provided with clear, transparent and easily understandable information about how We use your information and your rights. This is why We are providing you with the information in this Privacy Notice.  
+2\. Right of access | You have the right to obtain access to your information (if We are processing it), and other certain other information (similar to that provided in this Privacy Notice).  
+3\. Right to rectification | You are entitled to have your information corrected if it is inaccurate or incomplete.  
+4\. Right to erasure | This is also known as 'the right to be forgotten' and, in simple terms, enables you to request the deletion or removal of your information where there is no compelling reason for Us to keep using it. This is not a general right to erasure; there are exceptions.  
+5\. Right to restrict processing | You have rights to 'block' or suppress further use of your information. When processing is restricted, We can still store your information, but may not use it further. We keep lists of people who have asked for further use of their information to be 'blocked' to make sure the restriction is respected in future.  
+6\. Right to data portability | You have the right to obtain and reuse your Personal Information in a structured, commonly used and machine readable format in certain circumstances. In addition, where certain conditions apply, you have the right to have such information transferred directly to a third party.  
+7\. Right to withdraw consent | If you have given your consent to anything We do with your Personal Information, you have the right to withdraw your consent at any time (although if you do so, it does not mean that anything We have done with your Personal Information with your consent up to that point is unlawful).  
+  
+To exercise any of these rights at, any time, you can contact Us using the details set out at the end of this Privacy Notice.
 
-We may also use cookies and web beacons to ensure that Our mailing tools are working properly.
+**Right to object to processing
 
-**7.3 How can I refuse or opt out of cookies?**
+In addition to the above rights, you also have the right to object to certain types of processing, in certain circumstances. In particular, the right to object to the processing of your Personal Information based on Our legitimate interests grounds (including processing for direct marketing).
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. If you choose to decline cookies, you may not be able to experience all of the interactive features on Our sites.
+**
 
-**8\. CONSENT TO USE OF ELECTRONIC SERVICE PROVIDERS**
+**6\. DISCLOSURES**
 
-In order to take part in the Affiliate Network, you will be required to receive money from Us. We may use third-party electronic payment processors and/or financial institutions ('ESPs') to process such financial transactions. By accepting this Privacy Policy, you expressly consent to Personal Information necessary for the processing of transactions being shared with ESPs, including, where necessary, the transfer of information outside of your country. We take steps to ensure that Our arrangements with ESPs protect your privacy.
+We may disclose your Personal Information if required to do so by law, or if We believe in good faith that such action is necessary to: (1) comply with any legal process served on Us, any of Our sites or the Affiliate Network or in circumstances where We are under a substantially similar legal obligation; (2) protect and defend Our rights or property; or (3) act to protect the personal safety of users of the Affiliate Network or the public.
 
-**9\. CONSENT TO SECURITY REVIEW**
+We also share your Personal Information with group companies and with our suppliers. Specifically:
 
-We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of the Affiliate Network and your financial transactions for potential breach of Our Standard Affiliate Agreement and of applicable law. By agreeing to the terms of our Standard Affiliate Agreement you authorise Us, Our staff, agents and suppliers to use your Personal Information and to disclose your Personal Information to third parties for the purposes of validating the information you provide to Us in the course of using the Affiliate Networks, including, where necessary, the transfer of information outside of your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third-party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as We may request.
+  * If, in Our sole determination, you are found to have cheated or attempted to defraud Us, or any other user of the Affiliate Network in any way including but not limited to game manipulation or payment fraud, or if We suspect you of receiving or making fraudulent payments, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), We reserve the right to share this information (together with your identity) with other online gaming sites, banks, credit card companies, and appropriate agencies.
+  * Further, to take part in the Affiliate Network, you will be required to receive money from Us. We may use third-party electronic payment processors and/or financial institutions ('ESPs') to process such financial transactions. We take steps to ensure that Our arrangements with ESPs protect your privacy.
 
-**10\. SECURITY**
+
+
+**7\. SECURITY**
 
 We understand the importance of information security and the techniques needed to secure information. We store all of the Personal Information We receive directly from you in a password-protected database residing within Our secure network behind active state-of-the-art firewall software. The [bwin.party partners Website](http://www.bwinpartypartners.com/) and the Affiliate Network support SSL Version 3 with 128-bit encryption. We take steps to ensure Our subsidiaries, agents, affiliates and suppliers also employ adequate levels of security.
 
-**11\. PROTECTION OF CHILDREN**
+**8\. PROTECTION OF CHILDREN**
 
-The Affiliate Network is not intended for or directed at persons under the age of eighteen (18). Any person who provides their information to Us through any part of the Affiliate Network represents to Us that they are eighteen (18) years of age or older. It is Our policy to uncover attempts by minors to access Our Affiliate Networks which may involve Us having to access and verify your Personal Information. If We become aware that a minor has attempted to or has submitted personal information via the online site, We will not accept this information and will take steps to remove such information from Our records.
+The Affiliate Network is not intended for or directed at persons under the age of eighteen (18). Any person who provides their information to Us through any part of the Affiliate Network represents to Us that they are eighteen (18) years of age or older. It is Our policy to uncover attempts by minors to access Our Affiliate Networks which may involve Us having to access and verify your Personal Information. If We become aware that a minor has attempted to or has submitted Personal Information via the online site, We will not accept this information and will take steps to remove such information from Our records.
 
-**12\. INTERNATIONAL TRANSFERS**
+**9\. INTERNATIONAL TRANSFERS**
 
-Personal Information collected on the Affiliate Network may be stored and processed in any country in which We or Our affiliates, suppliers, ESPs or agents maintain facilities. By participating in the Affiliate Network, you expressly consent to any transfer of information outside of your country (including to third countries that may not have been assessed as having adequate privacy laws). Nevertheless, We take steps to ensure that Our agents, affiliates and suppliers comply with Our standards of privacy regardless of their location.
+We store Personal Information on our servers in Gibraltar and Alderney. Personal Information collected on the Affiliate Network mayalso be stored and processed in any country in which We or Our affiliates, suppliers, ESPs or agents maintain facilities. We take steps to ensure that Our agents, affiliates and suppliers comply with Our standards of privacy regardless of their location. You can access further information regarding these steps at [*].
 
-**13\. THIRD-PARTY PRACTICES**
+**10\. THIRD-PARTY PRACTICES**
 
-We cannot ensure the protection of any information collected by any third party administering Our Affiliate Network or any other program, since these third-party online sites are owned and operated independently of Us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If you have questions about a third party's information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and We are not responsible for the content or privacy practices of such online sites.
+We cannot ensure the protection of any information collected by any third party administering Our Affiliate Network or any other program, since these third-party online sites are owned and operated independently of Us. Any information collected by these third parties is not governed by this Privacy Notice but by the privacy notice, if any, of such third party. If you have questions about a third party's information practices, please read its privacy notice. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and We are not responsible for the content or privacy practices of such online sites.
 
-**14\. LEGAL DISCLAIMER**
-
-The Affiliate Network operates 'AS-IS' and 'AS-AVAILABLE,' without liability of any kind. We are not responsible for events beyond Our direct control. Because of the complex and constantly changing nature of Our technology and business, We cannot guarantee nor do We represent that there will be error-free performance regarding the privacy of your Personal Information, and We will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information.
-
-**15\. MERGERS AND OTHER EVENTS REQUIRING TRANSFER**
+**11\. MERGERS AND OTHER EVENTS REQUIRING TRANSFER**
 
 If We should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of Our assets, or transfer substantially all or part of Our relevant assets to a third party, We are entitled to share the Personal Information and all other information you have provided through the Affiliate Network to potential and subsequent business and merger partners.
 
-**16\. CONSENT TO PRIVACY POLICY**
+**12\. CONTACTING US AND MAKING A COMPLAINT**
 
-By clicking 'Submit' or 'I agree' during the registration process or by your continued use of the Affiliate Network following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is Our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with the Standard Affiliate Agreement and any additional applicable terms posted on the [bwin.party partners Website](http://www.bwinpartypartners.com/). We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on the [bwin.party partners Website](http://www.bwinpartypartners.com/). We recommend that you revisit this Privacy Policy regularly.
+Please do contact Us if you have any questions or complaints about this Privacy Notice or about how We handle your information by using the following details:
 
-Modified/Created April 2012
+**Address:** Customer Affiliate Network, GVC Services Limited , Suite 6, Atlantic Suites, Europort Avenue, Gibraltar
+
+**Email:** [affiliates@bwinpartypartners.com](mailto:affiliates@bwinpartypartners.com)
+
+If you are not satisfied with Our response or you believe Our use of your information does not comply with data protection law, you can make a complaint to the relevant regulator within your jurisdiction in relation to data privacy (in the UK, being the Information Commissioner). See www.ico.org.uk for more information.
