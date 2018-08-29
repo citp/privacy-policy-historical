@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certapet.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501232535id_/https%3A//www.certapet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certapet.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829075801id_/https%3A//www.certapet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CertaPet
 
@@ -20,7 +20,7 @@ We automatically collect certain information from visitors to the site, such as 
 
 Our website uses Google Analytics to collect information about how our site is used. This information includes how often someone visits our site, the pages viewed, and prior sites visited. We use this to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit this site. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google Analytics puts a permanent cookie on your web browser to identify you as a unique user the next time you visit this site. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. You can also install Google’s Analytics Opt-out Browser Add-on here: <https://tools.google.com/dlpage/gaoptout>.
 
-Our website also uses various advertising services (also called remarketing or retargeting services) provided by Google, Facebook, Twitter, AdRoll, and Infusionsoft (collectively, our “Advertising Service Providers”). They all work in a similar manner. When you view certain pages on our site, code on that page enables our Advertising Service Providers to place a cookie on your browser. These cookies collect and use anonymized identifiers, your IP address, and your website activity for advertising purposes. You will notice these services in operation after you leave our website, when advertisements from us appear on other websites. A complete description of the information that is collected and used, as well as instructions on how to opt-out, are available at: <http://www.google.com/settings/ads>. <https://www.facebook.com/help/1415256572060999>, <https://support.twitter.com/articles/20170405%20>, <https://www.adroll.com/about/privacy>, and <http://www.infusionsoft.com/legal/privacy-policy>.
+Our website also uses various advertising services (also called remarketing or retargeting services) provided by Google, Facebook, Twitter, AdRoll, and Infusionsoft (collectively, our “Advertising Service Providers”). They all work in a similar manner. When you view certain pages on our site, code on that page enables our Advertising Service Providers to place a cookie on your browser. These cookies collect and use anonymized identifiers, your IP address, and your website activity for advertising purposes. You will notice these services in operation after you leave our website, when advertisements from us appear on other websites. A complete description of the information that is collected and used, as well as instructions on how to opt-out, are available at: [http://www.google.com/settings/ads](https://www.google.com/settings/ads). <https://www.facebook.com/help/1415256572060999>, <https://support.twitter.com/articles/20170405%20>, <https://www.adroll.com/about/privacy>, and <http://www.infusionsoft.com/legal/privacy-policy>.
 
 We do not permit any other third parties to collect personally identifiable information about your online activities when you use our website.
 
@@ -34,9 +34,10 @@ Contact us at the address below if you want us to change or delete any informati
 
 This website is owned and operated by:  
 Cloud Clinic LLC  
-2535 Kettner Blvd., Suite 2B3,  
-San Diego, CA 92101  
-(877) 207-0561  
+CertaPet  
+3027 Marina Bay Dr. Suite 205  
+League City, TX 77573  
+Phone: (877) 207-0561  
 Privacy@CertaPet.com
 
 Effective date: June 01, 2015
