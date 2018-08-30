@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingmama.info privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622231000id_/http%3A//workingmama.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmama.info privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830042348id_/http%3A//workingmama.info/privacy) for the most accurate reproduction.*
 
 # privacy – workingmama.info
 
@@ -34,7 +34,7 @@ Personal Information is used for the following purposes: (i) to provide and impr
 
 ### Children’s Privacy
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact info@, titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
 ### Consumer Education Related to Social Networking
@@ -91,7 +91,7 @@ The Site contains links to other websites. If you choose to visit an advertiser 
 The Site may update this Privacy Notice from time to time, and so you should review this Policy periodically. If there are significant changes to the Site’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Site as well as for special features and services not described in this Policy that may be introduced in the future.
 
 _Violations and Comments_  
-Please report any violations of the TOS to abuse@, titled : Abuse/Violation; or make any comments to info@.
+Please report any violations of the TOS to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), titled : Abuse/Violation; or make any comments to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 _Last Updated_  
 Thursday, May 24th 2018 – 00:04:23 PM
