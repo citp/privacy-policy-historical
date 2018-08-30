@@ -1,47 +1,87 @@
-> *The following text is extracted and transformed from the thegatewaypundit.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526003541id_/http%3A//www.thegatewaypundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegatewaypundit.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830030701id_/https%3A//www.thegatewaypundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Gateway Pundit
 
-We report the truth - And leave the Russia-Collusion fairy tale to the Conspiracy media
-
 ## Privacy Policy
 
-If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at support@thegatewaypundit.com.  
-  
-At TheGatewayPundit.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by TheGatewayPundit.com and how it is used.
+The privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the Www.thegatewaypundit.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Site.
 
-**Log Files**
+If you are located in the EU, you will also be asked to provide clear and unequivocal affirmative consent to the collection, processing, and sharing of your user information via cookies and similar technologies.
 
-Like many other Web sites, TheGatewayPundit.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Notice to EU Individuals: this Privacy Statement and its enumerated policies are intended to comply with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (the “General Data Protection Regulation” or “GDPR”) and provide appropriate protection and care with respect to the treatment of your user information in accordance with the GDPR. 
 
-We will not disclose your individual identity or personal data to any party.  
-When we do present information to outside companies it will be in an aggregate fashion, that will prevent the company from identifying you or contacting you.  
-We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information contact us at support@thegatewaypundit.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Personal Identification Information**
 
-**Cookies and Web Beacons**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our Site, register on the Site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, and credit card information.
 
-TheGatewayPundit.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user accesses or visits, and customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit <http://www.aboutads.info/choices> or <http://www.networkadvertising/choices>.
+**Non-personal Identification Information**
 
-**DoubleClick DART Cookie**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on TheGatewayPundit.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –[http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
+**Cookies**
 
-**Third Party Advertisers**
+We allow third-party companies to collect certain information when you visit this Site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. [AdChoices](https://quantcast.com/adchoices-pub?pub=WoWE9Qi0n5mnqUmRPHkWRQ)
 
-Some of our advertising partners may use cookies and web beacons on our site.  
-These third-party ad servers or ad networks use technology to display the advertisements and links that appear on TheGatewayPundit.com. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
-TheGatewayPundit.com has no access to or control over these cookies that are used by third-party advertisers.  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. TheGatewayPundit.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Third party vendors, including Google, use cookies to serve ads based on a user’s browsing history. Google’s use of the DoubleClick cookie enables it and its partners to serve ads based on User’s visit to this Site and/or other websites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
 
-**Email Address**
+Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other websites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)
 
-When you subscribe to the Gateway Pundit via email, your email address is placed in a database and used to send you our newsletters. By submitting your email address, you consent to Gateway Pundit delivering daily email content and advertisements. You can remove your address from our email list at any time by following the instructions at the end of every email we send.
+For EU individuals, essential cookies also help inform Site whether you require, or have already been served, an affirmative consent request in connection with the GDPR. Essential cookies include analytics cookies, which provide us data that allows Site to better understand its users and improve the Site based on what we have learned from that data.
 
-**Spam**
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, or email address. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website.
 
-If you believe that Gateway Pundit has sent you unsolicited commercial email (spam), please send an email to [tgpemail@thegatewaypundit.com](mailto:tgpemail@thegatewaypundit.com)
+To learn more about interest-based advertising in general and to opt out, please visit [optout.aboutads.info](http://optout.aboutads.info/) and/or [optout.networkadvertising.org](http://optout.networkadvertising.org/) and/or [preferences-mgr.truste.com](https://preferences-mgr.truste.com/), or if located in the European Union please visit [youronlinechoices.eu](https://youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+**Third Party Websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+**How we use collected information**
+
+This Site collects and uses Users’ personal information for the following purposes:
+
+  * To improve customer service; Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To personalize user experience; We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site; We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To process transactions; We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * To administer a content, promotion, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emails
+
+
+
+The email address Users provide for order processing will be used to send them information and updates pertaining to their order, and information and updates about other store items. It may also be used to respond to their inquiries, and/or other requests or questions.
+
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We do not rent, sell or barter your email address to third parties. Users may receive occasional emails from underwriters of this website; such sponsorships enable us to continue to bring you the latest news and information free of charge. If at any time the User would like to unsubscribe from receiving future emails, simply click the Unsubscribe link at the bottom of each email.
+
+Site may disclose your personal information if required to do so by law such as to comply with a subpoena or in the good faith belief that such action is necessary to conform to the edicts of the law, protect your safety or the safety of others, investigate fraud or comply with a judicial proceeding, court order or legal process served on Site or to protect and defend the rights or property of Site.
+
+Notice to EU Individuals: As outlined in this Privacy Statement, Site will not process your user information without a lawful basis to do so, as such bases are defined in Article 6 of the GDPR. In general, Site will process your user information on the legal bases of consent, contract (if you have entered into an agreement with us and such processing is a necessary part thereof), or legal obligation (as noted above). Site may also process certain user information on the basis of the following legitimate interests, provided that such interests are not overridden by your privacy rights and interests: delivering and continuing to develop and improve the Site, learning from your behavior on the Site (e.g., analyzing traffic) to better serve you and other Site users, helping us modify or enhance the Site and its content, receiving insight as to what users do (and don’t) like about our Site or aspects thereof, and providing a stable, consistent, and secure user experience in connection with the Site.
+
+**How We Protect Your Information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Cross-border Transfers**
+
+Your user information may be transferred to other countries in connection with your use of the Site. If you access or use the Site outside of the United States, your user information will be transferred to our servers in the United States.
+
+Site participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Site is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov/list. Site is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Site complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Site is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Site may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request Under certain conditions, more fully described on the Privacy Shield website at https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**Copyright**
+
+All content on this Site is copyrighted. Reposting and reuse are permissible only with the expressed permission. [Copyright.gov](https://www.copyright.gov/fair-use/more-info.html) offers guidelines regarding what actions exceed the scope of “fair use.”
+
+**Changes to This Privacy Policy**
+
+This Site has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your Acceptance of These Terms**
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please feel free to [contact us](https://www.thegatewaypundit.com/contact/).
