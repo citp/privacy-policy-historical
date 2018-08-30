@@ -1,31 +1,115 @@
-> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025121925id_/https%3A//survs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830161350id_/https%3A//survs.com/privacy) for the most accurate reproduction.*
 
-# Survs – Privacy Policy
+# Privacy Policy | Survs
 
-Survs (“we” or “us”) takes the privacy of its users seriously. This Privacy Policy outlines the details of our commitment to user privacy and security. This document will let you know what information we collect through survs.com (“Site”) and how we use that information.
+Survs ("Survs" or the "Service") is a service offered through the URL survs.com (the "Website"). Survs is owned and operated by Enough Pepper Lda. ("Survs", "we", or "us"). For the purposes of this Privacy Policy, a "User" ("Creator" or "Survey Creator") is a person who creates surveys, and a "Respondent" is a person who answers those surveys. Survs takes the privacy of its users seriously. This Privacy Policy outlines the details of our commitment to user privacy and security. This document will let you know what information we collect through Survs and how we use that information. The information we receive from Survey Creators and survey Respondents and how we handle it differs, so we have split some sections of this privacy policy into two parts. 
 
-### User Data
+## 1\. Information we collect
 
-Survs is a web-based service for conducting surveys. We respect the privacy of our users and their data. Any information shared with Survs during the creation of a survey is owned solely by the administrator of that survey. Users retain all rights to their data. We will not disclose users' personal data and survey data to any third parties, and will exclusively use suchlike data for the respectively intended purpose. We provide the option to password protect surveys if they contain sensitive content.
+### Information we collect directly from Creators
 
-Email addresses uploaded to the Site, for the intent of sending email survey invitations, are owned solely by the survey administrator. At the direction of our users, we send survey invitation emails to email addresses provided by them. We will never share any information uploaded to the Site with any third parties.
+We collect information relating to Creators from a variety of sources:
 
-Data collected through surveys is owned solely by the survey administrator. Your survey questions and responses are kept in absolute confidence and used in compliance with legal requirements. We will never use your survey questions or responses other than in accordance with this Privacy Policy.
+  * **Registration:** Creators need a Survs account before they can create surveys on Survs. When Creators register we ask for username, email address, time zone and password.
+  * **Billing:** When Creators decide to upgrade their account, we require them to provide: name, billing address and credit card details.
+  * **Address book:** We allow Creators to import email addresses into a list of contacts so they can easily invite people to take surveys via email. We only use these email addresses to send email invitations on Creators' behalf and at their direction.
+  * **Survey:** We store Creators' survey data and provide analysis tools for them to use with respect to this data.
 
-Transaction data, including personal data, provided in the course of executing payment transactions are processed by PayLane Sp. z o.o. acting as a payment institution intermediating in payment processing.
 
-### Data Collection
 
-When you sign up as a user we ask for information such as a user name, email and timezone. Those who sign up for a paid plan are required to enter a user name, email, timezone, full name, billing information and credit card information. Users may view and edit their personal information, billing information and preferences.
+### Information we collect directly from Respondents
 
-To protect the customer area from misuse we actively monitor all log ins into the Site in addition to recording standard web logs. To speed up the handling of support emails we may record computer and browser information. This allows us to quickly deal with problems arising from incompatible system settings.
+We collect information relating to Respondents from surveys hosted by Survs on behalf and upon instructions of the Survey Creator.
 
-### Security
+  * **Responses to surveys:** We collect and store the Survs responses from Respondents. The Survey Creator is responsible for that data and manages it. The Survey Creator is usually the same person that invited the Respondent to take the survey and sometimes they have their own privacy policy. When responding to a survey, Respondents may provide personal information or data. Survs is not responsible for the content of surveys, so if Respondents have any questions about a survey, they should contact the Survey Creator directly.
+  * **Email address:** We collect the email address if the Survey Creator provides it to us in order to send Respondents a survey invitation email. Respondents may opt out of receiving email invitations to complete surveys that are sent by Survey Creators via Survs.
 
-The security of your personal information is very important to us and we employ industry standard security mechanisms to protect it from loss, misuse and unauthorized access, disclosure, alteration and destruction. Examples include limited access, firewalls, security analyzers, and using SSL encryption to protect transmission of data.
 
-It is your responsibility to safeguard any password and user name you use to access the Site and we strongly advise not to share any of this information with others. Please notify us if you ever suspect that your password and user name has been compromised.
 
-### Changes to this Policy
+### Information we collect indirectly from Creators and Respondents
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our Privacy Policy, we will post those changes to this document, the homepage, and other places we deem appropriate so that you are aware of what information we collect and how we use it.
+  * **Analytics data:** As is true of most websites, we gather certain analytics information automatically. This information is anonymous and includes IP address, browser type, and operating system.
+
+
+
+## 2\. How we use the information
+
+### Creators:
+
+We process personal data about Creators for a variety of purposes:
+
+  * To provide Creators with our services.
+  * To enforce our Terms of Service and prevent potentially illegal or abusive activity.
+  * To contact Creators about their service or account. We occasionally send communications (e.g., service-related announcements, changes to our services or policies, billing-related matters, a welcome email when Creators first register).
+  * To contact Creators for marketing purposes. We will only do this if Creators have consented to receive these communications. Creators may opt-out of these communications at any time by changing the relevant setting on the Profile page.
+
+
+
+### Respondents:
+
+All information that Respondents provide in response to a survey will be provided to the Survey Creator. Survey responses are owned and managed by the Survey Creator, and we treat that information as private to the Survey Creator. The Survey Creator controls the survey and what happens to the survey data. We recommend that Respondents contact the Survey Creator running the survey to understand how they will use their survey responses. The Survey Creator may provide Respondents with their own privacy policy governing the use of survey data. We will not provide any information that Respondents submit in response to the survey to third parties.
+
+## 3\. With whom do we share or disclose information
+
+### Creators:
+
+We do not share personal data with any third parties except in the following very limited circumstances:
+
+  * Manage customer support.
+  * Making credit card payments.
+  * Sending surveys by email to Respondents.
+
+
+
+We enter into confidentiality and data processing terms with partners to ensure they comply with high levels of confidentiality and best practice in privacy and security standards and we regularly review these standards and practices.
+
+### Respondents:
+
+We disclose Respondent survey responses to Survey Creators. We host surveys for Survey Creators, but they are the primary collector of survey data. Anything Respondents expressly disclose in survey responses will, naturally, be provided to Survey Creators. Please contact the Survey Creator directly to understand how they might share Respondent survey responses.
+
+## 5\. Security, cookies and other information
+
+  * **Security:** The security of information is important to us, and we will take all steps reasonably necessary to ensure that data is treated securely and in accordance with this privacy policy. All information that users provide to us is stored on secure servers. When users submit information, we encrypt that information using secure socket layer technology (SSL). Where users use a password to access certain areas of our website they are responsible for keeping this password confidential and must not share it with anyone. We follow generally accepted industry standards to protect the personally identifiable information and data submitted to us, both during transmission and once we receive it. Once we have received users' information, we will use strict procedures and security features to try to prevent unauthorized access.
+  * **Cookies:** Survs uses cookies to administer the website. Users can control the use of cookies at the individual browser level, but if they choose to disable cookies, it may limit their use of certain features or functions on our website or service.
+  * **Changes to this privacy policy:** This privacy policy may be changed. If we make any material changes, we will notify users using a notice on this website before the change becoming effective. We encourage users periodically review this page for the latest information on our privacy practices.
+
+
+
+## 6\. Additional information for European Union users
+
+Survs is compliant with the General Data Protection Regulation (GDPR). This regulation is designed to give European Union citizens more control over their data and seeks to unify existing privacy and security laws under one comprehensive scheme.
+
+### Data controller
+
+Survs is the data controller for registration, billing and other account information that we collect from users in the EU. However, the data controller for survey data is the Survey Creator. The Survey Creator determines how their survey questions and responses are used and disclosed. Survs only processes such survey data in accordance with the instructions and permissions (including those given under this privacy policy) selected by the Survey Creator when they create and administer their survey.
+
+### Your rights
+
+European Union users have certain legal rights to obtain information about whether we hold personal information about them, to access personal information we hold about them, and to obtain its correction, update, amendment or deletion. We will respond to your request to exercise these rights within a reasonable time, within 30 days of receiving a request. 
+
+Rights which you are entitled to are:
+
+  * Data access rights
+  * Right to restrict processing
+  * Right of Rectification
+  * Right to Erasure (Right to be Forgotten)
+  * Right to object to processing
+  * Right to withdraw consent
+  * Data portability rights
+
+
+
+### Exercising your rights
+
+Issues regarding GDPR can be directed to:
+
+Enough Pepper Lda.  
+Attn: Information Commissioner's Office  
+Avenida da República 6, 7 Esq  
+1050-191 Lisboa  
+Portugal  
+
+
+## 7\. Contact Us
+
+If you have questions or concerns about Survs' Privacy Policy please contact us at support@survs.com or Avenida da República 6, 7 Esq 1050-191 Lisboa, Portugal Attn: Privacy Department.
