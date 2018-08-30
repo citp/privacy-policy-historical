@@ -1,95 +1,393 @@
-> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425040803id_/https%3A//www.opswat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831003253id_/https%3A//onlinehelp.opswat.com/policies/OPSWAT.com_Privacy_Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | OPSWAT
+# OPSWAT.com Privacy Policy - Privacy and Terms
 
-OPSWAT respects the privacy of individuals who provide us with personal information, including our customers, resellers, distributors, service providers and visitors to our website, and is committed to protect the personal information that is provided to us through our website, by email or by other means. OPSWAT does not collect or use personal information from an individual unless the individual intentionally provides it and consents to its usage. This privacy policy ("Policy") describes our personal information handling practices and applies to OPSWAT, Inc. and all of its subsidiaries worldwide.
+**Last Update** : 07 Aug 2018 
 
-OPSWAT complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. OPSWAT has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view OPSWAT’s certification, please visit <http://www.export.gov/safeharbor/>.
+**Version** : 2.1 
 
-#### Information Collected
+This privacy policy explains what information **OPSWAT, Inc**. and all of its subsidiaries worldwide (referred to as “OPSWAT,” “we,” “us,” and “our”) gather about individuals who provide us with personal information. It outlines what we use that information for and who we give that information to. It also sets out your privacy rights in relation to your own personal information, and it tells you who to contact for more information about this policy. 
 
-Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, social security number, national identification numbers, email address, postal or physical address or other contact information, occupation, industry or other information needed to answer a request, to better provide information and services or to comply with various national, state, provincial or local governmental reporting requirements.
+In this privacy policy, your personal information is sometimes called “personal data.” We collectively refer to collecting, handling, using, protecting, or storing your personal information as “processing.” 
 
-OPSWAT may collect personal information as described below. In each case, we only collect personal information that we believe to be relevant and required to provide an individual with requested information and services and to conduct our business. By way of example, we may collect personal information for the purposes set forth below:
+Although you do not have to provide any of your personal information to us, if we ask you to do so and you refuse, we may be unable to provide you with the information, goods, or services you want from us. 
 
-  * Viewing of product demonstrations
-  * Accessing of white papers
-  * Participation in marketing promotions
-  * Participation in seminars or events
-  * Career opportunities
-  * User surveys
-  * Product evaluations
-  * Secured Partner sites
-  * Registration of products
-  * Direct marketing by OPSWAT or its telemarketing service providers
-  * Responding to an inquiry
-  * Providing technical support or consulting services
+IMPORTANT
 
+Please do not provide us with your personal information unless we ask you for it. 
 
+We take data protection very seriously, and we are fully committed to protecting your personal information. This privacy policy describes how we handle the personal information we collect and process through OPSWAT.com. 
 
-In addition, when accessing certain documents or services on our website or during other marketing activities, visitors may be asked to provide certain information, such as how they can be contacted, where they work, and what they do. We may also track non-personal information about the web pages and content accessed by visitors at the OPSWAT website and the number of times such content is accessed by a visitor. OPSWAT collects this non-personal information in an effort to better meet the needs of visitors to its website to answer questions, and to improve delivery of information and services to visitors of the website.
+It is our policy to collect only the minimum information required from you. If you believe that we have gone beyond that, please contact us to raise any concerns you may have. A list of contact methods is provided at the bottom of this privacy policy. 
 
-Also, in the course of performing services for customers, OPSWAT may be provided access to a customer's networks or systems, and in rare cases, may be able to view or receive portions of personal information of customer's clients. OPSWAT does not and will not use this information, and if indirectly collected as part of the performance of services, all such information is safeguarded in accordance with this Policy.
+OPSWAT complies with the EU-U.S and Swiss-U.S. **Privacy Shield** Frameworks which were designed by the US Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce and with  REGULATION (EU) 2016/679 of the European parliament and of the council (GDPR). 
 
-#### Notice and Ability to Opt-Out
+OPSWAT has certified that it adheres to the Privacy Shield. To learn more about Privacy Shield please visit [www.privacyshield.gov](http://www.privacyshield.gov/) and to view our certification, please visit <https://www.privacyshield.gov/>. 
 
-When personal information is collected, we will inform the individual at the point of collection the purpose for the collection and where appropriate, allow the individual to elect whether to provide the information to OPSWAT and/or specify how we can use such personal information. OPSWAT provides individuals who elect to receive electronic or other communications the ability to "opt-out" of those communications by sending us a notice to unsubscribe. OPSWAT respects your wishes and will discontinue communicating with individuals who have requested not to receive email or other communications from OPSWAT. This means we assume an individual has given us consent to collect and use his/her personal information in accordance with this Policy unless the individual has taken affirmative action to indicate that he/she does not consent, for instance by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, OPSWAT will provide an individual with the opportunity to "opt-in." This means that we will require affirmative action from the individual to indicate his/her consent before we use personal information for purposes other than the purpose for which the personal information was submitted.
+**Personal information** (personal data) is anything that enables you to be identified or identifiable including but not limited to: 
 
-#### Sharing, Disclosure and Security of Personal Information
+  * First and last name 
 
-If an individual chooses to provide OPSWAT with personal information, the personal information will be used solely by and transferred only to OPSWAT, its offices and subsidiaries around the world, its resellers and distributors and service providers, which are those companies contracted by OPSWAT to deliver requested information and services. We may also transfer personal information across borders and from the individual's country or jurisdictions to OPSWAT' offices and subsidiaries, its resellers and distributors and service providers around the world. All such entities are governed by this Policy or are bound by appropriate confidentiality and data transfer agreements.
+  * Email address, postal and IP addresses 
 
-An individual's personal information is never shared outside OPSWAT without permission, except under conditions explained below. OPSWAT may send personal information to other service provider companies under any of the following circumstances:
+  * Telephone numbers 
 
-  * when we have an individual's consent to share the information;
-  * if sharing an individual's information is necessary to provide a product or service that is requested (If personal information is shared with third parties we will only provide the information they need to deliver the service. Also, such companies are prohibited from using such personal information for any other purpose);
-  * as part of a joint sales promotion or to pass sales leads to one of our distribution partners; and
-  * to keep an individual up to date on the latest product announcements, product updates, special offers or other information we think he/she would like to hear about either from us or from our service providers (unless the individual has opted out of these types of communications).
+  * National identification/social security and national insurance numbers 
+
+  * Job titles and occupation 
+
+  * Bank accounts 
+
+  * Any contact information 
 
 
 
-We will also disclose personal information if required or permitted to do so by law, or in urgent circumstances, to protect personal safety, the public or our websites.
 
-OPSWAT safeguards the security of the personal information and other data provided to us with physical, electronic and managerial procedures. Inside OPSWAT, data is stored in secure and controlled servers with limited access. Your information may be stored and processed in the United States or any other country where OPSWAT, its subsidiaries or service providers are located. While we strive to protect personal information, we cannot ensure the security of the personal information provided to us. We urge individuals to protect their personal information when using the Internet by, for example, changing passwords often, using a combination of letters and numbers and making sure to use a secure browser.
+IMPORTANT
 
-#### Use of Cookies
+We only collect personal information through OPSWAT.com that we believe to be relevant and required to provide you with requested information and services and to conduct our business. 
 
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
+As you use OPSWAT.com, you may link to third-party sites not controlled by us and which do not operate under our privacy practices. When you link to third-party sites, our privacy practices no longer apply. We encourage you to review each third-party site's privacy policy before disclosing any personally identifiable information. 
 
-When you visit our website, we send you a cookie. Cookies may be used in the following ways:
+We do not intend to collect special category (also known as sensitive) personal information through our website(s) (unless we are legally required to do so). Examples of special category information are: race or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; physical or mental health; genetic data; biometric data; sexual life or sexual orientation; and criminal records. 
 
-  * To help us recognize you as a unique visitor (just a number) when you return to our website, to allow us to tailor content or advertisements to match your preferred interests, or to avoid showing you the same advertisements repeatedly.
-  * To develop leads for our internal sales group and our business partners and provide direct marketing communications to you if you have explicitly consented to receive such communications.
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
+We ask that you do not provide us with special category personal information when using OPSWAT.com. 
+
+With respect to your use of an Internet browser to interact with OPSWAT.com you should be aware that like many businesses with websites and cloud services, we may also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. You can control our use of cookies with respect to your device by changing options in the Internet browser you use. We will display notices to you about cookies and prompt you to accept or reject a cookie from us. If you do not accept cookies, however, you may not be able to use all portions or features of OPSWAT.com. For more information about our use of cookies, please visit [OPSWAT Cookies Policy](https://web.archive.org/web/20180831003253id_/https%3A//onlinehelp.opswat.com/policies/OPSWAT_Cookies_Policy.html). 
+
+You have the following rights regarding your Personal Data: 
+
+1 Right of Access. 
+
+You have the right to access your Personal Data that we hold about you, i.e. the right to require free of charge: 
+
+  * information whether your Personal Data is retained, 
+
+  * access to duplicates of the Personal Data retained, 
 
 
 
-Two types of cookies may be used on this website: session cookies (which are temporary cookies that remain in the cookie file of your browser until you leave the site) and persistent cookies (which remain in the cookie file of your browser for much longer, though how long will depend on the lifetime of the specific cookie).
 
-#### Disabling/Enabling Cookies
+Upon your request, along with a duplicate of the data we retained, will provide you information related to – purpose of the processing, personal data we collect, entities to which we transferred them, time we keep your Personal Data, if possible and the criteria we used to decide the period, your rights as European Union Citizen, unless the data was collected directly from you, the source of the data, whether there is an automated decisional process, 
 
-You have the ability to accept or decline cookies by modifying the settings in your browser, as well as delete any cookies that have been installed in the cookie folder of your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled/deleted. If you do not know how to disable or delete cookies for the browser you are using, you should select 'cookies' in the Help function of your browser to get more information.
+You can use the right to access to your Personal Data through your account. You may also request what other information we may hold. One request is free of charge, for the other we may charge a reasonable fee. If the effort of identifying data may be too much, or it may infringe with other people rights, we have the right to refuse it. 
 
-Accessing and Updating Personal Information
+2 Right to Rectification. 
 
-OPSWAT encourages all individuals who provide personal information to OPSWAT to keep their personal information accurate and up to date. Personal information may in many cases be updated by an individual online. Individuals may also request access to their personal information by sending an email to [info@opswat.com](mailto:info@opswat.com)
+When we process your Personal Data, we shall try to ensure that your Personal Data is accurate and up-to-date for the purposes for which it was collected. If your Personal Data is inaccurate or incomplete, you can change the information you provided by going to _<https://go.opswat.com/myuserright>_ and following the steps as described. 
 
-#### Children and Privacy
+  1. Right to suspend the processing 
 
-Our websites do not target and are not intended to attract children under the age of 13. OPSWAT does not knowingly solicit personal information from children under the age of 13 or send them requests for personal information.
 
-#### Third Party Sites
 
-OPSWAT's website may provide links to other third party websites which are outside our control and not covered by this Policy. We encourage you to review the privacy policies posted on these third party websites.
 
-#### Dispute Resolution
+You have the right to request the termination of the processing with or without deletion of the data we have collected where one of the following applies: 
 
-OPSWAT has designated JAMS as our Alternative Dispute Resolution (ADR) Provider for disputes under the U.S.-EU Safe Harbor Framework. JAMS dispute procedures may be found on their website at [www.jamsadr.com](http://www.jamsadr.com/).
+  * the accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data; 
 
-#### Changes to Our Privacy Policy
+  * the processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead; 
 
-OPSWAT may amend this Policy from time to time. If we make significant changes that affect the way we use your personal information, we will notify you by posting a revised statement on this site.
+  * the controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims; 
 
-#### Questions
+  * the data subject has objected to processing pursuant to Article 21(1) pending the verification whether the legitimate grounds of the controller override those of the data subject. 
 
-If you have any questions about this Policy, please email us at [info@opswat.com](mailto:info@opswat.com) or mail us at OPSWAT, P.O. Box 77878, San Francisco, CA 94107-7878.
+
+
+  1. Right to data portability 
+
+
+
+
+You have the right to receive the Personal Data concerning you, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance us. 
+
+  1. Right to delete. 
+
+
+
+
+You have the right to obtain deletion by us of Personal Data concerning you by deleting your User Account or by by going to _<https://go.opswat.com/myuserright>_ and following the steps as described. 
+
+Because of deleting your User Account, you will lose access to services provided to you by OPSWAT.com 
+
+We allow you to restore your User Account during a grace period of 30 (thirty) days from the moment you request deletion of your User Account. This functionality allows you not to lose your account by mistake, because of your loss of your account credentials or due to hacking. During the suspension period, we will be able to finalize financial and other activities that you may have initiated before sending the User Account deletion request. After the grace period, Personal Data associated with your account will be deleted. 
+
+In some cases, deletion of your User Account, and therefore Personal Data deletion, is complicated. Namely, if your account has a business relationship with US, you will only be able to delete your User Account after you have dissolved the business relationship. In some cases, considering the complexity and number of the requests, the period for Personal Data erasure may be extended, but for no longer than two further months. 
+
+5 Right to Object. 
+
+When our processing of your Personal Data is based on legitimate interests according to Article 6(1)(f) of the GDPR, you have the right to object to this processing. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing as described in Article 21 of the GDPR; in particular if the data is necessary for the establishment, exercise or defence of legal requirements. 
+
+You also have the right to lodge a complaint at a supervisory authority. 
+
+Contact Information: 
+
+Our lead supervisory authority is the Romanian Data Protection Agency which may be contacted at: 
+
+Autorității Naționale de Supraveghere a Datelor cu Caracter Personal 
+
+B-dul G-ral. Gheorghe Magheru 28-30, sector 1, 010336, București, 
+
+[anspdcp@dataprotection.ro](mailto:anspdcp@dataprotection.ro), 
+
+Phones: +40.318.059.211, +40.318.059.212 
+
+[www.dataprotection.ro](http://www.dataprotection.ro/)
+
+You can also contact our data protection officer at the address below. Our European representative for data protection questions is: 
+
+Opswat Romania SRL 
+
+Timișoara, România 
+
+If you would like to exercise these rights or determine what, if any, personal information we have about you, please go to _<https://go.opswat.com/myuserright>_ and follow the steps as described. 
+
+We will not use your personal information for automated decision making or profiling. 
+
+We understand the importance of protecting children's privacy and we never knowingly collect personal information about individuals under the age of 16. We adhere to laws regarding marketing to children. 
+
+IMPORTANT
+
+If you are under 16 years of age, we ask that you do not use OPSWAT.com. 
+
+## If You use the "Contact Us" or "Subscribe" Forms:
+
+Data We Collect 
+
+| 
+
+How We Use Your Data 
+
+| 
+
+Your Choices 
+
+| 
+
+Service Providers With Which We Share This Information 
+
+| 
+
+Retention Policy   
+  
+---|---|---|---|---  
+  
+Your contact information: 
+
+  * First name 
+
+  * Last name 
+
+  * Email address 
+
+  * Phone number 
+
+  * Company name 
+
+  * Industry 
+
+  * Job title 
+
+  * City, State, Country 
+
+  * Contact date 
+
+
+| 
+
+  * To respond to your request for contact based on the email address you provide (which is required to submit the form) or other contact methods you specify in the form. 
+
+  * To subscribe you to newsletters you request via the "Subscribe" form using the email address you provide in this form. 
+
+
+| 
+
+Refer to _**User Rights**_ section 
+
+| 
+
+  * Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact. 
+
+  * Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access. 
+
+
+| 
+
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.   
+  
+Your product Interest: 
+
+  * Trial product name 
+
+  * Any product interest 
+
+  * Proxy use case 
+
+  * Compliance regulation 
+
+  * Identity provider 
+
+  * Other requirements 
+
+
+| 
+
+Information you provided is used to select product information that best suits what you are looking for. 
+
+| 
+
+Refer to  _**User Rights**_ section 
+
+| 
+
+  * Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact. 
+
+  * Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access. 
+
+
+| 
+
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.   
+  
+Your production environment: 
+
+  * Number of devices 
+
+  * Number of mailboxes 
+
+
+| 
+
+Information you provide is used to select product information that best suits what you are looking for. 
+
+| 
+
+Refer to  _**User Rights**_ **** section 
+
+| 
+
+  * Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact. 
+
+  * Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access. 
+
+
+| 
+
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.   
+  
+Lead tracking: 
+
+  * How much and when emails are opened 
+
+  * If email is being delivered or blocked 
+
+  * Original source 
+
+  * Page visits 
+
+  * Country, State, City based on IP 
+
+
+| 
+
+Information is used to make sure the right person reaches out to you and provides information that is relevant to you. 
+
+| 
+
+Refer to  _**User Rights**_ **** section 
+
+| 
+
+  * Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact. 
+
+  * Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access. 
+
+
+| 
+
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.   
+  
+## If You use live chat:
+
+Data We Collect 
+
+| 
+
+How We Use Your Data 
+
+| 
+
+Your Choices 
+
+| 
+
+Service Providers With Which We Share This Information 
+
+| 
+
+Retention Policy   
+  
+---|---|---|---|---  
+  
+Email address 
+
+| 
+
+Identify who you are 
+
+| 
+
+Refer to _**User Rights**_ section 
+
+| 
+
+  * Drift, which provides live chat service 
+
+
+|   
+  
+IP address 
+
+| 
+
+Location data to route who can assist 
+
+|   
+  
+## Web analytics 
+
+The third-party service providers identified above may use their own third-party subcontractors who have access to personal data (sub-processors). It is our policy to use only third-party providers that are bound to maintain appropriate levels of security and confidentiality, to process personal information only as instructed by us, and to flow those same obligations down to their sub-processors. 
+
+IMPORTANT
+
+We do not collect personally identifying information for sale to third parties. 
+
+OPSWAT may disclose personal information to third parties under the following circumstances: 
+
+  * When explicitly requested by you 
+
+  * As otherwise set out in this OPSWAT.com Privacy Policy 
+
+
+
+
+We may also disclose your personal information to law enforcement, regulatory and other government agencies, and to professional bodies and other third parties as required by and/or in accordance with applicable laws or regulations. This includes disclosures outside the country where you are located. 
+
+Finally, we will disclose personal information if required in urgent circumstances, to protect the personal safety of individuals or the general public, or to maintain the uptime or stability of OPSWAT.com. 
+
+Taking into account the state of the art, the costs of implementation, and the nature, scope, context, and purposes of processing your personal information, we have implemented technical and organizational measures to ensure a level of security appropriate to the risk of unauthorized or unlawful processing of personal data. These measures also help us guard against accidental loss, destruction of, or damage to personal data. 
+
+Only authorized persons are provided access to the personally identifiable information we have collected, and such individuals have agreed to maintain the confidentiality of this information. 
+
+We safeguard the security of the personal information provided to us with physical, electronic, and managerial procedures. Inside OPSWAT, data is stored in secure and controlled servers with limited access. 
+
+Where we share your personal information with third-party providers, they may use subcontractors that have access to your personal data (sub-processors). It is our policy to use only third-party providers that are bound to maintain appropriate levels of security and confidentiality, to process personal information only as instructed by us, and to flow those same obligations down to their sub-processors. 
+
+Note that your information may be stored and processed in the United States or any other country where OPSWAT, its subsidiaries, or service providers are located. 
+
+IMPORTANT
+
+While we strive to protect personal data, we cannot guarantee the security of the personal information provided to us. Although we use appropriate security measures, once we have received your personal information, the transmission of data over the Internet (including via email) is never completely secure. We urge you to protect your personal information when using the Internet by, for example, changing passwords often, using a combination of letters, numbers, and special characters (for example, % and $ and +) , and making sure to use a secure browser. 
+
+If you create an account to use services associated with OPSWAT.com, we will retain your personal information while the account you’ve created remains active. We will also retain your information for as long as we have a legitimate business purpose to do so, and thereafter, for no longer than is required or permitted by law. This includes data you or others have provided to us, as well as data generated or inferred from your use of  OPSWAT.com  . 
+
+Our privacy policy may be updated from time to time, and we will notify you of any material changes by posting the new policy at OPSWAT.com privacy  policy  and revising the “Effective starting” date at the top of the policy. 
