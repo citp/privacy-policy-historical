@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobnet.com.mm privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302021752id_/https%3A//www.jobnet.com.mm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnet.com.mm privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830103623id_/https%3A//www.jobnet.com.mm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobNet.com.mm
 
@@ -45,7 +45,7 @@ Personally Identifiable Information collected by JobNet.com.mm is securely store
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [legal@JobNet.com.mm](mailto:legal@JobNet.com.mm)
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [support@JobNet.com.mm](mailto:support@JobNet.com.mm)
 
 **Are Cookies Used on the Site?**
 
@@ -84,6 +84,6 @@ This web site contains links to other web sites. Please note that when you click
 
 
   
-© 2015 JobNet.com.mm (version - 1.2.1) , All rights reserved.
+© 2015 JobNet.com.mm (version - 1.3.74) , All rights reserved.
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
