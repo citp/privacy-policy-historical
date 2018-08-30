@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensrs.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626182337id_/https%3A//opensrs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensrs.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830040254id_/https%3A//opensrs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSRS
 
