@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413193318id_/http%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830092017id_/https%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
