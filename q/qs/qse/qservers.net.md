@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qservers.net privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129100806id_/https%3A//www.qservers.net%3Fprivacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qservers.net privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830142615id_/https%3A//www.qservers.net/%3Fprivacy-policy.html) for the most accurate reproduction.*
 
 # QServers - Top Web Hosting Company In Nigeria
 
