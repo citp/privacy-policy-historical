@@ -1,76 +1,176 @@
-> *The following text is extracted and transformed from the versionone.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092341id_/http%3A//www.versionone.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versionone.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830192747id_/https%3A//www.collab.net/privacy) for the most accurate reproduction.*
 
-# VersionOne Privacy Policy | VersionOne
+# Privacy Policy | CollabNet VersionOne
 
-**VersionOne, Inc.**  
-[www.versionone.com](http://www.versionone.com/)  
- **Privacy Policy**
+## CollabNet, Inc. | VersionOne, Inc.
 
-THIS PRIVACY POLICY RELATES TO INFORMATION COLLECTED ON VERSIONONE WEBSITES ACCESSED THROUGH THE URL [ VERSIONONE.COM](http://www.versionone.com/) (collectively, the “Site”). 
+[www.collab.net](http://www.collab.net/) | [www.versionone.com](http://www.versionone.com/)
 
-## Our Commitment to Privacy
+This privacy policy covers the following items:
 
-VersionOne, Inc. (“VersionOne,” “we” or “us”) respects the privacy of your information. We provide this explanation about our online information practices as a demonstration of our commitment to protect your privacy.
+  * The types of information we collect
+  * How we use the information collected
+  * Automated processing of data
+  * With whom we share information
+  * The choices you have with your data
+  * How you can access, update, or delete your data
+  * International transfer of information collected
+  * How long we retain your information
+  * Children's Personal Information
+  * Using Customer Data
+  * Privacy Shield
+  * Changes to this policy
+  * How to contact us 
 
-We do not sell or rent personally-identifying information collected during your use of our Site without your permission.
+
+
+## Privacy Policy 
+
+This Privacy Policy describes the privacy practices of CollabNet, Inc. and its affiliates including VersionOne, Inc. (collectively, "CollabNet" or the "Company") and provides information about the choices you have regarding the ways in which information collected through the use of our services (the "Services") and while visiting the CollabNet websites (collectively, the "Site") is used and disclosed. In general, you can use our Site without revealing any personal information about yourself and you may browse the Site using [privacy mode in your web browser](http://en.wikipedia.org/wiki/Privacy_mode). To learn how to use privacy mode, refer to the links below depending on the browser you use. 
+
+  * [InPrivate mode in Microsoft Edge](https://support.microsoft.com/en-us/help/4026200/windows-browse-inprivate-in-microsoft-edge)
+  * [Incognito mode in Google Chrome](https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DAndroid&hl=en)
+  * [Private browsing mode in Mozilla FireFox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)
+  * [Private browsing mode in Apple Safari](https://support.apple.com/guide/safari/browse-privately-ibrw1069/mac)
+
+
+
+However, some areas of the Site, such as registering for webcasts or downloading whitepapers, require you to register and provide some personally identifiable information.
 
 ## The Information We Collect
 
-At the time you register on our Site, we collect and store your name, address, email address and other personally-identifying information. We may also ask you for personally-identifying information at other times, such as if you enter into a promotion, post content to the Site, communicate with us, or complete a survey. If you opt-in to receive a newsletter or other electronic communication, request information regarding a VersionOne or third party product, service, or request a trial version of our products and services, you give us your permission to use your personally-identifying information to provide the information, product, or service that you requested. If the information, product, or service that you requested is provided by or through a third party, including VersionOne contractors and business partners, you give us your permission to share your name and e-mail address and other personally-identifying information reasonably necessary for the third party to provide the information, product, or service that you requested.
+This Privacy Policy applies to all information collected by or submitted to CollabNet through the Site, including Personal Information. "Personal information" is data that that identifies you as an individual or relates to an identifiable individual, including: name, title, company name, job function, expertise, postal address, telephone number, or email address.  We may also collect other information that does not reveal your specific identity or does not directly relate to an identifiable individual such as browser and device information, information collected through cookies, pixel tags, and other technologies, and demographic information. 
 
-In addition, we automatically gather general statistical information about our Site and visitors, such as IP addresses, browsers, pages viewed, number of visitors, services used, content submitted, etc. We need this information to improve the content and functionality of our Site. We use this information to customize your experience using our Site. We may provide statistical information to third parties, but in doing so we do not reference you by individual name, e-mail address, home address, or telephone number without your permission. We may match user information we collect with offline data available from other sources in order to carry out our services and conduct target advertising and promotions more effectively.
+CollabNet collects Personal Information when:
 
-We use cookies to store and sometimes track information about you. Some features of our Site may be available only through the use of a cookie. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. Generally, we use cookies to remind us who you are and enable us to access your account information so you do not have to re-enter it; gather statistical information about usage by registered or unregistered users, research visiting patterns, and help target advertisements and product offerings based on user interests; and track progress and participation in the Site’s content. In some instances, the third parties appearing at our Site may use their own cookies. Preference and options configurations in your browser determine if and how a cookie will be accepted. You can change those configurations on your computer if you desire. By changing your preferences, you can accept all cookies, you can be notified when a cookie is set, or you can reject all cookies. If you do so and cookies are disabled, you may be required to re-enter your information more often and certain features of our Site may be unavailable. 
-
-We use remarketing programs by Google and other third-party vendors to show ads on various websites across the Internet to people who have previously visited our site. For this purpose, third-party vendors, including Google, use cookies to serve our ads based on your past visits to our website. This may include the Teracent cookie. You can opt out of Google’s use of cookies by visiting the [Ads Preference Manager](https://www.google.com/ads/preferences/). You can opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out). To opt out of DoubleClick's use of cookies, visit the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout). Alternately, you can also opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-## The Way We Use Information
-
-We use your personally-identifying information to provide information, products, and services that you have requested, improve our marketing and promotional efforts, to statistically analyze Site usage, to improve our content and product offerings, and to customize our Site’s content, layout, and services.
-
-We may use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services promotions, and new product offerings. We may ask you to provide us voluntarily with additional information regarding your personal or business interests, experience or requests which may be use to customize our service for you.
-
-We use your e-mail address, your mailing address, and phone number to contact you regarding administrative notices, marketing promotions, new VersionOne product offerings, and communications relevant to your use of the Site. You can [opt out](http://info.versionone.com/subscription-center-get-access.html) of receiving such communication by visiting the [subscription management](http://info.versionone.com/subscription-center-get-access.html) page. This opt-out action is tied directly to an individual email address and not an account or individual. If a visitor uses multiple email addresses at different times at versionone.com (i.e.: personal and corporate email addresses) it is required that each email address be unsubscribed so that you will not receive further communication from us.
-
-We may also use or disclose information to resolve disputes, investigate problems, respond to subpoenas, court orders or legal process, or enforce our Terms of Use Agreement. At times, we may review status or activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
-
-We use your IP address to help diagnose problems with our server, to manage our Site and to enhance our Site based on the usage pattern data we receive.
-
-## Information Sharing and Disclosure
-
-VersionOne will send personally-identifying information about you to other companies or people only when: 
-
-  * We need to share your information to provide the information, product, or service you have requested; 
-  * We need to send the information to companies who work on behalf of VersionOne, our trusted outside contractors or our partners to provide a VersionOne product or a service or to otherwise assist VersionOne with its business activities. Unless we tell you otherwise, these companies do not have any right to use the personally-identifying information we provide to them beyond what is necessary to assist us and are required to safeguard personally-identifying information and not to disclose personally-identifying information to others;
-  * We respond to subpoenas, court orders, or other legal process; or 
-  * We need to enforce our Tems of Use Agreement because your actions on our Site violates our Terms of Use Agreement.
+  * you become a registered member on the Site;
+  * you request that CollabNet contact you or you submit questions or comments to us;
+  * you download CollabNet software (where required);
+  * you register for an online training course;
+  * you request support for a CollabNet product;
+  * you register for webcasts and other online events;
+  * you request information or materials (e.g., whitepapers);
+  * you participate in surveys and evaluations;
+  * you participate in promotions, contests or giveaways; or
+  * you subscribe to an electronic mailing list.
 
 
 
-## Security
+The types of Personal Information collected may include:
 
-We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. You should note that in using the VersionOne Site, your information will travel through third party infrastructures which are not under our control.
+  * your first and last name;
+  * your role in your organization;
+  * your organization's name;
+  * your billing or other physical address (including street name, name of a city or town, state/province);
+  * your business e-mail address;
+  * your business telephone number;
+  * any other identifier that permits CollabNet to make physical or online contact with you; and
+  * If you are an Authorized User of our services, any information that CollabNet collects online from you and maintains in association with your account, such as:
+    * your CollabNet username; and
+    * your CollabNet password. 
 
-We cannot protect, nor does this Privacy Policy apply to, any text, images, or other information posted on the Site by you or that you voluntarily disclose to other users online through email or the Site’s message boards, blogs, etc. You should never transmit personal or identifying information to other users.
 
-No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.
 
-## How You Can Update, Correct, or Delete Your Information
+CollabNet also collects more general information about your use of products and services offered on the Site, and your participation in various forums and projects. In addition, our Site uses tracking technologies to record information, such as: (i) the name of the domain and host from which you access the Internet, (ii) the Internet protocol (IP) address of the computer you are using, (iii) the browser software you use and your operating system, (iv) the date and time you access our Site, and (v) the Internet address of the website from which you linked directly to our Site.
 
-You have the ability to direct VersionOne to edit, correct or erase your personally-identifying information, at any time. To request such account maintenance send your email request to [privacy@versionone.com](mailto:privacy@versionone.com). You may also indicate that you do not wish to receive messages from VersionOne regarding our services or update your information relating to such messages on the [subscription management](http://info.versionone.com/subscription-center-get-access.html) page. Your information will be changed in VersionOne’s data bases after we receive the information necessary to process your request.
+##  Using Your Personal Information
 
-## Children Under 13
+CollabNet may use the Personal Information you provide to:
 
-We have no way of distinguishing the age of individuals who access our Site, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personally-identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+  * create and maintain your account(s);
+  * process, fulfill, and follow-up on your orders;
+  * answer your questions;
+  * register you in programs (per your request);
+  * send you information about our products and services;
+  * improve our Services;
+  * better understand your needs and interests; and
+  * send you newsletters and surveys. to help diagnose problems with our server, to manage our Site and to enhance our Site based on the usage pattern data we receive.
 
-## Third Party Practices
 
-The Privacy Policy of an advertiser or promotional service appearing at our Site may differ from ours. We encourage you to read that policy before responding to the offer.
 
-## Changes to Our Policy
+##  Retaining Your Personal Information
 
-Any changes to our Privacy Policy will be communicated through our Site at least twenty four (24) hours in advance of its effective date. Information collected before changes are made will be secured according to the previous Privacy Policy.
+We will retain your Personal Data for a period of time consistent with the original purpose of collection, including to pursue our legitimate business interests, comply with our legal obligations, resolve disputes and enforce applicable agreements.
 
-## Your Consent
+## Sharing Your Personal Information
 
-By using our Site, you consent to the collection and use of this information in the manner we describe.
+Unless you consent, CollabNet will not share the Personal Information you provide to us except as described below.
+
+CollabNet may disclose your personal information to third parties under any of the following circumstances:
+
+  * As may be required to process and fulfill orders, to conduct billing/credit card processing, and to provide Services (as a consequence of uses already described in this Privacy Policy).
+  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud).
+  * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture (pursuant to a pledge of confidentiality under which the recipient agrees to use the information for no purpose other than carrying out the transaction).
+
+
+
+## Your Right to Update, Access, or Delete your Personal Information
+
+You may request access to, and the opportunity to update, access, correct, or delete, your Personal Data by contacting our support team at cnsupport@collab.net for assistance. If you are a resident of the EEA about whom CollabNet holds Personal Data on behalf of one of our customers or business partners, you may request access to, and the opportunity to update, access, correct, or delete, such Personal Data from our customer. For your protection, we only implement requests with respect to the Personal Data associated with the particular email address that you use to send us your request, and we need to verify your identity before implementing your request. We will respond to your request within 30 days.  If we do not have authority to permit you to access, update, correct, or delete, your Personal Data, we will assist you in contacting our customer who can handle your request. Please note that we need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such access, change or deletion. 
+
+## Your Choices About Receiving E-Mail
+
+CollabNet provides you with the ability to opt-in to receiving communications from CollabNet and/or its partners. You can customize your selections and unsubscribe at any time. This opt-out/unsubscribe action is tied directly to an individual email address and not an account or individual. If a visitor uses multiple email addresses at different times at on our Site (e.g., personal and corporate email addresses) it is required that each email address be unsubscribed so that you will not receive further communication from us.
+
+## Cookies and Other Browser Information
+
+Cookies. We automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a Web site. Among other things, cookies help us improve our Sites and your experience. Standing alone, cookies do not personally identify you; they merely recognize your web browser. Unless you choose to identify yourself, either by responding to a promotional offer, or filling out a Web form or have previously identified yourself to CollabNet, you remain anonymous to the Company. 
+
+We use cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer or device when you close your browser software or turn off your computer. Persistent cookies remain on your computer or device after you close your browser or turn off your computer. We use cookies to see which areas and features are popular and to count visits to our Sites. 
+
+If you set your browser not to accept cookies or if you reject a cookie, it may affect certain features or services of our Sites.
+
+We also use web beacons alone or in conjunction with cookies to compile information about usage of Site and interaction with emails from the Company. Web beacons are clear electronic images that recognize certain types of information on your computer, such as cookies, when you viewed a particular web site or Service tied to the web beacon, and a description of a web site or Service tied to the web beacon. 
+
+##  Third Party Advertisements
+
+We and our partners may use information collected using cookies and Web beacons on our Services and in our emails to deliver ads about our Services displayed to you on third-party websites and applications. We also may use cookies and other methods to know when you return to our Site after visiting these third-party websites and applications. We use this and other information about you to try to understand your interests and show you relevant advertising about products and services that may interest you. 
+
+## Data Security
+
+We utilize appropriate physical, procedural and technological security measures reasonably designed to help protect your personal information against unauthorized access or disclosure. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusions by third parties.
+
+CollabNet trains its employees on our privacy policy guidelines and makes our privacy policy available to our business partners. In addition, CollabNet and its business partners enter into confidentiality agreements which require that appropriate care and precautions be taken to prevent loss, misuse, or disclosure of your personal information.
+
+## COMPLIANCE WITH EU-U.S. PRIVACY SHIELD PRINCIPLES
+
+CollabNet complies with the EU-U.S. Privacy Shield Framework in its collection, use, and retention of Personal Data. In keeping with EU-U.S. Privacy Shield principles, the company has self-certified adherence to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern the rights and obligations of CollabNet. 
+
+In compliance with the EU-U.S. Privacy Shield, CollabNet commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact CollabNet's Chief Privacy Officer, e-mail: [chiefprivacyofficer@collab.net](mailto:chiefprivacyofficer@collab.net). CollabNet will promptly investigate and attempt to resolve complaints and disputes in a manner that complies with the principles described in this Policy.
+
+## Recourse and Enforcement 
+
+If you are not satisfied with our response, or if contacting us does not resolve your complaint, you can contact, JAMS, an independent dispute resolution provider located in the United States by calling +1 (404) 588-0900 or visiting <https://www.jamsadr.com/eu-us-privacy-shield> for more information and to file a complaint. 
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, CollabNet is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+There is the possibility, under certain limited conditions, for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission. 
+
+## Onward Transfers 
+
+Our Privacy Policy describes the types of third parties that we may disclose your Personal information to, and the purposes of such disclosures. If we disclose your Personal Information to a third party acting as a data controller or as an agent, we will comply with, and protect the Personal Information as provided in, the Accountability for Onward Transfer Principle. We remain responsible for the processing of Personal Information received under the Frameworks and subsequently transferred to a third party acting as an agent if the agent processes such Personal Information in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage. 
+
+## Public Forums Reminder
+
+Our Site often makes discussion forums, mailing lists, wikis, blogs and chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. Although we value individual ideas and encourage free expression, CollabNet reserves the right to take necessary action to preserve the forum's integrity, such as removing any posting that is inappropriate. Any communications sent to you by third parties are the responsibility of such third parties.
+
+## Our Commitment to Children's Online Privacy
+
+Out of special concern for children's privacy, CollabNet does not knowingly accept online personal information from children under the age of 13. CollabNet does not knowingly allow children under the age of 13 to become registered members of our sites or buy products and services on our sites. CollabNet does not knowingly collect or solicit personal information about children under 13.
+
+In the event that CollabNet ever decides to expand its intended site audience to include children under the age of 13, those specific web pages will, in accordance with the requirements of the Children's Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice addressed to children under 13. In addition, CollabNet will provide an appropriate mechanism to obtain parental approval, allow parents to subsequently make changes to or request removal of their children's personal information, and provide access to any other information as required by law.
+
+## About Links to Other Sites
+
+This Site contains links to other websites. CollabNet does not control the information collection of websites that can be reached through links from our Site. If you have questions about the data collection procedures of linked sites, please contact those companies directly.
+
+## How to Contact Us
+
+If you have any questions about any of these practices or CollabNet's use of your personal information, or if you believe that CollabNet has not complied with this Privacy Policy, please contact us at [legal@collab.net](mailto:legal@collab.net), or by mail at:
+
+CollabNet, Inc.  
+Legal Department  
+6220 Shiloh Road, Suite 400  
+Alpharetta, GA 30005
+
+The Terms were last amended on May 17, 2018
