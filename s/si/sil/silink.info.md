@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silink.info privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213003629id_/http%3A//silink.info/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silink.info privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830045201id_/http%3A//www.silink.info/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Finance Funding
 
