@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912114732id_/http%3A//wagner.edu/communications/digital/website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830034005id_/http%3A//wagner.edu/communications/digital/website-policies) for the most accurate reproduction.*
 
 # Digital Policies - Communications & Marketing
-
-Section I: Policies for web visitors
 
   1. All content, including text, photographs of people and places, files, and other data on wagner.edu, is either the sole property of Wagner College or used by permission. Web users may not download or otherwise use multimedia content from wagner.edu unless authorized by the College.
   2. Wagner College makes every attempt to keep the information on wagner.edu as accurate and current as possible. However, the College will not be held responsible for out-of-date or inaccurate content.
   3. Wagner College may link to external sites, but does not hold responsibility for the content of those sites. Links to offensive or irrelevant websites will be removed as soon as possible.
 
 
-
-Section II: Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -102,8 +98,6 @@ Staten Island, NY 10301
 digitalmedia@wagner.edu  
 718/420-4468
 
-Section III: Policies for web managers of wagner.edu
-
 All official departments and offices of Wagner College must maintain their primary web presence on wagner.edu, and must use the templates and designs provided or approved by the Office of Communications and Marketing. This ensures consistent design and navigation across the College. Personal Faculty and Student Sites may use different themes, templates, and designs (faculty.wagner.edu and students.wagner.edu); policies and guidelines for those sites are found elsewhere.
 
 ### Site Structure
@@ -159,8 +153,6 @@ All official departments and offices of Wagner College must maintain their prima
     2. Wagner College must have copyright ownership or permission for all content, including text, photographs, maps, graphics, files, and other data. Web editors may not upload or publish any content that does not meet copyright criteria. For example, a photograph found with Google search cannot be downloaded and published on wagner.edu without express permission from the photographer or owner of the photograph.
 
 
-
-Section IV: Policies for Daily Bulletin email
 
 The Daily Bulletin is Wagner College’s daily email newsletter.
 
