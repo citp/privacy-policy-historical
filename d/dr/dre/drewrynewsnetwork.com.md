@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826080846id_/https%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831002017id_/https%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Drewry News
 
@@ -54,7 +54,9 @@ DrewryNewsNetwork is required by Federal law to disclose advertisements served o
 
 Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.drewrynewsnetwork.com/privacypolicy 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
+
+http://www.drewrynewsnetwork.com/privacypolicy 
 
 Your Consent 
 
@@ -68,7 +70,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.drewrynewsnetwork.com 
+https://drewrynewsnetwork.com 
 
 drewryonline@gmail.com   
 [ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
