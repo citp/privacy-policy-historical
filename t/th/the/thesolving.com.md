@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesolving.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529030242id_/http%3A//thesolving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesolving.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830160107id_/http%3A//thesolving.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Solving
 
