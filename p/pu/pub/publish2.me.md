@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publish2.me privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719173114id_/https%3A//publish2.me/page/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publish2.me privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830172228id_/http%3A//publish2.me/page/policy.html) for the most accurate reproduction.*
 
 # Publish2.me
 
@@ -10,7 +10,7 @@ This Privacy Policy may be revised from time to time. By using the Service, you 
 
 **Managing Your Information Preferences**
 
-You can review, correct, update, or change your Personal Information, or opt out of any direct marketing in which we may engage, by changing the relevant setting in your Publish2Me profile or account (if you have one), or by e-mailing us at support@Publish2.me. If you have questions or concerns regarding this Privacy Policy, please e-mail us at support@Publish2.me.
+You can review, correct, update, or change your Personal Information, or opt out of any direct marketing in which we may engage, by changing the relevant setting in your Publish2Me profile or account (if you have one), or by e-mailing us at [[email protected]](http://publish2.me/cdn-cgi/l/email-protection) If you have questions or concerns regarding this Privacy Policy, please e-mail us at [[email protected]](http://publish2.me/cdn-cgi/l/email-protection)
 
 **Information We Collect and How We Collect It**
 
