@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcs.k12.nc.us privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228014618id_/http%3A//www.schoolblocks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcs.k12.nc.us privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831005624id_/https%3A//www.schoolblocks.com/privacy.html) for the most accurate reproduction.*
 
 # SchoolBlocks
 
