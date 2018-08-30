@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ggservers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162223id_/https%3A//ggservers.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggservers.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830235432id_/https%3A//ggservers.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - GGServers - Minecraft Server Hosting
+# Privacy Policy - GGServers | Minecraft Server Hosting
 
 This Privacy Policy governs the manner in which GGServers Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") of the http://ggservers.com website ("Site"). This privacy policy applies to the Site and all products and services offered by GGServers Ltd.
 
@@ -34,7 +34,7 @@ GGServers has the discretion to update this privacy policy at any time. When we 
 
 **Your Acceptance of These Terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20170606162223id_/https%3A//ggservers.com/termsofservice). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed as your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20180830235432id_/https%3A//ggservers.com/termsofservice). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed as your acceptance of those changes.
 
 **Contacting Us**
 
