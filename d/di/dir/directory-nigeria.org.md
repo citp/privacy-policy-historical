@@ -1,81 +1,41 @@
-> *The following text is extracted and transformed from the directory-nigeria.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130044745id_/http%3A//directory-nigeria.org/%3Fpage_id%3D2249) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory-nigeria.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831001547id_/http%3A//directory-nigeria.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - in Nigeria - Nigerian Directory
+# Privacy Policy For DIRECTORY NIGERIA – Directory Nigeria
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
+## Privacy Policy:
 
-Surflinks Company (Directory-nigeria.org) understands and respects your concerns about privacy. This notice describes Directory-Nigeria.org's privacy policy as it pertains to the website at http:directory-nigeria.org (the "Website"). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically. By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes. What information we collect: Directory-Nigeria.org may ask for and collect from you personally identifiable information at certain points throughout the Website. Depending on the information and/or services you request, you may be asked to provide your name, email address and other information. Once you provide your personal information, you are not anonymous to Directory-Nigeria.org. In addition to the information you knowingly provide, Directory-Nigeria.org collects the domain names and IP addresses of its visitors, along with usage statistics (e.g., types of web browsers and operating systems used) and browsing history. This data is used to more efficiently operate Directory-Nigeria.org’s business, promote our products and services and administer the Website. Directory-Nigeria.org may combine this information with the personally identifiable information it collects. 
+Directory Nigeria (" **Directory Nigeria** ") operates directory-nigeria.org and may operate other websites. It is Directory Nigeria policy to respect your privacy regarding any information we may collect while operating our websites.
 
-How Directory-Nigeria.org uses your information: 
+### Website Visitors
 
-Directory-Nigeria.org may use your information:
+Like most website operators, Directory Nigeria collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Directory Nigeria purpose in collecting non-personally identifying information is to better understand how Directory Nigeria visitors use its website. From time to time, Directory Nigeria may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-• To provide you with personalized content.
+Directory Nigeria also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on directory-nigeria.org blogs/sites. Directory Nigeria only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-• To process and respond to inquiries.
+### Gathering of Personally-Identifying Information
 
-• For the purposes for which you provided the information.
+Certain visitors to Directory Nigeria websites choose to interact with Directory Nigeria in ways that require Directory Nigeria to gather personally-identifying information. The amount and type of information that Directory Nigeria gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [directory-nigeria.org](http://directory-nigeria.org/) to provide a username and email address. Those who engage in transactions with Directory Nigeria are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Directory Nigeria collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Directory Nigeria. Directory Nigeria does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-• To improve the content and navigability of the Website.
+### Aggregated Statistics
 
-• To enforce the Terms of Use and/or the Code of Conduct.
+Directory Nigeria may collect statistics about the behavior of visitors to its websites. Directory Nigeria may display this information publicly or provide it to others. However, Directory Nigeria does not disclose personally-identifying information other than as described below.
 
-• In the future, we may sell some or all or our assets. In such transactions, customer information generally is one of the transferred business assets. In the event of a sale of our assets including our database, customer information will be transferred. We will require buyers to honor our privacy policy. 
+### Protection of Certain Personally-Identifying Information
 
-When accessing our Website, SURFLINKS COMPANY will learn certain information about you during your visit.
+Directory Nigeria discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Directory Nigeria behalf or to provide services available at Directory Nigeria websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Directory Nigeria websites, you consent to the transfer of such information to them. Directory Nigeria will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Directory Nigeria discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Directory Nigeria believes in good faith that disclosure is reasonably necessary to protect the property or rights of Directory Nigeria, third parties or the public at large. If you are a registered user of an Directory Nigeria website and have supplied your email address, Directory Nigeria may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Directory Nigeria and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Directory Nigeria takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
+### Cookies
 
-  
-**What Are Cookies?**
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Directory Nigeria uses cookies to help Directory Nigeria identify and track visitors, their usage of Directory Nigeria website, and their website access preferences. Directory Nigeria visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Directory Nigeria websites, with the drawback that certain features of Directory Nigeria websites may not function properly without the aid of cookies.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+### Business Transfers
 
-  
-**IP Addresses**
+If Directory Nigeria, or substantially all of its assets, were acquired, or in the unlikely event that Directory Nigeria goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Directory Nigeria may continue to use your personal information as set forth in this policy.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
+### Ads
 
-  
-**Email Information**
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Directory Nigeria and does not cover the use of cookies by any advertisers.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
+### Privacy Policy Changes
 
-  
-**How Do We Use the Information That You Provide to Us?**
-
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
-
-SURFLINKS COMPANY will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
-
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
-
-**  
-A Special Note About Children**
-
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
-
-  
-**How Do We Protect Your Information and Secure Information Transmissions?**
-
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
-
-SURFLINKS COMPANY may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
-
-For site security purposes and to ensure that this service remains available to all users, SURFLINKS COMPANY uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-
-  
-**Policy Changes**
-
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-**  
-Contact**
-
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
-
-SURFLINKS COMPANY
-
-directorynigeria@googlemail.com
+Although most changes are likely to be minor, Directory Nigeria may change its Privacy Policy from time to time, and in Directory Nigeria sole discretion. Directory Nigeria encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a directory-nigeria.org account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
