@@ -1,306 +1,783 @@
-<!--The following is the downloaded HTML source of the metadefender.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629002531id_/http%3A//www.opswat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metadefender.com privacy policy that was archived on 2018-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180831003253id_/https%3A//onlinehelp.opswat.com/policies/OPSWAT.com_Privacy_Policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	  <title>
-  Privacy Policy | OPSWAT | Software manageability and multiple engine scanning solutions  </title>
-  <meta name="fragment" content="!">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="This privacy policy describes our personal information handling practices and applies to OPSWAT, Inc. and all of its subsidiaries worldwide.">
-<link rel="shortcut icon" href="/sites/all/themes/OPSWAT/favicon.ico" type="image/x-icon">
-		<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_7bbe1b94533de6fc9e154f3fe18e953d.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_cf6f99165cf65f8b3a54226e2b4c1e30.css">
-<!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/OPSWAT/css/ie.css?F" />
-<![endif]-->
-<!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/OPSWAT/css/ie6.css?F" />
-<![endif]-->
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/OPSWAT/custom13642920.css">
-	
-	<link rel="stylesheet" href="/sites/all/themes/OPSWAT/blog.css" type="text/css"> 
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-  <script type="text/javascript" src="/sites/all/themes/OPSWAT/js/jw/jw_files/jwplayer.js"></script>
-  <script type="text/javascript" src="/sites/all/themes/OPSWAT/js/jw/jw_files/main.js"></script>
-  <script type="text/javascript" src="/sites/all/themes/OPSWAT/js/jw/jw_files/demo.js"></script>
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>OPSWAT.com Privacy Policy - Privacy and Terms</title>
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon">
 
-	
-	<script type="text/javascript" src="/sites/all/themes/OPSWAT/ticker.js"></script>
-	<script type="text/javascript" src="/sites/default/files/js/js_eabaa18cbc658167fe087d1d87ec0667.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/", "custom_search": { "form_target": "_self", "solr": 0 } });
-//--><!]]>
+    <meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.scrollTo.min.js"></script>
+
+
+<script type="text/javascript" src="assets/js/scroll-tree.js"></script>
+
+<script type="text/javascript" src="assets/js/theme.main.js"></script>
+
+
+<link rel="stylesheet" href="assets/css/content-style.css">
+    <link rel="stylesheet" href="assets/css/search.css">
+
+<link rel="stylesheet" href="assets/css/theme.main.css">
+<link rel="stylesheet" href="assets/css/theme.colors.css">
+
+            <!-- ES5 support for older browsers, needed by lunr -->
+        <script src="js/augment.js"></script>
+        <script id="worker" type="javascript/worker">
+
+        startIndex = function() {
+            idx = lunr.Index.load(lunrIndex);
+            idx.pipeline.remove(lunr.stopWordFilter);
+            postMessage({type: "setup-complete"});
+        }
+
+        onmessage = function (event) {
+            var message = event.data;
+
+            if ((message.type === 'setup') && message.baseUrl) {
+                var url = message.baseUrl;
+                importScripts(url + 'js/lunr.js');
+                importScripts(url + 'js/lunr-extras.js');
+                importScripts(url + 'js/lunr-index.js');
+                importScripts(url + 'js/lunr-data.js');
+                startIndex();
+            }
+
+            if (idx && (message.type === 'search-request') && message.query) {
+                var searchWord = message.query;
+                var results = idx.search(searchWord).map(function (result) {
+                    return lunrData.filter(function (d) {
+                        return d.id === parseInt(result.ref, 10)
+                    })[0]
+                });
+                postMessage({type: 'search-results', results: results, query: searchWord, queryId: message.queryId});
+            }
+        }
+
+    </script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-87696202-1', 'auto');
+  ga('send', 'pageview');
 </script>
-	<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-11040370-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-  </script>
-  
-  <!-- FANCY BOX -->
-	<script type="text/javascript" src="/sites/all/themes/OPSWAT/jquery.fancybox-1.3.4.js"></script>
-	<link rel="stylesheet" type="text/css" href="/sites/all/themes/OPSWAT/jquery.fancybox-1.3.4.css" media="screen">
-	<script type="text/javascript" src="/sites/all/themes/OPSWAT/web.js"></script>
-	<script type="text/javascript" src="/sites/all/themes/OPSWAT/slideshow.js"></script>
-	<script src="/sites/all/themes/OPSWAT/cufon-yui.js" type="text/javascript"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-	<style type="text/css">
-  #fancy_expand, .fancy_expand {
-    overflow: hidden;
-  }
-  #fancy_popup #fancy_expand, .fancy_expand {
-  	display: none;
-  }
-  </style>
-  <!-- FANCY BOX END -->
 </head>
-<body class="not-front not-logged-in node-type-product no-sidebars page-privacy section-privacy">
-<div id="page-wrapper">
-<!-- Header -->
-    <div id="header-wrap">
-		<div id="top">
-		</div>
-		<div id="header">
-			<a href="/" id="logo"><img src="/sites/all/themes/OPSWAT/images/opswat-logo2.png" alt="OPSWAT"></a>
-						
-			<!--<div id="search">
-								</div>-->
-		
-		</div>
 
+<body pageid="22271640">
+
+<div id="ht-loader" style="display: none;">
+    <noscript>
+        <p style="width: 100%; text-align:center; position: absolute; margin-top: 200px;">This content cannot be displayed without JavaScript.<br>Please enable JavaScript and reload the page.</p>
+    </noscript>
+</div>
+
+<div>
+   	<header id="ht-headerbar">
+    <div class="ht-headerbar-left">
+        <a href="" id="ht-menu-toggle" class="sp-aui-icon-small sp-aui-iconfont-appswitcher"></a>
     </div>
-  
-  
-<!-- Nice menu -->
-	<div id="nav-wrapper">
-      <div id="navi1">
-      <div class="region region-navigation">
-  <div id="block-nice_menus-1" class="block block-nice_menus region-odd odd region-count-1 count-1">
-      <h2 class="title"><span class="nice-menu-hide-title">Main</span></h2>
-  
-  <div class="content">
-    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-411 menuparent menu-path-node-21 first  odd "><a href="/products" title="Products"><div class="top-menu-item" id="item-products"></div></a><ul><li class="menu-576 menu-path-node-194 first  odd "><a href="/products/development-tools" title="Development Tools">Development Tools</a></li>
-<li class="menu-577 menu-path-node-195 even "><a href="/products/security-applications" title="Security Applications">Security Applications</a></li>
-<li class="menu-1504 menu-path-node-688 odd "><a href="/products/cloud-applications" title="Cloud Applications">Cloud Applications</a></li>
-<li class="menu-557 menu-path-node-133 even  last "><a href="/products/free-tools" title="Free Tools">Free Tools</a></li>
-</ul>
-</li>
-<li class="menu-1237 menuparent menu-path-node-543 even "><a href="/solutions" title=""><div class="top-menu-item" id="item-solutions"></div></a></li><li class="menu-440 menuparent menu-path-node-30 odd "><a href="/partners" title="Partners"><div class="top-menu-item" id="item-partners"></div></a><ul><li class="menu-580 menu-path-node-198 first  odd "><a href="/partners/metascan-engine-suppliers" title="Metascan Engine Suppliers">Metascan Engine Suppliers</a></li>
-<li class="menu-581 menu-path-node-199 even "><a href="/partners/channel-partners" title="Channel Partners">Channel Partners</a></li>
-<li class="menu-565 menu-path-node-165 odd  last "><a href="/partners/technology-partners" title="Technology Partners">Technology Partners</a></li>
-</ul>
-</li>
-<li class="menu-520 menuparent menu-path-node-55 even "><a href="/certified" title="Overview"><div class="top-menu-item" id="item-certification"></div></a></li><li class="menu-1394 menu-path-node-617 odd "><a href="/support" title="Support Services"><div class="top-menu-item" id="item-support"></div></a></li>
-<li class="menu-594 menuparent menu-path-node-252 even  last "><a href="/about" title="About"><div class="top-menu-item" id="item-about"></div></a><ul><li class="menu-519 menu-path-node-53 first  odd "><a href="/about/company" title="About OPSWAT">Company</a></li>
-<li class="menu-523 menu-path-node-61 even "><a href="/about/events" title="Upcoming Events">Events</a></li>
-<li class="menu-595 menu-path-node-255 odd "><a href="/about/news" title="News">News</a></li>
-<li class="menu-590 menu-path-node-250 even "><a href="/about/media" title="Media">Media</a></li>
-<li class="menu-620 menu-path-node-43 odd "><a href="/blog" title="Blog">Blog</a></li>
-<li class="menu-525 menu-path-node-63 even  last "><a href="/about/contact-us" title="Contact Us">Contact Us</a></li>
-</ul>
-</li>
-</ul>
-  </div>
+    <div class="ht-headerbar-right">
+            <div class="sp-aui-icon-small ht-search-index-loader ht-header-icon"></div>
 
-  </div> <!-- /.block -->
-</div> <!-- /.region -->
-      <div id="bnbg" style="width: 96px; height: 26px; float: right; background: #00a9dd url('/sites/all/themes/OPSWAT/images/bn.png') no-repeat right;"><a id="buy-now" href="/buy"></a></div>
-      </div>
-	</div>
-	  
-<!-- Content -->
+        <div id="ht-search">
+            <div class="ht-search-input" style="display: none;">
+              	<a href="#" class="sp-aui-icon-small sp-aui-iconfont-remove ht-search-clear"></a>
 
-	<div id="central-wrap">
-		<div id="central">
-			<div id="content" class="column"><div class="section">
-        
-        
-        
-        		
-		
-				
-                
-        
+                <form action="#" method="GET" id="search">
+                    <input class="search-input" type="text" placeholder="Search" tabindex="-1" autocomplete="off" name="q" value="">
+                    <input type="hidden" name="max" value="15">
+                    <input type="submit" style="display:none" tabindex="-4">
+                </form>
 
-        <div id="content-area">
+                <a href="#" id="ht-search-button" class="ht-header-icon ht-header-icon-svg">
+                                        <svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g>
+                            <path d="M29.572,28.802 L28.801,29.571 C28.515,29.857 28.187,30 27.816,30 C27.445,30 27.116,29.857 26.831,29.571 L21.392,24.134 C20.193,24.762 18.908,25.076 17.538,25.076 C15.396,25.076 13.605,24.348 12.163,22.892 C10.721,21.436 10,19.651 10,17.538 C10,15.397 10.721,13.605 12.163,12.163 C13.605,10.721 15.396,10 17.538,10 C19.651,10 21.434,10.721 22.89,12.163 C24.347,13.605 25.075,15.397 25.075,17.538 C25.075,18.937 24.761,20.222 24.132,21.393 L29.572,26.832 C29.857,27.118 30,27.446 30,27.817 C30,28.188 29.857,28.517 29.572,28.802 L29.572,28.802 Z M13.662,21.414 C14.732,22.485 16.024,23.02 17.538,23.02 C19.051,23.02 20.343,22.485 21.413,21.414 C22.484,20.344 23.019,19.052 23.019,17.538 C23.019,16.025 22.484,14.733 21.413,13.662 C20.343,12.592 19.051,12.056 17.538,12.056 C16.024,12.056 14.732,12.592 13.662,13.662 C12.591,14.733 12.056,16.025 12.056,17.538 C12.056,19.052 12.591,20.344 13.662,21.414 L13.662,21.414 Z"></path>
+                        </g>
+                    </svg>
+              	</a>
 
-        				                  
-<div id="node-181" class="node node-type-product node-promoted clearfix">
-<div style="width: 918px; min-height: 162px; margin-bottom: 25px;">
-<div class="freeheader" style="background-image: url(/sites/default/files/about-header.jpg);">
-<h1>Privacy Policy</h1>
+                <div class="ht-search-dropdown ht-dropdown">
+                    <ul></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    </header>   	<aside id="ht-sidebar">
+    <div class="ht-sidebar-content">
+        <div class="ht-sidebar-content-scroll-container">
+            <header class="ht-sidebar-header">
+				<a href="https://portal.opswat.com">
+                    <img src="assets/images/opswat_small_175x58.png" alt="OPSWAT Portal">   
+                </a>       
+				<h1 class="ht-logo">
+                    <span class="ht-logo-label" style="display:none">PT</span>
+					<a href="https://onlinehelp.opswat.com/" style="display:none">
+                    <img class="space-logo" src="global.logo">
+					</a>
+                </h1>
+                <a href="index.html" class="ht-space-link">
+                    <h2>Privacy and Terms</h2>
+                </a>
+            </header>
+
+            <nav class="ht-pages-nav">
+                <ul class="ht-pages-nav-top">
+                                                <li class="collapsed">
+        <a class="ht-nav-page-link" href="End_User_License_Agreement.html">End User License Agreement</a>
+
+                    <div class="sp-toggle sp-aui-icon-small ht-pages-nav-toggle">
+                <svg id="icon-minus" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <g fill="#CCCCCC">
+                        <rect x="7" y="11" width="10" height="2"></rect>
+                    </g>
+                </svg>
+                <svg id="icon-plus" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <g fill="#CCCCCC">
+                        <rect x="11" y="7" width="2" height="10"></rect>
+                        <rect x="7" y="11" width="10" height="2"></rect>
+                    </g>
+                </svg>
+            </div>
+
+            <ul class="nav ht-pages-nav-sub">
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="3rd_Party_EULA.html">3rd Party EULA</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="MetaAccess_Terms_Of_Service.html">MetaAccess Terms Of Service</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="MetaDefender_Cloud_Terms_Of_Service.html">MetaDefender Cloud Terms Of Service</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="OPSWAT_Client_End_User_License_Agreement.html">OPSWAT Client End User License Agreement</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="OPSWAT_Hosted_Service_Terms_Of_Service.html">OPSWAT Hosted Service Terms Of Service</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="OPSWAT_Portal_Terms_Of_Service.html">OPSWAT Portal Terms Of Service</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="OPSWAT_Server_End_User_License_Agreement.html">OPSWAT Server End User License Agreement</a>
+
+            </li>
+                            </ul>
+            </li>
+                                                <li class="leaf">
+        <a class="ht-nav-page-link" href="OPSWAT_GDPR_FAQ.html">OPSWAT GDPR FAQ</a>
+
+            </li>
+                                                <li class="active open">
+        <a class="ht-nav-page-link" href="OPSWAT_Privacy_Policy.html">OPSWAT Privacy Policy</a>
+
+                    <div class="sp-toggle sp-aui-icon-small ht-pages-nav-toggle">
+                <svg id="icon-minus" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <g fill="#CCCCCC">
+                        <rect x="7" y="11" width="10" height="2"></rect>
+                    </g>
+                </svg>
+                <svg id="icon-plus" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <g fill="#CCCCCC">
+                        <rect x="11" y="7" width="2" height="10"></rect>
+                        <rect x="7" y="11" width="10" height="2"></rect>
+                    </g>
+                </svg>
+            </div>
+
+            <ul class="nav ht-pages-nav-sub">
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="Change_History_for_OPSWAT_Privacy_Policy.html">Change History for OPSWAT Privacy Policy</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="MetaAccess_Privacy_Policy.html">MetaAccess Privacy Policy</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="MetaDefender_Cloud_Privacy_Policy.html">MetaDefender Cloud Privacy Policy</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="MetaDefender_Privacy_Policy.html">MetaDefender Privacy Policy</a>
+
+            </li>
+                                        <li class="leaf active open">
+        <a class="ht-nav-page-link current" href="OPSWAT.com_Privacy_Policy.html">OPSWAT.com Privacy Policy</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="OPSWAT_Cookies_Policy.html">OPSWAT Cookies Policy</a>
+
+            </li>
+                                        <li class="leaf">
+        <a class="ht-nav-page-link" href="Portal_Privacy_Policy.html">Portal Privacy Policy</a>
+
+            </li>
+                            </ul>
+            </li>
+                                    </ul>
+            </nav>
+        </div>
+    </div>
+
+</aside></div>
+
+<div id="ht-wrap-container" class="sp-grid-float">
+
+            
+    <div id="ht-sidebar-dragbar">
+    <div class="ht-sidebar-drag-handle">
+        <span class="drag-handle-1"></span>
+        <span class="drag-handle-2"></span>
+        <span class="drag-handle-3"></span>
+    </div>
 </div>
-</div>
-  
-      <div class="meta">
+    <article id="ht-content" class="ht-content">
+        <header class="ht-content-header">
+            <div id="ht-breadcrumb">
+    <ul>
+        <li><a href="index.html"> Privacy and Terms 2.0</a></li>
+                                                                                     <li><a href="OPSWAT_Privacy_Policy.html">OPSWAT Privacy Policy</a></li>
+                                                            </ul>
+</div>            <h1 id="src-22271738"> <span>OPSWAT.com Privacy Policy</span></h1>
+        </header>
 
-          </div>
-     <!-- BREADCRUMB GOES HERE -->
-  <div class="content1">
-	<div id="sub-leftside1">
-    <ul id="left-menu"><li class="left-home"><a href="/"></a></li></ul>	</div>
-  
+        <div id="main-content" class="wiki-content sp-grid-section" data-index-for-search="true">
 
-	<div id="sub-rightside">
-	
-	    
-	
-	<!-- Web team demo --><!-- Web team demo --><p>
-	OPSWAT respects the privacy of individuals who provide us with personal information, including our customers, resellers, distributors, service providers and visitors to our website, and is committed to protect the personal information that is provided to us through our website, by email or by other means. OPSWAT does not collect or use personal information from an individual unless the individual intentionally provides it and consents to its usage. This privacy policy ("Policy") describes our personal information handling practices and applies to OPSWAT, Inc. and all of its subsidiaries worldwide.</p>
-<h4>
-	Information Collected</h4>
-<p>
-	Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, social security number, national identification numbers, email address, postal or physical address or other contact information, occupation, industry or other information needed to answer a request, to better provide information and services or to comply with various national, state, provincial or local governmental reporting requirements.</p>
-<p>
-	OPSWAT may collect personal information as described below. In each case, we only collect personal information that we believe to be relevant and required to provide an individual with requested information and services and to conduct our business. By way of example, we may collect personal information for the purposes set forth below:</p>
-<ul>
-<li>
-		Viewing of product demonstrations</li>
-<li>
-		Accessing of white papers</li>
-<li>
-		Participation in marketing promotions</li>
-<li>
-		Participation in seminars or events</li>
-<li>
-		Career opportunities</li>
-<li>
-		User surveys</li>
-<li>
-		Product evaluations</li>
-<li>
-		Secured Partner sites</li>
-<li>
-		Registration of products</li>
-<li>
-		Direct marketing by OPSWAT or its telemarketing service providers</li>
-<li>
-		Responding to an inquiry</li>
-<li>
-		Providing technical support or consulting services</li>
-</ul>
-<p>
-	In addition, when accessing certain documents or services on our website or during other marketing activities, visitors may be asked to provide certain information, such as how they can be contacted, where they work, and what they do. We may also track non-personal information about the web pages and content accessed by visitors at the OPSWAT website and the number of times such content is accessed by a visitor. OPSWAT collects this non-personal information in an effort to better meet the needs of visitors to its website to answer questions, and to improve delivery of information and services to visitors of the website.</p>
-<p>
-	Also, in the course of performing services for customers, OPSWAT may be provided access to a customer's networks or systems, and in rare cases, may be able to view or receive portions of personal information of customer's clients. OPSWAT does not and will not use this information, and if indirectly collected as part of the performance of services, all such information is safeguarded in accordance with this Policy.</p>
-<h4>
-	Notice and Ability to Opt-Out</h4>
-<p>
-	When personal information is collected, we will inform the individual at the point of collection the purpose for the collection and where appropriate, allow the individual to elect whether to provide the information to OPSWAT and/or specify how we can use such personal information. OPSWAT provides individuals who elect to receive electronic or other communications the ability to "opt-out" of those communications by sending us a notice to unsubscribe. OPSWAT respects your wishes and will discontinue communicating with individuals who have requested not to receive email or other communications from OPSWAT. This means we assume an individual has given us consent to collect and use his/her personal information in accordance with this Policy unless the individual has taken affirmative action to indicate that he/she does not consent, for instance by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, OPSWAT will provide an individual with the opportunity to "opt-in." This means that we will require affirmative action from the individual to indicate his/her consent before we use personal information for purposes other than the purpose for which the personal information was submitted.</p>
-<h4>
-	Sharing, Disclosure and Security of Personal Information</h4>
-<p>
-	If an individual chooses to provide OPSWAT with personal information, the personal information will be used solely by and transferred only to OPSWAT, its offices and subsidiaries around the world, its resellers and distributors and service providers, which are those companies contracted by OPSWAT to deliver requested information and services. We may also transfer personal information across borders and from the individual's country or jurisdictions to OPSWAT' offices and subsidiaries, its resellers and distributors and service providers around the world. All such entities are governed by this Policy or are bound by appropriate confidentiality and data transfer agreements.</p>
-<p>
-	An individual's personal information is never shared outside OPSWAT without permission, except under conditions explained below. OPSWAT may send personal information to other service provider companies under any of the following circumstances:</p>
-<ul>
-<li>
-		when we have an individual's consent to share the information;</li>
-<li>
-		if sharing an individual's information is necessary to provide a product or service that is requested (If personal information is shared with third parties we will only provide the information they need to deliver the service. Also, such companies are prohibited from using such personal information for any other purpose);</li>
-<li>
-		as part of a joint sales promotion or to pass sales leads to one of our distribution partners; and</li>
-<li>
-		to keep an individual up to date on the latest product announcements, product updates, special offers or other information we think he/she would like to hear about either from us or from our service providers (unless the individual has opted out of these types of communications).</li>
-</ul>
-<p>
-	We will also disclose personal information if required or permitted to do so by law, or in urgent circumstances, to protect personal safety, the public or our websites.</p>
-<p>
-	OPSWAT safeguards the security of the personal information and other data provided to us with physical, electronic and managerial procedures. Inside OPSWAT, data is stored in secure and controlled servers with limited access. Your information may be stored and processed in the United States or any other country where OPSWAT, its subsidiaries or service providers are located. While we strive to protect personal information, we cannot ensure the security of the personal information provided to us. We urge individuals to protect their personal information when using the Internet by, for example, changing passwords often, using a combination of letters and numbers and making sure to use a secure browser.</p>
-<h4>
-	Use of Cookies</h4>
-<p>
-	A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.</p>
-<p>
-	When you visit our website, we send you a cookie. Cookies may be used in the following ways:</p>
-<ul>
-<li>
-		To help us recognize you as a unique visitor (just a number) when you return to our website, to allow us to tailor content or advertisements to match your preferred interests, or to avoid showing you the same advertisements repeatedly.</li>
-<li>
-		To develop leads for our internal sales group and our business partners and provide direct marketing communications to you if you have explicitly consented to receive such communications.</li>
-<li>
-		To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.</li>
-</ul>
-<p>
-	Two types of cookies may be used on this website: session cookies (which are temporary cookies that remain in the cookie file of your browser until you leave the site) and persistent cookies (which remain in the cookie file of your browser for much longer, though how long will depend on the lifetime of the specific cookie).</p>
-<h4>
-	Disabling/Enabling Cookies</h4>
-<p>
-	You have the ability to accept or decline cookies by modifying the settings in your browser, as well as delete any cookies that have been installed in the cookie folder of your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled/deleted. If you do not know how to disable or delete cookies for the browser you are using, you should select 'cookies' in the Help function of your browser to get more information.</p>
-<p>
-	Accessing and Updating Personal Information</p>
-<p>
-	OPSWAT encourages all individuals who provide personal information to OPSWAT to keep their personal information accurate and up to date. Personal information may in many cases be updated by an individual online. Individuals may also request access to their personal information by sending an email to <a href="mailto:info@opswat.com">info@opswat.com</a></p>
-<h4>
-	Children and Privacy</h4>
-<p>
-	Our websites do not target and are not intended to attract children under the age of 13. OPSWAT does not knowingly solicit personal information from children under the age of 13 or send them requests for personal information.</p>
-<h4>
-	Third Party Sites</h4>
-<p>
-	OPSWAT's website may provide links to other third party websites which are outside our control and not covered by this Policy. We encourage you to review the privacy policies posted on these third party websites.</p>
-<h4>
-	Changes to Our Privacy Policy</h4>
-<p>
-	OPSWAT may amend this Policy from time to time. If we make significant changes that affect the way we use your personal information, we will notify you by posting a revised statement on this site.</p>
-<h4>
-	Questions</h4>
-<p>
-	If you have any questions about this Policy, please email us at <a href="mailto:info@opswat.com">info@opswat.com</a> or mail us at OPSWAT,&nbsp;P.O. Box 77878,&nbsp;San Francisco, CA 94107-7878.</p>
-	</div>
-	
-  </div>
-
-    <br style="clear: both;">
-</div> <!-- /.node -->
+    <p><strong class=" ">Last Update</strong>: 07 Aug 2018    </p>
+    <p><strong class=" ">Version</strong>: 2.1    </p>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Summary">
+        <h1 class="heading "><span>Summary</span></h1>
+    <p>This privacy policy explains what information <strong class=" ">OPSWAT, Inc</strong>. and all of its subsidiaries worldwide (referred to as “OPSWAT,” “we,” “us,” and “our”) gather about individuals who provide us with personal information. It outlines what we use that information for and who we give that information to. It also sets out your privacy rights in relation to your own personal information, and it tells you who to contact for more information about this policy.    </p>
+    <p>In this privacy policy, your personal information is sometimes called “personal data.” We collectively refer to collecting, handling, using, protecting, or storing your personal information as “processing.”    </p>
+    <p>Although you do not have to provide any of your personal information to us, if we ask you to do so and you refuse, we may be unable to provide you with the information, goods, or services you want from us.    </p>
+    <div class="confbox admonition admonition-info has-no-icon">
+                    <p class="title">IMPORTANT</p>
+                        <div class="admonition-body">
+    <p>Please do not provide us with your personal information unless we ask you for it.    </p>
+        </div>
+    </div>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Scope">
+        <h1 class="heading "><span>Scope</span></h1>
+    <p>    <span style="color: #003366;">
+We take data protection very seriously, and we are fully committed to protecting your personal information. This privacy policy describes how we handle the personal information we collect and process through OPSWAT.com.    </span>
+    </p>
+    <p>    <span style="color: #003366;">
+It is our policy to collect only the minimum information required from you. If you believe that we have gone beyond that, please contact us to raise any concerns you may have. A list of contact methods is provided at the bottom of this privacy policy.    </span>
+    </p>
+    <p>    <span style="color: #003366;">
+OPSWAT complies with the EU-U.S and Swiss-U.S. <strong class=" ">Privacy Shield</strong> Frameworks which were designed by the US Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce and with     </span>
+REGULATION (EU) 2016/679 of the European parliament and of the council (GDPR).    </p>
+    <p>    <span style="color: #003366;">
+OPSWAT has certified that it adheres to the Privacy Shield. To learn more about Privacy Shield please visit <a class="external-link" href="http://www.privacyshield.gov/">www.privacyshield.gov</a> and to view our certification, please visit <a class="external-link" href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>.    </span>
+    </p>
+    <p><strong class=" ">Personal information </strong>(personal data) is anything that enables you to be identified or identifiable including but not limited to:    </p>
+<ul class=" "><li class=" ">    <p>First and last name    </p>
+</li><li class=" ">    <p>Email address, postal and IP addresses    </p>
+</li><li class=" ">    <p>Telephone numbers    </p>
+</li><li class=" ">    <p>National identification/social security and national insurance numbers    </p>
+</li><li class=" ">    <p>Job titles and occupation    </p>
+</li><li class=" ">    <p>Bank accounts    </p>
+</li><li class=" ">    <p>Any contact information    </p>
+</li></ul>    <div class="confbox admonition admonition-info has-no-icon">
+                    <p class="title">IMPORTANT</p>
+                        <div class="admonition-body">
+    <p>We only collect personal information through OPSWAT.com that we believe to be relevant and required to provide you with requested information and services and to conduct our business.    </p>
+        </div>
+    </div>
+    <p>As you use OPSWAT.com, you may link to third-party sites not controlled by us and which do not operate under our privacy practices. When you link to third-party sites, our privacy practices no longer apply. We encourage you to review each third-party site's privacy policy before disclosing any personally identifiable information.    </p>
+    <p>We do not intend to collect special category (also known as sensitive) personal information through our website(s) (unless we are legally required to do so). Examples of special category information are: race or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; physical or mental health; genetic data; biometric data; sexual life or sexual orientation; and criminal records.    </p>
+    <p>We ask that you do not provide us with special category personal information when using OPSWAT.com.    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Cookiesandsimilartechnologies">
+        <h1 class="heading "><span>Cookies and similar technologies</span></h1>
+    <p>With respect to your use of an Internet browser to interact with OPSWAT.com you should be aware that like many businesses with websites and cloud services, we may also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. You can control our use of cookies with respect to your device by changing options in the Internet browser you use. We will display notices to you about cookies and prompt you to accept or reject a cookie from us. If you do not accept cookies, however, you may not be able to use all portions or features of OPSWAT.com. For more information about our use of cookies, please visit <a href="OPSWAT_Cookies_Policy.html">OPSWAT Cookies Policy</a>.    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Rightsinrelationtoyourinformation">
+        <h1 class="heading "><span>Rights in relation to your information</span></h1>
+    <p>You have the following rights regarding your Personal Data:    </p>
+    <p>1 Right of Access.    </p>
+    <p>You have the right to access your Personal Data that we hold about you, i.e. the right to require free of charge:    </p>
+<ul class=" "><li class=" ">    <p>information whether your Personal Data is retained,    </p>
+</li><li class=" ">    <p>access to duplicates of the Personal Data retained,    </p>
+</li></ul>    <p>Upon your request, along with a duplicate of the data we retained, will provide you information related to – purpose of the processing, personal data we collect, entities to which we transferred them, time we keep your Personal Data, if possible and the criteria we used to decide the period, your rights as European Union Citizen, unless the data was collected directly from you, the source of the data, whether there is an automated decisional process,    </p>
+    <p>You can use the right to access to your Personal Data through your account. You may also request what other information we may hold. One request is free of charge, for the other we may charge a reasonable fee. If the effort of identifying data may be too much, or it may infringe with other people rights, we have the right to refuse it.    </p>
+    <p>2 Right to Rectification.    </p>
+    <p>When we process your Personal Data, we shall try to ensure that your Personal Data is accurate and up-to-date for the purposes for which it was collected. If your Personal Data is inaccurate or incomplete, you can change the information you provided by going to <u class=" "><a class="external-link" href="https://go.opswat.com/myuserright">https://go.opswat.com/myuserright</a></u> and following the steps as described.    </p>
+<ol class=" "><li class=" ">    <p>Right to suspend the processing    </p>
+</li></ol>    <p>You have the right to request the termination of the processing with or without deletion of the data we have collected where one of the following applies:    </p>
+<ul class=" "><li class=" ">    <p>the accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data;    </p>
+</li><li class=" ">    <p>the processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead;    </p>
+</li><li class=" ">    <p>the controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims;    </p>
+</li><li class=" ">    <p>the data subject has objected to processing pursuant to Article 21(1) pending the verification whether the legitimate grounds of the controller override those of the data subject.    </p>
+</li></ul><ol class=" "><li class=" ">    <p>Right to data portability    </p>
+</li></ol>    <p>You have the right to receive the Personal Data concerning you, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance us.    </p>
+<ol class=" "><li class=" ">    <p>Right to delete.    </p>
+</li></ol>    <p>You have the right to obtain deletion by us of Personal Data concerning you by deleting your User Account or by by going to <u class=" "><a class="external-link" href="https://go.opswat.com/myuserright">https://go.opswat.com/myuserright</a></u> and following the steps as described.    </p>
+    <p>Because of deleting your User Account, you will lose access to services provided to you by OPSWAT.com    </p>
+    <p>We allow you to restore your User Account during a grace period of 30 (thirty) days from the moment you request deletion of your User Account. This functionality allows you not to lose your account by mistake, because of your loss of your account credentials or due to hacking. During the suspension period, we will be able to finalize financial and other activities that you may have initiated before sending the User Account deletion request. After the grace period, Personal Data associated with your account will be deleted.    </p>
+    <p>In some cases, deletion of your User Account, and therefore Personal Data deletion, is complicated. Namely, if your account has a business relationship with US, you will only be able to delete your User Account after you have dissolved the business relationship. In some cases, considering the complexity and number of the requests, the period for Personal Data erasure may be extended, but for no longer than two further months.    </p>
+    <p>5 Right to Object.    </p>
+    <p>When our processing of your Personal Data is based on legitimate interests according to Article 6(1)(f) of the GDPR, you have the right to object to this processing. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing as described in Article 21 of the GDPR; in particular if the data is necessary for the establishment, exercise or defence of legal requirements.    </p>
+    <p>You also have the right to lodge a complaint at a supervisory authority.    </p>
+    <p>Contact Information:    </p>
+    <p>Our lead supervisory authority is the Romanian Data Protection Agency which may be contacted at:    </p>
+    <p>Autorității Naționale de Supraveghere a Datelor cu Caracter Personal    </p>
+    <p>B-dul G-ral. Gheorghe Magheru 28-30, sector 1, 010336, București,    </p>
+    <p><a class="external-link" href="mailto:anspdcp@dataprotection.ro">anspdcp@dataprotection.ro</a>,    </p>
+    <p>Phones: +40.318.059.211, +40.318.059.212    </p>
+    <p><a class="external-link" href="http://www.dataprotection.ro">www.dataprotection.ro</a>    </p>
+    <p>    </p>
+    <p>You can also contact our data protection officer at the address below. Our European representative for data protection questions is:    </p>
+    <p>Opswat Romania SRL    </p>
+    <p>Timișoara, România    </p>
+    <p>    </p>
+    <p>If you would like to exercise these rights or determine what, if any, personal information we have about you, please go to <u class=" "><a class="external-link" href="https://go.opswat.com/myuserright">https://go.opswat.com/myuserright</a></u> and follow the steps as described.    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Automateddecisionmaking">
+        <h1 class="heading "><span>Automated decision making</span></h1>
+    <p>We will not use your personal information for automated decision making or profiling.    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Children">
+        <h1 class="heading "><span>Children</span></h1>
+    <p>We understand the importance of protecting children's privacy and we never knowingly collect personal information about individuals under the age of 16. We adhere to laws regarding marketing to children.    </p>
+    <div class="confbox admonition admonition-info has-no-icon">
+                    <p class="title">IMPORTANT</p>
+                        <div class="admonition-body">
+    <p>If you are under 16 years of age, we ask that you do not use OPSWAT.com.    </p>
+        </div>
+    </div>
+    <p>    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_safe-id-T1BTV0FULmNvbVByaXZhY3lQb2xpY3ktRGF0YVdlQ29sbGVjdC9Ib3dXZVVzZVlvdXJEYXRhL1NoYXJpbmdvZllvdXJEYXRhV2l0aFNlcnZpY2VQcm92aWRlcnMvWW91ckNob2ljZXMvRGF0YVJldGVudGlvblBvbGljaWVzV2l0aFJlc3BlY3RUb09QU1dBVC5jb20">
+        <h1 class="heading auto-cursor-target"><span>Data We Collect / How We Use Your Data / Sharing of Your Data With Service Providers / Your Choices / Data Retention Policies With Respect To OPSWAT.com</span></h1>
+    <p>    </p>
+    <div class="section section-2" id="src-22271738_safe-id-T1BTV0FULmNvbVByaXZhY3lQb2xpY3ktSWZZb3V1c2V0aGUiQ29udGFjdFVzIm9yIlN1YnNjcmliZSJGb3Jtczo">
+        <h2 class="heading auto-cursor-target"><span>If You use the "Contact Us" or "Subscribe" Forms:</span></h2>
+    <div class="tablewrap">
+        <table class="relative-table wrapped confluenceTable">
+                    <colgroup>
+                                    <col width="21%">
+                                    <col width="25%">
+                                    <col width="16%">
+                                    <col width="22%">
+                                    <col width="14%">
+                            </colgroup>
+        <thead class=" ">    <tr>
+            <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>Data We Collect    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>How We Use Your Data    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>Your Choices    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>Service Providers With Which We Share This Information    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Retention Policy    </span>
+    </p>
+            </td>
+        </tr>
+</thead><tfoot class=" "></tfoot><tbody class=" ">    <tr>
+            <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Your contact information:    </p>
+<ul class=" "><li class=" ">    <p>First name    </p>
+</li><li class=" ">    <p>Last name    </p>
+</li><li class=" ">    <p>Email address    </p>
+</li><li class=" ">    <p>Phone number    </p>
+</li><li class=" ">    <p>Company name    </p>
+</li><li class=" ">    <p>Industry    </p>
+</li><li class=" ">    <p>Job title    </p>
+</li><li class=" ">    <p>City, State, Country    </p>
+</li><li class=" ">    <p>Contact date    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>To respond to your request for contact based on the email address you provide (which is required to submit the form) or other contact methods you specify in the form.    </p>
+</li><li class=" ">    <p>To subscribe you to newsletters you request via the "Subscribe" form using the email address you provide in this form.    </p>
+</li></ul>    <p>    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Refer to <u class=" "><strong class=" ">User Rights</strong></u> section    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>    <span style="color: #000000;">
+Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact.    </span>
+    </p>
+</li><li class=" ">    <p>    <span style="color: #000000;">
+Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access.    </span>
+    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.    </span>
+    </p>
+            </td>
+        </tr>
+    <tr>
+            <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Your product Interest:    </p>
+<ul class=" "><li class=" ">    <p>Trial product name    </p>
+</li><li class=" ">    <p>Any product interest    </p>
+</li><li class=" ">    <p>Proxy use case    </p>
+</li><li class=" ">    <p>Compliance regulation    </p>
+</li><li class=" ">    <p>Identity provider    </p>
+</li><li class=" ">    <p>Other requirements    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Information you provided is used to select product information that best suits what you are looking for.    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Refer to     </span>
+<u class=" "><strong class=" ">User Rights </strong></u>    <span style="color: #333333;">
+section    </span>
+    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>    <span style="color: #000000;">
+Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact.    </span>
+    </p>
+</li><li class=" ">    <p>    <span style="color: #003366;">
+    <span style="color: #000000;">
+Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access.    </span>
+    </span>
+    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.    </span>
+    </p>
+            </td>
+        </tr>
+    <tr>
+            <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Your production environment:    </p>
+<ul class=" "><li class=" ">    <p>Number of devices    </p>
+</li><li class=" ">    <p>Number of mailboxes    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Information you provide is used to select product information that best suits what you are looking for.    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Refer to     </span>
+<u class=" "><strong class=" ">User Rights</strong></u><strong class=" "> </strong>    <span style="color: #333333;">
+section    </span>
+    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>    <span style="color: #000000;">
+Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact.    </span>
+    </p>
+</li><li class=" ">    <p>    <span style="color: #000000;">
+Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access.    </span>
+    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.    </span>
+    </p>
+            </td>
+        </tr>
+    <tr>
+            <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Lead tracking:    </p>
+<ul class=" "><li class=" ">    <p>How much and when emails are opened    </p>
+</li><li class=" ">    <p>If email is being delivered or blocked    </p>
+</li><li class=" ">    <p>Original source    </p>
+</li><li class=" ">    <p>Page visits    </p>
+</li><li class=" ">    <p>Country, State, City based on IP    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Information is used to make sure the right person reaches out to you and provides information that is relevant to you.    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Refer to     </span>
+<u class=" "><strong class=" ">User Rights</strong></u><strong class=" "> </strong>    <span style="color: #333333;">
+section    </span>
+    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>    <span style="color: #000000;">
+Hubspot, which powers our follow up to your requests to be contacted by us or to subscribe to our newsletter. For example, we maintain our newsletter subscriber base in Hubspot and use Hubspot to notify relevant OPSWAT representatives of the details of your request for contact.    </span>
+    </p>
+</li><li class=" ">    <p>    <span style="color: #000000;">
+Third-party contractors who assist us in developing this site/application and manage our Hubspot implementation also have access.    </span>
+    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Up to 10 years unless otherwise restricted by law or by your choice to delete as part of your user rights.    </span>
+    </p>
+            </td>
+        </tr>
+</tbody>        </table>
+            </div>
+    </div>
+    <div class="section section-2" id="src-22271738_safe-id-T1BTV0FULmNvbVByaXZhY3lQb2xpY3ktSWZZb3V1c2VsaXZlY2hhdDo">
+        <h2 class="heading auto-cursor-target"><span>If You use live chat:</span></h2>
+    <div class="tablewrap">
+        <table class="relative-table wrapped confluenceTable">
+                    <colgroup>
+                                    <col width="21%">
+                                    <col width="25%">
+                                    <col width="16%">
+                                    <col width="22%">
+                                    <col width="14%">
+                            </colgroup>
+        <thead class=" ">    <tr>
+            <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>Data We Collect    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>How We Use Your Data    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>Your Choices    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>Service Providers With Which We Share This Information    </p>
+            </td>
+                <td class="confluenceTh" rowspan="1" colspan="1">
+        <p>    <span style="color: #333333;">
+Retention Policy    </span>
+    </p>
+            </td>
+        </tr>
+</thead><tfoot class=" "></tfoot><tbody class=" ">    <tr>
+            <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Email address    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Identify who you are    </p>
+            </td>
+                <td class="confluenceTd" rowspan="2" colspan="1">
+        <p>Refer to <u class=" "><strong class=" ">User Rights</strong></u> section    </p>
+            </td>
+                <td class="confluenceTd" rowspan="2" colspan="1">
+    <ul class=" "><li class=" ">    <p>Drift, which provides live chat service    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>&nbsp;    </p>
+            </td>
+        </tr>
+    <tr>
+            <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>IP address    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>    <span style="color: #172b4d;">
+Location data to route who can assist    </span>
+    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>&nbsp;    </p>
+            </td>
+        </tr>
+</tbody>        </table>
+            </div>
+    </div>
+    <div class="section section-2" id="src-22271738_OPSWAT.comPrivacyPolicy-Webanalytics">
+        <h2 class="heading auto-cursor-target"><span>Web analytics </span></h2>
+    <div class="tablewrap">
+        <table class="wrapped relative-table tablesorter tablesorter-default stickyTableHeaders confluenceTable">
+                    <colgroup>
+                                    <col width="20%">
+                                    <col width="19%">
+                                    <col width="20%">
+                                    <col width="22%">
+                                    <col width="16%">
+                            </colgroup>
+        <thead class=" ">    <tr>
+            <td class="tablesorter-header sortableHeader tablesorter-headerUnSorted confluenceTh" rowspan="1" colspan="1">
+        <p>Data We Collect    </p>
+            </td>
+                <td class="tablesorter-header sortableHeader tablesorter-headerUnSorted confluenceTh" rowspan="1" colspan="1">
+        <p>How We Use Your Data    </p>
+            </td>
+                <td class="tablesorter-header sortableHeader tablesorter-headerUnSorted confluenceTh" rowspan="1" colspan="1">
+        <p>Your Choices    </p>
+            </td>
+                <td class="tablesorter-header sortableHeader tablesorter-headerUnSorted confluenceTh" rowspan="1" colspan="1">
+        <p>Service Providers With Which We Share Data    </p>
+            </td>
+                <td class="tablesorter-header sortableHeader tablesorter-headerUnSorted confluenceTh" rowspan="1" colspan="1">
+        <p>Retention Policy    </p>
+            </td>
+        </tr>
+</thead><tfoot class=" "></tfoot><tbody class=" ">    <tr>
+            <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>Page visiting history    </p>
+</li><li class=" ">    <p>IP address    </p>
+</li><li class=" ">    <p>Browser type and operating system    </p>
+</li><li class=" ">    <p>Data and time of visit to the website    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>    <span style="color: #666666;">
+Better understanding user behavior and browser agent performance.    </span>
+    </p>
+</li><li class=" ">    <p>    <span style="color: #666666;">
+Improve website performance.    </span>
+    </p>
+</li><li class=" ">    <p>    <span style="color: #666666;">
+Improve website content quality.    </span>
+    </p>
+</li></ul>    <p>    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>You can disable cookies and see more details at <a href="OPSWAT_Cookies_Policy.html">OPSWAT Cookies Policy</a>    </p>
+    <p>    </p>
+    <p>    </p>
+            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+    <ul class=" "><li class=" ">    <p>    <span style="color: #666666;">
+    <span style="color: #333333;">
+Google Analytics:     </span>
+    <span style="color: #000000;">
+    <span style="color: #333333;">
+Provides the system we use to track and analyst user browsing history.    </span>
+    </span>
+    </span>
+    </p>
+</li></ul>            </td>
+                <td class="confluenceTd" rowspan="1" colspan="1">
+        <p>Data is retained for 26 months.    </p>
+            </td>
+        </tr>
+</tbody>        </table>
+            </div>
+    <p>    </p>
+    <p>The third-party service providers identified above may use their own third-party subcontractors who have access to personal data (sub-processors). It is our policy to use only third-party providers that are bound to maintain appropriate levels of security and confidentiality, to process personal information only as instructed by us, and to flow those same obligations down to their sub-processors.    </p>
+    <div class="confbox admonition admonition-info has-no-icon">
+                    <p class="title">IMPORTANT</p>
+                        <div class="admonition-body">
+    <p>We do not collect personally identifying information for sale to third parties.    </p>
+        </div>
+    </div>
+    </div>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Otherdisclosures">
+        <h1 class="heading "><span>Other disclosures</span></h1>
+    <p>OPSWAT may disclose personal information to third parties under the following circumstances:    </p>
+<ul class=" "><li class=" ">    <p>When explicitly requested by you    </p>
+</li><li class=" ">    <p>As otherwise set out in this OPSWAT.com Privacy Policy    </p>
+</li></ul>    <p>We may also disclose your personal information to law enforcement, regulatory and other government agencies, and to professional bodies and other third parties as required by and/or in accordance with applicable laws or regulations. This includes disclosures outside the country where you are located.    </p>
+    <p>Finally, we will disclose personal information if required in urgent circumstances, to protect the personal safety of individuals or the general public, or to maintain the uptime or stability of OPSWAT.com.    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Securityofpersonalinformation">
+        <h1 class="heading "><span>Security of personal information</span></h1>
+    <p>Taking into account the state of the art, the costs of implementation, and the nature, scope, context, and purposes of processing your personal information, we have implemented technical and organizational measures to ensure a level of security appropriate to the risk of unauthorized or unlawful processing of personal data. These measures also help us guard against accidental loss, destruction of, or damage to personal data.    </p>
+    <p>Only authorized persons are provided access to the personally identifiable information we have collected, and such individuals have agreed to maintain the confidentiality of this information.    </p>
+    <p>We safeguard the security of the personal information provided to us with physical, electronic, and managerial procedures. Inside OPSWAT, data is stored in secure and controlled servers with limited access.    </p>
+    <p>Where we share your personal information with third-party providers, they may use subcontractors that have access to your personal data (sub-processors). It is our policy to use only third-party providers that are bound to maintain appropriate levels of security and confidentiality, to process personal information only as instructed by us, and to flow those same obligations down to their sub-processors.    </p>
+    <p>Note that your information may be stored and processed in the United States or any other country where OPSWAT, its subsidiaries, or service providers are located.    </p>
+    <div class="confbox admonition admonition-info has-no-icon">
+                    <p class="title">IMPORTANT</p>
+                        <div class="admonition-body">
+    <p>While we strive to protect personal data, we cannot guarantee the security of the personal information provided to us. Although we use appropriate security measures, once we have received your personal information, the transmission of data over the Internet (including via email) is never completely secure. We urge you to protect your personal information when using the Internet by, for example, changing passwords often, using a combination of letters, numbers, and special characters (for example, % and $ and +) , and making sure to use a secure browser.    </p>
+        </div>
+    </div>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-Dataretention">
+        <h1 class="heading "><span>Data retention</span></h1>
+    <p>    <span style="color: #000000;">
+If you create an account to use services associated with OPSWAT.com, we will retain your personal information while the account you’ve created remains active. We will also retain your information for as long as we have a legitimate business purpose to do so, and thereafter, for no longer than is required or permitted by law. This includes data you or others have provided to us, as well as data generated or inferred from your use of     <span style="color: #000000;">
+OPSWAT.com    </span>
+.    </span>
+    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-OPSWAT.comprivacypolicyupdates">
+        <h1 class="heading "><span>OPSWAT.com privacy policy updates</span></h1>
+    <p>Our privacy policy may be updated from time to time, and we will notify you of any material changes by posting the new policy at OPSWAT.com privacy     <span style="color: #003366;">
+policy    </span>
+ and revising the “Effective starting” date at the top of the policy.    </p>
+    </div>
+    <div class="section section-1" id="src-22271738_OPSWAT.comPrivacyPolicy-ContactingOPSWATandPrivacyShielddisputeresolution">
+        <h1 class="heading "><span>Contacting OPSWAT and Privacy Shield dispute resolution </span></h1>
+    <p>In compliance with the Privacy Shield Principles, OPSWAT, Inc. commits to resolve complaints about our collection, use, or sharing of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact OPSWAT, Inc. by either going to <a class="external-link" href="https://go.opswat.com/myuserright">https://go.opswat.com/myuserright</a> or sending postal mail to: OPSWAT, P.O. Box 77878, San Francisco, CA, 94103.    </p>
+    <p>OPSWAT, Inc. has further committed to refer unresolved Privacy Shield complaints to JAMs, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <a class="external-link" href="https://www.jamsadr.com/">https://www.jamsadr.com/</a> or <a class="external-link" href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a> for more information or to file a complaint. The services of JAMs are provided at no cost to you.    </p>
+    <p>Further, OPSWAT, Inc. is subject to the investigatory and enforcement powers of the United States Federal Trade Commission (FTC).    </p>
+    <p>And importantly, OPSWAT remains responsible for any onward transfer of your personal information to third parties including, for example, third parties performing external processing your personal information on our behalf, as identified in the “Sharing of Your Data with Service Providers” section.    </p>
+    <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily by any of the above described methods, please contact:    </p>
+    <p>In UK: The Information Commissioner Office (ICO). The ICO can be contacted by the following means:    </p>
+<ul class=" "><li class=" ">    <p>Form: <a class="external-link" href="http://www.ico.org.uk/global/contact-us/email/">www.ico.org.uk/global/contact-us/email/</a>    </p>
+</li><li class=" ">    <p>Telephone: <strong class=" ">0303 123 1113 </strong>(local rate – calls to this number cost the same as calls to 01 or 02 numbers).    </p>
+</li><li class=" ">    <p>Post: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire<br>SK9 5AF    </p>
+</li></ul>    <p>In Romania: The National Supervisory Authority for Personal Data Processing of Romania (<a class="external-link" href="http://www.dataprotection.ro/">http://www.dataprotection.ro/</a>)    </p>
+    <p>In Switzerland: The Swiss Federal Data Protection and Information Commissioner (<a class="external-link" href="https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html">https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html</a>).    </p>
+    <div class="confbox admonition admonition-info has-no-icon">
+                    <p class="title">IMPORTANT</p>
+                        <div class="admonition-body">
+    <p>Under certain conditions, more fully described on the Privacy Shield website, <a class="external-link" href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.    </p>
+        </div>
+    </div>
+    <p>    </p>
+    <p>    </p>
+    </div>
         </div>
 
-        
-                
-</div></div> <!-- /.section, /#content -->
+    </article>
 
 
+            <nav id="ht-post-nav">
+                <a href="MetaDefender_Privacy_Policy.html" class="ht-post-nav-prev">
+            <svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+                <g id="ht-icon-prev" sketch:type="MSArtboardGroup">
+                    <path fill="#000000" d="M16,8 L16,6 L6,6 L6,16 L8,16 L8,8 L16,8 Z" id="Rectangle-2" sketch:type="MSShapeGroup" transform="translate(11.000000, 11.000000) rotate(-45.000000) translate(-11.000000, -11.000000) "></path>
+                </g>
+            </svg>
+            <span>MetaDefender Privacy Policy</span>
+        </a>
+                <a href="OPSWAT_Cookies_Policy.html" class="ht-post-nav-next">
+            <svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+                <g id="ht-icon-next" sketch:type="MSArtboardGroup">
+                    <path fill="#000000" d="M16,8 L16,6 L6,6 L6,16 L8,16 L8,8 L16,8 Z" id="Rectangle-2" sketch:type="MSShapeGroup" transform="translate(11.000000, 11.000000) rotate(-225.000000) translate(-11.000000, -11.000000) "></path>
+                </g>
+            </svg>
+            <span>OPSWAT Cookies Policy</span>
+        </a>
+    </nav>    
+            
+            <article id="html-search-results" class="ht-content" style="display: none;">
+            <header class="ht-content-header">
+                <div id="ht-spacetitle">
+                    <ul>
+                        <li><a href="index.html">Privacy and Terms</a></li>
+                    </ul>
+                </div>
+                <h1>Search results</h1>
+            </header>
+            <div id="search-results"></div>
+        </article>
+    
+    <footer id="ht-footer">
+    <a href="#" id="ht-jump-top" class="sp-aui-icon-small sp-aui-iconfont-arrows-up" style="display: inline;"></a>
+</footer></div>
 
+<div>
+    <div id="ht-mq-detect"></div>
+</div>
 
-    		</div>
-	</div>
-  
-<!-- Footer -->
-	<div id="footer-wrapper">
-	<div id="footer">
-		<br style="clear: both;">
-		<div style="clear: both; width: 100%; text-align: right; font-size: 160%; font-weight: bold; color: #000;">OPSWAT™</div>
-		<div class="copy">
-			<ul>
-				<li><a href="/sitemap">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
-				<li><a href="/about/company/careers">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
-				<li><a href="https://portal.opswat.com/email-list">Mailing List</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
-				<li><a href="/privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
-				<li><a href="/legal">Legal Notices</a></li>
-			</ul>
-			
-			<span class="copyright">© 2002-2013 OPSWAT, Inc. All rights reserved.</span>
-			
-			<br style="clear: both">
-			
-		</div>
-		
-	</div>
-	</div>
-
-</div> <!-- /#page, /#page-wrapper -->
-
-<!-- Slideshow -->
-
-
-
-
+    <script src="js/lunr.js"></script>
+    <script src="js/lunr-extras.js"></script>
+    <script src="assets/js/scroll-search.js"></script>
 
 
 
