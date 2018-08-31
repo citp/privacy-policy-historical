@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtreliefoptions.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221122625id_/http%3A//debtreliefoptions.org/openwindow/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtreliefoptions.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831195142id_/http%3A//debtreliefoptions.org/openwindow/privacy.jsp) for the most accurate reproduction.*
 
 # Debt Relief Options - Privacy Policy
 
