@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walsh.edu privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328111631id_/https%3A//www.walsh.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walsh.edu privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831202154id_/https%3A//www.walsh.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
