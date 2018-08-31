@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaladspace.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630140321id_/http%3A//www.globaladspace.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaladspace.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831172027id_/http%3A//globaladspace.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Globaladspace | Ad Network | Privacy Policy
 
