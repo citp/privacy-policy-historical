@@ -1,0 +1,711 @@
+<!--The following is the downloaded HTML source of the bouqs.com privacy policy that was archived on 2018-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180831120749id_/https%3A//bouqs.com/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="modernizr-no-js" lang="en"><head>
+<meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-spa-1071.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1e61f37ac6","applicationID":"133771624","transactionName":"IF9fF0MKXVsAQxpAXQFcWA1SSkJDCkNQaF4RX18XHhVQUABCGkRQDEc=","queueTime":0,"applicationTime":137,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQABUVVaChABV1JVAAABVFA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
+<title>Privacy Policy - The Bouqs Co.</title>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="bwhSqbfv3ZS63RDwzDTmbqQZ29jTA0Mag4txO4g11uTWQ9YUZ2t2Gd3+o7pRYARfaPzrnu1+580Ka1uE0kslhw==">
+<meta content="width=device-width" name="viewport">
+<meta content="en" property="locale">
+<meta content="production" property="environment">
+<meta content="[&quot;5af87c4a617070273b0023d0&quot;]" property="breadcrumbs">
+<meta content="bfc19a3763b0490d9b7e9ce3f2d9c079" name="p:domain_verify">
+<meta content="EbbJ_M0ORNg5KouoQkqf6WLOPJkgPVhdu2P_q9Qlz1E" name="google-site-verification">
+<style>
+  .async-hide { opacity: 0 !important}
+</style>
+<script src="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/analytics/google_optimize_snippet-3dfb7cfa8080fb56856e05a73b51cc62aec22b97b8fca09a479d81cf008c923b.js"></script>
+<style>
+  @-ms-viewport { width: device-width; }
+  @viewport { width: device-width; }
+</style>
+<link href="https://bouqs.com/pages/privacy" rel="canonical">
+<meta content="THE BOUQS COMPANY PRIVACY STATEMENT Effective as of June 23, 2018 Thank you for visiting https://bouqs.com/ (the “Site”), a service dedicated to simplifying bouquet purchases. When you browse or use" name="description">
+<meta content="/pages/privacy" property="og:url">
+<meta content="Privacy Policy - The Bouqs Co." property="og:title">
+<meta content="website" property="og:type">
+<meta content="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/logo-5350236b8fc96422c6cb5ec4f37000bae945eb302be18c751ac2d5960f98da16.png" property="og:image">
+
+<link rel="stylesheet" media="all" href="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/application-1fd8c5d01a0cd9c18d7e13acc4abd8e9a7a82d5e3ea2af91b1ca344d1b61845d.css">
+<style>.rich-text-content-block{
+padding-top: 0px !important;
+}
+
+.rich-text-content-block__content{
+padding-top: 0px !important;
+}
+
+.html-content-block__custom a:hover {
+  text-decoration: none;
+}
+
+.html-content-block__custom a h4:hover {
+  font-weight: 400;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.html-content-block__custom h2 {
+  margin-bottom: 8px;
+  margin-top: 32px;
+}
+
+.html-html-content-block__custom {
+  margin: 0 auto;
+  width: 85%;
+}</style><style>.page-promo {
+    clear: both;
+    color: #ffffff;
+    text-align: center;
+    background: #3D9497;
+}</style>
+<link rel="icon" type="image/x-icon" href="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/icons/favicon-e892e525ff6893c177abf519d5dd1d72afaaf2dec47ee85074f224f7e51be77f.ico">
+<link rel="apple-touch-icon" type="image/png" href="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/icons/apple-touch-icon-54969f8dfb0f85a962e1d242cc8bc27e33d2b6a3428cbf2c832c8c38dc518b4f.png" sizes="180x180">
+<link rel="icon" type="image/png" href="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/icons/favicon-32x32-325eeaefe547275c5b6c1b4a090798d9ca4e161cd392da451ce9f85b4310b15a.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/icons/favicon-16x16-9cc7a0e3de1747546daa7b44ddcccce2b83f278b7d14968dc2abc6d1345b8a4e.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<meta content="#ffffff" name="theme-color">
+
+
+<script src="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/head-0d0e8771a3f4c5bc93edab1975f726af6e792c479ebb9ee42ae89abff86a7a63.js"></script>
+</head>
+<body data-analytics="{&quot;event&quot;:&quot;pageView&quot;,&quot;payload&quot;:{&quot;category&quot;:null,&quot;name&quot;:&quot;Privacy Policy&quot;}}" itemscope="" itemtype="http://schema.org/WebPage">
+<ul class="accessibility-nav visually-hidden">
+<li><a href="/accessibility">Accessibility Information</a></li>
+<li><a accesskey="S" href="#main">Skip to Main Content</a></li>
+<li><a accesskey="M" href="#nav">Skip to Primary Navigation</a></li>
+</ul>
+<div data-admin-toolbar-placeholder="{&quot;source&quot;:&quot;/admin/toolbar/page/5aecc7bd6170703728003f5f&quot;}"></div>
+<div class="page-header" data-sticky="" id="page-header" role="banner">
+<div class="page-header__top">
+<div class="page-header__wrapper">
+<div class="page-header__mobile-nav">
+<button name="button" type="button" data-drawer-button="{&quot;readyEvent&quot;:&quot;drawerButtons:mobileNavReady&quot;}" class="icon icon--menu">Mobile Navigation</button>
+</div>
+<div class="page-header__primary-nav">
+<div class="primary-nav" id="nav" role="navigation">
+<ul class="primary-nav__nav-menu primary-nav__nav-menu--1">
+<li class="primary-nav__menu-item primary-nav__menu-item--1 primary-nav__menu-item--selected primary-nav__menu-item--has-children">
+<a class="primary-nav__item-node primary-nav__item-node--1 primary-nav__item-node--selected" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Shop&quot;,&quot;depth&quot;:1,&quot;url&quot;:&quot;https://bouqs.com/flowers/all&quot;}}" href="https://bouqs.com/flowers/all">Shop</a>
+<div class="mega-menu mega-menu--1 mega-menu--has-children mega-menu--heading">
+<div class="grid grid--large mega-menu__container mega-menu__container--1 mega-menu__container--has-children mega-menu__container--heading">
+<div class="mega-menu__menu grid__cell grid__cell--66">
+<ul class="grid mega-menu__group mega-menu__group--1 mega-menu__group--has-children mega-menu__group--heading">
+<li class="grid__cell grid__cell--33 mega-menu__group-item mega-menu__group-item--1 mega-menu__group-item--heading">
+<ul class="mega-menu__nav-menu mega-menu__nav-menu--1 mega-menu__nav-menu--heading">
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--heading">
+<a class="mega-menu__item-node mega-menu__item-node--1 mega-menu__item-node--heading" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;All&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/all&quot;}}" href="/flowers/all">All</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--heading">
+<a class="mega-menu__item-node mega-menu__item-node--1 mega-menu__item-node--heading" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Birthday&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/birthday&quot;}}" href="/flowers/birthday">Birthday</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--heading">
+<a class="mega-menu__item-node mega-menu__item-node--1 mega-menu__item-node--heading" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Best Sellers&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/popular&quot;}}" href="/flowers/popular">Best Sellers</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--heading">
+<a class="mega-menu__item-node mega-menu__item-node--1 mega-menu__item-node--heading" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Seasonal&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/seasonal&quot;}}" href="/flowers/seasonal">Seasonal</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--section-heading mega-menu__menu-item--heading">
+<span class="mega-menu__item-label mega-menu__item-label--1 mega-menu__item-label--section-heading mega-menu__item-label--heading">Delivery Time</span>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Same day - $60+&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/same-day-60&quot;}}" href="/flowers/same-day-60">Same day - $60+</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Next day - $48+&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/next-day-50&quot;}}" href="/flowers/next-day-50">Next day - $48+</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;No rush - $36+&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/no-rush-40&quot;}}" href="/flowers/no-rush-40">No rush - $36+</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--section-heading mega-menu__menu-item--heading">
+<span class="mega-menu__item-label mega-menu__item-label--1 mega-menu__item-label--section-heading mega-menu__item-label--heading">Origin</span>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Volcanoes of Ecuador&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/volcano-collection&quot;}}" href="/flowers/volcano-collection">Volcanoes of Ecuador</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Hills of Colombia&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/colombia-collection&quot;}}" href="/flowers/colombia-collection">Hills of Colombia</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Fields of USA&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/next-day-50&quot;}}" href="/flowers/next-day-50">Fields of USA</a>
+</li>
+</ul>
+</li>
+<li class="grid__cell grid__cell--33 mega-menu__group-item mega-menu__group-item--1 mega-menu__group-item--heading mega-menu__group-item--section-heading">
+<ul class="mega-menu__nav-menu mega-menu__nav-menu--1 mega-menu__nav-menu--section-heading mega-menu__nav-menu--heading">
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--section-heading mega-menu__menu-item--heading">
+<span class="mega-menu__item-label mega-menu__item-label--1 mega-menu__item-label--section-heading mega-menu__item-label--heading">Flower Type</span>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Callas&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/callas&quot;}}" href="/flowers/callas">Callas</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Carnations&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/carnations&quot;}}" href="/flowers/carnations">Carnations</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Daisies&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/daisies&quot;}}" href="/flowers/daisies">Daisies</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Freesia&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/freesia&quot;}}" href="/flowers/freesia">Freesia</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Hydrangeas&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/hydrangeas&quot;}}" href="/flowers/hydrangeas">Hydrangeas</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Lilies&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/lilies&quot;}}" href="/flowers/lilies">Lilies</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Mixed&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/mixed&quot;}}" href="/flowers/mixed">Mixed</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Orchids&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/orchids&quot;}}" href="/flowers/orchids">Orchids</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Peonies&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/peonies&quot;}}" href="/flowers/peonies">Peonies</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Ranunculus&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/ranunculus&quot;}}" href="/flowers/ranunculus">Ranunculus</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Roses&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/roses&quot;}}" href="/flowers/roses">Roses</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Sunflowers&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/sunflowers&quot;}}" href="/flowers/sunflowers">Sunflowers</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Succulents&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/succulents&quot;}}" href="/flowers/succulents">Succulents</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Tropical&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/tropical&quot;}}" href="/flowers/tropical">Tropical</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Tulips&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/tulips&quot;}}" href="/flowers/tulips">Tulips</a>
+</li>
+</ul>
+</li>
+<li class="grid__cell grid__cell--33 mega-menu__group-item mega-menu__group-item--1 mega-menu__group-item--heading mega-menu__group-item--section-heading">
+<ul class="mega-menu__nav-menu mega-menu__nav-menu--1 mega-menu__nav-menu--section-heading mega-menu__nav-menu--heading">
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--section-heading mega-menu__menu-item--heading">
+<span class="mega-menu__item-label mega-menu__item-label--1 mega-menu__item-label--section-heading mega-menu__item-label--heading">Occasion</span>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Anniversary&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/anniversary&quot;}}" href="/flowers/anniversary">Anniversary</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Congrats&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/congrats&quot;}}" href="/flowers/congrats">Congrats</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Get Well&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/get-well&quot;}}" href="/flowers/get-well">Get Well</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;I'm Sorry&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/i-m-sorry&quot;}}" href="/flowers/i-m-sorry">I'm Sorry</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Just Because&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/just-because&quot;}}" href="/flowers/just-because">Just Because</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;New Baby&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/new-baby&quot;}}" href="/flowers/new-baby">New Baby</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Sending Love&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/sending-love&quot;}}" href="/flowers/sending-love">Sending Love</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Sympathy&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/sympathy&quot;}}" href="/flowers/sympathy">Sympathy</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Thank You&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/flowers/thank-you&quot;}}" href="/flowers/thank-you">Thank You</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1 mega-menu__menu-item--section-heading mega-menu__menu-item--heading">
+<span class="mega-menu__item-label mega-menu__item-label--1 mega-menu__item-label--section-heading mega-menu__item-label--heading">Services</span>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Weddings&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/pages/weddings&quot;}}" href="/pages/weddings">Weddings</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Events&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/pages/events&quot;}}" href="/pages/events">Events</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Businesses&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/pages/business&quot;}}" href="/pages/business">Businesses</a>
+</li>
+<li class="mega-menu__menu-item mega-menu__menu-item--1">
+<a class="mega-menu__item-node mega-menu__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Florists&quot;,&quot;depth&quot;:2,&quot;url&quot;:&quot;/pages/florists&quot;}}" href="/pages/florists">Florists</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mega-menu__content grid__cell grid__cell--33">
+<div class="navigation-content-content-block grid">
+<div class="navigation-content-content-block__column navigation-content-content-block__column--primary grid__cell grid__cell--50-at-wide">
+<a class="navigation-content-content-block__link" href="https://bouqs.com/subscriptions?hp=nav"><div class="navigation-content-content-block__image" style="padding: 0 0 105.26315789473684%; height: 0;"><img alt="" src="https://bouqs-production-weblinc.netdna-ssl.com/media/W1siZiIsIjIwMTgvMDYvMDcvMTgvNDUvMzMvMTg1L0RTR04xNzY3X01lZ2FOYXZfTWRheV9TdWJzLmpwZyJdLFsicCIsIm9wdGltIl1d/DSGN1767_MegaNav_Mday_Subs.jpg?sha=bd7ab6fbe42f3fd9"></div>
+<div class="navigation-content-content-block__content"><p><b>FLOWER SUBSCRIPTIONS</b></p><p>Love getting flowers? How about getting flowers year round with a subscription!</p></div>
+</a></div>
+<div class="navigation-content-content-block__column navigation-content-content-block__column--secondary grid__cell grid__cell--50-at-wide">
+<a class="navigation-content-content-block__link" href="https://bouqs.com/flowers/peonies?hp=nav"><div class="navigation-content-content-block__image" style="padding: 0 0 105.26315789473684%; height: 0;"><img alt="" src="https://bouqs-production-weblinc.netdna-ssl.com/media/W1siZiIsIjIwMTgvMDcvMDIvMTgvMTUvNDMvMzE3L1Blb255TWVnYU1lbnVQb2QuanBnIl0sWyJwIiwib3B0aW0iXV0/PeonyMegaMenuPod.jpg?sha=532bb688640a36dd"></div>
+<div class="navigation-content-content-block__content"><p><b>PEONIES</b></p><p>Now for a limited time, add a pop of color to your patio party with our peonies. Shop the collection.</p></div>
+</a></div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+</li>
+<li class="primary-nav__menu-item primary-nav__menu-item--1">
+<a class="primary-nav__item-node primary-nav__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Our Difference&quot;,&quot;depth&quot;:1,&quot;url&quot;:&quot;https://bouqs.com/pages/our-difference&quot;}}" href="https://bouqs.com/pages/our-difference">Our Difference</a>
+</li>
+<li class="primary-nav__menu-item primary-nav__menu-item--1">
+<a class="primary-nav__item-node primary-nav__item-node--1" data-touch-start-nav="" data-analytics="{&quot;event&quot;:&quot;primaryNavigationClick&quot;,&quot;domEvent&quot;:&quot;click&quot;,&quot;payload&quot;:{&quot;name&quot;:&quot;Subscriptions&quot;,&quot;depth&quot;:1,&quot;url&quot;:&quot;/subscriptions&quot;}}" href="/subscriptions">Subscriptions</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="page-header__actions">
+<div class="utility-nav">
+<ul class="utility-nav__nav-menu utility-nav__nav-menu--1">
+<li class="utility-nav__menu-item utility-nav__menu-item--help">
+<a class="utility-nav__item-node" data-touch-start-nav="" href="https://help.bouqs.com/hc/en-us">Help</a>
+<ul class="utility-nav__nav-menu utility-nav__nav-menu--2">
+<li class="utility-nav__menu-item utility-nav__menu-item--2">
+<a class="utility-nav__item-node" href="/flower-care">Flower Care</a>
+</li>
+<li class="utility-nav__menu-item utility-nav__menu-item--2">
+<a class="utility-nav__item-node" href="https://help.bouqs.com/hc/en-us">Help Center</a>
+</li>
+</ul>
+</li>
+<li class="utility-nav__menu-item utility-nav__menu-item--account" data-log-out-link-placeholder="utility-nav">
+<a class="utility-nav__item-node icon icon--account" data-dialog-button="{&quot;dialogOptions&quot;:{&quot;uiDialogOptions&quot;:{&quot;dialogClass&quot;:&quot;ui-dialog-login&quot;}}}" href="/login?return_to=%2Fpages%2Fprivacy">My Account</a>
+</li>
+<li class="utility-nav__menu-item utility-nav__menu-item--cart">
+<a accesskey="Y" class="utility-nav__item-node utility-nav__item-node--cart icon icon--basket" href="/cart">Review Order</a>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="page-header__logo">
+<a rel="home" class="page-header__logo-link" href="/">Go to Home Page</a>
+</div>
+
+</div>
+</div>
+<div class="page-messages">
+
+</div>
+</div>
+
+<div class="page-layout" id="top">
+<div class="page-content">
+<div class="page-content__main page-content__main--full-width" id="main" role="main">
+<div class="view">
+<h1 class="visually-hidden">Privacy Policy</h1>
+<div class="html-content-block"><h1 style="font-size: 30px; text-align: center; color: #ffa600;">THE BOUQS COMPANY PRIVACY STATEMENT</h1></div>
+<div class="html-content-block"><div class="html-content-block__custom">
+  <p><em>Effective as of June 23, 2018</em></p>
+
+  <p>Thank you for visiting https://bouqs.com/ (the “Site”), a service dedicated to simplifying bouquet purchases. When you browse or use the Site, The Bouqs Company mobile application (the “App”), other related applications or online services offered by The Bouqs Company (together with the Site, the “Service”), purchasing any floral goods through the Service, or entering into any other transactions on the Service, The Bouqs Company (the “Company,” “The Bouqs,” “we,” “us” or “our”) will collect certain information about or from you.</p>
+
+  <p>By visiting, browsing or otherwise using the Service, you consent to our collection, use, storage, deletion, transfer to the United States, and sharing or other disclosure of information relating to you as set forth in this privacy statement (the “Privacy Statement”). This Privacy Statement is effective as of the date set forth above. If you do not accept this Privacy Statement, you are not permi tted to use or access our Service, p urchase goods through the Service, or enter into any transactions on the Service with The Bouqs.</p>
+
+  <p>This Privacy Statement answers the following questions:</p>
+
+  <ul>
+    <li>What information do we collect from or about you when you use the Service?</li>
+    <li>How do we use such information?</li>
+    <li>How do we share such information?</li>
+    <li>What choices do you have about the collection and use of your information when you use the Service?</li>
+    <li>What security measures do we take to safeguard such information?</li>
+  </ul>
+
+  <p>&nbsp;</p>
+
+  <p>CONTENTS </p>
+
+  <ol>
+    <li>
+      <a href="#types-of-info">
+        <h4>TYPES OF INFORMATION WE COLLECT</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#account-info">
+        <h4>ACCOUNT INFORMATION</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#purchasing">
+        <h4>PURCHASING THROUGH THE SERVICE</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#ip-addresses">
+        <h4>IP ADDRESS INFORMATION AND OTHER INFORMATION COLLECTED AUTOMATICALLY</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#cookies">
+        <h4>COOKIES AND OTHER TECHNICAL INFORMATION</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#tracking-pixel">
+        <h4>TRACKING PIXEL</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#do-not-track">
+        <h4>“DO NOT TRACK”</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#google-tracking">
+        <h4>GOOGLE ADWORDS AND GOOGLE ANALYTICS</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#social-media">
+        <h4>SOCIAL MEDIA FEATURES</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#advertising-info">
+        <h4>INFORMATION RELATED TO ADVERTISING</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#children">
+        <h4>CHILDREN’S PRIVACY</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#how-info-is-used">
+        <h4>HOW WE USE THE INFORMATION WE COLLECT ABOUT YOU</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#third-parties">
+        <h4>HOW WE SHARE YOUR INFORMATION WITH THIRD PARTIES</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#third-parties-more-info">
+        <h4>ADDITIONAL INFORMATION YOU SHOULD KNOW ABOUT THIRD PARTIES</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#info-control">
+        <h4>CONTROL OF YOUR INFORMATION</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#correct-delete-data">
+        <h4>HOW TO CORRECT OR DELETE YOUR DATA</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#california-residents">
+        <h4>CALIFORNIA RESIDENTS: YOUR CALIFORNIA PRIVACY RIGHTS</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#outside-the-us">
+        <h4>USERS OUTSIDE THE UNITED STATES</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#security-measures">
+        <h4>WHAT SECURITY MEASURES DO WE TAKE TO SAFEGUARD YOUR INFORMATION?</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#governing-law">
+        <h4>GOVERNING LAW</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#change-notification">
+        <h4>NOTIFICATION OF CHANGES</h4>
+      </a>
+    </li>
+    <li>
+      <a href="#gdpr">
+        <h4>EU GENERAL DATA PROTECTION REGULATION (GDPR)</h4>
+      </a>
+    </li>
+  </ol>
+
+  <h2 id="types-of-info">1. TYPES OF INFORMATION WE COLLECT</h2>
+  <p>When you use the Service, we collect three types of information about you:</p>
+
+  <ul>
+  <li>(1) information you submit via your use of the Service,</li>
+  <li>(2) information regarding your use of the Service collected by us as you interact with the Service, and</li>
+  <li>(3) information from any third party websites, services and applications (each a “Third-Party Website”).</li>
+  </ul>
+  <p>For example, we may collect personal information when you create an account on the Service (an “Account”), subscribe to our newsletter, participate in Service feedback, questionnaires, surveys, or contests, participate in forums and chat rooms, purchase a product through the Service, or receive customer or technical support. Below, we detail the specific types of information we collect from our users.</p>
+
+  <h2 id="account-info">2. ACCOUNT INFORMATION</h2>
+  <p>When you create an Account, you will provide information such as your name, username, password, postal address and email address. You acknowledge that this information may be personal to you, and by creating an Account on the Service and providing personal information to us, you allow others, including us, to identify you, and therefore, you may not be anonymous.</p>
+
+  <p>We may use your contact information that you provide through the Service to send you information about our Service or to add you to our list to receive marketing emails. Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your Account and our business dealings with you. We also reserve the right to contact you when we believe it is necessary, such as for Account recovery purposes.</p>
+
+  <h2 id="purchasing">3. PURCHASING THROUGH THE SERVICE</h2>
+  <p>If you purchase goods or services through the Service, we may ask you to provide certain financial information so that we may effect a payment transaction. As part of the payment system, we or third parties performing sales processing services on our behalf will collect, store and use information, such as your name, address, credit card number, phone number, and your <br> e-mail address, in order to process the transaction and provide you the Service you requested. In addition, the payment system will also collect information regarding the actual bill payment transaction, including the date and amount paid.</p>
+
+  <h2 id="ip-addresses">4. IP ADDRESS INFORMATION AND OTHER INFORMATION COLLECTED AUTOMATICALLY</h2>
+  <p>We automatically receive and record information from your web browser when you interact with the Service, including your IP address and cookie information. Generally, the Service automatically collects usage information, such as the number and frequency of visitors to the Service.</p>
+
+  <p>Use of the App. When you use the App, we may collect certain information about such use, including the location of your mobile device, your mobile device ID, type of device and operating system you use to access our App; your activities within the App; and the length of time that you are logged in through the App.</p>
+
+  <h2 id="cookies">5. COOKIES AND OTHER TECHNICAL INFORMATION</h2>
+  <p>Like many websites, we employ cookies in certain areas of the Site to allow us to provide information to make your online experience more convenient and to enhance your experience with the Service. A user may configure his or her web browsers to accept , reject or delete the cookies, or to notify the user when a cookie is being set. However, if you disable or refuse cookies, then certain features of our Service may be inaccessible or not function properly.</p>
+
+  <p>We use cookies to identify that your web browser has accessed aspects of the Service and may associate that information with your Account if you have one.</p>
+
+  <p>Certain features of our Services may use local shared objects or “flash cookies.” You may adjust your Adobe Flash Player settings to prevent flash cookies from being placed on your hard drive.</p>
+
+  <p>This Privacy Statement covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, Third-Party Websites to which a link points may set cookies on your computer.</p>
+
+  <p>We may also log information using digital images called web beacons on our Service or in our emails. We may use web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We may also use web beacons to tell if you open or act on our emails.</p>
+
+  <h2 id="tracking-pixel">6. TRACKING PIXEL</h2>
+  <p>A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use third-party ad servers to support tracking pixels and cookies.</p>
+
+  <h2 id="do-not-track">7. “DO NOT TRACK”</h2>
+  <p>In compliance with California legislation, AB370, effective January 1, 2014, our practices in responding to “do not track” signals and collecting user information over time and across a network of websites when you visit the Service are described below. We do not honor the request of “do not track” signals sent by your browser when you visit the Site.</p>
+
+  <h2 id="google-tracking">8. GOOGLE ADWORDS AND GOOGLE ANALYTICS</h2>
+  <p>Our Service uses Google AdWords and Google Analytics to help us learn about who visits our Site and what pages are being viewed. Google AdWords and Google Analytics uses cookies to help us analyze how users use the Services. The information generated by the cookie about your use of the Service (including your IP address) will be transmitted to, and stored by, Google on their servers. Google will use this information for the purpose of evaluating your use of the Services, compiling reports on website activity for us and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. By using this Service, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
+
+  <h2 id="social-media">9. SOCIAL MEDIA FEATURES</h2>
+  <p>Our Service interfaces with social media sites such as Facebook, Twitter, Pinterest, Instagram, and Google+, and may allow you to log in or create an account using your existing social media accounts. If you login to the Service through such a third party site, we access and collect information about your use of the third party site and information you provide to such third party site. If you choose to share information from the Service through those third party sites, you should review the privacy policy of that service.</p>
+
+  <h2 id="advertising-info">10. INFORMATION RELATED TO ADVERTISING</h2>
+  <p>To support and enhance the Service, we may serve advertisements, and also allow third-party advertisements, through the Service. These advertisements are sometimes targeted and served to particular users and may come from third-party companies called “ad networks.” Ad networks include third-party ad servers, ad agencies, ad technology vendors and research firms.</p>
+
+  <p>Advertisements served through the Service may be targeted to users who fit a certain general profile category and may be based on (1) anonymized information inferred from information provided to us by a user, (2) Service usage patterns of particular users, or (3) your activity on a Third-Party Websites.</p>
+
+  <h2 id="children">11. CHILDREN’S PRIVACY</h2>
+  <p>We are committed to complying with all aspects of the Children’s Online Privacy Protection Act. We do not knowingly collect or solicit any personal information from children under the age of 13. Users are not permitted to give to us the personal information of any children under the age of 13 for delivery purposes or any other reason. If you are under 13, please do not attempt to use or register on our Service or send any personal information about yourself to us.</p>
+
+  <p>In the event that we learn that we have collected personal information from a child under age 13, we will delete that information where reasonably possible. If you believe that we might have any information from or about a child under 13, please send a detailed message to help@thebouqs.com.</p>
+
+  <h2 id="how-info-is-used">12. HOW WE USE THE INFORMATION WE COLLECT ABOUT YOU</h2>
+  <p>You agree that we may use your information collected via the Services: (1) to provide to you and communicate with you about the services, content, features or products you use or request; (2) to customize and optimize the content or advertisements you receive when you use the Service, and otherwise enhance or improve your experience, our Service, or our delivery services; (3) to analyze and improve our services, which may include traffic, usage, and navigation patterns related to your activities on the Service and the links we provide to Third‑Party Websites or advertisements; (4) to secure your Account and prevent fraud; (5) to protect our or third party rights or interests; (6) to send you commercial or marketing messages including, without limitation, newsletters and email communications about our products or services, or those of our partners; (7) in any other way we may describe when you provide the information; and (8) for any other purpose that we believe in good faith is necessary to protect the security or proper functioning of our Service or delivery services.</p>
+
+
+  <h2 id="third-parties">13. HOW WE SHARE YOUR INFORMATION WITH THIRD PARTIES</h2>
+  <p>We may share the information we collect from you under the following circumstances:</p>
+
+  <ul>
+    <li>
+      <em><strong>When You Otherwise Consent to Sharing Your Information</strong></em><strong>.</strong> 
+      We may ask for your consent to share your personal information, and if you agree, we will share your personal information accordingly. For example, we may ask whether you wish to participate in promotional offers that require Bouqs to share your personal information with a partner in order to redeem the promotion. If you agree to participating in the promotion, we will share your personal information as directed.</li>
+    <li>
+      <em><strong>Protection of Rights</strong></em><strong>.</strong> 
+      We may share your information if we have a good faith belief that (1) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities; (2) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Service; or (3) such action is appropriate to protect the rights, property or safety of The Bouqs, its employees, clients, or users of the Service.</li>
+    <li>
+      <em><strong>Business Transfers</strong></em><strong>.</strong> 
+      If we become involved in a merger, acquisition, change of control, bankruptcy proceeding or other transaction involving the sale of some or all of our assets, stock or a line of business, user information, including information collected from you through your use of the Service, could be included in the transferred assets. Should such an event occur and the acquirer will use your information contrary to this Privacy Statement, we will use reasonable means to notify you through a prominent notice on the Service. By using the Service, you are giving us consent to transfer your information to a third-party in a business transfer as described here.</li>
+    <li>
+      <em><strong>Service Providers</strong></em><strong>.</strong> 
+      We may share your information with third-party vendors or service providers that we engage for the purpose of operating the Service, including for fulfilling product orders or processing information on our and your behalf. For example, we may partner with other companies to process payments for the Service. Additionally, we may partner with or utilize other companies to host our email system or to process, analyze, and/or store data. While providing services for us, these companies may access your information. To the extent applicable, we require these entities to comply with this Privacy Statement and appropriate confidentiality and security measures. Without limiting the generality of the foregoing, you authorize us to share (1) your name, email address, mailing address and recipient information with services providers such as PayPal, Federal Express and United Parcel Service in connection with processing of orders and (2) your name and email address with other services providers that we utilize to provide customer support, marketing and other services. We strongly advise you to read each of their privacy policies.</li>
+    <li>
+      <em><strong>Aggregated and De-Identified Information</strong></em><strong>.</strong> 
+      We may aggregate your information with information about other users. We may also de-identify your information by removing characteristics (such as your name or email address) that make the information personally identifiable. You expressly authorize us to make any use of such aggregated and/or de-identified data, including, without limitation, sharing such aggregated and/or de-identified data with third parties.</li>
+  </ul>
+
+  <p>We may also share your information if we deem it necessary in our sole discretion to protect our legal and legitimate business interests.</p>
+
+  <p>When a consumer purchases flowers and other products via the Service to send to a third party, the consumer’s identity and related information will not be disclosed to the recipient, except if the consumer themselves elects to disclose their identity to the recipient, such as via the contents of the gift message.</p>
+
+  <h2 id="third-parties-more-info">14. ADDITIONAL INFORMATION YOU SHOULD KNOW ABOUT THIRD PARTIES</h2>
+  <p>Please be aware that we cannot control the activities of third parties to whom we provide data, and as such we cannot guarantee that they adhere to the same privacy and security procedures as The Bouqs.</p>
+
+  <p>When you click on a third-party logo or URL displayed on our Service which links you to a different website, our Privacy Statement no longer applies, and you must read the privacy policy of the third party to see how your information will be handled on their website. If you cannot find their privacy policy, then you should contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies. We are not responsible for their collection and use of your information.</p>
+
+  <h2 id="info-control">15. CONTROL OF YOUR INFORMATION</h2>
+  <p>We may give you the option of declining any future offers or information about new products, promotions or services. In addition, many of the “mailings” we may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings.</p>
+
+  <h2 id="correct-delete-data">16. HOW TO COLLECT OR DELETE YOUR DATA</h2>
+  <p>Any individual who seeks access, or who seeks to correct, amend or delete inaccurate data should direct his or her query to the following email address: <a href="mailto:dpo@thebouqs.com?subject=Data%20Request">dpo@thebouqs.com</a>, or by postal mail at:</p>
+
+  <p>The Bouqs Company<br>ATTN: Data Request<br>4766 Admiralty Way #12007<br>Marina Del Rey, CA 90295.</p>
+
+  <p>Please include your full name and email address associated with your Account and a detailed description of your data request. In some cases, we may not be able to delete your information, and will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+
+  <h2 id="california-residents">17. CALIFORNIA RESIDENTS: YOUR CALIFORNIA PRIVACY RIGHTS</h2>
+  <p>Under California law, our customers that are California residents may request certain information regarding our disclosure of their personal information to third parties for direct marketing purposes. See Section 13 for more information. If you are a California resident, you may opt out of having your personal information shared with third parties for direct marketing purposes, by contacting us at help@thebouqs.com or by postal mail at:</p>
+
+  <p>The Bouqs Company <br> ATTN: California Privacy Request <br> 4766 Admiralty Way #12007 <br> Marina Del Rey, CA 90295</p>
+
+  <p>Please include your full name and email address associated with your Account and a detailed description of your data request.</p>
+
+  <h2 id="outside-the-us">18. USERS OUTSIDE THE UNITED STATES</h2>
+  <p>This Privacy Statement is intended to cover collection of information from residents of the United States. The Services and the services upon which the Services are hosted are located in the United States. Information you submit using the Services or that we collect about you via your use of the Services will be transferred to and stored in the United States. By visiting the Services, you authorize this transfer.</p>
+
+  <h2 id="security-measures">19. WHAT SECURITY MEASURES DO WE TAKE TO SAFEGUARD YOUR INFORMATION?</h2>
+  <p>The information we collect about you when you use the Services is stored on servers that are located in secured facilities and protected by protocols and procedures designed to ensure the security of such information. In addition, our employees and agents who have access to your personal information are trained in the maintenance and security of that information. However, no server, computer or communications network or system, or data transmission over the Internet or mobile network can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any of your information, and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.</p>
+
+  <h2 id="governing-law">20. GOVERNING LAW</h2>
+  <p>This Privacy Statement is governed by, and construed under, the laws of the United States of America and the laws of the State of California, excluding its choice of law provisions.</p>
+
+  <h2 id="change-notification">21. NOTIFICATION OF CHANGES</h2>
+  <p>This Privacy Statement is effective as of the date stated at the top of this Privacy Statement. This Privacy Statement may change from time to time, and we will post all changes on the Site. You understand and agree that you will be deemed to have accepted the updated Privacy Statement if you use the Service after the updated Privacy Statement is posted on the Site. If at any point you do not agree to any portion of the Privacy Statement then in effect, you must immediately stop using the Service.</p>
+
+  <h2 id="gdpr">22. EU GENERAL DATA PROTECTION REGULATION (GDPR)</h2>
+    <p>The Bouqs Company (“<strong>we</strong>”, “<strong>our</strong>”, “<strong>us</strong>”) are committed to protecting and respecting your privacy. We are established in the United States with a registered office in Marina Del Rey, CA 90292, and for the purpose of the General Data Protection Regulation (the “<strong>GDPR</strong>”), we are the data controller.</p>
+    <p>This policy sets out the basis on which we will process any personal data or usage information we collect from you, or that you provide to us, in connection with your use of our website at <a href="https://bouqs.com">https://bouqs.com</a> (the “<strong>Website</strong>”). Please read this policy carefully so that you understand your rights in relation to your personal data, and how we will collect, use and process your personal data. If you do not agree with this Privacy Policy in general or any part of it, you should not access the Website.</p>
+    <h3><strong>What types of information do we collect and how do we use it?</strong></h3>
+    <ul>
+      <li><strong><em>Information you give us.</em></strong>You may provide information by contacting us via our Website or email, telephone, instant chat, social media or otherwise signing up for our newsletters or mobile push notification, or by creating an account.</li>
+    </ul>
+    <p>As it is in our legitimate interests to be responsive to you and to ensure the proper functioning of our products and organisation, we will use your information to:</p>
+    <ul>
+      <li>communicate with you;</li>
+      <li>sign you up for our newsletters or alerts;/li&gt;
+      </li><li>contact you via telephone or email;</li>
+      <li>identify our users;</li>
+      <li>administer and provide services and customer support per your request;</li>
+      <li>personalise our services for you;</li>
+      <li>enforce our Website terms and conditions;</li>
+      <li>if you have opted in to marketing, communicate with you about products, services, promotions, events and other news and information we think will be of interest to you; or</li>
+      <li>provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information).</li>
+    </ul>
+    <p><strong><em>Technical usage information.</em></strong> When you visit the Website, we automatically collect the information sent to us by your computer, mobile phone, or other access device. This information includes:</p>
+    <ul>
+      <li>your IP address;</li>
+      <li>device information including, but not limited to, identifier, name, and type of operating system;</li>
+      <li>mobile network information; and</li>
+      <li>standard web information, such as your browser type and the pages you access on our Website.</li>
+    </ul>
+    <p>As it is in our legitimate interests to process your data to provide effective services and useful content to you, we</p>
+    <ul>
+      <li>personalise our Website to ensure content from the Website is presented in the most effective manner for you and your device;</li>
+      <li>monitor and analyse trends, usage and activity in connection with our Website and services to improve the Website;</li>
+      <li>administer the Website, and for internal operations, in order to conduct troubleshooting, data analysis, testing, research, statistical and survey analysis;</li>
+      <li>keep the Website safe and secure; or</li>
+      <li>measure and understand the effectiveness of the content we serve to you and others.</li>
+    </ul>
+
+    <h3><strong>Do we use cookies?</strong></h3>
+    <p>We use cookies to collect information about your browsing activities over time and across different websites following your use of our services. They helps us to improve the services we provide to you and the way the Website works. You can find more information about cookies and how to manage them at <a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a>. [For more information about cookies, please refer to our Cookies Policy.]</p>
+    <p>We use Google Analytics, which is a web analytics tool that helps us understand how users engage with the Website. Like many services, Google Analytics uses first-party cookies to track user interactions, as in our case, where they are used to collect information about how users use our site. This information is used to compile reports and to help us improve our Website. The reports disclose website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
+    <h3><strong>How do we share your personal data?</strong></h3>
+    <p>We do not sell, rent or lease your personal information to others except as described in this Privacy Policy. We share your information with selected recipients. These categories of recipients include:</p>
+    <ul>
+      <li>cloud storage provides located in the United Statesto store the personal data you provide and for disaster recovery services, as well as for the performance of any contract we enter into with you;</li>
+      <li>IT Services providers that provide us with SaaS services, including ZenDesk, who we use to store our customer relationship management information, etc.;</li>
+      <li>provided you have consented, advertisers and advertising networks located in the United States that require the data to select and serve relevant adverts to you and others;</li>
+      <li>provided you have consented, promotional partners that require your personal information in order to redeem the promotion;</li>
+      <li>analytics and search engine providers located in the United States that assist us in the improvement and optimisation of the Website; and</li>
+    </ul>
+    <p>We will share your information with law enforcement agencies, public authorities or other organisations if legally required to do so, or if we have a good faith belief that such use is reasonably necessary to:</p>
+    <ul>
+      <li>comply with a legal obligation, process or request;</li>
+      <li>enforce our terms and conditions and other agreements, including investigation of any potential violation thereof;</li>
+      <li>detect, prevent or otherwise address security, fraud or technical issues; or</li>
+      <li>protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).</li>
+    </ul>
+    <p>We will also disclose your information to third parties:</p>
+    <ul>
+      <li>in the event that we sell any business or assets, in which case we will disclose your data to the prospective buyer of such business or assets; or</li>
+      <li>if we or substantially all of our assets are acquired by a third party, in which case information held by us about our users will be one of the transferred assets.</li>
+    </ul>
+    <h3><strong>Where do we store your personal data?</strong></h3>
+    <p>The information that we collect from you will be transferred to, and stored at/processed in the United StatesYour personal data is also processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff are engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this policy.</p>
+    <h3><strong>The security of your personal data</strong></h3>
+    <p>Unfortunately, the transmission of information via the internet or email is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your information transmitted through the Website or over email; any transmission is at your own risk. Once we have received your information, we will take appropriate technical and organisational measures to safeguard your personal data against loss, theft and unauthorised use, access or modification.</p>
+    <p>We will, from time to time, host links to and from the websites of our affiliates or third parties. If you follow a link to any of these websites, these websites will have their own privacy policies and we do not accept any responsibility or liability for these policies. Please check these policies before you submit any information to those websites.</p>
+    <h3><strong>Your rights</strong></h3>
+    <p>You have the right to ask us to access the personal data we hold about you and be provided with certain information about how we use your personal data and who we share it with. You also have the right to ask us to correct your personal data where it is inaccurate or incomplete.</p>
+    <p>In certain circumstances, you have the right to ask us to delete the personal data we hold about you:</p>
+    <ul>
+      <li>where you believe that it is no longer necessary for us to hold your personal data;</li>
+      <li>where we are processing your personal data on the basis of legitimate interests and you object to such processing and we cannot demonstrate an overriding legitimate ground for the processing;</li>
+      <li>where you believe the personal data we hold about you is being unlawfully processed by us.</li>
+    </ul>
+    <p>In certain circumstances, you have the right to ask us to restrict (stop any active) processing of your personal data:</p>
+    <ul>
+      <li>where you believe the personal data we hold about you is inaccurate and while we verify accuracy;</li>
+      <li>where we want to erase your personal data as the processing is unlawful but you want us to continue to store it;</li>
+      <li>where we no longer need your personal data for the purposes of our processing but you require us to retain the data for the establishment, exercise or defence of legal claims; or</li>
+      <li>where you have objected to us processing your personal data based on our legitimate interests and we are considering your objection.</li>
+    </ul>
+    <p>In addition, you can object to our processing of your personal data based on our legitimate interests and we will no longer process your personal data unless we can demonstrate an overriding legitimate ground.</p>
+    <p>To exercise any of these rights above, please contact us via emailing at dpo@thebouqs.com.. In addition, you have the right to complain to the Information Commissioner’s Office or other applicable data protection supervisory authority.</p>
+    <p>Please note that these rights are limited, for example, where fulfilling your request would adversely affect other, where there&nbsp; are overriding public interest reasons or where we are required by law to retain your personal data.</p>
+    <h3><strong>Withdrawal of Consent</strong></h3>
+    <p>Where you have provided your consent for us to process your personal data, you can withdraw your consent at any time by emailing us at <a href="mailto:dpo@thebouqs.com?subject=Consent%20Withdrawal">dpo@thebouqs.com</a>.</p>
+    <h3><strong>Objection to Marketing</strong></h3>
+    <p>At any time you have the right to object to our processing of data about you in order to send you promotions and special offers, including where we build profiles for such purposes, and we will stop processing the data for that purpose.</p>
+    <h3><strong>Complaints</strong></h3>
+    <p>In the event that you wish to make a complaint about how we process your personal data, please contact us in the first instance at dpo@thebouqs.com and we will endeavour to deal with your request as soon as possible. This is without prejudice to your right to launch a claim with the Information Commissioner’s Office or the data protection supervisory authority in the EU country in which you live or work where you think we have infringed data protection laws.</p>
+    <h3><strong>Changes </strong></h3>
+    <p>Any changes we will make to this policy in the future will be posted on this page. Please check back frequently to see any updates or changes to this policy.</p>
+    <h3><strong>Contact</strong></h3>
+    <p>Questions, comments and requests regarding this policy are welcomed and should be addressed to <a href="mailto:dpo@thebouqs.com?subject=Questions">dpo@thebouqs.com</a>.</p>
+</div></div>
+
+
+</div>
+
+<p class="visually-hidden"><a href="#top">Top of Page</a></p>
+</div>
+</div>
+<div class="page-footer" role="contentinfo">
+<div class="page-footer__nav"><div class="html-content-block"><div class="grid"><div class="grid__cell grid__cell--50-at-small grid__cell--25-at-medium"><h3>The Bouqs Co.</h3><ul class="page-footer__nav-list unstyled-list">
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/about-us">About Us</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/our-difference">Our Difference</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/press">Press</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/video">Bouqs Video</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/blog/">Blog</a></li></ul></div>
+
+<div class="grid__cell grid__cell--50-at-small grid__cell--25-at-medium"><h3>Additional Services</h3><ul class="page-footer__nav-list unstyled-list">
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/invite?spop=0&amp;traffic_source=footer">Refer a Friend</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/events">Events</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/weddings">Weddings</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/business">Business Services</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/flowers/gift-cards">Gift Cards</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/coupons">Coupons</a></li></ul></div>
+
+<div class="grid__cell grid__cell--50-at-small grid__cell--25-at-medium"><h3>Work With Us</h3><ul class="page-footer__nav-list unstyled-list">
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/jobs">Jobs</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/florists">Florists</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=130155">Affiliates</a></li></ul></div>
+
+<div class="grid__cell grid__cell--50-at-small grid__cell--25-at-medium"><h3>Help</h3><ul class="page-footer__nav-list unstyled-list">
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/flower-care">Flower Care</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://help.bouqs.com/hc/en-us">Help Center</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://help.bouqs.com/hc/en-us/articles/115005053693-HOW-CAN-I-TRACK-MY-DELIVERY-">Shipping</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/privacy">Privacy Policy</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/terms">Terms of Use</a></li>
+<li class="page-footer__nav-item"><a class="page-footer__nav-link" href="https://bouqs.com/pages/sitemap">Site Map</a></li></ul></div></div></div>
+</div>
+<div class="page-footer__social">
+<ul class="share-buttons">
+<li class="share-buttons__item"><a class="share-buttons__button icon icon--twitter" title="Follow The Bouqs on Twitter" target="_blank" itemprop="sameAs" href="https://twitter.com/thebouqsco">Follow The Bouqs on Twitter</a></li>
+<li class="share-buttons__item"><a class="share-buttons__button icon icon--facebook" title="Follow The Bouqs on Facebook" target="_blank" itemprop="sameAs" href="https://www.facebook.com/TheBouqsCo">Follow The Bouqs on Facebook</a></li>
+<li class="share-buttons__item"><a class="share-buttons__button icon icon--pinterest" title="Follow The Bouqs on Pinterest" target="_blank" itemprop="sameAs" href="https://www.pinterest.com/thebouqsco/">Follow The Bouqs on Pinterest</a></li>
+<li class="share-buttons__item"><a class="share-buttons__button icon icon--instagram" title="Follow The Bouqs on Instagram" target="_blank" itemprop="sameAs" href="https://www.instagram.com/thebouqsco/">Follow The Bouqs on Instagram</a></li>
+</ul>
+</div>
+<p class="page-footer__copyright">Copyright 2018, The Bouqs Company</p>
+</div>
+
+<p class="visually-hidden"><a href="#top">Top of Page</a></p>
+</div>
+<script src="https://bouqs-production-weblinc.netdna-ssl.com/assets/weblinc/store_front/application-49d36fc70908c0699830cb24ba573b033491af3cc313411bf56e64e9ecc0da56.js"></script>
+<script>if (typeof $('[data-header-drawer]').val() === "undefined") {
+    WEBLINC.bodyScroll.enableScroll();
+}</script>
+
+
+
+
+</body></html>
