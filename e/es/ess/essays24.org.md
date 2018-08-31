@@ -1,75 +1,159 @@
-> *The following text is extracted and transformed from the essays24.org privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210152058id_/http%3A//essays24.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essays24.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831115637id_/https%3A//essays24.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Essays24.org
 
-Essays24.org Privacy Policy has been developed for the website's customers and website's users.
+We value privacy and have several essential principles to keep your data confidentiality protected.
 
-## The Information We Collect While You Browse Our Website
-
-The software we use collects common data, like the browser you use, operating system and access time. We do it just to assist you with the log-in problems if you have, not to track you. We do not enclose this information, share with third parties.
-
-## Cookies Usage
-
-Cookies are special files sent to your personal computer by a server provider. In case you give your approval, cookies will be saved on the hard drive. The website of the company can recognize and distinguish some information and the kind of browser you use. Our company uses such cookies files in order to help our clients if they face any technical problems with using the website. Such files are never shared with third parties.
-
-You can find the detailed information about cookies, their usage and removing by following the link www.aboutcookies.org.
-
-## The Information We Collect While You are Using Our Services
-
-While placing an order, our managers may ask your name or email for being able to conduct an effective communication. However, always keep in mind that you can check and use our website anonymously.
-
-## Information Usage and Access to it
-
-The data can be used in several ways:
-
-  * You can create your personal account with Essays24.org. We recommend all our clients to have their accounts for making easier the tracking of your orders.
-  * We are constantly improving the usability of our website. We appreciate a lot when our clients leave feedbacks about the company and the quality of services. Each feedback will be taken into our consideration.
-  * We are constantly working on our essay writing level. Our clients deserve the services of the highest quality and any information from your side may be helpful.
-  * Our clients can be sure that their personal data will never be exchanged, sold or presented to third parties. We use this information for sending and uploading the completed order for you only.
-  * We try to keep in touch with our customers. Usually, we communicate with them via phone or email. When a new client places an order or sends us an inquiry, we provide him with a response shortly.
+  * We ask for your private information only when it’s absolutely necessary and never ask for more data than it is required for provision of quality services.
+  * The personal data obtained from our customers is never stored on our website for more than it is required by law.
+  * We put great effort into giving our customers maximum control over the sharing, search engine indexing, storing, and deleting their personal information from the website.
+  * We aim to achieve complete transparency on the ways we collect, store, and share your data.
 
 
 
-If you wish to request us some personal information, you can contact our Support Team via email support@essays24.org and they will assist you with that.
+Below you will find our Privacy Policy, which was compiled based onthose principles.
 
-## Information Security
+## Who We Are and What Is Covered by This Policy
 
-We assure our clients that all the personal data provided is kept in safe. Using our essay writing services is absolutely safe. All personal data of our clients (credits, general/private information) goes via security system. Then this information goes directly to the Payment gateway providers' database. We take care about the confidentiality of our clients and therefore only authorized person has access to the database. Your personal data will not be saved on our servers.
+The company behind this website is called Essays24. The privacy policy described here concerns the personal information we receive from our customers when they use the following :
 
-## Complains
+  * This website: essays24.org;
+  * Our Android and iOS mobile applications;
+  * Other services and products offered on our website, including the anti-plagiarism scan.
 
-If you claim on the information usage on our website, we will be more than glad to consider it and assist you with your request. Feel free to provide us with any suggestions or feedbacks regarding this issue.
 
-If you need any additional questions or intend to leave a feedback, feel free to contact us via email, which is support@essays24.org
 
-## Disclaimer
+We are dedicated to recognizing your right for privacy and securing your private information. “Personal Data” consists of any information that can directly or indirectly refer to you as a person, and it is the information we vow to protect. Below you will find the information on how we gather, use, and store data, as well as choices you have for controlling that information. Please contact us whenever you have additional questions or concerns about your privacy.
 
-Our website tries to provide our clients with maximum useful information. Therefore, you may find different links to a wide range of related sources. Hence, after following the link published on our website, you are subjected by the Disclaimer of that website.
+## How We Receive Personal Data
 
-## Providing The Information to The Third Parties
+We can get your personal information from you directly or from our partners, through legal arrangements, such as contracts, that you have with us or with our partners who act on our behalf, in order to fulfill the contractual or other legal obligations. We always require your permission and consent, whether directly from you or from third parties who obtained your permission to share your personal information with us.
 
-Essays24.org takes care about clients' personal data and keeps it secured. We take all necessary protective measures and never reveal clients' data to third parties. Only a few employees are given access to the database. Personal data of our clients can be revealed in law cases and when we have to protect our company. Non-personal information can be exposed for various analyzing, surveys or promotional needs.
+## Which Information We Collect
 
-## Online Children Privacy Protection Act Compliance
+Upon visiting our website, the following information can be immediately gathered by us:
 
-Our company has the agreement with COPPA. According to this act compliance our company is not allowed obtaining information and providing essay writing services to young people under thirteen years old. Only when you reach this age, we can provide our services.
+  * Your IP address;
+  * The type of device you’re using to access our website;
+  * Technical information;
+  * The ways you interact with our website.
 
-## Privacy Policy Online Only
 
-Our Privacy Policy is related only to the data that has been collected online. All the information collected offline is not of our responsibility.
 
-## Terms and Conditions
+You can find out more in our cookie policy. Learn more about the information we collect and how we process it below.
 
-If you decide to use our writing services, please check the section of our official Terms and Conditions. Make sure that you are aware of your responsibilities and rights.
+# | Types of information | Reasons for collecting the information  
+---|---|---  
+1 | User’s location | 
 
-## Confirmation of Agreement
+  * User verification
+  * Preventing fraudulent use of the website and resale of accounts
+  * Tax and VAT purposes
 
-Please note that you automatically agree with the Privacy Policy of our company if you use our custom essay writing services.
+  
+2 | User’s email | 
 
-## Amendments in Privacy Policy
+  * Primary means of communication with the user
+  * Supplying the user with marketing and promotional information
 
-This section has been created for posting all amendments in the Privacy Policy of Essays24.org. Our Privacy Policy has been updated: 30/04/2015
+  
+3 | User’s first and last name | 
 
-## Contact Us
+  * User verification
+  * Billing, issuing of invoices, and taxation of the user
+  * Preventing fraudulent use of the website and resale of accounts
 
-Please, do not hesitate contact us via online chat or forward an official e-mail to support@essays24.org. We are available 24/7.
+  
+4 | User’s phone number | 
+
+  * User verification
+  * Immediate means of communication with the user
+  * Customer support
+
+  
+5 | User’s physical address | 
+
+  * Billing and issuing of invoices
+
+  
+  
+## Why We Collect Personal Data
+
+We gather personal information from our users for one or more of the following reasons:
+
+  * To deliver services you ordered from us through our website;
+  * To remind you of products and services you showed interest in after reasonable time has passed since your visit, provided that you’re an existing customer;
+  * To give you information about the products and services you have purchased from our website, as well as related products and services;
+  * To fulfill obligations stated in the Company’s contract;
+  * For legal reasons - for instance, if you have signed a contract with us;
+  * To inform you of our products and services, provided that you’ve consented to receiving this kind of information.
+
+
+
+## Grounds for Collecting Information From You
+
+We may collect personal information from you for two reasons: when we have your legal permission to collect data given to us in a contract or law, or when we have your consent for a specific action like completion of services or newsletter.
+
+## Legal Grounds for Processing Your Personal Information
+
+We proceed with processing your personal data in one or more of the following cases:
+
+  * You have entered a contract with us;
+  * We have received your permission;
+  * You have ordered services from us and we must execute;
+  * You expressed your desire to share the information;
+  * We are required to do so by law.
+
+
+
+## How You Provide Us With Your Information
+
+We can receive information about you along with your consent for using it in the following ways:
+
+  * Filling out a form or sending an email to the website
+  * Making an order for our services through the website;
+  * Leaving feedback or posting reviews on the website;
+  * Contacting us through our official phone numbers.
+
+
+
+The information provided by you can be of personal, financial, educational matter, or directly related to your order.
+
+## Information We Obtain From Other Sources
+
+If you use any of the other websites we operate, order services from our network, or share your information with one of our business partners who have the permission to share the information with us, we can obtain your personal data.
+
+We can also receive information about you from the third parties, including business partners and sub-contractors in the financial, delivery, and technical fields, advertising networks, background checking establishments, and other sources who are legally entitled to collect information from you and share it with us.
+
+Files. Additionally, we retain the right to store the files you downloaded, uploaded, or accessed using our website. We ask you not to share with us the files for which you don’t have the permissions to use. Files containing your personal information or personal information of third parties without their permission are also prohibited from being shared with us - we do not guarantee the security of those files.
+
+## Who We Share Your Information With
+
+Your personal data shared with us can be shared with third parties, provided that you gave your consent or we have a legal permission to do so. The data can be shared with the following parties:
+
+  * Our marketing department, who will supply you with promotional materials after you sign up for our website;
+  * Our legal partners and sub-contractors, provided that the data shared by you is needed to fulfill our or their contractual obligations;
+  * Our subsidiaries, as defined in section 1159 of the UK Companies Act 2006;
+  * With third parties in case you gave your permission.
+
+
+
+## Other Reasons Why We May Share Your Data With Third Parties
+
+If Essays24 and all of its assets are acquired by a third party, the personal data shared by our customers will be transferred as part of our assets to the third party. Other reasons why your personal data may be shared with third parties include:
+
+  * If there is a legal obligation we must comply with;
+  * If sharing of information is legally requested by a government agency;
+  * To apply or enforce our website agreements, including Terms of Use;
+  * To protect the safety, property, or rights of Essays24 or our customers;
+  * When sharing the information is necessary to prevent fraud or any sort of risks.
+
+
+
+## Aggregated And Anonymized Information
+
+From time to time we may provide third parties with information that has been anonymized, aggregated, or both. It means that any of your personal data that can be used to identify you has been removed. This data does not qualify for personal information and is part of the statistics; however, you retain the right to object to sharing that information.
+
+## Where Your Data Is Stored And Processed
+
+Your personal data is primarily stored and processed in the USA or the EU (“EEA”). Your accepting of this privacy policy gives us permission to store the data outside of these states if we have the required storage facilities. The data shared with us is encrypted using the latest technology and is protected against access by unauthorized parties. 
