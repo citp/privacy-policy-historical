@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longreads.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329152536id_/https%3A//longreadsblog.wordpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longreads.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831211831id_/https%3A//longreadsblog.wordpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Longreads
 
