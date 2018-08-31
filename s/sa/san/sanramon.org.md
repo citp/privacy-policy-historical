@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanramon.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630192249id_/http%3A//sanramon.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanramon.org privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901010637id_/http%3A//sanramon.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | San Ramon Chamber of Commerce
 
