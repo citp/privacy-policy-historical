@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searchincognito.online privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022017id_/http%3A//searchincognito.online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchincognito.online privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831060523id_/http%3A//searchincognito.online/privacy) for the most accurate reproduction.*
 
 # SafeSearch Incognito
 
-SafeSearch Incognito PRIVACY POLICY 
+Search Incognito PRIVACY POLICY 
 
 MAY CHANGE FROM TIME TO TIME
 
@@ -10,9 +10,9 @@ PLEASE CHECK BACK FREQUENTLY FOR UPDATES
 
 Effective as of October 27, 2016
 
-SafeSearch Incognito has established this Privacy Policy to disclose our information gathering and dissemination practices for the SafeSearch Incognito Application and our Services, and to allow you to make an informed decision about how you will use our Services. Our "Services" include the SafeSearch Incognito Application, and all related services, applications, components, programs, software, listings, directories, tools, updates, databases and information made available and utilized. References to "you" in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
+Search Incognito has established this Privacy Policy to disclose our information gathering and dissemination practices for the Search Incognito Application and our Services, and to allow you to make an informed decision about how you will use our Services. Our "Services" include the Search Incognito Application, and all related services, applications, components, programs, software, listings, directories, tools, updates, databases and information made available and utilized. References to "you" in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
 
-By using our Services, you are consenting to the terms of this Privacy Policy and all of the activities described herein. If you do not agree to be bound by this Privacy Policy, you should uninstall SafeSearch Incognito and not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business. 
+By using our Services, you are consenting to the terms of this Privacy Policy and all of the activities described herein. If you do not agree to be bound by this Privacy Policy, you should uninstall Search Incognito and not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business. 
 
 This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Services. Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties. We encourage you to review the policies of such third parties. Finally, to the extent any of our Services are undertaken in conjunction with or as a co-branded service with a third party, then both our Privacy Policy and such third party's privacy policy may apply. 
 
@@ -22,7 +22,7 @@ This Privacy Policy addresses only our practices with respect to information we 
 
 1\. Collection of Information
 
-(a) SafeSearch Incognito does not, generally, collect, track or maintain personally identifiable information about consumers that use our Services. However, we may collect personally-identifiable information through the use of our Services upon your contacting us so that we may respond to your questions or comments, such as your name, email or mailing address, or other information you include when contacting us. 
+(a) Search Incognito does not, generally, collect, track or maintain personally identifiable information about consumers that use our Services. However, we may collect personally-identifiable information through the use of our Services upon your contacting us so that we may respond to your questions or comments, such as your name, email or mailing address, or other information you include when contacting us. 
 
 (b) We also may collect and store URLS that you visit. 
 
@@ -39,7 +39,7 @@ This Privacy Policy addresses only our practices with respect to information we 
 
 (d) All of the foregoing information is collectively referred to hereinafter as "Anonymous Information." We may also supplement Anonymous Information with additional information from other third parties in some cases. Additionally, those portions of the Services comprised of software have been configured to communicate to us any information relating to computer errors arising from use of such software, without providing any notice to you of the delivery of such communications. Such communications may include the configuration settings applicable at the time of the error. We use this data to help us clarify and fix performance issues with and to improve the software and the Services. 
 
-(e) In addition, as part of the functionality provided by our Service, SafeSearch Incognito assigns a unique user ID, which is stored in the computer registry. This unique user ID is combined with the information collected via the Services in order to provide you a more customized search experience, and to clarify, fix and improve the software and the Services. 
+(e) In addition, as part of the functionality provided by our Service, Search Incognito assigns a unique user ID, which is stored in the computer registry. This unique user ID is combined with the information collected via the Services in order to provide you a more customized search experience, and to clarify, fix and improve the software and the Services. 
 
 2\. Use of Information
 
@@ -56,29 +56,29 @@ We will not share your Anonymous Information with third parties unless:
 
 (b) We note above, but it is worth reiterating here, that your Anonymous Information and other information about you as a user of our Services, may be disclosed by us to those authorized officers of the court in response to valid legal process, including without limitation, a valid court order, search warrant or subpoena), as well as in other circumstances if we believe in good faith that there is an emergency that poses a threat to the safety of you or another person or that the Services are being used in the commission of a crime by your or another third party. Furthermore, we may disclose your Anonymous Information to protect our own rights, Services and property or those of our affiliated providers, in addition to providing you with the Services.
 
-(c) In the event that ownership of all or a portion of the Services currently provided by SafeSearch Incognito were to change as a result of a merger, acquisition or transfer to another company, your Anonymous Information may be transferred as well. 
+(c) In the event that ownership of all or a portion of the Services currently provided by Search Incognito were to change as a result of a merger, acquisition or transfer to another company, your Anonymous Information may be transferred as well. 
 
 3\. Web Beacons and Cookies 
 
 (a) In providing the Services to you, we may use web beacons and cookies or similar technologies in conjunction with your Anonymous Information to personalize and improve your use of and experience with the Services, including, without limitation, to operate and improve the Service's offerings; to present, measure and research the effectiveness of our Service's offerings, advertisements, and communications to you, such as by determining which pages you visit, which ads you click on, communications you respond to, and functionality you use; to store and allow retrieval of information that you have provided to third party services that are integrated with the Services, and configuration preferences; and to customize the content and advertisements provided to you through the Services. In addition, third party advertisers might also use cookies or web beacons downloaded through our Services to accomplish many similar goals in connection with the effectiveness of their advertising through our Services and in general. We do not have access to the cookies or web beacons employed by advertisers through our Services and such cookies or web beacons are not governed by this Privacy Policy, but rather by the privacy policy of such advertiser. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted. You can learn more about cookies and opting-out of the receipt of cookies at http://www.aboutads.info/choices; you can learn more about cookies in general from http://www.cookiecentral.com. 
 
-(b) Web beacons or clear GIFs are relatively small pieces of code placed on webpages that can be used for a number of purposes, including counting the users who visit that webpage, or to deliver a cookie to the browser of a user viewing that page. A cookie is a small text file transferred from SafeSearch Incognito to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously. You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings. 
+(b) Web beacons or clear GIFs are relatively small pieces of code placed on webpages that can be used for a number of purposes, including counting the users who visit that webpage, or to deliver a cookie to the browser of a user viewing that page. A cookie is a small text file transferred from Search Incognito to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously. You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings. 
 
 4\. We Are Committed to Security 
 
-SafeSearch Incognito stores Anonymous Information in a database on SafeSearch Incognito computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under SafeSearch Incognito control. Notwithstanding such measures, SafeSearch Incognito cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
+Search Incognito stores Anonymous Information in a database on Search Incognito computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under Search Incognito control. Notwithstanding such measures, Search Incognito cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
 
 Any personally-identifiable information which you may send us when contacting us is stored on our secure email exchange servers and deleted according to our company data retention policy. None of the personally-identifiable information you send us is used for any other purpose other than the matter for which you contacted us. We do not use nor combine this personally-identifiable information for any marketing purposes nor is it supplemented with any information from any other sources. We do not share the personal information you send us via the Contact Us feature among our other business divisions unless it is specifically related to the issue you have contacted us about, nor do we share it with any third parties unless we are to responding to subpoenas, court orders and other legal process as required by law.
 
 5\. How You May Exercise Your Rights 
 
-To prevent the display of SafeSearch Incognito advertising on your computer, uninstall the SafeSearch Incognito software program by following the instructions located at [Uninstall](https://web.archive.org/uninstall). 
+To prevent the display of Search Incognito advertising on your computer, uninstall the Search Incognito software program by following the instructions located at [Uninstall](https://web.archive.org/uninstall). 
 
-In order to remove any cookies, check the instructions about your web browser to learn how to prevent placement of, or how to remove, cookies placed on your computer by SafeSearch Incognito. 
+In order to remove any cookies, check the instructions about your web browser to learn how to prevent placement of, or how to remove, cookies placed on your computer by Search Incognito. 
 
 6\. General Internet Hazards
 
-Any time you receive files over the Internet from third parties, regardless of the application used, whether SafeSearch Incognito, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is. You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted. SafeSearch Incognito does not encrypt your communications through the Services. Further, your communications made through SafeSearch Incognito may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet. As such, SafeSearch Incognito cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data. 
+Any time you receive files over the Internet from third parties, regardless of the application used, whether Search Incognito, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is. You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted. Search Incognito does not encrypt your communications through the Services. Further, your communications made through Search Incognito may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet. As such, Search Incognito cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data. 
 
 7\. European Union Members - International Transfer of Data
 
@@ -90,11 +90,11 @@ The Services are intended for a general audience, and children and minors under 
 
 9\. Changes to this Privacy Policy
 
-SafeSearch Incognito may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently by clicking on the �Privacy Policy� link at the bottom of SearchIncognito.com, or visiting this link which you can bookmark: [Privacy](https://web.archive.org/privacy). If we make any substantial changes to this Privacy Policy, we will present you a notice via the SafeSearch Incognito Movies Application and post a prominent notice on our home page with a copy of the previous changes along with any substantial changes we made. 
+Search Incognito may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently by clicking on the �Privacy Policy� link at the bottom of SearchIncognito.com, or visiting this link which you can bookmark: [Privacy](https://web.archive.org/privacy). If we make any substantial changes to this Privacy Policy, we will present you a notice via the Search Incognito Movies Application and post a prominent notice on our home page with a copy of the previous changes along with any substantial changes we made. 
 
 10\. Who We Are 
 
-Any references made in this Privacy Policy to "us", "we", "our" shall be deemed to have been made to SafeSearch Incognito, as well as any company that controls SafeSearch Incognito, directly or indirectly, and any other subsidiary of that controlling company. 
+Any references made in this Privacy Policy to "us", "we", "our" shall be deemed to have been made to Search Incognito, as well as any company that controls Search Incognito, directly or indirectly, and any other subsidiary of that controlling company. 
 
 11\. More Information 
 
