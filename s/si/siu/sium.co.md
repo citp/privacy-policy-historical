@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sium.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135918id_/http%3A//sium.co/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sium.co privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831213130id_/http%3A//sium.co/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,6 +60,19 @@ DISCLOSURE OF YOUR INFORMATION
 
 [As defined in section 736 of the UK Companies Act 1985 we may disclose your personal information to any member of our group.  These include our subsidiaries, our ultimate holding company and its subsidiaries.
 
+The following are Privacy Policy details and links associated with the third-party vendors used by this site.
+
+_Google_
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+  * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
+
+
+
+  
+For more information about how Google uses data when visiting a site using certain Google technologies, please visit the [Google's partners privacy](https://www.google.com/policies/privacy/partners/) page. You may also want to visit [Google's privacy policy](https://www.google.com/policies/privacy/) page as well.
+
 THIRD PARTY WEBSITES
 
-From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data.  We cannot accept any responsibility or liability for these policies.
+From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data.  We cannot accept any responsibility or liability for these policies. 
