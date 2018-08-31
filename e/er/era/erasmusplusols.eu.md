@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erasmusplusols.eu privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815234401id_/https%3A//erasmusplusols.eu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erasmusplusols.eu privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831081846id_/https%3A//erasmusplusols.eu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Erasmus+ OLS
 
@@ -77,17 +77,10 @@ Data related to statistics and research purposes is kept for the entire duration
 
 The data processing operations are under the responsibility of the Data Controller:
 
-Head of Unit A1 - Erasmus+: Schools, Prospective Initiatives, Programme Coordination
-
-Education, Audiovisual and Culture Executive Agency
-
-Office: BOU2 01/017
-
-Avenue du Bourget 1
-
-1049 Brussels
-
-Belgium
+Head of Unit A1 - Erasmus+: Support for Policy Reform and Online Linguistic Support  
+Education, Audiovisual and Culture Executive Agency  
+Office: J-59 06/33  
+BE-1049 Brussels/Belgium
 
 For any questions on your rights and the exercise of your rights related to the processing of personal data (like access and rectification of your personal data), please feel free to contact the Controller of the OLS at this address: [EACEA-EPLUS-OLS@ec.europa.eu](mailto:EACEA-EPLUS-OLS@ec.europa.eu)
 
