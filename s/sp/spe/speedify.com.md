@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedify.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531175618id_/http%3A//speedify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedify.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901004604id_/https%3A//speedify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Speedify
 
@@ -10,13 +10,13 @@ _Updated May 11, 2018_
 
 Connectify, Inc. (“Connectify,” “we,” “us”) respects your privacy and as such we strive to collect the minimal amount of information necessary to operate our service. This Privacy Policy explains the type of information we collect through our website at speedify.com (the “Site”) and the Speedify service, and how we use this information to provide outstanding value to you.
 
-If you have any questions about this Privacy Policy, you should contact us at [privacy@speedify.com.](mailto:)
+If you have any questions about this Privacy Policy, you should contact us at [privacy@speedify.com](mailto:privacy@speedify.com)
 
 ## How do you Protect the Privacy of my Speedify Sessions?
 
- **We do not log IP addresses, sites, or data that you send or receive through the Speedify service.**
+ **We do not log the IP addresses of websites that you visit or the contents of data sent or received through the Service.**
 
-We do not log IP addresses, sites, or data that you send or receive through the Speedify service. Certain protocols, such as “torrents” or Tor, may be blocked on some or all servers. We do not log the contents of your data sent or received through the Service.
+We do not log the IP addresses of websites that you visit or the contents of data sent or received through the Service. Certain protocols, such as “torrents” or Tor, may be blocked on some or all servers.
 
 Communication to our backend servers and databases are encrypted with SSL, and firewalled to restrict access to only authorized servers. Furthermore access to customer data is limited only to employees who require access in the delivery of the service.
 
@@ -135,7 +135,7 @@ Office of the Data Protection Commissioner
 Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland  
 Phone +353 57 868 4757  
 Fax: +353 57 868 4757  
-Email: [info@dataprotection.ie](https://web.archive.org/web/20180531175618id_/http://speedify.com/privacy-policy/info@dataprotection.ie)
+Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
 
 ## Changes to Our Privacy Policy
 
@@ -145,10 +145,10 @@ If this policy is updated, we will post changes on this page and update the Priv
 
 If there are any questions regarding this privacy policy you may contact Connectify:  
 For Privacy Questions:  
-privacy@speedify.com
+[privacy@speedify.com](mailto:privacy@speedify.com)
 
 For Other Questions:  
-[support@speedify.com](https://web.archive.org/web/20180531175618id_/http://speedify.com/privacy-policy/support@speedify.com)
+[support@speedify.com](mailto:support@speedify.com)
 
 By Mail:  
 1429 Walnut St  
