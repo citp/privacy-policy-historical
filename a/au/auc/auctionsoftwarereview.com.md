@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175617id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901004542id_/https%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Web Retailer
 
@@ -33,13 +33,13 @@ Web Retailer will not sell, rent or otherwise disclose your personally identifia
   * _LoginToken, memberName_ : Used to remember users so they do not need to enter their login details the next time they come to the site.
   * _last-profile, last-profile-tab_ : Used to remember last selected directory listing page tab.
   * _AddThis (__atuvc, __atuvs)_ : Used to provide social sharing buttons from third-party provider [AddThis](http://www.addthis.com/privacy). 
-  * _Google Analytics (_ga, _gat)_ : Used to collect information about how visitors use our site. We use the information to compile reports and help us improve the site. The cookies collect information anonymously, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. [Google Analytics security and privacy](http://www.google.co.uk/intl/en/analytics/privacyoverview.html). 
+  * _Google Analytics (_ga, _gat)_ : Used to collect information about how visitors use our site. We use the information to compile reports and help us improve the site. The cookies collect information anonymously, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. [Google Analytics security and privacy](https://support.google.com/analytics/answer/6004245). 
 
 
 
 ## Managing Your Member Information
 
-  * You may edit your member information at any time by going to the [settings](https://www.webretailer.com/member-account.asp) page.
+  * You may edit your member information at any time by going to the [settings](https://web.archive.org/member-account.asp) page.
   * You may request deletion of your member details by [sending an email](https://web.archive.org/contact-us.asp?subject=memberdelete&action=readfaqs) quoting the email address you registered with.
 
 
@@ -54,11 +54,7 @@ Web Retailer will not sell, rent or otherwise disclose your personally identifia
 
 ## Third-Party Advertising 
 
-We use third-party advertising companies to serve ads when you visit Web Retailer. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to opt out of having this information used by these companies see the following:
-
-  * [Google Privacy Center](http://www.google.co.uk/privacy_ads.html).
-
-
+We use third-party advertising companies to serve ads when you visit Web Retailer. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 ## Changes to this Privacy Policy
 
