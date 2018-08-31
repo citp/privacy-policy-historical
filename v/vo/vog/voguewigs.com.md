@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030526id_/http%3A//www.voguewigs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831184555id_/https%3A//www.voguewigs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,16 +41,16 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.
 
-You can send email to **[our customer service department](http://www.voguewigs.com/contact)** and request to be removed or added to our mailing list.
+You can send email to **[our customer service department](https://www.voguewigs.com/contact)** and request to be removed or added to our mailing list.
 
 **Data Quality/Access**
 
 This site gives users the following options for changing and modifying information previously provided:
 
-You can send questions to **[our customer service department](http://www.voguewigs.com/contact).** If you have created an account with us, **[click here](https://www.voguewigs.com/customer/account/login/)** to update your prefrences.
+You can send questions to **[our customer service department](https://www.voguewigs.com/contact).** If you have created an account with us, **[click here](https://www.voguewigs.com/customer/account/login/)** to update your prefrences.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can **[contact our customer service department](http://www.voguewigs.com/contact)**.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can **[contact our customer service department](https://www.voguewigs.com/contact)**.
 
 Third-Party Web Beacons: We use third-party web beacons from Google to help analyze where visitors go and what they do while visiting our website. Google may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, **[click here](https://tools.google.com/dlpage/gaoptout)**.
 
