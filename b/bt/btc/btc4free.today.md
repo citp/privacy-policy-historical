@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btc4free.today privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428045137id_/https%3A//btc4free.today/%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btc4free.today privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831232001id_/https%3A//btc4free.today/%23Privacy) for the most accurate reproduction.*
 
 # Bitcoin Faucet by COINGAINGURU - BTC4FREE - Bitcoin for free
 
