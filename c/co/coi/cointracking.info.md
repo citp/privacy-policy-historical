@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cointracking.info privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001201717id_/https%3A//cointracking.info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cointracking.info privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831110000id_/https%3A//cointracking.info/privacy_policy.php) for the most accurate reproduction.*
 
 # CoinTracking · Privacy Policy
 
@@ -75,7 +75,7 @@ When you access our site while logged into Facebook, Facebook uses information g
 
 If you wish to prevent the transfer to and storage of data by Facebook about you and your interaction with our website, you must first log out of Facebook before visiting our website. The data protection policies of Facebook provide additional information, in particular about the collection and use of data by Facebook, your rights in this regard as well as the options available to you for protecting your privacy: <https://de-de.facebook.com/about/privacy/>
 
-In addition, tools are freely available on the market that can be used to block Facebook social plug-ins with add-ons from being added to all commonly used browsers: <http://webgraph.com/resources/facebookblocker/>  
+In addition, tools are freely available on the market that can be used to block Facebook social plug-ins with add-ons from being added to all commonly used browsers: <https://www.comparitech.com/blog/vpn-privacy/stop-facebook-tracking/>  
 You can find an overview of Facebook plugins at <https://developers.facebook.com/docs/plugins/>
 
 ## Use of Twitter recommendation components
@@ -134,4 +134,4 @@ CoinTracking reserves the right to change this Privacy Policy at any time by pos
 
 This document was last updated on March 20, 2017.
 
-CoinTracking regularly reviews its compliance with this policy. Questions regarding the Privacy Policy should be sent by e-mail to us using our [contact form](https://web.archive.org/web/20171001201717id_/https%3A//cointracking.info/feedback.php)
+CoinTracking regularly reviews its compliance with this policy. Questions regarding the Privacy Policy should be sent by e-mail to us using our [contact form](https://web.archive.org/web/20180831110000id_/https%3A//cointracking.info/feedback.php)
