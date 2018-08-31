@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localsplash.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165940id_/http%3A//localsplash.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsplash.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831061656id_/https%3A//localsplash.com/privacy-policies) for the most accurate reproduction.*
 
 # Localsplash Privacy Policy
 
-This privacy statement describes how Local Splash collects and uses the personal information you provide on our Web site: [www.localsplash.com](http://www.localsplash.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Local Splash collects and uses the personal information you provide on our Web site: [www.localsplash.com](https://www.localsplash.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 If you have questions or concerns regarding this policy, you should first contact us at [info@localsplash.com](mailto:info@localsplash.com).
 
