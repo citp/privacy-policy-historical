@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ollies.us privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628122541id_/http%3A//www.ollies.us/store-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ollies.us privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831130322id_/https%3A//www.ollies.us/store-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Store Policies | Ollie's Bargain Outlet
 
@@ -8,7 +8,7 @@ This privacy policy ("Privacy Policy") applies to your use of the Ollie's Bargai
 
 ### Information Collection
 
-As you navigate through our Sites, certain information can be passively collected using various technologies, such as navigational data collection.  We, or third parties authorized by us, may transparently collect information that is not personally-identifiable, such as what browser is being used (e.g., Internet Explorer), the operating system of the device you use to access our Sites or the domain name from which you entered a site (e.g., google.com), your internet protocol address; however, this information is used for our internal purposes only. 
+As you navigate through our Sites, certain information can be passively collected using various technologies, such as navigational data collection.  We, or third parties authorized by us, may transparently collect information that is not personally-identifiable about your online activities over time and across different web sites when you use our Site, such as what browser is being used (e.g., Internet Explorer), the operating system of the device you use to access our Sites or the domain name from which you entered a site (e.g., google.com), your internet protocol address, your interactions with our Site and the amount of time you spend; however, this information is used for our internal purposes only. We do not control what information third parties collect about you when you navigate their sites including when you move from third-party sites to our Sites. 
 
 Our Sites may use "cookies."  A "cookie" is a small file stored by your Web browser to help a particular system recognize you and the pages you visit in our Sites.  Cookies allow our Sites to recognize you more quickly and provide a customized user experience.  We use cookies to help us measure the number of visits, average time spent, page views, and other statistics relating to our Sites.  The information we gather through the use of cookies is not sold to vendors, advertisers, direct mail concerns, or email list services.  If you disable cookies, certain functions of our Sites may not work properly or be available to you.
 
@@ -26,7 +26,7 @@ The only exception to the collection of personal information is when you specifi
 
 While we are the sole owner of all information collected on our Sites, as we develop our business we may sell our business or buy another business.  In such transactions, customer information is generally one of the transferred business assets.  In the event that we or substantially all of our assets are acquired, personal information about our customers may be one of the transferred assets.
 
-We will also disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with a legal process served on us; (b) protect and defend our rights or property; or, (c) act in urgent circumstances to protect the personal safety of users of our Sites or the public.
+We will also disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with a legal process served on us; (b) protect and defend our rights or property; (c) comply with a written request from a law enforcement agency if the information requested to assist that agency with the investigation/prosecution of a crime; or (d) act in urgent circumstances to protect the personal safety of users of our Sites or the public.
 
 We will not use your personal information in a way that is incompatible with these stated purposes, unless we obtain your prior consent.
 
@@ -44,4 +44,4 @@ We protect children's privacy seriously. We do not seek to collect personal info
 
 We reserve the right to change this Privacy Policy at any time by posting revisions on our Sites and you agree to any such changes upon your continued use of our Sites.  When changes are made, we will update the effective date of this Policy. This Privacy Policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
 
-Effective Date: April 13, 2018
+Effective Date: August 28, 2018
