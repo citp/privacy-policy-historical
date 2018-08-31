@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beestar.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015050id_/http%3A//beestar.org/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beestar.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831171748id_/https%3A//www.beestar.org/general/privacy.jsp) for the most accurate reproduction.*
 
 # Beestar.org - Privacy Policy
 
@@ -47,4 +47,7 @@ Beestar periodically reviews and enhances this Privacy Policy as necessary. This
 
 **Your Acceptance of These Terms**
 
-By using Beestar sites, you signify your consent to the Beestar's Privacy Policy. If you do not agree to this, please do not use our web sites or services. Your continued use of Beestar web sites or services following the posting of changes to these terms will mean you accept those changes in accordance with our [Terms of Use](https://web.archive.org/web/20170606015050id_/http%3A//beestar.org/general/term.jsp). 
+By using Beestar sites, you signify your consent to the Beestar's Privacy Policy. If you do not agree to this, please do not use our web sites or services. Your continued use of Beestar web sites or services following the posting of changes to these terms will mean you accept those changes in accordance with our [Terms of Use](https://web.archive.org/web/20180831171748id_/https%3A//www.beestar.org/general/term.jsp). 
+
+  
+
