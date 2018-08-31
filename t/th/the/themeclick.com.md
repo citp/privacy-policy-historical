@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeclick.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314134643id_/http%3A//themeclick.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeclick.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831022233id_/http%3A//themeclick.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Web Templates - Wordpress Themes - Plugins
 
