@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sampleinvitationletter.info privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629155658id_/http%3A//www.sampleinvitationletter.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sampleinvitationletter.info privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831175051id_/http%3A//www.sampleinvitationletter.info/privacy) for the most accurate reproduction.*
 
-# Privacy | Sample Invitation Letters
+# Privacy - Sample Invitation Letters
 
 Effective Date: **May 30, 2018**
 
