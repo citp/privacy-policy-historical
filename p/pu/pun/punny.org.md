@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punny.org privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908034839id_/http%3A//www.punny.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punny.org privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901001120id_/http%3A//punny.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Punny Money
 
@@ -33,7 +33,7 @@ Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (
 
 **Advertisers**
 
-Advertisers who order advertising on Punny Money are subject to additional privacy policies outlined in our [advertising terms and conditions](http://www.punny.org/advertising-terms-and-conditions/).
+Advertisers who order advertising on Punny Money are subject to additional privacy policies outlined in our [advertising terms and conditions](https://web.archive.org/advertising-terms-and-conditions/).
 
 **Use of Information**
 
