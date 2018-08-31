@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614090215id_/http%3A//www.videocollector.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831201844id_/http%3A//www.videocollector.co.uk/privacy.php) for the most accurate reproduction.*
 
 # VideoCollector.co.uk Privacy Policy
 
@@ -38,14 +38,14 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 * * *
 
-[](http://www.videocollector.co.uk/ghost-story/35965 "Ghost Story")
+[](http://www.videocollector.co.uk/lust-for-a-vampire/30078 "Lust for A Vampire")
 
-[](http://www.videocollector.co.uk/live-and-let-die/31932 "Live and Let Die")
+[](http://www.videocollector.co.uk/maniac-cop-3-badge-of-silence/33645 "Maniac Cop 3: Badge of Silence")
 
-[](http://www.videocollector.co.uk/night-shift/16539 "Night Shift")
+[](http://www.videocollector.co.uk/flintstone-christmas-a/37267 "Flintstone Christmas, A")
 
-[](http://www.videocollector.co.uk/action-heroes-of-movies--tv/37377 "Action Heroes of Movies & T.V.")
+[](http://www.videocollector.co.uk/fifth-day-of-peace-the/32015 "Fifth Day of Peace, The")
 
-[](http://www.videocollector.co.uk/carlitos-way/15140 "Carlito's Way")
+[](http://www.videocollector.co.uk/rats--rabbits/38144 "Rats & Rabbits")
 
-• Read our [Privacy Policy](http://www.videocollector.co.uk/privacy.php "VideoCollector.co.uk Privacy Policy") • Your access to and use of this Website is conditional on your acceptance of these [Terms and Conditions of Use](http://www.videocollector.co.uk/terms-of-use.php "Terms and Conditions of Use of the website") © VideoCollector.co.uk 2017 Overseas
+• Read our [Privacy Policy](http://www.videocollector.co.uk/privacy.php "VideoCollector.co.uk Privacy Policy") • Your access to and use of this Website is conditional on your acceptance of these [Terms and Conditions of Use](http://www.videocollector.co.uk/terms-of-use.php "Terms and Conditions of Use of the website") © VideoCollector.co.uk 2018 Overseas
