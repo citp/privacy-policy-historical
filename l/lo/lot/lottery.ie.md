@@ -1,121 +1,246 @@
-> *The following text is extracted and transformed from the lottery.ie privacy policy that was archived on 2018-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180207012327id_/https%3A//www.lottery.ie/useful-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottery.ie privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831121327id_/https%3A//www.lottery.ie/useful-info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Useful Info | Irish National Lottery
+# Data Privacy Statement | Useful Info | Irish National Lottery
 
-## Website/App of PLI
+#### Player Registration
 
-This website/app is operated by Premier Lotteries Ireland DAC (“ **PLI** ”) and this Data Privacy Statement relates to this website/app. We are not responsible for the content or privacy practices of other websites. Any external links to other websites are clearly identifiable as such.
+**Personal data processed**
 
-In addition to this Data Privacy Statement you may wish to read our _[Data Protection Policy](https://www.lottery.ie/static/c/assets/ctplotteryiecms/pages/about/policies/national-lottery-data-protection-policy-pdf-25-11-2014_9431d02118781101e92968fc46216674.pdf)_. For the purpose of the Data Protection Acts 1988 and 2003 (the " **Data Protection Legislation** ”), the data controller is PLI with its registered office at Abbey Street Lower, Dublin 1, Ireland.
+Gender, name, preferred greeting, address, email address, date of birth, proof of ID, IP address, date and time of registration, credit or debit card, browser, mother’s maiden name, place of birth, emailing preferences, URLs visited, referral URLs.
 
-**General statement**
+**Purpose for processing and uses of the data**
 
-PLI respects the rights of users of our website/app and is committed to protecting your privacy in accordance with Data Protection Legislation at all times. We will not collect any personal information (also referred to as personal data) about you on this website/app without your permission or other than in accordance with the Data Protection Legislation.
+To register a National Lottery Player in compliance with legal & regulatory requirements (living in Ireland, over 18 and responsible player).
 
-Please note that by using this website/app you are accepting the terms of this Data Privacy Statement and agree that we may process your personal data as outlined in this Data Privacy Statement. You also agree that any successor or assignee of PLI and/or any of its businesses may process your personal data as described in this Data Privacy Statement. We inform all persons who submit their personal data to us of these conditions by this Data Privacy Statement. If you do not agree with or you are not comfortable with any aspect of this Data Privacy Statement, your only remedy is to discontinue use of this website/app.
+To enable your ability to play, PLI requires the storage of your credit or debit card with a nominated third party".
 
-**Collection and use of personal data**
+To send weekly results, inform of large jackpots, to receive information about offers and promotions.
 
-You do not have to provide us with any personal information (or personal data) to use our website/app. However where you elect to give us your personal data through this website/app via online feedback forms, email or to register to play online or via our mobile app then we will treat your personal information in accordance with this Data Privacy Statement and the Data Protection Legislation.
+**Lawful basis for processing the data**
 
-**Web browsing**
+The processing of data is necessary to enter into a contract with PLI and to meet the legal and regulatory requirements of the National Lottery Act and the Licence to Operate the National Lottery. If the player does not provide the requested data, PLI will not be able to complete the player registration.
 
-By simply visiting our website/app you do not disclose, nor do we collect, personal data on you. The information collected about your visit is limited to technical data such as:
+Direct marketing activity is subject to player consent. The player has the clear option to opt-in to receive marketing communications at registration time and then to opt-out any time.
 
-  1. the logical address (or IP address) of the device you used to access this website/app;
-  2. whether you reached the site/app using a search engine or if you clicked a link on another website/app or an advertising banner etc;
-  3. the type of web-browser you used; and
-  4. the type of device you used to access the internet.
-  5. details of your visits to our website/app and the resources and webpages that you access including, without limitation, traffic data, location data and other communication data (including IP & MAC address as well as device UDID). We may match a browser profile to a user’s registered profile (using cookies) in order to personalise content and make the browsing experience more relevant;
-  6. technical information relating to the device that you use to access our website/app;
-  7. information we collect using cookies stored on your device about how you use our website/app and/or selected third party websites.
+**Sharing of personal data**
+
+PLI shares personal data with:
+
+  * Camelot Global Services (CGS): management of PLI digital channels, customer care, IT.
+  * Global Payments (formerly Realex Payments) to process your debit/credit card on behalf of PLI. Global Payments fully comply with the PCI/DSS 3.2 security requirements.
+  * Adobe Campaign for marketing campaigns. Adobe Campaign is replacing HubSpot and will run in parallel until the end of September. Adobe Campaign stores personal data in Ireland.
+  * HubSpot for marketing campaigns. HubSpot store personal data outside the EEA, in the USA. (EU-US Privacy Shield). HubSpot is being replaced by Adobe Campaign and all data held in HubSpot will be deleted after the migration process has been completed.
+  * Intralot Ireland Limited (Intralot): maintenance of PLI’s players and retailers handling platforms and retailer terminals. Intralot staff are based on PLI premises.
+  * Cloudflare to protect the National Lottery’s websites against DDoS attacks (Distributed Denial of Service, a type of hacking). This requires personal data to transit through Cloudflare’s infrastructure. This takes place in multiple locations both inside and outside the EEA (for transfers to the USA, EU-US Privacy Shield). The traffic through Cloudflare is fully-encrypted.
+  * Google Analytics to measure the traffic on the National Lottery’s websites. See here for an overview of privacy at Google: (EU-US Privacy Shield and <https://support.google.com/analytics/answer/6004245>)
+  * Display Media - DoubleClick (a Google product) offers technology products and services that are sold to Core Media (a nominated third party advertising agency) to allow the National Lottery to deploy, target, deliver, and report on interactive advertising campaigns.
+  * Social Media - Audiences are set up on the National Lottery Facebook account based on HubSpot CRM (Customer Relationship Management) data. National Lottery also uses these audiences to market to other potential customers.
+  * Kochava - Provides real-time attribution and analytics mobile tracking. It has integration with over 2,000 networks and publishers. Kochava is linked with DoubleClick to record the amount of downloads that are happening via National Lottery app campaigns supporting both iOS and Android. Kochava will track from download to registration and then report on the revenue that has been generated from that download via a player ID. (EU-US Privacy Shield and <https://www.kochava.com/> )
+  * Tealium - The information collected by Tealium is used within our analytics tools to enrich the data we’re collecting about your visit in order to help us understand our visitors’ usage of the site so as to provide a better user experience.
+  * Google AdWords - Google AdWords' system is based on cookies and keywords determined by advertisers. Google uses these characteristics to place National Lottery advertising on pages where they think it might be relevant. PLI pays when users divert their browsing to click on the National Lottery advertising.
+  * Bing - which is a web search engine owned and operated by Microsoft. Similar to Google AdWords Bing system is based on cookies and keywords determined by advertisers.
+  * In case of a complaint, the information may be shared with organisations who provide services to the company such as legal advisors.
+  * Office of the Regulator of the National Lottery – the Regulator may access parts of this data in order to assess whether PLI is meeting its obligations to prevent underage or problem play.
+
+ 
+
+#### Ongoing Player Interaction
+
+**Personal data processed**
+
+Gender, name, preferred greeting, address, email address, date of birth, proof of ID, IP address, date and time of visit, credit or debit card, browser, mother’s maiden name, place of birth, emailing preferences, URLs visited, referral URLs, games played, number played, amounts played, amounts added, amounts withdrawn, wallet amount, page, length of visit, cookies
+
+**Purpose for processing and uses of the data**
+
+To play any National Lottery game responsibly.
+
+**Lawful basis for processing the data**
+
+The processing of data is necessary to enter into a contract with PLI and to meet the legal and regulatory requirements of the National Lottery Act and the Licence to Operate the National Lottery. If the player does not provide the requested data, PLI will not be able to allow the player to play any National Lottery game online.
+
+Direct marketing activity is subject to player consent. The player has the clear option to opt-in to receive marketing communications at registration time and then to opt-out any time.
+
+**Sharing of personal data**
+
+Personal Data is shared with the same organisations as outlined in the Player Registration section above.
+
+The marketing activities outlined in the section above are carried out on an ongoing basis with player consent.
+
+ 
+
+#### Android and iOS Apps
+
+**Personal data processed**
+
+Geo-location, name, IP address, phone device ID, device IMEI, platform, purchase total, device OS version
+
+**Purpose for processing and uses of the data**
+
+Location is required to comply with legal requirements (living in and playing from Ireland).
+
+**Lawful basis for processing the data**
+
+The processing of data is necessary to enter into a contract with PLI and to meet the legal and regulatory requirements of the National Lottery Act and the Licence to Operate the National Lottery.
+
+If the player does not provide the requested data, PLI will not be able to allow the player to play any National Lottery game online.
+
+**Sharing of personal data**
+
+Personal Data is shared with the same organisations as outlined in the Player Registration section above.
+
+The marketing activities outlined above are carried out on an ongoing basis with player consent.
+
+ 
+
+#### Customer Support
+
+**Personal data processed**
+
+Name, email, twitter account, Facebook Messenger account, Instagram account, phone recordings, instant messages
+
+**Purpose for processing and uses of the data**
+
+To provide assistance to players and to monitor quality of services.
+
+**Lawful basis for processing the data**
+
+The processing of data is necessary to enter into a contract with PLI and to meet the legal and regulatory requirements of the National Lottery Act and the Licence to Operate the National Lottery.
+
+If the player does not provide the requested data, PLI will not be able to provide player support.
+
+**Sharing of personal data**
+
+PLI shares personal data with:
+
+  * Camelot Global Services (CGS): management of PLI digital channels, customer care, IT.
+  * Intralot Ireland Limited (Intralot): maintenance of PLI’s players and retailers handling platforms and retailer terminals. Intralot staff are based on PLI premises.
+  * Comapi who provides our web chat facility. Comapi stores data in locations in North and West Europe.
+  * PLI use Conversocial to centrally manage the social media interaction with players. Conversocial stores data outside the EEA, in the USA. (EU-US Privacy Shield). Conversocial is a provider of social customer service software which is used to manage the flow of customer service inquiries and discussions on the National Lottery’s social media channels such as Facebook, twitter, Instagram and YouTube.
+
+ 
+
+#### Winners
+
+**Personal data processed**
+
+Claim forms including: name, address date of birth, telephone number, proof of ID, signature, gender, occupation, and consent for publicity (photographs) which is gathered on a voluntary basis.
+
+**Purpose for processing and uses of the data**
+
+To comply with legal and regulatory requirements (over 18 and responsible player).
+
+For winners above €500, or wallets exceeding €750, payment is made by cheque.
+
+**Lawful basis for processing the data**
+
+The processing of data is necessary to enter into a contract with PLI and to meet the legal and regulatory requirements of the National Lottery Act and the Licence to Operate the National Lottery. If the player does not provide the requested data, PLI will not be able to pay the player.
+
+Publicity material is processed on the basis of consent. Once the information has been passed to the press, PLI would not be able to fulfil requests to withdraw consent.
+
+Gender and occupation information and photograph usage permission are gathered on a voluntary basis.
+
+**Sharing of personal data**
+
+Personal data used to write the cheques is not shared with third parties.
+
+Gender and occupation are extracted from the form and anonymised in a statistics database. The form is kept in secure storage for a duration specified in the Data Retention Policy.
+
+If the player, or syndicate, consents to publicity, the name, winnings and photograph may be published on the National Lottery website, via email and social channels and shared with the press. It will also be archived for future “throwback” marketing purposes.
+
+ 
+
+#### Scratch Card Draw Entries & TV Game Show
+
+**Personal data processed**
+
+Scratch card draw entries: name, address, email address, telephone number and signature.
+
+TV Game Show participants and proxy participants: name, address, date of birth, phone number, signature, type of ID and serial number; proxy participant’s name, address & phone number; photographic and TV broadcast imagery.
+
+Beneficiaries of National Lottery funding: video footage of Good Cause funding recipients and their projects.
+
+**Purpose for processing and uses of the data**
+
+To claim scratch card prizes above a certain value as described in the Game Rules.
+
+To participate on the TV Game Show, or to allow a nominated proxy to participate instead, and for winners to receive prizes.
+
+To publicise the benefits and beneficiaries of Good Cause funding raised by the National Lottery.
+
+**Lawful basis for processing the data**
+
+The processing of data is necessary to enter into a contract with PLI and to meet the legal and regulatory requirements of the National Lottery Act and the Licence to Operate the National Lottery. If the player does not provide the requested data, PLI will not be able to pay the player. If a potential participant of the TV Game Show does not provide the requested data, the potential participant will not be able to take part in the TV Game Show.
+
+Publicity material is processed on the basis of consent. Once the information has been released to the media, PLI would not be able to fulfil requests to withdraw consent.
+
+**Sharing of personal data**
+
+PLI share personal data with
+
+  * RTÉ for TV Game Show production purposes
+  * KPMG during independent observation of draws
+  * General and selected media and press for publicity purposes
+  * The public, where limited personal data is publicly announced on the website, and also on the TV Game Show, where the participants drawn for next week’s show are announced.
+
+ 
+
+#### Second Chance Database
+
+**Personal data processed**
+
+Name, address, date of birth, telephone number, IP address
+
+**Purpose for processing and uses of the data**
+
+To register a retail or online National Lottery Player’s entry into a second chance draw in compliance with legal requirements (over 18 and responsible player).
+
+To send information about offers and promotion.
+
+The information is used internally by the National Lottery's digital marketing team.
+
+**Lawful basis for processing the data**
+
+The processing of data is necessary to enter into a contract with PLI and to meet the legal and regulatory requirements of the National Lottery Act and the Licence to Operate the National Lottery. If the player does not provide the requested data, PLI will not be able to complete the player registration for the relevant second chance draw.
+
+Direct marketing activity is subject to player consent. The player has the clear option to opt-in to receive marketing communications at registration time and then to opt-out any time.
+
+**Sharing of personal data**
+
+PLI share personal data with:
+
+  * Action Point, who create the website in a National Lottery controlled Microsoft Azure server located in North Europe
+  * Google Analytics is used to measure the traffic on the second chance website. (EU-US Privacy Shield)
+  * HubSpot for marketing campaigns. HubSpot store personal data outside the EEA in the USA. (EU-US Privacy Shield)
 
 
 
-We use this data for administrative and statistical purposes as well as to help us to improve our website/app, content and marketing communications. This technical data does not provide us with the personal data of visitors to our website/app.
+#### National Lottery Good Causes Awards
 
-Visitors who have already registered to play online or subscribed to one of our email lists may be identified when browsing the site/app (when not logged in) and presented with personalised content and/or communications that are more relevant to them.
+**Personal data processed**
 
-By visiting and/or using the website/app you acknowledge and consent to the recording and retention of such information as listed above for these purposes.
+Name, address, email, IP address  
+Optional: landline and mobile number
 
-**Analytic software, tracking usage of the PLI website/app**
+**Purpose for processing and uses of the data**
 
-PLI uses analytical software to measure visits to the PLI website/app. This software captures technical, non personal detail, allowing us to analyse how visitors use the site/app. The analytical software uses ‘Cookies’, which are text files placed on your computer, to collect standard internet log information and visitor behaviour in an anonymous form. To view our Cookies Policy, please click [_here_](https://web.archive.org/useful-info/cookies).
+To go through a competition application process to recognise the inspiring and innovative work being carried out by thousands of individuals, organisations, groups and sports clubs all over Ireland who benefit from National Lottery Good Causes funding. The data will be used to contact and respond to entrants as appropriate.
 
-**Giving us your personal information**
+The information is used internally by National Lottery's marketing team.
 
-Please note that where you provide us with your personal information (e.g. name, address, date of birth, e-mail address, contact phone numbers, credit/debit card information and/or other contact information), through a facility provided on this website/app or directly to us by e-mail, we may:
+**Lawful basis for processing the data**
 
-(a) process and administer your personal data to perform all necessary actions to give effect to your request or instruction; and
+The processing of data is necessary to enter the competition which the company has a legitimate interest in promoting.
 
-(b) retain a record of incoming and outgoing communications (e.g. email). Information in the email we receive and send will not be disclosed to any third party without the permission of the sender unless otherwise in accordance with the Data Protection Legislation or as set out in the section below headed “Disclosure of information to Third Parties”.
+No direct marketing activity will be carried out with the information provided, however, entrants may be contacted with regard to future Good Causes Awards competitions.
 
-We may also use your personal information for the following purposes:
+**Sharing of personal data**
 
-  1. to ensure that content from this website/app is presented in the most effective manner for you and your computer;
-  2. to ensure that we minimise, in so far as in practically possible, information or communications that are not relevant to you;
-  3. to notify you after registration of your account details;
-  4. to provide you access to this website/app and to allow you to participate in interactive features of this website/app;
-  5. to respond to any queries you submit to us;
-  6. to send you information, products or services for which you have asked or which we believe may be of interest to you, where you have consented to be contacted for such purposes (including via direct messages on social media platforms using Custom Audience Targeting);
-  7. to provide you with information on services offered by us, our partners or our advertisers where you have consented to be contacted for such purposes (including via direct messages on social media platforms using Custom Audience Targeting);
-  8. to seek your views on this website/app and our services;
-  9. to inform you about any changes to this website/app and services;
-  10. to process any requests we receive from you;
-  11. to fulfil any contractual obligations formed between you and PLI;
-  12. to send newsletters, push notifications, promotional emails, marketing communications and to offer related services to you from PLI (including tailored messages and targeted communications via social media and other advertising platforms using custom and/or tailored audiences);and
-  13. to help us meet our responsible gaming obligations.
+PLI share personal data with:
+
+  * Connector, who create and host the website where the competition entries are made. The server is located in North Europe.
 
 
 
-We may also receive anonymous data from third parties which, when combined with other data which we hold, is capable of identifying you. Once this combined data becomes capable of identifying you, it will be processed by us in the same way as other personal data for the purpose of this Privacy Policy.
+* * *
 
-**Disclosure of information to third parties**
-
-To comply with applicable laws, PLI needs to verify your identity and that you are over 18. We may send your personal details such as age, date of birth and address to a third party in order to verify your identity and that you are over 18. If you do not agree to your personal details being used in this way, you cannot register an account with us or play National Lottery games on this website.
-
-We will not disclose your personally identifiable information to third parties unless you have consented to this disclosure or unless the third party is required for our website/app service. Examples of such services include analysing data, providing marketing services, processing payments (including credit card payments) and providing customer service. In such circumstances, the third party is bound by similar data protection requirements.
-
-You may not use this website/app if you do not want us to use or disclose personally identifiable information collected about you in the manner identified in this Data Privacy Statement. If you choose to disclose personally identifiable information when posting comments or other information or content through this website/app, this information may become publicly available and may be collected and used by others. We will not have any obligations with respect to any information that you post to parts of this website/app available to others.
-
-We will disclose your personally identifiable information if we believe in good faith that we are required to disclose it in order: (a) to comply with any applicable law, a summons, a search warrant, a court or regulatory order or other statutory or legal requirement including our obligation to provide information to the Regulator of the National Lottery; (b) to enforce the Terms & Conditions or other agreements or to protect our rights, property or safety of PLI and/or its subsidiaries and group companies; or (c) to protect the safety of users of this website/app or others.
-
-We may disclose your personally identifiable information to other members of the PLI and Camelot Global group of companies and approved contractors or sub-contractors working on our behalf.
-
-We may provide non-personally identifiable data to third parties, where such information is combined with similar information of other users of this website/app. For example, we might inform third parties regarding the number of unique users who visit this website/app, the demographic breakdown of our users of this website/app, or the activities that visitors to this website/app engage in while on this website/app. The third parties to whom we may provide this information may include, for example, potential or actual advertisers, providers of advertising services (including website/app tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
-
-**Security of data**
-
-PLI takes seriously its security obligations in respect of your personal data under the Data Protection Legislation to prevent unauthorised access to, or alteration or destruction of personal data in our possession.
-
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to this website/app; any transmission is at your own risk. Once PLI has received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**International data transfers**
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us. Such staff may be engaged in the processing of your payment details and the provision of follow up services. In order to verify your identity and that you are over 18 years of age, your data may be transferred to third party service providers outside of the EEA. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Data Privacy Statement.
-
-**Right of Access**
-
-Where you have provided us with your personal data you have a right to be given a copy of your personal data in accordance with section 4 of the Data Protection Legislation subject to certain exceptions. To request a copy of your personal data please visit our Access Request Policy where you can download our Access Request Form for completion before sending it to us at Data Protection Compliance Officer, Premier Lotteries Ireland DAC, Abbey Street Lower, Dublin 1 together with the prescribed fee of €6.35. Please note the following important requirements:
-
-  1. We recommend that if you are making an access request that you use our Access Request Form;
-  2. We shall not process an access request unless the prescribed fee of €6.35 is received by cheque or postal money order made payable to Premier Lotteries Ireland; and
-  3. We do not accept access requests via telephone, email or text message.
-
-
-
-**Right of rectification or erasure**
-
-If we hold incorrect information about you, you have the right to have the data amended. Further you have the right to have any information you have sent to us via this website/app erased. To request your right to rectification and/or erasure please send your request to us in writing at Data Protection Compliance Officer, Premier Lotteries Ireland, Abbey Street Lower, Dublin 1 together with:
-
-  1. Your name and address.
-  2. A description of the specific personal data you wish rectified.
-  3. If you request an erasure of your personal data all your data will be erased subject to the following important notice.
-
-
-
-We are not required to rectify or erase your data where to do so would prevent you from meeting your contractual obligations to us or where we are required to process (including retaining e.g. transactions for accounting and auditing purposes or for the purpose of responding to the Regulator of the National Lottery) your personal data for a lawful purpose in accordance with the Data Protection Legislation.
-
-PLI trusts that you appreciate we respect your right to privacy and that our honesty and integrity shall mean that you will continue to trust us with your personal data, knowing that we will not use it for any inappropriate purpose.
-
-If you have questions or concerns about our Data Privacy Statement, please contact us at: [info@lottery.ie](mailto:info@lottery.ie). Our registered address is Premier Lotteries Ireland DAC, Abbey Street Lower, Dublin 1, Ireland.
+Note: The EU-US Privacy Shield imposes obligations on U.S. companies to protect Europeans’ personal data. The Privacy Shield requires the U.S. to monitor and enforce data protection measures, and to cooperate with European Data Protection Authorities.
