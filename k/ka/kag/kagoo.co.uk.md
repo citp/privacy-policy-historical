@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kagoo.co.uk privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331093137id_/http%3A//www.kagoo.co.uk/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kagoo.co.uk privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831180937id_/https%3A//kagoo.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Kagoo
+# Kagoo Privacy Policy - Kagoo.co.uk
 
 It is important that we store personal information about you so that we can provide you with the best possible experience on Kagoo.co.uk. We promise to keep your personal information private. This means:
 
@@ -23,7 +23,7 @@ We do not provide your personal email address or telephone number to other users
 
 1.1 Kagoo.co.uk is a web site of Kagoo Ltd ("We", "our" and "us" in this Internet Privacy Policy). By using this site ("the web site"), you agree to the Internet Privacy Policy set out below. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 
-1.2 When you provide personal information to the web site, the Data Controller is Kagoo Ltd, the registered address for which is 13 St Donatt's Road, London, SE14 6NU.
+1.2 When you provide personal information to the web site, the Data Controller is Kagoo Ltd, the registered address for which is 4th Floor Aldgate Tower, 2 Leman Street, London, E1 8FA.
 
 1.3 We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site. 
 
@@ -72,3 +72,5 @@ We do not provide your personal email address or telephone number to other users
 ### 9 Further data protection information
 
 9.1 For more information about data protection issues in the United Kingdom and protecting your privacy, visit the website of the Information Commissioner's office at www.ico.gov.uk.
+
+Like most websites, we use cookies to improve your experience. OK
