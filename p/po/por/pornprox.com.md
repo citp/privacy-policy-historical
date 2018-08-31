@@ -1,69 +1,128 @@
-> *The following text is extracted and transformed from the pornprox.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129221903id_/http%3A//www.pornprox.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornprox.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901000813id_/https%3A//chaturbate.global/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PornProx
+# Privacy Policy - Chaturbate
 
-[ ](https://web.archive.org/)
+This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
-* * *
+This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
-This privacy policy sets out how PornProx.com uses and protects any information that you give PornProx.com when you use this website.
+By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy. If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.
 
-PornProx.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+## About us
 
-PornProx.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 11th, 2011.
+Multi Media, LLC operates the service located on Chaturbate.com (the "Site").
 
-You can always find the link to this Privacy Policy on the bottom of the homepage ([http://www.pornprox.com](http://www.pornprox.com/)).
+## Information we may collect and process about you
 
-## What we collect
-
-We may collect the following information:
-
-  * name and contact information including email address that you enter in a form
-  * search terms you enter
-  * your preferences on the website
-  * other relevant information
-
-
-
-## What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+  * Information you provide to us
+  * Your IP address
+  * Information about accounts you've visited, products and services you've clicked on or shown an interest
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you
+  * Information about your interaction with the Site including any advertisements
+  * Information we collect using cookies stored on your device about your use of the Site and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Technical information from your device relating to the service you receive
+  * Information relating to the location of your device.
 
 
 
-## Security
+## How we may use your information
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+By accessing the Site, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services you request or access, and developing our business.
 
-## How we use cookies
+### Payment Processing
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Please note that we contract with various third parties to carry out payment processing in connection with any purchases you may make through the Site. The processing and storage of any and all information you may provide to any such third-party payment processor, including information they may collect from you, is not governed by this Policy. You will need to review the Privacy and Cookie Policy for such third party on their website.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+### Two Factor Authentication
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+When you enable two factor authentication to protect your account, you may provide your phone number directly to a third party called Twilio. Their use of this information is outside of this Policy; however they do not receive any information regarding your account beyond the phone number you provide directly to them.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+### Fraud Prevention Services
 
-## Links to other websites
+We use third party services in connection with preventing fraud and other damage to our system. As such we may provide to such services with your IP and device data should your account be terminated for fraud or behavior which is damaging to our Site or service. This information will be retained indefinitely for the protection of our Site and users.
 
-Our website shows other websites of interest in frames. However, you should note that we do not have any control over those other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+## How we may use your information in specific products or services
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+### Registration
 
-## Controlling your personal information
+**General account registration:** You are not required to provide any information to use the Site. You may determine to create an account with the Site. In such event you will be required to provide a user name, birthdate to demonstrate you meet our minimum age requirements, and your gender. This information, together with any information you determine to provide in your account profile, will be publicly posted in connection with your username.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We will not use your personal information to send you promotional information about third parties.
+**Contributor registration:** Should you determine to create a "Contributor" account (which is an account that is permitted to receive digital currency from other users of the Site), you will be required to provide a color copy of your current government issued photo identification. This information is stored by us in compliance with United States Federal law. You will also be required to provide “pay to” information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service all moneys paid by us to Contributors as required by law.
 
-You may request details of personal information which we hold about you. If you would like a copy of the information held on you please write to info@pornprox.com.
+**Webmaster registration:** Should you determine to create a webmaster account with the Site, you will be required to provide "pay to" information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service moneys paid by us to webmasters as required by law.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us at info@pornprox.com. We will promptly correct any information found to be incorrect.
+### Message boards, blogs and other public forums
 
-## Contact and complaints
+The Site may provide message boards, blogs and other user generated content facilities, in addition to user profiles. Anything that you share through any of these means is deemed public information. You should always be careful when deciding to disclose your personal information.
 
-For questions and complaints you can contact us by email at info@pornprox.com.
+### Location based services
+
+Where we provide services that utilize your device's location, we may permit other users of the service to block individuals in certain locations, based upon their IP, from accessing such users' content.
+
+## Certain Information Use Out of Our Control
+
+Should you determine to stream or upload any content to our Site, you understand that we cannot control the use of such content by any user/observer of our Site. Furthermore, we cannot control the use of any personal information you may determine to share with other users/observers of the Site. You should exercise caution in discussing your location, name, account information, and other identifying information. For privacy, we recommend using a unique username not in any way tied to any of your social media accounts or real name.
+
+## How we may share your information
+
+Your username will be associated with all activities you undertake on the Site including, without limitation, messages sent, content shared, and streamed content. Your gender information will be used to categorize your account and the content that you share so it is easier for site users to find. Your IP addresses, device data, and other use information is used by us in order to optimize our site for use. Your usage history may also be used to help our internal algorithm to recommend other Site users to you. Your "pay to" information, if provided to us, will be shared with third parties (such as, by way of example only, our bank) only as necessary to process payments to you using the "pay to" information you have provided to us. Your government identification, if provided to us, will be shared as required to comply with applicable law and as may be requested by you in writing. Notwithstanding the forgoing, we reserve the right to share any and all account information with law enforcement or agencies authorized by applicable governmental authorities either in response to their written request or should we believe, in our sole discretion, that you or your account may be involved with illegal activity, or if we determine in our sole discretion that such disclosure is necessary to protect the rights or property of Chaturbate, our users, or third parties.
+
+## Safeguards and security for your information
+
+We have measures in place to protect the security of your personal information from unauthorized access or use, such as by using encryption technology.
+
+## Information Deletion
+
+Should you request your personal data be deleted, it will be deleted in compliance with our data retention policy and applicable law and rules. In order to avoid abuse of our system, we will retain device and IP data relating to your account for a period of time to prevent you from creating a new account.
+
+You can request permanent deletion using our deletion tool [here](https://web.archive.org/security/privacy/delete/).
+
+## Cookies Policy
+
+You should be aware that when you use the Site we may collect information using cookies or similar technologies.
+
+### What are cookies and how do they work?
+
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognize you. This allows websites to tailor what you see on the screen.
+
+### Do we use other technologies which are similar to cookies?
+
+Our websites, apps and emails often contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used in a way similar to cookies, to understand when a particular part of a webpage is viewed. Our apps often use device identifiers in the same way as cookies. A device identifier is a unique number on your device which allow us to remember your device.
+
+### What do we use cookies for?
+
+Cookies make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+
+  1. Cookies that are needed to provide the service you have asked for. Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies gather information about you that can be used for remembering your browsing history or allowing you to stay logged in during your visit.
+  2. Cookies used to improve your browsing experience. These cookies allow the website to remember choices you make, such as your language or region and they provide improved features such as content provider recommendations and limiting the number of times a particular advertisement is shown to you.
+  3. Cookies used to understand how people use our products and services. This allows us to keep track of what pages are popular to help other users find such pages.
+  4. Cookies used to show advertising that is relevant to you based upon your viewing history.
+
+
+
+We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
+
+We may also use cookies on the Site and advertisers' sites to understand which customers reach a sale or other action page on an advertiser's site. This allows us to monitor how effective our advertising is.
+
+Some of our web pages will contain promotional links to other companies' sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. You will need to review the privacy policy of any website whose advertisement you click on as this Policy only applies to pages on our domain.
+
+## Contacting us and accessing your personal information
+
+If you have any queries or comments about this Privacy & Cookies Policy please contact us at:  
+[support@chaturbate.com](https://web.archive.org/cdn-cgi/l/email-protection#8fa9acbebebab4a9acbebeb8b4a9acbebebdb4a9acbebebdb4a9acbebebeb4a9acbebebbb4a9acbebeb9b4a9acbfb9bbb4a9acbfb6b6b4a9acbebfbbb4a9acbfb6b8b4a9acbebeb9b4a9acbebeb8b4a9acbebebbb4a9acbfb6b7b4a9acbfb6b8b4a9acbebeb9b4a9acbebfbeb4a9acbfbbb9b4a9acbfb6b6b4a9acbebebeb4a9acbebfb6b4)
+
+If you wish to review or receive a copy of the personal information we hold about you, we offer a self-serve tool [here](https://web.archive.org/security/privacy/data_export/), else please write to us at:
+
+> Attention: Data Protection Officer  
+>  Grizzly Empire Ltd  
+>  Unit 4 Studios  
+>  100 Bradford Road  
+>  Dewsbury, United Kingdom, WF13 2EF  
+>  [privacyquestions@chaturbate.com](https://web.archive.org/cdn-cgi/l/email-protection#3513160404070e13160404010e13160405000e131604040d0e1316050c020e1316050c0c0e13160407040e13160404060e13160404020e13160405040e13160404000e13160404030e13160405000e13160404040e13160404050e13160404000e13160503010e1316050c0c0e13160405010e1316050c020e13160404030e13160404020e13160404010e1316050c0d0e1316050c020e13160404030e13160405040e13160501030e1316050c0c0e13160404040e131604050c0e)
+
+We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
+
+### Changes to this Privacy & Cookies Policy
+
+We reserve the right to make changes to our Privacy & Cookies Policy. Changes to this policy will be posted here and will become effective as of the updated effective date. Your continued use of our website or platform will signify your acceptance of these changes.
