@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627052338id_/https%3A//www2.sugarsync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901001552id_/http%3A//www.sugarsync.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SugarSync
 
@@ -230,6 +230,7 @@ Santry, Dublin 17
 Ireland  
 Attn: Data Protection Officer (Copy to Legal Department)
   * E-mail: [removeme@sugarsync.com](mailto:removeme@sugarsync.com)
+  * Data Protection Officer: [dpo@j2.com](mailto:dpo@j2.com)
 
 
 
