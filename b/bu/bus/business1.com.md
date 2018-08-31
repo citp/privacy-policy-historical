@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business1.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112032030id_/https%3A//www.business1.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business1.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831030220id_/https%3A//www.business1.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Business1.com
 
@@ -38,7 +38,7 @@ websites, web activity and time of day. This information is used by these third 
 
  By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Statement as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. If you do not want your personal information to be collected, used or disclosed in this manner, then please do not submit your personal information to us.
 
- If you have submitted personal information to us and wish to withdraw your consent to its retention, use or disclosure, please send an e-mail to [privacy@business1.com](mailto:privacy@businessportals.com). You may withdraw your consent, subject to legal or contractual restrictions and reasonable notice. If you withdraw your consent, we may not be able to provide some products or services to you.
+ If you have submitted personal information to us and wish to withdraw your consent to its retention, use or disclosure, please send an e-mail to [[email protected]](https://www.business1.com/cdn-cgi/l/email-protection#5323213a2532302a133126203a3d362020233c2127323f207d303c3e). You may withdraw your consent, subject to legal or contractual restrictions and reasonable notice. If you withdraw your consent, we may not be able to provide some products or services to you.
 
  Where permitted or required by law, we may collect, use or disclose your personal information without your consent, for example, to collect a debt you owe us, to comply with a legally permitted inquiry by a government agency, or to comply with a court order.
 
