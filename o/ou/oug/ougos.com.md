@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ougos.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202044448id_/http%3A//ougos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ougos.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831061340id_/https%3A//ougos.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Ougos.com
 
 Privacy
 
-This Privacy Policy was last modified on April 18, 2014.
+This Privacy Policy was last modified on Februar 24, 2017.
 
 Ougos ("us", "we", or "our") operates http://www.ougos.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
@@ -15,6 +15,9 @@ While using our Site, we may ask you to provide us with certain personally ident
 
 **Log Data**  
 Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+**Notifications**  
+We use the service SendPulse to send notifications to the devices of our users. This leads to data to be sent outside of the European Union. The [privacy policy of SendPulse](https://sendpulse.com/legal/pp) applies.
 
 **Cookies**  
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
