@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phishcheck.me privacy policy that was archived on 2018-01-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180114153354id_/https%3A//www.phishcheck.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phishcheck.me privacy policy that was archived on 2018-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180831044110id_/https%3A//phishcheck.me/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <link rel="shortcut icon" href="/icons/favicon.ico">
@@ -29,12 +29,11 @@
 
    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
    <!-- Latest compiled and minified CSS -->
-   <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
    <link rel="stylesheet" href="/css/main.css">
 
-   <!-- Placed at the end of the document so the pages load faster -->
    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
@@ -64,9 +63,73 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-left">
-            <li><a href="/#features">Features</a></li>
-            <li><a href="/search/">Search</a></li>
-            <li><a href="mailto:support@phishcheck.me">Support</a></li>
+            <li><a href="/search">Search</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-left col-lg-6">
+            <li>
+              <form id="formCheck" class="navbar-form" action="/submit/" method="post" enctype="application/x-www-form-urlencoded">
+                  <input type="hidden" name="csrfmiddlewaretoken" value="07J5kLI3Jg1tsNDwAaPtKiCY8HIAlXhpGhQYH0cjuxiMt0b63UzyplkxhjjgdBF0">
+                <div class="form-group">
+                  <div class="input-group">
+                      <input name="url" type="text" class="form-control url-form" placeholder="Enter a URL" value="">
+                    <span class="input-group-btn">
+                      <button type="submit" id="btnCheck" class="btn btn-default">Check</button>
+                    </span>
+                    <span class="input-group-btn">
+                      <div class="btn-group">
+                        <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                User-Agent <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                          <div class="btn-group" data-toggle="buttons">
+                          <li class="btn-group">
+                            <label class="btn active">
+                                <input id="useragent0" name="useragent" type="radio" value="0" checked="" autocomplete="off"> Edge 14.0 Win10
+                            </label>
+                          </li>
+                          <li class="btn-group">
+                            <label class="btn">
+                              <input id="useragent1" name="useragent" type="radio" value="1" autocomplete="off"> Chrome Generic Win10
+                            </label>
+                          </li>
+                          <li class="btn-group">
+                            <label class="btn">
+                              <input id="useragent2" name="useragent" type="radio" value="2" autocomplete="off"> Firefox 53.0 Win8.1
+                            </label>
+                          </li>
+                          <li class="btn-group">
+                            <label class="btn">
+                              <input id="useragent3" name="useragent" type="radio" value="3" autocomplete="off"> Chrome Generic Win7
+                            </label>
+                          </li>
+                          <li class="btn-group">
+                            <label class="btn">
+                              <input id="useragent4" name="useragent" type="radio" value="4" autocomplete="off"> Firefox 53.0 Win10
+                            </label>
+                          </li>
+                          <li class="btn-group">
+                            <label class="btn">
+                              <input id="useragent5" name="useragent" type="radio" value="5" autocomplete="off"> IE 11.0 for Desktop Win7
+                            </label>
+                          </li>
+                          <li class="btn-group">
+                            <label class="btn">
+                              <input id="useragent6" name="useragent" type="radio" value="6" autocomplete="off"> Safari Generic MacOSX
+                            </label>
+                          </li>
+                          <li class="btn-group">
+                            <label class="btn form-control">
+                              <input id="useragent7" name="useragent" type="radio" value="7" autocomplete="off"> Safari X11 MacOSX
+                            </label>
+                          </li>
+                        </div>
+                        </ul>
+                      </div>
+                    </span>
+                  </div>
+                </div>
+              </form>
+              </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
               <li class="dropdown">
@@ -195,10 +258,69 @@
   ga('send', 'pageview');
 
 </script>
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+      $('#formCheck').on('submit', function(event){
+        event.preventDefault();
+        console.log("Checking URL."); // sanity check
+        var checkingDialog = bootbox.dialog({className: "checkingModal", closeButton: false, title: "<span class='glyphicon glyphicon-time'></span> Checking URL...",
+        message: "<div class='progress progress-striped active'><div class='progress-bar' role='progressbar' aria-valuenow='100' aria-valuemin='0' aria-valuemax='100' style='width: 100%'></div></div>"});
+        var form = $("#formCheck");
+        $.ajax({
+          url: "/submit/",
+          type: "POST",
+          data: form.serialize(),
+          dataType: "json",
+          success: function(data) {
+            if (data.is_success) {
+                window.location.href = "/" + data.sid + "/details";
+              } else if (data.match_found) {
+                console.log("Match found.");
+                checkingDialog.modal("hide");
+                var matchDialog = bootbox.dialog({
+                  className: "matchModal",
+                  message: "This URL was last checked on: " + data.last_checked,
+                  title: "URL Analysis Found",
+                  closeButton: false,
+                  buttons: {
+                    checkAgain: {
+                      label: "Check again",
+                      callback: function() {
+                        $('.matchModal').modal('hide');
+                        checkingDialog.modal('show');
+                        $.ajax({
+                          url: "/submit/",
+                          type: "POST",
+                          data: data.form,
+                          dataType: "json",
+                          success: function(data) {
+                            if (data.is_success) {
+                              window.location.href = "/" + data.sid + "/details";
+                            } else {
+                              window.location.href = "/";
+                            }
+                          }
+                        });
+                      }
+                    }
+                  ,
+                  viewAnalysis: {
+                    label: "View that analysis",
+                    className: "btn-primary",
+                    callback: function() {
+                      window.location.href = "/" + data.sid + "/details";
+                    }
+                  }
+                }});
+              } else {
+                  window.location.href = "/";
+              }
+          }
+
+        });
+      });
+    </script>
+   <!-- Placed at the end of the document so the pages load faster -->
+   <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script type="text/javascript">
       // $('#btnCheck').click(function(evt){
       //   evt.preventDefault();
@@ -216,7 +338,7 @@
       });
       $(function () {
         $('[data-toggle="tooltip"]').tooltip()
-      })
+      });
       $('#login').popover({
 
         placement: 'bottom',
