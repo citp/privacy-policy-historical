@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the teleserye.su privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209100907id_/http%3A//www.teleserye.su/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleserye.su privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831101953id_/http%3A//www.teleserye.su/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinoy Tambayan | Pinoy TV | Pinoy Teleserye Replay | Teleserye.Su
+# Privacy Policy | Teleserye | Pinoy Ako | Pinoy Tambayan | Pinoy TV | Pinoy Teleserye Replay
+
+ 
 
 ### Introduction
 
@@ -24,7 +26,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 ### 5\. Editing or deleting your account information
 
-You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator _**teleserye@hotmail.com**_. Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor’s discretion, even after your user account is deleted. Please see the site’s [Terms of use](http://www.teleserye.su/terms-of-service/) for more information.
+You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator _**Teleserye.su [at] gmail [dot] com**_. Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor’s discretion, even after your user account is deleted. Please see the site’s [Terms of use](http://www.teleserye.su/terms-of-service/) for more information.
 
 ### 6\. Changes to this privacy policy
 
@@ -36,4 +38,4 @@ While this privacy policy states standards for maintenance of data, and while ef
 
 ### 8\. Contact information
 
-If you have any questions about this policy or about this web site, please feel free to contact the site administrator _**teleserye@hotmail.com**_.
+If you have any questions about this policy or about this web site, please feel free to contact the site administrator _**Teleserye.su [at] gmail [dot] com**_.
