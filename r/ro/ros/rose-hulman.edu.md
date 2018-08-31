@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rose-hulman.edu privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005033456id_/http%3A//www.rose-hulman.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rose-hulman.edu privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831052649id_/https%3A//www.rose-hulman.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Rose-Hulman
 
 Rose-Hulman Institute of Technology has created this privacy statement in order to demonstrate its firm commitment to the privacy of our visitors, and to describe the information-gathering and dissemination practices for the website.
 
-This Web site may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process involving the website.
+This website may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process involving the website.
 
 All information provided to Rose-Hulman electronically is kept confidential and will not be applied in ways to which visitors have not consented. Rose-Hulman will not sell or disclose any information that identifies a visitor to a third party without that visitor’s consent.
 
