@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725135947id_/https%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831044742id_/https%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last modified: June 23, 2017_
+_Last modified: May 22, 2018_
 
 This policy describes the types of information our company ("Company", "us", "we", "our") may collect from you or that you may provide when you visit the website www.convertunits.com (our "Website") and our practices for collecting, using, maintaining, protecting, and disclosing that information. We respect your privacy and are committed to protecting it through our compliance with this policy. This policy applies only to the pages on the Website. Other sites, which are linked from this Website, are governed by their policies so please carefully review their policies when using their sites.
 
 This policy applies to information we collect:
 
   * On this Website.
-  * In electronic messages between you and us, such as when you interact with us via our [contact us](http://www.convertunits.com/contact/) link.
+  * In electronic messages between you and us, such as when you interact with us via our [contact us](https://web.archive.org/contact/) link.
   * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
@@ -36,6 +36,17 @@ Additionally, we may collect:
 
 
 
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on the services of the site you use and how you use them. This means we collect and use your information only where:
+
+  * We need it to provide you the services, including to operate the services, provide customer support and personalized features and to protect the safety and security of the services;
+  * It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;
+  * You give us consent to do so for a specific purpose; or
+  * We need to process your data to comply with a legal obligation.
+
+
+
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we or a third party have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
+
 Advertisements on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with other tracking technologies to collect non-personally identifiable information about you when you use our Website in order to provide you with their general and interest-based advertising. We do not control third parties' collection or use of your non-personally identifiable information to serve interest-based advertising. You can opt out of many ad networks using these links:
 
   * The NAI opt out page: <http://www.networkadvertising.org/choices/>
@@ -52,6 +63,6 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-<http://www.convertunits.com/contact/>
+[https://www.convertunits.com/contact/](https://web.archive.org/contact/)
 
-If you use this form, we ask you to enter your name and e-mail address so that we can reply to you directly. This information is not shared with any other companies or sites.
+If you use this form, we ask you to enter your name and e-mail address so that we can reply to you directly. This information is not shared with any other companies or sites. You can also email us directly using the email address "info" at convertunits.com
