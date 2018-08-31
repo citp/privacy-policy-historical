@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingvf1.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511111558id_/http%3A//www.streamingvf1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingvf1.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831135158id_/http%3A//www1.streamingvf1.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | streamingvf tv : Regarder des film,series,anime streaming vf gratuit
 
