@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phishcheck.me privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114153354id_/https%3A//www.phishcheck.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phishcheck.me privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831044110id_/https%3A//phishcheck.me/privacy-policy) for the most accurate reproduction.*
 
 # Phishcheck 2.0 beta - Privacy Policy
 
