@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007072026id_/http%3A//www.rent-acoder.com/page/privacy-policy/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831234949id_/https%3A//www.rent-acoder.com/page/privacy-policy/3) for the most accurate reproduction.*
 
 # Privacy policy - Qualified web programmers and designers
-
-## Privacy policy
 
 Rent A Coder (We, Us, dot com systems) is committed to respecting your right to privacy while using our site.
 
@@ -48,3 +46,5 @@ Any information we collect, including your e-mail and mailing address, are not s
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. No one can view your account information without your password, which you can change anytime you want. Credit Card information is not an issue since [Rent-ACoder.com](http://www.rent-acoder.com/) uses a third party service for secure credit card transactions.
 
 The use of our Web Site is solely at their own risk on an "as is", "as available" basis. Information on our website is provided for general purposes only and is not intended to render accounting, tax, consultative, investment, consulting, legal or other professional advice or services, in any form.
+
+This website uses cookies to offer you the best experience online and for statistical purposes. By continuing to use our website, you agree to the use of cookies.[Close message](https://web.archive.org/#)
