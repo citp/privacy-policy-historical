@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softtester.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617160543id_/http%3A//softtester.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softtester.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901021024id_/http%3A//www.softtester.com/privacy.shtml) for the most accurate reproduction.*
 
 # Free Software Downloads | Free Trial Software | Shareware Programs | Freeware Programs
 
-We can be reached via our [contact form](https://web.archive.org/web/20170617160543id_/http%3A//softtester.com/contactus.shtml).
+We can be reached via our [contact form](https://web.archive.org/web/20180901021024id_/http%3A//www.softtester.com/contactus.shtml).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
