@@ -1,37 +1,33 @@
-> *The following text is extracted and transformed from the luxurybazaar.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053518id_/http%3A//registerfly.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurybazaar.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901113957id_/https%3A//www.luxurybazaar.com/privacy) for the most accurate reproduction.*
 
-# RegisterFly.com | PRIVACY POLICY
+# Privacy Policy
 
-  
-|  |    
-|  |  |  |   
----|---|---|---  
-| 
+LuxuryBazaar.com is a website that is protected by state of the art Internet security. We take the security of our customers very seriously and always make sure that all your information is being passes behind a veil minimum of 2048 bit SSL encryption with keys from VeriSign while on the website. Once the information is on our server, it is encrypted using 2048-bit AES encryption.
 
-**This statement discloses the privacy practices for the entire website.**
+**Personal Info:**
 
-  * Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with our site or to access those features that require registration.
+Your personal information is very important and we treat it as such. All your information such as name, address and especially your payment information is held privately and will only ever be used for billing, verification and shipping purposes.
 
+We value your patronage and your privacy. Rest assured that we are in no way the type of people to share your information. We have policies in place to treat your information with the same level of security as we do our products.
 
-  * Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed.
+**Information Collection:**
 
+Browsing our site requires that you submit no information about yourself whatsoever. However, when you do voluntarily submit your information such as name, email, address, and credit card information for the purpose of a purchase, you are consenting that we are able to use that information to get you your product. You are giving us consent to the collection, use and disclosure of your personally identifiable information and you understand and agree that we may share information about you and your transaction with our business partners solely for the purpose of getting your goods to you. This will include fraud prevention, vendor direct shipping and credit card authorization. We may also disclose such information when you ask us to do so, when you need to be identified or contacted, to protect your rights as well as the rights of LuxuryBazaar.com or as require by law.
 
-  * The information gathered by RegisterFly.com (1) information supplied by visitors to the site and (2) Information relative to registering domain names, and using Registerfly.com products and services.
+**Email:**
 
+When you are visiting our website or communicating with us electronically, you consent to receive communications from us. We will communicate with you by e-mail or by posting notices on our website. You agree that all agreements, notices, disclosures, and other communications we provide to you electronically satisfy any legal requirement that such communications be in writing.
 
-  * 1\. To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see that same ad repeatedly when you visit our site. Cookies don't reveal personal information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read data off your hard disk.
+**Cookies and Other Data Collection Devices:**
 
+From time to time LuxuryBazaar.com collects non-personal data through cookies, web logs, and other web monitoring technologies. A cookie is an element of data that frequently contains an anonymous unique identifier. Such data is sent from the website to your browser, which may then store it on your system for future use.
 
-  * Our webserver automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. This information does not identify you personally.
+LuxuryBazaar.com uses cookies to maintain information for your shopping cart and to facilitate your shopping experience so that you will not need to continually re-add items to your shopping cart during the same browser session. We keep track of recently viewed items and other helpful features. All this is standard e-commerce practice used widely on the entire World Wide Web.
 
+**Logs:**
 
-  * Any information gathered from this site is held in the strictest confidence and are not shared with ANY outside parties or interest. **
+When you visit our website, our web server automatically collects readily available information provided by your web browser or ISP such as IP addresses. We mostly use this information for demographic purposes, as well as improving our site design, product assortments, customer service, and special promotions.
 
-   **By using this service, you accept the terms of our Agreement.**
+**Fraud:**
 
-**
- ****
-****
-
-|  |    
-|  |  | 
+As a seller of High End Goods, we are a primary target for online fraud and we approach this very seriously. If we receive a fraudulent order, we will notify and cooperate with the Local and Federal authorities. We do this to protect ourselves and our customers. Everything acquired during the process of fraudulent orders will immediately be turned in to the proper authorities in your immediate area. If you plan on committing fraud against us, DO NOT waste your time, we have seen it all, it will not work with us!
