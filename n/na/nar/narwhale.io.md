@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narwhale.io privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711143442id_/http%3A//narwhale.io/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narwhale.io privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901144834id_/http%3A//narwhale.io/pages/privacy.html) for the most accurate reproduction.*
 
 # contact narwhale.io
 
