@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fboom.me privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705155401id_/http%3A//fboom.me/page/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fboom.me privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901112657id_/http%3A//fboom.me/page/policy.html) for the most accurate reproduction.*
 
 # FileBoom Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy may be revised from time to time. By using the Service, you 
 
 **Managing Your Information Preferences**
 
-You can review, correct, update, or change your Personal Information, or opt out of any direct marketing in which we may engage, by changing the relevant setting in your FileBoom profile or account (if you have one), or by e-mailing us at support@FileBoom.com. If you have questions or concerns regarding this Privacy Policy, please e-mail us at support@FileBoom.com. 
+You can review, correct, update, or change your Personal Information, or opt out of any direct marketing in which we may engage, by changing the relevant setting in your FileBoom profile or account (if you have one), or by e-mailing us at [[email protected]](http://fboom.me/cdn-cgi/l/email-protection) If you have questions or concerns regarding this Privacy Policy, please e-mail us at [[email protected]](http://fboom.me/cdn-cgi/l/email-protection)
 
 **Information We Collect and How We Collect It**
 
