@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitaminwater.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303221346id_/https%3A//us.coca-cola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminwater.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901094959id_/https%3A//us.coca-cola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
