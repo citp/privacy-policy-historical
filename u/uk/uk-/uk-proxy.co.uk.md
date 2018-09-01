@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-proxy.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111435id_/http%3A//www.uk-proxy.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-proxy.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901064803id_/http%3A//www.uk-proxy.co.uk/privacy.php) for the most accurate reproduction.*
 
 # UK Proxy Server
 
