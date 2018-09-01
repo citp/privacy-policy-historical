@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxofficeincome.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051704id_/http%3A//boxofficeincome.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficeincome.in privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901161917id_/http%3A//boxofficeincome.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Box Office Income- Movie Box Office Report, Reviews & Latest Update
+# Privacy Policy - Box Office Income
 
 BoxOfficeIncome.in has published this privacy policy in order to declare our website commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
@@ -47,9 +47,3 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Contacting the Website**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us.
-
-* * *
-
-**Disclaimer**
-
-Content we publish on our website is provided by our local analysts and also from official sources. We never claim that the Business stats of any movie, we disclosed here is 100% correct but it is a precise figure. We appreciate are users, if they will help us to serve correct information. You can contact us anytime, regarding our website content.
