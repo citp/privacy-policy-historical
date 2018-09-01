@@ -1,48 +1,56 @@
-> *The following text is extracted and transformed from the mobile-phones.co.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221130346id_/https%3A//www.mobile-phones.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-phones.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901161056id_/https%3A//www.mobile-phones.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile-phones.co.uk
 
-### Introduction
+Mobile Phones (a trading name of UK Web Media Ltd) takes your privacy seriously.  This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential, and how we use any personal information collected from you through the use of this site.
 
-This privacy policy sets out how UK Web Media LTD ("UK Web Media") uses and protects any information that you give UK Web Media when you use this website.
+Please read this Privacy Policy carefully; once you use our website and services you will be regarded as having read and accepted it.  
 
-UK Web Media is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+UK Web Media Ltd (company number 04388827) is the data controller in relation to the Services and your personal data collected on our site.  Our registered address is The Cart Wagon Lodge, Friday Street Farm, Friday Street, East Sutton, Kent, ME17 3DD. 
 
-UK Web Media may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3rd August 2009.
+### **What personal information do we collect and how do we use it?**
 
-### What We Collect
+Our website contains links to enable you to visit other websites of interest easily; once you use these links you will leave our site and should note that we do not have any control over that other website.  We are only responsible for data that you provide to us during use of our site; we are not responsible for the protection and privacy of any information which you provide whilst visiting those other sites, and such sites are not governed by this privacy statement.  Please refer to the privacy policy applicable to the website you are using.
 
-We may collect the following information:
+Once you begin to use our site we will collect your Internet Protocol (IP) address; this may be processed at a later date if we are asked to investigate fraudulent activity on our site.  
 
-name and title  
-contact information including email address and phone number  
-demographic information such as postcode, preferences and interests  
-other information relevant to customer surveys and/or offers
+If you have requested to be kept informed of services that we offer, we will contact you using the details you provide.
 
-### What we do with the information we gather
+Processing is also carried out for the purposes of ‘legitimate interests’ pursued by us, or our agents and service providers, utilising the least amount of personal data necessary for the particular task.  Mobile Phones may disclose and use personal information collected about you within its own organisation for the purpose of internal business administration and analysis, completing any transaction you are undertaking with us, providing any goods or services to you, associated administration, or obtaining professional advice. We may need to pass your data to our agents and service providers, which may involve passing your data outside of the European Economic Area; we have appropriate safeguards in place for when that happens, which include using appropriate contractual clauses and ensuring that the third party is appropriately accredited to process personal data safely.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: · Internal record keeping.
+If you request to be kept informed of services that we offer your data may be used for marketing purposes by all divisions of UK Web Media Ltd.  If you have used the service through a third party we will share contact details with them, or their marketing partners and agencies in line with their normal practice.
 
-We may use the information to improve our products and services.
+### **We will not rent, trade, or sell your data to others.**
 
-We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+If you have any queries about the data we hold about you, or about the safeguards we have in place to protect it, you can contact our Head of Quality and Compliance at  [data@ukwebmedia.com](mailto:data@ukwebmedia.com).
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * Your data will be stored securely for a period of 7 years to comply with financial requirements.  
+  * By using the website you are also agreeing to the use of personal information by UK Web Media Ltd and regulatory/governing bodies for the purpose of compliance monitoring.
+  * If you enter a contest or another promotion, we will use the data so that we can administer the contest, or promotion, and notify any winners.
 
-We may use the information to customise the website according to your interests.
 
-### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+### **Security**
 
-### How we use cookies
+Our website is a "Let’s Encrypt Secure Site" and keeping information about you secure is very important to us, however, no data transmission over the internet can be guaranteed to be totally secure.  As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.  Sensitive information, for example your security information and credit card details, is encrypted to minimise the risk of interception during transit.
+
+  
+We have security procedures in place to protect the loss, misuse, or alteration of information under our control.  We have security measures in place to protect its user database and access to this database is restricted.  All information collected, or processed via the website is encrypted making it secure, inaccessible, and unrecognisable to any third parties.
+
+We have put procedures in place to deal with any suspected personal data breaches and will notify you and the supervisory authority of a breach where we are legally required to do so.
+
+### **Cookies**
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but [you can usually modify your browser setting to decline cookies if you prefer](http://www.aboutcookies.org.uk/managing-cookies). This may prevent you from taking full advantage of the website.
 
-### Links to other websites
+### **Your Rights**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+You have the right to request access to your data; have it amended if it is not correct; place restrictions on, or object to its processing; request erasure of your data; and have the right to data portability (provided in a format which other companies are able to use).  If requesting any of the above please state the service you used (Mobile Phones in this case) and provide in writing, or by email to [data@ukwebmedia.com](mailto:data@ukwebmedia.com).
 
-  Controlling your personal information You may choose to restrict the collection or use of your personal information in the following ways:
+If you opt into marketing permission you have the right to change your mind at any time; you can do so by emailing us at [optout@ukwebmedia.com](mailto:customerservices@ukwebmedia.com).
+
+You have the right to lodge a complaint with the Information Commissioner’s Office (ICO), the UK’s supervisory authority for data protection issues.  If you have a concern we would appreciate the opportunity to deal it before you approach the ICO and request that you contact us in the first instance.
+
+We may amend our Privacy Policy from time to time.  If we make any substantial changes in the way your personal information is used we will make that information available by posting a notice on the website.
