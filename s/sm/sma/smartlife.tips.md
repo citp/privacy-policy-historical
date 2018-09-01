@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartlife.tips privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910230010id_/http%3A//smartlife.tips/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlife.tips privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901162149id_/http%3A//smartlife.tips/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – SmartLife
+# Privacy Policy - SmartLife
 
 Last updated: April 30, 2017
 
