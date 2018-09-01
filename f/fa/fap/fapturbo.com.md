@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fapturbo.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503093740id_/http%3A//fapturbo3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapturbo.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901233655id_/https%3A//fapturbo3.com/privacy) for the most accurate reproduction.*
 
 # FapTurbo 3.0 › Privacy
 
