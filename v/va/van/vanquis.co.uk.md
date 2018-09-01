@@ -1,489 +1,335 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184919id_/https%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901122711id_/https%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Vanquis
 
-**June 2016**
+## Privacy Notice
 
-This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0330 099 3000 ([Please click here for opening hours and call charge information](https://www.vanquis.co.uk/contact-us/telephone-number-and-call-charge-information)) before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions. 
+This notice explains how we use your personal data, describes the categories of personal data we process and for what purposes. It applies when you use this website or any of our apps or when you apply for or [use any of our credit cards and related products](https://web.archive.org/credit-cards) or services. We are committed to collecting and using personal data fairly and in accordance with the requirements of the General Data Protection Regulation (GDPR).
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. “We/our/us” refer to Vanquis Bank Limited (Company number 02558509) whose registered office is at No. 1 Godwin Street, Bradford, West Yorkshire BD1 2SU is a member of the Provident Financial Group (the Group). The Group is a financial services group specialising in the provision of short to medium term retail consumer loans.
+We are committed to ensuring that your information is kept safe, secure and used responsibly, and we have put in place appropriate technical and other security measures to protect it.
 
-##  What information do we collect?
+## Who we are
 
-In general, you can use this website without giving us any information. However, additional products and services may be available if we have certain information about you.
+Vanquis Bank Limited (Company Number 02558509) whose registered office is at 1 Godwin, Street, Bradford, West Yorkshire BD1 2SU, a member of the Provident Financial Group (the Group). You can get in touch with our Customer Services Department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or by telephone on 0330 099 3000. Please [click here](https://web.archive.org/contact-us/telephone-number-and-call-charge-information "Click here for call charge information") for opening hours and call charge information.
 
-To do this we may collect your name, contact information and personal details
+Other firms within the Provident Financial Group with which we may share your personal data are:
 
-##  What do we do with the information we collect?
+  * Provident Personal Credit Limited. Registered number 146091 England.
+  * Provident Financial Management Services Limited. Registered number 00328933 England.
 
-We use this information to provide you with a better service, and in particular for the following:
 
-  * To send you details of products and services we believe you may be interested in;
-  * To provide answers to your questions asked via the website;
-  * For internal record keeping; and /or
-  * To third parties that help analyse the website in order to provide a better service to our customers
-  * To improve the content of our website
 
+The registered address for these companies is: No. 1 Godwin Street, Bradford, West Yorkshire, BD1 2SU.
 
+  * Moneybarn Limited. Registered number 02766324 England.
+  * Moneybarn No. 1 Limited. Registered number 04496573 England.
 
-We may contact you by mail, email, phone, fax, text unless you have registered with the appropriate Preference Service.
 
-## Direct marketing
 
-We would like to provide you with information about products and services which we think you may find interesting. We may send you such information by post, email, telephone or mobile text and/or messaging service (SMS) unless you have registered with the appropriate Preference Service. When you provide us with information, you will be given the option to let us know that you do not want your information used for direct marketing purposes. If you request this option, we will not send you any direct marketing.
+The registered address for these companies is: The New Barn, Bedford Road, Petersfield, Hampshire, GU32 3LJ.
 
-You can change your mind at any time by contacting Vanquis Card, Customer Service, PO Box 399, Chatham, ME4 4WQ. 
+## What kind of personal information we use
 
-**You have a legal right to prevent your information being used for direct marketing purposes.**
+We use many different kinds of personal information depending on the products and services we deliver or offer to you or how we otherwise interact with you. For all products and services we need to use the following personal data: full name, address, email address, telephone number, date of birth, contact details, employment, information about your credit history, information about those to whom you are financially linked, information about how you have used other products and services provided by us or other members of the Provident Financial Group, information we receive from credit reference and fraud prevention agencies, and other financial information. Where you use our websites, we will collect your Internet Protocol (IP) address and information about your browsing behaviour.
 
-## Email/Text marketing 
+We might also need health information to help us support our customers who have a vulnerability.
 
-We would also like to provide you with the information above by email and/or text. However, we appreciate that email and text “spam” has become a problem in recent years. Therefore we would only use one of these methods to market to you if you have indicated your consent. If you are a customer or you have previously asked us for information on our products, we may send you information on our range of products and/or services by email and/or text, unless you have asked us not to do so.
+## How we collect your personal data
 
-If the reason you have given us personal information is to receive email and/or text information from us, we will continue to provide this information by email unless you ask us not to do so.
+We collect personal data:
 
-Otherwise, when you provide us with personal information, we will ask you whether or not you are happy for us to send you this kind of information by email and/or text.
+  * directly from you, for example when you fill out an application form either in paper or on our website or mobile app (at that stage we will tell you more about how your personal data will be used in relation to a particular product or service);
+  * by observing how you use our products and services, or those of other members of our Group, for example from the transactions and operation of your accounts and services, or your use of our websites;
+  * profile data and usage data which relates to the profile you create to identify yourself when you connect to our internet or mobile services and how you use those services;
+  * from other organisations such as credit reference and fraud prevention agencies;
+  * from organisations to which you have given your consent (or there is an alternative legal basis) to share your personal data with us for specific purposes, such as for direct marketing;
+  * from other individuals who know you; and
+  * from public sources, such as the ‘Open Register’, which is an extract of the electoral register, but is not used for elections. You can opt out of being included in the register. Doing so, will not affect your right to vote. For more information, please go to: <https://www.gov.uk/electoral-register/view-electoral-register>
 
-If you are a former customer or if your application was declined, we will contact you for these purposes by email and/or text for a period of up to three years from either the date of your account being closed, or from the date you made your most recent declined application.
 
-If you decide at any time that you no longer wish to receive marketing emails and/or texts from us, please write to us at Vanquis Card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
 
-  
+## How we use your personal data
 
+Data protection law says that we can only use personal data if we have a proper reason to do so. For example, these reasons include fulfilling a contract we have with you, when we have a legal duty, when it is in our legitimate interest or when you consent to its use. When data protection law allows us to process your personal data for our own legitimate interests, it is only allowed provided those interests do not override your own interests and/ or your fundamental rights and freedoms.
 
-##  Managing your account and processing your application
+An example of where we would process your personal data for our legitimate interests would be where you believe you are the victim of fraud and in order to investigate your claim we may have to share your name and account number, payment and other details of the case with any other bank involved. Sharing personal data in these circumstances would not only be in our legitimate interest but also yours. An example of us using your personal data when we have a legal duty, is where we must do so in order to comply with anti-money laundering obligations.
 
-We will process, by computer or otherwise, personal information about you whilst we are assessing your application and/or managing your Account. We may search your credit record at credit reference agencies in relation to your application or for managing your Account, and they will supply us with credit and/or identification information.
+## Our purposes for processing your personal data
 
-Details of our search will be added to their records whether or not your application is successful. Credit and identification information about you and those with whom you are financially linked, which is provided to us and credit reference agencies, may be used by us and other companies to make credit decisions about you and other members of your household. Any of this information may also be used for identification purposes, debt tracing and prevention of money laundering, as well as the management of your Account. 
+We will only ask you for your personal data where it is necessary to fulfil the following purposes. Where providing us with your personal data is optional, we will inform you of this. Our purposes are grouped under our legal bases for processing.
 
-When assessing your application, we may use credit scoring or other automated decision making facilities. We will, on a regular monthly basis, provide details of the performance of your Account to credit reference agencies. This information may be used by other companies to make decisions about credit and credit-related services for you and other members of your household. It is important that you give us accurate information. We will check your details with fraud prevention agencies and if you give us false or inaccurate information and we suspect fraud, we will record this. 
+## Entering into and fulfilling a contract between you and us
 
-We and other organisations may search and use these records to: 
+  * To consider and process applications made by our customers and prospective customers for products and services we provide.
+  * To deliver the products and services we provide, including: 
+    * Making and accepting payments, and receiving deposits on your behalf;
+    * Providing you with information, advice and guidance on the products and services you hold;
+    * This includes account statements, formal reminders and notices informing you of forthcoming changes, such as increasing or decreasing credit limits on your credit card;
+    * Calculating interest and, where relevant, determining fees and charges which may apply to your account; and
+    * To address enquiries or complaints we may receive from you or a representative appointed by you.
 
-i) help make decisions about credit and credit-related services for you and members of your household; 
 
-ii) help make decisions on motor, household, credit, life and other insurance proposals and insurance claims for you and members of your household; 
 
-iii) trace debtors, recover debt, prevent fraud, and manage your Account(s) or insurance policies; and/or
+## Fulfilling our legal obligations
 
-iv) check your identity to prevent money laundering unless you provide us with other satisfactory proof of identity. 
+  * Checking your identity;
+  * Conducting assessments of your creditworthiness [when you apply for a credit product, through](https://web.archive.org/check) sharing your personal data with credit reference agencies (please see the section headed ‘[Credit Reference Agencies](https://web.archive.org/privacy#CRAs "Jump to 'Credit Reference Agencies'")’ below);
+  * Assisting you with managing the products and services you hold;
+  * Detecting, investigating and reporting financial crime, and taking measures to prevent this;
+  * Maintaining records of our business, as required by law – for instance, keeping records of our accounts;
+  * Complying with laws which require us to provide information, directly or indirectly to any national authority, for the purpose of calculating and collection of tax;
+  * To otherwise meet our obligations under all laws and regulations based on law which apply to our business activities;
+  * Responding to enquiries and requests for information by any of our Regulators;
+  * Creating and submitting reports required by any of our Regulators;
+  * Identifying and managing risks to our organisation; and
+  * Where we have a duty to protect vulnerable customers.
 
-We, the credit reference agencies, the fraud prevention agencies and/or the Provident Financial group may use the fraud prevention agency and/or credit performance records for statistical analysis about credit, insurance and fraud. We may also use your information to carry out market research. 
 
-For the purposes of managing your Account, credit assessment and analysis, your information may be shared within the Provident Financial group and outside the group to: 
 
-i) our agents, processors and sub contractors; 
+## For our legitimate interests
 
-ii) any of our approved suppliers; 
+  * As a commercial organisation: 
+    * Understanding how our customers use our products and services, so we can improve these.
+    * Developing new products and services and identifying which may be of interest to you – this may involve profiling;
+    * Where we have the relevant permissions, contacting you to make you aware of these products and services – note: we may contact you for a reasonable period after you cease your relationship with us;
+    * Sharing information with organisations who introduce you to us under a commercial agreement – for instance, where we pay them commission;
+    * Sharing information for the purpose of ensuring your ongoing creditworthiness, throughout the life of your credit product (please see the section headed ‘[Credit Reference Agencies](https://web.archive.org/privacy#CRAs "Jump to 'Credit Reference Agencies'")’ below);
+    * Improving our systems and processes, which may include using your personal data to test the accuracy of these, but only where it is essential to do so;
+    * To recover money owed to us;
+    * To otherwise exercise our rights under our contracts with you for the provision of the products and services you hold;
+    * Sharing your personal data with other firms within the Provident Financial Group for business analysis, data verification and data enrichment purposes
+    * To invite you to participate in market research and customer surveys;
+    * To sell to, or purchase debts from other firms;
+    * Sharing your personal data with any person to whom we may transfer, or may consider transferring any of our rights or business; and
+    * To share information with third parties for the purpose of preventing fraud and financial crime (see section headed, ‘Fraud Prevention Agencies’ below).
 
-iii) the police, if required by law; and/or
 
-iv) any relevant regulatory authority, if required by law. 
 
-We may contact you by post, email, telephone or mobile text and/or messaging service (SMS) about products or services relating to your account or application. 
+**Please see the section headed ‘[Your Privacy Rights](https://web.archive.org/privacy#YPR "Jump to 'Your Privacy Rights'")’ for information on your right to object to processing of your personal data based on our legitimate interests.**
 
-## Who do we share this information with?
+## Where we require your consent / explicit consent
 
-  * To any person to whom we transfer our rights or obligations under the agreement;
-  * If we are compelled to do so by law and for fraud prevention purposes;
-  * To licensed credit reference agencies to help us and others make credit decisions;
-  * To third parties to enable them to provide details of products or services you may be interested in with your consent;
-  * To Group to enable it to provide details of products or services you may be interested in with your consent; and/ or
-  * Within Vanquis Bank.
+  * To process about you, where necessary, ‘special categories of personal data’ – this includes data about your: 
+    * Health;
+    * Race or ethnicity;
+    * Religion or other beliefs of a similar nature;
+    * Sexual life or orientation;
+    * Trade Union membership;
+    * Political opinions; and
+    * Genetic or biometric data about you.
 
 
+  * We may process personal data about your health or medical conditions, where we need to understand this to provide you with support, or to make adjustments in how we provide you with information.
+  * Sharing your personal data with other organisations, including those within the Provident Financial Group, to make you aware of their own products and services.
 
-We will not transfer, disclose, sell, distribute or lease your personal information to third parties other than potential purchasers of our business without your permission unless this is necessary for the reasons set out in the “What we do with the information we collect” section or where we are required to do so by law. We may release your personal information to our authorised direct marketing or other agents unless you tell us that you do not wish this to happen.
 
-  
 
+## Retaining your personal data
 
-## How to get copies of or amend the information we have collected
+We will retain your personal data for as long as we are obliged, under relevant legislation and regulation, or where no such rules apply, for no longer than it is necessary for our lawful purposes. This will usually be no more than seven years from the point at which the obligation to retain a record containing your personal data begins. The retention period of your personal data may need to be extended where we require this to bring or defend legal claims. We may also retain data for longer periods for statistical purposes, and if so we will anonymise or pseudonymise this.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 if you apply in writing. You are also entitled to request that any inaccurate information be amended or deleted. **You have a legal right to this information.** A small fee will be payable. If you would like a copy of the information held on you please write to Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ.
+## Using data processors and transferring your personal data overseas
 
-If you think any information we have about you is incorrect or incomplete, please write to us. We will correct or update any information as soon as possible.
+We may use service providers, agents and subcontractors to provide services on our behalf. This may require these organisations to access and process your personal data. We have listed our third party partners and categories of suppliers we use in Appendices 1 and 2.
 
-  
+From time to time your personal data may be transferred to organisations that are based in countries outside the European Economic Area. In these circumstances, we will ensure they process your personal data only in accordance with the applicable data protection legislation and under strict organisational and contractual controls, specifically EU model clauses. We also use the EU Commission approved EU-US Privacy Shield framework, where appropriate, when personal data is processed on our behalf in the USA. For more information about these controls, please visit [https://ico.org.uk](https://ico.org.uk/ "https://ico.org.uk") and search for ‘International transfers’.
 
+## Your Privacy Rights
 
-## Call Recording
+You have the right to object to how we process your personal data. You also have the right to see what personal data we hold about you. You can ask us to correct inaccuracies, delete or restrict personal data or ask for some of your personal data to be provided to someone else. These rights are explained in more detail below.
 
-We may monitor or record phone calls for training and/or security purposes.
+Requests to exercise your rights to your personal data can be made by:
 
-  
+  * By post: to “Attention: Data Rights Team, Vanquis Bank, PO Box 399, Chatham, ME4 4WQ”
+  * By telephone: on 0330 099 3000
 
 
-##  Security 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we cannot guarantee the security of any data you disclose online. You should be aware of the inherent security risks of providing information and dealing online over the internet. You do not hold us responsible for any breach of security unless this is due to our negligence or willful default.
+Our Data Protection Officer can be contacted at the address above.
 
-  
+Your data protection rights are subject to certain restrictions and conditions. We will assess your request and where we decide not to act upon this, we will notify you of our reasons for this. We will not make a charge for handing your rights request, unless we consider this to be manifestly unfounded or excessive (particularly if this is repetitive).
 
+You have the right to complain to us and to the data protection regulator, the Information Commissioner’s Office, whose address is: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF. Telephone: 0303 123 1113. You can find out how to report a concern on their website at: <https://ico.org.uk/reportaconcern>
 
-## Linking 
+## Your rights are:
 
-We may link to other websites which are not within our control. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the website in question.
+**To be informed:** You have the right to be provided with clear, transparent and easily understandable information about how we use your personal data and your rights. We fulfil this right by giving you this notice.
 
-##  What are Cookies?
+**Access to your personal data:** You can request access to a copy of your personal data that we process as a data controller, together with details of why we use it, who we share it with, how long we keep it for and whether it has been used for any automated decision making.
 
-We use cookies for certain areas of our website.
+**Right to withdraw consent:** If you have given us your consent, you can withdraw that consent at any time. Please contact us if you want to do so. If you withdraw your consent, we may not be able to provide certain products or services to you. If this is the case, we will tell you.
 
-Cookies are small files that store information on your hard drive or browser that means that our website can recognise that you have visited our website before.
+**Right to object:** You may object to our processing of your personal data by us, where this processing is based on our legitimate interests or in the public interest. We will assess whether our interest in continuing to process your personal data overrides your rights and freedoms. If not, we will stop processing your personal data. Either way, we will inform you of the outcome.
 
-Cookies can't harm your computer and we don't store personally identifiable information (such as your name, address or credit card details in cookies we create), but we do use encrypted information gathered from them to help improve your experience of the site. For example, cookies make it easier for you to maintain your preferences on the website, and by seeing how you use the website, we can tailor the website around your preferences and measure usability of the website.
+You have the right to object to direct marketing (including marketing-related profiling) and if you do so, we must stop these types of activities. (See “[Automated decision making and profiling](https://web.archive.org/privacy#ADM "Jump to 'Automated decision making and profiling'")” and “[Marketing](https://web.archive.org/privacy#Marketing "Jump to 'Marketing'")” below.)
 
-You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. Your cookie settings are set separately for each different device, computer or browser and if you want to change your cookie settings you will need to do so for each device, computer or browser.
+**Rectification:** You can ask us to change or complete any inaccurate or incomplete personal data held about you.
 
-If you disable cookies, you'll still be able to browse the site but you will not be able to use all the features, for example the ability to view your account online. Most web browsers have cookies enabled by default, if you want to review your cookie setting please see the section entitled Managing cookies.
+**Erasure:** This is also known as “the right to be forgotten” and this means that you can ask us to delete your personal data where it is no longer necessary for us to use it, you have withdrawn consent (where applicable), or where we have no lawful basis for keeping it or otherwise using it. There are limited exceptions, for example where we need to use the information to bring or defend a legal claim.
 
-  
+**Portability:** You can ask us to provide you or a third party with some of the personal data that we hold about you in a structured, commonly used, electronic form, so it can be easily transferred. This is limited to personal data you have provided with your consent or in relation to the products you have with us, and which we process by automated means, such as your account transaction data.
 
+**Restriction:** You can ask us to restrict the personal data we use about you where:
 
-## Further reading about Cookies:
+  * it is inaccurate;
+  * you have asked for it to be erased;
+  * you have objected to our use of it; or
+  * where you need this for the bringing or defending of legal claims.
 
-**Information about cookies**
 
-More information about cookies is available at:
 
-[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+When you have asked us to restrict the use of your personal data we may still store your information but will not use it further without your consent, unless we need to process it:
 
-**Internet Advertising Bureau**
+  * to bring or defend legal claims;
+  * to protect the rights and freedoms of other individuals; or
+  * for other important public interest reasons.
 
-A guide to behavioural advertising and online privacy produced by the internet advertising industry is available at:
 
-[http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
-**International Chamber of Commerce United Kingdom**
+## Automated decision making and profiling
 
-Information on the ICC (UK) UK cookie guide is available on the ICC website:
+Sometimes we use your personal data in **automated processes** to make decisions about you. You have the right not to be subject to a decision based on solely automated processing, including profiling, if this will have a legal or other significant effect on you (unless certain exceptions apply).
 
-http://www.international-chamber.co.uk/our-expertise/digitaleconomy
+We use automated decision making in:
 
-Please note that we take no responsibility for the content of these or any other third party websites.
+  * Credit scoring, which uses past data to assess how you are likely to act when paying back any money you borrow (this includes data about similar accounts you may have had before). We will tell you where we will make such decisions and you have the right to ask for these to be reconsidered manually;
+  * Assessing and amending the credit limit of your credit card account, based on your account behaviour. We will give you notice of our intention to amend your limit and you will have the ability to request an increase or reduction to this; and
+  * Determining the appropriate action to take, where your account has gone into arrears or default. We will tell you where we will make such decisions and you have the right to ask for these to be reconsidered manually.
 
-**Cookies used on the Vanquis Website**
 
-To make full use of the Vanquis Bank website, your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised features of this website by using them. 
 
-Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies in the next section 
+We will use your personal data in profiling in order to identify your suitability for products and services we offer and to inform you of these. Where an individual’s financial history suggests they are unlikely to be accepted for a particular product or service, we may use that data to opt them out of receiving information about that product or service. This is in individuals’ interests as it helps stop them receiving irrelevant marketing or being targeted with marketing about products that they cannot afford. These types of profiling are only used in relation to our own products and services and as such are generally not considered to have a significant effect on your rights and interests. (See “[Right to object](https://web.archive.org/privacy#RTO "Jump to 'Right to object'")” above and “[Marketing](https://web.archive.org/privacy#Marketing "Jump to 'Marketing'")” below).
 
-Cookie Name
+## Credit Reference Agencies
 
-| 
+In order to process your application, we will perform credit and identity checks on you with one or more credit reference agencies (“CRAs”). Where you take banking services from us we may also make periodic searches at CRAs to manage your account with us.
 
-Cookie Purpose  
-  
----|---  
-  
-TrackingReference
+To do this, we will supply your personal data to CRAs and they will give us information about you. This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information.
 
-| 
+We will use this information to:
 
-Application Form Cookies – These are cookies which allow our application process to work correctly.  
-  
-Affiliate  
-  
-Cellcode  
-  
-ASP.NET_SessionId
+  * Assess your creditworthiness and whether you can afford to take the product;
+  * Verify the accuracy of the data you have provided to us;
+  * Prevent criminal activity, fraud and money laundering;
+  * Manage your account(s);
+  * Trace and recover debts; and
+  * Ensure any offers provided to you are appropriate to your circumstances.
 
-| 
 
-Session - This is a unique ID used by the website technology to link the pages and interactions together so the web experience does not break.  
-  
-__utma
 
-| 
+We will continue to exchange information about you with CRAs while you have a relationship with us. We will also inform the CRAs about your settled accounts. If you borrow and do not repay in full and on time, CRAs will record the outstanding debt. This information may be supplied to other organisations by CRAs.
 
-Google Analytics – This is a commonly used online Analytics tool which anonymously collects information about how our customers navigate around our website so we’re able to optimise the experience we provide.  
-  
-__utmb  
-  
-__utmc  
-  
-__utmz  
-  
-__utmv  
-  
-_#uid
+When CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders.
 
-| 
+If you are making a joint application, or tell us that you have a spouse or financial associate, we will link your records together, so you should make sure you discuss this with them, and share with them this information, before lodging the application. CRAs will also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.
 
-DC Storm – This is an online Analytics tool which anonymously collects information about how our customers navigate around our website so we’re able to optimise the experience we provide.  
-  
-_#sess  
-  
-_#srchist  
-  
-_#vdf  
-  
-_#env  
-  
-_#tsa  
-  
-sc.UserId
+The identities of the CRAs, their role also as fraud prevention agencies, the data they hold, the ways in which they use and share personal data, data retention periods and your data protection rights with the CRAs are explained in more detail on the Credit Reference Agency Information Notice (‘CRAIN’), which may be accessed via the links to the CRAs detailed below.
 
-| 
+  * Callcredit: <https://www.callcredit.co.uk/crain>
+  * Experian: <https://www.experian.co.uk/crain>
+  * Equifax: <https://www.equifax.co.uk/crain>
 
-SessionCam - This is a website recording service. This tool records mouse clicks, mouse movements, page scrolling and values entered into certain website forms. This service is used to provide insight into how our customers use our website to enable us to optimise the experience we provide.
 
-**How to reject or delete this cookie  
-                    **<http://www.sessioncam.com/Privacy-policy.aspx>   
-  
- sc.ASP_NET_SESSIONID  
-  
-##  Third Party Cookies 
 
-Some of the cookies on the Vanquis Bank website are not set by Vanquis Bank.
+## Fraud Prevention Agencies
 
-A cookie set by Vanquis Bank this is known as a ‘first party cookie’. Cookies set by other persons on a Vanquis Bank website are referred to as ‘third party cookies’. Examples of these include third party cookies set by business partners of Vanquis Bank.
+Before we provide services, goods or financing to you, we undertake checks for the purposes of preventing fraud and money laundering, and to verify your identity. These checks require us to process personal data about you.
 
-Vanquis Bank does not control the ‘third party cookies’ and the responsibility for their use lies with that third party.
+**What we process and share**
 
-We suggest you check with the third party websites for more information about their cookie policies and how to manage them.
+The personal data you have provided, we have collected from you, or we have received from third parties will be used to prevent fraud and money laundering, and to verify your identity.
 
-Some of the business partners that may set third party cookies on the Vanquis Bank website include:
+Details of the personal information that will be processed may include your:
 
-Partner Name
+  * name
+  * date of birth
+  * residential address and address history
+  * contact details such as email address and telephone numbers
+  * financial information
+  * employment details
+  * identifiers assigned to your computer or other internet connected device including your Internet Protocol (IP) address
+  * vehicle details
 
-| 
 
-Cookie Name
 
-| 
+When we and fraud prevention agencies process your personal data, we do so on the basis that we have a legitimate interest in preventing fraud and money laundering, and to verify identity, in order to protect our business and to comply with laws that apply to us. Such processing is also a contractual requirement of the services or financing you have requested.
 
-Cookie Purpose  
-  
----|---|---  
-  
-Facebook
+We, and fraud prevention agencies, may also enable law enforcement agencies to access and use your personal data to detect, investigate and prevent crime.
 
-| 
+Fraud prevention agencies can hold your personal data for different periods of time, and if you are considered to pose a fraud or money laundering risk, your data can be held for up to six years.
 
-datr
+**Automated decisions**
 
-| 
+As part of the processing of your personal data, decisions may be made by automated means. This means we may automatically decide that you pose a fraud or money laundering risk if:
 
-These are required to enable social media share buttons on the website.  
-  
-LinkedIn
+  * our processing reveals your behaviour to be consistent with that of known fraudsters or money launderers; or is inconsistent with your previous submissions; or
+  * you appear to have deliberately hidden your true identity.
 
-| 
 
-_lipt  
-  
-Stumbleupon
 
-| 
+You have rights in relation to automated decision making: if you want to know more please contact us using the details above.
 
-ASP.NET_SessionId  
-  
-Digg
+**Consequences of processing**
 
-| 
+If we, or a fraud prevention agency, determine that you pose a fraud or money laundering risk, we may refuse to provide the services, goods or financing you have requested, or to employ you, or we may stop providing existing services to you.
 
-traffic_control  
-  
-Twitter
+A record of any fraud or money laundering risk will be retained by the fraud prevention agencies, and may result in others refusing to provide services, financing or employment to you. If you have any questions about this, please contact us on the details above.
 
-| 
+**Data transfers**
 
-_twitter_sess  
-  
-Delicious
+Whenever fraud prevention agencies transfer your personal data outside of the European Economic Area, they impose contractual obligations on the recipients of that data to protect your personal data to the standard required in the European Economic Area. They may also require the recipient to subscribe to ‘international frameworks’ intended to enable secure data sharing.
 
-| 
+## Marketing
 
-leo_auth_token  
-  
-Reddit
+We may use your personal data to tell you about relevant products and offers that we and selected partners think you may find interesting. We can only use your personal data to send you marketing messages if you have given your consent or it is for a legitimate interest (when we have a business or commercial reason to use your information).
 
-| 
+You can ask us to stop sending you marketing messages by contacting us at any time, although you will still receive statements and other important information such as changes to your existing products and services.
 
-reddit_first  
-  
-Google Bookmarks
+If you have previously applied for a Vanquis Bank product, we will usually contact you after six months to let you know about similar products and promotional offers as it may be that your circumstances have changed and/or you may be eligible for an alternative product. We will follow up further with you for a period of two years for this purpose but when you provide us with personal data at the beginning of the application process, you will be given the option to let us know that you do not want your personal data used for direct marketing purposes. If you select this option, we will not send you any marketing material.
 
-| 
+Where you have provided your informed consent, we may share your personal data with other companies within the Provident Financial Group, who may contact your with offers of products and services which may interest you.
 
-GAPS  
-  
-Provident Financial
+You can change your mind and update your choices at any time by using the “unsubscribe” or “opt out” option in any marketing communication you receive from us or by contacting us in the following ways:
 
-| 
+  * By post: Vanquis Card, PO Box 399, Chatham, ME4 4WQ
+  * By telephone: 0330 099 3000
 
-ASPSESSIONIDQSCADBCT
 
-| 
 
-This is used to track referrals to the website of our parent company Provident Financial.  
-  
-Credit Expert
+## Links to other websites
 
-| 
+Certain hypertext links in this website may lead you to websites which are not under our control. Once you have left our website we are unable to accept responsibility for the protection of any personal data you provide to the owner of that website. You should look at the privacy information applicable to that website.
 
-JBOXadmin
+## Keeping up to date
 
-| 
+We keep our Privacy Notice under regular review. This notice was last updated in March 2018.
 
-This is used to monitor referrals we make to this website.  
-  
-CPP
+## Appendix 1 - List Third Party Partners
 
-| 
+We do not currently have any affinity partners
 
-ASP.NET_SessionId
+## Appendix 2 - Categories of supplier with whom we may share personal data for our business purposes
 
-| 
+  * Communications providers – mail, email and SMS text services
+  * Credit Reference Agencies
+  * Customer Service function providers
+  * Debt Collection Agencies
+  * Fraud Prevention Services
+  * IT Consultants
+  * IT service providers
+  * Legal Services
+  * Management Consultants
+  * Market Benchmarking service providers
+  * Market Research
+  * Digital Marketing service providers
+  * Direct Marketing service providers
+  * Marketing Insight service providers
+  * Payment Processors
+  * Professional Services firms
+  * Risk Consultancy Services
+  * Software Providers
+  * Transcription service providers
+  * Web Analytics service providers
+  * Website Hosting service providers
 
-This is used to monitor referrals we make to this website.  
-  
-OMG
 
-| 
-
-ASP.NET_SessionId
-
-| 
-
-This is used to track referrals made by OMG network.  
-  
-Affiliate Window
-
-| 
-
-ASP.NET_SessionId
-
-| 
-
-This is used to track referrals made by Affiliate Window network.  
-  
-Credit Benefit Services
-
-| 
-
-ASP.NET_SessionId
-
-| 
-
-This is used to track referrals made by CBS network.  
-  
-Direct News
-
-| 
-
-ASP.NET_SessionId
-
-| 
-
-This is used to supply images for our news section.  
-  
-[Criteo](http://www.criteo.com/privacy/full-privacy-text/)
-
-| 
-
-widget.criteo.com
-
-| 
-
-This is used to provide information about your visit to our websites so we can show you advertising that is relevant to you.  
-  
-[Criteo](http://www.criteo.com/privacy/full-privacy-text/)
-
-| 
-
-ssl.widget.criteo.com
-
-| 
-
-This is used to provide information about your visit to our websites so we can show you advertising that is relevant to you.  
-  
-## Managing Cookies 
-
-If your browser cannot accept cookies your use of the Vanquis Bank website and the Web in general may be limited.
-
-**To manage cookies**
-
-If you're not sure of the type and version of web browser you use to access the Internet:
-
-For PC's: click on 'Help' at the top of your browser window and select the 'About' option
-
-For Macs: with the browser window open, click on the Apple menu and select the 'About' option
-
-## How to check cookies are enabled for PCs
-
-**Google Chrome**
-
-1\. Click on 'Tools' at the top of your browser window and select Options
-
-2\. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
-
-3\. Now select 'Allow local data to be set'
-
-**Microsoft Internet Explorer 6.0, 7.0, 8.0**
-
-1\. Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab
-
-2\. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser
-
-3\. Settings above Medium will disable cookies
-
-**Mozilla Firefox**
-
-1\. Click on 'Tools' at the top of your browser window and select Options
-
-2\. Then select the Privacy icon
-
-3\. Click on Cookies, then select 'allow sites to set cookies'
-
-**Safari**
-
-1\. Click on the Cog icon at the top of your browser window and select the 'Preferences' option
-
-2\. Click on 'Security', check the option that says 'Block third-party and advertising cookies'
-
-3\. Click 'Save'
-
-## How to check cookies are enabled for Macs
-
-**Microsoft Internet Explorer 5.0 on OSX**
-
-1\. Click on 'Explorer' at the top of your browser window and select 'Preferences' options
-
-2\. Scroll down until you see 'Cookies' under Receiving Files
-
-3\. Select the 'Never Ask' option
-
-**Safari on OSX**
-
-1\. Click on 'Safari' at the top of your browser window and select the 'Preferences' option
-
-2\. Click on 'Security' then 'Accept cookies'
-
-3\. Select the 'Only from site you navigate to'
-
-**Mozilla and Netscape on OSX**
-
-1\. Click on 'Mozilla' or 'Netscape' at the top of your browser window and select the 'Preferences' option
-
-2\. Scroll down until you see cookies under 'Privacy & Security'
-
-3\. Select 'Enable cookies for the originating web site only'
-
-**Opera**
-
-1\. Click on 'Menu' at the top of your browser window and select 'Settings'
-
-2\. Then select 'Preferences', select the 'Advanced' tab
-
-3\. Then select 'Accept cookies' option
-
-## All other browsers 
-
-Please consult your documentation or online help files.
-
-## Website Recording 
-
-Our website may use the ServiceTick Limited SessionCam web site recording service. Data collected by SessionCam is used to improve our website by enabling our web team to find and fix errors and improve the functionality of the website. To do this SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into web site forms, however we do not record any card payment details. The information collected is stored and is also used for aggregated and statistical reporting.
