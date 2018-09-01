@@ -1,63 +1,88 @@
-> *The following text is extracted and transformed from the box.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606232626id_/http%3A//www.box.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901130332id_/https%3A//www.box.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Birmingham's Top Laptop Shop - Desktops, Cables, Components, Projectors from Box Limited
+# Privacy Policy - Box.co.uk
 
-This privacy policy sets out how Box Limited uses and protects any information that you give Box Limited when you use this website.
+We at Box Ltd are totally committed to protecting your privacy. We comply with the principles of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 subsequently incorporating the EU Cookie Regulations of May 2011. We conform with the EU General Data Protection Regulation from 25 May 2018.
 
-Box Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+## **Overview:**
 
-Box Limited may change this policy from time to time by updating this document. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2010.
+Box Ltd trading as Box.co.uk. This privacy policy explains how we use any personal information we collect about you when you use our website [www.box.co.uk](http://www.box.co.uk/)
 
-**What we collect**
-
-We may collect the following information:
-
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
-
-
-
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * What information do we collect about you? 
+  * How will we use the information about you? 
+  * Marketing 
+  * Access to your information and correction
+  * Cookies
+  * Other websites
+  * Changes to our privacy policy
+  * How to contact us 
 
 
 
-**Security**
+## **What information do we collect about you?**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We collect information about you in order to process your order. That information will only be shared with other parties that are involved in the fulfilment of your order and deemed as a legitimate business interest. Marketing communications are consented separately.
 
-**How we use cookies**
+The information we hold may include:
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to
-  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+  * Your Name
+  * Postal / Delivery Address’s (required to deliver your order)
+  * Password (encrypted record of your password)
+  * Phone / Mobile Number (For delivery issues / Updates)
+  * Email Address (Used as your login to our site)
+  * Tokenised Card Details (Limited details to aid future purchases and refunds)
+  * IP Address (Used for Payment / Fraud Checks) 
+  * Product Order / Invoice History (To fulfil any copy invoice’s / Warranty / Returns)
 
 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Box Limited First Avenue, Minworth Birmingham B76 1BA
+## **How will we use the information about you?**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+The collected information about you is used to process your order, manage your account and aid any further communication regarding your order. For example a request for warranty / support with your purchase in the future / Product Review / Feedback.
+
+In the processing of your order, we may be required to share your details with our approved third parties:
+
+  * Couriers – To provide required tracking and order updates for your order
+  * Finance / Payment Merchants – To complete the payment process for your order
+
+
+
+If you also agree to marketing communications, we shall pass on your personal information to approved third parties to offer a range of services / offers. This choice is offered to you during the signup process. At any time you can unsubscribe from this by clicking here [www.box.co.uk/unsubscribe](http://www.box.co.uk/unsubscribe)
+
+We will never collect sensitive information about you without your agreement. You have a right to ask for a copy of the information which we are holding and we will delete information or correct any inaccuracies for no charge as soon as you make the request.
+
+We require all third parties to respect the security of your information and to treat it in accordance with the law. We do not allow our third-party service providers to use your information for their own purposes and only permit them to process your information data for specified purposes and in accordance with our instructions.
+
+Data will only be released to other third parties (e.g. the police / HMRC) on request where there is a legal requirement for us to do so.
+
+## **Marketing**
+
+We would like to send you information about products and services of which may be of interest to you. This is a request made through our signup / order page and you have a right at any time to stop us from contacting you for marketing purposes. If you no longer wish to be contacted. Please click here. [www.box.co.uk/unsubscribe](http://www.box.co.uk/unsubscribe)
+
+## **Customer Service / Product Reviews**
+
+Box Ltd pride ourselves on our customer service and keen to get feedback and reviews on our products / service that you receive from Box Ltd. We share your order details ie the product purchased and only your email address to request a review on our service / product to help us improve our products and services in the future. 
+
+## **Access to your information and correction**
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the following address. We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate. Please email [data.protection@box.co.uk](mailto:data.protection@box.co.uk) with your request.
+
+## **Cookies**
+
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity. For further information visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However in a few cases some of our website features may not function as a result. If you would like advice and assistance here please contact at [data.protection@box.co.uk](mailto:data.protection@box.co.uk) and we will be happy to help.
+
+## **Other websites**
+
+Our website sometimes contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies. 
+
+## **Changes to our privacy policy**
+
+We keep our privacy policy under regular review and we will place any updates on this web page. This privacy policy was last updated on 14/5/2018.
+
+## **How to contact us**
+
+Please contact us if you have any questions about our privacy policy or information we hold about you:   
+By Email – [data.protection@box.co.uk](mailto:data.protection@box.co.uk)  
+By Phone – 0121 202 0030  
+By Letter – FAO Data Protection Officer, Box Ltd, First Avenue, Minworth, Sutton Coldfield, B76 1BA  
+In Person - Box Ltd, First Avenue, Minworth, Sutton Coldfield, B76 1BA
