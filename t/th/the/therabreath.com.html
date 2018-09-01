@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the therabreath.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624142049id_/http%3A//www.therabreath.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the therabreath.com privacy policy that was archived on 2018-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180901094934id_/https%3A//www.therabreath.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<link rel="STYLESHEET" type="text/css" href="/new.css">
@@ -679,7 +679,12 @@ $(document).ready(function(e) {
 		
 		
 		//country select dropdown function
-		$("#sitecountryinfo, #sitecountryselect").mouseenter(function(){
+
+    $("#sitecountryinfo, #sitecountryselect").on("click", function () {
+        window.location = "/international-sales/";
+    })
+
+$("#sitecountryinfo_old, #sitecountryselect_old").mouseenter(function(){
     		clearTimeout($(this).data('timeoutId'));
     		$("#sitecountryselect").slideDown(500);	
 		}).mouseleave(function(){
@@ -699,13 +704,13 @@ $(document).ready(function(e) {
 			BrandBox_NewTab('Mexico','TheraBreath','http://www.therabreath.com.mx/',1,0);
 		});
 		$("#sitecountryselect li.kr").click(function() {
-			window.open("http://www.therabreath.com/korea/");
+			window.open("https://www.therabreath.com/korea/");
 		});
 		$("#sitecountryselect li.cn, #mobile-cn").click(function() {
 			window.open("http://www.therabreathchina.com.cn/");
 		});
 		$("#sitecountryselect li.uk, #mobile-uk").click(function() {
-			window.open("http://www.thebreathco.com/");
+			window.open("https://www.thebreathco.com/");
 		});
 		$("#sitecountryselect li.co, #mobile-co").click(function() {
 			BrandBox_NewTab('Colombia','TheraBreath','http://www.therabreath.com.co/',1,0);
@@ -770,12 +775,12 @@ $(document).ready(function(e) {
 				} else {
 					qtxt = $(".gsc-completion-selected").text();
 				}
-				window.location = "http://www.therabreath.com/search/?q=" + qtxt ;
+				window.location = "https://www.therabreath.com/search/?q=" + qtxt ;
 			},
 			keyup: function(e) {
 			if (e.which == 13) {
 			
-    		window.location = "http://www.therabreath.com/search/?q=" + $("#topnav-search").val() ;
+    		window.location = "https://www.therabreath.com/search/?q=" + $("#topnav-search").val() ;
   			}
 			}
 		});
@@ -784,7 +789,7 @@ $(document).ready(function(e) {
 			
 			if (e.which == 13) {
 				
-    		window.location = "http://www.therabreath.com/search/?q=" + $(".gsc-completion-selected").text() ;
+    		window.location = "https://www.therabreath.com/search/?q=" + $(".gsc-completion-selected").text() ;
   			}
 		});
 		
@@ -807,9 +812,9 @@ function gotoCart(isNewWindow) {
 function gotoSearch(strTxt, isNewWindow) {
 	var bNewWin = isNewWindow || 0;
 	if (bNewWin == 1) {
-		window.open = "http://www.therabreath.com/search/?q=" + strTxt ;
+		window.open = "https://www.therabreath.com/search/?q=" + strTxt ;
 	} else {
-		window.location = "http://www.therabreath.com/search/?q=" + strTxt ;
+		window.location = "https://www.therabreath.com/search/?q=" + strTxt ;
 	}
 }	
 
@@ -859,9 +864,9 @@ $(window).on("load",function(){
    			<input type="text" name="search" placeholder="Search" value="" id="topnav-search">
   		</div>
     	<div class="navlinks">
-            <a href="http://www.therabreath.com/about/" title="About Us">About Us</a>
-            <a href="http://www.therabreath.com/about/testimonial/" title="Testimonials">Testimonials</a>
-            <a href="http://www.therabreath.com/about/faq/" title="Frequently Asked Questions">FAQ</a>
+            <a href="https://www.therabreath.com/about/" title="About Us">About Us</a>
+            <a href="https://www.therabreath.com/about/testimonial/" title="Testimonials">Testimonials</a>
+            <a href="https://www.therabreath.com/about/faq/" title="Frequently Asked Questions">FAQ</a>
         </div>
         <div id="myaccountnav" class="navlinks topnav-dropdown" style="margin-left:0px;">
             <a class="dropdownarrow" title="My Account" href="https://www.therabreath.com/my-account/">My Account</a>
@@ -895,11 +900,11 @@ $(window).on("load",function(){
     <div class="bottombar">
     	<div class="row">
         	
-    		<div id="therabreath-logo" class="topmenu-box-shadow"><a href="http://www.therabreath.com/"><img src="/images/new/therabreath-logo.png" alt="TheraBreath" title="TheraBreath" border="0"></a></div>
+    		<div id="therabreath-logo" class="topmenu-box-shadow"><a href="https://www.therabreath.com/"><img src="/images/new/therabreath-logo.png" alt="TheraBreath" title="TheraBreath" border="0"></a></div>
             <div class="navlinks">
-            	<a href="http://www.therabreath.com/research/"><img src="/images/new/research-tab.png" alt="Research" title="Research" border="0" class="topmenu-box-shadow"></a>
-                <a href="http://www.therabreath.com/where-to-buy/"><img src="/images/new/find-in-stores-tab.png" alt="Find in Stores" title="Find in Stores" border="0" class="topmenu-box-shadow"></a>
-                <a href="http://www.therabreath.com/products/"><img src="/images/new/shop-now-tab.png" alt="Shop Now" title="Shop Now" border="0" class="topmenu-box-shadow"></a>
+            	<a href="https://www.therabreath.com/research/"><img src="/images/new/research-tab.png" alt="Research" title="Research" border="0" class="topmenu-box-shadow"></a>
+                <a href="https://www.therabreath.com/where-to-buy/"><img src="/images/new/find-in-stores-tab.png" alt="Find in Stores" title="Find in Stores" border="0" class="topmenu-box-shadow"></a>
+                <a href="https://www.therabreath.com/products/"><img src="/images/new/shop-now-tab.png" alt="Shop Now" title="Shop Now" border="0" class="topmenu-box-shadow"></a>
             </div>
             <div id="topnavcart" class="topmenu-box-shadow topnav-dropdown">
             	<div class="cartorder">
@@ -910,7 +915,7 @@ $(window).on("load",function(){
                 <div class="cartcheckoutbutton" title="View Cart"> </div>
                 <div id="topnav-cartcontents" class="topnav-dropdown-menu topmenu-box-shadow product-list rounded-bottom-left-corner-5px rounded-bottom-right-corner-5px">                
                 	
-                    	<div class="noitems">You currently have no items in your cart.<br><a href="http://www.therabreath.com/category.asp">Start shopping now</a></div>
+                    	<div class="noitems">You currently have no items in your cart.<br><a href="https://www.therabreath.com/category.asp">Start shopping now</a></div>
                     
             	</div>
             </div>
@@ -924,19 +929,21 @@ $(window).on("load",function(){
 
 <!-- Mobile Only Navigation -->
 <div id="mobile-nav-container" class="hidden-md hidden-lg hidden-print" style="border-top:10px solid #1eb53a;">
-	
+    
 	<div id="mobile-nav" class="topmenu-box-shadow">
-    	<div id="mobile-menu"><a href="http://www.therabreath.com"><img src="/images/new/therabreath-logo.jpg" border="0"></a></div>        
+    	<div id="mobile-menu"><a href="https://www.therabreath.com"><img src="/images/new/therabreath-logo.jpg" border="0"></a></div>        
         <div class="mobile-nav-link mobile-menu" data-toggle="list-group"><span class="glyphicon glyphicon-align-justify"> </span></div>
         <div class="mobile-nav-link mobile-search"><span class="glyphicon glyphicon-search"> </span></div>
         <div class="mobile-nav-link mobile-cart hide"><span class="glyphicon glyphicon-shopping-cart"> </span></div>
         <div class="mobile-flag" onclick="initCountrySelect();"><img src="/images/new/mobile-flag-usa.png"></div>
+        
         <div class="mobile-shop-now visible-sm">Shop Now</div>
        <!-- <div class="mobile-nav-link mobile-phone"><span class="glyphicon glyphicon-earphone"> </span></div>
 		<div class="mobile-nav-link mobile-home"><span class="glyphicon glyphicon-home"> </span></div>-->
         	<div class="visible-xs clearfix" id="mobile-shop-now-button">
-        		<a href="http://www.therabreath.com/products/" class="input-checkout-button full-width-xs white">Shop Now</a>                    
+        		<a href="https://www.therabreath.com/products/" class="input-checkout-button full-width-xs white">Shop Now</a>                    
         	</div>
+        
 			<div id="mobile-search-menu">
             	<div class="row">
                 	<div class="col-xs-12 col-sm-6 col-sm-offset-6">
@@ -953,31 +960,31 @@ $(window).on("load",function(){
             	 		
   				<a class="list-group-item" href="#" id="mobile-show-categories">Shop Now <span class="glyphicon glyphicon-plus pull-right dark-grey"> </span></a>
                 	<div id="mobile-categories">                    	               	
-                    	<a class="list-group-item" href="http://www.therabreath.com/toothpaste/" title="Toothpaste">Toothpaste</a>                        
-        				<a class="list-group-item" href="http://www.therabreath.com/mouthwash/" title="Mouthwash">Mouthwash</a>
-        				<a class="list-group-item" href="http://www.therabreath.com/sprays-drops/" title="Sprays and Drops">Sprays and Drops</a>
-                        <a class="list-group-item" href="http://www.therabreath.com/starter-kits/" title="Starter Kits">Starter Kits</a>        				    
-        				<a class="list-group-item" href="http://www.therabreath.com/family-size-paks/" title="Family Size Paks">Family Size Paks</a>
+                    	<a class="list-group-item" href="https://www.therabreath.com/toothpaste/" title="Toothpaste">Toothpaste</a>                        
+        				<a class="list-group-item" href="https://www.therabreath.com/mouthwash/" title="Mouthwash">Mouthwash</a>
+        				<a class="list-group-item" href="https://www.therabreath.com/sprays-drops/" title="Sprays and Drops">Sprays and Drops</a>
+                        <a class="list-group-item" href="https://www.therabreath.com/starter-kits/" title="Starter Kits">Starter Kits</a>        				    
+        				<a class="list-group-item" href="https://www.therabreath.com/family-size-paks/" title="Family Size Paks">Family Size Paks</a>
                         
-                        <a class="list-group-item" href="http://www.therabreath.com/money-saving-bonus-paks/" title="Money-Saving Bonus Paks">Money-Saving Bonus Paks</a>    
+                        <a class="list-group-item" href="https://www.therabreath.com/money-saving-bonus-paks/" title="Money-Saving Bonus Paks">Money-Saving Bonus Paks</a>    
                             
-        				<a class="list-group-item" href="http://www.therabreath.com/gum-mints-strips/" title="Gum and Mints">Gum and Mints</a>   
-        				<a class="list-group-item" href="http://www.therabreath.com/oral-care-probiotics/" title="Probiotics and Supplements">Probiotics &amp; Vitamins</a>
-        				<a class="list-group-item" href="http://www.therabreath.com/teeth-whitening/" title="Teeth Whitening">Teeth Whitening</a>
-                        <a class="list-group-item" href="http://www.therabreath.com/travel-size/" title="Travel Size">Travel Size</a>
-                        <a class="list-group-item" href="http://www.therabreath.com/accessories-and-more/" title="Accessories and More">Accessories and More</a>
-                        <a class="list-group-item" href="http://www.therabreath.com/pet-products/" title="Pet Products">Pet Products</a>
+        				<a class="list-group-item" href="https://www.therabreath.com/gum-mints-strips/" title="Gum and Mints">Gum and Mints</a>   
+        				<a class="list-group-item" href="https://www.therabreath.com/oral-care-probiotics/" title="Probiotics and Supplements">Probiotics &amp; Vitamins</a>
+        				<a class="list-group-item" href="https://www.therabreath.com/teeth-whitening/" title="Teeth Whitening">Teeth Whitening</a>
+                        <a class="list-group-item" href="https://www.therabreath.com/travel-size/" title="Travel Size">Travel Size</a>
+                        <a class="list-group-item" href="https://www.therabreath.com/accessories-and-more/" title="Accessories and More">Accessories and More</a>
+                        <a class="list-group-item" href="https://www.therabreath.com/pet-products/" title="Pet Products">Pet Products</a>
                         
          				
                         
         				       				
                     </div>
-                <a class="list-group-item" href="http://www.therabreath.com/special-offers/" title="Special Offers">Special Offers</a> 
-  				<a class="list-group-item" href="http://www.therabreath.com/coupons/">Discount Coupons</a>
-                <a class="list-group-item" href="http://www.therabreath.com/where-to-buy/">Find in Stores</a>
-                <a class="list-group-item" href="http://www.therabreath.com/research/">Research Articles</a>
-  				<a class="list-group-item" href="http://www.therabreath.com/about/">About Us</a>
-  				<a class="list-group-item" href="http://www.therabreath.com/about/faq/">FAQs</a>
+                <a class="list-group-item" href="https://www.therabreath.com/special-offers/" title="Special Offers">Special Offers</a> 
+  				<a class="list-group-item" href="https://www.therabreath.com/coupons/">Discount Coupons</a>
+                <a class="list-group-item" href="https://www.therabreath.com/where-to-buy/">Find in Stores</a>
+                <a class="list-group-item" href="https://www.therabreath.com/research/">Research Articles</a>
+  				<a class="list-group-item" href="https://www.therabreath.com/about/">About Us</a>
+  				<a class="list-group-item" href="https://www.therabreath.com/about/faq/">FAQs</a>
                 <a class="list-group-item" href="https://www.therabreath.com//my-account/">My Account</a>
 			</div> 
      </div>
@@ -1036,42 +1043,42 @@ $(window).on("load",function(){
 
 <div id="leftnav" role="navigation" class="hidden-print">
 	
-	<div class="menuheader"><a href="http://www.therabreath.com/products/">Shop By Category</a></div>
+	<div class="menuheader"><a href="https://www.therabreath.com/products/">Shop By Category</a></div>
     <ul class="menuitems">
 
-        <li><a href="http://www.therabreath.com/money-saving-bonus-paks/" title="Money-Saving Bonus Paks">Money-Saving Bonus Paks</a></li>
+        <li><a href="https://www.therabreath.com/money-saving-bonus-paks/" title="Money-Saving Bonus Paks">Money-Saving Bonus Paks</a></li>
         
-        <li><a href="http://www.therabreath.com/starter-kits/" title="Starter Kits">Starter Kits</a></li>
-        <li><a href="http://www.therabreath.com/mouthwash/" title="Mouthwash">Mouthwash</a></li>
-        <li><a href="http://www.therabreath.com/toothpaste/" title="Toothpaste">Toothpaste</a></li>
-        <li><a href="http://www.therabreath.com/sprays-drops/" title="Sprays and Drops">Sprays and Drops</a></li>
-        <li><a href="http://www.therabreath.com/gum-mints-strips/" title="Gum and Mints">Gum and Mints</a></li>        
-        <li><a href="http://www.therabreath.com/family-size-paks/" title="Family Size Paks">Family Size Paks</a></li>
-        <li><a href="http://www.therabreath.com/oral-care-probiotics/" title="Probiotics &amp; Vitamins">Probiotics &amp; Vitamins</a></li>
-        <li><a href="http://www.therabreath.com/teeth-whitening/" title="Teeth Whitening">Teeth Whitening</a></li>
-        <li><a href="http://www.therabreath.com/travel-size/" title="Travel Size">Travel Size</a></li>
-        <li><a href="http://www.therabreath.com/accessories-and-more/" title="Accessories and More">Accessories and More</a></li>
-        <li><a href="http://www.therabreath.com/pet-products/" title="Pet Products">Pet Products</a></li>
+        <li><a href="https://www.therabreath.com/starter-kits/" title="Starter Kits">Starter Kits</a></li>
+        <li><a href="https://www.therabreath.com/mouthwash/" title="Mouthwash">Mouthwash</a></li>
+        <li><a href="https://www.therabreath.com/toothpaste/" title="Toothpaste">Toothpaste</a></li>
+        <li><a href="https://www.therabreath.com/sprays-drops/" title="Sprays and Drops">Sprays and Drops</a></li>
+        <li><a href="https://www.therabreath.com/gum-mints-strips/" title="Gum and Mints">Gum and Mints</a></li>        
+        <li><a href="https://www.therabreath.com/family-size-paks/" title="Family Size Paks">Family Size Paks</a></li>
+        <li><a href="https://www.therabreath.com/oral-care-probiotics/" title="Probiotics &amp; Vitamins">Probiotics &amp; Vitamins</a></li>
+        <li><a href="https://www.therabreath.com/teeth-whitening/" title="Teeth Whitening">Teeth Whitening</a></li>
+        <li><a href="https://www.therabreath.com/travel-size/" title="Travel Size">Travel Size</a></li>
+        <li><a href="https://www.therabreath.com/accessories-and-more/" title="Accessories and More">Accessories and More</a></li>
+        <li><a href="https://www.therabreath.com/pet-products/" title="Pet Products">Pet Products</a></li>
         
-        <li class="green"><a href="http://www.therabreath.com/special-offers/" title="Special Offers">Special Offers</a></li>
+        <li class="green"><a href="https://www.therabreath.com/special-offers/" title="Special Offers">Special Offers</a></li>
         
-        <li class="green"><a href="http://www.therabreath.com/coupons/" title="Coupon Codes">Discount Coupons</a></li>
+        <li class="green"><a href="https://www.therabreath.com/coupons/" title="Coupon Codes">Discount Coupons</a></li>
 	</ul>
     
-    <div class="menuheader"><a href="http://www.therabreath.com/solutions/">Shop For Solutions</a></div>
+    <div class="menuheader"><a href="https://www.therabreath.com/solutions/">Shop For Solutions</a></div>
     <ul class="menuitems">  
   	
-    	<li><a href="http://www.therabreath.com/solution/bad-breath.html" title="Bad Breath Solutions">Bad Breath</a></li>
+    	<li><a href="https://www.therabreath.com/solution/bad-breath.html" title="Bad Breath Solutions">Bad Breath</a></li>
   	
-    	<li><a href="http://www.therabreath.com/solution/tonsil-stones.html" title="Tonsil Stones Solutions">Tonsil Stones</a></li>
+    	<li><a href="https://www.therabreath.com/solution/tonsil-stones.html" title="Tonsil Stones Solutions">Tonsil Stones</a></li>
   	
-    	<li><a href="http://www.therabreath.com/solution/dry-mouth.html" title="Dry Mouth Solutions">Dry Mouth</a></li>
+    	<li><a href="https://www.therabreath.com/solution/dry-mouth.html" title="Dry Mouth Solutions">Dry Mouth</a></li>
   	
-    	<li><a href="http://www.therabreath.com/solution/gum-disease.html" title="Gum Health Solutions">Gum Health</a></li>
+    	<li><a href="https://www.therabreath.com/solution/gum-disease.html" title="Gum Health Solutions">Gum Health</a></li>
   	
-    	<li><a href="http://www.therabreath.com/solution/teeth-whitening.html" title="Yellowed Teeth Solutions">Yellowed Teeth</a></li>
+    	<li><a href="https://www.therabreath.com/solution/teeth-whitening.html" title="Yellowed Teeth Solutions">Yellowed Teeth</a></li>
   	
-    	<li><a href="http://www.therabreath.com/solution/canker-sore.html" title="Canker Sore Solutions">Canker Sores</a></li>
+    	<li><a href="https://www.therabreath.com/solution/canker-sore.html" title="Canker Sore Solutions">Canker Sores</a></li>
 
 	</ul>
 
@@ -1081,11 +1088,11 @@ $(window).on("load",function(){
 .savings-link a img {margin-top:-2px;}
 .savings-link a:hover {background:#f86800;text-decoration:none;color:#FFF!important;}
 </style>
-<div class="menuheader"><a href="http://www.therabreath.com/newsletter/">Exclusive Savings!</a></div>
+<div class="menuheader"><a href="https://www.therabreath.com/newsletter/">Exclusive Savings!</a></div>
 	<ul class="menuitems">
     	<li>Our newsletter readers get exclusive coupons!</li>
     </ul>    
-<div class="savings-link"><a href="http://www.therabreath.com/newsletter/">Sign Up <img src="/images/new/glyphicon-play.png" height="14" border="0"></a></div>
+<div class="savings-link"><a href="https://www.therabreath.com/newsletter/">Sign Up <img src="/images/new/glyphicon-play.png" height="14" border="0"></a></div>
 <div class="hidden-xs hidden-sm padding-top-lg">
 
 <div class="menuheader">Also Available At</div>
@@ -1101,16 +1108,16 @@ $(window).on("load",function(){
  	<li><img src="/images/new/available-at-target.jpg" alt="Target" title="Target" border="0"></li>
     
 	<li><img src="/images/new/available-at-rite-aid.jpg" alt="Rite Aid" title="Rite Aid" border="0"></li>
-    <li class="nopadding button"><a href="http://www.therabreath.com/where-to-buy/">View All Stores</a></li>
+    <li class="nopadding button"><a href="https://www.therabreath.com/where-to-buy/">View All Stores</a></li>
 </ul>
-<div class="menuheader margin-top-lg" style="border-bottom:0px;"><a href="http://www.therabreath.com/about/bio/" class="h4">Dr. Harold Katz</a></div>
+<div class="menuheader margin-top-lg" style="border-bottom:0px;"><a href="https://www.therabreath.com/about/bio/" class="h4">Dr. Harold Katz</a></div>
 <div id="about-drkatz" class="nopadding">
 	<div class="dk-title"><div>TheraBreath Founder<br>and Developer</div></div>
 	<!--<div class="header">Meet<br/><span class="title">Dr. Harold Katz</span></div>
     <div class="tagline">America's Bad Breath Guru<br/>TheraBreath Founder</div>
     <img src="/images/new/dr-harold-katz-signature.jpg">-->
 </div>
-    <div class="drkatz-link"><a href="http://www.therabreath.com/about/bio/">Read His Story <img src="/images/new/glyphicon-play.png" height="14" border="0"></a></div>
+    <div class="drkatz-link"><a href="https://www.therabreath.com/about/bio/">Read His Story <img src="/images/new/glyphicon-play.png" height="14" border="0"></a></div>
 
 
 <ul class="menuitems nopadding no-bg-url-white" id="LeftNavFeatured">
@@ -1243,40 +1250,40 @@ $(window).on("load",function(){
 		<div class="footer-content">
 			<div class="footer-links visible-md visible-lg">
        	  	<ul>
-   				<li><a href="http://www.therabreath.com/">Home</a></li>                
-   				<li><a href="http://www.therabreath.com/products/">Products</a></li>                              
-   				<li><a href="http://www.therabreath.com/coupons/">Coupons</a></li>
-				<li><a href="http://www.therabreath.com/special-offers/">Special Offers</a></li>  
+   				<li><a href="/">Home</a></li>                
+   				<li><a href="/products/">Products</a></li>                              
+   				<li><a href="/coupons/">Coupons</a></li>
+				<li><a href="/special-offers/">Special Offers</a></li>  
 				<li>&nbsp;</li>                    		
         	</ul>
             <ul>
-			   	<li><a href="http://www.therabreath.com/research/">Research</a></li> 
-				<li><a href="http://www.therabreath.com/articles/">Oral Health Articles</a></li> 
-        <li><a href="http://www.therabreath.com/infographics/">Infographics</a></li>
-				<li><a href="http://www.therabreath.com/guides/">Guides</a></li>
+			   	<li><a href="/research/">Research</a></li> 
+				<li><a href="/articles/">Oral Health Articles</a></li> 
+        <li><a href="/infographics/">Infographics</a></li>
+				<li><a href="/guides/">Guides</a></li>
 				<li>&nbsp;</li>    		
       </ul>
       <ul>
-			  <li><a href="http://www.therabreath.com/where-to-buy/">Store Locator</a></li>  
-				<li><a href="http://www.therabreath.com/about/faq/">FAQs</a></li>    
-				<li><a href="http://www.therabreath.com/videos/">Videos</a></li>   
-				<li><a href="http://www.therabreath.com/press/">Press Releases</a></li>         
+			  <li><a href="/where-to-buy/">Store Locator</a></li>  
+				<li><a href="/about/faq/">FAQs</a></li>    
+				<li><a href="/videos/">Videos</a></li>   
+				<li><a href="/press/">Press Releases</a></li>         
    			
 				
 				<li>&nbsp;</li>   	
        	  	</ul>
 			<ul>
-				<li><a href="http://www.therabreath.com/privacy/">Privacy Policy</a></li>
-   			<li><a href="http://www.therabreath.com/terms/">Terms &amp; Conditions</a></li>
-				<li><a href="http://www.therabreath.com/sitemap.asp">Site Map</a></li>
-				<li><a href="http://www.therabreath.com/about/">About TheraBreath</a></li> 
+				<li><a href="/privacy/">Privacy Policy</a></li>
+   			<li><a href="/terms/">Terms &amp; Conditions</a></li>
+				<li><a href="/sitemap.asp">Site Map</a></li>
+				<li><a href="/about/">About TheraBreath</a></li> 
 				<li>&nbsp;</li>  
        	  	</ul>
 			<ul>
-				<li><a href="http://www.therabreath.com/philanthropy/">Philanthropy</a></li>
-				<li><a href="http://www.therabreath.com/associate/">Affiliate/Partner Programs</a></li>                
-   			<li><a href="https://www.therabreath.com/my-account/">My Account</a></li>
-			<li><a href="http://www.therabreath.com/contact/">Contact Us</a></li>
+				<li><a href="/philanthropy/">Philanthropy</a></li>
+				<li><a href="/associate/">Affiliate/Partner Programs</a></li>                
+   			<li><a href="/my-account/">My Account</a></li>
+			<li><a href="/contact/">Contact Us</a></li>
        	  	</ul>
 			</div>
             <div class="hidden-print">
@@ -1290,10 +1297,10 @@ $(window).on("load",function(){
                 <div class="guarantee">
                 <h5 class="title">CONNECT WITH US</h5>
 				<div class="social-icons no-margin-top">
-					<a href="http://www.facebook.com/therabreath" target="_blank" title="Facebook"><img src="/images/social/32/color/facebook.png" alt="Facebook"></a>
-					<a href="http://www.twitter.com/therabreath" target="_blank" title="Twitter"><img src="/images/social/32/color/twitter.png" alt="Twitter"></a>
-					<a href="http://www.instagram.com/therabreath" target="_blank" title="Instagram"><img src="/images/social/32/color/instagram.png" alt="Instagram"></a>
-					<a href="http://www.pinterest.com/therabreath" target="_blank" title="Pinterest"><img src="/images/social/32/color/pinterest.png" alt="Pinterest"></a>
+					<a href="https://www.facebook.com/therabreath" target="_blank" title="Facebook"><img src="/images/social/32/color/facebook.png" alt="Facebook"></a>
+					<a href="https://www.twitter.com/therabreath" target="_blank" title="Twitter"><img src="/images/social/32/color/twitter.png" alt="Twitter"></a>
+					<a href="https://www.instagram.com/therabreath" target="_blank" title="Instagram"><img src="/images/social/32/color/instagram.png" alt="Instagram"></a>
+					<a href="https://www.pinterest.com/therabreath" target="_blank" title="Pinterest"><img src="/images/social/32/color/pinterest.png" alt="Pinterest"></a>
 					<a href="https://www.youtube.com/user/TheraBreath" target="_blank" title="YouTube"><img src="/images/social/32/color/youtube.png" alt="YouTube"></a>
 					
 					
@@ -1323,7 +1330,7 @@ $(window).on("load",function(){
 					<div style="position:relative;z-index:1;width:60px;height:85px;">
 						<a style="bottom:47;right:0;display:block;position:absolute;width:18px;height:12px;z-index:2;text-decoration:none;background:#fff;filter:alpha(opacity=0);opacity:0;" href="//www.bizrate.com/?rf=sur" title="Bizrate" target="_blank"></a>
 						<!--<a href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--174262.html?rf=sur" title="Bizrate Circle of Excellence" target="_blank">-->
-						<a href="http://www.therabreath.com/treatment/bizrate_award_2016.asp" title="TheraBreath earns second Bizrate.com award">
+						<a href="https://www.therabreath.com/treatment/bizrate_award_2016.asp" title="TheraBreath earns second Bizrate.com award">
 						<img src="https://medals.bizrate.com/awards/vertical/174262_coe.gif" alt="Bizrate Circle of Excellence - See TheraBreath Reviews at Bizrate.com" width="60" height="85" align="top" border="0">
 						</a>
 					</div>
@@ -1406,14 +1413,19 @@ $(window).on("load",function(){
 	
 	
 	var mobilenavheight = 80 + parseInt(mobilenavcartheight);
+    
+
 	var wrappermainheight = 130 + parseInt(mobilenavcartheight); 
 		
 	if ($(window).width() < 546) {
 		//mobilenavheight = 130 + parseInt(mobilenavcartheight);
-		mobilenavheight = parseInt(wrappermainheight);
+        
+            mobilenavheight = parseInt(wrappermainheight);
+        
     }
 
-    function initCountrySelect() { $.fancybox.open([{ href: '/includes/choose-country.asp' }], { autoResize: true, type: 'ajax', topRatio: 0.2 }); }
+    function initCountrySelect_old() { $.fancybox.open([{ href: '/includes/choose-country.asp' }], { autoResize: true, type: 'ajax', topRatio: 0.2 }); }
+    function initCountrySelect() { window.location = '/international-sales/'; }
 
 $(document).ready(function() {    
 	if ($(window).width() < 768) {
@@ -1475,12 +1487,12 @@ $(document).ready(function() {
 	});
 	
 	$("#mobile-search-menu button").click(function() {
-		window.location = "http://www.therabreath.com/results.asp?q=" + $("#mobile-search-term").val();
+		window.location = "http://www.therabreath.com/search/?q=" + $("#mobile-search-term").val();
 	});
 	
 	$('#mobile-search-term').on('keypress', function (event) {
          if(event.which == '13'){
-			 window.location = "http://www.therabreath.com/results.asp?q=" + $("#mobile-search-term").val();
+			 window.location = "http://www.therabreath.com/search/?q=" + $("#mobile-search-term").val();
 		 }
 	});
 });
