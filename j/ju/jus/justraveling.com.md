@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justraveling.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627141303id_/https%3A//www.justraveling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justraveling.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901064929id_/https%3A//www.justraveling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Justraveling
 
@@ -29,7 +29,7 @@ Enabling these cookies is not strictly necessary for the website to work but it 
 
 We are committed to ensure that the confidentiality of personal information is protected and maintained. Justraveling.com may amend its Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our website or sending you an email.
 
-If you have any questions regarding this Privacy Policy, please [send us an email](https://web.archive.org/cdn-cgi/l/email-protection#caa7abb2a3b2a68aa0bfb9b2beb8abbcb2afa6a3b2a4ade4a9a5a7).
+If you have any questions regarding this Privacy Policy, please [send us an email](https://web.archive.org/cdn-cgi/l/email-protection#6904081100110529031c1a111d1b081f110c050011070e470a0604).
 
 **Last Revised: May, 2016**
 
