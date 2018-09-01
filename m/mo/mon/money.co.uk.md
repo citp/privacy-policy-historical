@@ -1,205 +1,190 @@
-> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133159id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901115008id_/https%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # money.co.uk Privacy Policy
 
-We are committed to safeguarding the privacy of our website visitors; this Privacy Policy sets out how we will treat your personal information.
+Dot Zinc Limited (" **money.co.uk** ", " **we** " or " **us** ") is committed to protecting and respecting your privacy.
 
-### 1\. What information do we collect?
+This policy explains how we use any personal information that you provide to us through our website. Please read it carefully. We may change this policy. We will post any changes on this page, so please check back frequently.
 
-We may collect, store and use the following kinds of personal information:
+For the purposes of data protection law, the controller is Dot Zinc Limited of The Cooperage, 5 Copper Row, London SE1 2LH. money.co.uk is part of the [ZPG Limited group of companies](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.zpg.co.uk/about/our-brands-products), comprising ZPG Limited and its subsidiaries (the " **ZPG Companies** ").
 
-(a) information about your computer and about your visits to and use of this website (which may include information about your IP address, geographical location, browser type, referral source, length of visit and page views);
+## Information we collect from you
 
-(b) information that you provide to us for the purpose of registering with us, receiving our newsletters, updates and emails (including your email address);
+We may collect and process the following information about you:
 
-(c) information that you provide when using our reminder service (which may include your insurance and other financial services renewal and/or expiry dates, and details of your insurance and other financial services providers);
+### Information you provide to us
 
-(d) information that you provide when using a product search or completing an enquiry form (including your personal information, postcode, phone number and details relating to your requirements);
+You may provide us with information in several ways, including by filling in forms on our website or by corresponding with us by phone and email. This includes information you provide when you register with us, sign up to receive our newsletters, conduct a product search on our website, enter any competition, promotion or survey or provide feedback on our services.
 
-(e) information that you provide when entering a prize competition on the website;
+The personal information that you provide may include your name, address, email address, phone number, financial information and other information about you to enable us to provide you with our product search and other services.
 
-(f) information that you provide to enable us to fulfil any prize won by you (which may include your postal address or bank details);
+### Information we collect about you
 
-(g) information about purchases of financial products that you make on third party websites after you follow a hyperlink on our website (including the product purchased, the product provider and the date and time of the purchase);
+When you use our website, we automatically collect information about your device, including your IP address, information about your visit (including how you got to our websites) and how you use our services. We may combine this information with other information you have provided to us or which we have received from other sources.
 
-(h) information supplied to us when you sign up to our money saving newsletter via a third party promotion, including via email campaigns, competition sites and survey websites (including your title, first name, surname and email address and in some cases your address and gender);
+### Information we receive from other sources
 
-(i) any other information that you choose to send to us (including testimonials, feedback and questions).
+If you use any of the other websites or services provided by the ZPG Companies, we may receive information about you or your device in relation to that use, including your IP address, information about your visits how you use the services of the ZPG Companies.
 
-### 2\. Cookies
+We work closely with third parties (for example, business partners, advertising networks, analytics providers and search information providers) and may receive information about you from them. This could include socio-demographic information and information about your likely interests based on your previous web browsing and purchases. We may combine this information with other information you have provided to us or which we collected about you.
 
-2.1 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+## How we use your personal information
 
-2.2 We will send cookies to you (which may be stored by your browser on your computer's hard drive) for the following purposes:
+We use your personal information for the following purposes:
 
-(a) to enable the website to identify you while you are logged in and manage your sessions on the website (including assisting with website navigation);
+### Providing our services to you and fulfilling your requests
 
-(b) track purchases of products and services on third party websites; and
+  * Providing you with the information, products and services you request from us or another ZPG Company (including providing you with product search and advice services).
 
-(c) to validate competition prize entries.
+  * Administering promotions or competitions that you enter with us or another ZPG Company.
 
-Specifically we use cookies on money.co.uk as follows:
+  * Allowing you to participate in our interactive features when you choose to do so.
 
-  * to check if your browser is set to accept cookies we use the cookie cookiechecks
-  * to monitor how visitors use the site and optimise usability we use the cookies trVisitData, trVisitID and trVisitIDHash. These are deleted once you close your browser
-  * to enable money.co.uk members to remain logged in when they navigate around the site we use the cookie userinfo, and userinfo_member to identify members that have logged into the site in the past 30 days
-  * to temporarily record information that a user enters into the site before logging in we use the cookies money_ugc_waiting and money_object_waiting. We also use money_ugc_error and money_ugc_message to enable us to notify visitors that when something goes wrong with a post they have entered on the site. All of these cookies are deleted after 60 minutes
-  * to enable us to monitor the number of visitors that return to the site we use the permanent cookie trHash
-  * to prepopulate forms (like those used to login and reset passwords) we use the cookie user_email, this is deleted once you close your browser
-  * to facilitate navigation around the site we use the cookies sbnav and focus and val_deal_page, these are deleted when you close your browser
-  * to record your preferences relating to money.co.uk ‘Feedback’ the cookies we use are dzFBpreference and dzFBlater. These allow us to hide the ‘Feedback’ prompt or remind you if you opt to leave feedback later and are deleted once you close your browser
-  * to track recommendations via our ‘tell a friend’ functionality we use the cookie memberReferralId
-  * to store information about overlays we use the cookie money_ugc_overlay
-  * to temporarily store a user-selected value whilst loging in we use cookie money_alert_waiting
-  * to enable the user to switch to desktop version from mobile site we use the cookie desktopMode
-  * to record when you sign up to our email updates from the homepage we use the cookie dzSignedUpForNewsletter
 
 
 
-2.3 Use of our website will also result in cookies generated by third parties being sent to you, as follows:
+### Marketing and advertising
 
-(a) We use Google and Microsoft analytics (and their related conversion tracking tools) to analyse the use of money.co.uk. These systems generate statistical and other information about website use by means of cookies stored on users’ computers. The information generated about the use of this website is used to create reports about the use of money.co.uk. Google and Microsoft will store this information, although many of the cookies they use are deleted when you close your browser. You can find out more about the way Google and Microsoft use cookies by visiting their respective privacy policies available at <http://www.google.com/privacypolicy.html> and <http://atlassolutions.com/privacy-policy>.
+  * Providing you and others with information about goods and services that we, other ZPG Companies or third parties offer that may interest you or them, which may be based on inferences about your or their likely interests based on your activity on websites operated by ZPG Companies or third parties.
 
-(b) We use Crazy Egg to analyse traffic to this website in order to understand our customer's and visitor's needs. Crazy Egg collects only anonymous, aggregate statistics. Crazy Egg does not tie a specific visit to a specific visitor.
+  * Customising or enhancing your experience of our services, which may use inferences about your likely interests based on your activity on websites operated by ZPG Companies or third parties.
 
-(c) We use Hotjar to track how visitors use our site which helps us improve the site's performance and our users' experience.
+  * Delivering relevant advertising to you on websites operated by ZPG Companies or third parties or in direct communications from us, which may use inferences about your likely interests based on your activity on websites operated by ZPG Companies or third parties.
 
-(d) We use AdalyserTracker to track if visitors have come to our site after seeing our TV advertising.
+  * Measuring and understanding the effectiveness of advertising we serve to you and others.
 
-(e) We may use third party cookies and similar technologies to show you adverts on other websites that may be of interest to you based on your previous activity on money.co.uk. You can find out about the different third party cookies that may be used via these links:
 
-  * [Google](http://www.money.co.uk/php/callsite.php?url=https://www.google.co.uk/intl/en-GB/policies/technologies/cookies/&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Bing](http://www.money.co.uk/php/callsite.php?url=https://privacy.microsoft.com/en-us/privacystatement%23maincookiessimilartechnologiesmodule&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Facebook](http://www.money.co.uk/php/callsite.php?url=https://www.facebook.com/about/basics/what-you-see/ads/&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Twitter](http://www.money.co.uk/php/callsite.php?url=https://support.twitter.com/articles/20170405&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Rocket Fuel](http://www.money.co.uk/php/callsite.php?url=https://rocketfuel.com/privacy/&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
 
 
+### Service improvement and account management
 
-You can find out more about cookies in general by visiting [http://www.aboutcookies.org/](http://www.money.co.uk/php/callsite.php?url=http://www.aboutcookies.org/) or [www.youronlinechoices.eu](http://www.money.co.uk/php/callsite.php?url=http://www.youronlinechoices.eu&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0).
+  * Ensuring that our content is presented in the most effective manner for you and your device.
 
-2.4 Most browsers (like Chrome, Firefox and Internet Explorer) allow you to disable cookies, although doing so is likely to have a negative impact on the usability of any website you then visit.
+  * Administering our website and for internal business administration (for example, troubleshooting, data analysis, testing, research, statistical and survey purposes).
 
-You can view most of the cookies currently on your browser, and choose to opt out of them via [www.aboutads.info/choices/](http://www.money.co.uk/php/callsite.php?url=http://www.aboutads.info/choices/&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0).
+  * Protecting our interests and those of third parties and as part of our efforts to keep our services safe and secure.
 
-You can also find out how to opt out of the cookies used by each of the third parties specifically mentioned above via:
+  * Managing your preferences (for example, your subscription to our newsletter) and account with us.
 
-  * [Google](http://www.money.co.uk/php/callsite.php?url=https://www.google.co.uk/intl/en-GB/policies/technologies/ads/&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Bing](http://www.money.co.uk/php/callsite.php?url=https://choice.microsoft.com/en-us/opt-out&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Facebook](http://www.money.co.uk/php/callsite.php?url=https://www.facebook.com/help/562973647153813&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Twitter](http://www.money.co.uk/php/callsite.php?url=https://support.twitter.com/articles/20170405&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
-  * [Rocket Fuel](http://www.money.co.uk/php/callsite.php?url=https://rocketfuel.com/opt-out/&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0)
 
 
 
-2.5 Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](http://www.money.co.uk/php/callsite.php?url=http://tools.google.com/dlpage/gaoptout&channel=ATCL&subchannel=LK01&subcat=39&page=0&position=0).
+## Legal basis for processing
 
-### 3\. Using your personal information
+Our legal basis for processing your personal information for the purposes described above will typically be one of the following:
 
-3.1 Personal information submitted on this website will be used for the purposes specified in this Privacy Policy or in relevant parts of the website.
+### Contract
 
-3.2 Information you enter into a product search or enquiry form may be:
+It is necessary for us to process your personal information to perform a contract to which you are a party, or to take steps at your request prior to you entering into a contract.
 
-(a)  shared with a third party so we are able to provide you with information about the products and/or services you requested. This may include introducing you to a broker who will either contact you direct to discuss your requirements or arrange for a qualified advisor to do so on their behalf. All the companies we work with are FCA regulated where relevant.
+### Consent
 
-(b) stored internally and held against your money.co.uk profile if we detect you have a money.co.uk account.
+You have consented to us using your personal information for this purpose (for example, when you create an account with us, agree to receive marketing emails from us or create an alert). You can withdraw your consent at any time by deleting the information from your account or updating your marketing preferences.
 
-3.3 If you enter a competition, we may use your personal information to manage any competition entries you submit, validate such competition entries, and send you any prizes you may win.
+### Legitimate interests
 
-3.4 If you sign up for our comparison table email service, we may use your personal information to send you emails regarding the comparison tables you requested. If you give your consent, we may also provide this information to third parties to enable them to notify you of suitable products and services at the appropriate time.
+It is in our legitimate interests to use your personal information to operate, improve and promote our services (for example, when we customise your experience of our services or use your information for analytics purposes) and to protect our business. Sometimes, we may process your personal information when it is in the legitimate interests of another company, such as another ZPG Company.
 
-3.5 If you sign up to receive our newsletters, we will use your personal information to send you the newsletter and manage your subscription.
+### Legal obligations
 
-3.6 We use Seopa Ltd's insurance aggregator, Quotezone, to generate quotes for car, home and travel insurance and they will:
+It is necessary for us to use your personal information for us or another ZPG Company to comply with a legal obligation.
 
-a) collect your personal data, including some sensitive personal data, via the forms on our website. This data is collated using secure methods, stored by Seopa Ltd in their database and accessed by Quotezone to provide the comparison service.
+## Sharing your personal information
 
-b) use this data to generate insurance quotes from the insurers they partner with. Some insurers may carry out soft credit checks as part of this process and searches will be visible on your credit file as a quotation search only so will have no bearing on your credit score. If you buy a policy these searches may take place again when your policy is due for renewal.
+We share IT infrastructure with other ZPG Companies, and so we may share your personal information with those ZPG Companies to help store your data efficiently and securely. Other ZPG Companies may access your personal information to help provide you with services that you request from those ZPG Companies (for example, to help you manage your home) and to provide you with relevant recommendations of other ZPG services and products. These recommendations may use inferences about your interests based on your activity on our website and on other websites and apps operated by other ZPG Companies.
 
-c) they may search external sources (e.g. the edited electoral roll, county court judgments and bankruptcy registers if applicable) to check and assess your application for accuracy. Again, these searches may be recorded by credit agencies but will not affect your credit score.
+We may also share your personal information with third parties in the following circumstances:
 
-d) if you choose to buy cover you will be giving the insurer permission to use your data to administer the contract and to contact you. Please check the insurer's privacy policy to make sure you understand what permission you are giving them to contact you and how they will do this.
+### Product suppliers and brokers: to help you find and buy our partners' products and services
 
-3.7 If you use our credit card eligibility checker we will collect some personal information about you to provide you with meaningful results on your chance of acceptance based on your credit history. This will be used in the following ways:
+We provide your personal information to the brokers and suppliers whose products and services are listed on our website to help you find and buy their products and services. When you buy products or services from these suppliers, their own privacy policies will apply to how they use your personal information. You can find these privacy policies on their websites and you should check that you are happy with them before completing your transaction.
 
-a) it will be shared with the companies we partner with to monitor feedback and power this service. These include Trustpilot, HD Decisions and the credit reference agencies CallCredit Limited, Equifax Limited, and Experian Ltd. By using this tool, you are agreeing to your information being shared with these companies, but under no circumstances will these third parties use your details for their own marketing purposes.
+We use some third parties to perform searches on our websites for quotes and to provide eligibility checkers for some financial products. They will use your personal information in accordance with their own privacy policies. Details of these third parties and their privacy policies are set out below.
 
-b) it will be used to carry out a soft credit search; this will provide an indication of your eligibility for credit cards but should not affect your ability to get credit in the future. Soft credit checks are only visible to you on your credit report, they cannot be seen by other companies, it would only be used for fraud prevention purposes. We will show your eligibility as a percentage, for more information on how this works read our guide.
+The eligibility checkers on our website will perform a soft credit search before providing you with an indication of your eligibility for a product. These searches may be recorded by credit reference agencies but will not affect your credit rating. For more information on how these searches work, read our [guide](https://www.money.co.uk/guides/why-your-credit-record-matters-and-how-to-improve-it.htm).
 
-c) HD Decisions will pass the details you have entered to the credit reference agencies so they can provide you with accurate results. For further information about this please see our [terms and conditions](https://web.archive.org/terms-and-conditions.htm) and [HD Decisions terms and conditions.](https://web.archive.org/hdd-terms-and-conditions.htm)
+### Our service providers: to help us run our business and perform services you request
 
-3.8 More generally, we may use your personal information to:
+We may provide your personal information to our business partners, suppliers and subcontractors who provide services to us or where necessary to perform a service that you have requested.
 
-(a) administer and enable your use of the website;
+### Advertisers and advertising networks: to serve relevant adverts to you and others
 
-(b) improve your browsing experience by personalising the website (which may include the service of targeted offers for products and services);
+We may provide your personal information to our partner advertisers and advertising networks that require that information to select and serve relevant adverts to you and others.
 
-(c) provide third parties with statistical information about our users (but this information will not be used to identify any individual user);
+### Analytics and search engine providers: to help us improve our services
 
-(d) deal with enquiries and complaints made by or about you relating to the website;
+We may provide information about your visit to analytics and search engine providers to help us improve and optimise our services. We generally only share this information in a form that does not directly identify you.
 
-(e) investigate the misuse or alleged misuse of the website; and
+We may also share your personal information with third parties for the following reasons:
 
-(f) send you email notifications when products you have told us you are interested in are introduced, or when products you hold change.
+### If we sell or buy any business or assets
 
-(g) send you other periodic emails that you will have the ability to control the frequency of or unsubscribe from at any time.
+If we sell or buy any business or assets, we may disclose your personal information to the prospective seller or buyer of that business or those assets, along with its professional advisers. If money.co.uk (or substantially all of its assets) is acquired, personal information held by it about its users will be one of the transferred assets.
 
-3.9 We will not without your express consent provide your personal information to any third parties for the purposes of direct marketing.
+### To obtain professional advice
 
-### 4\. Other disclosures
+We may disclose your personal information to obtain professional advice (for example, from lawyers or financial advisors).
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this Privacy Policy, we may disclose information about you:
+### To comply with a legal obligation
 
-(a) to the extent that we are required to do so by law;
+We may disclose your personal information if required to do so by law or in response to a request from law enforcement or another regulatory authority. We may disclose your personal information to enforce our agreements with you or to protect the rights, property or safety of money.co.uk, its users or others. This includes sharing personal information with other organisations for fraud prevention purposes.
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+## Storing your personal information
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+We may transfer, store or process your personal information outside of the European Economic Area (" **EEA** "). The laws in some countries may not provide as much legal protection for your personal information as in the EEA.
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+By submitting your personal information, you agree to this transfer, storing or processing. Where we use service providers outside the EEA, we rely on approved data transfer mechanisms (for example, the EU Standard Contractual Clauses and the EU-US Privacy Shield) to ensure that your personal information is adequately safeguarded in the recipient country.
 
-### 5\. International data transfers
+Unfortunately, transmission of information over the internet is not completely secure. We will do our best to protect your personal information, but we cannot guarantee its security and any transmission is at your own risk. Once we have received your personal information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this Privacy Policy.
+We keep your personal information for as long as is necessary for the purposes for which it is processed. These periods vary depending on the nature of the information and your interactions with us. You can delete the information that money.co.uk holds about you by contacting us using the details below.
 
-### 6\. Security of your personal information
+## Cookies
 
-6.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+We use cookies and other similar technologies to distinguish you from other users of our websites and apps (including when you browse third party websites). This helps us to provide you with a good experience when you use our services (for example, to remember your login details and improve our services). We also use cookies and similar technologies to show you more personalised advertising, including money.co.uk ads on other websites. You may adjust the settings on your browser to refuse cookies but some of our services may not work if you do so. For detailed information on the cookies we use and why we use them, please read our [Cookie Policy](https://www.money.co.uk/cookie-policy.htm).
 
-6.2 We will store all the personal information you provide in our password-protected database. Our servers are protected by a firewall. In addition, all pages on the website relating to your personal information will be protected using SSL technology, and account details (including passwords)will be stored in our database in an encrypted form.
+## Opting out of collection of information by third party advertisers
 
-6.3 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+Our third party advertisers and advertising network providers ("Ad Providers") may provide you with ads on our websites and apps or on other websites. To make those ads more relevant and help measure their effectiveness, the Ad Providers may use cookies and similar technologies. They record your activity (including pages visited) and estimate what information interests you most. They use this information in accordance with their own privacy policies. For a link to each of those policies and for information about how to opt out, please read our [Cookie Policy](https://www.money.co.uk/guides/our-cookie-policy.htm).
 
-6.4 You are responsible for keeping your password and user details confidential. We will not ask you for your password (save when you log on to the website).
+## Your rights
 
-6.5 Some user content will be published on the website such as testimonials.
+You have the right to ask us not to process your personal information for marketing purposes. You can do this at any time by updating your email preferences by clicking on the "unsubscribe" link in any marketing email we send you or by contacting us using the details below.
 
-6.6 Should you wish to keep your identity anonymous when you post on the website, this will be your sole responsibility.
+Data protection law gives you the right to access your personal information, to object to the use of your personal information for certain purposes, and the right to erase, restrict or receive a machine-readable copy of your personal information. To access, update and delete the personal information we hold about you, please email privacy@money.co.uk or contact us using the address below.
 
-### 7\. Policy amendments
+We will handle your request in accordance with the law. This means there may be legal reasons why we cannot fulfil all requests.
 
-We may update this Privacy Policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+## Links to third party websites
 
-### 8\. Your rights
+Our websites and apps may contain links to other websites. This privacy policy does not apply to those other websites and we do not accept liability for the content of any other website. Please check the privacy policy of any other website before submitting any personal information to it.
 
-8.1 You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
+## money.co.uk product search and eligibility check providers
 
-8.2 You may instruct us not to process your personal information for marketing purposes at any time by using our website contact information. (In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.)
+Some of our life insurance, income protection insurance and critical illness insurance comparison services are provided by **ActiveQuote Ltd** which is authorised and regulated by the Financial Conduct Authority (501109). Registered Office: Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the life insurance, income protection insurance or critical illness insurance comparison services that are indicated as provided by ActiveQuote, you agree to ActiveQuote's [Terms and Conditions](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.uswitch.com/life-insurance/quote/terms-no-header.aspx) and [Privacy Policy](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.uswitch.com/life-insurance/quote/privacy-no-header.aspx).
 
-### 9\. Third party websites
+Some of our life insurance, income protection insurance and critical illness insurance comparison services are provided by **Assured Futures Limited** which is authorised and regulated by the Financial Conduct Authority (176392). Registered Office: Ellenborough House, Wellington Street, Cheltenham, Gloucestershire, GL50 1AP. By using the life insurance, income protection insurance or critical illness insurance comparison services that are indicated as provided by Assured Futures Limited, you agree to Assured Futures' [Terms and Conditions](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.assuredfutures.co.uk/common-page/terms-conditions/) and [Privacy Policy](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.assuredfutures.co.uk/common-page/privacy-policy/).
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+Our business electricity and business gas comparison services are provided by **Love Energy Savings.com Limited**. Registered Office: Unit 2, Springfield Court, Summerfield Road, Bolton, Greater Manchester, BL3 2NT. By using the business electricity or business gas comparison services, you agree to Love Energy Savings.com Limited's [Terms and Conditions](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.loveenergysavings.com/terms-and-conditions/) and [Privacy Policy](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.loveenergysavings.com/privacy-policy/).
 
-### 10\. Updating information
+Our car, taxi, travel and home insurance comparison services are provided by **Seopa Limited (t/a Quotezone)** which is authorised and regulated by the Financial Conduct Authority (313860). Registered Office: 8-10 Amelia Street, Belfast, County Antrim, BT2 7GS. By using the car, taxi, travel or home insurance comparison services, you agree to Quotezone's [Terms and Conditions](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.quotezone.co.uk/legal.htm) and [Privacy Policy](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.quotezone.co.uk/privacy-policy.htm).
 
-Please keep the account information we hold about you up-to-date. You are able to amend your account information when logged in to your account.
+Our broadband comparison service is provided by **uSwitch Limited** , which is authorised and regulated by the Financial Conduct Authority (312850). uSwitch Limited is a credit broker, not a lender, for consumer credit products. Registered Office: The Cooperage, 5 Copper Row, London SE1 2LH. By using the broadband comparison service, you agree to uSwitch Limited's [Terms of Use](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.uswitch.com/about-us/terms-of-use/) and [Privacy Policy](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.uswitch.com/about-us/privacy-policy/).
 
-### 11\. Contact
+Our motorbike and van insurance comparison services are provided by **Vast Visibility Limited** which is authorised and regulated by the Financial Conduct Authority (566973). Registered Office: 8 Princes Parade, Liverpool, Merseyside, L31DL. By using the motorbike and van insurance comparison service, you agree to Vast Visibility's terms and conditions and privacy policy (available on the [Vast Visibility website](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://www.vastvisibility.co.uk/)).
 
-The data controller in respect of personal information submitted to our website is Dot Zinc Limited.
+Our eligibility checker service is provided by **HD Decisions (part of Experian Limited)** which is authorised and regulated by the Financial Conduct Authority (738097). Registered office: The Sir John Peace Building, Experian Way, Ng2 Business Park, Nottingham, NG80 1ZZ. By using the eligibility checker service, you agree to HD Decisions' [terms, conditions and privacy policy](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://termsandconditions.hdd2.co.uk/money/).
 
-If you have any questions about this Privacy Policy or our treatment of your personal information, please write to us using our website contact form or by post to Dot Zinc Limited, 160 Fleet Street, London, EC4A 2DQ.
+## Contact us
 
-If you wish to make a complaint please see our [Complaints Procedure](https://web.archive.org/complaints.htm).
+If you have questions about this privacy policy or the way in which money.co.uk processes your personal information, you can contact us using the details below:
 
-We are registered under the Data Protection Act 1998 (registration number Z6245956).
+**Post** : Data Protection Manager, Dot Zinc Limited, The Cooperage, 5 Copper Row, London SE1 2LH
+
+**Email** : [privacy@money.co.uk](mailto:privacy@money.co.uk)
+
+We hope that we will be able to resolve any questions or concerns you have. However, you may at any time raise your concern with the [UK Information Commissioner](https://web.archive.org/php/callsite.php?channel=ATCL&subchannel=LINK&pageid=21487&url=https://ico.org.uk/) at:
+
+**Post** : Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+
+Last updated: 17 May 2018
