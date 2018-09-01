@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ppsc.gov.in privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015214355id_/http%3A//www.ppsc.gov.in/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppsc.gov.in privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901102327id_/http%3A//ppsc.gov.in/policy.aspx) for the most accurate reproduction.*
 
 # Welcome to Punjab Public Service Commission
 
 Terms and Conditions   
 ---  
   
-This website is Designed, Developed and Maintained by National Informatics Centre, Department of Information Technology, Ministry of Communications and Information Technology , Government of India.These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the jurisdiction of the courts of India.
+This website is Designed, Developed by National Informatics Centre, Department of Information Technology, Ministry of Communications and Information Technology , Government of India.These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the jurisdiction of the courts of India.
 
 The information posted on this website could include hypertext links or pointers to information created and maintained by non-Government/private organisations. Punjab Public Service Commission is providing these links and pointers solely for your information and convenience. When you select a link to an outside website, you are leaving the 'Punjab Public Service Commission' site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
 
