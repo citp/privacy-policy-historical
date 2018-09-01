@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scdkey.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714092514id_/https%3A//www.scdkey.com/staticPage/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scdkey.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901111311id_/https%3A//www.scdkey.com/staticPage/privacyPolicy) for the most accurate reproduction.*
 
 # About Us - SCDKey.com
 
@@ -18,6 +18,20 @@ scdkey.com uses the personally-identifiable information we collect online princi
 
 We also provide personally-identifiable online information in response to subpoenas and other legal demands, and where we believe that disclosing this information is necessary to identify, contact or bring legal action against individuals who may be endangering public safety or interfering with scdkey.com' services, or with our customers' or others' use of them. 
 
+We have integrated the logo of our partner, idealo (idealo internet GmbH, Ritterstraße 11, 10969 Berlin), onto our website. When you visit our website, information is automatically sent to the idealo server by the browser you are using on your device. This information is collected and then stored on a so-called server log file for 7 days before being automatically deleted. This process requires no intervention from you and includes the following information:
+
+● IP address of the user's computer,
+
+● Date and time the website is accessed,
+
+● Name and URL of the retrieved file,
+
+● Website from where the user came (Referrer URL),
+
+● Browser used and, if applicable, the operating system of your computer and the name of your access provider.
+
+he temporary storage of IP addresses by the system is necessary in order for the website to be accessed. In this regard, the IP address must be stored for the duration of the visit to the website. Storage in log files occurs to guarantee optimal functioning of the website. The data collected also serves to optimise the website and ensure the safety of the information technology systems. At no point is any data stored together with other personal data. The legal basis for this data processing is Art. 6 para. 11point f GDPR.
+
 **How We Collect Information**
 
 scdkey.com collects information online by asking you for it, for example, when you order a service, apply for a job, or respond to a survey, offer or other promotion. A customer's name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted. 
@@ -26,4 +40,20 @@ From time-to-time, the Company may provide you the opportunity to participate in
 
 **Security**
 
-We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the scdkey.com's web site you will need to submit a password or some other type of authenticating information..
+We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the scdkey.com's web site you will need to submit a password or some other type of authenticating information.
+
+Company name： **AMZGAME CO.,LIMITED**
+
+Physical Address: **FLAT/RM B,4/F,KINGSWELL COMM TOWER 171-173 LOCKHART RD WANCHAI ,HK**
+
+Email address: **Service@scdkey.com**
+
+Phone number: **+85264531541**
+
+Unsubscription method:
+
+If you wish to unsubscribe to SCDKey, 
+
+Method one: Find and click on the unsubscribe link in each of the promotional email, we will opt you out from the mailing listing without any cost.
+
+Method two：Un-checking "Subscribe to SCDKey Newsletter"checkbox on the registration page
