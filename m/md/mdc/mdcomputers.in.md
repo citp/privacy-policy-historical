@@ -1,16 +1,9 @@
-> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024010909id_/http%3A//mdcomputers.in/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901152143id_/https%3A//mdcomputers.in/privacy) for the most accurate reproduction.*
 
-# 
+# Mdcomputers.in: Privacy Policy
 
-[ ](http://mdcomputers.in/)
-
-  * Your shopping cart is empty!
-
-
-
-
-  * [Home](http://mdcomputers.in/index.php?route=common/home)
-  * [Privacy Policy](http://mdcomputers.in/index.php?route=information/information&information_id=3)
+  * [Home](https://mdcomputers.in/index.php?route=common/home)
+  * [Privacy Policy](https://mdcomputers.in/privacy)
 
 
 
@@ -26,10 +19,4 @@
   *  If you have any questions/comments about privacy, you should contact us.  
  
 
-
-
-The product is currently Out-of-Stock. Enter your email address below and we will notify you as soon as the product is available.
-
-  
-  
 
