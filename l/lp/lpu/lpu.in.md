@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lpu.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165225id_/https%3A//www.lpu.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpu.in privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901194629id_/https%3A//www.lpu.in/privacy.php) for the most accurate reproduction.*
 
-# LPU- India's Largest Best Private University (Jalandhar, Punjab)
+# 
+
+## Privacy Policy
 
 You may visit our website without revealing any personal information wherever permissible. Certain transactions may require submission of personal information like profile updates and certain databases. We will not sell, swap or rent, or otherwise disclose to any third party any personal information for commercial purpose and such information will be utilized only for the purpose stated. To accomplish such purpose we may disclose the information to our employees, consultants and other concerned having a genuine need to know the information.
 
@@ -12,3 +14,22 @@ Our website contains links to other independently run websites within our networ
 While we make our best efforts to protect the privacy of users however we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
 
 This privacy policy may be revised/modified/amended at any point of time at the sole discretion of the University.
+
+﻿ 
+
+#### **Admissions for 2017-2018 are closed, except for the following programmes.**  
+
+
+#### B.Ed.
+
+[Click Here](https://admission.lpu.in/)   
+The last date to apply for admission is 31st August 2017. 
+
+####  Integrated B.Ed. - M.Ed.
+
+[Click Here](https://admission.lpu.in/)   
+The last date to apply for admission is 31st August 2017. 
+
+To enquire for admission in programmes other than mentioned above, [Click Here](https://www.lpu.in/contact_us/contact-us.php)
+
+The photographs of the students, who attended the 8th Convocation are attached under the following links. Students can download the photographs based on the line number allocated to them, for the ceremony. 
