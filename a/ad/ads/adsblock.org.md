@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsblock.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025815id_/http%3A//adsblock.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsblock.org privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901125812id_/http%3A//adsblock.org/privacy.htm) for the most accurate reproduction.*
 
 # AdsBlock.org - Privacy Policy
 
