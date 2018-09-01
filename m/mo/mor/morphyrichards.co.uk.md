@@ -1,163 +1,242 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329025318id_/https%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901085753id_/https%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
- **BACKGROUND:**
+Updated: 21st August 2018
 
-This Policy applies as between you, the User of this Web Site and us, Morphy Richards, the owner and provider of this Web Site. This Policy applies to all Data collected by us during the course of and in relation to your use of the Web Site (and any Services or Systems). By using the Web Site you are deemed to have accepted the terms of this Policy. 
+At Morphy Richards we believe that your personal data is very important and we are committed to protecting and respecting your privacy. 
 
-#### 1\. Definitions and Interpretation 
+Please read this policy carefully as it lays out the ways we process your personal data and how we will treat it.
 
-In this Policy the following terms shall have the following meanings: 
+Morphy Richards Ltd (the data controller) is a manufacturer of small domestic appliances and is part of the Glen Dimplex Group based in the Republic of Ireland. This Privacy Policy explains how we collect and use your personal data. 
 
-“Content” 
+We are committed to being transparent about how we collect your data, how we use it and your rights.
 
-means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site; 
+This policy will set out: 
 
-“Cookie” 
+  * How we collect your personal data on our website
+  * How we use your data as a customer of ours
+  * How we use supplier data
+  * What happens if you do not supply your personal data
+  * How we use your data for marketing
+  * What happens when you call us
+  * How we process your personal data
+  * Why we process your data
+  * How and why we may share your data
+  * Transferring your data overseas
+  * Information about data security
+  * Your rights and choices when it comes to your data
+  * Withdrawing your consent
+  * Changes to this privacy policy 
+  * How to contact us
 
-means a small text file placed on your computer that resides on your computer’s hard drive, often containing an anonymous unique identifier and accessible only by the website that placed it there. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your shopping basket; 
 
-“Data” 
 
-means collectively all information that you submit to the Web Site including but not limited to personal information, payment information and other information submitted when using any of our Services or Systems; 
+We may collect and process personal data about you in the following circumstances:
 
-“Morphy Richards” 
+  * when you complete forms or place an order on our website (“Site”). This includes the list on personal data below, which is provided at the time of registering to use our Site, registering a product, completing a contact us form or ordering, where you ask us to contact you about our goods or services, subscribe to our mailing list, or subscribe/request or goods or services;
+    * Your Name 
+    * Your address 
+    * Your email address 
+    * Your telephone number 
+  * whenever you provide information to us when reporting a problem with our Site, making a complaint, making an enquiry or contacting us for any other reason. If you contact us, we may keep a record of that correspondence;
+  * details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access (see the section on Cookies below); 
+  * whenever you disclose your information to us, or we collect information from you in any other way, through our Site.
 
-means Morphy Richards Limited (company number 644702) whose registered office is at Talbot Road, Mexborough, South Yorkshire, S64 8AJ; 
 
-“Service” 
 
-means collectively any online facilities, tools, services or information that Morphy Richards makes available through the Web Site either now or in the future; 
+We may also collect data in the following ways:
 
-“System” 
+IP Address
 
-means any online communications infrastructure that Morphy Richards makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links; 
+  * We may collect information about your device, including where available your Internet Protocol address, for reasons of fraud protection. We may also collect information about your device’s operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-“User” / “Users” 
 
-means any third party that accesses the Web Site and is not employed by Morphy Richards and acting in the course of their employment; and 
 
-“Web Site” 
+Cookies
 
-means the website that you are currently using (www.morphyrichards.co.uk and www.momentocoffee.com) and any sub-domains of this site, unless expressly excluded by their own terms and conditions. 
+  * Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/support/morphy-richards-support/cookies/)
 
-#### 2\. Data Collected
 
-Without limitation, any of the following Data may be collected: 
 
-2.1 name; 
+We may use your personal data for our legitimate interests in order to: 
 
-2.2 email address; 
+  * provide you with information, or services that you requested from us; 
+  * When you purchase a product or spare from us; 
+  * allow you to participate in interactive features of our Site, when you choose to do so; 
+  * ensure that content from our Site is presented in the most effective manner for you and for your device; 
+  * improve our Site and services; 
+  * process and deal with any complaints or enquiries made by you; and 
+  * contact you for marketing purposes where you have signed up for these (see section 6 for further details).
 
-2.3 contact information such as postal addresses and telephone numbers; 
 
-2.4 demographic information such as post code, preferences and interests; 
 
-2.5 financial information such as credit / debit card numbers; 
+Website Links 
 
-2.6 IP address (automatically collected); 
+  * Our Site may, from time to time, contain links to and from the websites of third parties. Please note that if you follow a link to any of these websites, such websites will apply different terms to the collection and privacy of your personal data and we do not accept any responsibility or liability for these policies. When you leave our Site, we encourage you to read the privacy notice/policy of every website you visit.
 
-2.7 web browser type and version (automatically collected); 
 
-2.8 operating system (automatically collected); 
 
-2.9 a list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected); and 
+We will collect details such as listed below when you order goods or services from us either via our Site or on the telephone. We will use this information to process your order and comply with our contractual obligations. 
 
-2.10 Cookie information (see clause 12 below). 
+  * Your Name 
+  * Your Billing address 
+  * Your Delivery address 
+  * Your email address 
+  * Your telephone number
 
-#### 3\. Our Use of Data
 
-3.1 Any personal Data you submit will be retained by Morphy Richards for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications system that we may provide may be retained for a longer period of up to 12 months. 
 
-3.2 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998 (the “Act”). For the purpose of the Act the data controller is Morphy Richards. For more details on security, see clause 11 below. 
+In order to perform our contact with you, we may also need to share personal data with third parties such as payment providers and postal service organisations to assist in the delivery of goods or services you have ordered; 
 
-3.3 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons: 
+  * **RKW** To fulfil housewares orders 
+  * **SagePay** To process payments 
+  * **Paypal** To process payments 
+  * **Hermes** To deliver your order
+  * **BazaarVoice** To collect and disseminate reviews
+  * **Trust Pilot** To collect and host reviews
+  * **Emarsys** To send email marketing when explicit consent is given 
+  * **Emarsys** To store product registration data
+  * **Red Technology** To manage all website services including sales and product registration
 
-3.3.1 internal record keeping; 
 
-3.3.2 improvement of our products / services; 
 
-3.3.3 subject to paragraph 4 of this Privacy Policy, transmission by email of promotional materials relating to products / services that may be of interest to you; 
+We may also advertise your feedback on our website and marketing materials (subject to obtaining your prior consent where necessary); 
 
-3.3.4 contact for market research purposes which may be done using telephone, fax or mail. You may opt out of being contacted in this way at any time. Such information may be used to customise or update the Web Site. 
+We will retain your information as long as we require this to provide you with the goods or services ordered from us and for a period of Six years from the end of the financial year in which the transaction was made 
 
-3.3.5 Information We Collect
+We will retain your product registration information for 5 years after the expiration of the guarantee date of your last registered product. 
 
-In operating our website we may collect and process the following data about you:
+Where you have subscribed to receive marketing correspondence from us we will keep your personal data for the period of time described in the Marketing section below. 
 
-  Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
+Customer Service Contacts
 
-Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase. (Please note that we have the ability to retain your contact details should you input them on our website using VeCapture by Ve Interactive, even if you do not complete your registration/transaction by clicking submit. Such contact details may be used to contact you to assist with your registration/transaction).
+We will collect details such as listed below when you contact our Customer Services from us either via telephone, email or letter. We will use this information to deal with your request and comply with our guarantee obligations. 
 
-#### 4\. Emails
+  * Your Name 
+  * Your address 
+  * Your email address 
+  * Your telephone number
 
-4.1 If you are an existing customer, we will only contact you by email with information about products and services similar to those which were the subject of a previous sale to you. To opt out of marketing emails from Morphy Richards, you can click on the ‘unsubscribe’ link located at the bottom of all our marketing emails. 
 
-4.2 We will not otherwise email you unless (a) you have specifically given your consent in response to “opt-in” boxes etc, (b) in response to your emails to us, (c) you create an account on Morphy Richards website (a welcome email will be sent to you) or (d) you register a product as part of the product registration process to acknowledge your registered product. If you have not opted in to receive marketing messages from us via email you will not receive any further email apart from b, c and d mentioned above. We will not pass on your email address to any third parties unless you have specifically consented to this. 
 
-#### 5\. Disclosure of Data
+We will retain emails and letters for a period of 3 years.
 
-5.1 The information you provide to us will be held on our computers in the United Kingdom and accessed by or given to our staff working within the United Kingdom. 
+Please see the monitoring and recording section for information on how long we will retain recordings of telephone calls.
 
-5.2 We may share aggregate information with our group companies and other parties within the United Kingdom. This is statistical data about Users’ browsing actions and patterns and does not identify any individuals. We will not (save as set out in this Policy) sell, transfer or share any personal information about you as an individual User of the Web Site outside our group of companies. 
+Any claims e.g. reports and insurance claims will be kept for 3 years from the date the case is closed unless a payment has been made in which case records will be kept by our Finance department for 6 years (VAT purposes). 
 
-5.3 Where you have explicitly consented by way of “opt-in” when providing us with your personal details, we may also allow carefully selected third parties, including other companies in our group, to contact you occasionally about other products and services which may be of interest to you. They may contact you by telephone, fax or mail. You may opt out of receiving this information at any time. 
+Home Trial Panel
 
-5.5 We will co-operate with law enforcement agencies as well as related third parties to enforce laws such as fraud and other rights. You authorise us to disclose any information about you to such law enforcement or other government officials as we, in our sole discretion, believe necessary in connection with the investigation of fraud or other activity that is illegal or may expose us or you to legal liability. You further authorise us to process your information, including sensitive personal information, where the processing is necessary for the purpose of legal proceedings, obtaining legal advice, establishing or defending legal rights or for the administration of justice or the exercise of functions of a public nature. 
+We maintain a list of home trial panel members who test our products on a regular basis. The data held on this panel is: 
 
-#### 6\. Third Party Web Sites and Services
+  * Contact name 
+  * Address 
+  * Number of people in household 
+  * Socioeconomic grading 
+  * Further information about your house including pets owned, type of floors and type of house
 
-Morphy Richards may, from time to time, employ the services of other parties to deal with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do not have access to certain personal Data provided by Users. Any Data used by such parties is used only to the extent required by them to perform the services that Morphy Richards requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Act. We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>. 
 
-#### 7\. Changes of Business Ownership and Control
 
-7.1 Morphy Richards may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+Data will be retained for the duration of the time panel members wish to participate. Home Trail members can exercise your right to withdraw your consent to the above at any time.
 
-7.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
+Business to Business Contacts
 
-#### 8\. Controlling Access to your Data
+We will hold contact details for our business to business customers. These details include: 
 
-Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following: 
+  * Contact name 
+  * Job role 
+  * Business telephone number, including mobile phone number 
+  * Business email address 
+  * Business postal address
 
-8.1.1 use of Data for direct marketing purposes; and 
 
-8.1.2 sharing Data with third parties. 
 
-#### 9\. Your Right to Withhold Information
+We will keep the personal data for 6 years further to the end of the contract
 
-9.1 You may access certain areas of the Web Site without providing any Data at all. However, to use some Services and Systems available on the Web Site you may be required to submit Data. 
+We will collect details such as the data listed below in order to contact you about goods or services ordered with you, to place further orders and to pay you for the goods and/or services supplied. We will keep the personal data for 6 years further to being provided with the goods/services or for the duration of the warranty or licence period. 
 
-9.2 You may restrict your internet browser’s use of Cookies. For more information see paragraph 12 below. 
+  * Contact Name 
+  * Invoice address 
+  * Head Office Address 
+  * Contact email address 
+  * Contact telephone number
 
-#### 10\. Accessing your own Data
 
-10.1 You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. 
 
-10.2 You have the right to ask for a copy of your personal Data on payment of a small fee. 
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide the data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example to provide you with our goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-#### 11\. Security
+In addition to the uses described in sections above, where you indicate you would like to receive marketing correspondence from us, subscribe to our mailing lists or newsletters, enter into any of our competitions or provide us with your details at networking events we may use your personal data for our legitimate interests in order to provide you with details about our products which we think may be of interest.We may occasionally send you surveys relating to the product you own. 
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your Data, we cannot guarantee the security of Data transmitted to the Web Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to safeguard the Data and prevent unauthorised access. 
+You have the right to opt-out of receiving the information detailed in the section above at any time. To opt-out of receiving such information you can:
 
-#### 12\. Cookies
+  * Tick the relevant box situated in the form on which we collect your information; 
+  * Clicking the unsubscribe button contained in any such communication received; or 
+  * Call 0344 871 0242 providing us with your name and contact details. 
 
-12.1 Morphy Richards may set and access Cookies on your computer. You can read more about cookies at [http://www.allaboutcookies.org/ ](http://www.allaboutcookies.org/)
 
-12.2 You can choose to disable Cookies in your web browser. By default, your browser will accept Cookies, but this can be altered. For further details please consult the help menu within your browser. 
 
-12.3 Morphy Richards use 2 types of cookies on our website
+Where you have subscribed to receive marketing correspondence from us we will keep personal data for 5 years after the expiration of the guarantee date of your last registered product.
 
-12.3.1 Cookies to help the use of your site. These do things such as remember items in your shopping basket and your email address when loggin in. If you restrict or reject your use of these cookies you will find that your use of this website will be hindered including the inability to purchase items. 
+We do not share with or sell your data to 3rd parties. 
 
-12.3.2 Third party cookies – The main third party cookies that Morphy Richards use are one that track the use of this website. Morphy Richards uses Google Analytics, supplied by Google Inc, to report on activity on this website. These cookies can only identify that someone has used the site and do not collect any personal data. For more information on this you can view Google Analytic’s privacy policy at <http://www.google.com/intl/en/privacy/privacy-policy.html>
+We may monitor and record communications with you (such as telephone communications and emails) for the purpose of quality assurance and training. As of the 1st May 2018 we will retain these recordings for 2 years. We also have CCTV cameras installed in our premises for the purpose of crime prevention and for health and safety reasons. We retain such information for 30 days, however if an incident occurs the footage will be kept for 3 years from the date of the incident.
 
-During your visit there may be cookies used that are not related to this website. These could be placed if you view images or video via YouTube or Flickr that are embedded in a page. Morphy Richards does not control these cookies and you should check with the individual site for more information on these. 
+We use automated processing of personal data to provide you with the relevant information via email marketing. We utilise the product or spare or accessory sales and registration data. We will also anonymise this information for reporting purposes.
 
-#### 13\. Changes to this Policy
+We will only use your personal data where the law allows us to. Most commonly, we will use your personal data in the following circumstances: 
 
-Morphy Richards reserves the right to change this Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the amended terms of the Policy on your first use of the Web Site following any such alterations. 
+  * For performance of a contract we enter into with you such as when you buy something from us; 
+  * Where necessary for compliance with a legal or regulatory obligation we are subject to; 
+  * Where necessary in order to protect your vital interests in respect of a product you have purchased from us; and 
+  * For our legitimate interests (as described within this policy) and your interests and fundamental rights do not override these interests. 
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Morphy Richards, Talbot Road, Mexborough, South Yorkshire, S64 8AJ, United Kingdom, for the attention of Russ Dalgety, telephone 01709-582402 or by email to website@morphyrichards.co.uk. 
+
+
+In addition to the third parties mentioned above, we may disclose your information to third parties for our following legitimate interests as follows:
+
+  * To staff members in order to facilitate the provision of goods or services to you; 
+  * To a 3rd party to fulfil your order 
+  * To our affiliated entities to support internal administration; 
+  * IT software providers that host our website and store data on our behalf; 
+  * HM Revenue and Customs, regulators and other authorities who require reporting of processing activities in certain circumstances; and 
+  * Third parties who we may choose to sell, transfer or merge parts of our business or assets. Alternatively, we may seek to acquire other business or merge with them. If a change happens to our business then the new owners my use your personal data in the same way as set out in this privacy policy. 
+
+
+
+We may disclose personal data to the police, regulatory bodies, legal advisors or similar third parties where we are under a legal duty to disclose or share personal data in order to comply with any legal obligation, or in order to enforce or apply our website terms and conditions and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+
+We will not sell or distribute personal data to other organisations without your approval. 
+
+Where permitted by applicable law, we may transfer your personal data to the United States and other jurisdictions outside the European Economic Area (‘EEA’) for the purposes set out in this privacy policy. We have implemented binding corporate rules/standard contractual clauses approved by the European Commission/the EU-US Privacy Shield/Swiss-US Privacy Shield/consent to secure the transfer of your personal data to jurisdictions outside the EEA.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your information transmitted to our Site; any transmission is at your own risk. 
+
+Information you provide to us is shared on our secure servers. We have implemented appropriate physical, technical and organisational measures designed to secure your information against accidental loss and unauthorised access, use, alteration or disclosure. In addition, we limit access to personal data to those employees, agents, contractors and other third parties that have a legitimate business need for such access.
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if the personal data we hold about you changes. 
+
+Data protection legislation gives you the right to object to the processing of your personal data in certain circumstances or withdraw your consent to the processing of your personal data where this has been provided. You also have the right to access information held about you and for this to be provided in an intelligible form. If you would like a copy of some or all of your personal information, please complete [this form](https://web.archive.org/datarequest/) or send an email to [dataprivacy@morphyrichards.co.uk](mailto:dataprivacy@morphyrichards.co.uk?Subject=Subject%20Access%20Request). In certain circumstances we reserve the right to charge a reasonable fee to comply with your request. 
+
+You can also ask us to undertake the following:
+
+  * Update or amend your personal data if you feel this is inaccurate; 
+  * Remove your personal data from our database entirely; 
+  * Send you copies of your personal data in a commonly used format and transfer your information to another entity where you have supplied this to us, and we process this electronically with your consent or where necessary for the performance of a contract; or 
+  * Restrict the use of your personal data. 
+
+
+
+We may request specific information from you to help us confirm your identity and your right to access, and to provide you with the personal data that we hold about you or make your requested changes. Data protection legislation may allow or require us to refuse to provide you with access to some or all the personal data that we hold about you or to comply with any requests made in accordance with your rights referred to above. If we cannot provide you with access to your personal data, or process any other request we receive, we will inform you of the reasons why, subject to any legal or regulatory restrictions. 
+
+Please complete [this form](https://web.archive.org/datarequest/) or email us at [dataprivacy@morphyrichards.co.uk](mailto:dataprivacy@morphyrichards.co.uk?Subject=Subject%20Access%20Request) for any requests relating to the above specifying your name and the action you would like us to undertake. 
+
+Where you have provided your consent to the collection, processing and transfer of your personal data, you have the legal right to withdraw your consent under certain circumstances. To withdraw your consent Please complete [this form](https://web.archive.org/datarequest/) or email us on [dataprivacy@morphyrichards.co.uk](mailto:dataprivacy@morphyrichards.co.uk?Subject=Subject%20Access%20Request) with any requests relating to the above specifying that you want to withdraw consent.
+
+We reserve the right to update this privacy policy at any time, and any changes we make to our privacy policy will be posted on this page. We will notify you if there are any changes to this policy that materially affect how we collect, store or process your personal data. If we would like to use your previously collected personal data for different purposes than those we notified you about at the time of collection, we will provide you with notice and, where required by law, seek your consent, before using your personal data for a new or unrelated purpose. We may process your personal without your knowledge or consent where required by applicable law or regulation.
+
+If you have any questions, comments or requests regarding this policy or how we use your personal data please complete [this form](https://web.archive.org/datarequest/) or email us on [dataprivacy@morphyrichards.co.uk](mailto:dataprivacy@morphyrichards.co.uk?Subject=Subject%20Access%20Request) specifying the nature of your request. This is in addition to your right to contact the Information Commissioners Office if you are unsatisfied with our response to any issues you raise at https://ico.org.uk/global/contact-us/
