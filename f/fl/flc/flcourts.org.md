@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flcourts.org privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602162715id_/http%3A//www.flcourts.org/administration-funding/court-administration/privacy-statement.stml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flcourts.org privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901163241id_/http%3A//flcourts.org/administration-funding/court-administration/privacy-statement.stml) for the most accurate reproduction.*
 
 # Privacy Statement
 
