@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 420links.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127000605id_/https%3A//www.420links.co.uk/privacy-cookie.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 420links.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901022708id_/https%3A//www.420links.co.uk/privacy-cookie.html) for the most accurate reproduction.*
 
 # PRIVACY-COOKIE
 
