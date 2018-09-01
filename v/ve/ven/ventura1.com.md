@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ventura1.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104110416id_/https%3A//www.ventura1.com/Static/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventura1.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901024900id_/https%3A//www.ventura1.com/Static/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Ventura
 
