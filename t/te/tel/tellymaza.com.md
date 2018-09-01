@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tellymaza.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628155028id_/http%3A//tellymaza.tv/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymaza.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901102556id_/http%3A//tellymaza.tv/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Apne TV
 
-We are committed to ensure that privacy of a user is never compromised at TellyMaza. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at _ **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**_ for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
+We are committed to ensure that privacy of a user is never compromised at TellyMaza. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at _ **contact@apne.tv**_ for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
 
 One does not need to register in-order to use this website's products or services. We never ask for an email address or name or any kind of information from the user. We respect the right of privacy for a user as a result we do not collect any information from any user visiting this site. Thus Data collection of any sort does not exist on this site.
 
@@ -14,4 +14,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 The Privacy policy of this website would be regulated on constant basis in-order to ahere to the current standards of privacy in the online world. It is our responsibilty to ensure that user feels comfortable using this website and we would keep ensuring that our policies are upto mark.
 
-Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for any questions and we do not take any responsibilty for any factors that are not in-control of the site's owner that would result in breach of privacy. 
+Please contact us at contact@apne.tv for any questions and we do not take any responsibilty for any factors that are not in-control of the site's owner that would result in breach of privacy. 
