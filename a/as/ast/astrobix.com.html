@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the astrobix.com privacy policy that was archived on 2018-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180501231625id_/https%3A//astrobix.com/docs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrobix.com privacy policy that was archived on 2018-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180901073617id_/https%3A//astrobix.com/docs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Privacy Policy - Astrobix.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="/content/img/favicon.png" type="image/x-icon">
-    <link href="/content/css/stylebundle?v=hSb7tBm6mPlqaW2SZKDOcu7tJnNucuYZjnnCllfMTTA1" rel="stylesheet">
+    <link rel="shortcut icon" href="https://s3-us-west-2.amazonaws.com/astrobix/content/img/favicon.png" type="image/x-icon">
+    <link href="/content/css/stylebundle" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]>
-    <script src="/content/libs/html5shiv/es5-shim.min.js"></script>
-    <script src="/content/libs/html5shiv/html5shiv.min.js"></script>
-    <script src="/content/libs/html5shiv/html5shiv-printshiv.min.js"></script>
-    <script src="/content/libs/respond/respond.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/astrobix/content/libs/html5shiv/es5-shim.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/astrobix/content/libs/html5shiv/html5shiv.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/astrobix/content/libs/html5shiv/html5shiv-printshiv.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/astrobix/content/libs/respond/respond.min.js"></script>
     <![endif]-->
     
 
 
-    <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://embed.tawk.to/5a0680ff198bd56b8c03a7db/default" charset="UTF-8" crossorigin="*"></script><script src="/content/scripts?v=PoMbrb5oqoKms0xi2pWhL_usSlqOSdGqrQaJiC-kOcA1"></script>
+    <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://embed.tawk.to/5a0680ff198bd56b8c03a7db/default" charset="UTF-8" crossorigin="*"></script><script src="/content/scripts"></script>
 
     <script>
         // Adds and removes body class depending on screen width.
@@ -36,7 +36,6 @@
                 }, 500);
             }
         }
-
         // Fire.
         screenClass();
 
@@ -46,17 +45,47 @@
         });
     </script>
     <style>
-
         @media all and (min-width:0px) and (max-width: 720px) {
-            .dropdown-menu { max-height: 411px; overflow-y: scroll; }
+            .dropdown-menu {
+                max-height: 411px;
+                overflow-y: scroll;
+            }
 
-            .headertop { margin-bottom: 10px; }
+            .headertop {
+                margin-bottom: 10px;
+            }
+        }
+
+        .getReport2wrap {
+            background: black;
+            text-align: center;
+            margin: 0 auto;
+            padding: 0px;
+        }
+
+        #getReport2 {
+            margin: 10px auto;
+            cursor: pointer;
         }
     </style>
-
-
     
+    <script>
+        $(function () {
+            var btn2 = $(".getReport2wrap").detach();
+            $("body").append(btn2);
 
+            $('#getreport,#getReport,#getReport2').click(function () {
+                try {
+                    $('html,body').animate({
+                        scrollTop: $("#mainpage").next().offset().top
+                    }, 'slow');
+                }
+                catch{
+
+                }
+            });
+        });
+    </script>
 </head>
 <body>
     <!-- header -->
@@ -67,7 +96,7 @@
                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
                         <div class="header-logo">
                             <a href="/">
-                                <img src="/content/img/logo.png" alt="">
+                                <img src="https://s3-us-west-2.amazonaws.com/astrobix/content/img/logo.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -76,7 +105,6 @@
                             <a href="http://itbix.com/HoroscopeExplorer" target="_blank">
                                 <img src="/images/headertopbanner.png" target="_blank" class="img-responsive mc ">
                             </a>
-
                         </div>
                     </div>
                 </div>
@@ -99,7 +127,7 @@
                                         <a href="/allpremiumreports" data-toggle="dropdown">PREMIUM ASTROLOGY</a>
                                         <ul class="dropdown-menu">
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/horoscope/horoscope/">Vedic Horoscopes</a>
+                                                <a data-toggle="dropdown" href="/horoscope/horoscope/">Vedic Horoscopes</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/horoscope/horoscope/">Vedic Horoscope</a></li>
                                                     <li><a href="/health/horoscope">Health Horoscope</a></li>
@@ -114,7 +142,7 @@
                                             </li>
 
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/varshaphala/varshaphala/">Yearly Horoscopes</a>
+                                                <a data-toggle="dropdown" href="/varshaphala/varshaphala/">Yearly Horoscopes</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/varshaphala/varshaphala/">Yearly Horoscopes</a></li>
                                                     <li><a href="/career/caryear">Career - Next 12 Months</a></li>
@@ -127,7 +155,7 @@
                                             </li>
 
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/lalkitab/lalkitab/">Lal Kitab Horoscope</a>
+                                                <a data-toggle="dropdown" href="/lalkitab/lalkitab/">Lal Kitab Horoscope</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/lalkitab/lalkitab/">Lal Kitab Horoscope</a></li>
                                                     <li><a href="/lalkitab/yearly/">Lal Kitab Yearly Horoscope</a></li>
@@ -135,7 +163,7 @@
                                             </li>
 
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/marriage/marriage/">Marriage Astrology</a>
+                                                <a data-toggle="dropdown" href="/marriage/marriage/">Marriage Astrology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/marriage/marriage/">Marriage Compatibility</a></li>
                                                     <li><a href="/marriage/manglik/">Manglik Yoga &amp; Remedies</a></li>
@@ -152,7 +180,7 @@
                                         <a href="/allfreereports" data-toggle="dropdown">FREE ASTROLOGY</a>
                                         <ul class="dropdown-menu">
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/horoscope/">Your Vedic Kundli</a>
+                                                <a data-toggle="dropdown" href="/horoscope/">Your Vedic Kundli</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/kundli/">Your Vedic Kundli</a></li>
                                                     <li><a href="/horoscope/lagnapred/">Your Ascendant</a></li>
@@ -170,7 +198,7 @@
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/daily">Daily Astrology</a>
+                                                <a data-toggle="dropdown" href="/daily">Daily Astrology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/daily/rashifala/">Daily Rashifala</a></li>
                                                     <li><a href="/daily/numerodaily/">Daily Numerology Horoscope</a></li>
@@ -182,11 +210,10 @@
                                                     <li><a href="/daily/horas/">Horas</a></li>
                                                     <li><a href="/daily/sunrise_sunset/">Sunrise &amp; Sunset</a></li>
                                                     <li><a href="/daily/rahukaal/">Rahukaal</a></li>
-
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/lalkitab/index">Lal Kitab Astrology</a>
+                                                <a data-toggle="dropdown" href="/lalkitab/index">Lal Kitab Astrology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/lalkitab/kundali/">Lal Kitab Kundali</a></li>
                                                     <li><a href="/lalkitab/rinas/">Lal Kitab Debts</a></li>
@@ -194,7 +221,7 @@
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/marriage">Marriage &amp; Compatibility</a>
+                                                <a data-toggle="dropdown" href="/marriage">Marriage &amp; Compatibility</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/marriage/matchscore/">Marriage Compatibility</a></li>
                                                     <li><a href="/marriage/manglikcheck/">Manglik Dosha</a></li>
@@ -205,7 +232,7 @@
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/numerology">Numerology</a>
+                                                <a data-toggle="dropdown" href="/numerology">Numerology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/numerology/expression">Name Analysis</a></li>
                                                     <li><a href="/numerology/lifepath">Birthdate Analysis</a></li>
@@ -220,7 +247,7 @@
                                                 <a href="/varshaphala/kundali">Yearly Horoscope</a>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/prashna">Prashna Astrology</a>
+                                                <a data-toggle="dropdown" href="/prashna">Prashna Astrology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/prashna/prashnakundali/">Vedic Prashna Kundali</a></li>
                                                     <li><a href="/prashna/navamsh/">Navamsh Prashna Kundali</a></li>
@@ -231,7 +258,7 @@
                                                 <a href="/name">Hindu names &amp; Meanings</a>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/krishnamurthy">Krishnamurthy Astrology</a>
+                                                <a data-toggle="dropdown" href="/krishnamurthy">Krishnamurthy Astrology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/krishnamurthy/birthchart/">KP Horoscope</a></li>
                                                     <li><a href="/krishnamurthy/kundali/">KP Kundalis</a></li>
@@ -252,7 +279,7 @@
                                                 <a href="/webcasts">Astro Video Guide</a>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/blog/">Astrology Blogs</a>
+                                                <a data-toggle="dropdown" href="/blog/">Astrology Blogs</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/articles/">Astrology Articles</a></li>
                                                     <li><a href="/learn">Learn Astrology</a></li>
@@ -267,42 +294,42 @@
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="#">Lalkitab Astrology</a>
+                                                <a data-toggle="dropdown" href="#">Lalkitab Astrology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/lalkitabblog">Lalkitab Astrology</a></li>
                                                     <li><a href="/lalkitabhindi">लालकिताब ज्योतिष</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="#">Prashna Astrology</a>
+                                                <a data-toggle="dropdown" href="#">Prashna Astrology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/prashnastro">Prashna Astrology</a></li>
                                                     <li><a href="/prashnajyotish">प्रश्न शास्त्र</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="#">Palmistry</a>
+                                                <a data-toggle="dropdown" href="#">Palmistry</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/palmistry">Palmistry</a></li>
                                                     <li><a href="/hastrekha">हस्तरेखा</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="#">Numerology</a>
+                                                <a data-toggle="dropdown" href="#">Numerology</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/numero">Numerology</a></li>
                                                     <li><a href="/ankshastra">अंकशास्त्र</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="#">Rudraksha</a>
+                                                <a data-toggle="dropdown" href="#">Rudraksha</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/rudrakshaeng">Rudraksha Guide</a></li>
                                                     <li><a href="/rudrakshahin">रूद्रा़क्ष परिचय</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="#">Hinduism</a>
+                                                <a data-toggle="dropdown" href="#">Hinduism</a>
                                                 <ul class="dropdown-menu">
                                                     <li>
                                                         <a href="/festivals_of_india/">Hindu Festivals</a>
@@ -322,7 +349,7 @@
                                                 <a href="/webcasts">Video Webcasts</a>
                                             </li>
                                             <li class="dropdown-submenu">
-                                                <a data-toggle="ding" href="/blog">Blogs</a>
+                                                <a data-toggle="dropdown" href="/blog">Blogs</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="/articles">Astrology Articles</a></li>
                                                     <li><a href="/learn">Learn astrology</a></li>
@@ -369,7 +396,6 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="col-md-1 col-sm-1 col-xs-12">
-
                 </div>
                 <div class="col-md-10 col-sm-10 col-xs-12 mt1">
                     <div id="main">
@@ -541,20 +567,17 @@
                         <br>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 </section>
-
-
-    <footer style="margin-bottom: 0px;">
+    <footer>
         <div class="container wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="row">
                 <div class="col-sm-3">
                     <div class="footer-logo">
                         <a href="/">
-                            <img src="/content/img/footlogo.png" class="mt5" alt="">
+                            <img src="https://s3-us-west-2.amazonaws.com/astrobix/content/img/footlogo.png" class="mt5" alt="">
                         </a>
                     </div>
                     <dic class="clearfix"></dic>
@@ -589,17 +612,14 @@
                     <div class="footer-link">
                         <h5>Connect With Us</h5>
                         <ul>
-                            <li><a href="https://www.facebook.com/astrobix" target="_blank" title="Facebook"><img src="/content/img/facebook-icon.png" alt="Facebook">Facebook</a></li>
-                            <li><a href="http://twitter.com/astrobix" target="_blank" title="Twitter"><img src="/content/img/twitter-icon.png" alt="Twitter">Twitter</a></li>
+                            <li><a href="https://www.facebook.com/astrobix" target="_blank" title="Facebook"><img src="https://s3-us-west-2.amazonaws.com/astrobix/content/img/facebook-icon.png" alt="Facebook">Facebook</a></li>
+                            <li><a href="http://twitter.com/astrobix" target="_blank" title="Twitter"><img src="https://s3-us-west-2.amazonaws.com/astrobix/content/img/twitter-icon.png" alt="Twitter">Twitter</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
-
-
-
 
     <script>
         $("#mnlogout").click(function () {
@@ -630,7 +650,6 @@
         })();
     </script>
     <!--End of Tawk.to Script-->
-
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-307668-2"></script>
     <script>
@@ -640,7 +659,6 @@
 
         gtag('config', 'UA-307668-2');
         gtag('config', 'AW-1070830648');
-
     </script>
 
     <!-- Google analytics Ends -->
@@ -663,7 +681,5 @@
     </script>
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=535706043229658&amp;ev=PixelInitialized" /></noscript>
     <!--FB Pixel Ends -->
-
-
 
 </body></html>
