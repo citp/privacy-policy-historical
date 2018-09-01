@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zotflex.info privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229160621id_/http%3A//zotflex.info/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zotflex.info privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901151223id_/http%3A//zotflex.info/private-policy) for the most accurate reproduction.*
 
 # Private policy
 
