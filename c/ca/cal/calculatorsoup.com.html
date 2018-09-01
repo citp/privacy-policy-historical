@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the calculatorsoup.com privacy policy that was archived on 2018-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180509130826id_/https%3A//www.calculatorsoup.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calculatorsoup.com privacy policy that was archived on 2018-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180901073551id_/https%3A//www.calculatorsoup.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="https://schema.org/WebPage" lang="en"><!-- InstanceBegin template="/Templates/2016_Master.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	<meta charset="utf-8">
@@ -419,11 +419,17 @@
 			(adsbygoogle = window.adsbygoogle || []).push({}); 
 			}
 	}
+	// 2018-06-07 1:42 PM convert to only window.onload = executeAdCodeOnload
+	// https://stackoverflow.com/questions/4842590/how-to-run-a-function-when-the-page-is-loaded
+	// do a follow up check on 408 errors
+	/*
 	if (window.addEventListener)
 	window.addEventListener("load", executeAdCodeOnload, false);
 	else if (window.attachEvent)
 	window.attachEvent("onload", executeAdCodeOnload);
 	else window.onload = executeAdCodeOnload;
+	*/
+	window.onload = executeAdCodeOnload
 
 </script>
 
