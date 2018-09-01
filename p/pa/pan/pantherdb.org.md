@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantherdb.org privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313200557id_/http%3A//pantherdb.org/terms/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantherdb.org privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901152915id_/http%3A//pantherdb.org/terms/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # PANTHER - Privacy Policy
 
@@ -26,4 +26,4 @@ If we decide to change our privacy policy, we will post those changes here so th
 
 How to Contact Us
 
-If you have any questions about this privacy statement, please [ contact us.](mailto:feedback@pantherdb.org)
+If you have any questions about this privacy statement, please [ contact us.](mailto:pantherfeedback@yahoo.com)
