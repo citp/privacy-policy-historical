@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108093932id_/https%3A//www.bajaao.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901082327id_/https%3A//www.bajaao.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BAJAAO.COM
 
@@ -66,6 +66,8 @@ A-Wing, 2nd Floor,
 Pramukh Plaza, Opp. P&G,   
 Cardinal Gracious Road, Chakala,   
 Andheri (E), Mumbai - 400099
+
+**Returns are not accepted at this address. Any return shipped to this address will be sent back to the sender's address. To return a product, please contact us through the form below or give us a call on [+91-22-61235353.](tel:+91-22-61235353)
 
 **FINANCIAL INFORMATION**
 
