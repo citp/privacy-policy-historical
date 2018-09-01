@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201041010id_/http%3A//www.sterlingholidays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901125323id_/https%3A//www.sterlingholidays.com/privacy-policy) for the most accurate reproduction.*
 
 # Sterling Holidays | Privacy policy of the website
 
@@ -10,7 +10,7 @@ Because we gather certain types of information about our users, we feel you shou
 
 It explains how SHRL handles personal information that users provide through voluntary submissions and complies with the requirements of the Privacy Act.
 
-If you have further questions relating to this policy please contact our Privacy Officer by mail at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com).
+If you have further questions relating to this policy please contact our Privacy Officer by mail at Purva Primus, 4th floor, No. 236, Okhiyampettai, Old Mahabalipuram Road, Thoraipakkam, Chennai - 600097. Board line: +91 44 3357 3300 Fax : +91 44 33573423 (Landmark: Opp to SeaShell Restaurant and Adjacent to Gupta Bhavan), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com).
 
   
 
@@ -74,7 +74,7 @@ SHRL manages communications with members, prospective members and customers acco
 
 
 
-Some of this information is necessary as part of our communication about the SHRL program and is sent to all members. However, if you are receiving promotional information from SHRL and do not wish to receive this information any longer, you may remove your name from our list either by mailing us at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed 
+Some of this information is necessary as part of our communication about the SHRL program and is sent to all members. However, if you are receiving promotional information from SHRL and do not wish to receive this information any longer, you may remove your name from our list either by mailing us at Purva Primus, 4th floor, No. 236, Okhiyampettai, Old Mahabalipuram Road, Thoraipakkam, Chennai - 600097. Board line: +91 44 3357 3300 Fax : +91 44 33573423 (Landmark: Opp to SeaShell Restaurant and Adjacent to Gupta Bhavan), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com). and asking to be removed from our mailing list. Please allow 28 days for this request to be processed 
 
   
 
@@ -89,7 +89,7 @@ New technologies are emerging on the Internet that help us deliver customized vi
 
 We want to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you. We know that a lot of people have concerns about cookies, but in talking with many of our users, we feel that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our members and future members, so we respect these concerns.
 
-For more information about these new technologies on our websites please contact our Privacy Officer by by mailing us at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com)
+For more information about these new technologies on our websites please contact our Privacy Officer by by mailing us at Purva Primus, 4th floor, No. 236, Okhiyampettai, Old Mahabalipuram Road, Thoraipakkam, Chennai - 600097. Board line: +91 44 3357 3300 Fax : +91 44 33573423 (Landmark: Opp to SeaShell Restaurant and Adjacent to Gupta Bhavan), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com).
 
   
 
@@ -98,7 +98,7 @@ For more information about these new technologies on our websites please contact
 
 * * *
 
-If at any time you want to know exactly what personal information we hold about you, you are welcome to access your record by mailing us at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com). Our file of your information will usually be made available to you within 14 days. For security purposes confirmation of your identity will be required prior to supply of this information.
+If at any time you want to know exactly what personal information we hold about you, you are welcome to access your record by mailing us atPurva Primus, 4th floor, No. 236, Okhiyampettai, Old Mahabalipuram Road, Thoraipakkam, Chennai - 600097. Board line: +91 44 3357 3300 Fax : +91 44 33573423 (Landmark: Opp to SeaShell Restaurant and Adjacent to Gupta Bhavan), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com). Our file of your information will usually be made available to you within 14 days. For security purposes confirmation of your identity will be required prior to supply of this information.
 
   
 
@@ -133,7 +133,7 @@ Please note also that as a global business, SHRL may use overseas facilities to 
 
 * * *
 
-If SHRL becomes aware of any ongoing concerns or problems concerning our privacy practices, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us by mailing at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com)
+If SHRL becomes aware of any ongoing concerns or problems concerning our privacy practices, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us by mailing atPurva Primus, 4th floor, No. 236, Okhiyampettai, Old Mahabalipuram Road, Thoraipakkam, Chennai - 600097. Board line: +91 44 3357 3300 Fax : +91 44 33573423 (Landmark: Opp to SeaShell Restaurant and Adjacent to Gupta Bhavan), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com).
 
   
 
