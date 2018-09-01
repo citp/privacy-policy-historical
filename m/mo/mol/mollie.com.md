@@ -1,22 +1,137 @@
-> *The following text is extracted and transformed from the mollie.com privacy policy that was archived on 2013-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130108073528id_/http%3A//mollie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollie.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901082350id_/https%3A//www.mollie.com/en/privacy) for the most accurate reproduction.*
 
-# 
+# Mollie – Privacy statement
 
-### Privacy Policy
+**As a financial institution Mollie processes a large amount of data from our customers, who are using the services provided by Mollie, and our customers’ customers (consumers). Both the customer and the consumer are invaluable to Mollie. Therefore it is extremely important to Mollie to ensure careful and secure processing of the customer’s and the consumer’s data, in particular personal data.**
 
-We know that you care how information about you is used and shared, and your privacy is important to us. We thank you for visiting this web site (the "Web Site") and reviewing our Privacy Policy. This notice describes our privacy policy. **By visiting our website, you are accepting the practices described in this Privacy Notice.** Please note that this Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+## 1\. Personal data processed by Mollie
 
-Collection of Information **Information You Give Us:** We receive and store any information you voluntarily provided us with on our website. We use the information that you provide for such purposes as responding to your requests, providing our services and communicating with you, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+Mollie processes your personal data because you use Mollie’s services and/or because you provide this information to Mollie yourself. An overview of the personal data processed by Mollie, depending on the service you use, is shown here below.
 
-**Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," other technologies to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising and we obtain certain types of information when your web browser accesses our sites. Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our website, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for ggregate use. Personal information is not being collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+If you use Mollie’s _services_ as a customer the following personal data are processed:
 
-Uses Distribution of Information We may use personal information to provide the services you've requested, including services that display customized content and advertising. We do share information but only as described below. Otherwise we will not provide your personal information without your consent. We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Furthermore we engage other companies and individuals to perform functions on our behalf or provide us with services . Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide us for any secondary purposes. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may share information with third parties when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services We may share aggregated non-personal information with third parties outside of The Web Site.
+  * Your first and last name;
+  * Your date of birth;
+  * Your place of birth;
+  * Your nationality;
+  * Your address details;
+  * Your telephone number;
+  * Your email address;
+  * Your IP address;
+  * Your internet browser and device type;
+  * Other personal data that you actively provide, for example by creating a profile on this website, in correspondence and by telephone.
 
-Links The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-Children The Web Site is not directed to children. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
-IndemnificationYou agree to indemnify, defend and hold harmless the Web Site and its members, managers, officers, employees, agents and the assigns of same, from and against any and all loss, costs, expenses (including reasonable attorneys' fees and expenses), claims, damages and liabilities related to or associated with your use of the Web Site and any violation of this Privacy Policy by you.
+If you use Mollie’s _services_ as a consumer the following personal data are processed:
 
-Conditions of Use, Notices, and Revisions If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of United States . If you have any concern about privacy at our web site, please send us a thorough description to information@trafficmedia.com, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use, but you should check our website frequently to see recent changes.
+  * Your payment details (e.g. bank account number or credit card number);
+  * Your IP address;
+  * Your internet browser and device type;
+  * In some cases, your first and last name;
+  * In some cases, your address details;
+  * In some cases, information about the product or service that you have purchased from our customer;
+  * Other personal data that you actively provide, for example in correspondence and by telephone.
+
+
+
+If you use Mollie’s _websites_ , the following personal data are processed;
+
+  * Your location data;
+  * Your details about your activities on the websites;
+  * Your IP address;
+  * Your internet browser and device type;
+
+
+
+## 2\. Does Mollie process special and/or sensitive personal data?
+
+Unlike the processing of payments, Mollie’s websites and services are not aimed at activities that require special and/or sensitive personal data to be processed. Mollie therefore requests that you do not provide this information. Furthermore, Mollie has no intentions at all of collecting information about website visitors who are minors, even if they have permission from their parents or guardians. Unfortunately, Mollie cannot check whether a visitor is a minor and therefore Mollie advises parents or guardians to be involved in their children’s online activities in order to prevent minors’ data from being processed by Mollie.
+
+Should you, in spite of the above, be convinced that Mollie unlawfully processed special or sensitive data, Mollie requests you to contact us at [info@mollie.com](mailto:info@mollie.com) or +31 20 820 20 70. Mollie will then delete this information as soon as possible.
+
+## 3\. Why are your personal data processed?
+
+Mollie only processes data insofar as this is necessary for its services. Your personal data will therefore only be processed for the following purposes.
+
+If you use Mollie’s _services_ , your personal data are processed:
+
+  * To assess your application;
+  * To draft and perform the agreement;
+  * To process payments;
+  * To send information about your product or service and changes to it;
+  * To ensure the safety and integrity of the financial sector, for example by identifying, investigating, preventing and actively countering (attempted) criminal/illegal conduct;
+  * To perform analyses for statistical and scientific purposes;
+  * To train and assess Mollie employees;
+  * To record evidence;
+  * In order to establish that Mollie actually does have contact with you as a customer or one of your (duly authorized) representatives, for example by telephone or in written correspondence;
+  * In order to comply with legal obligations as a financial institution, for example under the Dutch Financial Supervision Act (Wft) and the Dutch Money Laundering and Terrorist Financing (Prevention) Act (Wwft).
+
+
+
+If you use Mollie’s websites, your personal data are processed:
+
+  * To create a personal environment (dashboard) on Mollie’s websites;
+  * To provide access to your personal environment;
+  * To analyze your behavior on Mollie's websites in order to improve the websites and to tailor the range of products and services to your preferences;
+  * To analyze your browsing behavior on Mollie’s websites based on which Mollie tailors products and services to your needs;
+  * To perform analyses for statistical and scientific purposes;
+  * To ensure the safety and integrity of the financial sector, for example by identifying, investigating, preventing and actively countering (attempted) criminal/illegal conduct;
+  * In order to comply with legal obligations as a financial institution, for example under the Dutch Financial Supervision Act (Wft) and the Dutch Money Laundering and Terrorist Financing (Prevention) Act (Wwft).
+
+
+
+If Mollie wants to process your personal data for other purposes than described above, for example for commercial purposes, Mollie will only do this after your explicit permission has been requested and obtained. You can withdraw this permission at any time without providing a motivation.
+
+## 4\. How long does Mollie keep your personal data?
+
+Mollie will not keep your personal data longer than the mandatory statutory period or, if such a mandatory statutory period does not apply, no longer than is strictly necessary for the realization of the objectives for which your personal data were obtained. The personal data that Mollie receives relating to the assessment of your application, the preparation and performance of the agreement and the processing of payments, will not be kept longer than five years after rejection of your application or the termination of the agreement.
+
+## 5\. Does Mollie share your personal data with third parties?
+
+Mollie will share your personal data with third parties if this is necessary for the performance of the agreement or if it’s based on legal obligations. Mollie concludes a processors’ agreement with third parties, which process your personal data for Mollie. This means that Mollie ensures that your personal data are always protected to at least the same level of security and that the confidentiality of your personal data is guaranteed. Mollie nevertheless remains fully responsible for these processing operations and will therefore take all reasonable administrative, technical and physical measures to protect your personal data against unauthorized access, unintentional loss or alteration.
+
+Your personal data may also be shared with third parties which are not necessarily part of Mollie's services. In that case, Mollie will only do so after requesting and obtaining your explicit consent.
+
+## 6\. How does Mollie analyze your website visit?
+
+Mollie uses functional, analytical and tracking cookies. A cookie is a small text file that is stored in the browser of your device such as a computer, tablet or smartphone when you first visit Mollie’s websites. On the one hand, Mollie uses cookies with a purely technical functionality. These cookies ensure that the website works properly and, for example, remembers your preferred settings, so that Mollie is able to optimize the websites. On the other hand, Mollie uses cookies that keep track of your browsing behavior so that Mollie can offer you tailor-made content and advertisements.
+
+**Opt out of cookies**  
+You can opt out of cookies by setting your internet browser such that it does not store cookies anymore. In addition, you can delete all information previously saved via the settings of your browser.
+
+Cookies are also placed on Mollie’s websites by third parties, for example advertisers and/or social media companies. More information about Mollie’s use of cookies can be found here: [Cookies](https://www.mollie.com/en/cookies).
+
+## 7\. Your rights
+
+You have the right to view, correct, limit or delete the personal data that Mollie processes, unless Mollie cannot grant these rights based on a legal obligation. You can send your request for access, correction, limitation or deletion to [info@mollie.com](mailto:info@mollie.com). However, to establish the legitimacy of your request Mollie does asks you to send a copy of your identification (i.e. a passport or identity card) along with the request. Please make sure that in this copy your passport photo, MRZ (machine readable zone, the strip with numbers at the bottom of the passport), passport number and citizen service number (BSN) have been redacted to protect your privacy. Mollie will then respond to your request as soon as possible, but in any case within fourteen business days.
+
+**Complaints**  
+If you believe that Mollie has used your personal data unlawfully or if you are not satisfied with Mollie’s response to your request, you have the right to report this to the Dutch Data Protection Authority or to take it to court. More information about this can be found on <https://autoriteitpersoonsgegevens.nl/en>.
+
+## 8\. Security of your personal data
+
+The protection of your personal data is very important to Mollie. Mollie therefore takes all appropriate technical and organizational measures to prevent misuse, loss, unauthorized access, unwanted disclosure and unauthorized modification.
+
+To report possible problems with the security of Mollie's systems, a [Responsible Disclosure Policy](https://www.mollie.com/en/responsible-disclosure "Responsible Disclosure") has been made available.
+
+## 9\. Mollie’s responsibilities
+
+Mollie acts as the controller as referred to in the General Data Protection Regulation, (EU) 2016/679. Mollie acts in this position because as a financial institution Mollie:
+
+  * determines which personal data must be processed for the correct execution of a payment;
+  * determines for which other purposes the personal data may be processed as long as these purposes are in accordance with the purpose for which the personal data were obtained by Mollie;
+  * has to comply with its own legal obligations, for example under the Dutch Financial Supervision Act (Wft), the Dutch Money Laundering and Terrorist Financing (Prevention) Act and the Dutch Civil Code;
+  * has drawn up its own general terms and conditions that are directly applicable to the customer and the consumer.
+
+
+
+The data processing has been reported by Mollie to the Dutch Data Protection Authority under number 1449126.
+
+## 10\. Data Protection Officer
+
+Mollie has appointed a Data Protection Officer (DPO). Among other things, the DPO is responsible for supervising the processing of personal data by Mollie, taking stock of data processing and advising on technology and security.
+
+If, in spite of the above, you suspect that your data is not properly secured, has been misused or if you believe that Mollie does not adequately guarantee the correct processing of personal data, please send an e-mail to: [compliance@mollie.com](mailto:compliance@mollie.com) for the attention of Mr. M. Polder.
+
+_Amsterdam, 11 december 2017_
