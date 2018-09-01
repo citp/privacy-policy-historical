@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126070018id_/https%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901154952id_/https%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At Key Care Solutions, we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site.  
 We do update this Policy from time to time so please do return and review this Policy regularly.  
-For the purpose of the Data Protection Act 1998, our data controller is Peter Cullen.  
-(Reg No: Z2430923)
+For the purpose of the Data Protection Act 1998, our Reg No: Z2430923
 
 ##  Information We Collect 
 
@@ -102,9 +101,9 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ##  Access to Information
 
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10, which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
-Key Care Solutions Ltd, Flook House, Belvedere Road, Taunton, Somerset, TA1 1BT
+Key Care Solutions Ltd, Kemp House, 160 City Road, London, England, EC1V 2NX
 
 ##  Contact Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](http://www.keycaresolutions.co.uk/contact.html)  
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](https://www.keycaresolutions.co.uk/contact.html)  
 
