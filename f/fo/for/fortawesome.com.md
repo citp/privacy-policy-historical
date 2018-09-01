@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortawesome.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207192001id_/https%3A//fortawesome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortawesome.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901131311id_/https%3A//fortawesome.com/privacy) for the most accurate reproduction.*
 
 # Fort Awesome
 
