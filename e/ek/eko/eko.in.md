@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eko.in privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208170241id_/http%3A//eko.co.in/wp-content/uploads/2015/09/Privacy_Policy_Website.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eko.in privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902015941id_/http%3A//eko.co.in/wp-content/uploads/2015/09/Privacy_Policy_Website.pdf) for the most accurate reproduction.*
 
 # 
 
