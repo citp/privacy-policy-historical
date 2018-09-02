@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemydomain.name privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504091103id_/http%3A//valuemydomain.name/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemydomain.name privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902210448id_/http%3A//valuemydomain.name/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
