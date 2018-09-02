@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgtn.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617205805id_/https%3A//www.cgtn.com/home/info/privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgtn.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903001151id_/https%3A//www.cgtn.com/home/info/privacy_policy.do) for the most accurate reproduction.*
 
 # CGTN - Privacy Policy
 
