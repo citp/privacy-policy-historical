@@ -1,60 +1,48 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027040350id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902231706id_/https%3A//www.loopme.my/privacy_policy) for the most accurate reproduction.*
 
-# Contact Us | OfferStation.com
+# LoopMe Malaysia | Privacy Policy
 
-PRIVACY POLICY
+**Privacy Policy**
 
-OfferStation takes your privacy seriously. Please read the following to learn more about our privacy policy.
+**OfferStation Sdn. Bhd. (owner of the LoopMe websites)** (“We, Us”) are committed to safeguarding the privacy of our website visitors and service users. We appreciate that you put your trust in us when you provide your information to LoopMe. 
 
- **What This Privacy Policy Covers**
+**OBTAINING CONSENT**
 
-This policy covers how OfferStation treats personal information that OfferStation collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available without your consent.   
-This policy does not apply to the practices of companies that OfferStation does not own or control or to people that OfferStation does not employ or manage. 
-
-**Information Collection and Use**   
+We will collect certain information from and about you. This is defined as any information relating to you that can be used to both identify you directly or indirectly.   
 
 
-  * OfferStation collects personal information when you register with OfferStation, when you use OfferStation products and services, when you visit OfferStation's pages or the pages of certain OfferStation partners, and when you enter promotions or sweepstakes. OfferStation may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, post code, occupation, industry, and personal interests. For some products and services we may also ask for your address and contact number. Once you register with OfferStation and sign in to our services, you are not anonymous to us. 
-  * OfferStation collects information about your transactions with us and with some of our business partners, including information about your use of products and services that we offer. 
-  * OfferStation may use the information for the following general purposes: to customise the advertising and content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+Information that you enter into LoopMe (“The Website”) at the point of account creation will be used to create a customer profile for you, except for your password. This will include any information that you provide when creating your account, including an email address and other contact information, your name, your username, and address information. The Website maintains records of its customer profiles to enable for quick or automatic logins by customers, and to connect you with our daily newsletters. You may change this information through your account settings at any time. You may also opt-out of our newsletter at any time.   
 
 
-
-**Information Sharing and Disclosure**
-
-  
-OfferStation does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-
-  * We provide the information to trusted partners who work on behalf of or with OfferStation under confidentiality agreements. These companies may use your personal information to help OfferStation communicate with you about offers from OfferStation and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of OfferStation's terms of use, or as otherwise required by law. 
-  * We transfer information about you if OfferStation is acquired by or merged with another company 
-  * OfferStation displays targeted advertisements based on personal information. 
-  * Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women aged 18-24 from a particular geographic area. 
-  * OfferStation does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+Any information that you enter into any text field on any webpage of LoopMe will also be collected by us for internal use except where noted otherwise beforehand.   
 
 
-
-**Your Ability to Edit and Delete Your Membership Information and Preferences**  
-
-
-You can edit your OfferStation membership profile at any time.   
-New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.   
-We reserve the right to send you certain communications relating to the OfferStation service, such as service announcements, administrative messages and the OfferStation Newsletter, that are considered part of your OfferStation account.   
-Changes to this Privacy Policy
-
-OfferStation reserves the right to modify, update, and change this policy at our discretion at any time.   
+Information collected by The Website from you for a specific purpose (contest, giveaway etc.), is used only for that purpose and retained for only as long as it meets that purpose. Information collected from will only be shared with relevant third parties related to that specific purpose if you give Us additional consent to do so.   
 
 
-  
-  
+If you delete your account, some information may still be retained by us unless you request for a complete deletion from our database. 
+
+**PRIVACY, SECURITY AND BREACH NOTIFICATION**
+
+The password that you create for your account is not known to Us or anyone else. Your password is not stored by The Website. The Website only stores a securely salted and hashed password. You may change your password or email address through your account settings at any time.   
 
 
-[
+If you delete your account, your password will be lost. We cannot provide you with your password, though The Website provides the ability to reset your password should you forget it.   
 
-## UBER Standard Chartered Credit Card Promotion
 
-](http://www.offerstation.com/offers-promotions/180577/uber-standard-chartered-credit-card-promotion.htm)
+We design and build our services that you use with your security and privacy in mind. In the case of a security breach occurring, We will report the data breach to both you, relevant parties and any data controllers within 72 hours. 
 
-  
+**RIGHT TO DATA ACCESS AND DATA PORTABILITY**
 
+As a user of The Website, you have full right to access the information and data we collect from you. Please contact Us by email at hello@loopme.asia with the title ‘ATTN: DATA ACCESS BY REQUEST’ in order to instruct Us to furnish you with your requested personal data. An individual is only entitled to their own personal data, and not to information relating to other people unless the information is also about them or they are acting on behalf of someone, with the instructions of a written legal consent.   
+
+
+If you request for your existing data profile from Us, We will deliver a fully detailed and free electronic copy of the data that has been collected from you. This report will also include the various ways We are using your information.   
+
+
+All LoopMe users have the right to access their own data. Any any point in time, by your request, you are able to obtain your data from Us and reuse that same data in different environments outside of The Website. What you do with the data after We hand it over to you, beyond the confines of our Website is your choice. We are no longer responsible for your data once we hand it over to you. 
+
+**RIGHT TO DATA DELETION**   
+
+
+You have full right to instruct Us to delete any and all information that LoopMe, the Website, or any of the third parties collects about you. Please contact Us by email at support@loopme.asia with the title ‘ATTN: DATA DELETION BY REQUEST’ in order to instruct Us to forget any or all of the information that LoopMe, the Website, Offerstation Sdn Bhd, or any of the third parties collects about or from you. 
