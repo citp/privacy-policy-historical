@@ -1,305 +1,380 @@
-> *The following text is extracted and transformed from the cargiant.co.uk privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705030431id_/https%3A//www.cargiant.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargiant.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902103047id_/https%3A//www.cargiant.co.uk/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy - Cargiant
+# Privacy Notice - Cargiant
 
-**Privacy & Cookies  
-**Car Giant Limited "Cargiant" is committed to protecting your privacy. This Policy applies to visitors to [www.cargiant.co.uk](http://www.cargiant.co.uk/).
+## Cargiant's Privacy Notice
 
-This Policy sets out the basis on which any personal data that Cargiant collects from you or that you provide to cargiant, will be processed by Cargiant. Please read the following information carefully to understand Cargiant’s views and practices regarding your personal data and how Cargiant will treat it.
+  1. **Introduction**
+  2. **What is personal data?**
+  3. **What is our legal basis for processing your data?**
+  4. **Examples of how your personal data may be processed and its legal basis**
+  5. **How do we use your data?**
+  6. **How do we protect your information?**
+    1. Collected on cargiant.co.uk
+    2. Collected at Cargiant’s Showroom
+  7. **How may we disclose your data to third parties?**
+  8. **What are your rights?**
+  9. **How do we use Cookies and how they benefit you?**
+  10. **Granting us permission to use cookies**
+  11. **More about Cargiant Cookies**
+  12. **Turning Cookies Off**
 
-For the purpose of the Data Protection Act 1998, the data controller is Car Giant Limited, a company registered in England and Wales under company registration number 01407612 and whose registered office address is at Car Giant Limited, 44 Hythe Road, London, NW10 6RS.
 
-Amendments and updates to this Policy may be made from time to time. Any revisions will be posted on this page so you will always be aware of what information we collect. Please review this page regularly so that you are aware of any changes.
 
-**Information collected and what it is used for  
-**Cargiant may collect the following information about you in order to:
+## 1\. Introduction
 
-a) to generate an overall audience profile of visitors to [www.cargiant.co.uk](http://www.cargiant.co.uk/). This information is then used to assist in developing relevant content for [www.cargiant.co.uk](http://www.cargiant.co.uk/)
+Car Giant Limited ("Cargiant") is committed to protecting your privacy.
 
-b) to deliver more targeted marketing campaigns
+This Privacy Policy sets out the basis on which any personal data is collected from you and processed by Cargiant, including how we protect your data.
 
-c) to provide customers who have supplied their email address, mobile or telephone number and postcode with relevant and timely communications by email, SMS and telephone.
+For the purpose of the General Data Protection Regulations 2018, the Data Controller is Cargiant, a company registered in England and Wales under company registration number 01407612 and whose registered office address is at Car Giant Limited, 44-45 Hythe Road, London, NW10 6RS.
 
-**Information you provide when requesting or using services on**[ **www.cargiant.co.uk  
-**](http://www.cargiant.co.uk/)If you would like to request a call back, book a test drive, add cars to your watchlist, add cars to compare or sign up for estock alerts you will be required to supply your full name, email address, postcode and mobile telephone number. Your contact details are collected to enable us to contact you directly depending on your request.
+Revisions to the Notice will be updated here so you will always be aware of what information we collect and the legal basis for our processing.
 
-If you would like to apply for a free online valuation of your car you will be required to supply your VRN (vehicle registration number), approximate mileage, postcode, your name, mobile number (we need this to send a validation code to reveal your valuation) and email address. Your details will be used to provide an estimated online valuation which is based on our assumptions and the limited details about your car you’ve shared with us. We always carry out a full inspection on-site before we offer to part exchange a vehicle or buy a car. If we think that anything in the car’s history or condition will affect its value, including damage, unusual features or customisation, the price that we offer for it will be different to the valuation we gave you online.
+The Privacy Notice was last updated on 24/05/2018.
 
-If you would like to apply for finance online you will be required to supply your name, email address, telephone number, date of birth, marital status, driving license type, residential status, monthly income, employment type and duration. If you make an application, your details will be held and used in a credit scoring or other automated decision making process when assessing your application.
+## 2\. What is personal data?
 
-If you use the chat service to communicate with our customer service team, you may disclose personal information in the course of using the service. All conversations and email exchanges are recorded. Any personal information that you disclose during a live chat or via an online form will be accessible to and processed by and made available to cargiant.
+Personal data is data which relates to a living individual who can be identified directly or indirectly either:
+
+  * From that data; or
+  * From that data and other information which is in our possession, or is likely to come into our possession.
+
+
+
+## 3\. What is our legal basis for processing your data?
+
+The normal legal basis for us processing your data is that it is necessary for the legitimate interests of Cargiant. We have carefully assessed these interests and balanced them with the interests of our customers to ensure fair processing e.g. processing data to facilitate the car buying journey and aftersales customer care as efficiently as possible.
+
+If you are making a finance application another legal basis is relied upon; that it is necessary for the entering into and the performance of a contract.
+
+Upon purchasing a vehicle your personal data will be stored for up to 7 years, the legal basis being that it is a necessary for compliance with a legal obligation, as the HMRC require this for accounting purposes.
+
+For more examples of how your personal data may be processed and the legal basis for doing so please see the separate headed section below.
+
+## 4\. Examples of how your personal data may be processed and the legal basis for doing so
+
+The below are some of the reasons for processing customer data in-line with the legitimate interests of Cargiant:
+
+  * Supplying goods and services to our customers;
+  * Improving existing products and services and developing new products and services;
+  * Handling customer contacts, queries, complaints or disputes;
+  * Understanding our customers’ behaviour, activities, preferences, and needs in order to provide a tailored service;
+  * Considering job applications;
+  * Fulfilling our duties to our customers, colleagues, shareholders and other stakeholders; and
+  * Allowing our advisers to follow up our service, either by email, telephone, SMS or mail, as part of our customer care procedures;
+  * Promoting, marketing and advertising our products and services; and
+  * Sharing your data with selected third-party partners whose products and services support and describe our sales, customers, traffic patterns and other site information to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes. These statistics will include no personally identifying information.
+  * For the purpose of detecting fraudulent activity: data that identifies computers or other devices you use to connect to the internet. This includes your Internet Protocol (IP) address.
+
+
+
+In particular circumstances we will also process and share your personal data in order to comply with a legal obligation, for example:
+
+  * Preventing, investigating and detecting crime, fraud or anti-social behaviour including but not limited to prosecuting offenders, including working with law enforcement agencies;
+  * Effectively handling legal claims or regulatory enforcement actions taken against Cargiant;
+  * Protecting Cargiant, its employees and customers, by taking appropriate legal action against third parties who have committed criminal acts or are in breach of legal obligations;
+  * Protecting customers, employees and other individuals and maintaining their health and safety;and
+  * Complying with any other legal and regulatory obligations that may arise.
+
+
+
+Lastly, we will process and share your data in the following ways on the condition that your consent has been given:
+
+  * Sending promotional, offers and news related communications which are relevant and tailored to you; and
+  * Sharing your data with third parties so that they can communicate related products and services which may be of interest to you.
+
+
+
+## 5\. How do we use your personal data?
+
+### A. Collected on cargiant.co.uk
+
+### Registering for a My Garage Account
+
+In order to register for a My Garage Account, a self-service user profile which allows you to manage vehicles you are interested in, you will be required to supply your full name, email address, password, postcode and mobile telephone number. Your contact details are collected to enable us to contact you directly depending on one or more of the below requests.
+
+### Call Back, Test Drive Watchlists and eStock Alerts
+
+If you would like to request a call back, book a test drive, add cars to your Watchlist , add cars to compare or sign up for eStock alerts you will be required to register for a My Garage Account.
+
+### Valuation
+
+If you would like to apply online for a free valuation of your car you will be required to supply: your vehicle registration number, approximate mileage, postcode, name, mobile number (we need this to send you a validation code to reveal your valuation) and email address.Your details will be used to provide an estimated online valuation which is based on our assumptions and the limited details about your car that you have shared with us. We always carry out a full inspection on-site before we offer to either part exchange a vehicle or to buy it. If we think that anything in the car’s history or condition will affect its value, including damage, unusual features or customisation, the price that we offer for it will be different to the valuation we gave you online.
+
+### Finance Applications
+
+If you would like to apply for finance online you will be required to register for a My Garage Account and supply your name, email address, telephone number, date of birth, marital status, driving license type, residential status, monthly income, employment type and duration. If you make an application, your details will be held and used in a credit scoring or other automated decision-making process when assessing your application, multiple finance companies on our lending panel may receive this information in order to consider it. Their Privacy Notices are listed below and can be viewed on the website link provided, alternatively you may wish to call them for more information. The contact information will also be used to set up a My Garage account which will enable you to see the status of your finance application. If your finance application is incomplete or incorrect we will contact you to offer assistance.
+
+Black Horse Finance - 0290 853 528 - <https://www.blackhorse.co.uk/privacy> [  
+](https://startlinemotorfinance.com/FPN)
+
+MotoNovo Finance - 033 200 0030 - <https://customer.motonovofinance.com/privacy>  
+
+
+Barclays Finance - 0800 15 22 888 - <https://www.barclayspartnerfinance.com/home/privacy-policy/>
+
+Starline Finance - 02920 853 528 - <https://startlinemotorfinance.com/fair-processing-notice/>
+
+Blue Motor Finance - 020 3005 9330 - <https://bluemotorfinance.co.uk/home/privacy_policy>
+
+Moneyway Finance - 0345 111 7125 - <https://www.moneyway.co.uk/privacy-statement>
+
+Moneybarn - 0330 555 1230 - <https://www.moneybarn.com/privacy-policy/>
+
+Advantage Finance - 01472 233 214 - <https://www.advantage-finance.co.uk/home/privacy.asp>
+
+London and Surrey Finance - 01737 553311 - <http://www.lsmf.co.uk/privacy-policy.php>
+
+RateSetter - 020 3142 6226 - <https://www.ratesetter.com/privacy> 
+
+### Recruitment
+
+If you use our recruitment platform and decide to apply for a role at Cargiant you will be asked to give some personal information (e.g your name, email, telephone number, address and employment history and salary expectations). You will also be asked to upload your CV. This information is collected to enable us to contact you directly and consider your application for the role you applied for, or in respect of other roles. We will also request information regarding your eligibility to work in the UK, Equal Opportunities Monitoring information and depending on the role; your driving licence and experience. The recruitment platform offers a self-service tool, where you can access and amend your profile and set up job alerts. Your personal information will be securely retained for a period of 2 years. For further information please see our [Privacy Notice for Recruitment](https://web.archive.org/media/2995/final-privacy-notice-recruitment.pdf "Recruitment Privacy Notice"). 
+
+### Live Chat and Online Form
+
+If you use the chat service to communicate with our customer service team, you may disclose personal information in the course of using the service. All conversations and email exchanges are recorded. Any personal information that you disclose during a live chat or via an online form will be accessible to and processed by and made available to Cargiant.
 
 By submitting personal information to us, you are deemed to have agreed to the terms set out above regarding the use of your personal information.
 
-**Where we store your personal data  
-**Cargiant will take all reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.
+### B. Collected at Cargiant’s Call Centre and Showroom
 
-All information (except Payment Card information) you provide to cargiant is stored on cargiant’s secure servers. 
+### Registering with us and viewing vehicles
 
-Once cargiant has received your information, cargiant will use strict procedures and security features to try to prevent unauthorised access.
+We collect the following information by creating or updating your unique Customer Record Form (“CRF”) : name, telephone number, email, postcode, gender, your thoughts on the vehicles you have viewed, proposed method of funding the vehicle purchase, whether you require finance or part exchange and your driver’s licence details.
 
-**Disclosure of your information  
-**We may disclose your personal information to third parties as follows:
+Due to our belief that customers should be able to view cars by themselves at their own leisure, customer’s contact details and identifying information are required to establish a record and track the possession of keys, what cars are being viewed and when.
 
-a) When applying for finance an enquiry will be made with Credit Reference Agencies. If you provide false or inaccurate information we will record this. We and other organisations may then use and search these records to check your identity, to prevent fraud and money laundering. You can ask for details about the Credit Reference and Fraud Prevention Agencies from whom and with whom we share this information. Please call us on freephone 0800 084 2002. You have a legal right to these records.
+In order to facilitate a test drive, your driver’s licence number will also be recorded. If a passport or driver’s licence is scanned to auto-populate the CRF your image will be cropped onto the form. Our system will also automatically flag if your driver’s licence details do not meet our test drive requirements by checking the length the licence has been held by you and also your age.
 
-For the purposes of this application you may be treated as financially linked and your application will be assessed with reference to any "associated" records.
+Information recorded will be primarily used to help support your car buying journey. This includes contacting you following your visit to offer assistance in the event that you have been unsuccessful in finding the right car.
 
-If you are a joint applicant or if you have told us of some other financial association with another person, you must be sure that you are entitled to:
+Your CRF will also be relied upon in the event that a Health and Safety or Security matter requires it, where necessary CCTV operated on the Cargiant premises will be used in conjunction. This may include contacting you or passing on your details in the event of the emergency services requiring access to them.
 
-  *         disclose information about your joint applicant and anyone referred to by you.
-  *         authorise us to search, link or record information at credit reference agencies about you and anyone referred to by you.
+Please note that most service related conversions at our service desks and on the phone are recorded for Training and Compliance purposes and are utilised in the event of addressing a complaint and to providing feedback to staff where applicable.
+
+### Vehicle Valuation
+
+Alongside a physical inspection, information about your current vehicle is required in order to provide a valuation of the vehicle. The information we require includes the car registration plate, make, model, vehicle mileage, price required and whether the vehicle has had paint protection applied to it.
+
+### Finance Applications
+
+In addition to information collected when registering and updating your CRF, in order to complete a finance proposal, the following information is required: date of birth, nationality, residence status, marital status, number of dependent children, ID type available, address, current employment details, proof of employment and previous employment details. Financial details also required include: bank details, income, expenditure, home valuation, assets valuation, whether this is a replacement loan, whether a change in your circumstances is currently expected and also the purpose of the vehicle under consideration for purchase is recorded. In submitting a finance application, your details are held and used in credit scoring or other automated decision-making processes. Your application may be submitted to multiple finance companies, their Privacy Notices are listed below and can be viewed on their website link or you may wish to call them for more information.
+
+Black Horse Finance - 0290 853 528 - <https://www.blackhorse.co.uk/privacy> [  
+](https://startlinemotorfinance.com/FPN)
+
+MotoNovo Finance - 033 200 0030 - <https://customer.motonovofinance.com/privacy>  
+
+
+Barclays Finance - 0800 15 22 888 - <https://www.barclayspartnerfinance.com/home/privacy-policy/>
+
+Starline Finance - 02920 853 528 - <https://startlinemotorfinance.com/fair-processing-notice/>
+
+Blue Motor Finance - 020 3005 9330 - <https://bluemotorfinance.co.uk/home/privacy_policy>
+
+Moneyway Finance - 0345 111 7125 - <https://www.moneyway.co.uk/privacy-statement>
+
+Moneybarn - 0330 555 1230 - <https://www.moneybarn.com/privacy-policy/>
+
+Advantage Finance - 01472 233 214 - <https://www.advantage-finance.co.uk/home/privacy.asp>
+
+London and Surrey Finance - 01737 553311 - <http://www.lsmf.co.uk/privacy-policy.php>
+
+RateSetter - 020 3142 6226 - <https://www.ratesetter.com/privacy>
+
+### Other services
+
+We provide a number of specialised communications at your request to assist in the car buying process such as call backs, test drive bookings and eStock alerts. These and any similar processes will be saved on your CRF. We may require further information from you to be able to complete and provide the service requested. Please get in touch with a member of our team for more information.
+
+### Post-sale
+
+In addition to the data collected initially via your CRF, your address, the registration number of the vehicle purchased along with any additional products or services required is also collected. Your address is used to verify your identity alongside bills and other methods of identification. Any correspondence received in the course of facilitating an after-sale service will also be recorded.
+
+### For marketing communications
+
+We will automatically contact you with regard to your services, for example, with updates to your requested alerts, applications or appointments.
+
+Subject to your consent, we will use your personal information to contact you with information about offers, news and promotions.
+
+When you register with cargiant.co.uk or create a CRF in our showroom, we ask you whether you would like to receive offers, news or promotional marketing communications from Cargiant that we feel may be of interest to you and if you would like to receive third party information. In order to receive these communications, you will need to opt in during registration.
+
+If you no longer wish to receive marketing communication from us you can log in to your My Garage Account or call our team on 0208 969 5511 or by writing to the Data Controller, Compliance Department, 44-45 Hythe Road, White City, London, NW10 6RS.
+
+Remember that if you say you do not wish to receive any promotional material from us, this will preclude you from receiving any of our offers, news or promotions which may be of interest to you.
+
+## 6\. How do we protect your information?
+
+Cargiant will take all reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+Our team constantly review and improve our measures to protect your personal information from unauthorised access, accidental loss, disclosure or destruction.
+
+Our security measures include:
+
+  * Regular scenario planning and crisis management exercises to ensure we are ready to respond to cyber security attacks and data security incidents;
+  * Daily testing of our security and IT systems;
+  * Security controls which protect the entire Cargiant infrastructure from external attack and unauthorised access; and
+  * Cargiant policies outlining our data security approach and training for employees.
 
 
 
-An "association" between joint applicants, and between you and anyone you tell us is your financial partner, will be created at credit reference agencies. This will link your financial records, each of which will be taken into account in all future applications by either or both of you. This will continue until one of you successfully files a disassociation at credit reference agencies.
+It is important for you to protect against unauthorised access to your password and to your personal computer. Be sure to sign off when you finish using a shared computer. We can’t accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
 
-You authorise us to make all enquiries necessary to verify this information to enable us to consider this application. If you apply for insurance your information will be passed to the administrators and the insurers for underwriting, processing claims handling and fraud prevention.
+All information (except Payment Card information) you provide to Cargiant is stored on Cargiant’s servers and or on a leading technology providers.
 
-Your personal data which may include sensitive information such as medical details, will be treated in confidence and will not be disclosed to any third parties except where permitted by law or where you have given your consent, however, it may be shared with any company from time to time forming part of the same Group as cargiant, selected third parties and the Insurers (and their administrators) who may also use it for marketing, research, statistical analysis and administration purposes. For further information on the companies with whom your information may be shared please contact us. You may be contacted by mail, telephone, fax, email, automated calling systems or other reasonable method with details of products or services offered by one of the above. If you do not want your details to be used for marketing please call us on 0800 084 2002. Under the terms of the Data Protection Act you have the right to obtain a copy of the information held about you upon payment of the appropriate fee.
+Our security procedures mean that we may request proof of identity before we disclose personal information to you.
 
-By submitting your personal data to us through the Website, you consent to your personal data being transferred outside the EEA. 
+## 7\. How may we disclose your data to third parties?
 
-b) We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the EEA. Some of our webpages use plugins from third party platforms (such as the 'Facebook Recommend' or 'Facebook Gestures' function). Information about your visit to the Website may be collected by these third party providers on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies. 
+In order to deliver a high standard of support we will provide information about you:
 
-c) If we are under any duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce our terms and conditions and any other agreements.
+  * To employees and agents of Cargiant to deal with your accounts, products and services related to Cargiant;
+  * With your agreement, to additional service providers whose products and services may be of interest to you, such as mechanical breakdown insurance or exterior and interior car protection products; and
+  * To third parties using aggregate information and statistics for the purposes of monitoring usage of our services in order to help us develop our services, for example, to additional service partners and advertisers. These statistics do not include information that can be used to identify any individual.
 
-d) In the event that cargiant sells or buys any business or assets, in which case Cargiant may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-e) If Cargiant or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-f) For the purposes of the prevention or detection of offences, and/or the apprehension or prosecution of offenders, we may share any information that we collect with the police, other public or private sector agencies, governmental or representative bodies in accordance with the relevant legislation. This will include public authorities, insurance companies, finance companies, automotive advertising companies and/or other agencies.
+In addition, we will disclose your personal data to third parties if required as follows:
 
-**Marketing communications  
-**When you register with our [www.cargiant.co.uk](http://www.cargiant.co.uk/),we ask you whether you would like to receive marketing communications from cargiant via email and/or SMS that we feel may be of interest to you and whether you would like to receive third party information. In order to receive these communications, you will need to opt in during registration.
+  * For the purposes of the prevention or detection of offences, and/or the apprehension or prosecution of offenders, we may share any information that we collect with the police, other public or private sector agencies, governmental or representative bodies in accordance with the relevant legislation. This may also include public authorities, insurance companies, finance companies, automotive advertising companies and/or other agencies;
+  * In order to comply with any legal or regulatory requirements;
+  * To finance companies, if making a finance application through Cargiant; and
+  * To credit reference agencies, if making a finance application through Cargiant.
 
-On occasions cargiant runs promotions in which personal information is collected. We will always ask you if you agree to this. You will always be asked to provide your consent to this use by opting in.
 
-**Access to personal information  
-**Information you provide will be used in connection with car purchase, administration, policy renewals and by Cargiant’s finance providers if you use our finance facility.
 
-You have the right to access all personal information supplied to Cargiant and rectify any inaccuracies on the information held. Further enquiries should be made to [customerservice@cargiant.co.uk](mailto:customerservice@cargiant.co.uk) or sent to Customer Services, 44 Hythe Road, London, NW10 6RS.
+We will not pass on your personal information to third parties except in accordance with this policy and our Terms and Conditions.
 
-To request a copy of this personal data please write to Data Controller, Cargiant, 44 Hythe Road, London, NW10 6RS. This service costs £10.
+## 8\. What are your rights?
 
-**Cookies  
-**The Website uses cookies to distinguish you from other users. This helps Cargiant to provide you with a good experience when you browse [www.cargiant.co.uk](http://www.cargiant.co.uk/) and also allows Cargiant to improve the [www.cargiant.co.uk](http://www.cargiant.co.uk/).
+Depending on the legal basis we have relied upon to process your data you have various rights you can choose to exercise.
 
-**What are Cookies?  
-**Cookies are tiny text files stored on your computer when you visit certain web pages. At Cargiant we use cookies to keep track of the options you have selected on the website and to remember you when you return to our site.
+All requests will be considered by the Compliance Department or relevant Department Management and responded to within 28 days of receipt. Requests can be made either in person, by email ([compliance@cargiant.co.uk](mailto:%20compliance@cargiant.co.uk)) or over the phone ([0208 969 5511](tel:%200208 969 5511)) during our office opening hours.
 
-To get the best Cargiant experience, you need to have cookies enabled. If you don't wish to enable cookies, you will still be able to use the site but you may not be able to use some of the essential features we offer such as remembering the car you searched for.
+### Erasure
 
-Cookies don't harm your computer. Like other online companies, we use cookies to provide you with more relevant and useful information. We don't store personally identifiable information such as credit card details in cookies we create, but we do use information gathered from cookies to help improve your experience of the site.
+If you feel that there is no compelling reason for your personal data to continue to be processed you can request erasure. If consent was originally obtained this can simply be withdrawn. In other circumstances the request will be considered by the Compliance Department.
 
-**Cookies policy**  
-To make full use of the features on our site you will need to accept cookies, as we can only provide you with certain personalised features of this website by using them.
+### Portability
 
-If your computer is configured to accept cookies we will be able to provide time saving functionality such as:
+In event that data has been processed on the basis of consent or for entering into or the performance of a contract you may request to have the data provided to you in a structured, commonly used and machine readable form (usually in CSV format).
 
-The ability to add cars to your favourites list.  
-To remember the details of your car search when you go to different pages on our web site.
+### Object
 
-However, if you'd prefer to restrict, block or delete cookies from [www.cargiant.co.uk](https://web.archive.org/ "Home"), or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser to learn how to change your cookie preferences.
+If you no longer wish your data processed due to grounds relating to your particular situation, where we are relying upon legitimate interests, you can exercise your right to object. Where this is concerned with direct marketing it will be stopped immediately.
 
-For further information on cookies or for details on how to delete them or refuse their installation on your computer, please visit [**www.aboutcookies.org**](http://www.aboutcookies.org/)
+Customers have the right to withdraw consent given to communications at any time.
 
-**Cookies used on the website  
-**Here is a list of how we use cookies on the website
-
-Google Analytics
-
-**Cookies:**   
-Our website uses Google Analytics, a web analytics tool provided by Google Ireland Limited (“Google”). Google Analytics uses cookies to help the website analyse how users use the website. The information generated by the cookies about your use of the website and your current IP-address will be transmitted by your browser to and will be stored by Google on servers in the United States and other countries. Google will use this information on our behalf to evaluate your use of the website, compile reports on website activity and provide us with other services relating to website activity and internet usage. The UP address collected through Google Analytics will not be associated with any other data held by Google.
-
-Cargiant first party cookies used on the website Used and new vehicle search
-
-In order to provide some of the functionality within the new and used vehicle search sections of our site, we need to store some information in cookies related to the searches you have been performing. For example whenever you compare different vehicles, we need to store the identifiers for those vehicles. We store the makes and models of vehicles you are currently searching. Some of this information may also be used to bring you more relevant content across our site.
-
-**Internal tracking Managing Cookies  
-**Browsers are changing all the time, to get the most up to date information about managing your cookies in your browser visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) ( this will open in a new window - please note that we can't be responsible for the content of external websites)
-
-We have set out below an example of some of the tracking cookies that we use:
-
-**Cookie name**
-
-| 
-
-**Type**
-
-| 
-
-**Data stored**
-
-| 
-
-**Purpose**
-
-| 
-
-**Expire Time**  
-  
+  | Consent | Necessary for performance of a contract | Compliance with a legal obligation | Necessary for the purposes of the legitimate interests  
 ---|---|---|---|---  
+Right to erasure | ✔ | ✔ | X | ✔  
+Right to portability | ✔ | ✔ | X | X  
+Right to object | X   
+but right to withdraw consent | X | X | ✔  
   
-ASPSESSIONIDCQQRBCDC
+You also have the right to access your personal data, to request a copy of your personal data please write to Data Controller, Cargiant, 44 Hythe Road, London, NW10 6RS. 
 
-| 
+Other rights include the right to be informed about how your personal data is processed, to request rectification if you feel data is inaccurate or incomplete and related to automated decision making including profiling. You also have the right to have processing restricted in the event of contesting the accuracy of your personal data, where you have objected to processing and if you require the data to establish, exercise or defend a legal claim. Please visit the Information Commissioner’s Office website [ico.org.uk](http://www.ico.org.uk/) if you require more information.
 
-Session
+If you are unhappy with the response following your request or you would like to make a complaint about how your data has been processed please refer to the Information Commissioner’s Office at <https://ico.org.uk/concerns>/ who are the supervisory authority in this area.
 
-| 
+## 9\. How do we use cookies and how they benefit you?
 
-Cookie representing client instance.
+Our website uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
 
-| 
+### Our cookies help us:
 
-Cookie representing client instance.
+  * Make our website work as you would expect;
+  * Save you having to register every time you visit My Garage;
+  * Remember your settings during and between visits;
+  * Improve the speed and security of the website;
+  * Allow you to share pages with social networks, like Facebook;
+  * Continuously improve our website for you; and
+  * Help our marketing be more targeted to your needs.
 
-| 
 
-End of session  
-  
-PersistantSessionID
 
-| 
+### We do not use cookies to:
 
-Persistent
+  * Collect any personally identifiable information (without your express permission);
+  * Collect any sensitive information (without your express permission);
+  * Pass personally identifiable data to third parties; or to
+  * Pay sales commissions.
 
-| 
 
-Advert or vehicle identifiers that have been added to the compare list.
 
-| 
+## 10\. Granting us permission to use cookies
 
-To provide the compare functionality in the vehicle search sections of the site.
+If the settings on your software to view this website (your browser) are adjusted to accept cookies we take this, and your continued use of our website, to mean that you have accepted the use of our cookies. Should you wish to remove or not use cookies from our website you can learn how to do this below. However, doing so will likely mean that our site will not work as you would expect.
 
-| 
+## 11\. More about Cargiant Cookies
 
-2 weeks  
-  
-We also use cookies which are operated on our behalf by the organisations listed below to help us deliver our services.                                                                                                                                                                                        
+### Strictly Necessary Website Cookies
 
-**Organisation setting the cookie** | **Name of cookie** | **What does it do?** | **Which CARGIANT websites use this cookie?** | **How to reject/delete these cookies?**  
----|---|---|---|---  
-Google Analytics  
-_utma | This cookie helps us determine the number of unique visitors to our website. | We use this cookie when you select a region on our website to remember your preferred region and enable us to serve region specific content to you.  
-_utmz | This cookie helps us determine the referral method for people visiting our website. This helps us to analyse the traffic arriving at our website and to determine which are the most popular routes (e.g. direct, search engine search, email link).This cookie helps us determine the referral method for people visiting our website. This helps us to analyse the traffic arriving at our website and to determine which are the most popular routes (e.g. direct, search engine search, email link). | www.cargiant.co.uk  
-_utmb | We use this Google Analytics cookie to help us to record the length of individual sessions from our users on our website. Each time you move to a new page within our website within 30 minutes of arriving the cookie updates so that we know that you are still actively using our website within a single session. | www.cargiant.co.uk  
-_utmc | Similar to _utmb, we use this Google Analytics cookie to help us record the length of individual sessions on our website. | www.cargiant.co.uk | We use this cookie when you select a region on our website to remember your preferred region and enable us to serve region specific content to you.  
-AiMatch | MID | We use this cookie to identify whether a user of our website has cookies enabled. If this cookie identifies that a user has cookies enabled, a second ‘MID’ cookie is dropped. This cookie helps us to identify each unique visitor but is anonymous in nature. | www.cargiant.co.uk | See general section on how to disable cookies below. For more information on how AiMatch use data, please see their Privacy Policy.  
-HINT | We use this cookie to ensure that we are consistently directing our users to the same components of our website to ensure a consistent and relevant advertising experience. This helps us ensure the integrity of the sequence of advertising that is seen by our users, and helps us to apply caps on the frequency with which our users see particular adverts. | www.cargiant.co.uk  
-  
-Cargiant Does not collect cookies for 3rd party advertising purposes. 
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services such as:
 
-  Cookies that are set by us or on our behalf.
+  * Determining if you are logged in or not;
+  * Remembering your search settings;
+  * Remembering if you have accepted our terms and conditions; and
+  * Remembering your preferences such as layout
 
-We also use 7 types of cookies. In summary these allow users to share content via social networking websites and email. When we provide links to third party services you find useful, they may place a cookie on your device to make their service easier to use.
 
-**Cookie name**
 
-| 
+You can set your browser to block or alert you about these cookies, but some parts of the website will not then work. These cookies do not store any personally identifiable information.
 
-**Purpose**
+Cookies don't harm your computer. Like other online companies, we use cookies to provide you with more relevant and useful information. We don't store personally identifiable information such as credit card details, but we do use information gathered from cookies to help improve your experience of the Cargiant website.
 
-| 
+### Anonymous Visitor Statistic & Performance Cookies
 
-**Expire Time**
+We use cookies to compile visitor statistics, such as how many people have visited our website, what type of technology they are using (e.g. Windows, Mac or Android) which helps us to identify when our website isn't working, how long our customers spend on our website, what page they look at etc and so forth. This helps us to continuously improve our website. These “analytics” programs also tell us, on an anonymous basis, how people reached our web site (e.g. from a search engine) and whether they have been here before, helping us to develop our services for our customers.
 
-| 
+All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies on your browser we will not know when our customers visited our site, and will not be able to improve its performance.
 
-**Third Party**  
-  
----|---|---|---  
-  
-di
+### Advertising
 
-| 
+Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. They will be used to build a profile of your interests and show you relevant adverts on other sites.
 
-Randomly generated number
+They do not store direct personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
 
-| 
+You can learn more about online advertising at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). You can opt-out of almost all advertising cookies at <http://www.youronlinechoices.com/uk/your-ad-choices>. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, just simply that they won't be tailored to you any longer.
 
-2 years
+### Third Party Cookies
 
-| 
+Our website, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video or pulling through Feefo Reviews. Disabling these cookies will likely break the functions offered by these third parties.
 
-[www.addthis.com](http://www.addthis.com/)  
-  
-dt
+### Site Improvement Cookies
 
-| 
+From time to time we test new designs or website features. We do this by showing slightly different versions of our website to different people and anonymously monitoring how our website visitors respond to these different versions. We might also use anonymised heat mapping software to understand popular pages and specific functionality on our website. This helps us to offer you a better user experience.
 
-"X"
+### Remarketing Cookies
 
-| 
+You may notice that sometimes after visiting a website you see increased numbers of adverts from the site you visited. This is because advertisers, including ourselves, pay for these adverts. The technology to do this is made possible by cookies, and as such, we may place a so called “remarketing cookie” during your visit. We use these adverts to offer targeted messages to encourage you to come back to our site. However, we are unable to proactively reach out to you as the whole process is entirely anonymised and you can opt out of these cookies at any time as explained above and below.
 
-30 days
+### Social Website Cookies
 
-| 
+These cookies are set by a range of social media services that we have added to the website to enable you to share our content with your friends and other networks. They are capable of tracking your browser across other websites and building up a profile of your interests. This may therefore impact the content and messages you see on other websites you visit.
 
-[www.addthis.com](http://www.addthis.com/)  
-  
-loc
+If you do not allow these cookies you may not be able to use or see these sharing tools.
 
-| 
+The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
 
-Country code and randomly generated letters and numbers
+### When do our cookies expire?
 
-| 
+Except for essential cookies, most of the cookies on our websites expire at the end of your current session on our website. However, some of our cookies have an extended lifespan which ranges from 1 day to 26 years. Some of our cookies are persistent and will never expire. If the cookie used is a flash cookie, please note that flash cookies do not expire.
 
-30 days
+## 12\. Turning Cookies Off
 
-| 
+You can usually switch cookies off by adjusting your browser settings to stop it from accepting cookies. Doing so however will likely limit the functionality of our's and a large proportion of the world's websites as cookies are a standard part of most modern websites.
 
-[www.addthis.com](http://www.addthis.com/)  
-  
-psc
+Amending cookies setting in different types of browser:
 
-| 
+Cookie settings in Edge - <https://support.microsoft.com/en-us/help/196955>
 
-Number
+Cookie settings in Firefox - <https://support.mozilla.org/en-GB/kb/enable-and-disable-cookies-website-preferences>
 
-| 
+Cookie settings in Chrome - <https://support.google.com/accounts/answer/61416>
 
-2 years
+Cookie settings in Safari - <https://support.apple.com/kb/ph21411>
 
-| 
-
-[www.addthis.com](http://www.addthis.com/)  
-  
-ssh
-
-| 
-
-Your favourite preferences
-
-| 
-
-2 years
-
-| 
-
-[www.addthis.com](http://www.addthis.com/)  
-  
-uid
-
-| 
-
-Randomly generated letters and numbers
-
-| 
-
-2 years
-
-| 
-
-[www.addthis.com](http://www.addthis.com/)  
-  
-**When do our cookies expire?  
-**Except for essential cookies, most of the cookies on our websites expire at the end of your current session on our website. However, some of our cookies have an extended lifespan which ranges from 1 day to 26 years. Some of our cookies are persistent and will never expire. Where we specify above that the cookie being used is a flash cookie, please note that flash cookies do not expire.
-
-**Acceptance  
-**By using [www.cargiant.co.uk](http://www.cargiant.co.uk/), you consent to the collection and use of this information by cargiant and to this Privacy Policy.
-
-**Contact  
-**Questions, comments and requests regarding this Policy are welcomed and should be addressed to [customerservice@cargiant.co.uk](mailto:customerservice@cargiant.co.uk) or Customer Services, 44 Hythe Road, London, NW10 6RS.
+It may be that your concern around cookies relates to so called "spyware". Rather than switching off cookies in your browser, you may find that anti-spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about managing cookies with antispyware software.
