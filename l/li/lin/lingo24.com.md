@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602064056id_/http%3A//www.lingo24.com/about/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902213745id_/http%3A//www.lingo24.com/about/privacy-and-terms) for the most accurate reproduction.*
 
 # Privacy and terms | Lingo24 UK
 
@@ -38,9 +38,7 @@ Where we collect personal data, we’ll only process it:
 
 • to perform a contract with you, or
 
-• where we have legitimate interests to process the personal data and they’re not
-
-• overridden by your rights, or
+• where we have legitimate interests to process the personal data and they’re not overridden by your rights, or
 
 • in accordance with a legal obligation, or
 
@@ -67,7 +65,7 @@ The website does not set its own cookies but we do use the following third-party
 
 • GetResponse (Analytics and Marketing) \- we use GetResponse as a marketing automation platform so we can personalise your experience with us
 
-• Embedly (Analytics and Marketing) \- we use Embedly to support social sharing of content and tracking of engagement.
+• Embedly (Analytics and Marketing) \- we use Embedly to support social sharing of content and tracking of engagement
 
 ### What do we use it for?
 
@@ -83,13 +81,13 @@ _Communicate with you_ \- including:
 
 _Provide support to you_ \- including:
 
-• Assisting with the resolution of technical support issues or other issues relating to the websites or services raised through our Service Desk.
+• Assisting with the resolution of technical support issues or other issues relating to the websites or services raised through our Service Desk
 
-• Providing assistance to queries or concerns raised on our website chat system.
+• Providing assistance to queries or concerns raised on our website chat system
 
 _Enhance and develop our services_ \- including:
 
-• Tracking and monitoring your use of our websites and services so we can understand how you use our services.
+• Tracking and monitoring your use of our websites and services so we can understand how you use our services
 
 • Carrying out analysis of our websites and services so that we can optimise your user experience and provide you with more efficient tools
 
@@ -97,7 +95,7 @@ _Market to you_ \- including:
 
 • Sending you relevant marketing communications
 
-• Display targeted advertising to you online – through our own websites and services or through third party websites and their platforms.
+• Display targeted advertising to you online – through our own websites and services or through third party websites and their platforms
 
 ### International Data Transfers
 
