@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mooc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145414id_/http%3A//mooc.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mooc.org privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902111515id_/http%3A//mooc.org/privacy.html) for the most accurate reproduction.*
 
 # mooc.org - Privacy Policy
 
@@ -60,9 +60,9 @@ mooc.org goes live in the first half of 2014. Are you interested in creating or 
 
 ### More Information
 
-  * #### [Read the full press release](https://web.archive.org/web/20170606145414id_/http%3A//mooc.org/press.html)
+  * #### [Read the full press release](https://web.archive.org/web/20180902111515id_/http%3A//mooc.org/press.html)
 
-EdX Announces Partnership with Google to Expand Open Source Platform. Google will collaborate with edX on mooc.org, new destination and hosting site for online learning... [Read More](https://web.archive.org/web/20170606145414id_/http%3A//mooc.org/press.html)
+EdX Announces Partnership with Google to Expand Open Source Platform. Google will collaborate with edX on mooc.org, new destination and hosting site for online learning... [Read More](https://web.archive.org/web/20180902111515id_/http%3A//mooc.org/press.html)
 
   * #### [What is Open edX?](http://code.edx.org/)
 
