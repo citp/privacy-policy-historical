@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdbandwagon.com privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217182726id_/http%3A//sdbandwagon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdbandwagon.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902125606id_/http%3A//sdbandwagon.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SD Bandwagon
 
