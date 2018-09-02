@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602233352id_/http%3A//motionelements.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902222016id_/https%3A//www.motionelements.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 MotionElements (“Company”, “we”, or “Us”) is committed to respecting your privacy. This Privacy Policy describes how Company collects, uses, and retains personal information to enable us to do business with you and improve our services. “Personal Information” includes any information that relates to, identifies, or can be used to identify, contact, or locate the person to whom such information pertains. 
 
-The terms of this policy apply to Company’s website: [www.motionelements.com](http://www.motionelements.com/) (the “Site”), unless different terms are otherwise specified or provided to you. 
+The terms of this policy apply to Company’s website: [www.motionelements.com](https://www.motionelements.com/) (the “Site”), unless different terms are otherwise specified or provided to you. 
 
 **BY USING THIS SITE, YOU UNDERSTAND AND AGREE TO THE TERMS OF THIS PRIVACY POLICY.**
 
@@ -48,7 +48,7 @@ We may disclose Personal Information if required by law (for example, to comply 
 
 ### DATA RETENTION
 
-We will retain your Personal Information for as long as your account is active, your information is needed to provide you services, or as required to fulfill our legal obligations, resolve disputes, and enforce our agreements. If you wish to delete your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ee9e9c87988f8d97ae83819a8781808b828b838b809a9dc08d8183). We will respond to your request within 60 days. 
+We will retain your Personal Information for as long as your account is active, your information is needed to provide you services, or as required to fulfill our legal obligations, resolve disputes, and enforce our agreements. If you wish to delete your account or request that we no longer use your information to provide you services contact us at [privacy@motionelements.com](mailto:privacy@motionelements.com). We will respond to your request within 60 days. 
 
 If you are a contributor and have submitted model releases with any content, we will retain the releases to comply with our legal obligations, dispute resolutions, licensing transactions, or to enforce our contractual obligations. We will not publicly disclose any Personal Information regarding any model. 
 
@@ -74,7 +74,7 @@ You may adjust your browser to reject cookies from us or from any other website.
 
 ### DIRECT MARKETING
 
-From time to time we may notify you of special promotions, new products or services, or other information that may interest you. We may do so using either the email or the mailing addresses you provided on the registration or billing information screens. Should you not wish to receive this type of information, you will have the ability to opt out of such communications at any time by clicking on the unsubscribe option available in each email communication. We will not send you information if you inform us that you do not wish to receive such materials. If at any time you believe that MotionElements has not followed the above policy, or if you would like your information to be removed from our system, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8d8f948b9c9e84bd909289949293989198909893898ed39e9290). 
+From time to time we may notify you of special promotions, new products or services, or other information that may interest you. We may do so using either the email or the mailing addresses you provided on the registration or billing information screens. Should you not wish to receive this type of information, you will have the ability to opt out of such communications at any time by clicking on the unsubscribe option available in each email communication. We will not send you information if you inform us that you do not wish to receive such materials. If at any time you believe that MotionElements has not followed the above policy, or if you would like your information to be removed from our system, please e-mail us at [privacy@motionelements.com](mailto:privacy@motionelements.com). 
 
 ### SECURITY OF OUR DATA
 
@@ -98,11 +98,11 @@ On some pages, we allow you to share Personal Information with third parties, su
 
 If you choose to use our referral service to tell a friend about our Site or share favorites with your friend, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#29595b405f484a506944465d4046474c454c444c475d5a074a4644) to request that we remove this information from our database. 
+Your friend may contact [privacy@motionelements.com](mailto:privacy@motionelements.com) to request that we remove this information from our database. 
 
 ### CHILDREN
 
-We do not intend to solicit or collect Personal Information from anyone under the age of 18. If you are under 18, do not enter information on this site or engage our services. If you believe a child of yours under the age of 18 has entered Personal Information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c1b1b3a8b7a0a2b881acaeb5a8aeafa4ada4aca4afb5b2efa2aeac) to have the data removed and terminate the child’s account. 
+We do not intend to solicit or collect Personal Information from anyone under the age of 18. If you are under 18, do not enter information on this site or engage our services. If you believe a child of yours under the age of 18 has entered Personal Information please contact [privacy@motionelements.com](mailto:privacy@motionelements.com) to have the data removed and terminate the child’s account. 
 
 ## ADDITIONAL POLICY INFORMATION
 
@@ -110,7 +110,7 @@ We do not intend to solicit or collect Personal Information from anyone under th
 
 Under the General Data Protection Regulation (GDPR) in the EU, individuals located in certain countries, including the European Economic Area, have the right to receive a copy of, review and/or update your personal information and to correct any of your personal information in our records that is inaccurate. 
 
-If you would like to do so, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cbbbb9a2bdaaa8b28ba6a4bfa2a4a5aea7aea6aea5bfb8e5a8a4a6). 
+If you would like to do so, contact us at [privacy@motionelements.com](mailto:privacy@motionelements.com). 
 
 ### DELETION OR RESTRICTION OF OUR RIGHT TO STORE OR PROCESS YOUR PERSONAL INFORMATION
 
