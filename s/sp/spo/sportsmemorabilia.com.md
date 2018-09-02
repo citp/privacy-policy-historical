@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the sportsmemorabilia.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824215347id_/https%3A//www.sportsmemorabilia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmemorabilia.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902133756id_/https%3A//www.sportsmemorabilia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Autographed Sports Memorabilia and Sports Collectibles at Home
 
 ### SportsMemorabilia.com Privacy Policy
 
-The [www.sportsmemorabilia.com](http://www.sportsmemorabilia.com/) website, including, if applicable, the mobile version (collectively, the "Website") is operated by SportsMem, Inc. ("SportsMem") or one of its affiliates ("SportsMem Entities"). When used herein, the terms "we" "us" or "our" include SportsMem and the SportsMem Entities. We take very seriously the protection and proper use of your personal and non-personal information. We want you to understand what information may be collected from you, how such information is used, and the choices you have regarding the use of this information. Accordingly, this policy ("Privacy Policy") explains how we collect, use and disclose your personal and other information through this Website. We will treat your information consistent with this Privacy Policy unless you have consented otherwise. Also, you may opt-out of certain uses and disclosures of your personal information, as further explained in this Privacy Policy.
+The [www.sportsmemorabilia.com](https://www.sportsmemorabilia.com/) website, including, if applicable, the mobile version (collectively, the "Website") is operated by SportsMem, LLC. ("SportsMem") or one of its affiliates ("SportsMem Entities"). When used herein, the terms "we" "us" or "our" include SportsMem and the SportsMem Entities. We take very seriously the protection and proper use of your personal and non-personal information. We want you to understand what information may be collected from you, how such information is used, and the choices you have regarding the use of this information. Accordingly, this policy ("Privacy Policy") explains how we collect, use and disclose your personal and other information through this Website. We will treat your information consistent with this Privacy Policy unless you have consented otherwise. Also, you may opt-out of certain uses and disclosures of your personal information, as further explained in this Privacy Policy.
 
 ### Your Consent
 
 By accessing and using the Website, you consent to the collection, use and disclosure of your information in accordance with this Privacy Policy and you agree to be legally bound by its terms. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR USE THE WEBSITE.
 
-  * [How Do We Collect and Use Personal Information?](http://www.sportsmemorabilia.com/privacy.html#j1)
-  * [How Do We Collect and Use Non-Personally Identifiable and Aggregated Information?](http://www.sportsmemorabilia.com/privacy.html#j2)
-  * [Opt-Out Process/Options and Additional Terms](http://www.sportsmemorabilia.com/privacy.html#j3)
-  * [Privacy Policy Changes](http://www.sportsmemorabilia.com/privacy.html#j4)
-  * [How Do We Respond to Do Not Track Signals?](http://www.sportsmemorabilia.com/privacy.html#j5)
-  * [How Can You Access Your Personal Information?](http://www.sportsmemorabilia.com/privacy.html#j6)
-  * [Is Your Personal Information Secure?](http://www.sportsmemorabilia.com/privacy.html#j7)
-  * [Can Children Use Our Site?](http://www.sportsmemorabilia.com/privacy.html#j8)
-  * [What About Third-Party Websites and Social Media Services?](http://www.sportsmemorabilia.com/privacy.html#j9)
-  * [Other Notices and Important Information](http://www.sportsmemorabilia.com/privacy.html#j10)
+  * [How Do We Collect and Use Personal Information?](https://www.sportsmemorabilia.com/privacy.html#j1)
+  * [How Do We Collect and Use Non-Personally Identifiable and Aggregated Information?](https://www.sportsmemorabilia.com/privacy.html#j2)
+  * [Opt-Out Process/Options and Additional Terms](https://www.sportsmemorabilia.com/privacy.html#j3)
+  * [Privacy Policy Changes](https://www.sportsmemorabilia.com/privacy.html#j4)
+  * [How Do We Respond to Do Not Track Signals?](https://www.sportsmemorabilia.com/privacy.html#j5)
+  * [How Can You Access Your Personal Information?](https://www.sportsmemorabilia.com/privacy.html#j6)
+  * [Is Your Personal Information Secure?](https://www.sportsmemorabilia.com/privacy.html#j7)
+  * [Can Children Use Our Site?](https://www.sportsmemorabilia.com/privacy.html#j8)
+  * [What About Third-Party Websites and Social Media Services?](https://www.sportsmemorabilia.com/privacy.html#j9)
+  * [Other Notices and Important Information](https://www.sportsmemorabilia.com/privacy.html#j10)
 
 
 
@@ -65,7 +65,7 @@ If the Privacy Policy of SportsMemorabilia.com is changed in any way, we will po
 
 ### How Do We Respond to Do Not Track Signals?
 
-We take your privacy very seriously. With respect to “do not track” (a/k/a DNT) signals or similar mechanisms transmitted by web browsers, the Website does not respond to or honor such signals or mechanisms. This means that third parties, such as ad networks, web analytics companies, and social networking platforms (some of whom are discussed elsewhere in this Privacy Policy), may collect personally identifiable information about your online activities over time and across our Website and other third-party online properties or services. These companies may use information about your visits to our Website and other sites, and general geographic information derived from your IP address, in order to provide advertisements about goods and services of interest to you. For more information about third-party advertisers and how to prevent them from using your information, please visit <http://www.networkadvertising.org/choices/>. This is a site offered by the Network Advertising Initiative (“NAI”) that includes information on how consumers can opt-out from receiving interest-based advertising from some or all of NAI’s members. You can also visit <http://www.aboutads.info/choices>, which is a site offered by the Digital Advertising Alliance (“DAA”) that includes information on how consumers can opt-out from receiving internet-based advertising from some or all of DAA’s participating companies. Opting out of interest-based advertising does not mean that you will no longer see any advertisements; rather, you will still see advertisements that are general and not tailored to your specific interests and activities.
+We take your privacy very seriously. With respect to “do not track” (a/k/a DNT) signals or similar mechanisms transmitted by web browsers, the Website does not respond to or honor such signals or mechanisms. This means that third parties, such as ad networks, web analytics companies, and social networking platforms (some of whom are discussed elsewhere in this Privacy Policy), may collect personally identifiable information about your online activities over time and across our Website and other third-party online properties or services. These companies may use information about your visits to our Website and other sites, and general geographic information derived from your IP address, in order to provide advertisements about goods and services of interest to you. For more information about third-party advertisers and how to prevent them from using your information, please visit <https://www.networkadvertising.org/choices/>. This is a site offered by the Network Advertising Initiative (“NAI”) that includes information on how consumers can opt-out from receiving interest-based advertising from some or all of NAI’s members. You can also visit <https://www.aboutads.info/choices>, which is a site offered by the Digital Advertising Alliance (“DAA”) that includes information on how consumers can opt-out from receiving internet-based advertising from some or all of DAA’s participating companies. Opting out of interest-based advertising does not mean that you will no longer see any advertisements; rather, you will still see advertisements that are general and not tailored to your specific interests and activities.
 
 ### How Can You Access Your Personal Information?
 
@@ -91,16 +91,16 @@ We are committed to the preservation of online privacy for all of our visitors, 
 
 **Servers in the United States of America**. Our servers are maintained in the United States of America (“USA”). By using the Website, you freely and specifically give us your consent to export your personal information to the USA and to store and use it in the USA as specified in this Privacy Policy. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA.
 
-**Terms and Conditions**. Use of the Website is governed by, and subject to, the Terms of Use contained at [www.sportsmemorabilia.com/terms_of_use_agreement.html](http://www.sportsmemorabilia.com/terms_of_use_agreement.html), and this Privacy Policy is incorporated therein. Your use or accessing of the Website constitutes your agreement to be bound by the Terms of Use.
+**Terms and Conditions**. Use of the Website is governed by, and subject to, the Terms of Use contained at [www.sportsmemorabilia.com/terms_of_use_agreement.html](https://www.sportsmemorabilia.com/terms_of_use_agreement.html), and this Privacy Policy is incorporated therein. Your use or accessing of the Website constitutes your agreement to be bound by the Terms of Use.
 
 #### For questions or concerns relating to this Privacy Policy, we can be contacted at:
 
-SportsMem, Inc.
+SportsMem, LLC.
 
-333 East Las Olas Blvd, Suite 300
+15701 SW 29th St.
 
-Fort Lauderdale, FL 33301
+Miramar, FL 33027
 
 privacy@sportsmemorabilia.com
 
-**Last Updated: October 8, 2014**
+**Last Updated: February 26, 2018**
