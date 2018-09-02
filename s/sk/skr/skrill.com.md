@@ -1,79 +1,82 @@
-> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230438id_/https%3A//www.skrill.com/en-us/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903003052id_/https%3A//www.skrill.com/en/footer/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Skrill
+# Privacy Notice | Skrill
 
- 
+This notice applies to Paysafe Group Limited and its group companies, which sometimes use trading names including Paysafe, Paysafecard, Payolution, Skrill and NETELLER (together “Paysafe” or "we" or “our”).
 
-**1\. Scope**
+This notice shows our commitment to protect your privacy rights and sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. It applies to:
 
-1.1. This Privacy policy governs how Skrill USA, Inc. (hereinafter “Skrill” or “We”) collect, use and disclose personal information. It applies to the use of our website and the services we offer on our website. It also applies to any agreement that incorporates this policy by reference. 
-
-**2\. When and how we collect information**
-
-We may collect the following information about you:
-
-  * Any information you disclose to us in or in connection with your new account information, such as, but not limited to: your name, previous names, Social Security Number, trade name, current and previous home addresses, current and previous business address, date of birth, telephone numbers, fax numbers, email addresses, bank account details, information on your financial status and creditworthiness and other financial information;
-  * Information we may gather about you during our business relationship, such as transaction data, data collected from you during the any credit review procedure or from third party providers such as credit rating agencies or fraud prevention and detection service providers;
-  * Information we may receive about you or in relation to your transactions from any auction website, vending website or web portal on or through which you offer and sell your goods or services;
-  * Information we may receive from credit card associations or their members in relation to you or your transactions;
-  * Information we receive from you for the purpose of executing a transaction;
-  * Information we may gather about you when opening and using a User Profile;
-  * Information we gather about you when visiting our website generally (usually through the use of Cookies, see section 5 below, and/or by recording your IP address, domain name and browser type). 
+  * the website/portal features and services provided to you when you visit our websites, portals or our payment panels our clients may use on their websites;
+  * when you apply to use and/or use Paysafe’s products and services (including any loyalty or reward schemes, whether points-based or otherwise (”Loyalty” or ”Promotion”));
+  * your use of software including terminals, mobile and desktop applications provided by Paysafe; and
+  * email, other electronic messages including SMS, telephone, web chat, website/portal and other communications between you and Paysafe.
 
 
 
-**3\. How we protect your information**
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-3.1. We will use reasonable efforts to store information securely and protect it against unauthorized access and disclosure. We maintain physical, electronic and procedural safeguards that comply with federal requirements to guard your personal information.
+Paysafe takes a ”layered approach” to explaining its privacy practices, as recommended by regulators. This means that we endeavour to initially provide you with the key privacy information in the form of this ”[short form](https://www.skrill.com/en/footer/privacypolicy/)” privacy notice. Should you wish to view the comprehensive privacy notice, you can [click here](https://www.skrill.com/en/footer/comprehensiveprivacypolicy/). Contact us details are provided at the end of the notice, for feedback or any privacy enquiries you may have.
 
-3.2. All your transactions are processed using secure communication standards such as Secure Socket Layer (SSL) with 128-bit encryption. You should always make sure that your browser is compatible with SSL encryption and the appropriate browser functions are set. When starting an SSL session, your browser should indicate this by displaying a lock or similar security icon. 
+**INFORMATION WE MAY COLLECT FROM YOU**
 
-3.3. We use reasonable efforts not to disclose information to any third party except for the reasons set forth in below or with your consent.
+You may provide some information to us, for example when you enquire for or make an application for the Paysafe Services, register to use and/or use any Paysafe Services, by filling in forms on one of our websites, participating in one of our events or by corresponding with by us phone, e-mail, web chat or otherwise. We may collect some of it through automatic means, for example by using cookies when you visit our websites. Read our [Cookie Policy](https://www.skrill.com/en/footer/cookies-notice/) to know more. We may also obtain data about you from third parties, like credit reference and fraud prevention agencies.
 
-3.4. We will only disclose information to our employees who have a need to know such information for the fulfillment of their duties. Employees are regularly trained to comply with this privacy policy.
+**USES MADE OF THE INFORMATION**
 
-3.5. Where we disclose information to a third party for operational reasons, we require such third party to adhere to privacy principles similar to those set forth in this policy. 
+We use information we collect about you to provide you with the products we offer, to notify you about changes to our products and to improve our products. We also use this information to provide you with information about other products we or selected third parties offer which are similar to the ones you have used or enquired about or we think may be of interest to you. If you use one of our financial products, we will also use your information to assess your financial situation and to try to identify and prosecute possible frauds.
 
-**4\. When and to whom we disclose your information**
+**DISCLOSURE OF YOUR INFORMATION**
 
-4.1. We may disclose all or part of your information to 
+We will not disclose your personal data to anyone except as described in this notice.
 
-  * our affiliates for operational reasons
-  * service providers that we use to provide services to you
-  * Card Associations and their members and members' agents and service providers
-  * credit reference agencies and I.D. verification agencies 
-  * fraud prevention and detection agencies
-  * debt collection agencies for the purposes of collecting outstanding balances owed to us or any other debt owed to us
-  * selected marketing agencies or other third parties that use your information for marketing purposes, unless you have opted out of receiving communications from such third parties (see next section) or if the laws of the state in which you reside prevents us from doing so.
+We may share your personal information with any company in the Paysafe Group Limited group of companies.
+
+We may share your personal information with third parties to provide you with the products we offer, including service providers, credit reference agencies and financial institutions. We may also share your personal information with third parties to prevent crime and reduce risk, if required to do so by law, where we deem it appropriate to do so, to respond to legal process or to protect the rights or property of Paysafe, our customers or others.
+
+**WHERE WE STORE YOUR PERSONAL DATA AND DATA SECURITY**
+
+The information that we collect from you may be transferred to, stored at and processed by recipients located in destinations outside the European Economic Area ("EEA"). These countries may have data protection standards that are different to (and, in some cases, lower than) those in which you reside. We will take all steps necessary to ensure that the recipients will use and protect your information in the same secure way that we do. .
+
+If we have given you (or if you have chosen) a password, access code or any other secure means or access or authentication which enables you to access certain parts of our site, you are responsible for keeping this password confidential and complying with our instructions. You must not share credentials with anyone else, and you authorise Paysafe to act upon instructions and information from any person that enters your credentials.
+
+The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site, unless you are communicating with us through a secure channel that we have provided. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+**YOUR RIGHTS**
+
+Where applicable, you may have certain rights under data protection legislation, including the right to access, correct, update or delete your personal information; object to or restrict its processing; request to transfer certain of your personal information to another service provider (so called, data portability); or to revoke any consent you have given.
+
+However, please note that there are exceptions to those rights. For the full explanation of the rights available, please refer to the comprehensive privacy notice.
+
+**AUTOMATED DECISION MAKING**
+
+Automated decisions mean that a decision concerning you is made automatically on the basis of a computer determination (using software algorithms), without our human review. 
+
+For example, we use automated decisions to complete a credit assessment on you when you apply to financial services of Paysafe, or to carry out anti-fraud checks on the transactions you perform. However, if you are in the European Union, you have the right to object the automated decision and have it manually reviewed based also on information that you can provide.
+
+You can contact us at the details below to exercise your right.
+
+**LEGAL BASIS FOR PROCESSING**
+
+We will process your personal information only when we have one of the following ground:
+
+  * On the basis of your consent, for example to send you marketing messages;
+  * Where necessary to enter into a contract with you and perform our obligations under that contract;
+  * Where we have a legitimate interest, subject to such processing not overriding your own rights and freedoms;
+  * Where we have a legal obligation to collect your personal information or otherwise needs your Personal Information to protect your vital interests or those of another person; or
+  * Exceptionally, when necessary in the public interest, for example when law enforcement agencies request information to investigate a crime.
 
 
 
-4.2. If you do not want us to share your information with selected marketing agencies or other third parties for marketing purposes you may opt out of those disclosures at any time by checking the appropriate box in your User Profile which you can access on our website or by contacting Customer Service. 
+ **CHANGES TO OUR PRIVACY NOTICE**
 
-4.3. If you cease to be Skrill’s customer, your information will not be disclosed to third parties, except to affiliates for operational reasons or regulatory agencies or the purposes permitted by law.
+Any changes we may make to our privacy notice in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy notice.
 
-4.4. The U.S. law now requires income received through credit and debit card transactions to be reported to the Internal Revenue Service. Banks and merchant services must report annual gross payments processed by credit or debit cards to the IRS and to merchants. In other words, we will be required to provide these reports by end of January for the payments made in the previous calendar year. The format of these reports must resemble the 1099K forms that report certain type of income in the U.S.
+**CONTACT US**
 
-You acknowledge that Skrill will report to the Internal Revenue Service the total amount of the payments you receive each calendar year into all the Accounts you own if you (i) receive more than $20,000, and (ii) receive more than 200 payments, in that calendar year.
+All comments, queries and requests relating to our use of your information are welcomed. If you wish to exercise any of your rights or receive further information as to the applicable Paysafe group companies to which this notice applies, you should write to the address below, marked FAO Privacy Department or [Contact us](http://www.skrill.com/en/support/#/path/1048967012).
 
-**5\. Cookies**
+Paysafe’s Data Protection Officer is as stated below and can be contacted via the Contact us link above or at the address below:
 
-When you visit our website, we may place little data files (“cookies”) on your computer's hard drive. Most cookies are short-lived session cookies which we use to enhance user experience when visiting our website, for example to spare you from having to provide your login details every time you click on a new page. After the session is closed, this type of cookie expires and is deleted from your hard drive. Other cookies may last longer and help us to identify you when you visit our site again. You can always choose not to accept cookies by disabling this function in your browser option, however, you may not be able to use all services or features provided on our website. 
+Mr Derek A Wynne
 
-**6\. Protection of your User Profile**
-
-Your User Profile is protected through a unique login and password. You should never disclose your login and password to anyone. You should not record your login details and password anywhere in writing or otherwise. If you think your login details and/or password have been lost, stolen, disclosed to any third party or otherwise compromised, you must inform us immediately (see contact details in Section 9).
-
-**7\. Keeping data up to date**
-
-We will use reasonable efforts to keep your information accurate and up to date. You should check the information we hold on you regularly by logging into your User Profile and update your information when necessary. If you otherwise spot any error or omission in the information we hold, please contact us so we can correct it.
-
-**8\. General**
-
-8.1. We may change this Privacy Policy at any time by posting the changed terms or the changed policy on this site. Any changes take effect 30 days from posting. 
-
-8.2. This Privacy Policy is governed by the laws of New York, and you irrevocably submit to the exclusive jurisdiction of the courts of New York.
-
-**9\. Contact Us**
-
-You may contact us anytime by calling +1 855 719 2087.
+Paysafe, Floor 27, 25 Canada Square, London, E17 4AU
