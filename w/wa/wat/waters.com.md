@@ -1,104 +1,145 @@
-> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215172604id_/http%3A//www.waters.com/waters/en_US/Global-Privacy-Policy/nav.htm%3Flocale%3Den_US%26cid%3D1000241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902194918id_/http%3A//www.waters.com/waters/en_US/Privacy-Notice/nav.htm%3Flocale%3Den_US%26cid%3D1000241) for the most accurate reproduction.*
 
-# Global Privacy Policy : Waters
+# Privacy Notice : Waters
 
-Waters Corporation and its subsidiaries ("we" or "us") are committed to protecting and respecting your privacy.
+WATERS CORPORATION PRIVACY NOTICE
 
-This Global Privacy Policy (together with our [terms of use](http://www.waters.com/waters/nav.htm?cid=1000245) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed and stored by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Effective Date: May 25, 2018   
+Last Updated: May 25, 2018
 
-The data controller is Waters Corporation of 34 Maple Street, Milford, Massachusetts, 01757, USA.
+This Privacy Notice describes how we collect, use and share information about you and how you can manage your privacy preferences. **BY VISITING OUR SITES OR USING OUR SERVICES, YOU CONSENT TO THE PRACTICES AND TERMS OF THIS PRIVACY NOTICE.**
 
-INFORMATION WE MAY COLLECT FROM YOU
+**WHO WE ARE**
 
-We may collect and process the following data about you from various sources:
+We are Waters Corporation and its affiliated companies (collectively, “ **Waters** ”). This Privacy Notice applies to www.Waters.com and our other websites, mobile apps, and digital properties that link to or expressly adopt or refer to this Privacy Notice (we call these our “Services”).
 
-  * Information that you provide by submitting information to us or by filling in forms on our site [www.waters.com](http://www.waters.com/) ("our site"). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site. 
-  * If you contact us, we may keep a record of that correspondence. 
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
-  * Details of transactions you carry out through our site and of the fulfillment of your orders. 
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access on our site. 
+**WHAT INFORMATION WE COLLECT ABOUT YOU**
 
+“Personal Data” means any information that can be used to identify you, directly or indirectly, as an individual person. We collect Personal Data about you when you use our Services, including data provided by you, data we automatically collect, and data we obtain from third parties.
 
+**Data Provided By You**
 
-IP ADDRESSES AND COOKIES
+We collect Personal Data that you enter on our Services or give to us in another way. For example:
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us:
-
-  * To estimate our audience size and usage pattern. 
-  * To store information about your preferences, and so allow us to customize our site according to your individual interests.
-  * To speed up your searches. 
-  * To recognize you when you return to our site. 
-
-
-
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
-
-WHERE WE STORE YOUR PERSONAL DATA
-
-We may transfer the personal data we collect about you to countries other than the country in which the information was originally collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your information to other countries, we will protect that information as described in this Global Privacy Policy.
-
-If you are located in the European Economic Area ("EEA"), the data that we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Global Privacy Policy.
-
-All information you provide to us is stored securely at Waters. Any payment transactions completed over the Internet will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorized access.
-
-USES MADE OF THE INFORMATION
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
-  * To carry out our obligations arising from any contracts entered into between you and us. 
-  * To allow you to participate in interactive features of our service, when you choose to do so. 
-  * To notify you about changes to our service. 
+  * When you register with us online, we collect 
+    * contact information, such as your name, email address, mailing address, and telephone number
+    * employment-related information, such as employer, department, job title and business contact information
+    * account information, such as account name, password, security question responses, a unique identification number, and discount eligibility
+    * product interest information, including products and areas of interest, and “favorited” purchases
+  * When you purchase a product or service from us, we collect 
+    * purchase information, including payment card information, order details, government identification number, automated order entries and other transaction information
+  * When you submit a job application to us, we collect 
+    * employment application information, including contact information, employment and education history, and other information you include in your CV/resume or application materials
+  * When you fill out a survey, we collect your response, which, depending on the type of survey, may include 
+    * satisfaction with Waters, a Waters product or a Waters service
+    * opinions on the design and usability of our Services, as well as Waters products and software
+    * information about the market, products you use today and your thoughts about the future
+  * When you contribute information to our websites, we collect user generated content, such as content you post on our forums or other Services, including reviews and feedback on Waters products
+  * When you contribute information to our mobile applications, we collect information relating to your product needs
+  * When you contact us on the phone, or through email, text, or chat, we collect the inquiries or reports you make and the content of your voice
 
 
 
-We also may share the information with our service providers who perform services on our behalf. We do not authorize these service providers to use or disclose the information except as necessary to perform certain services on our behalf or comply with legal requirements. We require these service providers by contract to appropriately safeguard the privacy and security of personal data they process on our behalf.
+**Data We Automatically Collect**
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+We use technologies to collect data automatically when you use our Services that do not directly reveal your identity. Examples of these technologies include the following:
 
-If you are an existing customer, we will only contact you with information about other goods and services provided by Waters.
+> _Logging_ : Like most websites, we gather certain information automatically and store it in log files. This information includes IP address, approximate location, browser type, operating system, internet service provider, the pages visited, operating system, clickstream data and time and date of visit.
+> 
+> _Cookies, Analytics and Other Data Collection Tools:_ We and third parties we work with use cookies, web beacons, local shared objects (or Flash cookies), and similar tools to collect and store data about your preferences and how you interact with our Services. For more information, including on how to control your privacy settings and your ad choices, read our [Cookie Policy](http://www.waters.com/waters/en_US/nav.htm?cid=134982469).
 
-If you are a new or prospective customer, and where we permit selected third parties to use your data, we (or they) will contact you only if you have consented to this.
+**Data We Obtain from Third Party Sources**
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form) or email us at [Data_Privacy@waters.com](mailto:Data_Privacy@waters.com).
+We collect information about individuals from a number of third party sources.
 
-DISCLOSURE OF YOUR INFORMATION
+> _Business Partners and Service Providers:_ Our business partners and service providers, such as payment processors and analytics providers, collect Personal Data and share some or all of this information with us. For example, we receive Personal Data from vendors to identify potential employment candidates, to coordinate events and programs, to facilitate survey activities, to identify prospective customers and to conduct marketing and analytics.
+> 
+> _Publicly Available Sources:_ We collect Personal Data about you that we do not otherwise have (including contact information, employment-related information and product interest information) from social media platforms (for example, Facebook, Twitter, Instagram, LinkedIn and YouTube), blogs (for example, WordPress), and other publicly available databases.
 
-We may disclose your personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+**HOW WE USE PERSONAL DATA**
 
-We may disclose your personal data to third parties:
+We use the Personal Data that we collect to provide you the products and services you request, offer you other of our products and services, manage your account, process and evaluate job applications, communicate with you, develop new products and services, improve our products, business and services, and understand our customers. For example, we use Personal Data that we collect to:
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
-  * If Waters Corporation or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use  or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Waters Corporation, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
+  * Process and complete your transactions including, as applicable, order confirmation, registration for our programs or events, product selection assistance, and delivering products, programs, events, or services
+  * Carry out our contractual obligations to you
+  * Communicate with you about programs, products, or services we believe may be of interest to you
+  * Tailor our products and services to you and your computer or mobile device
+  * Allow you to participate in interactive features of our Services, when you choose to do so
+  * Conduct market research to help us understand trends and customer needs across product categories or customer groups, allow you to create and maintain customer profiles, analyze your interactions with us, present customized offers, and improve our products, services, programs, events, and other offerings
+  * Process and evaluate job applications you submit through the Services and communicate with you about your job applications and requests
+  * Prevent, investigate, or provide notice of fraud, unlawful or criminal activity, or as otherwise required by law
+  * Enforce our Terms of Use and other agreements
 
 
 
-If you are located in the EEA, you may direct us not to share your personal data with third parties, except (i) with service providers we have retained to perform services on our behalf, (ii) in the event that we sell or transfer all or a portion of our business or assets, (iii) if disclosure is required by law or legal process, (iv) with law enforcement authorities or other government officials or (v) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraud or other illegal activity.
+**HOW WE SHARE AND DISCLOSE PERSONAL DATA**
 
-YOUR RIGHTS
+We share Personal Data in the following ways.
 
-Subject to applicable law, you may have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [Data_Privacy@waters.com](mailto:Data_Privacy@waters.com).
+> _Within Waters:_ We share Personal Data within Waters for purposes and uses that are consistent with this Privacy Notice. For example, sharing Personal Data about you to process and fulfill your order, facilitate communication between you and a local Waters representative, and coordinate necessary data retention. 
+> 
+> _Service Providers:_ We share Personal Data with third-party service providers who complete transactions or perform services on our behalf, such as payment processing, shipping, processing employment applications, coordinating events and conferences, facilitating seminars and training courses, collecting survey responses, conducting marketing, market research, analytics, and verification. 
+> 
+> _Website and Mobile App Hosting Providers:_ We use multiple web and mobile app hosting providers to host our Services. In connection with providing those Services, our web and mobile app hosting providers have access to Personal Data about you collected through the relevant Service and may use the information consistent with the terms of its privacy notice. 
+> 
+> _Advertising Networks:_ We also share information you provide us with advertising networks, such as search engines, and social media platforms, to serve targeted ads to you on third-party platforms. For more information, including how to opt out of interest-based advertising, read our [Cookie  Policy](http://www.waters.com/waters/en_US/nav.htm?cid=134982469).
+> 
+> _Legal Process, Safety and Terms Enforcement:_ We may disclose Personal Data to governmental regulatory authorities in response to their requests for such information or to assist in investigations. We may also disclose Personal Data to third parties in connection with claims, disputes or litigation, when otherwise required by law, or if we determine its disclosure is necessary to protect the health and safety of you or us, to protect against fraud or credit risk, or to enforce our legal rights or contractual commitments that you have made. 
+> 
+> _Business Transfers:_ We may disclose Personal Data as part of a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets, and may transfer Personal Data to a third party as one of the business assets in such a transaction. It may also be disclosed in the event of insolvency, bankruptcy or receivership. You will be notified via email and/or a prominent notice on any affected Service of any change in ownership or uses of Personal Data, as well as any choices you may have regarding Personal Data about you.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+**CHILDREN’S PRIVACY**
 
-ACCESS TO INFORMATION
+Our Services are not directed to, and we do not intend to, or knowingly, collect or solicit Personal Data online from children under the age of 18. If you are under the age of 18, do not provide us with any Personal Data either directly, on any website forums, or by other means. If a child under 18 has provided Personal Data to us, we encourage the child’s parent or guardian to contact us to request that we remove the information from our systems.
 
-Subject to applicable law, you may have the right to access information held about you. If you are located in the EEA you will have a right of access, rectification, blocking, or deletion or to object to the processing of your personal data. This can be exercised by contacting us at the details below. The right to access personal data may be limited in some circumstances by local law requirements.
+**SECURITY OF PERSONAL DATA**
 
-CHANGES TO OUR PRIVACY POLICY
+We have put in place physical, electronic and managerial procedures intended to protect Personal Data. Of course, we cannot guarantee that interactions with the Services will not be unlawfully intercepted or that your personal data will not be unlawfully accessed by third parties. You can also take additional measures to protect yourself and your information, such as keeping confidential log-in credentials and passwords.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+**HOW TO UPDATE YOUR INFORMATION AND DATA RETENTION**
 
-CONTACT
+You may contact us to update information we have about you as set forth in the **How to Contact Us** section below. We will retain Personal Data for as long as necessary for the purposes set out in this Privacy Notice (for example, if you have an account, for as long as your account is active or as reasonably useful for commercial purposes).
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [Data_Privacy@waters.com](mailto:Data_Privacy@waters.com).
+**COUNTRY/REGION-SPECIFIC DISCLOSURES**
 
-SAFE HARBOR
+The laws of certain countries and regions require specific information to be included in a privacy notice. Please click below to review country/region-specific information applicable to you.
 
-Waters complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Waters' certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/ "Safe Harbor").
+  * If you are a resident of the European Economic Area, [click here](http://www.waters.com/waters/en_US/nav.htm?cid=134982465).
+
+
+
+**EMPLOYEES AND APPLICANTS**
+
+We maintain a separate privacy notice for our employment-related data practices. Employees should read the Employee Privacy Notice for additional information regarding these employment-related data practices.
+
+**LINKS TO OTHER WEBSITES**
+
+Some of our Services contain links to websites and digital services operated by third parties. This Privacy Notice does not apply to these websites.
+
+Our Services also include features like buttons and widgets hosted by other companies (for example, the Facebook “Like Page” button). Some of these features collect Personal Data or other information such as IP address and your actions on our Services. This Privacy Notice does not apply to the practices of these third parties. We encourage you to review the privacy notices of those third parties to learn about their personal data and privacy practices.
+
+**USER GENERATED CONTENT**
+
+Some of our Services enable users to submit their own content for contests, forums, videos, and other functions. Please remember that any information you submit or post as user-generated content to our Services may become public information. You should exercise caution in such submissions or posts. We cannot prevent others from using such data in a manner that may violate this Privacy Notice, the law, or your personal privacy and safety. We are not responsible for the results of such postings.
+
+**UPDATES TO THE PRIVACY NOTICE**
+
+This Privacy Notice will be revised as required. If we make any changes in the way we use Personal Data, we will post notice of the changes on our Services. The updated notice will be effective as of the Effective Date listed at the start of this Notice. You can determine when this Notice was last revised by checking the Last Updated date at the start of the Notice.
+
+**MANAGING COMMUNICATION PREFERENCES**
+
+If you have opted in to our marketing communications (or where permitted by law, if you have provided us or we have obtained your contact information), we may send you email messages, direct mail offers, push notifications or other communications regarding products or services depending on the method of communication selected. You may ask us not to do so when you access our Services, or change your preferences by updating any accounts you have with us. At any time, you may elect to discontinue receiving commercial messages from us by following the unsubscribe instructions in the form of the communication you received or by submitting an opt-out request to the contact information set forth in the **How to Contact Us** section below.
+
+> _Printed Materials:_ To opt out of receiving printed marketing materials at your postal address, such as advertisements, flyers or postcards, please submit an opt-out request to the contact information set forth in the **How to Contact Us** section below. Please be sure to include your name and mailing address exactly as they appear on the printed marketing materials you received.
+> 
+> _Emails:_ To opt out of receiving marketing communications via email, please click on the unsubscribe link at the bottom of the email that was sent to you or submit an opt-out request to the contact information set forth in the How to Contact Us section below. Please note that you may continue to receive certain transactional or account-related electronic messages from us.
+
+**HOW TO CONTACT US**
+
+If you have any questions or comments about this Privacy Notice or other privacy-related matters, please contact us in the following ways:
+
+Waters Corporation  
+Attention: Data Privacy  
+34 Maple Street  
+Milford, Massachusetts 01757  
+[Data_Privacy@waters.com](mailto:Data_Privacy@waters.com)
