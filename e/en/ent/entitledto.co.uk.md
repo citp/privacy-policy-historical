@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entitledto.co.uk privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911100940id_/https%3A//www.entitledto.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entitledto.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902103150id_/https%3A//www.entitledto.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Matters. Our Policies. | entitledto
 
