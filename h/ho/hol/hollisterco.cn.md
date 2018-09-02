@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hollisterco.cn privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503022718id_/http%3A//www.hollisterco.cn/en_CN/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollisterco.cn privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902194110id_/http%3A//www.hollisterco.cn/en_CN/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
 
 # privacy-and-terms
 
 ## Hollister Co. China  
 Privacy Policy
 
-Updated: January 2018
+Updated: June 2018
 
 In order to make your visits to the various online channels of Hollister Co. as responsive as possible, we provide this summary of what information we collect online, and how that information is used.
 
@@ -60,13 +60,11 @@ If you use the "Click to Chat" feature on our Websites, we may collect your name
 
 If you sign up for our marketing email list, or the marketing email list for any of our affiliate brands, you will be asked to provide your email address. Our affiliate brands are: Abercrombie & Fitch and abercrombie kids. Signing up enables you to receive information about products and offers that we provide via email. Once you sign up you will receive an email to the email address you submitted confirming you are subscribed. In some locations on our Websites/Apps you are given the opportunity to submit additional information, such as gender and date of birth, that will help us cater messaging and marketing emails we send to you. In addition, we may identify you when you click a link in an email to get to our Websites, and may personalize messaging, promotions, or product recommendations. You can choose the frequency with which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from us. See the "Opt Out" section below for more details.
 
-If you were on the Hollister Co. marketing email list prior to September 2014 and supply your email address on HollisterCo.cn you may receive emails catered to your location.
-
 #### My Account
 
 If you are 16 years of age or older you are given the opportunity to create an account on our Websites and Apps. Creating an account requires you to enter your email address, first and last name, and to create a password. Creating an account also gives you the opportunity to provide postal addresses, a phone number, date of birth, gender, and favorite categories. By providing this information we are able to offer you a more personalized experience on our Websites, Apps, and in communications. In addition, we may identify you when you sign into your account and we may personalize messaging, promotions, or product recommendations. Some of the features in the account section allow you to create an address book, save a wish list, subscribe to and update your marketing email frequency, access your order history, and enjoy "quick checkouts" by having us automatically enter your name, phone number, email, and postal address in the checkout process. When you create an account, you will receive a welcome email that will be delivered to the email address you inserted on the create an account page.
 
-To request to have your account cancelled send an email to [Privacy_Policy@HollisterCo.com](mailto:Privacy_Policy@HollisterCo.com) from the email address associated with the account you wish to cancel.
+To request to have your account cancelled, please use the [Contact Us](http://www.hollisterco.cn/en_CN/contact) section of the Help page and include the email address associated with the account you wish to cancel.
 
 #### My Account – Address Book
 
@@ -192,9 +190,9 @@ Please note, if you request to be removed from our email marketing list, you may
 
 #### 3\. Postal Address
 
-If you no longer wish to receive marketing materials from us via postal mail, please email us at [Privacy_Policy@HollisterCo.com](mailto:Privacy_Policy@HollisterCo.com) and tell us to remove you from our postal mailing list, including the postal address you wish to have it removed.
+If you no longer wish to receive marketing materials from us via postal mail, please use the [Contact Us](http://www.hollisterco.cn/en_CN/contact) section of the Help page and tell us to remove you from our postal mailing list, including the postal address you wish to have it removed.
 
-If you do not want us to disclose your name and postal address to unaffiliated third parties for their marketing purposes, please email us at [Privacy_Policy@HollisterCo.com](mailto:Privacy_Policy@HollisterCo.com) and ask us not to share your postal address with unaffiliated companies. Please also state your postal address in the email.
+If you do not want us to disclose your name and postal address to unaffiliated third parties for their marketing purposes, please use the [Contact Us](http://www.hollisterco.cn/en_CN/contact) section of the Help page and ask us not to share your postal address with unaffiliated companies. Please also state your postal address in the email.
 
 ### Accessing and Updating Your Personal Data
 
@@ -228,7 +226,7 @@ While we implement the above security measures on our Websites/Apps, you should 
 
 If, for any reason, you are accessing a country specific website for a country in which you are not located (e.g. utilizing a proxy server) please contact Customer Service to view the policies and terms specific to your jurisdiction.
 
-If you have any questions, comments or concerns regarding our privacy practices, please email us at [Privacy_Policy@HollisterCo.com](mailto:Privacy_Policy@HollisterCo.com) or write to us at the address set out below:
+If you have any questions, comments or concerns regarding our privacy practices, please email us at [Privacy@Anfcorp.com](mailto:Privacy@Anfcorp.com) or write to us at the address set out below:
 
 Attn: Privacy Policy Manager  
 Abercrombie & Fitch Stores, Inc.  
