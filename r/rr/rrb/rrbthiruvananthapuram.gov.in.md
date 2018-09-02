@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrbthiruvananthapuram.gov.in privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110020610id_/http%3A//rrbthiruvananthapuram.gov.in/welcome_rrb/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrbthiruvananthapuram.gov.in privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902105602id_/http%3A//rrbthiruvananthapuram.gov.in/welcome_rrb/privacypolicy) for the most accurate reproduction.*
 
 # Railway Recruitment Board- Thiruvananthapuram | Owned and Operated by the Government of India Through the Ministry of Railways
 
