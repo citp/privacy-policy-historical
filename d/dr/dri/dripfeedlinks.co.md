@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dripfeedlinks.co privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508110128id_/http%3A//hkseo.us/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dripfeedlinks.co privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902150606id_/http%3A//hkseo.us/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
