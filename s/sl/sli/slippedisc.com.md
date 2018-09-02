@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904093809id_/http%3A//slippedisc.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902165338id_/https%3A//slippedisc.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy – Slipped Disc
 
@@ -18,7 +18,7 @@ In some circumstances we will ask you to provide us with your email address and/
 
 Our site contains links to other Internet sites. We encourage all of our partners, contributors and third parties to implement policies and practices that respect the privacy of our users. However, we are not responsible for the privacy practices or the content of such websites.
 
-Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement. If you have any questions or comments about our privacy practices, you can contact us at: [webmaster@slippedisc.com](mailto:webmaster@slippedisc.com)
+Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement. If you have any questions or comments about our privacy practices, you can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f081a1d121e0c0b1a0d3f0c13160f0f1a1b160c1c511c1012)
 
 #### Cookies
 
