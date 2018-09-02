@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028073551id_/https%3A//www.webtrends.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902222442id_/https%3A//www.webtrends.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Webtrends
 
@@ -39,9 +39,11 @@ Attn: Legal
 Or
 
 WT EMEA Acquisition Ltd.  
-Mallard Court, Market Square  
+Rourke House  
+Waterman’s Business Park  
+The Causeway  
 Staines-upon-Thames  
-Staines, Middlesex TW18 4RH  
+Surrey TW18 3BA  
 United Kingdom
 
 Or via email at: [privacy@webtrends.com](mailto:%20privacy@webtrends.com).
