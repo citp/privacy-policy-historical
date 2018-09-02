@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207034332id_/http%3A//doperoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903010404id_/https%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Doperoms.com
 
-[](http://www.doperoms.com/ "Dope ROMs")
+[](https://www.doperoms.com/ "Dope ROMs")
 
 **GEO:** USA | **Language:** [](https://web.archive.org/select_language.php)
 
@@ -24,12 +24,13 @@ Doperoms.com may employ the use of cookies to track membership information. All 
 
 Doperoms.com does not guarantee any files linked on doperoms.com are clean and virus free. It is your responsibility to scan files you download. Please report any infected links to the administrator. By downloading a file link on doperoms.com you agree that doperoms.com or parties associated with doperoms.com may not be held responsible for loss or corruption of information or hardware when using this site. USE AT YOUR OWN RISK!
 
-[Privacy Policy](https://web.archive.org/privacy.php) \- [Contact](http://doperoms.com/contact.php) \- [Frequently Asked Questions](https://web.archive.org/faq.php)
+  
+[Privacy Policy](https://web.archive.org/privacy.php) \- [Contact](https://doperoms.com/contact.php) \- [Frequently Asked Questions](https://web.archive.org/faq.php)
 
 [DMCA Policy](https://web.archive.org/dmca.php) \- [Advertise on DopeRoms](https://web.archive.org/advertise.php) \- [Site Map](https://web.archive.org/sitemap.php)
 
-[Facebook](http://www.facebook.com/pages/DopeROMs/465441660160571) \- [Twitter](http://www.twitter.com/DopeROMs/) \- [Pinterest](https://pinterest.com/doperoms/)
+[Facebook](https://www.facebook.com/pages/DopeROMs/465441660160571) \- [Twitter](https://www.twitter.com/DopeROMs/) \- [Pinterest](https://pinterest.com/doperoms/)
 
   
-Copyright DopeROMS.com 2017 All Rights Reserved | Content Copyright Respective Owners   
-Server 2 | Compression: Gzip | Cache: On | Database: Off | 0 Queries Used | 0.0351 Seconds.
+Copyright DopeROMS.com 2018 All Rights Reserved | Content Copyright Respective Owners   
+Compression: No | Cache: On | Database: Off | 0 Queries Used | 0.10751 Seconds.
