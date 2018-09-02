@@ -1,107 +1,215 @@
-> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403131501id_/https%3A//thescript.thetake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902202805id_/https%3A//thetake.ai/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TheScript at TheTake
+# Privacy Policy
 
-_Last updated: March 8, 2016_
+**PRIVACY POLICY**
 
-We, Painted Dog Inc., the Operators of this Website (thetake.com), provide it as a public service to our users.
+** Last updated June 11, 2018   **  
 
-Your privacy is important to the us. Our goal is to provide you with a personalized online experience that provides you with the information, resources, and services that are most relevant and helpful to you. This Privacy Policy has been written to describe the conditions under which this web site is being made available to you. The Privacy Policy discusses, among other things, how data obtained during your visit to this web site may be collected and used. We strongly recommend that you read the Privacy Policy carefully. By using this web site, you agree to be bound by the terms of this Privacy Policy. If you do not accept the terms of the Privacy Policy, you are directed to discontinue accessing or otherwise using the web site or any materials obtained from it. If you are dissatisfied with the web site, by all means [contact](mailto:info@thetake.com) us; otherwise, your only recourse is to disconnect from this site and refrain from visiting the site in the future.
+Thank you for choosing to be part of our community at Painted Dog, Inc. d.b.a. TheTake (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at info@thetake.com . 
 
-The process of maintaining a web site is an evolving one, and the Operators may decide at some point in the future, without advance notice, to modify the terms of this Privacy Policy. Your use of the web site, or materials obtained from the web site, indicates your assent to the Privacy Policy at the time of such use. The effective Privacy Policy will be posted on the web site, and you should check upon every visit for any changes.
+When you visit our  mobile application,  and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our  Apps and our services. 
 
-## Sites Covered by this Privacy Policy
+This privacy policy applies to all information collected through our  mobile application,    (" **Apps** "), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the " **Sites** "). 
 
-This Privacy Policy applies to all the Operators-maintained web sites, domains, information portals, and registries.
+**Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.  ** 
 
-## Children’s Privacy
+**TABLE OF CONTENTS  ** 
 
-The Operators are committed to protecting the privacy needs of children, and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Operators do not intentionally collect information from minors, and the Operators do not target its web site to children.
+1\. WHAT INFORMATION DO WE COLLECT?
 
-## Links to Non-Operators Web Sites
+2\. HOW DO WE USE YOUR INFORMATION?
 
-The Operators’s web sites may provide links to third-party web sites for the convenience of our users. If you access those links, you will leave the Operators’s web site. the Operators do not control these third-party websites and cannot represent that their policies and practices will be consistent with this Privacy Policy. For example, other web sites may collect or use personal information about you in a manner different from that described in this document. Therefore, you should use other web sites with caution, and you do so at your own risk. We encourage you to review the privacy policy of any web site before submitting personal information.
+3\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?      
 
-## Types of Information We Collect
+4\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?        
 
-### Non-Personal Information
+5\. HOW DO WE HANDLE YOUR SOCIAL LOGINS?      
 
-Non-personal information is data about usage and service operation that is not directly associated with a specific personal identity. The Operators may collect and analyze non-personal information to evaluate how visitors use the Operators’s web sites.
+6\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?  
 
-### Aggregate Information
+7\. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-The Operators may gather aggregate information, which refers to information your computer automatically provides to us and that cannot be tied back to you as a specific individual. Examples include referral data (the web sites you visited just before and just after our site), the pages viewed, time spent at our Web site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from one of our sites, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration.
+8\. HOW DO WE KEEP YOUR INFORMATION SAFE?    
 
-### Log Files
+9\. DO WE COLLECT INFORMATION FROM MINORS?  
 
-Every time you request or download a file from the web site, the Operators may store data about these events and your IP address in a log file. The Operators may use this information to analyze trends, administer the web site, track users’ movements, and gather broad demographic information for aggregate use or for other business purposes.
+10\. WHAT ARE YOUR PRIVACY RIGHTS?
 
-### Cookies
+11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? 
 
-Our site may use a feature of your browser to set a “cookie” on your computer. Cookies are small packets of information that a web site’s computer stores on your computer. The Operators’s web sites can then read the cookies whenever you visit our site. We may use cookies in a number of ways, such as to save your password so you don’t have to re-enter it each time you visit our site, to deliver content specific to your interests and to track the pages you’ve visited. These cookies allow us to use the information we collect to customize your experience so that your visit to our site is as relevant and as valuable to you as possible.
+12\. DO WE MAKE UPDATES TO THIS POLICY?
 
-Most browser software can be set up to deal with cookies. You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies, certain of the functions and conveniences of our web site may not work properly, and you may be unable to use those of the Operators’s services that require registration in order to participate, or you will have to re-register each time you visit our site. Most browsers offer instructions on how to reset the browser to reject cookies in the “Help” section of the toolbar. We do not link non-personal information from cookies to personally identifiable information without your permission.
+13\. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
-### Web Beacons
+**1\. WHAT INFORMATION DO WE COLLECT?  ** 
 
-The Operators’s web site also may use web beacons to collect non-personal information about your use of our web site and the web sites of selected sponsors or members, your use of special promotions or newsletters, and other activities. The information collected by web beacons allows us to statistically monitor how many people are using our web site and selected sponsors’ sites; how many people open our emails; and for what purposes these actions are being taken. Our web beacons are not used to track your activity outside of our web site or those of our sponsors. The Operators do not link non-personal information from web beacons to personally identifiable information without your permission.
+**Personal information you disclose to us**  
 
-### Personal Information
+**_In Short:_  ** _We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and social media login data  _ .   
 
-Personal information is information that is associated with your name or personal identity. The Operators use personal information to better understand your needs and interests and to provide you with better service. On some of the Operators web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs, passwords, billing information, or credit card information.
+We collect personal information that you voluntarily provide to us when  registering at the  Apps, expressing an interest in obtaining information about us or our products and services, when participating in activities on the  Apps  or otherwise contacting us  .
 
-### Members-Only Web Sites
+The personal information that we collect depends on the context of your interactions with us and the  Apps , the choices you make and the products and features you use. The personal information we collect can include the following: 
 
-Information you provide on Operators’s membership applications is used to create a member profile, and some information may be shared with other of the Operators’s individual member representatives and organizations. Member contact information may be provided to other members on a secure web site to encourage and facilitate collaboration, research, and the free exchange of information among the Operators’s members, but we expressly prohibit members from using member contact information to send unsolicited commercial correspondence. The Operators’s members may be automatically added to the Operators’s mailing lists. From time to time, member information may be shared with event organizers and/or other organizations that provide additional benefits to the Operators’s members. By providing us with your personal information on the membership application, you expressly consent to our storing, processing, and distributing your information for these purposes.
+**Name and Contact Data.**  We collect your first and last name, email address, postal address, phone number, and other similar contact data.
 
-### Google Analytics
+**Credentials.**  We collect passwords, password hints, and similar security information used for authentication and account access.
 
-Google Analytics Display Advertising and Demographics and Interest Reporting has been activated on this site. We use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics. Using the [Ads Settings](https://www.google.com/settings/ads), users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+**Social Media Login Data.**  We provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS  " below.    
 
-### Third-Party Automated Collection and Interest-Based Advertising
+All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.    
 
-The Operators participate in interest-based advertising (IBA), also known as Online Behavioral Advertising. We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online. The Operator adheres to the Digital Advertising Alliance (DAA) self-regulatory principles for IBA.
+**Information automatically collected**  
 
-We allow third-party companies to collect certain information when you visit our websites or use our mobile applications. This information may be used to serve ads for products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie, web beacon, or other similar tracking technologies to collect this information.
+**_In Short:_  ** _ Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Apps .  _
 
- **Our Do Not Track Policy:** Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website](http://www.aboutads.info/choices/). Options you select are browser and device-specific.
+We automatically collect certain information when you visit, use or navigate the  Apps . This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our  Apps and other technical information. This information is primarily needed to maintain the security and operation of our  Apps , and for our internal analytics and reporting purposes.   
 
-## How We Use Your Information
+Like many businesses, we also collect information through cookies and similar technologies.     
 
-The Operators may use non-personal data that is aggregated for reporting about the Operators’s web site usability, performance, and effectiveness. It may be used to improve the experience, usability, and content of the site.
+**Information collected through our Apps**  
 
-The Operators may use personal information to provide services that support the activities of the Operators’s members and their collaboration on the Operators’s standards and projects. When accessing the Operators’s members-only web pages, your personal user information may be tracked by the Operators in order to support collaboration, ensure authorized access, and enable communication between members.
+**_In Short:_   ** _** ** We may collect information regarding your  geo-location,  mobile device,  push notifications,    when you use our apps.  _
 
-Credit card information may be collected to facilitate membership applications; or if you purchase a product or service from our website, such information will not be kept longer than necessary for providing the services requested. Credit card numbers are used only for processing payment and are not used for other purposes. Payment processing services may be provided by a third-party payment service, and a management company external to the Operators may provide support for the financial activities of the Operators. the Operators may share your personal information with its partners to facilitate these transactions.
+If you use our Apps, we may also collect the following information:    
 
-This site uses IP2Location LITE data available from [http://lite.ip2location.com](http://lite.ip2location.com/), to match your IP address to a country code and may display different content depending on your geographic location.
+  * _Geo-Location Information._  We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device’s settings.      
+  * _Mobile Device Access._  We may request access or permission to certain features from your mobile device, including your mobile device’s  microphone ,  social media accounts ,  and other features. If you wish to change our access or permissions, you may do so in your device’s settings.             
+  * _Mobile Device Data._  We may automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address.         
+  * _Push Notifications._  We may request to send you push notifications regarding your account or the mobile application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.               
 
-## Information Sharing
 
-The Operators does not sell, rent, or lease any individual’s personal information or lists of email addresses to anyone for marketing purposes, and we take commercially reasonable steps to maintain the security of this information. However, the Operators reserve the right to supply any such information to any organization into which the Operators may merge in the future or to which it may make any transfer in order to enable a third party to continue part or all of its mission. We also reserve the right to release personal information to protect our systems or business, when we reasonably believe you to be in violation of our Terms of Use or if we reasonably believe you to have initiated or participated in any illegal activity. In addition, please be aware that in certain circumstances, the Operators may be obligated to release your personal information pursuant to judicial or other government subpoenas, warrants, or other orders.
 
-In keeping with our open process, the Operators may maintain publicly accessible archives for the majority of our activities. For example, posting an email to any of the Operators’s-hosted public mail lists or discussion forums, subscribing to one of our newsletters or registering for one of our public meetings may result in your email address becoming part of the publicly accessible archives.
 
-On some sites, anonymous users are allowed to post content and/or participate in forum discussions. In such a case, since no user name can be associated with such a user, the IP address number of a user is used as an identifier. When posting content or messages to a Operators site anonymously, your IP address may be revealed to the public.
+**Information collected from other sources**  
 
-If you are a registered member of an Operators’s website or email list, you should be aware that some items of your personal information may be visible to other members and to the public. The Operators’s member databases may retain information about your name, e-mail address, company affiliation (if an organizational member), and such other personal address and identifying data as you choose to supply. That data may be visible to other of the Operators’s members and to the public. Your name, e-mail address, and other information you may supply also may be associated in the Operators’s publicly accessible records with the Operators’s various committees, working groups, and similar activities that you join, in various places, including: (i) the permanently-posted attendance and membership records of those activities; (ii) documents generated by the activity, which may be permanently archived; and, (iii) along with message content, in the permanent archives of the Operators’s e-mail lists, which also may be public.
+**_In Short:  _ ** _ We may collect limited data from public databases, marketing partners,  social media platforms, and other outside sources.  _    
 
-Please remember that any information (including personal information) that you disclose in public areas of our web site, such as forums, message boards, and news groups, becomes public information that others may collect, circulate, and use. Because we cannot and do not control the acts of others, you should exercise caution when deciding to disclose information about yourself or others in public forums such as these.
+We may obtain information about you from other sources, such as public databases, joint marketing partners,  social media platforms (such as Facebook), as well as from other third parties. Examples of the information we receive from other sources include: social media profile information  (your name, gender, birthday, email, current city, state and country, user identification numbers for your contacts, profile picture URL and any other information that you choose to make public)  ; marketing leads and search results and links, including paid listings (such as sponsored links).    
 
-Given the international scope of the Operators websites, personal information may be visible to persons outside your country of residence, including to persons in countries that your own country’s privacy laws and regulations deem deficient in ensuring an adequate level of protection for such information. If you are unsure whether this Privacy Policy is in conflict with applicable local rules, you should not submit your information. If you are located within the European Union, you should note that your information will be transferred to the United States, which is deemed by the European Union to have inadequate data protection. Nevertheless, in accordance with local laws implementing European Union Directive 95/46/EC of 24 October 1995 (“EU Privacy Directive”) on the protection of individuals with regard to the processing of personal data and on the free movement of such data, individuals located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this Privacy Policy and to its transfer to and/or storage in the United States of America.
+**2\. HOW DO WE USE YOUR INFORMATION?  ** 
 
-If you do not want your personal information collected and used by the Operators, please do not visit the Operators’s web site or apply for membership of any of the Operators’ websites or email lists.
+**_In Short:  _ ** _We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent._   
 
-## Access to and Accuracy of Member Information
+We use personal information collected via our Apps for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests ("Business Purposes"), in order to enter into or perform a contract with you ("Contractual"), with your consent ("Consent"), and/or for compliance with our legal obligations ("Legal Reasons"). We indicate the specific processing grounds we rely on next to each purpose listed below.   
 
-The Operators are committed to keeping the personal information of our members accurate. All the information you have submitted to us can be verified and changed. In order to do this, please [email us](mailto:info@thetake.com) a request. We may provide members with online access to their own personal profiles, enabling them to update or delete information at any time. To protect our members’ privacy and security, we also may take reasonable steps to verify identity, such as a user ID and password, before granting access to modify personal profile data. Certain areas of the Operators’s web sites may limit access to specific individuals through the use of passwords or other personal identifiers; a password prompt is your indication that a members-only resource is being accessed.
+We use the information we collect or receive:     
 
-## Security
+  * **To facilitate account creation and logon process**  with your Consent. If you choose to link your account with us to a third party account *(such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process. See the section below headed " HOW DO WE HANDLE YOUR SOCIAL LOGINS   " for further information.        
+  * **To send you marketing and promotional communications**   for Business Purposes  . We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the "    WHAT ARE YOUR PRIVACY RIGHTS   " below).            
+  * **To send administrative information to you**   for Business Purposes, Legal Reasons and/or possibly for Contractual  . We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.                    
+  * **Deliver targeted advertising to you**   for our Business Purposes  . We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                               
+  * **Administer prize draws and competitions**   for our Business Purposes  . We may use your information to administer prize draws and competitions when you elect to participate in competitions.                               
+  * **Request Feedback**   for our Business Purposes  . We may use your information to request feedback and to contact you about your use of our  Apps .                                   
+  * **To protect our Sites**   for Business Purposes  and/or  for Legal Reasons . We may use your information as part of our efforts to keep our  Apps safe and secure (for example, for fraud monitoring and prevention).                                            
+  * **To enforce our terms, conditions and policies**   for Business Purposes, Legal Reasons and/or possibly Contractual  .                                                 
+  * **To respond to legal requests and prevent harm**  for Legal Reasons. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.                                                    
+  * **For other Business Purposes.**  We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Apps , products, services, marketing and your experience.                                                           
 
-The Operators make every effort to protect personal information by users of the web site, including using firewalls and other security measures on its servers. No server, however, is 100% secure, and you should take this into account when submitting personal or confidential information about yourself on any web site, including this one. Much of the personal information is used in conjunction with member services such as collaboration and discussion, so some types of personal information such as your name, company affiliation, and email address will be visible to other the Operators’s members and to the public. The Operators assume no liability for the interception, alteration, or misuse of the information you provide. You alone are responsible for maintaining the secrecy of your personal information. Please use care when use access this web site and provide personal information.
 
-## Opting Out
 
-From time to time the Operators may email you electronic newsletters, announcements, surveys or other information. If you prefer not to receive any or all of these communications, you may opt out by following the directions provided within the electronic newsletters and announcements.
+**3\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  ** 
 
-If you have questions regarding this privacy policy, please [contact](mailto:info@thetake.com) us.
+**_In Short:  _ ** _We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations.  _  
+
+We only share and disclose your information in the following situations: 
+
+  * **Compliance with Laws.**  We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements). 
+  * **Vital Interests and Legal Rights.**  We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.     
+  * **Vendors, Consultants and Other Third-Party Service Providers.**  We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the  Apps , which will enable them to collect data about how you interact with the  Apps over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.         
+  * **Business Transfers.**  We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.     
+  * **Third-Party Advertisers.**  We may use third-party advertising companies to serve ads when you visit the  Apps . These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.           
+  * **Business Partners.**  We may share your information with our business partners to offer you certain products, services or promotions.        
+  * **With your Consent.**  We may disclose your personal information for any other purpose with your consent.         
+
+
+
+**4\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  ** 
+
+**_In Short:  _ ** _We may use cookies and other tracking technologies to collect and store your information._   
+
+We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Application to help customize the Application and improve your experience. When you access the Application, your personal information is not collected through the use of tracking technology. Most browsers are set to accept cookies by default. You can remove or reject cookies, but be aware that such action could affect the availability and functionality of the Application. You may not decline web beacons. However, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis. 
+
+You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt-out cookies, plug-ins, or settings. 
+
+             
+
+**_In Short:  _ ** _If you choose to register or log in to our websites using a social media account, we may have access to certain information about you._   
+
+Our Apps offer you the ability to register and login using your third party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public.          
+
+We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the  Apps . Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.                    
+
+**6\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?  ** 
+
+**_In Short:  _ ** _We are not responsible for the safety of any information that you share with third-party providers that we link out to or who advertise, but are not affiliated with, our websites.  _  
+
+The Apps may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. In addition, the Apps may contain links that lead users to third party websites to complete a purchase. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy policy. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the Apps. You should review the policies of such third parties and contact them directly to respond to your questions.                 
+
+**7\. HOW LONG DO WE KEEP YOUR INFORMATION?  ** 
+
+**_In Short:  _ ** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law._   
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than  2 years past the termination of the user's account .   
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+**8\. HOW DO WE KEEP YOUR INFORMATION SAFE?   ** 
+
+**_In Short:  _ ** _We aim to protect your personal information through a system of organizational and technical security measures._   
+
+We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our  Apps is at your own risk. You should only access the services within a secure environment.   
+
+**9\. DO WE COLLECT INFORMATION FROM MINORS?  ** 
+
+**_In Short:  _ ** _We do not knowingly collect data from or market to children under 18 years of age._   
+
+We do not knowingly solicit data from or market to children under 18 years of age. By using the  Apps , you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the  Apps . If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at  info@thetake.com .     
+
+**10\. WHAT ARE YOUR PRIVACY RIGHTS?  ** 
+
+**_In Short:  _ ** _ You may review, change, or terminate your account at any time. _    
+
+If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)     
+ 
+
+**Account Information**   
+
+If you would at any time like to review or change the information in your account or terminate your account, you can:     
+
+■   Contact us using the contact information provided.    
+
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.          
+
+**_Cookies and similar technologies:_  **  Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Apps. To opt-out of interest-based advertising by advertisers on our Apps visit    [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)  .               
+
+**_Opting out of email marketing:_  ** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may:     
+
+■   Contact us using the contact information provided.    
+
+**11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  ** 
+
+**_In Short:  _ ** _Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.  _  
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. 
+
+If you are under 18 years of age, reside in California, and have a registered account with the  Apps , you have the right to request removal of unwanted data that you publicly post on the  Apps . To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the  Apps , but please be aware that the data may not be completely or comprehensively removed from our systems. 
+
+**12\. DO WE MAKE UPDATES TO THIS POLICY?  ** 
+
+**_In Short:  _ ** _Yes, we will update this policy as necessary to stay compliant with relevant laws._   
+
+We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information. 
+
+**13\. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  ** 
+
+If you have questions or comments about this policy, you may  email us at info@thetake.com or by post to: 
+
+Painted Dog, Inc. d.b.a. TheTake       
+
+85 Broad St    
+
+New York ,  NY 10004    
+
+United States        
