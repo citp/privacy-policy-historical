@@ -1,91 +1,113 @@
-> *The following text is extracted and transformed from the healthspan.co.uk privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403014043id_/http%3A//www.healthspan.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthspan.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902124045id_/https%3A//www.healthspan.co.uk/customer-service/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Healthspan
 
-**Customer charter**
+This Privacy Policy is designed to help you understand why we collect and retain your data. It also provides details on how to access and update your information. Healthspan uses and stores your data for fulfilling a contract to you and for marketing , with your consent. You may withdraw consent to marketing or restrict processing at any time. 
 
-Healthspan understands that many customers value their personal privacy and wish to ensure that any company who provides a service to them will also value their privacy. We therefore guarantee that we will not sell or pass your data to a third party outside the Healthspan Group, in the normal course of business, unless that third party requires the data to provide you with your order for delivery or in the course of communicating with you as a customer. As part of our customer charter we will process your personal data fairly and lawfully.
+**Who are we?**
 
-**Data that we collect**
+Healthspan Ltd (and Healthspan (UK) Ltd) is a private company selling high quality vitamins, minerals, supplements and other nutrition and wellbeing products direct to our customers. Healthspan is registered as a Data Controller with the Office of the Data Protection Commissioner in Guernsey (01481 742074 [https://dataci.gg](https://dataci.gg/)).
+
+**What do we collect?**
 
 To enable us to process your order we will ask you to provide personal details such as:
 
-Name   
-Email address  
-Password  
-Address  
-Payment details
+  * Name
+  * Email address
+  * Password
+  * Address and telephone number
+  * IP Addresses and Cookies 
 
-No Credit Card numbers are held on our Sites or on the associated back-office systems used by us to process your orders.  For future reference to help us communicate with you, the first few and/or last digits only of your Credit Card number are kept by us. 
 
-For any repeat orders of Products made by you via our Sites, our Credit Card Agency securely holds your Credit Card details and provides us with a unique token that represents that particular card; this token is only valid for payment to us and this data is therefore worthless to any potential website hacker.
 
-**IP Addresses and Cookies**
+We also store some observed data such as your browsing history or click through email behaviours. We may also group customers depending upon their geographical location or sales behaviour.
 
-Healthspan Limited ("Healthspan", "we" or "us") uses cookies on its websites at ([www.healthspan.co.uk](http://www.healthspan.co.uk/) and [www.healthspanelite.co.uk](http://www.healthspanelite.co.uk/)) (the “Site” or “Sites”)  to collect information about your browsing and shopping behavior. We use two types of cookies on the Sites. By using the Sites you consent to us using the cookies described below.
+**NutriCoach Mobile App**
+
+Healthspan’s personalised nutrition app collects (in addition to your personal data already listed above) activity data, weight, sleep activity, heart rate, geographical location, date of birth and eating habits as provided by you. This is necessary to enable the app services; however you can withdraw consent at any time by contacting us.
+
+**What do we do with your data?**
+
+We use the data we store to fulfil your orders and send you personalised, relevant communications regarding our product and services.
+
+Healthspan will never pass or sell your data outside the Healthspan Group of companies except where that third party requires the data to provide order delivery, or to provide communications as part of Healthspan’s normal service, including marketing analytics. For more information about who we share your data with, read on. 
+
+We share your data with our trusted fulfilment partners and ensure all appropriate contractual safeguards and security is in place. These include warehouse packing services, IT systems, hosting providers and IT support to fulfil your order; mailing houses and email services to send you marketing (where you have permitted us to) and marketing analysis third parties including an independent product and service review provider.
+
+_We may send information outside of Europe and Guernsey where we use a service provider or technology provider based overseas. ( e.g NutriCoach support based in the USA) .Where we send personal data outside the European Economic Area ("EEA") we will ensure that suitable safeguards are in place to protect the information. For example, these safeguards might include: Using the model contractual clauses provided by the European Commission or other relevant contractual safeguards; The European Commission deciding that the country or international organisation has an adequate level of personal data protection. ( e.g Guernsey)_
+
+_Your data will be kept for a period of 10 years after your last interaction with us. We need to keep transaction information for auditing and statutory reporting purposes for this period, however we can remove you from our marketing database at your request._
+
+We use cookies on our website – partly to provide basic web services and partly to help us monitor and track website usage through Google Analytics. We do, from time to time, use cookies to allow us to better target adverts to website users. You can read more in our Cookie policy:
+
+By using the Site you consent to us using the cookies described below.
+
+### Cookies
 
 **First Party Cookies**
 
-First party cookies are used on the Sites to gather information about your use of onsite content and to enable us to customize your user experience. Cookies help us log you back into the Sites as a returning customer and also help us to remember your browsing history, Product and information preferences. We use cookies to enable you to add Products to your shopping basket. We also use cookies to collect information about your computer's IP address, operating system and browser type. This information helps us to provide you with the most up-to-date browsing experience possible. Lastly, we use first party cookies to help us balance our servers. This allows us to deliver quick page load times for our customers.
+First party cookies are used to retain your basket selection and help us to remember your browsing history, product and information preferences. We use cookies to enable you to add products to your shopping basket. We also use first party cookies to help us balance our servers. This allows us to deliver quick page load times for our customers.
 
 Healthspan’s first party cookies contain no personally identifiable information. All personally identifiable Information on browsing, preference and purchase history, is stored in our secure website data base. This information is collected for our internal purposes only and shall not be disclosed to any other organization except as required by law.
 
 **Third Party Cookies**
 
-Third party cookies are cookies that pass on information on browsing and purchase activity to third party service providers. All third party data gathered by Healthspan’s third party cookies is statistical information and does not personally identify any individuals.
+Third party cookies are cookies that pass on information on browsing and purchase activity to third party service providers.
 
-Healthspan primarily uses third party cookies to help us conduct website tracking and monitoring to ensure we provide our customers with the best possible shopping and web experience. We use the web analytics platform provided by Google called Google Analytics. You can read more about Google Analytics [here](http://www.google.com/support/googleanalytics/bin/answer.py?answer=55591).
+Healthspan primarily uses third party cookies to help us conduct website tracking and monitoring to ensure we provide our customers with the best possible shopping and web experience. We use the web analytics platform provided by Google called Google Analytics.
 
-We will also intermittently use third party cookies to gather behavioural, browsing and demographic data. This information is used by third party partners to deliver marketing and advertising activities. This information is aggregated and contains no personally identifiable information.
+We will also intermittently use third party cookies to gather behavioural, browsing and demographic data. This information is used by third party partners to deliver marketing and advertising activities. 
 
 **Blocking Cookies**
 
-If you do not agree you can choose to not receive a cookie file by enabling your web browser to refuse cookies or to prompt you before you accept a cookie.
+We understand that people have different privacy concerns. You can choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before you accept a cookie.
 
-Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Sites. Please note that if you refuse to accept certain cookies, some of the functions on the Healthspan Sites such as adding a Product to a basket may not work.
+Unless you have adjusted your browser setting so that it will refuse cookies, our website will issue cookies onto your device. Please note that if you refuse to accept certain cookies, some of the functions on the Healthspan Sites such as adding a product to a basket may not work.
 
 By agreeing to these terms and conditions you are accepting the use of first and third party cookies on and by the Healthspan websites.
 
-**Want to know more about cookies?**
+Further information about cookies can be found by clicking on the following links;
 
 <http://www.ico.gov.uk/>
 
 [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-**How we use your data**
+**Credit or Debit Cards**
 
-Our primary purpose in using your data is to provide you with your order. We may analyze your data (or provide your data to agents who are contracted to supply services to us) to create a data profile to enable us to provide a better service to you.
+Healthspan does not process or store credit or debit card information once your transaction is complete. All card payments are securely processed by our payment gateway provider CyberSource which then provides Healthspan with a token to take future payments or apply refunds.
 
-We will keep all your personal information provided by you confidential except that we may use personal information for any of the following purposes:
+**Your Rights**
 
-  * administration, general correspondence, support, profiling and processing (including personalising the Sites for your use); 
-  * contacting you to register your use of the Sites, to advise you of any special offers, to notify you of new features or to resolve any queries you or we may have regarding us or the Sites or their use; 
-  * responding to any requests or queries from you; 
-  * profiling you and the users of the Sites; 
-  * contacting you to notify you of other services or Products that might be of interest to you (although you can elect not to receive any of these at any time by contacting us as set out below); 
-  * subscribing you to our newsletters or email alerts or online surveys (although you can unsubscribe from these at any time by contacting us as set out below); and
-  * Responding to any requests from the police and local government law enforcements agencies.
+If you would like a copy of the personal data we hold about you, please contact us and ask for a ‘subject access request’. We will require you to verify your identity.
 
+You have the right to object to processing that is likely to cause or is causing damage or distress and decisions being taken by automated means.
 
+You have the right to have inaccurate personal data rectified or removed – if you would like to do so please contact us on customercare@healthspan.co.uk or call 08007312377.
 
-**Checkout assistance service**
+You have the right to have data removed where Healthspan does not have a legal basis to retain this information for example for accounting and auditing purposes.
 
-When you use our Sites, details of any Products that you seek to purchase and your email address may be collected as you fill in the checkout form. If you do not complete your purchase, we may contact you using a third party with these details to offer our assistance (in case, for instance, you were suffering from technical difficulties). This is an optional service. You can choose not to receive our checkout assistance emails at any time by following the link at the bottom of each assistance email.
+You have the right to stop direct marketing at any time (just opt out using [My Account](https://www.healthspan.co.uk/your-account) or let us know by calling FREEPHONE 0800 73 123 77 or email customercare@healthspan.co.uk).
 
-**Your consent to processing data**
+Your data will be disclosed where obliged by law to do so.
 
-By Law, we are required to obtain your consent to processing your data. We will assume that you have given your consent to the uses outlined above if you provide us with any data via our websites or via replies to advertisements. You can advise us that you wish to withdraw your consent by sending us an email explaining the situation to [info@healthspan.co.uk](mailto:info@healthspan.co.uk).
+Healthspan has appointed a Data Protection Officer, Katie Hutchins, who you may contact via DPO@healthspan.co.uk
 
-Where we process or transfer your data outside of what is outlined in "How we use your data" we will ask you to provide your specific consent.
+**How secure is your data?**
 
-**How we protect your data**
+Healthspan employs a wide variety of security measures to back up, protect and manage your data. We are audited annually and undertake to secure your data as much as possible using up to date technology and robust policies and processes. All third parties are scrutinised and subject to appropriate contractual safeguards. We document all data processing and review this regularly. Staff are regularly trained on security and policies and we use strict access controls.
 
-The data that you have provided will remain in databases that are established in a network that is firewall protected. Firewalls exist to stop the transfer of unauthorised information to or from the network. Physical access to our servers is restricted through the use of door code security systems. Higher level user login ID and password controls are also in place to restrict access. Only a limited number of IT personnel are authorised by the IT director to access the database. We use industry standard security technology and server certification.
+**Reviews, ratings, promotions and competitions**
 
-As a routine we carry out validation checks to help prevent fraud. No protection system is foolproof and the company cannot guarantee the total security of data or accept any liability unless a breach of security was due to our proven willful default or negligence. Certain websites linked to our Sites may not offer the same protections as the Healthspan Sites and the laws of some countries outside the Channel Islands or the EU to which your data may be transferred as part of the process of providing Products and services to you, may not offer the same data protection.
+To leave a Product rating or review you must have purchased that Product.
 
-**Customer choice**
+All reviews are collected by Feefo, an independent review engine. Healthspan do not vet poor reviews – but may respond directly to them.
 
-You can update your data or ask us to delete your data anytime by sending an E-mail to [info@healthspan.co.uk](mailto:info@healthspan.co.uk).
+The poster continues to own all rights to content provided to Healthspan. However Healthspan reserves the right to use this content royalty free as part of its marketing and communication programs.
 
-We promise to try to delete or update your information promptly.
+The purpose of reviews is to help people who haven’t brought the product to learn from the experiences of those that have.
+
+**Updates to this Policy**
+
+This policy may be updated from time to time in line with current legislation and best practices.
+
+Last amended date: 26/06/2018
