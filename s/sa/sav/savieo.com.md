@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savieo.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129030501id_/http%3A//savieo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savieo.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902212957id_/https%3A//savieo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Savieo · Your #1 tool for saving videos and tracks off the open web
 
@@ -58,11 +58,11 @@ To help protect your privacy, be sure:
 
 ### Safe Harbor Compliance Statement
 
-Savieo.com complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Savieo.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
+Savieo.com complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Savieo.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [www.export.gov/safeharbor](https://www.export.gov/safeharbor). 
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Savieo.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Savieo.com by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dab7bbb3b69aa9bbacb3bfb5f4b9b5b7). 
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Savieo.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Savieo.com by emailing [mail@savieo.com](mailto:mail@savieo.com). 
 
-Savieo.com has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Savieo.com, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Savieo.com has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Savieo.com, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 ### Notice to European Union users
 
@@ -78,6 +78,6 @@ We reserve the right to change this privacy policy as we deem necessary or appro
 
 ### Questions or comments?
 
-If you have questions or comments about Savieo.com's privacy policy, send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#731e121a1f330012051a161c5d101c1e). 
+If you have questions or comments about Savieo.com's privacy policy, send an email to [mail@savieo.com](mailto:mail@savieo.com). 
 
 Last Updated: July 1st, 2016 
