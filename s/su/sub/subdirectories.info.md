@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subdirectories.info privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430194949id_/http%3A//subdirectories.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subdirectories.info privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902174955id_/http%3A//subdirectories.info/privacy) for the most accurate reproduction.*
 
 # privacy – idea de muebles
 
