@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacedaily.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910220155id_/http%3A//www.spacedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacedaily.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902210745id_/http%3A//www.spacedaily.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Space Media Network
 
@@ -6,6 +6,24 @@
 
 
 This Privacy Statement is applicable to all Space Media Network sites: Including [SpaceDaily.com](http://www.spacedaily.com/), [SpaceWar.com](http://www.spacewar.com/), [TerraDaily.com](http://www.terradaily.com/), [Energy-Daily.com](http://www.energy-daily.com/), [BiofuelDaily.com](http://www.biofueldaily.com/), [GPSDaily.com](http://www.gpsdaily.com/), [IndoDaily.com](http://www.indodaily.com/), [InternDaily.com](http://www.interndaily.com/), [MarsDaily.com](http://www.marsdaily.com/), [MoonDaily.com](http://www.moondaily.com/), [NanoDaily.com](http://www.nanodaily.com/), [NuclearPowerDaily.com](http://www.nuclearpowerdaily.com/), [RadarDaily.com](http://www.radardaily.com/), [RoboDaily.com](http://www.robodaily.com/), [RussoDaily.com](http://www.russodaily.com/), [SaturnDaily.com](http://www.saturndaily.com/), [SeedDaily.com](http://www.seeddaily.com/), [SinoDaily.com](http://www.sinodaily.com/), [SkyNightly.com](http://www.skynightly.com/), [SolarDaily.com](http://www.solardaily.com/), [SpaceMart.com](http://www.spacemart.com/), [Space-Travel.com](http://www.space-travel.com/), [WindDaily.com](http://www.winddaily.com/).
+
+**General Data Protection Regulation (GDPR) Statement  
+** Space Media Network does not collect or retain data about you unless you subscribe to our newsletters at MailChimp.
+
+Our advertisers use various cookies and the like to deliver the best ad banner available at one time.
+
+All of our network advertising suppliers have their own GDPR policies (Legitimate Interest) that are designed to conform with EU regulations for data collection.
+
+By using our websites you consent to the processes used by our websites and our advertisers. If you do not agree with this then you must stop using the websites from May 25, 2018.
+
+The internet server the websites are hosted on - in the USA - collects log files of IP accesses. These logs are kept for apx 4 months before they are overwritten.
+
+As of May 16, 2018 - Space Media Network no longer uses Google Analytics or any other similar traffic analysis software.
+
+**Legitimate Interest: All Advertising Partners  
+** Our advertiser partners, have a **LEGITIMATE INTEREST** to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement.
+
+For more details including opt-out requests, access requests or complaints, please review our [privacy policy](http://spacedaily.com/privacy.html) or contact their data protection officer via [info@spacemedianetwork](mailto:info@spacemedianetwork.com)
 
 **Google Privacy Statement  
 ** Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
@@ -18,14 +36,12 @@ This Privacy Statement is applicable to all Space Media Network sites: Including
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
 
-**Tribal Fusion Privacy Statement  
-** We partner with Tribal Fusion and the [Exponential Group](http://www.exponential.com/who-we-are/privacy-policy.jsp) to serve ads and/or collect certain information when you visit our website. Tribal Fusion and the Exponential Group may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this �behavioral advertising� practice or to opt-out of this use of your anonymous information, you can visit [Exponential.com](http://www.exponential.com/who-we-are/privacy-policy.jsp) and learn more about cookie management.
-
-**ValueClick Privacy Statement  
-** We partner with [ValueClick](http://valueclickmedia.com/member_privacy.shtml) to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this �behavioral advertising� practice or to opt-out of this use of your anonymous information, you can visit ValueClick privacy page [here](http://valueclickmedia.com/member_privacy.shtml).
+**Tribal Fusion (Exponential Interactive, Inc) Privacy Statement  
+** **Legitimate Interest: Exponential Interactive, Inc,** as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com) **ValueClick Privacy Statement  
+** We partner with [ValueClick](http://valueclickmedia.com/member_privacy.shtml) to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit ValueClick privacy page [here](http://valueclickmedia.com/member_privacy.shtml).
 
 **Konterra Privacy Statement  
-** We partner with Kontera and the [Exponential Group](http://www.kontera.com/index.php/em-privacy-policy) to serve ads and/or collect certain information when you visit our website. Konterra and the Exponential Group may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this �behavioral advertising� practice or to opt-out of this use of your anonymous information, you can visit [Exponential.com](http://www.kontera.com/index.php/em-privacy-policy) and learn more about cookie management.
+** We partner with Kontera and the [Exponential Group](http://www.kontera.com/index.php/em-privacy-policy) to serve ads and/or collect certain information when you visit our website. Konterra and the Exponential Group may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [Exponential.com](http://www.kontera.com/index.php/em-privacy-policy) and learn more about cookie management.
 
 **Space Media Network Privacy Statement  
 ** Space Media Network operates an in house advertising service that supports our various news sites. We do not collect or retain any information derived from specific cookies issued by our web servers to your computer. We do collect basic advertising usage data and our log files record all IP traffic to our web servers. No information about specific individual users is collected by our web servers. 
