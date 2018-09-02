@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leantesting.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018141417id_/https%3A//leantesting.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leantesting.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902215452id_/https%3A//leantesting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Lean Testing
 
