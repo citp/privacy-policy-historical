@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the solvoarticles.co.uk privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123200142id_/http%3A//www.solvoarticles.co.uk/index.php%3Fpagedb%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvoarticles.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902190136id_/https%3A//www.solvoarticles.co.uk/page.html%3Fid%3D4) for the most accurate reproduction.*
 
-# Privacy Solvo Articles Directory
+# Privacy Policy Aldo Fashion Brand Shoes
 
-| 
+[Home](http://www.solvoarticles.co.uk/) -  Privacy Policy 
 
- Privacy Policy Statement  
-This is the web site of SolvoArticles.co.uk
 
-We can be reached via e-mail at [admin@solvoarticles.co.uk](mailto:admin@solvoarticles.co.uk)
+## Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+**1\. Protection of Credit Card Information**
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+We utilize as our payment gateway. They are the leading payment gateway service on the web. We do not have direct access to your credit card. The only information our customer service representatives are able to see is the last four digits of your card, the expiration date, and the type of credit card used. Instead, your private information is held on a secure server that we are able to access for 30 days. After 30 days, your information expires, and we are no longer able to access it. 
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+In addition, we are only able to charge or credit a maximum of what was authorized in your order, so if any changes are made to your order after it has been completed, we may need you to supply us with your credit card information again.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit.
+**2\. Cookies**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+Like most web sites, uses a feature of your browser to set a cookie that helps us to make your shopping experience better. A cookie is a small piece of information sent by a website that is saved on your hard drive from your computer's browser for a limited amount of time. It holds small pieces of information that our site may need to interact with you and personalize your experience. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:  
-[http://www.google.com/privacy.html](mhtml:{3D9B432B-2887-44F4-A6C6-73C2D19F6D19}mid://00000002/!x-usc:http://www.google.com/privacy.html)  
-If you feel that this site is not following its stated information policy, you may contact us at the above e mail addresses.
+We do not store any personal information about you in cookies. Anything you choose to share with us is stored safely and separately on our secured servers. The cookies we use are put in place allow us to collect information to place an order (such as the items you place in a shopping cart), or to anonymously follow traffic patterns through the site that will help us to improve our store to better serve you.
