@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app-authority.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203233406id_/http%3A//app-authority.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-authority.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902031439id_/http%3A//www.app-authority.com/privacy) for the most accurate reproduction.*
 
 # AppAuthority.com
 
