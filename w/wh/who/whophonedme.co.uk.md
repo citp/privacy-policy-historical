@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whophonedme.co.uk privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031214925id_/http%3A//www.whophonedme.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whophonedme.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902120754id_/http%3A//www.whophonedme.com/privacy.asp) for the most accurate reproduction.*
 
 # Who Phoned Me - Privacy Policy
 
