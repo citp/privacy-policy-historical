@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holachef.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503025112id_/https%3A//www.holachef.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holachef.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902220148id_/https%3A//www.holachef.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy at Holachef.com
 
