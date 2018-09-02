@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623104533id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902153039id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
 
 # Mommypage
 
