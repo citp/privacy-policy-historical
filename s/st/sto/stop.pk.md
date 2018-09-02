@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stop.pk privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030193812id_/http%3A//stop.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stop.pk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902122508id_/http%3A//stop.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - STOP.PK - One stop for every Pakistani!
 
