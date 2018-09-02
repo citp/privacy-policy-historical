@@ -1,73 +1,101 @@
-> *The following text is extracted and transformed from the stablehost.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026180553id_/https%3A//www.stablehost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stablehost.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902232733id_/https%3A//www.stablehost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | StableHost
 
-  * ### Effective July 8th, 2011
+* ###### Basic information
 
-We, StableHost, LLC., are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. We, additionally, are firmly committed to the principles of the EU-US and US-Swiss Safe Harbor program setup by United States Department of Commerce, the European Union (.EU.), and Switzerland. StableHost, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. StableHost's Safe Harbor Certification can be found here https://www.export.gov/safehrbr/list.aspx. More information about Safe Harbor principles can be found here http://www.export.gov/safeHarbor/.
+All processing of personal data provided by StableHost is in accordance with the Data Protection Ordinance (2016/679) and other relevant legislation. By agreeing to this policy, you acknowledge that we use your personal information in the following ways. 
 
-  * ### We are committed to protecting your privacy
+StableHost undertakes to only handle personal information in accordance with this policy. 
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. The purpose of this Privacy Policy to enable you to understand which personal identifying information ("PII", "Personal Information") of yours is collected, how and when we might use your information, who has access to this information, and how you can correct any inaccuracies in the information. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
+* ###### When do we process your personal information?
 
-  * ### Information Collected
+StableHost processes your personal information when completing orders, registers an account, visits our site, or uses StableHost support services. Processing also occurs when we collect and update your registered data through third parties, such as address or credit information. 
 
-We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inquiry, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
+* ###### What personal data is collected?
 
-  * ### Information Use
+StableHost collects, stores and uses only personal information that is necessary, essential and consistent with the purposes of the services. We may process the following tasks:
 
-This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. StableHost may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
+Name, social security number, address, telephone number, e-mail address, payment details, username, customer number, order details, order history, account information, IP address and information about your use of the StableHost website see separate policy). 
 
-  * ### Log Files
+As account holder, you can update or change your information at any time by logging in to the "Customer Zone". 
 
-We use IP addresses to analyze trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and Web browsing.
+* ###### Why do we process your personal data and on what legal basis?
 
-  * ### Cookies
+StableHost deals with personal information to provide our services in an effective manner. We also do so to improve our services to you as a customer. For us to have the right to process your personal information, there must be a legal basis for the treatment. Below we explain why and for what reasons we support the processing of your personal information.
 
-Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the StableHost's website. More information about cookies can be found at http://en.wikipedia.org/wiki/HTTP_cookie.
+In order to fulfill the StableHost agreement, you must process your personal information to fulfill the agreement between us and you as a customer or account holder. For your customer, the processing is necessary for us to implement and deliver your orders, bill and assess which payment methods we can offer you, manage your cases and provide support and good customer service. 
 
-  * ### Disclosing Information
+Based on your consent, StableHost processes personal information based on your consent. This is the case if you want to register an account holding on the "Customer Zone" or gain access to account holdings, such as saving favorites, and handling the issues and complaints more easily. We can also market and adapt offers to you or inform us about our services by post and email, SMS / MMS and web-based newsletters. By approving this policy upon registration, you agree to such processing of your personal information.
 
-We do not disclose any personal information obtained about you from this website to third parties. We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to opt out from any mailing list or similar device. However, we may disclose aggregate, anonymous data based on information collected from users to potential partners, our affiliates, and reputable third parties. We take all available measures to select affiliates and service providers that are ethical and provide similar privacy protection to their customers and the community. We do not make any representations about the practices and policies about these companies.
+After a balance of interests, StableHost processes data based on a balance of interest. If you make a purchase with us, we may use your e-mail address to send out advertising and information about our services directly to you. If you oppose the processing of your personal information in this way, we will not do so in the future. We never deal with sensitive personal data based on a balance of interest.
 
-  * ### Correcting/Updating Personal Information
+In order to fulfill our legal obligations, StableHost deals with personal information to fulfill certain legal obligations. This applies, for example, to treatment that is necessary to fulfill obligations under the Accounting Act. 
 
-If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at https://billing.stablehost.com. Otherwise, please contact us at sales@stablehost.com
+Automated Decision Making, StableHost may in some cases use automated direct marketing decisions if permitted by law or by any other constitution or if you have given your explicit consent to such treatment. 
 
-  * ### Opt Out & Modifications
+* ###### How long do we save your personal information?
 
-By default, customers do receive any voluntary system updates, such as the newsletters, invoices, and mailings. Any customer who voluntarily receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary.
+StableHost saves only your personal data if necessary for the treatment. Personal data will be erased when they are no longer relevant for the purposes they have collected. 
 
-  * ### Security
+StableHost saves customer information for a maximum of 12 months after the customer last completed a purchase or otherwise interacted with StableHost. Name ISP saves information about account holders if there is an account registered on the "Customer Zone". 
 
-StableHost.com uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. StableHost.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology. StableHost.com adheres to all guidelines brought by the credit card merchants and is fully PCI compliant regarding the storage and transmission of credit card data.
+StableHost may save the data for longer if required to comply with legal requirements or to safeguard StableHost's legal interests, such as if there is a legal process going on. 
 
-  * ### Data and Information Submitted to Another Person or Entity on Our Network
+* ###### Your rights
 
-As mentioned above, StableHost.com collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does StableHost.com certify EU Safe Harbor compliance regarding, data or confidential information that is submitted to another person or entity for whom StableHost.com may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy and EU Safe Harbor compliance should be made before submitting data or confidential information to them.
+StableHost is responsible for safeguarding your rights in accordance with the Data Protection Ordinance and other relevant legislation. This means that you are entitled to: 
 
-  * ### Compliance with Laws and Law Enforcement
+Access your processed personal data. This also means that you are entitled to request a digital print registry of your personal data free of charge. 
 
-We cooperate with government and law enforcement officials to enforce and comply with the law. We will disclose any information about Users upon valid request by government or law officials as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect your property and rights, or the property and rights of a third party, to protect the safety of the public or any person, or stop activity we consider illegal or unethical.
+Request that we correct incorrect, incomplete or misleading information. 
 
-  * ### Changes to this Policy
+Get your data permanently deleted if they are no longer necessary for the purpose they collected or when you no longer agree to the treatment. The right does not apply if there is another legal basis for the treatment or if there is a legal obligation for StableHost to process the personal data. 
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+Get the processing of your personal information limited. This means that your personal information is marked so that they can only be processed for specified purposes. 
 
-  * ### Enforcement and Dispute Resolution
+Request to get your personal data in a structured, widely used and digital format and transfer the data from StableHost to another personally responsible person (data portability).
 
-StableHost.com has established internal mechanisms to verify its ongoing adherence to its privacy policy, including the Safe Harbor Principles. StableHost also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting StableHost.com at the address below.
+Opposition to personal data processing performed based on a balance of interest. If you object to such treatment, we will only continue treatment if there is another legal basis for it. 
 
-StableHost, LLC   
-1530 E. Williams Field Road  
-Suite #201-20  
-Gilbert, AZ 85295
+Oppose your processing of your personal data for direct marketing. Objection to such treatment is by notification via mail to support@stablehost.com. Once we receive your objection, we will discontinue treatment for such marketing purposes. 
 
-StableHost will seek to resolve any concerns. StableHost has also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities.
+Submit any complaints regarding the processing of your personal data to the supervisory authority; Data Inspection Board. 
 
-  * ### Contacting Us
+StableHost will notify any third party who has access to your personal data if any changes are requested to ensure that your rights are recovered as described above. 
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@stablehost.com. You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at privacy@stablehost.com.
+* ######  Who do we provide personal information to?
 
+StableHost reserves the right to disclose personal data to a third party, such as StableHost’s Group companies, partners, and card and communications service providers. To ensure that we have the correct address information for you, StableHost may disclose personal data to companies providing address update services. 
 
+Third parties may use the information only for selling and marketing StableHost's services or for providing services related to the agreement that applies to a customer or account holder at StableHost. 
+
+StableHost may disclose personal information if it is necessary to comply with applicable laws, to safeguard StableHost's legal interests or to detect, prevent or pay attention to fraud and other security or technical issues. 
+
+StableHost may transfer personal data to non-EU / EEA countries, if any of StableHost's suppliers or affiliates are located there. If personal data is transferred in this manner, StableHost will take the necessary steps to ensure that personal data remain protected in accordance with the Data Protection Ordinance. StableHost will also ensure that personal data is transmitted legally and securely. 
+
+StableHost will not sell personal data to third parties without first obtaining consent to this. 
+
+* ###### Changes to the Personal Data Policy
+
+StableHost reserves the right to change the Privacy Policy at any time. Before making any changes, you will be notified. If you do not accept the changes, you have the right to object to the treatment or terminate your account under the "Customer Zone", which means that we will not be able to obtain or process any further information about you. 
+
+* ###### Cookies
+
+When you visit our website, we use cookies. For more information about how we treat cookies, please read our Cookie Policy. 
+
+* ###### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+* ###### Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+* ###### Contact information for Personal Data Responsible
+
+https://stablehost.com  
+2719 Hollywood Blvd  
+Hollywood, FL 33020 USA  
+support@stablehost.com  
 
