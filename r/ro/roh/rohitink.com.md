@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109093721id_/https%3A//rohitink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903013518id_/https%3A//rohitink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rohitink.com
 
-This Privacy Policy governs the manner in which InkHive collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://rohitink.com](https://rohitink.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by InkHive.
+This Privacy Policy governs the manner in which Rohitink collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://rohitink.com](https://rohitink.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Rohitink.
 
 **Personal identification information**
 
@@ -89,4 +89,4 @@ Chandigarh, India
 Postal Code: 160030  
 https://rohitink.com/contact-me/
 
-This document was last updated on Feb 15, 2015
+This document was last updated on Feb 18, 2017
