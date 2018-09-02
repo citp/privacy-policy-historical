@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218081003id_/http%3A//www.wilsonlanguage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902194510id_/https%3A//www.wilsonlanguage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilson Language Training
 
@@ -40,7 +40,7 @@ We allow you to decide whether you wish to provide us with Personally Identifiab
 
 Some means for gathering personal data include our Online Registration Application for professional learning, Online Employment Application, and our Material Order Form. Users who wish to register for a professional learning program offered by WLT may be asked to provide Personally Identifiable Information, including, but not limited to, first and last name, and birth date. The data obtained through the Application Form is used internally at WLT, and possibly by an associated college or university, for the purpose of providing course credits.
 
-Please note that, on occasion, Wilson Language Training Corporation (WLT) receives inquiries as to whether an individual is certified in Wilson or has otherwise participated in Wilson Professional Learning. Our policy is to not disclose personal information with regard to participants in our programs. WLT will, however, unless specifically requested in writing otherwise, share information regarding the Wilson® credentials and the level of participation in our professional learning programs by a named individual.
+Please note that on occasion, WLT receives inquiries as to whether an individual is Wilson® certified or has otherwise participated in our programs. Our policy is to not disclose personal information about participants in our programs. WLT will however, unless you specifically request otherwise in writing, share information regarding the Wilson® credentials and the level of participation in our professional learning programs.
 
 When you provide information on our Material Order Form to make a purchase, the transactional information that you provide is transmitted in a safe, encrypted format. WLT uses SSL (Secure Socket Layer) technology, an industry-standard protocol used to establish secure communications between a web server and a client. To maintain your security, your encrypted credit card information is sent to the credit card authority and approval status is sent back to us.
 
@@ -162,5 +162,5 @@ Oxford, MA 01540
 
 Back to Top
 
-Effective: November 1, 2007; revised February 2010; revised March 2013, April 2015, September 2017.   
+Effective: November 1, 2007; revised February 2010; revised March 2013, April 2015, September 2017, April 2018.   
 © 2007, 2015 Wilson Language Training Corporation. All rights reserved.
