@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestadvisor.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129203434id_/https%3A//www.bestadvisor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestadvisor.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903004402id_/https%3A//www.bestadvisor.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -22,6 +22,6 @@ This Privacy Policy forms part of the Site’s Terms of Use, available at [besta
 
 ### Contacting Us
 
-[www.bestadvisor.com](http://www.bestadvisor.com/)  
+[www.bestadvisor.com](http://www.bestadvisor.com/)   
 [info@bestadvisor.com](mailto:info@bestadvisor.com)  
 This document was last updated on December 11, 2015 
