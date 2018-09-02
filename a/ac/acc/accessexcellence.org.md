@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accessexcellence.org privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704134049id_/http%3A//accessexcellence.org/MTC/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessexcellence.org privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902131558id_/http%3A//www.accessexcellence.org/MTC/privacy.html) for the most accurate reproduction.*
 
 # Search Access Excellence
 
 ## Access Excellence Privacy Policy
 
-Access Excellence at the National Health Museum respects the privacy of our online visitors. We are committed to protecting your privacy and security while you visit our web site. This privacy policy will let you how we protect your personal information. Please read it carefully. If you have any questions or concerns about our privacy policy, please let us know by sending an email to [[Contact us by email] ](https://web.archive.org/web/20170704134049id_/http%3A//accessexcellence.org/captcha/email.cgi.html).
+Access Excellence at the National Health Museum respects the privacy of our online visitors. We are committed to protecting your privacy and security while you visit our web site. This privacy policy will let you how we protect your personal information. Please read it carefully. If you have any questions or concerns about our privacy policy, please let us know by sending an email to [[Contact us by email] ](https://web.archive.org/web/20180902131558id_/http%3A//www.accessexcellence.org/captcha/email.cgi.html).
 
 **Information Collected and Stored Automatically**
 
