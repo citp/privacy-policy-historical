@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the organicthemes.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628211847id_/http%3A//organicthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicthemes.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902211341id_/https%3A//organicthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WordPress Themes by Organic Themes WordPress Themes by Organic Themes
+# Privacy Policy - Beautiful, Responsive WordPress Themes - Organic Themes
 
 Data Controller and Owner  
-Invulu, Inc,  
+Invulu, Inc.  
 info@invulu.com
 
 ## Types of Data Collected
@@ -38,9 +38,22 @@ The Data is kept for the time necessary to provide the service requested by the 
 
 ## Use of Collected Data
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Access to third party services’ accounts and Contacting the User.
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes:
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+  * To respond to any requests from you regarding sales and support.
+  * To contact you regarding any agreements or accepted terms that you may have with Organic Themes for the Services.
+  * To provide you with marketing emails, special offers, advertising campaigns, or newsletters.
+  * To provide you with information logs associated with the use of Organic Themes’ Services.
+  * To contact you regarding functionality changes to our Services or Website.
+  * To develop new features and functionality to our Services and Website.
+  * To collect payment and bill for our Services.
+  * To help personalize searches.
+  * To diagnose problems.
+  * To find and prevent fraud.
+  * To carry out other purposes as disclosed to you through the Website, or found in terms or an agreement between you and Organic Themes.
+  * Process for other purposes for which we obtain your consent.
+
+
 
 ## Additional Information
 
