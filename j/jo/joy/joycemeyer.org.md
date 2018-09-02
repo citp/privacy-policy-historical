@@ -1,85 +1,114 @@
-> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130031915id_/https%3A//www.joycemeyer.org/copyright-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903012247id_/https%3A//www.joycemeyer.org/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Joyce Meyer Ministries
 
 ## Privacy Policy
 
-_Joyce Meyer Ministries_ , Inc. ("JMM") is a Christian, nonprofit organization committed to excellence, integrity, and your privacy. This Policy is provided to inform you of the ways JMM uses information on www.joycemeyer.org ("Website"). This Policy does not apply to any website "linked" to this Website, and JMM is not responsible for the privacy policies or the content of other websites. 
+###### Last updated: May 17, 2018
 
-##### Information Collection
+_Joyce Meyer Ministries, Inc._ ("JMM", "we", or "us") is a Christian, nonprofit organization committed to excellence, integrity, and your privacy. This Policy is provided to inform you of the ways JMM collects, uses, stores, transfers and discloses your personal information. By providing your information, you agree to your personal information being processed in accordance with this Privacy Policy, as amended from time to time (as noted in the date above).
 
-JMM is committed to upholding the highest level of confidentiality and security for those who visit our Website. The information collected by JMM on this Website falls under one of two categories: Anonymous or Personal.
+##### INFORMATION COLLECTION AND USE
 
-##### Anonymous Information
+JMM collects some anonymous information that cannot be traced back to a specific individual (when that person is not signed in with an account). For example, our web servers automatically record the IP address (the general location where the user is logged) of each visitor to our Website, joycemeyer.org, and tracks how many people visit the Website. This anonymous information is used to administer and specialize the Website more effectively and gain general information about the backgrounds and sources of visitors.
 
-Anonymous information cannot be traced back to a specific individual. Web servers automatically record the IP address (the general location where the user is logged) of each visitor to this Website and tracks how many people visit the Website. This anonymous information is used to administer and specialize the Website more effectively and gain general information about the backgrounds and sources of visitors.
+JMM may also ask you to provide personal information that identifies you. We require this information when you create an account, submit an inquiry to us, become a partner, make a purchase or donation, or engage with us for promotional purposes. Such information could include your name, postal address, phone number, email address, date of birth, marital status, other demographic information, or credit card information. JMM limits the personal information it collects to that which is reasonable under the circumstances, and we only collect your personal information with your consent.
 
-##### Personal Information
+We use your personal information for the purposes we state or imply when it is collected, and we may otherwise use your personal information where permissible by law, for example to respond to an emergency, or in the course of an investigation into illegal behavior.
 
-Personal information identifies specific individuals. This information is personally and voluntarily provided as a result of a prompt on the Website. Such information includes, but is not limited to, names, postal addresses, phone numbers, email addresses and other demographic information. The data provided to the America section of the Website (e.g. date of birth, marital status, gender, demographics, etc.) is handled by a third party.
+##### COOKIES AND SIMILAR TECHNOLOGIES 
 
-#### JMM collects personal information from this Website thru:
+Cookies are small pieces of text used to store information on devices that visit websites. Other technologies, including data we store on your web browser or device, identifiers associated with your device, pixel technology (e.g. Facebook pixel) and other software (Google Analytics and Google AdWords), are used for similar purposes. In this policy, we refer to all of these technologies as “cookies.” 
 
-##### Online Requests for Information
+_Joyce Meyer Ministries_ use cookies in various ways, as followed: 
 
-When requests are made on the Website, certain information is needed to process the request. The information may include, but is not limited to, names, postal addresses, phone numbers, email addresses, and other demographic information. The data provided to the America section of the Website (e.g. date of birth, marital status, gender, demographics, etc.) is handled by a third party Unless you "opt out," we may also use that information to send you additional literature about JMM and its conferences and resources.
+  * Authenticating and identifying you on our websites so we can provide you the services you requested, including location services. 
+  * Keeping track of information, you have provided to us. For example, your favorites, shopping cart, wish lists, etc.
+  * Measuring your use of the websites so that we can tailor your experience to your interests, and improve our service on the Website, apps or social media platforms.
+  * To help us keep your account, data and the website safe and secure.
 
-##### Online Registration of Our Partners
 
-When an individual becomes a partner with JMM, certain information is collected to allow us to provide you with the highest degree of excellent service. The information collected in our online registration may include, but is not limited to, names, postal addresses, phone numbers, email addresses, and other demographic information. In the case of information provided to the America section of the Website (such as date of birth, marital status, gender, demographics, and other information), this data is handled by a third party. Please be aware that we value your privacy, and your registration information is protected by password for your privacy and security. Unless you "opt out," this information may be used to send you additional literature about JMM conferences and resources.
 
-##### Online Transactions
+Some browsers have “do not track” features that allow you to tell a website not to track you. These functions are not uniform. Note that if you disable cookies certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
 
-Purchases and donations made online from JMM require certain information to ensure the transaction is processed efficiently, correctly and safely. Information collected may include, but is not limited to, names, credit card information, mailing addresses, phone numbers, date of birth, marital status as well as other demographic information. All of the information you supply to JMM is never shared with others and is protected by encryption from the time it leaves your computer until the transactions is complete.
+##### ANTI-SPAM
 
-##### Cookies
+We want to communicate with you only if you want to hear from us. We try to keep emails and other digital communications to a minimum and give you the ability to opt in to any marketing communications we send.
 
-Cookies are small data files that can be placed on hard drives by websites visited. The only personal information that a cookie can contain is the information that is provided. JMM uses cookies to gather and store personal information that is collected when online transactions occur through the Website, as well as passwords (used for secure login) and preferences of partners visiting the Website.
+We will send you emails relating to your transactions on joycemeyer.org. You may also elect to receive certain ministry and marketing email communications, in accordance with your preferences, and from which you may unsubscribe at any time in the last email you received.
 
-##### Information Sharing and Disclosure
+You may also update your subscription preferences by clicking on the link in the bottom of any email you receive from the Ministry. 
 
-JMM will not rent, sell, lease, or share personal information with other organizations, except in response to subpoenas, court orders, legal processes, or to establish and/or exercise legal rights. However, when an online transaction occurs that involves the shipment of a package, email addresses are provided to the shipping provider for tracking purposes only.
+Even if you have opted out of receiving promotional communications from us, please be aware that we may still contact you for other purposes. For example, we may contact you to provide communications you have consented to receive, regarding the products you have requested or services we provide to you, or if you contact us with an inquiry. 
 
-##### Minor Policy
+##### INFORMATION SHARING AND DISCLOSURE
 
-Users under the age of sixteen must ask parent or guardian permission to email this Website, request information from JMM, or purchase any resources on this Website.
+JMM will not rent, sell, lease, or share personal information with other organizations, except in response to subpoenas, court orders, legal processes, or to establish and/or exercise legal rights. 
 
-### Unsubscribe from our Mailings and Emails
+##### DATA CONTROLLER 
 
-If you desire to unsubscribe from mailings or emails, simply contact us in any of the following ways:
+JMM is the legal entity that determines the purposes and means of the processing of Personal Data. As the Data Controller, JMM takes all reasonable steps to protect the security and confidentiality of your personal information. We protect the personal information within our custody or control with appropriate organizational, technological and physical safeguards. 
 
-##### Letter
+##### DATA PROCESSOR 
 
-Joyce Meyer Ministries  
-P.O. Box 655  
-Fenton, MO 63026 
+JMM is a Data Controller as well as a Data Processor. However, there are times when JMM uses trusted third-party service providers to help us collect and process information. These third party Processors may have access to, store, or process Personal Data or Client Data as part of providing those services for us. We limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and our contracts with them require them to maintain the confidentiality of such information and conform to our privacy standards. Some of these third parties may be located outside of the country you reside in, and as a result, that country's courts, governments or law enforcement agencies could obtain disclosure of your information in accordance with that country's laws. 
 
-##### Phone
+##### SAFEGUARDS AND RETENTION
 
-[1-800-727-9673](tel:18007279673) or [(636) 349-0303](tel:6363490303)
+JMM takes all reasonable steps to protect the security and confidentiality of your personal information. We protect the personal information within our custody or control with appropriate organizational, technological and physical safeguards. 
 
-### Editing Your Account Information
+We store personal information in electronic and physical files that are secure, and our security measures include secure on- and off-site storage, restricted access to records and data processing equipment, password protocols, and encryption and security software. We conduct audits and monitor compliance with our privacy practices. If you live outside of the United States, please be aware that you are sending information (including Personal Data) to the United States where our servers are located. We will protect it with same protocols listed above. 
 
-If you determine that your account information is inaccurate or has changed, you may modify that information by logging into the [**My Account**](https://store.joycemeyer.org/account.aspx) page or by using one of the methods below:
+We only retain personal information for as long as is necessary for the purpose for which it was collected. Legal requirements, however, may require us to retain some or all of the personal information we hold for a period of time that is longer than that for which we might otherwise hold. 
 
-##### Email
+##### COMPROMISE OF PERSONAL INFORMATION 
 
-[joycemeyerinfo@joycemeyer.org](mailto:joycemeyerinfo@joycemeyer.org)
+In the event that personal information is compromised as a breach of security, JMM will promptly notify you in compliance with applicable law.
 
-##### Letter
+##### EUROPEAN USERS AND YOUR RIGHTS 
 
-Joyce Meyer Ministries  
-P.O. Box 655  
-Fenton, MO 63026 
+###### Access, Correction, Deletion
 
-##### Phone
+Users residing within the EU, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access, correct, and request deletion of your personal information. We respect your privacy rights and provide you with reasonable access to the Personal Data that you may have provided to us. If you wish to access or amend any Personal Data we hold about you, or to request that we delete any information about you please use the Contact Us link provided below. In order to comply with your request, we may ask you to verify your identity.   
+[joycemeyer.org/contact](https://www.joycemeyer.org/contact)
 
-[1-800-727-9673](tel:18007279673) or [(636) 349-0303](tel:6363490303)
+###### Dispute Resolution
 
-### Changes to This Privacy Policy
+If you reside in the EU and you believe your personal information was handled incorrectly, you can email our Data Protection Officer at [dpo@joycemeyer.org](mailto:dpo@joycemeyer.org) or reach our Data Protection Officer by postal mail at:
 
-JMM reserves the right to make changes to this Privacy Policy without advance notice.
+Joyce Meyer Ministries   
+Data Protection Officer   
+United Kingdom Office   
+P.O. Box 1549   
+Windsor SL4 1GT, United Kingdom
 
-### Contact Us
+###### Data Protection Authority 
 
-If you have any further questions regarding our Privacy Policy, please call us at [1-800-727-9673](tel:18007279673) or [(636) 349-0303](tel:6363490303), or email us at [joycemeyerinfo@joycemeyer.org](mailto:joycemeyerinfo@joycemeyer.org).
+Subject to applicable law, if you are a citizen or resident of the European Union, you also have the right to (i) object to JMMs use of your personal information and (ii) lodge a complaint with your local data protection authority or the United Kingdom Information Commissioner’s Office. 
+
+United Kingdom Information Commissioner’s Office   
+Wycliffe House, Water Lane, Wilmslow, Cheshire   
+SK9 5AF, United Kingdom   
+Telephone: +0303 123 1113   
+Fax: 01625 524510   
+Web: [ico.org.uk/global/contact-us](https://ico.org.uk/global/contact-us/)
+
+##### THIRD PARTY LINKS
+
+The Website may contain links to other websites operated by third parties. Please note that this Privacy Policy applies only to the personal information that we collect or receive from third parties with your consent and we cannot be responsible for personal information that third parties may collect, store and use, including through their websites. You should always read the privacy policy of each website you visit carefully.
+
+In addition, when you provide to us information on a third party website or platform, the information may also be collected by the third party website and may be subject to their privacy policy. 
+
+##### MINOR POLICY
+
+We do not knowingly collect children’s personal information. Users under the age of 16 must ask parent or guardian permission to use this Website, request information from JMM, or purchase any resources on this Website.
+
+##### CONTACT JMM
+
+JMM strives to keep all personal information complete, up-to-date and accurate. You or a person authorized on your behalf has the right to request changes or corrections to inaccurate or incomplete information. If you have any questions, please reach out to us via one of the avenues listed below. 
+
+Joyce Meyer Ministries   
+P.O. Box 655   
+Fenton, MO 63026   
+1-800-727-9673 or (636) 349-0303   
+joycemeyerinfo@joycemeyer.org
