@@ -1,62 +1,124 @@
-> *The following text is extracted and transformed from the cegeka.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011094201id_/https%3A//www.cegeka.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cegeka.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902222518id_/https%3A//www.cegeka.com/en/privacy-policy%3FhsLang%3Den) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Cegeka
 
-## 1\. Scope
+This website is operated by Cegeka nv, a company incorporated under Belgian law, having its registered office in Hasselt with company registration number 0882.419.490. Cegeka nv forms part of Cegeka Groep, a Belgian corporation with several branches spread over different European Union Member States.
 
-This Privacy statement applies to the website [www.cegeka.com](http://www.cegeka.com/).
+Cegeka is a company that is committed to protecting your privacy. This Privacy Notice explains how we use any personal information we collect about you when you use our website [www.cegeka.com](http://www.cegeka.com/?hsLang=en) (or [www.nsi-sa.be](http://www.nsi-sa.be/?hsLang=en)) or when we do or may do business with each other.
 
-The website is operated by Cegeka, a company incorporated under Belgian law, having its registered office in 3500 Hasselt, Universiteitslaan 9, and with company registration number 0882.419.490.
+## What information do we collect about you?
 
-Cegeka protects your privacy and always acts in accordance with the provisions of the Belgian Privacy Act (Act of 8 December 1992 regarding the protection of privacy and personal data processing). Please read this Privacy statement to learn more about how personal data are collected and processed through the website.
+Cegeka collects information about you when you use the functionality offered on or through this website to (i) request a meeting, (ii) ask a question through the contact form, (iii) download certain content, such as white papers, (iv) register for an event, or (v) submit your CV and other data on our job page. This information is usually limited to contact details, like your name, place of residence, email address, telephone number, company name and position. Additional data may be requested in specific cases, for example in case of an online application.
 
-By using the website and/or entering your personal data, you explicitly agree to the conditions for the collection, processing and disclosure of personal data by Cegeka defined below. If you do not agree to any of the contents of the Privacy statement, please exit this Website immediately. If you submit personal data of other individuals to Cegeka through the Website, you represent and guarantee that the present conditions have been made available to these other individuals and that these individuals have accepted them.
+We will also collect information about you when you voluntarily complete surveys, such as customer satisfaction surveys or feedback on our website
 
-You will find more information on the use of cookies in our [Cookie Statement](https://www.cegeka.com/en/cookie-statement). You will find a description of the conditions for your use of the Website in the [Terms and conditions](https://www.cegeka.com/en/terms-and-conditions).
+Website usage information like e.g. your IP address, date and duration of your visit to this website, your browser and your navigation on this website, is collected by using cookies. Further information on the use of cookies is provided in our [Cookie Policy](https://www.cegeka.com/en/cookie-statement?hsLang=en).
 
-## 2\. Collection, use and other processing of personal data
+You may also provide this information to Cegeka to perform a contract as a customer, as a supplier or business partner.
 
-**Statistical information –** During every visit to the Website, different personal data and log files may be collected automatically, i.e. your IP address, possibly your location, the date and duration of your visit to the Website, the websites that referred you to the Website, your browser, your operating system, your navigation on the Website and, in particular, the pages you visit on the Website.
+## How will we use the information about you?
 
-These data are only used for statistical purposes and to analyse and optimize the function and use of the Website.
+Cegeka collects information about you to handle your questions, requests and applications and, if you agree, to collect personal statistical information. Cegeka wil use the information you provide to carry out our obligations arising from any contracts entered into by you and us. We may also send you newsletters and personalized marketing by email. We also use your information collected from this website to personalize your visits to our website.
 
-**Customer data –** As soon as your visit or use is not limited to general information gathering and, more specifically, when you use the functionality offered on or through the Website, including, but not limited to, (i) requesting a meeting, (ii) asking a question through the contact form, (iii) downloading certain documents, such as white papers, (iv) registering for an event, or (v) submitting your CV and other data on our job page, additional data will be requested and/or collected.
+## Who has access to your information?
 
-The data requested and collected in such case are usually limited to contact details, i.e. your name, place of residence, e-mail address, telephone number, company name and position. Additional data may be requested in specific cases, such as your cover letter in case of an online application.
+We will not share your information for marketing purposes with companies outside the Cegeka Group.
 
-These data are used to:
+We may pass your information to our third party service providers, agents subcontractors and other associated organizations for the purposes of completing tasks, providing services to you or performing a contract that we have entered into. However, when we use third party service providers, we disclose only the information that is necessary to deliver the service and we have a contract in place that requires them to keep your information secure and not to use it for their own direct marketing purposes.
 
-  * handle your question, comment or request and answer it if applicable;
-  * collect statistical information and perform trend analyses for administration and marketing purposes; 
-  * send you newsletters and personalized marketing by e-mail.
+## Why do we use information about you?
+
+Cegeka collects and processes this information from you on the basis of any of the following legal bases:
+
+**Legal basis**
+
+| 
+
+**Description**  
+  
+---|---  
+  
+Contractual
+
+| 
+
+The processing is necessary to perform a contract with you.  
+  
+Legal obligation
+
+| 
+
+The processing is necessary for compliance with a legal obligation to which Cegeka is subject.  
+  
+Legitimate interest
+
+| 
+
+The processing is necessary for the purposes of the legitimate interests pursued by Cegeka or by a third party, provided that your interests or fundamental rights and freedoms do not prevail.  
+  
+Consent
+
+| 
+
+You have given your consent to the processing of your personal data.  
+  
+Remarks:
+
+  * “ _Contractual_ ” is not limited to a signed contract, e.g. performing the recruitment process is performing a contract between the candidate and Cegeka; and delivering an e-book, requested by you, is also considered performing a contract between you and Cegeka.
+
+
+  * “ _Legitimate interest_ ” may be used where you may reasonably expect that your personal data will be stored and used, e.g.: 
+    * When you leave your contact details when downloading an e-book on a certain topic, you can reasonably expect Cegeka to store your interest in that topic in order to share other, relevant information on similar topics with you.
+    * When you ask a question on the contact form on a certain topic, you might reasonably expect that an expert on that topic will contact you to further discuss your question.
 
 
 
-## 3\. Transfer to third parties
+## Marketing
 
-Cegeka may also transfer certain personal data to third parties, including for the following purposes:
+Cegeka would like to send you information about its products and services which may be of interest to you. Cegeka may also contact you in connection with our customer satisafaction survey program.
 
-  * promotional purposes (including direct marketing) and development and marketing of Cegeka's products and services;
-  * to competent authorities in the case of imminent or pending legal proceedings, in the context of judicial investigations and information requests, at the request of the authorities or to comply with other legal obligations.
+You have a right at any time to stop us from contacting you for marketing purposes or giving your information to other companies within the Cegeka Group.
 
+If you no longer wish to be contacted for marketing purposes, you can opt-out via the latest e-mail you received from us. Do not hesitate to contact [marketing@cegeka.com](mailto:marketing@cegeka.com) for further information and questions.
 
+## How can you access and correct your information?
 
-By using the Website, you expressly acknowledge and accept that, in the context of the data processing activities mentioned above, data may be transferred to third parties located in countries outside of the European Economic Area that may not provide the same level of protection for personal data.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all or your personal information, please send us an email or write to us at the address referred to below.
 
-## 4\. Right to access, modification and rectification
+Cegeka also wants to make sure that your personal information is accurate and up to date. You may ask us to correct information you think is inaccurate, or request us to remove your information.
 
-As specified in the Privacy Act, you have the right to access, modify and rectify your personal data at any time and free of charge. You may also oppose any processing of your personal data for direct marketing purposes, free of charge. Please address your request in writing to the service responsible for processing personal data at Cegeka using the following contact details.
+## How long do we store your data?
 
-## 5\. Contact details
+Cegeka will not store your information longer than is necessary for the purposes for which we need this information about you. However, it is also important to note that, in some cases, we will be legally required to keep your information for a certain amount of time.
 
-Cegeka is responsible for processing these personal data and ensures confidentiality and safety of these data.
+## Security measures
 
-You can contact Cegeka at the following address: 
+When you give Cegeka your personal information, we take steps to ensure that it is treated securely. Cegeka has implemented reasonable physical, organizational and technical measures to help protect your personal information against unauthorized access, disclosure or use.
+
+## Complaints
+
+If you feel that Cegeka is processing your personal data unlawfully or incorrectly, please do not hesitate to contact us via the contact details mentioned below.
+
+In any event, you always have a right to file a complaint to the authority responsible for data protection in your country, if you are of the opinion that your information has not been processed correctly by Cegeka.
+
+## Cookies and Terms of Use
+
+Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. This information is used to track visitor use of the website, to improve website experience and to compile statistical reports on website activity.
+
+You will find further information on the use of cookies in our [Cookie Policy.](https://www.cegeka.com/en/cookie-statement?hsLang=en)
+
+You will find a description of the conditions for your use of this website in the [Terms and Conditions.](https://www.cegeka.com/en/terms-and-conditions?hsLang=en)
+
+## Changes to our privacy notice
+
+Cegeka reserves the right to amend this Privacy Notice from time to time. We will place any updates thereof on this website. This Privacy Notice was last modified and revised on May 3rd 2018.
+
+## How to contact us
+
+If you have any questions about the processing of your personal data, or regarding this Privacy Notice, you can contact Cegeka at the following address:
 
 Cegeka NV  
 Universiteitslaan 9  
-B-3500 Hasselt
+B – 3500 Hasselt 
 
-[marketing@cegeka.be](mailto:marketing@cegeka.be)
-
-Cegeka reserves the right to amend the present Privacy statement at any time. This Privacy statement was last modified and revised on 29 April 2014.
+[privacy@cegeka.com](mailto:privacy@cegeka.com)
