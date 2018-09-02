@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130130349id_/https%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902181108id_/https%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
 # American Golf's Privacy Policy
 
-IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
+PROTECTING YOUR PRIVACY
 
 #### Privacy Policy
 
-This Privacy Policy describes current policies and practices with regard to Personal Data collected manually or through this website ("website"). This website is operated by, and Personal Data collected through it will be controlled by SW Golf Limited & of SW Golf Limited, PO Box 2007, Liverpool, L69 3FX on behalf of Americangolf Discount Centre Limited of Europa Boulevard, Gemini Business Park, Westborrk, Warrington WA5 7YW.
+This Privacy Policy describes current policies and practices with regard to Personal Data collected manually or through this website ("website"). This website is operated by, and Personal Data collected through it will be controlled by SW Golf Limited of SW Golf Limited, PO Box 2007, Liverpool, L69 3FX & on behalf of Americangolf Discount Centre Limited of Europa Boulevard, Gemini Business Park, Westbrook, Warrington WA5 7YW.
 
 The term "Personal Data" refers to personally identifiable information about you, such as your name, birth date, telephone number, e-mail address or mailing address.
 
@@ -16,15 +16,47 @@ The terms "you" and "your" when used in this Privacy Policy means any user of th
 
 This website is continually improved by adding new functionality and features and by improving and adding to existing services. Because of these ongoing changes, changes in the law and the changing nature of technology, data practices will change from time to time. If and when data practices change, such changes will (as soon as practicable) be posted on this website to notify you of the changes. You should check this page frequently.
 
-You will understandably have a concern about privacy. Your privacy is respected and your personal information is treated with the highest standards of safety, security and confidentiality. To better protect your privacy, this notice explains online information practices and the choices you can make about the way your information is collected and used on this website. If you have questions regarding this Policy, you may direct them to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk).
+You will understandably have a concern about privacy. Your privacy is respected and your personal information is treated with the highest standards of safety, security and confidentiality. To better protect your privacy, this notice explains online information practices and the choices you can make about the way your information is collected and used on this website. If you have questions regarding this Policy, contact [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk).
+
+#### Explaining the Legal Basis
+
+The law on data protection sets out a number of different reasons for which a company may collect and process your personal data, including:
+
+##### Consent
+
+In specific situations, we can collect and process your data with your consent.
+
+For example, when you tick a box to receive email newsletters
+
+When collecting your personal data, we’ll always make clear to you which data is necessary in connection with a particular service.
+
+##### Contractual obligations
+
+In certain circumstances, we need your personal data to comply with our contractual obligations. 
+
+For example, if you order an item from us for home delivery, we’ll collect your address details to deliver your purchase, and pass then to our courier
+
+##### Legal compliance
+
+If the law requires us to, we may need to collect and process your data.
+
+For example, we can pass on details of people involved in fraud or other criminal activity affecting the company to law enforcement.
+
+##### Legitimate interest
+
+In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests.
+
+For example, we will use your purchase history to send you or make available personalised offers.
+
+We also combine the shopping history of many customers to identify trends and ensure we can keep up with demand, or develop new products/services.
 
 #### Collection of Personal Data including e-mail addresses
 
 Information is collected about you in an effort to make products and services on this website more efficient and customized to you. You are free to browse this website without revealing any personal information about yourself. However, once you provide your personal information, you are not anonymous.
 
-The information you provide will be collected and stored. You may use this website to register to receive additional information or services. When you register, you will be asked for contact information like your name, postal address and e-mail address.
+The information you provide will be collected and stored securely. You may use this website to register to receive additional information or services. When you register, you will be asked for contact information like your name, postal address and e-mail address.
 
-The information that you provide is sometimes supplemented with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, third party software may be used to fix them.
+The information that you provide is sometimes supplemented with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, third party software may be used to rectify this.
 
 #### Use of Personal Data
 
@@ -32,27 +64,50 @@ The purposes for which Personal Data is processed include the following:
 
 * To respond to your requests and to fulfil your orders for products and services.
 * To improve products and services, make your experience more efficient and relevant and provide you with a personalised service.
-* To administer this website.
+* To administer this website
 * To analyse and research website visitors' demographics, interests, and pages viewed based on the information provided during ordering, from server log files, or surveys.
 * To contact you from time to time with information of new products and services or events that may be of interest to you. 
   
 
 
-#### Opt-out choice
+#### Who do we share your data with
 
-If you do not wish to receive information and want to be removed from mailing lists in relation to this website, please send an e-mail to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk).
+To help personalise your journey through the website we currently use the following companies, who will process your personal data as part of their contracts with us:
+
+* Reevoo
+* RedEye
+* HotJar
+* Go Inspire
+* PSL
+* SMG
+  
+
+
+#### How can you stop the use of your personal data
+
+There are several ways you can stop direct marketing communications from us:
+
+* Click the ‘unsubscribe’ link in any email communication that we send you. We will then stop any further emails.
+* If you have an account, log in into your account, visit the ‘My Account’ area and change your communication preferences.
+* Write to Data Protection Office, PO Box 2007, Liverpool, L69 3FX 
+* Email [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk)
+  
+
+* Please note that you may continue to receive communications for a short period after changing your preferences while our systems are fully updated.
+  
+
 
 #### Anonymous data collected through this website
 
 In addition to the information collected as described above, technology is used to collect anonymous information about the use of this website. These technologies may include though are not limited to, Google Analytics Advertising Features such as ‘Remarketing with Google Analytics’ and ‘Google Analytics Demographics and Interest Reporting’. These and other technologies may be used to track which pages of this website visitors view as well as to collate non-personal demographic information about our visitors. Technology may also be used to determine which web browsers visitors use. This technology does not identify you personally, it simply enables the compilation of statistics about website visitors and their use of this website.
 
-This website contains hyperlinks to other pages on this website. Technology may be used to track how often these links are used and which pages on this website visitors choose to view. Again this technology does not identify you personally & it simply enables the compilation of statistics about the use of these hyperlinks.
+IThis website contains hyperlinks to other pages on this website. Technology may be used to track how often these links are used and which pages on this website visitors choose to view. Again this technology does not identify you personally & it simply enables the compilation of statistics about the use of these hyperlinks.
 
 Such anonymous data is used to improve the content and functionality of this website and e-mail updates, to better understand clients and markets, and to improve services.
 
 #### Cookies and IP address
 
-In order to collect the anonymous data described in the preceding paragraph, in the future temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "john@bigmail.com," the cookie collects the "bigmail.com" portion of your e-mail address) and the date and time you accessed this website may be used. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. An example of a Cookie that we use is the ‘Google Analytics’ cookie which aids our internal reporting. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. You can also opt out of Google Analytics Advertising Features at <https://www.google.co.uk/settings/ads>.
+In order to collect the anonymous data described in the preceding paragraph, in the future temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "john@bigmail.com," the cookie collects the "bigmail.com" portion of your e-mail address) and the date and time you accessed this website may be used. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. An example of a Cookie that we use is the ‘Google Analytics’ cookie which aids our internal reporting. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. You can also opt out of Google Analytics Advertising Features at [](https://www.google.co.uk/settings/ads.)
 
 IP address may also be used to help diagnose problems with this website's server and to administer this website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many visitors are from outside of the UK.
 
@@ -62,15 +117,15 @@ IP address may also be used to help diagnose problems with this website's server
 * Personal Data may occasionally be transferred to third parties for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented.
 * Personal Data will be transferred to third parties for further processing in order to fulfil orders placed by you via this Web Site and to provide an after sales service.
 * Third parties are engaged to perform services or functions in order to manage and improve this website, merchandising, marketing and promotional efforts, communications or other services. Those third parties include authorized contractors, consultants, legal advisors and other companies (collectively, "agents"). They only have access to personal information needed to perform their functions, and may not share any personal information with others or use it for any other purposes than that which is contractually agreed. Where appropriate, before disclosing Personal Data to a third party, that third party is contractually required to take adequate precautions to protect that data and maintain confidentiality. Information about you may also be received from other sources (such as demographic information and purchase history) and it may be added to records about you in order to make marketing efforts more efficient.
-* The information in this website's databases may be shared or transferred to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of the databases or this website, to take precautions against legal liability, or in the event of a sale, merger, reorganisation, dissolution or similar event.
-* Where you have consented, your information may be disclosed to partners or other businesses who may contact you about their products or services that may interest you. 
-* During the purchase process, your information may be shared with certain intermediaries (e.g. UPS) strictly to process and ship your order. 
+* The information in this websites databases' may be shared or transferred to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of the databases or this website, to take precautions against legal liability, or in the event of a sale, merger, reorganisation, dissolution or similar event.
+* Where you have consented, your information may be disclosed to partners or other businesses who may contact you about their products or services that may interest you.
+* During the purchase process, your information may be shared with certain intermediaries (e.g. UPS) strictly to process and ship your order.
   
 
 
 #### Data integrity and security
 
-Personal Data in this website's databases are maintained to a high standard of reliability, accuracy, completeness and currency and to protect the privacy and security of the databases. Personal Data will be kept only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
+Personal Data in this websites databases are maintained to a high standard of reliability, accuracy, completeness and currency and to protect the privacy and security of the databases. Personal Data will be kept only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
 
 Employees and third parties who have access to Personal Data have been trained to handle such data properly and in accordance with security protocols and strict standards of confidentiality. Although loss, misuse, unauthorised disclosure, alteration or destruction of data cannot be guaranteed, such unfortunate occurrences are prevented as far as reasonably possible.
 
@@ -88,7 +143,7 @@ This website may contain hyperlinks to web sites operated by third parties. Thes
 
 Upon receipt of your written request and enough information to permit identification of your Personal Data, such Personal Data held about you will be disclosed to you. Corrections, amendments or deletions to Personal Data that is inaccurate can be made and will be notified to any third party recipients.
 
-If you wish to access or correct your Personal Data, please write to us at SW Golf Limited, PO Box 2007, Liverpool, L69 3FX, or e-mail us at aftersales@americangolf.co.uk. You will not be charged for a correction request, however, for all other requests, you may be charged a fee of & 10.00 to cover costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations.
+If you wish to access or correct your Personal Data, please write to us at Data Protection Officer, SW Golf Limited, PO Box 2007, Liverpool, L69 3FX, or e-mail us at [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk). You will not be charged for a correction request, Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations.
 
 You may ask to have your account information removed from this website's active databases; however, because this website tracks past purchases, information associated with past purchases can not be deleted. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure the data stored on this website's systems is "backed-up", and such prior information cannot be completely removed from the databases. Therefore, you should not expect that all of your Personal Data will be completely removed from the databases in response to your requests. However, please be aware that your personally identifiable information will be kept only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
 
@@ -104,11 +159,19 @@ Of course, the Internet is made up of a large number of international connection
 
 #### Governing law
 
-This Privacy Policy forms part of the website [Terms of Use](http://www.americangolf.co.uk/content/terms.html?fid=Terms-Conditions) and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
+This Privacy Policy forms part of the website Terms of Use and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
+
+#### Contacting the Regulator
+
+If you feel that your data has not been handled correctly, or are unhappy with our response to any requests you have made to us regarding the use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office
+
+You can contact them by calling 0303 123 1113 or go online to [https://ico.org.uk/](https://www.ico.org.uk/)
+
+If you are based outside the UK, you have the right to lodge your complaint with the relevant data protection regulator in your country of residence.
 
 #### Questions
 
-If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk) or write to American Golf, PO Box 2007, Liverpool, L69 3FX.
+If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk) or write to Data Protection Officer, American Golf, PO Box 2007, Liverpool, L69 3FX.
 
 #### Use of Personal Data for Credit Checking
 
