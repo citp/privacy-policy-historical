@@ -1,85 +1,225 @@
-> *The following text is extracted and transformed from the musicstore.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905035655id_/https%3A//www.musicstore.de/en_GB/GBP/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicstore.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902092829id_/https%3A//www.musicstore.de/en_GB/GBP/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### The protection of your personal data is very important to us.
+## 1\. Introduction
 
-We would like to inform you of our privacy policy. Of course we respect the standards and regulations of the Federal Data Protection Act (FDPA/BDSG), the German Teleservices Act (TMG) and other data protection laws and regulations.
+Thank you for visiting our website. We take data protection very seriously and strive to protect your personal data within the scope of our website.
 
-When you visit our website we will store your computer’s current IP address, date and time, the type of browser used, your computer’s operating system and the pages you have visited. Your personal data is collected and stored exclusively in a anonymized or pseudonymized form and lead back to you as a natural person.
+By personal data we understand all data about the personal and factual circumstances of a natural person. Personal data collected on our website is used exclusively for our own purposes.
 
-The use of our website usually does not require specification of your personal data. All specification of your personal data (e.g. your name, postal address or e-mail address) is optional and voluntary. We will not share your personal data with third parties without your explicit consent.
+## 2\. Persons in Charge
 
-### Collection and Use of Personal Information
-
-Upon initiation, completion, processing and reversed transaction of the contract of purchase we will collect, store and process data within the limits of statutory regulations.
-
-The personal data you enter when ordering from us or sending us an e-mail (e.g. your name and contact info) will only be used for correspondence with you and only for the purpose for which you have provided your personal data. We use the data provided by you to process and complete your orders. In order to successfully complete your order, we share your information with the respective shipping company selected at the time of the order, to the extent required to deliver purchased goods. In order to complete the payment process, we share necessary payment data with the credit institution and, if necessary, the payment service provider authorized by us to complete the payment process selected by you when ordering.
-
-If you subscribed to our newsletters via Double-OptIn, we will also use your e-mail address to send you our newsletters and emails containing interesting news and information about our shop as well as special offers and promotions. If you wish to be removed from our mailing list you can simply click on the „unsubscribe“ link in our newsletter. You will then no longer receive any newsletters from us. In case you don’t want to receive any further catalogs, flyers or information letters you can unsubscribe by sending us an e-mail to [datenschutz@musicstore.de](mailto:datenschutz@musicstore.de)
-
-At any time you can revoke your consent regarding the use of your personal data for the future.
-
-We do not disclose your personal data to third parties unless we are bound by law and unless you have given your consent. In case we have to make use of the services of third parties in order to implement or process certain procedures we will abide by the statutory regulations of the Federal Data Protection Act.
-
-After the processing of the contract has been completed your personal data will be blocked. Upon expiry of tax and commercial accounting regulations your personal data will be deleted unless you have explicitly given your consent to use your data beyond these processes.
-
-Should you no longer agree to the storage of your personal data or they are no longer correct, we will delete, correct or block your personal data, per your request, corresponding to statutory regulations. Upon request you can inquire about all data we have stored about you free of charge. In case you have questions regarding the collection, processing or use of your personal data, and for information, correction, blockage or deletion of your personal data please send your inquiries to
-
-MUSIC STORE professional GmbH   
-Data Storage / Datenspeicherung  
-Istanbulstr. 22-26   
-D-51103 Köln (Colonia)   
-Germany   
+MUSIC STORE professional GmbH  
+Data Retention   
+Istanbul Straße 22-26   
 Phone: +49 (0)221 88840   
-E-Mail: [datenschutz@musicstore.de](mailto:datenschutz@musicstore.de)
+E-mail: datenschutz@musicstore.de   
+Legal representative: Michael Sauer
 
-### Use of Cookies
+## 3\. Rights Concerned
 
-Similarly to many other commercial sites, we use so-called "Cookies" to expand the functionality of our website and to make the use more comfortable for you. Using these Cookies allows data to be stored on your computer when you visit our website. However, Cookies can not read information from your computer or interact with other Cookies on your hard drive. If you do not wish your browser to accept cookies, you have the option to prevent cookies being stored on your computer by changing the relevant settings of your browser. For more information, please refer to the user instructions of your internet browser. Please note that preventing their use may restrict the functionality and limit your experience of our website, it is even possible that this prevents our website from functioning entirely, specifically the purchasing functions.
+Within the scope of our data processing, your personal data will be processed by us. You are entitled to the rights from the third chapter of the [DS GMO](http://www.webkommentar.com/en/gdpr/chapter-iii/) in relation to our company.
 
-### Data Collection via Use of Google Analytics
+### Right to Information
 
-Our website uses Google Analytics, a web analysis service from Google Inc.. Google Analytics uses „cookies“. A cookie is a small piece of data sent from a website and stored in a user's web browser while a user is browsing a website. This allows for an analysis of your use of the website. Google Analytics gathers information about your operating system, your browser, IP address, the referrer URL (previously visited website) and the time and date of your visit to our website. This information is sent to a Google server located in the USA and stored. Google uses this information to evaluate your use of our website, in order to generate reports of the website activity for the website operator and in order to provide further services related to the use of the website and internet. Should it be required by law or should third parties use these data in behalf of Google, Google will disclose this information to third parties. The use is anonymized and pseudonymized. Further information can be obtain directly at Google (<http://www.google.com/intl/en/privacypolicy.html#information>). Google uses the DoubleClick DART Cookie. Users can disable DART-Cookies by visiting Googles advertising privacy website. No personal data will be stored except fort he IP address. This information is used to automatically recognize you on your next visit to our website and to make navigating through our website easier for you. Cookies allow us to customize a website to your interests or to store your password so you don’t have to enter it every time you visit our website. You can certainly visit our website without cookies as well.
+You have the right to a request to confirm whether we are processing personal data concerning you. If this is the case, you have a right to information about this personal data as well as to the following information:
 
-You have the option to prevent cookies from being stored on your computer by changing your browser’s settings. Refer to the help section of your internet browser for further information on how to delete and disable cookies. The range of functions of our website might be limited when cookies are disabled.
+a) Processing purposes;   
+b) The categories of personal data being processed;   
+c) The recipients or categories of recipients by whom the personal data has been disclosed or are still being disclosed, in particular recipients in third countries or international organisations;   
+d) If possible, the planned duration for which the personal data will be stored or, if this is not possible, the criteria for determining this duration;   
+e) The existence of a right to have your personal data corrected or deleted or to have the data controller restrict or object to such processing;   
+f) The existence of a right of appeal to a supervisory authority;   
+g) Where the personal data is not collected from the data subject, all available information on the origin of the data;   
+h) The existence of automated decision-making, including profiling in accordance with Article 22 (1) and (4) and, at least in these cases, meaningful information on the logic involved and the scope and intended effects of such processing on the data subject.
 
-### External Links
+When personal data is transferred to a third country or an international organisation, you have the right to be informed of the appropriate guarantees under Article 46 DS-GMO in relation to the transfer.
 
-In case our website refers or links you to third party websites we do not assume liability and responsibility for the accuracy and completeness of content and data security of these websites. Since we have no control of statutory data protection regulations via third parties we ask you to verify the provided privacy policy separately.
+We will provide you with a copy of the personal data that is the subject of the processing. We may charge an appropriate fee based on administrative costs for any additional copies you request. If you request information electronically, we must make the information available in a common electronic format, unless you specify otherwise.
 
-Finally, we’d like to point out that the data transfer within the internet (e.g. vie e-mail communication) can provide security gaps. A gapless protection of data when third party access is involved is not possible.
+The right to receive a copy shall not prejudice the rights and freedoms of others.
 
-### **Data Collection with Econda**
+### Right to Correction
 
-In order to better meet our customer’s demands and to optimize this website, anonymised data is collected and stored using solutions and technologies offered by Econda GmbH (http://www.econda.de/), as well as the generation of user profiles using pseudonyms. For this purpose, cookies can be used which enable the recognition of your internet browser. However, user profiles are not combined with the pseudonym data without the explicit consent of the visitor. In particular, IP addresses are made unrecognizable immediately after receipt, which makes it impossible to assign user profiles to IP addresses. Visitors to this website may object to this data collection and storage at any time.
+You also have the right to request that any inaccurate personal data concerning you be corrected immediately. Taking into account the purposes of the processing, you have the right to request the completion of incomplete personal data - also by means of a supplementary declaration.
 
-More information:
+### Right to Erasure
 
-<http://www.econda.com/econda/company/data-protection/>
+You also have the right to request us to immediately delete personal data relating to you. We are also obliged to delete personal data immediately if one of the following conditions applies:
 
-### **Data Collection with Adnexus**
+(a) The personal data is no longer necessary for the purposes for which they were collected or otherwise processed.   
+(b) You withdraw your consent, on which the processing was based in accordance with Article 6 I(a) DS-GMO or Article 9(2)(a), and there is no other legal basis for the processing.   
+(c) You oppose processing in accordance with Article 21(1) and there are no overriding legitimate grounds for processing or oppose processing in accordance with Article 21(2).   
+(d) The personal data has been processed unlawfully.   
+(e) The deletion of personal data is necessary to fulfil a legal obligation under Union law or the law of the Member States to which we are subject.   
+(f) The personal data has been collected in relation to information offered by services provided in accordance with Article 8(1).
 
-Adnexus, a web analytics service provided by AdNexusMedia LLC, collects and stores data from which user profiles are created using pseudonyms. These user profiles are used to analyze the visitor’s behavior and are evaluated in order to make improvements to our service. Cookies can be used to this end. These are small text files which are stored locally on the computer of the site visitor, they enable the ability to recognize user upon repeated visits. The anonymous user profiles are not combined with personal data about the user of the pseudonym without the express consent of the data subject. Data collection and storage for the purpose of web analysis can be restricted at any time with immediate effect and for all future use. Please visit [https://www.appnexus.com/en/company/platform-privacy-policy] to opt out.
+(2) If we have made the personal data public and we are obliged to delete them in accordance with paragraph 1, we will take appropriate measures, including technical measures, taking into account the available technology and the implementation costs, to inform data processors who process the personal data that you have requested the deletion of all links to this personal data or of copies or replications of this personal data. This shall not apply where processing is necessary a) to exercise the right to freedom of expression and information; b) to fulfil a legal obligation required for processing under the law of the Union or of the Member States to which we are subject, or to perform a task in the public interest or in the exercise of official authority conferred on us; c) for reasons of public interest in the field of public health in accordance with Article 9(2)(h) and (i) and Article 9(3); d) for archiving purposes of public interest, scientific or historical research purposes or for statistical purposes referred to in Article 89(1), where the right referred to in paragraph 1 is likely to render impossible or seriously prejudicial the attainment of the objectives of such processing; or e) for the enforcement, pursuit or defence of claims.
 
-More information:
+### Right to Limitation of Processing
 
-<https://www.appnexus.com/en/company/privacy-policy>
+(1) You have the right to request us to restrict processing if
 
-### **Use of Facebook Plugin**
+a) The accuracy of your personal data is disputed for a period of time that enables us to verify the accuracy of the personal data;   
+b) The processing is unlawful and you refuse to delete the personal data and instead request that the use of the personal data be restricted;   
+c) We no longer need the personal data for the purposes of processing, but you do need them to assert, exercise or defend legal claims, or   
+d) You have lodged an objection to the processing referred to in Article 21(1) until it is established whether our legitimate reasoning outweighs yours.
 
-This website uses the so-called social plugin from the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ( "Facebook"). The plugin is marked with a Facebook logo or with "Facebook Social Plugin". An overview of the Facebook plugin and its appearance can be found here:
+(2) Where the processing referred to in paragraph 1 has been restricted, such personal data may only be processed with your consent or for the purpose of asserting, exercising or defending rights or for the protection of the rights of another natural or legal person or on grounds of an important public interest of the Union or a Member State, other than their storage. 4.5.2016 L 119/44 Official Journal of the European Union DE
 
-<https://developers.facebook.com/docs/plugins>
+(3) A data subject who has obtained a restriction on processing in accordance with paragraph 1 shall be informed by the data controller before the restriction is lifted.
 
-When you visit a page of our website that contains such a plug-in, your browser connects directly to the Facebook servers. The content of the plugin is transmitted from Facebook directly to your browser and integrated into the page. Through this integration, Facebook recieves the information that your browser has accessed the corresponding webpage of our website, even if you do not have a Facebook profile or have not logged into your account. This information (including your IP address) is sent directly from your browser to a Facebook server and stored there.
+### Right to Data Transferability
 
-If you are logged into Facebook, Facebook can directly associate our website to your Facebook profile. If you interact with the plugin, for example, press the "Like" button or leave a comment, this information is also sent directly to a Facebook server and stored there. The information is also published to your Facebook profile and displayed to your Facebook friends.
+(1) You have the right to receive the personal data concerning you that you have provided to us in a structured, current and machine-readable format, and you have the right to transmit this data to another person without hindrance by us, provided that
 
-The purpose and scope of the data collection and the further processing and use of the data by Facebook, as well as your rights and settings for the protection of your privacy, please refer to the Privacy Policy of Facebook:
+a) processing is based on the consent referred to in Article 6(1)(a) or Article 9(2)(a) or with a contract referred to in Article 6(1)(b); and   
+b) processing is carried out by means of automated methods.
 
-<http://www.facebook.com/policy.php/>
+(2) When exercising your right to data transferability in accordance with paragraph 1, you have the right to request that the personal data be transferred directly by us to another responsible person, insofar as this is technically feasible.
 
-If you do not wish Facebook to map the data collected through our website directly to your Facebook profile, you must log out of your Facebook account before you visit our website. You can also completely prevent the loading of Facebook plugins with add-ons for your browser, for example with the "Facebook Blocker":  
-[  
-http://webgraph.com/resources/facebookblocker/](http://webgraph.com/resources/facebookblocker/)
+(3) The exercise of the right referred to in paragraph 1 of this Article shall be without prejudice to Article 17. This right shall not apply to processing necessary for the performance of a task in the public interest or in the exercise of official authority conferred on the controller.
+
+(4) The right referred to in paragraph 2 shall not hinder the rights and freedoms of other persons.
+
+You also have the right to consult our data protection officer regarding the aforementioned rights as well as all questions in connection with the processing of your personal data.
+
+### Right of Appeal
+
+You may also exercise your right of appeal to the relevant regulatory authorities.
+
+### Right of Objection
+
+You have the right to object at any time to the processing of personal data concerning you on the basis of Art. 6 I e) or f for reasons arising from your particular situation; this also applies to profiling based on this provision. The data controller will then no longer process the personal data, unless they can prove compelling grounds for processing that outweigh the interests, rights and freedoms of your person or the processing serves to assert, exercise or defend legal claims and you can also assert your right of appeal to the relevant regulatory authorities.
+
+## 4\. Log Files
+
+In the context of the use of our Internet services, the connection information is stored in the server log files.
+
+This information includes:  
+IP address of the client system   
+Browser information such as operating system and screen resolution used   
+Requested web page   
+Website of origin  
+Time of the request
+
+The web server logs are processed for security purposes only. We use the log data only for statistical evaluations for the purpose of planning, security and optimisation. However, we reserve the right to study the log data if subsequently there is a justified suspicion of illegal use based on concrete evidence.
+
+## 5\. Cookies
+
+This website uses cookies. Cookies are text files that are stored on your end device. Cookies can be read, transferred and modified by the website when the website is accessed. We use cookies only with random, pseudonymous identification numbers. These identification numbers are used to evaluate your usage behaviour on our website. At no time is the user profile assigned to the name of a natural person. If you use special functions (such as the shopping cart or "remain logged in") of our website, cookies are also used for these functions.
+
+It is possible at any time to object to the use of cookies by changing the setting in your Internet browser accordingly. Cookies can be deleted. Please note that if cookies are deactivated, not all functions of our website may be fully usable.
+
+## 6\. Google Analytics
+
+This website uses Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses "cookies", which are text files on the user’s computer, to help the website analyze how users use the site. The information generated by the cookie about your use of this website is usually transferred to a Google server in the USA and stored there. However, if IP anonymisation is activated on this website, Google will restrict your IP address beforehand within Member States of the European Union or in other countries party to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide the website operator with other services relating to website and Internet use. The IP address transmitted by your browser in the context of Google Analytics is not merged with other Google data. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also prevent Google from collecting the data generated by the cookies and relating to your use of the website (including your IP address) and from processing this data by Google, by downloading and installing the browser plug-in available under the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>.
+
+You can prevent Google from collecting the data generated by the cookies and relating to your use of the website (including your IP address) and from processing this data by Google by downloading and installing the browser plug-in available under the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>
+
+As an alternative to the browser plug-in, you can click this link to prevent Google Analytics from collecting data on this website in the future. An opt-out cookie is stored on your mobile device. If you delete your cookies, you must click the link again.
+
+We have entered a service contract agreement with Google Germany GmbH - GOOGLE ANALYTICS DEUTSCHLAND, which ensures that personal data is processed exclusively in accordance with our instructions as a rule within Europe. IP anonymisation (IP mask method) is activated on our website, which automatically makes the IP address anonymous.
+
+Further information on Google Analytics and data protection can be found on the website [https://www.google.com/intl/en/analytics/privacyoverview.html](https://support.google.com/analytics/answer/6004245?hl=en).
+
+## 7\. Adform
+
+Adform uses a cookie mechanism to decide which ads are displayed, such as ads for similar products that a visitor has previously seen, but only on an anonymous basis. This means that Adform does not store any personal information such as e-mail addresses, names or addresses in the cookies or in the cookie-based profile. A cookie is a small text file that can be stored on a computer when a user uses a browser to view advertisements or websites of an Adform customer. The cookies do not collect any names, addresses, telephone numbers, e-mail addresses or other data that personally identifies the user. Instead, the cookies contain: a random identification number, ways to accept or decline it, or information about campaigns / advertising activities on an advertiser's website. Adform uses random cookie identification numbers to collect and store anonymous information in cookie-based profiles such as..: Operating system, browser version, geographical location, URLs on which Adform displays advertising, or facts about interactions with advertising (e.g. number of clicks or views). During web requests on Adform's web servers, IP addresses of Internet users are accessible to our system. Adform acts in full compliance with local data protection laws and anonymizes data according to local regulations. Adform does not pass this data on to third parties and uses the data exclusively for analysis purposes on behalf of the website owners. Further information can be found at <http://site.adform.com/privacy-policy/de>.
+
+## 8\. Adnexus
+
+Adnexus, a web analysis service provided by AdNexusMedia LLC, collects and stores data on this website from which user profiles are created using pseudonyms. These usage profiles are used to analyse visitor behaviour and are evaluated to improve and design our offer in line with demand. Cookies may be used for this purpose. These are small text files that are stored locally on the visitor's computer and thus enable recognition when he or she visits our website again. The pseudonymised user profiles are not combined with personal data about the bearer of the pseudonym without the express consent of the data subject to be given separately. You can object to the collection and storage of data for the purpose of web analysis at any time with effect for the future. Please go to [<http://www.appnexus.com/en/company/privacy-policy>] and click on the "Opt Out" button offered there.
+
+## 9\. Econda
+
+For the demand-oriented design and optimisation of this website, anonymised data is collected and stored by solutions and technologies from Econda GmbH <http://www.econda.de/en/> and user profiles are created from this data using pseudonyms. For this purpose, cookies may be used that enable the recognition of an Internet browser. However, user profiles are not merged with data about the bearer of the pseudonym without the express consent of the visitor. In particular, IP addresses are made unrecognizable immediately after receipt, which makes it impossible to assign user profiles to IP addresses. Visitors to this website may object to the collection and storage of data here at any time in the future.
+
+## 10\. Use of Facebook Plug-ins
+
+Our website uses so-called social plug-ins from the social network Facebook, which is operated by Facebook Inc, 1601 S. California Ave, Palo Alto, CA 94304, USA. The plug-ins are marked with a Facebook logo or with the addition of "Facebook Social Plug-in" or "Facebook Social Plug-in". An overview of the Facebook plug-ins and their appearance can be found here: <https://developers.facebook.com/docs/plug-ins>
+
+When you access a page of our website that contains such a plug-in, your browser establishes a direct connection to the Facebook servers. The content of the plug-in is transmitted directly from Facebook to your browser and integrated into the page. Through this integration Facebook receives the information that your browser has called up the corresponding page of our website, even if you do not have a Facebook profile or are not currently logged on to Facebook. This information (including your IP address) is transmitted directly from your browser to a Facebook server in the USA and stored there.
+
+If you are logged in to Facebook, Facebook can immediately associate your visit to our website with your Facebook profile. If you interact with the plug-ins, for example by clicking the "I like" button or making a comment, this information is also transmitted directly to a Facebook server and stored there. The information is also published on your Facebook profile and displayed to your Facebook friends.
+
+The purpose and scope of the data collection and the further processing and use of the data by Facebook as well as your rights and setting options for the protection of your privacy can be found in the data protection information of Facebook: <http://www.facebook.com/policy.php/>
+
+If you do not want Facebook to associate the data collected via our website directly with your Facebook profile, you must log out of Facebook before visiting our website. You can also completely prevent the Facebook plug-ins from loading with add-ons for your browser, e.g. with the "Facebook Blocker" <http://webgraph.com/resources/facebookblocker/>
+
+## 11\. Use of Google+ plug-ins (e.g. "+1" button)
+
+Our website uses so-called social plug-ins from the social network Google+, which is operated by Google Inc, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. The plug-ins can be identified, for example, by buttons with the "+1" character on a white or coloured background. An overview of the Google plug-ins and their appearance can be found here: <https://developers.google.com/+/plug-ins>
+
+When you access a page of our website that contains such a plug-in, your browser establishes a direct connection to Google's servers. The content of the plug-in is transmitted by Google directly to your browser and integrated into the page. The integration gives Google the information that your browser has called up the corresponding page of our website, even if you do not have a Google+ profile or are not currently logged in to Google+. This information (including your IP address) is transmitted directly from your browser to a Google server in the USA and stored there.
+
+If you are logged in to Google+, Google can immediately associate your visit to our website with your Google+ profile. If you interact with the plug-ins, for example by pressing the "+1" button, the corresponding information is also transmitted directly to a Google server and stored there. The information is also published on Google+ and displayed to your contacts.
+
+The purpose and scope of the data collection and the further processing and use of the data by Google as well as your rights and setting options for the protection of your privacy can be found in Google's privacy policy: <http://www.google.com/intl/de/+/policy/+1button.html>
+
+If you do not want Google to associate the data collected via our website directly with your profile on Google+, you must log out of Google+ before visiting our website. You can also completely prevent the Google Plug-ins from loading with add-ons for your browser, e.g. with the script blocker "NoScript" (<http://noscript.net/>).
+
+## 12\. use of Twitter plug-ins (e.g. "Twitter" button)
+
+Our website uses so-called social plug-ins ("plug-ins") of the microblogging service Twitter, which is operated by Twitter Inc. 1355 Market St, Suite 900, San Francisco, CA 94103, USA ("Twitter"). The plug-ins are marked with a Twitter logo, for example in the form of a blue "Twitter bird". An overview of the Twitter plug-ins and their appearance can be found here: <https://twitter.com/about/resources/buttons>
+
+When you access a page of our website that contains such a plug-in, your browser establishes a direct connection to Twitter's servers. The content of the plug-in is transmitted directly from Twitter to your browser and integrated into the page. The integration gives Twitter the information that your browser has called up the corresponding page of our website, even if you do not have a Twitter profile or are not currently logged in to Twitter. This information (including your IP address) is transmitted directly from your browser to a Twitter server in the USA and stored there.
+
+If you are logged in to Twitter, Twitter can immediately associate your visit to our website with your Twitter account. If you interact with the plug-ins, for example by pressing the "Twitter" button, the corresponding information is also transmitted directly to a Twitter server and stored there. The information will also be published on your Twitter account and displayed to your contacts.
+
+The purpose and scope of the data collection and the further processing and use of the data by Twitter as well as your relevant rights and setting options for the protection of your privacy can be found in the Twitter data protection information: <https://twitter.com/privacy>
+
+If you do not want Twitter to associate the data collected via our website directly with your Twitter account, you must log out of Twitter before visiting our website. You can also completely prevent the Twitter plug-ins from loading with add-ons for your browser, e.g. with the script blocker "NoScript" (<http://noscript.net/>).
+
+## 13\. Contact Form
+
+In the context of the contact form, you have the possibility to send any data to us. The data is forwarded by our web server via e-mail to our company's e-mail inbox. Please note that communication via the contact form is not encrypted. Please use a secure communication channel for confidential communication in your own interest.
+
+## 14\. Order
+
+The personal data that you provide us, e.g. when placing an order or by e-mail (e.g. your name and your contact data), will only be processed for correspondence with you and only for the purpose for which you have made the data available to us. We use the data provided by you to fulfil and process your order. For the fulfilment of the contract we pass on your data to the shipping company commissioned with the delivery, as far as this is necessary for the delivery of ordered goods. For the processing of payments we pass on the payment data required for this to the credit institution commissioned with the payment and, if applicable, to the payment service provider commissioned by us or to the payment service selected by you in the order process.
+
+We assure you that we will not pass on your personal data to third parties unless we are legally obliged to do so or you have given your express prior consent. Insofar as we make use of the services of third parties to carry out processing, the provisions of data protection law will be complied with.
+
+After complete contract processing your data will be blocked and deleted after expiry of the tax and commercial law regulations, unless you have expressly agreed to a further use of data.
+
+## 15\. Newsletters
+
+We also use your e-mail address if you have subscribed to our newsletter via Double-OptIn in order to send you our newsletter and for information which may contain interesting current information about our shop, special offers and promotions.
+
+If you do not (no longer) wish to receive the newsletter, you can click on the link "Unsubscribe newsletter" free of charge and at any time in the newsletter and you will no longer receive any further newsletters. If you no longer wish to receive information letters, catalogues and flyers, you can unsubscribe at any time and free of charge by sending an e-mail to datenschutz@musicstore.de You can revoke your consent to the use of your data mentioned here at any time with effect for the future.
+
+## 16\. Legal Basis of Processing
+
+The legal basis of data processing within the framework of the EU basic data protection regulation for our data processing results from Art. 6 DS-GMO. In detail, depending on the situation in which we process your data, different legal bases may arise.
+
+**Acquiescence**
+
+Where your consent has been obtained for the processing of personal data, Article 6 I (a) DS-GMO is the legal basis for data processing. Given consent can be revoked at any time with effect for the future.
+
+**Contract**
+
+For the processing of personal data collected for the fulfilment of a contract to which you are a party, Article 6 I b) DS-GMO is the legal basis. This also applies to processing operations that are necessary to carry out pre-contractual measures.
+
+**Legal Requirements**
+
+As far as the processing of personal data is necessary for the fulfilment of a legal obligation to which our company is subject, Article 6 I c) DS-GMO serves as legal basis.
+
+**Vital Interests**
+
+In the event that vital interests of you or another natural person require the processing of personal data, Article 6 I (d) DS-GMO is the legal basis.
+
+**Justifiable Interest**
+
+If processing is necessary to safeguard a legitimate interest of our company or a third party and if the interests, fundamental rights and freedoms of the data subject do not outweigh the former interest, Article 6 I f) DS-GMO serves as the legal basis for processing. The legitimate interest of our company lies in the implementation of our business activities.
+
+## 17\. Data Protection Officer
+
+Our data security representative is provided by the SICODA GmbH [www.sicoda.de](http://www.sicoda.de/) You can contact the data protection officer at any time in questions of data protection:
+
+SICODA GmbH   
+Impekovener STR. 55   
+Phone: 0228 286 140 60   
+53347 Alfter   
+E-mail: datenschutz@musicstore.de
