@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopforyourcause.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602173041id_/http%3A//www.shopforyourcause.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopforyourcause.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902194147id_/http%3A//www.shopforyourcause.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shop for your Cause
 
@@ -43,6 +43,8 @@ We may share your Personal Information with the following third parties:
 
 
 In addition, we may utilize your Campaign Activity Information for internal purposes to help us personalize the experience for each user and to operate, maintain and improve the features and functionality of our website. Please note that if you choose to make some of your Campaign Activity Information public (such as publically displaying your signature to a petition or making a comment in a public forum), 3rd parties will have access to such information. 
+
+We use third-party advertising companies to serve the ads displayed on our website. These companies may use aggregated information (not including your name, address, email or phone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). 
 
 Notwithstanding anything to the contrary set forth herein, the Company: (1) may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process; and (2) may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: (a) enforce our Terms of Service; (b) respond to claims that any posting or other content violates the rights of third-parties; (c) or protect the rights, property, or personal safety of the Company, its users or the general public. 
 
