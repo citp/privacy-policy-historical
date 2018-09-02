@@ -1,39 +1,135 @@
-> *The following text is extracted and transformed from the nsno.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016073635id_/http%3A//www.nsno.co.uk/everton/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsno.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902131356id_/https%3A//www.nsno.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# About | Nil Satis Nisi Optimum
+# Privacy Policy - NSNO
 
-NSNO is a website dedicated to bringing Evertonians around the world the latest news and views on Everton Football Club.  In 2011 a parent media outlet was formed to act as a controlling agent for all projects created along with NSNO.co.uk.  [Nil-Satis Media](http://www.nil-sats.com/ "Nil Satis Media") will aim to bring the same standards to all media projects as expressed throughout NSNO.co.uk.
+## Who we are
 
-[Writing for NSNO](http://www.nsno.co.uk/about/writing-for-nsno/ "Writing for NSNO")  |  [Advertise on NSNO](http://www.nsno.co.uk/about/advertise-on-nsno/ "Advertise on NSNO")
+Our website address is: https://www.nsno.co.uk which is the home of the Everton fan site, NSNO.  We have been operating this Everton website since 2004.
 
-NSNO.co.uk was born on Friday 25th June 2004 with a small team of Evertonians writing about the Blues. This team has changed over the past seven years, but currently consists of Editor Simon Paul, with writers Chris and Thom, while Bally and Liam moderate the forum with a steely hand.
+## What personal data we collect and why we collect it
 
-NSNO has been tested on Internet Explorer, Opera, and Mozilla Firefox, and it is the latter which is our recomended browser, for ALL your internet browsing, not just NSNO.
+### Comments
 
-It is available from www.mozilla.org
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**Privacy Policy**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-NSNO respects the privacy of users who visit the NSNO web site.
+### Media
 
-We will not attempt to ascribe a real-world identity to you without your consent.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-When you request a web page, image, or any other content from the NSNO web site, it is usual for your web browser software to automatically send us your computer’s domain name, IP address, software model and version, operating system, screen resolution, and cookies. It is not usual for your web browser software to transmit to us your email address.
+### Cookies
 
-When it is sent to us, we record the above information automatically in order to: aggregate information on what pages users access or visit; to tailor the NSNO web site to better fit your hardware and software specifications; to debug the NSNO web site.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-The bottom line is:
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-We will not attempt to ascribe a real-world identity to you without your consent.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Our main source of revenue, Google Adsense, also uses cookies to determine which adverts you have seen and/or clicked. We are assured these pose no threat to your machine, and you can visit Google to find out more info.
+We also use Google Adsense to serve our advertising on this website, and they tailor their ads based on information they collect.  You can select and even opt of out this service by clicking here https://adssettings.google.com/authenticated
 
-Email Privacy Policy
+Below is a table of cookies used on this website
+    
+    
+    Cookie| Type| Duration| Description  
+    ---|---|---|---  
+      
+    
+    [Click here to delete]()
 
-NSNO maintains a strict “no-spam” policy. Your email address will not be sold or transferred to a third party under any circumstances without your consent.
+### Embedded content from other websites
 
-If you provide us with your email address, it will only be used for the purposes specified at the time. We reserve the right to, on occasion, email you to offer you the opportunity to sign up for a new service.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-If you have ANY questions regarding the above, or anything about the site, please contact us by e-mail at nsno1878©gmail.com 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+In order to keep our website services relevant, easy to use and up-to-date, we use web analytics services to help us understand how people use the site.
+
+Cookies allow web analytics services to recognise your browser or device and, for example, identify whether you have visited our website before, what you have previously viewed or clicked on, and how you found us. The information is anonymous and only used for statistical purposes, and it helps us to analyse patterns of user activity and to develop a better user experience.
+
+Our website uses Google Analytics, a web analysis service of Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, [www.google.com](https://www.google.com/) (“Google Analytics” or “Google”). Google Analytics employs cookies that are stored to your computer in order to facilitate an analysis of your use of the site. The information generated by these cookies, such as time, place and frequency of your visits to our site, including your IP address, is transmitted to Google’s location in the US and stored there.
+
+In using Google Analytics our website employs the extension “anonymizeIp”. In doing so, Google abbreviates and thereby anonymizes your IP address before transferring it from EU/EEA member states. Google uses this information to analyze your use of our site, to compile reports for us on internet activity and to provide other services relating to our website.
+
+Google may also transfer this information to third parties where required to do so by law or where such third parties process this data on Google’s behalf. Google states that it will in never associate your IP address with other data held by Google. You can prevent cookies from being installed by adjusting the settings on your browser software accordingly as noted elsewhere in this Privacy Policy. You should be aware, however, that by doing so you may not be able to make full use of all the functions of our website.
+
+Google Analytics also offers a deactivation add-on for most current browsers that provides you with more control over what data Google can collect on websites you access. The add-on tells the JavaScript (ga.js) used by Google Analytics not to transmit any information about website visits to Google Analytics. However, the browser deactivation add-on offered by Google Analytics does not prevent information from being transmitted to us or to other web analysis services we may engage.
+
+Google Analytics also uses electronic images known as web beacons (sometimes called single pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used.
+
+You can find additional information on how to install the browser add-on referenced above at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>.
+
+For the cases in which personal data is transferred to the US, Google has self-certified pursuant to the EU-US Privacy Shield (<https://www.privacyshield.gov/EU-US-Framework)>.
+
+### Advertising
+
+This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Website, possibly based on User interests.  
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.  
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+
+#### DoubleClick for Publishers (Google Inc.)
+
+DoubleClick for Publishers is an advertising service provided by Google Inc. that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. In order to opt out from being tracked by various advertising networks, Users may make use of [Youronlinechoices](http://www.youronlinechoices.com/). In order to understand Google’s use of data, consult [Google’s partner policy](https://www.google.com/policies/privacy/partners/).  
+This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
+Users may decide to disable all the Doubleclick Cookies by clicking on: [www.google.com/settings/ads/onweb/optout?hl=en](https://www.google.com/settings/ads/onweb/optout?hl=en).
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](http://www.google.com/privacy/ads/).
+
+#### AppNexus (AppNexus Inc.)
+
+AppNexus is an advertising service provided by AppNexus Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://www.appnexus.com/en/company/platform-privacy-policy) – [Opt out](https://www.appnexus.com/en/company/platform-privacy-policy#choices).
+
+#### Google AdSense (Google Inc.)
+
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://www.google.com/settings/ads/onweb/optout).
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/policies/technologies/ads/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout).
+
+## Who we share your data with
+
+We will respect and protect your privacy as set out in this Privacy Policy. We will share your personal data with third parties only in the ways that are described in this Privacy Policy – and do not and will not sell your personal data.
+
+NSNO shares your personal data with third parties, in particular non-NSNO parties, only with your express consent or under another lawful basis for processing under the applicable law.
+
+Categories of non-NSNO parties with which we share your personal data include vendors such as host and cloud service providers, marketing and mailing agencies, and sub-contractors involved in the fulfilment of our contractual obligations towards our clients. The legal basis for this processing is Art. 6(1)(f) GDPR.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+Will never be passed on without your consent.
+
+The following two tabs change content below.
+
+  * Bio
+  * Latest Posts
+
+
+
+NSNO Staff writers maintain the news on the site and ensure the site is updated frequently with the latest Everton news. Starting in 2004, NSNO has always been at the forefront of bringing you the latest Everton news and rumours, building a large forum and growing social media presence, which you can follow by clicking the links to the left.
