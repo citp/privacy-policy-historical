@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nio.io privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014231536id_/http%3A//www.nio.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nio.io privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902194253id_/https%3A//www.nio.io/privacy-policy) for the most accurate reproduction.*
 
 # NIO - Privacy Policy
 
-NEXTEV Official Website: [http://www.nio.io](http://www.nio.io/)
+NIO Official Website: [http://www.nio.io](http://www.nio.io/)
 
 **Privacy Policy**
 
-**Effective Date: November 21, 2016**
+**Effective Date: May 25, 2018**
 
-NEXTEV LIMITED (“ **NEXTEV** ”, “ **we** ”, “ **us** ”, “ **our** ” or “ **ours** ”) may collect, store, process and use your personal information for providing, maintaining and improving our service as well as upgrading the service quality and optimizing service functions. Our Privacy Policy covers <http://www.nio.io/> (this “ **Website** ”).
+NIO LIMITED (“ **NIO** ”, “ **we** ”, “ **us** ”, “ **our** ” or “ **ours** ”) may collect, store, process and use your personal information for providing, maintaining and improving our service as well as upgrading the service quality and optimizing service functions. Our Privacy Policy covers <http://www.nio.io/> (this “ **Website** ”).
 
 We understand and are committed to protecting all reasonable privacy of our customers. This Privacy Policy is meant to explain to you how we collect, store, process and use your personal information. Please do read it carefully. If you have questions or concerns regarding this Privacy Policy, you may contact us by emailing at: [comms.us@nio.io](mailto:comms.us@nio.io).
 
