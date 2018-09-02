@@ -1,144 +1,236 @@
-> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505165611id_/http%3A//about.housetrip.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902080936id_/https%3A//rentals.tripadvisor.com/en_GB/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy - HouseTripHouseTrip
+# TripAdvisor Holiday Rentals
 
-* * *
+This document sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By using our website (“ **Website** ” or “ **site** ”), you indicate that you accept this Privacy Policy. Please do not use our site if you do not agree to this Privacy Policy.
 
-HouseTrip Limited understands that making an online booking involves a great deal of trust on your part. We take this trust very seriously, and we are committed to protecting and ensuring your privacy.
+Holiday Lettings Limited (" **we** ", " **us** ") is registered in England and Wales, Company registration number: 5282912. Our registered office is: 7 Soho Square, London, W1D 3QB, UK. We treat the personal data of site users with the utmost respect and confidentiality and take reasonable steps to ensure that your personal data is stored securely and accurately.
 
-This policy (together with our [Terms of Use](http://about.housetrip.com/en/terms-use/) and [Booking Terms](http://about.housetrip.com/en/booking-terms/) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.housetrip.com you are accepting and consenting to the practices described in this policy.
+In general, we use the personal data we collect about you to help our advertisers provide accommodation solutions to users of our site, provide information services to relevant third parties, improve the features and services we offer and support our own marketing and promotion efforts.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is HouseTrip Limited of 5th Floor, Corinthian House, 279 Tottenham Court Road, London W1T 7RJ, United Kingdom. Our data Protection registration number is Z3328966.
+By accessing our Website and utilising our services, you acknowledge that you have read and understood this Privacy Policy and the information collection and handling practices outlined in it.
 
-## Information we may collect from you
+We may change this Privacy Policy from time to time so please check back regularly to keep informed of any updates. 
 
-We may collect and process the following data about you:
+This Privacy Policy was last updated on 25th May, 2018.
 
-1\. Information that you provide by filling in forms on our site www.housetrip.com (our site) or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, open a host account, post material, edit your profile, book a stay, enter a competition, promotion or survey, and when you report a problem. The information you give us may include your name, address, email address, phone number and if you are a user with accommodation to rent out (a host), bank account or PayPal details, or if you are a user who wishes to rent out accommodation (a Guest) and make a booking via our site, billing information. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site or a booking.
+**Overview**
 
-2\. With regard to each of your visits to our site we may automatically collect the following information:
+This Privacy Policy describes in detail our policy and practices regarding our collection, use and disclosure of your personal data.
 
-  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); services you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number or email address used to contact our customer service department.
+We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal data you provide us with when you visit our Website or use our services.
+
+  1. Collection of your personal data
+  2. How we use your personal data
+  3. With whom we share your personal data
+  4. How long we keep your personal data
+  5. Cookies and other web technologies
+  6. Your rights
+  7. How we protect your personal data
+  8. External links
+  9. International transfers
+  10. Changes to this Privacy Policy
+  11. How you can contact us
 
 
-
-We may monitor, record, store and use any telephone, email or other communication with you in order to check any instructions given to us, for training purposes, for crime prevention and to improve the quality of our customer service.
-
-3. We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
-
-## Cookies
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
-
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer’s hard drive. We use the following cookies:
-
-Strictly necessary cookies: These are cookies that are required for the operation of our site. They include, for example, cookies that enable you to log into secure areas of our site or make use of e-billing services.
-
-Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how users move around our site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily.
-
-Functionality cookies. These are used to recognise you when you return to our site. This enables us to personalise our content for you, greet you by your user name and remember your preference (for example, your choice of language or region).
-
-Targeting cookies. These cookies record your visit to our site, the pages you have visited and the links you have followed. Third parties use this information to make our site and the advertising displayed by advertising networks more relevant to your interests. We share this information with third parties for this purpose.
-
-You can find more information about the individual cookies we use and the purposes for which we use them in them table below.
-
-If you register with us or if you continue to use our site, you agree to our use of cookies.  
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis service) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
-
-**Cookie** | **Name** | **Type** | **Purpose** | **More information**  
----|---|---|---|---  
-Google Analytics | _utma _utmb _utmc _utmz | Analytical/performance cookies | These cookies are used to collect information about how visitors use our site. We use the information to compile reports on general user traffic, conversion statistics and to help us improve the site. The cookies collect information anonymously. | [Click here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google Analytics  
-Adwords | Google_mkwid | Analytical/performance cookies | These cookies are used to collect Google Adwords-specific user traffic and conversion statistics. | [Click here](http://www.google.com/intl/en/privacy/ads/) for an overview of privacy at Google advertising  
-All Response Media | _pk_ref _pk_id _pk_ses _pk_cvar | Analytical/performance cookies | These cookies are used to collect user traffic and conversion statistics. | [Click here](http://armalytics.com/StaticPages/Privacy) for an overview of privacy at All Response Media  
-KISSmetrics | km_ai km_lv km_ni km_uq km_vs kvcd | Analytical/performance cookies | These cookies are used to collect information about how visitors use our site. We use the information to compile internal user conversion and site features usage statistics. | [Click here](http://www.kissmetrics.com/privacy) for an overview of privacy at KISSmetrics.  
-Amazon AWS | AWSELB | Strictly necessary Cookies | This cookie is used to manage the session and balance the server load in storing and retrieving data from our provider Amazon Web Services. | [Click here](http://aws.amazon.com/privacy/) for an overview of privacy at Amazon WS  
-HouseTrip Session | _housetrip_session | Strictly necessary Cookies | This cookie stores information about your settings preferences (such as language, currency, favourite properties, etc.), and so allow us to customise our site. It is also used for tracking in internal A/B tests, conversion statistics and affiliate programs. |   
-HouseTrip Authentication | remember_token | Functionality Cookies | This cookie remembers users’ login details after a session has ended for any future visits provided the cookie was not deleted in the interim. |   
-HouseTrip Translation | do_not_autotranslate | Functionality Cookies | This cookie allows the site to remember if a user prefers to see original or translated reviews. |   
-VWO | vis_opt_exp* vwo_uuid | Functionality Cookies | This cookie is used to target different new features to users for A/B testing. The information collected is used to compare different features and understand how they perform. | [Click here](https://vwo.com/privacy-policy/) for more information about VWO  
-Criteo | dis evt udc udi uic uid | Targeting Cookies | These cookies are not necessarily specific to our site. They allow third party advertising network to retarget advertising to users when they browse the internet. | [Click here](http://www.criteo.com/en/privacy-policy) for an overview of privacy at Criteo  
-Addthis | di dt loc psc uid uit uvc | Targeting Cookies | These cookies are needed for the social media dropdowns at the top of the property profile pages of our site. | [Click here](http://www.addthis.com/privacy#.TxQz5_k1SVo) for an overview of privacy at Addthis  
-Facebook | datr | Targeting Cookies | This cookie is needed for the ‘like’ buttons to function on the site. | [Click here](http://www.facebook.com/about/privacy/) for an overview of privacy at Facebook  
-New Relic | NREUM | Analytical/performance cookies | This cookie is used to measure our site’s technical performance for our users. | [Click here](https://newrelic.com/docs/subscriptions/what-cookies-does-newrelic-create) for more information about New Relic  
-Adyen | JSESSIONID hppsession | Strictly necessary Cookies | This cookie is essential for our payment services provider to track payments made via our site | [Click here](http://www.adyen.com/) for more information about Adyen.  
-DoubleClick | id _drt | Targeting Cookies | DoubleClick uses cookies to improve advertising. Some common applications are to target advertising based on what’s relevant to a user, to improve reporting on campaign performance and to avoid showing ads that the user has already seen. | [Click here](https://support.google.com/adsense/answer/2839090?hl=en-GB) for an overview of privacy at DoubleClick  
-TradeDoubler | trade_doubler_uid trade_doubler_uid_expiry | Analytical/performance cookies | These cookies allow us to identify the last referring affiliate website so this is used only for performance reporting purpose. | [Click here](http://www.tradedoubler.com/uk-en/privacy-policy/) for an overview of privacy at TradeDoubler  
-Yahoo Analytics | fpc, ywandp, yvap | Analytical/performance cookies | The purpose of this cookie is to collect data so that Yahoo can report statistical information. Yahoo Analytics cookies do not contain personally identifiable information such as name, age, or phone number. | [Click here](https://policies.yahoo.com/ie/en/yahoo/privacy/index.htm) for an overview of privacy at Yahoo  
-  
-You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
-
-**Behavioural Advertising**
-
-Some advertisers use cookies to provide you with targeted advertising. For example, advertisers may use a profile based on which sites you have visited to present you with advertisements relevant to you. If you are based in the European Union and would like to learn about these types of cookies and how to opt-out, please visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). If you are based in the USA, please visit <http://www.aboutads.info/choices>/.
-
-The above websites are external websites and we are not responsible for their content.
-
-## Where We Store Your Personal Data
-
-The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology, processed and stored by our payment service provider Adyen B.V. Where We have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Where We have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-## Uses Made of your Information
-
-We use information held about you in the following ways:  
-* To ensure that content from our site is presented in the most effective manner for you and for your computer.  
-* To contact you in relation to a listing, booking or proposed booking, including providing you with booking confirmation and updates.  
-* To provide you with the products and services you request.  
-* To carry out our obligations arising from any contracts entered into between you and us.  
-* To manage your account, including processing payments and refunds and providing notifications.  
-* To allow you to participate in interactive features of our service, when you choose to do so.  
-* As part of our efforts to keep our site safe and secure.  
-* To enforce our Terms of Use, Booking Terms and this Privacy & Cookies Policy.  
-* To notify you about changes to our service.  
-* To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.  
-* Where you make a booking or list a property on our website, we may also contact credit or identity reference agencies with information you provide to enable us to confirm your identity and/or whether you own the listed property.  
-* Finally, to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them and/or to provide you, or permit selected third parties to provide you, with information, products or services we provide, which we feel may interest you. – If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data (the registration form or the booking page).  
-We may combine information from other sources with the information you give us or we collect about you. We may use the combined information for the purposes set out above.
-
-## Disclosure of your Information
-
-HouseTrip is designed to allow hosts and guests to share information with one another in order to facilitate arranging stays. Listings posted by hosts, ratings and reviews of hosts and guests, and the profile information (as described below) of hosts and guests are, as far as you allow it, visible to any visitor to the site.  
-When you register on our site and submit your personal information to create a profile page, other users will see some of the information you provided as indicated on such page. We do not allow our users to browse user profiles but they may access your profile through various ways (if you made a booking request, a host may for instance look at your personal profile). You can review and revise your profile information at any time.
-
-If you post a listing, we may also display the geographical location of your property in the form of a map so that potential guests can see the general area and neighbourhood of your property. Note that users will never have access to your billing information.  
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may share your information with selected third parties including:
-
-  1. Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
-  2. Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in TW11). We may make use of the personal data we have collected from you to enable us or an advertising network to display advertisements to a specific target audience.
-  3. Analytics and search engine providers that assist us in the improvement and optimisation of our site.
-  4. Credit or identity reference agencies with information you provide to enable us to confirm your identity and/or whether you own the listed property.
+  1. **Collection of your personal data**
 
 
 
-We may disclose your personal information to third parties including:
+Personal data means any information about an individual from which that person can be identified, such as your first and last name, telephone number, postal and electronic addresses, date of birth, password, and payment information. It does not include data where the identity has been removed (anonymous data).
 
-  1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  2. If HouseTrip Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its users will be one of the transferred assets.
-  3. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use and Booking Terms and other agreements; or to protect the rights, property, or safety of HouseTrip, our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+In the course of our business, we collect and process personal data in different ways. We may collect personal data you give us directly but we also collect data by logging how you interact with our services, for example by using cookies on this Website. We may also receive information from third parties.
+
+The personal data we collect about you may include, but is not limited to: your name, email address, postal address, phone number, billing information, survey responses, booking details and other information you may provide about yourself to our site, such as your IP address and web browser software. 
+
+You can choose not to provide this personal data to us, but in general some personal data is required in order for you to receive relevant offerings from Holiday Lettings and its partners and enjoy other benefits of being a user of the Website; make rental property bookings or participate in a survey, promotion or contest. In addition, some information is also required in order for you to ask us a question or initiate other transactions on our site.
+
+  * **Information that you provide us with:** We receive and store any information you enter on our Website or give us in any other way.
+
+
+  * **Automatic Collection of Information** : We automatically collect some information from your computer or device when you visit the Website. For example, we collect your session data, including your IP address, the navigation software used and the reference site. We may also collect information about your online activity, such as reviewed content, pages visited and bookings. We automatically collect this type of information to try to better understand your interests and preferences and to better personalise your
+
+
+  2. **How we use your personal data**
 
 
 
-## Your Rights
+We only use the personal data that we collect about you for specific purposes.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@housetrip.com](mailto:info@housetrip.com "Opens window for sending email").
+This includes, but is not limited to, to offer our services to you, including your access to and use of our website and to publish your reviews, ratings and photos, communicate with you about your account or use of our site and services, respond to, or following up on, your comments and questions, and otherwise provide customer service, notify you about changes to our terms or privacy policy, ask you to leave a review or take a survey, operate and improve our site and services, personalise your experience on our site, measure interest in and improve our site and services, notify you about promotions and special offers, to let you partake in a prize draw, competition or complete a survey, protect, investigate and deter against fraudulent, unauthorised or illegal activity, administer and protect our business and to resolve disputes or troubleshoot problems.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-## Access to Information
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * With your consent.
+  * Where we need to comply with a legal or regulatory obligation.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-## Changes to our Privacy Policy
 
-Last update: 28 January 2016  
-Any changes we may make to our privacy and cookies policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
+**Marketing**
 
-## Contact
+We want to make it easy for you to take advantage of travel-related opportunities on our Website. One way we do this is by sending you emails that contain information about your travel-related interests. We believe these emails will provide you with useful information about travel-related special offers available through our sites
 
-Questions, comments and requests regarding this Privacy & Cookies Policy are welcome and should be addressed to [info@housetrip.com](mailto:info@housetrip.com "Opens window for sending email").
+You will receive marketing messages from us if you have given your consent, if you have requested them or if you purchased services from us and you have not opted out of receiving marketing messages.
+
+Each time you receive an email of this type, you will be able to tell us if you no longer wish to receive them, or deny push notifications in the application, or change the settings of your mobile device to do so. You will be able to unsubscribe from marketing communications at any time by clicking on the unsubscribe link that you will find at the bottom of each communication you receive from us.
+
+Please note that we may continue to send you service communications, such as administrative messages about your account or transactional messages related to one of your bookings or your Holiday Lettings account. It is not possible to unsubscribe from these service communications.
+
+  3. **With whom we share your personal data**
+
+
+
+Holiday Lettings may share your information with other parties, including other group companies and third parties listed below. If we sell or divest our business or any part of it, and your personal data relates to such sold or divested part of our business, or if we merge with another business, we will share your personal data with the new owner of the business or our merger partner, respectively. If we are legally obliged to do so, we will share personal data to protect our customers, the site, as well as our company and our rights and property.
+
+  * _Suppliers_ including, but not limited to, property managers or owners who fulfil travel bookings, and third party providers of other services such as photography (if such services are made available from time to time, and you choose to avail of them). Throughout the Website and its affiliated sites, all products and services provided by third party suppliers are described as such. Please note that these suppliers may also contact you as necessary to obtain additional information about you or your travel plans, to facilitate travel reservations or bookings or for other purposes consistent with the practices described in their privacy policies and terms of use.
+  * _Payment solution providers_ (if you use such payment solution providers), whereby you agree that we may share data about you with the payment solution provider and vice versa in order to facilitate or assess your use of the online payment platform or for other internal purposes. Such data may include details of enquiries, bookings, transactions, refunds, chargebacks or other claims or events relating to advertisements and/or payments.
+  * _Third party vendors_ who provide services or functions on our behalf, including business analytics, payment processing, customer service, marketing, public relations, distribution of surveys or promotions and fraud prevention. We may also authorise third party vendors to collect information on our behalf, including, for example, as necessary to operate features of our Website or to facilitate the delivery of online advertising tailored to your interests. Third party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
+  * _Business partners_ with whom we may offer products or services in conjunction, or whose products or services we think may be of interest to you. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal data, with those partners. Please note that we do not control the privacy practices of these third party business partners.
+  * _Companies within our corporate family._ We may share your personal data within the TripAdvisor group of companies, as well as with our parent companies and domestic and international corporate affiliate companies and websites. This sharing enables us to provide you with information about products and services (both travel-related and other) which we think might interest you, and to facilitate rental bookings. To the extent that our parent company and corporate affiliates have access to your personal data, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
+
+
+
+We may also share your information if we believe, in our sole discretion, that such disclosure is necessary:
+
+  * to comply with legitimate and enforceable subpoenas, court orders or other legal process; to establish or exercise our legal rights; to defend against legal claims or as otherwise required by law. In such cases, we reserve the right to raise or waive any legal objection or right available to us.
+  * to investigate, prevent or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property or safety of Holiday Lettings, our customers or others and in connection with our Owner and Traveller Terms of Use and other agreements.
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation or asset sale, or in the unlikely event of bankruptcy.
+
+
+
+We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our Website receives or the most popular holiday destinations. This information does not contain any personal data and is used to develop content and services we hope you will find of interest.
+
+  4. **How Long We Keep Your Personal Data**
+
+
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure or your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means and the applicable legal requirements.
+
+  5. **_Cookies and other web technologies_**
+
+
+
+We collect information via cookies and other similar technologies. Cookies are small text files that are automatically placed on your computer or mobile device when you visit a website. Cookies contain basic information about your use of the internet. Your browser resends these cookies to our site each time you visit it so that your computer or mobile device is recognised in order to personalise and enhance your browsing experience. 
+
+Like many websites, we use "cookies" to enable us to personalise your visits to our site, simplify the signing in procedure, keep track of your preferences and to track the usage of our Website.
+
+You can find out more detailed information in our Cookie Policy.
+
+Data collected to serve you with relevant advertising
+
+Holiday Lettings is committed to providing you with relevant content and information across our sites. To do this, we may collect information about your travel-related searches and other site activities and use this information to serve you with ads on our sites or elsewhere online that match your interests. We may share this information with affiliated third parties so they can serve you with advertisements.
+
+Data collected by business partners and ad networks to disseminate targeted advertisements
+
+Many of the advertisements you see on the TripAdvisor family of sites are served by a company in the TripAdvisor group or one of its service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your interests.
+
+  * Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
+
+
+
+Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of our site and other websites.
+
+Like all websites, our servers automatically record "log files" containing information about the volume and characteristics of our Website traffic, for example IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used, which help us to monitor and improve the service. We cannot identify you from your log files alone. 
+
+  6. **Your rights**
+
+
+
+You can check, supplement and update the information you have provided us with or change your marketing preferences by sending a request to us using the Help Centre or the contact details provided below.
+
+In accordance with applicable law, you also have the right of access, the right of rectification, the right to erasure, the right to the restriction of processing, the right to data portability and the right to object. Please find below more details and information on how and when you can exercise your rights. We will respond to your request within one month, but have the right to extend this period with for an additional two months.
+
+You have the following rights with regard to your personal data:
+
+  * The right to request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+
+  * The right to request to correct your data if they are inaccurate. You may also supplement any incomplete data we have, taking into account the purposes of the processing.
+
+
+  * The right to request deletion of your personal data if:
+
+
+    * your personal data is no longer necessary for the purposes for which we collected or processed it; or
+
+
+    * you withdraw your consent if the processing of your personal data is based on consent and no other legal ground exists; or
+    * you object to the processing of your personal data and we do not have an overriding legitimate ground for processing; or
+    * your personal data is unlawfully processed; or
+    * your personal data has to be deleted for compliance with a legal obligation.
+
+
+  * The right to object to the processing of your personal data. We will comply with your request, unless we have a compelling overriding legitimate interest for processing or we need to continue processing your personal data to establish, exercise or defend a legal claim.
+  * The right to restrict the processing of personal data, if:
+
+
+    * the accuracy of your personal data is contested by you, for the period in which we have to verify the accuracy of the personal data; or
+    * the processing is unlawful and you oppose the deletion of your personal data and request restriction; or
+    * we no longer need your personal data for the purposes of processing, but your personal data is required by you for legal claims; or
+    * you have objected to the processing, for the period in which we have to verify overriding legitimate grounds.
+
+
+  * The right to data portability. You may make a request that we receive your personal data that we record on our systems. You may also request that we send this personal data to a third party, where feasible. You only have this right if it regards personal data you have provided us with, the processing is based on consent or necessary for the performance of a contract between you and us or the processing is done by automated means.
+
+
+
+You can exercise your rights by contacting us using the methods stipulated below.
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive.
+
+We may need to request specific information from you to help us confirm your identity and verify your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+  7. **_How  we protect your personal data_**
+
+
+
+We want you to feel confident about using the Website to plan and book your holiday rental, so we are committed to protecting the information we collect. While no website can guarantee security, we have implemented and maintain appropriate physical, administrative, technical and organisational measures to protect the personal data you provide us against unauthorised or unlawful access, use or disclosure and against accidental loss, damage, alteration or destruction.
+
+For example, only authorised employees are permitted to access personal data, and they only may do so for permitted business functions.
+
+  8. **External  links**
+
+
+
+Our Website may include links to third party websites, plug-ins and applications. If you access other websites from the links provided on our Website, the operators of those websites may collect information from you, which will be used by them in accordance with their Privacy Policy, which may differ from our Privacy Policy. We do not control these third party websites and recommend that you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal data.
+
+  9. **International transfers**
+
+
+
+Your personal data may be transferred to other countries for the purposes described in this Privacy Policy. When we transfer your personal data outside the European Economic Area, we take the following precautions to ensure that your personal data is properly protected.
+
+Whenever we store or transfer your personal data outside the European Economic Area, we will do so in accordance with applicable law and we will ensure a similar degree of protection is afforded to it by implementing appropriate safeguards. Transfers of personal data are made:
+
+  * to a country recognised by the European Commission as providing an adequate level of protection, or;
+  * to a country which does not offer adequate protection but whose transfer has been governed by the standard contractual clauses of the European Commission or by implementing other appropriate cross-border transfer solutions to provide adequate protection.
+
+
+
+By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+
+  10. **Changes to this Privacy Policy**
+
+
+
+Holiday Lettings may change, update and/or replace this Privacy Policy from time to time. We will note the date that revisions were last made to this Privacy Policy on the first page of this Privacy Policy, and any revisions will take effect upon posting. We will notify our users of any material changes to this Privacy Policy by sending a notification to the email address you have given us or by posting a notice on our site. We encourage you to check this Privacy Policy from time to time to review the most current version.
+
+  11. **How  you can contact us**
+
+
+
+If you have any questions or complaints about the processing of your personal data by us, please contact us using our contact form: <https://help.holidaylettings.co.uk/contact_form>. You also have the right to lodge a complaint to the supervisory authority about the way we process your personal data. We would, however, appreciate the chance to deal with your concerns before you approach the supervisory authority, so please contact us in the first instance.
+
+Our full details are:
+
+Holiday Lettings Limited, 7 Soho Square, London, W1D 3QB, England.
+
+Attn: Privacy/Legal Department
+
+If you contact us by phone, the conversations may be recorded. You will be notified of these recordings at the beginning of the call. We use these recordings to improve the quality or compliance of our customer service, to verify the accuracy of the information you provide, to ensure prevention of fraud and to train our teams. We keep these recordings for as long as necessary, and then erase them. Your personal data collected during a call is processed in accordance with the provisions of this Privacy Policy.
+
+Last updated: 08 August 2018
