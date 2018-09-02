@@ -1,108 +1,157 @@
-> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330153349id_/https%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902102745id_/https%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kite Packaging
 
-Based in England, our principal activity is online packaging distribution, through our website at [www.kitepackaging.co.uk](http://www.kitepackaging.co.uk/). This privacy policy sets out how Kite Packaging uses and protects any information that you give Kite Packaging when you use our website. 
+**Privacy policy**
 
-**Organisation Name:**
+This privacy policy sets out how Kite Packaging Limited will process your personal data that you may provide to us or that we may collect from you when you visit our website kitepackaging.co.uk. 
 
-Kite Packaging Limited 
+Kite Packaging Limited is defined as a data controller under the General Data Protection Regulation (GDPR) and Data Protection Act 2018 and is registered with the Information Commissioner’s Office (ICO) under ZA166363. 
 
-**Web Site:**
+Kite Packaging is committed to ensuring that your privacy is protected and will only process personal data in accordance with this Privacy Policy. 
 
-www.kitepackaging.co.uk 
+**Contact details**
 
-**Address:**
+If you have any questions our contact details are: 
 
-186 Torrington Avenue,
+Kite Packaging Limited   
+186 Torrington Avenue   
+Tile Hill   
+Coventry   
+CV4 9AJ 
 
-Tile Hill,
+Telephone: 02476 420065 
 
-Coventry,
+E-mail: [gdpr@kitepackaging.co.uk](mailto:gdpr@kitepackaging.co.uk)
 
-West Midlands
+**The information we collect**   
 
-England
 
-CV4 9AJ
+We process personal data including and not limited to: 
 
-**Registered in England & Wales: **
-
-04680835
-
-**VAT registration No:**
-
-765 3496 93
-
-[For the purposes of the Data Protection Act 1998, the data controller is Kite Packaging Limited.] 
-
-Kite Packaging is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy. 
-
-Kite Packaging may change this policy from time to time by updating this page. You should check this page regularly to ensure that you are happy with any changes. 
-
-**What We Collect**
-
-We may collect the following information: 
-
-  * name and job title 
-  * contact information including email address and telephone number 
-  * financial information including credit card and/or debit card information
-  * invoice and delivery addresses
-  * demographic information such as post code and preferences
+  * Name and job title 
+  * Contact information including e-mail address and telephone number 
+  * Financial information including credit card and/or debit card information 
+  * Invoice and delivery addresses 
+  * Demographic information such as postcode and preferences 
 
 
 
-**What We Do With The Information We Gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
-  * Internal record keeping. 
-  * We may use the information to improve our products and services and ensure that content on our website is presented in the most effective manner. 
-  * We may provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
-  * We may then periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. If you are an existing customer, we will only contact you by e-mail with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, we will contact you by electronic means only if you have consented to this. On each email sent this way, there is a clear link to permanently unsubscribe from our email campaigns.
+Legal grounds for processing your information   
 
 
+We will rely on the following legal bases under GDPR to process your personal data: 
 
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-When placing orders, we actively work to protect the security of your order and payment information by using 128-bit SSL technology. This automatically encrypts your details during transmission.
-
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**Cookies**
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our website. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy:  
-<http://www.kitepackaging.co.uk/scp/help-and-guides/cookie/>
-
-**Your Rights**
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via our Contact Us page:  
-<http://www.kitepackaging.co.uk/scp/help-and-guides/contact-us/>
-
-**Links To Other Websites**
-
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question before submitting any personal data. 
-
-**Controlling Your Personal Information**
-
-We will not sell, distribute or lease your personal information to third parties unless: 
-
-  * we have your permission;
-  * we are required by law;
-  * we need to do so in order to enforce or apply our Terms and Conditions for Online Sales, Terms and Conditions of Sale or Terms and Conditions of Purchase and other agreements;
-  * we need to protect the rights, property or safety of our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction .
+  1. Consent 
+  2. Performance of a contract 
+  3. Legal obligation 
+  4. Vital interest 
+  5. Public interest or exercise of official authority 
+  6. Legitimate interest pursued by Kite Packaging, as a data controller, or a 3rd party
 
 
 
-We will not use your personal information to send you promotional information about third parties for promotional purposes.
+**How we collect your information**
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write us (see our postal address at the top of the page). A small fee of £5 will be payable. Alternatively, you can view and edit your details online - [please click here](http://www.kitepackaging.co.uk/catapult/frontend/MyAccount/AccountOverview.aspx?myacctab=3). 
+Voluntary Information   
+You may provide us this information when completing forms and contracts, corresponding via the telephone, e-mail or live chat, or we may meet you at an event or exhibition. 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. 
+Involuntary information when you visit our website   
 
-Should you have any further questions which are not covered here then please send them to [sales@kitepackaging.co.uk](mailto:sales@kitepackaging.co.uk). 
+
+We may gain information that we gather through our monitoring of visits to our website. We use Google Analytics and cookies in order to improve our service, user experience and to analyse how the website is used. Aside from the approximate location (IP address), the information collected is mostly anonymous traffic data including browser information, device information and language. We do not collect any additional information which could be classified as personal via these means. 
+
+**Cookie policy**
+
+For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy: 
+
+<https://www.kitepackaging.co.uk/scp/help-and-guides/cookie/>
+
+**How we process your information**   
+
+
+We collect and process data for the following reasons: 
+
+  * to ensure we can fulfil our service levels to a high standard 
+  * internal record keeping 
+  * to improve our products and services 
+  * to ensure that our website is presented in the most effective manner 
+  * to meet our legal requirements as a UK registered business 
+  * to communicate with our partners 
+  * to market our products and services (see Marketing below) 
+
+
+
+We will also provide information to 3rd parties, when it is necessary for us to fulfil your service requirements. These include, but are not limited to, 3rd party carriers for the delivery of goods and secure payment gateway services. 
+
+We will only process your data in the UK. In all circumstances the information obtained will be retained and utilised in accordance with all relevant laws, in particular the Data Protection Act 2018 and GDPR.
+
+**Marketing**   
+
+
+We may from time to time contact you to make you aware of new products and services, unless you explicitly request us not to do so. 
+
+If you have made a purchase from Kite Packaging pre-dating 25th May 2018, you mayreceive regular product recommendations from us by e-mail. If you no longer wish to receive such communications, you can opt out by clicking the unsubscribe link at the bottom of any Kite Packaging marketing e-mail. 
+
+If you are a new customer, you can opt out of email communications at the new customer billing stage of the basket. This will ensure we do not send you promotional material via email.
+
+We will never share your name and contact details with 3rd parties for marketing purposes. We do use 3rd party service providers to send out marketing material but only allow them to use that information on our instructions and where they have agreed to treat the information confidentially and to comply with data protection legislation. 
+
+**Data security**   
+
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure your information.
+
+How do we protect your personal data? 
+
+  * We treat your data with care and take all steps to protect it 
+  * Access to our websites is password protected 
+  * Sensitive data is secured by SSL encryption 
+  * Our systems have a very high level of security 
+  * We carry out regular penetration testing to identify ways to further strengthen our security 
+  * We monitor our systems for any intrusions 
+  * We will notify you and any applicable regulator of a suspected breach as required by law 
+
+
+
+**Data retention**   
+We collect and store data for the purposes of all our business operations and to provide service to our customers.   
+How long will we keep personal data?
+
+  * For active customers we will retain data for as long as you remain active
+  * For inactive customers we will retain data for marketing purposes; however we will anonymise your personal data so that it can no longer be associated with you, and in such case we may use such information without further notice to you
+  * On request of an ‘unsubscribe’ or a specific request not to be contacted, personal data will be transferred to a suppression list
+  * We will keep personal data in our database for our own internal records
+
+
+
+**Your rights**   
+You have the right to: 
+
+  * Receive disclosure of any of your personal data that we store and process
+  * Update/amend inaccuracies or changes to your data 
+  * Opt out of e-mail marketing by clicking the unsubscribe link at the bottom of any Kite Packaging email communication 
+  * Request for processing of your personal data to be restricted 
+  * Be informed of what lawful basis we are relying on for the processing of your personal data 
+  * Be forgotten (have your personal data deleted); however we would recommend that we supress you from future communications, rather than delete your data from our database
+
+
+
+You can also stop the processing of your data for digital marketing purposes. This is done via the ‘My Account’ section of the website. You can find it here: <https://www.kitepackaging.co.uk/Catapult/frontend/MyAccount/AccountOverview.aspx>
+
+If you wish to review, verify, correct or request the erasure of your personal data, object to the processing of your personal data, withdraw the consent to the processing of your personal data or request that we transfer a copy of your personal data to a 3rd party, please contact our Data Protection Representative Jake Kirk on gdpr@kitepackaging.co.uk. We will respond to the request as soon as we can. Generally this will be within one calendar month from when we receive your request but on occasions it may take longer to deal with your request and in such circumstances we will let you know. 
+
+**Links to other websites**   
+
+
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. 
+
+**Automated decision making**   
+
+
+We do not use any form of automated decision making in our business. 
+
+**Changes to this privacy notice**   
+
+
+Any changes we make to our Privacy Notice in future will be posted on our website and where appropriate notified to you by e-mail or otherwise. 
