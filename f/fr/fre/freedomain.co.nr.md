@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomain.co.nr privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314101255id_/http%3A//www.freedomain.pro/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomain.co.nr privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902232801id_/https%3A//www.freedomain.pro/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Domain name .co.nr
 
@@ -15,6 +15,6 @@ It will never be given to any other person/company/website for any reason.
 
 Cookies: CO.NR website uses cookies only to maintain your information as you move throughout this site. A cookie is a small piece of information used to identify an individual when the person is accessing a site. At no time is any personal information stored in a cookie, nor is any tracking information made available to other sites for any reason.
 
-CO.NR reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at <http://www.freedomain.pro/policy.php>
+CO.NR reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at <https://www.freedomain.pro/policy.php>
 
-If you have any question, please do not hesitate to [**Contact**](https://web.archive.org/web/20180314101255id_/http%3A//www.freedomain.pro/contact.php) us. 
+If you have any question, please do not hesitate to [**Contact**](https://web.archive.org/web/20180902232801id_/https%3A//www.freedomain.pro/contact.php) us. 
