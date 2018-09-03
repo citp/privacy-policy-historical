@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeway.ca privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317180924id_/https%3A//www.safeway.ca/utilities/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeway.ca privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903221305id_/https%3A//www.safeway.ca/utilities/privacy-policy) for the most accurate reproduction.*
 
 # Sobeys Privacy Commitment
 
