@@ -1,137 +1,227 @@
-> *The following text is extracted and transformed from the chaumet.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302203031id_/https%3A//www.chaumet.com/legal-terms%23purpose) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaumet.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903155428id_/https%3A//www.chaumet.com/personnal-data) for the most accurate reproduction.*
 
-# Legal terms & Privacy policy | Chaumet
+# Personal Data | Chaumet
 
-Welcome to the Internet site (hereinafter referred to as the “Website”) published by Chaumet International (hereinafter referred to as “Chaumet”), a public limited company (société anonyme under French Law) with a share capital of €35,848,725 registered on the Register of Commerce of Paris under no. B 342 966 942, whose registered office is at 12, place Vendôme, 75001 Paris (France).
+1\. Identity and details of the data controller
 
-Contact:  
-Tel.: +33 (0)1 44 77 26 26
+This policy outlines the way in which the company Chaumet International SA, a limited liability company with a capital of €42,430,230 whose registered office is at 12 place Vendôme, 75001 Paris (France), recorded in the Register of Commerce and Companies of Paris under No. B 342 966 942 (referred to hereinafter as “ **Chaumet”** ), processes the personal data which concerns you (referred to hereinafter as your “ **Data”** ) in its capacity as data controller according to the regulations applying to personal data.
 
-Publication Manager: Mrs Anne-Line Roccati, Communication Director  
-Editorial Content Manager: Mrs Claire Schmitt, Head of Internet Projects.
+In accordance with French Act n° 78-18 of 6 January 1978 on Information Technology, Data Files and Civil Liberties in its consolidated version of 25 May 2018 referred to hereinafter as the “ **French Data Protection Act”** ) and the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (the General Data Protection Regulation, **“GDPR”** ), personal data is defined as any information which relates to an identified or identifiable natural person, _i.e._ who can be identified, directly or indirectly.
 
-Hosted by: LinkByNet, Parc du Colombier - 5-9 rue de L’industrie - 93200 Saint-Denis - France  
-Tel : + 33 (0)1 48 13 00 00
+2\. Identity and details of the Data Protection Officer (DPO)
 
-Use of this Website is subject to the following terms and conditions (hereinafter referred to as the “Conditions”). Chaumet reserves the right to periodically amend these Conditions. The amended Conditions shall become effective as of the date they are posted on the Website. Please read these Conditions carefully before using this Website. Website users acknowledge the fact that they have been made aware, from the moment of connection, of the existence of Terms and Conditions of Website Use. Consequently, continuing use of the Website is construed to mean that the user has fully and completely agreed to these Conditions.
+The company TNP Consultants SAS is the Data Protection Officer for Chaumet.
 
-Chaumet has created this Website to provide information to users on a personal basis. Users may print or download a copy of the pages of this Website for personal, private and non-commercial use only. Unless otherwise stated, all graphic and text features on the Website, such as brands and photographs, including the models shown, texts, videos, and animations, are protected throughout the world by copyright law, trademark law and the provisions of international treaties.
+If you have any questions relating to the collection and processing of your Data by Chaumet, please contact the Data Protection Officer by email at the following address: [privacy@chaumet.com](mailto:privacy@chaumet.com).
 
-These features may not be modified or used in any way whatsoever for public or commercial purposes, and in particular, reproduced, displayed for the public, sold or integrated into a derivative work. Features on this Website must not be used or presented on any other Internet sites or within any networked computer environments for any purpose whatsoever.
+3\. Data collection conditions
 
-3.1 General information  
-The following text details the manner in which Chaumet uses and collects your personal data, and informs you of the measures taken to ensure your data is protected whilst using the website, according to the terms of the French Data Protection Act no. 78-17 of 6 January 1978 (the “Loi Informatique et Libertés", hereinafter the "Data Protection Act"), as amended by the provisions of Law no. 2004-801 of 6 August 2004 concerning the protection of individuals in respect of the processing of personal data.
+The websites [www.chaumet.com](http://www.chaumet.com/), [https://demandes-extraordinaires.chaumet.com](https://demandes-extraordinaires.chaumet.com/), <https://www.12bis.chaumet.com/fr>, and <https://www.lanature.chaumet.com/fr/> (referred to hereinafter as the **“Websites”** ) are operated by Chaumet and allow Chaumet to collect your Data.
 
-Chaumet protects the privacy of its Website users by complying with the applicable legislation in force. It has therefore notified the French Data Protection Authority (Commission Nationale de l'Informatique et des Libertés, hereafter “CNIL”) of the collection and processing of your personal data.
+The staff of the Chaumet boutiques are required to collect Data and carry out Data processing within the framework of their activities. Most of the Data collected by the Chaumet boutiques is obtained from Data collection forms provided by the staff of the Chaumet boutiques which are to be completed and signed by yourself and are then retained by Chaumet.
 
-Chaumet may collect your personal data, in particular through the “Contact” form, when you subscribe to the Chaumet electronic Newsletter, when you create your Chaumet “Account” or when you use our direct telephone service to contact Chaumet Customer Services, as indicated on the form “Speak to an advisor”.
+The Chaumet customer services department is also required to collect and process your Data when you contact it with your requests.
 
-“Personal data” refers to information concerning you as a private individual, which you communicate voluntarily by filling in the form on the Website, or which Chaumet collects during your browsing session; information of any kind that can be used to identify you, directly or indirectly. Personal data includes data such as your name and address, and electronic identification data available on or from your computer (such as “cookies”, “IP addresses” or your browser personal settings). Your electronic identification data identifies your connection terminal or pages viewed on the website during your browsing session and is generally not sufficient on its own to identify you personally.
+4\. Processed Data, basis and purposes of processing
 
-3.2 Identity of data processing manager and purposes of processing  
-The personal data collected on this Website may be used by Chaumet International (hereinafter “Chaumet”), a French limited company (société anonyme) with a capital of €35,848,725, registered in the Paris Trade and Companies Register under number B 342 966 942, with its registered office at 12, place Vendôme, 75001 Paris (France), as data processing manager, for the purposes of:  
-\- managing relations with customers and prospective customers via the web “Contact” form and the “Speak to an advisor” form  
-\- offering them its services, such as setting up and sharing a selection of gift ideas, subscription to the Chaumet newsletter, creation of a personal "Your Account" space, which saves the gift selections previously made, personal data which the user can modify, the details of their favourite store.
+The Data which relates to you and which is collected via the Websites when you visit a Chaumet boutique and when you contact our customer services department mainly consists of the following, depending on the services provided by Chaumet (and according to your choices and the configuration of your terminal in relation to cookies and other plotters):
 
-Some of the personal data collected will be used to send you information newsletters and marketing e-mails. We will ensure that you have given us your prior consent on the data collection form on the Website, by ticking the “Yes” box in response to the question “I wish to receive news from Chaumet about new products, events and special offers".
+\- Civil status;
 
-The information required by Chaumet to fulfil the missions described above is marked by an asterisk on the different pages of the Website. The other information is optional and helps us to understand you better, and to improve our communications and services to you. The specific information collected by Chaumet is your full name, postal address, e-mail address, date of birth and telephone number.
+\- First name and last name;
 
-3.3 Rights held by users concerning control over their data (right of access, correction and objection)
+\- Email address;
 
-  
-Users who have supplied their personal data through the Website have the right to access and correct any personal data which is inaccurate (by sending a letter accompanied by a copy of an identity document including a signature) to our Customer Services Department:  
-\- by mail: By writing to Chaumet Service Relation Clientèle [Customer Services Department] – 12, place Vendôme 75001 Paris, France  
-\- by e-mail: by sending an e-mail to information@chaumet.com.
+\- Mailing address;
 
-Users also have the right to object to the processing of their data for legitimate reasons, and a right to object to use of the data for purposes of sales canvassing, by contacting the department indicated above.  
-The Website offers users the opportunity to subscribe to a Newsletter which contains information on Chaumet products, new products and events etc.
+\- Mobile and landline numbers;
 
-Users who no longer wish to receive the Newsletter can unsubscribe by:  
-\- simply clicking on the unsubscribe link at the bottom of each Newsletter.  
-\- clicking on the unsubscribe link here.   
-\- filling in the “Contact” form specifying your request and the e-mail address you wish to unsubscribe in your message.
+-  Contact preferences;
 
-So that we can meet your request, you must give us the information necessary to identify you: your last name, first name, e-mail address and your postal address, where appropriate.
+\- Date of birth;
 
-3.4 Sharing and disclosure of personal data  
-Chaumet and Chaumet’s suppliers are the only recipients of the data collected. Within Chaumet, your personal data may be sent to the marketing departments and the departments responsible for customer services at Chaumet. External suppliers to whom your personal data may be communicated will be our suppliers responsible for hosting and maintaining the website.
+\- Date of marriage;
 
-Chaumet will only transmit your personal data to a third party if:  
-\- you have given us prior consent to share this information (for example for a special promotional event);   
-\- Chaumet has to share this information with its suppliers, in particular its technical suppliers, in order to provide you with the service you have requested - for example sending the Newsletter;  
-\- Chaumet has received a demand from a legal authority or any administrative authority authorised by the law, requesting the sending of this information in accordance with the legislative provisions in force.
+\- Bank details in the context of sales of Chaumet products in Chaumet boutiques or via distance selling;
 
-When you want to tell a friend about a Chaumet product using the “Share” functions on the Website, you expressly acknowledge that you have obtained the consent of the e-mail recipient.
+\- Connection details;
 
-3.5 Retention of data  
-Chaumet may retain your personal data for a period not exceeding five years from the last date of contact.
+\- IP address; and
 
-3.6 Security measures  
-Chaumet will do its best to protect your personal data against damage, loss, misappropriation, intrusion, disclosure, alteration or destruction.
+\- Geolocation details.
 
-Chaumet’s computer hardware and software is protected by a state of the art system. We implement physical and electronic back-ups of the data collected on the website, in accordance with current French legislation concerning personal data protection.
+This Data is either collected on the basis of your consent or is required for the completion of your orders according to a contract.
 
-The Chaumet employees who may have access to your personal data, in the course of their duties, undertake to treat it with the strictest confidentiality.
+Your Data is therefore collected notably for the following purposes:
 
-However, Chaumet cannot control the risks related to the Internet and would like to draw your attention to the existence of potential risks such as occasional loss of data or attack on the confidentiality of data transiting the network. The information displayed on the Website may be interrupted in cases of force majeure or events beyond Chaumet's control, or events for which Chaumet is not responsible.
+\- in order to answer your questions sent via the “Contact us” form available on our website [www.chaumet.com](http://www.chaumet.com/);
 
-3.7 Information concerning cookies and browser preferences  
-Firstly, a cookie (also known as a “web cookie” or “browser cookie”) is a file saved on your hard disk by an Internet server for a limited temporary period, to facilitate your browsing and improve the quality of our Website. Also it is important to make the difference between “browsing cookies” and “web analytic cookies”.
+\- to enable you to create a personal “My account” space on our website [www.chaumet.com](http://www.chaumet.com/);
 
-Browsing cookies enable Chaumet to record information such as your e-mail address, your “Account” login, and the search terms you have entered in our Website search engine, in order to facilitate your browsing session. They only last for the period of your web session, i.e. 20 minutes from your last action on one of the Website pages.
+\- to enable you to create your “Selection” on our website [www.chaumet.com](http://www.chaumet.com/);
 
-Chaumet also uses certain preferences in your browser such as language or Java Script activation, to facilitate your browsing session. For example, when it detects your browser’s language, Chaumet offers you the most appropriate version of the Website.
+\- to send you information on our offers, products, latest news and events (newsletters, invitations and other publications) subject to your consent;
 
-Web analytic cookies enable Chaumet to store information concerning your browsing, such as pages you have viewed, the time and date of viewing, the place of your connection etc. We cannot identify you personally from these cookies; the data they collect is aggregated and allocated to a unique impersonal user. These data enable Chaumet to analyse the relevance of the Website content so that it can be improved. These data may be kept for up to 2 years, to enable a comparative analysis over time. To do so, Chaumet uses a third-party solution by Google Analytics. If you wish to opt-out from Google Analytics, please click here.
+\- to manage your orders in the Chaumet boutiques, including invoicing and payment, and the guarantees applying to Chaumet products;
 
-You can refuse the cookies by changing the settings of your web browser. This operation may however remove all the cookies used by your browser, including those used by other websites, which may result in alteration or loss of certain settings or information. Deleting cookies may change your browsing session or even make it difficult to browse the Chaumet website.
+\- to manage and optimise customer relations (notably within the framework of the management of complaints and the Chaumet after-sales service);
 
-You may object to the saving of cookies on your hard disk by configuring your browser as follows:
+\- to save your details and usage preferences for our Websites;
 
-For Microsoft Internet Explorer 6.0 and higher:  
-1\. Select the “Tools” menu, then “Internet Options”.  
-2\. Click on the “Confidentiality” tab  
-3\. Select the level required using the cursor.
+\- to organise involvement in Chaumet events;
 
-For Microsoft Internet Explorer 5:  
-1\. Select the “Tools” menu, then “Internet Options”.  
-2\. Click on the “Security” tab  
-3\. Select “Internet” then “Custom Level”  
-4\. Click on the “cookies” section and select the appropriate option
+\- to compile statistics and marketing analysis;
 
-For Netscape 6.X and 7. X:  
-1\. Select the “Edit”>”Preferences” menu  
-2\. Confidentiality and Security  
-3\. Cookies
+-to manage retargeting systems; and
 
-For Firefox:  
-1\. Select the “Tools”>”Options” menu  
-2\. Click on the "Privacy" option
+\- to list you in the Chaumet boutiques closest to you.
 
-For Safari 3.x for Mac OS X  
-1\. Select the “Edit” menu  
-2\. Click on the “Preferences” option  
-3\. Click on the “Security” option  
-4\. Click on “Display cookies".
+The Data required by Chaumet in order to fulfil the purposes outlined above is marked with an asterisk on the different pages of our Websites and on the Data collection forms provided by a member of staff from the Chaumet boutiques for you to complete and sign. The completed forms will then be retained by Chaumet. If you do not complete these compulsory fields, Chaumet will not be able to answer your requests and/or provide you with the requested services. The other information is optional and helps us to understand you better and to improve our communications and services for you.
 
-The information available on the Website is published for general information purposes only. While Chaumet takes great care to provide accurate information, it cannot guarantee the accuracy, precision or comprehensiveness of information published on the Website and cannot be liable in the event of error or inaccuracy. Users use the Website at their own risk. 
+5\. Cookies
 
-Products sold by Chaumet are available in many countries of the world. The Website may however describe certain products that are not sold throughout the world. 
+Cookies are stored on your terminal when you have browsed the Chaumet Websites. Cookies are small text files which are saved to a dedicated hard disk space on your terminal (computer, tablet, smart phone, etc.) when you consult an on-line service using your browsing software.
 
-Chaumet cannot be held liable for direct or indirect losses that may arise from the use of the Website, including inaccessibility, data loss, deterioration, destruction or viruses that may affect users’ computer hardware and/or the presence of viruses on the Website.
+Cookies contain a certain amount of Data concerning your browsing activities (for example the date, time and number of visits, supply source and preferences). Chaumet may be required to install cookies on your terminal when you connect to our Websites depending on your choices.
 
-All features of this Website are protected by French and international copyright and intellectual property law. All intellectual property rights to Website features, in particular trademarks, brands, patents, designs logos and other distinctive marks, are the exclusive property of Chaumet. Consequently, any total or partial reproduction of features from the Website is strictly prohibited, unless previously authorised in writing by Chaumet. Reproduction of certain features of the Website is authorised only for the purpose of personal and private information. Any reproduction or use of copies made for any other purpose is expressly prohibited.
+Chaumet uses cookies in order to:
 
-These conditions have been drawn up in accordance with French law, in particular the provisions of Law no. 2004-575 of 21 June 2004 concerning trust in the digital economy, and Law no. 78-17 of 6 January 1978 concerning Data Protection (hereinafter the "Data Protection Act"), as amended by the provisions of Law no. 2004-801 of 6 August 2004 concerning the protection of individuals in respect of the processing of personal data. The French courts of Paris will have jurisdiction over any dispute relating to the website. 
+\- customise your browsing activities on our Websites: the use of cookies enables Chaumet to memorise your browsing choices, recognise you in future visits and activate the application of your personal settings (for example, language chosen, type of browser used), memorise information in a form which you completed at the time of registration or access your account;
 
-Chaumet does not guarantee that its Website content is adapted for all countries of the world or available for use in all countries. Users must ensure that they comply with applicable regulations in their countries, it being understood that access to Website content may be considered illegal for certain people or in certain countries. 
+\- analyse activity on our Websites: the use of cookies allows us to obtain information on the usage and traffic recorded by our Websites and thereby measure their performance; and
 
-If Chaumet were to waive the right to enforce proceedings concerning the breach of any of the provisions set forth herein, this may not be construed as a waiver of the right to enforce proceedings concerning the breach of any other provision contained herein.
+\- provide you with sharing buttons via social networks: if you click on one of these buttons, more cookies may be stored in your terminal from these websites. These cookies are governed by the personal data protection policy associated with each social network. Chaumet therefore has no control over their storage.
 
-For any questions or comments related to the Legal Conditions and more specifically to the Personal Data Charter, you can contact our Customer Services Department:  
-• by mail: by writing to Chaumet Service Relation Clientèle [Customer Services Department] – 12, place Vendôme 75001 Paris, France  
-• by e-mail: information@chaumet.com  
-• by telephone: +33 (0)1 44 77 26 26
+Cookies are kept for a maximum of thirteen (13) months. This deadline will not be extended by additional visits.
 
- _Last update: September 2014, 12th._
+Your consent is required for cookies to be stored on your terminal. On your arrival on our Websites, an information banner is displayed to indicate that we use this technology and that, by continuing to browse, you agree to cookies being stored on your terminal.
+
+6\. Configuring cookies
+
+You have the option of managing the storage of cookies by configuring your browser. This configuration may alter your browsing activity on the Internet and your access conditions for certain services requiring the use of cookies.
+
+The removal of functional cookies, which are necessary for the provision of content or services by Chaumet, will no longer allow you to access certain content or services which require you to log in and notably to detect the type of browser used by your terminal, its language and display settings.
+
+Chaumet declines all responsibility relating to consequences stemming from the reduced operation of its services due to the impossibility of storing or consulting the cookies required for the operation of said services whose storage you have refused or whose deletion you have requested.
+
+However, you may decide at any time to express and amend your requirements and browser settings relating to the use of cookies using the methods outlined below.
+
+ **\- Choices offered by your browser:** You may configure your browser so that cookies are saved on your terminal or instead are rejected either systematically or depending on their issuer. You may also configure your browser so that you have the option of accepting or refusing cookies before they are likely to be stored on your terminal.
+
+ **\- How to implement your choices depending on the browser that you use?** The management of cookies varies according to the configuration of each browser. Click on the following links for further details.
+
+ **\- For Internet Explorer™ :**
+
+<https://support.microsoft.com/fil-ph/help/17442/windows-internet-explorer-delete-manage-cookies>
+
+ **\- For Safari™ :**
+
+https://support.apple.com/kb/PH21411?locale=fr_CA&viewlocale=en_US
+
+ **\- For Google Chrome™ :**
+
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en
+
+ **\- For Firefox™ :**
+
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+
+ **\- For Opera™ :**
+
+https://www.opera.com/help/tutorials/security/privacy/
+
+ **\- Expressing on-line choices via inter-professional platforms:** With regard to advertising cookies, you can also consult the YourOnlineChoices website provided by on-line advertising professionals belonging to the European association EDAA ( _European Digital Advertising Alliance_ ) managed in France by IAB France. You will find a list of firms which allow you to configure the cookies that they use in order to adapt the adverts likely to be displayed on your terminal depending on the information relating to your browsing activities: <http://www.youronlinechoices.com/fr/controler-sescookies/>.
+
+These settings will not prevent adverts from being displayed on the websites that you use but they will block the technologies used to adapt adverts to your particular interests.
+
+Further information on cookies and their use can be obtained from the website of the French Data Protection Authority (CNIL) at the following address: [https://www.cnil.fr/fr/site-web- _cookies_ -et-autres-traceurs](https://www.cnil.fr/fr/site-web-cookies-et-autres-traceurs)
+
+7\. Data recipients
+
+Your Data will be processed by Chaumet and its subsidiaries.
+
+Within the framework of the provision of its services, Chaumet may transmit or grant access to your Data exclusively for technical and logistical reasons to the following categories of Data processors:
+
+\- our Websites host;
+
+\- the development and maintenance service provider of our Websites;
+
+\- the service provider in charge of circulating news (newsletter, invitations and other publications);
+
+\- the provider of the statistical analysis solution for cookies and plotters;
+
+\- the service provider managing all the processes within the Chaumet boutiques (transactions, inventory management and customer database management);
+
+\- the service provider in charge of the development and maintenance of the Chaumet customer relations management platform;
+
+\- the marketing and segmentation analysis service providers; and
+
+\- the service providers who are liable to provide caretaker services for Chaumet customers.
+
+Chaumet may also be required to pass on your Data to third parties if this is required by law, a statutory provision of legal decision or if such communication is required in order to protect and defend its rights.
+
+With the exception of these cases, your Data will not be passed on or made accessible to any third parties, subject to the restructuring of Chaumet, including a total or partial asset transfer, merger, absorption, acquisition, demerger and in general any reorganisation operation.
+
+8\. Transferring Data to third countries
+
+Since Chaumet has subsidiaries abroad and works with Data processors located abroad, the recipients of your Data may also be located abroad, including outside the European Economic Area (referred to hereinafter as the “ **EEA”** ).
+
+If your Data is transferred outside the EEA, notably to a state for which no adequacy decision has been reached by the European Commission, it will be governed by appropriate contractual guarantees in accordance with the regulations applying to the protection of personal data.
+
+A copy of the relevant guarantees can be obtained by writing to: Chaumet International SA, for the _attention of the data protection officer_ , 12 place Vendôme, 75001 Paris, France, or by contacting our data protection officer at the following address: [privacy@chaumet.com](mailto:privacy@chaumet.com).
+
+9\. Data security and confidentiality
+
+Chaumet applies technical and organisational security measures in line with accepted practice particularly with regard to the security of its information system.
+
+Chaumet strives to take all the necessary steps in order to protect the confidentiality and security of your Data and prevent it from being amended, damaged, destroyed or accessed by unauthorised third parties. Chaumet will ensure in this respect that its Data processors present the same security, technical and organisational guarantees.
+
+10\. Your rights
+
+According to the regulations in force, you have the right to access and correct your Data, to withdraw your consent at any time, to request the deletion of your Data, to oppose its processing and to obtain its limitation or portability if applicable subject to legitimate imperious grounds which may be justified by Chaumet to retain your Data.
+
+Furthermore, you may at any time request that you no longer receive our communications relating to our offers, products, news and events using the hypertext link provided in every email which we send to you.
+
+These rights may be exercised at any time by sending an email to our data protection officer at the following address: [privacy@chaumet.com](mailto:privacy@chaumet.com).
+
+11\. Right to object
+
+You have the right to object to your Data continuing to be processed for commercial prospecting purposes.
+
+The right to object may be exercised at any time by sending an email to our data protection officer at the following address: [privacy@chaumet.com](mailto:privacy@chaumet.com).
+
+12\. Data retention period
+
+Your Data which is collected and processed via the “Contact us” section of our Website will only be retained for the duration of period during which your request is processed. After this period it will be destroyed.
+
+If you decide to create a customer account, your identification Data will be retained for as long as your account remains active provided that you do not close it. You may close your account at any time. Your request will be acknowledged as soon as possible or, in the case of a current order, as soon as it has been fully executed. If your account remains inactive for a period of ten (10) years, Chaumet will contact you to determine whether or not you wish to maintain your account. Otherwise your account will be closed and your Data destroyed.
+
+The Data relating to your product purchases will in principle be retained by Chaumet for the purpose of managing customer relations for a period of ten (10) years after your last contact with Chaumet.
+
+The Data used for the purpose of sending communications relating to offers, products, news and events concerning Chaumet will be retained for a period of five (5) years from their collection or your last contact with Chaumet. Prior to the expiry of this period, Chaumet may contact you to determine whether you wish to continue to receive communications relating to our offers, products, news and events.
+
+Chaumet will delete your Data at the end of this period. Your Data will also be destroyed within a maximum period of one (1) month from your deregistration request.
+
+Moreover, the connection logs collected with your agreement within the framework of the use of cookies and other plotters used on our Websites will be retained in accordance with the applicable regulations for a period of no more than thirteen (13) months.
+
+13\. Combating fraud and counterfeiting
+
+Chaumet is a jewellery and fine jewellery House within the LVMH group. The LVMH group places a great deal of importance on the protection of its trademarks, products, know-how and image. In this context the LVMH group, alongside and in cooperation with the public authorities, has introduced a number of tools to detect fraud and counterfeiting and centralises all information relating notably to counterfeiting offences and parallel imports which it may detect or which are reported concerning the brands and products of the LVMH group or any other infringement of the rights of the companies within the LVMH group, a list of which can be obtained from the website [www.lvmh.fr](http://www.lvmh.fr/), including in relation to the Chaumet House.
+
+In this context, the LVMH group may be required to collect and process certain personal data concerning individuals who are suspected to have committed or been involved in such infringements as well as any witnesses.
+
+This information will only be retained for the requirements and duration required for the verification of the detected or reported facts and, if applicable, for the implementation of proceedings or means intended to settle the matter until the case is finally closed or, if the LVMH group decides not to initiate proceedings, for a period of five (5) years from the last incident recorded.
+
+14\. Right to file a claim
+
+You may also contact the French Data Protection Authority (CNIL), 3 place de Fontenoy – TSA 80715 – 75334 Paris Cedex 07 with any claims concerning the manner in which Chaumet collects and processes your Data.
+
+ ** _Latest update: 30 May 2018_**
+
+  * [Français](https://web.archive.org/fr/donnees-personnelles "Données personnelles")
+  * [日本語](https://web.archive.org/jp/personnal-data "Personnal data")
+  * [简体中文](https://web.archive.org/personnal-data "Personnal data")
+  * [繁體中文](https://web.archive.org/cht/personnal-data "Personnal data")
+  * [한국어](https://web.archive.org/kr/personnal-data "Personnal data")
+
+
