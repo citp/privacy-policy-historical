@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quinnipiac.edu privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627233423id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quinnipiac.edu privacy policy that was archived on 2018-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903172642id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-require="log"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="keywords">
@@ -69,7 +69,7 @@
 
 
     
-<link rel="stylesheet" href="/etc/designs/qu/bundle.cc40731957a317d0319434fbf055a041.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/qu/bundle.113a8153c3b5b9008acb347ac0062731.css" type="text/css">
 
 
 
@@ -88,9 +88,12 @@
         }).done(function(res){
         	//console.log("res = " + res);
             var resJson = JSON.parse(res);
-            console.log(resJson);
+            //console.log(resJson);
+            localStorage.setItem('resJson', res);
+            //window.location.href = $(location).attr('host') + $('.redirect-path').val();
+            
             if( resJson.success && redirectPage)
-                window.location.href= resJson.redirectPage;
+            	window.location.href= $('.redirect-path').val();
             if( resJson.error ){
                 console.log(resJson['error-type']);
                 if( resJson['error-type'] === 'captcha-failed' ){
@@ -462,7 +465,7 @@
 
 </li>
 				
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/tuition-financial-aid.html" class="qu-cta cta " aria-label="CTA Button">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/admissions/undergraduate/tuition-financial-aid.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -737,7 +740,7 @@
 					<h4>Other Resources</h4>
 
 					<ul>
-						<li><a href="https://alumni.qu.edu" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+						<li><a href="http://alumni.qu.edu" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -1754,7 +1757,7 @@
 
 
     
-<script type="text/javascript" src="/etc/designs/qu/bundle.b3fc69f0398221a6ede5a500b0d9b820.js"></script>
+<script type="text/javascript" src="/etc/designs/qu/bundle.304653e1a4e23efa504f9a89f8b7f142.js"></script>
 
 
 
