@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the partywank.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175517id_/http%3A//partywank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partywank.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903205241id_/http%3A//pornado.co/privacy) for the most accurate reproduction.*
 
 # 
 
-**Partywank.com Privacy Policy**
+**Pornado.co Privacy Policy**
 
 **Created: July 10, 2015**
 
 **Last Updated: July 10, 2015**
 
-DH Digital Services, Inc. respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website [partywank.com](http://partywank.com/) (“ _ **Website**_ ”) and our practices for collecting, using, keeping, protecting, and disclosing that information. 
+DH Digital Services, Inc. respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website [pornado.co](http://pornado.co/) (“ _ **Website**_ ”) and our practices for collecting, using, keeping, protecting, and disclosing that information. 
 
 This policy applies to information we collect:
 
